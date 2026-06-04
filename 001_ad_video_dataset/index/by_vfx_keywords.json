@@ -1,0 +1,91 @@
+{
+  "wiggle_3d": [
+    "ADV-2026-001"
+  ],
+  "color_pop": [
+    "ADV-2026-001",
+    "ADV-2026-005",
+    "ADV-2026-006",
+    "ADV-2026-009",
+    "ADV-2026-010"
+  ],
+  "3d_render": [
+    "ADV-2026-001",
+    "ADV-2026-008",
+    "ADV-2026-010"
+  ],
+  "split_screen": [
+    "ADV-2026-001",
+    "ADV-2026-009"
+  ],
+  "ui_motion": [
+    "ADV-2026-001",
+    "ADV-2026-003",
+    "ADV-2026-004",
+    "ADV-2026-005",
+    "ADV-2026-008",
+    "ADV-2026-010"
+  ],
+  "dust_simulation": [
+    "ADV-2026-002"
+  ],
+  "rim_light": [
+    "ADV-2026-002",
+    "ADV-2026-003",
+    "ADV-2026-006",
+    "ADV-2026-007"
+  ],
+  "atmospheric_haze": [
+    "ADV-2026-002",
+    "ADV-2026-007"
+  ],
+  "light_reveal": [
+    "ADV-2026-002",
+    "ADV-2026-003"
+  ],
+  "lens_flare": [
+    "ADV-2026-003",
+    "ADV-2026-004"
+  ],
+  "data_viz": [
+    "ADV-2026-004",
+    "ADV-2026-008"
+  ],
+  "morph": [
+    "ADV-2026-004",
+    "ADV-2026-005",
+    "ADV-2026-008",
+    "ADV-2026-009"
+  ],
+  "speed_ramp": [
+    "ADV-2026-006"
+  ],
+  "glitch": [
+    "ADV-2026-006",
+    "ADV-2026-008"
+  ],
+  "title_graphics": [
+    "ADV-2026-007",
+    "ADV-2026-008",
+    "ADV-2026-009",
+    "ADV-2026-010"
+  ],
+  "ai_generated": [
+    "ADV-2026-008"
+  ],
+  "_meta": {
+    "axis": "vfx_keywords",
+    "language": "en",
+    "updated": "2026-06-04",
+    "entry_count": 10
+  },
+  "film_frame_ui": [
+    "ADV-2026-009"
+  ],
+  "film_grain": [
+    "ADV-2026-009"
+  ],
+  "halation": [
+    "ADV-2026-009"
+  ]
+}

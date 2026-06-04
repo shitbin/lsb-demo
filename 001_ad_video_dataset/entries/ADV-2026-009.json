@@ -1,0 +1,2132 @@
+{
+  "id": "ADV-2026-009",
+  "schema_version": "0.4++ (+recreation_prompts; high-res per-frame inspection 2026-06-03)",
+  "source_ref": {
+    "platform": "사용자 제공 mp4 (YouTube 다운로드)",
+    "title_or_campaign": "Tuneface 'NOTHING'S FOREVER' 브랜드 필름 (Alma Tuneface)",
+    "brand": "Alma (알마) — 코퍼레이트 / Tuneface (튠페이스) — 제품 브랜드",
+    "product": "미용 의료기기 'Tuneface'(튠페이스) — 피부 탄력·리프팅 시술 디바이스(광고심의상 '의료기기' 고지)",
+    "model": "무명 여성 모델 1인 (셀럽 식별 불가, generic 처리)",
+    "year": 2026,
+    "production_note": "엔드카드 코퍼레이트 로고 'Alma' + 슬로건 'For You. For Life.'. 캠페인/제품 워드마크 'Tuneface'(Tune 산세리프 + face 손글씨 이탤릭, 브랜드 컬러 보라 ~#7a4fb0). 캠페인 키워드 'NOTHING'S FOREVER' + 카피쌍 'stay the same'. 엔딩 워드플레이 'To 美 Continued → To Me Continued'(한자 美↔영어 Me 펀, 'To Be Continued' 변주). 하단 약관 원문: '이 제품은 \"의료기기\"이며, \"사용상의 주의사항\"과 \"사용방법\"을 잘 읽고 사용하십시오. 광고심의필 : 심의번호 32023-010-49-0130 (유효기간 27.01.02)'. 매거진 마스트헤드 'ALMA 01 2026'. 전역 비주얼: 빈티지 아날로그 필름 카메라 뷰파인더/필름스트립 그래픽 + 필름그레인 + 시네마스코프 레터박스 + 라벤더×머스타드 보색 키네틱 타이포. 연도 2026 inferred(심의 유효기간 27.01.02 근거).",
+    "url": "(미기입 — 사용자 다운로드 파일, YouTube YcV3d-YIJT0)"
+  },
+  "category_primary": "healthcare_pharma.aesthetic_device",
+  "category_tags": [
+    "미용 의료기기",
+    "뷰티 디바이스",
+    "안티에이징/리프팅",
+    "패션필름",
+    "에디토리얼",
+    "아날로그 필름 감성",
+    "키네틱 타이포",
+    "코퍼레이트 브랜드필름"
+  ],
+  "mood": [
+    "시네마틱",
+    "차분/정제",
+    "감성/서정",
+    "프리미엄",
+    "노스탤지어(아날로그 필름)",
+    "에디토리얼",
+    "자기돌봄"
+  ],
+  "target_demo": "30~40대 여성(안티에이징·피부탄력 관심), 프리미엄 뷰티/시술 소비층, 자기관리·웰니스 지향",
+  "total_duration": 20.02,
+  "shot_count": 12,
+  "shot_count_corrected": 14,
+  "fps": 23.976,
+  "aspect_ratio": "16:9",
+  "hook_position": 0.0,
+  "cta_position": 19.02,
+  "narrative_arc": "미드센추리 룸의 여성 + 'Tuneface' 로고로 무드 오프닝(0~2s) → 흰 브랜드 카드(2~2.7s) → 손·목·거울·눈·꽃 등 감각적 디테일 인서트로 '섬세함·찰나의 아름다움' 빌드(2.7~7.3s) → 'TUNEFACE'/'stay the same' 키네틱 타이포 폭발(7.3~9.3s) → 룸 와이드 + 필름스트립 콜라주로 '시간·기록' 모티프(9.3~12s) → 눈 클로즈업 + 매거진커버 'TUNE FACE' 에디토리얼 키비주얼(12~16.9s) → 'Tuneface' 브랜드 리빌(수미상관 룸, 16.9~19s) → 'To 美 Continued→To Me Continued' 워드플레이 + Alma 로고 사인오프(19~20s)",
+  "narrative_structure": "linear_continuous",
+  "pacing_curve": "slow_build",
+  "music_tempo_curve": "steady",
+  "wow_cut_index": [
+    7,
+    9,
+    11,
+    14
+  ],
+  "creative_device": "아날로그 필름 카메라/필름스트립 그래픽을 전역 모티프로 깔고, 미드센추리·에디토리얼 패션필름 톤에서 라벤더×머스타드 보색 키네틱 타이포('TUNEFACE'·'stay the same')와 매거진 커버 레이아웃으로 제품을 '동경의 오브제'화. 카피 축은 'NOTHING'S FOREVER(영원한 건 없다)'↔'stay the same(본연을 유지)'의 긴장. 엔딩에서 한자/영어 이중 펀 'To 美 Continued → To Me Continued'(아름다움은 계속된다 = 나는 계속된다)로 브랜드 메시지를 회수. 의료기기 효능('섬세하게 탄탄하게')은 직접 카피+손끝 시연으로 전달.",
+  "production_signature": {
+    "capture_style": "live_action",
+    "camera_signature": [
+      "locked_off",
+      "handheld_drift",
+      "slow_push_in"
+    ],
+    "signature_note": "실사 촬영(자연광 인테리어 + 인물 클로즈업). 카메라는 대체로 고정~미세 핸드헬드 드리프트/슬로우 푸시(정적 차분 톤). wiggle_3d 없음(엔드룸 f420-450 프레임차 ~9.5는 미세 드리프트 수준). 핵심 시그니처는 카메라 무빙이 아니라 '아날로그 필름 카메라 뷰파인더/필름스트립 그래픽 오버레이' + 필름그레인 + 시네마스코프 레터박스. 키네틱 타이포·매거진 레이아웃·필름스트립 콜라주는 포스트 그래픽.",
+    "color_grade": "warm",
+    "color_grade_note": "웜 데세추레이트(올리브·월넛·세피아) 필름 룩이 본편 전역, 브랜드 보라(~#7a4fb0)가 타이포 액센트. 엔드카드만 클린 하이키 화이트로 의도적 대비.",
+    "texture_fx": "film_grain"
+  },
+  "global_layout": {
+    "grid_system": "dynamic_symmetry",
+    "subject_placement_dominant": "varies",
+    "subject_typo_relation": "alternating",
+    "negative_space_use": "generous",
+    "layout_note": "패션 에디토리얼 감각. 타이포는 인물 반대편 여백(섬세하게/탄탄하게·stay the same)·풀스크린(TUNEFACE)·매거진 표지형(TUNE/FACE 인물 프레이밍)·하단 로고로 다양하게 배치. 하단엔 의료기기 약관 라인 상시. 빈티지 필름 뷰파인더 그래픽이 다수 컷의 외곽 프레임."
+  },
+  "recurring_motifs": [
+    "아날로그 필름 카메라 뷰파인더/필름스트립 그래픽",
+    "보라 'Tune face' 손글씨 로고타입",
+    "라벤더×머스타드 보색 대형 타이포",
+    "미드센추리 모던 인테리어(원형 패널·스파인 오브제·시어 커튼)",
+    "손끝 스킨케어/얼굴라인 제스처",
+    "눈·거울(시선·자기응시)",
+    "꽃(피어남·찰나)",
+    "시네마스코프 레터박스",
+    "필름그레인 웜 톤"
+  ],
+  "copywriting": {
+    "tagline_text": "NOTHING'S FOREVER",
+    "tagline_structure": "캠페인 슬로건(영문) — '영원한 건 없다'(시간의 유한성 → 미리 준비) + 대구 카피 'stay the same'",
+    "tagline_length_syllables": 5,
+    "tagline_position_sec": 4.5,
+    "cta_text": "To 美 Continued / To Me Continued — Alma · For You. For Life.",
+    "cta_text_structure": "워드플레이 엔드라인(한자 美↔영어 Me) + 코퍼레이트 로고 + 슬로건",
+    "cta_position_sec": 19.02,
+    "copy_tone": [
+      "감성/서정",
+      "차분",
+      "프리미엄",
+      "자신감",
+      "위트(엔딩 워드플레이)"
+    ],
+    "copy_strategy": "음성 나레이션이 정서 스파인('아무리 빛나는 순간도 멈추게 할 순 없으니까 / 미리 준비해야죠 / 섬세하게 탄탄하게'), 화면은 영문 캠페인 카피('NOTHING'S FOREVER'·'stay the same')와 효능 카피('섬세하게 탄탄하게')·매거진형 'TUNE FACE'를 키네틱 타이포로 얹음. 엔딩 한자/영어 이중 펀으로 브랜드 메시지 회수. 의료기기라 효능은 약관 동반.",
+    "copy_lines_count": 7,
+    "lines": [
+      {
+        "position_sec": 0.0,
+        "text": "아무리 빛나는 순간도 멈추게 할 순 없으니까",
+        "function": "오프닝 인서트(시간의 유한성)",
+        "tone": "서정",
+        "source": "voice"
+      },
+      {
+        "position_sec": 4.5,
+        "text": "NOTHING'S FOREVER",
+        "function": "캠페인 슬로건",
+        "tone": "선언적/감성",
+        "source": "caption"
+      },
+      {
+        "position_sec": 7.3,
+        "text": "stay the same",
+        "function": "대구 카피(본연 유지)",
+        "tone": "감성",
+        "source": "caption"
+      },
+      {
+        "position_sec": 7.84,
+        "text": "미리 준비해야죠",
+        "function": "솔루션 전환(준비=시술)",
+        "tone": "차분/설득",
+        "source": "voice"
+      },
+      {
+        "position_sec": 13.74,
+        "text": "섬세하게 탄탄하게",
+        "function": "제품 효능 카피(섬세 케어+탄력)",
+        "tone": "효능 강조",
+        "source": "both"
+      },
+      {
+        "position_sec": 16.85,
+        "text": "Tune face",
+        "function": "제품 브랜드 워드마크 리빌",
+        "tone": "브랜드",
+        "source": "caption"
+      },
+      {
+        "position_sec": 19.02,
+        "text": "To 美 Continued → To Me Continued",
+        "function": "엔딩 워드플레이 사인오프",
+        "tone": "위트/여운",
+        "source": "caption"
+      }
+    ],
+    "captions": [
+      {
+        "position_sec": 4.5,
+        "text": "TUNEFACE · NOTHING'S FOREVER · ALMA",
+        "function": "하단 캠페인 라벨 라인"
+      },
+      {
+        "position_sec": 11.97,
+        "text": "TUNE FACE / ALMA 01 2026",
+        "function": "매거진 마스트헤드/호수 표기"
+      },
+      {
+        "position_sec": 13.74,
+        "text": "이 제품은 \"의료기기\"이며, \"사용상의 주의사항\"과 \"사용방법\"을 잘 읽고 사용하십시오. 광고심의필 : 심의번호 32023-010-49-0130 (유효기간 27.01.02)",
+        "function": "의료기기 광고 법정 고지(약관)"
+      },
+      {
+        "position_sec": 19.02,
+        "text": "Alma — For You. For Life.",
+        "function": "코퍼레이트 로고+슬로건"
+      }
+    ],
+    "narration_handling": "excerpt_only"
+  },
+  "typography": {
+    "primary_font_class": "script_handwritten (Tune face 로고타입 — face 부분 브러시 스크립트)",
+    "secondary_font_class": "serif_display (매거진 TUNE/FACE) + sans_bold (TUNEFACE 대문자, 섬세하게/탄탄하게)",
+    "animation_style": [
+      "fade_in",
+      "slide",
+      "scale_in",
+      "morph",
+      "static"
+    ],
+    "subtitle_position_dominant": "floating",
+    "tagline_position": "lower_third / fullscreen / magazine_frame",
+    "color_strategy": "브랜드 보라(~#7a4fb0)가 타이포 주색, 키워드 일부 검정 대비, 머스타드(#cbb24a) 보색 배경 1컷. 엔드카드는 블랙 온 화이트.",
+    "appearance_count": 9,
+    "key_typography_moments_sec": [
+      0.0,
+      2.04,
+      7.26,
+      11.97,
+      13.74,
+      16.85,
+      19.02
+    ],
+    "typo_motion_dominant": "kinetic_typo (slide/scale/stack) + word_morph_swap(엔딩 美↔Me)"
+  },
+  "vfx": {
+    "primary_effects": [
+      "film_frame_ui",
+      "film_grain",
+      "kinetic_typography",
+      "split_screen",
+      "color_pop",
+      "halation",
+      "magazine_layout"
+    ],
+    "effect_intensity": "moderate",
+    "transition_style_dominant": "cut + dissolve (+ whiteout to endcard)",
+    "vfx_event_count": 14,
+    "vfx_timing_array_sec": [
+      0.0,
+      2.04,
+      2.65,
+      5.76,
+      6.34,
+      7.26,
+      9.8,
+      11.97,
+      13.1,
+      16.85,
+      19.02
+    ],
+    "wow_vfx_index": [
+      7,
+      9,
+      11,
+      14
+    ]
+  },
+  "audio": {
+    "has_audio": true,
+    "language": "ko",
+    "speech_coverage": 0.55,
+    "bgm_likely": true,
+    "narration_lines": [
+      {
+        "start": 0.0,
+        "end": 7.84,
+        "text": "아무리 빛나는 순간도 멈추게 할 순 없으니까",
+        "text_raw": "아무리 빛나는 순간 동 멈추게 할 순 없으니까",
+        "kind": "voiceover",
+        "source": "voice"
+      },
+      {
+        "start": 7.84,
+        "end": 13.74,
+        "text": "미리 준비해야죠",
+        "text_raw": "미리 준비해야죠",
+        "kind": "voiceover",
+        "source": "voice"
+      },
+      {
+        "start": 13.74,
+        "end": 17.0,
+        "text": "섬세하게 탄탄하게",
+        "text_raw": "섬세하게 탄탄하게",
+        "kind": "voiceover",
+        "source": "both"
+      },
+      {
+        "start": 17.0,
+        "end": 19.0,
+        "text": "Tuneface (튠페이스)",
+        "text_raw": "튜우테이스",
+        "kind": "brand_vo",
+        "source": "both"
+      }
+    ],
+    "voice_vs_caption": "나레이션(서정 카피)과 화면 자막이 부분 동기. '섬세하게 탄탄하게'·'Tuneface'는 음성+자막 일치(both). 영문 'NOTHING'S FOREVER'/'stay the same'은 자막 전용. 마지막 음성 '튜우테이스'는 'Tuneface'의 Whisper 오인식 보정.",
+    "narration_handling": "excerpt_only",
+    "transcribed_by": "faster_whisper",
+    "audio_note": "faster-whisper base/ko/beam1. 원문 오인식 보정: '순간 동'→'순간도', '튜우테이스'→'Tuneface(튠페이스)'(브랜드명, 화면 워드마크 대조). BGM 잔잔(감성 인스트루멘탈) 추정. speech_coverage≈0.55(20초 중 ~11초 발화)."
+  },
+  "shots": [
+    {
+      "index": 1,
+      "duration": 2.09,
+      "framing": "WS",
+      "function": "opening_hook_brand_titlecard_over_scene",
+      "color_mood": "warm desaturated, soft afternoon light, muted olive-and-walnut interior",
+      "subject_action": "한 여성이 미드센추리 라운지체어에 비스듬히 기대 앉아 창가 자연광 쪽으로 휴식하듯 머리를 기댄다",
+      "copy_overlay": "Tune face",
+      "layout_grid": "rule_of_thirds",
+      "subject_position": "right_third",
+      "subject_typo_layout": "typo_center_overlay_subject_right",
+      "typo_motion": "보라색 손글씨 스크립트 'Tune face'가 화면 중앙에 안정적으로 떠 있다(거의 정적, 미세한 등장 잔여). 첫 프레임부터 노출.",
+      "subject_motion": "near_static",
+      "prop_motion": "none",
+      "camera_motion": "slow_drift_or_push",
+      "camera_motion_intensity": "subtle",
+      "camera_effect_local": "none",
+      "motion_blur": "none",
+      "intra_cut_rhythm": "steady",
+      "transition_in": "from_black_or_fade",
+      "transition_out": "cut",
+      "vfx_in_shot": [
+        "script_logotype_overlay",
+        "fine_print_lower"
+      ],
+      "vfx_intensity_local": "subtle",
+      "fact_check_flag": false,
+      "notes": "오프닝 키비주얼. 좌상단 'Alma' 워치마크(브랜드 로고, generic 처리 대상). 하단 미세 약관 라인. 미드센추리 인테리어(벽면 라운드 패널, 검정 스파인형 오브제, 흰 커튼). 'Tuneface'를 'Tune'(정음체)+'face'(손글씨 이탤릭)로 분절한 로고타입.",
+      "color_palette": [
+        "#6b6a52",
+        "#8c7a5e",
+        "#b9a98c",
+        "#7a4fb0"
+      ],
+      "camera_angle": "eye_level",
+      "camera_facing": "profile",
+      "shot_scope": "environment",
+      "gaze": "off_camera",
+      "eye_contact_effect": "observational_distance",
+      "props": [
+        "lounge chair",
+        "sheer curtain",
+        "wall round panels",
+        "black spiral sculpture object"
+      ],
+      "prop_semantics": "미드센추리 모던 인테리어로 '정제된 라이프스타일·취향'을 환기 — 미용 의료기기 브랜드의 프리미엄·웰니스 톤",
+      "color_intent": "웜 뉴트럴 환경에 보라(브랜드 컬러) 타이포를 보색처럼 얹어 로고 가독·브랜드각인",
+      "pose_description": "기대어 쉬는 이완 포즈 — 여유·자기돌봄의 무드",
+      "visible_elements": {
+        "foreground": [
+          "보라색 'Tune face' 스크립트 타이포"
+        ],
+        "midground": [
+          "라운지체어에 앉은 여성",
+          "흰 슬릭한 의상"
+        ],
+        "background": [
+          "월넛 우드월",
+          "원형 패널 3개",
+          "검정 스파인 오브제",
+          "흰 시어 커튼 창"
+        ],
+        "lighting_env": [
+          "창문 자연광(우측)",
+          "벽면 반사광"
+        ],
+        "atmosphere": [
+          "부드러운 오후 광선",
+          "잔잔한 정적"
+        ]
+      },
+      "texture": {
+        "primary_subject": "fabric_cotton",
+        "secondary_objects": [
+          "wood_polished",
+          "fabric_sheer"
+        ],
+        "background_surface": "wood_polished",
+        "atmospheric": [
+          "soft_light_haze"
+        ]
+      },
+      "lighting": {
+        "key_direction": "side_right",
+        "key_hardness": "soft",
+        "key_color_temp": "warm_3500K",
+        "fill_strength": "moderate",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": false,
+        "practical_lights": [
+          "창문 자연광"
+        ],
+        "shadow_presence": "soft",
+        "overall_contrast": "mid_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#6b6a52",
+          "#8c7a5e",
+          "#b9a98c",
+          "#7a4fb0"
+        ],
+        "palette_role": {
+          "#6b6a52": "background_dominant_olive",
+          "#8c7a5e": "wood_midtone",
+          "#b9a98c": "warm_light_accent",
+          "#7a4fb0": "brand_purple_typo_accent"
+        },
+        "color_relationship": "complementary",
+        "temperature_balance": "warm_dominant",
+        "saturation_strategy": "desaturated_with_pop",
+        "contrast_type": "hue_complementary",
+        "accent_color": "#7a4fb0",
+        "accent_ratio": "15_percent",
+        "brand_color_match": [
+          "brand purple ~#7a4fb0 (Tuneface signature violet)"
+        ]
+      },
+      "style_prompt": "Cinematic mid-century modern interior, a Korean woman in white reclining in a lounge chair by a sheer-curtained window in warm afternoon light, walnut wall with round panels, muted olive carpet; soft side key, desaturated warm grade; wide shot, eye level; brand violet script wordmark centered; calm premium wellness mood, film-like clean digital.",
+      "recreation_prompts": {
+        "t2i_start_frame": "A calm, cinematic wide interior shot of a serene mid-century-modern lounge room bathed in soft warm afternoon light; a Korean woman in her late 20s reclines diagonally in a black leather-and-wood lounge chair on the right third of the frame, dressed in a relaxed off-white knit-and-trouser set, head tilted gently back toward a tall sheer-curtained window that glows with diffused daylight; the left and center of the room show a polished walnut wood feature wall inset with three vertical oval recessed panels and a slim black spiral sculptural object, an olive-green low-pile carpet across the floor, and faint long shadows; large diffused key light enters from the right window (warm ~3500K), gentle bounce fill, soft contact shadows, mid-key contrast; composed on rule of thirds with the subject right and open negative space left; an elegant brand violet (#7a4fb0) hand-written script wordmark reading 'Tune face' (with 'Tune' in a clean light sans and 'face' in a flowing italic script) sits centered as an overlay; a tiny line of fine print runs along the very bottom; textures read as soft cotton knit, polished wood, sheer fabric; muted desaturated warm palette of olive, walnut and cream with the violet wordmark as the only saturated accent; quiet, refined, self-care atmosphere; clean digital 4K commercial film look, mid-century editorial aesthetic, Korean premium beauty-device commercial.",
+        "t2i_negative": "harsh shadows, oversaturated, fisheye, deformed hands, extra fingers, real brand logos/marks, watermark, low resolution, cluttered, busy background",
+        "i2v_motion": "Hold the composition with a very slow, almost imperceptible camera drift/push toward the seated woman; she stays near-static with breathing-level motion only, head resting; light and curtain shimmer faintly; the violet 'Tune face' script remains steadily overlaid (it has already settled in); ~2.1s, steady calm rhythm, no cut, ending on a clean cut to the white brand card.",
+        "i2v_params": {
+          "clip_duration_sec": 2.09,
+          "camera_move": "slow_push_in",
+          "subject_motion_level": "still",
+          "signature_effect": "none",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; identity/brand-mark generic, on-screen copy preserved verbatim (per copywriting); celeb face-likeness not reproduced"
+      }
+    },
+    {
+      "index": 2,
+      "duration": 0.58,
+      "framing": "grid",
+      "function": "brand_logo_card_flash",
+      "color_mood": "high_key white with soft violet light-leak corner",
+      "subject_action": "없음 — 풀스크린 흰 배경에 'Tune face' 로고타입만",
+      "copy_overlay": "Tune face",
+      "layout_grid": "center",
+      "subject_position": "center",
+      "subject_typo_layout": "typo_only_fullscreen",
+      "typo_motion": "흰 화면 중앙에 'Tune face' 로고가 크게 노출, 우상단에 보라 라이트릭/하이라이트가 스며든다. 짧은 플래시 카드.",
+      "subject_motion": "none",
+      "prop_motion": "none",
+      "camera_motion": "locked_off",
+      "camera_motion_intensity": "none",
+      "camera_effect_local": "none",
+      "motion_blur": "none",
+      "intra_cut_rhythm": "static",
+      "transition_in": "whiteout_or_cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [
+        "light_leak",
+        "logo_lockup"
+      ],
+      "vfx_intensity_local": "subtle",
+      "fact_check_flag": false,
+      "notes": "브랜드 로고 카드. 보라 손글씨 로고타입을 흰 배경에 단독 노출(브랜드 각인 비트). 우상단 보라 라이트릭.",
+      "color_palette": [
+        "#ffffff",
+        "#f3eef7",
+        "#7a4fb0",
+        "#caa9e0"
+      ],
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "environment",
+      "gaze": "none",
+      "eye_contact_effect": "none",
+      "props": [],
+      "prop_semantics": "없음(타이포 단독)",
+      "color_intent": "하이키 화이트 + 보라 로고로 클린·프리미엄·브랜드 컬러 각인",
+      "pose_description": "해당 없음",
+      "visible_elements": {
+        "foreground": [
+          "'Tune face' 보라 로고타입"
+        ],
+        "midground": [],
+        "background": [
+          "순백 배경"
+        ],
+        "lighting_env": [
+          "보라 라이트릭(우상단)"
+        ],
+        "atmosphere": [
+          "하이키 글로우"
+        ]
+      },
+      "texture": {
+        "primary_subject": "clean_digital",
+        "secondary_objects": [],
+        "background_surface": "matte_white",
+        "atmospheric": [
+          "light_leak_glow"
+        ]
+      },
+      "lighting": {
+        "key_direction": "flat",
+        "key_hardness": "diffused",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "strong",
+        "key_to_fill_ratio": "1:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "none",
+        "overall_contrast": "hi_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#ffffff",
+          "#f3eef7",
+          "#7a4fb0",
+          "#caa9e0"
+        ],
+        "palette_role": {
+          "#ffffff": "background_dominant",
+          "#f3eef7": "soft_violet_tint",
+          "#7a4fb0": "logo_violet",
+          "#caa9e0": "light_leak_accent"
+        },
+        "color_relationship": "monochrome",
+        "temperature_balance": "balanced",
+        "saturation_strategy": "desaturated_with_pop",
+        "contrast_type": "luminance_low",
+        "accent_color": "#7a4fb0",
+        "accent_ratio": "15_percent",
+        "brand_color_match": [
+          "brand violet #7a4fb0"
+        ]
+      },
+      "style_prompt": "Minimal high-key white brand card with a violet hand-written script wordmark 'Tune face' centered, soft violet light-leak in the top-right corner, clean premium cosmetic-brand aesthetic.",
+      "recreation_prompts": {
+        "t2i_start_frame": "A minimal high-key brand title card on a pure soft-white seamless background; centered is an elegant brand-violet (#7a4fb0) hand-written wordmark reading 'Tune face', with 'Tune' in a clean light sans-serif and 'face' in a flowing italic brush script; the upper-right corner has a soft diffused violet-and-pink light-leak bleeding in diagonally; flat even diffused lighting, no shadows, hi-key bright; perfectly clean and premium; the whole frame reads as a quiet luxury cosmetic / medical-beauty brand stinger; clean digital, crisp, airy, Korean premium beauty branding aesthetic, 4K.",
+        "t2i_negative": "texture noise, grain, real logos, watermark, drop shadow, gradient banding, clutter, photo of paper",
+        "i2v_motion": "Near-static brand card; the violet light-leak in the top-right drifts and breathes softly while the 'Tune face' wordmark holds perfectly still; ~0.6s quick beat, static rhythm, hard cut out to the hand/neck close-up.",
+        "i2v_params": {
+          "clip_duration_sec": 0.58,
+          "camera_move": "locked_off",
+          "subject_motion_level": "still",
+          "signature_effect": "none",
+          "pacing": "static",
+          "loopable": true
+        },
+        "fidelity_note": "craft-faithful; identity/brand-mark generic, on-screen copy preserved verbatim (per copywriting); celeb face-likeness not reproduced"
+      }
+    },
+    {
+      "index": 3,
+      "duration": 2.55,
+      "framing": "ECU",
+      "function": "sensory_detail_hand_neck",
+      "color_mood": "warm low-key, soft skin tones, cinemascope letterbox",
+      "subject_action": "여성이 한 손을 목덜미~머리카락 쪽으로 부드럽게 쓸어올린다; 손가락에 가는 반지 두 개, 손목에 흰 천(슬리브/타월)",
+      "copy_overlay": "(없음 — 하단 미세 약관만)",
+      "layout_grid": "rule_of_thirds",
+      "subject_position": "center_right",
+      "subject_typo_layout": "no_typo_clean",
+      "typo_motion": "없음",
+      "subject_motion": "micro_gesture",
+      "prop_motion": "none",
+      "camera_motion": "handheld_drift",
+      "camera_motion_intensity": "subtle",
+      "camera_effect_local": "none",
+      "motion_blur": "light",
+      "intra_cut_rhythm": "steady",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [
+        "cinemascope_letterbox",
+        "fine_print_lower"
+      ],
+      "vfx_intensity_local": "subtle",
+      "fact_check_flag": false,
+      "notes": "촉각·관능 디테일 컷. 좌우 검정 레터박스(시네마스코프 마스킹) + 모서리 라운드. 피부·반지·흰 천 질감 강조로 '섬세함' 정서 빌드.",
+      "color_palette": [
+        "#3a2c20",
+        "#caa183",
+        "#e7d3c0",
+        "#9c7256"
+      ],
+      "camera_angle": "eye_level",
+      "camera_facing": "three_quarter",
+      "shot_scope": "face_only",
+      "gaze": "none",
+      "eye_contact_effect": "intimate_fragment",
+      "props": [
+        "thin rings (x2)",
+        "white wrap/sleeve on wrist"
+      ],
+      "prop_semantics": "가는 반지·흰 천으로 정제된 여성성·케어 의식을 환기 (제품 사용 전 단계의 손길)",
+      "color_intent": "웜 로우키 피부톤으로 친밀·관능, 클린한 흰 천이 포인트",
+      "pose_description": "목덜미를 쓸어올리는 손길 — 자기돌봄의 섬세한 제스처",
+      "visible_elements": {
+        "foreground": [
+          "손과 손가락",
+          "가는 반지 2개"
+        ],
+        "midground": [
+          "목덜미와 머리카락",
+          "흰 손목 천"
+        ],
+        "background": [
+          "어두운 웜 톤 배경(아웃포커스)"
+        ],
+        "lighting_env": [
+          "부드러운 측면 키"
+        ],
+        "atmosphere": [
+          "친밀한 저조도"
+        ]
+      },
+      "texture": {
+        "primary_subject": "skin_natural",
+        "secondary_objects": [
+          "metallic",
+          "fabric_cotton"
+        ],
+        "background_surface": "soft_dark_blur",
+        "atmospheric": [
+          "warm_glow"
+        ]
+      },
+      "lighting": {
+        "key_direction": "side_left",
+        "key_hardness": "soft",
+        "key_color_temp": "warm_3200K",
+        "fill_strength": "minimal",
+        "key_to_fill_ratio": "4:1",
+        "rim_light": true,
+        "practical_lights": [],
+        "shadow_presence": "soft",
+        "overall_contrast": "low_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#3a2c20",
+          "#caa183",
+          "#e7d3c0",
+          "#9c7256"
+        ],
+        "palette_role": {
+          "#3a2c20": "background_dark_anchor",
+          "#caa183": "skin_midtone",
+          "#e7d3c0": "skin_highlight",
+          "#9c7256": "warm_shadow"
+        },
+        "color_relationship": "analogous",
+        "temperature_balance": "warm_dominant",
+        "saturation_strategy": "muted",
+        "contrast_type": "luminance_low",
+        "accent_color": "#e7d3c0",
+        "accent_ratio": "30_percent",
+        "brand_color_match": []
+      },
+      "style_prompt": "Extreme close-up, warm low-key, a hand with two thin rings sweeping up along the neck and hair, white fabric wrap on the wrist, cinemascope letterbox, intimate sensual skin-care mood, film grain.",
+      "recreation_prompts": {
+        "t2i_start_frame": "An intimate extreme close-up framed in a cinemascope letterbox (thin black bars top and bottom, gently rounded inner corners); a Korean woman's elegant hand with two slim plain rings glides up along the side of her neck into dark hair, the gesture soft and unhurried; a loose white cotton wrap covers her wrist; warm low-key lighting with a soft side key from the left and a faint rim separating skin from the dark warm-brown out-of-focus background; minimal fill, gentle falloff, low contrast; skin reads natural with soft highlights, the rings give tiny metallic specular points, the white fabric is matte cotton; muted analogous warm palette of chocolate browns and peachy skin tones; a tiny line of legal fine print sits along the lower frame; the overall feel is sensual, tactile and refined, a self-care ritual moment; cinematic clean digital with a light film-grain finish, Korean premium beauty-device commercial aesthetic, shallow depth of field.",
+        "t2i_negative": "harsh light, oversaturated, plastic skin, extra fingers, deformed hand, jewelry overload, real logos, watermark, busy background, text over face",
+        "i2v_motion": "The hand continues its slow upward sweep along the neck and into the hair with delicate micro-motion; camera handheld-drifts almost imperceptibly; light rim shimmers on skin edges; shallow focus breathes slightly; ~2.5s steady intimate rhythm, light motion blur, no cut, ending on a soft cut to a mirror profile shot.",
+        "i2v_params": {
+          "clip_duration_sec": 2.55,
+          "camera_move": "handheld_drift",
+          "subject_motion_level": "micro",
+          "signature_effect": "none",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; identity/brand-mark generic, on-screen copy preserved verbatim (per copywriting); celeb face-likeness not reproduced"
+      }
+    },
+    {
+      "index": 4,
+      "duration": 0.54,
+      "framing": "CU",
+      "function": "mirror_profile_layer",
+      "color_mood": "cool neutral, soft white, mirrored reflection",
+      "subject_action": "여성의 옆얼굴이 유리/거울 면에 비쳐 이중으로 보인다; 어깨가 드러난 흰 의상",
+      "copy_overlay": "(없음)",
+      "layout_grid": "split_screen",
+      "subject_position": "center",
+      "subject_typo_layout": "no_typo_clean",
+      "typo_motion": "없음",
+      "subject_motion": "near_static",
+      "prop_motion": "none",
+      "camera_motion": "slow_drift",
+      "camera_motion_intensity": "subtle",
+      "camera_effect_local": "none",
+      "motion_blur": "none",
+      "intra_cut_rhythm": "steady",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [
+        "mirror_reflection_layer"
+      ],
+      "vfx_intensity_local": "moderate",
+      "fact_check_flag": false,
+      "notes": "거울/유리 패널에 옆얼굴이 반사되어 '두 개의 나'처럼 보이는 레이어 구도. 'stay the same / 본연의 나' 정서와 연결. 16:9 풀프레임(레터박스 없음).",
+      "color_palette": [
+        "#cfc8c2",
+        "#9a8f86",
+        "#e9e4df",
+        "#5a514a"
+      ],
+      "camera_angle": "eye_level",
+      "camera_facing": "profile",
+      "shot_scope": "bust",
+      "gaze": "off_camera",
+      "eye_contact_effect": "self_reflection",
+      "props": [
+        "mirror/glass panel"
+      ],
+      "prop_semantics": "거울 = 자기 응시·자기 인식의 모티프 (뷰티·정체성 테마)",
+      "color_intent": "쿨 뉴트럴 톤으로 정제·내면·차분",
+      "pose_description": "거울 앞 옆모습 — 자기 응시의 고요한 순간",
+      "visible_elements": {
+        "foreground": [
+          "여성 옆얼굴"
+        ],
+        "midground": [
+          "거울에 반사된 옆모습",
+          "드러난 어깨와 흰 의상"
+        ],
+        "background": [
+          "밝은 뉴트럴 벽/커튼(아웃포커스)"
+        ],
+        "lighting_env": [
+          "부드러운 정면+측면 확산광"
+        ],
+        "atmosphere": [
+          "차분한 하이키"
+        ]
+      },
+      "texture": {
+        "primary_subject": "skin_natural",
+        "secondary_objects": [
+          "glass_clear",
+          "fabric_cotton"
+        ],
+        "background_surface": "soft_blur",
+        "atmospheric": [
+          "soft_diffused"
+        ]
+      },
+      "lighting": {
+        "key_direction": "front",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_5200K",
+        "fill_strength": "strong",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "minimal",
+        "overall_contrast": "mid_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#cfc8c2",
+          "#9a8f86",
+          "#e9e4df",
+          "#5a514a"
+        ],
+        "palette_role": {
+          "#cfc8c2": "background_light",
+          "#9a8f86": "skin_shadow_midtone",
+          "#e9e4df": "highlight",
+          "#5a514a": "hair_dark_anchor"
+        },
+        "color_relationship": "monochrome",
+        "temperature_balance": "balanced",
+        "saturation_strategy": "desaturated",
+        "contrast_type": "luminance_low",
+        "accent_color": "#e9e4df",
+        "accent_ratio": "30_percent",
+        "brand_color_match": []
+      },
+      "style_prompt": "Close-up profile of a Korean woman reflected in a glass/mirror panel creating a doubled image, bare shoulder in white, cool neutral soft light, contemplative self-reflection mood.",
+      "recreation_prompts": {
+        "t2i_start_frame": "A soft close-up of a Korean woman in her late 20s seen in profile and simultaneously reflected in a vertical glass/mirror panel beside her, producing a quiet doubled image of her face; she has a sleek dark bob, bare shoulder, and a white off-shoulder top; cool neutral lighting, soft frontal key with strong gentle fill, minimal shadows, mid-key contrast; the bright neutral background (pale wall and sheer curtain) falls out of focus; skin natural and smooth, the glass adds a faint clear reflective layer; desaturated monochrome palette of warm-greys and cream; full 16:9 frame, no letterbox; the mood is contemplative and serene, a moment of self-recognition; clean digital cinematic look, Korean premium beauty aesthetic, shallow depth of field.",
+        "t2i_negative": "double face artifacts wrong, distorted reflection, extra eyes, oversaturated, harsh shadow, real logos, watermark, busy background",
+        "i2v_motion": "The woman holds her profile pose with breathing-level micro-motion; camera drifts slowly; her mirrored reflection moves in subtle parallax with her; light stays soft and steady; ~0.55s, steady rhythm, no cut, ending on a soft cut to an eye close-up with film-strip framing.",
+        "i2v_params": {
+          "clip_duration_sec": 0.54,
+          "camera_move": "slow_drift",
+          "subject_motion_level": "micro",
+          "signature_effect": "none",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; identity/brand-mark generic, on-screen copy preserved verbatim (per copywriting); celeb face-likeness not reproduced"
+      }
+    },
+    {
+      "index": 5,
+      "duration": 0.58,
+      "framing": "ECU",
+      "function": "eye_detail_filmstrip_frame",
+      "color_mood": "warm vintage, film-grain, sepia-leaning",
+      "subject_action": "여성의 두 눈 클로즈업; 눈을 천천히 깜빡/응시. 화면은 빈티지 필름 프레임(스프로킷·ISO200 마커) 안에 담김",
+      "copy_overlay": "(없음 — 필름 프레임 UI 그래픽: 'ISO 200' 등)",
+      "layout_grid": "center",
+      "subject_position": "center",
+      "subject_typo_layout": "ui_graphic_frame",
+      "typo_motion": "필름 카메라 뷰파인더/필름스트립 그래픽 UI가 화면을 감싼다(노출수치·스프로킷). 미세하게 흔들리는 빈티지 프레임.",
+      "subject_motion": "micro_gesture",
+      "prop_motion": "none",
+      "camera_motion": "handheld_drift",
+      "camera_motion_intensity": "moderate",
+      "camera_effect_local": "film_gate_weave",
+      "motion_blur": "light",
+      "intra_cut_rhythm": "steady",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [
+        "film_frame_ui",
+        "film_grain",
+        "sprocket_graphic"
+      ],
+      "vfx_intensity_local": "moderate",
+      "fact_check_flag": false,
+      "notes": "전역 모티프인 '아날로그 필름 카메라' 그래픽이 강하게 드러나는 컷. 위쪽에 직전 프레임 일부가 필름스트립처럼 잘려 보임(멀티프레임). 눈=시선·바라봄 모티프.",
+      "color_palette": [
+        "#5a4636",
+        "#8a6f54",
+        "#2c2018",
+        "#b89a78"
+      ],
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "face_only",
+      "gaze": "off_camera",
+      "eye_contact_effect": "intimate_observation",
+      "props": [],
+      "prop_semantics": "없음",
+      "color_intent": "웜 빈티지 세피아로 아날로그 필름 감성·노스탤지어",
+      "pose_description": "눈을 응시하듯 천천히 — 관조적",
+      "visible_elements": {
+        "foreground": [
+          "두 눈과 속눈썹"
+        ],
+        "midground": [
+          "눈 주변 피부"
+        ],
+        "background": [
+          "어두운 웜 톤(아웃포커스)"
+        ],
+        "lighting_env": [
+          "부드러운 정면광"
+        ],
+        "atmosphere": [
+          "필름 그레인",
+          "세피아 글로우"
+        ]
+      },
+      "texture": {
+        "primary_subject": "skin_natural",
+        "secondary_objects": [],
+        "background_surface": "soft_dark_blur",
+        "atmospheric": [
+          "film_grain",
+          "warm_glow"
+        ]
+      },
+      "lighting": {
+        "key_direction": "front",
+        "key_hardness": "soft",
+        "key_color_temp": "warm_3000K",
+        "fill_strength": "minimal",
+        "key_to_fill_ratio": "4:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "soft",
+        "overall_contrast": "low_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#5a4636",
+          "#8a6f54",
+          "#2c2018",
+          "#b89a78"
+        ],
+        "palette_role": {
+          "#5a4636": "skin_warm_midtone",
+          "#8a6f54": "skin_light",
+          "#2c2018": "film_frame_dark",
+          "#b89a78": "highlight"
+        },
+        "color_relationship": "analogous",
+        "temperature_balance": "warm_dominant",
+        "saturation_strategy": "muted",
+        "contrast_type": "luminance_low",
+        "accent_color": "#b89a78",
+        "accent_ratio": "15_percent",
+        "brand_color_match": []
+      },
+      "style_prompt": "Extreme close-up of a woman's eyes, warm sepia film-grain, framed inside a vintage film-camera viewfinder graphic with sprocket holes and ISO markers, nostalgic analog mood.",
+      "recreation_prompts": {
+        "t2i_start_frame": "An extreme close-up of a Korean woman's two eyes with soft natural lashes, gazing quietly; the entire image is encased in a vintage analog film-camera graphic frame — rounded-corner film gate with sprocket-hole marks down the sides and small white viewfinder markers reading exposure data like 'ISO 200' and 'F2.5'; a sliver of the previous frame is visible cropped along the top like a strip of film; warm sepia-leaning grade, soft frontal key, minimal fill, gentle low contrast; skin reads natural and warm, heavy fine film grain over everything; muted analogous warm palette of browns and amber; the mood is nostalgic, intimate, analog; clean-but-grainy digital emulating film, Korean premium beauty-device commercial aesthetic.",
+        "t2i_negative": "modern UI, neon, oversaturated, plastic skin, extra eyes, deformed iris, real brand logos, watermark, sharp clinical look",
+        "i2v_motion": "The eyes hold a slow contemplative gaze with a single soft blink; the vintage film frame weaves and jitters faintly like film passing a gate; grain shimmers; camera handheld-drifts gently; ~0.6s, steady rhythm, light motion blur, hard cut to a backlit flower-vase shot.",
+        "i2v_params": {
+          "clip_duration_sec": 0.58,
+          "camera_move": "handheld_drift",
+          "subject_motion_level": "micro",
+          "signature_effect": "film_gate_weave",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; identity/brand-mark generic, on-screen copy preserved verbatim (per copywriting); celeb face-likeness not reproduced"
+      }
+    },
+    {
+      "index": 6,
+      "duration": 0.92,
+      "framing": "MS",
+      "function": "still_life_flowers_backlit",
+      "color_mood": "warm backlit glow, blooming highlights",
+      "subject_action": "창가 역광 속 작은 꽃다발(분홍 꽃)이 화병에 꽂혀 있다; 인물 없음(정물)",
+      "copy_overlay": "(없음 — 필름 뷰파인더 UI 마커)",
+      "layout_grid": "center",
+      "subject_position": "center",
+      "subject_typo_layout": "ui_graphic_frame",
+      "typo_motion": "필름 카메라 뷰파인더 그래픽(코너 마커, 노출수치 'NIKON'풍 'F2.5' 'ISO 200')이 화면을 감싼다.",
+      "subject_motion": "none",
+      "prop_motion": "micro",
+      "camera_motion": "handheld_drift",
+      "camera_motion_intensity": "subtle",
+      "camera_effect_local": "film_gate_weave",
+      "motion_blur": "none",
+      "intra_cut_rhythm": "steady",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [
+        "film_frame_ui",
+        "halation",
+        "backlight_bloom"
+      ],
+      "vfx_intensity_local": "moderate",
+      "fact_check_flag": false,
+      "notes": "정물 인서트(꽃). 창가 강한 역광으로 꽃 실루엣+할레이션. 필름 뷰파인더 UI 유지. 서정·시간의 흐름 정서.",
+      "color_palette": [
+        "#e8d8b8",
+        "#c98e7a",
+        "#6a5b3e",
+        "#f2e9d6"
+      ],
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "environment",
+      "gaze": "none",
+      "eye_contact_effect": "none",
+      "props": [
+        "flower bouquet (pink blossoms)",
+        "dark vase"
+      ],
+      "prop_semantics": "꽃 = 피어남·아름다움·덧없음(빛나는 순간) — 카피 '빛나는 순간'과 직결되는 상징",
+      "color_intent": "역광 웜 글로우로 서정·노스탤지어, 꽃의 분홍이 따뜻한 포인트",
+      "pose_description": "해당 없음(정물)",
+      "visible_elements": {
+        "foreground": [
+          "분홍 꽃다발",
+          "검정 화병"
+        ],
+        "midground": [
+          "창틀 실루엣"
+        ],
+        "background": [
+          "역광 커튼/창(밝은 번짐)"
+        ],
+        "lighting_env": [
+          "창문 강한 역광"
+        ],
+        "atmosphere": [
+          "할레이션",
+          "백라이트 블룸",
+          "필름 그레인"
+        ]
+      },
+      "texture": {
+        "primary_subject": "foliage",
+        "secondary_objects": [
+          "ceramic_matte"
+        ],
+        "background_surface": "sheer_backlit",
+        "atmospheric": [
+          "halation",
+          "bloom"
+        ]
+      },
+      "lighting": {
+        "key_direction": "back",
+        "key_hardness": "hard",
+        "key_color_temp": "warm_3500K",
+        "fill_strength": "minimal",
+        "key_to_fill_ratio": "silhouette",
+        "rim_light": true,
+        "practical_lights": [
+          "창문 역광"
+        ],
+        "shadow_presence": "deep",
+        "overall_contrast": "high_contrast"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#e8d8b8",
+          "#c98e7a",
+          "#6a5b3e",
+          "#f2e9d6"
+        ],
+        "palette_role": {
+          "#e8d8b8": "backlight_glow",
+          "#c98e7a": "flower_pink",
+          "#6a5b3e": "silhouette_dark",
+          "#f2e9d6": "highlight_bloom"
+        },
+        "color_relationship": "analogous",
+        "temperature_balance": "warm_dominant",
+        "saturation_strategy": "muted",
+        "contrast_type": "luminance_high",
+        "accent_color": "#c98e7a",
+        "accent_ratio": "15_percent",
+        "brand_color_match": []
+      },
+      "style_prompt": "A small pink flower bouquet in a dark vase backlit by a glowing window, warm halation and bloom, framed inside a vintage film-viewfinder graphic, lyrical nostalgic still-life.",
+      "recreation_prompts": {
+        "t2i_start_frame": "A lyrical backlit still-life: a small bouquet of delicate pink blossoms in a slim dark vase sits on a sill in front of a bright window draped with sheer curtains; strong warm backlight pours through, rendering the flowers as glowing semi-silhouettes with blooming halation around the edges; the whole image is wrapped in a vintage analog film-viewfinder graphic — corner brackets and small white markers reading 'F2.5' and 'ISO 200' along the edges; hard backlight key, almost no fill so the foreground reads near-silhouette, deep shadows, high luminance contrast; flowers and foliage textures with a matte ceramic vase; muted warm analogous palette of amber glow, dusty pink and deep brown; heavy soft film grain; the mood is tender, nostalgic, fleeting-beauty; film-emulating digital, Korean premium beauty commercial aesthetic.",
+        "t2i_negative": "flat lighting, oversaturated neon, modern UI, plastic flowers, real logos, watermark, harsh clinical white",
+        "i2v_motion": "The flowers and leaves sway with the faintest air movement while the backlight glow breathes; the vintage film frame weaves slightly; grain shimmers; camera handheld-drifts gently; ~0.9s, steady lyrical rhythm, hard cut into a kinetic full-screen typography burst.",
+        "i2v_params": {
+          "clip_duration_sec": 0.92,
+          "camera_move": "handheld_drift",
+          "subject_motion_level": "micro",
+          "signature_effect": "film_gate_weave",
+          "pacing": "steady",
+          "loopable": true
+        },
+        "fidelity_note": "craft-faithful; identity/brand-mark generic, on-screen copy preserved verbatim (per copywriting); celeb face-likeness not reproduced"
+      }
+    },
+    {
+      "index": 7,
+      "duration": 2.04,
+      "framing": "grid",
+      "function": "kinetic_typography_brandword_plus_copy",
+      "color_mood": "high-contrast lavender + mustard graphic, then warm interior with violet copy",
+      "subject_action": "전반부: 거대한 'TUNEFACE' 글자가 머스타드 종이 위 라벤더로 풀스크린 채워짐(인물 없음). 후반부: 여성 옆모습 위로 보라 스크립트 'stay the same'가 단계적으로 등장(stay→the→same).",
+      "copy_overlay": "TUNEFACE / stay the same / TUNEFACE",
+      "layout_grid": "split_screen",
+      "subject_position": "left_third",
+      "subject_typo_layout": "typo_opposite_subject",
+      "typo_motion": "키네틱 타이포 비트. ①머스타드 바탕에 라벤더 'TUNEFACE' 대문자가 풀스크린으로 밀려 들어옴(스케일/슬라이드). ②컷 후반 인물 우측 여백에 'stay'/'the'/'same'이 위에서부터 한 줄씩 슬라이드·페이드 인하며 쌓임. 하단 'TUNEFACE' 라벨.",
+      "subject_motion": "near_static",
+      "prop_motion": "none",
+      "camera_motion": "locked_off",
+      "camera_motion_intensity": "subtle",
+      "camera_effect_local": "none",
+      "motion_blur": "light",
+      "intra_cut_rhythm": "accelerating",
+      "transition_in": "whip_or_cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [
+        "kinetic_typography",
+        "paper_texture_bg",
+        "color_block_typo"
+      ],
+      "vfx_intensity_local": "heavy",
+      "fact_check_flag": false,
+      "notes": "광고의 그래픽 시그니처가 폭발하는 구간(scenedetect가 f175~223을 여러 변화로 검출 = 타이포 비트 연쇄). 라벤더×머스타드 보색, 세리프/산세리프 혼합 대형 타이포. 'stay the same'(본연 유지) + 'NOTHING'S FOREVER'(영원한 건 없다)의 모순적 카피쌍이 컨셉 축.",
+      "color_palette": [
+        "#cbb24a",
+        "#c9a8e0",
+        "#7a4fb0",
+        "#2a2433"
+      ],
+      "camera_angle": "eye_level",
+      "camera_facing": "profile",
+      "shot_scope": "bust",
+      "gaze": "off_camera",
+      "eye_contact_effect": "editorial_detachment",
+      "props": [],
+      "prop_semantics": "없음(그래픽 주도)",
+      "color_intent": "라벤더×머스타드 보색 대비로 강한 그래픽 임팩트·브랜드 컬러(보라) 확장",
+      "pose_description": "옆모습 정지 — 타이포가 주인공, 인물은 배경 레이어",
+      "visible_elements": {
+        "foreground": [
+          "대형 'TUNEFACE'/'stay the same' 타이포"
+        ],
+        "midground": [
+          "여성 옆얼굴(후반부)"
+        ],
+        "background": [
+          "머스타드 종이 질감",
+          "웜 인테리어(후반부)"
+        ],
+        "lighting_env": [
+          "그래픽 플랫 / 부드러운 측면광"
+        ],
+        "atmosphere": [
+          "고채도 그래픽 / 웜 글로우"
+        ]
+      },
+      "texture": {
+        "primary_subject": "paper",
+        "secondary_objects": [
+          "skin_natural"
+        ],
+        "background_surface": "paper",
+        "atmospheric": [
+          "flat_graphic"
+        ]
+      },
+      "lighting": {
+        "key_direction": "flat",
+        "key_hardness": "diffused",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "strong",
+        "key_to_fill_ratio": "1:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "none",
+        "overall_contrast": "high_contrast"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#cbb24a",
+          "#c9a8e0",
+          "#7a4fb0",
+          "#2a2433"
+        ],
+        "palette_role": {
+          "#cbb24a": "mustard_bg_dominant",
+          "#c9a8e0": "lavender_type",
+          "#7a4fb0": "brand_violet_script",
+          "#2a2433": "dark_anchor"
+        },
+        "color_relationship": "complementary",
+        "temperature_balance": "split_warm_cool",
+        "saturation_strategy": "vivid",
+        "contrast_type": "hue_complementary",
+        "accent_color": "#7a4fb0",
+        "accent_ratio": "30_percent",
+        "brand_color_match": [
+          "brand violet #7a4fb0"
+        ]
+      },
+      "style_prompt": "Bold kinetic typography: giant lavender 'TUNEFACE' capitals on a mustard paper background, then a violet script 'stay the same' stacking word-by-word beside a woman's profile, complementary lavender-and-mustard graphic, editorial poster energy.",
+      "recreation_prompts": {
+        "t2i_start_frame": "A bold graphic kinetic-typography frame: enormous lavender (#c9a8e0) uppercase letters spelling 'TUNEFACE' fill the screen edge to edge over a warm mustard-yellow (#cbb24a) paper-textured background, the letters cropped large like a magazine spread; a small white brand watch-mark sits top-left; the composition is split-screen graphic with strong complementary lavender-vs-mustard contrast; flat even lighting, no shadows, very high color contrast; paper grain texture across the background; vivid saturated palette of mustard and lavender with a deep plum anchor; the mood is editorial, punchy, fashion-poster; clean digital motion-graphics look, Korean premium beauty-brand title design, 4K.",
+        "t2i_negative": "photoreal depth, soft focus, muted colors, real logos, watermark, gradient banding, 3d bevel",
+        "i2v_motion": "The giant lavender 'TUNEFACE' letters slide and scale across the mustard field in a punchy kinetic move, then the frame transitions to a woman's warm-lit profile on the left while violet script words 'stay', 'the', 'same' slide in and stack one line at a time on the right with quick fades; a 'TUNEFACE' label holds at the bottom; ~2.0s, accelerating rhythm, light motion blur, hard cut to a wide mid-century room.",
+        "i2v_params": {
+          "clip_duration_sec": 2.04,
+          "camera_move": "locked_off",
+          "subject_motion_level": "micro",
+          "signature_effect": "kinetic_typography",
+          "pacing": "accelerating",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; identity/brand-mark generic, on-screen copy preserved verbatim (per copywriting); celeb face-likeness not reproduced"
+      }
+    },
+    {
+      "index": 8,
+      "duration": 0.5,
+      "framing": "WS",
+      "function": "wide_room_full_body",
+      "color_mood": "warm desaturated interior, soft daylight",
+      "subject_action": "여성이 미드센추리 룸의 우드 벤치에 앉아 정면을 향해 있다(전신); 흰 의상",
+      "copy_overlay": "(없음 — 필름 뷰파인더 UI)",
+      "layout_grid": "rule_of_thirds",
+      "subject_position": "center_right",
+      "subject_typo_layout": "ui_graphic_frame",
+      "typo_motion": "필름 뷰파인더 그래픽 프레임 유지(코너 마커·노출수치).",
+      "subject_motion": "near_static",
+      "prop_motion": "none",
+      "camera_motion": "locked_off",
+      "camera_motion_intensity": "subtle",
+      "camera_effect_local": "film_gate_weave",
+      "motion_blur": "none",
+      "intra_cut_rhythm": "steady",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [
+        "film_frame_ui"
+      ],
+      "vfx_intensity_local": "subtle",
+      "fact_check_flag": false,
+      "notes": "씬1과 같은 미드센추리 룸의 다른 앵글(벤치). 공간·라이프스타일 재확립. 필름 뷰파인더 UI.",
+      "color_palette": [
+        "#6e6a50",
+        "#8c7a5e",
+        "#c7b89a",
+        "#3a342a"
+      ],
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "full_body",
+      "gaze": "off_camera",
+      "eye_contact_effect": "observational",
+      "props": [
+        "wood bench",
+        "lounge chair",
+        "round wall panels",
+        "black spiral object"
+      ],
+      "prop_semantics": "미드센추리 가구로 정제된 취향·웰니스 공간 — 브랜드 라이프스타일 세계관",
+      "color_intent": "웜 뉴트럴 환경, 흰 의상으로 인물 분리",
+      "pose_description": "벤치에 단정히 앉은 정적 자세 — 차분",
+      "visible_elements": {
+        "foreground": [
+          "우드 벤치",
+          "앉은 여성"
+        ],
+        "midground": [
+          "라운지체어",
+          "올리브 카펫"
+        ],
+        "background": [
+          "우드월 원형 패널",
+          "검정 스파인 오브제",
+          "시어 커튼 창"
+        ],
+        "lighting_env": [
+          "창문 자연광"
+        ],
+        "atmosphere": [
+          "부드러운 오후 광선",
+          "필름 그레인"
+        ]
+      },
+      "texture": {
+        "primary_subject": "fabric_cotton",
+        "secondary_objects": [
+          "wood_polished",
+          "leather"
+        ],
+        "background_surface": "wood_polished",
+        "atmospheric": [
+          "soft_light_haze"
+        ]
+      },
+      "lighting": {
+        "key_direction": "side_right",
+        "key_hardness": "soft",
+        "key_color_temp": "warm_3500K",
+        "fill_strength": "moderate",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": false,
+        "practical_lights": [
+          "창문 자연광"
+        ],
+        "shadow_presence": "soft",
+        "overall_contrast": "mid_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#6e6a50",
+          "#8c7a5e",
+          "#c7b89a",
+          "#3a342a"
+        ],
+        "palette_role": {
+          "#6e6a50": "olive_floor_dominant",
+          "#8c7a5e": "wood_midtone",
+          "#c7b89a": "warm_light",
+          "#3a342a": "dark_furniture_anchor"
+        },
+        "color_relationship": "analogous",
+        "temperature_balance": "warm_dominant",
+        "saturation_strategy": "desaturated",
+        "contrast_type": "luminance_low",
+        "accent_color": "#c7b89a",
+        "accent_ratio": "15_percent",
+        "brand_color_match": []
+      },
+      "style_prompt": "Wide mid-century modern room, a woman in white seated on a wood bench facing forward, warm desaturated daylight, framed inside a vintage film-viewfinder graphic, refined lifestyle mood.",
+      "recreation_prompts": {
+        "t2i_start_frame": "A wide cinematic shot of the same serene mid-century-modern lounge room: a Korean woman in a relaxed off-white outfit sits upright and still on a low wooden bench toward the center-right of the frame, facing roughly forward; behind her the walnut feature wall with three oval recessed panels, a slim black spiral sculpture, an olive-green carpet, a black leather lounge chair, and a tall sheer-curtained window glowing with soft daylight; the whole image sits inside a vintage analog film-viewfinder graphic with corner brackets and small exposure markers; warm side key from the window, moderate fill, soft shadows, mid-key contrast; muted analogous warm palette of olive, walnut and cream; soft film grain; the mood is calm, editorial, refined-lifestyle; clean film-emulating digital, Korean premium beauty-device commercial aesthetic, 4K.",
+        "t2i_negative": "harsh shadows, oversaturated, fisheye, deformed body, extra limbs, real logos, watermark, cluttered room",
+        "i2v_motion": "The seated woman stays near-static with breathing-level motion; camera locked-off with a faint film-gate weave on the framing; daylight and curtains shimmer softly; ~0.5s short steady beat, hard cut into a film-strip collage montage.",
+        "i2v_params": {
+          "clip_duration_sec": 0.5,
+          "camera_move": "locked_off",
+          "subject_motion_level": "still",
+          "signature_effect": "film_gate_weave",
+          "pacing": "steady",
+          "loopable": true
+        },
+        "fidelity_note": "craft-faithful; identity/brand-mark generic, on-screen copy preserved verbatim (per copywriting); celeb face-likeness not reproduced"
+      }
+    },
+    {
+      "index": 9,
+      "duration": 2.17,
+      "framing": "grid",
+      "function": "filmstrip_collage_montage",
+      "color_mood": "warm film, multi-panel contact-strip aesthetic",
+      "subject_action": "직전 장면들(전신·옆얼굴·정면)이 필름 스트립처럼 여러 칸으로 분할·반복 배열되어 동시에 보인다(멀티패널 콜라주)",
+      "copy_overlay": "(없음)",
+      "layout_grid": "split_screen",
+      "subject_position": "varies",
+      "subject_typo_layout": "multi_panel_grid",
+      "typo_motion": "필름 콜라주 자체가 모션. 동일 컷들이 가로·세로 격자(필름 스트립)로 깔리고 미세하게 슬라이드/스크롤.",
+      "subject_motion": "near_static",
+      "prop_motion": "none",
+      "camera_motion": "graphic_scroll",
+      "camera_motion_intensity": "moderate",
+      "camera_effect_local": "filmstrip_layout",
+      "motion_blur": "light",
+      "intra_cut_rhythm": "steady",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [
+        "filmstrip_collage",
+        "multi_panel_split",
+        "film_grain"
+      ],
+      "vfx_intensity_local": "heavy",
+      "fact_check_flag": false,
+      "notes": "★연출상의 '필름 스트립 콜라주'(컨택트시트가 아니라 의도된 화면 그래픽). 같은 순간을 여러 프레임으로 늘어놓아 '필름·기록·찰나의 연속' 모티프 강화. 광고의 시각 시그니처 중 하나.",
+      "color_palette": [
+        "#7a6a4e",
+        "#b7a07e",
+        "#3a3026",
+        "#d8c6a8"
+      ],
+      "camera_angle": "eye_level",
+      "camera_facing": "three_quarter",
+      "shot_scope": "environment",
+      "gaze": "off_camera",
+      "eye_contact_effect": "fragmented_memory",
+      "props": [],
+      "prop_semantics": "필름 스트립 = 기록·기억·시간의 연속(빛나는 순간을 필름에 담음)",
+      "color_intent": "웜 필름 톤 통일로 콜라주 결속, 노스탤지어",
+      "pose_description": "여러 포즈가 동시 병치 — 시간의 몽타주",
+      "visible_elements": {
+        "foreground": [
+          "필름 스트립 다중 패널"
+        ],
+        "midground": [
+          "반복된 인물 포즈들(전신·옆얼굴·정면)"
+        ],
+        "background": [
+          "웜 인테리어 단편들"
+        ],
+        "lighting_env": [
+          "원본 컷 라이팅 다양"
+        ],
+        "atmosphere": [
+          "필름 그레인",
+          "콜라주 경계선"
+        ]
+      },
+      "texture": {
+        "primary_subject": "skin_natural",
+        "secondary_objects": [
+          "fabric_cotton"
+        ],
+        "background_surface": "filmstrip_panels",
+        "atmospheric": [
+          "film_grain"
+        ]
+      },
+      "lighting": {
+        "key_direction": "mixed",
+        "key_hardness": "soft",
+        "key_color_temp": "warm_3500K",
+        "fill_strength": "moderate",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "soft",
+        "overall_contrast": "mid_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#7a6a4e",
+          "#b7a07e",
+          "#3a3026",
+          "#d8c6a8"
+        ],
+        "palette_role": {
+          "#7a6a4e": "warm_midtone_dominant",
+          "#b7a07e": "skin_warm",
+          "#3a3026": "panel_divider_dark",
+          "#d8c6a8": "highlight"
+        },
+        "color_relationship": "analogous",
+        "temperature_balance": "warm_dominant",
+        "saturation_strategy": "muted",
+        "contrast_type": "luminance_low",
+        "accent_color": "#d8c6a8",
+        "accent_ratio": "15_percent",
+        "brand_color_match": []
+      },
+      "style_prompt": "A film-strip collage: the same warm-toned scenes of a woman repeated across a grid of film frames, multi-panel split-screen montage, nostalgic analog-photography aesthetic, gentle scroll.",
+      "recreation_prompts": {
+        "t2i_start_frame": "A deliberate film-strip collage composition filling the frame: rows and columns of small film-frame panels, each showing slightly different warm-toned moments of the same Korean woman — a full-body seated pose, a profile, a frontal look — repeated and tiled like a contact sheet that is itself the on-screen graphic; thin dark dividers separate the panels like sprocketed film; a small brand watch-mark top-left; warm analogous film grade unifies every panel, soft mixed lighting, mid-key contrast; heavy film grain; muted palette of warm browns, tan skin and cream highlights; the mood is nostalgic, memory-like, a montage of fleeting moments; film-emulating digital motion-graphics, Korean premium beauty commercial aesthetic, 4K.",
+        "t2i_negative": "single clean photo, modern neon UI, oversaturated, mismatched color grades, real logos, watermark, distorted faces",
+        "i2v_motion": "The grid of film-frame panels gently slides/scrolls as a montage while each tiny panel holds its near-static moment; subtle film grain shimmer and weave; light motion blur on the scroll; ~2.2s, steady montage rhythm, hard cut to an eye close-up with film framing.",
+        "i2v_params": {
+          "clip_duration_sec": 2.17,
+          "camera_move": "graphic_scroll",
+          "subject_motion_level": "micro",
+          "signature_effect": "filmstrip_layout",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; identity/brand-mark generic, on-screen copy preserved verbatim (per copywriting); celeb face-likeness not reproduced"
+      }
+    },
+    {
+      "index": 10,
+      "duration": 1.09,
+      "framing": "ECU",
+      "function": "eye_closeup_filmframe_long",
+      "color_mood": "warm sepia, film-grain, intimate",
+      "subject_action": "여성의 두 눈/한쪽 눈 클로즈업(천천히 응시·깜빡); 필름 프레임 그래픽 안",
+      "copy_overlay": "(없음 — 필름 프레임 UI)",
+      "layout_grid": "center",
+      "subject_position": "center",
+      "subject_typo_layout": "ui_graphic_frame",
+      "typo_motion": "필름스트립/뷰파인더 그래픽 유지. 위쪽에 직전 프레임 띠가 필름처럼 잘려 보임.",
+      "subject_motion": "micro_gesture",
+      "prop_motion": "none",
+      "camera_motion": "handheld_drift",
+      "camera_motion_intensity": "subtle",
+      "camera_effect_local": "film_gate_weave",
+      "motion_blur": "light",
+      "intra_cut_rhythm": "steady",
+      "transition_in": "cut",
+      "transition_out": "dissolve",
+      "vfx_in_shot": [
+        "film_frame_ui",
+        "film_grain"
+      ],
+      "vfx_intensity_local": "moderate",
+      "fact_check_flag": false,
+      "notes": "눈 클로즈업이 길게 이어지는 컷(f288~313). 시선·바라봄 모티프 재강조. 다음 컷('섬세하게 탄탄하게')으로 디졸브.",
+      "color_palette": [
+        "#4e3c2c",
+        "#7e6448",
+        "#241a12",
+        "#a98a68"
+      ],
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "face_only",
+      "gaze": "off_camera",
+      "eye_contact_effect": "intimate_observation",
+      "props": [],
+      "prop_semantics": "없음",
+      "color_intent": "웜 세피아로 친밀·아날로그 지속",
+      "pose_description": "눈을 천천히 응시 — 관조",
+      "visible_elements": {
+        "foreground": [
+          "눈과 속눈썹"
+        ],
+        "midground": [
+          "눈 주변 피부"
+        ],
+        "background": [
+          "어두운 웜 톤"
+        ],
+        "lighting_env": [
+          "부드러운 정면광"
+        ],
+        "atmosphere": [
+          "필름 그레인",
+          "세피아"
+        ]
+      },
+      "texture": {
+        "primary_subject": "skin_natural",
+        "secondary_objects": [],
+        "background_surface": "soft_dark_blur",
+        "atmospheric": [
+          "film_grain",
+          "warm_glow"
+        ]
+      },
+      "lighting": {
+        "key_direction": "front",
+        "key_hardness": "soft",
+        "key_color_temp": "warm_3000K",
+        "fill_strength": "minimal",
+        "key_to_fill_ratio": "4:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "soft",
+        "overall_contrast": "low_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#4e3c2c",
+          "#7e6448",
+          "#241a12",
+          "#a98a68"
+        ],
+        "palette_role": {
+          "#4e3c2c": "skin_warm_midtone",
+          "#7e6448": "skin_light",
+          "#241a12": "film_frame_dark",
+          "#a98a68": "highlight"
+        },
+        "color_relationship": "analogous",
+        "temperature_balance": "warm_dominant",
+        "saturation_strategy": "muted",
+        "contrast_type": "luminance_low",
+        "accent_color": "#a98a68",
+        "accent_ratio": "15_percent",
+        "brand_color_match": []
+      },
+      "style_prompt": "Extreme close-up of a woman's eyes in warm sepia film-grain, inside a vintage film-frame graphic, slow contemplative gaze, intimate analog mood.",
+      "recreation_prompts": {
+        "t2i_start_frame": "An extreme close-up of a Korean woman's eyes, lashes soft and natural, holding a slow contemplative gaze; the image is wrapped in a vintage analog film-frame graphic with rounded corners, sprocket marks and tiny exposure markers, and a thin strip of the previous frame visible cropped along the top edge like passing film; warm sepia grade, soft frontal key, minimal fill, gentle low contrast; natural warm skin, heavy fine film grain everywhere; muted analogous palette of browns and amber; intimate, nostalgic, analog mood; film-emulating digital, Korean premium beauty-device commercial aesthetic.",
+        "t2i_negative": "modern UI, neon, oversaturated, plastic skin, deformed iris, extra eyes, real logos, watermark, clinical sharpness",
+        "i2v_motion": "The eyes hold a slow gaze with a gentle blink; the film frame weaves faintly and the top film-strip sliver scrolls a touch; grain shimmers; camera handheld-drifts subtly; ~1.1s, steady rhythm, light motion blur, dissolving softly into the next skin-care close-up with on-screen copy.",
+        "i2v_params": {
+          "clip_duration_sec": 1.09,
+          "camera_move": "handheld_drift",
+          "subject_motion_level": "micro",
+          "signature_effect": "film_gate_weave",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; identity/brand-mark generic, on-screen copy preserved verbatim (per copywriting); celeb face-likeness not reproduced"
+      }
+    },
+    {
+      "index": 11,
+      "duration": 1.5,
+      "framing": "grid",
+      "function": "magazine_cover_editorial_titlecard",
+      "color_mood": "warm interior + violet editorial type, magazine spread",
+      "subject_action": "여성이 손가락을 턱에 대고 카메라 쪽을 응시(에디토리얼 포즈); 화면은 잡지 커버 레이아웃으로, 큰 보라 'TUNE' 'FACE'가 인물을 감싼다",
+      "copy_overlay": "TUNE / FACE / 01 ALMA 2026",
+      "layout_grid": "dynamic_symmetry",
+      "subject_position": "center",
+      "subject_typo_layout": "typo_frames_subject_magazine",
+      "typo_motion": "잡지 커버처럼 좌상단 'TUNE', 우하단 'FACE'(대형 보라 세리프) 배치, 작은 'ALMA 01 2026' 마스트헤드. 인물 클로즈업이 커버 사진. 배경엔 필름스트립 패널.",
+      "subject_motion": "micro_gesture",
+      "prop_motion": "none",
+      "camera_motion": "locked_off",
+      "camera_motion_intensity": "subtle",
+      "camera_effect_local": "none",
+      "motion_blur": "light",
+      "intra_cut_rhythm": "steady",
+      "transition_in": "dissolve",
+      "transition_out": "cut",
+      "vfx_in_shot": [
+        "magazine_cover_layout",
+        "big_serif_typo",
+        "filmstrip_bg"
+      ],
+      "vfx_intensity_local": "heavy",
+      "fact_check_flag": false,
+      "notes": "에디토리얼/매거진 커버 비트. 'TUNE'+'FACE'를 인물 양쪽에 대형 배치(잡지 표지 타이포). 'ALMA' 마스트헤드+'01 2026' 호수 표기로 패션지 메타포. 제품 사용(손끝 턱) 제스처. 핵심 키비주얼.",
+      "color_palette": [
+        "#7a4fb0",
+        "#3a2e3a",
+        "#c9a8e0",
+        "#9c8270"
+      ],
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "bust",
+      "gaze": "to_camera",
+      "eye_contact_effect": "editorial_direct_engagement",
+      "props": [
+        "(손끝으로 턱·얼굴 라인 터치)"
+      ],
+      "prop_semantics": "손끝 제스처 = 제품 사용 후 매끈해진 얼굴 라인을 가리키는 뷰티 코드",
+      "color_intent": "보라 대형 타이포로 브랜드 컬러 절정, 매거진 표지 권위·동경 부여",
+      "pose_description": "턱에 손끝, 카메라 응시 — 자신감·에디토리얼 무드",
+      "visible_elements": {
+        "foreground": [
+          "대형 보라 'TUNE'/'FACE' 타이포",
+          "여성 클로즈업"
+        ],
+        "midground": [
+          "손끝 제스처"
+        ],
+        "background": [
+          "필름스트립 패널(좌우)",
+          "어두운 웜 톤"
+        ],
+        "lighting_env": [
+          "부드러운 정면 키"
+        ],
+        "atmosphere": [
+          "매거진 글로스"
+        ]
+      },
+      "texture": {
+        "primary_subject": "skin_makeup",
+        "secondary_objects": [
+          "paper",
+          "fabric_cotton"
+        ],
+        "background_surface": "filmstrip_panels",
+        "atmospheric": [
+          "soft_glow"
+        ]
+      },
+      "lighting": {
+        "key_direction": "front",
+        "key_hardness": "soft",
+        "key_color_temp": "warm_3500K",
+        "fill_strength": "moderate",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": true,
+        "practical_lights": [],
+        "shadow_presence": "soft",
+        "overall_contrast": "mid_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#7a4fb0",
+          "#3a2e3a",
+          "#c9a8e0",
+          "#9c8270"
+        ],
+        "palette_role": {
+          "#7a4fb0": "brand_violet_type_dominant",
+          "#3a2e3a": "dark_bg_anchor",
+          "#c9a8e0": "lavender_light",
+          "#9c8270": "skin_warm"
+        },
+        "color_relationship": "complementary",
+        "temperature_balance": "split_warm_cool",
+        "saturation_strategy": "desaturated_with_pop",
+        "contrast_type": "hue_complementary",
+        "accent_color": "#7a4fb0",
+        "accent_ratio": "30_percent",
+        "brand_color_match": [
+          "brand violet #7a4fb0"
+        ]
+      },
+      "style_prompt": "Magazine-cover editorial layout: a Korean woman touching her chin gazing to camera, giant violet serif 'TUNE' and 'FACE' framing her like a fashion cover with a small 'ALMA 01 2026' masthead, film-strip background, premium beauty editorial.",
+      "recreation_prompts": {
+        "t2i_start_frame": "A fashion-magazine cover layout rendered as a film frame: a Korean woman in her late 20s, softly made-up, rests two fingertips lightly along her chin and jawline and gazes directly to camera with calm confidence; oversized brand-violet (#7a4fb0) serif type frames her — 'TUNE' set large in the upper-left, 'FACE' even larger in the lower-right — with a small masthead reading 'ALMA' and an issue line '01 2026' near the top; behind her, dim warm film-strip panels of other moments form the backdrop; soft frontal key with a gentle rim, moderate fill, soft shadows, mid-key contrast; smooth natural makeup skin, paper-like type, warm fabric; desaturated warm scene with saturated violet type as the dominant accent; the mood is aspirational, editorial, premium beauty; clean digital with subtle glow, Korean premium beauty-device commercial / cover-design aesthetic, 4K.",
+        "t2i_negative": "real magazine titles, real logos, watermark, deformed hand, extra fingers, oversaturated skin, cluttered cover lines, distorted face",
+        "i2v_motion": "The woman holds her to-camera gaze with breathing-level micro-motion, fingertips resting on her chin; the giant violet 'TUNE' and 'FACE' type settles/locks into the cover layout; faint film-strip panels drift behind; ~1.5s, steady editorial rhythm, light motion blur, hard cut to a skin-care close-up with bold Korean copy.",
+        "i2v_params": {
+          "clip_duration_sec": 1.5,
+          "camera_move": "locked_off",
+          "subject_motion_level": "micro",
+          "signature_effect": "none",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; identity/brand-mark generic, on-screen copy preserved verbatim (per copywriting); celeb face-likeness not reproduced"
+      }
+    },
+    {
+      "index": 12,
+      "duration": 3.74,
+      "framing": "CU",
+      "function": "hero_copy_skincare_gesture",
+      "color_mood": "warm intimate, soft key, cinemascope-ish letterbox",
+      "subject_action": "여성이 손끝으로 얼굴/광대 라인을 부드럽게 누르거나 쓸어내린다(제품 사용 제스처); 좌측에 굵은 카피",
+      "copy_overlay": "섬세하게 탄탄하게",
+      "layout_grid": "rule_of_thirds",
+      "subject_position": "right_third",
+      "subject_typo_layout": "typo_left_zone_subject_right",
+      "typo_motion": "좌측 여백에 '섬세하게'(보라 '섬세'+검정 '하게') / '탄탄하게'(보라 '탄탄'+검정 '하게') 2행이 페이드/슬라이드로 등장. 나레이션과 동기화. 하단 의료기기 약관 라인.",
+      "subject_motion": "micro_gesture",
+      "prop_motion": "none",
+      "camera_motion": "handheld_drift",
+      "camera_motion_intensity": "subtle",
+      "camera_effect_local": "none",
+      "motion_blur": "light",
+      "intra_cut_rhythm": "steady",
+      "transition_in": "dissolve",
+      "transition_out": "cut",
+      "vfx_in_shot": [
+        "bold_typo_overlay",
+        "fine_print_lower"
+      ],
+      "vfx_intensity_local": "moderate",
+      "fact_check_flag": true,
+      "notes": "핵심 베네핏 카피컷(f314~404, 가장 긴 컷). '섬세하게 탄탄하게' = 제품 효능(피부 섬세 케어 + 탄력/탄탄함) 직설. 나레이션 '섬세하게 탄탄하게'와 정확히 동기. 하단 약관: '이 제품은 의료기기이며…'(의료기기 광고 고지). fact_check_flag=true: 효능 표현은 의료기기 심의 대상.",
+      "color_palette": [
+        "#3a2c24",
+        "#caa183",
+        "#7a4fb0",
+        "#e6d2c0"
+      ],
+      "camera_angle": "eye_level",
+      "camera_facing": "three_quarter",
+      "shot_scope": "face_only",
+      "gaze": "off_camera",
+      "eye_contact_effect": "intimate_focus",
+      "props": [
+        "(손끝 — 얼굴 라인 케어 제스처)",
+        "thin ring"
+      ],
+      "prop_semantics": "손끝으로 광대·턱 라인을 누르는 제스처 = 탄력·리프팅 효능을 신체로 시연(미용 의료기기 사용 코드)",
+      "color_intent": "웜 피부톤 위 보라 카피로 효능 키워드 강조, 친밀·신뢰",
+      "pose_description": "손끝으로 얼굴 라인을 케어하는 섬세한 제스처 — 효능 시연·자기돌봄",
+      "visible_elements": {
+        "foreground": [
+          "얼굴 측면",
+          "손끝 제스처",
+          "보라/검정 굵은 카피"
+        ],
+        "midground": [
+          "목·어깨"
+        ],
+        "background": [
+          "어두운 웜 톤(아웃포커스)"
+        ],
+        "lighting_env": [
+          "부드러운 측면 키"
+        ],
+        "atmosphere": [
+          "친밀한 저조도",
+          "미세 그레인"
+        ]
+      },
+      "texture": {
+        "primary_subject": "skin_makeup",
+        "secondary_objects": [
+          "metallic"
+        ],
+        "background_surface": "soft_dark_blur",
+        "atmospheric": [
+          "warm_glow",
+          "soft_grain"
+        ]
+      },
+      "lighting": {
+        "key_direction": "side_left",
+        "key_hardness": "soft",
+        "key_color_temp": "warm_3200K",
+        "fill_strength": "minimal",
+        "key_to_fill_ratio": "4:1",
+        "rim_light": true,
+        "practical_lights": [],
+        "shadow_presence": "soft",
+        "overall_contrast": "low_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#3a2c24",
+          "#caa183",
+          "#7a4fb0",
+          "#e6d2c0"
+        ],
+        "palette_role": {
+          "#3a2c24": "background_dark_anchor",
+          "#caa183": "skin_midtone",
+          "#7a4fb0": "copy_violet_accent",
+          "#e6d2c0": "skin_highlight"
+        },
+        "color_relationship": "complementary",
+        "temperature_balance": "warm_dominant",
+        "saturation_strategy": "desaturated_with_pop",
+        "contrast_type": "hue_complementary",
+        "accent_color": "#7a4fb0",
+        "accent_ratio": "15_percent",
+        "brand_color_match": [
+          "brand violet #7a4fb0"
+        ]
+      },
+      "style_prompt": "Warm intimate close-up, a Korean woman pressing her fingertips along her cheekbone/jaw in a skin-care gesture, bold Korean copy 'delicately / firmly' on the left in violet-and-black, soft side key, premium medical-beauty efficacy mood.",
+      "recreation_prompts": {
+        "t2i_start_frame": "A warm intimate close-up of a Korean woman's face in three-quarter view; she presses two fingertips gently along her cheekbone and jawline in a deliberate skin-care/lifting gesture, lips softly parted, a thin ring on her finger; soft side key from the left with a faint rim light separating her from the dark warm-brown out-of-focus background, minimal fill, low contrast; on the left third sit two bold lines of Korean copy reading '섬세하게' and '탄탄하게', each with the first two characters in brand violet (#7a4fb0) and the suffix in near-black; a thin line of medical-device legal fine print runs along the bottom; natural makeup skin with soft highlight, subtle film grain; muted warm palette with violet type as accent; the mood is intimate, trustworthy, efficacy-focused self-care; cinematic clean digital with light grain, Korean premium beauty-device commercial aesthetic, shallow depth of field. On-screen copy preserved verbatim: '섬세하게 / 탄탄하게'.",
+        "t2i_negative": "harsh light, oversaturated, plastic skin, extra fingers, deformed hand, wrong korean glyphs, real logos, watermark, clinical white",
+        "i2v_motion": "The fingertips glide and press slowly along the cheekbone and jaw in a soft lifting motion while the face holds; the two-line violet-and-black copy '섬세하게 / 탄탄하게' fades and settles in on the left, synced to the voice-over; camera handheld-drifts subtly; ~3.7s, steady intimate rhythm, light motion blur, hard cut to a wide brand-reveal room shot.",
+        "i2v_params": {
+          "clip_duration_sec": 3.74,
+          "camera_move": "handheld_drift",
+          "subject_motion_level": "micro",
+          "signature_effect": "none",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; identity/brand-mark generic, on-screen copy preserved verbatim (per copywriting); celeb face-likeness not reproduced"
+      }
+    },
+    {
+      "index": 13,
+      "duration": 2.17,
+      "framing": "MS",
+      "function": "brand_reveal_room_logotype",
+      "color_mood": "warm interior, soft daylight, violet logo",
+      "subject_action": "여성이 미드센추리 룸에서 손끝을 턱에 댄 채 카메라를 정면으로 응시; 하단에 보라 'Tune face' 로고가 떠오른다",
+      "copy_overlay": "Tune face",
+      "layout_grid": "center",
+      "subject_position": "center",
+      "subject_typo_layout": "typo_lower_center_over_subject",
+      "typo_motion": "보라 손글씨 'Tune face' 로고타입이 화면 하단~중앙에 페이드 인(브랜드 리빌). 필름 뷰파인더 그래픽 프레임.",
+      "subject_motion": "near_static",
+      "prop_motion": "none",
+      "camera_motion": "locked_off",
+      "camera_motion_intensity": "subtle",
+      "camera_effect_local": "film_gate_weave",
+      "motion_blur": "none",
+      "intra_cut_rhythm": "steady",
+      "transition_in": "cut",
+      "transition_out": "whiteout",
+      "vfx_in_shot": [
+        "script_logotype_overlay",
+        "film_frame_ui",
+        "fine_print_lower"
+      ],
+      "vfx_intensity_local": "moderate",
+      "fact_check_flag": false,
+      "notes": "제품/브랜드 리빌 비트. 오프닝(씬1)과 수미상관(같은 룸, 같은 로고타입). 카메라 정면 응시로 관객과 직접 연결. 다음 엔드카드로 화이트아웃.",
+      "color_palette": [
+        "#6e6a50",
+        "#8c7a5e",
+        "#7a4fb0",
+        "#c7b89a"
+      ],
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "bust",
+      "gaze": "to_camera",
+      "eye_contact_effect": "direct_brand_connection",
+      "props": [
+        "(손끝 턱 제스처)",
+        "lounge chair",
+        "round wall panels"
+      ],
+      "prop_semantics": "손끝 제스처 재현 + 미드센추리 공간으로 브랜드 세계관 마무리",
+      "color_intent": "웜 환경 + 보라 로고로 브랜드 컬러 최종 각인",
+      "pose_description": "턱에 손끝, 카메라 정면 응시 — 자신감 있는 마무리",
+      "visible_elements": {
+        "foreground": [
+          "여성 정면",
+          "보라 'Tune face' 로고"
+        ],
+        "midground": [
+          "손끝 제스처",
+          "라운지체어"
+        ],
+        "background": [
+          "우드월 원형 패널",
+          "검정 스파인 오브제",
+          "시어 커튼"
+        ],
+        "lighting_env": [
+          "창문 자연광"
+        ],
+        "atmosphere": [
+          "부드러운 오후 광선",
+          "필름 그레인"
+        ]
+      },
+      "texture": {
+        "primary_subject": "skin_makeup",
+        "secondary_objects": [
+          "wood_polished",
+          "fabric_cotton"
+        ],
+        "background_surface": "wood_polished",
+        "atmospheric": [
+          "soft_light_haze"
+        ]
+      },
+      "lighting": {
+        "key_direction": "front",
+        "key_hardness": "soft",
+        "key_color_temp": "warm_3500K",
+        "fill_strength": "moderate",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": false,
+        "practical_lights": [
+          "창문 자연광"
+        ],
+        "shadow_presence": "soft",
+        "overall_contrast": "mid_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#6e6a50",
+          "#8c7a5e",
+          "#7a4fb0",
+          "#c7b89a"
+        ],
+        "palette_role": {
+          "#6e6a50": "olive_bg",
+          "#8c7a5e": "wood_midtone",
+          "#7a4fb0": "brand_violet_logo",
+          "#c7b89a": "warm_light"
+        },
+        "color_relationship": "complementary",
+        "temperature_balance": "warm_dominant",
+        "saturation_strategy": "desaturated_with_pop",
+        "contrast_type": "hue_complementary",
+        "accent_color": "#7a4fb0",
+        "accent_ratio": "15_percent",
+        "brand_color_match": [
+          "brand violet #7a4fb0"
+        ]
+      },
+      "style_prompt": "A Korean woman in a mid-century room touching her chin and gazing to camera, violet script 'Tune face' wordmark fading in at the lower center, warm daylight, film-viewfinder frame, brand-reveal mood.",
+      "recreation_prompts": {
+        "t2i_start_frame": "A warm cinematic medium shot in the serene mid-century-modern lounge room: a Korean woman rests her fingertips on her chin and gazes directly to camera with quiet confidence; behind her the walnut feature wall with oval panels, the black spiral sculpture and the sheer-curtained window glowing with soft daylight; the brand-violet (#7a4fb0) hand-written script wordmark 'Tune face' fades in across the lower-center as the brand reveal; the whole frame sits inside a vintage film-viewfinder graphic with corner markers, and a tiny line of fine print runs along the bottom; soft frontal key, moderate fill, soft shadows, mid-key warm contrast; natural makeup skin, polished wood, soft film grain; muted warm palette with the violet wordmark as accent; the mood is confident, refined, a brand sign-off echoing the opening shot; clean film-emulating digital, Korean premium beauty-device commercial aesthetic, 4K.",
+        "t2i_negative": "harsh shadows, oversaturated, deformed hand, extra fingers, real logos, watermark, cluttered background, distorted wordmark",
+        "i2v_motion": "The woman holds her to-camera gaze and chin-touch with breathing-level micro-motion; the violet 'Tune face' script fades in and settles at the lower center; faint film-gate weave on the frame; daylight shimmers; ~2.2s, steady rhythm, then whites out into the final brand end-card.",
+        "i2v_params": {
+          "clip_duration_sec": 2.17,
+          "camera_move": "locked_off",
+          "subject_motion_level": "still",
+          "signature_effect": "film_gate_weave",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; identity/brand-mark generic, on-screen copy preserved verbatim (per copywriting); celeb face-likeness not reproduced"
+      }
+    },
+    {
+      "index": 14,
+      "duration": 1.0,
+      "framing": "grid",
+      "function": "brand_endcard_wordplay_signoff",
+      "color_mood": "clean high-key white, black type",
+      "subject_action": "없음 — 흰 배경 엔드카드. 'To 美 Continued'가 'To Me Continued'로 전환(美↔Me 펀), 하단 'Alma' 로고 + 'For You. For Life.'",
+      "copy_overlay": "To 美 Continued / To Me Continued / Alma / For You. For Life.",
+      "layout_grid": "center",
+      "subject_position": "center",
+      "subject_typo_layout": "typo_only_fullscreen",
+      "typo_motion": "엔드카드 키네틱 타이포. 상단 'To 美 Continued'(美=한자)에서 '美'가 'Me'로 모핑/스왑되어 'To Me Continued'로 바뀜(워드플레이 리빌). 그 아래 'Alma' 로고타입 + 슬로건 'For You. For Life.' 노출.",
+      "subject_motion": "none",
+      "prop_motion": "none",
+      "camera_motion": "locked_off",
+      "camera_motion_intensity": "none",
+      "camera_effect_local": "none",
+      "motion_blur": "none",
+      "intra_cut_rhythm": "steady",
+      "transition_in": "whiteout",
+      "transition_out": "end",
+      "vfx_in_shot": [
+        "kinetic_typography",
+        "word_morph_swap",
+        "logo_lockup"
+      ],
+      "vfx_intensity_local": "moderate",
+      "fact_check_flag": false,
+      "notes": "★핵심 크리에이티브 디바이스의 회수: 'To 美 Continued'(To Be Continued + 한자 美=아름다움)에서 美→Me로 스왑해 'To Me Continued'(나의 아름다움은 계속된다)로 마무리. 한자/영어 이중 펀. 코퍼레이트 브랜드 'Alma' + 슬로건 'For You. For Life.' 사인오프. 클린 화이트(본편 필름 톤과 대비).",
+      "color_palette": [
+        "#ffffff",
+        "#111111",
+        "#f5f5f5",
+        "#333333"
+      ],
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "environment",
+      "gaze": "none",
+      "eye_contact_effect": "none",
+      "props": [],
+      "prop_semantics": "없음(타이포 단독)",
+      "color_intent": "클린 하이키 화이트+블랙 타이포로 코퍼레이트 신뢰·마무리(본편의 웜 필름톤과 의도적 대비)",
+      "pose_description": "해당 없음",
+      "visible_elements": {
+        "foreground": [
+          "'To 美/Me Continued' 타이포",
+          "'Alma' 로고",
+          "'For You. For Life.' 슬로건"
+        ],
+        "midground": [],
+        "background": [
+          "순백 배경"
+        ],
+        "lighting_env": [
+          "플랫 화이트"
+        ],
+        "atmosphere": [
+          "클린 하이키"
+        ]
+      },
+      "texture": {
+        "primary_subject": "clean_digital",
+        "secondary_objects": [],
+        "background_surface": "matte_white",
+        "atmospheric": [
+          "none"
+        ]
+      },
+      "lighting": {
+        "key_direction": "flat",
+        "key_hardness": "diffused",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "strong",
+        "key_to_fill_ratio": "1:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "none",
+        "overall_contrast": "hi_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#ffffff",
+          "#111111",
+          "#f5f5f5",
+          "#333333"
+        ],
+        "palette_role": {
+          "#ffffff": "background_dominant",
+          "#111111": "type_black",
+          "#f5f5f5": "soft_white",
+          "#333333": "subtype_grey"
+        },
+        "color_relationship": "monochrome",
+        "temperature_balance": "balanced",
+        "saturation_strategy": "monochrome",
+        "contrast_type": "luminance_high",
+        "accent_color": "#111111",
+        "accent_ratio": "15_percent",
+        "brand_color_match": []
+      },
+      "style_prompt": "Clean high-key white end-card, black type 'To 美 Continued' morphing into 'To Me Continued', corporate 'Alma' logotype with tagline 'For You. For Life.', minimal premium sign-off.",
+      "recreation_prompts": {
+        "t2i_start_frame": "A clean minimal brand end-card on a pure white background; centered upper line reads 'To 美 Continued' in a light black sans-serif, where the middle glyph is the Chinese character 美 (meaning beauty); a thin horizontal rule sits beneath it; below the rule is a corporate wordmark 'Alma' set in bold black with a small swoosh accent, and under that a tagline 'For You. For Life.'; flat even diffused lighting, no shadows, hi-key bright, crisp; pure monochrome black-on-white palette; the mood is corporate, trustworthy, premium and calm, intentionally contrasting the warm film body of the ad; clean digital typographic design, Korean medical-aesthetic corporate branding, 4K. On-screen copy preserved verbatim: 'To 美 Continued' / 'Alma' / 'For You. For Life.'",
+        "t2i_negative": "warm grade, film grain, photo background, real third-party logos, watermark, gradient, clutter, drop shadow",
+        "i2v_motion": "The upper line holds 'To 美 Continued', then the Chinese glyph 美 morphs/swaps into the English word 'Me' so the line reads 'To Me Continued' — a clean word-play reveal; the 'Alma' logotype and 'For You. For Life.' tagline settle in beneath; everything stays crisp on white; ~1.0s, steady rhythm, ends the film.",
+        "i2v_params": {
+          "clip_duration_sec": 1.0,
+          "camera_move": "locked_off",
+          "subject_motion_level": "still",
+          "signature_effect": "word_morph_swap",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; identity/brand-mark generic, on-screen copy preserved verbatim (per copywriting); celeb face-likeness not reproduced"
+      }
+    }
+  ],
+  "analyst_notes": "Alma의 미용 의료기기 'Tuneface' 브랜드 필름(20초, 16:9, 23.976fps, 480프레임 전수 추출·원본 1920x1080 판독). 자동컷검출 12씬이나, f288~404 장구간이 디졸브로 묶여 실제로는 눈클로즈업+'섬세하게 탄탄하게' 2컷 → shot_count_corrected=14. 핵심 크리에이티브: ①전역 아날로그 필름 카메라 그래픽(뷰파인더·필름스트립·그레인) ②라벤더×머스타드 보색 키네틱 타이포 + 매거진 커버 레이아웃 ③카피 긴장 'NOTHING'S FOREVER'↔'stay the same' ④엔딩 한자/영어 워드플레이 'To 美 Continued→To Me Continued'. 효능 카피 '섬세하게 탄탄하게'는 의료기기 심의 동반(fact_check_flag, shot12). 셀럽 식별 불가로 모델 generic 처리. 로고(Alma·Tuneface 워드마크) 시각 심볼은 generic 처리 대상이나 자막·카피 원문(브랜드명 포함)은 copywriting 규칙대로 보존. recreation_prompts: 14/14 컷, 셀럽 얼굴복제 0, 화면 카피 원문 보존(장문 약관만 excerpt).",
+  "verification": {
+    "frames_reviewed": true,
+    "audio_analyzed": true,
+    "hitrate_na": true,
+    "abstraction_checked": true,
+    "abstraction_note": "시각 묘사 Level 2~3 유지(고유명은 source_ref/copywriting 한정). 모델 generic('Korean woman, late 20s'). 실로고(Alma·Tuneface 마크)는 recreation에서 generic 워드마크로, 단 자막·카피 원문(브랜드명·효능·약관·워드플레이)은 보존. recreation_prompts 셀럽 얼굴 사진복제 0.",
+    "frame_pipeline": "ffmpeg 전 프레임 480장 원본 1920x1080 추출(다운스케일·그리드 없음). scenedetect detect-adaptive 12씬 + 인접프레임 차이 정량화로 컷 경계/카메라무빙 검증, f288~404 디졸브 구간 수동 2분할(→14컷). 개별 프레임 원본 해상도 판독 + 자막/약관 크롭 확대.",
+    "recreation_prompts_coverage": "14/14 컷",
+    "new_tokens": [
+      "healthcare_pharma.aesthetic_device",
+      "aesthetic_device",
+      "analog_film_camera_ui",
+      "filmstrip_collage",
+      "magazine_cover_editorial",
+      "kanji_english_pun",
+      "editorial_fashionfilm_beauty"
+    ],
+    "high_res_reinspection": "전 480프레임 원본 1920x1080을 컷별로 순차 판독(씬 시작/중간/경계 프레임 + 키네틱 타이포 단계 + 엔드카드 모핑 단계 확대). 컨택트시트 썸네일 판독 사용 안 함."
+  },
+  "search_keywords": {
+    "industry": [
+      "healthcare_pharma",
+      "beauty"
+    ],
+    "product_category": [
+      "aesthetic_device",
+      "cosmetics"
+    ],
+    "target_demo": [
+      "30s",
+      "late30s_40s",
+      "women",
+      "premium_buyers",
+      "active_consumers"
+    ],
+    "media_format": [
+      "digital_30s",
+      "cinemascope_lifestyle",
+      "product_hero_film"
+    ],
+    "tone": [
+      "cinematic",
+      "emotional_lyrical",
+      "premium",
+      "calm_refined",
+      "retro"
+    ],
+    "pacing": [
+      "slow_build",
+      "steady"
+    ],
+    "technique": [
+      "kinetic_typo",
+      "filmstrip_collage",
+      "editorial_fashionfilm",
+      "analog_film_camera_ui",
+      "magazine_cover_layout",
+      "detail_closeup",
+      "color_shift",
+      "splitscreen"
+    ],
+    "vfx_keywords": [
+      "film_frame_ui",
+      "film_grain",
+      "title_graphics",
+      "color_pop",
+      "halation",
+      "morph",
+      "split_screen"
+    ],
+    "copy_strategy_keywords": [
+      "bilingual_subtitle",
+      "double_wordplay",
+      "brand_name_pun",
+      "voice_caption_sync",
+      "feature_benefit_direct",
+      "empathy_to_solution"
+    ],
+    "concept_derivation_pattern": [
+      "editorial_fashionfilm_beauty",
+      "metaphor_visual_sequence",
+      "breaking_fourth_wall"
+    ]
+  },
+  "inferred_creative_thinking": {
+    "confidence": "inferred",
+    "insight_one_liner": "아름다움(피부·탄력)은 시간 앞에 영원할 수 없다 — 그러니 '미리' 관리하면 나다움을 더 오래 유지할 수 있다",
+    "persona_one_liner": "30~40대, 자기관리에 투자하는 프리미엄 뷰티 소비자(안티에이징·탄력 고민)",
+    "moment_one_liner": "거울 앞에서 피부 변화를 자각하고 '관리해야겠다'고 마음먹는 순간",
+    "product_role_one_liner": "Tuneface = 시간을 거스르진 못해도 '섬세하게 탄탄하게' 본연의 아름다움을 이어주는 미용 의료기기",
+    "punchline_one_liner": "To 美 Continued → To Me Continued (아름다움은, 곧 나는, 계속된다)",
+    "differentiator_one_liner": "아날로그 필름 그래픽 + 에디토리얼 키네틱 타이포 + 한자/영어 이중 펀으로 의료기기를 '동경의 라이프스타일 오브제'로 격상",
+    "brand_fit_one_liner": "코퍼레이트 'Alma(For You. For Life.)'의 신뢰 위에 제품 'Tuneface'를 감성 패션필름 톤으로 차별화"
+  },
+  "inferred_brief": "미용 의료기기 'Tuneface'(Alma)를 위한 ~20초 프리미엄 브랜드 필름. 30~40대 여성 타깃. '시간은 멈출 수 없지만 미리 준비하면 나다움을 유지한다'는 정서로, 효능('섬세하게 탄탄하게')은 직접 전달하되 셀럽 없이 에디토리얼 패션필름·아날로그 필름 감성·키네틱 타이포로 동경을 만든다. 캠페인 'NOTHING'S FOREVER', 엔딩 워드플레이 'To 美 Continued→To Me Continued', 코퍼레이트 'Alma'.",
+  "cross_pollination_tags": {
+    "adjacent": [
+      "beauty",
+      "cosmetics",
+      "luxury"
+    ],
+    "distant": [
+      "fashion",
+      "content_ott",
+      "travel_tourism"
+    ],
+    "contrast": [
+      "automotive",
+      "it_saas",
+      "finance"
+    ]
+  },
+  "concept_derivation_pattern": [
+    "editorial_fashionfilm_beauty",
+    "metaphor_visual_sequence"
+  ],
+  "confidence": "inferred"
+}
