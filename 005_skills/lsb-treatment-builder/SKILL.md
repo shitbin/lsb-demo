@@ -172,8 +172,9 @@ plan을 받으면 모든 컷의 transition_in/out을 스캔해 분기 결정 후
 **페이지당 이미지 수 = `REFERENCE/presentation-rules.md` §3 결정표** (Phase 4.2 렌더에도 동일 적용): 디바이더·전략텍스트·슬로건·나레이션 자막 = **0장** / 키비주얼·제품 히어로·시네마틱 서사 = **1장**(풀블리드/레터박스) / 비교·A안B안·과거vs현재 = **2장** / 무드·바리에이션·캐릭터 = **3장** / 콘티 그리드 = **5열(기획안)·3열(트리트먼트)** / 톤앤무드 대량 = **6~16 그리드** / 전체 흐름 = **컨택트시트 1장**. 원리: 숫자↑=무드/요약, 1장=서사/임팩트. 정보밀집↔임팩트 교대로 호흡.
 
 **3.2 보드 생성 프롬프트 원칙.**
-- "horizontal storyboard, N panels, equal width, thin white gutter between panels".
-- 패널마다 별도 묘사: "Panel 1:... | Panel 2:...".
+- **컷 생성 기본 = 2×2 그리드 (★ 한 장에 4컷 · 2K · 무시 금지).** 컷 이미지는 한 컷씩 따로 생성하지 말고 **2×2 그리드(2행 2열, 한 이미지에 4개 컷)** 로 묶어 생성한다 — 스토리보드처럼. 생성 횟수↓·4컷 간 톤/캐릭터 일관성↑. 컷이 5개 이상이면 4컷씩 여러 장(6컷=4+2, 9컷=4+4+1). 프롬프트에 `"2x2 storyboard grid, 4 equal cells, 2 rows by 2 columns, thin white gutter between cells, no overlap"` 명시. 해상도는 2K(3.2-c). (장표·영상엔 슬라이스해 컷별로 분리 사용 — 3.3.)
+- **셀(컷)마다 별도 묘사 + 컷당 500단어 이상 (★ 무시 금지):** `"Cell 1 (top-left): … | Cell 2 (top-right): … | Cell 3 (bottom-left): … | Cell 4 (bottom-right): …"`. **각 셀(컷) 묘사는 최소 500단어** — 인물·동작·표정·카메라(앵글·렌즈·거리)·조명(방향/경도/색온도)·전경·배경 요소·질감·팔레트·분위기·VFX·타이포까지 빠짐없이. 한두 줄짜리 빈약한 셀 묘사는 품질 저하의 직접 원인이므로, 500단어 미만이면 더 채운 뒤 생성한다.
+- (단순 가로 스토리보드가 더 맞는 특수 경우만 "horizontal storyboard, N panels, equal width, thin white gutter" — 기본은 2×2 그리드.)
 - **금지(주석/낙서만)**: "no handwriting, no annotations, no labels, no storyboard markings, no timecode" — GPT 자동 주석 방지. **단 '텍스트 전면 금지'는 아니다** — 강조어·슬로건·키네틱/모션 타이포는 이미지에 *박아* 생성한다. 컷별 타이포 모드(none/subtitle/baked)·baked 프롬프트·데이터셋 판정은 `REFERENCE/typography-in-image.md`.
 - 마스터 캐릭터시트를 reference로. **캐릭터 일관성 — 마스터시트 강제(A3 학습):** 보드(확정컷) 생성 시 마스터시트 제약(예: no necklace, short hair, plain jacket)을 프롬프트·negative에 그대로 박아 *보드가 마스터와 안 어긋나게* 한다(예방 우선). 이미 만든 확정컷이 충돌하면(목걸이·머리길이 등) 그 디테일 제거한 정리본을 만들거나, 충돌 컷은 reference에서 빼고 마스터+컨택트시트만 쓴다(폴백). Seedance는 풍부한 확정컷을 마스터보다 강하게 따라가므로 강제 없으면 negative가 무시된다.
 - 종횡비: 9:16 영상이면 패널 9:16, 전체 가로 N배. Higgsfield 캡이면 16:9로 받고 슬라이스 시 trim.
@@ -220,7 +221,7 @@ plan을 받으면 모든 컷의 transition_in/out을 스캔해 분기 결정 후
 - 도구가 URL 대신 base64/파일 ID를 주면 그것을 디코드·저장해 동일하게 로컬 파일로 만든 뒤 사용한다.
 - ⚠ 컨테이너 **네트워킹이 꺼져 있으면 다운로드가 빈 파일로 실패**한다. 환경 networking을 unrestricted(또는 해당 CDN 호스트 허용)로 둬야 한다.
 
-**3.3 슬라이스.** 흰 갭 감지로 컷별 프레임 절단. 검증된 슬라이서 `scripts/slice_boards.py`(grayscale → 컬럼 흰비율 → N등분 중심±13% 윈도우 → trim_white). `colw>0.82` 디폴트, 갭 없으면 0.75~0.88 튜닝. 컷 번호로 네이밍해 `확정컷/`에.
+**3.3 슬라이스 (★ 2×2 그리드 → 4컷 분리 · 장표엔 분리본 사용).** 2×2 그리드 이미지는 **가로 1회·세로 1회로 4등분**해 컷 4개로 분리한다(흰 갭/중앙선 감지 → 2행×2열 셀 절단 → trim_white). 가로 N패널 보드면 컬럼 흰비율로 N등분(`colw>0.82` 디폴트, 갭 없으면 0.75~0.88 튜닝). 분리한 컷을 컷 번호로 네이밍해 `확정컷/`·`frames/`에 저장하고 — **장표(Phase 4)·영상에는 반드시 이 분리된 컷별 이미지를 쓴다(2×2 그리드 원본을 장표에 통째로 넣지 않는다).**
 
 **3.3-a 인물 분리 검사 (다중 인물 필수 — A3 학습).** 보드 reference 배치 직후, 각 컷의 `subject_identity`가 맞물리는지 확인: 주인공 컷엔 주인공 시트만, 다른 인물 컷(카페 손님·알바생)엔 그 인물 시트만. 다른 인물 컷에 주인공 마스터시트가 섞이면 빼거나 weight를 낮춘다. (A3: 이 검사 부재로 카페 컷 인물이 주인공으로 변질.)
 
@@ -356,4 +357,4 @@ def cross_pollinate(entries_dir, target_category, top_n=5):
 - (cross-pollination 맵·analyzer→treatment 매핑: `lsb-ad-planner/schema.md` §3·§5. 컷 시작프레임 t2i/i2v: `lsb-ad-analyzer/REFERENCE/frame-recreation-prompts.md`.)
 
 ---
-*버전: lsb-treatment-builder_2606051640 · 2026-06-05 16:40 KST. (_2606051640 = Phase 3.2-c 이미지 생성 셋업 고정 — model=gpt_image_2 · resolution=2k · quality=high(기본 1k/low 금지, nano_banana 폴백 금지) · 사용자 레퍼런스 media_upload→medias 사용; 다운로드 블록은 3.2-d로 이동.) 이전 _2606051140 = Phase 3.2-d(구 3.2-c) 생성 이미지 로컬 다운로드 강제 — PIL은 URL을 못 여니 assets/로 받은 뒤 로컬 경로만 사용, verify로 빈/깨진 파일 차단; Phase 4.1 'URL 직접 사용 금지' 명시. 동기: 힉스필드 생성 URL을 PDF 빌드(PIL)에 직접 넣어 이미지 삽입 실패.) 변경 내역은 적용방법.md 참조. (_2606041330 = **에디토리얼 레이아웃 시스템(코덱스 리디자인급 기본값)**: build_treatment_template §8 — 4K(3840×2160) 기본 + 아키타입 cover_split/two_col/fullbleed_kv/cut_board + 팔레트 토큰(크림 surface) + 이미지 의무 게이트 assert_images_present + REFERENCE/editorial-layout.md. 동기: 클로드 1차 빌드가 1080p·이미지없는 중앙정렬 텍스트 덤프 → 코덱스 리디자인 불필요하게. 이전 _2606031952 = typeset 코드 강제. _2606032044 = 다중 인물·교차편집(A3): Phase 1.4·2.0·3.2·3.3-a + Phase 7 lsb-video-crafter 분리.)*
+*버전: lsb-treatment-builder_2606081200 · 2026-06-08 KST. (_2606081200 = 컷 생성 기본 2×2 그리드(한 장 4컷·2K)→3.3 슬라이스로 컷 분리, 장표엔 분리본만 사용 / 셀(컷)당 묘사 최소 500단어 강제.) 이전 _2606051640 · 2026-06-05 16:40 KST. (_2606051640 = Phase 3.2-c 이미지 생성 셋업 고정 — model=gpt_image_2 · resolution=2k · quality=high(기본 1k/low 금지, nano_banana 폴백 금지) · 사용자 레퍼런스 media_upload→medias 사용; 다운로드 블록은 3.2-d로 이동.) 이전 _2606051140 = Phase 3.2-d(구 3.2-c) 생성 이미지 로컬 다운로드 강제 — PIL은 URL을 못 여니 assets/로 받은 뒤 로컬 경로만 사용, verify로 빈/깨진 파일 차단; Phase 4.1 'URL 직접 사용 금지' 명시. 동기: 힉스필드 생성 URL을 PDF 빌드(PIL)에 직접 넣어 이미지 삽입 실패.) 변경 내역은 적용방법.md 참조. (_2606041330 = **에디토리얼 레이아웃 시스템(코덱스 리디자인급 기본값)**: build_treatment_template §8 — 4K(3840×2160) 기본 + 아키타입 cover_split/two_col/fullbleed_kv/cut_board + 팔레트 토큰(크림 surface) + 이미지 의무 게이트 assert_images_present + REFERENCE/editorial-layout.md. 동기: 클로드 1차 빌드가 1080p·이미지없는 중앙정렬 텍스트 덤프 → 코덱스 리디자인 불필요하게. 이전 _2606031952 = typeset 코드 강제. _2606032044 = 다중 인물·교차편집(A3): Phase 1.4·2.0·3.2·3.3-a + Phase 7 lsb-video-crafter 분리.)*
