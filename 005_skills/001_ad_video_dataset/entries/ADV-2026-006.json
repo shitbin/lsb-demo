@@ -1,0 +1,1374 @@
+{
+  "id": "ADV-2026-006",
+  "schema_version": "0.4++",
+  "source_ref": {
+    "platform": "사용자 제공 mp4 (TVCBOOK.com 워터마크 — 레퍼런스 아카이브 샘플)",
+    "title_or_campaign": "安踏速干之王 (ANTA 속건의 왕 — 속건 러닝웨어)",
+    "brand": "ANTA (安踏, 중국 스포츠웨어)",
+    "product": "ANTA RUNNING 速干 (퀵드라이 기능성 러닝 의류)",
+    "model": "(여성 러너 1인 — 일반 모델)",
+    "year": 2026,
+    "production_note": "실사 시네마틱 촬영. 흑백 인서트(아이 CU) + 컬러 야외 러닝. 세로 9:16 숏폼. 중국어 카피·키네틱 옐로 타이포. 음성 나레이션 거의 없음(음악·SFX 주도). 화면 우상단 'TVCBOOK.com' 워터마크는 레퍼런스 출처 표식.",
+    "url": "(미기입 — 사용자 다운로드 파일)"
+  },
+  "category_primary": "apparel.sportswear",
+  "category_tags": [
+    "스포츠웨어",
+    "러닝",
+    "기능성의류",
+    "퀵드라이",
+    "숏폼세로",
+    "키네틱타이포"
+  ],
+  "mood": [
+    "역동·파워",
+    "시네마틱",
+    "청량·상쾌",
+    "결연·집중",
+    "젊음"
+  ],
+  "target_demo": "20-30대 러닝·피트니스 액티브 소비자 (기능성 스포츠웨어 구매층, 중국 시장)",
+  "total_duration": 33.96,
+  "shot_count": 11,
+  "shot_count_corrected": 11,
+  "fps": 25.0,
+  "aspect_ratio": "9:16 (세로)",
+  "hook_position": 0.0,
+  "cta_position": 29.5,
+  "narrative_arc": "흑백 눈동자 ECU(긴장·집중) → 하늘 향해 일어서는 인물(로우앵글 각성) → 스타팅블록에서 폭발 스타트(파워) → 트랙·야외 러닝 + 라임그린 속건 티 → 원단 매크로(ANTA RUNNING 속건 질감) → '安踏速干之王 / 一秒瞬吸汗 速干不粘身' 헤드라인 → 블랙 배경 ANTA 로고",
+  "pacing_curve": "accelerating",
+  "music_tempo_curve": "ramp_up",
+  "wow_cut_index": [
+    3,
+    6,
+    10
+  ],
+  "creative_device": "흑백 긴장(눈)→컬러 폭발(스타트)의 톤 전환으로 운동의 에너지를 극화 + 라임그린 의류와 옐로 키네틱 타이포의 하이비스 컬러로 청량·기능성 각인 + 원단 매크로로 '속건(퀵드라이)' 기술을 물리적으로 증명. 카피는 '속건지왕(속건의 왕)'이라는 직접적 우위 선언 + 기능 베네핏 2행('일초에 땀 흡수, 속건·비점착').",
+  "production_signature": {
+    "capture_style": "live_action",
+    "camera_signature": [
+      "gimbal",
+      "handheld_shake",
+      "dolly_heavy"
+    ],
+    "signature_note": "실사 시네마틱. 위글3D/렌티컬러 아님 — 실제 모션블러·심도·자연광. 스타팅블록/러닝은 짐벌·트래킹·슬로모, 아이 인서트는 흑백 록오프 매크로, 원단은 매크로 슬라이더. 하이키 블루 하늘 배경과 흑백 인서트가 톤 대비.",
+    "color_grade": "high_contrast_vivid",
+    "color_grade_note": "야외 컷은 채도 높은 블루 하늘+라임그린 의류 비비드 그레이딩, 인트로는 흑백 고대비 그레인, 엔딩은 순흑(#000000) 로고.",
+    "texture_fx": "film_grain(흑백 인서트) + clean_digital(컬러)"
+  },
+  "global_layout": {
+    "grid_system": "rule_of_thirds",
+    "subject_placement_dominant": "center",
+    "subject_typo_relation": "typo_over_subject",
+    "negative_space_use": "generous",
+    "layout_note": "세로 9:16. 인물은 화면 하단~중앙, 상단 블루 하늘 여백에 옐로 키네틱 헤드라인. 브랜드 로고(ANTA 마크)는 상단 중앙. 'TVCBOOK.com' 워터마크 우상단 상시(출처표식). 좌측에 작은 옐로 보조 카피.",
+    "subtitle_zone": "상단(옐로 헤드라인) + 좌측(보조 카피)"
+  },
+  "recurring_motifs": [
+    "옐로(형광) 키네틱 타이포",
+    "라임그린 속건 의류",
+    "블루 하늘 하이키 배경",
+    "ANTA 앵귤러 로고 마크",
+    "흑백↔컬러 톤 대비"
+  ],
+  "copywriting": {
+    "tagline_text": "安踏速干之王",
+    "tagline_structure": "브랜드명(安踏) + 우위 선언('速干之王'=속건의 왕) — 카테고리 1등 직접 주장",
+    "tagline_length_syllables": 5,
+    "tagline_position_sec": 29.0,
+    "cta_text": "安踏速干之王",
+    "cta_text_structure": "브랜드+제품우위 슬로건 자체가 CTA 역할(구매유도 직접 문구 대신 기능 우위 각인형)",
+    "cta_position_sec": 29.5,
+    "copy_tone": [
+      "단정적·선언",
+      "기능소구",
+      "파워풀",
+      "직설적"
+    ],
+    "copy_strategy": "장황한 카피 없이 '速干之王(속건의 왕)' 한 방의 우위 선언 + 기능 베네핏 2행('一秒瞬吸汗=일초 즉시 땀 흡수, 速干不粘身=속건·몸에 안 붙음')으로 기능을 직설 전달. 비주얼(러닝·원단 매크로)이 카피를 증명. 음성 나레이션은 거의 없고 카피·비주얼·음악 주도.",
+    "copy_lines_count": 3,
+    "lines": [
+      {
+        "position_sec": 29.0,
+        "text": "安踏速干之王",
+        "function": "우위 선언 헤드라인",
+        "tone": "단정적·선언",
+        "source": "caption"
+      },
+      {
+        "position_sec": 29.5,
+        "text": "一秒瞬吸汗",
+        "function": "기능 베네핏1(즉시 흡한)",
+        "tone": "기능소구",
+        "source": "caption"
+      },
+      {
+        "position_sec": 29.5,
+        "text": "速干不粘身",
+        "function": "기능 베네핏2(속건·비점착)",
+        "tone": "기능소구",
+        "source": "caption"
+      }
+    ],
+    "captions": [
+      {
+        "position_sec": 21.5,
+        "text": "ANTA RUNNING (원단 프린트)",
+        "function": "제품 라인 식별(러닝 전용)"
+      }
+    ],
+    "narration_handling": "none",
+    "narration_note": "유의미한 음성 나레이션 없음(Whisper ko/zh 모두 커버리지 0.03~0.06, '開始'만 검출). 메시지는 전적으로 화면 중국어 카피."
+  },
+  "typography": {
+    "primary_font_class": "산세리프 헤비체(중문, 디스토션/글리치 질감)",
+    "secondary_font_class": "산세리프 볼드(중문 베네핏)",
+    "animation_style": [
+      "kinetic",
+      "pop",
+      "track_in",
+      "static"
+    ],
+    "subtitle_position_dominant": "top",
+    "tagline_position": "top_center",
+    "color_strategy": "형광 옐로(#cfdd8a~) 헤드라인이 블루 하늘에 고대비로 박힘. 디스토션/스캔 질감으로 스포티·디지털 에너지.",
+    "appearance_count": 6,
+    "key_typography_moments_sec": [
+      8.0,
+      15.0,
+      24.0,
+      29.0,
+      31.0
+    ],
+    "typo_motion_dominant": "옐로 헤드라인이 track-in/pop으로 박히고 디스토션·글리치 질감으로 강렬하게. 상단 고정형."
+  },
+  "vfx": {
+    "primary_effects": [
+      "color_pop",
+      "speed_ramp",
+      "glitch",
+      "rim_light"
+    ],
+    "effect_intensity": "moderate",
+    "transition_style_dominant": "cut",
+    "vfx_event_count": 6,
+    "vfx_timing_array_sec": [
+      0.0,
+      8.0,
+      15.0,
+      21.5,
+      29.0,
+      32.3
+    ],
+    "wow_vfx_index": [
+      3,
+      6
+    ],
+    "notable_vfx_note": "핵심은 (1) 흑백→컬러 톤 전환, (2) 스타팅블록 폭발 스타트의 슬로모/스피드램프, (3) 원단 매크로로 속건 질감 강조, (4) 옐로 글리치 키네틱 타이포. 실사 베이스에 절제된 그래픽."
+  },
+  "audio": {
+    "has_audio": true,
+    "language": "zh",
+    "speech_coverage": 0.059,
+    "bgm_likely": true,
+    "narration_lines": [
+      {
+        "start": 28.62,
+        "end": 29.62,
+        "text": "(시작/구령 추정 — 유의미 나레이션 없음)",
+        "text_raw": "開始",
+        "kind": "jingle"
+      }
+    ],
+    "voice_vs_caption": "음성 나레이션 사실상 없음(음악·SFX·발걸음 사운드 주도). 모든 메시지는 화면 중국어 키네틱 카피('安踏速干之王','一秒瞬吸汗','速干不粘身'). caption-only.",
+    "narration_handling": "none",
+    "audio_note": "faster-whisper ko(0.059)·zh(0.029) 모두 거의 무음성. zh에서 '開始'만 28.6s 검출. 음악·러닝 SFX 위주 광고로 판단. 메시지는 전적으로 화면 카피에서 확정."
+  },
+  "shots": [
+    {
+      "index": 1,
+      "duration": 7.52,
+      "framing": "EWS→hidden",
+      "function": "후크 빌드업(하늘/머리 등장)",
+      "color_mood": "high_key_blue_sky",
+      "subject_action": "맑은 블루 하늘만 차다가 프레임 하단에서 인물의 머리가 서서히 떠오름(로우앵글 각성/기상)",
+      "copy_overlay": null,
+      "layout_grid": "rule_of_thirds(상단 하늘 여백)",
+      "subject_position": "center",
+      "subject_typo_layout": null,
+      "typo_motion": null,
+      "camera_angle": "low_angle",
+      "camera_facing": "back",
+      "shot_scope": "wide_env",
+      "gaze": "off_camera",
+      "eye_contact_effect": "하늘 향한 로우앵글로 상승·각성·도전 정서",
+      "props": [
+        "블루 하늘"
+      ],
+      "prop_semantics": "광활한 하늘=가능성·청량, 인물이 떠오름=시작/각성",
+      "color_palette": [
+        "#d3e8fa",
+        "#b1d6ec",
+        "#95c5e3",
+        "#3d2e30"
+      ],
+      "color_intent": "하이키 블루 하늘로 청량·개방감, 인물 실루엣 대비",
+      "pose_description": "프레임 하단에서 머리부터 천천히 올라오는 기상/일어섬 동작 — 도전 직전",
+      "subject_motion": "걷기/일어섬(상승)",
+      "prop_motion": "none",
+      "camera_motion": "틸트/록오프",
+      "camera_motion_intensity": "subtle",
+      "camera_effect_local": "none",
+      "motion_blur": "light",
+      "intra_cut_rhythm": "static",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [],
+      "vfx_intensity_local": "none",
+      "fact_check_flag": false,
+      "notes": "후크 빌드업. 7.52s 최장 — 느린 각성 빌드.",
+      "visible_elements": {
+        "foreground": [],
+        "midground": [
+          "블루 하늘"
+        ],
+        "background": [
+          "맑은 블루 하늘"
+        ],
+        "lighting_env": [
+          "강한 야외 자연광(직사광)"
+        ],
+        "atmosphere": [
+          "햇빛 글로우"
+        ]
+      },
+      "texture": {
+        "primary_subject": "fabric_cotton",
+        "secondary_objects": [
+          "fabric_cotton"
+        ],
+        "background_surface": "matte",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "top",
+        "key_hardness": "hard",
+        "key_color_temp": "cool_7000K",
+        "fill_strength": "moderate",
+        "key_to_fill_ratio": "4:1",
+        "rim_light": true,
+        "practical_lights": [],
+        "shadow_presence": "soft",
+        "overall_contrast": "hi_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#d3e8fa",
+          "#b1d6ec",
+          "#95c5e3",
+          "#3d2e30"
+        ],
+        "palette_role": {
+          "#3d2e30": "subject_dark_anchor",
+          "#d3e8fa": "background_or_highlight",
+          "#b1d6ec": "cool_midtone",
+          "#95c5e3": "cool_midtone"
+        },
+        "color_relationship": "complementary",
+        "temperature_balance": "cool_dominant",
+        "saturation_strategy": "vivid",
+        "contrast_type": "luminance_high",
+        "accent_color": "#cfdd8a",
+        "accent_ratio": "15_percent",
+        "brand_color_match": []
+      }
+    },
+    {
+      "index": 2,
+      "duration": 5.0,
+      "framing": "MS",
+      "function": "각성/준비",
+      "color_mood": "high_key_blue_sky",
+      "subject_action": "인물이 하늘 배경에 자리 잡고 준비 자세(러닝 전 호흡·집중)",
+      "copy_overlay": null,
+      "layout_grid": "rule_of_thirds",
+      "subject_position": "center",
+      "subject_typo_layout": null,
+      "typo_motion": null,
+      "camera_angle": "low_angle",
+      "camera_facing": "three_quarter",
+      "shot_scope": "bust",
+      "gaze": "off_camera",
+      "props": [
+        "운동복",
+        "하늘"
+      ],
+      "prop_semantics": "준비 자세=집중·결의",
+      "color_palette": [
+        "#cae9f8",
+        "#603e38",
+        "#7b635b",
+        "#2a2123"
+      ],
+      "color_intent": "블루 하이키에 인물 톤",
+      "pose_description": "호흡을 고르며 집중하는 준비 포즈",
+      "subject_motion": "미세제스처(호흡/준비)",
+      "prop_motion": "none",
+      "camera_motion": "짐벌/미세",
+      "camera_motion_intensity": "subtle",
+      "camera_effect_local": "none",
+      "motion_blur": "light",
+      "intra_cut_rhythm": "steady",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [],
+      "vfx_intensity_local": "none",
+      "fact_check_flag": false,
+      "notes": "각성·준비 빌드.",
+      "visible_elements": {
+        "foreground": [
+          "여성 러너(라임그린 속건 티)"
+        ],
+        "midground": [
+          "운동복",
+          "하늘"
+        ],
+        "background": [
+          "맑은 블루 하늘"
+        ],
+        "lighting_env": [
+          "강한 야외 자연광(직사광)"
+        ],
+        "atmosphere": [
+          "햇빛 글로우"
+        ]
+      },
+      "texture": {
+        "primary_subject": "skin_natural",
+        "secondary_objects": [
+          "fabric_cotton"
+        ],
+        "background_surface": "matte",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "top",
+        "key_hardness": "hard",
+        "key_color_temp": "cool_7000K",
+        "fill_strength": "moderate",
+        "key_to_fill_ratio": "4:1",
+        "rim_light": true,
+        "practical_lights": [],
+        "shadow_presence": "soft",
+        "overall_contrast": "hi_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#cae9f8",
+          "#603e38",
+          "#7b635b",
+          "#2a2123"
+        ],
+        "palette_role": {
+          "#2a2123": "subject_dark_anchor",
+          "#cae9f8": "background_or_highlight",
+          "#603e38": "warm_accent",
+          "#7b635b": "warm_accent"
+        },
+        "color_relationship": "complementary",
+        "temperature_balance": "split_warm_cool",
+        "saturation_strategy": "vivid",
+        "contrast_type": "luminance_high",
+        "accent_color": "#cfdd8a",
+        "accent_ratio": "15_percent",
+        "brand_color_match": []
+      }
+    },
+    {
+      "index": 3,
+      "duration": 3.0,
+      "framing": "ECU(흑백)",
+      "function": "[와우] 흑백 눈동자(긴장 피크)",
+      "color_mood": "bw_high_contrast",
+      "subject_action": "흑백 고대비로 인물의 눈동자를 극단적 클로즈업 — 집중·결연의 긴장",
+      "copy_overlay": null,
+      "layout_grid": "center",
+      "subject_position": "center",
+      "subject_typo_layout": null,
+      "typo_motion": null,
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "face_only(눈)",
+      "gaze": "to_camera",
+      "eye_contact_effect": "흑백 눈동자 직시로 결연·몰입의 정서 최고조",
+      "props": [],
+      "prop_semantics": null,
+      "color_palette": [
+        "#66382d",
+        "#92caed",
+        "#252225",
+        "#b4d8f1"
+      ],
+      "color_intent": "흑백 고대비 그레인으로 긴장·드라마(컬러 폭발 전 대비)",
+      "pose_description": "눈동자만 화면을 가득 채운 정적 ECU — 결의의 시선",
+      "subject_motion": "정지포즈(미세 눈움직임)",
+      "prop_motion": "none",
+      "camera_motion": "록오프/미세",
+      "camera_motion_intensity": "subtle",
+      "camera_effect_local": "none",
+      "motion_blur": "none",
+      "intra_cut_rhythm": "static",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [
+        "glitch"
+      ],
+      "vfx_intensity_local": "subtle",
+      "fact_check_flag": false,
+      "notes": "★흑백 긴장 인서트. 컬러 폭발 직전 정서 피크. (색팔레트는 인접 컬러 프레임 혼입 — 실제 컷은 흑백)",
+      "visible_elements": {
+        "foreground": [
+          "여성 러너의 눈동자(ECU)"
+        ],
+        "midground": [],
+        "background": [
+          "야외 트랙/하늘 배경"
+        ],
+        "lighting_env": [
+          "흑백 고대비 키라이트"
+        ],
+        "atmosphere": []
+      },
+      "texture": {
+        "primary_subject": "skin_oily",
+        "secondary_objects": [
+          "fabric_cotton"
+        ],
+        "background_surface": "matte",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "front",
+        "key_hardness": "diffused",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "minimal",
+        "key_to_fill_ratio": "8:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "deep",
+        "overall_contrast": "high_contrast"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#66382d",
+          "#92caed",
+          "#252225",
+          "#b4d8f1"
+        ],
+        "palette_role": {
+          "#252225": "subject_dark_anchor",
+          "#b4d8f1": "background_or_highlight",
+          "#66382d": "warm_accent",
+          "#92caed": "cool_midtone"
+        },
+        "color_relationship": "monochrome",
+        "temperature_balance": "balanced",
+        "saturation_strategy": "monochrome",
+        "contrast_type": "luminance_high",
+        "accent_color": "#66382d",
+        "accent_ratio": "15_percent",
+        "brand_color_match": []
+      },
+      "style_prompt": "An extreme black-and-white close-up of a young female runner's eye, intense and focused, fine film grain; hard directional key with deep shadow, high tonal contrast; ECU eye-level frontal, the eye filling the vertical frame; pure monochrome palette, no colour; gritty film-grain texture, tense determined pre-race mood, 9:16 cinematic sport vertical"
+    },
+    {
+      "index": 4,
+      "duration": 3.36,
+      "framing": "MS",
+      "function": "러닝 시작/동작",
+      "color_mood": "vivid_outdoor",
+      "subject_action": "야외에서 러닝 동작 시작(다이내믹), 컬러 복귀",
+      "copy_overlay": null,
+      "layout_grid": "rule_of_thirds",
+      "subject_position": "center",
+      "subject_typo_layout": null,
+      "typo_motion": null,
+      "camera_angle": "eye_level",
+      "camera_facing": "profile",
+      "shot_scope": "full_body",
+      "gaze": "off_camera",
+      "props": [
+        "운동복",
+        "트랙/야외"
+      ],
+      "prop_semantics": "러닝 동작=제품 사용 맥락(기능 의류)",
+      "color_palette": [
+        "#ebf2f6",
+        "#1b161b",
+        "#7a7c5f",
+        "#4f2c24"
+      ],
+      "color_intent": "비비드 야외톤으로 컬러 복귀·에너지",
+      "pose_description": "역동적 러닝 시작 포즈",
+      "subject_motion": "달리기",
+      "prop_motion": "none",
+      "camera_motion": "트래킹/짐벌",
+      "camera_motion_intensity": "moderate",
+      "camera_effect_local": "none",
+      "motion_blur": "moderate",
+      "intra_cut_rhythm": "accelerating",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [],
+      "vfx_intensity_local": "none",
+      "fact_check_flag": false,
+      "notes": "컬러 복귀·러닝 시작.",
+      "visible_elements": {
+        "foreground": [
+          "여성 러너(라임그린 속건 티)"
+        ],
+        "midground": [
+          "운동복",
+          "트랙/야외"
+        ],
+        "background": [
+          "육상 트랙/스타디움"
+        ],
+        "lighting_env": [
+          "강한 야외 자연광(직사광)"
+        ],
+        "atmosphere": [
+          "햇빛 글로우"
+        ]
+      },
+      "texture": {
+        "primary_subject": "skin_natural",
+        "secondary_objects": [
+          "fabric_cotton"
+        ],
+        "background_surface": "rubber",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "45deg_above",
+        "key_hardness": "hard",
+        "key_color_temp": "warm_3000K",
+        "fill_strength": "moderate",
+        "key_to_fill_ratio": "4:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "soft",
+        "overall_contrast": "mid_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#ebf2f6",
+          "#1b161b",
+          "#7a7c5f",
+          "#4f2c24"
+        ],
+        "palette_role": {
+          "#1b161b": "subject_dark_anchor",
+          "#ebf2f6": "background_or_highlight",
+          "#7a7c5f": "warm_accent",
+          "#4f2c24": "warm_accent"
+        },
+        "color_relationship": "complementary",
+        "temperature_balance": "balanced",
+        "saturation_strategy": "vivid",
+        "contrast_type": "luminance_high",
+        "accent_color": "#cfdd8a",
+        "accent_ratio": "15_percent",
+        "brand_color_match": []
+      }
+    },
+    {
+      "index": 5,
+      "duration": 1.96,
+      "framing": "CU(흑백/저채도)",
+      "function": "디테일/긴장 리듬",
+      "color_mood": "bw_desat",
+      "subject_action": "저채도/흑백 톤의 신체·표정 디테일 짧은 컷",
+      "copy_overlay": null,
+      "layout_grid": "center",
+      "subject_position": "center",
+      "subject_typo_layout": null,
+      "typo_motion": null,
+      "camera_angle": "eye_level",
+      "camera_facing": "three_quarter",
+      "shot_scope": "bust",
+      "gaze": "off_camera",
+      "props": [],
+      "prop_semantics": null,
+      "color_palette": [
+        "#402324",
+        "#241524",
+        "#5f444f",
+        "#dce7e5"
+      ],
+      "color_intent": "저채도로 긴장 유지",
+      "pose_description": "(짧은 디테일 컷)",
+      "subject_motion": "미세제스처",
+      "prop_motion": "none",
+      "camera_motion": "핸드헬드",
+      "camera_motion_intensity": "moderate",
+      "camera_effect_local": "none",
+      "motion_blur": "moderate",
+      "intra_cut_rhythm": "accelerating",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [],
+      "vfx_intensity_local": "none",
+      "fact_check_flag": false,
+      "notes": "1.96s 긴장 리듬.",
+      "visible_elements": {
+        "foreground": [
+          "여성 러너(라임그린 속건 티)"
+        ],
+        "midground": [],
+        "background": [
+          "야외 트랙/하늘 배경"
+        ],
+        "lighting_env": [
+          "흑백 고대비 키라이트"
+        ],
+        "atmosphere": []
+      },
+      "texture": {
+        "primary_subject": "skin_natural",
+        "secondary_objects": [
+          "fabric_cotton"
+        ],
+        "background_surface": "matte",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "front",
+        "key_hardness": "diffused",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "minimal",
+        "key_to_fill_ratio": "8:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "deep",
+        "overall_contrast": "high_contrast"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#402324",
+          "#241524",
+          "#5f444f",
+          "#dce7e5"
+        ],
+        "palette_role": {
+          "#241524": "subject_dark_anchor",
+          "#dce7e5": "background_or_highlight",
+          "#402324": "warm_accent",
+          "#5f444f": "neutral_midtone"
+        },
+        "color_relationship": "monochrome",
+        "temperature_balance": "balanced",
+        "saturation_strategy": "monochrome",
+        "contrast_type": "luminance_high",
+        "accent_color": "#402324",
+        "accent_ratio": "15_percent",
+        "brand_color_match": []
+      }
+    },
+    {
+      "index": 6,
+      "duration": 3.16,
+      "framing": "WS",
+      "function": "[와우] 스타팅블록 폭발 스타트",
+      "color_mood": "vivid_outdoor",
+      "subject_action": "라임그린 티+다크 쇼츠 차림 러너가 스타팅블록을 박차고 폭발적으로 출발(트랙·스타디움, 슬로모)",
+      "copy_overlay": null,
+      "layout_grid": "rule_of_thirds",
+      "subject_position": "center",
+      "subject_typo_layout": null,
+      "typo_motion": null,
+      "camera_angle": "eye_level",
+      "camera_facing": "profile",
+      "shot_scope": "full_body",
+      "gaze": "off_camera",
+      "eye_contact_effect": "측면 전신으로 폭발적 추진력·운동성 강조",
+      "props": [
+        "스타팅블록",
+        "라임그린 러닝 티",
+        "러닝화",
+        "트랙·스타디움"
+      ],
+      "prop_semantics": "스타팅블록 스타트=최대 출력의 순간(기능 의류의 퍼포먼스 무대), 라임그린 티=제품 컬러 주역",
+      "color_palette": [
+        "#80a250",
+        "#8eb062",
+        "#a4be80",
+        "#bfd4a0"
+      ],
+      "color_intent": "그린 트랙·라임 의류·블루 하늘의 비비드 대비로 운동 에너지 폭발",
+      "pose_description": "스타팅블록을 박차고 상체를 앞으로 던지는 폭발 스타트 포즈 — 최대 추진",
+      "subject_motion": "달리기(폭발 스타트, 슬로모)",
+      "prop_motion": "none",
+      "camera_motion": "트래킹/슬로모",
+      "camera_motion_intensity": "fast",
+      "camera_effect_local": "none",
+      "motion_blur": "moderate",
+      "intra_cut_rhythm": "accelerating",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [
+        "speed_ramp"
+      ],
+      "vfx_intensity_local": "moderate",
+      "fact_check_flag": false,
+      "notes": "★파워 피크. 스타팅블록 폭발 스타트 + 라임그린 제품 풀 노출.",
+      "visible_elements": {
+        "foreground": [
+          "여성 러너(라임그린 속건 티)"
+        ],
+        "midground": [
+          "스타팅블록",
+          "라임그린 러닝 티",
+          "러닝화",
+          "트랙·스타디움",
+          "스타팅블록"
+        ],
+        "background": [
+          "육상 트랙/스타디움"
+        ],
+        "lighting_env": [
+          "강한 야외 자연광(직사광)"
+        ],
+        "atmosphere": [
+          "햇빛 글로우"
+        ]
+      },
+      "texture": {
+        "primary_subject": "skin_natural",
+        "secondary_objects": [
+          "fabric_cotton",
+          "plastic_glossy",
+          "metallic"
+        ],
+        "background_surface": "rubber",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "45deg_above",
+        "key_hardness": "hard",
+        "key_color_temp": "warm_3000K",
+        "fill_strength": "moderate",
+        "key_to_fill_ratio": "4:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "soft",
+        "overall_contrast": "mid_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#80a250",
+          "#8eb062",
+          "#a4be80",
+          "#bfd4a0"
+        ],
+        "palette_role": {
+          "#80a250": "subject_dark_anchor",
+          "#bfd4a0": "background_or_highlight",
+          "#8eb062": "warm_accent",
+          "#a4be80": "warm_accent"
+        },
+        "color_relationship": "complementary",
+        "temperature_balance": "warm_dominant",
+        "saturation_strategy": "vivid",
+        "contrast_type": "luminance_low",
+        "accent_color": "#cfdd8a",
+        "accent_ratio": "15_percent",
+        "brand_color_match": []
+      },
+      "style_prompt": "A female sprinter in a lime-green quick-dry tee and dark shorts exploding out of the starting blocks on a red running track in a stadium, body thrown forward at full drive, slight motion blur; hard top sunlight, vivid contrast, soft ground shadow; wide profile shot, eye-level, athlete center-frame; vivid palette of green track, lime apparel and blue sky; clean digital with speed-ramp energy, explosive athletic power mood, 9:16 sport vertical"
+    },
+    {
+      "index": 7,
+      "duration": 1.28,
+      "framing": "CU",
+      "function": "디테일/리듬",
+      "color_mood": "vivid_outdoor",
+      "subject_action": "발/신발·신체 디테일 짧은 컷(질주 디테일)",
+      "copy_overlay": null,
+      "layout_grid": "center",
+      "subject_position": "center",
+      "subject_typo_layout": null,
+      "typo_motion": null,
+      "camera_angle": "low_angle",
+      "camera_facing": "profile",
+      "shot_scope": "full_body(부분)",
+      "gaze": "none",
+      "props": [
+        "러닝화",
+        "트랙"
+      ],
+      "prop_semantics": "발 디테일=스피드·접지",
+      "color_palette": [
+        "#eaf3f5",
+        "#5e4038",
+        "#31282d",
+        "#5c6d6c"
+      ],
+      "color_intent": "비비드 디테일",
+      "pose_description": "(질주 발 디테일)",
+      "subject_motion": "달리기",
+      "prop_motion": "none",
+      "camera_motion": "트래킹/팬",
+      "camera_motion_intensity": "fast",
+      "camera_effect_local": "none",
+      "motion_blur": "heavy",
+      "intra_cut_rhythm": "accelerating",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [],
+      "vfx_intensity_local": "none",
+      "fact_check_flag": false,
+      "notes": "1.28s 질주 디테일.",
+      "visible_elements": {
+        "foreground": [],
+        "midground": [
+          "러닝화",
+          "트랙"
+        ],
+        "background": [
+          "육상 트랙/스타디움"
+        ],
+        "lighting_env": [
+          "강한 야외 자연광(직사광)"
+        ],
+        "atmosphere": [
+          "햇빛 글로우"
+        ]
+      },
+      "texture": {
+        "primary_subject": "fabric_cotton",
+        "secondary_objects": [
+          "plastic_glossy"
+        ],
+        "background_surface": "rubber",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "45deg_above",
+        "key_hardness": "hard",
+        "key_color_temp": "warm_3000K",
+        "fill_strength": "moderate",
+        "key_to_fill_ratio": "4:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "soft",
+        "overall_contrast": "mid_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#eaf3f5",
+          "#5e4038",
+          "#31282d",
+          "#5c6d6c"
+        ],
+        "palette_role": {
+          "#31282d": "subject_dark_anchor",
+          "#eaf3f5": "background_or_highlight",
+          "#5e4038": "warm_accent",
+          "#5c6d6c": "neutral_midtone"
+        },
+        "color_relationship": "complementary",
+        "temperature_balance": "balanced",
+        "saturation_strategy": "vivid",
+        "contrast_type": "luminance_high",
+        "accent_color": "#cfdd8a",
+        "accent_ratio": "15_percent",
+        "brand_color_match": []
+      }
+    },
+    {
+      "index": 8,
+      "duration": 2.8,
+      "framing": "MS",
+      "function": "러닝 지속(트랙)",
+      "color_mood": "vivid_track",
+      "subject_action": "트랙을 질주하는 러닝 지속 컷(붉은 트랙·역동)",
+      "copy_overlay": null,
+      "layout_grid": "rule_of_thirds",
+      "subject_position": "center",
+      "subject_typo_layout": null,
+      "typo_motion": null,
+      "camera_angle": "eye_level",
+      "camera_facing": "three_quarter",
+      "shot_scope": "full_body",
+      "gaze": "off_camera",
+      "props": [
+        "붉은 트랙",
+        "운동복"
+      ],
+      "prop_semantics": "트랙 질주=퍼포먼스 지속",
+      "color_palette": [
+        "#944539",
+        "#883b31",
+        "#4b2329",
+        "#a46756"
+      ],
+      "color_intent": "붉은 트랙 비비드로 열기·에너지",
+      "pose_description": "트랙 위 전력 질주 포즈",
+      "subject_motion": "달리기",
+      "prop_motion": "none",
+      "camera_motion": "트래킹",
+      "camera_motion_intensity": "fast",
+      "camera_effect_local": "none",
+      "motion_blur": "moderate",
+      "intra_cut_rhythm": "steady",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [],
+      "vfx_intensity_local": "none",
+      "fact_check_flag": false,
+      "notes": "러닝 지속.",
+      "visible_elements": {
+        "foreground": [
+          "여성 러너(라임그린 속건 티)"
+        ],
+        "midground": [
+          "붉은 트랙",
+          "운동복"
+        ],
+        "background": [
+          "육상 트랙/스타디움"
+        ],
+        "lighting_env": [
+          "강한 야외 자연광(직사광)"
+        ],
+        "atmosphere": [
+          "햇빛 글로우"
+        ]
+      },
+      "texture": {
+        "primary_subject": "skin_natural",
+        "secondary_objects": [
+          "fabric_cotton"
+        ],
+        "background_surface": "rubber",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "45deg_above",
+        "key_hardness": "hard",
+        "key_color_temp": "warm_3000K",
+        "fill_strength": "moderate",
+        "key_to_fill_ratio": "4:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "soft",
+        "overall_contrast": "mid_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#944539",
+          "#883b31",
+          "#4b2329",
+          "#a46756"
+        ],
+        "palette_role": {
+          "#4b2329": "subject_dark_anchor",
+          "#a46756": "background_or_highlight",
+          "#944539": "warm_accent",
+          "#883b31": "warm_accent"
+        },
+        "color_relationship": "complementary",
+        "temperature_balance": "warm_dominant",
+        "saturation_strategy": "vivid",
+        "contrast_type": "luminance_low",
+        "accent_color": "#cfdd8a",
+        "accent_ratio": "15_percent",
+        "brand_color_match": []
+      }
+    },
+    {
+      "index": 9,
+      "duration": 1.16,
+      "framing": "CU",
+      "function": "디테일/리듬",
+      "color_mood": "vivid_outdoor",
+      "subject_action": "신체·의류 디테일 짧은 컷(땀·원단 암시)",
+      "copy_overlay": null,
+      "layout_grid": "center",
+      "subject_position": "center",
+      "subject_typo_layout": null,
+      "typo_motion": null,
+      "camera_angle": "eye_level",
+      "camera_facing": "three_quarter",
+      "shot_scope": "bust",
+      "gaze": "off_camera",
+      "props": [
+        "운동복(라임그린)"
+      ],
+      "prop_semantics": "의류 디테일=원단 매크로 빌드업",
+      "color_palette": [
+        "#f0f6f9",
+        "#3f2720",
+        "#68686f",
+        "#5d5444"
+      ],
+      "color_intent": "비비드 디테일",
+      "pose_description": "(의류 디테일 컷)",
+      "subject_motion": "미세제스처",
+      "prop_motion": "none",
+      "camera_motion": "슬라이더",
+      "camera_motion_intensity": "moderate",
+      "camera_effect_local": "none",
+      "motion_blur": "light",
+      "intra_cut_rhythm": "steady",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [],
+      "vfx_intensity_local": "none",
+      "fact_check_flag": false,
+      "notes": "1.16s 원단 빌드업.",
+      "visible_elements": {
+        "foreground": [
+          "여성 러너(라임그린 속건 티)"
+        ],
+        "midground": [
+          "운동복(라임그린)"
+        ],
+        "background": [
+          "야외 트랙/하늘 배경"
+        ],
+        "lighting_env": [
+          "강한 야외 자연광(직사광)"
+        ],
+        "atmosphere": [
+          "햇빛 글로우"
+        ]
+      },
+      "texture": {
+        "primary_subject": "skin_natural",
+        "secondary_objects": [
+          "fabric_cotton"
+        ],
+        "background_surface": "matte",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "45deg_above",
+        "key_hardness": "hard",
+        "key_color_temp": "warm_3000K",
+        "fill_strength": "moderate",
+        "key_to_fill_ratio": "4:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "soft",
+        "overall_contrast": "mid_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#f0f6f9",
+          "#3f2720",
+          "#68686f",
+          "#5d5444"
+        ],
+        "palette_role": {
+          "#3f2720": "subject_dark_anchor",
+          "#f0f6f9": "background_or_highlight",
+          "#68686f": "neutral_midtone",
+          "#5d5444": "warm_accent"
+        },
+        "color_relationship": "complementary",
+        "temperature_balance": "balanced",
+        "saturation_strategy": "vivid",
+        "contrast_type": "luminance_high",
+        "accent_color": "#cfdd8a",
+        "accent_ratio": "15_percent",
+        "brand_color_match": []
+      }
+    },
+    {
+      "index": 10,
+      "duration": 3.08,
+      "framing": "MS→헤드라인",
+      "function": "[와우] 헤드라인 + 원단/러너",
+      "color_mood": "high_key_blue_sky",
+      "subject_action": "라임그린 티 러너가 블루 하늘 배경에 서고, 상단에 '安踏速干之王 / 一秒瞬吸汗 速干不粘身' 옐로 헤드라인 박힘 (앞서 원단 매크로 ANTA RUNNING 노출)",
+      "copy_overlay": "安踏速干之王 / 一秒瞬吸汗 速干不粘身",
+      "layout_grid": "rule_of_thirds(상단 카피)",
+      "subject_position": "center",
+      "subject_typo_layout": "인물 하단·중앙, 옐로 헤드라인 상단",
+      "typo_motion": "옐로 헤드라인 track-in/글리치 등장",
+      "camera_angle": "low_angle",
+      "camera_facing": "three_quarter",
+      "shot_scope": "bust",
+      "gaze": "off_camera",
+      "eye_contact_effect": "햇빛 받으며 먼 곳 응시 — 상쾌·결의",
+      "props": [
+        "라임그린 속건 티(ANTA RUNNING)",
+        "블루 하늘"
+      ],
+      "prop_semantics": "라임그린 속건 티=제품 주역, ANTA RUNNING 프린트=러닝 라인, 헤드라인과 결합해 '속건의 왕' 각인",
+      "color_palette": [
+        "#b0d4f0",
+        "#343027",
+        "#8bbae8",
+        "#cfdd8a"
+      ],
+      "color_intent": "블루 하늘 + 라임 의류 + 옐로 카피의 하이비스 청량 컬러로 기능·상쾌 각인",
+      "pose_description": "햇빛 속 먼 곳을 바라보는 당당한 러너 포즈 + 상단 카피",
+      "subject_motion": "정지포즈/미세",
+      "prop_motion": "none",
+      "camera_motion": "록오프/미세 푸시",
+      "camera_motion_intensity": "subtle",
+      "camera_effect_local": "none",
+      "motion_blur": "none",
+      "intra_cut_rhythm": "static",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [
+        "color_pop",
+        "glitch"
+      ],
+      "vfx_intensity_local": "moderate",
+      "fact_check_flag": true,
+      "notes": "★헤드라인 컷. '速干之王' 우위 선언 + 기능 2행. 원단 ANTA RUNNING 고증 플래그.",
+      "visible_elements": {
+        "foreground": [
+          "ANTA 앵귤러 로고"
+        ],
+        "midground": [],
+        "background": [
+          "순흑 배경"
+        ],
+        "lighting_env": [],
+        "atmosphere": []
+      },
+      "texture": {
+        "primary_subject": "skin_natural",
+        "secondary_objects": [
+          "fabric_cotton"
+        ],
+        "background_surface": "matte",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "top",
+        "key_hardness": "hard",
+        "key_color_temp": "cool_7000K",
+        "fill_strength": "moderate",
+        "key_to_fill_ratio": "4:1",
+        "rim_light": true,
+        "practical_lights": [],
+        "shadow_presence": "soft",
+        "overall_contrast": "hi_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#b0d4f0",
+          "#343027",
+          "#8bbae8",
+          "#cfdd8a"
+        ],
+        "palette_role": {
+          "#343027": "subject_dark_anchor",
+          "#cfdd8a": "background_or_highlight",
+          "#b0d4f0": "cool_midtone",
+          "#8bbae8": "cool_midtone"
+        },
+        "color_relationship": "complementary",
+        "temperature_balance": "split_warm_cool",
+        "saturation_strategy": "vivid",
+        "contrast_type": "luminance_high",
+        "accent_color": "#cfdd8a",
+        "accent_ratio": "15_percent",
+        "brand_color_match": []
+      },
+      "style_prompt": "A female runner in a lime-green quick-dry tee standing against a bright blue sky bathed in sunlight, a bold fluorescent-yellow Chinese kinetic headline locked at the top of frame; hard top daylight, hi-key, soft shadow; bust shot, low-angle three-quarter, runner lower-center with headline above; high-vis palette of lime green, sky blue and fluorescent yellow #cfdd8a; clean digital with subtle glitch type, fresh confident performance mood, 9:16 sport vertical"
+    },
+    {
+      "index": 11,
+      "duration": 1.64,
+      "framing": "로고",
+      "function": "엔딩/로고",
+      "color_mood": "pure_black",
+      "subject_action": "순흑 배경에 화이트 ANTA 로고(앵귤러 마크)가 등장",
+      "copy_overlay": "(ANTA 로고)",
+      "layout_grid": "center",
+      "subject_position": "none",
+      "subject_typo_layout": "로고 중앙",
+      "typo_motion": "로고 fade/scale in",
+      "camera_angle": "eye_level",
+      "camera_facing": "none",
+      "shot_scope": "none(로고)",
+      "gaze": "none",
+      "props": [
+        "ANTA 로고"
+      ],
+      "prop_semantics": "앵귤러 마크=브랜드 각인(스포츠 다이내미즘)",
+      "color_palette": [
+        "#000000",
+        "#010102",
+        "#272727",
+        "#ecebea"
+      ],
+      "color_intent": "순흑 + 화이트 로고로 강렬·미니멀 마무리",
+      "pose_description": "(인물 없음) 로고 회수",
+      "subject_motion": "none",
+      "prop_motion": "none",
+      "camera_motion": "록오프",
+      "camera_motion_intensity": "none",
+      "camera_effect_local": "none",
+      "motion_blur": "none",
+      "intra_cut_rhythm": "static",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [],
+      "vfx_intensity_local": "none",
+      "fact_check_flag": false,
+      "notes": "엔딩 로고. 순흑 배경.",
+      "visible_elements": {
+        "foreground": [
+          "ANTA 앵귤러 로고"
+        ],
+        "midground": [],
+        "background": [
+          "순흑 배경"
+        ],
+        "lighting_env": [],
+        "atmosphere": []
+      },
+      "texture": {
+        "primary_subject": "fabric_cotton",
+        "secondary_objects": [
+          "fabric_cotton"
+        ],
+        "background_surface": "matte",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "45deg_above",
+        "key_hardness": "hard",
+        "key_color_temp": "warm_3000K",
+        "fill_strength": "minimal",
+        "key_to_fill_ratio": "8:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "deep",
+        "overall_contrast": "mid_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#000000",
+          "#010102",
+          "#272727",
+          "#ecebea"
+        ],
+        "palette_role": {
+          "#000000": "subject_dark_anchor",
+          "#ecebea": "background_or_highlight",
+          "#010102": "neutral_midtone",
+          "#272727": "neutral_midtone"
+        },
+        "color_relationship": "monochrome",
+        "temperature_balance": "balanced",
+        "saturation_strategy": "monochrome",
+        "contrast_type": "luminance_high",
+        "accent_color": "#010102",
+        "accent_ratio": "15_percent",
+        "brand_color_match": []
+      },
+      "style_prompt": "A minimalist sportswear brand end-card: a clean white angular logo mark centered on a pure-black field; dramatic darkness with a single luminous logo, no subject; full-screen vertical graphic; pure black #000000 with crisp white mark; ultra-clean digital finish, bold athletic closing mood, 9:16 end-frame"
+    }
+  ],
+  "analyst_notes": "(1) 브랜드·제품 확정: 화면 직접 판독 — 상단 ANTA 앵귤러 로고, 헤드라인 '安踏速干之王', 기능 카피 '一秒瞬吸汗 速干不粘身', 원단 프린트 'ANTA RUNNING', 엔딩 ANTA 로고. **중국어 광고**(한국어 아님) — language/카피 모두 중문. 安踏(ANTA) 속건 러닝웨어. (2) [중요] 'TVCBOOK.com' 우상단 워터마크 = 레퍼런스 아카이브 출처 표식(광고 본편 요소 아님) — production_note에 명시. (3) 전역 시그니처 = 위글 아님. 실사 시네마틱(짐벌·트래킹·슬로모·매크로). 흑백 인서트(아이 ECU)↔컬러 야외의 톤 대비가 시그니처. (4) 음성 나레이션 사실상 없음(ko 0.059/zh 0.029, '開始'만). caption-only — 메시지 전적으로 화면 중문 카피. narration_handling=none. (5) 비율 9:16 세로 숏폼, 25fps. 11컷 모두 실제 컷(병합 불필요, 하드컷 위주). (6) cut3/cut5는 실제 흑백/저채도이나 자동 color_palette가 인접 컬러 프레임을 일부 혼입 — notes에 명시(객관 HEX는 그대로 두되 해석은 흑백). (7) 데이터셋 내 첫 '스포츠웨어·기능성의류·세로숏폼·중국어·제품기능소구' entry — ref 003(자동차 시네마틱)·004(부동산 감성)·005(리테일 경쾌)와 산업·톤·언어 모두 대조축이라 cross-pollination 가치 큼. (8) v0.4 필드 11컷 전부 채움: 러닝 동작 subject_motion·pose 상세, 흑백/컬러 color_intent 구분.",
+  "verification": {
+    "frames_reviewed": true,
+    "audio_analyzed": true,
+    "hitrate_na": true,
+    "abstraction_checked": true,
+    "abstraction_note": "출연 러너 실명 없음('여성 러너'/'인물'로 추상). 브랜드·제품 정식명은 source_ref와 로고/카피 인용에만. 중문 카피는 짧은 슬로건/기능 문구라 원문 보존(표절 무관). 시각 묘사는 기능·인상으로 추상화.",
+    "v04_fields": "camera_angle/facing/shot_scope/gaze + props/prop_semantics + color_palette/intent + pose_description 채움",
+    "v04pp_fields": "STEP4.5 추가: visible_elements(5층)·texture·lighting(9서브)·color_analysis(8서브) 전 컷 + 핵심컷 style_prompt"
+  },
+  "search_keywords": {
+    "industry": [
+      "sportswear"
+    ],
+    "product_category": [
+      "sportswear",
+      "performance_runningwear"
+    ],
+    "target_demo": [
+      "20s",
+      "30s",
+      "running_fitness",
+      "active_consumers"
+    ],
+    "media_format": [
+      "shortform_vertical_30s_plus",
+      "feature_demo_film"
+    ],
+    "tone": [
+      "dynamic_powerful",
+      "cinematic",
+      "refreshing",
+      "determined_focused"
+    ],
+    "pacing": [
+      "accelerating",
+      "ramp_up"
+    ],
+    "technique": [
+      "bw_color_shift",
+      "slowmo_explosion_start",
+      "fabric_macro_proof",
+      "kinetic_typo",
+      "product_solo_feature_demo"
+    ],
+    "vfx_keywords": [
+      "color_pop",
+      "speed_ramp",
+      "glitch",
+      "rim_light"
+    ],
+    "copy_strategy_keywords": [
+      "superiority_declaration",
+      "feature_benefit_direct",
+      "visual_copy_proof",
+      "caption_led"
+    ],
+    "concept_derivation_pattern": [
+      "breaking_fourth_wall",
+      "highend_fantasy_fusion",
+      "three_part_time_flow"
+    ]
+  },
+  "inferred_creative_thinking": {
+    "confidence": "inferred",
+    "insight_one_liner": "러너는 땀에 젖어 옷이 몸에 붙는 불쾌감을 가장 싫어한다 — '속건'은 기능 스펙이 아니라 '질주에 집중할 자유'다",
+    "persona_one_liner": "20-30대 러닝·피트니스 액티브 소비자(중국 시장)",
+    "moment_one_liner": "땀이 차오르는 한여름 트랙·러닝의 한복판",
+    "product_role_one_liner": "일초에 땀을 흡수하고 몸에 안 붙는 '속건의 왕' — 질주에 몰입하게 하는 러닝웨어",
+    "punchline_one_liner": "安踏速干之王 (속건의 왕)",
+    "differentiator_one_liner": "흑백 긴장→컬러 폭발의 톤 드라마 + 원단 매크로로 '속건'을 물리적으로 증명하는 기능소구",
+    "brand_fit_one_liner": "ANTA는 중국 1위 스포츠 브랜드, 러닝 카테고리에서 기능 우위('속건의 왕') 주장이 자연스러움"
+  },
+  "inferred_brief": "20-30대 러닝·피트니스 소비자를 타깃으로, ANTA 속건(퀵드라이) 러닝웨어의 기능 우위를 알리는 약 34초 세로 숏폼. 흑백 긴장 인트로→스타팅블록 폭발 스타트→트랙 질주→원단 매크로로 '속건'을 증명하고 '安踏速干之王 / 一秒瞬吸汗 速干不粘身'으로 각인. 톤은 역동·파워·청량. 음성 없이 음악·비주얼·중문 키네틱 카피 주도. 하이비스(라임그린·옐로) 컬러.",
+  "cross_pollination_tags": {
+    "adjacent": [
+      "running_shoes_sportsgear",
+      "energy_drink",
+      "fitness_app_wearable"
+    ],
+    "distant": [
+      "automotive_performance",
+      "gaming_esports",
+      "outdoor_camping"
+    ],
+    "contrast": [
+      "realestate_emotional_presale",
+      "finance_insurance",
+      "fnb_fun_ad"
+    ]
+  }
+}
