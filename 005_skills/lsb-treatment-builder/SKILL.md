@@ -3,11 +3,11 @@ name: lsb-treatment-builder
 description: >-
  LSB Production 광고 기획안(트리트먼트) 제작 스킬. lsb-ad-planner가 만든
  기획안 마크다운(컨셉·카피·컷리스트)을 입력으로 받아, 주인공 캐릭터 마스터시트 →
- 씬별 멀티패널 보드 → 컷 슬라이스 → 스튜디오 프리윌루전급 시각 기획안 PDF까지
+ 씬별 멀티패널 보드 → 컷 슬라이스 → 스튜디오급 시각 기획안 PDF까지
  완성한다. 데이터셋이 있으면 cross-pollination으로 장표 비주얼 톤
  (레이아웃·타이포·컬러·구조)을 끌어와 디자인 결정에 쓴다. 반드시 다음 상황에서
  사용한다: "기획안 PDF 만들어줘", "트리트먼트 짜줘", "이 컨셉으로 장표 만들어줘",
- "캐릭터시트 + 콘티 + 장표 한 번에", "프리윌루전 스타일 기획안", "양반김 식으로",
+ "캐릭터시트 + 콘티 + 장표 한 번에", "양반김 식으로",
  "우리은행 식으로", lsb-ad-planner 출력을 던지며 비주얼 제작을 요청할 때.
  컨셉을 잡는 일(cross-pollination, 후보 N안 생성)은 lsb-ad-planner가 담당하므로
  이 스킬은 그걸 다시 하지 않는다.
@@ -123,7 +123,7 @@ vocabulary(framing/camera_angle/typo_motion 등)와 필드 정의는 `REFERENCE/
 
 빠진 필드는 추측하지 않는다. 특히 **카메라(앵글·방향·움직임)·전환·타이포 모션**은 비워두면 안 된다. 작성 순서: ①5필수 → ②인물·소품 → ③카메라 → ④트랜지션·리듬 → ⑤컬러·타이포 → ⑥VFX·시각 인벤토리 → ⑦recreation_prompts → ⑧메타.
 
-**1.2 Deck Style 결정.** 프리윌루전 계열 장표는 한 톤이 아니다.
+**1.2 Deck Style 결정.** 장표 스타일은 한 톤이 아니다.
 
 | 스타일 | 언제 | 특징 |
 |--------|------|------|
@@ -133,7 +133,7 @@ vocabulary(framing/camera_angle/typo_motion 등)와 필드 정의는 `REFERENCE/
 | KG INSTEROID식 (오브제) | 제품 KV필름 | 오브제 클로즈업 그리드, 짧은 캡션 |
 | G-EYE식 (세계관) | 캐릭터·세계관 바이럴 | 일러스트형 일관 캐릭터, 코믹 컷 분할 |
 
-데이터셋이 있으면 cross-pollination으로 비슷한 톤의 entry를 가중치 0.2~1.2로 끌어와 후보 정렬 후 사용자에게. 없으면 위 5개(또는 핸드북 11 카테고리)에서 선택. 핸드북(`REFERENCE/freewillusion-handbook.md`)과 `REFERENCE/deck-styles.md`(디자인 시그니처) 둘 다 참조. **스타일은 용도(기획안/트리트먼트/PPM) × 톤(시네마틱/서비스·펀/럭셔리/세계관/공익/컨퍼런스/B2B/교육)으로 트랙을 고른다** — `REFERENCE/presentation-rules.md` §0·§5. 5종은 시드일 뿐, 트랙 매트릭스로 *어떤 도메인 기획서든* 매핑된다.
+데이터셋이 있으면 cross-pollination으로 비슷한 톤의 entry를 가중치 0.2~1.2로 끌어와 후보 정렬 후 사용자에게. 없으면 위 5개에서 선택. `REFERENCE/deck-styles.md`(디자인 시그니처) 참조. **스타일은 용도(기획안/트리트먼트/PPM) × 톤(시네마틱/서비스·펀/럭셔리/세계관/공익/컨퍼런스/B2B/교육)으로 트랙을 고른다** — `REFERENCE/presentation-rules.md` §0·§5. 5종은 시드일 뿐, 트랙 매트릭스로 *어떤 도메인 기획서든* 매핑된다.
 
 **1.3 Style 컨펌.** "이 스타일로 가는 게 맞아?" 한 번 묻고 넘어간다. 비싼 단계 전 마지막 값싼 결정점.
 
@@ -191,6 +191,35 @@ plan을 받으면 모든 컷의 transition_in/out을 스캔해 분기 결정 후
 
 **3.2-b 트랜지션 보드 (단일 캔버스).** 화려한 카메라 무빙 트랜지션은 **이전컷 끝 + 정점 + 다음컷 시작을 한 캔버스에 동시 생성**. reference 3개(마스터 + Cut N 슬라이스 + Cut N+1 슬라이스). 타입별 패턴: REFERENCE/transitions.md + prompts/transition_board.md. 슬라이스 안 함(트랜지션 페이지에 그대로).
 
+**3.2-c 이미지 생성 셋업 (★ 모델·해상도·레퍼런스 고정).** 보드/키비주얼/제품컷 이미지는 Higgsfield `generate_image`로 만들되 아래를 **항상 명시**한다(기본값에 맡기지 말 것 — 기본이 1k·low라 명시 안 하면 저화질로 나오고 모델이 엉뚱하게 잡힌다):
+- `params.model = "gpt_image_2"` (GPT Image 2). **`nano_banana_2`·`nano_banana_flash`·기타 모델로 폴백 금지.**
+- `params.resolution = "2k"` · `params.quality = "high"`. **해상도는 항상 2K 고정**(1k·4k 금지). 비율은 `params.aspect_ratio`로 매체에 맞게만(9:16 / 16:9 / 1:1 …).
+- **사용자 레퍼런스 이미지 사용 (필수 · 무시 금지):** ① 사용자가 올린 이미지를 작업폴더로 다운로드 → ② `media_upload`(presigned URL) → 그 URL에 바이트 PUT(curl) → `media_confirm(type="image")` → ③ 받은 media UUID를 `params.medias=[{ "value": <UUID>, "role": "image" }]`로 넘겨 레퍼런스로 쓴다(외부 URL 직접보다 업로드 UUID가 안전). product-lock 제품 이미지도 동일.
+- 비싼 생성 전 `get_cost:true`로 비용 프리플라이트 권장. 같은 컷을 불필요하게 재생성하지 않는다.
+- **코드 드로잉 대체 금지 (★):** PIL `draw`(사각형·원·선·패스)로 아이콘·일러스트·로고·차트를 그려 생성형 이미지를 대신하지 않는다. 페이지에 들어가는 비주얼은 `generate_image`가 만든 실제 래스터(`assets/`)만 인정한다. 이미지 생성·다운로드가 실패하면 **벡터/도형으로 때우지 말고 빌드를 멈추고 사용자에게 알린다.**
+- (모델명·해상도·셋업은 내부 정보 — 사용자에게 "모델 확인했습니다" 식으로 노출 금지.)
+
+**3.2-d 생성 이미지 로컬 다운로드 (★ PIL 입력은 반드시 로컬 파일 · URL 직접 사용 금지).** 이미지 생성 도구(Higgsfield 등)가 돌려주는 건 **원격 URL(또는 job)** 이다. 이후 단계(3.3 슬라이스·Phase 4 PIL 합성)는 **URL을 직접 열 수 없다** — `PIL.Image.open(url)`은 실패한다(과거 21바이트·`UnidentifiedImageError`의 원인). 그러니 생성 직후 **반드시 로컬로 내려받아 `assets/`에 저장**하고, 그다음부터는 *로컬 경로만* 쓴다(슬라이스·합성·`hero_stills/`·`확정컷/` 전부). **URL을 경로/`src`로 넘기지 말 것.**
+- 저장 후 `PIL.Image.open(path).verify()`로 유효성 확인. 파일이 수백 바이트 이하로 작거나 안 열리면 **다운로드 실패**(대개 컨테이너 네트워크 차단 또는 URL 만료) — 빈 이미지로 빌드하지 말고 재시도하거나 사용자에게 알린다.
+- 헬퍼(표준 라이브러리, 추가 설치 불필요):
+ ```python
+ import os, urllib.request
+ from PIL import Image
+ def fetch_image(url, dest):
+     os.makedirs(os.path.dirname(dest), exist_ok=True)
+     req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
+     with urllib.request.urlopen(req, timeout=60) as r, open(dest, "wb") as f:
+         f.write(r.read())
+     with Image.open(dest) as im:        # 깨진/빈 파일 차단
+         im.verify()
+     if os.path.getsize(dest) < 1024:
+         raise ValueError("다운로드 이미지가 비정상적으로 작음 — 환경 네트워킹/URL 확인")
+     return dest
+ # 예: local = fetch_image(gen_url, f"{proj}/assets/board_{cut}.png")  → 이후 PIL은 local만 사용
+ ```
+- 도구가 URL 대신 base64/파일 ID를 주면 그것을 디코드·저장해 동일하게 로컬 파일로 만든 뒤 사용한다.
+- ⚠ 컨테이너 **네트워킹이 꺼져 있으면 다운로드가 빈 파일로 실패**한다. 환경 networking을 unrestricted(또는 해당 CDN 호스트 허용)로 둬야 한다.
+
 **3.3 슬라이스.** 흰 갭 감지로 컷별 프레임 절단. 검증된 슬라이서 `scripts/slice_boards.py`(grayscale → 컬럼 흰비율 → N등분 중심±13% 윈도우 → trim_white). `colw>0.82` 디폴트, 갭 없으면 0.75~0.88 튜닝. 컷 번호로 네이밍해 `확정컷/`에.
 
 **3.3-a 인물 분리 검사 (다중 인물 필수 — A3 학습).** 보드 reference 배치 직후, 각 컷의 `subject_identity`가 맞물리는지 확인: 주인공 컷엔 주인공 시트만, 다른 인물 컷(카페 손님·알바생)엔 그 인물 시트만. 다른 인물 컷에 주인공 마스터시트가 섞이면 빼거나 weight를 낮춘다. (A3: 이 검사 부재로 카페 컷 인물이 주인공으로 변질.)
@@ -199,12 +228,12 @@ plan을 받으면 모든 컷의 transition_in/out을 스캔해 분기 결정 후
 
 ### Phase 4 — Deck Build (PIL + Korean fonts)
 
-**4.1 빌드 스택.** Python + PIL. 폰트: 제목 Black Han Sans, 본문/캡션 Noto Sans KR(variable). **캔버스 = 4K(3840×2160) 기본** — 좌표·폰트는 논리(1920×1080)로 쓰고 `build_treatment_template`의 `SCALE=2`로 ×2 출력한다(1080p는 빠른 드래프트일 때만). multi-page PDF. (다운로드 명령: REFERENCE/deck-build.md.) **저해상도(1080p) 납품 금지** — 코덱스 리디자인 기준이 4K다.
+**4.1 빌드 스택.** Python + PIL. 폰트: 제목 Black Han Sans, 본문/캡션 Noto Sans KR(variable). **캔버스 = 4K(3840×2160) 기본** — 좌표·폰트는 논리(1920×1080)로 쓰고 `build_treatment_template`의 `SCALE=2`로 ×2 출력한다(1080p는 빠른 드래프트일 때만). multi-page PDF. **모든 이미지 입력은 로컬 파일만(3.2-d에서 다운로드한 것) — URL을 PIL에 직접 넘기지 말 것.** (다운로드 명령: REFERENCE/deck-build.md.) **저해상도(1080p) 납품 금지** — 코덱스 리디자인 기준이 4K다.
 
 **4.1-에디토리얼 레이아웃 시스템 (★ 코덱스급 기본값 · 평면 텍스트 덤프 금지).** 매 프로젝트 레이아웃을 새로 손짜지 말고 `build_treatment_template`의 **아키타입**을 쓴다. 규칙·토큰: `REFERENCE/editorial-layout.md`.
 - `T.set_fonts(title_path, body_path)` 먼저. 테마는 `T.THEME_EDITORIAL`을 **브랜드 팔레트로 덮어쓴다**(bg/surface(크림)/ink/muted/point/line). 크림 surface를 *콘텐츠·카드·보드 면*으로 적극 쓴다(전부 어둡게 두지 않는다 — 리디자인 격차의 핵심).
 - 아키타입: `T.cover_split()`(표지 = 텍스트 좌 / **히어로 이미지** 우) · `T.two_col()`(논증 좌 / **크림 PROOF 카드 또는 이미지** 우) · `T.fullbleed_kv()`(풀블리드 키비주얼 + 하단 스크림 텍스트) · `T.cut_board()`(**확정컷 썸네일 그리드** 4열). 좌측정렬 위계(eyebrow→headline→body)가 기본, 중앙정렬은 선언형 1~2줄 슬로건에만.
-- **이미지 의무(IMAGE MANDATE):** 표지·키비주얼·컷보드·씬 페이지는 **실제 이미지(hero_stills/·확정컷/)를 합성**한다 — 그라데이션 위 텍스트만 두지 않는다. 빌드 직전 `T.assert_images_present(page_kind, placed_flags)`로 0장이면 보류(Phase 5 ⑩).
+- **이미지 의무(IMAGE MANDATE):** 표지·키비주얼·컷보드·씬 페이지는 **실제 이미지(hero_stills/·확정컷/)를 합성**한다 — 그라데이션 위 텍스트만 두지 않는다. 빌드 직전 `T.assert_images_present(page_kind, placed_flags)`로 0장이면 보류(Phase 5 ⑩). **코드로 그린 벡터·아이콘·도형은 '이미지'로 치지 않는다 — `generate_image` 래스터만 인정.**
 - **컷보드 1장 필수:** 전 컷을 한 페이지 썸네일 그리드로 보여주는 `cut_board` 페이지를 비주얼 언어/콘티 앞에 둔다(리디자인 p12).
 
 **4.1-a 두 페이지 모드 — 광고주용 vs 제작용.** 독자가 둘(광고주 5초 캐치 / 제작팀 풀필드). 같은 데이터를 두 모드로 렌더.
@@ -302,12 +331,12 @@ def cross_pollinate(entries_dir, target_category, top_n=5):
 - **플래너가 안 만든 컷 필요** → 플래너로 돌아가 보강하거나 사용자에게 "이 컷 추가 가능?" 묻고 plan.md에 박은 뒤 빌드. **이 스킬이 임의로 컷을 늘리지 않는다.**
 
 ## 트리거 키워드
-"기획안 PDF 만들어줘" / "트리트먼트 짜줘" / "양반김·우리은행·프리윌루전 식으로" / "이 컨셉으로 장표" / "캐릭터시트+콘티+장표 한 번에" / "lsb-ad-planner 출력 PDF로". 컨셉을 새로 잡거나 후보 N안 요청이면 이 스킬이 아니다 — `lsb-ad-planner`로.
+"기획안 PDF 만들어줘" / "트리트먼트 짜줘" / "양반김·우리은행 식으로" / "이 컨셉으로 장표" / "캐릭터시트+콘티+장표 한 번에" / "lsb-ad-planner 출력 PDF로". 컨셉을 새로 잡거나 후보 N안 요청이면 이 스킬이 아니다 — `lsb-ad-planner`로.
 
 > **전략 논리의 *원천*은 planner(컨셉·인사이트·strategy_spine)다. builder는 그것을 논리적 발표 구조(STRATEGY 섹션)로 *렌더*할 뿐 새 전략을 지어내지 않는다. 단, 입력에 strategy_spine이 비면 사용자와 함께 채운 뒤 진행(빌드 게이트).**
 
 ## 함께 읽어야 할 보조 문서
-- `REFERENCE/freewillusion-handbook.md` — 사고법·페이지·카피 핸드북(가장 중요).
+- `REFERENCE/keyword-vocabulary.md` — 사고법·카피·키워드 분류(§8).
 - `REFERENCE/cut-schema.md` — 컷 30+ 필드 + 시각 인벤토리 + recreation_prompts 정의 + 영문 vocabulary.
 - `REFERENCE/transitions.md` — 트랜지션 단일 캔버스 원칙·분기 룰.
 - `REFERENCE/vfx-in-board.md` — VFX 인-보드 시각화.
@@ -327,4 +356,4 @@ def cross_pollinate(entries_dir, target_category, top_n=5):
 - (cross-pollination 맵·analyzer→treatment 매핑: `lsb-ad-planner/schema.md` §3·§5. 컷 시작프레임 t2i/i2v: `lsb-ad-analyzer/REFERENCE/frame-recreation-prompts.md`.)
 
 ---
-*버전: lsb-treatment-builder_2606041330 · 2026-06-04 13:30 KST. 변경 내역은 적용방법.md 참조. (_2606041330 = **에디토리얼 레이아웃 시스템(코덱스 리디자인급 기본값)**: build_treatment_template §8 — 4K(3840×2160) 기본 + 아키타입 cover_split/two_col/fullbleed_kv/cut_board + 팔레트 토큰(크림 surface) + 이미지 의무 게이트 assert_images_present + REFERENCE/editorial-layout.md. 동기: 클로드 1차 빌드가 1080p·이미지없는 중앙정렬 텍스트 덤프 → 코덱스 리디자인 불필요하게. 이전 _2606031952 = typeset 코드 강제. _2606032044 = 다중 인물·교차편집(A3): Phase 1.4·2.0·3.2·3.3-a + Phase 7 lsb-video-crafter 분리.)*
+*버전: lsb-treatment-builder_2606051640 · 2026-06-05 16:40 KST. (_2606051640 = Phase 3.2-c 이미지 생성 셋업 고정 — model=gpt_image_2 · resolution=2k · quality=high(기본 1k/low 금지, nano_banana 폴백 금지) · 사용자 레퍼런스 media_upload→medias 사용; 다운로드 블록은 3.2-d로 이동.) 이전 _2606051140 = Phase 3.2-d(구 3.2-c) 생성 이미지 로컬 다운로드 강제 — PIL은 URL을 못 여니 assets/로 받은 뒤 로컬 경로만 사용, verify로 빈/깨진 파일 차단; Phase 4.1 'URL 직접 사용 금지' 명시. 동기: 힉스필드 생성 URL을 PDF 빌드(PIL)에 직접 넣어 이미지 삽입 실패.) 변경 내역은 적용방법.md 참조. (_2606041330 = **에디토리얼 레이아웃 시스템(코덱스 리디자인급 기본값)**: build_treatment_template §8 — 4K(3840×2160) 기본 + 아키타입 cover_split/two_col/fullbleed_kv/cut_board + 팔레트 토큰(크림 surface) + 이미지 의무 게이트 assert_images_present + REFERENCE/editorial-layout.md. 동기: 클로드 1차 빌드가 1080p·이미지없는 중앙정렬 텍스트 덤프 → 코덱스 리디자인 불필요하게. 이전 _2606031952 = typeset 코드 강제. _2606032044 = 다중 인물·교차편집(A3): Phase 1.4·2.0·3.2·3.3-a + Phase 7 lsb-video-crafter 분리.)*

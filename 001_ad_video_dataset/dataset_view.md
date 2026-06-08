@@ -5,7 +5,7 @@
 | ID | 브랜드 | 캠페인 | 카테고리 | 길이 | 컷 | 언어 | 비고 |
 |---|---|---|---|---|---|---|---|
 | ADV-2026-001 | 우리은행 | 우월한 월급통장 | `IT.fintech` | 21.47s | 15 | ko | style_prompt 4 |
-| ADV-2026-002 | KGM | 프리윌루전-무쏘 (The Original) | `auto.pickup_truck` | 30.03s | 11 | ko | style_prompt 4 |
+| ADV-2026-002 | KGM | 무쏘 (The Original) | `auto.pickup_truck` | 30.03s | 11 | ko | style_prompt 4 |
 | ADV-2026-003 | 현대자동차 (Hyundai) | 디 올 뉴 팰리세이드 하이브리드 (source TcmmQmHGvzU) | `auto.suv_hybrid` | 30.03s | 27 | ko | style_prompt 6 |
 | ADV-2026-004 | 한양립스 | 청주 한양립스 더 벨루체 (분양 TVC) | `realestate.apartment_presale` | 30.03s | 17 | ko | style_prompt 4 |
 | ADV-2026-005 | 올리브영 | 올리브영 오늘드림 | `retail.beauty_platform` | 28.97s | 14 | ko | style_prompt 3 |
