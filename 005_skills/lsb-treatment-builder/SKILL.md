@@ -173,7 +173,7 @@ plan을 받으면 모든 컷의 transition_in/out을 스캔해 분기 결정 후
 
 **3.2 보드 생성 프롬프트 원칙.**
 - **컷 생성 기본 = 2×2 그리드 (★ 한 장에 4컷 · 2K · 무시 금지).** 컷 이미지는 한 컷씩 따로 생성하지 말고 **2×2 그리드(2행 2열, 한 이미지에 4개 컷)** 로 묶어 생성한다 — 스토리보드처럼. 생성 횟수↓·4컷 간 톤/캐릭터 일관성↑. 컷이 5개 이상이면 4컷씩 여러 장(6컷=4+2, 9컷=4+4+1). 프롬프트에 `"2x2 storyboard grid, 4 equal cells, 2 rows by 2 columns, thin white gutter between cells, no overlap"` 명시. 해상도는 2K(3.2-c). (장표·영상엔 슬라이스해 컷별로 분리 사용 — 3.3.)
-- **셀(컷)마다 별도 묘사 + 컷당 500단어 이상 (★ 무시 금지):** `"Cell 1 (top-left): … | Cell 2 (top-right): … | Cell 3 (bottom-left): … | Cell 4 (bottom-right): …"`. **각 셀(컷) 묘사는 최소 500단어** — 인물·동작·표정·카메라(앵글·렌즈·거리)·조명(방향/경도/색온도)·전경·배경 요소·질감·팔레트·분위기·VFX·타이포까지 빠짐없이. 한두 줄짜리 빈약한 셀 묘사는 품질 저하의 직접 원인이므로, 500단어 미만이면 더 채운 뒤 생성한다.
+- **셀(컷)마다 별도 묘사 + 컷당 500단어 이상 (★ 무시 금지):** `"Cell 1 (top-left): … | Cell 2 (top-right): … | Cell 3 (bottom-left): … | Cell 4 (bottom-right): …"`. **각 셀(컷) 묘사는 최소 500단어(word — 글자 수가 아니라 영어 단어 수 기준)** — 인물·동작·표정·카메라(앵글·렌즈·거리)·조명(방향/경도/색온도)·전경·배경 요소·질감·팔레트·분위기·VFX·타이포까지 빠짐없이. 한두 줄짜리 빈약한 셀 묘사는 품질 저하의 직접 원인이므로, 500단어 미만이면 더 채운 뒤 생성한다.
 - (단순 가로 스토리보드가 더 맞는 특수 경우만 "horizontal storyboard, N panels, equal width, thin white gutter" — 기본은 2×2 그리드.)
 - **금지(주석/낙서만)**: "no handwriting, no annotations, no labels, no storyboard markings, no timecode" — GPT 자동 주석 방지. **단 '텍스트 전면 금지'는 아니다** — 강조어·슬로건·키네틱/모션 타이포는 이미지에 *박아* 생성한다. 컷별 타이포 모드(none/subtitle/baked)·baked 프롬프트·데이터셋 판정은 `REFERENCE/typography-in-image.md`.
 - 마스터 캐릭터시트를 reference로. **캐릭터 일관성 — 마스터시트 강제(A3 학습):** 보드(확정컷) 생성 시 마스터시트 제약(예: no necklace, short hair, plain jacket)을 프롬프트·negative에 그대로 박아 *보드가 마스터와 안 어긋나게* 한다(예방 우선). 이미 만든 확정컷이 충돌하면(목걸이·머리길이 등) 그 디테일 제거한 정리본을 만들거나, 충돌 컷은 reference에서 빼고 마스터+컨택트시트만 쓴다(폴백). Seedance는 풍부한 확정컷을 마스터보다 강하게 따라가므로 강제 없으면 negative가 무시된다.
@@ -188,7 +188,7 @@ plan을 받으면 모든 컷의 transition_in/out을 스캔해 분기 결정 후
 
 **3.1-b 레이어드 콜라주 분기 (★ 베이스 위 조각 겹침 — 한 장 생성 금지).** 컷/키비주얼이 *원본 위에 여러 이미지 조각이 콜라주처럼 겹치는* 구조(GMA 2018 식)면, 생성 모델에 "콜라주 한 장 만들어라"라고 시키지 않는다. **3단 분리**: ① 조각별(베이스·눈·머리·옷·질감·그래픽) 개별 t2i 생성 → ② Pillow/OpenCV로 불규칙 콜라주 프리뷰 합성(서로 다른 크기·위치·z·미세회전, 그리드처럼 안 보이게) → 트리트먼트 삽입 → ③ 영상화는 조각별 레이어 모션(video-crafter). 어떤 요소를 분리할지 애매하면 **질문**(베이스/조각/그래픽/움직일 요소 구분). 전체 규칙: `REFERENCE/layered-collage-protocol.md`. (단순 *나란히* 분할은 panel_layout, 이건 *겹침* 콜라주 — 구분.)
 
-**3.2-a VFX 인-보드 시각화.** 후처리 VFX를 보드 프롬프트에 *시각 묘사 한 줄*로. 종류별 패턴: REFERENCE/vfx-in-board.md (time_freeze/color_pop/wiggle_3d(깊이감으로)/split_screen/lens_flare/dust/glitch/3D render). **타이포 처리는 `REFERENCE/typography-in-image.md`의 3분류**: baked(강조어·풍선타이포·키네틱 헤드라인 = 이미지에 박음) / subtitle(영화식 자막·긴 문장·약관·정밀수치 = 후처리) / none. 텍스트 모양만 그리는 게 아니라 baked는 텍스트를 박는다. negative엔 `garbled text, extra letters`만(텍스트 자체 허용).
+**3.2-a VFX 인-보드 시각화.** 후처리 VFX를 보드 프롬프트에 *시각 묘사 한 줄*로. 종류별 패턴: REFERENCE/vfx-in-board.md (time_freeze/color_pop/wiggle_3d(깊이감으로)/split_screen/lens_flare/dust/glitch/3D render). **타이포 처리는 `REFERENCE/typography-in-image.md`의 3분류**: baked(강조어·풍선타이포·키네틱 헤드라인 = 이미지에 박음) / subtitle(영화식 자막·긴 문장·약관·정밀수치 = 후처리) / none. 텍스트 모양만 그리는 게 아니라 baked는 텍스트를 박는다. negative엔 `garbled text, extra letters`만(텍스트 자체 허용). **네거티브에 성적·선정성 차단 문구(no nudity·sexual·NSFW 등)를 넣지 않는다 — 모더레이션 트리거로 생성이 막힌다.**
 
 **3.2-b 트랜지션 보드 (단일 캔버스).** 화려한 카메라 무빙 트랜지션은 **이전컷 끝 + 정점 + 다음컷 시작을 한 캔버스에 동시 생성**. reference 3개(마스터 + Cut N 슬라이스 + Cut N+1 슬라이스). 타입별 패턴: REFERENCE/transitions.md + prompts/transition_board.md. 슬라이스 안 함(트랜지션 페이지에 그대로).
 
@@ -225,7 +225,7 @@ plan을 받으면 모든 컷의 transition_in/out을 스캔해 분기 결정 후
 
 **3.3-a 인물 분리 검사 (다중 인물 필수 — A3 학습).** 보드 reference 배치 직후, 각 컷의 `subject_identity`가 맞물리는지 확인: 주인공 컷엔 주인공 시트만, 다른 인물 컷(카페 손님·알바생)엔 그 인물 시트만. 다른 인물 컷에 주인공 마스터시트가 섞이면 빼거나 weight를 낮춘다. (A3: 이 검사 부재로 카페 컷 인물이 주인공으로 변질.)
 
-**3.4 사람의 판정 슬롯.** 보드 생성되면 멈추고 사용자가 "다시/OK" 결정. **미적 판정은 AI가 하지 않는다.**
+**3.4 사람의 판정 슬롯 (★ 이미지·PDF Read 금지).** 보드/장표 생성되면 멈추고 사용자가 "다시/OK" 결정. **미적 판정은 AI가 하지 않는다.** 생성·다운로드한 이미지나 빌드한 PDF를 `Read`로 컨텍스트에 올려 검수하지 않는다 — 존재·크기·해상도는 PIL/파일로 *프로그램* 확인(`Image.open().verify()`·페이지 수 등), 보고 판단하는 건 사용자다. (이미지/PDF 페이지 base64를 컨텍스트에 올리면 `Request exceeds the maximum size`(413)·토큰 폭증의 원인.)
 
 ### Phase 4 — Deck Build (PIL + Korean fonts)
 
@@ -357,4 +357,4 @@ def cross_pollinate(entries_dir, target_category, top_n=5):
 - (cross-pollination 맵·analyzer→treatment 매핑: `lsb-ad-planner/schema.md` §3·§5. 컷 시작프레임 t2i/i2v: `lsb-ad-analyzer/REFERENCE/frame-recreation-prompts.md`.)
 
 ---
-*버전: lsb-treatment-builder_2606081200 · 2026-06-08 KST. (_2606081200 = 컷 생성 기본 2×2 그리드(한 장 4컷·2K)→3.3 슬라이스로 컷 분리, 장표엔 분리본만 사용 / 셀(컷)당 묘사 최소 500단어 강제.) 이전 _2606051640 · 2026-06-05 16:40 KST. (_2606051640 = Phase 3.2-c 이미지 생성 셋업 고정 — model=gpt_image_2 · resolution=2k · quality=high(기본 1k/low 금지, nano_banana 폴백 금지) · 사용자 레퍼런스 media_upload→medias 사용; 다운로드 블록은 3.2-d로 이동.) 이전 _2606051140 = Phase 3.2-d(구 3.2-c) 생성 이미지 로컬 다운로드 강제 — PIL은 URL을 못 여니 assets/로 받은 뒤 로컬 경로만 사용, verify로 빈/깨진 파일 차단; Phase 4.1 'URL 직접 사용 금지' 명시. 동기: 힉스필드 생성 URL을 PDF 빌드(PIL)에 직접 넣어 이미지 삽입 실패.) 변경 내역은 적용방법.md 참조. (_2606041330 = **에디토리얼 레이아웃 시스템(코덱스 리디자인급 기본값)**: build_treatment_template §8 — 4K(3840×2160) 기본 + 아키타입 cover_split/two_col/fullbleed_kv/cut_board + 팔레트 토큰(크림 surface) + 이미지 의무 게이트 assert_images_present + REFERENCE/editorial-layout.md. 동기: 클로드 1차 빌드가 1080p·이미지없는 중앙정렬 텍스트 덤프 → 코덱스 리디자인 불필요하게. 이전 _2606031952 = typeset 코드 강제. _2606032044 = 다중 인물·교차편집(A3): Phase 1.4·2.0·3.2·3.3-a + Phase 7 lsb-video-crafter 분리.)*
+*버전: lsb-treatment-builder_2606081200 · 2026-06-08 KST. (_2606081200 = 컷 생성 기본 2×2 그리드(한 장 4컷·2K)→3.3 슬라이스로 컷 분리, 장표엔 분리본만 사용 / 셀(컷)당 묘사 최소 500단어 강제 / 3.4 생성이미지·PDF Read 검수 금지 — 프로그램·사용자 판정만(413·토큰 방지).) 이전 _2606051640 · 2026-06-05 16:40 KST. (_2606051640 = Phase 3.2-c 이미지 생성 셋업 고정 — model=gpt_image_2 · resolution=2k · quality=high(기본 1k/low 금지, nano_banana 폴백 금지) · 사용자 레퍼런스 media_upload→medias 사용; 다운로드 블록은 3.2-d로 이동.) 이전 _2606051140 = Phase 3.2-d(구 3.2-c) 생성 이미지 로컬 다운로드 강제 — PIL은 URL을 못 여니 assets/로 받은 뒤 로컬 경로만 사용, verify로 빈/깨진 파일 차단; Phase 4.1 'URL 직접 사용 금지' 명시. 동기: 힉스필드 생성 URL을 PDF 빌드(PIL)에 직접 넣어 이미지 삽입 실패.) 변경 내역은 적용방법.md 참조. (_2606041330 = **에디토리얼 레이아웃 시스템(코덱스 리디자인급 기본값)**: build_treatment_template §8 — 4K(3840×2160) 기본 + 아키타입 cover_split/two_col/fullbleed_kv/cut_board + 팔레트 토큰(크림 surface) + 이미지 의무 게이트 assert_images_present + REFERENCE/editorial-layout.md. 동기: 클로드 1차 빌드가 1080p·이미지없는 중앙정렬 텍스트 덤프 → 코덱스 리디자인 불필요하게. 이전 _2606031952 = typeset 코드 강제. _2606032044 = 다중 인물·교차편집(A3): Phase 1.4·2.0·3.2·3.3-a + Phase 7 lsb-video-crafter 분리.)*
