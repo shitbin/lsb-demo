@@ -9,6 +9,7 @@
 planner는 세션 시작 시(STEP 0) 데이터셋 폴더를 **런타임에 resolve**한다. 절대경로 하드코딩 금지.
 
 - 연결 폴더 `LSB_Ad_Datas` = `<LIBRARY>`. **`<DATASET>` = `<LIBRARY>/001_ad_video_dataset`** — 그 안에 `entries/`, `index/`, `dataset_view.md`. (카피뱅크 `<LIBRARY>/002_ad_copy_bank/`, 우수예시 `<LIBRARY>/003_reference_decks/`.)
+- **카피뱅크 계약 (`<LIBRARY>/002_ad_copy_bank/` · STEP 3 (E)의 입력):** `copy_bank.json` = `{_meta, index_by_industry(카운트), entries[]}` — 각 entry: `industry`(영문 토큰)·`category_kr`·`brand`·`copy`(한국어 원문 verbatim)·`date`·`url`·`src`. `index_by_industry.json` = `{industry: [정수 인덱스 배열]}` — **그 정수로 `entries[i]` 접근**(빠른 추출용). `copy_bank.csv`는 사람 열람용(스킬은 안 읽음). 1MB급 — 통째 Read 금지, 인덱스로 골라 코드 추출만(SKILL.md STEP 3 (E) 코드). 산업 토큰 16종·한글 매핑은 `002_ad_copy_bank/README.md`.
  - mac 예: `/Users/<id>/Desktop/LSB_Ad_Datas` · Win 예: `C:\Users\<id>\Desktop\LSB_Ad_Datas`
 - resolve 순서: (1) 연결된 `LSB_Ad_Datas`=`<LIBRARY>`, `<DATASET>`=`<LIBRARY>/001_ad_video_dataset`(entries/+index/ 그 안) → (2) 없으면 `request_cowork_directory`로 요청 → (3) 빈 폴더면 스킬의 `dataset_template/`를 복사해 시딩.
 - 이렇게 얻은 **절대경로 = `DATASET`**. 이후 모든 경로는 `DATASET` 기준 상대경로(`entries/`, `index/`)로 다룬다.
@@ -152,6 +153,6 @@ analyzer entry(분석 스키마)와 treatment(제작 스키마)는 **키 이름�
 ## 6. 참조
 - entry/shots 상세 필드·vocabulary: `lsb-ad-analyzer/schema.md` + `lsb-treatment-builder/REFERENCE/cut-schema.md`
 - 영문 토큰·KO 별칭: `lsb-treatment-builder/REFERENCE/keyword-vocabulary.md`
-- 사고법·페이지 패턴: `lsb-treatment-builder/REFERENCE/freewillusion-handbook.md`
+- 사고법·페이지 패턴: `lsb-treatment-builder/REFERENCE/keyword-vocabulary.md` (§8)
 - 기획 논리 척추(strategy_spine 틀·QA): `lsb-treatment-builder/REFERENCE/deck-logic.md`
 - 덱 디자인·용도×톤 트랙·이미지수 결정표: `lsb-treatment-builder/REFERENCE/presentation-rules.md`

@@ -1,4 +1,4 @@
-# Studio Freewillusion 장표 마스터 규칙서
+# LSB Production 장표 마스터 규칙서
 *버전: lsb-treatment-builder_2606021645 · 2026-06-02 16:45 KST. 34종 덱 전수 역설계 통합. deck-styles.md는 이 문서를 링크/환원한다.*
 > 디자인뿐 아니라 **카피·내용분배·페이지당 이미지 수**까지 규칙화. 덱 재생산의 기준 문서.
 
@@ -29,7 +29,7 @@
 8. **전체 흐름 요약 1장** — 컨택트시트(양반 30컷 4행) 또는 종합 컷보드(우리은행 6~9분할) 또는 Storyboard Summary.
 9. **SCHEDULE** = 캘린더/간트, 끝에서 두 번째.
 10. **`E.O.D` 클로징** — 표지와 같은 배경색 풀블리드.
-11. **3-앵커 러닝 텍스트** — 좌(상단/세로) 프로젝트 코드·`AI commercial 2025`, 우(세로) `STUDIO FREEWILLUSION`, 하단 중앙 `© 2025 @studio freewillusion. All rights reserved.`
+11. **3-앵커 러닝 텍스트** — 좌(상단/세로) 프로젝트 코드·`AI commercial 2025`, 우(세로) `LSB PRODUCTION`, 하단 중앙 `© 2025 LSB Production. All rights reserved.`
 12. **국문 = 굵은 고딕(본문체), 영문 슬로건/섹션명 = 세리프 이탤릭** 혼용. 이 대비가 시그니처.
 
 ---
