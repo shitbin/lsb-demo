@@ -259,9 +259,9 @@ def retrieve_references(brief, shot_type, DATASET, n=5):
 
 **사고법 카탈로그(`lsb-treatment-builder/REFERENCE/keyword-vocabulary.md`):** 12 사고법 카탈로그를 데이터셋 빈약 시/보강용 시드로. 50+ entries 쌓이면 cross-pollination 우선.
 
-### STEP 3 — 후보 컨셉 3안 생성
+### STEP 3 — 후보 컨셉 5안 생성 (A~E)
 
-서로 **질적으로 다른** 컨셉 3개. 각 컨셉마다 *모두* 출력:
+서로 **질적으로 다른** 컨셉 5개(A·B·C·D·E). 각 컨셉마다 *모두* 출력:
 
 **(A)** 한 줄 컨셉 + creative_device + concept_derivation_pattern(영문 토큰, 핸드북 12개 중 매칭 또는 신규).
 **(B) 7단계 인지 경로 + 기획 논리 척추 (필수)**
@@ -289,11 +289,15 @@ picks = [(i, entries[i]) for ind in far for i in random.sample(idx[ind], k=min(1
  산업당 10~20건 × 2~3개 산업만 샘플링해 *접근법·구조(device)만* 차용, **새 카피로 변주**한다. 와우 카피는 동일 카테고리 차용 금지(하드밴). ⚠ **원문 verbatim 재사용·단어만 바꾸기 금지** — copy_bank는 *영감*이지 복붙 소스가 아니다. **기록 의무:** 각 카피 시드에 `copy_refs[]` = `[{bank_index, industry, brand, device_borrowed}]`를 붙이고 "원문 device → 새 카피" 변주 로그 1줄을 남긴다(STEP 5 (B)에서 검사). 뽑은 시드는 반드시 STEP 5 (A) 표절 유사도 게이트를 통과시킨다. **생략은 카피뱅크 폴더가 없을 때만** — 생략하면 그 사실과 사유를 출력에 명시한다.
 **(F)** 추적 — 참조 entry ID + 차용 필드/시그니처 명시(예: "ADV-2026-001#shot5의 풍선타이포 *형태만* 차용, 카피 새로 작성").
 
-**서로 벌리기:** 톤 축 / 메커니즘 축(셀럽·의인화·메타포) / 사고법 축 / 매체 축에서 의도적 분리. 변주면 가치 없음.
+**서로 벌리기:** 톤 축 / 메커니즘 축(셀럽·의인화·메타포) / 사고법 축 / 매체 축 / 서사 구조 축에서 의도적 분리 — 5안이 같은 축에 몰리면 안 된다. 변주면 가치 없음.
+
+**재생성 요청 처리:** 사용자가 "다 마음에 안 든다 — 새 후보"를 고르면, **이전 라운드 5안과 질적으로 다른 새 5안**을 만든다(같은 사고법·같은 메커니즘 재탕 금지, cross-pollination 출처도 갈아끼움). 직전 라운드에서 사용자가 무엇을 거른 셈인지 1줄로 추정해 새 라운드의 벌리기 축에 반영한다. 라운드 횟수 제한 없음.
 
 **(G) 날카로움 게이트 (R1 필수):** 각 컨셉이 ⓐ ownable 리프레임 ⓑ 입에 붙는 한 줄 ⓒ 절제된 신선 비주얼 디바이스를 갖췄는지 확인. '레퍼런스 평균내기'·혜택 나열·회계사 카피·카테고리 클리셰 device면 컨셉 출력 *금지*, 재작성.
 
 **(H) 한 장면 즉시 이해 게이트 (Q7):** 각 컨셉을 *제품이 주인공인, 촬영/렌더 가능한 한 장면*으로 묘사할 수 있나? **설명을 붙여야만 이해되는 순수 비유 단독**(예: 가상인간=물의 의인화만)은 통과 금지. ※ cross-pollination의 대담·추상 *장치 자체는 허용* — 핵심은 '추상 금지'가 아니라 *그 장치가 제품 주인공 + 한 장면으로 번역됐는가*. 번역이 안 되면 구체 장면으로 교체.
+
+**(I) 간이 컷 구성 — 후보마다 필수 (★ 컨셉만 던지기 금지):** 각 후보는 *그 컨셉이 실제 영상에서 어떻게 흐르는지*가 보여야 고를 수 있다. 후보마다 **간이 컷리스트**를 붙인다 — 컷 수는 STEP 4의 길이별 밴드 준수(15초 8~11 / 30초 14~21 …), 컷마다 4필드: `cutNumber` · `duration`(예 "0-3초") · `scene`(장면 한 줄 — 누가 어디서 무엇을) · `caption`(화면 자막/카피, 없으면 "") · `voiceover`(**V.O/NA 한국어 라인** — 그 컷에서 들리는 말, 없으면 ""). 한국어는 한글로(R5). R10 더블 게이트를 간이 컷리스트에도 적용(인접 컷 변화량). 이미지 프롬프트·내부 토큰은 넣지 않는다(상세 30+필드는 선택된 1안의 STEP 4에서). 이 간이 컷리스트가 그대로 외부(script_options의 cuts[])로 나간다.
 
 ### STEP 4 — 선택된 1안 상세화 (treatment-builder 입력 스키마와 1:1 정렬)
 
@@ -333,13 +337,13 @@ builder 입력 스키마(`lsb-treatment-builder/scripts/cut_template.json` + `tr
 
 **(A-3) 더블(점프컷) 자가검사 (R10):** 컷리스트의 **모든 인접 쌍**을 훑어, 같은 피사체·같은 공간인데 ①샷 사이즈 2단계 미만 ②앵글 변화 30도 미만 ③피사체/공간/시간 동일 — 셋 다 해당하면 **더블 위반**. `transition_in/out`을 seamless 계열로 바꾸거나 컷을 병합해 수정 후 재검사(예외는 R10 ⓐⓑⓒ — 의도적 점프컷은 notes 명시된 것만 통과). 위반이 남아 있으면 출력 금지.
 
-**(B) 스키마 완전성:** 7단계 인지 경로 7항목 + **strategy_spine 6필드(brief·insight+evidence·strategy·concept_rationale·brand_right·payoff)** / 글로벌 필수(brand·product·target_demo·total_duration_sec·aspect_ratio·narrative_arc·pacing_curve) / 컷 필수(index·no·duration·framing·function·intra_cut_rhythm·transition_in/out) / 자막 컷에 copy_overlay·layout_grid·typo_motion / VFX 컷에 vfx_in_shot·vfx_intensity_local·vfx_in_board_prompts / 트랜지션 single_canvas 표시 / **다중 인물·교차편집이면 character_pool[]·narrative_structure·각 컷 subject_identity 필수** / **카피뱅크(`002_ad_copy_bank`) 연결 시 카피 시드에 `copy_refs[]` 필수**(STEP 3 (E) — 미참조면 사유 명시 없이는 미통과). 빠지면 출력 *금지*.
+**(B) 스키마 완전성:** 7단계 인지 경로 7항목 + **strategy_spine 6필드(brief·insight+evidence·strategy·concept_rationale·brand_right·payoff)** / 글로벌 필수(brand·product·target_demo·total_duration_sec·aspect_ratio·narrative_arc·pacing_curve) / 컷 필수(index·no·duration·framing·function·intra_cut_rhythm·transition_in/out) / 자막 컷에 copy_overlay·layout_grid·typo_motion / VFX 컷에 vfx_in_shot·vfx_intensity_local·vfx_in_board_prompts / 트랜지션 single_canvas 표시 / **다중 인물·교차편집이면 character_pool[]·narrative_structure·각 컷 subject_identity 필수** / **카피뱅크(`002_ad_copy_bank`) 연결 시 카피 시드에 `copy_refs[]` 필수**(STEP 3 (E) — 미참조면 사유 명시 없이는 미통과) / **5안 모드면 후보마다 (I) 간이 컷리스트**(컷수 밴드·4필드·V.O/NA 라인) 포함. 빠지면 출력 *금지*.
 
 **(C) 논리 게이트 (`lsb-treatment-builder/REFERENCE/deck-logic.md` §3):** strategy_spine가 (1) 컷 0장으로도 "왜 이 광고인지" 한 문장 답되나 (2) 컨셉이 인사이트에서 도출 (3) 브랜드를 경쟁사로 치환 시 말 안 되나(정당성) (4) 평가기준 각 항목에 논리가 닿나 (5) 비트가 "그래서/즉"으로 연결 — 실패 시 보강 후 재출력.
 
 ### STEP 6 — 출력 + 타율 기록 슬롯
 
-**(A) 두 모드:** ① 3안 모드(마크다운, 1안 고르면 STEP 4). ② 1안 상세 모드(마크다운 + JSON 동시).
+**(A) 두 모드:** ① 5안 모드(A~E 마크다운 — 각 안에 STEP 3 (I) 간이 컷리스트 포함, 1안 고르면 STEP 4 / "다 별로" 선택지로 새 5안 재생성 가능). ② 1안 상세 모드(마크다운 + JSON 동시).
 **(B) treatment-builder 입력 형식:**
 ```json
 { "global": { /* treatment_global_template */ }, "cuts": [ /* cut_template 배열 */ ], "transitions": [ /* transition_template 배열 */ ] }
@@ -375,4 +379,4 @@ builder 입력 스키마(`lsb-treatment-builder/scripts/cut_template.json` + `tr
 세션 켜자마자 긴 자유 텍스트 브리프를 싫어함. 폼이 5초 안에 핵심을 받고 자유 텍스트는 옵션. 5분 핑퐁을 1분으로 압축. 사용자 시간 = 가치.
 
 ---
-*버전: lsb-ad-planner_2606101100 · 2026-06-10 KST. (_2606101100 = **STEP 3 (E) copy_bank 실배선 수리** — 그동안 이름만 참조되고 결합 계약이 없어 실제로 안 읽히던 문제: `index_by_industry.json`{industry: [정수 인덱스]} → `copy_bank.json` `entries[i]` 결합 계약 + 추출 코드 명시(1MB 통째 Read 금지·먼 산업 2~3개 × 10~20건 샘플링), 카피 시드 `copy_refs[]` 기록 의무 + STEP 5 (B) 검사·STEP 6 (D) 추적 연동, 생략은 카피뱅크 부재 시만(사유 명시). schema.md §0 카피뱅크 계약 추가. _2606101000 = **R10 더블(점프컷) 방지 컷 문법 게이트** — 샷 스케일 7단 사다리(ECU→CU→MCU→MS→MLS→FS/LS→ELS), 같은 피사체·공간 인접 컷 성립 조건(사이즈 2단계+ / 앵글 30도+ / 피사체·공간·시간 변경 중 1), 미충족 시 hard cut 금지 → seamless 전환·병합, 예외(펀치인 2단계+·매치컷·의도적 점프컷 notes 명시) + STEP 4 인접 쌍 검사 + STEP 5 (A-3) 자가검사 + builder Phase 1.1-b 이중 방어.) 이전 lsb-ad-planner_2606041500 · 2026-06-04 15:00 KST. 변경 내역은 적용방법.md 참조. (_2606041500 = **허쉬 세션 사후분석 반영**: STEP 0.1 종횡비 명시 질문(A12)·product_spec_lock(A10) · STEP 0.5 무드 물리근거 정독·style_prompt 형용사 인용·무드보드 컨펌(A3·A8·A9) · R4 사용자 명시 예외 우선(A4) · R8 산출물 다운스트림 용도 1줄(A5·A6) · R9 비싼 단계 전 컨펌·도구 예고 금지(A12·A14) · analyzer panel_layout `layered_collage` 인지. _2606032200 = 라이브러리 폴더 재구성 — `<DATASET>`=연결폴더(`<LIBRARY>`)/001_ad_video_dataset · copy_bank→`<LIBRARY>/002_ad_copy_bank`. _2606022203 = STEP 0.6 브랜드·제품 선제 웹리서치. 신규 _2606032044 = **다중 인물·교차편집 지원(A3 학습)**: R7 + STEP3 (C) narrative_structure·(C-2) character_pool[]·(H) 한 장면 즉시이해 게이트(Q7) + STEP4 글로벌에 narrative_structure·character_pool·컷별 subject_identity·트랜지션 direction_observer_view + 톤별 페이싱(Q5, 블랭킷 컷수 폐기) + STEP6 (B-2) requires_character_sheets + STEP5 완전성검사 갱신. _2606032130 = STEP3 (E) **카피 cross-pollination**(`<LIBRARY>/002_ad_copy_bank/` COPYPEDIA 4천+ 실제 카피 — 원문 보존·industry 영문 라벨 — 먼 카테고리 카피를 영감으로 새 카피 변주, verbatim 금지·표절 게이트 통과).)*
+*버전: lsb-ad-planner_2606101200 · 2026-06-10 KST. (_2606101200 = **5안 체제 + 간이 컷 구성 필수** — STEP 3 후보 3안→5안(A~E)·벌리기 5축·재생성 요청 처리(이전 라운드와 질적 분리), STEP 3 (I) 후보마다 간이 컷리스트(컷수 밴드·cutNumber/duration/scene/caption/voiceover V.O·NA 한국어 라인) 필수 — script_options cuts[]로 직결, STEP 5 (B)·STEP 6 (A) 연동.) 이전 _2606101100 = **STEP 3 (E) copy_bank 실배선 수리** — 그동안 이름만 참조되고 결합 계약이 없어 실제로 안 읽히던 문제: `index_by_industry.json`{industry: [정수 인덱스]} → `copy_bank.json` `entries[i]` 결합 계약 + 추출 코드 명시(1MB 통째 Read 금지·먼 산업 2~3개 × 10~20건 샘플링), 카피 시드 `copy_refs[]` 기록 의무 + STEP 5 (B) 검사·STEP 6 (D) 추적 연동, 생략은 카피뱅크 부재 시만(사유 명시). schema.md §0 카피뱅크 계약 추가. _2606101000 = **R10 더블(점프컷) 방지 컷 문법 게이트** — 샷 스케일 7단 사다리(ECU→CU→MCU→MS→MLS→FS/LS→ELS), 같은 피사체·공간 인접 컷 성립 조건(사이즈 2단계+ / 앵글 30도+ / 피사체·공간·시간 변경 중 1), 미충족 시 hard cut 금지 → seamless 전환·병합, 예외(펀치인 2단계+·매치컷·의도적 점프컷 notes 명시) + STEP 4 인접 쌍 검사 + STEP 5 (A-3) 자가검사 + builder Phase 1.1-b 이중 방어.) 이전 lsb-ad-planner_2606041500 · 2026-06-04 15:00 KST. 변경 내역은 적용방법.md 참조. (_2606041500 = **허쉬 세션 사후분석 반영**: STEP 0.1 종횡비 명시 질문(A12)·product_spec_lock(A10) · STEP 0.5 무드 물리근거 정독·style_prompt 형용사 인용·무드보드 컨펌(A3·A8·A9) · R4 사용자 명시 예외 우선(A4) · R8 산출물 다운스트림 용도 1줄(A5·A6) · R9 비싼 단계 전 컨펌·도구 예고 금지(A12·A14) · analyzer panel_layout `layered_collage` 인지. _2606032200 = 라이브러리 폴더 재구성 — `<DATASET>`=연결폴더(`<LIBRARY>`)/001_ad_video_dataset · copy_bank→`<LIBRARY>/002_ad_copy_bank`. _2606022203 = STEP 0.6 브랜드·제품 선제 웹리서치. 신규 _2606032044 = **다중 인물·교차편집 지원(A3 학습)**: R7 + STEP3 (C) narrative_structure·(C-2) character_pool[]·(H) 한 장면 즉시이해 게이트(Q7) + STEP4 글로벌에 narrative_structure·character_pool·컷별 subject_identity·트랜지션 direction_observer_view + 톤별 페이싱(Q5, 블랭킷 컷수 폐기) + STEP6 (B-2) requires_character_sheets + STEP5 완전성검사 갱신. _2606032130 = STEP3 (E) **카피 cross-pollination**(`<LIBRARY>/002_ad_copy_bank/` COPYPEDIA 4천+ 실제 카피 — 원문 보존·industry 영문 라벨 — 먼 카테고리 카피를 영감으로 새 카피 변주, verbatim 금지·표절 게이트 통과).)*
