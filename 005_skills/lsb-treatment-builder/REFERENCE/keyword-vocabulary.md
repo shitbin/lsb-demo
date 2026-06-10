@@ -235,7 +235,7 @@ LSB 데이터셋의 모든 분류 라벨링은 이 표준을 따른다. **저장
 | feature_benefit_direct | 기능 베네핏 직설 |
 | visual_copy_proof | 비주얼로 카피 증명 |
 
-### 8. concept_derivation_pattern (사고법 분류 — 12패턴 + 확장)
+### 8. concept_derivation_pattern (사고법 분류 — freewillusion-handbook.md 12패턴 + 확장)
 
 | 영문 토큰 | KO 별칭 |
 |---|---|
@@ -256,7 +256,7 @@ LSB 데이터셋의 모든 분류 라벨링은 이 표준을 따른다. **저장
 | dark_to_light_reveal_structure | 어둠→빛 리빌 구조 |
 | detail_to_whole_reveal | 디테일→전체 공개 |
 
-> 신규 패턴은 자유 추가하되, 추가 시 정의를 같이 적는다.
+> 신규 패턴은 자유 추가하되, 추가 시 freewillusion-handbook.md에 정의를 같이 적는다.
 
 ---
 

@@ -1,0 +1,146 @@
+{
+  "celeb_hook": [
+    "ADV-2026-001",
+    "ADV-2026-007",
+    "ADV-2026-010",
+    "ADV-2026-012"
+  ],
+  "balloon_typo_3d": [
+    "ADV-2026-001"
+  ],
+  "filmstrip_collage": [
+    "ADV-2026-001",
+    "ADV-2026-009"
+  ],
+  "splitscreen": [
+    "ADV-2026-001",
+    "ADV-2026-009"
+  ],
+  "teaser_mystery": [
+    "ADV-2026-002"
+  ],
+  "oner_walking_shot": [
+    "ADV-2026-002",
+    "ADV-2026-010",
+    "ADV-2026-011"
+  ],
+  "landscape_travelling": [
+    "ADV-2026-002"
+  ],
+  "silhouette_teaser": [
+    "ADV-2026-003"
+  ],
+  "dark_to_light_reveal": [
+    "ADV-2026-003"
+  ],
+  "detail_closeup": [
+    "ADV-2026-003",
+    "ADV-2026-009",
+    "ADV-2026-012"
+  ],
+  "signature_lamp_ignition": [
+    "ADV-2026-003"
+  ],
+  "product_solo_hero": [
+    "ADV-2026-003",
+    "ADV-2026-010",
+    "ADV-2026-011"
+  ],
+  "anaphora_copy": [
+    "ADV-2026-004",
+    "ADV-2026-008",
+    "ADV-2026-012"
+  ],
+  "lifestyle_cg_intercut": [
+    "ADV-2026-004",
+    "ADV-2026-008",
+    "ADV-2026-010"
+  ],
+  "nature_intro": [
+    "ADV-2026-004"
+  ],
+  "low_angle_tiltup": [
+    "ADV-2026-004"
+  ],
+  "location_map_graphic": [
+    "ADV-2026-004"
+  ],
+  "empathy_copy_hook": [
+    "ADV-2026-005",
+    "ADV-2026-011"
+  ],
+  "kinetic_typo": [
+    "ADV-2026-005",
+    "ADV-2026-006",
+    "ADV-2026-008",
+    "ADV-2026-009",
+    "ADV-2026-010",
+    "ADV-2026-011",
+    "ADV-2026-012"
+  ],
+  "product_app_cutout_float": [
+    "ADV-2026-005"
+  ],
+  "dissolve_montage": [
+    "ADV-2026-005",
+    "ADV-2026-008",
+    "ADV-2026-010",
+    "ADV-2026-011"
+  ],
+  "direct_cta": [
+    "ADV-2026-005"
+  ],
+  "bw_color_shift": [
+    "ADV-2026-006"
+  ],
+  "slowmo_explosion_start": [
+    "ADV-2026-006",
+    "ADV-2026-012"
+  ],
+  "fabric_macro_proof": [
+    "ADV-2026-006"
+  ],
+  "product_solo_feature_demo": [
+    "ADV-2026-006"
+  ],
+  "mirroring_contrast_edit": [
+    "ADV-2026-007",
+    "ADV-2026-008"
+  ],
+  "metaphor_visual_sequence": [
+    "ADV-2026-007"
+  ],
+  "cinematic_brandfilm": [
+    "ADV-2026-007"
+  ],
+  "ai_generated_film": [
+    "ADV-2026-008"
+  ],
+  "heritage_to_future_morph": [
+    "ADV-2026-008"
+  ],
+  "_meta": {
+    "axis": "technique",
+    "language": "en",
+    "updated": "2026-06-10",
+    "entry_count": 12
+  },
+  "editorial_fashionfilm": [
+    "ADV-2026-009"
+  ],
+  "analog_film_camera_ui": [
+    "ADV-2026-009"
+  ],
+  "magazine_cover_layout": [
+    "ADV-2026-009"
+  ],
+  "color_shift": [
+    "ADV-2026-009"
+  ],
+  "morph": [
+    "ADV-2026-011"
+  ],
+  "overhead": [
+    "ADV-2026-012"
+  ]
+}

@@ -1,0 +1,2066 @@
+{
+  "id": "ADV-2026-004",
+  "schema_version": "0.4++",
+  "source_ref": {
+    "platform": "사용자 제공 mp4 (YouTube 다운로드)",
+    "title_or_campaign": "청주 한양립스 더 벨루체 (분양 TVC)",
+    "brand": "한양립스 (한양건설 아파트 브랜드)",
+    "product": "청주 한양립스 더 벨루체 (아파트 분양 / 지북지구)",
+    "model": "(일반 모델 — 모/자, 여성 등 라이프스타일 출연)",
+    "year": 2026,
+    "production_note": "실사 시네마틱 라이프스타일 촬영 + 단지·커뮤니티 CG 건축 비주얼 합성. 2.39:1 레터박스. 분양 관습상 화면 하단 상시 '상기 이미지는 소비자의 이해를 돕기 위한 이미지 컷이므로 실제와 다를 수 있습니다' 고지. 시행 동남지역주택조합·시공 (주)한양건설·신탁 (주)무궁화신탁·분양 (주)케이씨씨파트너스.",
+    "url": "(미기입 — 사용자 다운로드 파일, source id 6dScbGELGMM)"
+  },
+  "category_primary": "realestate.apartment_presale",
+  "category_tags": [
+    "건설·부동산",
+    "아파트분양",
+    "라이프스타일",
+    "TVC 30초",
+    "시네마틱",
+    "커뮤니티 소구",
+    "지역분양"
+  ],
+  "mood": [
+    "따뜻함",
+    "여유·힐링",
+    "프리미엄",
+    "가족·일상",
+    "서정"
+  ],
+  "target_demo": "30-40대 실수요·가족 단위 + 지역(청주) 분양 관심층 (커뮤니티·육아·자연환경 중시)",
+  "total_duration": 30.03,
+  "shot_count": 17,
+  "shot_count_corrected": 17,
+  "fps": 29.97,
+  "aspect_ratio": "16:9 (콘텐츠는 2.39:1 레터박스)",
+  "hook_position": 0.0,
+  "cta_position": 25.4,
+  "narrative_arc": "자연(숲·골든라이트) 인트로로 정서 환기 → 라이프스타일 컷(정원 가꾸기·그린카페·모자 포옹·피트니스)에 '여유를/편의를/즐거움을 더:블' 애너포라 카피 + 커뮤니티 시설 서브카피 → 단지 로우앵글 틸트업·커뮤니티 동선(키즈/차일드케어) → 입구 게이트 야경 '지북의 비전과 동남의 인프라가 만나'(위치 맵 그래픽) → 야경 단지 스카이라인에 '지북에서 만나는 더블 프리미엄 / 청주 한양립스 더 벨루체 / 5월 그랜드 오픈 / 1577-0505' 회수",
+  "pacing_curve": "steady",
+  "music_tempo_curve": "steady",
+  "wow_cut_index": [
+    7,
+    11,
+    17
+  ],
+  "creative_device": "'더:블(double)' 워드플레이를 중심축으로 — '여유를 더:블','편의를 더','즐거움을' 같은 'X를 다/더' 애너포라(반복 병렬) 카피에 각각 커뮤니티 시설(그린카페·키즈스테이션·헬스)을 서브태그로 붙여 혜택을 나열. '지북의 비전 + 동남의 인프라 = 더블 프리미엄'이라는 입지 등식으로 마무리. 실사 라이프스타일 감성 + CG 단지 비주얼을 교차해 '살고 싶은 삶'을 판매.",
+  "production_signature": {
+    "capture_style": "mixed",
+    "camera_signature": [
+      "gimbal",
+      "dolly_heavy",
+      "handheld_shake"
+    ],
+    "signature_note": "라이프스타일 컷은 실사 짐벌/핸드헬드(얕은 심도·자연광 플레어), 단지·커뮤니티 와이드는 CG 건축 비주얼(로우앵글 틸트업·항공 트래킹). 위글3D/렌티큘러 아님 — 실제 모션블러·심도·자연광. 분양 관습대로 실사 인물(감성)과 CG 조감(시설)을 교차 편집.",
+    "color_grade": "warm_natural",
+    "color_grade_note": "골든아워 웜톤 지배(베이지·우드·녹지), 자연광 halation·렌즈플레어. 야경 컷만 딥 블루로 전환. 채도 적당·부드러운 콘트라스트.",
+    "texture_fx": "film_grain(약) + halation/glow(자연광)"
+  },
+  "global_layout": {
+    "grid_system": "rule_of_thirds",
+    "subject_placement_dominant": "varies",
+    "subject_typo_relation": "typo_separate_zone",
+    "negative_space_use": "generous",
+    "layout_note": "2.39:1 레터박스. 키 카피는 화면 좌측 중앙~좌하단에 2단(메인 카피 굵게 + 시설 서브카피 박스). 브랜드 워터마크(청주 한양립스 더 벨루체 + 1577-0505)는 우상단 상시 고정. 최하단 센터에 분양 disclaimer 상시. 인물·풍경은 우측~중앙 여백 배치.",
+    "subtitle_zone": "좌측 중앙(키 카피) + 우상단(브랜드·전화) + 최하단(disclaimer)"
+  },
+  "recurring_motifs": [
+    "더:블 / 더- 워드플레이 타이포",
+    "HL(립스) 로고가 박힌 단지 건물",
+    "골든 자연광·렌즈플레어",
+    "커뮤니티 시설 서브카피 박스(그린카페·키즈스테이션·헬스)",
+    "우상단 브랜드+전화번호 워터마크"
+  ],
+  "copywriting": {
+    "tagline_text": "지북에서 만나는 더블 프리미엄",
+    "tagline_structure": "입지(지북) + 동사('만나는') + 핵심 컨셉('더블 프리미엄') — 입지 등식 슬로건",
+    "tagline_length_syllables": 14,
+    "tagline_position_sec": 25.4,
+    "cta_text": "5월 그랜드 오픈 | 문의 1577-0505",
+    "cta_text_structure": "오픈 시점 + 분리바 + 문의 전화번호 — 분양 행동유도 표준형",
+    "cta_position_sec": 25.4,
+    "copy_tone": [
+      "감성호소",
+      "프리미엄",
+      "정보전달",
+      "여유"
+    ],
+    "copy_strategy": "'더:블(double)' 펀을 핵심에 두고 'X를 더/다' 애너포라로 여유·편의·즐거움을 병렬 나열, 각 라인에 실제 커뮤니티 시설(그린카페·키즈스테이션·헬스·차일드케어)을 서브카피로 매칭해 추상 감성+구체 혜택을 동시 전달. 입지는 '지북의 비전 + 동남의 인프라 = 더블 프리미엄' 등식으로 정리. 음성 나레이션과 화면 카피가 거의 일치(both).",
+    "copy_lines_count": 7,
+    "lines": [
+      {
+        "position_sec": 5.0,
+        "text": "여유를 더:블",
+        "function": "애너포라 1(여유) / 더블 펀",
+        "tone": "감성호소",
+        "source": "both"
+      },
+      {
+        "position_sec": 7.0,
+        "text": "편의를 더",
+        "function": "애너포라 2(편의)",
+        "tone": "감성호소",
+        "source": "both"
+      },
+      {
+        "position_sec": 9.0,
+        "text": "즐거움을 (다)",
+        "function": "애너포라 3(즐거움)",
+        "tone": "감성호소",
+        "source": "both"
+      },
+      {
+        "position_sec": 14.0,
+        "text": "그렇게 내 삶에 더:편리하게",
+        "function": "애너포라 정리(삶의 편리)",
+        "tone": "감성호소",
+        "source": "both"
+      },
+      {
+        "position_sec": 19.0,
+        "text": "지북의 비전과 동남의 인프라가 만나",
+        "function": "입지 등식(비전+인프라)",
+        "tone": "정보전달",
+        "source": "both"
+      },
+      {
+        "position_sec": 22.5,
+        "text": "더블 프리미엄이 되다",
+        "function": "컨셉 결론(더블 프리미엄)",
+        "tone": "프리미엄",
+        "source": "both"
+      },
+      {
+        "position_sec": 25.4,
+        "text": "지북에서 만나는 더블 프리미엄 / 청주 한양립스 더 벨루체",
+        "function": "슬로건+브랜드 회수",
+        "tone": "프리미엄",
+        "source": "both"
+      }
+    ],
+    "captions": [
+      {
+        "position_sec": 5.0,
+        "text": "입주민 전용 그린카페",
+        "function": "시설 서브카피(그린카페)"
+      },
+      {
+        "position_sec": 7.0,
+        "text": "아이 안전을 위한 키즈스테이션",
+        "function": "시설 서브카피(키즈스테이션)"
+      },
+      {
+        "position_sec": 9.0,
+        "text": "골프·피트니스·헬스 다양한 커뮤니티 센터",
+        "function": "시설 서브카피(커뮤니티 센터)"
+      },
+      {
+        "position_sec": 14.0,
+        "text": "Child Care Center (단지 내 차일드케어)",
+        "function": "시설 서브카피(차일드케어)"
+      },
+      {
+        "position_sec": 26.0,
+        "text": "시행: 동남지역주택조합 · 시공: (주)한양건설 · 신탁: (주)무궁화신탁 · 분양: (주)케이씨씨파트너스. 상기 이미지는 소비자의 이해를 돕기 위한 이미지 컷이므로 실제와 다를 수 있습니다.",
+        "function": "분양 주체·면책 법적고지"
+      }
+    ],
+    "narration_handling": "excerpt_only",
+    "narration_note": "엔딩 장문 분양주체·면책 고지는 통째 저장 안 함."
+  },
+  "typography": {
+    "primary_font_class": "산세리프 굵은체(국문 키 카피)",
+    "secondary_font_class": "산세리프 중간체(시설 서브카피 박스)",
+    "animation_style": [
+      "fade_in",
+      "slide",
+      "static"
+    ],
+    "subtitle_position_dominant": "left_center",
+    "tagline_position": "center(엔딩) / left(본문)",
+    "color_strategy": "화이트 키 카피 + '더:블/더' 강조어를 더 굵게/포인트, 시설 서브카피는 반투명 다크박스 위 화이트. 엔딩 슬로건은 화이트+골드 포인트(5월 그랜드 오픈), 브랜드명에 '청주' 화이트박스.",
+    "appearance_count": 9,
+    "key_typography_moments_sec": [
+      5.0,
+      7.0,
+      9.0,
+      14.0,
+      19.0,
+      22.5,
+      25.4
+    ],
+    "typo_motion_dominant": "좌측에서 fade/slide로 차분히 등장, '더:블' 등 강조어에 콜론(:)·굵기로 펀 부각. 시설 서브카피는 박스째 페이드. 모션 최소·정제."
+  },
+  "vfx": {
+    "primary_effects": [
+      "lens_flare",
+      "data_viz",
+      "ui_motion",
+      "morph"
+    ],
+    "effect_intensity": "subtle",
+    "transition_style_dominant": "fade",
+    "vfx_event_count": 6,
+    "vfx_timing_array_sec": [
+      2.0,
+      10.7,
+      19.0,
+      20.5,
+      25.4,
+      27.0
+    ],
+    "wow_vfx_index": [
+      11,
+      17
+    ],
+    "notable_vfx_note": "VFX 절제. 핵심은 (1) 자연광 렌즈플레어/halation(인트로·라이프스타일), (2) cut14 입구 게이트 야경 위치맵 그래픽(동남지구/발서지구/지북지구 data_viz), (3) 엔딩 야경 단지 스카이라인 CG + 카피·로고 합성. 실사·CG 교차가 주된 '효과'."
+  },
+  "audio": {
+    "has_audio": true,
+    "language": "ko",
+    "speech_coverage": 0.964,
+    "bgm_likely": true,
+    "narration_lines": [
+      {
+        "start": 0.02,
+        "end": 12.58,
+        "text": "여유를 다, 편의를 다, 즐거움을 다 / 그렇게 내 삶에",
+        "text_raw": "저연을 다 여유를 다 편의를 다 즐거움을 다 그렇게 내 설마",
+        "kind": "narration"
+      },
+      {
+        "start": 12.58,
+        "end": 22.02,
+        "text": "더 풍요롭게 더 편리하게 더 안전하게 더 편안하게 더 가치있게 / 지북의 비전과 동남의 (인프라가 만나)",
+        "text_raw": "더 풀 더 편의하게 더 안전하게 더 편안하게 더 같이 있게 지부기 비전과 동남의",
+        "kind": "narration"
+      },
+      {
+        "start": 22.02,
+        "end": 29.02,
+        "text": "인프라가 만나 더블 프리미엄이 되다 / 청주 한양립스 더 벨루체",
+        "text_raw": "인프라가 만나 매샐미, 더블, 프리미엄이 되다 청조 한양립스, 더벨루트에",
+        "kind": "narration"
+      }
+    ],
+    "voice_vs_caption": "음성 나레이션과 화면 카피가 거의 일치(both). '여유를/편의를/즐거움을 다' 애너포라, '더 ~하게' 반복, '지북의 비전과 동남의 인프라가 만나 더블 프리미엄이 되다', 브랜드명까지 음성·자막 동기화. 시설 서브카피(그린카페·키즈스테이션 등)와 분양주체 고지는 자막 전용.",
+    "narration_handling": "excerpt_only",
+    "audio_note": "faster-whisper(base, beam1) 전사 3세그먼트, 음성커버리지 0.964로 양호. 짧은 어휘 오인식 보정: '저연을 다'→(군더더기/오인식), '내 설마'→'내 삶에', '편의하게'→'풍요롭게', '같이 있게'→'가치있게', '지부기'→'지북의', '매샐미'→(오인식), '청조'→'청주', '더벨루트에'→'더 벨루체'. 화면 자막과 대조해 보정."
+  },
+  "shots": [
+    {
+      "index": 1,
+      "duration": 1.24,
+      "framing": "EWS(항공/탑다운)",
+      "function": "인트로(자연 환기)",
+      "color_mood": "golden_nature",
+      "subject_action": "골든라이트 속 숲 캐노피/자연 지형을 위에서 부감으로 훑음",
+      "copy_overlay": null,
+      "layout_grid": "full_bleed",
+      "subject_position": "none",
+      "subject_typo_layout": null,
+      "typo_motion": null,
+      "camera_angle": "overhead",
+      "camera_facing": "none",
+      "shot_scope": "wide_env",
+      "gaze": "none",
+      "props": [
+        "숲·자연 지형"
+      ],
+      "prop_semantics": "자연=힐링·쾌적한 주거환경 약속(분양 인트로 관습)",
+      "color_palette": [
+        "#020100",
+        "#2f2715",
+        "#554b32",
+        "#7c7155"
+      ],
+      "color_intent": "딥 골든/올리브 톤으로 따뜻하고 풍요로운 자연 인상",
+      "pose_description": "(인물 없음) 자연 부감 인서트",
+      "subject_motion": "none",
+      "prop_motion": "none",
+      "camera_motion": "항공 트래킹/패닝",
+      "camera_motion_intensity": "moderate",
+      "camera_effect_local": "none",
+      "motion_blur": "light",
+      "intra_cut_rhythm": "steady",
+      "transition_in": "fade",
+      "transition_out": "cut",
+      "vfx_in_shot": [],
+      "vfx_intensity_local": "none",
+      "fact_check_flag": false,
+      "notes": "자연 인트로 — 정서 환기.",
+      "visible_elements": {
+        "foreground": [],
+        "midground": [
+          "숲·자연 지형"
+        ],
+        "background": [
+          "숲/자연 녹지"
+        ],
+        "lighting_env": [
+          "골든아워 자연광",
+          "창문 자연광"
+        ],
+        "atmosphere": []
+      },
+      "texture": {
+        "primary_subject": "foliage",
+        "secondary_objects": [
+          "foliage"
+        ],
+        "background_surface": "foliage",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "45deg_above",
+        "key_hardness": "soft",
+        "key_color_temp": "warm_3000K",
+        "fill_strength": "moderate",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "soft",
+        "overall_contrast": "hi_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#020100",
+          "#2f2715",
+          "#554b32",
+          "#7c7155"
+        ],
+        "palette_role": {
+          "#020100": "subject_dark_anchor",
+          "#7c7155": "background_or_highlight",
+          "#2f2715": "warm_accent",
+          "#554b32": "warm_accent"
+        },
+        "color_relationship": "analogous",
+        "temperature_balance": "warm_dominant",
+        "saturation_strategy": "vivid",
+        "contrast_type": "luminance_low",
+        "accent_color": "#020100",
+        "accent_ratio": "15_percent",
+        "brand_color_match": []
+      }
+    },
+    {
+      "index": 2,
+      "duration": 1.53,
+      "framing": "WS",
+      "function": "인트로(빛·숲)",
+      "color_mood": "golden_backlit",
+      "subject_action": "숲/우거진 공간 사이로 햇빛이 쏟아지며 렌즈플레어·헤이즈",
+      "copy_overlay": null,
+      "layout_grid": "rule_of_thirds",
+      "subject_position": "none",
+      "subject_typo_layout": null,
+      "typo_motion": null,
+      "camera_angle": "eye_level",
+      "camera_facing": "none",
+      "shot_scope": "wide_env",
+      "gaze": "none",
+      "props": [
+        "숲·역광"
+      ],
+      "prop_semantics": "역광·헤이즈=서정·꿈결 같은 삶의 질 암시",
+      "color_palette": [
+        "#050302",
+        "#352e1f",
+        "#655d42",
+        "#928971"
+      ],
+      "color_intent": "백라이트 골든 헤이즈로 따뜻·몽환",
+      "pose_description": "(인물 없음) 자연광 인서트",
+      "subject_motion": "none",
+      "prop_motion": "none",
+      "camera_motion": "달리/슬라이더",
+      "camera_motion_intensity": "subtle",
+      "camera_effect_local": "none",
+      "motion_blur": "light",
+      "intra_cut_rhythm": "steady",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [
+        "lens_flare"
+      ],
+      "vfx_intensity_local": "subtle",
+      "fact_check_flag": false,
+      "notes": "빛·자연 인트로 연속.",
+      "visible_elements": {
+        "foreground": [],
+        "midground": [
+          "숲·역광"
+        ],
+        "background": [
+          "숲/자연 녹지"
+        ],
+        "lighting_env": [
+          "골든아워 자연광",
+          "창문 자연광"
+        ],
+        "atmosphere": [
+          "역광 렌즈플레어"
+        ]
+      },
+      "texture": {
+        "primary_subject": "foliage",
+        "secondary_objects": [
+          "foliage"
+        ],
+        "background_surface": "foliage",
+        "atmospheric": [
+          "atmospheric_haze"
+        ]
+      },
+      "lighting": {
+        "key_direction": "back",
+        "key_hardness": "soft",
+        "key_color_temp": "warm_3000K",
+        "fill_strength": "moderate",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": true,
+        "practical_lights": [],
+        "shadow_presence": "soft",
+        "overall_contrast": "hi_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#050302",
+          "#352e1f",
+          "#655d42",
+          "#928971"
+        ],
+        "palette_role": {
+          "#050302": "subject_dark_anchor",
+          "#928971": "background_or_highlight",
+          "#352e1f": "warm_accent",
+          "#655d42": "warm_accent"
+        },
+        "color_relationship": "analogous",
+        "temperature_balance": "warm_dominant",
+        "saturation_strategy": "muted",
+        "contrast_type": "luminance_low",
+        "accent_color": "#050302",
+        "accent_ratio": "15_percent",
+        "brand_color_match": []
+      }
+    },
+    {
+      "index": 3,
+      "duration": 1.07,
+      "framing": "MS",
+      "function": "자연/소재 디테일",
+      "color_mood": "warm_natural",
+      "subject_action": "자연·우드 소재 디테일/질감 클로즈",
+      "copy_overlay": null,
+      "layout_grid": "center",
+      "subject_position": "none",
+      "subject_typo_layout": null,
+      "typo_motion": null,
+      "camera_angle": "eye_level",
+      "camera_facing": "none",
+      "shot_scope": "wide_env",
+      "gaze": "none",
+      "props": [
+        "자연·우드 질감"
+      ],
+      "prop_semantics": "자연 소재 질감=친환경·고급 라이프스타일",
+      "color_palette": [
+        "#6f5941",
+        "#020201",
+        "#998363",
+        "#ccbe9f"
+      ],
+      "color_intent": "우드/베이지 웜톤",
+      "pose_description": "(인물 없음) 질감 디테일",
+      "subject_motion": "none/미세",
+      "prop_motion": "none",
+      "camera_motion": "슬라이더",
+      "camera_motion_intensity": "subtle",
+      "camera_effect_local": "none",
+      "motion_blur": "light",
+      "intra_cut_rhythm": "steady",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [],
+      "vfx_intensity_local": "none",
+      "fact_check_flag": false,
+      "notes": "소재 디테일.",
+      "visible_elements": {
+        "foreground": [],
+        "midground": [
+          "자연·우드 질감"
+        ],
+        "background": [
+          "숲/자연 녹지"
+        ],
+        "lighting_env": [
+          "골든아워 자연광",
+          "창문 자연광"
+        ],
+        "atmosphere": []
+      },
+      "texture": {
+        "primary_subject": "foliage",
+        "secondary_objects": [
+          "wood_raw"
+        ],
+        "background_surface": "foliage",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "45deg_above",
+        "key_hardness": "soft",
+        "key_color_temp": "warm_3000K",
+        "fill_strength": "moderate",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "soft",
+        "overall_contrast": "hi_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#6f5941",
+          "#020201",
+          "#998363",
+          "#ccbe9f"
+        ],
+        "palette_role": {
+          "#020201": "subject_dark_anchor",
+          "#ccbe9f": "background_or_highlight",
+          "#6f5941": "warm_accent",
+          "#998363": "warm_accent"
+        },
+        "color_relationship": "analogous",
+        "temperature_balance": "warm_dominant",
+        "saturation_strategy": "muted",
+        "contrast_type": "luminance_high",
+        "accent_color": "#020201",
+        "accent_ratio": "15_percent",
+        "brand_color_match": []
+      }
+    },
+    {
+      "index": 4,
+      "duration": 1.64,
+      "framing": "MS",
+      "function": "라이프스타일(정원 가꾸기)",
+      "color_mood": "warm_greenhouse",
+      "subject_action": "캐주얼 차림 인물이 온실/정원에서 식물을 돌봄(슬로우 라이프)",
+      "copy_overlay": null,
+      "layout_grid": "rule_of_thirds_left",
+      "subject_position": "left",
+      "subject_typo_layout": null,
+      "typo_motion": null,
+      "camera_angle": "eye_level",
+      "camera_facing": "three_quarter",
+      "shot_scope": "full_body",
+      "gaze": "off_camera(식물 응시)",
+      "eye_contact_effect": "노 카메라 — 일상에 몰입한 자연스러움",
+      "props": [
+        "식물·화분",
+        "온실/그린하우스",
+        "원예 도구"
+      ],
+      "prop_semantics": "식물 가꾸기=여유·취미·자연친화 라이프스타일(그린카페/조경 시설 연계)",
+      "color_palette": [
+        "#030303",
+        "#70664d",
+        "#463e2a",
+        "#9a907c"
+      ],
+      "color_intent": "그린+우드 웜톤으로 평온한 일상",
+      "pose_description": "허리 굽혀 식물을 살피는 일상 포즈 — 여유·돌봄의 인상",
+      "subject_motion": "걷기/미세제스처(식물 돌봄)",
+      "prop_motion": "식물·도구 핸들링",
+      "camera_motion": "짐벌/팔로우",
+      "camera_motion_intensity": "moderate",
+      "camera_effect_local": "none",
+      "motion_blur": "light",
+      "intra_cut_rhythm": "steady",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [],
+      "vfx_intensity_local": "none",
+      "fact_check_flag": false,
+      "notes": "라이프스타일 1 — 여유.",
+      "visible_elements": {
+        "foreground": [
+          "인물(모/자·여성 등 라이프스타일 출연)"
+        ],
+        "midground": [
+          "식물·화분",
+          "온실/그린하우스",
+          "원예 도구"
+        ],
+        "background": [
+          "그린카페/온실 유리벽 공간"
+        ],
+        "lighting_env": [
+          "골든아워 자연광",
+          "창문 자연광"
+        ],
+        "atmosphere": []
+      },
+      "texture": {
+        "primary_subject": "skin_natural",
+        "secondary_objects": [
+          "foliage",
+          "wood_raw"
+        ],
+        "background_surface": "glass_tinted",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "45deg_above",
+        "key_hardness": "soft",
+        "key_color_temp": "warm_3000K",
+        "fill_strength": "moderate",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": true,
+        "practical_lights": [],
+        "shadow_presence": "soft",
+        "overall_contrast": "hi_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#030303",
+          "#70664d",
+          "#463e2a",
+          "#9a907c"
+        ],
+        "palette_role": {
+          "#030303": "subject_dark_anchor",
+          "#9a907c": "background_or_highlight",
+          "#70664d": "warm_accent",
+          "#463e2a": "warm_accent"
+        },
+        "color_relationship": "analogous",
+        "temperature_balance": "warm_dominant",
+        "saturation_strategy": "muted",
+        "contrast_type": "luminance_low",
+        "accent_color": "#463e2a",
+        "accent_ratio": "15_percent",
+        "brand_color_match": []
+      }
+    },
+    {
+      "index": 5,
+      "duration": 0.87,
+      "framing": "MS",
+      "function": "라이프스타일(그린카페) + 카피1",
+      "color_mood": "warm_cafe",
+      "subject_action": "유리벽 그린카페에서 유모차를 미는 여성, 안쪽에 앉은 사람 — 입주민 카페 일상. 좌측 '여유를 더:블' + '입주민 전용 그린카페'",
+      "copy_overlay": "여유를 더:블 / 입주민 전용 그린카페",
+      "layout_grid": "rule_of_thirds_right",
+      "subject_position": "center",
+      "subject_typo_layout": "인물 우/중앙, 카피 좌측 중앙(메인+서브박스)",
+      "typo_motion": "좌측 fade in, '더:블' 강조",
+      "camera_angle": "eye_level",
+      "camera_facing": "back",
+      "shot_scope": "full_body",
+      "gaze": "off_camera",
+      "props": [
+        "유모차",
+        "유리벽 카페",
+        "원목 가구",
+        "조경 식물"
+      ],
+      "prop_semantics": "유모차·카페=가족·여유의 커뮤니티 생활, 유리벽+조경=자연 조망 프리미엄",
+      "color_palette": [
+        "#040301",
+        "#716143",
+        "#45371d",
+        "#d2c6ad"
+      ],
+      "color_intent": "웜 카페톤, 유리 너머 녹지로 '여유' 비주얼화",
+      "pose_description": "유모차를 밀며 카페를 거니는 일상 포즈 — 여유로운 입주 생활",
+      "subject_motion": "걷기(유모차 밀기)",
+      "prop_motion": "유모차 이동",
+      "camera_motion": "짐벌/팔로우",
+      "camera_motion_intensity": "moderate",
+      "camera_effect_local": "none",
+      "motion_blur": "light",
+      "intra_cut_rhythm": "steady",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [
+        "ui_motion"
+      ],
+      "vfx_intensity_local": "subtle",
+      "fact_check_flag": false,
+      "notes": "카피1 '여유를 더:블'. 더블 펀 시작. 시설=그린카페.",
+      "visible_elements": {
+        "foreground": [
+          "인물(모/자·여성 등 라이프스타일 출연)"
+        ],
+        "midground": [
+          "유모차",
+          "유리벽 카페",
+          "원목 가구",
+          "조경 식물"
+        ],
+        "background": [
+          "아파트 단지 동/조경(CG 건축 비주얼)",
+          "그린카페/온실 유리벽 공간"
+        ],
+        "lighting_env": [
+          "골든아워 자연광",
+          "창문 자연광"
+        ],
+        "atmosphere": []
+      },
+      "texture": {
+        "primary_subject": "skin_natural",
+        "secondary_objects": [
+          "foliage",
+          "wood_raw",
+          "glass_clear"
+        ],
+        "background_surface": "glass_tinted",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "45deg_above",
+        "key_hardness": "soft",
+        "key_color_temp": "warm_3000K",
+        "fill_strength": "moderate",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "soft",
+        "overall_contrast": "hi_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#040301",
+          "#716143",
+          "#45371d",
+          "#d2c6ad"
+        ],
+        "palette_role": {
+          "#040301": "subject_dark_anchor",
+          "#d2c6ad": "background_or_highlight",
+          "#716143": "warm_accent",
+          "#45371d": "warm_accent"
+        },
+        "color_relationship": "analogous",
+        "temperature_balance": "warm_dominant",
+        "saturation_strategy": "vivid",
+        "contrast_type": "luminance_high",
+        "accent_color": "#040301",
+        "accent_ratio": "15_percent",
+        "brand_color_match": []
+      },
+      "style_prompt": "A young Korean mother gently pushing a stroller through a glass-walled residents' green cafe with wooden furniture and garden views, a person seated inside; soft warm interior daylight with greenery beyond the glass, gentle shadow; full-body shot from behind, eye-level, subject center-right with copy zone left; warm cafe palette with green foliage accent; shallow-depth cinematic live-action, relaxed premium-living mood, 2.39:1 letterbox"
+    },
+    {
+      "index": 6,
+      "duration": 1.67,
+      "framing": "MS",
+      "function": "라이프스타일 연속(자연/실내)",
+      "color_mood": "warm_natural",
+      "subject_action": "자연광 실내/조경 공간의 라이프스타일 연속 컷",
+      "copy_overlay": null,
+      "layout_grid": "rule_of_thirds",
+      "subject_position": "center",
+      "subject_typo_layout": null,
+      "typo_motion": null,
+      "camera_angle": "eye_level",
+      "camera_facing": "three_quarter",
+      "shot_scope": "wide_env",
+      "gaze": "off_camera",
+      "props": [
+        "조경",
+        "실내 공간"
+      ],
+      "prop_semantics": "쾌적한 생활공간 지속 노출",
+      "color_palette": [
+        "#040303",
+        "#70644f",
+        "#a6947b",
+        "#49412e"
+      ],
+      "color_intent": "웜 내추럴 톤 유지",
+      "pose_description": "(인물 일상 포즈) 생활 연속",
+      "subject_motion": "걷기/미세제스처",
+      "prop_motion": "none",
+      "camera_motion": "짐벌",
+      "camera_motion_intensity": "moderate",
+      "camera_effect_local": "none",
+      "motion_blur": "light",
+      "intra_cut_rhythm": "steady",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [
+        "lens_flare"
+      ],
+      "vfx_intensity_local": "subtle",
+      "fact_check_flag": false,
+      "notes": "라이프스타일 연결.",
+      "visible_elements": {
+        "foreground": [],
+        "midground": [
+          "조경",
+          "실내 공간"
+        ],
+        "background": [
+          "숲/자연 녹지",
+          "아파트 단지 동/조경(CG 건축 비주얼)",
+          "그린카페/온실 유리벽 공간"
+        ],
+        "lighting_env": [
+          "골든아워 자연광",
+          "창문 자연광"
+        ],
+        "atmosphere": []
+      },
+      "texture": {
+        "primary_subject": "foliage",
+        "secondary_objects": [
+          "foliage"
+        ],
+        "background_surface": "foliage",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "45deg_above",
+        "key_hardness": "soft",
+        "key_color_temp": "warm_3000K",
+        "fill_strength": "moderate",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "soft",
+        "overall_contrast": "hi_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#040303",
+          "#70644f",
+          "#a6947b",
+          "#49412e"
+        ],
+        "palette_role": {
+          "#040303": "subject_dark_anchor",
+          "#a6947b": "background_or_highlight",
+          "#70644f": "warm_accent",
+          "#49412e": "warm_accent"
+        },
+        "color_relationship": "analogous",
+        "temperature_balance": "warm_dominant",
+        "saturation_strategy": "muted",
+        "contrast_type": "luminance_low",
+        "accent_color": "#49412e",
+        "accent_ratio": "15_percent",
+        "brand_color_match": []
+      }
+    },
+    {
+      "index": 7,
+      "duration": 1.07,
+      "framing": "CU",
+      "function": "[와우] 모자 포옹(감성 피크) + 카피2",
+      "color_mood": "warm_emotional",
+      "subject_action": "여성과 아이가 야외에서 환하게 웃으며 포옹 — 감정 절정. 좌측 '편의를 더' + '아이 안전을 위한 키즈스테이션'",
+      "copy_overlay": "편의를 더 / 아이 안전을 위한 키즈스테이션",
+      "layout_grid": "rule_of_thirds_right",
+      "subject_position": "right",
+      "subject_typo_layout": "인물 우, 카피 좌측 중앙(메인+서브박스)",
+      "typo_motion": "좌측 fade in, '더' 강조",
+      "camera_angle": "eye_level",
+      "camera_facing": "three_quarter",
+      "shot_scope": "bust",
+      "gaze": "off_camera(서로 응시)",
+      "eye_contact_effect": "모자의 미소·포옹으로 따뜻한 가족애·안전감",
+      "props": [
+        "(소품 최소 — 인물 중심)"
+      ],
+      "prop_semantics": "포옹=가족·안심, 키즈스테이션 서브카피와 결합해 '아이 키우기 좋은 단지' 소구",
+      "color_palette": [
+        "#020102",
+        "#110e13",
+        "#2f2325",
+        "#c4c4c3"
+      ],
+      "color_intent": "웜·소프트 라이트로 감정 고조, 인물에 시선 집중",
+      "pose_description": "아이를 끌어안고 환하게 웃는 어머니 — 행복·안전의 정점 포즈",
+      "subject_motion": "미세제스처(포옹)",
+      "prop_motion": "none",
+      "camera_motion": "록오프/미세 핸드헬드",
+      "camera_motion_intensity": "subtle",
+      "camera_effect_local": "none",
+      "motion_blur": "light",
+      "intra_cut_rhythm": "static",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [],
+      "vfx_intensity_local": "none",
+      "fact_check_flag": false,
+      "notes": "★감성 피크. 카피2 '편의를 더'. 시설=키즈스테이션.",
+      "visible_elements": {
+        "foreground": [
+          "인물(모/자·여성 등 라이프스타일 출연)"
+        ],
+        "midground": [
+          "(소품 최소 — 인물 중심)"
+        ],
+        "background": [
+          "내추럴 배경"
+        ],
+        "lighting_env": [
+          "골든아워 자연광",
+          "창문 자연광"
+        ],
+        "atmosphere": []
+      },
+      "texture": {
+        "primary_subject": "skin_natural",
+        "secondary_objects": [
+          "fabric_cotton"
+        ],
+        "background_surface": "foliage",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "45deg_above",
+        "key_hardness": "soft",
+        "key_color_temp": "warm_3000K",
+        "fill_strength": "moderate",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "soft",
+        "overall_contrast": "hi_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#020102",
+          "#110e13",
+          "#2f2325",
+          "#c4c4c3"
+        ],
+        "palette_role": {
+          "#020102": "subject_dark_anchor",
+          "#c4c4c3": "background_or_highlight",
+          "#110e13": "neutral_midtone",
+          "#2f2325": "neutral_midtone"
+        },
+        "color_relationship": "analogous",
+        "temperature_balance": "balanced",
+        "saturation_strategy": "muted",
+        "contrast_type": "luminance_high",
+        "accent_color": "#020102",
+        "accent_ratio": "15_percent",
+        "brand_color_match": []
+      },
+      "style_prompt": "A warm candid moment of a Korean mother embracing her smiling young son outdoors near a glass community building at golden hour, both in soft beige knitwear; soft warm back-and-side natural light with gentle bokeh, low shadow; close bust shot, eye-level three-quarter, family on the right with copy zone on the left; warm natural palette with creamy highlights; shallow-depth cinematic live-action, tender safe family mood, 2.39:1 letterboxed commercial"
+    },
+    {
+      "index": 8,
+      "duration": 1.6,
+      "framing": "CU",
+      "function": "라이프스타일(피트니스/헬스)",
+      "color_mood": "cool_window_light",
+      "subject_action": "창가 빛 속에서 인물이 팔·손목을 스트레칭하는 디테일(피트니스/헬스 암시)",
+      "copy_overlay": "(연결 — 즐거움을 카피로 이어짐)",
+      "layout_grid": "rule_of_thirds_right",
+      "subject_position": "right",
+      "subject_typo_layout": "인물(팔) 우, 카피 좌측 준비",
+      "typo_motion": null,
+      "camera_angle": "eye_level",
+      "camera_facing": "profile",
+      "shot_scope": "bust(팔·손)",
+      "gaze": "off_camera",
+      "props": [
+        "운동복",
+        "창가 자연광"
+      ],
+      "prop_semantics": "스트레칭=건강·웰니스 라이프(헬스/피트니스 커뮤니티 연계)",
+      "color_palette": [
+        "#090a09",
+        "#f9f9f5",
+        "#575852",
+        "#878781"
+      ],
+      "color_intent": "창광 하이라이트로 신체 라인·건강미 강조(웜톤 속 쿨 포인트)",
+      "pose_description": "팔과 손목을 펴 스트레칭하는 정적 포즈 — 절제·웰니스 인상",
+      "subject_motion": "미세제스처(스트레칭)",
+      "prop_motion": "none",
+      "camera_motion": "록오프/미세",
+      "camera_motion_intensity": "subtle",
+      "camera_effect_local": "none",
+      "motion_blur": "light",
+      "intra_cut_rhythm": "steady",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [],
+      "vfx_intensity_local": "none",
+      "fact_check_flag": false,
+      "notes": "라이프스타일 — 헬스/웰니스.",
+      "visible_elements": {
+        "foreground": [
+          "인물(모/자·여성 등 라이프스타일 출연)"
+        ],
+        "midground": [
+          "운동복",
+          "창가 자연광"
+        ],
+        "background": [
+          "숲/자연 녹지",
+          "아파트 단지 동/조경(CG 건축 비주얼)"
+        ],
+        "lighting_env": [
+          "자연광"
+        ],
+        "atmosphere": []
+      },
+      "texture": {
+        "primary_subject": "skin_natural",
+        "secondary_objects": [
+          "fabric_cotton"
+        ],
+        "background_surface": "foliage",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "side_left",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "moderate",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "soft",
+        "overall_contrast": "mid_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#090a09",
+          "#f9f9f5",
+          "#575852",
+          "#878781"
+        ],
+        "palette_role": {
+          "#090a09": "subject_dark_anchor",
+          "#f9f9f5": "background_or_highlight",
+          "#575852": "neutral_midtone",
+          "#878781": "neutral_midtone"
+        },
+        "color_relationship": "analogous",
+        "temperature_balance": "balanced",
+        "saturation_strategy": "monochrome",
+        "contrast_type": "luminance_high",
+        "accent_color": "#090a09",
+        "accent_ratio": "15_percent",
+        "brand_color_match": []
+      }
+    },
+    {
+      "index": 9,
+      "duration": 3.1,
+      "framing": "MS",
+      "function": "라이프스타일(즐거움) + 카피3",
+      "color_mood": "warm_natural",
+      "subject_action": "커뮤니티 활동 라이프스타일(여유·즐거움) 컷, 최장 호흡. 좌측 '즐거움을' + '골프·피트니스·헬스 다양한 커뮤니티 센터'",
+      "copy_overlay": "즐거움을 / 골프·피트니스·헬스 다양한 커뮤니티 센터",
+      "layout_grid": "rule_of_thirds_right",
+      "subject_position": "right",
+      "subject_typo_layout": "인물 우, 카피 좌측 중앙(메인+긴 서브박스)",
+      "typo_motion": "좌측 fade in",
+      "camera_angle": "eye_level",
+      "camera_facing": "three_quarter",
+      "shot_scope": "waist_up",
+      "gaze": "off_camera",
+      "props": [
+        "커뮤니티 시설 소품"
+      ],
+      "prop_semantics": "다양한 커뮤니티 활동=입주 후 '즐길 거리'의 풍부함",
+      "color_palette": [
+        "#000000",
+        "#e2d6c9",
+        "#7e736c",
+        "#a3a2a3"
+      ],
+      "color_intent": "웜·소프트로 즐거운 일상, 긴 서브카피 가독 위해 좌측 다크박스",
+      "pose_description": "커뮤니티 공간에서 활동하는 즐거운 일상 포즈",
+      "subject_motion": "걷기/미세제스처",
+      "prop_motion": "none",
+      "camera_motion": "짐벌/달리",
+      "camera_motion_intensity": "moderate",
+      "camera_effect_local": "none",
+      "motion_blur": "light",
+      "intra_cut_rhythm": "steady",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [
+        "ui_motion"
+      ],
+      "vfx_intensity_local": "subtle",
+      "fact_check_flag": false,
+      "notes": "카피3 '즐거움을'. 3.10s 최장 라이프스타일. 시설=커뮤니티 센터(골프·피트니스·헬스).",
+      "visible_elements": {
+        "foreground": [
+          "인물(모/자·여성 등 라이프스타일 출연)"
+        ],
+        "midground": [
+          "커뮤니티 시설 소품"
+        ],
+        "background": [
+          "아파트 단지 동/조경(CG 건축 비주얼)"
+        ],
+        "lighting_env": [
+          "골든아워 자연광",
+          "창문 자연광"
+        ],
+        "atmosphere": []
+      },
+      "texture": {
+        "primary_subject": "skin_natural",
+        "secondary_objects": [
+          "fabric_cotton"
+        ],
+        "background_surface": "foliage",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "45deg_above",
+        "key_hardness": "soft",
+        "key_color_temp": "warm_3000K",
+        "fill_strength": "moderate",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "soft",
+        "overall_contrast": "hi_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#000000",
+          "#e2d6c9",
+          "#7e736c",
+          "#a3a2a3"
+        ],
+        "palette_role": {
+          "#000000": "subject_dark_anchor",
+          "#e2d6c9": "background_or_highlight",
+          "#7e736c": "neutral_midtone",
+          "#a3a2a3": "neutral_midtone"
+        },
+        "color_relationship": "analogous",
+        "temperature_balance": "balanced",
+        "saturation_strategy": "monochrome",
+        "contrast_type": "luminance_high",
+        "accent_color": "#7e736c",
+        "accent_ratio": "15_percent",
+        "brand_color_match": []
+      }
+    },
+    {
+      "index": 10,
+      "duration": 1.57,
+      "framing": "MS→WS",
+      "function": "라이프스타일→단지 전환",
+      "color_mood": "warm_natural",
+      "subject_action": "라이프스타일에서 단지/조경 와이드로 전환되는 연결",
+      "copy_overlay": null,
+      "layout_grid": "rule_of_thirds",
+      "subject_position": "center",
+      "subject_typo_layout": null,
+      "typo_motion": null,
+      "camera_angle": "eye_level",
+      "camera_facing": "three_quarter",
+      "shot_scope": "wide_env",
+      "gaze": "none",
+      "props": [
+        "단지 조경",
+        "보행 동선"
+      ],
+      "prop_semantics": "조경 동선=쾌적한 단지 환경",
+      "color_palette": [
+        "#6d6451",
+        "#40392a",
+        "#020201",
+        "#a0937e"
+      ],
+      "color_intent": "웜 내추럴로 단지 전환",
+      "pose_description": "(인물 부분) 단지 전환",
+      "subject_motion": "걷기/미세",
+      "prop_motion": "none",
+      "camera_motion": "달리/틸트",
+      "camera_motion_intensity": "moderate",
+      "camera_effect_local": "none",
+      "motion_blur": "light",
+      "intra_cut_rhythm": "steady",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [],
+      "vfx_intensity_local": "none",
+      "fact_check_flag": false,
+      "notes": "단지 전환 빌드업.",
+      "visible_elements": {
+        "foreground": [],
+        "midground": [
+          "단지 조경",
+          "보행 동선"
+        ],
+        "background": [
+          "아파트 단지 동/조경(CG 건축 비주얼)"
+        ],
+        "lighting_env": [
+          "골든아워 자연광",
+          "창문 자연광"
+        ],
+        "atmosphere": []
+      },
+      "texture": {
+        "primary_subject": "concrete",
+        "secondary_objects": [
+          "foliage"
+        ],
+        "background_surface": "concrete",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "45deg_above",
+        "key_hardness": "soft",
+        "key_color_temp": "warm_3000K",
+        "fill_strength": "moderate",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "soft",
+        "overall_contrast": "hi_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#6d6451",
+          "#40392a",
+          "#020201",
+          "#a0937e"
+        ],
+        "palette_role": {
+          "#020201": "subject_dark_anchor",
+          "#a0937e": "background_or_highlight",
+          "#6d6451": "warm_accent",
+          "#40392a": "warm_accent"
+        },
+        "color_relationship": "analogous",
+        "temperature_balance": "warm_dominant",
+        "saturation_strategy": "muted",
+        "contrast_type": "luminance_low",
+        "accent_color": "#020201",
+        "accent_ratio": "15_percent",
+        "brand_color_match": []
+      }
+    },
+    {
+      "index": 11,
+      "duration": 1.47,
+      "framing": "WS(로우앵글 틸트업)",
+      "function": "[와우] 단지 동(棟) 틸트업",
+      "color_mood": "warm_sky",
+      "subject_action": "단지 고층 동을 로우앵글로 올려다보며 카메라가 틸트업 — 웅장한 단지 스케일",
+      "copy_overlay": "(연결 — 그렇게 내 삶에)",
+      "layout_grid": "dynamic_symmetry(대각 파사드)",
+      "subject_position": "none",
+      "subject_typo_layout": "건물 배경, 카피 좌측 준비",
+      "typo_motion": null,
+      "camera_angle": "low_angle",
+      "camera_facing": "none",
+      "shot_scope": "wide_env",
+      "gaze": "none",
+      "props": [
+        "단지 고층 동(CG)"
+      ],
+      "prop_semantics": "로우앵글 틸트업=단지의 위용·랜드마크성(분양 단지 비주얼 관습)",
+      "color_palette": [
+        "#040503",
+        "#8f8e74",
+        "#68573a",
+        "#bfb9a1"
+      ],
+      "color_intent": "맑은 하늘+웜 파사드로 쾌청·프리미엄",
+      "pose_description": "(인물·차량 없음) 건축 틸트업",
+      "subject_motion": "none",
+      "prop_motion": "none",
+      "camera_motion": "틸트업",
+      "camera_motion_intensity": "moderate",
+      "camera_effect_local": "none",
+      "motion_blur": "light",
+      "intra_cut_rhythm": "steady",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [],
+      "vfx_intensity_local": "none",
+      "fact_check_flag": true,
+      "notes": "★단지 위용 컷(CG). 'HL' 로고 동 확인. 고증 플래그(단지 비주얼).",
+      "visible_elements": {
+        "foreground": [],
+        "midground": [
+          "단지 고층 동(CG)",
+          "HL(립스) 단지 로고"
+        ],
+        "background": [
+          "아파트 단지 동/조경(CG 건축 비주얼)",
+          "하늘"
+        ],
+        "lighting_env": [
+          "골든아워 자연광",
+          "창문 자연광"
+        ],
+        "atmosphere": []
+      },
+      "texture": {
+        "primary_subject": "concrete",
+        "secondary_objects": [
+          "foliage"
+        ],
+        "background_surface": "concrete",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "back",
+        "key_hardness": "soft",
+        "key_color_temp": "warm_3000K",
+        "fill_strength": "moderate",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "soft",
+        "overall_contrast": "hi_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#040503",
+          "#8f8e74",
+          "#68573a",
+          "#bfb9a1"
+        ],
+        "palette_role": {
+          "#040503": "subject_dark_anchor",
+          "#bfb9a1": "background_or_highlight",
+          "#8f8e74": "warm_accent",
+          "#68573a": "warm_accent"
+        },
+        "color_relationship": "analogous",
+        "temperature_balance": "warm_dominant",
+        "saturation_strategy": "muted",
+        "contrast_type": "luminance_high",
+        "accent_color": "#68573a",
+        "accent_ratio": "15_percent",
+        "brand_color_match": []
+      },
+      "style_prompt": "A low-angle tilt-up of a tall residential apartment tower (CG architectural visual) against a clear warm sky, clean facade lines converging upward; soft daylight key, gentle shadow; wide shot, low-angle dynamic-symmetry composition with the building diagonal; warm beige facade palette with clear blue sky; polished architectural-render look blended cinematic, monumental aspirational mood, 2.39:1 letterbox"
+    },
+    {
+      "index": 12,
+      "duration": 1.47,
+      "framing": "WS",
+      "function": "커뮤니티 동선(차일드케어)",
+      "color_mood": "warm_natural",
+      "subject_action": "단지 조경 마당·커뮤니티 동선을 부감/와이드로, 'Child Care Center' 동 노출, 가족이 유모차와 함께 산책",
+      "copy_overlay": "그렇게 내 삶에 더:편리하게 (Child Care Center)",
+      "layout_grid": "rule_of_thirds",
+      "subject_position": "center",
+      "subject_typo_layout": "조경 배경, 카피 좌측 중앙",
+      "typo_motion": "좌측 fade in, '더:편리하게' 강조",
+      "camera_angle": "high_angle",
+      "camera_facing": "back",
+      "shot_scope": "wide_env",
+      "gaze": "off_camera",
+      "props": [
+        "단지 조경",
+        "차일드케어 센터 동",
+        "유모차·가족",
+        "벤치·산책로"
+      ],
+      "prop_semantics": "차일드케어+조경 동선=육아·산책 편의, '더:편리하게' 카피와 정합",
+      "color_palette": [
+        "#050403",
+        "#372d21",
+        "#88936c",
+        "#5d6a4a"
+      ],
+      "color_intent": "녹지+우드 단지톤으로 쾌적·편리한 생활환경",
+      "pose_description": "유모차를 밀며 단지를 산책하는 가족 — 편리·안정의 일상",
+      "subject_motion": "걷기(가족 산책)",
+      "prop_motion": "유모차 이동",
+      "camera_motion": "달리/하이앵글 트래킹",
+      "camera_motion_intensity": "moderate",
+      "camera_effect_local": "none",
+      "motion_blur": "light",
+      "intra_cut_rhythm": "steady",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [],
+      "vfx_intensity_local": "none",
+      "fact_check_flag": true,
+      "notes": "정리 카피 '더:편리하게'. 시설=Child Care Center. 단지 CG 고증 플래그.",
+      "visible_elements": {
+        "foreground": [
+          "인물(모/자·여성 등 라이프스타일 출연)"
+        ],
+        "midground": [
+          "단지 조경",
+          "차일드케어 센터 동",
+          "유모차·가족",
+          "벤치·산책로"
+        ],
+        "background": [
+          "아파트 단지 동/조경(CG 건축 비주얼)"
+        ],
+        "lighting_env": [
+          "골든아워 자연광",
+          "창문 자연광"
+        ],
+        "atmosphere": []
+      },
+      "texture": {
+        "primary_subject": "skin_natural",
+        "secondary_objects": [
+          "foliage",
+          "wood_raw"
+        ],
+        "background_surface": "concrete",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "45deg_above",
+        "key_hardness": "soft",
+        "key_color_temp": "warm_3000K",
+        "fill_strength": "moderate",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "soft",
+        "overall_contrast": "hi_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#050403",
+          "#372d21",
+          "#88936c",
+          "#5d6a4a"
+        ],
+        "palette_role": {
+          "#050403": "subject_dark_anchor",
+          "#88936c": "background_or_highlight",
+          "#372d21": "warm_accent",
+          "#5d6a4a": "neutral_midtone"
+        },
+        "color_relationship": "analogous",
+        "temperature_balance": "balanced",
+        "saturation_strategy": "muted",
+        "contrast_type": "luminance_low",
+        "accent_color": "#050403",
+        "accent_ratio": "15_percent",
+        "brand_color_match": []
+      }
+    },
+    {
+      "index": 13,
+      "duration": 0.83,
+      "framing": "MS",
+      "function": "디테일/리듬",
+      "color_mood": "warm_natural",
+      "subject_action": "단지·라이프스타일 짧은 연결 디테일",
+      "copy_overlay": null,
+      "layout_grid": "center",
+      "subject_position": "center",
+      "subject_typo_layout": null,
+      "typo_motion": null,
+      "camera_angle": "eye_level",
+      "camera_facing": "three_quarter",
+      "shot_scope": "wide_env",
+      "gaze": "none",
+      "props": [
+        "단지/생활 디테일"
+      ],
+      "prop_semantics": "리듬 연결",
+      "color_palette": [
+        "#090201",
+        "#4f301e",
+        "#81624b",
+        "#b2957d"
+      ],
+      "color_intent": "웜톤 연결",
+      "pose_description": "(인물 부분) 연결",
+      "subject_motion": "미세",
+      "prop_motion": "none",
+      "camera_motion": "슬라이더",
+      "camera_motion_intensity": "subtle",
+      "camera_effect_local": "none",
+      "motion_blur": "light",
+      "intra_cut_rhythm": "steady",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [],
+      "vfx_intensity_local": "none",
+      "fact_check_flag": false,
+      "notes": "0.83s 연결.",
+      "visible_elements": {
+        "foreground": [],
+        "midground": [
+          "단지/생활 디테일"
+        ],
+        "background": [
+          "아파트 단지 동/조경(CG 건축 비주얼)"
+        ],
+        "lighting_env": [
+          "골든아워 자연광",
+          "창문 자연광"
+        ],
+        "atmosphere": []
+      },
+      "texture": {
+        "primary_subject": "concrete",
+        "secondary_objects": [
+          "foliage"
+        ],
+        "background_surface": "concrete",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "45deg_above",
+        "key_hardness": "soft",
+        "key_color_temp": "warm_3000K",
+        "fill_strength": "moderate",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "soft",
+        "overall_contrast": "hi_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#090201",
+          "#4f301e",
+          "#81624b",
+          "#b2957d"
+        ],
+        "palette_role": {
+          "#090201": "subject_dark_anchor",
+          "#b2957d": "background_or_highlight",
+          "#4f301e": "warm_accent",
+          "#81624b": "warm_accent"
+        },
+        "color_relationship": "analogous",
+        "temperature_balance": "warm_dominant",
+        "saturation_strategy": "vivid",
+        "contrast_type": "luminance_low",
+        "accent_color": "#090201",
+        "accent_ratio": "15_percent",
+        "brand_color_match": []
+      }
+    },
+    {
+      "index": 14,
+      "duration": 1.4,
+      "framing": "WS(야경)",
+      "function": "입지 등식 + 위치맵",
+      "color_mood": "night_warm_gate",
+      "subject_action": "단지 입구 게이트(우드 루버·웜 조명) 야경, 우하단에 위치 맵 그래픽(동남지구/발서지구/지북지구). '지북의 비전과 동남의 인프라가 만나'",
+      "copy_overlay": "지북의 비전과 동남의 인프라가 만나",
+      "layout_grid": "rule_of_thirds",
+      "subject_position": "none",
+      "subject_typo_layout": "게이트 배경, 메인 카피 중앙, 위치맵 우하단",
+      "typo_motion": "카피 fade in + 위치맵 data_viz 등장",
+      "camera_angle": "eye_level",
+      "camera_facing": "none",
+      "shot_scope": "wide_env",
+      "gaze": "none",
+      "props": [
+        "단지 입구 게이트",
+        "우드 루버 조명",
+        "위치 맵 그래픽"
+      ],
+      "prop_semantics": "고급 게이트=단지 격, 위치맵=입지(인프라 인접) 객관 근거, '비전+인프라' 등식 비주얼화",
+      "color_palette": [
+        "#060100",
+        "#3a2412",
+        "#5e4833",
+        "#c1ae92"
+      ],
+      "color_intent": "야경 웜 게이트 조명으로 프리미엄·안정, 맵 그래픽으로 정보 신뢰",
+      "pose_description": "(인물 없음) 게이트 야경 + 정보 그래픽",
+      "subject_motion": "none",
+      "prop_motion": "none",
+      "camera_motion": "달리/록오프",
+      "camera_motion_intensity": "subtle",
+      "camera_effect_local": "none",
+      "motion_blur": "none",
+      "intra_cut_rhythm": "steady",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [
+        "data_viz",
+        "ui_motion"
+      ],
+      "vfx_intensity_local": "moderate",
+      "fact_check_flag": true,
+      "notes": "입지 등식 핵심 컷. 위치맵 data_viz(지구명 고증 플래그). 'HL 립스' 게이트 사인.",
+      "visible_elements": {
+        "foreground": [],
+        "midground": [
+          "단지 입구 게이트",
+          "우드 루버 조명",
+          "위치 맵 그래픽",
+          "위치 맵 그래픽(지구 표시)",
+          "HL(립스) 단지 로고"
+        ],
+        "background": [
+          "아파트 단지 동/조경(CG 건축 비주얼)"
+        ],
+        "lighting_env": [
+          "단지 창문 웜 조명",
+          "게이트/조경 야간 조명"
+        ],
+        "atmosphere": []
+      },
+      "texture": {
+        "primary_subject": "concrete",
+        "secondary_objects": [
+          "wood_raw"
+        ],
+        "background_surface": "concrete",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "45deg_above",
+        "key_hardness": "soft",
+        "key_color_temp": "warm_3000K",
+        "fill_strength": "moderate",
+        "key_to_fill_ratio": "4:1",
+        "rim_light": false,
+        "practical_lights": [
+          "단지 창문빛",
+          "조경 조명"
+        ],
+        "shadow_presence": "deep",
+        "overall_contrast": "low_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#060100",
+          "#3a2412",
+          "#5e4833",
+          "#c1ae92"
+        ],
+        "palette_role": {
+          "#060100": "subject_dark_anchor",
+          "#c1ae92": "background_or_highlight",
+          "#3a2412": "warm_accent",
+          "#5e4833": "warm_accent"
+        },
+        "color_relationship": "monochrome",
+        "temperature_balance": "warm_dominant",
+        "saturation_strategy": "vivid",
+        "contrast_type": "luminance_high",
+        "accent_color": "#060100",
+        "accent_ratio": "15_percent",
+        "brand_color_match": []
+      }
+    },
+    {
+      "index": 15,
+      "duration": 2.6,
+      "framing": "WS(야경)",
+      "function": "단지 야경 빌드업",
+      "color_mood": "deep_blue_night",
+      "subject_action": "야경 단지·조경 와이드로 엔딩 무드 빌드업",
+      "copy_overlay": "(더블 프리미엄이 되다 — 연결)",
+      "layout_grid": "rule_of_thirds",
+      "subject_position": "none",
+      "subject_typo_layout": "야경 배경, 카피 준비",
+      "typo_motion": null,
+      "camera_angle": "eye_level",
+      "camera_facing": "none",
+      "shot_scope": "wide_env",
+      "gaze": "none",
+      "props": [
+        "야경 단지",
+        "조명"
+      ],
+      "prop_semantics": "야경 단지=안정·품격, 엔딩 정점 준비",
+      "color_palette": [
+        "#040204",
+        "#2c1d17",
+        "#503b2d",
+        "#81654b"
+      ],
+      "color_intent": "딥 블루 야경 + 웜 창문빛 대비로 아늑·프리미엄",
+      "pose_description": "(인물 없음) 야경 단지",
+      "subject_motion": "none",
+      "prop_motion": "none",
+      "camera_motion": "달리/항공",
+      "camera_motion_intensity": "moderate",
+      "camera_effect_local": "none",
+      "motion_blur": "light",
+      "intra_cut_rhythm": "steady",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [],
+      "vfx_intensity_local": "none",
+      "fact_check_flag": false,
+      "notes": "엔딩 야경 빌드업.",
+      "visible_elements": {
+        "foreground": [],
+        "midground": [
+          "야경 단지",
+          "조명"
+        ],
+        "background": [
+          "아파트 단지 동/조경(CG 건축 비주얼)"
+        ],
+        "lighting_env": [
+          "단지 창문 웜 조명",
+          "게이트/조경 야간 조명"
+        ],
+        "atmosphere": []
+      },
+      "texture": {
+        "primary_subject": "concrete",
+        "secondary_objects": [
+          "foliage"
+        ],
+        "background_surface": "concrete",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "side_left",
+        "key_hardness": "soft",
+        "key_color_temp": "warm_3000K",
+        "fill_strength": "moderate",
+        "key_to_fill_ratio": "4:1",
+        "rim_light": false,
+        "practical_lights": [
+          "단지 창문빛",
+          "조경 조명"
+        ],
+        "shadow_presence": "deep",
+        "overall_contrast": "low_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#040204",
+          "#2c1d17",
+          "#503b2d",
+          "#81654b"
+        ],
+        "palette_role": {
+          "#040204": "subject_dark_anchor",
+          "#81654b": "background_or_highlight",
+          "#2c1d17": "warm_accent",
+          "#503b2d": "warm_accent"
+        },
+        "color_relationship": "monochrome",
+        "temperature_balance": "warm_dominant",
+        "saturation_strategy": "vivid",
+        "contrast_type": "luminance_low",
+        "accent_color": "#040204",
+        "accent_ratio": "15_percent",
+        "brand_color_match": []
+      }
+    },
+    {
+      "index": 16,
+      "duration": 2.3,
+      "framing": "WS",
+      "function": "단지/라이프 회상 연결",
+      "color_mood": "warm_light",
+      "subject_action": "밝은 단지/생활 와이드로 정서 환기 후 엔딩 야경으로 연결",
+      "copy_overlay": null,
+      "layout_grid": "rule_of_thirds",
+      "subject_position": "center",
+      "subject_typo_layout": null,
+      "typo_motion": null,
+      "camera_angle": "eye_level",
+      "camera_facing": "three_quarter",
+      "shot_scope": "wide_env",
+      "gaze": "none",
+      "props": [
+        "단지·생활공간"
+      ],
+      "prop_semantics": "삶의 풍경 환기",
+      "color_palette": [
+        "#060402",
+        "#e5d2bd",
+        "#524128",
+        "#86734f"
+      ],
+      "color_intent": "밝은 웜 라이트로 긍정·희망",
+      "pose_description": "(인물 부분) 생활 연결",
+      "subject_motion": "미세/걷기",
+      "prop_motion": "none",
+      "camera_motion": "달리",
+      "camera_motion_intensity": "moderate",
+      "camera_effect_local": "none",
+      "motion_blur": "light",
+      "intra_cut_rhythm": "steady",
+      "transition_in": "cut",
+      "transition_out": "fade",
+      "vfx_in_shot": [],
+      "vfx_intensity_local": "none",
+      "fact_check_flag": false,
+      "notes": "엔딩 연결.",
+      "visible_elements": {
+        "foreground": [],
+        "midground": [
+          "단지·생활공간"
+        ],
+        "background": [
+          "아파트 단지 동/조경(CG 건축 비주얼)"
+        ],
+        "lighting_env": [
+          "단지 창문 웜 조명",
+          "게이트/조경 야간 조명"
+        ],
+        "atmosphere": []
+      },
+      "texture": {
+        "primary_subject": "concrete",
+        "secondary_objects": [
+          "foliage"
+        ],
+        "background_surface": "concrete",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "45deg_above",
+        "key_hardness": "soft",
+        "key_color_temp": "warm_3000K",
+        "fill_strength": "moderate",
+        "key_to_fill_ratio": "4:1",
+        "rim_light": false,
+        "practical_lights": [
+          "단지 창문빛",
+          "조경 조명"
+        ],
+        "shadow_presence": "deep",
+        "overall_contrast": "low_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#060402",
+          "#e5d2bd",
+          "#524128",
+          "#86734f"
+        ],
+        "palette_role": {
+          "#060402": "subject_dark_anchor",
+          "#e5d2bd": "background_or_highlight",
+          "#524128": "warm_accent",
+          "#86734f": "warm_accent"
+        },
+        "color_relationship": "monochrome",
+        "temperature_balance": "warm_dominant",
+        "saturation_strategy": "muted",
+        "contrast_type": "luminance_high",
+        "accent_color": "#060402",
+        "accent_ratio": "15_percent",
+        "brand_color_match": []
+      }
+    },
+    {
+      "index": 17,
+      "duration": 4.61,
+      "framing": "EWS(야경 스카이라인)",
+      "function": "엔딩/슬로건/브랜드/CTA",
+      "color_mood": "deep_blue_night",
+      "subject_action": "별이 뜬 밤하늘 아래 단지 스카이라인(웜 창문빛, HL 로고 동). 중앙에 '지북에서 만나는 더블 프리미엄 / 청주 한양립스 더 벨루체 / 5월 그랜드 오픈 | 문의 1577-0505', 하단에 분양주체·면책 고지",
+      "copy_overlay": "지북에서 만나는 더블 프리미엄 / 청주 한양립스 더 벨루체 / 5월 그랜드 오픈 | 문의 1577-0505",
+      "layout_grid": "center",
+      "subject_position": "none",
+      "subject_typo_layout": "스카이라인 배경, 슬로건·브랜드·CTA 중앙 3단, 분양주체 고지 최하단",
+      "typo_motion": "중앙 fade in 3단 누적, 'HL' 로고",
+      "camera_angle": "eye_level",
+      "camera_facing": "none",
+      "shot_scope": "wide_env",
+      "gaze": "none",
+      "props": [
+        "야경 단지 스카이라인(CG)",
+        "HL 립스 로고",
+        "밤하늘·별"
+      ],
+      "prop_semantics": "야경 스카이라인=완성된 삶의 비전, 웜 창문빛=입주 후 온기, 로고·전화번호=행동유도",
+      "color_palette": [
+        "#2c2c3b",
+        "#030101",
+        "#12192c",
+        "#5d554f"
+      ],
+      "color_intent": "딥 블루 밤 + 웜 창문빛 + 화이트/골드 카피로 프리미엄·신뢰·각인",
+      "pose_description": "(인물 없음) 엔딩 스카이라인 + 카피/브랜드/CTA",
+      "subject_motion": "none",
+      "prop_motion": "none",
+      "camera_motion": "록오프/미세 달리",
+      "camera_motion_intensity": "subtle",
+      "camera_effect_local": "none",
+      "motion_blur": "none",
+      "intra_cut_rhythm": "static",
+      "transition_in": "fade",
+      "transition_out": "cut",
+      "vfx_in_shot": [
+        "ui_motion"
+      ],
+      "vfx_intensity_local": "subtle",
+      "fact_check_flag": true,
+      "notes": "★엔딩 회수 — 슬로건+브랜드+오픈시점+전화. 4.61s 최장. 분양주체 장문 고지 excerpt_only. 단지 CG 고증 플래그.",
+      "visible_elements": {
+        "foreground": [],
+        "midground": [
+          "야경 단지 스카이라인(CG)",
+          "HL 립스 로고",
+          "밤하늘·별",
+          "HL(립스) 단지 로고"
+        ],
+        "background": [
+          "아파트 단지 동/조경(CG 건축 비주얼)",
+          "하늘"
+        ],
+        "lighting_env": [
+          "단지 창문 웜 조명",
+          "게이트/조경 야간 조명"
+        ],
+        "atmosphere": []
+      },
+      "texture": {
+        "primary_subject": "concrete",
+        "secondary_objects": [
+          "foliage"
+        ],
+        "background_surface": "concrete",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "side_left",
+        "key_hardness": "soft",
+        "key_color_temp": "warm_3000K",
+        "fill_strength": "moderate",
+        "key_to_fill_ratio": "4:1",
+        "rim_light": false,
+        "practical_lights": [
+          "단지 창문빛",
+          "조경 조명"
+        ],
+        "shadow_presence": "deep",
+        "overall_contrast": "low_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#2c2c3b",
+          "#030101",
+          "#12192c",
+          "#5d554f"
+        ],
+        "palette_role": {
+          "#030101": "subject_dark_anchor",
+          "#5d554f": "background_or_highlight",
+          "#2c2c3b": "neutral_midtone",
+          "#12192c": "cool_midtone"
+        },
+        "color_relationship": "monochrome",
+        "temperature_balance": "balanced",
+        "saturation_strategy": "muted",
+        "contrast_type": "luminance_low",
+        "accent_color": "#030101",
+        "accent_ratio": "15_percent",
+        "brand_color_match": []
+      },
+      "style_prompt": "A night skyline of an illuminated residential complex under a starry sky (CG architectural visual), warm window lights glowing, a centered Korean slogan with brand name and grand-open CTA; deep blue night with warm practical window light; extreme wide shot, eye-level, skyline along lower frame with sky negative space; deep-blue palette with warm amber window accents; clean architectural-render composite, premium trustworthy closing mood, 2.39:1 commercial end-frame"
+    }
+  ],
+  "analyst_notes": "(1) 브랜드·제품 확정: 화면 직접 판독 — 우상단 상시 워터마크 '청주 한양립스 더 벨루체' + '1577-0505', 단지 동에 'HL'(립스) 로고, 엔딩 분양주체 고지(시행 동남지역주택조합·시공 (주)한양건설·신탁 (주)무궁화신탁·분양 (주)케이씨씨파트너스). 청주(충북) 지북지구 아파트 분양 TVC, 5월 그랜드 오픈. (2) 핵심 크리에이티브 = '더:블(double)' 워드플레이 + 'X를 더/다' 애너포라 — '여유를 더:블/편의를 더/즐거움을' 각 라인에 실제 시설(그린카페·키즈스테이션·골프·피트니스·헬스·차일드케어)을 서브카피로 매칭. 입지는 '지북의 비전 + 동남의 인프라 = 더블 프리미엄' 등식으로 정리. (3) 전역 시그니처 = 위글 아님. 실사 라이프스타일(짐벌·핸드헬드·자연광 플레어·얕은 심도)과 CG 단지 비주얼(로우앵글 틸트업·항공·야경 스카이라인)의 교차 = 분양 광고 정석. 2.39:1 레터박스. (4) 음성·자막 거의 일치(both), 커버리지 0.964로 ref 001/003보다 나레이션 양호. Whisper 오인식 다수 보정('내 설마'→'내 삶에','지부기'→'지북의','청조'→'청주','더벨루트에'→'더 벨루체'). (5) 17컷 scenedetect 모두 실제 컷(병합 불필요). 동색 match-cut 없음. (6) ref 003(현대 팰리세이드, 자동차·제품히어로·쿨 시네마틱·캡션주도)과 같은 '실사 시네마틱·프리미엄' 베이스이나 산업(부동산 vs 자동차)·톤(따뜻한 가족 vs 차가운 리더십)·카피전략(애너포라 펀 vs 리더십 선언)이 대조 → cross-pollination 가치 높음. (7) v0.4 필드 전부 채움: 라이프스타일 컷은 인물 gaze(off_camera 주로)·pose 상세, 단지 컷은 props=건축·조경·data_viz, color_palette는 manifest 자동 HEX 사용.",
+  "verification": {
+    "frames_reviewed": true,
+    "audio_analyzed": true,
+    "hitrate_na": true,
+    "abstraction_checked": true,
+    "abstraction_note": "출연 인물 실명 없음(일반 모델, '여성'/'아이'/'모자'로 추상 기술). 브랜드·분양주체 정식명은 source_ref와 카피/고지 인용에만. 단지·시설은 기능·인상('입주민 전용 그린카페','로우앵글 틸트업 단지 동')으로 추상. 장문 분양주체·면책 고지는 excerpt_only.",
+    "v04_fields": "camera_angle/facing/shot_scope/gaze + props/prop_semantics + color_palette/intent + pose_description 채움 (라이프스타일 인물 컷은 gaze/pose 상세, 단지 CG 컷은 건축·그래픽 중심)",
+    "v04pp_fields": "STEP4.5 추가: visible_elements(5층)·texture·lighting(9서브)·color_analysis(8서브) 전 컷 + 핵심컷 style_prompt"
+  },
+  "search_keywords": {
+    "industry": [
+      "construction_realestate"
+    ],
+    "product_category": [
+      "apartment_presale"
+    ],
+    "target_demo": [
+      "30s",
+      "40s",
+      "family_end_users",
+      "local_presale_prospects"
+    ],
+    "media_format": [
+      "tvc_30s",
+      "presale_lifestyle_film"
+    ],
+    "tone": [
+      "warm_emotional",
+      "premium",
+      "relaxed_healing",
+      "family"
+    ],
+    "pacing": [
+      "steady"
+    ],
+    "technique": [
+      "anaphora_copy",
+      "lifestyle_cg_intercut",
+      "nature_intro",
+      "low_angle_tiltup",
+      "location_map_graphic"
+    ],
+    "vfx_keywords": [
+      "lens_flare",
+      "data_viz",
+      "ui_motion",
+      "morph"
+    ],
+    "copy_strategy_keywords": [
+      "double_wordplay",
+      "facility_subcopy_match",
+      "location_equation",
+      "voice_caption_sync"
+    ],
+    "concept_derivation_pattern": [
+      "everyday_problem_metaphor_product_release",
+      "call_and_response_copy",
+      "three_part_time_flow"
+    ]
+  },
+  "inferred_creative_thinking": {
+    "confidence": "inferred",
+    "insight_one_liner": "분양 검토층은 평면도·스펙보다 '여기서 사는 내 삶이 어떨까'라는 장면에 먼저 끌리고, 추상적 약속(여유·편의)에 구체 시설(그린카페·키즈스테이션)이 붙을 때 신뢰가 생긴다",
+    "persona_one_liner": "30-40대 가족 단위 실수요·지역(청주) 분양 관심층",
+    "moment_one_liner": "새 아파트 분양 소식을 보고 '살 만한 곳인가' 가늠하는 검토 시점",
+    "product_role_one_liner": "지북의 비전과 동남의 인프라가 만나는 '더블 프리미엄' 생활 — 커뮤니티가 풍부한 단지",
+    "punchline_one_liner": "지북에서 만나는 더블 프리미엄",
+    "differentiator_one_liner": "'더:블' 워드플레이 + 'X를 더' 애너포라로 혜택을 운율감 있게 나열하고, 실사 가족 감성과 CG 단지 위용을 교차",
+    "brand_fit_one_liner": "한양립스는 한양건설의 아파트 브랜드, 커뮤니티·입지 강조가 지역 분양 톤에 정합"
+  },
+  "inferred_brief": "청주 지북지구 한양립스 더 벨루체 아파트 분양을 알리는 약 30초 라이프스타일 TVC. 30-40대 가족 실수요를 타깃으로, 여유·편의·즐거움을 '더:블' 워드플레이와 애너포라 카피로 전하고 각 라인에 그린카페·키즈스테이션·커뮤니티 센터·차일드케어 시설을 매칭. '지북의 비전 + 동남의 인프라 = 더블 프리미엄' 입지 등식으로 마무리. 톤은 따뜻·감성·프리미엄. 실사 가족 감성 + CG 단지 비주얼 교차. CTA: 5월 그랜드 오픈, 문의 1577-0505.",
+  "cross_pollination_tags": {
+    "adjacent": [
+      "hotel_resort",
+      "premium_appliance_interior",
+      "insurance_finance_lifeplan"
+    ],
+    "distant": [
+      "automotive_premium_suv",
+      "education_kids",
+      "travel_aviation"
+    ],
+    "contrast": [
+      "mz_celeb_kitsch_ad",
+      "industrial_b2b",
+      "fnb_fastfood_fun_ad"
+    ]
+  }
+}

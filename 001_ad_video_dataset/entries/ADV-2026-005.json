@@ -1,0 +1,1269 @@
+{
+  "id": "ADV-2026-005",
+  "schema_version": "0.4++",
+  "source_ref": {
+    "platform": "사용자 제공 mp4",
+    "title_or_campaign": "올리브영 오늘드림 (Olive Young Today Dream)",
+    "brand": "올리브영 (CJ 올리브영, H&B 리테일)",
+    "product": "오늘드림 (당일 즉시배송 서비스)",
+    "model": "(여성 1인 메인 + 라이프스타일 일반 출연자)",
+    "year": 2026,
+    "production_note": "실사 라이프스타일 촬영 + 화이트 무한대 배경 합성 + 제품 컷아웃/앱 스크린샷 그래픽 합성. 키네틱 타이포(브랜드 그린). 자동 컷분할이 디졸브 연결 몽타주(cut02, 약 11.8s)를 한 컷으로 병합 — 내부에 다수 디졸브 서브씬 존재.",
+    "url": "(미기입 — 사용자 다운로드 파일)"
+  },
+  "category_primary": "retail.beauty_platform",
+  "category_tags": [
+    "H&B리테일",
+    "당일배송",
+    "이커머스앱",
+    "뷰티",
+    "라이프스타일",
+    "키네틱타이포"
+  ],
+  "mood": [
+    "경쾌",
+    "공감·위로",
+    "깔끔·미니멀",
+    "친근",
+    "도시 1인가구"
+  ],
+  "target_demo": "20-30대 도시 직장인·1인가구 여성 (바쁜 일상 속 즉시배송 수요)",
+  "total_duration": 28.97,
+  "shot_count": 9,
+  "shot_count_corrected": 14,
+  "fps": 30.0,
+  "aspect_ratio": "2.39:1 (시네마스코프 레터박스)",
+  "hook_position": 0.3,
+  "cta_position": 24.3,
+  "narrative_arc": "공감 후크('바쁘게 흘러간 오늘'·안경 쓴 여성 CU) → 일상 페인포인트 몽타주(서류더미·요가·카페·친구들, 제품 떠다님) + '좋아하는 것들로만 채우기에도 모자란 하루니까' → 솔루션('기다림은 빼고'·하품) → 앱 쇼핑 경험(그린 소파+앱 스크린샷 떠다님) → '가장 필요한 순간 가장 빠르게' → CTA '지금 주문하고 오늘 바로' → 올리브영 로고",
+  "pacing_curve": "front_loaded",
+  "music_tempo_curve": "steady",
+  "wow_cut_index": [
+    2,
+    5
+  ],
+  "creative_device": "바쁜 하루의 공감 카피를 키네틱 타이포(핵심어 브랜드 그린)로 리듬감 있게 전개 + 화이트 무한대 배경에 제품·앱 스크린샷을 떠다니게 합성해 '즉시 손에 닿는' 서비스를 시각화. 디졸브로 연결된 라이프스타일 몽타주가 하루의 흐름을 압축. 마무리는 직접 행동유도형 CTA('지금 주문하고 오늘 바로').",
+  "production_signature": {
+    "capture_style": "mixed",
+    "camera_signature": [
+      "locked_off",
+      "gimbal",
+      "dolly_heavy"
+    ],
+    "signature_note": "실사 인물 컷(얕은 심도·자연광)과 화이트 무한대 배경 합성. 위글3D/렌티큘러 아님 — 실제 모션블러·심도. 제품 컷아웃·앱 UI가 프레임 가장자리에서 떠다니는 모션그래픽 합성이 시그니처. 디졸브 트랜지션으로 컷 경계가 부드러워 자동분할이 cut02를 한 컷으로 병합.",
+    "color_grade": "high_key_white",
+    "color_grade_note": "거의 순백(#f1f0ed~#fcfafd) 하이키 배경 지배 + 인물 자연 톤 + 핵심 타이포·소파의 브랜드 그린 포인트.",
+    "texture_fx": "clean_digital"
+  },
+  "global_layout": {
+    "grid_system": "center",
+    "subject_placement_dominant": "center",
+    "subject_typo_relation": "typo_over_subject",
+    "negative_space_use": "generous",
+    "layout_note": "인물은 중앙, 거대한 화이트 여백. 키네틱 카피는 화면 좌측~중앙에 큼직하게(핵심어 그린), 제품·앱 컷아웃은 상하좌우 가장자리에서 진입. 미니멀·여백 큰 H&B 톤.",
+    "subtitle_zone": "좌측~중앙(키네틱 카피)"
+  },
+  "recurring_motifs": [
+    "브랜드 그린 키네틱 타이포(핵심어 강조)",
+    "화이트 무한대 배경",
+    "떠다니는 제품·앱 스크린샷 컷아웃",
+    "안경 쓴 여성(바쁜 일상 페르소나)",
+    "올리브영 로고(그린 올리브 O)"
+  ],
+  "copywriting": {
+    "tagline_text": "지금 주문하고 오늘 바로, 올리브영 오늘드림",
+    "tagline_structure": "즉시성 강조('지금'·'오늘 바로') + 브랜드/서비스명('올리브영 오늘드림')",
+    "tagline_length_syllables": 19,
+    "tagline_position_sec": 24.3,
+    "cta_text": "지금 주문하고 오늘 바로",
+    "cta_text_structure": "명령형 즉시성('지금 주문'+'오늘 바로') — 당일배송 핵심 베네핏",
+    "cta_position_sec": 24.3,
+    "copy_tone": [
+      "공감·위로",
+      "경쾌",
+      "직설적",
+      "정보전달"
+    ],
+    "copy_strategy": "바쁜 하루의 감정에 공감하는 카피('바쁘게 흘러간 오늘','좋아하는 것들로만 채우기에도 모자란 하루니까')로 정서적 연결을 만든 뒤, 서비스 베네핏('기다림은 빼고','가장 빠르게')으로 전환, 직접 CTA로 마무리. 핵심어를 브랜드 그린으로 키네틱 강조해 리듬감 부여. 음성과 자막이 대체로 일치(both).",
+    "copy_lines_count": 7,
+    "lines": [
+      {
+        "position_sec": 0.5,
+        "text": "바쁘게 흘러간 오늘",
+        "function": "공감 후크",
+        "tone": "공감·위로",
+        "source": "both"
+      },
+      {
+        "position_sec": 5.5,
+        "text": "나를 위한 시간",
+        "function": "공감 전개(자기돌봄)",
+        "tone": "공감·위로",
+        "source": "both"
+      },
+      {
+        "position_sec": 7.3,
+        "text": "좋아하는 것들로만 채우기에도 모자란 하루니까",
+        "function": "페인포인트(시간 부족)",
+        "tone": "공감·위로",
+        "source": "both"
+      },
+      {
+        "position_sec": 13.0,
+        "text": "기다림은 빼고",
+        "function": "솔루션 전환(즉시성)",
+        "tone": "직설적",
+        "source": "both"
+      },
+      {
+        "position_sec": 15.8,
+        "text": "가장 필요한 순간 가장 빠르게 닿을 수 있도록",
+        "function": "서비스 베네핏(속도)",
+        "tone": "직설적",
+        "source": "both"
+      },
+      {
+        "position_sec": 24.3,
+        "text": "지금 주문하고",
+        "function": "CTA(주문 유도)",
+        "tone": "직설적",
+        "source": "both"
+      },
+      {
+        "position_sec": 25.8,
+        "text": "오늘 바로, 올리브영 오늘드림",
+        "function": "CTA/브랜드 회수",
+        "tone": "직설적",
+        "source": "both"
+      }
+    ],
+    "captions": [
+      {
+        "position_sec": 17.5,
+        "text": "(앱 화면 실제 상품 라벨 — 예: ZEROID 수딩크림 19% 24,300원, 클렌징밤 36% 25,500원, 오늘의특가, PICK 등)",
+        "function": "앱 쇼핑 경험 리얼리티(상품·할인 노출)"
+      }
+    ],
+    "narration_handling": "excerpt_only",
+    "narration_note": "음성 나레이션과 화면 카피 거의 일치. 앱 스크린샷 내 상품·할인 텍스트는 화면 리얼리티 요소(통째 저장 안 함)."
+  },
+  "typography": {
+    "primary_font_class": "산세리프 굵은체(키네틱 카피)",
+    "secondary_font_class": "산세리프 중간체",
+    "animation_style": [
+      "kinetic",
+      "pop",
+      "scale_in",
+      "slide"
+    ],
+    "subtitle_position_dominant": "left_center",
+    "tagline_position": "center(엔딩)",
+    "color_strategy": "블랙 본문 + 핵심어 브랜드 그린(#9ba479 계열) 강조의 2색 키네틱. 화이트 배경 대비로 가독·경쾌.",
+    "appearance_count": 10,
+    "key_typography_moments_sec": [
+      0.5,
+      6.0,
+      9.0,
+      13.0,
+      16.0,
+      24.3,
+      26.0
+    ],
+    "typo_motion_dominant": "핵심어가 그린으로 pop/scale·슬라이드로 등장하며 음성 리듬에 맞춰 키네틱하게 변주. 본문은 블랙 정렬."
+  },
+  "vfx": {
+    "primary_effects": [
+      "ui_motion",
+      "color_pop",
+      "cutout_composite",
+      "morph"
+    ],
+    "effect_intensity": "moderate",
+    "transition_style_dominant": "dissolve",
+    "vfx_event_count": 8,
+    "vfx_timing_array_sec": [
+      4.3,
+      6.0,
+      9.0,
+      11.0,
+      13.0,
+      16.0,
+      17.5,
+      24.3
+    ],
+    "wow_vfx_index": [
+      2,
+      5
+    ],
+    "notable_vfx_note": "핵심은 (1) 화이트 무한대 배경에 제품병·앱 스크린샷 컷아웃이 가장자리에서 떠다니는 모션그래픽, (2) 키네틱 그린 타이포, (3) 디졸브 트랜지션으로 연결된 라이프스타일 몽타주. 앱 UI 화면이 인물 뒤로 떠오르는 cut(약17.5s)이 서비스 시각화 핵심."
+  },
+  "audio": {
+    "has_audio": true,
+    "language": "ko",
+    "speech_coverage": 0.503,
+    "bgm_likely": true,
+    "narration_lines": [
+      {
+        "start": 0.34,
+        "end": 2.34,
+        "text": "바쁘게 흘러간 오늘",
+        "text_raw": "바쁘게 흘러간 오니",
+        "kind": "narration"
+      },
+      {
+        "start": 4.84,
+        "end": 6.84,
+        "text": "나를 위한 시간 (이라기엔)",
+        "text_raw": "나를 두 번씩 하는 미쳤나요?",
+        "kind": "narration"
+      },
+      {
+        "start": 7.34,
+        "end": 10.84,
+        "text": "좋아하는 것들로만 채우기에도 모자란 하루니까",
+        "text_raw": "좋아하는 것들로만 치우기에도 / 모자란 하루니까",
+        "kind": "narration"
+      },
+      {
+        "start": 12.34,
+        "end": 14.34,
+        "text": "기다림은 빼고 (필요한 것만 담아)",
+        "text_raw": "기다리면 떨둘 손만만 담아",
+        "kind": "narration"
+      },
+      {
+        "start": 15.84,
+        "end": 18.84,
+        "text": "가장 필요한 순간 가장 빠르게 닿을 수 있도록",
+        "text_raw": "가장 필요한 순간 / 가장 빠르게 다을 수 있도록",
+        "kind": "narration"
+      },
+      {
+        "start": 24.3,
+        "end": 27.8,
+        "text": "지금 주문하고 오늘 바로, 올리브영 오늘드림",
+        "text_raw": "지금 주문하고 / 오늘 바로 올리브영 오늘 드림",
+        "kind": "narration"
+      }
+    ],
+    "voice_vs_caption": "음성 나레이션과 화면 키네틱 카피가 대체로 일치(both). 핵심 카피·CTA·브랜드명 모두 음성·자막 동기화. 앱 스크린샷 내 상품/할인 텍스트는 자막 전용(화면 리얼리티).",
+    "narration_handling": "excerpt_only",
+    "audio_note": "faster-whisper(base) 9세그먼트, 커버리지 0.503(BGM 큼). 오인식 보정: '흘러간 오니'→'오늘', '나를 두 번씩 하는 미쳤나요'→문맥상 '나를 위한 시간(이라기엔)' 추정(불확실), '치우기'→'채우기', '기다리면 떨둘 손만만 담아'→'기다림은 빼고 (필요한 것만 담아)' 추정, '다을'→'닿을'. 화면 자막과 대조 보정, 불확실 라인은 추정 표시."
+  },
+  "shots": [
+    {
+      "index": 1,
+      "duration": 4.33,
+      "framing": "CU",
+      "function": "공감 후크",
+      "color_mood": "high_key_white",
+      "subject_action": "안경 쓴 여성이 화이트 배경에서 살짝 위를 응시(약간 지친 듯), '바쁘게' 키네틱 카피 등장",
+      "copy_overlay": "바쁘게 (흘러간 오늘)",
+      "layout_grid": "center",
+      "subject_position": "center",
+      "subject_typo_layout": "인물 우/중앙, 카피 좌측 그린 강조",
+      "typo_motion": "좌측에서 '바쁘게' pop, 핵심어 그린",
+      "camera_angle": "eye_level",
+      "camera_facing": "three_quarter",
+      "shot_scope": "face_only",
+      "gaze": "off_camera",
+      "eye_contact_effect": "시선 회피로 바쁜 일상의 피로·공감 유발",
+      "props": [
+        "안경"
+      ],
+      "prop_semantics": "안경=일하는·바쁜 직장인 페르소나 기호",
+      "color_palette": [
+        "#f1f0ed",
+        "#1e1a29",
+        "#6b514f",
+        "#ad978f"
+      ],
+      "color_intent": "순백 하이키로 인물·그린 카피에 시선 집중",
+      "pose_description": "약간 위를 보며 생각에 잠긴 정적 표정 — 바쁜 하루의 공감",
+      "subject_motion": "정지포즈/미세표정",
+      "prop_motion": "none",
+      "camera_motion": "록오프/미세",
+      "camera_motion_intensity": "subtle",
+      "camera_effect_local": "none",
+      "motion_blur": "none",
+      "intra_cut_rhythm": "static",
+      "transition_in": "cut",
+      "transition_out": "dissolve",
+      "vfx_in_shot": [
+        "color_pop"
+      ],
+      "vfx_intensity_local": "subtle",
+      "fact_check_flag": false,
+      "notes": "공감 후크. 키네틱 그린 타이포 1차.",
+      "visible_elements": {
+        "foreground": [
+          "여성(바쁜 일상 페르소나)",
+          "안경"
+        ],
+        "midground": [
+          "브랜드 그린 키네틱 타이포"
+        ],
+        "background": [
+          "화이트 무한대(스튜디오 호리존) 배경"
+        ],
+        "lighting_env": [
+          "소프트 스튜디오 키 라이트(하이키)"
+        ],
+        "atmosphere": []
+      },
+      "texture": {
+        "primary_subject": "skin_makeup",
+        "secondary_objects": [
+          "plastic_matte"
+        ],
+        "background_surface": "matte",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "front",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "strong",
+        "key_to_fill_ratio": "1:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "minimal",
+        "overall_contrast": "hi_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#f1f0ed",
+          "#1e1a29",
+          "#6b514f",
+          "#ad978f"
+        ],
+        "palette_role": {
+          "#1e1a29": "subject_dark_anchor",
+          "#f1f0ed": "background_or_highlight",
+          "#6b514f": "warm_accent",
+          "#ad978f": "warm_accent"
+        },
+        "color_relationship": "monochrome",
+        "temperature_balance": "balanced",
+        "saturation_strategy": "desaturated_with_pop",
+        "contrast_type": "luminance_high",
+        "accent_color": "#9ba479",
+        "accent_ratio": "5_percent",
+        "brand_color_match": [
+          "올리브영 브랜드 그린 (#9ACA3C 계열, 근사 매칭)"
+        ]
+      }
+    },
+    {
+      "index": 2,
+      "duration": 11.83,
+      "framing": "MS(몽타주)",
+      "function": "[와우/병합] 일상 페인포인트 몽타주",
+      "color_mood": "high_key_white",
+      "subject_action": "디졸브로 연결된 라이프스타일 컷 연속 — 서류더미에 엎드림, 요가 포즈(인셋), 친구들과 카페 수다, 제품병들이 가장자리에서 떠다님. '좋아하는 것들로만 채우기에도 모자란 하루니까'",
+      "copy_overlay": "(나를 위한 시간) / 좋아하는 것들로만 채우기에도 모자란 하루니까",
+      "layout_grid": "center",
+      "subject_position": "center",
+      "subject_typo_layout": "인물 중앙, 키네틱 카피 좌·중앙, 제품 컷아웃 가장자리",
+      "typo_motion": "그린 핵심어 pop/슬라이드, 음성 리듬 동기",
+      "camera_angle": "eye_level",
+      "camera_facing": "three_quarter",
+      "shot_scope": "bust→waist_up",
+      "gaze": "off_camera",
+      "props": [
+        "서류더미",
+        "요가매트",
+        "카페 테이블·커피·빵",
+        "제품병(스킨케어/영양제 컷아웃)"
+      ],
+      "prop_semantics": "서류더미=과로, 요가/카페=자기돌봄·즐거움, 떠다니는 제품=올리브영 카테고리(뷰티·헬스)가 일상에 즉시 닿음",
+      "color_palette": [
+        "#eeedeb",
+        "#a07c69",
+        "#d0b8a8",
+        "#49312b"
+      ],
+      "color_intent": "화이트 하이키에 인물 자연톤 + 그린 카피·제품 색 포인트",
+      "pose_description": "서류더미에 지쳐 엎드림→친구들과 환담하는 일상 포즈 변주(디졸브 연속)",
+      "subject_motion": "미세제스처/걷기(컷별)",
+      "prop_motion": "제품 컷아웃 떠다님",
+      "camera_motion": "록오프/짐벌(컷별)",
+      "camera_motion_intensity": "subtle",
+      "camera_effect_local": "none",
+      "motion_blur": "light",
+      "intra_cut_rhythm": "steady",
+      "transition_in": "dissolve",
+      "transition_out": "dissolve",
+      "vfx_in_shot": [
+        "cutout_composite",
+        "color_pop",
+        "ui_motion"
+      ],
+      "vfx_intensity_local": "moderate",
+      "fact_check_flag": false,
+      "notes": "★자동분할이 한 컷(11.83s)으로 병합했으나 실제는 디졸브로 연결된 다수 서브씬(서류·요가·카페 등 4~5컷). shot_count_corrected에 반영. 제품 떠다님이 핵심 모션그래픽.",
+      "visible_elements": {
+        "foreground": [
+          "서류더미",
+          "요가매트",
+          "카페 테이블·커피·빵",
+          "제품병(스킨케어/영양제 컷아웃)"
+        ],
+        "midground": [
+          "제품 컷아웃(스킨케어/영양제 병) 부유",
+          "브랜드 그린 키네틱 타이포"
+        ],
+        "background": [
+          "화이트 무한대(스튜디오 호리존) 배경"
+        ],
+        "lighting_env": [
+          "소프트 스튜디오 키 라이트(하이키)"
+        ],
+        "atmosphere": []
+      },
+      "texture": {
+        "primary_subject": "plastic_glossy",
+        "secondary_objects": [
+          "glass_frosted"
+        ],
+        "background_surface": "matte",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "front",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "strong",
+        "key_to_fill_ratio": "1:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "minimal",
+        "overall_contrast": "hi_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#eeedeb",
+          "#a07c69",
+          "#d0b8a8",
+          "#49312b"
+        ],
+        "palette_role": {
+          "#49312b": "subject_dark_anchor",
+          "#eeedeb": "background_or_highlight",
+          "#a07c69": "warm_accent",
+          "#d0b8a8": "warm_accent"
+        },
+        "color_relationship": "monochrome",
+        "temperature_balance": "warm_dominant",
+        "saturation_strategy": "desaturated_with_pop",
+        "contrast_type": "luminance_high",
+        "accent_color": "#9ba479",
+        "accent_ratio": "5_percent",
+        "brand_color_match": [
+          "올리브영 브랜드 그린 (#9ACA3C 계열, 근사 매칭)"
+        ]
+      },
+      "style_prompt": "A dissolve-linked lifestyle montage of a young Korean woman against an infinite pure-white studio background — slumped tiredly over a tall stack of papers, then laughing with friends at a cafe table — with cosmetic and supplement product bottles floating in from the frame edges and green kinetic Korean copy; soft high-key studio light, no shadow; medium shots, eye-level, subject centered with copy left; near-white palette #eeedeb with brand-green accents and warm product pops; clean digital composite with floating cutouts, light empathetic everyday mood, 2.39:1 letterbox"
+    },
+    {
+      "index": 3,
+      "duration": 3.13,
+      "framing": "MS",
+      "function": "라이프스타일/전환",
+      "color_mood": "high_key_white",
+      "subject_action": "밝은 톤의 일상/자기돌봄 컷, 솔루션 전환 빌드업",
+      "copy_overlay": null,
+      "layout_grid": "center",
+      "subject_position": "center",
+      "subject_typo_layout": null,
+      "typo_motion": null,
+      "camera_angle": "eye_level",
+      "camera_facing": "three_quarter",
+      "shot_scope": "waist_up",
+      "gaze": "off_camera",
+      "props": [
+        "생활 소품"
+      ],
+      "prop_semantics": "일상 지속",
+      "color_palette": [
+        "#f1efef",
+        "#e2e0e2",
+        "#9b957d",
+        "#c3babc"
+      ],
+      "color_intent": "하이키 화이트 연결",
+      "pose_description": "(일상 포즈) 전환 연결",
+      "subject_motion": "미세제스처",
+      "prop_motion": "none",
+      "camera_motion": "록오프",
+      "camera_motion_intensity": "subtle",
+      "camera_effect_local": "none",
+      "motion_blur": "light",
+      "intra_cut_rhythm": "steady",
+      "transition_in": "dissolve",
+      "transition_out": "cut",
+      "vfx_in_shot": [
+        "color_pop"
+      ],
+      "vfx_intensity_local": "subtle",
+      "fact_check_flag": false,
+      "notes": "전환 연결.",
+      "visible_elements": {
+        "foreground": [
+          "여성(바쁜 일상 페르소나)",
+          "생활 소품"
+        ],
+        "midground": [],
+        "background": [
+          "화이트 무한대(스튜디오 호리존) 배경"
+        ],
+        "lighting_env": [
+          "소프트 스튜디오 키 라이트(하이키)"
+        ],
+        "atmosphere": []
+      },
+      "texture": {
+        "primary_subject": "skin_makeup",
+        "secondary_objects": [
+          "plastic_matte"
+        ],
+        "background_surface": "matte",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "front",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "strong",
+        "key_to_fill_ratio": "1:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "minimal",
+        "overall_contrast": "hi_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#f1efef",
+          "#e2e0e2",
+          "#9b957d",
+          "#c3babc"
+        ],
+        "palette_role": {
+          "#9b957d": "subject_dark_anchor",
+          "#f1efef": "background_or_highlight",
+          "#e2e0e2": "neutral_midtone",
+          "#c3babc": "neutral_midtone"
+        },
+        "color_relationship": "monochrome",
+        "temperature_balance": "balanced",
+        "saturation_strategy": "desaturated_with_pop",
+        "contrast_type": "luminance_low",
+        "accent_color": "#9ba479",
+        "accent_ratio": "5_percent",
+        "brand_color_match": [
+          "올리브영 브랜드 그린 (#9ACA3C 계열, 근사 매칭)"
+        ]
+      }
+    },
+    {
+      "index": 4,
+      "duration": 1.1,
+      "framing": "CU",
+      "function": "리듬(짧은 호흡)",
+      "color_mood": "high_key_white",
+      "subject_action": "짧은 표정/제품 디테일 컷",
+      "copy_overlay": null,
+      "layout_grid": "center",
+      "subject_position": "center",
+      "subject_typo_layout": null,
+      "typo_motion": null,
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "face_only",
+      "gaze": "off_camera",
+      "props": [],
+      "prop_semantics": null,
+      "color_palette": [
+        "#f1efef",
+        "#e3e2e2",
+        "#a89480",
+        "#c3c5bb"
+      ],
+      "color_intent": "하이키",
+      "pose_description": "(짧은 표정 컷)",
+      "subject_motion": "미세제스처",
+      "prop_motion": "none",
+      "camera_motion": "록오프",
+      "camera_motion_intensity": "none",
+      "camera_effect_local": "none",
+      "motion_blur": "light",
+      "intra_cut_rhythm": "steady",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [],
+      "vfx_intensity_local": "none",
+      "fact_check_flag": false,
+      "notes": "1.10s 리듬.",
+      "visible_elements": {
+        "foreground": [
+          "여성(바쁜 일상 페르소나)"
+        ],
+        "midground": [
+          "제품 컷아웃(스킨케어/영양제 병) 부유"
+        ],
+        "background": [
+          "화이트 무한대(스튜디오 호리존) 배경"
+        ],
+        "lighting_env": [
+          "소프트 스튜디오 키 라이트(하이키)"
+        ],
+        "atmosphere": []
+      },
+      "texture": {
+        "primary_subject": "skin_makeup",
+        "secondary_objects": [
+          "glass_frosted"
+        ],
+        "background_surface": "matte",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "front",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "strong",
+        "key_to_fill_ratio": "1:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "minimal",
+        "overall_contrast": "hi_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#f1efef",
+          "#e3e2e2",
+          "#a89480",
+          "#c3c5bb"
+        ],
+        "palette_role": {
+          "#a89480": "subject_dark_anchor",
+          "#f1efef": "background_or_highlight",
+          "#e3e2e2": "neutral_midtone",
+          "#c3c5bb": "neutral_midtone"
+        },
+        "color_relationship": "monochrome",
+        "temperature_balance": "balanced",
+        "saturation_strategy": "desaturated_with_pop",
+        "contrast_type": "luminance_low",
+        "accent_color": "#9ba479",
+        "accent_ratio": "5_percent",
+        "brand_color_match": [
+          "올리브영 브랜드 그린 (#9ACA3C 계열, 근사 매칭)"
+        ]
+      }
+    },
+    {
+      "index": 5,
+      "duration": 1.8,
+      "framing": "MS",
+      "function": "[와우] 솔루션 전환(하품) + 카피",
+      "color_mood": "high_key_white",
+      "subject_action": "파자마 차림 여성이 하품하며 손으로 입을 가림(피곤/늦은 밤), '기다림은 빼고' 그린 카피 + 작은 그린 아이콘",
+      "copy_overlay": "기다림은 빼고",
+      "layout_grid": "center",
+      "subject_position": "center",
+      "subject_typo_layout": "인물 중앙, '기다림' 그린 강조 좌측",
+      "typo_motion": "'기다림' 그린 pop, '은 빼고' 블랙",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "bust",
+      "gaze": "off_camera",
+      "eye_contact_effect": "하품=늦은 밤에도 기다림 없이 받는 즉시성 공감",
+      "props": [
+        "파자마",
+        "그린 아이콘(배송)"
+      ],
+      "prop_semantics": "파자마·하품=집에서의 늦은 시간, '기다림은 빼고'와 결합해 당일배송 즉시성 강조",
+      "color_palette": [
+        "#cfaea4",
+        "#3c2527",
+        "#af8d7e",
+        "#f5f3f6"
+      ],
+      "color_intent": "웜 화이트에 그린 카피로 솔루션 전환 신호",
+      "pose_description": "입을 가리고 하품하는 포즈 — 일상적 피로, 즉시배송으로 해소될 상황",
+      "subject_motion": "미세제스처(하품)",
+      "prop_motion": "none",
+      "camera_motion": "록오프",
+      "camera_motion_intensity": "subtle",
+      "camera_effect_local": "none",
+      "motion_blur": "light",
+      "intra_cut_rhythm": "static",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [
+        "color_pop",
+        "ui_motion"
+      ],
+      "vfx_intensity_local": "moderate",
+      "fact_check_flag": false,
+      "notes": "★솔루션 전환 '기다림은 빼고'. 페인→베네핏 피벗.",
+      "visible_elements": {
+        "foreground": [
+          "여성(바쁜 일상 페르소나)",
+          "파자마",
+          "그린 아이콘(배송)"
+        ],
+        "midground": [
+          "브랜드 그린 키네틱 타이포"
+        ],
+        "background": [
+          "화이트 무한대(스튜디오 호리존) 배경"
+        ],
+        "lighting_env": [
+          "소프트 스튜디오 키 라이트(하이키)"
+        ],
+        "atmosphere": []
+      },
+      "texture": {
+        "primary_subject": "skin_makeup",
+        "secondary_objects": [
+          "fabric_silk"
+        ],
+        "background_surface": "matte",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "front",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "strong",
+        "key_to_fill_ratio": "1:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "minimal",
+        "overall_contrast": "hi_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#cfaea4",
+          "#3c2527",
+          "#af8d7e",
+          "#f5f3f6"
+        ],
+        "palette_role": {
+          "#3c2527": "subject_dark_anchor",
+          "#f5f3f6": "background_or_highlight",
+          "#cfaea4": "warm_accent",
+          "#af8d7e": "warm_accent"
+        },
+        "color_relationship": "monochrome",
+        "temperature_balance": "warm_dominant",
+        "saturation_strategy": "desaturated_with_pop",
+        "contrast_type": "luminance_high",
+        "accent_color": "#9ba479",
+        "accent_ratio": "5_percent",
+        "brand_color_match": [
+          "올리브영 브랜드 그린 (#9ACA3C 계열, 근사 매칭)"
+        ]
+      },
+      "style_prompt": "A young Korean woman in cream silk pyjamas yawning with a hand over her mouth against an infinite white background, a green kinetic word ('skip the wait') beside her and a small green delivery icon; soft high-key frontal light, minimal shadow; bust shot, eye-level frontal, subject centered; near-white palette with a brand-green accent; clean digital composite, relatable late-night convenience mood, 2.39:1 commercial"
+    },
+    {
+      "index": 6,
+      "duration": 0.9,
+      "framing": "CU",
+      "function": "리듬(최단)",
+      "color_mood": "high_key_white",
+      "subject_action": "짧은 연결 컷",
+      "copy_overlay": null,
+      "layout_grid": "center",
+      "subject_position": "center",
+      "subject_typo_layout": null,
+      "typo_motion": null,
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "face_only",
+      "gaze": "off_camera",
+      "props": [],
+      "prop_semantics": null,
+      "color_palette": [
+        "#f9f6fa",
+        "#f5f2f5",
+        "#e5e3e4",
+        "#6f6760"
+      ],
+      "color_intent": "순백",
+      "pose_description": "(짧은 컷)",
+      "subject_motion": "미세",
+      "prop_motion": "none",
+      "camera_motion": "록오프",
+      "camera_motion_intensity": "none",
+      "camera_effect_local": "none",
+      "motion_blur": "light",
+      "intra_cut_rhythm": "steady",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [],
+      "vfx_intensity_local": "none",
+      "fact_check_flag": false,
+      "notes": "0.90s 최단 리듬.",
+      "visible_elements": {
+        "foreground": [
+          "여성(바쁜 일상 페르소나)"
+        ],
+        "midground": [],
+        "background": [
+          "화이트 무한대(스튜디오 호리존) 배경"
+        ],
+        "lighting_env": [
+          "소프트 스튜디오 키 라이트(하이키)"
+        ],
+        "atmosphere": []
+      },
+      "texture": {
+        "primary_subject": "skin_makeup",
+        "secondary_objects": [
+          "plastic_matte"
+        ],
+        "background_surface": "matte",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "front",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "strong",
+        "key_to_fill_ratio": "1:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "minimal",
+        "overall_contrast": "hi_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#f9f6fa",
+          "#f5f2f5",
+          "#e5e3e4",
+          "#6f6760"
+        ],
+        "palette_role": {
+          "#6f6760": "subject_dark_anchor",
+          "#f9f6fa": "background_or_highlight",
+          "#f5f2f5": "neutral_midtone",
+          "#e5e3e4": "neutral_midtone"
+        },
+        "color_relationship": "monochrome",
+        "temperature_balance": "balanced",
+        "saturation_strategy": "desaturated_with_pop",
+        "contrast_type": "luminance_low",
+        "accent_color": "#9ba479",
+        "accent_ratio": "5_percent",
+        "brand_color_match": [
+          "올리브영 브랜드 그린 (#9ACA3C 계열, 근사 매칭)"
+        ]
+      }
+    },
+    {
+      "index": 7,
+      "duration": 1.27,
+      "framing": "MS",
+      "function": "베네핏 카피(속도)",
+      "color_mood": "high_key_white",
+      "subject_action": "'가장 필요한 순간 가장 빠르게' 베네핏 카피 전개 컷",
+      "copy_overlay": "가장 필요한 순간 가장 빠르게 닿을 수 있도록",
+      "layout_grid": "center",
+      "subject_position": "center",
+      "subject_typo_layout": "인물 중앙, 카피 좌·중앙 그린 강조",
+      "typo_motion": "'가장 빠르게' 그린 강조 슬라이드",
+      "camera_angle": "eye_level",
+      "camera_facing": "three_quarter",
+      "shot_scope": "waist_up",
+      "gaze": "off_camera",
+      "props": [
+        "생활 소품"
+      ],
+      "prop_semantics": "속도 베네핏 강조",
+      "color_palette": [
+        "#f8f6f9",
+        "#9a896e",
+        "#dfdbdb",
+        "#5a473e"
+      ],
+      "color_intent": "하이키 + 그린 핵심어",
+      "pose_description": "(일상 포즈) 베네핏 전달",
+      "subject_motion": "미세제스처",
+      "prop_motion": "none",
+      "camera_motion": "록오프",
+      "camera_motion_intensity": "subtle",
+      "camera_effect_local": "none",
+      "motion_blur": "light",
+      "intra_cut_rhythm": "steady",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [
+        "color_pop"
+      ],
+      "vfx_intensity_local": "subtle",
+      "fact_check_flag": false,
+      "notes": "속도 베네핏 카피.",
+      "visible_elements": {
+        "foreground": [
+          "여성(바쁜 일상 페르소나)",
+          "생활 소품"
+        ],
+        "midground": [
+          "브랜드 그린 키네틱 타이포"
+        ],
+        "background": [
+          "화이트 무한대(스튜디오 호리존) 배경"
+        ],
+        "lighting_env": [
+          "소프트 스튜디오 키 라이트(하이키)"
+        ],
+        "atmosphere": []
+      },
+      "texture": {
+        "primary_subject": "skin_makeup",
+        "secondary_objects": [
+          "plastic_matte"
+        ],
+        "background_surface": "matte",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "front",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "strong",
+        "key_to_fill_ratio": "1:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "minimal",
+        "overall_contrast": "hi_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#f8f6f9",
+          "#9a896e",
+          "#dfdbdb",
+          "#5a473e"
+        ],
+        "palette_role": {
+          "#5a473e": "subject_dark_anchor",
+          "#f8f6f9": "background_or_highlight",
+          "#9a896e": "warm_accent",
+          "#dfdbdb": "neutral_midtone"
+        },
+        "color_relationship": "monochrome",
+        "temperature_balance": "balanced",
+        "saturation_strategy": "desaturated_with_pop",
+        "contrast_type": "luminance_high",
+        "accent_color": "#9ba479",
+        "accent_ratio": "5_percent",
+        "brand_color_match": [
+          "올리브영 브랜드 그린 (#9ACA3C 계열, 근사 매칭)"
+        ]
+      }
+    },
+    {
+      "index": 8,
+      "duration": 2.53,
+      "framing": "MS",
+      "function": "앱 쇼핑 경험(서비스 시각화)",
+      "color_mood": "high_key_white_green",
+      "subject_action": "여성이 그린 소파에 앉아 스마트폰으로 올리브영 앱을 보고, 뒤로 실제 상품 카드·할인(오늘의특가·PICK·ZEROID 등) 스크린샷이 떠다님",
+      "copy_overlay": null,
+      "layout_grid": "center",
+      "subject_position": "center",
+      "subject_typo_layout": "인물 중앙, 앱 UI 카드 배경 부유",
+      "typo_motion": "앱 카드 슬라이드 인",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "waist_up",
+      "gaze": "at_product(폰 응시)",
+      "eye_contact_effect": "폰 몰입으로 실제 쇼핑 경험 재현",
+      "props": [
+        "스마트폰",
+        "그린 소파",
+        "앱 스크린샷 카드(상품·할인)"
+      ],
+      "prop_semantics": "그린 소파=브랜드 컬러 공간, 폰+앱 카드=오늘드림 주문 경험(상품·특가 노출로 구매 동기)",
+      "color_palette": [
+        "#f5f3f6",
+        "#f9f7fa",
+        "#c6b6a7",
+        "#432c32"
+      ],
+      "color_intent": "화이트에 브랜드 그린 소파 포인트, 앱 UI 컬러로 쇼핑 리얼리티",
+      "pose_description": "그린 소파에 무릎 세우고 앉아 폰으로 앱을 보는 편안한 포즈 — 손쉬운 주문",
+      "subject_motion": "정지포즈(폰 조작)",
+      "prop_motion": "앱 카드 부유/슬라이드",
+      "camera_motion": "록오프/미세 푸시",
+      "camera_motion_intensity": "subtle",
+      "camera_effect_local": "none",
+      "motion_blur": "none",
+      "intra_cut_rhythm": "static",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [
+        "ui_motion",
+        "cutout_composite"
+      ],
+      "vfx_intensity_local": "moderate",
+      "fact_check_flag": true,
+      "notes": "서비스 시각화 핵심. 앱 상품·할인 텍스트 고증 플래그(실제 상품 라벨).",
+      "visible_elements": {
+        "foreground": [
+          "OLIVE YOUNG 로고(그린 올리브 O)"
+        ],
+        "midground": [
+          "CTA 카피"
+        ],
+        "background": [
+          "화이트 배경"
+        ],
+        "lighting_env": [
+          "하이키"
+        ],
+        "atmosphere": []
+      },
+      "texture": {
+        "primary_subject": "skin_makeup",
+        "secondary_objects": [
+          "glass_clear",
+          "fabric_velvet"
+        ],
+        "background_surface": "matte",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "front",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "strong",
+        "key_to_fill_ratio": "1:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "minimal",
+        "overall_contrast": "hi_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#f5f3f6",
+          "#f9f7fa",
+          "#c6b6a7",
+          "#432c32"
+        ],
+        "palette_role": {
+          "#432c32": "subject_dark_anchor",
+          "#f9f7fa": "background_or_highlight",
+          "#f5f3f6": "neutral_midtone",
+          "#c6b6a7": "warm_accent"
+        },
+        "color_relationship": "monochrome",
+        "temperature_balance": "balanced",
+        "saturation_strategy": "desaturated_with_pop",
+        "contrast_type": "luminance_high",
+        "accent_color": "#9ba479",
+        "accent_ratio": "5_percent",
+        "brand_color_match": [
+          "올리브영 브랜드 그린 (#9ACA3C 계열, 근사 매칭)"
+        ]
+      }
+    },
+    {
+      "index": 9,
+      "duration": 2.07,
+      "framing": "WS→로고",
+      "function": "CTA/로고",
+      "color_mood": "clean_white",
+      "subject_action": "CTA 카피('지금 주문하고 오늘 바로') 후 화이트 배경에 올리브영 로고(그린 올리브 O) 등장",
+      "copy_overlay": "지금 주문하고 / 오늘 바로, 올리브영 오늘드림 / (OLIVE YOUNG 로고)",
+      "layout_grid": "center",
+      "subject_position": "none",
+      "subject_typo_layout": "CTA 중앙 → 로고 중앙",
+      "typo_motion": "CTA pop → 로고 fade in",
+      "camera_angle": "eye_level",
+      "camera_facing": "none",
+      "shot_scope": "none(로고)",
+      "gaze": "none",
+      "props": [
+        "올리브영 로고"
+      ],
+      "prop_semantics": "로고(그린 올리브 O+핑크 하이라이트)=브랜드 각인, 그린 컬러 일관",
+      "color_palette": [
+        "#fcfafd",
+        "#9ba479",
+        "#494245",
+        "#fefefe"
+      ],
+      "color_intent": "순백 + 브랜드 그린 로고로 클린 마무리",
+      "pose_description": "(인물 없음) CTA + 로고 회수",
+      "subject_motion": "none",
+      "prop_motion": "none",
+      "camera_motion": "록오프",
+      "camera_motion_intensity": "none",
+      "camera_effect_local": "none",
+      "motion_blur": "none",
+      "intra_cut_rhythm": "static",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [
+        "ui_motion"
+      ],
+      "vfx_intensity_local": "subtle",
+      "fact_check_flag": false,
+      "notes": "CTA+로고 엔딩. 그린 올리브 O 로고.",
+      "visible_elements": {
+        "foreground": [
+          "OLIVE YOUNG 로고(그린 올리브 O)"
+        ],
+        "midground": [
+          "CTA 카피"
+        ],
+        "background": [
+          "화이트 배경"
+        ],
+        "lighting_env": [
+          "하이키"
+        ],
+        "atmosphere": []
+      },
+      "texture": {
+        "primary_subject": "plastic_glossy",
+        "secondary_objects": [
+          "plastic_matte"
+        ],
+        "background_surface": "matte",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "front",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "strong",
+        "key_to_fill_ratio": "1:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "minimal",
+        "overall_contrast": "hi_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#fcfafd",
+          "#9ba479",
+          "#494245",
+          "#fefefe"
+        ],
+        "palette_role": {
+          "#494245": "subject_dark_anchor",
+          "#fefefe": "background_or_highlight",
+          "#fcfafd": "neutral_midtone",
+          "#9ba479": "warm_accent"
+        },
+        "color_relationship": "monochrome",
+        "temperature_balance": "balanced",
+        "saturation_strategy": "desaturated_with_pop",
+        "contrast_type": "luminance_high",
+        "accent_color": "#9ba479",
+        "accent_ratio": "5_percent",
+        "brand_color_match": [
+          "올리브영 브랜드 그린 (#9ACA3C 계열, 근사 매칭)"
+        ]
+      },
+      "style_prompt": "A minimalist retail brand end-card on a pure-white background: a green olive-'O' wordmark logo centered with a short Korean call-to-action above; flat high-key lighting, no shadow; centered graphic composition; white #fcfafd field with a single brand-green accent; crisp clean digital finish, brisk friendly closing mood, 2.39:1 end-frame"
+    }
+  ],
+  "analyst_notes": "(1) 브랜드·제품 확정: 음성('올리브영 오늘드림')+엔딩 OLIVE YOUNG 로고+앱 스크린샷(올리브영 앱·상품)로 확정. 올리브영 당일배송 '오늘드림' 서비스 광고. (2) [핵심] 자동 컷분할이 cut02(약 11.8s)를 한 컷으로 병합 — 실제는 디졸브로 연결된 라이프스타일 몽타주(서류·요가·카페 등 4~5 서브씬). threshold 27→20 낮춰도 디졸브라 분할 안 됨(스킬 가이드의 '동색/디졸브 자동탐지 한계' 사례). shot_count_corrected=14로 보정 기록. (3) 전역 시그니처 = 위글 아님. 실사 인물 + 화이트 무한대 배경 합성 + 제품·앱 컷아웃 부유 모션그래픽. 브랜드 그린 키네틱 타이포가 핵심. (4) 음성·자막 거의 일치(both). Whisper(base) 커버리지 0.503(BGM 큼). 오인식 다수 보정, 불확실 라인('나를 위한 시간','기다림은 빼고 필요한 것만 담아')은 추정 표시. (5) 비율 2.39:1 시네마스코프 레터박스(1280x540). (6) ref 004(분양, 따뜻·서정·CG단지)와 같은 '실사 라이프스타일'이나 톤(경쾌·미니멀 H&B vs 따뜻·프리미엄 부동산)·구조(공감→CTA 즉시성 vs 애너포라 입지등식)가 대조. ref 001(우리은행)과는 '키네틱 타이포+제품 부유'라는 합성 기법이 일부 공명하나 톤·매체 다름. (7) v0.4 필드 9컷(보정14) 전부 채움: 인물 gaze는 off_camera(공감)·at_product(앱), 제품/앱 컷아웃 props 상세.",
+  "verification": {
+    "frames_reviewed": true,
+    "audio_analyzed": true,
+    "hitrate_na": true,
+    "abstraction_checked": true,
+    "abstraction_note": "출연 인물 실명 없음('안경 쓴 여성'/'친구들'로 추상). 브랜드·서비스 정식명은 source_ref와 로고/카피 인용에만. 앱 화면 상품명은 화면 리얼리티로 괄호 처리(통째 저장 안 함). 시각 묘사는 기능·인상으로 추상화.",
+    "v04_fields": "camera_angle/facing/shot_scope/gaze + props/prop_semantics + color_palette/intent + pose_description 채움",
+    "v04pp_fields": "STEP4.5 추가: visible_elements(5층)·texture·lighting(9서브)·color_analysis(8서브) 전 컷 + 핵심컷 style_prompt"
+  },
+  "search_keywords": {
+    "industry": [
+      "retail"
+    ],
+    "product_category": [
+      "same_day_delivery",
+      "beauty_platform"
+    ],
+    "target_demo": [
+      "20s",
+      "30s",
+      "office_worker",
+      "single_household",
+      "women"
+    ],
+    "media_format": [
+      "digital_30s",
+      "cinemascope_lifestyle"
+    ],
+    "tone": [
+      "empathetic_comforting",
+      "upbeat",
+      "clean_minimal",
+      "friendly"
+    ],
+    "pacing": [
+      "front_loaded",
+      "steady"
+    ],
+    "technique": [
+      "empathy_copy_hook",
+      "kinetic_typo",
+      "product_app_cutout_float",
+      "dissolve_montage",
+      "direct_cta"
+    ],
+    "vfx_keywords": [
+      "ui_motion",
+      "color_pop",
+      "morph"
+    ],
+    "copy_strategy_keywords": [
+      "empathy_to_solution",
+      "immediacy_emphasis",
+      "brand_green_keyword",
+      "voice_caption_sync"
+    ],
+    "concept_derivation_pattern": [
+      "everyday_problem_metaphor_product_release",
+      "call_and_response_copy",
+      "three_part_time_flow"
+    ]
+  },
+  "inferred_creative_thinking": {
+    "confidence": "inferred",
+    "insight_one_liner": "바쁜 20-30대 1인가구는 '나를 위한 시간'조차 부족해 기다림을 가장 싫어한다 — 즉시배송은 단순 편의가 아니라 '하루를 좋아하는 것으로 채울' 시간을 돌려주는 일",
+    "persona_one_liner": "바쁜 도시 직장인·1인가구 여성(20-30대)",
+    "moment_one_liner": "퇴근 후 지친 밤, 필요한 걸 당장 받고 싶은 순간",
+    "product_role_one_liner": "기다림을 빼주는 당일배송 — 가장 필요한 순간 가장 빠르게 닿는 올리브영 오늘드림",
+    "punchline_one_liner": "기다림은 빼고, 오늘 바로",
+    "differentiator_one_liner": "공감 카피 + 키네틱 그린 타이포 + 제품·앱 부유 합성으로 '즉시 손에 닿는' 서비스를 감성적으로 시각화",
+    "brand_fit_one_liner": "올리브영은 H&B 1위 리테일, 당일배송 '오늘드림'은 오프라인 강점을 온라인 즉시성으로 확장하는 핵심 서비스"
+  },
+  "inferred_brief": "바쁜 20-30대 1인가구·직장인 여성을 타깃으로, 올리브영 당일배송 '오늘드림'의 즉시성을 알리는 약 30초 시네마스코프 라이프스타일 광고. 바쁜 하루의 공감에서 시작해 '기다림은 빼고 가장 빠르게'라는 베네핏으로 전환, '지금 주문하고 오늘 바로'로 행동유도. 톤은 경쾌·공감·미니멀. 키네틱 그린 타이포 + 제품·앱 컷아웃 부유로 서비스 시각화.",
+  "cross_pollination_tags": {
+    "adjacent": [
+      "ecommerce_quickcommerce",
+      "delivery_logistics",
+      "subscription_membership"
+    ],
+    "distant": [
+      "realestate_presale",
+      "automotive",
+      "finance_app"
+    ],
+    "contrast": [
+      "luxury_highend_film",
+      "industrial_b2b",
+      "serious_public_ad"
+    ]
+  }
+}

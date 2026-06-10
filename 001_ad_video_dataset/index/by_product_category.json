@@ -1,0 +1,54 @@
+{
+  "salary_account": [
+    "ADV-2026-001"
+  ],
+  "pickup_truck": [
+    "ADV-2026-002"
+  ],
+  "large_suv": [
+    "ADV-2026-003"
+  ],
+  "hybrid_car": [
+    "ADV-2026-003"
+  ],
+  "apartment_presale": [
+    "ADV-2026-004"
+  ],
+  "same_day_delivery": [
+    "ADV-2026-005"
+  ],
+  "beauty_platform": [
+    "ADV-2026-005"
+  ],
+  "sportswear": [
+    "ADV-2026-006",
+    "ADV-2026-012"
+  ],
+  "performance_runningwear": [
+    "ADV-2026-006"
+  ],
+  "department_store": [
+    "ADV-2026-007"
+  ],
+  "university": [
+    "ADV-2026-008"
+  ],
+  "_meta": {
+    "axis": "product_category",
+    "language": "en",
+    "updated": "2026-06-10",
+    "entry_count": 12
+  },
+  "aesthetic_device": [
+    "ADV-2026-009"
+  ],
+  "cosmetics": [
+    "ADV-2026-009"
+  ],
+  "card": [
+    "ADV-2026-010"
+  ],
+  "ai_product": [
+    "ADV-2026-011"
+  ]
+}

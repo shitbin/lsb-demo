@@ -1,0 +1,1335 @@
+{
+  "id": "ADV-2026-007",
+  "schema_version": "0.4++ (+recreation_prompts; v2 high-res per-frame re-inspection 2026-06-02)",
+  "source_ref": {
+    "platform": "사용자 제공 mp4 (YouTube 다운로드)",
+    "title_or_campaign": "NEW SANTA — Epilogue 'Bye New Santa'",
+    "brand": "신세계 (SHINSEGAE)",
+    "product": "신세계 백화점 연말/크리스마스 브랜드 캠페인 (브랜드 이미지 필름, 특정 제품 비판매)",
+    "model": "카리나 KARINA (aespa) — 'New Santa' 주연 / 특별출연 최희서 MOON CHOI / 산타 役 외국인 배우",
+    "year": 2024,
+    "production_note": "엔딩 크레딧 기준: PRESENTED BY SHINSEGAE / PRODUCTION 돌고래유괴단 DOLPHINERS FILMS / WRITTEN & DIRECTED BY 신우석 SHIN WOOSEOK / CAST 카리나(aespa) 외. 신세계 크리스마스 'NEW SANTA' 캠페인의 에필로그 필름('Bye New Santa'). 연도(2024)는 크레딧/캠페인 정황 기반 inferred(웹검증 미완 — 검색 API 일시 오류).",
+    "url": "(미기입 — 사용자 다운로드 파일, YouTube ZpFAVJ4ND3g)"
+  },
+  "category_primary": "retail.department_store",
+  "category_tags": [
+    "백화점",
+    "리테일",
+    "크리스마스 브랜드필름",
+    "시즌캠페인",
+    "셀럽모델",
+    "시네마틱 단편",
+    "에필로그",
+    "산타 세계관"
+  ],
+  "mood": [
+    "시네마틱",
+    "따뜻함",
+    "애잔함/쓸쓸함",
+    "위트",
+    "레트로/노스탤지어",
+    "영화적"
+  ],
+  "target_demo": "전 연령 대중 + 가족 + 트렌디한 MZ (연말 신세계 백화점 고객·브랜드 호감층)",
+  "total_duration": 46.88,
+  "shot_count": 8,
+  "shot_count_corrected": 8,
+  "fps": 23.976,
+  "aspect_ratio": "16:9",
+  "active_image_ratio_note": "파일은 16:9이나 상하 블랙바로 액티브 화면은 시네마스코프(~2.39:1) 레터박스. 전형적 영화 톤.",
+  "hook_position": 0.5,
+  "cta_position": 44.0,
+  "narrative_arc": "열대 해변에서 빨강 차림의 젊은 여성('새 산타')이 라운지에 누워 휴양(0~5.7s) → 빨간 수화기로 통화(5.7~11.4s)와 어두운 서재에서 서류 더미에 파묻힌 늙은 산타를 교차(11.4~21.2s): 산타는 '산타 귀하'로 온 속도위반 과태료 사전통지서를 손에 들고(13.97~17.6s) 전화를 받는다 → 해변 와이드에 빨간 필기체 'Bye New Santa' 타이틀 회수(21.2~26.2s) → 박제된 순록 트로피와 벽 촛대 조명을 향한 느린 틸트업(상징적 마무리, 26.2~33.5s) → 영화식 풀 엔딩 크레딧 + PRESENTED BY SHINSEGAE 로고(33.5~46.9s)",
+  "pacing_curve": "slow_build",
+  "music_tempo_curve": "steady",
+  "wow_cut_index": [
+    1,
+    4,
+    7
+  ],
+  "creative_device": "보편 상징 '산타'를 현대 한국의 행정·과태료에 치이는 존재로 비틀고, 톱 셀럽(카리나)을 '새 산타'로 캐스팅해 해변 휴양 ↔ 어두운 서재를 교차편집. 영화식 엔딩 크레딧과 시네마스코프 레터박스로 '브랜드필름=단편영화' 포지셔닝. 올드 산타(레트로 유선/로터리 전화)↔뉴 산타(스마트폰)의 소품 대비, 엔딩 'only SHINSEGAE' 브랜드 슬로건.",
+  "production_signature": {
+    "capture_style": "live_action",
+    "camera_signature": [
+      "locked_off",
+      "slow_dolly",
+      "tilt"
+    ],
+    "signature_note": "시네마스코프(~2.39:1) 상하 레터박스, 따뜻한 필름 컬러그레이드(해변=골든, 서재=텅스텐 웜 vs 틸 섀도), 롱테이크 위주 + shot7의 느린 틸트업. wiggle_3d 같은 인위 효과 없음 — 실사 시네마 크래프트. 엔딩에 단편영화식 풀 크레딧을 디바이스로 사용.",
+    "color_grade": "warm",
+    "color_grade_note": "틸&오렌지 시네마틱: 해변 골든+시안 바다, 서재 텅스텐 웜+틸 섀도. 빨강(인물·전화·타이틀)을 액센트로 관통.",
+    "texture_fx": "film_grain"
+  },
+  "global_layout": {
+    "grid_system": "center",
+    "subject_placement_dominant": "center",
+    "subject_typo_relation": "typo_separate_zone",
+    "negative_space_use": "generous",
+    "layout_note": "시네마스코프 레터박스. 해변=인물 중앙~우측의 와이드 여백, 서재=중앙 대칭(순록/촛대) 저조도. 화면 텍스트는 'Bye New Santa' 풀스크린 타이틀 + 엔딩 크레딧뿐(분리된 그래픽 존)."
+  },
+  "recurring_motifs": [
+    "빨강(인물 의상·필기체 타이틀·산타)",
+    "전화 대비(올드 산타=레트로 유선/로터리 vs 뉴 산타=스마트폰)",
+    "산타 도상(흰수염·털·박제 사슴 트로피)",
+    "열대 해변 ↔ 어두운 서재 대비",
+    "서류·과태료(현대 행정의 짐)"
+  ],
+  "copywriting": {
+    "tagline_text": "Bye New Santa",
+    "tagline_structure": "영문 작별 인사 + 캠페인 코어 네이밍('New Santa') 회수 — 에필로그형 타이틀",
+    "tagline_length_syllables": 4,
+    "tagline_position_sec": 23.6,
+    "cta_text": "only SHINSEGAE",
+    "cta_text_structure": "신세계 브랜드 슬로건(부사 'only'+브랜드명)",
+    "cta_position_sec": 31.7,
+    "copy_tone": [
+      "시네마틱",
+      "위트",
+      "감성",
+      "미니멀"
+    ],
+    "copy_strategy": "카피 최소화·스토리 주도. 화면 텍스트는 'Bye New Santa' 타이틀 1개와 엔딩 크레딧뿐이며, 의미는 영상 내러티브(셀럽·소품·교차편집)와 디제틱 대사/노래로 전달. 'New Santa' 네이밍을 작별형으로 회수.",
+    "copy_lines_count": 2,
+    "lines": [
+      {
+        "position_sec": 23.6,
+        "text": "Bye New Santa",
+        "function": "타이틀/회수",
+        "tone": "감성·위트",
+        "source": "caption"
+      },
+      {
+        "position_sec": 31.7,
+        "text": "only SHINSEGAE",
+        "function": "브랜드 슬로건",
+        "tone": "미니멀",
+        "source": "caption"
+      }
+    ],
+    "captions": [
+      {
+        "position_sec": 23.6,
+        "text": "Bye New Santa",
+        "function": "캠페인 타이틀(빨간 필기체)"
+      },
+      {
+        "position_sec": 31.7,
+        "text": "only SHINSEGAE",
+        "function": "브랜드 슬로건(shot7 좌하단, 다크레드)"
+      }
+    ],
+    "prop_text_diegetic": [
+      {
+        "position_sec": 15.0,
+        "text": "속도위반 과태료부과 사전통지서 / 받는사람: 서울 강남구 …114동 2층 산타 귀하",
+        "function": "소품(서류) 텍스트 — 핵심 코믹 장치",
+        "note": "화면 자막 아님. 산타에게 날아온 속도위반 과태료 통지서라는 내러티브 개그."
+      }
+    ],
+    "narration_handling": "excerpt_only",
+    "narration_note": "엔딩 크레딧 전문은 저장하지 않음(핵심만: CAST 카리나 / W&D 신우석 / PRODUCTION 돌고래유괴단 / PRESENTED BY SHINSEGAE)."
+  },
+  "typography": {
+    "primary_font_class": "브러시 스크립트(손글씨 필기체) — 빨강",
+    "secondary_font_class": "산세리프(엔딩 크레딧, 한/영 병기 대문자)",
+    "animation_style": [
+      "fade_in",
+      "static"
+    ],
+    "subtitle_position_dominant": "center",
+    "tagline_position": "center(해변 위 오버레이)",
+    "color_strategy": "빨간 필기체 타이틀(따뜻한 해변과 톤 일치), 크레딧은 블랙 배경 화이트 산세리프",
+    "appearance_count": 3,
+    "key_typography_moments_sec": [
+      23.6,
+      31.7,
+      33.5
+    ],
+    "typo_motion_dominant": "타이틀 부드러운 fade_in 후 홀드 / 엔딩 크레딧 수직 스크롤"
+  },
+  "vfx": {
+    "primary_effects": [
+      "atmospheric_haze",
+      "rim_light",
+      "title_graphics"
+    ],
+    "effect_intensity": "subtle",
+    "transition_style_dominant": "cut",
+    "vfx_event_count": 3,
+    "vfx_timing_array_sec": [
+      23.6,
+      31.7,
+      33.5
+    ],
+    "wow_vfx_index": [],
+    "notable_vfx_note": "VFX 의존이 거의 없는 실사 시네마. 임팩트는 촬영·미술·그레이드·연기에서 나옴. 그래픽은 'Bye New Santa' 타이틀과 크레딧 자막뿐."
+  },
+  "audio": {
+    "has_audio": true,
+    "language": "ko",
+    "speech_coverage": 0.703,
+    "bgm_likely": true,
+    "narration_lines": [
+      {
+        "start": 0.0,
+        "end": 4.16,
+        "text": "(노래/오프닝)",
+        "text_raw": "아기, 아기, 아기!",
+        "kind": "song_or_dialogue"
+      },
+      {
+        "start": 7.16,
+        "end": 8.22,
+        "text": "네, 여러분",
+        "text_raw": "네, 여러분, 지",
+        "kind": "dialogue"
+      },
+      {
+        "start": 10.44,
+        "end": 11.26,
+        "text": "잘 안 들려요",
+        "text_raw": "잘 안 들어요",
+        "kind": "dialogue"
+      },
+      {
+        "start": 12.18,
+        "end": 12.96,
+        "text": "여보세요?",
+        "text_raw": "여보세요?",
+        "kind": "dialogue"
+      },
+      {
+        "start": 15.06,
+        "end": 15.96,
+        "text": "여보세요?",
+        "text_raw": "여보세요?",
+        "kind": "dialogue"
+      },
+      {
+        "start": 19.52,
+        "end": 21.18,
+        "text": "(가사/대사 불명확)",
+        "text_raw": "스냅북 많이 받으세요",
+        "kind": "song_or_dialogue"
+      }
+    ],
+    "voice_vs_caption": "음성은 BGM(노래) 주도 + 산발적 디제틱 대사('여보세요?','잘 안 들려요' — 해변↔서재 전화 통화의 코믹 미스커뮤니케이션). 화면 자막은 'Bye New Santa' 타이틀뿐이라 음성↔자막 동기화는 거의 없음.",
+    "narration_handling": "excerpt_only",
+    "transcribed_by": "faster_whisper_base_novad",
+    "audio_note": "노래/음악 주도 브랜드필름이라 ASR 신뢰도 낮음. VAD 켰을 땐 1라인(coverage 0.10)뿐 → VAD 끄고 재전사해 디제틱 대사 단편 확보. 대사는 통화 개그('여보세요/잘 안 들려요') 확인용으로만 사용, verbatim 신뢰도 낮음(low_confidence). 엔딩 크레딧 기준 MUSIC 김용·VOCAL 존박/일레인 → 곡(노래)이 BGM 스파인. 디제틱 대사는 그 위에 소량.",
+    "music_credit": "작곡 김용 KIM YONG",
+    "vocal_credit": "존박 JOHN PARK · 일레인 ELAINE (엔딩 크레딧 기준 — 노래 보컬)"
+  },
+  "shots": [
+    {
+      "index": 1,
+      "duration": 5.67,
+      "framing": "EWS",
+      "function": "오프닝/후크(셀럽 in 의외의 낙원)",
+      "color_mood": "warm_tropical",
+      "subject_action": "빨강 터틀넥 여성이 라운지에 비스듬히 누워 ~3.5초간 거의 정지 → f96경 고개를 좌측(바다 쪽) 프로필로 돌리고 → f100~135 작은 검은 물체(스마트폰)를 들어 내려다봄(다음 컷 통화 셋업)",
+      "copy_overlay": null,
+      "layout_grid": "rule_of_thirds",
+      "subject_position": "center",
+      "subject_typo_layout": null,
+      "typo_motion": null,
+      "subject_motion": "전반부 정지 → 고개 좌측 프로필 전환(~f96) → 스마트폰 들어 내려다봄(~f100-135)",
+      "prop_motion": "none",
+      "camera_motion": "locked_off",
+      "camera_motion_intensity": "none",
+      "camera_effect_local": "none",
+      "motion_blur": "none",
+      "intra_cut_rhythm": "static",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [
+        "atmospheric_haze"
+      ],
+      "vfx_intensity_local": "subtle",
+      "fact_check_flag": false,
+      "notes": "고해상도 전프레임 재검수: 카메라 완전 고정(팜·파라솔·수평선 픽셀 불변). 전반 정지 후 고개 프로필 전환+스마트폰 들기로 통화 셋업. 바람/파도 거의 없음.",
+      "color_palette": [
+        "#b09972",
+        "#040403",
+        "#4e4a40",
+        "#5f9390"
+      ],
+      "camera_angle": "eye_level",
+      "camera_facing": "three_quarter",
+      "shot_scope": "environment",
+      "gaze": "off_camera",
+      "eye_contact_effect": "바다를 보는 시선 — 무심·여유",
+      "props": [
+        "라운지체어(빨강/흰 스트라이프)",
+        "파라솔(주황/흰 스트라이프)",
+        "사이드 테이블",
+        "서핑보드(빨강, 트로피컬)",
+        "스마트폰",
+        "야자수",
+        "카바나"
+      ],
+      "prop_semantics": "열대 휴양 소품=산타 의무로부터의 도피·해방. 빨강 의상은 산타 컬러의 캐리오버. 서핑보드=레저.",
+      "color_intent": "골든 모래 + 시안 바다의 보색 시네마틱, 빨강 의상 1점 액센트로 시선 유도",
+      "pose_description": "라운지에 비스듬히 기대 누운 편안한 포즈 — 무심한 여유, 셀럽의 의외성",
+      "visible_elements": {
+        "foreground": [
+          "서핑보드",
+          "모래"
+        ],
+        "midground": [
+          "라운지체어의 여성",
+          "파라솔",
+          "사이드 테이블",
+          "야자수"
+        ],
+        "background": [
+          "청록 바다",
+          "구름 있는 하늘",
+          "우측 카바나",
+          "원경 섬/언덕"
+        ],
+        "lighting_env": [
+          "강한 열대 태양광(자연광)"
+        ],
+        "atmosphere": [
+          "heat_haze(약)",
+          "near-frozen 정적",
+          "상하 시네마 레터박스"
+        ]
+      },
+      "texture": {
+        "primary_subject": "skin_natural",
+        "secondary_objects": [
+          "fabric_cotton",
+          "fabric_canvas"
+        ],
+        "background_surface": "sand",
+        "atmospheric": [
+          "atmospheric_haze"
+        ]
+      },
+      "lighting": {
+        "key_direction": "top",
+        "key_hardness": "hard",
+        "key_color_temp": "warm_5500K",
+        "fill_strength": "moderate",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": true,
+        "practical_lights": [
+          "태양"
+        ],
+        "shadow_presence": "deep",
+        "overall_contrast": "hi_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#b09972",
+          "#040403",
+          "#4e4a40",
+          "#5f9390"
+        ],
+        "palette_role": {
+          "#b09972": "background_dominant_sand",
+          "#040403": "letterbox_black",
+          "#4e4a40": "shadow_midtone",
+          "#5f9390": "cool_sea_accent"
+        },
+        "color_relationship": "complementary",
+        "temperature_balance": "warm_dominant",
+        "saturation_strategy": "muted",
+        "contrast_type": "temperature_split",
+        "accent_color": "#5f9390",
+        "accent_ratio": "15_percent",
+        "brand_color_match": []
+      },
+      "style_prompt": "Anamorphic 2.39:1 cinematic wide of a tropical beach at midday: a young East Asian woman in a red turtleneck and black trousers reclining on a red-and-white striped lounge chair under an orange-and-white striped parasol, a small wooden side table beside her, a red tropical-graphic surfboard lying on golden sand in the foreground, palm tree and a thatched cabana right, turquoise sea and cloud-dappled sky behind; hard warm top sunlight with deep sand shadows and rim light, muted teal-and-orange film grade, fine grain, letterboxed; relaxed off-camera gaze, generous negative space, premium Korean brand-film look",
+      "recreation_prompts": {
+        "t2i_start_frame": "Anamorphic widescreen (2.39:1, letterboxed) cinematic establishing shot of an idyllic tropical beach at midday. Subject: a young East Asian woman in her mid-20s reclining at ease on a red-and-white vertically striped wooden lounge chair, body angled three-quarter away, gaze drifting off toward the sea; she wears a fitted bright-red turtleneck and loose black trousers, barefoot, minimal styling, no logos. Foreground: a red surfboard with faded tropical artwork resting on warm golden sand; midground: an orange-and-white striped beach parasol on a white pole, a small low wooden side table; left a leaning palm tree, right a thatched-roof cabana on stilts. Background: a calm turquoise-to-deep-blue sea, distant hazy green headlands, a bright sky with soft cumulus clouds. Lighting: hard natural top sunlight, warm ~5500K, deep crisp shadows on the sand, gentle rim light on the subject and parasol edge, moderate fill (2:1). Composition: rule-of-thirds, subject small in a wide environment, generous negative space of sand and sky. Palette: warm golden sand dominant (#b09972) against cool turquoise sea (#5f9390), muted filmic saturation, single red accent of the wardrobe (~15%). Textures: smooth natural skin, soft cotton knit, canvas parasol, granular sand, glossy surfboard, palm foliage. Atmosphere: shimmering heat haze, bright clean daylight, subtle film grain and halation, cinemascope black bars top and bottom. Style anchor: premium Korean commercial brand-film, teal-and-orange cinema grade, photographic realism, 4K.",
+        "t2i_negative": "vertical format, no letterbox, real celebrity face likeness, brand logos, overcast, low-key, heavy grain, watermark, text, extra limbs, distorted hands, oversaturated cartoon look",
+        "i2v_motion": "Locked-off hold: she lies near-motionless for the first ~3.5s, then slowly turns her head to screen-left into profile (~f96) and raises a small dark smartphone to look down at it (~f100 on); camera dead still; calm sea, minimal wind; ~5.7s, static, no cut.",
+        "i2v_params": {
+          "clip_duration_sec": 5.67,
+          "camera_move": "locked_off",
+          "subject_motion_level": "micro",
+          "signature_effect": "none",
+          "pacing": "static",
+          "loopable": true
+        },
+        "fidelity_note": "craft-faithful; celebrity identity & brand abstracted; cinemascope grade preserved"
+      }
+    },
+    {
+      "index": 2,
+      "duration": 5.71,
+      "framing": "MS",
+      "function": "내러티브(전화 통화)",
+      "color_mood": "warm_tropical",
+      "subject_action": "여성이 라운지에 앉아 오른손에 검은 스마트폰을 귀에 대고 통화, 왼손엔 가니시 칵테일 잔; 고개를 뒤로 젖혔다 내리고 간헐적으로 말하며 마지막(f264~)에 카메라 쪽으로 시선",
+      "copy_overlay": null,
+      "layout_grid": "center",
+      "subject_position": "center",
+      "subject_typo_layout": null,
+      "typo_motion": null,
+      "subject_motion": "고개 젖힘→수평 복귀, 간헐 발화(입), 칵테일 잔 살짝 들기(f172), 종료 직전 카메라 응시",
+      "prop_motion": "수화기 미세 이동",
+      "camera_motion": "locked_off",
+      "camera_motion_intensity": "none",
+      "camera_effect_local": "none",
+      "motion_blur": "none",
+      "intra_cut_rhythm": "steady",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [
+        "atmospheric_haze"
+      ],
+      "vfx_intensity_local": "subtle",
+      "fact_check_flag": false,
+      "notes": "★정정(재검수): 빨간 레트로 수화기가 아니라 검은 스마트폰 + 칵테일 잔. 빨강은 터틀넥. 카메라 고정, 간헐 발화.",
+      "color_palette": [
+        "#5a9191",
+        "#070606",
+        "#c5ad91",
+        "#653d3c"
+      ],
+      "camera_angle": "eye_level",
+      "camera_facing": "three_quarter",
+      "shot_scope": "waist_up",
+      "gaze": "off_camera",
+      "eye_contact_effect": "통화 중 시선 회피 — 일상감",
+      "props": [
+        "검은 스마트폰",
+        "가니시 칵테일 잔",
+        "라운지체어(스트라이프)",
+        "사이드 테이블",
+        "파라솔"
+      ],
+      "prop_semantics": "스마트폰=‘뉴 산타’의 현대성(올드 산타의 레트로 유선전화와 대비), 칵테일=휴양/여유",
+      "color_intent": "시안 바다 배경에 인물·수화기 빨강 보색 포인트",
+      "pose_description": "앉아서 수화기를 귀에 대고 통화하는 자연스러운 포즈 — 코믹한 미스커뮤니케이션 연기",
+      "visible_elements": {
+        "foreground": [
+          "검은 스마트폰",
+          "가니시 칵테일 잔",
+          "사이드 테이블"
+        ],
+        "midground": [
+          "라운지체어의 여성"
+        ],
+        "background": [
+          "청록 바다",
+          "하늘",
+          "파라솔 일부"
+        ],
+        "lighting_env": [
+          "열대 자연광"
+        ],
+        "atmosphere": [
+          "heat_haze",
+          "레터박스"
+        ]
+      },
+      "texture": {
+        "primary_subject": "skin_natural",
+        "secondary_objects": [
+          "glass_clear",
+          "plastic_glossy"
+        ],
+        "background_surface": "water",
+        "atmospheric": [
+          "atmospheric_haze"
+        ]
+      },
+      "lighting": {
+        "key_direction": "top",
+        "key_hardness": "hard",
+        "key_color_temp": "warm_5500K",
+        "fill_strength": "moderate",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": true,
+        "practical_lights": [
+          "태양"
+        ],
+        "shadow_presence": "soft",
+        "overall_contrast": "hi_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#5a9191",
+          "#070606",
+          "#c5ad91",
+          "#653d3c"
+        ],
+        "palette_role": {
+          "#5a9191": "background_dominant_sea",
+          "#070606": "letterbox_black",
+          "#c5ad91": "skin_warm",
+          "#653d3c": "red_subject_accent"
+        },
+        "color_relationship": "complementary",
+        "temperature_balance": "balanced",
+        "saturation_strategy": "muted",
+        "contrast_type": "temperature_split",
+        "accent_color": "#653d3c",
+        "accent_ratio": "15_percent",
+        "brand_color_match": []
+      },
+      "style_prompt": "Cinematic letterboxed medium shot of a young East Asian woman in a red turtleneck seated on a striped beach lounger, a black smartphone held to her ear mid-call and a garnished cocktail in her other hand, calm bemused expression; turquoise sea behind; warm hard sun, teal-and-orange film grade, grain, heat haze; eye-level three-quarter, premium Korean brand-film",
+      "recreation_prompts": {
+        "t2i_start_frame": "Anamorphic widescreen (2.39:1) cinematic medium shot on a sunlit tropical beach. A young East Asian woman in her mid-20s sits on a red-and-white striped lounge chair, framed waist-up, holding a slim black smartphone to her right ear mid-call, a garnished cocktail glass in her left hand at chest height, calm faintly-amused expression. She wears a ribbed red turtleneck. Out-of-focus turquoise sea and bright sky behind, a sliver of striped parasol, a low wooden side table foreground. Hard warm top sun ~5500K, soft fill, gentle rim on hair/shoulder, shallow-to-moderate DOF. Centered subject, sea horizon upper third, letterbox bars. Palette: cool teal sea dominant, warm skin, the red turtleneck the strong accent (~15%). Textures: natural skin, glossy phone, clear cocktail glass, soft knit, shimmering water. Bright heat haze, fine grain, halation. Premium Korean commercial brand-film, teal-and-orange grade, 4K.",
+        "t2i_negative": "vertical, no letterbox, celebrity face likeness, brand logos, retro corded phone, low-key, watermark, text, distorted hands",
+        "i2v_motion": "She holds the black smartphone to her ear and the cocktail in the other hand; head tilts back then levels, intermittent talking (mouth opens), a slight raise of the glass (~f172), and a lift of her gaze toward camera near the end; camera locked-off; sea shimmers faintly; ~5.7s, steady, no cut; hard cut out.",
+        "i2v_params": {
+          "clip_duration_sec": 5.71,
+          "camera_move": "locked_off",
+          "subject_motion_level": "micro",
+          "signature_effect": "none",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; celebrity identity abstracted; on-screen text none; cinema grade preserved"
+      }
+    },
+    {
+      "index": 3,
+      "duration": 2.59,
+      "framing": "MLS",
+      "function": "교차(늙은 산타의 서재)",
+      "color_mood": "warm_lowkey",
+      "subject_action": "늙은 산타가 어두운 책상에서 레트로 유선전화 수화기를 귀에 대고(코드 보임) 편지를 읽으며 통화 — 정적·수심",
+      "copy_overlay": null,
+      "layout_grid": "center",
+      "subject_position": "center",
+      "subject_typo_layout": null,
+      "typo_motion": null,
+      "subject_motion": "정지(미세 settle), 수화기 든 채 듣기·독서",
+      "prop_motion": "서류 미세 이동",
+      "camera_motion": "locked_off",
+      "camera_motion_intensity": "none",
+      "camera_effect_local": "none",
+      "motion_blur": "none",
+      "intra_cut_rhythm": "static",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [],
+      "vfx_intensity_local": "none",
+      "fact_check_flag": false,
+      "notes": "재검수: 산타도 이미 통화 중(수화기+코드 확인) — shot2 통화의 반대편 시작. 정적 2.5초. 책상에 날개 피규어·서류 더미·벽 촛대.",
+      "color_palette": [
+        "#151517",
+        "#000000",
+        "#593028",
+        "#975c3f"
+      ],
+      "camera_angle": "eye_level",
+      "camera_facing": "three_quarter",
+      "shot_scope": "waist_up",
+      "gaze": "down",
+      "eye_contact_effect": "고개 숙인 시선 — 피로·고독",
+      "props": [
+        "레트로 유선전화 수화기(코드)",
+        "편지",
+        "날개 달린 작은 조각상/피규어",
+        "데스크 램프",
+        "서류·편지 더미"
+      ],
+      "prop_semantics": "산더미 편지·서류=산타가 떠안은 현대 행정의 짐; 레트로 유선전화=올드 월드의 산타; 따뜻한 램프=홀로 일하는 쓸쓸함",
+      "color_intent": "텅스텐 웜 단일광 + 깊은 암부 — 멜랑콜리",
+      "pose_description": "책상 앞에 수그려 앉아 서류를 보는 지친 포즈",
+      "visible_elements": {
+        "foreground": [
+          "서류 더미",
+          "책상 모서리"
+        ],
+        "midground": [
+          "산타(앉은 인물)",
+          "데스크 램프"
+        ],
+        "background": [
+          "어두운 실내 벽·가구(암부)"
+        ],
+        "lighting_env": [
+          "따뜻한 데스크 램프(프랙티컬)"
+        ],
+        "atmosphere": [
+          "저조도 암부",
+          "따뜻한 글로우"
+        ]
+      },
+      "texture": {
+        "primary_subject": "fabric_velvet",
+        "secondary_objects": [
+          "paper",
+          "wood_polished"
+        ],
+        "background_surface": "wood_raw",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "side_right",
+        "key_hardness": "soft",
+        "key_color_temp": "warm_3000K",
+        "fill_strength": "minimal",
+        "key_to_fill_ratio": "8:1",
+        "rim_light": false,
+        "practical_lights": [
+          "데스크 램프"
+        ],
+        "shadow_presence": "deep",
+        "overall_contrast": "low_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#151517",
+          "#000000",
+          "#593028",
+          "#975c3f"
+        ],
+        "palette_role": {
+          "#151517": "shadow_dominant",
+          "#000000": "letterbox_black",
+          "#593028": "warm_wood_midtone",
+          "#975c3f": "lamp_warm_highlight"
+        },
+        "color_relationship": "monochrome",
+        "temperature_balance": "warm_dominant",
+        "saturation_strategy": "desaturated_with_pop",
+        "contrast_type": "luminance_high",
+        "accent_color": "#975c3f",
+        "accent_ratio": "15_percent",
+        "brand_color_match": []
+      },
+      "style_prompt": "Low-key cinematic medium-long shot of an elderly Santa-Claus character (white beard, deep-red suit) hunched at a dark wooden desk piled with documents, a single warm desk lamp glowing on the right; deep shadows swallow the room, warm tungsten ~3000K key, minimal fill, melancholic mood; letterboxed teal-and-orange film grade, grain; eye-level, downward gaze",
+      "recreation_prompts": {
+        "t2i_start_frame": "Anamorphic widescreen (2.39:1) low-key cinematic medium-long shot of a dim study at night. Subject: an elderly Santa-Claus character — long white beard, deep-red velvet suit with white fur trim — hunched at a heavy dark-wood desk, looking down at scattered documents, weary expression. On the desk: tall untidy stacks of paper and a warm brass desk lamp glowing on the right side casting a pool of light. The surrounding room falls into deep shadow, only suggestions of dark furniture and panelling. Lighting: a single warm practical (desk lamp) from the right, ~3000K, very low-key, minimal fill (8:1), deep crushed shadows, no rim. Composition: subject centered, framed waist-up behind the paperwork, heavy negative space of darkness, letterbox bars. Palette: near-black shadow dominant (#151517) with warm wood and amber lamp highlights (#593028, #975c3f), desaturated with a warm pop. Textures: soft red velvet and white fur, matte paper stacks, polished dark wood. Atmosphere: lonely, melancholic, warm glow against cold dark, fine film grain. Style anchor: premium Korean cinematic brand-film, chiaroscuro tungsten lighting, photographic realism, 4K.",
+        "t2i_negative": "bright, hi-key, real brand logos, watermark, cartoon Santa, extra fingers, vertical, no letterbox, text overlay",
+        "i2v_motion": "Santa holds a corded telephone handset to his ear while reading a letter, head bowed, weary; only breathing-level micro-motion; warm lamp steady; camera locked-off; ~2.6s, static, no cut.",
+        "i2v_params": {
+          "clip_duration_sec": 2.59,
+          "camera_move": "locked_off",
+          "subject_motion_level": "micro",
+          "signature_effect": "none",
+          "pacing": "static",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; generic Santa character (no real-person likeness); chiaroscuro grade preserved"
+      }
+    },
+    {
+      "index": 4,
+      "duration": 3.63,
+      "framing": "CU(인서트)",
+      "function": "와우/코믹 장치(과태료 통지서)",
+      "color_mood": "warm_lowkey",
+      "subject_action": "산타의 털 커프스 손이 '속도위반 과태료부과 사전통지서'(받는사람: 산타 귀하)를 들고 본다",
+      "copy_overlay": null,
+      "layout_grid": "center",
+      "subject_position": "center(소품)",
+      "subject_typo_layout": null,
+      "typo_motion": null,
+      "subject_motion": "손이 종이를 들고 미세 기울임",
+      "prop_motion": "종이 미세 이동",
+      "camera_motion": "locked_off + 아주 느린 push_in",
+      "camera_motion_intensity": "subtle",
+      "camera_effect_local": "none",
+      "motion_blur": "none",
+      "intra_cut_rhythm": "static",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [],
+      "vfx_intensity_local": "none",
+      "fact_check_flag": true,
+      "notes": "★핵심 코믹 장치(재검수): 헤드라인 '속도위반 과태료부과 사전통지서' 확정(f419 최선명). 문서에 금액 ~30,000/11,000/40,000원, 2020.01 단속 일자, 야간 속도카메라 인서트 사진, 블루 트랙터피드 천공, 빨간 스탬프. 수신인 '산타 귀하'는 풀해상도 줌(f375)에서 확인(몽타주 해상도에선 흐림). 아주 느린 push-in으로 헤드라인이 점점 커짐.",
+      "color_palette": [
+        "#714332",
+        "#542f28",
+        "#000000",
+        "#292122"
+      ],
+      "camera_angle": "high_angle",
+      "camera_facing": "none",
+      "shot_scope": "detail",
+      "gaze": "none",
+      "eye_contact_effect": null,
+      "props": [
+        "속도위반 과태료 사전통지서(서류)",
+        "산타의 흰 털 커프스/손",
+        "뒤 서류 더미"
+      ],
+      "prop_semantics": "속도위반 과태료 통지서=현대 행정이 산타를 옥죄는 코믹 디테일. '산타 귀하' 수신인으로 개그 완성.",
+      "color_intent": "따뜻한 갈색 톤 + 종이 밝기 대비로 텍스트에 시선 집중",
+      "pose_description": "털 커프스 손이 종이 한 장을 들어 살피는 인서트",
+      "visible_elements": {
+        "foreground": [
+          "과태료 통지서",
+          "산타 흰 털 커프스/손"
+        ],
+        "midground": [
+          "책상 위 서류 더미"
+        ],
+        "background": [
+          "어두운 책상·실내 암부"
+        ],
+        "lighting_env": [
+          "따뜻한 램프 간접광"
+        ],
+        "atmosphere": [
+          "저조도",
+          "얕은 심도 보케"
+        ]
+      },
+      "texture": {
+        "primary_subject": "paper",
+        "secondary_objects": [
+          "fur",
+          "skin_natural"
+        ],
+        "background_surface": "wood_polished",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "side_right",
+        "key_hardness": "soft",
+        "key_color_temp": "warm_3000K",
+        "fill_strength": "minimal",
+        "key_to_fill_ratio": "8:1",
+        "rim_light": false,
+        "practical_lights": [
+          "데스크 램프"
+        ],
+        "shadow_presence": "deep",
+        "overall_contrast": "low_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#714332",
+          "#542f28",
+          "#000000",
+          "#292122"
+        ],
+        "palette_role": {
+          "#714332": "warm_paper_midtone",
+          "#542f28": "warm_shadow",
+          "#000000": "letterbox_black",
+          "#292122": "deep_shadow"
+        },
+        "color_relationship": "monochrome",
+        "temperature_balance": "warm_dominant",
+        "saturation_strategy": "desaturated",
+        "contrast_type": "luminance_high",
+        "accent_color": "#714332",
+        "accent_ratio": "30_percent",
+        "brand_color_match": []
+      },
+      "style_prompt": "Warm low-key cinematic insert close-up, slight high angle, of an elderly Santa character's white-fur-cuffed hand holding a printed Korean traffic-fine notice on a dark desk; the page reads as an official speeding-penalty pre-notice addressed to 'Santa', a small speed-camera photo on it; shallow depth of field, soft warm lamp light, deep shadows, teal-and-orange film grade, grain, letterboxed",
+      "recreation_prompts": {
+        "t2i_start_frame": "Anamorphic widescreen (2.39:1) low-key cinematic insert, slight high angle looking down at a dark wooden desk. An elderly Santa character's hand — white fur cuff and red sleeve, warm aged skin — holds up a single sheet of dot-matrix official paper. The document is a Korean government-style traffic penalty notice with a bold black headline reading verbatim '속도위반 과태료부과 사전통지서' (speeding-fine pre-notification), a recipient line addressed to '산타 귀하' at a Seoul Gangnam address, small body tables of fine amounts, and a tiny grainy speed-camera capture photo in the upper right. Behind, soft-focus stacks of more paperwork. Lighting: warm desk-lamp side light ~3000K, very low-key, minimal fill, deep shadow, shallow depth of field so the headline is sharp and edges fall off. Composition: the page fills the right two-thirds, the fur cuff lower-left, letterbox bars. Palette: warm browns dominant (#714332, #542f28) against near-black, desaturated, the brighter paper as the luminance accent (~30%). Textures: fibrous printed paper, soft white fur, aged skin, polished dark wood. Atmosphere: warm intimate lamp glow, fine film grain, cinemascope bars. Preserve the Korean document text verbatim. Style anchor: premium Korean cinematic brand-film insert, photographic realism, 4K.",
+        "t2i_negative": "bright hi-key, real brand logos, watermark, English text replacing Korean, blurry headline, vertical, no letterbox, distorted hand",
+        "i2v_motion": "The fur-cuffed hand holds the speeding-fine notice nearly still (tiny finger repositions); a very slow push-in tightens onto the bold Korean headline; shallow focus locked on the page; ~3.6s, static-creep, no cut. Preserve the Korean document text.",
+        "i2v_params": {
+          "clip_duration_sec": 3.63,
+          "camera_move": "slow_push_in",
+          "subject_motion_level": "micro",
+          "signature_effect": "none",
+          "pacing": "static",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; Korean prop text preserved verbatim; generic Santa character; no real logos"
+      }
+    },
+    {
+      "index": 5,
+      "duration": 3.59,
+      "framing": "MS",
+      "function": "교차(산타의 통화 응답)",
+      "color_mood": "warm_lowkey",
+      "subject_action": "산타가 책상에서 검정 다이얼식(로터리) 유선전화 수화기를 귀에 대고(코드·전화기 베이스 보임) 편지를 읽으며 통화 — 듣기·간헐 발화",
+      "copy_overlay": null,
+      "layout_grid": "center",
+      "subject_position": "center",
+      "subject_typo_layout": null,
+      "typo_motion": null,
+      "subject_motion": "정지(미세 head/jaw), 로터리 수화기 든 채 통화·독서",
+      "prop_motion": "수화기 미세 이동",
+      "camera_motion": "locked_off",
+      "camera_motion_intensity": "subtle",
+      "camera_effect_local": "none",
+      "motion_blur": "none",
+      "intra_cut_rhythm": "static",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [],
+      "vfx_intensity_local": "none",
+      "fact_check_flag": false,
+      "notes": "재검수: 검정 로터리 유선전화 확정(코드·다이얼 베이스). shot3와 함께 산타의 통화 측. 뉴/올드 전화 대비 모티프.",
+      "color_palette": [
+        "#191719",
+        "#000000",
+        "#64362a",
+        "#986141"
+      ],
+      "camera_angle": "eye_level",
+      "camera_facing": "three_quarter",
+      "shot_scope": "waist_up",
+      "gaze": "off_camera",
+      "eye_contact_effect": "통화 중 허공 시선",
+      "props": [
+        "검정 로터리(다이얼) 유선전화(수화기+베이스+코드)",
+        "편지",
+        "날개 달린 조각상",
+        "데스크 램프",
+        "서류 더미"
+      ],
+      "prop_semantics": "로터리(다이얼) 유선전화=올드 산타의 레트로 세계(뉴 산타의 스마트폰과 대비). 편지=수작업 시대.",
+      "color_intent": "텅스텐 웜 단일광 — shot3와 통일된 서재 톤",
+      "pose_description": "책상에 앉아 수화기를 든 채 듣는 포즈",
+      "visible_elements": {
+        "foreground": [
+          "수화기",
+          "책상 위 서류"
+        ],
+        "midground": [
+          "산타",
+          "데스크 램프"
+        ],
+        "background": [
+          "어두운 실내 암부"
+        ],
+        "lighting_env": [
+          "따뜻한 데스크 램프"
+        ],
+        "atmosphere": [
+          "저조도 암부",
+          "따뜻한 글로우"
+        ]
+      },
+      "texture": {
+        "primary_subject": "fabric_velvet",
+        "secondary_objects": [
+          "plastic_glossy",
+          "paper"
+        ],
+        "background_surface": "wood_raw",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "side_right",
+        "key_hardness": "soft",
+        "key_color_temp": "warm_3000K",
+        "fill_strength": "minimal",
+        "key_to_fill_ratio": "8:1",
+        "rim_light": false,
+        "practical_lights": [
+          "데스크 램프"
+        ],
+        "shadow_presence": "deep",
+        "overall_contrast": "low_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#191719",
+          "#000000",
+          "#64362a",
+          "#986141"
+        ],
+        "palette_role": {
+          "#191719": "shadow_dominant",
+          "#000000": "letterbox_black",
+          "#64362a": "warm_midtone",
+          "#986141": "lamp_warm_highlight"
+        },
+        "color_relationship": "monochrome",
+        "temperature_balance": "warm_dominant",
+        "saturation_strategy": "desaturated_with_pop",
+        "contrast_type": "luminance_high",
+        "accent_color": "#986141",
+        "accent_ratio": "15_percent",
+        "brand_color_match": []
+      },
+      "style_prompt": "Low-key cinematic medium shot of an elderly Santa character at a dark desk holding a telephone handset to his ear, listening, warm desk lamp on the right, deep shadows, melancholic; tungsten ~3000K, teal-and-orange film grade, grain, letterboxed, eye-level",
+      "recreation_prompts": {
+        "t2i_start_frame": "Anamorphic widescreen (2.39:1) low-key cinematic medium shot of the same dim study. The elderly Santa-Claus character (white beard, deep-red fur-trimmed suit) sits at the dark desk, holding a telephone handset to his ear, listening with a slightly puzzled patient expression, off-camera gaze. The warm brass desk lamp glows on the right; paperwork stacks and dark room recede into shadow. Lighting: single warm practical from the right, ~3000K, very low-key, minimal fill (8:1), deep shadows, no rim. Composition: subject centered waist-up, heavy dark negative space, letterbox bars. Palette: near-black warm shadow dominant (#191719) with amber lamp highlights (#64362a, #986141), desaturated with a warm pop. Textures: red velvet and white fur, glossy handset, matte paper, dark wood. Atmosphere: lonely warm pool of light in darkness, fine grain, cinemascope bars. Style anchor: premium Korean cinematic brand-film, tungsten chiaroscuro, photographic realism, 4K.",
+        "t2i_negative": "bright, hi-key, real logos, watermark, cartoon, vertical, no letterbox, modern smartphone, distorted face",
+        "i2v_motion": "Santa cradles a black rotary telephone handset to his ear and reads a letter by lamplight; small listening reactions (faint nod, brow), no large move; camera locked-off; ~3.6s, static, no cut.",
+        "i2v_params": {
+          "clip_duration_sec": 3.59,
+          "camera_move": "locked_off",
+          "subject_motion_level": "micro",
+          "signature_effect": "none",
+          "pacing": "static",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; generic Santa character; no real logos; chiaroscuro grade preserved"
+      }
+    },
+    {
+      "index": 6,
+      "duration": 5.0,
+      "framing": "EWS",
+      "function": "타이틀 회수('Bye New Santa')",
+      "color_mood": "warm_tropical",
+      "subject_action": "해변 와이드 복귀; 여성이 통화 마무리(f508~527)→스마트폰 화면 보기(f528~551)→바다 응시(f552~563)→여유 리클라인; f565 'Bye New Santa' 타이틀 등장",
+      "copy_overlay": "Bye New Santa",
+      "layout_grid": "center",
+      "subject_position": "center",
+      "subject_typo_layout": "'Bye New Santa' 빨간 브러시스크립트 3행(Bye/New/Santa) 좌상단(인물과 분리)",
+      "typo_motion": "f565(23.57s) 좌상단에 빠르게 fade/pop-in 후 끝(f627)까지 홀드 — 아웃 페이드 없음",
+      "subject_motion": "미세(휴식)",
+      "prop_motion": "none",
+      "camera_motion": "locked_off",
+      "camera_motion_intensity": "none",
+      "camera_effect_local": "none",
+      "motion_blur": "none",
+      "intra_cut_rhythm": "static",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [
+        "title_graphics",
+        "atmospheric_haze"
+      ],
+      "vfx_intensity_local": "subtle",
+      "fact_check_flag": false,
+      "notes": "재검수: 타이틀은 좌상단·f565 빠른 pop-in(슬로우 페이드 아님), 끝까지 홀드. 인물은 통화 마무리→폰 화면 보기→바다 응시의 마이크로 비트. 아웃 페이드 없이 크레딧으로.",
+      "color_palette": [
+        "#b09670",
+        "#070705",
+        "#7c3b35",
+        "#5a8a88"
+      ],
+      "camera_angle": "eye_level",
+      "camera_facing": "three_quarter",
+      "shot_scope": "environment",
+      "gaze": "off_camera",
+      "eye_contact_effect": "바다 응시 여유",
+      "props": [
+        "라운지체어",
+        "파라솔",
+        "서핑보드",
+        "사이드 테이블",
+        "야자수",
+        "카바나"
+      ],
+      "prop_semantics": "오프닝과 같은 휴양 소품으로 수미상관 — '새 산타'의 작별을 해변에서 마무리",
+      "color_intent": "골든 모래+시안 바다 보색, 빨간 타이틀이 빨강 모티프와 호응",
+      "pose_description": "라운지에 기댄 편안한 포즈 위로 작별 타이틀이 떠오름",
+      "visible_elements": {
+        "foreground": [
+          "서핑보드",
+          "모래",
+          "'Bye New Santa' 타이틀 그래픽"
+        ],
+        "midground": [
+          "라운지체어의 여성",
+          "파라솔",
+          "사이드 테이블"
+        ],
+        "background": [
+          "청록 바다",
+          "하늘",
+          "야자수",
+          "카바나"
+        ],
+        "lighting_env": [
+          "열대 자연광"
+        ],
+        "atmosphere": [
+          "heat_haze",
+          "레터박스"
+        ]
+      },
+      "texture": {
+        "primary_subject": "skin_natural",
+        "secondary_objects": [
+          "fabric_cotton",
+          "fabric_canvas"
+        ],
+        "background_surface": "sand",
+        "atmospheric": [
+          "atmospheric_haze"
+        ]
+      },
+      "lighting": {
+        "key_direction": "top",
+        "key_hardness": "hard",
+        "key_color_temp": "warm_5500K",
+        "fill_strength": "moderate",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": true,
+        "practical_lights": [
+          "태양"
+        ],
+        "shadow_presence": "deep",
+        "overall_contrast": "hi_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#b09670",
+          "#070705",
+          "#7c3b35",
+          "#5a8a88"
+        ],
+        "palette_role": {
+          "#b09670": "background_dominant_sand",
+          "#070705": "letterbox_black",
+          "#7c3b35": "red_title_subject_accent",
+          "#5a8a88": "cool_sea_accent"
+        },
+        "color_relationship": "complementary",
+        "temperature_balance": "warm_dominant",
+        "saturation_strategy": "muted",
+        "contrast_type": "temperature_split",
+        "accent_color": "#7c3b35",
+        "accent_ratio": "15_percent",
+        "brand_color_match": []
+      },
+      "style_prompt": "Cinematic letterboxed wide of the tropical beach (matching the opening): a young East Asian woman in red reclining on a striped lounger under an orange parasol, surfboard on golden sand, turquoise sea behind, with a red brush-script title 'Bye New Santa' fading in centered over the scene; warm hard sun, teal-and-orange film grade, grain, heat haze; eye-level wide, generous negative space",
+      "recreation_prompts": {
+        "t2i_start_frame": "Anamorphic widescreen (2.39:1) cinematic wide of the same idyllic tropical beach as the opening, bookending the film. A young East Asian woman in a red turtleneck reclines relaxed on the red-and-white striped lounge chair under the orange-and-white parasol; the red tropical surfboard rests on golden sand foreground; turquoise sea, hazy headlands and bright cloudy sky behind; palm and cabana frame the sides. Overlaid centered is a hand-lettered red brush-script title reading verbatim 'Bye New Santa', softly faded in over the scene. Lighting: hard warm top sun ~5500K, deep sand shadows, rim light, moderate fill (2:1). Composition: wide environment, subject small center-right, the script title in the upper-left, letterbox bars. Palette: golden sand dominant (#b09670) with turquoise sea (#5a8a88) and the warm-red title/wardrobe accent (#7c3b35, ~15%). Textures: natural skin, soft knit, canvas, granular sand, glossy board. Atmosphere: heat haze, bright daylight, film grain, halation, cinemascope bars. Preserve the title text 'Bye New Santa' verbatim. Style anchor: premium Korean brand-film end-title frame, teal-and-orange grade, photographic, 4K.",
+        "t2i_negative": "vertical, no letterbox, celebrity face likeness, real brand logos, wrong title text, low-key, watermark, oversaturation, distorted hands",
+        "i2v_motion": "The beach holds locked-off (woman finishes a call, glances at her phone, then gazes out to sea); at ~f565 the red brush-script 'Bye New Santa' pops into the upper-left in three stacked lines and holds to the end; warm light steady; ~5.0s, static, no cut. Preserve the title verbatim.",
+        "i2v_params": {
+          "clip_duration_sec": 5.0,
+          "camera_move": "locked_off",
+          "subject_motion_level": "micro",
+          "signature_effect": "none",
+          "pacing": "static",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; title 'Bye New Santa' preserved verbatim; celebrity identity & brand abstracted"
+      }
+    },
+    {
+      "index": 7,
+      "duration": 7.34,
+      "framing": "MS→detail (느린 tilt_up)",
+      "function": "상징적 마무리(순록 트로피)",
+      "color_mood": "cool_warm_lowkey",
+      "subject_action": "앉은 산타(레트로 전화 통화·독서)에서 위로 느린 틸트업(f656→710) → 박제 사슴(뿔) 트로피 + 2등 촛대 벽등 공개, 중앙 대칭으로 고정; f760부터 'only SHINSEGAE' 카피 좌하단 등장",
+      "copy_overlay": "only SHINSEGAE (f760~, 다크레드 좌하단)",
+      "layout_grid": "center_symmetry",
+      "subject_position": "center",
+      "subject_typo_layout": "틸트업 후 좌하단 'only SHINSEGAE' 카피",
+      "typo_motion": "'only SHINSEGAE' f760 fade-in 후 홀드",
+      "subject_motion": "미세(앉은 산타)",
+      "prop_motion": "none",
+      "camera_motion": "tilt_up(느린, f656→710)",
+      "camera_motion_intensity": "moderate",
+      "camera_effect_local": "none",
+      "motion_blur": "light",
+      "intra_cut_rhythm": "slow_build",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [
+        "title_graphics"
+      ],
+      "vfx_intensity_local": "subtle",
+      "fact_check_flag": true,
+      "notes": "★재검수: 명확한 느린 틸트업(f656-710). 산타가 하단으로 빠지며 박제 사슴(뿔) 트로피+촛대 공개, 중앙 대칭 고정. f760 'only SHINSEGAE'(신세계 브랜드 슬로건) 다크레드 좌하단 등장→홀드. 촛불 플리커. 끝까지 페이드 없음.",
+      "color_palette": [
+        "#131416",
+        "#010000",
+        "#332727",
+        "#7b4e3c"
+      ],
+      "camera_angle": "eye_level→low_angle",
+      "camera_facing": "frontal",
+      "shot_scope": "environment",
+      "gaze": "none",
+      "eye_contact_effect": null,
+      "props": [
+        "박제 사슴(뿔) 트로피",
+        "2구 벽 촛대(촛불 깜빡임)",
+        "어두운 틸 커튼",
+        "천장 코니스",
+        "의자",
+        "산타(전반)",
+        "'only SHINSEGAE' 카피"
+      ],
+      "prop_semantics": "박제된 순록=산타의 동반자가 트로피로 박제됨 → 옛 세계의 종말·노스탤지어. 촛대 웜글로우=사그라드는 온기.",
+      "color_intent": "매우 낮은 채도·저조도; 따뜻한 촛대 vs 차가운 틸 커튼 온도 대비; f760 다크레드 'only SHINSEGAE'",
+      "pose_description": "하단에 앉은 산타(머리만 보임)에서 시작해 상단 순록으로 시선을 끌어올림",
+      "visible_elements": {
+        "foreground": [
+          "앉은 산타의 머리(하단 엣지)"
+        ],
+        "midground": [
+          "2구 벽 촛대 조명"
+        ],
+        "background": [
+          "박제 순록 머리 트로피",
+          "목재 패널 벽",
+          "좌우 어두운 틸 커튼"
+        ],
+        "lighting_env": [
+          "따뜻한 벽 촛대(프랙티컬)"
+        ],
+        "atmosphere": [
+          "저조도 암부",
+          "따뜻↔차가움 대비"
+        ]
+      },
+      "texture": {
+        "primary_subject": "fur",
+        "secondary_objects": [
+          "wood_polished",
+          "fabric_velvet"
+        ],
+        "background_surface": "wood_polished",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "bottom",
+        "key_hardness": "soft",
+        "key_color_temp": "warm_3000K",
+        "fill_strength": "minimal",
+        "key_to_fill_ratio": "8:1",
+        "rim_light": false,
+        "practical_lights": [
+          "2구 벽 촛대"
+        ],
+        "shadow_presence": "deep",
+        "overall_contrast": "low_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#131416",
+          "#010000",
+          "#332727",
+          "#7b4e3c"
+        ],
+        "palette_role": {
+          "#131416": "shadow_dominant",
+          "#010000": "letterbox_black",
+          "#332727": "cool_warm_shadow",
+          "#7b4e3c": "sconce_warm_highlight"
+        },
+        "color_relationship": "monochrome",
+        "temperature_balance": "split_warm_cool",
+        "saturation_strategy": "desaturated",
+        "contrast_type": "temperature_split",
+        "accent_color": "#7b4e3c",
+        "accent_ratio": "15_percent",
+        "brand_color_match": []
+      },
+      "style_prompt": "Low-key symmetrical cinematic TILT-UP in a dark study: from the seated Santa (on a retro phone) the camera rises to a mounted antlered deer-head taxidermy trophy above a warm twin-candelabra wall sconce, dark teal drapes flanking, ceiling cornice on top; a small dark-red 'only SHINSEGAE' caption lower-left; warm 3000K sconce glow vs cool drapes, deep shadows; teal-and-orange film grade, grain, letterboxed",
+      "recreation_prompts": {
+        "t2i_start_frame": "Anamorphic widescreen (2.39:1) low-key, strictly symmetrical cinematic composition inside a dark old-world study. Center: a mounted taxidermy reindeer/deer-head trophy high on a wood-panelled wall, and directly beneath it a warm twin-arm brass candelabra wall sconce glowing amber. Flanking the center are tall dark teal velvet drapes that frame the shot like a proscenium. At the very bottom edge, the white hair/hat of the seated elderly Santa is just visible, anchoring the viewpoint below. Lighting: warm practical sconce ~3000K from below the trophy, very low-key, minimal fill (8:1), deep shadows; cool teal drapes catch faint cold light, creating warm/cool temperature split. Composition: perfect central symmetry, vertical emphasis, letterbox bars. Palette: near-black shadow dominant (#131416) with a warm amber sconce highlight (#7b4e3c) and cool drape shadows, desaturated. Textures: soft deer fur, polished wood panel, velvet drapes, brass. Atmosphere: solemn, nostalgic, the end of an era, fine film grain, cinemascope bars. Style anchor: premium Korean cinematic brand-film, symmetrical chiaroscuro, photographic realism, 4K.",
+        "t2i_negative": "bright, hi-key, asymmetric, real logos, watermark, cartoon, vertical, no letterbox, text",
+        "i2v_motion": "Slow smooth tilt-up (≈f656→710): starting on the seated Santa with a retro phone, craning up the wall to reveal the mounted antlered deer trophy above the glowing twin-candle sconce; candle flicker; then a small dark-red 'only SHINSEGAE' caption fades in lower-left (~f760) and holds; ~7.3s, slow-build, no cut. Preserve 'only SHINSEGAE'.",
+        "i2v_params": {
+          "clip_duration_sec": 7.34,
+          "camera_move": "tilt_up",
+          "subject_motion_level": "still",
+          "signature_effect": "none",
+          "pacing": "slow_build",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; generic Santa character; no real logos; symmetrical chiaroscuro preserved"
+      }
+    },
+    {
+      "index": 8,
+      "duration": 13.35,
+      "framing": "environment(텍스트 카드)",
+      "function": "엔딩 크레딧/브랜드 사인오프",
+      "color_mood": "black_white",
+      "subject_action": "블랙 배경 화이트 텍스트 영화식 엔딩 크레딧 — 수직 스크롤이 아니라 정지 페이지 카드들이 하드컷으로 전환(약 3.3s/카드, 4장): C1 출연(카리나 등)/W&D 신우석/제작 돌고래유괴단·특별출연 최희서, C2 크루, C3 VFX·음악(작곡 김용/보컬 존박·일레인), C4 PROJECT SUPPORT TEAM + PRESENTED BY SHINSEGAE 팀 + 하단 SHINSEGAE×DOLPHINERS FILMS 로고 락업",
+      "copy_overlay": "(엔딩 크레딧, excerpt) CAST 카리나 KARINA 외 / SPECIAL CAST 최희서 / WRITTEN & DIRECTED BY 신우석 / PRODUCTION 돌고래유괴단 DOLPHINERS FILMS / MUSIC 김용 · VOCAL 존박 JOHN PARK·일레인 ELAINE / PRESENTED BY SHINSEGAE / (로고) SHINSEGAE × DOLPHINERS FILMS",
+      "layout_grid": "static multi-column page cards (하드컷 전환)",
+      "subject_position": "none",
+      "subject_typo_layout": "다단 텍스트 컬럼 + 하단 로고",
+      "typo_motion": "정지 페이지 카드 + 하드컷 전환 (스크롤 아님)",
+      "subject_motion": "none",
+      "prop_motion": "none",
+      "camera_motion": "locked_off",
+      "camera_motion_intensity": "none",
+      "camera_effect_local": "none",
+      "motion_blur": "none",
+      "intra_cut_rhythm": "steady",
+      "transition_in": "cut",
+      "transition_out": "cut(하드, 페이드 없음)",
+      "vfx_in_shot": [
+        "title_graphics"
+      ],
+      "vfx_intensity_local": "subtle",
+      "fact_check_flag": true,
+      "notes": "★정정(재검수): 수직 스크롤 아님 — 정지 카드 4장이 하드컷으로 전환(~3.3s/카드). 노래는 보컬 존박(John Park)·일레인, 작곡 김용. 마지막 카드(PRESENTED BY SHINSEGAE + SHINSEGAE/DOLPHINERS FILMS 로고)로 페이드 없이 하드 종료(f1123).",
+      "color_palette": [
+        "#000000",
+        "#1b1b1b",
+        "#343434",
+        "#525252"
+      ],
+      "camera_angle": "eye_level",
+      "camera_facing": "none",
+      "shot_scope": "none(텍스트)",
+      "gaze": "none",
+      "eye_contact_effect": null,
+      "props": [
+        "크레딧 텍스트",
+        "SHINSEGAE 워드마크",
+        "DOLPHINERS FILMS 로고"
+      ],
+      "prop_semantics": "영화 크레딧=‘이것은 단편영화’라는 포지셔닝. 브랜드 로고로 사인오프.",
+      "color_intent": "순수 블랙+화이트 텍스트(클린 마무리)",
+      "pose_description": null,
+      "visible_elements": {
+        "foreground": [
+          "화이트 크레딧 텍스트",
+          "하단 브랜드 로고"
+        ],
+        "midground": [],
+        "background": [
+          "순수 블랙"
+        ],
+        "lighting_env": [],
+        "atmosphere": [
+          "레터박스 없이 풀블랙"
+        ]
+      },
+      "texture": {
+        "primary_subject": "none",
+        "secondary_objects": [],
+        "background_surface": "matte",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "none",
+        "key_hardness": "none",
+        "key_color_temp": "none",
+        "fill_strength": "none",
+        "key_to_fill_ratio": "none",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "none",
+        "overall_contrast": "high_contrast"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#000000",
+          "#1b1b1b",
+          "#343434",
+          "#525252"
+        ],
+        "palette_role": {
+          "#000000": "background_dominant",
+          "#1b1b1b": "near_black",
+          "#343434": "text_dim",
+          "#525252": "text_gray"
+        },
+        "color_relationship": "monochrome",
+        "temperature_balance": "balanced",
+        "saturation_strategy": "monochrome",
+        "contrast_type": "luminance_high",
+        "accent_color": "#525252",
+        "accent_ratio": "5_percent",
+        "brand_color_match": []
+      },
+      "style_prompt": "A clean cinematic end-credits sequence: white sans-serif Korean/English credits scrolling vertically on a pure black background, ending with a retailer wordmark and a film-production logo lockup at the bottom; high-contrast minimal, film-credit aesthetic",
+      "recreation_prompts": {
+        "t2i_start_frame": "A clean film-style end-credits frame on pure black (#000000): multiple columns of small white sans-serif text in mixed Korean and uppercase Latin (cast and crew roles such as CAST, WRITTEN & DIRECTED BY, PRODUCTION, PRESENTED BY), crisp and legible, with a generic retailer wordmark and a film-production logo lockup centered at the bottom. High-contrast, minimal, no imagery, letterbox not required. Preserve the credited text structure; abstract real logos into generic wordmarks. Style anchor: short-film end-credits, white-on-black, 4K.",
+        "t2i_negative": "imagery, photos, color background, real trademark logos, watermark, distorted text, low contrast",
+        "i2v_motion": "Static white-on-black credit page-cards that HARD-CUT from one to the next (no vertical scroll, no fade) every ~3.3s; final card holds the 'PRESENTED BY SHINSEGAE' text and a SHINSEGAE + film-production logo lockup at the bottom, ending on a hard out (no fade to black); ~13.4s total.",
+        "i2v_params": {
+          "clip_duration_sec": 13.35,
+          "camera_move": "locked_off",
+          "subject_motion_level": "still",
+          "signature_effect": "none",
+          "pacing": "static_card_cuts",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; credited text structure preserved; real logos generic"
+      }
+    }
+  ],
+  "analyst_notes": "(1) scenedetect(threshold27) 8컷 — 전부 실제 씬 경계로 확인(우월한월급통장 같은 match-cut 병합 없음). 단 cinematic 롱테이크라 컷수가 적다. shot7은 단일 컷 내 느린 틸트업(앉은 산타→박제 순록)이라 framing을 MS→detail로 기록. (2) 브랜드 식별: 엔딩 크레딧에서 'PRESENTED BY SHINSEGAE' + 로고 SHINSEGAE×DOLPHINERS FILMS, W&D 신우석, CAST 카리나(aespa)·특별출연 최희서 확인 → 신세계 크리스마스 'NEW SANTA' 캠페인의 에필로그('Bye New Santa'). 연도 2024는 inferred(웹검색 API 529 오류로 미검증). (3) 오디오: 노래/BGM 주도 + 산발 디제틱 대사. VAD ON 시 coverage 0.10(1라인) → VAD OFF 재전사로 '여보세요?/잘 안 들려요' 등 통화 개그 대사 확보. ASR 신뢰도 낮아 low_confidence, verbatim 비신뢰. (4) 추상화: 시각 묘사에서 셀럽 실명 제거('젊은 동아시아 여성'), 산타는 generic 캐릭터. 실명/브랜드는 source_ref·크레딧 한정. 소품 텍스트('속도위반 과태료부과 사전통지서','산타 귀하')와 타이틀('Bye New Santa')은 copywriting 규칙대로 원문 보존. (5) 신규 토큰: category_primary 'retail.department_store', product_category 'department_store'(백화점), technique 'cinematic_brandfilm'(시네마틱 브랜드필름), copy_strategy 'story_led_minimal_copy'(스토리 주도·카피 최소화) — keyword-vocabulary.md에 신규 등록 권장. (6) 시네마스코프(~2.39:1) 상하 레터박스 + 필름 그레인 + 따뜻한 그레이드가 전역 시그니처. recreation_prompts는 신스킬(2606021505) STEP4.5.6대로 8컷 전부 작성. (7) v2 고해상도 전프레임 재검수(서브에이전트 8/8 shot, 940px/프레임, 1124프레임 전수): 주요 정정 — shot2 '빨간 레트로 수화기'→검은 스마트폰+칵테일 잔; 올드 산타=레트로 유선/로터리 전화 vs 뉴 산타=스마트폰 대비 모티프 확인; shot4 카메라는 고정+아주 느린 push-in이며 문서 금액(~30,000/11,000/40,000원)·2020.01 단속일·야간 속도카메라 인서트 확인; shot6 타이틀은 좌상단·f565 빠른 pop-in(아웃 페이드 없음); shot7 명확한 tilt_up(f656-710)+'only SHINSEGAE' 슬로건(f760) 신규 발견; shot8 크레딧은 수직 스크롤이 아니라 정지 카드 4장 하드컷, 노래 보컬 존박/일레인. 카메라: shot1·2·3·5·6 locked_off, shot4 미세 push-in, shot7 tilt_up.",
+  "verification": {
+    "frames_reviewed": true,
+    "audio_analyzed": true,
+    "hitrate_na": true,
+    "abstraction_checked": true,
+    "abstraction_note": "시각 묘사 셀럽 실명 0(‘젊은 동아시아 여성’/‘generic 산타 캐릭터’), 실명·브랜드는 source_ref/크레딧 한정. 소품·타이틀 원문은 보존. recreation_prompts에 셀럽 얼굴복제·실로고 0.",
+    "frame_pipeline": "ad_frames.py(자작): ffmpeg 전프레임 추출 1124/1124, scenedetect 8컷, 컷별 dominant HEX, contact sheets 21장 + shot_overview.",
+    "recreation_prompts_coverage": "8/8 컷 t2i_start_frame+i2v_motion 작성",
+    "new_tokens": [
+      "retail.department_store",
+      "department_store",
+      "cinematic_brandfilm",
+      "story_led_minimal_copy"
+    ],
+    "high_res_reinspection": "전 1124프레임을 940px/프레임 몽타주로 서브에이전트 8개가 shot별 전수 재판독(컨택트시트 썸네일 판독 폐기). camera/subject/typo/transition을 프레임 번호 증거로 정정."
+  },
+  "search_keywords": {
+    "industry": [
+      "retail"
+    ],
+    "product_category": [
+      "department_store"
+    ],
+    "target_demo": [
+      "family",
+      "mz",
+      "women",
+      "active_consumers"
+    ],
+    "media_format": [
+      "cinemascope_lifestyle",
+      "sns_viral"
+    ],
+    "tone": [
+      "cinematic",
+      "warm_emotional",
+      "retro",
+      "premium"
+    ],
+    "pacing": [
+      "slow_build",
+      "steady"
+    ],
+    "technique": [
+      "celeb_hook",
+      "mirroring_contrast_edit",
+      "metaphor_visual_sequence",
+      "cinematic_brandfilm"
+    ],
+    "vfx_keywords": [
+      "atmospheric_haze",
+      "rim_light",
+      "title_graphics"
+    ],
+    "copy_strategy_keywords": [
+      "neologism_slogan",
+      "story_led_minimal_copy"
+    ],
+    "concept_derivation_pattern": [
+      "celeb_fashionfilm"
+    ]
+  },
+  "inferred_creative_thinking": {
+    "confidence": "inferred",
+    "insight_one_liner": "보편 상징 '산타'도 현대 한국에선 과태료·서류에 치이는 직장인이다 — 그 반전이 웃음과 공감을 만든다",
+    "persona_one_liner": "연말 백화점을 찾는 대중·가족과 트렌디한 MZ",
+    "moment_one_liner": "크리스마스 시즌, 한 해의 끝자락",
+    "product_role_one_liner": "신세계 = 기쁨·선물을 전하는 '새로운 산타'를 자처",
+    "punchline_one_liner": "Bye New Santa (새 산타조차 못 버티고 떠났다는 에필로그의 위트)",
+    "differentiator_one_liner": "톱 셀럽 + 명장 감독(신우석/돌고래유괴단) + 단편영화식 풀 크레딧·시네마스코프의 풀 시네마 브랜드필름",
+    "brand_fit_one_liner": "신세계는 매년 크리스마스 브랜드필름으로 화제를 만드는 리테일러 — 시네마틱 셀럽 단편이 자연스럽다"
+  },
+  "inferred_brief": "신세계 백화점 크리스마스 'NEW SANTA' 캠페인의 에필로그 필름. 셀럽(카리나)을 '새로운 산타'로 내세워 시즌 브랜드 무드를 영화적 단편으로 전달. 대중·가족·MZ 타깃, 톤은 시네마틱+위트+따뜻함. 핵심 메시지는 'New Santa' 세계관의 따뜻하고 위트있는 마무리.",
+  "cross_pollination_tags": {
+    "adjacent": [
+      "ecommerce",
+      "luxury",
+      "fashion"
+    ],
+    "distant": [
+      "finance",
+      "automotive",
+      "travel_tourism"
+    ],
+    "contrast": [
+      "industrial_b2b",
+      "it_saas",
+      "public_gov"
+    ]
+  }
+}

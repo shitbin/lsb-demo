@@ -152,6 +152,6 @@ analyzer entry(분석 스키마)와 treatment(제작 스키마)는 **키 이름�
 ## 6. 참조
 - entry/shots 상세 필드·vocabulary: `lsb-ad-analyzer/schema.md` + `lsb-treatment-builder/REFERENCE/cut-schema.md`
 - 영문 토큰·KO 별칭: `lsb-treatment-builder/REFERENCE/keyword-vocabulary.md`
-- 사고법·페이지 패턴: `lsb-treatment-builder/REFERENCE/keyword-vocabulary.md` (§8)
+- 사고법·페이지 패턴: `lsb-treatment-builder/REFERENCE/freewillusion-handbook.md`
 - 기획 논리 척추(strategy_spine 틀·QA): `lsb-treatment-builder/REFERENCE/deck-logic.md`
 - 덱 디자인·용도×톤 트랙·이미지수 결정표: `lsb-treatment-builder/REFERENCE/presentation-rules.md`

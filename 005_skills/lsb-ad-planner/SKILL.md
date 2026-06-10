@@ -238,7 +238,7 @@ def retrieve_references(brief, shot_type, DATASET, n=5):
 
 **confidence:** `inferred`면 추정값임을 알면서 사용(직접 인용 금지, 영감만). `human_verified`면 더 신뢰.
 
-**사고법 카탈로그(`lsb-treatment-builder/REFERENCE/keyword-vocabulary.md`):** 12 사고법 카탈로그를 데이터셋 빈약 시/보강용 시드로. 50+ entries 쌓이면 cross-pollination 우선.
+**프리윌루전 핸드북(`lsb-treatment-builder/REFERENCE/freewillusion-handbook.md`):** 12 사고법 카탈로그를 데이터셋 빈약 시/보강용 시드로. 50+ entries 쌓이면 cross-pollination 우선.
 
 ### STEP 3 — 후보 컨셉 3안 생성
 
@@ -292,7 +292,7 @@ builder 입력 스키마(`lsb-treatment-builder/scripts/cut_template.json` + `tr
 
 **(D) 카피 초안:** 데이터셋 카피 *감각*은 참고하되 원문을 단어만 바꾸지 말 것(표절). cross-pollination으로 다른 카테고리 표현 끌어와 새로. 핸드북 12 카피 패턴 매칭 명시.
 
-**길이·컷수 = 톤/장르별 페이싱으로 결정 (Q5 · 블랭킷 숫자 금지).** 역동·펀치 톤이면 1~3초 빠른 다컷, 럭셔리·감성이면 소수 롱컷. 길이별 권장 밴드: 15초 8~11컷 / 30초 14~21컷 / 45초 21~55컷 / 60초는 여유. 인접 컷은 화면크기·동작·장소가 서로 달라야 하고 같은 동작 반복은 최소화한다. (캠페인별 학습은 일반 규칙과 분리 — 예 "마시기 1회"는 그 세션 메모지 보편 규칙 아님.) 길이·종횡비가 브리프 사양(매체)에 맞는지 자가검증.
+**길이·컷수 = 톤/장르별 페이싱으로 결정 (Q5 · 블랭킷 숫자 금지).** 역동·펀치 톤이면 1~3초 빠른 다컷, 럭셔리·감성이면 소수 롱컷(30초 4컷도 정상). 인접 컷은 화면크기·동작·장소가 서로 달라야 하고 같은 동작 반복은 최소화한다. (캠페인별 학습은 일반 규칙과 분리 — 예 "마시기 1회"는 그 세션 메모지 보편 규칙 아님.) 길이·종횡비가 브리프 사양(매체)에 맞는지 자가검증.
 
 ### STEP 5 — 자가검사 (출력 전 필수)
 
@@ -332,8 +332,8 @@ builder 입력 스키마(`lsb-treatment-builder/scripts/cut_template.json` + `tr
 - **(R6)** 모델·기능이 "없다/안 된다"고 단정 금지 — 전체 목록·실제 응답으로 검증 후 발언, 지정 모델(GPT Image 2 등) 우선 확인.
 
 ---
-## 사고법 카탈로그 — 사용 가이드
-`lsb-treatment-builder/REFERENCE/keyword-vocabulary.md` 참조: 11 카테고리 / 12 사고법 / 12 카피 / 6대 디렉터 키워드 / 제품×비주얼 코드 매핑 / Runway / 광고주 협의 흔적 / 8 특수 패턴 / 페이지 구조.
+## 프리윌루전 사고법 핸드북 — 사용 가이드
+`lsb-treatment-builder/REFERENCE/freewillusion-handbook.md` 참조: 11 카테고리 / 12 사고법 / 12 카피 / 6대 디렉터 키워드 / 제품×비주얼 코드 매핑 / Runway / 광고주 협의 흔적 / 8 특수 패턴 / 페이지 구조.
 직접 참조: ① 데이터셋 빈약(<10) 시 시드 ② 카테고리 결정 ③ 컨셉 도출 ④ 카피 ⑤ 광고주 협의 흔적. 50+ entries면 cross-pollination 우선.
 
 ---

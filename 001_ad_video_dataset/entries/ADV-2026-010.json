@@ -1,0 +1,2278 @@
+{
+  "id": "ADV-2026-010",
+  "source_ref": {
+    "platform": "social_vertical",
+    "title_or_campaign": "check card celebrity kinetic-typo spot (배민×신한 collab, reference, abstracted)",
+    "brand": "(reference brand — abstracted)",
+    "product": "check card",
+    "model": "male celebrity (abstracted, not reproduced)",
+    "year": 2025,
+    "production_note": "vertical 9:16, 19.4s, 29.97fps; brand-blue/white; opening overhead dance + blur-zoom; jittering/pulsing kinetic typo; back-third staccato kick = color-invert full-screen word flashes (blue↔white) over POV retail montage, card always in frame; calm blue endcard",
+    "url": null
+  },
+  "category_primary": "finance.card",
+  "category_tags": [
+    "체크카드",
+    "셀럽",
+    "키네틱타이포",
+    "라이프스타일 몽타주"
+  ],
+  "mood": [
+    "energetic",
+    "youthful",
+    "confident",
+    "clean"
+  ],
+  "target_demo": "MZ 2030, trend-conscious, first card seekers",
+  "total_duration": 19.42,
+  "shot_count": 19,
+  "shot_count_corrected": 19,
+  "fps": 29.97,
+  "aspect_ratio": "9:16",
+  "hook_position": 0.0,
+  "cta_position": 17.5,
+  "narrative_arc": "Celebrity-fronted brand energy build (OOH + kinetic typo) -> card object reveal -> rapid first-person POV retail montage stamping benefit keywords across many real locations (the kick) -> calm blue end card with card + logo.",
+  "narrative_structure": "linear_continuous",
+  "pacing_curve": "slow_build_then_staccato_kick_then_release",
+  "music_tempo_curve": "ramp_up",
+  "wow_cut_index": [
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17
+  ],
+  "creative_device": "celebrity kinetic-typo brand hook front-loaded, then a staccato first-person POV montage that machine-guns benefit keywords across real retail locations as the energy kick, card always in hand",
+  "production_signature": {
+    "capture_style": "live_action",
+    "camera_signature": [
+      "handheld_shake",
+      "blur_zoom_transition",
+      "locked_off"
+    ],
+    "signature_note": "OPENING(0-1.2s)=overhead top-down of celebrity dancing energetically, then a fast motion-blur zoom transition. BUILD typo is NOT static: '신한'(blue)/'나사카'(white) JITTER and PULSE every frame (left-right wobble + size pulse). KICK(10-17.5s)=full-screen brand WORD flashes that COLOR-INVERT (blue bg↔white bg) cut to cut, over fast handheld first-person POV retail locations, white card held low. RELEASE=near-static blue endcard, card slowly rotating.",
+    "color_grade": "brand_color_dominant",
+    "texture_fx": "clean_digital"
+  },
+  "global_layout": {
+    "grid_system": "center",
+    "subject_placement_dominant": "center",
+    "subject_typo_relation": "typo_over_subject",
+    "negative_space_use": "generous",
+    "layout_note": "giant brand-blue/white kinetic Korean typo brackets the subject top and bottom in the build; in the kick, a single big blue keyword stamps centered over each POV location with the white card held low in frame"
+  },
+  "recurring_motifs": [
+    "giant kinetic Korean typography",
+    "brand-blue #1B4DE6-ish",
+    "white check card held in hand/POV",
+    "white tee + denim celebrity",
+    "real retail locations"
+  ],
+  "copywriting": {
+    "tagline_text": "단 하나로",
+    "tagline_structure": "phrase",
+    "tagline_length_syllables": 4,
+    "tagline_position_sec": 13.98,
+    "cta_text": "(brand+card lockup endcard)",
+    "cta_text_structure": "logo_lockup",
+    "cta_position_sec": 17.5,
+    "copy_tone": [
+      "punchy",
+      "confident"
+    ],
+    "copy_strategy": "brand-name kinetic chant + benefit keyword machine-gun (부터~까지, 다섯 개를, 단 하나로)",
+    "copy_lines_count": 6,
+    "lines": [
+      {
+        "position_sec": 0.0,
+        "text": "신한",
+        "function": "brand_chant",
+        "tone": "bold",
+        "source": "caption"
+      },
+      {
+        "position_sec": 1.9,
+        "text": "나사카",
+        "function": "brand_chant",
+        "tone": "bold",
+        "source": "caption"
+      },
+      {
+        "position_sec": 12.88,
+        "text": "다섯 개를",
+        "function": "benefit_keyword",
+        "tone": "punchy",
+        "source": "caption"
+      },
+      {
+        "position_sec": 13.98,
+        "text": "단 하나로",
+        "function": "benefit_keyword",
+        "tone": "punchy",
+        "source": "caption"
+      },
+      {
+        "position_sec": 15.22,
+        "text": "부터",
+        "function": "benefit_keyword",
+        "tone": "punchy",
+        "source": "caption"
+      },
+      {
+        "position_sec": 16.32,
+        "text": "까지",
+        "function": "benefit_keyword",
+        "tone": "punchy",
+        "source": "caption"
+      }
+    ],
+    "captions": [
+      {
+        "position_sec": 7.51,
+        "text": "신한나사카",
+        "function": "product_name"
+      }
+    ],
+    "narration_handling": "none"
+  },
+  "typography": {
+    "primary_font_class": "heavy_display_sans",
+    "secondary_font_class": "clean_sans",
+    "animation_style": [
+      "jitter_pulse",
+      "color_invert_flash",
+      "scale_in",
+      "pop",
+      "kinetic"
+    ],
+    "subtitle_position_dominant": "center",
+    "tagline_position": "center",
+    "color_strategy": "brand-blue fill / white alternating, frequently COLOR-INVERTING full-screen (blue bg with white word ↔ white bg with blue word); type jitters and pulses per frame",
+    "appearance_count": 12,
+    "key_typography_moments_sec": [
+      1.47,
+      1.9,
+      2.4,
+      10.4,
+      10.6,
+      12.0,
+      13.0,
+      14.0,
+      15.2,
+      16.3
+    ],
+    "typo_motion_dominant": "jitter_pulse_and_color_invert_flash"
+  },
+  "vfx": {
+    "primary_effects": [
+      "ui_motion",
+      "color_pop",
+      "color_invert_flash",
+      "3d_render",
+      "blur_zoom"
+    ],
+    "effect_intensity": "moderate",
+    "transition_style_dominant": "cut_with_blur_zoom_accents",
+    "vfx_event_count": 12,
+    "vfx_timing_array_sec": [
+      0,
+      1.9,
+      3.1,
+      7.5,
+      10.1,
+      12.9,
+      14,
+      15.2,
+      16.3,
+      17.5
+    ],
+    "wow_vfx_index": [
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ]
+  },
+  "audio": {
+    "has_audio": true,
+    "language": "ko",
+    "speech_coverage": null,
+    "bgm_likely": true,
+    "narration_lines": [],
+    "voice_vs_caption": "music+caption_led (no VO transcribed)",
+    "narration_handling": "none",
+    "transcribed_by": "none",
+    "audio_note": "faster-whisper install timed out in sandbox; ad is music+kinetic-caption led so narration likely minimal/none. Re-transcribe later if needed."
+  },
+  "frames_dir": null,
+  "contact_sheet_path": null,
+  "shots": [
+    {
+      "index": 1,
+      "duration": 1.9,
+      "framing": "ECU_overhead",
+      "function": "build",
+      "color_mood": "brand_blue_white",
+      "subject_action": "dances energetically with sharp arm gestures, flexing and pointing, looking up to the overhead camera — at an open dark asphalt ground seen from directly overhead (top-down bird's-eye)",
+      "copy_overlay": null,
+      "subject_identity": "celebrity_main",
+      "subject_relationship_to_protagonist": "main_character",
+      "layout_grid": "center",
+      "subject_position": "center",
+      "typo_motion": "kinetic_pop_stamp",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "varies",
+      "gaze": "to_camera",
+      "subject_motion": "pose_energetic",
+      "camera_motion": "locked_off",
+      "camera_motion_intensity": "low",
+      "camera_effect_local": "none",
+      "motion_blur": "none",
+      "intra_cut_rhythm": "static",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "notes": "rhythm=static; phase=build; dur=1.9s — 강약 곡선의 일부",
+      "fact_check_flag": false,
+      "visible_elements": {
+        "foreground": [
+          "the subject (white tee, denim, sunglasses)"
+        ],
+        "midground": [
+          "an open dark asphalt ground seen from directly overhead (top-down bird's-eye)"
+        ],
+        "background": [
+          "near-black wet-look asphalt with fine speckle"
+        ],
+        "lighting_env": [
+          "bright daylight"
+        ],
+        "atmosphere": [
+          "clean air"
+        ]
+      },
+      "texture": {
+        "primary_subject": "fabric_cotton",
+        "secondary_objects": [
+          "metal_chrome",
+          "denim",
+          "concrete"
+        ],
+        "background_surface": "concrete",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "top",
+        "key_hardness": "soft",
+        "key_color_temp": "cool_6500K",
+        "fill_strength": "moderate",
+        "key_to_fill_ratio": "3:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "soft",
+        "overall_contrast": "mid_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#1B4DE6",
+          "#FFFFFF",
+          "#2B2B2B"
+        ],
+        "palette_role": {
+          "#1B4DE6": "brand_blue_typo",
+          "#FFFFFF": "white_type_and_tee"
+        },
+        "color_relationship": "brand_dominant",
+        "temperature_balance": "cool_dominant",
+        "saturation_strategy": "vivid_blue_pop",
+        "contrast_type": "luminance_mid",
+        "accent_color": "#1B4DE6",
+        "accent_ratio": "30_percent",
+        "brand_color_match": [
+          "brand blue #1B4DE6"
+        ]
+      },
+      "style_prompt": "a Korean man in his twenties (abstracted everyday type dances energetically with sharp arm gestures at an open dark asphalt ground seen from directly overhead (top-down bird's-eye), giant brand-blue kinetic Korean typo, ECU_overhead, vivid blue/white, 9:16",
+      "recreation_prompts": {
+        "t2i_start_frame": "A vertical 9:16 frame: a Korean man in his twenties (abstracted everyday type, NOT a photo-likeness of any real celebrity), platinum-blond hair, slim silver wrap sunglasses, a fitted white tee, light-blue baggy denim, chunky silver chains, white sneakers, who dances energetically with sharp arm gestures, flexing and pointing, looking up to the overhead camera; the figure dances and poses with restless energetic motion, the camera handheld and fast; framed as ECU overhead. the white tee reads as soft cotton with light sheen, the denim as worn light-wash cotton, silver-metal chains and sunglasses, white leather sneakers; no visible brand logos on the clothing. The location is an open dark asphalt ground seen from directly overhead (top-down bird's-eye); this is one stop in a restless location-hopping montage where the same figure jumps between many real Korean places (overhead asphalt, helipad, rooftop billboard, mart storefront, concrete corridors, OTT/retail interiors, a convenience/electronics store, a department-store counter, and a downtown crosswalk). The figure occupies the foreground; no large on-screen typography in this beat. Lighting: cooler interior/practical light, soft, key roughly from top, neutral-to-cool color temperature, medium contrast. Lens/framing: ECU overhead, roughly a 24-35mm-equivalent wide feel for the wides and 50-85mm for the close-ups, with visible handheld energy. Composition centers the figure with the giant kinetic typography bracketing or overlapping behind/around them (near-black wet-look asphalt with fine speckle); restless framing, the subject usually centered with bold negative space for the type. Palette: a brand-blue dominant palette (electric blue around #1B4DE6 to #2B6BFF on the kinetic typography) against near-black wet-look asphalt with fine speckle; white #FFFFFF type alternating; saturation vivid on the blue, the rest natural. Textures: soft cotton tee, worn light-wash denim, chrome sunglasses and silver chains, and the surface of near-black wet-look asphalt with fine speckle. Atmosphere: bold, youthful, energetic, clean air. Post/signature: clean digital grade, brand-blue dominant; the kinetic typography jitters and pulses per frame; light film grain. Style anchor: clean 4K commercial look, contemporary Korean street-fashion music-video energy, vivid and kinetic, vertical 9:16. The human figure is an anonymous everyday Korean type, never a photographic likeness of a real celebrity, and no real brand logos appear except the on-screen Korean campaign words which are kept verbatim. Additional reconstruction detail: the brand-blue kinetic type sits at electric blue #1B4DE6 to #2B6BFF, the tee and alternate type at pure white #FFFFFF, ground and shadows at near-black #2B2B2B; the figure's styling stays identical across every location (platinum-blond hair, silver wrap sunglasses, fitted white tee, light-wash baggy denim, silver chains, white sneakers) so the rapid location jumps still read as one continuous character; camera energy is handheld with fast whip transitions between stops; the typography jitter is a few-pixel per-frame left-right wobble plus a subtle scale pulse, and in the back-third kick the entire frame hard-flashes between a blue field with white word and a white field with blue word on the musical beat; all Korean on-screen words are preserved verbatim and composited in post; the figure is an anonymous everyday Korean man in his twenties, not a likeness of any real person, and the only branding is the on-screen campaign typography, framed for a vertical 9:16 short-form delivery at clean 4K commercial quality.",
+        "t2i_negative": "photographic likeness of a real celebrity, real brand logos/marks (except on-screen campaign words), watermark, garbled text, romanized korean, deformed face, extra fingers, low quality",
+        "i2v_motion": "The figure dances/poses with sharp energetic motion; camera handheld and fast; the kinetic Korean word jitters left-right a few pixels and pulses in size every frame; energetic hold; ~1.9s.",
+        "i2v_params": {
+          "clip_duration_sec": 1.9,
+          "camera_move": "handheld",
+          "subject_motion_level": "dynamic",
+          "signature_effect": "jitter_pulse",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; figure abstracted (no real-celebrity likeness); on-screen Korean words verbatim; card design kept; logo mark generic except endcard lockup (session note)"
+      }
+    },
+    {
+      "index": 2,
+      "duration": 1.2,
+      "framing": "WS",
+      "function": "build",
+      "color_mood": "brand_blue_white",
+      "subject_action": "poses mid-motion, one arm up — at a city rooftop / building exterior against bright sky",
+      "copy_overlay": "신한 / 나사카",
+      "subject_identity": "celebrity_main",
+      "subject_relationship_to_protagonist": "main_character",
+      "layout_grid": "center",
+      "subject_position": "center",
+      "typo_motion": "kinetic_pop_stamp",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "varies",
+      "gaze": "to_camera",
+      "subject_motion": "pose_energetic",
+      "camera_motion": "locked_off",
+      "camera_motion_intensity": "low",
+      "camera_effect_local": "none",
+      "motion_blur": "none",
+      "intra_cut_rhythm": "steady",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "notes": "rhythm=steady; phase=build; dur=1.2s — 강약 곡선의 일부",
+      "fact_check_flag": false,
+      "visible_elements": {
+        "foreground": [
+          "the subject (white tee, denim, sunglasses)"
+        ],
+        "midground": [
+          "a city rooftop / building exterior against bright sky"
+        ],
+        "background": [
+          "bright daylight sky and grey building facade"
+        ],
+        "lighting_env": [
+          "bright daylight"
+        ],
+        "atmosphere": [
+          "clean air"
+        ]
+      },
+      "texture": {
+        "primary_subject": "fabric_cotton",
+        "secondary_objects": [
+          "metal_chrome",
+          "denim",
+          "glass_clear"
+        ],
+        "background_surface": "mixed",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "front_45deg",
+        "key_hardness": "hard",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "moderate",
+        "key_to_fill_ratio": "3:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "hard",
+        "overall_contrast": "mid_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#1B4DE6",
+          "#FFFFFF",
+          "#2B2B2B"
+        ],
+        "palette_role": {
+          "#1B4DE6": "brand_blue_typo",
+          "#FFFFFF": "white_type_and_tee"
+        },
+        "color_relationship": "brand_dominant",
+        "temperature_balance": "cool_dominant",
+        "saturation_strategy": "vivid_blue_pop",
+        "contrast_type": "luminance_mid",
+        "accent_color": "#1B4DE6",
+        "accent_ratio": "30_percent",
+        "brand_color_match": [
+          "brand blue #1B4DE6"
+        ]
+      },
+      "style_prompt": "a Korean man in his twenties (abstracted everyday type poses mid-motion at a city rooftop / building exterior against bright sky, giant brand-blue kinetic Korean typo, WS, vivid blue/white, 9:16",
+      "recreation_prompts": {
+        "t2i_start_frame": "A vertical 9:16 frame: a Korean man in his twenties (abstracted everyday type, NOT a photo-likeness of any real celebrity), platinum-blond hair, slim silver wrap sunglasses, a fitted white tee, light-blue baggy denim, chunky silver chains, white sneakers, who poses mid-motion, one arm up; the figure dances and poses with restless energetic motion, the camera handheld and fast; framed as WS. the white tee reads as soft cotton with light sheen, the denim as worn light-wash cotton, silver-metal chains and sunglasses, white leather sneakers; no visible brand logos on the clothing. The location is a city rooftop / building exterior against bright sky; this is one stop in a restless location-hopping montage where the same figure jumps between many real Korean places (overhead asphalt, helipad, rooftop billboard, mart storefront, concrete corridors, OTT/retail interiors, a convenience/electronics store, a department-store counter, and a downtown crosswalk). The figure occupies the foreground; a giant brand-blue kinetic Korean word “신한 / 나사카” fills a large part of the frame as motion typography that JITTERS a few pixels left-right and PULSES in size every frame (and in the kick section the whole frame COLOR-INVERTS between a blue background with white lettering and a white background with blue lettering); the on-screen Korean text is preserved verbatim and finalized in post. Lighting: hard bright daylight with strong shadows, key roughly from a 45-degree front angle, neutral-to-cool color temperature, medium contrast. Lens/framing: WS, roughly a 24-35mm-equivalent wide feel for the wides and 50-85mm for the close-ups, with visible handheld energy. Composition centers the figure with the giant kinetic typography bracketing or overlapping behind/around them (bright daylight sky and grey building facade); restless framing, the subject usually centered with bold negative space for the type. Palette: a brand-blue dominant palette (electric blue around #1B4DE6 to #2B6BFF on the kinetic typography) against bright daylight sky and grey building facade; white #FFFFFF type alternating; saturation vivid on the blue, the rest natural. Textures: soft cotton tee, worn light-wash denim, chrome sunglasses and silver chains, and the surface of bright daylight sky and grey building facade. Atmosphere: bold, youthful, energetic, clean air. Post/signature: clean digital grade, brand-blue dominant; the kinetic typography jitters and pulses per frame; light film grain. Style anchor: clean 4K commercial look, contemporary Korean street-fashion music-video energy, vivid and kinetic, vertical 9:16. The human figure is an anonymous everyday Korean type, never a photographic likeness of a real celebrity, and no real brand logos appear except the on-screen Korean campaign words which are kept verbatim. Additional reconstruction detail: the brand-blue kinetic type sits at electric blue #1B4DE6 to #2B6BFF, the tee and alternate type at pure white #FFFFFF, ground and shadows at near-black #2B2B2B; the figure's styling stays identical across every location (platinum-blond hair, silver wrap sunglasses, fitted white tee, light-wash baggy denim, silver chains, white sneakers) so the rapid location jumps still read as one continuous character; camera energy is handheld with fast whip transitions between stops; the typography jitter is a few-pixel per-frame left-right wobble plus a subtle scale pulse, and in the back-third kick the entire frame hard-flashes between a blue field with white word and a white field with blue word on the musical beat; all Korean on-screen words are preserved verbatim and composited in post; the figure is an anonymous everyday Korean man in his twenties, not a likeness of any real person, and the only branding is the on-screen campaign typography, framed for a vertical 9:16 short-form delivery at clean 4K commercial quality.",
+        "t2i_negative": "photographic likeness of a real celebrity, real brand logos/marks (except on-screen campaign words), watermark, garbled text, romanized korean, deformed face, extra fingers, low quality",
+        "i2v_motion": "The figure dances/poses with sharp energetic motion; camera handheld and fast; the kinetic Korean word jitters left-right a few pixels and pulses in size every frame; energetic hold; ~1.2s.",
+        "i2v_params": {
+          "clip_duration_sec": 1.2,
+          "camera_move": "handheld",
+          "subject_motion_level": "dynamic",
+          "signature_effect": "jitter_pulse",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; figure abstracted (no real-celebrity likeness); on-screen Korean words verbatim; card design kept; logo mark generic except endcard lockup (session note)"
+      }
+    },
+    {
+      "index": 3,
+      "duration": 1.1,
+      "framing": "MS",
+      "function": "build",
+      "color_mood": "brand_blue_white",
+      "subject_action": "points straight at the lens, confident — at a helipad rooftop (large H mark and distance ruler markings '10 5'), seen through a round telescope-style vignette",
+      "copy_overlay": null,
+      "subject_identity": "celebrity_main",
+      "subject_relationship_to_protagonist": "main_character",
+      "layout_grid": "center",
+      "subject_position": "center",
+      "typo_motion": "kinetic_pop_stamp",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "varies",
+      "gaze": "to_camera",
+      "subject_motion": "pose_energetic",
+      "camera_motion": "locked_off",
+      "camera_motion_intensity": "low",
+      "camera_effect_local": "none",
+      "motion_blur": "none",
+      "intra_cut_rhythm": "steady",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "notes": "rhythm=steady; phase=build; dur=1.1s — 강약 곡선의 일부",
+      "fact_check_flag": false,
+      "visible_elements": {
+        "foreground": [
+          "the subject (white tee, denim, sunglasses)"
+        ],
+        "midground": [
+          "a helipad rooftop (large H mark and distance ruler markings '10 5'), seen through a round telescope-style vignette"
+        ],
+        "background": [
+          "grey-green helipad surface with white H lines and yellow stripe"
+        ],
+        "lighting_env": [
+          "bright daylight"
+        ],
+        "atmosphere": [
+          "clean air"
+        ]
+      },
+      "texture": {
+        "primary_subject": "fabric_cotton",
+        "secondary_objects": [
+          "metal_chrome",
+          "denim",
+          "glass_clear"
+        ],
+        "background_surface": "mixed",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "front_45deg",
+        "key_hardness": "soft",
+        "key_color_temp": "cool_6500K",
+        "fill_strength": "moderate",
+        "key_to_fill_ratio": "3:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "soft",
+        "overall_contrast": "mid_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#1B4DE6",
+          "#FFFFFF",
+          "#2B2B2B"
+        ],
+        "palette_role": {
+          "#1B4DE6": "brand_blue_typo",
+          "#FFFFFF": "white_type_and_tee"
+        },
+        "color_relationship": "brand_dominant",
+        "temperature_balance": "cool_dominant",
+        "saturation_strategy": "vivid_blue_pop",
+        "contrast_type": "luminance_mid",
+        "accent_color": "#1B4DE6",
+        "accent_ratio": "30_percent",
+        "brand_color_match": [
+          "brand blue #1B4DE6"
+        ]
+      },
+      "style_prompt": "a Korean man in his twenties (abstracted everyday type points straight at the lens at a helipad rooftop (large H mark and distance ruler markings '10 5'), seen through a round telescope-style vignette, giant brand-blue kinetic Korean typo, MS, vivid blue/white, 9:16",
+      "recreation_prompts": {
+        "t2i_start_frame": "A vertical 9:16 frame: a Korean man in his twenties (abstracted everyday type, NOT a photo-likeness of any real celebrity), platinum-blond hair, slim silver wrap sunglasses, a fitted white tee, light-blue baggy denim, chunky silver chains, white sneakers, who points straight at the lens, confident; the figure dances and poses with restless energetic motion, the camera handheld and fast; framed as MS. the white tee reads as soft cotton with light sheen, the denim as worn light-wash cotton, silver-metal chains and sunglasses, white leather sneakers; no visible brand logos on the clothing. The location is a helipad rooftop (large H mark and distance ruler markings '10 5'), seen through a round telescope-style vignette; this is one stop in a restless location-hopping montage where the same figure jumps between many real Korean places (overhead asphalt, helipad, rooftop billboard, mart storefront, concrete corridors, OTT/retail interiors, a convenience/electronics store, a department-store counter, and a downtown crosswalk). The figure occupies the foreground; no large on-screen typography in this beat. Lighting: cooler interior/practical light, soft, key roughly from a 45-degree front angle, neutral-to-cool color temperature, medium contrast. Lens/framing: MS, a round telescope-style vignette darkening the edges, roughly a 24-35mm-equivalent wide feel for the wides and 50-85mm for the close-ups, with visible handheld energy. Composition centers the figure with the giant kinetic typography bracketing or overlapping behind/around them (grey-green helipad surface with white H lines and yellow stripe); restless framing, the subject usually centered with bold negative space for the type. Palette: a brand-blue dominant palette (electric blue around #1B4DE6 to #2B6BFF on the kinetic typography) against grey-green helipad surface with white H lines and yellow stripe; white #FFFFFF type alternating; saturation vivid on the blue, the rest natural. Textures: soft cotton tee, worn light-wash denim, chrome sunglasses and silver chains, and the surface of grey-green helipad surface with white H lines and yellow stripe. Atmosphere: bold, youthful, energetic, clean air. Post/signature: clean digital grade, brand-blue dominant; the kinetic typography jitters and pulses per frame; light film grain. Style anchor: clean 4K commercial look, contemporary Korean street-fashion music-video energy, vivid and kinetic, vertical 9:16. The human figure is an anonymous everyday Korean type, never a photographic likeness of a real celebrity, and no real brand logos appear except the on-screen Korean campaign words which are kept verbatim. Additional reconstruction detail: the brand-blue kinetic type sits at electric blue #1B4DE6 to #2B6BFF, the tee and alternate type at pure white #FFFFFF, ground and shadows at near-black #2B2B2B; the figure's styling stays identical across every location (platinum-blond hair, silver wrap sunglasses, fitted white tee, light-wash baggy denim, silver chains, white sneakers) so the rapid location jumps still read as one continuous character; camera energy is handheld with fast whip transitions between stops; the typography jitter is a few-pixel per-frame left-right wobble plus a subtle scale pulse, and in the back-third kick the entire frame hard-flashes between a blue field with white word and a white field with blue word on the musical beat; all Korean on-screen words are preserved verbatim and composited in post; the figure is an anonymous everyday Korean man in his twenties, not a likeness of any real person, and the only branding is the on-screen campaign typography, framed for a vertical 9:16 short-form delivery at clean 4K commercial quality.",
+        "t2i_negative": "photographic likeness of a real celebrity, real brand logos/marks (except on-screen campaign words), watermark, garbled text, romanized korean, deformed face, extra fingers, low quality",
+        "i2v_motion": "The figure dances/poses with sharp energetic motion; camera handheld and fast; the kinetic Korean word jitters left-right a few pixels and pulses in size every frame; energetic hold; ~1.1s.",
+        "i2v_params": {
+          "clip_duration_sec": 1.1,
+          "camera_move": "handheld",
+          "subject_motion_level": "dynamic",
+          "signature_effect": "jitter_pulse",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; figure abstracted (no real-celebrity likeness); on-screen Korean words verbatim; card design kept; logo mark generic except endcard lockup (session note)"
+      }
+    },
+    {
+      "index": 4,
+      "duration": 1.51,
+      "framing": "WS",
+      "function": "build",
+      "color_mood": "brand_blue_white",
+      "subject_action": "stands wide, hands loose, on a giant LED billboard — at the city rooftop billboard / OOH screen with the subject displayed on it against sky",
+      "copy_overlay": "신한 / 나사카",
+      "subject_identity": "celebrity_main",
+      "subject_relationship_to_protagonist": "main_character",
+      "layout_grid": "center",
+      "subject_position": "center",
+      "typo_motion": "kinetic_pop_stamp",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "varies",
+      "gaze": "to_camera",
+      "subject_motion": "pose_energetic",
+      "camera_motion": "locked_off",
+      "camera_motion_intensity": "low",
+      "camera_effect_local": "none",
+      "motion_blur": "none",
+      "intra_cut_rhythm": "steady",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "notes": "rhythm=steady; phase=build; dur=1.51s — 강약 곡선의 일부",
+      "fact_check_flag": false,
+      "visible_elements": {
+        "foreground": [
+          "the subject (white tee, denim, sunglasses)"
+        ],
+        "midground": [
+          "the city rooftop billboard / OOH screen with the subject displayed on it against sky"
+        ],
+        "background": [
+          "blue sky, building facade, LED billboard"
+        ],
+        "lighting_env": [
+          "bright daylight"
+        ],
+        "atmosphere": [
+          "clean air"
+        ]
+      },
+      "texture": {
+        "primary_subject": "fabric_cotton",
+        "secondary_objects": [
+          "metal_chrome",
+          "denim",
+          "glass_clear"
+        ],
+        "background_surface": "mixed",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "front_45deg",
+        "key_hardness": "hard",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "moderate",
+        "key_to_fill_ratio": "3:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "soft",
+        "overall_contrast": "mid_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#1B4DE6",
+          "#FFFFFF",
+          "#2B2B2B"
+        ],
+        "palette_role": {
+          "#1B4DE6": "brand_blue_typo",
+          "#FFFFFF": "white_type_and_tee"
+        },
+        "color_relationship": "brand_dominant",
+        "temperature_balance": "cool_dominant",
+        "saturation_strategy": "vivid_blue_pop",
+        "contrast_type": "luminance_mid",
+        "accent_color": "#1B4DE6",
+        "accent_ratio": "30_percent",
+        "brand_color_match": [
+          "brand blue #1B4DE6"
+        ]
+      },
+      "style_prompt": "a Korean man in his twenties (abstracted everyday type stands wide at the city rooftop billboard / OOH screen with the subject displayed on it against sky, giant brand-blue kinetic Korean typo, WS, vivid blue/white, 9:16",
+      "recreation_prompts": {
+        "t2i_start_frame": "A vertical 9:16 frame: a Korean man in his twenties (abstracted everyday type, NOT a photo-likeness of any real celebrity), platinum-blond hair, slim silver wrap sunglasses, a fitted white tee, light-blue baggy denim, chunky silver chains, white sneakers, who stands wide, hands loose, on a giant LED billboard; the figure dances and poses with restless energetic motion, the camera handheld and fast; framed as WS. the white tee reads as soft cotton with light sheen, the denim as worn light-wash cotton, silver-metal chains and sunglasses, white leather sneakers; no visible brand logos on the clothing. The location is the city rooftop billboard / OOH screen with the subject displayed on it against sky; this is one stop in a restless location-hopping montage where the same figure jumps between many real Korean places (overhead asphalt, helipad, rooftop billboard, mart storefront, concrete corridors, OTT/retail interiors, a convenience/electronics store, a department-store counter, and a downtown crosswalk). The figure occupies the foreground; a giant brand-blue kinetic Korean word “신한 / 나사카” fills a large part of the frame as motion typography that JITTERS a few pixels left-right and PULSES in size every frame (and in the kick section the whole frame COLOR-INVERTS between a blue background with white lettering and a white background with blue lettering); the on-screen Korean text is preserved verbatim and finalized in post. Lighting: hard bright daylight with strong shadows, key roughly from a 45-degree front angle, neutral-to-cool color temperature, medium contrast. Lens/framing: WS, roughly a 24-35mm-equivalent wide feel for the wides and 50-85mm for the close-ups, with visible handheld energy. Composition centers the figure with the giant kinetic typography bracketing or overlapping behind/around them (blue sky, building facade, LED billboard); restless framing, the subject usually centered with bold negative space for the type. Palette: a brand-blue dominant palette (electric blue around #1B4DE6 to #2B6BFF on the kinetic typography) against blue sky, building facade, LED billboard; white #FFFFFF type alternating; saturation vivid on the blue, the rest natural. Textures: soft cotton tee, worn light-wash denim, chrome sunglasses and silver chains, and the surface of blue sky, building facade, LED billboard. Atmosphere: bold, youthful, energetic, clean air. Post/signature: clean digital grade, brand-blue dominant; the kinetic typography jitters and pulses per frame; light film grain. Style anchor: clean 4K commercial look, contemporary Korean street-fashion music-video energy, vivid and kinetic, vertical 9:16. The human figure is an anonymous everyday Korean type, never a photographic likeness of a real celebrity, and no real brand logos appear except the on-screen Korean campaign words which are kept verbatim. Additional reconstruction detail: the brand-blue kinetic type sits at electric blue #1B4DE6 to #2B6BFF, the tee and alternate type at pure white #FFFFFF, ground and shadows at near-black #2B2B2B; the figure's styling stays identical across every location (platinum-blond hair, silver wrap sunglasses, fitted white tee, light-wash baggy denim, silver chains, white sneakers) so the rapid location jumps still read as one continuous character; camera energy is handheld with fast whip transitions between stops; the typography jitter is a few-pixel per-frame left-right wobble plus a subtle scale pulse, and in the back-third kick the entire frame hard-flashes between a blue field with white word and a white field with blue word on the musical beat; all Korean on-screen words are preserved verbatim and composited in post; the figure is an anonymous everyday Korean man in his twenties, not a likeness of any real person, and the only branding is the on-screen campaign typography, framed for a vertical 9:16 short-form delivery at clean 4K commercial quality.",
+        "t2i_negative": "photographic likeness of a real celebrity, real brand logos/marks (except on-screen campaign words), watermark, garbled text, romanized korean, deformed face, extra fingers, low quality",
+        "i2v_motion": "The figure dances/poses with sharp energetic motion; camera handheld and fast; the kinetic Korean word jitters left-right a few pixels and pulses in size every frame; energetic hold; ~1.51s.",
+        "i2v_params": {
+          "clip_duration_sec": 1.51,
+          "camera_move": "handheld",
+          "subject_motion_level": "dynamic",
+          "signature_effect": "jitter_pulse",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; figure abstracted (no real-celebrity likeness); on-screen Korean words verbatim; card design kept; logo mark generic except endcard lockup (session note)"
+      }
+    },
+    {
+      "index": 5,
+      "duration": 1.8,
+      "framing": "MCU",
+      "function": "build_to_setup",
+      "color_mood": "brand_blue_white",
+      "subject_action": "leans in close to camera, intense — at an OTT / lifestyle interior with large 'OTT' kinetic text behind",
+      "copy_overlay": "OTT",
+      "subject_identity": "celebrity_main",
+      "subject_relationship_to_protagonist": "main_character",
+      "layout_grid": "center",
+      "subject_position": "center",
+      "typo_motion": "kinetic_pop_stamp",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "varies",
+      "gaze": "to_camera",
+      "subject_motion": "pose_energetic",
+      "camera_motion": "locked_off",
+      "camera_motion_intensity": "low",
+      "camera_effect_local": "none",
+      "motion_blur": "none",
+      "intra_cut_rhythm": "static",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "notes": "rhythm=static; phase=build_to_setup; dur=1.8s — 강약 곡선의 일부",
+      "fact_check_flag": false,
+      "visible_elements": {
+        "foreground": [
+          "the subject (white tee, denim, sunglasses)"
+        ],
+        "midground": [
+          "an OTT / lifestyle interior with large 'OTT' kinetic text behind"
+        ],
+        "background": [
+          "cool grey interior with backlit text"
+        ],
+        "lighting_env": [
+          "interior/practical lighting"
+        ],
+        "atmosphere": [
+          "clean air"
+        ]
+      },
+      "texture": {
+        "primary_subject": "fabric_cotton",
+        "secondary_objects": [
+          "metal_chrome",
+          "denim",
+          "glass_clear"
+        ],
+        "background_surface": "mixed",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "front_45deg",
+        "key_hardness": "soft",
+        "key_color_temp": "cool_6500K",
+        "fill_strength": "moderate",
+        "key_to_fill_ratio": "3:1",
+        "rim_light": false,
+        "practical_lights": [
+          "store lights"
+        ],
+        "shadow_presence": "soft",
+        "overall_contrast": "mid_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#1B4DE6",
+          "#FFFFFF",
+          "#2B2B2B"
+        ],
+        "palette_role": {
+          "#1B4DE6": "brand_blue_typo",
+          "#FFFFFF": "white_type_and_tee"
+        },
+        "color_relationship": "brand_dominant",
+        "temperature_balance": "cool_dominant",
+        "saturation_strategy": "vivid_blue_pop",
+        "contrast_type": "luminance_mid",
+        "accent_color": "#1B4DE6",
+        "accent_ratio": "30_percent",
+        "brand_color_match": [
+          "brand blue #1B4DE6"
+        ]
+      },
+      "style_prompt": "a Korean man in his twenties (abstracted everyday type leans in close to camera at an OTT / lifestyle interior with large 'OTT' kinetic text behind, giant brand-blue kinetic Korean typo, MCU, vivid blue/white, 9:16",
+      "recreation_prompts": {
+        "t2i_start_frame": "A vertical 9:16 frame: a Korean man in his twenties (abstracted everyday type, NOT a photo-likeness of any real celebrity), platinum-blond hair, slim silver wrap sunglasses, a fitted white tee, light-blue baggy denim, chunky silver chains, white sneakers, who leans in close to camera, intense; near-still, calm; framed as MCU. the white tee reads as soft cotton with light sheen, the denim as worn light-wash cotton, silver-metal chains and sunglasses, white leather sneakers; no visible brand logos on the clothing. The location is an OTT / lifestyle interior with large 'OTT' kinetic text behind; this is one stop in a restless location-hopping montage where the same figure jumps between many real Korean places (overhead asphalt, helipad, rooftop billboard, mart storefront, concrete corridors, OTT/retail interiors, a convenience/electronics store, a department-store counter, and a downtown crosswalk). The figure occupies the foreground; a giant brand-blue kinetic Korean word “OTT” fills a large part of the frame as motion typography that JITTERS a few pixels left-right and PULSES in size every frame (and in the kick section the whole frame COLOR-INVERTS between a blue background with white lettering and a white background with blue lettering); the on-screen Korean text is preserved verbatim and finalized in post. Lighting: cooler interior/practical light, soft, key roughly from a 45-degree front angle, neutral-to-cool color temperature, medium contrast. Lens/framing: MCU, roughly a 24-35mm-equivalent wide feel for the wides and 50-85mm for the close-ups, with visible handheld energy. Composition centers the figure with the giant kinetic typography bracketing or overlapping behind/around them (cool grey interior with backlit text); restless framing, the subject usually centered with bold negative space for the type. Palette: a brand-blue dominant palette (electric blue around #1B4DE6 to #2B6BFF on the kinetic typography) against cool grey interior with backlit text; white #FFFFFF type alternating; saturation vivid on the blue, the rest natural. Textures: soft cotton tee, worn light-wash denim, chrome sunglasses and silver chains, and the surface of cool grey interior with backlit text. Atmosphere: bold, youthful, energetic, clean air. Post/signature: clean digital grade, brand-blue dominant; the kinetic typography jitters and pulses per frame; light film grain. Style anchor: clean 4K commercial look, contemporary Korean street-fashion music-video energy, vivid and kinetic, vertical 9:16. The human figure is an anonymous everyday Korean type, never a photographic likeness of a real celebrity, and no real brand logos appear except the on-screen Korean campaign words which are kept verbatim. Additional reconstruction detail: the brand-blue kinetic type sits at electric blue #1B4DE6 to #2B6BFF, the tee and alternate type at pure white #FFFFFF, ground and shadows at near-black #2B2B2B; the figure's styling stays identical across every location (platinum-blond hair, silver wrap sunglasses, fitted white tee, light-wash baggy denim, silver chains, white sneakers) so the rapid location jumps still read as one continuous character; camera energy is handheld with fast whip transitions between stops; the typography jitter is a few-pixel per-frame left-right wobble plus a subtle scale pulse, and in the back-third kick the entire frame hard-flashes between a blue field with white word and a white field with blue word on the musical beat; all Korean on-screen words are preserved verbatim and composited in post; the figure is an anonymous everyday Korean man in his twenties, not a likeness of any real person, and the only branding is the on-screen campaign typography, framed for a vertical 9:16 short-form delivery at clean 4K commercial quality.",
+        "t2i_negative": "photographic likeness of a real celebrity, real brand logos/marks (except on-screen campaign words), watermark, garbled text, romanized korean, deformed face, extra fingers, low quality",
+        "i2v_motion": "Near-still, calm; the kinetic Korean word jitters left-right a few pixels and pulses in size every frame; energetic hold; ~1.8s.",
+        "i2v_params": {
+          "clip_duration_sec": 1.8,
+          "camera_move": "locked_off",
+          "subject_motion_level": "still",
+          "signature_effect": "jitter_pulse",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; figure abstracted (no real-celebrity likeness); on-screen Korean words verbatim; card design kept; logo mark generic except endcard lockup (session note)"
+      }
+    },
+    {
+      "index": 6,
+      "duration": 2.57,
+      "framing": "MS_full",
+      "function": "setup_hold",
+      "color_mood": "brand_blue_white",
+      "subject_action": "leans against the wall casually, one leg crossed — at in front of a mart storefront ('WA Mart', 에스원/SECOM signage)",
+      "copy_overlay": "캐시백",
+      "subject_identity": "none_environment",
+      "subject_relationship_to_protagonist": "extra_atmosphere",
+      "layout_grid": "center",
+      "subject_position": "center",
+      "typo_motion": "kinetic_pop_stamp",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "varies",
+      "gaze": "none",
+      "subject_motion": "hold",
+      "camera_motion": "handheld",
+      "camera_motion_intensity": "moderate",
+      "camera_effect_local": "none",
+      "motion_blur": "none",
+      "intra_cut_rhythm": "static",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "notes": "rhythm=static; phase=setup_hold; dur=2.57s — 강약 곡선의 일부",
+      "fact_check_flag": false,
+      "visible_elements": {
+        "foreground": [
+          "the subject (white tee, denim, sunglasses)"
+        ],
+        "midground": [
+          "in front of a mart storefront ('WA Mart', 에스원/SECOM signage)"
+        ],
+        "background": [
+          "teal mart sign, glass auto-doors, concrete wall"
+        ],
+        "lighting_env": [
+          "interior/practical lighting"
+        ],
+        "atmosphere": [
+          "clean air"
+        ]
+      },
+      "texture": {
+        "primary_subject": "fabric_cotton",
+        "secondary_objects": [
+          "metal_chrome",
+          "denim",
+          "concrete"
+        ],
+        "background_surface": "concrete",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "front_45deg",
+        "key_hardness": "soft",
+        "key_color_temp": "cool_6500K",
+        "fill_strength": "moderate",
+        "key_to_fill_ratio": "3:1",
+        "rim_light": false,
+        "practical_lights": [
+          "store lights"
+        ],
+        "shadow_presence": "soft",
+        "overall_contrast": "mid_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#1B4DE6",
+          "#FFFFFF",
+          "#2B2B2B"
+        ],
+        "palette_role": {
+          "#1B4DE6": "brand_blue_typo",
+          "#FFFFFF": "white_type_and_tee"
+        },
+        "color_relationship": "brand_dominant",
+        "temperature_balance": "cool_dominant",
+        "saturation_strategy": "vivid_blue_pop",
+        "contrast_type": "luminance_mid",
+        "accent_color": "#1B4DE6",
+        "accent_ratio": "30_percent",
+        "brand_color_match": [
+          "brand blue #1B4DE6"
+        ]
+      },
+      "style_prompt": "a Korean man in his twenties (abstracted everyday type leans against the wall casually at in front of a mart storefront ('WA Mart', 에스원/SECOM signage), giant brand-blue kinetic Korean typo, MS_full, vivid blue/white, 9:16",
+      "recreation_prompts": {
+        "t2i_start_frame": "A vertical 9:16 frame: a Korean man in his twenties (abstracted everyday type, NOT a photo-likeness of any real celebrity), platinum-blond hair, slim silver wrap sunglasses, a fitted white tee, light-blue baggy denim, chunky silver chains, white sneakers, who leans against the wall casually, one leg crossed; near-still, calm; framed as MS full. the white tee reads as soft cotton with light sheen, the denim as worn light-wash cotton, silver-metal chains and sunglasses, white leather sneakers; no visible brand logos on the clothing. The location is in front of a mart storefront ('WA Mart', 에스원/SECOM signage); this is one stop in a restless location-hopping montage where the same figure jumps between many real Korean places (overhead asphalt, helipad, rooftop billboard, mart storefront, concrete corridors, OTT/retail interiors, a convenience/electronics store, a department-store counter, and a downtown crosswalk). The figure occupies the foreground; a giant brand-blue kinetic Korean word “캐시백” fills a large part of the frame as motion typography that JITTERS a few pixels left-right and PULSES in size every frame (and in the kick section the whole frame COLOR-INVERTS between a blue background with white lettering and a white background with blue lettering); the on-screen Korean text is preserved verbatim and finalized in post. Lighting: cooler interior/practical light, soft, key roughly from a 45-degree front angle, neutral-to-cool color temperature, medium contrast. Lens/framing: MS full, roughly a 24-35mm-equivalent wide feel for the wides and 50-85mm for the close-ups, with visible handheld energy. Composition centers the figure with the giant kinetic typography bracketing or overlapping behind/around them (teal mart sign, glass auto-doors, concrete wall); restless framing, the subject usually centered with bold negative space for the type. Palette: a brand-blue dominant palette (electric blue around #1B4DE6 to #2B6BFF on the kinetic typography) against teal mart sign, glass auto-doors, concrete wall; white #FFFFFF type alternating; saturation vivid on the blue, the rest natural. Textures: soft cotton tee, worn light-wash denim, chrome sunglasses and silver chains, and the surface of teal mart sign, glass auto-doors, concrete wall. Atmosphere: bold, youthful, energetic, clean air. Post/signature: clean digital grade, brand-blue dominant; the kinetic typography jitters and pulses per frame; light film grain. Style anchor: clean 4K commercial look, contemporary Korean street-fashion music-video energy, vivid and kinetic, vertical 9:16. The human figure is an anonymous everyday Korean type, never a photographic likeness of a real celebrity, and no real brand logos appear except the on-screen Korean campaign words which are kept verbatim. Additional reconstruction detail: the brand-blue kinetic type sits at electric blue #1B4DE6 to #2B6BFF, the tee and alternate type at pure white #FFFFFF, ground and shadows at near-black #2B2B2B; the figure's styling stays identical across every location (platinum-blond hair, silver wrap sunglasses, fitted white tee, light-wash baggy denim, silver chains, white sneakers) so the rapid location jumps still read as one continuous character; camera energy is handheld with fast whip transitions between stops; the typography jitter is a few-pixel per-frame left-right wobble plus a subtle scale pulse, and in the back-third kick the entire frame hard-flashes between a blue field with white word and a white field with blue word on the musical beat; all Korean on-screen words are preserved verbatim and composited in post; the figure is an anonymous everyday Korean man in his twenties, not a likeness of any real person, and the only branding is the on-screen campaign typography, framed for a vertical 9:16 short-form delivery at clean 4K commercial quality.",
+        "t2i_negative": "photographic likeness of a real celebrity, real brand logos/marks (except on-screen campaign words), watermark, garbled text, romanized korean, deformed face, extra fingers, low quality",
+        "i2v_motion": "Near-still, calm; the kinetic Korean word jitters left-right a few pixels and pulses in size every frame; energetic hold; ~2.57s.",
+        "i2v_params": {
+          "clip_duration_sec": 2.57,
+          "camera_move": "locked_off",
+          "subject_motion_level": "still",
+          "signature_effect": "jitter_pulse",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; figure abstracted (no real-celebrity likeness); on-screen Korean words verbatim; card design kept; logo mark generic except endcard lockup (session note)"
+      }
+    },
+    {
+      "index": 7,
+      "duration": 0.5,
+      "framing": "CU",
+      "function": "kick",
+      "color_mood": "brand_blue_white",
+      "subject_action": "mouths a word, sharp head turn — at a dark cafe/retail interior, tight on the face",
+      "copy_overlay": "배민 (color-invert flash)",
+      "subject_identity": "pov_user_hand",
+      "subject_relationship_to_protagonist": "extra_atmosphere",
+      "layout_grid": "center",
+      "subject_position": "center",
+      "typo_motion": "kinetic_pop_stamp",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "varies",
+      "gaze": "none",
+      "subject_motion": "pov_walk",
+      "camera_motion": "handheld",
+      "camera_motion_intensity": "moderate",
+      "camera_effect_local": "none",
+      "motion_blur": "light",
+      "intra_cut_rhythm": "accelerating",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "notes": "rhythm=accelerating; phase=kick; dur=0.5s — 강약 곡선의 일부",
+      "fact_check_flag": false,
+      "visible_elements": {
+        "foreground": [
+          "the subject (white tee, denim, sunglasses)"
+        ],
+        "midground": [
+          "a dark cafe/retail interior, tight on the face"
+        ],
+        "background": [
+          "dark interior, blue↔white invert"
+        ],
+        "lighting_env": [
+          "interior/practical lighting"
+        ],
+        "atmosphere": [
+          "motion blur from fast cuts"
+        ]
+      },
+      "texture": {
+        "primary_subject": "fabric_cotton",
+        "secondary_objects": [
+          "metal_chrome",
+          "denim",
+          "glass_clear"
+        ],
+        "background_surface": "mixed",
+        "atmospheric": [
+          "motion_blur"
+        ]
+      },
+      "lighting": {
+        "key_direction": "front_45deg",
+        "key_hardness": "soft",
+        "key_color_temp": "cool_6500K",
+        "fill_strength": "moderate",
+        "key_to_fill_ratio": "3:1",
+        "rim_light": false,
+        "practical_lights": [
+          "store lights"
+        ],
+        "shadow_presence": "soft",
+        "overall_contrast": "high"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#1B4DE6",
+          "#FFFFFF",
+          "#2B2B2B"
+        ],
+        "palette_role": {
+          "#1B4DE6": "brand_blue_typo",
+          "#FFFFFF": "white_type_and_tee"
+        },
+        "color_relationship": "brand_dominant",
+        "temperature_balance": "cool_dominant",
+        "saturation_strategy": "vivid_blue_pop",
+        "contrast_type": "hue_high",
+        "accent_color": "#1B4DE6",
+        "accent_ratio": "30_percent",
+        "brand_color_match": [
+          "brand blue #1B4DE6"
+        ]
+      },
+      "style_prompt": "a Korean man in his twenties (abstracted everyday type mouths a word at a dark cafe/retail interior, tight on the face, giant brand-blue kinetic Korean typo, CU, vivid blue/white, 9:16",
+      "recreation_prompts": {
+        "t2i_start_frame": "A vertical 9:16 frame: a Korean man in his twenties (abstracted everyday type, NOT a photo-likeness of any real celebrity), platinum-blond hair, slim silver wrap sunglasses, a fitted white tee, light-blue baggy denim, chunky silver chains, white sneakers, who mouths a word, sharp head turn; the figure dances and poses with restless energetic motion, the camera handheld and fast; framed as CU. the white tee reads as soft cotton with light sheen, the denim as worn light-wash cotton, silver-metal chains and sunglasses, white leather sneakers; no visible brand logos on the clothing. The location is a dark cafe/retail interior, tight on the face; this is one stop in a restless location-hopping montage where the same figure jumps between many real Korean places (overhead asphalt, helipad, rooftop billboard, mart storefront, concrete corridors, OTT/retail interiors, a convenience/electronics store, a department-store counter, and a downtown crosswalk). The figure occupies the foreground; a giant brand-blue kinetic Korean word “배민 (color-invert flash)” fills a large part of the frame as motion typography that JITTERS a few pixels left-right and PULSES in size every frame (and in the kick section the whole frame COLOR-INVERTS between a blue background with white lettering and a white background with blue lettering); the on-screen Korean text is preserved verbatim and finalized in post. Lighting: cooler interior/practical light, soft, key roughly from a 45-degree front angle, neutral-to-cool color temperature, high contrast. Lens/framing: CU, roughly a 24-35mm-equivalent wide feel for the wides and 50-85mm for the close-ups, with visible handheld energy. Composition centers the figure with the giant kinetic typography bracketing or overlapping behind/around them (dark interior, blue↔white invert); restless framing, the subject usually centered with bold negative space for the type. Palette: a brand-blue dominant palette (electric blue around #1B4DE6 to #2B6BFF on the kinetic typography) against dark interior, blue↔white invert; white #FFFFFF type alternating; saturation vivid on the blue, the rest natural. Textures: soft cotton tee, worn light-wash denim, chrome sunglasses and silver chains, and the surface of dark interior, blue↔white invert. Atmosphere: fast, chaotic, hip energy with motion blur between rapid cuts. Post/signature: clean digital grade, brand-blue dominant; the kinetic word color-inverts full-frame on the beat (blue↔white) as the energy kick; light film grain. Style anchor: clean 4K commercial look, contemporary Korean street-fashion music-video energy, vivid and kinetic, vertical 9:16. The human figure is an anonymous everyday Korean type, never a photographic likeness of a real celebrity, and no real brand logos appear except the on-screen Korean campaign words which are kept verbatim. Additional reconstruction detail: the brand-blue kinetic type sits at electric blue #1B4DE6 to #2B6BFF, the tee and alternate type at pure white #FFFFFF, ground and shadows at near-black #2B2B2B; the figure's styling stays identical across every location (platinum-blond hair, silver wrap sunglasses, fitted white tee, light-wash baggy denim, silver chains, white sneakers) so the rapid location jumps still read as one continuous character; camera energy is handheld with fast whip transitions between stops; the typography jitter is a few-pixel per-frame left-right wobble plus a subtle scale pulse, and in the back-third kick the entire frame hard-flashes between a blue field with white word and a white field with blue word on the musical beat; all Korean on-screen words are preserved verbatim and composited in post; the figure is an anonymous everyday Korean man in his twenties, not a likeness of any real person, and the only branding is the on-screen campaign typography, framed for a vertical 9:16 short-form delivery at clean 4K commercial quality.",
+        "t2i_negative": "photographic likeness of a real celebrity, real brand logos/marks (except on-screen campaign words), watermark, garbled text, romanized korean, deformed face, extra fingers, low quality",
+        "i2v_motion": "The figure dances/poses with sharp energetic motion; camera handheld and fast; the kinetic Korean word color-inverts full-frame on the beat (blue↔white); hard flash-cut to the next location; ~0.5s.",
+        "i2v_params": {
+          "clip_duration_sec": 0.5,
+          "camera_move": "handheld",
+          "subject_motion_level": "dynamic",
+          "signature_effect": "color_invert_flash",
+          "pacing": "accelerating",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; figure abstracted (no real-celebrity likeness); on-screen Korean words verbatim; card design kept; logo mark generic except endcard lockup (session note)"
+      }
+    },
+    {
+      "index": 8,
+      "duration": 0.83,
+      "framing": "ECU",
+      "function": "kick",
+      "color_mood": "brand_blue_white",
+      "subject_action": "face fills frame as the word inverts — at blue-flash full frame over the face",
+      "copy_overlay": "배민 (invert)",
+      "subject_identity": "pov_user_hand",
+      "subject_relationship_to_protagonist": "extra_atmosphere",
+      "layout_grid": "center",
+      "subject_position": "center",
+      "typo_motion": "kinetic_pop_stamp",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "varies",
+      "gaze": "none",
+      "subject_motion": "pov_walk",
+      "camera_motion": "handheld",
+      "camera_motion_intensity": "moderate",
+      "camera_effect_local": "none",
+      "motion_blur": "light",
+      "intra_cut_rhythm": "steady",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "notes": "rhythm=steady; phase=kick; dur=0.83s — 강약 곡선의 일부",
+      "fact_check_flag": false,
+      "visible_elements": {
+        "foreground": [
+          "the subject (white tee, denim, sunglasses)"
+        ],
+        "midground": [
+          "blue-flash full frame over the face"
+        ],
+        "background": [
+          "full blue↔white invert flash"
+        ],
+        "lighting_env": [
+          "bright daylight"
+        ],
+        "atmosphere": [
+          "motion blur from fast cuts"
+        ]
+      },
+      "texture": {
+        "primary_subject": "fabric_cotton",
+        "secondary_objects": [
+          "metal_chrome",
+          "denim",
+          "glass_clear"
+        ],
+        "background_surface": "mixed",
+        "atmospheric": [
+          "motion_blur"
+        ]
+      },
+      "lighting": {
+        "key_direction": "front_45deg",
+        "key_hardness": "soft",
+        "key_color_temp": "cool_6500K",
+        "fill_strength": "moderate",
+        "key_to_fill_ratio": "3:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "soft",
+        "overall_contrast": "high"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#1B4DE6",
+          "#FFFFFF",
+          "#2B2B2B"
+        ],
+        "palette_role": {
+          "#1B4DE6": "brand_blue_typo",
+          "#FFFFFF": "white_type_and_tee"
+        },
+        "color_relationship": "brand_dominant",
+        "temperature_balance": "cool_dominant",
+        "saturation_strategy": "vivid_blue_pop",
+        "contrast_type": "hue_high",
+        "accent_color": "#1B4DE6",
+        "accent_ratio": "30_percent",
+        "brand_color_match": [
+          "brand blue #1B4DE6"
+        ]
+      },
+      "style_prompt": "a Korean man in his twenties (abstracted everyday type face fills frame as the word inverts at blue-flash full frame over the face, giant brand-blue kinetic Korean typo, ECU, vivid blue/white, 9:16",
+      "recreation_prompts": {
+        "t2i_start_frame": "A vertical 9:16 frame: a Korean man in his twenties (abstracted everyday type, NOT a photo-likeness of any real celebrity), platinum-blond hair, slim silver wrap sunglasses, a fitted white tee, light-blue baggy denim, chunky silver chains, white sneakers, who face fills frame as the word inverts; the figure dances and poses with restless energetic motion, the camera handheld and fast; framed as ECU. the white tee reads as soft cotton with light sheen, the denim as worn light-wash cotton, silver-metal chains and sunglasses, white leather sneakers; no visible brand logos on the clothing. The location is blue-flash full frame over the face; this is one stop in a restless location-hopping montage where the same figure jumps between many real Korean places (overhead asphalt, helipad, rooftop billboard, mart storefront, concrete corridors, OTT/retail interiors, a convenience/electronics store, a department-store counter, and a downtown crosswalk). The figure occupies the foreground; a giant brand-blue kinetic Korean word “배민 (invert)” fills a large part of the frame as motion typography that JITTERS a few pixels left-right and PULSES in size every frame (and in the kick section the whole frame COLOR-INVERTS between a blue background with white lettering and a white background with blue lettering); the on-screen Korean text is preserved verbatim and finalized in post. Lighting: cooler interior/practical light, soft, key roughly from a 45-degree front angle, neutral-to-cool color temperature, high contrast. Lens/framing: ECU, roughly a 24-35mm-equivalent wide feel for the wides and 50-85mm for the close-ups, with visible handheld energy. Composition centers the figure with the giant kinetic typography bracketing or overlapping behind/around them (full blue↔white invert flash); restless framing, the subject usually centered with bold negative space for the type. Palette: a brand-blue dominant palette (electric blue around #1B4DE6 to #2B6BFF on the kinetic typography) against full blue↔white invert flash; white #FFFFFF type alternating; saturation vivid on the blue, the rest natural. Textures: soft cotton tee, worn light-wash denim, chrome sunglasses and silver chains, and the surface of full blue↔white invert flash. Atmosphere: fast, chaotic, hip energy with motion blur between rapid cuts. Post/signature: clean digital grade, brand-blue dominant; the kinetic word color-inverts full-frame on the beat (blue↔white) as the energy kick; light film grain. Style anchor: clean 4K commercial look, contemporary Korean street-fashion music-video energy, vivid and kinetic, vertical 9:16. The human figure is an anonymous everyday Korean type, never a photographic likeness of a real celebrity, and no real brand logos appear except the on-screen Korean campaign words which are kept verbatim. Additional reconstruction detail: the brand-blue kinetic type sits at electric blue #1B4DE6 to #2B6BFF, the tee and alternate type at pure white #FFFFFF, ground and shadows at near-black #2B2B2B; the figure's styling stays identical across every location (platinum-blond hair, silver wrap sunglasses, fitted white tee, light-wash baggy denim, silver chains, white sneakers) so the rapid location jumps still read as one continuous character; camera energy is handheld with fast whip transitions between stops; the typography jitter is a few-pixel per-frame left-right wobble plus a subtle scale pulse, and in the back-third kick the entire frame hard-flashes between a blue field with white word and a white field with blue word on the musical beat; all Korean on-screen words are preserved verbatim and composited in post; the figure is an anonymous everyday Korean man in his twenties, not a likeness of any real person, and the only branding is the on-screen campaign typography, framed for a vertical 9:16 short-form delivery at clean 4K commercial quality.",
+        "t2i_negative": "photographic likeness of a real celebrity, real brand logos/marks (except on-screen campaign words), watermark, garbled text, romanized korean, deformed face, extra fingers, low quality",
+        "i2v_motion": "The figure dances/poses with sharp energetic motion; camera handheld and fast; the kinetic Korean word color-inverts full-frame on the beat (blue↔white); hard flash-cut to the next location; ~0.83s.",
+        "i2v_params": {
+          "clip_duration_sec": 0.83,
+          "camera_move": "handheld",
+          "subject_motion_level": "dynamic",
+          "signature_effect": "color_invert_flash",
+          "pacing": "accelerating",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; figure abstracted (no real-celebrity likeness); on-screen Korean words verbatim; card design kept; logo mark generic except endcard lockup (session note)"
+      }
+    },
+    {
+      "index": 9,
+      "duration": 1.47,
+      "framing": "MS",
+      "function": "kick",
+      "color_mood": "brand_blue_white",
+      "subject_action": "dances/struts forward, handheld follows — at a concrete brutalist building corridor exterior",
+      "copy_overlay": null,
+      "subject_identity": "pov_user_hand",
+      "subject_relationship_to_protagonist": "extra_atmosphere",
+      "layout_grid": "center",
+      "subject_position": "center",
+      "typo_motion": "kinetic_pop_stamp",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "varies",
+      "gaze": "none",
+      "subject_motion": "pov_walk",
+      "camera_motion": "handheld",
+      "camera_motion_intensity": "moderate",
+      "camera_effect_local": "none",
+      "motion_blur": "light",
+      "intra_cut_rhythm": "steady",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "notes": "rhythm=steady; phase=kick; dur=1.47s — 강약 곡선의 일부",
+      "fact_check_flag": false,
+      "visible_elements": {
+        "foreground": [
+          "the subject (white tee, denim, sunglasses)"
+        ],
+        "midground": [
+          "a concrete brutalist building corridor exterior"
+        ],
+        "background": [
+          "cool grey concrete, hard shadows"
+        ],
+        "lighting_env": [
+          "bright daylight"
+        ],
+        "atmosphere": [
+          "motion blur from fast cuts"
+        ]
+      },
+      "texture": {
+        "primary_subject": "fabric_cotton",
+        "secondary_objects": [
+          "metal_chrome",
+          "denim",
+          "concrete"
+        ],
+        "background_surface": "concrete",
+        "atmospheric": [
+          "motion_blur"
+        ]
+      },
+      "lighting": {
+        "key_direction": "front_45deg",
+        "key_hardness": "soft",
+        "key_color_temp": "cool_6500K",
+        "fill_strength": "moderate",
+        "key_to_fill_ratio": "3:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "soft",
+        "overall_contrast": "high"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#1B4DE6",
+          "#FFFFFF",
+          "#2B2B2B"
+        ],
+        "palette_role": {
+          "#1B4DE6": "brand_blue_typo",
+          "#FFFFFF": "white_type_and_tee"
+        },
+        "color_relationship": "brand_dominant",
+        "temperature_balance": "cool_dominant",
+        "saturation_strategy": "vivid_blue_pop",
+        "contrast_type": "hue_high",
+        "accent_color": "#1B4DE6",
+        "accent_ratio": "30_percent",
+        "brand_color_match": [
+          "brand blue #1B4DE6"
+        ]
+      },
+      "style_prompt": "a Korean man in his twenties (abstracted everyday type dances/struts forward at a concrete brutalist building corridor exterior, giant brand-blue kinetic Korean typo, MS, vivid blue/white, 9:16",
+      "recreation_prompts": {
+        "t2i_start_frame": "A vertical 9:16 frame: a Korean man in his twenties (abstracted everyday type, NOT a photo-likeness of any real celebrity), platinum-blond hair, slim silver wrap sunglasses, a fitted white tee, light-blue baggy denim, chunky silver chains, white sneakers, who dances/struts forward, handheld follows; the figure dances and poses with restless energetic motion, the camera handheld and fast; framed as MS. the white tee reads as soft cotton with light sheen, the denim as worn light-wash cotton, silver-metal chains and sunglasses, white leather sneakers; no visible brand logos on the clothing. The location is a concrete brutalist building corridor exterior; this is one stop in a restless location-hopping montage where the same figure jumps between many real Korean places (overhead asphalt, helipad, rooftop billboard, mart storefront, concrete corridors, OTT/retail interiors, a convenience/electronics store, a department-store counter, and a downtown crosswalk). The figure occupies the foreground; no large on-screen typography in this beat. Lighting: cooler interior/practical light, soft, key roughly from a 45-degree front angle, neutral-to-cool color temperature, high contrast. Lens/framing: MS, roughly a 24-35mm-equivalent wide feel for the wides and 50-85mm for the close-ups, with visible handheld energy. Composition centers the figure with the giant kinetic typography bracketing or overlapping behind/around them (cool grey concrete, hard shadows); restless framing, the subject usually centered with bold negative space for the type. Palette: a brand-blue dominant palette (electric blue around #1B4DE6 to #2B6BFF on the kinetic typography) against cool grey concrete, hard shadows; white #FFFFFF type alternating; saturation vivid on the blue, the rest natural. Textures: soft cotton tee, worn light-wash denim, chrome sunglasses and silver chains, and the surface of cool grey concrete, hard shadows. Atmosphere: fast, chaotic, hip energy with motion blur between rapid cuts. Post/signature: clean digital grade, brand-blue dominant; the kinetic word color-inverts full-frame on the beat (blue↔white) as the energy kick; light film grain. Style anchor: clean 4K commercial look, contemporary Korean street-fashion music-video energy, vivid and kinetic, vertical 9:16. The human figure is an anonymous everyday Korean type, never a photographic likeness of a real celebrity, and no real brand logos appear except the on-screen Korean campaign words which are kept verbatim. Additional reconstruction detail: the brand-blue kinetic type sits at electric blue #1B4DE6 to #2B6BFF, the tee and alternate type at pure white #FFFFFF, ground and shadows at near-black #2B2B2B; the figure's styling stays identical across every location (platinum-blond hair, silver wrap sunglasses, fitted white tee, light-wash baggy denim, silver chains, white sneakers) so the rapid location jumps still read as one continuous character; camera energy is handheld with fast whip transitions between stops; the typography jitter is a few-pixel per-frame left-right wobble plus a subtle scale pulse, and in the back-third kick the entire frame hard-flashes between a blue field with white word and a white field with blue word on the musical beat; all Korean on-screen words are preserved verbatim and composited in post; the figure is an anonymous everyday Korean man in his twenties, not a likeness of any real person, and the only branding is the on-screen campaign typography, framed for a vertical 9:16 short-form delivery at clean 4K commercial quality. Additional reconstruction detail: the brand-blue kinetic type sits at electric blue #1B4DE6 to #2B6BFF, the tee and alternate type at pure white #FFFFFF, ground and shadows at near-black #2B2B2B; the figure's styling stays identical across every location (platinum-blond hair, silver wrap sunglasses, fitted white tee, light-wash baggy denim, silver chains, white sneakers) so the rapid location jumps still read as one continuous character; camera energy is handheld with fast whip transitions between stops; the typography jitter is a few-pixel per-frame left-right wobble plus a subtle scale pulse, and in the back-third kick the entire frame hard-flashes between a blue field with white word and a white field with blue word on the musical beat; all Korean on-screen words are preserved verbatim and composited in post; the figure is an anonymous everyday Korean man in his twenties, not a likeness of any real person, and the only branding is the on-screen campaign typography, framed for a vertical 9:16 short-form delivery at clean 4K commercial quality.",
+        "t2i_negative": "photographic likeness of a real celebrity, real brand logos/marks (except on-screen campaign words), watermark, garbled text, romanized korean, deformed face, extra fingers, low quality",
+        "i2v_motion": "The figure dances/poses with sharp energetic motion; camera handheld and fast; the kinetic Korean word color-inverts full-frame on the beat (blue↔white); hard flash-cut to the next location; ~1.47s.",
+        "i2v_params": {
+          "clip_duration_sec": 1.47,
+          "camera_move": "handheld",
+          "subject_motion_level": "dynamic",
+          "signature_effect": "color_invert_flash",
+          "pacing": "accelerating",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; figure abstracted (no real-celebrity likeness); on-screen Korean words verbatim; card design kept; logo mark generic except endcard lockup (session note)"
+      }
+    },
+    {
+      "index": 10,
+      "duration": 0.63,
+      "framing": "MS",
+      "function": "kick",
+      "color_mood": "brand_blue_white",
+      "subject_action": "quick pose, points — at an OTT/shopping interior, kinetic word",
+      "copy_overlay": "쇼핑 / 다섯개를",
+      "subject_identity": "pov_user_hand",
+      "subject_relationship_to_protagonist": "extra_atmosphere",
+      "layout_grid": "center",
+      "subject_position": "center",
+      "typo_motion": "kinetic_pop_stamp",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "varies",
+      "gaze": "none",
+      "subject_motion": "pov_walk",
+      "camera_motion": "handheld",
+      "camera_motion_intensity": "moderate",
+      "camera_effect_local": "none",
+      "motion_blur": "light",
+      "intra_cut_rhythm": "accelerating",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "notes": "rhythm=accelerating; phase=kick; dur=0.63s — 강약 곡선의 일부",
+      "fact_check_flag": false,
+      "visible_elements": {
+        "foreground": [
+          "the subject (white tee, denim, sunglasses)"
+        ],
+        "midground": [
+          "an OTT/shopping interior, kinetic word"
+        ],
+        "background": [
+          "retail interior, blue text"
+        ],
+        "lighting_env": [
+          "interior/practical lighting"
+        ],
+        "atmosphere": [
+          "motion blur from fast cuts"
+        ]
+      },
+      "texture": {
+        "primary_subject": "fabric_cotton",
+        "secondary_objects": [
+          "metal_chrome",
+          "denim",
+          "glass_clear"
+        ],
+        "background_surface": "mixed",
+        "atmospheric": [
+          "motion_blur"
+        ]
+      },
+      "lighting": {
+        "key_direction": "front_45deg",
+        "key_hardness": "soft",
+        "key_color_temp": "cool_6500K",
+        "fill_strength": "moderate",
+        "key_to_fill_ratio": "3:1",
+        "rim_light": false,
+        "practical_lights": [
+          "store lights"
+        ],
+        "shadow_presence": "soft",
+        "overall_contrast": "high"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#1B4DE6",
+          "#FFFFFF",
+          "#2B2B2B"
+        ],
+        "palette_role": {
+          "#1B4DE6": "brand_blue_typo",
+          "#FFFFFF": "white_type_and_tee"
+        },
+        "color_relationship": "brand_dominant",
+        "temperature_balance": "cool_dominant",
+        "saturation_strategy": "vivid_blue_pop",
+        "contrast_type": "hue_high",
+        "accent_color": "#1B4DE6",
+        "accent_ratio": "30_percent",
+        "brand_color_match": [
+          "brand blue #1B4DE6"
+        ]
+      },
+      "style_prompt": "a Korean man in his twenties (abstracted everyday type quick pose at an OTT/shopping interior, kinetic word, giant brand-blue kinetic Korean typo, MS, vivid blue/white, 9:16",
+      "recreation_prompts": {
+        "t2i_start_frame": "A vertical 9:16 frame: a Korean man in his twenties (abstracted everyday type, NOT a photo-likeness of any real celebrity), platinum-blond hair, slim silver wrap sunglasses, a fitted white tee, light-blue baggy denim, chunky silver chains, white sneakers, who quick pose, points; the figure dances and poses with restless energetic motion, the camera handheld and fast; framed as MS. the white tee reads as soft cotton with light sheen, the denim as worn light-wash cotton, silver-metal chains and sunglasses, white leather sneakers; no visible brand logos on the clothing. The location is an OTT/shopping interior, kinetic word; this is one stop in a restless location-hopping montage where the same figure jumps between many real Korean places (overhead asphalt, helipad, rooftop billboard, mart storefront, concrete corridors, OTT/retail interiors, a convenience/electronics store, a department-store counter, and a downtown crosswalk). The figure occupies the foreground; a giant brand-blue kinetic Korean word “쇼핑 / 다섯개를” fills a large part of the frame as motion typography that JITTERS a few pixels left-right and PULSES in size every frame (and in the kick section the whole frame COLOR-INVERTS between a blue background with white lettering and a white background with blue lettering); the on-screen Korean text is preserved verbatim and finalized in post. Lighting: cooler interior/practical light, soft, key roughly from a 45-degree front angle, neutral-to-cool color temperature, high contrast. Lens/framing: MS, roughly a 24-35mm-equivalent wide feel for the wides and 50-85mm for the close-ups, with visible handheld energy. Composition centers the figure with the giant kinetic typography bracketing or overlapping behind/around them (retail interior, blue text); restless framing, the subject usually centered with bold negative space for the type. Palette: a brand-blue dominant palette (electric blue around #1B4DE6 to #2B6BFF on the kinetic typography) against retail interior, blue text; white #FFFFFF type alternating; saturation vivid on the blue, the rest natural. Textures: soft cotton tee, worn light-wash denim, chrome sunglasses and silver chains, and the surface of retail interior, blue text. Atmosphere: fast, chaotic, hip energy with motion blur between rapid cuts. Post/signature: clean digital grade, brand-blue dominant; the kinetic word color-inverts full-frame on the beat (blue↔white) as the energy kick; light film grain. Style anchor: clean 4K commercial look, contemporary Korean street-fashion music-video energy, vivid and kinetic, vertical 9:16. The human figure is an anonymous everyday Korean type, never a photographic likeness of a real celebrity, and no real brand logos appear except the on-screen Korean campaign words which are kept verbatim. Additional reconstruction detail: the brand-blue kinetic type sits at electric blue #1B4DE6 to #2B6BFF, the tee and alternate type at pure white #FFFFFF, ground and shadows at near-black #2B2B2B; the figure's styling stays identical across every location (platinum-blond hair, silver wrap sunglasses, fitted white tee, light-wash baggy denim, silver chains, white sneakers) so the rapid location jumps still read as one continuous character; camera energy is handheld with fast whip transitions between stops; the typography jitter is a few-pixel per-frame left-right wobble plus a subtle scale pulse, and in the back-third kick the entire frame hard-flashes between a blue field with white word and a white field with blue word on the musical beat; all Korean on-screen words are preserved verbatim and composited in post; the figure is an anonymous everyday Korean man in his twenties, not a likeness of any real person, and the only branding is the on-screen campaign typography, framed for a vertical 9:16 short-form delivery at clean 4K commercial quality.",
+        "t2i_negative": "photographic likeness of a real celebrity, real brand logos/marks (except on-screen campaign words), watermark, garbled text, romanized korean, deformed face, extra fingers, low quality",
+        "i2v_motion": "The figure dances/poses with sharp energetic motion; camera handheld and fast; the kinetic Korean word color-inverts full-frame on the beat (blue↔white); hard flash-cut to the next location; ~0.63s.",
+        "i2v_params": {
+          "clip_duration_sec": 0.63,
+          "camera_move": "handheld",
+          "subject_motion_level": "dynamic",
+          "signature_effect": "color_invert_flash",
+          "pacing": "accelerating",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; figure abstracted (no real-celebrity likeness); on-screen Korean words verbatim; card design kept; logo mark generic except endcard lockup (session note)"
+      }
+    },
+    {
+      "index": 11,
+      "duration": 0.47,
+      "framing": "environment_POV",
+      "function": "kick",
+      "color_mood": "brand_blue_white",
+      "subject_action": "first-person POV glides past shelves, card held low — at a convenience-store / electronics shop aisle (LG U+ BEST SHOP signage)",
+      "copy_overlay": "부터",
+      "subject_identity": "pov_user_hand",
+      "subject_relationship_to_protagonist": "extra_atmosphere",
+      "layout_grid": "center",
+      "subject_position": "center",
+      "typo_motion": "kinetic_pop_stamp",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "varies",
+      "gaze": "none",
+      "subject_motion": "pov_walk",
+      "camera_motion": "handheld",
+      "camera_motion_intensity": "moderate",
+      "camera_effect_local": "none",
+      "motion_blur": "light",
+      "intra_cut_rhythm": "accelerating",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "notes": "rhythm=accelerating; phase=kick; dur=0.47s — 강약 곡선의 일부",
+      "fact_check_flag": false,
+      "visible_elements": {
+        "foreground": [
+          "the white SHINHAN check card held low",
+          "subject's hand"
+        ],
+        "midground": [
+          "a convenience-store / electronics shop aisle (LG U+ BEST SHOP signage)"
+        ],
+        "background": [
+          "bright store aisle, product shelves"
+        ],
+        "lighting_env": [
+          "bright daylight"
+        ],
+        "atmosphere": [
+          "motion blur from fast cuts"
+        ]
+      },
+      "texture": {
+        "primary_subject": "fabric_cotton",
+        "secondary_objects": [
+          "metal_chrome",
+          "denim",
+          "glass_clear"
+        ],
+        "background_surface": "mixed",
+        "atmospheric": [
+          "motion_blur"
+        ]
+      },
+      "lighting": {
+        "key_direction": "front_45deg",
+        "key_hardness": "soft",
+        "key_color_temp": "cool_6500K",
+        "fill_strength": "moderate",
+        "key_to_fill_ratio": "3:1",
+        "rim_light": false,
+        "practical_lights": [
+          "store lights"
+        ],
+        "shadow_presence": "soft",
+        "overall_contrast": "high"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#1B4DE6",
+          "#FFFFFF",
+          "#2B2B2B"
+        ],
+        "palette_role": {
+          "#1B4DE6": "brand_blue_typo",
+          "#FFFFFF": "white_type_and_tee"
+        },
+        "color_relationship": "brand_dominant",
+        "temperature_balance": "cool_dominant",
+        "saturation_strategy": "vivid_blue_pop",
+        "contrast_type": "hue_high",
+        "accent_color": "#1B4DE6",
+        "accent_ratio": "30_percent",
+        "brand_color_match": [
+          "brand blue #1B4DE6"
+        ]
+      },
+      "style_prompt": "a Korean man in his twenties (abstracted everyday type first-person POV glides past shelves at a convenience-store / electronics shop aisle (LG U+ BEST SHOP signage), giant brand-blue kinetic Korean typo, environment_POV, vivid blue/white, 9:16",
+      "recreation_prompts": {
+        "t2i_start_frame": "A vertical 9:16 frame: a Korean man in his twenties (abstracted everyday type, NOT a photo-likeness of any real celebrity), platinum-blond hair, slim silver wrap sunglasses, a fitted white tee, light-blue baggy denim, chunky silver chains, white sneakers, who first-person POV glides past shelves, card held low; the figure dances and poses with restless energetic motion, the camera handheld and fast; framed as environment POV. the white tee reads as soft cotton with light sheen, the denim as worn light-wash cotton, silver-metal chains and sunglasses, white leather sneakers; no visible brand logos on the clothing. The location is a convenience-store / electronics shop aisle (LG U+ BEST SHOP signage); this is one stop in a restless location-hopping montage where the same figure jumps between many real Korean places (overhead asphalt, helipad, rooftop billboard, mart storefront, concrete corridors, OTT/retail interiors, a convenience/electronics store, a department-store counter, and a downtown crosswalk). In the foreground a white SHINHAN-style check card (Korea-map texture, 'ShinhanCard Check', 'SHINHAN KIM') is held low or rests on the counter — keep the card design consistent; a giant brand-blue kinetic Korean word “부터” fills a large part of the frame as motion typography that JITTERS a few pixels left-right and PULSES in size every frame (and in the kick section the whole frame COLOR-INVERTS between a blue background with white lettering and a white background with blue lettering); the on-screen Korean text is preserved verbatim and finalized in post. Lighting: cooler interior/practical light, soft, key roughly from a 45-degree front angle, neutral-to-cool color temperature, high contrast. Lens/framing: environment POV, roughly a 24-35mm-equivalent wide feel for the wides and 50-85mm for the close-ups, with visible handheld energy. Composition centers the figure with the giant kinetic typography bracketing or overlapping behind/around them (bright store aisle, product shelves); restless framing, the subject usually centered with bold negative space for the type. Palette: a brand-blue dominant palette (electric blue around #1B4DE6 to #2B6BFF on the kinetic typography) against bright store aisle, product shelves; white #FFFFFF type alternating; saturation vivid on the blue, the rest natural. Textures: soft cotton tee, worn light-wash denim, chrome sunglasses and silver chains, and the surface of bright store aisle, product shelves. Atmosphere: fast, chaotic, hip energy with motion blur between rapid cuts. Post/signature: clean digital grade, brand-blue dominant; the kinetic word color-inverts full-frame on the beat (blue↔white) as the energy kick; light film grain. Style anchor: clean 4K commercial look, contemporary Korean street-fashion music-video energy, vivid and kinetic, vertical 9:16. The human figure is an anonymous everyday Korean type, never a photographic likeness of a real celebrity, and no real brand logos appear except the on-screen Korean campaign words which are kept verbatim. Additional reconstruction detail: the brand-blue kinetic type sits at electric blue #1B4DE6 to #2B6BFF, the tee and alternate type at pure white #FFFFFF, ground and shadows at near-black #2B2B2B; the figure's styling stays identical across every location (platinum-blond hair, silver wrap sunglasses, fitted white tee, light-wash baggy denim, silver chains, white sneakers) so the rapid location jumps still read as one continuous character; camera energy is handheld with fast whip transitions between stops; the typography jitter is a few-pixel per-frame left-right wobble plus a subtle scale pulse, and in the back-third kick the entire frame hard-flashes between a blue field with white word and a white field with blue word on the musical beat; all Korean on-screen words are preserved verbatim and composited in post; the figure is an anonymous everyday Korean man in his twenties, not a likeness of any real person, and the only branding is the on-screen campaign typography, framed for a vertical 9:16 short-form delivery at clean 4K commercial quality.",
+        "t2i_negative": "photographic likeness of a real celebrity, real brand logos/marks (except on-screen campaign words), watermark, garbled text, romanized korean, deformed face, extra fingers, low quality",
+        "i2v_motion": "The figure dances/poses with sharp energetic motion; camera handheld and fast; the kinetic Korean word color-inverts full-frame on the beat (blue↔white); hard flash-cut to the next location; ~0.47s.",
+        "i2v_params": {
+          "clip_duration_sec": 0.47,
+          "camera_move": "handheld",
+          "subject_motion_level": "dynamic",
+          "signature_effect": "color_invert_flash",
+          "pacing": "accelerating",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; figure abstracted (no real-celebrity likeness); on-screen Korean words verbatim; card design kept; logo mark generic except endcard lockup (session note)"
+      }
+    },
+    {
+      "index": 12,
+      "duration": 0.7,
+      "framing": "environment_POV",
+      "function": "kick",
+      "color_mood": "brand_blue_white",
+      "subject_action": "first-person POV at the checkout counter, card on a Korea-map-patterned white card — at AMOREMALL department-store counter, white card on the counter",
+      "copy_overlay": "단하나로",
+      "subject_identity": "pov_user_hand",
+      "subject_relationship_to_protagonist": "extra_atmosphere",
+      "layout_grid": "center",
+      "subject_position": "center",
+      "typo_motion": "kinetic_pop_stamp",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "varies",
+      "gaze": "none",
+      "subject_motion": "pov_walk",
+      "camera_motion": "handheld",
+      "camera_motion_intensity": "moderate",
+      "camera_effect_local": "none",
+      "motion_blur": "light",
+      "intra_cut_rhythm": "accelerating",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "notes": "rhythm=accelerating; phase=kick; dur=0.7s — 강약 곡선의 일부",
+      "fact_check_flag": false,
+      "visible_elements": {
+        "foreground": [
+          "the white SHINHAN check card held low",
+          "subject's hand"
+        ],
+        "midground": [
+          "AMOREMALL department-store counter, white card on the counter"
+        ],
+        "background": [
+          "beige department-store counter, white card"
+        ],
+        "lighting_env": [
+          "bright daylight"
+        ],
+        "atmosphere": [
+          "motion blur from fast cuts"
+        ]
+      },
+      "texture": {
+        "primary_subject": "fabric_cotton",
+        "secondary_objects": [
+          "metal_chrome",
+          "denim",
+          "glass_clear"
+        ],
+        "background_surface": "mixed",
+        "atmospheric": [
+          "motion_blur"
+        ]
+      },
+      "lighting": {
+        "key_direction": "front_45deg",
+        "key_hardness": "soft",
+        "key_color_temp": "cool_6500K",
+        "fill_strength": "moderate",
+        "key_to_fill_ratio": "3:1",
+        "rim_light": false,
+        "practical_lights": [
+          "store lights"
+        ],
+        "shadow_presence": "soft",
+        "overall_contrast": "high"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#1B4DE6",
+          "#FFFFFF",
+          "#2B2B2B"
+        ],
+        "palette_role": {
+          "#1B4DE6": "brand_blue_typo",
+          "#FFFFFF": "white_type_and_tee"
+        },
+        "color_relationship": "brand_dominant",
+        "temperature_balance": "cool_dominant",
+        "saturation_strategy": "vivid_blue_pop",
+        "contrast_type": "hue_high",
+        "accent_color": "#1B4DE6",
+        "accent_ratio": "30_percent",
+        "brand_color_match": [
+          "brand blue #1B4DE6"
+        ]
+      },
+      "style_prompt": "a Korean man in his twenties (abstracted everyday type first-person POV at the checkout counter at AMOREMALL department-store counter, white card on the counter, giant brand-blue kinetic Korean typo, environment_POV, vivid blue/white, 9:16",
+      "recreation_prompts": {
+        "t2i_start_frame": "A vertical 9:16 frame: a Korean man in his twenties (abstracted everyday type, NOT a photo-likeness of any real celebrity), platinum-blond hair, slim silver wrap sunglasses, a fitted white tee, light-blue baggy denim, chunky silver chains, white sneakers, who first-person POV at the checkout counter, card on a Korea-map-patterned white card; the figure dances and poses with restless energetic motion, the camera handheld and fast; framed as environment POV. the white tee reads as soft cotton with light sheen, the denim as worn light-wash cotton, silver-metal chains and sunglasses, white leather sneakers; no visible brand logos on the clothing. The location is AMOREMALL department-store counter, white card on the counter; this is one stop in a restless location-hopping montage where the same figure jumps between many real Korean places (overhead asphalt, helipad, rooftop billboard, mart storefront, concrete corridors, OTT/retail interiors, a convenience/electronics store, a department-store counter, and a downtown crosswalk). In the foreground a white SHINHAN-style check card (Korea-map texture, 'ShinhanCard Check', 'SHINHAN KIM') is held low or rests on the counter — keep the card design consistent; a giant brand-blue kinetic Korean word “단하나로” fills a large part of the frame as motion typography that JITTERS a few pixels left-right and PULSES in size every frame (and in the kick section the whole frame COLOR-INVERTS between a blue background with white lettering and a white background with blue lettering); the on-screen Korean text is preserved verbatim and finalized in post. Lighting: cooler interior/practical light, soft, key roughly from a 45-degree front angle, neutral-to-cool color temperature, high contrast. Lens/framing: environment POV, roughly a 24-35mm-equivalent wide feel for the wides and 50-85mm for the close-ups, with visible handheld energy. Composition centers the figure with the giant kinetic typography bracketing or overlapping behind/around them (beige department-store counter, white card); restless framing, the subject usually centered with bold negative space for the type. Palette: a brand-blue dominant palette (electric blue around #1B4DE6 to #2B6BFF on the kinetic typography) against beige department-store counter, white card; white #FFFFFF type alternating; saturation vivid on the blue, the rest natural. Textures: soft cotton tee, worn light-wash denim, chrome sunglasses and silver chains, and the surface of beige department-store counter, white card. Atmosphere: fast, chaotic, hip energy with motion blur between rapid cuts. Post/signature: clean digital grade, brand-blue dominant; the kinetic word color-inverts full-frame on the beat (blue↔white) as the energy kick; light film grain. Style anchor: clean 4K commercial look, contemporary Korean street-fashion music-video energy, vivid and kinetic, vertical 9:16. The human figure is an anonymous everyday Korean type, never a photographic likeness of a real celebrity, and no real brand logos appear except the on-screen Korean campaign words which are kept verbatim. Additional reconstruction detail: the brand-blue kinetic type sits at electric blue #1B4DE6 to #2B6BFF, the tee and alternate type at pure white #FFFFFF, ground and shadows at near-black #2B2B2B; the figure's styling stays identical across every location (platinum-blond hair, silver wrap sunglasses, fitted white tee, light-wash baggy denim, silver chains, white sneakers) so the rapid location jumps still read as one continuous character; camera energy is handheld with fast whip transitions between stops; the typography jitter is a few-pixel per-frame left-right wobble plus a subtle scale pulse, and in the back-third kick the entire frame hard-flashes between a blue field with white word and a white field with blue word on the musical beat; all Korean on-screen words are preserved verbatim and composited in post; the figure is an anonymous everyday Korean man in his twenties, not a likeness of any real person, and the only branding is the on-screen campaign typography, framed for a vertical 9:16 short-form delivery at clean 4K commercial quality.",
+        "t2i_negative": "photographic likeness of a real celebrity, real brand logos/marks (except on-screen campaign words), watermark, garbled text, romanized korean, deformed face, extra fingers, low quality",
+        "i2v_motion": "The figure dances/poses with sharp energetic motion; camera handheld and fast; the kinetic Korean word color-inverts full-frame on the beat (blue↔white); hard flash-cut to the next location; ~0.7s.",
+        "i2v_params": {
+          "clip_duration_sec": 0.7,
+          "camera_move": "handheld",
+          "subject_motion_level": "dynamic",
+          "signature_effect": "color_invert_flash",
+          "pacing": "accelerating",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; figure abstracted (no real-celebrity likeness); on-screen Korean words verbatim; card design kept; logo mark generic except endcard lockup (session note)"
+      }
+    },
+    {
+      "index": 13,
+      "duration": 0.54,
+      "framing": "environment_POV",
+      "function": "kick",
+      "color_mood": "brand_blue_white",
+      "subject_action": "POV glides, card in hand, keyword stamps — at a convenience store / mart aisle POV, card held",
+      "copy_overlay": "까지",
+      "subject_identity": "pov_user_hand",
+      "subject_relationship_to_protagonist": "extra_atmosphere",
+      "layout_grid": "center",
+      "subject_position": "center",
+      "typo_motion": "kinetic_pop_stamp",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "varies",
+      "gaze": "none",
+      "subject_motion": "pov_walk",
+      "camera_motion": "handheld",
+      "camera_motion_intensity": "moderate",
+      "camera_effect_local": "none",
+      "motion_blur": "light",
+      "intra_cut_rhythm": "accelerating",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "notes": "rhythm=accelerating; phase=kick; dur=0.54s — 강약 곡선의 일부",
+      "fact_check_flag": false,
+      "visible_elements": {
+        "foreground": [
+          "the white SHINHAN check card held low",
+          "subject's hand"
+        ],
+        "midground": [
+          "a convenience store / mart aisle POV, card held"
+        ],
+        "background": [
+          "store interior, blue keyword"
+        ],
+        "lighting_env": [
+          "bright daylight"
+        ],
+        "atmosphere": [
+          "motion blur from fast cuts"
+        ]
+      },
+      "texture": {
+        "primary_subject": "fabric_cotton",
+        "secondary_objects": [
+          "metal_chrome",
+          "denim",
+          "glass_clear"
+        ],
+        "background_surface": "mixed",
+        "atmospheric": [
+          "motion_blur"
+        ]
+      },
+      "lighting": {
+        "key_direction": "front_45deg",
+        "key_hardness": "soft",
+        "key_color_temp": "cool_6500K",
+        "fill_strength": "moderate",
+        "key_to_fill_ratio": "3:1",
+        "rim_light": false,
+        "practical_lights": [
+          "store lights"
+        ],
+        "shadow_presence": "soft",
+        "overall_contrast": "high"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#1B4DE6",
+          "#FFFFFF",
+          "#2B2B2B"
+        ],
+        "palette_role": {
+          "#1B4DE6": "brand_blue_typo",
+          "#FFFFFF": "white_type_and_tee"
+        },
+        "color_relationship": "brand_dominant",
+        "temperature_balance": "cool_dominant",
+        "saturation_strategy": "vivid_blue_pop",
+        "contrast_type": "hue_high",
+        "accent_color": "#1B4DE6",
+        "accent_ratio": "30_percent",
+        "brand_color_match": [
+          "brand blue #1B4DE6"
+        ]
+      },
+      "style_prompt": "a Korean man in his twenties (abstracted everyday type POV glides at a convenience store / mart aisle POV, card held, giant brand-blue kinetic Korean typo, environment_POV, vivid blue/white, 9:16",
+      "recreation_prompts": {
+        "t2i_start_frame": "A vertical 9:16 frame: a Korean man in his twenties (abstracted everyday type, NOT a photo-likeness of any real celebrity), platinum-blond hair, slim silver wrap sunglasses, a fitted white tee, light-blue baggy denim, chunky silver chains, white sneakers, who POV glides, card in hand, keyword stamps; the figure dances and poses with restless energetic motion, the camera handheld and fast; framed as environment POV. the white tee reads as soft cotton with light sheen, the denim as worn light-wash cotton, silver-metal chains and sunglasses, white leather sneakers; no visible brand logos on the clothing. The location is a convenience store / mart aisle POV, card held; this is one stop in a restless location-hopping montage where the same figure jumps between many real Korean places (overhead asphalt, helipad, rooftop billboard, mart storefront, concrete corridors, OTT/retail interiors, a convenience/electronics store, a department-store counter, and a downtown crosswalk). In the foreground a white SHINHAN-style check card (Korea-map texture, 'ShinhanCard Check', 'SHINHAN KIM') is held low or rests on the counter — keep the card design consistent; a giant brand-blue kinetic Korean word “까지” fills a large part of the frame as motion typography that JITTERS a few pixels left-right and PULSES in size every frame (and in the kick section the whole frame COLOR-INVERTS between a blue background with white lettering and a white background with blue lettering); the on-screen Korean text is preserved verbatim and finalized in post. Lighting: cooler interior/practical light, soft, key roughly from a 45-degree front angle, neutral-to-cool color temperature, high contrast. Lens/framing: environment POV, roughly a 24-35mm-equivalent wide feel for the wides and 50-85mm for the close-ups, with visible handheld energy. Composition centers the figure with the giant kinetic typography bracketing or overlapping behind/around them (store interior, blue keyword); restless framing, the subject usually centered with bold negative space for the type. Palette: a brand-blue dominant palette (electric blue around #1B4DE6 to #2B6BFF on the kinetic typography) against store interior, blue keyword; white #FFFFFF type alternating; saturation vivid on the blue, the rest natural. Textures: soft cotton tee, worn light-wash denim, chrome sunglasses and silver chains, and the surface of store interior, blue keyword. Atmosphere: fast, chaotic, hip energy with motion blur between rapid cuts. Post/signature: clean digital grade, brand-blue dominant; the kinetic word color-inverts full-frame on the beat (blue↔white) as the energy kick; light film grain. Style anchor: clean 4K commercial look, contemporary Korean street-fashion music-video energy, vivid and kinetic, vertical 9:16. The human figure is an anonymous everyday Korean type, never a photographic likeness of a real celebrity, and no real brand logos appear except the on-screen Korean campaign words which are kept verbatim. Additional reconstruction detail: the brand-blue kinetic type sits at electric blue #1B4DE6 to #2B6BFF, the tee and alternate type at pure white #FFFFFF, ground and shadows at near-black #2B2B2B; the figure's styling stays identical across every location (platinum-blond hair, silver wrap sunglasses, fitted white tee, light-wash baggy denim, silver chains, white sneakers) so the rapid location jumps still read as one continuous character; camera energy is handheld with fast whip transitions between stops; the typography jitter is a few-pixel per-frame left-right wobble plus a subtle scale pulse, and in the back-third kick the entire frame hard-flashes between a blue field with white word and a white field with blue word on the musical beat; all Korean on-screen words are preserved verbatim and composited in post; the figure is an anonymous everyday Korean man in his twenties, not a likeness of any real person, and the only branding is the on-screen campaign typography, framed for a vertical 9:16 short-form delivery at clean 4K commercial quality.",
+        "t2i_negative": "photographic likeness of a real celebrity, real brand logos/marks (except on-screen campaign words), watermark, garbled text, romanized korean, deformed face, extra fingers, low quality",
+        "i2v_motion": "The figure dances/poses with sharp energetic motion; camera handheld and fast; the kinetic Korean word color-inverts full-frame on the beat (blue↔white); hard flash-cut to the next location; ~0.54s.",
+        "i2v_params": {
+          "clip_duration_sec": 0.54,
+          "camera_move": "handheld",
+          "subject_motion_level": "dynamic",
+          "signature_effect": "color_invert_flash",
+          "pacing": "accelerating",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; figure abstracted (no real-celebrity likeness); on-screen Korean words verbatim; card design kept; logo mark generic except endcard lockup (session note)"
+      }
+    },
+    {
+      "index": 14,
+      "duration": 0.5,
+      "framing": "WS_low",
+      "function": "kick",
+      "color_mood": "brand_blue_white",
+      "subject_action": "stands legs wide, arms crossed, commanding, on the crosswalk — at a busy downtown crosswalk, low wide angle, big buildings behind",
+      "copy_overlay": "PX",
+      "subject_identity": "pov_user_hand",
+      "subject_relationship_to_protagonist": "extra_atmosphere",
+      "layout_grid": "center",
+      "subject_position": "center",
+      "typo_motion": "kinetic_pop_stamp",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "varies",
+      "gaze": "none",
+      "subject_motion": "pov_walk",
+      "camera_motion": "handheld",
+      "camera_motion_intensity": "moderate",
+      "camera_effect_local": "none",
+      "motion_blur": "light",
+      "intra_cut_rhythm": "accelerating",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "notes": "rhythm=accelerating; phase=kick; dur=0.5s — 강약 곡선의 일부",
+      "fact_check_flag": false,
+      "visible_elements": {
+        "foreground": [
+          "the subject (white tee, denim, sunglasses)"
+        ],
+        "midground": [
+          "a busy downtown crosswalk, low wide angle, big buildings behind"
+        ],
+        "background": [
+          "blue sky, city buildings, white crosswalk stripes"
+        ],
+        "lighting_env": [
+          "bright daylight"
+        ],
+        "atmosphere": [
+          "motion blur from fast cuts"
+        ]
+      },
+      "texture": {
+        "primary_subject": "fabric_cotton",
+        "secondary_objects": [
+          "metal_chrome",
+          "denim",
+          "glass_clear"
+        ],
+        "background_surface": "mixed",
+        "atmospheric": [
+          "motion_blur"
+        ]
+      },
+      "lighting": {
+        "key_direction": "front_45deg",
+        "key_hardness": "hard",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "moderate",
+        "key_to_fill_ratio": "3:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "soft",
+        "overall_contrast": "high"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#1B4DE6",
+          "#FFFFFF",
+          "#2B2B2B"
+        ],
+        "palette_role": {
+          "#1B4DE6": "brand_blue_typo",
+          "#FFFFFF": "white_type_and_tee"
+        },
+        "color_relationship": "brand_dominant",
+        "temperature_balance": "cool_dominant",
+        "saturation_strategy": "vivid_blue_pop",
+        "contrast_type": "hue_high",
+        "accent_color": "#1B4DE6",
+        "accent_ratio": "30_percent",
+        "brand_color_match": [
+          "brand blue #1B4DE6"
+        ]
+      },
+      "style_prompt": "a Korean man in his twenties (abstracted everyday type stands legs wide at a busy downtown crosswalk, low wide angle, big buildings behind, giant brand-blue kinetic Korean typo, WS_low, vivid blue/white, 9:16",
+      "recreation_prompts": {
+        "t2i_start_frame": "A vertical 9:16 frame: a Korean man in his twenties (abstracted everyday type, NOT a photo-likeness of any real celebrity), platinum-blond hair, slim silver wrap sunglasses, a fitted white tee, light-blue baggy denim, chunky silver chains, white sneakers, who stands legs wide, arms crossed, commanding, on the crosswalk; the figure dances and poses with restless energetic motion, the camera handheld and fast; framed as WS low. the white tee reads as soft cotton with light sheen, the denim as worn light-wash cotton, silver-metal chains and sunglasses, white leather sneakers; no visible brand logos on the clothing. The location is a busy downtown crosswalk, low wide angle, big buildings behind; this is one stop in a restless location-hopping montage where the same figure jumps between many real Korean places (overhead asphalt, helipad, rooftop billboard, mart storefront, concrete corridors, OTT/retail interiors, a convenience/electronics store, a department-store counter, and a downtown crosswalk). The figure occupies the foreground; a giant brand-blue kinetic Korean word “PX” fills a large part of the frame as motion typography that JITTERS a few pixels left-right and PULSES in size every frame (and in the kick section the whole frame COLOR-INVERTS between a blue background with white lettering and a white background with blue lettering); the on-screen Korean text is preserved verbatim and finalized in post. Lighting: hard bright daylight with strong shadows, key roughly from a 45-degree front angle, neutral-to-cool color temperature, high contrast. Lens/framing: WS low, a strong wide low-angle making the figure tower, roughly a 24-35mm-equivalent wide feel for the wides and 50-85mm for the close-ups, with visible handheld energy. Composition centers the figure with the giant kinetic typography bracketing or overlapping behind/around them (blue sky, city buildings, white crosswalk stripes); restless framing, the subject usually centered with bold negative space for the type. Palette: a brand-blue dominant palette (electric blue around #1B4DE6 to #2B6BFF on the kinetic typography) against blue sky, city buildings, white crosswalk stripes; white #FFFFFF type alternating; saturation vivid on the blue, the rest natural. Textures: soft cotton tee, worn light-wash denim, chrome sunglasses and silver chains, and the surface of blue sky, city buildings, white crosswalk stripes. Atmosphere: fast, chaotic, hip energy with motion blur between rapid cuts. Post/signature: clean digital grade, brand-blue dominant; the kinetic word color-inverts full-frame on the beat (blue↔white) as the energy kick; light film grain. Style anchor: clean 4K commercial look, contemporary Korean street-fashion music-video energy, vivid and kinetic, vertical 9:16. The human figure is an anonymous everyday Korean type, never a photographic likeness of a real celebrity, and no real brand logos appear except the on-screen Korean campaign words which are kept verbatim. Additional reconstruction detail: the brand-blue kinetic type sits at electric blue #1B4DE6 to #2B6BFF, the tee and alternate type at pure white #FFFFFF, ground and shadows at near-black #2B2B2B; the figure's styling stays identical across every location (platinum-blond hair, silver wrap sunglasses, fitted white tee, light-wash baggy denim, silver chains, white sneakers) so the rapid location jumps still read as one continuous character; camera energy is handheld with fast whip transitions between stops; the typography jitter is a few-pixel per-frame left-right wobble plus a subtle scale pulse, and in the back-third kick the entire frame hard-flashes between a blue field with white word and a white field with blue word on the musical beat; all Korean on-screen words are preserved verbatim and composited in post; the figure is an anonymous everyday Korean man in his twenties, not a likeness of any real person, and the only branding is the on-screen campaign typography, framed for a vertical 9:16 short-form delivery at clean 4K commercial quality.",
+        "t2i_negative": "photographic likeness of a real celebrity, real brand logos/marks (except on-screen campaign words), watermark, garbled text, romanized korean, deformed face, extra fingers, low quality",
+        "i2v_motion": "The figure dances/poses with sharp energetic motion; camera handheld and fast; the kinetic Korean word color-inverts full-frame on the beat (blue↔white); hard flash-cut to the next location; ~0.5s.",
+        "i2v_params": {
+          "clip_duration_sec": 0.5,
+          "camera_move": "handheld",
+          "subject_motion_level": "dynamic",
+          "signature_effect": "color_invert_flash",
+          "pacing": "accelerating",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; figure abstracted (no real-celebrity likeness); on-screen Korean words verbatim; card design kept; logo mark generic except endcard lockup (session note)"
+      }
+    },
+    {
+      "index": 15,
+      "duration": 0.6,
+      "framing": "MCU_overhead",
+      "function": "kick",
+      "color_mood": "brand_blue_white",
+      "subject_action": "leans into camera, fierce, hands gesturing — at the downtown crosswalk, closer, radial white lines",
+      "copy_overlay": null,
+      "subject_identity": "pov_user_hand",
+      "subject_relationship_to_protagonist": "extra_atmosphere",
+      "layout_grid": "center",
+      "subject_position": "center",
+      "typo_motion": "kinetic_pop_stamp",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "varies",
+      "gaze": "none",
+      "subject_motion": "pov_walk",
+      "camera_motion": "handheld",
+      "camera_motion_intensity": "moderate",
+      "camera_effect_local": "none",
+      "motion_blur": "light",
+      "intra_cut_rhythm": "accelerating",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "notes": "rhythm=accelerating; phase=kick; dur=0.6s — 강약 곡선의 일부",
+      "fact_check_flag": false,
+      "visible_elements": {
+        "foreground": [
+          "the subject (white tee, denim, sunglasses)"
+        ],
+        "midground": [
+          "the downtown crosswalk, closer, radial white lines"
+        ],
+        "background": [
+          "dark asphalt with radial white crosswalk lines"
+        ],
+        "lighting_env": [
+          "bright daylight"
+        ],
+        "atmosphere": [
+          "motion blur from fast cuts"
+        ]
+      },
+      "texture": {
+        "primary_subject": "fabric_cotton",
+        "secondary_objects": [
+          "metal_chrome",
+          "denim",
+          "concrete"
+        ],
+        "background_surface": "concrete",
+        "atmospheric": [
+          "motion_blur"
+        ]
+      },
+      "lighting": {
+        "key_direction": "top",
+        "key_hardness": "soft",
+        "key_color_temp": "cool_6500K",
+        "fill_strength": "moderate",
+        "key_to_fill_ratio": "3:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "soft",
+        "overall_contrast": "high"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#1B4DE6",
+          "#FFFFFF",
+          "#2B2B2B"
+        ],
+        "palette_role": {
+          "#1B4DE6": "brand_blue_typo",
+          "#FFFFFF": "white_type_and_tee"
+        },
+        "color_relationship": "brand_dominant",
+        "temperature_balance": "cool_dominant",
+        "saturation_strategy": "vivid_blue_pop",
+        "contrast_type": "hue_high",
+        "accent_color": "#1B4DE6",
+        "accent_ratio": "30_percent",
+        "brand_color_match": [
+          "brand blue #1B4DE6"
+        ]
+      },
+      "style_prompt": "a Korean man in his twenties (abstracted everyday type leans into camera at the downtown crosswalk, closer, radial white lines, giant brand-blue kinetic Korean typo, MCU_overhead, vivid blue/white, 9:16",
+      "recreation_prompts": {
+        "t2i_start_frame": "A vertical 9:16 frame: a Korean man in his twenties (abstracted everyday type, NOT a photo-likeness of any real celebrity), platinum-blond hair, slim silver wrap sunglasses, a fitted white tee, light-blue baggy denim, chunky silver chains, white sneakers, who leans into camera, fierce, hands gesturing; the figure dances and poses with restless energetic motion, the camera handheld and fast; framed as MCU overhead. the white tee reads as soft cotton with light sheen, the denim as worn light-wash cotton, silver-metal chains and sunglasses, white leather sneakers; no visible brand logos on the clothing. The location is the downtown crosswalk, closer, radial white lines; this is one stop in a restless location-hopping montage where the same figure jumps between many real Korean places (overhead asphalt, helipad, rooftop billboard, mart storefront, concrete corridors, OTT/retail interiors, a convenience/electronics store, a department-store counter, and a downtown crosswalk). The figure occupies the foreground; no large on-screen typography in this beat. Lighting: cooler interior/practical light, soft, key roughly from top, neutral-to-cool color temperature, high contrast. Lens/framing: MCU overhead, roughly a 24-35mm-equivalent wide feel for the wides and 50-85mm for the close-ups, with visible handheld energy. Composition centers the figure with the giant kinetic typography bracketing or overlapping behind/around them (dark asphalt with radial white crosswalk lines); restless framing, the subject usually centered with bold negative space for the type. Palette: a brand-blue dominant palette (electric blue around #1B4DE6 to #2B6BFF on the kinetic typography) against dark asphalt with radial white crosswalk lines; white #FFFFFF type alternating; saturation vivid on the blue, the rest natural. Textures: soft cotton tee, worn light-wash denim, chrome sunglasses and silver chains, and the surface of dark asphalt with radial white crosswalk lines. Atmosphere: fast, chaotic, hip energy with motion blur between rapid cuts. Post/signature: clean digital grade, brand-blue dominant; the kinetic word color-inverts full-frame on the beat (blue↔white) as the energy kick; light film grain. Style anchor: clean 4K commercial look, contemporary Korean street-fashion music-video energy, vivid and kinetic, vertical 9:16. The human figure is an anonymous everyday Korean type, never a photographic likeness of a real celebrity, and no real brand logos appear except the on-screen Korean campaign words which are kept verbatim. Additional reconstruction detail: the brand-blue kinetic type sits at electric blue #1B4DE6 to #2B6BFF, the tee and alternate type at pure white #FFFFFF, ground and shadows at near-black #2B2B2B; the figure's styling stays identical across every location (platinum-blond hair, silver wrap sunglasses, fitted white tee, light-wash baggy denim, silver chains, white sneakers) so the rapid location jumps still read as one continuous character; camera energy is handheld with fast whip transitions between stops; the typography jitter is a few-pixel per-frame left-right wobble plus a subtle scale pulse, and in the back-third kick the entire frame hard-flashes between a blue field with white word and a white field with blue word on the musical beat; all Korean on-screen words are preserved verbatim and composited in post; the figure is an anonymous everyday Korean man in his twenties, not a likeness of any real person, and the only branding is the on-screen campaign typography, framed for a vertical 9:16 short-form delivery at clean 4K commercial quality.",
+        "t2i_negative": "photographic likeness of a real celebrity, real brand logos/marks (except on-screen campaign words), watermark, garbled text, romanized korean, deformed face, extra fingers, low quality",
+        "i2v_motion": "The figure dances/poses with sharp energetic motion; camera handheld and fast; the kinetic Korean word color-inverts full-frame on the beat (blue↔white); hard flash-cut to the next location; ~0.6s.",
+        "i2v_params": {
+          "clip_duration_sec": 0.6,
+          "camera_move": "handheld",
+          "subject_motion_level": "dynamic",
+          "signature_effect": "color_invert_flash",
+          "pacing": "accelerating",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; figure abstracted (no real-celebrity likeness); on-screen Korean words verbatim; card design kept; logo mark generic except endcard lockup (session note)"
+      }
+    },
+    {
+      "index": 16,
+      "duration": 0.46,
+      "framing": "CU",
+      "function": "kick",
+      "color_mood": "brand_blue_white",
+      "subject_action": "aggressive gesture toward lens — at crosswalk close, fast handheld",
+      "copy_overlay": null,
+      "subject_identity": "pov_user_hand",
+      "subject_relationship_to_protagonist": "extra_atmosphere",
+      "layout_grid": "center",
+      "subject_position": "center",
+      "typo_motion": "kinetic_pop_stamp",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "varies",
+      "gaze": "none",
+      "subject_motion": "pov_walk",
+      "camera_motion": "handheld",
+      "camera_motion_intensity": "moderate",
+      "camera_effect_local": "none",
+      "motion_blur": "light",
+      "intra_cut_rhythm": "accelerating",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "notes": "rhythm=accelerating; phase=kick; dur=0.46s — 강약 곡선의 일부",
+      "fact_check_flag": false,
+      "visible_elements": {
+        "foreground": [
+          "the subject (white tee, denim, sunglasses)"
+        ],
+        "midground": [
+          "crosswalk close, fast handheld"
+        ],
+        "background": [
+          "crosswalk, motion blur"
+        ],
+        "lighting_env": [
+          "bright daylight"
+        ],
+        "atmosphere": [
+          "motion blur from fast cuts"
+        ]
+      },
+      "texture": {
+        "primary_subject": "fabric_cotton",
+        "secondary_objects": [
+          "metal_chrome",
+          "denim",
+          "glass_clear"
+        ],
+        "background_surface": "mixed",
+        "atmospheric": [
+          "motion_blur"
+        ]
+      },
+      "lighting": {
+        "key_direction": "front_45deg",
+        "key_hardness": "soft",
+        "key_color_temp": "cool_6500K",
+        "fill_strength": "moderate",
+        "key_to_fill_ratio": "3:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "soft",
+        "overall_contrast": "high"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#1B4DE6",
+          "#FFFFFF",
+          "#2B2B2B"
+        ],
+        "palette_role": {
+          "#1B4DE6": "brand_blue_typo",
+          "#FFFFFF": "white_type_and_tee"
+        },
+        "color_relationship": "brand_dominant",
+        "temperature_balance": "cool_dominant",
+        "saturation_strategy": "vivid_blue_pop",
+        "contrast_type": "hue_high",
+        "accent_color": "#1B4DE6",
+        "accent_ratio": "30_percent",
+        "brand_color_match": [
+          "brand blue #1B4DE6"
+        ]
+      },
+      "style_prompt": "a Korean man in his twenties (abstracted everyday type aggressive gesture toward lens at crosswalk close, fast handheld, giant brand-blue kinetic Korean typo, CU, vivid blue/white, 9:16",
+      "recreation_prompts": {
+        "t2i_start_frame": "A vertical 9:16 frame: a Korean man in his twenties (abstracted everyday type, NOT a photo-likeness of any real celebrity), platinum-blond hair, slim silver wrap sunglasses, a fitted white tee, light-blue baggy denim, chunky silver chains, white sneakers, who aggressive gesture toward lens; the figure dances and poses with restless energetic motion, the camera handheld and fast; framed as CU. the white tee reads as soft cotton with light sheen, the denim as worn light-wash cotton, silver-metal chains and sunglasses, white leather sneakers; no visible brand logos on the clothing. The location is crosswalk close, fast handheld; this is one stop in a restless location-hopping montage where the same figure jumps between many real Korean places (overhead asphalt, helipad, rooftop billboard, mart storefront, concrete corridors, OTT/retail interiors, a convenience/electronics store, a department-store counter, and a downtown crosswalk). The figure occupies the foreground; no large on-screen typography in this beat. Lighting: cooler interior/practical light, soft, key roughly from a 45-degree front angle, neutral-to-cool color temperature, high contrast. Lens/framing: CU, roughly a 24-35mm-equivalent wide feel for the wides and 50-85mm for the close-ups, with visible handheld energy. Composition centers the figure with the giant kinetic typography bracketing or overlapping behind/around them (crosswalk, motion blur); restless framing, the subject usually centered with bold negative space for the type. Palette: a brand-blue dominant palette (electric blue around #1B4DE6 to #2B6BFF on the kinetic typography) against crosswalk, motion blur; white #FFFFFF type alternating; saturation vivid on the blue, the rest natural. Textures: soft cotton tee, worn light-wash denim, chrome sunglasses and silver chains, and the surface of crosswalk, motion blur. Atmosphere: fast, chaotic, hip energy with motion blur between rapid cuts. Post/signature: clean digital grade, brand-blue dominant; the kinetic word color-inverts full-frame on the beat (blue↔white) as the energy kick; light film grain. Style anchor: clean 4K commercial look, contemporary Korean street-fashion music-video energy, vivid and kinetic, vertical 9:16. The human figure is an anonymous everyday Korean type, never a photographic likeness of a real celebrity, and no real brand logos appear except the on-screen Korean campaign words which are kept verbatim. Additional reconstruction detail: the brand-blue kinetic type sits at electric blue #1B4DE6 to #2B6BFF, the tee and alternate type at pure white #FFFFFF, ground and shadows at near-black #2B2B2B; the figure's styling stays identical across every location (platinum-blond hair, silver wrap sunglasses, fitted white tee, light-wash baggy denim, silver chains, white sneakers) so the rapid location jumps still read as one continuous character; camera energy is handheld with fast whip transitions between stops; the typography jitter is a few-pixel per-frame left-right wobble plus a subtle scale pulse, and in the back-third kick the entire frame hard-flashes between a blue field with white word and a white field with blue word on the musical beat; all Korean on-screen words are preserved verbatim and composited in post; the figure is an anonymous everyday Korean man in his twenties, not a likeness of any real person, and the only branding is the on-screen campaign typography, framed for a vertical 9:16 short-form delivery at clean 4K commercial quality. Additional reconstruction detail: the brand-blue kinetic type sits at electric blue #1B4DE6 to #2B6BFF, the tee and alternate type at pure white #FFFFFF, ground and shadows at near-black #2B2B2B; the figure's styling stays identical across every location (platinum-blond hair, silver wrap sunglasses, fitted white tee, light-wash baggy denim, silver chains, white sneakers) so the rapid location jumps still read as one continuous character; camera energy is handheld with fast whip transitions between stops; the typography jitter is a few-pixel per-frame left-right wobble plus a subtle scale pulse, and in the back-third kick the entire frame hard-flashes between a blue field with white word and a white field with blue word on the musical beat; all Korean on-screen words are preserved verbatim and composited in post; the figure is an anonymous everyday Korean man in his twenties, not a likeness of any real person, and the only branding is the on-screen campaign typography, framed for a vertical 9:16 short-form delivery at clean 4K commercial quality.",
+        "t2i_negative": "photographic likeness of a real celebrity, real brand logos/marks (except on-screen campaign words), watermark, garbled text, romanized korean, deformed face, extra fingers, low quality",
+        "i2v_motion": "The figure dances/poses with sharp energetic motion; camera handheld and fast; the kinetic Korean word color-inverts full-frame on the beat (blue↔white); hard flash-cut to the next location; ~0.46s.",
+        "i2v_params": {
+          "clip_duration_sec": 0.46,
+          "camera_move": "handheld",
+          "subject_motion_level": "dynamic",
+          "signature_effect": "color_invert_flash",
+          "pacing": "accelerating",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; figure abstracted (no real-celebrity likeness); on-screen Korean words verbatim; card design kept; logo mark generic except endcard lockup (session note)"
+      }
+    },
+    {
+      "index": 17,
+      "duration": 0.77,
+      "framing": "MS_overhead",
+      "function": "kick",
+      "color_mood": "brand_blue_white",
+      "subject_action": "points and struts — at the radial crosswalk from above",
+      "copy_overlay": null,
+      "subject_identity": "pov_user_hand",
+      "subject_relationship_to_protagonist": "extra_atmosphere",
+      "layout_grid": "center",
+      "subject_position": "center",
+      "typo_motion": "kinetic_pop_stamp",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "varies",
+      "gaze": "none",
+      "subject_motion": "pov_walk",
+      "camera_motion": "handheld",
+      "camera_motion_intensity": "moderate",
+      "camera_effect_local": "none",
+      "motion_blur": "light",
+      "intra_cut_rhythm": "accelerating",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "notes": "rhythm=accelerating; phase=kick; dur=0.77s — 강약 곡선의 일부",
+      "fact_check_flag": false,
+      "visible_elements": {
+        "foreground": [
+          "the subject (white tee, denim, sunglasses)"
+        ],
+        "midground": [
+          "the radial crosswalk from above"
+        ],
+        "background": [
+          "radial white lines on dark asphalt"
+        ],
+        "lighting_env": [
+          "bright daylight"
+        ],
+        "atmosphere": [
+          "motion blur from fast cuts"
+        ]
+      },
+      "texture": {
+        "primary_subject": "fabric_cotton",
+        "secondary_objects": [
+          "metal_chrome",
+          "denim",
+          "concrete"
+        ],
+        "background_surface": "concrete",
+        "atmospheric": [
+          "motion_blur"
+        ]
+      },
+      "lighting": {
+        "key_direction": "top",
+        "key_hardness": "soft",
+        "key_color_temp": "cool_6500K",
+        "fill_strength": "moderate",
+        "key_to_fill_ratio": "3:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "soft",
+        "overall_contrast": "high"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#1B4DE6",
+          "#FFFFFF",
+          "#2B2B2B"
+        ],
+        "palette_role": {
+          "#1B4DE6": "brand_blue_typo",
+          "#FFFFFF": "white_type_and_tee"
+        },
+        "color_relationship": "brand_dominant",
+        "temperature_balance": "cool_dominant",
+        "saturation_strategy": "vivid_blue_pop",
+        "contrast_type": "hue_high",
+        "accent_color": "#1B4DE6",
+        "accent_ratio": "30_percent",
+        "brand_color_match": [
+          "brand blue #1B4DE6"
+        ]
+      },
+      "style_prompt": "a Korean man in his twenties (abstracted everyday type points and struts at the radial crosswalk from above, giant brand-blue kinetic Korean typo, MS_overhead, vivid blue/white, 9:16",
+      "recreation_prompts": {
+        "t2i_start_frame": "A vertical 9:16 frame: a Korean man in his twenties (abstracted everyday type, NOT a photo-likeness of any real celebrity), platinum-blond hair, slim silver wrap sunglasses, a fitted white tee, light-blue baggy denim, chunky silver chains, white sneakers, who points and struts; the figure dances and poses with restless energetic motion, the camera handheld and fast; framed as MS overhead. the white tee reads as soft cotton with light sheen, the denim as worn light-wash cotton, silver-metal chains and sunglasses, white leather sneakers; no visible brand logos on the clothing. The location is the radial crosswalk from above; this is one stop in a restless location-hopping montage where the same figure jumps between many real Korean places (overhead asphalt, helipad, rooftop billboard, mart storefront, concrete corridors, OTT/retail interiors, a convenience/electronics store, a department-store counter, and a downtown crosswalk). The figure occupies the foreground; no large on-screen typography in this beat. Lighting: cooler interior/practical light, soft, key roughly from top, neutral-to-cool color temperature, high contrast. Lens/framing: MS overhead, roughly a 24-35mm-equivalent wide feel for the wides and 50-85mm for the close-ups, with visible handheld energy. Composition centers the figure with the giant kinetic typography bracketing or overlapping behind/around them (radial white lines on dark asphalt); restless framing, the subject usually centered with bold negative space for the type. Palette: a brand-blue dominant palette (electric blue around #1B4DE6 to #2B6BFF on the kinetic typography) against radial white lines on dark asphalt; white #FFFFFF type alternating; saturation vivid on the blue, the rest natural. Textures: soft cotton tee, worn light-wash denim, chrome sunglasses and silver chains, and the surface of radial white lines on dark asphalt. Atmosphere: fast, chaotic, hip energy with motion blur between rapid cuts. Post/signature: clean digital grade, brand-blue dominant; the kinetic word color-inverts full-frame on the beat (blue↔white) as the energy kick; light film grain. Style anchor: clean 4K commercial look, contemporary Korean street-fashion music-video energy, vivid and kinetic, vertical 9:16. The human figure is an anonymous everyday Korean type, never a photographic likeness of a real celebrity, and no real brand logos appear except the on-screen Korean campaign words which are kept verbatim. Additional reconstruction detail: the brand-blue kinetic type sits at electric blue #1B4DE6 to #2B6BFF, the tee and alternate type at pure white #FFFFFF, ground and shadows at near-black #2B2B2B; the figure's styling stays identical across every location (platinum-blond hair, silver wrap sunglasses, fitted white tee, light-wash baggy denim, silver chains, white sneakers) so the rapid location jumps still read as one continuous character; camera energy is handheld with fast whip transitions between stops; the typography jitter is a few-pixel per-frame left-right wobble plus a subtle scale pulse, and in the back-third kick the entire frame hard-flashes between a blue field with white word and a white field with blue word on the musical beat; all Korean on-screen words are preserved verbatim and composited in post; the figure is an anonymous everyday Korean man in his twenties, not a likeness of any real person, and the only branding is the on-screen campaign typography, framed for a vertical 9:16 short-form delivery at clean 4K commercial quality. Additional reconstruction detail: the brand-blue kinetic type sits at electric blue #1B4DE6 to #2B6BFF, the tee and alternate type at pure white #FFFFFF, ground and shadows at near-black #2B2B2B; the figure's styling stays identical across every location (platinum-blond hair, silver wrap sunglasses, fitted white tee, light-wash baggy denim, silver chains, white sneakers) so the rapid location jumps still read as one continuous character; camera energy is handheld with fast whip transitions between stops; the typography jitter is a few-pixel per-frame left-right wobble plus a subtle scale pulse, and in the back-third kick the entire frame hard-flashes between a blue field with white word and a white field with blue word on the musical beat; all Korean on-screen words are preserved verbatim and composited in post; the figure is an anonymous everyday Korean man in his twenties, not a likeness of any real person, and the only branding is the on-screen campaign typography, framed for a vertical 9:16 short-form delivery at clean 4K commercial quality.",
+        "t2i_negative": "photographic likeness of a real celebrity, real brand logos/marks (except on-screen campaign words), watermark, garbled text, romanized korean, deformed face, extra fingers, low quality",
+        "i2v_motion": "The figure dances/poses with sharp energetic motion; camera handheld and fast; the kinetic Korean word color-inverts full-frame on the beat (blue↔white); hard flash-cut to the next location; ~0.77s.",
+        "i2v_params": {
+          "clip_duration_sec": 0.77,
+          "camera_move": "handheld",
+          "subject_motion_level": "dynamic",
+          "signature_effect": "color_invert_flash",
+          "pacing": "accelerating",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; figure abstracted (no real-celebrity likeness); on-screen Korean words verbatim; card design kept; logo mark generic except endcard lockup (session note)"
+      }
+    },
+    {
+      "index": 18,
+      "duration": 0.5,
+      "framing": "MS",
+      "function": "release",
+      "color_mood": "brand_blue_white",
+      "subject_action": "turns, settling — at transition toward the blue end space",
+      "copy_overlay": null,
+      "subject_identity": "pov_user_hand",
+      "subject_relationship_to_protagonist": "extra_atmosphere",
+      "layout_grid": "center",
+      "subject_position": "center",
+      "typo_motion": "kinetic_pop_stamp",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "varies",
+      "gaze": "none",
+      "subject_motion": "pov_walk",
+      "camera_motion": "handheld",
+      "camera_motion_intensity": "moderate",
+      "camera_effect_local": "none",
+      "motion_blur": "none",
+      "intra_cut_rhythm": "accelerating",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "notes": "rhythm=accelerating; phase=release; dur=0.5s — 강약 곡선의 일부",
+      "fact_check_flag": false,
+      "visible_elements": {
+        "foreground": [
+          "the subject (white tee, denim, sunglasses)"
+        ],
+        "midground": [
+          "transition toward the blue end space"
+        ],
+        "background": [
+          "transitional, cooling to blue"
+        ],
+        "lighting_env": [
+          "interior/practical lighting"
+        ],
+        "atmosphere": [
+          "clean air"
+        ]
+      },
+      "texture": {
+        "primary_subject": "fabric_cotton",
+        "secondary_objects": [
+          "metal_chrome",
+          "denim",
+          "glass_clear"
+        ],
+        "background_surface": "mixed",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "front_45deg",
+        "key_hardness": "soft",
+        "key_color_temp": "cool_6500K",
+        "fill_strength": "moderate",
+        "key_to_fill_ratio": "3:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "soft",
+        "overall_contrast": "mid_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#1B4DE6",
+          "#FFFFFF",
+          "#2B2B2B"
+        ],
+        "palette_role": {
+          "#1B4DE6": "brand_blue_typo",
+          "#FFFFFF": "white_type_and_tee"
+        },
+        "color_relationship": "brand_dominant",
+        "temperature_balance": "cool_dominant",
+        "saturation_strategy": "vivid_blue_pop",
+        "contrast_type": "luminance_mid",
+        "accent_color": "#1B4DE6",
+        "accent_ratio": "30_percent",
+        "brand_color_match": [
+          "brand blue #1B4DE6"
+        ]
+      },
+      "style_prompt": "a Korean man in his twenties (abstracted everyday type turns at transition toward the blue end space, giant brand-blue kinetic Korean typo, MS, vivid blue/white, 9:16",
+      "recreation_prompts": {
+        "t2i_start_frame": "A vertical 9:16 frame: a Korean man in his twenties (abstracted everyday type, NOT a photo-likeness of any real celebrity), platinum-blond hair, slim silver wrap sunglasses, a fitted white tee, light-blue baggy denim, chunky silver chains, white sneakers, who turns, settling; near-still, calm; framed as MS. the white tee reads as soft cotton with light sheen, the denim as worn light-wash cotton, silver-metal chains and sunglasses, white leather sneakers; no visible brand logos on the clothing. The location is transition toward the blue end space; this is one stop in a restless location-hopping montage where the same figure jumps between many real Korean places (overhead asphalt, helipad, rooftop billboard, mart storefront, concrete corridors, OTT/retail interiors, a convenience/electronics store, a department-store counter, and a downtown crosswalk). The figure occupies the foreground; no large on-screen typography in this beat. Lighting: cooler interior/practical light, soft, key roughly from a 45-degree front angle, neutral-to-cool color temperature, medium contrast. Lens/framing: MS, roughly a 24-35mm-equivalent wide feel for the wides and 50-85mm for the close-ups, with visible handheld energy. Composition centers the figure with the giant kinetic typography bracketing or overlapping behind/around them (transitional, cooling to blue); restless framing, the subject usually centered with bold negative space for the type. Palette: a brand-blue dominant palette (electric blue around #1B4DE6 to #2B6BFF on the kinetic typography) against transitional, cooling to blue; white #FFFFFF type alternating; saturation vivid on the blue, the rest natural. Textures: soft cotton tee, worn light-wash denim, chrome sunglasses and silver chains, and the surface of transitional, cooling to blue. Atmosphere: bold, youthful, energetic, clean air. Post/signature: clean digital grade, brand-blue dominant; the kinetic typography jitters and pulses per frame; light film grain. Style anchor: clean 4K commercial look, contemporary Korean street-fashion music-video energy, vivid and kinetic, vertical 9:16. The human figure is an anonymous everyday Korean type, never a photographic likeness of a real celebrity, and no real brand logos appear except the on-screen Korean campaign words which are kept verbatim. Additional reconstruction detail: the brand-blue kinetic type sits at electric blue #1B4DE6 to #2B6BFF, the tee and alternate type at pure white #FFFFFF, ground and shadows at near-black #2B2B2B; the figure's styling stays identical across every location (platinum-blond hair, silver wrap sunglasses, fitted white tee, light-wash baggy denim, silver chains, white sneakers) so the rapid location jumps still read as one continuous character; camera energy is handheld with fast whip transitions between stops; the typography jitter is a few-pixel per-frame left-right wobble plus a subtle scale pulse, and in the back-third kick the entire frame hard-flashes between a blue field with white word and a white field with blue word on the musical beat; all Korean on-screen words are preserved verbatim and composited in post; the figure is an anonymous everyday Korean man in his twenties, not a likeness of any real person, and the only branding is the on-screen campaign typography, framed for a vertical 9:16 short-form delivery at clean 4K commercial quality. Additional reconstruction detail: the brand-blue kinetic type sits at electric blue #1B4DE6 to #2B6BFF, the tee and alternate type at pure white #FFFFFF, ground and shadows at near-black #2B2B2B; the figure's styling stays identical across every location (platinum-blond hair, silver wrap sunglasses, fitted white tee, light-wash baggy denim, silver chains, white sneakers) so the rapid location jumps still read as one continuous character; camera energy is handheld with fast whip transitions between stops; the typography jitter is a few-pixel per-frame left-right wobble plus a subtle scale pulse, and in the back-third kick the entire frame hard-flashes between a blue field with white word and a white field with blue word on the musical beat; all Korean on-screen words are preserved verbatim and composited in post; the figure is an anonymous everyday Korean man in his twenties, not a likeness of any real person, and the only branding is the on-screen campaign typography, framed for a vertical 9:16 short-form delivery at clean 4K commercial quality.",
+        "t2i_negative": "photographic likeness of a real celebrity, real brand logos/marks (except on-screen campaign words), watermark, garbled text, romanized korean, deformed face, extra fingers, low quality",
+        "i2v_motion": "Near-still, calm; the kinetic Korean word jitters left-right a few pixels and pulses in size every frame; energetic hold; ~0.5s.",
+        "i2v_params": {
+          "clip_duration_sec": 0.5,
+          "camera_move": "locked_off",
+          "subject_motion_level": "still",
+          "signature_effect": "jitter_pulse",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; figure abstracted (no real-celebrity likeness); on-screen Korean words verbatim; card design kept; logo mark generic except endcard lockup (session note)"
+      }
+    },
+    {
+      "index": 19,
+      "duration": 1.37,
+      "framing": "MCU_profile",
+      "function": "release_endcard",
+      "color_mood": "brand_blue_white",
+      "subject_action": "near-still, the card slowly rotates, subject in calm profile — at a solid electric-blue background, profile of the subject at right, the white check card floating left with a logo lockup",
+      "copy_overlay": "신한은행 (logo lockup)",
+      "subject_identity": "pov_user_hand",
+      "subject_relationship_to_protagonist": "extra_atmosphere",
+      "layout_grid": "center",
+      "subject_position": "center",
+      "typo_motion": "kinetic_pop_stamp",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "varies",
+      "gaze": "none",
+      "subject_motion": "pov_walk",
+      "camera_motion": "handheld",
+      "camera_motion_intensity": "moderate",
+      "camera_effect_local": "none",
+      "motion_blur": "none",
+      "intra_cut_rhythm": "steady",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "notes": "rhythm=steady; phase=release_endcard; dur=1.37s — 강약 곡선의 일부",
+      "fact_check_flag": false,
+      "visible_elements": {
+        "foreground": [
+          "the subject (white tee, denim, sunglasses)"
+        ],
+        "midground": [
+          "a solid electric-blue background, profile of the subject at right, the white check card floating left with a logo lockup"
+        ],
+        "background": [
+          "solid electric blue #1B4DE6, white card, white logo"
+        ],
+        "lighting_env": [
+          "interior/practical lighting"
+        ],
+        "atmosphere": [
+          "clean air"
+        ]
+      },
+      "texture": {
+        "primary_subject": "fabric_cotton",
+        "secondary_objects": [
+          "metal_chrome",
+          "denim",
+          "glass_clear"
+        ],
+        "background_surface": "mixed",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "front_45deg",
+        "key_hardness": "soft",
+        "key_color_temp": "cool_6500K",
+        "fill_strength": "moderate",
+        "key_to_fill_ratio": "3:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "soft",
+        "overall_contrast": "mid_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#1B4DE6",
+          "#FFFFFF",
+          "#2B2B2B"
+        ],
+        "palette_role": {
+          "#1B4DE6": "brand_blue_typo",
+          "#FFFFFF": "white_type_and_tee"
+        },
+        "color_relationship": "brand_dominant",
+        "temperature_balance": "cool_dominant",
+        "saturation_strategy": "vivid_blue_pop",
+        "contrast_type": "luminance_mid",
+        "accent_color": "#1B4DE6",
+        "accent_ratio": "30_percent",
+        "brand_color_match": [
+          "brand blue #1B4DE6"
+        ]
+      },
+      "style_prompt": "a Korean man in his twenties (abstracted everyday type near-still at a solid electric-blue background, profile of the subject at right, the white check card floating left with a logo lockup, giant brand-blue kinetic Korean typo, MCU_profile, vivid blue/white, 9:16",
+      "recreation_prompts": {
+        "t2i_start_frame": "A vertical 9:16 frame: a Korean man in his twenties (abstracted everyday type, NOT a photo-likeness of any real celebrity), platinum-blond hair, slim silver wrap sunglasses, a fitted white tee, light-blue baggy denim, chunky silver chains, white sneakers, who near-still, the card slowly rotates, subject in calm profile; near-still, calm; framed as MCU profile. the white tee reads as soft cotton with light sheen, the denim as worn light-wash cotton, silver-metal chains and sunglasses, white leather sneakers; no visible brand logos on the clothing. The location is a solid electric-blue background, profile of the subject at right, the white check card floating left with a logo lockup; this is one stop in a restless location-hopping montage where the same figure jumps between many real Korean places (overhead asphalt, helipad, rooftop billboard, mart storefront, concrete corridors, OTT/retail interiors, a convenience/electronics store, a department-store counter, and a downtown crosswalk). The figure occupies the foreground; a giant brand-blue kinetic Korean word “신한은행 (logo lockup)” fills a large part of the frame as motion typography that JITTERS a few pixels left-right and PULSES in size every frame (and in the kick section the whole frame COLOR-INVERTS between a blue background with white lettering and a white background with blue lettering); the on-screen Korean text is preserved verbatim and finalized in post. Lighting: cooler interior/practical light, soft, key roughly from a 45-degree front angle, neutral-to-cool color temperature, medium contrast. Lens/framing: MCU profile, roughly a 24-35mm-equivalent wide feel for the wides and 50-85mm for the close-ups, with visible handheld energy. Composition centers the figure with the giant kinetic typography bracketing or overlapping behind/around them (solid electric blue #1B4DE6, white card, white logo); restless framing, the subject usually centered with bold negative space for the type. Palette: a brand-blue dominant palette (electric blue around #1B4DE6 to #2B6BFF on the kinetic typography) against solid electric blue #1B4DE6, white card, white logo; white #FFFFFF type alternating; saturation vivid on the blue, the rest natural. Textures: soft cotton tee, worn light-wash denim, chrome sunglasses and silver chains, and the surface of solid electric blue #1B4DE6, white card, white logo. Atmosphere: bold, youthful, energetic, clean air. Post/signature: clean digital grade, brand-blue dominant; the kinetic typography jitters and pulses per frame; light film grain. Style anchor: clean 4K commercial look, contemporary Korean street-fashion music-video energy, vivid and kinetic, vertical 9:16. The human figure is an anonymous everyday Korean type, never a photographic likeness of a real celebrity, and no real brand logos appear except the on-screen Korean campaign words which are kept verbatim. Additional reconstruction detail: the brand-blue kinetic type sits at electric blue #1B4DE6 to #2B6BFF, the tee and alternate type at pure white #FFFFFF, ground and shadows at near-black #2B2B2B; the figure's styling stays identical across every location (platinum-blond hair, silver wrap sunglasses, fitted white tee, light-wash baggy denim, silver chains, white sneakers) so the rapid location jumps still read as one continuous character; camera energy is handheld with fast whip transitions between stops; the typography jitter is a few-pixel per-frame left-right wobble plus a subtle scale pulse, and in the back-third kick the entire frame hard-flashes between a blue field with white word and a white field with blue word on the musical beat; all Korean on-screen words are preserved verbatim and composited in post; the figure is an anonymous everyday Korean man in his twenties, not a likeness of any real person, and the only branding is the on-screen campaign typography, framed for a vertical 9:16 short-form delivery at clean 4K commercial quality.",
+        "t2i_negative": "photographic likeness of a real celebrity, real brand logos/marks (except on-screen campaign words), watermark, garbled text, romanized korean, deformed face, extra fingers, low quality",
+        "i2v_motion": "Near-still, calm; the kinetic Korean word jitters left-right a few pixels and pulses in size every frame; energetic hold; ~1.37s.",
+        "i2v_params": {
+          "clip_duration_sec": 1.37,
+          "camera_move": "locked_off",
+          "subject_motion_level": "still",
+          "signature_effect": "jitter_pulse",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; figure abstracted (no real-celebrity likeness); on-screen Korean words verbatim; card design kept; logo mark generic except endcard lockup (session note)"
+      }
+    }
+  ],
+  "search_keywords": {
+    "industry": [
+      "finance"
+    ],
+    "product_category": [
+      "card"
+    ],
+    "target_demo": [
+      "mz",
+      "20s",
+      "30s",
+      "early_career"
+    ],
+    "media_format": [
+      "shortform_vertical_30s"
+    ],
+    "tone": [
+      "dynamic_powerful",
+      "confident",
+      "clean_minimal"
+    ],
+    "pacing": [
+      "slow_build",
+      "staccato",
+      "accelerating"
+    ],
+    "technique": [
+      "celeb_hook",
+      "kinetic_typo",
+      "oner_walking_shot",
+      "lifestyle_cg_intercut",
+      "product_solo_hero",
+      "dissolve_montage"
+    ],
+    "vfx_keywords": [
+      "ui_motion",
+      "color_pop",
+      "3d_render",
+      "title_graphics"
+    ],
+    "copy_strategy_keywords": [
+      "brand_name_pun",
+      "number_emphasis",
+      "building_climax",
+      "caption_led",
+      "feature_benefit_direct"
+    ],
+    "concept_derivation_pattern": [
+      "celeb_fashionfilm",
+      "three_part_time_flow"
+    ]
+  },
+  "inferred_creative_thinking": {
+    "confidence": "inferred",
+    "insight_one_liner": "MZ에게 카드 혜택의 '다양함'은 지루한 나열이 아니라 셀럽 에너지+빠른 리듬으로 '쏟아붓는' 쾌감으로 전해야 꽂힌다",
+    "persona_one_liner": "트렌드에 민감한 2030, 셀럽·숏폼 네이티브",
+    "moment_one_liner": "일상 곳곳(편의점·쇼핑몰)에서 카드를 쓰는 순간들",
+    "product_role_one_liner": "여러 혜택을 '단 하나로' 모은 체크카드",
+    "punchline_one_liner": "단 하나로 (부터~까지 다 된다)",
+    "differentiator_one_liner": "전반 셀럽+키네틱타이포 브랜드 각인 → 후반 1인칭 POV 라이프스타일 몽타주로 혜택 키워드를 스타카토로 난사하는 강약 구조",
+    "brand_fit_one_liner": "셀럽 모델 + 신한 브랜드블루 키네틱타이포의 에너지가 카드의 '젊음·다양한 혜택'과 맞음"
+  },
+  "inferred_brief": "체크카드의 다양한 생활 혜택을 셀럽과 키네틱 타이포로 젊고 에너지있게, 숏폼 세로로 각인시킨다.",
+  "cross_pollination_tags": {
+    "adjacent": [
+      "insurance",
+      "telecom",
+      "subscription_membership"
+    ],
+    "distant": [
+      "sportswear",
+      "beauty",
+      "content_ott"
+    ],
+    "contrast": [
+      "luxury",
+      "realestate_emotional_presale",
+      "industrial_b2b"
+    ]
+  },
+  "concept_derivation_pattern": [
+    "celeb_fashionfilm",
+    "three_part_time_flow"
+  ],
+  "confidence": "inferred",
+  "analyst_notes": "핵심 분석 목적 = 페이싱(강약) 역설계. 곡선: 약(0-5.7s, 컷 1.1-1.9s 셀럽 OOH+키네틱타이포) → 중(5.7-10s, 1.8-2.6s 카드 리빌+첫 로케이션 셋업) → 강강(10.1-17.5s, 0.47-1.47s 스타카토 1인칭 POV 리테일 몽타주 + 키워드 스탬프, 11컷 연속 = 킥) → 약(17.5-19.4s, 엔드카드). 우리 KREAM 영상이 평탄했던 이유 = 전 구간 1.4-1.8s 균등 + 후반 킥(스타카토 몽타주) 부재. 이식 포인트: 혜택 구간을 정적 그래픽이 아니라 '빠른 POV 로케이션 컷 + 키워드 스탬프 + 카드 in-hand'의 스타카토 버스트로. [정정·전수판독] 오프닝=부감 댄스+블러줌 트랜지션. 빌드 타이포=정적 아님, 매 프레임 jitter+펄스. 킥=색반전 풀스크린 워드 플래시(블루↔화이트)+POV 리테일 난사+격한 핸드헬드. 브랜드=배민×신한 콜라보. 텍스트 모션 상세는 text_motion_analysis 필드.",
+  "verification": {
+    "frames_reviewed": "ALL 582 frames read sequentially in 33 ordered strips (f1-f582); text-motion (jitter/pulse, color-invert flash) confirmed frame-by-frame; cut boundaries cross-checked adaptive+content",
+    "audio_analyzed": false,
+    "hitrate_na": true,
+    "abstraction_checked": true,
+    "frame_by_frame_full": true
+  },
+  "text_motion_analysis": {
+    "confidence": "observed_frame_by_frame",
+    "build_typo": "신한(blue)/나사카(white) enter ~f44 (1.47s); per-frame JITTER (±few px left-right wobble) + size PULSE; NOT a static caption. Persists ~1.47-2.4s bracketing the subject top/bottom.",
+    "kick_word_flash": "Back third: a huge brand WORD (e.g. '배민') fills the frame and COLOR-INVERTS cut-to-cut — frames flash full blue-bg+white-word then white-bg+blue-word (f312-f318 ~10.4-10.6s). Small sub-word ('배달의민족') nested inside. This invert-flash + word pulse is the KICK's visual engine.",
+    "kick_keyword_stamps": "Blue kinetic keywords (단하나로/부터/까지/다섯개를) stamp centered over POV retail cuts, ~0.5s each, card held low in frame.",
+    "release": "Near-static blue endcard; card slowly rotates; logo lockup. No jitter.",
+    "transplant_note": "우리 KREAM 타이포가 밋밋했던 진짜 원인 = (1) 빌드 타이포가 static snap-and-hold라 떨림/펄스 에너지 없음, (2) 혜택 구간에 color-invert full-screen word flash가 없음. 이식: 빌드 숫자/타이포에 per-frame jitter+pulse, 0원·혜택 구간에 블루↔레드(또는 블루↔화이트) color-invert 풀스크린 플래시를 컷마다."
+  }
+}
