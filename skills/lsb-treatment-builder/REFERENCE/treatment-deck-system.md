@@ -77,6 +77,14 @@ the original framing. Rules:
    (cell ratio = cut ratio so cover never crops)] / [timecode line (film only)] / [one-line action]`.
    A dialogue/lyric strip can span the full width below several cells. Fixed columns, fill as many cuts
    as there are, leave blanks. Optional `REF` badge (reference juxtaposition) and camera-move arrow.
+   **★ The grid is CENTERED — horizontally (each row by its own item count) and vertically balanced in
+   the band. Never left-pinned (the height-clamp shrinks the cells, so without re-centering the right
+   side goes dead — a fixed defect).** Caption type scale: action ≥16, timecode ≥16, cut-number ≥18.
+8b. **cut_board** — detailed per-cut board, **up to 2 cuts per page**. Each card's width is derived from
+   the image's own ratio at a fixed height (image fills the card with NO crop), the cards are centered
+   as a group, and a READABLE caption block pins to each card's left edge: scene name (point color, ~30)
+   / `장면 · …` (≥20) / `V.O · …` (≥20). Use this for full-still per-cut pages — **never hand-roll a
+   2-up with tiny 13–16px captions and a top-heavy layout (a fixed defect).**
 9. **option_ab** — two heroes side by side + a recommended label.
 10. **back matter** — SCENE BREAKDOWN (dark-header table: No./scene·cut/description/dialogue) and
     SCHEDULE (weekly calendar). Skip for a pure-visual treatment.

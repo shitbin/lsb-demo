@@ -6,9 +6,7 @@ description: >-
   motion clip using an image-to-video model (e.g. Seedance 2.0), then joins the clips into the final
   ad video. Handles multi-character / cross-cutting (cut-montage) structures by splitting clips per
   person/space segment. Adds Korean voice-over (VO) and animated brand motion-typography, but never
-  bakes on-screen subtitles. When the video tool refuses a generation because it detected real
-  brand/celebrity likeness (status `ip_detected` — an "IP moderation block"), it stops and uses the
-  user-approval protocol. Use this skill whenever the user says (Korean trigger phrases kept):
+  bakes on-screen subtitles. Use this skill whenever the user says (Korean trigger phrases kept):
   "영상으로 뽑아줘" (make it into video), "이 컷 영상화해줘" (turn this cut into video), "i2v 클립 만들어"
   (make an i2v clip), "Seedance로 만들어" (make it with Seedance), "트리트먼트를 영상으로" (treatment to
   video), "30초 광고 영상 결합" (assemble a 30-second ad), or hands over a treatment/storyboard and asks
@@ -23,13 +21,17 @@ This is the stage that turns locked frames (the board stills) into motion clips 
 It used to be Phase 7 of lsb-treatment-builder, but the treatment skill grew too large so it was split
 out (the builder's core job is the PDF).
 
-> No prior context? Read `005_skills/GLOSSARY.md` first — it defines every shared term (i2v/t2v, seamless transition, IP moderation block, preset hijack, motion typography, etc.).
+> No prior context? Read `../GLOSSARY.md` first — it defines every shared term (i2v/t2v, seamless transition, IP moderation block, preset hijack, motion typography, etc.).
 
 ## Input / Output
-- **Input (produced by builder/planner):** `treatment.json` (containing `global`, `cuts`, `transitions`,
-  and especially `narrative_structure`, `character_pool[]`, and each cut's `subject_identity`) +
-  `확정컷/` (the locked-frame board stills) + per-character master sheets + the product-lock product
-  images.
+- **Input (from planner + image-crafter):** `treatment.json` (`global`, `cuts`, `transitions`, especially
+  `narrative_structure`, `character_pool[]`, each cut's `subject_identity`) + **`stills.json` from
+  lsb-image-crafter** — the locked-frame stills. Take each cut's still from `stills.json` `cuts[].path`
+  (or its `media_uuid` for the i2v `medias` slot), the KV and master sheets the same way. These already
+  live in `확정컷/` / `assets/`. **Reuse them — never regenerate a still here** (re-send = reuse).
+- **★ Shared preset-decline:** seed STEP 5's `declined_preset_id` chain from `stills.json.declined_preset_ids`
+  (the same IDs image-crafter already declined), then keep adding any new ones this stage sees. One
+  decline list across image + video.
 - **Output:** `video[_onetake]/` (one mp4 per clip) · `{project_name}_length.mp4` (the joined final
   video) · `seedance_prompt*.md` (the prompts). After joining, do QA by extracting frames.
 - Characters (especially a brand mascot or a real product) follow the same rule as planner R4: do NOT

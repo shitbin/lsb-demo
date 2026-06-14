@@ -1,0 +1,16 @@
+{
+  "_doc": "1:1 schema source of truth for the planner STEP 4 (C) TRANSITION objects (the transitions[] array). One object per inter-cut transition that needs its own single-canvas board.",
+  "no": null,
+  "from_cut": null,
+  "to_cut": null,
+  "type": "cut | dissolve | match_action | match_cut | whip_pan | morph | push_in | pull_out | dolly_through | 360_spin",
+  "direction": null,
+  "direction_observer_view": null,
+  "duration_sec": null,
+  "single_canvas": true,
+  "motion_blur_intensity": null,
+  "lighting_morph": null,
+  "narrative_role": null,
+  "audio_note": null,
+  "_image_crafter": "A flashy (non-cut) transition gets its own board via lsb-image-crafter/prompts/transition_board.md (end of from_cut + apex + start of to_cut on one canvas). single_canvas=true ones are NOT sliced."
+}

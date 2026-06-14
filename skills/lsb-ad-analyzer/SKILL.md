@@ -9,7 +9,6 @@ description: >
   "analyze this ad", "build me a reference dataset", "break it down cut by cut",
   "extract the ad metadata", or attaches an ad mp4 and asks for analysis. (Korean triggers:
   "이 광고 분석해줘", "레퍼런스 데이터셋 만들어줘", "컷별로 분해해줘", "광고 메타데이터 뽑아줘".)
-  Enforces copyright-safe abstraction (Level 2–3) and anti-plagiarism principles.
 ---
 
 # lsb-ad-analyzer — LSB reference-ad analysis skill
@@ -19,7 +18,7 @@ The goal is to structure "**HOW** a well-made ad was directed" (motion, layout, 
 motion, capture effects, narration) into a form the system can reference WITHOUT a human copying it.
 **We do not train on or replicate the video itself.**
 
-> No prior context? Read `005_skills/GLOSSARY.md` first — it defines every shared term (dataset, cut, hero cut, cross-pollination, etc.).
+> No prior context? Read `../GLOSSARY.md` first — it defines every shared term (dataset, cut, hero cut, cross-pollination, etc.).
 
 ## Core principles (absolute)
 

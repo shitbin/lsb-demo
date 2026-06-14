@@ -1,7 +1,7 @@
 # LSB Skills — Shared Glossary (read this first if you have no prior context)
 
-These four skills (analyzer → planner → treatment-builder → video-crafter) form one ad-production
-pipeline. Earlier versions were written in Korean and full of internal code-names from past projects,
+These five skills (analyzer → planner → image-crafter → treatment-builder → video-crafter) form one
+ad-production pipeline. Earlier versions were written in Korean and full of internal code-names from past projects,
 so a fresh model session couldn't follow them. This glossary defines every term in plain language.
 **All skill docs now reference these definitions instead of insider shorthand.**
 
@@ -42,9 +42,26 @@ chosen concept into a visual treatment PDF → `lsb-video-crafter` turns the loc
 - **IP moderation block** (status `ip_detected`) — the video tool refused a generation because it
   detected real brand/celebrity likeness. The user must approve it in the tool; the agent cannot bypass
   it by editing the prompt. Stop and tell the user.
-- **preset hijack** — the video tool suggests replacing your prompt with one of its canned presets. You
-  decline it (pass the suggested preset id to the decline field) and force your literal prompt. A preset/
-  sample/demo video is never a final deliverable.
+- **preset hijack** — the image/video tool suggests replacing your prompt with one of its canned presets
+  (and may leak a preset *sample image* — e.g. a stock woman — into the output). You decline it on EVERY
+  generate_image AND generate_video (pass the suggested preset id to `declined_preset_id`, as a default —
+  not a reaction after you see a leak) and force your literal prompt. A preset/sample/demo is never a
+  final deliverable.
+
+## Image-pipeline terms (260614 split)
+- **lsb-image-crafter** — the single skill that owns ALL `generate_image` (master sheets, key visual, cut
+  stills). Runs after the planner, before the treatment-builder. Enforces 7 gates (declined_preset ·
+  full-field cells · composition · foreground/midground/background · baked-copy/no-"no text" · moodboard
+  references · model/preset lock). Why it exists: `_meta/IMAGE_PIPELINE_DIAGNOSIS_260614.md`.
+- **cut_plan.json** — planner → image-crafter. Per-cut visual fields: composition (1–2 of the 7 laws),
+  eye_path, photographic_preset (P1–P6), visible_elements (5 layers), moodboard_bucket, typo_mode, baked_text.
+- **stills.json** — image-crafter → treatment-builder + video-crafter. Every produced still with its local
+  path, ratio, gen params, declined_preset id, typo_mode, baked_ok. Downstream skills REUSE these (re-send
+  = reuse, never regenerate) and never call generate_image themselves.
+- **typo_mode** — per frame: `baked` = copy rendered INTO the image; `subtitle` = composited in post
+  (long running subtitles / legal only); `none`. NEVER put "no text / no letters / no captions" in a
+  negative. **Korean main copy / headline / CTA = ALWAYS baked** (gpt_image_2 renders Korean reliably; no
+  attempt/fallback, no romanizing — user-set _260614).
 - **wordmark** — the studio name printed on decks/videos. Always **LSB PRODUCTION** (older reference
   files carry a previous studio name — always replace it).
 - **E.O.D** — "end of document", the closing page of a treatment deck.

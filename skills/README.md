@@ -1,14 +1,19 @@
 # LSB Production — Skill Set (read this first)
 
-Four skills form one ad-production pipeline. Written for a fresh Claude Opus 4.8 session with **no
+Five skills form one ad-production pipeline. Written for a fresh Claude Opus 4.8 session with **no
 prior context** — start with `GLOSSARY.md`, then the skill you need.
 
 ```
-lsb-ad-analyzer  →  lsb-ad-planner  →  lsb-treatment-builder  →  lsb-video-crafter
-   (analyze         (brief + data        (concept → visual          (locked frames
-    reference        → concepts +          treatment PDF)             → video)
-    ad videos)       cut lists)
+lsb-ad-analyzer → lsb-ad-planner → lsb-image-crafter → lsb-treatment-builder → lsb-video-crafter
+   (analyze        (brief + data      (★ generate ALL        (lay out the deck       (locked frames
+    reference       → concepts +        images: master        PDF from stills.json    → video)
+    ad videos)      cut lists +         sheets · KV · cut     — no image gen here)
+                    cut_plan.json)      stills → stills.json)
 ```
+**260614 split:** image generation was pulled out of treatment-builder into its own owner,
+`lsb-image-crafter`, with 7 hard gates (declined_preset · full-field cells · composition · fg/mg/bg ·
+baked-copy/no-"no text" · moodboard refs · model/preset lock). Why + the 9 fixed defects:
+`../_meta/IMAGE_PIPELINE_DIAGNOSIS_260614.md`. Data contract: `lsb-image-crafter/REFERENCE/data-contract.md`.
 
 ## Read order
 1. **GLOSSARY.md** — every shared term in plain English (dataset, cut, hero cut, cross-pollination,

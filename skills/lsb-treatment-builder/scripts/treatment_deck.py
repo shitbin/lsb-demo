@@ -105,6 +105,8 @@ def place_image(im, src, box, theme, mode="auto", radius=0, dim=0.0, label="", t
     if has:
         s = Image.open(src).convert("RGB")
         cell_ar, img_ar = w/h, s.width/s.height; m = mode
+        if m == "fit":  m = "contain"     # alias (THE IMAGE LAW wording uses fit/fill)
+        if m == "fill": m = "cover"       # alias
         if m == "auto": m = "cover" if abs(cell_ar-img_ar)/cell_ar <= tol else "contain"
         if m == "contain":
             r = min(w/s.width, h/s.height); nw, nh = max(1, int(s.width*r)), max(1, int(s.height*r))
@@ -242,29 +244,81 @@ def scene_cluster(im, draw, theme, page, title, desc, hero, supports, accent=Non
 
 def storyboard_grid(im, draw, theme, sec_no, sec_title, seq, cuts, cols=4, vertical=False):
     """cuts=[{img,no,tc,cap,ref(bool)}]. vertical=True -> 9:16 cells. Cells are set to the cut
-       ratio so 'auto' never crops. Set vertical to match the campaign's aspect ratio."""
-    draw.text((S(MARGIN), S(54)), "%s  %s" % (sec_no, sec_title), font=Ft("body", 20), fill=_rgb(theme["ink"]))
-    if seq: draw.text((S(MARGIN), S(90)), seq, font=Ft("body", 14), fill=_rgb(theme["muted"]))
-    n = len(cuts); rows = (n+cols-1)//cols; gap = 18; top = 140; cap_h = 56
+       ratio so 'auto' never crops. Set vertical to match the campaign's aspect ratio.
+       The grid is CENTERED horizontally (each row by its own item count) and vertically
+       balanced in the available band — never left-pinned with dead space on the right."""
+    draw.text((S(MARGIN), S(54)), "%s  %s" % (sec_no, sec_title), font=Ft("body", 22), fill=_rgb(theme["ink"]))
+    if seq: draw.text((S(MARGIN), S(92)), seq, font=Ft("body", 15), fill=_rgb(theme["muted"]))
+    n = len(cuts); rows = (n+cols-1)//cols; gap = 18; cap_h = 66
+    head_y, foot_y = 140, PH-72; avail = foot_y-head_y
     gw = (PW-2*MARGIN-(cols-1)*gap)/cols; gh = gw*(16/9) if vertical else gw*(9/16)
-    avail = PH-top-66
-    if rows*(gh+cap_h)+(rows-1)*gap > avail:
+    if rows*(gh+cap_h)+(rows-1)*gap > avail:                       # height clamp -> gw shrinks
         gh = (avail-rows*cap_h-(rows-1)*gap)/rows; gw = gh*(9/16) if vertical else gh*(16/9)
+    block_h = rows*(gh+cap_h)+(rows-1)*gap
+    top = head_y + max(0, (avail-block_h)/2)                       # vertical centering
     for i, cut in enumerate(cuts):
-        r, c = divmod(i, cols); x0 = MARGIN+c*(gw+gap); y0 = top+r*(gh+cap_h+gap)
+        r, c = divmod(i, cols)
+        in_row = min(cols, n-r*cols)                               # items in THIS row
+        row_w = in_row*gw+(in_row-1)*gap
+        x_off = (PW-row_w)/2                                       # horizontal centering (per row)
+        x0 = x_off+c*(gw+gap); y0 = top+r*(gh+cap_h+gap)
         place_image(im, cut.get("img"), (x0, y0, x0+gw, y0+gh), theme, mode="auto", label="cut")
-        bw = S(46) if len(str(cut.get("no", i+1))) <= 2 else S(60)
-        draw.rectangle([S(x0), S(y0), S(x0)+bw, S(y0)+S(28)], fill=_rgb(theme["point"]))
-        draw.text((S(x0)+S(7), S(y0)+S(3)), "#"+str(cut.get("no", i+1)), font=Ft("display", 16), fill=_rgb(theme["bg"]))
+        bw = S(50) if len(str(cut.get("no", i+1))) <= 2 else S(64)
+        draw.rectangle([S(x0), S(y0), S(x0)+bw, S(y0)+S(30)], fill=_rgb(theme["point"]))
+        draw.text((S(x0)+S(8), S(y0)+S(3)), "#"+str(cut.get("no", i+1)), font=Ft("display", 18), fill=_rgb(theme["bg"]))
         if cut.get("ref"):
-            draw.rectangle([S(x0+gw)-S(54), S(y0), S(x0+gw), S(y0)+S(24)], fill=_rgb(theme["accent2"]))
-            draw.text((S(x0+gw)-S(48), S(y0)+S(3)), "REF", font=Ft("body", 13), fill=_rgb(theme["ink"]))
-        ty = S(y0+gh)+S(8)
-        if cut.get("tc"): draw.text((S(x0), ty), cut["tc"], font=Ft("serif", 14), fill=_rgb(theme["muted"]))
+            draw.rectangle([S(x0+gw)-S(58), S(y0), S(x0+gw), S(y0)+S(26)], fill=_rgb(theme["accent2"]))
+            draw.text((S(x0+gw)-S(50), S(y0)+S(4)), "REF", font=Ft("body", 14), fill=_rgb(theme["ink"]))
+        ty = S(y0+gh)+S(9)
+        if cut.get("tc"): draw.text((S(x0), ty), cut["tc"], font=Ft("serif", 16), fill=_rgb(theme["muted"]))
         if cut.get("cap"):
-            for j, ln in enumerate(_wrap(draw, cut["cap"], Ft("body", 13), S(gw))[:2]):
-                draw.text((S(x0), ty+S(20)+j*S(18)), ln, font=Ft("body", 13), fill=_mix(theme["ink"], theme["bg"], .18))
+            for j, ln in enumerate(_wrap(draw, cut["cap"], Ft("body", 16), S(gw))[:2]):
+                draw.text((S(x0), ty+S(22)+j*S(21)), ln, font=Ft("body", 16), fill=_mix(theme["ink"], theme["bg"], .15))
     furniture(draw, theme); return im
+
+def cut_board(im, draw, theme, page, eyebrow_txt, cuts, accent=None):
+    """Detailed cut board — up to 2 cuts per page. Each cut:
+       {img, no, name, scene, vo}. Each card's WIDTH is derived from the image's own aspect
+       ratio at a fixed height (so the image fills the card with NO crop — original ratio law),
+       the cards are centered as a group, and the number chip + caption block (scene name in
+       point color, 장면 / V.O at a readable type scale) pin to each card's left edge.
+       Fixes the prior 'tiny captions, top-heavy, image/chip misaligned' pages."""
+    eyebrow(draw, theme, eyebrow_txt or "CUT BOARD", point=True)
+    cuts = cuts[:2]; n = max(1, len(cuts)); colgap = 96
+    img_h = PH*0.54; max_w = (PW-2*MARGIN-(n-1)*colgap)/n
+    # derive each card's width from its image ratio (fallback to vertical 9:16)
+    cards = []
+    for cut in cuts:
+        src = cut.get("img"); ar = 9/16
+        if src and os.path.exists(src):
+            try:
+                from PIL import Image as _I
+                w, h = _I.open(src).size; ar = w/h
+            except Exception: pass
+        cw = min(max_w, img_h*ar); cards.append((cut, cw))
+    group_w = sum(cw for _, cw in cards)+(n-1)*colgap
+    head_y, foot_y = 132, PH-70
+    cap_block_h = 156
+    top = head_y + max(0, ((foot_y-head_y)-(img_h+34+cap_block_h))/2)   # vertical balance
+    x = (PW-group_w)/2                                                  # center the card group
+    point = _rgb(theme["point"]); ink = _rgb(theme["ink"]); muted = _rgb(theme["muted"])
+    for cut, cw in cards:
+        place_image(im, cut.get("img"), (x, top, x+cw, top+img_h), theme, mode="cover", label="cut")
+        no = str(cut.get("no", 1)); bw = S(50) if len(no) <= 2 else S(64)
+        draw.rectangle([S(x), S(top), S(x)+bw, S(top)+S(30)], fill=point)
+        draw.text((S(x)+S(8), S(top)+S(3)), "#"+no, font=Ft("display", 18), fill=_rgb(theme["bg"]))
+        cy = top+img_h+34
+        if cut.get("name"):
+            draw.text((S(x), S(cy)), cut["name"], font=Ft("display", 30), fill=point); cy += 48
+        if cut.get("scene"):
+            for ln in _wrap(draw, "장면 · "+cut["scene"], Ft("body", 20), S(cw))[:3]:
+                draw.text((S(x), S(cy)), ln, font=Ft("body", 20), fill=ink); cy += 31
+        if cut.get("vo"):
+            cy += 4
+            for ln in _wrap(draw, "V.O · "+cut["vo"], Ft("body", 20), S(cw))[:2]:
+                draw.text((S(x), S(cy)), ln, font=Ft("body", 20), fill=muted); cy += 31
+        x += cw+colgap
+    furniture(draw, theme, page=page); return im
 
 def option_ab(im, draw, theme, title, a_img, b_img, a_label="A", b_label="B (rec)", a_cap="", b_cap=""):
     center_title(draw, theme, title, 70, size=30)
