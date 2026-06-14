@@ -1,0 +1,1954 @@
+{
+  "id": "ADV-2026-018",
+  "source_ref": {
+    "platform": "social/online video",
+    "title_or_campaign": "토스 숨은 서비스 2 — ATM 현금 출금",
+    "brand": "Toss",
+    "product": "Toss ATM 현금 출금 (cardless withdrawal)",
+    "model": null,
+    "year": 2026,
+    "production_note": "Curator T series end card",
+    "url": null
+  },
+  "category_primary": "finance.fintech",
+  "category_tags": [
+    "fintech",
+    "cardless_cash_withdrawal",
+    "atm",
+    "app_walkthrough",
+    "feature_demo",
+    "mobile",
+    "money_management"
+  ],
+  "mood": [
+    "helpful",
+    "reassuring",
+    "clean",
+    "informational",
+    "lightly_upbeat"
+  ],
+  "target_demo": "20-40 Korean adults; mobile-first users who occasionally need cash but have no card or cash on hand, and shop at convenience stores",
+  "total_duration": 42.632,
+  "shot_count": 10,
+  "shot_count_corrected": 13,
+  "fps": 29.97,
+  "aspect_ratio": "9:16",
+  "hook_position": "0:2.035",
+  "cta_position": "36.44:42.63",
+  "narrative_arc": "Opens on a relatable cash-crisis pain point — a wallet is opened on a table and there is no usable card and no cash inside ('카드도 안되고 / 현금도 없는 / 위기의 순간!'). A young adult in a study then holds up a small fan of banknotes to camera while an editorial caption bar frames the feature as 'a tip for finding cash right now when you have no wallet' (지갑 없을 때 / 당장 현금 찾는 꿀팁). The ad becomes a step-by-step in-app walkthrough shot as a flat-lay phone-on-green screen demo: open the all-tab and choose 'ATM 현금 출금', tap '주변 ATM 찾기' to see nearby convenience-store ATMs on a map, pick the ATM you'll visit and enter the withdrawal amount, confirm from your account and tap withdraw, and an approval number is issued. The ad then cuts to warm-cool handheld live action at a convenience-store ATM: the same adult walks up to a blue cardless ATM, selects Toss on the machine, enters her birth date and the six-digit approval number, the machine counts and dispenses cash, and she walks away holding the bills with a thumbs-up — 'card-free, this easily you can withdraw cash'. Series end card reveals 'Curator T / 토스를 발견하다'.",
+  "narrative_structure": "linear_continuous",
+  "pacing_curve": "steady",
+  "music_tempo_curve": "steady",
+  "wow_cut_index": 12,
+  "creative_device": [
+    "app_feature_walkthrough",
+    "problem_then_solution",
+    "voice_caption_sync",
+    "editorial_caption_bar",
+    "real_world_payoff_demo",
+    "series_end_card_signature"
+  ],
+  "production_signature": {
+    "capture_style": "mixed",
+    "camera_signature": [
+      "handheld_micro_on_interior_live_action",
+      "handheld_on_location_convenience_store_live_action",
+      "locked_off_flatlay_phone_on_green",
+      "shallow_dof_warm_interior",
+      "screen_demo_ui_capture"
+    ],
+    "signature_note": "Two visual registers cut together: (1) live-action shots — warm shallow-DOF interior shots of a Korean adult opening a wallet and holding cash in a cozy study, plus cooler handheld on-location shots at a convenience-store cardless ATM — and (2) flat-lay top-down phone-on-vivid-green screen-demo shots used for the step-by-step UI walkthrough. The walkthrough segments carry hardcoded lower-third caption pills (dark rounded pill, bold white Korean text) synced to the voiceover; the live-action opening uses large centered white captions and a flat editorial 'CONTENT' header bar, and the live-action location shots carry the same dark caption pill. The series end card is a distinctive pixel/CRT-distorted logo badge ('Curator T / 토스를 발견하다') with sketch-stroke RGB chromatic-aberration text on a textured matte off-white paper field. Wiggle metric mean_abs_shift_x 0.45 with sign_flips 0.30 reads as ordinary handheld motion, NOT stereoscopic parallax: the interior and convenience-store shots are gentle-to-active handheld, the flat-lay UI and end card are locked off. No stereoscopic wiggle_3d.",
+    "color_grade": "warm_tungsten_amber_for_interior_live_action; cool_fluorescent_blue_for_convenience_store_atm_live_action; saturated_vivid_green_seamless_for_flatlay_ui_demo; clean_white_app_ui; desaturated_textured_offwhite_for_endcard",
+    "texture_fx": "pixel_crt_chromatic_aberration_on_endcard_logo; otherwise_clean_digital"
+  },
+  "global_layout": {
+    "grid_system": "center-weighted vertical 9:16; phone device centered within frame for flat-lay UI-demo shots; subject placed on a vertical third in live-action shots",
+    "subject_placement_dominant": "centered_phone_device for UI-demo shots; center single subject for live-action interior and convenience-store shots",
+    "subject_typo_relation": "large centered white captions float over the live-action opening; lower-third pill caption bars sit under the device on flat-lay UI shots and under the subject on location shots; editorial CONTENT header bar floats top over the woman holding cash; end card logo badge centered",
+    "negative_space_use": "vivid green flat-lay surround acts as generous negative space framing the white phone in UI-demo shots; end card uses wide matte paper negative space around a small centered badge",
+    "layout_note": "The green flat-lay surround and the consistent lower-third caption pill create a repeatable demo template; the white phone screen carries all functional UI content while the caption pill carries the narration line; the convenience-store ATM payoff mirrors the in-app steps in the real world"
+  },
+  "recurring_motifs": [
+    "lower_third_caption_pill",
+    "phone_on_green_flatlay",
+    "convenience_store_cu_atm_pin",
+    "blue_primary_action_button",
+    "cash_banknotes_in_hand",
+    "pixel_crt_endcard_badge"
+  ],
+  "copywriting": {
+    "tagline_text": "Curator T / 토스를 발견하다",
+    "tagline_structure": "series_signature_endcard",
+    "cta_text": "카드 없이도 이렇게 편하게 현금을 인출할 수 있습니다",
+    "copy_tone": [
+      "helpful",
+      "plain_spoken",
+      "encouraging",
+      "instructional"
+    ],
+    "copy_strategy": "step_by_step_feature_walkthrough_with_real_world_payoff",
+    "lines": [
+      {
+        "position_sec": 0.5,
+        "text": "카드도 안되고",
+        "function": "hook_problem_setup",
+        "tone": "relatable",
+        "source": "both"
+      },
+      {
+        "position_sec": 1.3,
+        "text": "현금도 없는",
+        "function": "hook_problem_detail",
+        "tone": "relatable",
+        "source": "both"
+      },
+      {
+        "position_sec": 2.6,
+        "text": "위기의 순간!",
+        "function": "hook_problem_peak",
+        "tone": "relatable",
+        "source": "both"
+      },
+      {
+        "position_sec": 4.0,
+        "text": "지갑 없을 때 당장 현금 찾는 꿀팁",
+        "function": "editorial_value_proposition",
+        "tone": "punchy",
+        "source": "caption"
+      },
+      {
+        "position_sec": 5.0,
+        "text": "편의점에서 토스로 현금 출금도 할 수 있대요",
+        "function": "value_proposition",
+        "tone": "informational",
+        "source": "voice"
+      },
+      {
+        "position_sec": 6.7,
+        "text": "전체 탭에서",
+        "function": "instruction_step",
+        "tone": "instructional",
+        "source": "both"
+      },
+      {
+        "position_sec": 8.5,
+        "text": "'ATM 현금찾기'를 선택해보세요",
+        "function": "instruction_step",
+        "tone": "instructional",
+        "source": "both"
+      },
+      {
+        "position_sec": 11.5,
+        "text": "주변 ATM 보기를 누르면",
+        "function": "instruction_step",
+        "tone": "instructional",
+        "source": "both"
+      },
+      {
+        "position_sec": 13.5,
+        "text": "가까운 ATM 위치를 확인할 수 있는데요",
+        "function": "feature_explanation",
+        "tone": "instructional",
+        "source": "both"
+      },
+      {
+        "position_sec": 17.5,
+        "text": "방문할 ATM을 선택하고",
+        "function": "instruction_step",
+        "tone": "instructional",
+        "source": "both"
+      },
+      {
+        "position_sec": 19.5,
+        "text": "찾을 금액을 입력해주세요",
+        "function": "instruction_step",
+        "tone": "instructional",
+        "source": "both"
+      },
+      {
+        "position_sec": 21.7,
+        "text": "찾기 버튼을 누르면",
+        "function": "instruction_step",
+        "tone": "instructional",
+        "source": "both"
+      },
+      {
+        "position_sec": 24.0,
+        "text": "이렇게 승인번호가 발급되는데요",
+        "function": "feature_explanation",
+        "tone": "instructional",
+        "source": "both"
+      },
+      {
+        "position_sec": 26.5,
+        "text": "이제 ATM 기기에서",
+        "function": "instruction_step",
+        "tone": "instructional",
+        "source": "both"
+      },
+      {
+        "position_sec": 28.5,
+        "text": "토스를 선택하고",
+        "function": "instruction_step",
+        "tone": "instructional",
+        "source": "both"
+      },
+      {
+        "position_sec": 30.5,
+        "text": "생년월일과 승인번호를 입력하면",
+        "function": "instruction_step",
+        "tone": "instructional",
+        "source": "both"
+      },
+      {
+        "position_sec": 34.5,
+        "text": "카드 없이도 이렇게 편하게",
+        "function": "cta",
+        "tone": "encouraging",
+        "source": "both"
+      },
+      {
+        "position_sec": 37.0,
+        "text": "현금을 인출할 수 있습니다",
+        "function": "cta",
+        "tone": "encouraging",
+        "source": "both"
+      },
+      {
+        "position_sec": 40.0,
+        "text": "Curator T",
+        "function": "series_brand_signature",
+        "tone": "branded",
+        "source": "caption"
+      },
+      {
+        "position_sec": 40.0,
+        "text": "토스를 발견하다",
+        "function": "series_tagline",
+        "tone": "branded",
+        "source": "caption"
+      }
+    ],
+    "on_screen_ui_text_observed": [
+      "전체 / 토스뱅크 / 토스증권 / 고객센터",
+      "보안과 인증 / 내 신용점수 / 내 통신 요금 / 진행 중인 이벤트",
+      "최근 / 증명서 발급하기 / 신용점수 올리기 / 교통카드 조회·충전 / ATM에서 출금하기 / 하나은행 외화 현금으로 찾기",
+      "얼마를 찾을까요? / 찾을 금액 / 만원 / 내 주변 ATM 찾기 / 안내",
+      "내 주변 ATM 찾기 / ATM 위치 정보는 실시간 업데이트 되지 않으므로 정확하지 않을 수 있습니다",
+      "이 계좌에서 찾을까요? / 토스뱅크 계좌로 출금하면 무료에요 / 토스뱅크 통장 / 찾을 금액 10,000 원 / 수수료 무료 / 찾을게요",
+      "비밀번호를 눌러주세요 / 숫자 4자리 + 영문자 1자리",
+      "ATM 기기에 승인번호 여섯자리를 입력해주세요 / 5분 0초 남음 / 다른 사람에게 번호를 알려주면 위험해요 / 어떻게 입력하는지 모르겠다면?",
+      "ATM / NICEPARK / PULOON / 출금 승인 번호 / 모바일 APP에서 발급받은 출금용 승인번호(6자리)를 입력하신 후, [확인] 버튼을 눌러주십시오",
+      "현금을 세고 있습니다 / 잠시만 기다려 주십시오",
+      "현금 수취 / 현금을 받아 주십시오 / 인출액 *30,000 원 / 수수료 *0 원 / 잔액 *0 원",
+      "CONTENT / 지갑 없을 때 / 당장 현금 찾는 꿀팁 / SERVICE ATM 출금하기 / YEAR 2024 / CATEGORY 결제·교통·출금·신용점수·공공서비스 / PRODUCTION TEAM #team_transfer"
+    ],
+    "narration_handling": "voiceover_synced_to_lower_third_caption_bars_and_centered_supers"
+  },
+  "typography": {
+    "primary_font_class": "Korean_sans_serif_bold_rounded",
+    "endcard_font_class": "pixel_bitmap_crt_distorted_latin_plus_korean",
+    "animation_style": [
+      "cut_in_caption_swap",
+      "static_hold",
+      "sticker_peel_in_endcard"
+    ],
+    "subtitle_position_dominant": "lower_third_caption_pill",
+    "color_strategy": "white_text_on_dark_rounded_pill_for_demo_and_location_captions; large_white_centered_supers_over_opening_live_action; navy_blue_pixel_text_on_offwhite_badge_for_endcard",
+    "typo_motion_dominant": "caption_swap_synced_to_vo"
+  },
+  "vfx": {
+    "primary_effects": [
+      "ui_screen_demo_capture",
+      "pixel_crt_chromatic_aberration_endcard",
+      "lower_third_caption_pill_swaps"
+    ],
+    "effect_intensity": "low_to_moderate",
+    "transition_style_dominant": "hard_cut",
+    "vfx_event_count": 1
+  },
+  "audio": {
+    "has_audio": true,
+    "language": "ko",
+    "speech_coverage": 0.859,
+    "bgm_likely": true,
+    "narration_lines": [
+      {
+        "start": 0.0,
+        "end": 6.48,
+        "text": "카드도 안되고 현금도 없는 그런 위기의 순간, 편의점에서 토스로 현금 출금도 할 수 있대요",
+        "source": "faster_whisper_tiny_caption_reconciled"
+      },
+      {
+        "start": 6.48,
+        "end": 10.26,
+        "text": "전체 탭에서 'ATM 현금 출금'을 선택해보세요",
+        "source": "faster_whisper_tiny_caption_reconciled"
+      },
+      {
+        "start": 10.26,
+        "end": 15.44,
+        "text": "주변 ATM 찾기를 누르면 가까운 ATM 위치를 확인할 수 있는데요",
+        "source": "faster_whisper_tiny_caption_reconciled"
+      },
+      {
+        "start": 15.44,
+        "end": 21.61,
+        "text": "방문할 ATM을 선택하고 출금 금액을 입력해주세요",
+        "source": "faster_whisper_tiny_caption_reconciled"
+      },
+      {
+        "start": 21.61,
+        "end": 25.95,
+        "text": "출금 버튼을 누르면 이렇게 승인번호가 발급되는데요",
+        "source": "faster_whisper_tiny_caption_reconciled"
+      },
+      {
+        "start": 26.91,
+        "end": 33.96,
+        "text": "이제 ATM에서 토스를 선택하고 생년월일과 승인번호를 입력하면",
+        "source": "faster_whisper_tiny_caption_reconciled"
+      },
+      {
+        "start": 33.96,
+        "end": 37.6,
+        "text": "카드 없이도 이렇게 편하게 현금을 인출할 수 있습니다",
+        "source": "faster_whisper_tiny_caption_reconciled"
+      }
+    ],
+    "voice_vs_caption": "voiceover_largely_matches_onscreen_captions; captions are authoritative",
+    "transcribed_by": "faster_whisper",
+    "model": "tiny",
+    "audio_note": "faster_whisper tiny model output reconciled against authoritative on-screen Korean captions. tiny mis-heard '현금' as '형금', 'ATM' as 'AT&', '출금' as '사킬', '주변 ATM 찾기' as '주변 AT&복이', '생년월일' as '생련을과', '편하게' as '평하게'; these were corrected from the crisp on-screen captions and UI strings. Note the VO/menu wording is 'ATM 현금 출금' / 'ATM에서 출금하기' while the synced caption pill on the amount screen reads '\\'ATM 현금찾기\\'를 선택해보세요' and the map-step caption reads '주변 ATM 보기를 누르면' — captions transcribed verbatim. speech_coverage 0.859 per audio.json; BGM judged likely present (light instrumental bed under VO); bgm_likely was null in audio.json and is set true on visual/auditory judgement."
+  },
+  "frames_dir": "ADV-2026-018_frames",
+  "contact_sheet_path": "ADV-2026-018_frames/contact_sheet.png",
+  "shots": [
+    {
+      "index": 1,
+      "duration": 2.035,
+      "framing": "CU",
+      "function": "hook",
+      "subject_action": "a Korean adult's hands hold open a brown bi-fold leather wallet over a green tabletop; one hand pulls a white card/receipt up out of a card slot while loose cards and slips lie on the table; a large white centered caption reads first '카드도 안되고' then '현금도 없는'",
+      "layout_grid": "diagonal_fill",
+      "subject_position": "center_dominant",
+      "typo_motion": "centered_super_swap",
+      "camera_angle": "high_angle_over_table",
+      "camera_facing": "down_toward_wallet",
+      "shot_scope": "product_detail",
+      "gaze": "off_camera",
+      "props": [
+        "leather_wallet",
+        "hands",
+        "cards",
+        "paper_slips",
+        "green_table"
+      ],
+      "color_palette": [
+        "#3F5B2E",
+        "#6B3B26",
+        "#E7C98A",
+        "#E8E2D8",
+        "#2E3A6B"
+      ],
+      "color_intent": "warm_brown_wallet_against_green_table; soft_amber_practical_bokeh; large_white_caption",
+      "pose_description": "two adult hands cradle an open brown wallet at a gentle diagonal; the right fingers grip a white card slip and lift it from a pocket while the left hand steadies the wallet; the wallet's card pockets read empty of usable cards",
+      "subject_motion": "hand_searching_wallet_pulling_card_micro_drift",
+      "camera_motion": "handheld_micro",
+      "camera_effect_local": "shallow_dof_background_bokeh",
+      "intra_cut_rhythm": "searching_action_with_caption_swap",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "mid_frame_path": "ADV-2026-018_frames/cut01_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "hands_holding_open_wallet",
+          "white_card_slip",
+          "white_centered_caption_text"
+        ],
+        "midground": [
+          "loose_cards_on_table",
+          "wallet_card_pockets"
+        ],
+        "background": [
+          "blurred_green_tabletop",
+          "warm_amber_and_pink_bokeh"
+        ],
+        "lighting_env": [
+          "warm_tungsten_ambient",
+          "soft_top_light"
+        ],
+        "atmosphere": [
+          "intimate",
+          "mild_frustration",
+          "domestic_evening"
+        ]
+      },
+      "texture": {
+        "primary_subject": "grained_brown_leather_wallet",
+        "secondary_objects": [
+          "human_skin_hands",
+          "smooth_paper_card_slip"
+        ],
+        "background_surface": "matte_green_tabletop",
+        "atmospheric": [
+          "soft_focus_bokeh"
+        ]
+      },
+      "lighting": {
+        "key_direction": "soft_overhead_warm",
+        "key_hardness": "soft",
+        "key_color_temp": "warm_tungsten_3200K",
+        "fill_strength": "medium",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": false,
+        "practical_lights": [
+          "warm_room_lamp_bokeh"
+        ],
+        "shadow_presence": "soft",
+        "overall_contrast": "medium_low"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#3F5B2E",
+          "#6B3B26",
+          "#E7C98A",
+          "#E8E2D8",
+          "#2E3A6B"
+        ],
+        "palette_role": {
+          "#3F5B2E": "green_tabletop_field",
+          "#6B3B26": "brown_leather_wallet",
+          "#E7C98A": "warm_amber_practical_bokeh",
+          "#E8E2D8": "white_card_and_caption_highlight",
+          "#2E3A6B": "deep_shadow_and_card_detail"
+        },
+        "color_relationship": "warm_brown_subject_on_cool_green_ground",
+        "temperature_balance": "warm_dominant",
+        "saturation_strategy": "desaturated_naturalistic_with_high_contrast_white_caption",
+        "contrast_type": "soft_with_high_contrast_white_caption",
+        "accent_color": "#E7C98A",
+        "accent_ratio": 0.15
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "Vertical 9:16 close-up photograph, shot from a high angle looking down over a table, of a Korean adult's two hands holding open a brown bi-fold grained-leather wallet above a matte forest-green tabletop in a warm domestic interior at evening. The wallet is held at a gentle diagonal and fills the lower-center of the frame; its interior card pockets are visible and conspicuously short of usable cards, communicating an empty-wallet moment. The right hand's fingers pinch a small white card-sized slip of paper and lift it up out of a pocket, while the left hand steadies the wallet from below. On the green tabletop around the wallet lie a few scattered loose cards and pale paper slips, slightly out of focus. Superimposed over the lower-center of the entire frame is a large bold white Korean caption that reads '현금도 없는', set in a clean heavy rounded sans-serif with a faint soft shadow for legibility against the image; a beat earlier the same caption position held the words '카드도 안되고'. The background beyond the table dissolves into creamy warm amber and soft pink bokeh — indistinct shapes of practical room lamps and objects in a cozy Korean home, with complete shallow depth-of-field separation. Lighting is soft warm tungsten ambient from above at roughly 3200K, with medium fill, gentle soft shadows and an overall medium-low contrast; the warm brown leather and skin tones sit against the cooler green tabletop for a natural warm-cool relationship. Lens rendering: a fast prime at roughly 50 to 85mm full-frame equivalent at a wide aperture, giving a shallow plane of focus on the hands and wallet and very smooth background blur, plus a slight handheld intimacy. Composition follows a strong diagonal led by the wallet's tilt, the lifting hand and card drawing the eye to upper-center while the white caption anchors the lower third. Color palette and strategy: a warm-dominant naturalistic grade — green tabletop field (#3F5B2E), brown leather wallet (#6B3B26), warm amber practical bokeh (#E7C98A), bright white card and caption highlight (#E8E2D8), and deep blue-brown shadow detail (#2E3A6B); saturation is restrained and realist except for the assertive white caption. Surfaces and texture: finely grained brown leather, natural skin texture on the hands, a smooth white paper card slip, and a matte green table surface, with an undefined soft-focus interior behind. Atmosphere: intimate and quietly frustrated, the small everyday crisis of opening your wallet to find neither card nor cash on a calm evening. Post and signature look: clean modern digital capture with a warm commercial color grade, no heavy grain, precise focus on the wallet and hands, naturalistic skin. Style anchor: contemporary Korean fintech commercial photography in the premium app-walkthrough register, where a real, tactile everyday object is framed with cinematic care to set up a relatable money problem before the product demonstration; the on-screen Korean caption text '카드도 안되고' and '현금도 없는' must be preserved exactly. No celebrity likeness, no real brand logos or wordmarks on the wallet, cards or anywhere in frame — keep all cards generic and blank.",
+        "t2i_negative": "english caption text, sharp fully-focused background, cold daylight, harsh shadows, visible brand logos on cards, cluttered, western interior styling",
+        "i2v_motion": "The hands hold the open wallet with gentle organic micro-drift; the right fingers slide a white card slip up out of a pocket as if searching for usable money; shallow depth of field holds on the wallet; the white centered caption swaps from '카드도 안되고' to '현금도 없는'; hard cut at ~2.0s.",
+        "i2v_params": {
+          "clip_duration_sec": 2.0,
+          "camera_move": "handheld_micro",
+          "subject_motion_level": "low_natural",
+          "signature_effect": "none",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "t2i_negative_global": "english ui text, stereoscopic wiggle, real corporate logos, watermark",
+        "fidelity_note": "craft-faithful; on-screen Korean caption preserved; identity/logo generic"
+      }
+    },
+    {
+      "index": 2,
+      "duration": 1.635,
+      "framing": "CU",
+      "function": "hook",
+      "subject_action": "the same hands hold the brown wallet up and tilt it, revealing empty card pockets, the wallet now nearly vertical and close to camera; a large white centered caption reads '위기의' then '위기의 순간!'",
+      "layout_grid": "center_dominant_subject",
+      "subject_position": "center",
+      "typo_motion": "centered_super_swap",
+      "camera_angle": "high_angle_over_table",
+      "camera_facing": "toward_wallet",
+      "shot_scope": "product_detail",
+      "gaze": "off_camera",
+      "props": [
+        "leather_wallet",
+        "hands",
+        "paper_slips",
+        "green_table"
+      ],
+      "color_palette": [
+        "#3F5B2E",
+        "#6B3B26",
+        "#E7C98A",
+        "#E8E2D8",
+        "#2E3A6B"
+      ],
+      "color_intent": "warm_brown_wallet_against_green_table; soft_amber_bokeh; large_white_caption",
+      "pose_description": "the hands raise the brown wallet toward the lens and angle it so the empty interior pockets face camera; thumbs spread the bill compartment open to show it is empty",
+      "subject_motion": "wallet_tilt_and_open_reveal_handheld_drift",
+      "camera_motion": "handheld_micro",
+      "camera_effect_local": "shallow_dof_background_bokeh",
+      "intra_cut_rhythm": "reveal_beat_with_caption_swap",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "mid_frame_path": "ADV-2026-018_frames/cut02_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "hands_tilting_open_wallet",
+          "empty_wallet_pockets",
+          "white_centered_caption_text"
+        ],
+        "midground": [
+          "paper_slips_on_table"
+        ],
+        "background": [
+          "blurred_green_tabletop",
+          "warm_amber_and_pink_bokeh"
+        ],
+        "lighting_env": [
+          "warm_tungsten_ambient",
+          "soft_top_light"
+        ],
+        "atmosphere": [
+          "mild_alarm",
+          "comedic_crisis",
+          "domestic_evening"
+        ]
+      },
+      "texture": {
+        "primary_subject": "grained_brown_leather_wallet",
+        "secondary_objects": [
+          "human_skin_hands"
+        ],
+        "background_surface": "matte_green_tabletop",
+        "atmospheric": [
+          "soft_focus_bokeh"
+        ]
+      },
+      "lighting": {
+        "key_direction": "soft_overhead_warm",
+        "key_hardness": "soft",
+        "key_color_temp": "warm_tungsten_3200K",
+        "fill_strength": "medium",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": false,
+        "practical_lights": [
+          "warm_room_lamp_bokeh"
+        ],
+        "shadow_presence": "soft",
+        "overall_contrast": "medium_low"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#3F5B2E",
+          "#6B3B26",
+          "#E7C98A",
+          "#E8E2D8",
+          "#2E3A6B"
+        ],
+        "palette_role": {
+          "#3F5B2E": "green_tabletop_field",
+          "#6B3B26": "brown_leather_wallet",
+          "#E7C98A": "warm_amber_practical_bokeh",
+          "#E8E2D8": "white_caption_highlight",
+          "#2E3A6B": "deep_shadow_interior_of_wallet"
+        },
+        "color_relationship": "warm_brown_subject_on_cool_green_ground",
+        "temperature_balance": "warm_dominant",
+        "saturation_strategy": "desaturated_naturalistic_with_high_contrast_white_caption",
+        "contrast_type": "soft_with_high_contrast_white_caption",
+        "accent_color": "#E7C98A",
+        "accent_ratio": 0.14
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "Vertical 9:16 close-up photograph, shot from a high angle looking down toward a table, of a Korean adult's two hands raising a brown bi-fold grained-leather wallet up toward the lens in a warm domestic interior at evening. The wallet is tilted nearly vertical so its open interior faces the camera, and the thumbs spread the bill compartment apart to reveal that it is empty — no banknotes, the card pockets bare — emphasising the punchline of an empty wallet. The hands and wallet dominate the upper-center of the frame, slightly motion-soft from a quick handheld move. On the blurred green tabletop below, a couple of pale paper slips remain out of focus. Superimposed over the lower-center of the entire frame is a large bold white Korean caption that reads '위기의 순간!', set in a clean heavy rounded sans-serif with a faint soft shadow for legibility; a beat earlier the same caption position held just the word '위기의'. The background beyond the table dissolves into creamy warm amber and soft pink bokeh from indistinct practical lamps and home objects, with complete shallow depth-of-field separation. Lighting is soft warm tungsten ambient from above at roughly 3200K, with medium fill, gentle soft shadows and an overall medium-low contrast; warm brown leather and skin tones sit against the cooler green tabletop for a natural warm-cool relationship. Lens rendering: a fast prime at roughly 50 to 85mm full-frame equivalent at a wide aperture, giving a shallow plane of focus on the wallet and hands with very smooth background blur and a slight handheld energy. Composition centers the raised wallet with the empty interior as the focal point and the white caption anchoring the lower third. Color palette and strategy: a warm-dominant naturalistic grade — green tabletop field (#3F5B2E), brown leather wallet (#6B3B26), warm amber practical bokeh (#E7C98A), bright white caption highlight (#E8E2D8), and deep shadowed wallet interior (#2E3A6B); saturation is restrained and realist except for the assertive white caption. Surfaces and texture: finely grained brown leather, natural skin texture on the hands, and a matte green table surface, with an undefined soft-focus interior behind. Atmosphere: a light comedic beat of alarm — the moment you realise the wallet is completely empty. Post and signature look: clean modern digital capture with a warm commercial color grade, no heavy grain, precise focus on the wallet, naturalistic skin, and a gentle vignette pulling the eye to the empty interior. Style anchor: contemporary Korean fintech commercial photography in the premium app-walkthrough register, where a tactile everyday object delivers the relatable problem with a small comic exclamation before the product demonstration; the on-screen Korean caption text '위기의' and '위기의 순간!' must be preserved exactly. This second beat reads as the comedic peak of the setup: the camera sits close and high, the move is quick and slightly motion-soft as the wallet swings up toward the lens, and the spread, empty bill compartment is held just long enough to land the joke before the cut. The art direction keeps everything else stripped back — no extra props competing for attention, the green tabletop and warm bokeh dissolved into pure soft background — so that the empty wallet and the bold white exclamation caption are the only two things the eye registers, fusing a real-feeling tactile object with a punchy graphic super in the manner of high-end Korean fintech how-to social videos. The leather should look genuinely used and personal, with fine grain, soft creases and a warm sheen catching the overhead practical, the thumbs naturally splaying the compartment rather than posing stiffly, so the moment feels caught rather than staged. No celebrity likeness, no real brand logos or wordmarks on the wallet or anywhere in frame — keep everything generic, and keep the bill compartment convincingly empty with no banknotes or cards visible.",
+        "t2i_negative": "english caption text, sharp fully-focused background, cold daylight, harsh shadows, visible brand logos, cluttered, banknotes visible in wallet",
+        "i2v_motion": "The hands raise and tilt the wallet toward camera and the thumbs spread the bill compartment open to reveal it empty, with natural handheld micro-drift; the white centered caption swaps from '위기의' to '위기의 순간!'; hard cut at ~1.6s.",
+        "i2v_params": {
+          "clip_duration_sec": 1.6,
+          "camera_move": "handheld_micro",
+          "subject_motion_level": "low_natural",
+          "signature_effect": "none",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen Korean caption preserved; identity/logo generic"
+      }
+    },
+    {
+      "index": 3,
+      "duration": 2.736,
+      "framing": "MCU",
+      "function": "value_proposition",
+      "subject_action": "a young Korean adult woman in a grey hoodie sits at a desk in a warm study and holds up a small fan of banknotes near her chin, looking to camera with a soft knowing smile; a flat editorial 'CONTENT' header bar floats across the top reading '지갑 없을 때 / 당장 현금 찾는 꿀팁' with small SERVICE / YEAR / CATEGORY / PRODUCTION TEAM metadata",
+      "layout_grid": "subject_lower_center_with_top_header_bar",
+      "subject_position": "center",
+      "typo_motion": "static_editorial_header_bar",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "medium_portrait",
+      "gaze": "to_camera",
+      "props": [
+        "banknotes",
+        "smartphone_on_desk",
+        "desk",
+        "bookshelf",
+        "desk_lamp"
+      ],
+      "color_palette": [
+        "#C9C6C0",
+        "#7A4B2E",
+        "#E8B488",
+        "#F2F4F8",
+        "#2E50C0"
+      ],
+      "color_intent": "warm_study_bokeh; neutral_grey_hoodie; clean_white_editorial_header_with_blue_outline; large_white_caption_absent_here",
+      "pose_description": "the woman sits centered, both hands raising a small fan of paper banknotes to about chin height; she looks toward the lens with an open, friendly, mildly playful expression as if sharing a tip",
+      "subject_motion": "light_presenting_gesture_holding_cash",
+      "camera_motion": "handheld_micro",
+      "camera_effect_local": "shallow_dof_background",
+      "intra_cut_rhythm": "presenting_beat_with_static_header_bar",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "mid_frame_path": "ADV-2026-018_frames/cut03_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "woman_holding_banknotes",
+          "editorial_content_header_bar"
+        ],
+        "midground": [
+          "desk_surface_with_phone"
+        ],
+        "background": [
+          "wooden_bookshelf",
+          "warm_desk_lamp",
+          "scientific_props"
+        ],
+        "lighting_env": [
+          "warm_tungsten_ambient",
+          "soft_key_on_face"
+        ],
+        "atmosphere": [
+          "approachable",
+          "explanatory",
+          "cozy_evening"
+        ]
+      },
+      "texture": {
+        "primary_subject": "soft_cotton_hoodie_and_skin",
+        "secondary_objects": [
+          "crisp_paper_banknotes",
+          "glossy_white_header_panel"
+        ],
+        "background_surface": "wood_shelf_grain",
+        "atmospheric": [
+          "warm_soft_bokeh"
+        ]
+      },
+      "lighting": {
+        "key_direction": "soft_frontal_warm",
+        "key_hardness": "soft",
+        "key_color_temp": "warm_tungsten_3200K",
+        "fill_strength": "medium",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": false,
+        "practical_lights": [
+          "warm_desk_lamp"
+        ],
+        "shadow_presence": "soft",
+        "overall_contrast": "medium_low"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#C9C6C0",
+          "#7A4B2E",
+          "#E8B488",
+          "#F2F4F8",
+          "#2E50C0"
+        ],
+        "palette_role": {
+          "#C9C6C0": "neutral_grey_hoodie",
+          "#7A4B2E": "warm_wood_background",
+          "#E8B488": "skin_warm_key",
+          "#F2F4F8": "white_editorial_header_panel",
+          "#2E50C0": "header_outline_and_accent_blue"
+        },
+        "color_relationship": "warm_dominant_with_clean_white_blue_overlay",
+        "temperature_balance": "warm_dominant",
+        "saturation_strategy": "desaturated_naturalistic",
+        "contrast_type": "soft_portrait_with_crisp_graphic_overlay",
+        "accent_color": "#2E50C0",
+        "accent_ratio": 0.18
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "Vertical 9:16 medium close-up portrait photograph, eye-level frontal framing, of a young Korean adult woman in her late twenties seated centered at a desk in a warm, cozy home study at evening. She wears a relaxed light heather-grey cotton hoodie; her shoulder-length warm auburn-brown hair frames a softly lit face. She raises a small fan of paper banknotes in both hands to about chin height and looks toward the lens with an open, friendly, lightly playful expression, as if sharing a money tip she is pleased about. On the desk in front of her sits a dark smartphone face-down and a few small objects. Behind her, softly out of focus, a wooden mid-century bookshelf, a glowing warm desk lamp and a few studious props dissolve into warm amber bokeh. Floating across the very top of the frame is a flat editorial graphic header bar: a clean white slightly torn-edged rectangle with a thin blue outline, containing two lines of bold near-black Korean text reading '지갑 없을 때' on the first line and '당장 현금 찾는 꿀팁' on the second; a tiny label 'CONTENT' sits at the upper-left of the panel, and along the bottom edge of the panel a row of very small handwritten-style metadata labels reads 'SERVICE' with the value 'ATM 출금하기', 'YEAR' with '2024', 'CATEGORY' with a list ' 결제 · 교통 · 출금 · 신용점수 · 공공서비스 ', and 'PRODUCTION TEAM' with '#team_transfer', giving the look of an editorial title card laid over live action. Lighting is soft warm tungsten ambient with a gentle frontal key at roughly 3200K, medium fill, soft shadows, overall medium-low contrast, giving a comfortable domestic glow. Lens rendering: a portrait prime at roughly 50 to 85mm full-frame equivalent at a wide aperture, the plane of focus on her face and the banknotes, the background blurred smoothly, with a slight natural handheld presence. Composition seats the subject in the lower-center of the frame with generous warm background, while the crisp white editorial header bar anchors the top edge — a deliberate contrast of soft photographic warmth against a flat graphic overlay. Color palette and strategy: warm-dominant naturalistic grade — neutral grey hoodie (#C9C6C0), warm wood background (#7A4B2E), warm skin key (#E8B488), clean white editorial panel (#F2F4F8), and a crisp accent blue (#2E50C0) in the panel outline and labels; saturation restrained and realist with the white-and-blue graphic providing crisp high-frequency contrast. Surfaces and texture: soft cotton hoodie and natural skin, crisp paper banknotes (rendered as generic pale-green Korean-style bills with no legible real currency marks), a glossy flat white graphic panel, and warm wood grain behind, all clean modern digital. Atmosphere: approachable and explanatory, a trusted peer framing the feature as an effortless cash-finding tip. Post and signature look: warm commercial grade on the photography, perfectly flat crisp rendering on the graphic overlay, precise focus on the subject. Style anchor: contemporary Korean fintech social-video aesthetic that overlays magazine-style editorial title bars onto warm live-action portraiture; the on-screen Korean header text '지갑 없을 때' and '당장 현금 찾는 꿀팁' must be preserved exactly, along with the small English metadata labels 'CONTENT', 'SERVICE', 'YEAR', 'CATEGORY', 'PRODUCTION TEAM'. No celebrity likeness — render a generic Korean adult woman; no real brand logos anywhere, and no legible real banknote detail. The production craft should read as premium Korean commercial work: a fast prime wide open for creamy separation, careful warm practical lighting wrapping the face softly, and a perfectly registered anti-aliased flat graphic overlay that sits convincingly in the frame without jitter.",
+        "t2i_negative": "english body caption, cold light, sharp background, studio backdrop, harsh contrast, distorted header text, real brand logos, legible real currency",
+        "i2v_motion": "The woman raises the fan of banknotes toward camera with a small natural gesture and settles into a soft knowing smile; the white editorial header bar holds static at the top of frame; subtle handheld micro-drift; hard cut at ~2.7s.",
+        "i2v_params": {
+          "clip_duration_sec": 2.7,
+          "camera_move": "handheld_micro",
+          "subject_motion_level": "low_natural",
+          "signature_effect": "none",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen Korean caption preserved; identity generic"
+      }
+    },
+    {
+      "index": 4,
+      "duration": 4.939,
+      "framing": "MS",
+      "function": "product_demo",
+      "subject_action": "top-down flat-lay of an iPhone lying on a vivid green surface; the app opens on the '전체' all-tab menu (토스뱅크/토스증권/고객센터 icons; 보안과 인증, 내 신용점수, 내 통신 요금, 진행 중인 이벤트; a '최근' section listing 증명서 발급하기, 신용점수 올리기, 교통카드 조회·충전, ATM에서 출금하기, 하나은행 외화 현금으로 찾기), a finger taps the 'ATM에서 출금하기' row; the screen moves to the ATM-withdrawal amount landing '얼마를 찾을까요?' with a '내 주변 ATM 찾기' row; lower-third caption pill reads '전체 탭에서' then \"'ATM 현금찾기'를 선택해보세요\"",
+      "layout_grid": "centered_device_on_field",
+      "subject_position": "center_dominant",
+      "typo_motion": "lower_third_caption_pill_swap",
+      "camera_angle": "top_down_flatlay",
+      "camera_facing": "perpendicular_to_screen",
+      "shot_scope": "product_detail",
+      "gaze": "none",
+      "props": [
+        "smartphone",
+        "finger",
+        "green_surface",
+        "sticky_note_edge"
+      ],
+      "color_palette": [
+        "#2E7D32",
+        "#FFFFFF",
+        "#2E6BF0",
+        "#1A1A1A",
+        "#7A8390"
+      ],
+      "color_intent": "saturated_green_field; clean_white_app_menu_ui; blue_link_accent; dark_caption_pill",
+      "pose_description": "the phone lies flat and centered on the green surface, screen up; a single index finger enters from the lower edge to tap a menu row, then the screen advances to the amount-entry landing",
+      "subject_motion": "finger_tap_then_ui_screen_change",
+      "camera_motion": "locked_off",
+      "camera_effect_local": "flat_even_screen_capture",
+      "intra_cut_rhythm": "tap_then_screen_transition_with_caption_swap",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "mid_frame_path": "ADV-2026-018_frames/cut04_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "phone_screen_all_tab_menu",
+          "finger_tapping",
+          "lower_third_caption_pill"
+        ],
+        "midground": [
+          "phone_chassis_on_surface"
+        ],
+        "background": [
+          "vivid_green_flat_surface",
+          "edge_of_yellow_paper"
+        ],
+        "lighting_env": [
+          "even_soft_overhead",
+          "screen_self_illumination"
+        ],
+        "atmosphere": [
+          "clean_product_demo",
+          "instructional"
+        ]
+      },
+      "texture": {
+        "primary_subject": "glossy_phone_screen_flat",
+        "secondary_objects": [
+          "matte_phone_chassis",
+          "human_finger"
+        ],
+        "background_surface": "smooth_matte_green_paper",
+        "atmospheric": [
+          "clean_flat_graphic_field"
+        ]
+      },
+      "lighting": {
+        "key_direction": "even_overhead_diffuse",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_5000K",
+        "fill_strength": "high",
+        "key_to_fill_ratio": "1:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "minimal_soft_under_phone",
+        "overall_contrast": "medium"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#2E7D32",
+          "#FFFFFF",
+          "#2E6BF0",
+          "#1A1A1A",
+          "#7A8390"
+        ],
+        "palette_role": {
+          "#2E7D32": "green_background_field",
+          "#FFFFFF": "app_ui_background",
+          "#2E6BF0": "ui_link_accent_blue",
+          "#1A1A1A": "ui_text_and_caption_pill",
+          "#7A8390": "secondary_grey_ui_text"
+        },
+        "color_relationship": "warm_neutral_ui_on_saturated_green_field",
+        "temperature_balance": "cool_field_neutral_ui",
+        "saturation_strategy": "high_saturation_brand_field_functional_ui",
+        "contrast_type": "high_contrast_white_device_on_green",
+        "accent_color": "#2E6BF0",
+        "accent_ratio": 0.08
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "Vertical 9:16 top-down flat-lay product photograph of a modern large-screen smartphone lying screen-up and centered on a smooth, saturated vivid forest-green flat paper surface, the green filling the entire surround as a bold seamless field of negative space. The phone is shown straight-on, perpendicular to camera, its slim black chassis framing a bright white application screen. The screen displays a generic Korean fintech super-app's full-menu 'all' tab: a large bold Korean title '전체' at the upper-left, a search and gear icon at the upper-right, then a row of three labelled feature icons reading '토스뱅크', '토스증권', '고객센터'. Below that, a vertical list of menu rows each with a small leading icon and a trailing chevron reads '보안과 인증', '내 신용점수', '내 통신 요금', and '진행 중인 이벤트'. A grey section label '최근' (recent) introduces a second list reading top to bottom '증명서 발급하기', '신용점수 올리기', '교통카드 조회·충전', 'ATM에서 출금하기', and '하나은행 외화 현금으로 찾기', each a tappable row with a small colored icon. A bottom tab bar with five small icons sits at the base of the screen. A single Korean adult index finger enters the frame from the lower edge and presses the 'ATM에서 출금하기' row. Superimposed across the lower third of the entire frame, sitting just below the phone, is a horizontally-centered dark charcoal rounded-rectangle caption pill containing bold white Korean text reading '전체 탭에서'; across the shot the pill also shows \"'ATM 현금찾기'를 선택해보세요\". Lighting is even, soft, neutral overhead diffuse at roughly 5000K with high fill, producing only a minimal soft contact shadow beneath the phone and a clean flat look across the green field; the screen self-illuminates with clean white. Lens rendering: a flat, low-distortion top-down capture as if from a copy-stand, the screen perfectly legible edge to edge with a slight glossy sheen on the glass. Composition centers the device on the green field with the caption pill anchoring the lower third, the whole image reading as a clean instructional product demo. Color palette and strategy: a high-saturation scheme — vivid green background field (#2E7D32) set against the cool white app UI, a blue link accent (#2E6BF0), near-black UI text and the dark caption pill (#1A1A1A), and secondary grey UI text (#7A8390); the green-versus-white-and-blue contrast gives the demo its punchy brand-forward look while the UI stays functional. Surfaces and texture: glossy flat phone glass, matte black chassis, a smooth matte green paper backdrop, and a natural human fingertip; a sliver of a yellow paper note peeks at the upper frame edge. Atmosphere: clean, bright, instructional product demonstration. Post and signature look: crisp clean digital, accurate UI colors, saturated but even green, no grain. Style anchor: contemporary Korean fintech social-video UI-walkthrough aesthetic — a phone-on-colored-paper flat-lay with synced lower-third caption pills; preserve the on-screen Korean UI strings ('전체', '토스뱅크', '토스증권', '고객센터', '보안과 인증', '내 신용점수', '내 통신 요금', '진행 중인 이벤트', '최근', '증명서 발급하기', '신용점수 올리기', '교통카드 조회·충전', 'ATM에서 출금하기', '하나은행 외화 현금으로 찾기') and the caption '전체 탭에서' exactly. Render the app as a generic plausible Korean fintech interface with no real brand logos or wordmarks beyond the on-screen Korean labels; no celebrity likeness. The whole frame should feel like a crisp tabletop product demo shot on a copy stand under soft even light: the green paper perfectly flat and uniform, the white phone screen razor sharp and legible, the single fingertip the only organic element, and the caption pill rendered as a clean anti-aliased graphic — a deliberately simple, brand-forward instructional look typical of Korean fintech how-to social videos.",
+        "t2i_negative": "english ui, perspective tilt, dark background, heavy drop shadow, cluttered desk props, real brand logos, blurry screen, orange background",
+        "i2v_motion": "The all-tab menu sits ready; a finger taps the 'ATM에서 출금하기' row and the screen advances to the withdrawal amount landing '얼마를 찾을까요?' with a '내 주변 ATM 찾기' row; the lower-third caption pill swaps from '전체 탭에서' to \"'ATM 현금찾기'를 선택해보세요\"; locked-off camera; hard cut at ~4.9s.",
+        "i2v_params": {
+          "clip_duration_sec": 4.9,
+          "camera_move": "locked_off",
+          "subject_motion_level": "low_ui_interaction",
+          "signature_effect": "none",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen Korean UI and caption preserved; identity/logo generic"
+      }
+    },
+    {
+      "index": 5,
+      "duration": 5.672,
+      "framing": "MS",
+      "function": "product_demo",
+      "subject_action": "top-down flat-lay on the green surface; the app shows the full-screen '내 주변 ATM 찾기' nearby-ATM map — a light street map with purple CU convenience-store location pins, a navigation route and a disclaimer 'ATM 위치 정보는 실시간 업데이트 되지 않으므로 정확하지 않을 수 있습니다'; a finger pans the map; the lower-third caption pill cycles '주변 ATM 보기를 누르면' then '가까운 ATM 위치를 확인할 수 있는데요'",
+      "layout_grid": "centered_device_on_field",
+      "subject_position": "center_dominant",
+      "typo_motion": "lower_third_caption_pill_swap",
+      "camera_angle": "top_down_flatlay",
+      "camera_facing": "perpendicular_to_screen",
+      "shot_scope": "product_detail",
+      "gaze": "none",
+      "props": [
+        "smartphone",
+        "finger",
+        "green_surface"
+      ],
+      "color_palette": [
+        "#2E7D32",
+        "#FFFFFF",
+        "#7A3FB0",
+        "#E2E6EA",
+        "#1A1A1A"
+      ],
+      "color_intent": "saturated_green_field; clean_white_map_ui; purple_store_location_pins; dark_caption_pill",
+      "pose_description": "the phone lies flat and centered, screen up, showing a street map; a single index finger touches and pans the map, with purple convenience-store pins scattered across it",
+      "subject_motion": "ui_map_pan_finger_interaction",
+      "camera_motion": "locked_off",
+      "camera_effect_local": "flat_even_screen_capture",
+      "intra_cut_rhythm": "map_pan_with_caption_swaps",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "mid_frame_path": "ADV-2026-018_frames/cut05_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "phone_screen_atm_finder_map",
+          "purple_store_pins",
+          "finger_panning",
+          "lower_third_caption_pill"
+        ],
+        "midground": [
+          "phone_chassis_on_surface"
+        ],
+        "background": [
+          "vivid_green_flat_surface"
+        ],
+        "lighting_env": [
+          "even_soft_overhead",
+          "screen_self_illumination"
+        ],
+        "atmosphere": [
+          "clean_product_demo",
+          "instructional",
+          "wayfinding"
+        ]
+      },
+      "texture": {
+        "primary_subject": "glossy_phone_screen_flat",
+        "secondary_objects": [
+          "matte_phone_chassis",
+          "human_finger"
+        ],
+        "background_surface": "smooth_matte_green_paper",
+        "atmospheric": [
+          "clean_flat_graphic_field"
+        ]
+      },
+      "lighting": {
+        "key_direction": "even_overhead_diffuse",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_5000K",
+        "fill_strength": "high",
+        "key_to_fill_ratio": "1:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "minimal_soft_under_phone",
+        "overall_contrast": "medium"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#2E7D32",
+          "#FFFFFF",
+          "#7A3FB0",
+          "#E2E6EA",
+          "#1A1A1A"
+        ],
+        "palette_role": {
+          "#2E7D32": "green_background_field",
+          "#FFFFFF": "map_ui_background",
+          "#7A3FB0": "purple_store_location_pin",
+          "#E2E6EA": "map_road_and_block_grey",
+          "#1A1A1A": "ui_text_and_caption_pill"
+        },
+        "color_relationship": "green_field_with_purple_pin_accents",
+        "temperature_balance": "cool_field_neutral_ui",
+        "saturation_strategy": "high_saturation_brand_field_functional_map",
+        "contrast_type": "high_contrast_white_device_on_green",
+        "accent_color": "#7A3FB0",
+        "accent_ratio": 0.1
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "Vertical 9:16 top-down flat-lay product photograph of a modern large-screen smartphone lying screen-up and centered on a smooth, saturated vivid forest-green flat paper surface that fills the entire surround as bold negative space. The phone is shown straight-on with its slim black chassis framing a bright screen that displays a generic Korean fintech app's full-screen 'find ATMs near me' map. A centered header bar reads '내 주변 ATM 찾기' with a back chevron on the left and an '안내' (guide) label on the right. The body of the screen is a clean light street map in pale greys, whites and soft green park blocks, with thin road lines, tiny place labels in Korean and small generic point-of-interest icons; scattered across the map are several bold purple teardrop location pins, each marked with a small convenience-store roundel, indicating nearby convenience-store ATMs, plus a small navigation route drawn as an orange line with numbered waypoint dots and a small user-location arrow. Along the very bottom of the map a small grey disclaimer line reads 'ATM 위치 정보는 실시간 업데이트 되지 않으므로 정확하지 않을 수 있습니다'. A single Korean adult index finger rests on the map as if panning it. Superimposed across the lower third of the entire frame, sitting just below the phone, is a horizontally-centered dark charcoal rounded-rectangle caption pill with bold white Korean text; at this moment it reads '가까운 ATM 위치를 확인할 수 있는데요' (just before, the pill read '주변 ATM 보기를 누르면'). Lighting is even, soft, neutral overhead diffuse at roughly 5000K with high fill, producing only a minimal soft contact shadow beneath the phone and a clean flat look across the green field; the screen self-illuminates clean white. Lens rendering: a flat low-distortion copy-stand-style top-down capture, the screen legible edge to edge with a slight glossy sheen. Composition centers the device on the green field with the caption pill anchoring the lower third. Color palette and strategy: a high-saturation scheme — vivid green background field (#2E7D32) against the cool white-and-grey map UI, bold purple store location pins (#7A3FB0) as the chromatic accent, pale grey map roads and blocks (#E2E6EA), and near-black UI text and caption pill (#1A1A1A); the green field frames a clean functional map whose only saturated events are the purple convenience-store pins. Surfaces and texture: glossy flat phone glass, matte black chassis, smooth matte green paper backdrop, and a natural human fingertip. Atmosphere: clean, bright, instructional wayfinding — showing the user where the nearest cardless ATMs are. Post and signature look: crisp clean digital, accurate UI colors, saturated even green, no grain. Style anchor: contemporary Korean fintech social-video UI-walkthrough aesthetic — phone-on-colored-paper flat-lay with synced lower-third caption pills; preserve the on-screen Korean strings ('내 주변 ATM 찾기', '안내', 'ATM 위치 정보는 실시간 업데이트 되지 않으므로 정확하지 않을 수 있습니다') and the caption '가까운 ATM 위치를 확인할 수 있는데요' exactly. Render the map and pins generically — generic purple store pins with no real franchise wordmark, a generic street map with no real map-provider branding; no celebrity likeness. The frame should read as a clean tabletop product demo on a copy stand under soft even light: the green paper perfectly flat and uniform, the white map razor sharp and fully legible, the purple pins the lively chromatic events scattered across an otherwise calm map, and the caption pill a clean anti-aliased dark graphic with crisp white type and gently rounded corners, registered without jitter.",
+        "t2i_negative": "english ui, perspective tilt, dark background, heavy shadow, real franchise logos, real map provider branding, blurry text, orange background",
+        "i2v_motion": "The nearby-ATM map sits with purple convenience-store pins; a finger pans the map slightly to reveal more pins; the lower-third caption pill swaps in sync with the voiceover from '주변 ATM 보기를 누르면' to '가까운 ATM 위치를 확인할 수 있는데요'; locked-off camera; hard cut at ~5.7s.",
+        "i2v_params": {
+          "clip_duration_sec": 5.7,
+          "camera_move": "locked_off",
+          "subject_motion_level": "low_ui_pan",
+          "signature_effect": "none",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen Korean UI and captions preserved; identity/logo generic"
+      }
+    },
+    {
+      "index": 6,
+      "duration": 3.836,
+      "framing": "MS",
+      "function": "product_demo",
+      "subject_action": "top-down flat-lay on the green surface; the user taps a convenience-store ATM pin and the amount-entry sheet rises — '얼마를 찾을까요? / 찾을 금액 / 만원' with a numeric keypad and a blue '확인' button — a finger taps '1' to set 1만원; the lower-third caption pill cycles '방문할 ATM을 선택하고' then '찾을 금액을 입력해주세요'",
+      "layout_grid": "centered_device_on_field",
+      "subject_position": "center_dominant",
+      "typo_motion": "lower_third_caption_pill_swap",
+      "camera_angle": "top_down_flatlay",
+      "camera_facing": "perpendicular_to_screen",
+      "shot_scope": "product_detail",
+      "gaze": "none",
+      "props": [
+        "smartphone",
+        "finger",
+        "green_surface"
+      ],
+      "color_palette": [
+        "#2E7D32",
+        "#FFFFFF",
+        "#2E8BF0",
+        "#1A1A1A",
+        "#7A8390"
+      ],
+      "color_intent": "saturated_green_field; clean_white_amount_entry_ui; blue_confirm_button; dark_caption_pill",
+      "pose_description": "the phone lies flat and centered, screen up; a finger taps a map pin then enters a numeric value on the keypad of the amount-entry sheet",
+      "subject_motion": "finger_tap_pin_then_keypad_entry",
+      "camera_motion": "locked_off",
+      "camera_effect_local": "flat_even_screen_capture",
+      "intra_cut_rhythm": "select_then_amount_entry_with_caption_swaps",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "mid_frame_path": "ADV-2026-018_frames/cut06_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "phone_screen_amount_entry_ui",
+          "numeric_keypad",
+          "blue_confirm_button",
+          "finger_tapping",
+          "lower_third_caption_pill"
+        ],
+        "midground": [
+          "phone_chassis_on_surface"
+        ],
+        "background": [
+          "vivid_green_flat_surface"
+        ],
+        "lighting_env": [
+          "even_soft_overhead",
+          "screen_self_illumination"
+        ],
+        "atmosphere": [
+          "clean_product_demo",
+          "instructional"
+        ]
+      },
+      "texture": {
+        "primary_subject": "glossy_phone_screen_flat",
+        "secondary_objects": [
+          "matte_phone_chassis",
+          "human_finger"
+        ],
+        "background_surface": "smooth_matte_green_paper",
+        "atmospheric": [
+          "clean_flat_graphic_field"
+        ]
+      },
+      "lighting": {
+        "key_direction": "even_overhead_diffuse",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_5000K",
+        "fill_strength": "high",
+        "key_to_fill_ratio": "1:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "minimal_soft_under_phone",
+        "overall_contrast": "medium"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#2E7D32",
+          "#FFFFFF",
+          "#2E8BF0",
+          "#1A1A1A",
+          "#7A8390"
+        ],
+        "palette_role": {
+          "#2E7D32": "green_background_field",
+          "#FFFFFF": "app_ui_background",
+          "#2E8BF0": "confirm_button_and_field_blue",
+          "#1A1A1A": "ui_text_and_caption_pill",
+          "#7A8390": "keypad_and_placeholder_grey"
+        },
+        "color_relationship": "green_field_with_blue_action_accent",
+        "temperature_balance": "cool_field_neutral_ui",
+        "saturation_strategy": "high_saturation_brand_field_functional_ui",
+        "contrast_type": "high_contrast_white_device_on_green",
+        "accent_color": "#2E8BF0",
+        "accent_ratio": 0.12
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "Vertical 9:16 top-down flat-lay product photograph of a modern large-screen smartphone lying screen-up and centered on a smooth, saturated vivid forest-green flat paper surface filling the entire surround as bold negative space. The phone is shown straight-on with its slim black chassis framing a bright white application screen displaying a generic Korean fintech app's ATM-withdrawal amount-entry state. The upper part of the screen still shows a sliver of the light street map with purple convenience-store pins, partly covered by a white sheet that has risen from the bottom. A bold Korean prompt reads '얼마를 찾을까요?'. Below it a single input row shows a left-aligned amount field — at this moment the typed numeral '1' — with a right-aligned grey unit label '만원' (ten-thousand won), a thin underline beneath. Below the field sits a wide rounded primary action button in vivid blue containing white Korean text reading '확인' (confirm). The lower portion of the screen shows a light numeric keypad with large digits 1 through 0, sub-letters under some keys, a left '+ * #' key and a right delete key. A single Korean adult index finger enters from the lower right and presses a number key. Superimposed across the lower third of the entire frame, sitting just below the phone, is a horizontally-centered dark charcoal rounded-rectangle caption pill with bold white Korean text; at this moment it reads '찾을 금액을 입력해주세요' (just before, the pill read '방문할 ATM을 선택하고'). Lighting is even, soft, neutral overhead diffuse at roughly 5000K with high fill, producing only a minimal soft contact shadow beneath the phone and a clean flat look across the green field; the screen self-illuminates clean white. Lens rendering: a flat low-distortion copy-stand-style top-down capture, the screen legible edge to edge with a slight glossy sheen. Composition centers the device on the green field with the caption pill anchoring the lower third. Color palette and strategy: a high-saturation scheme — vivid green background field (#2E7D32) against the cool white app UI, a vivid blue confirm button and field highlight (#2E8BF0), near-black UI text and caption pill (#1A1A1A), and grey keypad and placeholder text (#7A8390); the green-versus-blue contrast frames the action while the UI stays clean and functional. Surfaces and texture: glossy flat phone glass, matte black chassis, smooth matte green paper backdrop, and a natural human fingertip. Atmosphere: clean, bright, instructional — entering how much cash to withdraw. Post and signature look: crisp clean digital, accurate UI colors, saturated even green, no grain. Style anchor: contemporary Korean fintech social-video UI-walkthrough aesthetic — phone-on-colored-paper flat-lay with synced lower-third caption pills; preserve the on-screen Korean strings ('얼마를 찾을까요?', '만원', '확인') and the caption '찾을 금액을 입력해주세요' exactly. Render the app generically with no real brand logos; no celebrity likeness. The frame should read as a clean tabletop product demo on a copy stand under soft even light: the green paper perfectly flat and uniform, the white phone screen razor sharp and fully legible, the single fingertip the only organic element, and the caption pill a clean anti-aliased dark graphic with crisp white type and gently rounded corners, registered without jitter. The composition deliberately keeps the device centered with the surrounding green empty so the eye moves from the prompt, to the amount field, to the blue confirm button — the visual grammar of a simple, confident cash-withdrawal step typical of contemporary Korean fintech how-to social videos.",
+        "t2i_negative": "english ui, perspective tilt, dark background, heavy shadow, cluttered props, real brand logos, blurry numbers, orange background",
+        "i2v_motion": "The user taps a convenience-store map pin, the amount-entry sheet rises, and a finger taps the keypad to set the amount to 1만원; the lower-third caption pill swaps in sync from '방문할 ATM을 선택하고' to '찾을 금액을 입력해주세요'; locked-off camera; hard cut at ~3.8s.",
+        "i2v_params": {
+          "clip_duration_sec": 3.8,
+          "camera_move": "locked_off",
+          "subject_motion_level": "low_ui_interaction",
+          "signature_effect": "none",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen Korean UI and captions preserved; identity/logo generic"
+      }
+    },
+    {
+      "index": 7,
+      "duration": 2.736,
+      "framing": "MS",
+      "function": "product_demo",
+      "subject_action": "top-down flat-lay on the green surface; a confirmation sheet rises over the map — '이 계좌에서 찾을까요? / 토스뱅크 계좌로 출금하면 무료에요 / 토스뱅크 통장 / 찾을 금액 10,000 원 / 수수료 무료' with a blue '찾을게요' button being tapped; this resolves to an app PIN-entry screen '비밀번호를 눌러주세요 / 숫자 4자리 + 영문자 1자리' with a scrambled keypad; the lower-third caption pill reads '찾기 버튼을 누르면'",
+      "layout_grid": "centered_device_on_field",
+      "subject_position": "center_dominant",
+      "typo_motion": "lower_third_caption_pill",
+      "camera_angle": "top_down_flatlay",
+      "camera_facing": "perpendicular_to_screen",
+      "shot_scope": "product_detail",
+      "gaze": "none",
+      "props": [
+        "smartphone",
+        "finger",
+        "green_surface"
+      ],
+      "color_palette": [
+        "#2E7D32",
+        "#FFFFFF",
+        "#2E8BF0",
+        "#1A2740",
+        "#1A1A1A"
+      ],
+      "color_intent": "saturated_green_field; clean_white_confirm_sheet; blue_confirm_button; dark_navy_pin_screen; dark_caption_pill",
+      "pose_description": "the phone lies flat and centered, screen up; a finger taps the blue confirm button, then the screen changes to a dark navy app-password entry pad",
+      "subject_motion": "finger_tap_confirm_then_pin_screen",
+      "camera_motion": "locked_off",
+      "camera_effect_local": "flat_even_screen_capture",
+      "intra_cut_rhythm": "confirm_tap_to_pin_screen",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "mid_frame_path": "ADV-2026-018_frames/cut07_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "phone_screen_confirm_sheet",
+          "blue_confirm_button",
+          "lower_third_caption_pill"
+        ],
+        "midground": [
+          "phone_chassis_on_surface"
+        ],
+        "background": [
+          "vivid_green_flat_surface"
+        ],
+        "lighting_env": [
+          "even_soft_overhead",
+          "screen_self_illumination"
+        ],
+        "atmosphere": [
+          "clean_product_demo",
+          "instructional",
+          "secure_authorization"
+        ]
+      },
+      "texture": {
+        "primary_subject": "glossy_phone_screen_flat",
+        "secondary_objects": [
+          "matte_phone_chassis",
+          "human_finger"
+        ],
+        "background_surface": "smooth_matte_green_paper",
+        "atmospheric": [
+          "clean_flat_graphic_field"
+        ]
+      },
+      "lighting": {
+        "key_direction": "even_overhead_diffuse",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_5000K",
+        "fill_strength": "high",
+        "key_to_fill_ratio": "1:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "minimal_soft_under_phone",
+        "overall_contrast": "medium"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#2E7D32",
+          "#FFFFFF",
+          "#2E8BF0",
+          "#1A2740",
+          "#1A1A1A"
+        ],
+        "palette_role": {
+          "#2E7D32": "green_background_field",
+          "#FFFFFF": "confirm_sheet_white_background",
+          "#2E8BF0": "confirm_button_blue",
+          "#1A2740": "dark_navy_pin_entry_screen",
+          "#1A1A1A": "ui_text_and_caption_pill"
+        },
+        "color_relationship": "green_field_white_sheet_with_blue_action_then_dark_navy_secure_screen",
+        "temperature_balance": "cool_field_neutral_ui",
+        "saturation_strategy": "high_saturation_brand_field_functional_ui",
+        "contrast_type": "high_contrast_white_device_on_green",
+        "accent_color": "#2E8BF0",
+        "accent_ratio": 0.12
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "Vertical 9:16 top-down flat-lay product photograph of a modern large-screen smartphone lying screen-up and centered on a smooth, saturated vivid forest-green flat paper surface that fills the entire surround as bold negative space. The phone is shown straight-on with its slim black chassis framing a bright screen. The screen shows a generic Korean fintech app's withdrawal confirmation bottom-sheet rising over a dimmed light street map: a header bar still reads '내 주변 ATM 찾기' at the very top, while the white rounded confirmation sheet covering the lower two-thirds presents a bold Korean question '이 계좌에서 찾을까요?', a grey sub-line '토스뱅크 계좌로 출금하면 무료에요', then an account row with a small round blue app-style icon and the label '토스뱅크 통장' with a trailing chevron, then two summary rows reading '찾을 금액' with a right-aligned value '10,000 원' and '수수료' with a right-aligned '무료' (free). Anchored at the bottom of the sheet is a wide rounded primary action button in vivid blue with white Korean text reading '찾을게요' (I'll withdraw), shown mid-press as if being tapped. Superimposed across the lower third of the entire frame, sitting just below the phone, is a horizontally-centered dark charcoal rounded-rectangle caption pill with bold white Korean text reading '찾기 버튼을 누르면'. Lighting is even, soft, neutral overhead diffuse at roughly 5000K with high fill, producing only a minimal soft contact shadow beneath the phone and a clean flat look across the green field; the screen self-illuminates clean white. Lens rendering: a flat low-distortion copy-stand-style top-down capture, the screen legible edge to edge with a slight glossy sheen. Composition centers the device on the green field with the caption pill anchoring the lower third. Color palette and strategy: a high-saturation scheme — vivid green background field (#2E7D32) against the cool white confirmation sheet, a vivid blue confirm button (#2E8BF0), a hint of the dark navy secure PIN screen that follows (#1A2740), and near-black UI text and caption pill (#1A1A1A); the green-versus-blue contrast frames the decisive confirm action. Surfaces and texture: glossy flat phone glass, matte black chassis, smooth matte green paper backdrop, and a natural human fingertip. Atmosphere: clean, bright, instructional — confirming the withdrawal from a free account. Post and signature look: crisp clean digital, accurate UI colors, saturated even green, no grain. Style anchor: contemporary Korean fintech social-video UI-walkthrough aesthetic — phone-on-colored-paper flat-lay with synced lower-third caption pills; preserve the on-screen Korean strings ('이 계좌에서 찾을까요?', '토스뱅크 계좌로 출금하면 무료에요', '토스뱅크 통장', '찾을 금액', '10,000 원', '수수료', '무료', '찾을게요') and the caption '찾기 버튼을 누르면' exactly. Render the app and account icon generically with no real brand logos; no celebrity likeness. The frame should read as a clean tabletop product demo on a copy stand under soft even light: the green paper perfectly flat and uniform, the white phone screen razor sharp and fully legible, the blue confirm button the clear focal call-to-action at the bottom of the sheet, and the caption pill a clean anti-aliased dark graphic with crisp white type and gently rounded corners, registered without jitter. This restrained, brand-forward instructional treatment — every element with a clear functional job — is characteristic of contemporary Korean fintech how-to social videos, where the confirm step is presented plainly and reassuringly with the zero-fee detail in plain view before the secure password screen appears.",
+        "t2i_negative": "english ui, perspective tilt, dark background overall, heavy shadow, cluttered props, real brand logos, blurry numbers, orange background",
+        "i2v_motion": "A finger taps the blue '찾을게요' confirm button on the white sheet, and the screen transitions to a dark navy app-password entry pad reading '비밀번호를 눌러주세요 / 숫자 4자리 + 영문자 1자리' with a scrambled keypad; the lower-third caption pill holds '찾기 버튼을 누르면'; locked-off camera; hard cut at ~2.7s.",
+        "i2v_params": {
+          "clip_duration_sec": 2.7,
+          "camera_move": "locked_off",
+          "subject_motion_level": "low_ui_interaction",
+          "signature_effect": "none",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen Korean UI and caption preserved; identity/logo generic"
+      }
+    },
+    {
+      "index": 8,
+      "duration": 2.236,
+      "framing": "MS",
+      "function": "product_demo",
+      "subject_action": "top-down flat-lay on the green surface; the app lands on the approval-number screen — bold headline 'ATM 기기에 승인번호 / 여섯자리를 입력해주세요', a '5분 0초 남음' countdown ticking down, a blurred/redacted approval-number pill, a warning '다른 사람에게 번호를 알려주면 위험해요' and a help link '어떻게 입력하는지 모르겠다면?'; the lower-third caption pill reads '이렇게 승인번호가 발급되는데요'",
+      "layout_grid": "centered_device_on_field",
+      "subject_position": "center_dominant",
+      "typo_motion": "lower_third_caption_pill",
+      "camera_angle": "top_down_flatlay",
+      "camera_facing": "perpendicular_to_screen",
+      "shot_scope": "product_detail",
+      "gaze": "none",
+      "props": [
+        "smartphone",
+        "green_surface"
+      ],
+      "color_palette": [
+        "#2E7D32",
+        "#FFFFFF",
+        "#5B6470",
+        "#E2E6EA",
+        "#1A1A1A"
+      ],
+      "color_intent": "saturated_green_field; clean_white_approval_number_ui; grey_secondary_text; dark_caption_pill",
+      "pose_description": "the phone lies flat and centered, screen up, showing the issued-approval-number screen with a live countdown; no hand present",
+      "subject_motion": "ui_countdown_tick_static_otherwise",
+      "camera_motion": "locked_off",
+      "camera_effect_local": "flat_even_screen_capture",
+      "intra_cut_rhythm": "static_hold_with_countdown_micro_change",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "mid_frame_path": "ADV-2026-018_frames/cut08_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "phone_screen_approval_number_ui",
+          "countdown_timer_text",
+          "blurred_approval_number_pill",
+          "lower_third_caption_pill"
+        ],
+        "midground": [
+          "phone_chassis_on_surface"
+        ],
+        "background": [
+          "vivid_green_flat_surface"
+        ],
+        "lighting_env": [
+          "even_soft_overhead",
+          "screen_self_illumination"
+        ],
+        "atmosphere": [
+          "clean_product_demo",
+          "instructional",
+          "secure_handoff"
+        ]
+      },
+      "texture": {
+        "primary_subject": "glossy_phone_screen_flat",
+        "secondary_objects": [
+          "matte_phone_chassis"
+        ],
+        "background_surface": "smooth_matte_green_paper",
+        "atmospheric": [
+          "clean_flat_graphic_field"
+        ]
+      },
+      "lighting": {
+        "key_direction": "even_overhead_diffuse",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_5000K",
+        "fill_strength": "high",
+        "key_to_fill_ratio": "1:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "minimal_soft_under_phone",
+        "overall_contrast": "medium"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#2E7D32",
+          "#FFFFFF",
+          "#5B6470",
+          "#E2E6EA",
+          "#1A1A1A"
+        ],
+        "palette_role": {
+          "#2E7D32": "green_background_field",
+          "#FFFFFF": "app_ui_background",
+          "#5B6470": "secondary_grey_text_and_countdown",
+          "#E2E6EA": "blurred_number_pill_grey",
+          "#1A1A1A": "headline_text_and_caption_pill"
+        },
+        "color_relationship": "near_monochrome_white_ui_on_saturated_green_field",
+        "temperature_balance": "cool_field_neutral_ui",
+        "saturation_strategy": "high_saturation_brand_field_minimal_ui",
+        "contrast_type": "high_contrast_white_device_on_green",
+        "accent_color": "#5B6470",
+        "accent_ratio": 0.06
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "Vertical 9:16 top-down flat-lay product photograph of a modern large-screen smartphone lying screen-up and centered on a smooth, saturated vivid forest-green flat paper surface that fills the entire surround as bold negative space. The phone is shown straight-on with its slim black chassis framing a bright, mostly white application screen displaying a generic Korean fintech app's issued-approval-number screen — the moment a withdrawal code has been generated. Near the top, beneath a small back chevron, a bold two-line Korean headline reads 'ATM 기기에 승인번호' on the first line and '여섯자리를 입력해주세요' on the second, instructing the user to enter the six-digit approval number at the ATM. Just below the headline a small grey countdown line reads '5분 0초 남음' (5 minutes 0 seconds remaining). Centered in the middle of the screen is a soft rounded pill panel containing the approval number, deliberately rendered blurred/obscured for privacy so the digits are not legible. Beneath it a small grey caution line with a leading info icon reads '다른 사람에게 번호를 알려주면 위험해요' (it is dangerous to tell the number to others). Near the bottom a grey help link with a trailing chevron reads '어떻게 입력하는지 모르겠다면?' (not sure how to enter it?). The rest of the screen is calm white space. Superimposed across the lower third of the entire frame, sitting just below the phone, is a horizontally-centered dark charcoal rounded-rectangle caption pill with bold white Korean text reading '이렇게 승인번호가 발급되는데요'. Lighting is even, soft, neutral overhead diffuse at roughly 5000K with high fill, producing only a minimal soft contact shadow beneath the phone and a clean flat look across the green field; the screen self-illuminates clean white. Lens rendering: a flat low-distortion copy-stand-style top-down capture, the screen legible edge to edge (except the intentionally blurred number) with a slight glossy sheen. Composition centers the device on the green field with the blurred number pill as the focal point and the caption pill anchoring the lower third. Color palette and strategy: a high-saturation scheme — vivid green background field (#2E7D32) against the cool white app UI, secondary grey text and countdown (#5B6470), a soft grey blurred number pill (#E2E6EA), and near-black headline text and caption pill (#1A1A1A); the green field frames a calm, near-monochrome white screen whose single job is to present the time-limited approval code. Surfaces and texture: glossy flat phone glass, matte black chassis, smooth matte green paper backdrop. Atmosphere: clean, bright, a secure time-limited handoff — the app has issued a code to carry to the ATM. Post and signature look: crisp clean digital, accurate UI colors, saturated even green, no grain, the approval number intentionally blurred. Style anchor: contemporary Korean fintech social-video UI-walkthrough aesthetic — phone-on-colored-paper flat-lay with synced lower-third caption pills; preserve the on-screen Korean strings ('ATM 기기에 승인번호', '여섯자리를 입력해주세요', '5분 0초 남음', '다른 사람에게 번호를 알려주면 위험해요', '어떻게 입력하는지 모르겠다면?') and the caption '이렇게 승인번호가 발급되는데요' exactly, and keep the approval number itself blurred and illegible. Render the app generically with no real brand logos; no celebrity likeness. The frame should read as a clean tabletop product demo on a copy stand under soft even light: the green paper perfectly flat and uniform, the white phone screen razor sharp and legible, the blurred number pill the clear centre of attention, and the caption pill a clean anti-aliased dark graphic with crisp white type and gently rounded corners, registered without jitter — the restrained, reassuring, security-forward grammar typical of contemporary Korean fintech how-to social videos.",
+        "t2i_negative": "english ui, perspective tilt, dark background, heavy shadow, legible approval number, real brand logos, blurry headline, orange background",
+        "i2v_motion": "The issued approval-number screen holds; the countdown ticks from '5분 0초 남음' to '4분 59초 남음' while the approval number stays blurred; the lower-third caption pill holds '이렇게 승인번호가 발급되는데요'; locked-off camera; hard cut at ~2.2s.",
+        "i2v_params": {
+          "clip_duration_sec": 2.2,
+          "camera_move": "locked_off",
+          "subject_motion_level": "minimal_ui_countdown",
+          "signature_effect": "none",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen Korean UI and caption preserved; approval number blurred; identity/logo generic"
+      }
+    },
+    {
+      "index": 9,
+      "duration": 3.937,
+      "framing": "MS",
+      "function": "real_world_demo",
+      "subject_action": "handheld on-location live action: the same young woman in the grey hoodie, seen from behind, walks up to a blue convenience-store cardless ATM kiosk and begins operating its touchscreen, phone in her other hand; cool fluorescent store lighting with red and glass-door reflections; the lower-third caption pill reads '이제 ATM 기기에서' then '토스를 선택하고'",
+      "layout_grid": "center_subject_back_to_camera",
+      "subject_position": "center",
+      "typo_motion": "lower_third_caption_pill_swap",
+      "camera_angle": "eye_level_slightly_behind",
+      "camera_facing": "toward_subject_back_and_atm",
+      "shot_scope": "medium_full",
+      "gaze": "away_at_atm",
+      "props": [
+        "convenience_store_atm",
+        "smartphone",
+        "grey_hoodie",
+        "glass_storefront"
+      ],
+      "color_palette": [
+        "#2E50B0",
+        "#C9C6C0",
+        "#9A4B3B",
+        "#D8DCE0",
+        "#1A1A1A"
+      ],
+      "color_intent": "cool_fluorescent_store; blue_atm_kiosk; warm_red_store_reflections; neutral_grey_hoodie; dark_caption_pill",
+      "pose_description": "the woman stands centered with her back to camera in front of a tall blue ATM kiosk; her right arm reaches up to the touchscreen while her left hand holds a phone at her side",
+      "subject_motion": "approach_and_reach_to_touchscreen_active_handheld",
+      "camera_motion": "handheld_active",
+      "camera_effect_local": "shallow_dof_store_background",
+      "intra_cut_rhythm": "approach_then_operate_with_caption_swap",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "mid_frame_path": "ADV-2026-018_frames/cut09_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "woman_back_at_atm",
+          "grey_hoodie",
+          "lower_third_caption_pill"
+        ],
+        "midground": [
+          "blue_convenience_store_atm_kiosk",
+          "phone_in_hand"
+        ],
+        "background": [
+          "glass_storefront",
+          "red_store_interior_reflections",
+          "shelving"
+        ],
+        "lighting_env": [
+          "cool_fluorescent_overhead",
+          "mixed_store_practicals"
+        ],
+        "atmosphere": [
+          "everyday_errand",
+          "convenience_store",
+          "task_focused"
+        ]
+      },
+      "texture": {
+        "primary_subject": "soft_cotton_hoodie",
+        "secondary_objects": [
+          "glossy_blue_atm_plastic",
+          "glass_storefront"
+        ],
+        "background_surface": "reflective_glass_and_shelving",
+        "atmospheric": [
+          "soft_focus_store_bokeh"
+        ]
+      },
+      "lighting": {
+        "key_direction": "cool_overhead_fluorescent",
+        "key_hardness": "medium_soft",
+        "key_color_temp": "cool_fluorescent_5000K",
+        "fill_strength": "medium",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": true,
+        "practical_lights": [
+          "store_ceiling_fluorescents",
+          "atm_screen_glow"
+        ],
+        "shadow_presence": "medium",
+        "overall_contrast": "medium"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#2E50B0",
+          "#C9C6C0",
+          "#9A4B3B",
+          "#D8DCE0",
+          "#1A1A1A"
+        ],
+        "palette_role": {
+          "#2E50B0": "blue_atm_kiosk",
+          "#C9C6C0": "neutral_grey_hoodie",
+          "#9A4B3B": "warm_red_store_reflection",
+          "#D8DCE0": "cool_fluorescent_highlight",
+          "#1A1A1A": "shadow_and_caption_pill"
+        },
+        "color_relationship": "cool_blue_dominant_with_warm_red_accent",
+        "temperature_balance": "cool_dominant",
+        "saturation_strategy": "moderate_with_blue_field_and_warm_accent",
+        "contrast_type": "medium_location_contrast",
+        "accent_color": "#9A4B3B",
+        "accent_ratio": 0.12
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "Vertical 9:16 handheld on-location live-action photograph, eye-level and slightly behind, of a young Korean adult woman in a heather-grey cotton hoodie standing with her back to camera in front of a tall glossy blue cardless ATM kiosk inside a Korean convenience store. She is centered in the frame; her right arm reaches up to the ATM's touchscreen while her left hand holds a dark smartphone down at her side. The ATM kiosk is a bright cobalt-blue freestanding cabinet with a screen and keypad; to the right a glass storefront and door reveal soft out-of-focus warm-red and white interior reflections and a hint of product shelving. Lighting is cool overhead fluorescent at roughly 5000K with medium fill, a faint rim on the woman's hair and shoulder from the store lights and the ATM screen glow, medium shadows and medium contrast, giving the cooler, more clinical look of a real convenience-store interior — a deliberate contrast to the warm domestic opening. Superimposed across the lower third of the entire frame is a horizontally-centered dark charcoal rounded-rectangle caption pill with bold white Korean text; at this moment it reads '토스를 선택하고' (a beat earlier the pill read '이제 ATM 기기에서'). Lens rendering: a fast prime at roughly 35 to 50mm full-frame equivalent at a wide aperture, the plane of focus on the woman and the ATM with the storefront blurred behind, plus a natural handheld presence with slightly more motion than the locked-off demo shots. Composition seats the woman center frame with the blue ATM filling the left and upper area and the glass storefront on the right, the caption pill anchoring the lower third. Color palette and strategy: a cool-dominant location grade — cobalt-blue ATM kiosk (#2E50B0), neutral grey hoodie (#C9C6C0), warm red store reflections (#9A4B3B) as the warm accent against the cool field, cool fluorescent highlights (#D8DCE0), and deep shadow and the dark caption pill (#1A1A1A); saturation is moderate and realist, the blue field and warm red reflections giving the convenience-store its characteristic mixed-light feel. Surfaces and texture: soft cotton hoodie, glossy blue moulded ATM plastic, reflective glass storefront and metal shelving, all clean modern digital with a touch of handheld life. Atmosphere: an ordinary everyday errand — stepping up to a convenience-store ATM to get cash. Post and signature look: clean digital with a cool location grade, gentle handheld motion, naturalistic. Style anchor: contemporary Korean fintech social-video on-location live action that follows a relatable person performing the real-world version of the in-app steps; the on-screen Korean caption text '이제 ATM 기기에서' and '토스를 선택하고' must be preserved exactly. No celebrity likeness — render a generic Korean adult woman seen mostly from behind; no real brand logos or franchise wordmarks on the ATM, store or anywhere — keep the ATM and store generic. The craft should read as premium Korean commercial work shot on location: a fast prime wide open for subject separation, honest mixed convenience-store lighting, and a handheld camera that feels present without being shaky, the dark caption pill rendered as a clean anti-aliased graphic anchored in the lower third.",
+        "t2i_negative": "english caption, studio lighting, warm domestic interior, sharp deep-focus background, real franchise or bank logos, front-facing identifiable face, orange background",
+        "i2v_motion": "The woman steps up to the blue convenience-store ATM from behind and reaches her right hand up to operate the touchscreen, phone in her other hand; gentle-to-active handheld motion follows her; the lower-third caption pill swaps from '이제 ATM 기기에서' to '토스를 선택하고'; hard cut at ~3.9s.",
+        "i2v_params": {
+          "clip_duration_sec": 3.9,
+          "camera_move": "handheld_active",
+          "subject_motion_level": "moderate",
+          "signature_effect": "none",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen Korean caption preserved; identity generic; no real logos"
+      }
+    },
+    {
+      "index": 10,
+      "duration": 3.37,
+      "framing": "MCU",
+      "function": "real_world_demo",
+      "subject_action": "handheld on-location live action, tighter on the blue ATM: the woman's hoodie-sleeved arm enters and taps the ATM touchscreen which reads '출금 승인 번호 / 모바일 APP에서 발급받은 / 출금용 승인번호(6자리)를 / 입력하신 후, [확인] 버튼을 눌러주십시오' with an on-screen number pad; her phone is held in the other hand; the lower-third caption pill reads '생년월일과 승인번호를 입력하면'",
+      "layout_grid": "atm_screen_right_arm_diagonal",
+      "subject_position": "center_right_device",
+      "typo_motion": "lower_third_caption_pill",
+      "camera_angle": "eye_level_close",
+      "camera_facing": "toward_atm_screen",
+      "shot_scope": "product_detail_location",
+      "gaze": "none",
+      "props": [
+        "convenience_store_atm",
+        "atm_touchscreen",
+        "smartphone",
+        "grey_hoodie_sleeve"
+      ],
+      "color_palette": [
+        "#2E50B0",
+        "#3A6BC4",
+        "#C9C6C0",
+        "#1C1C1C",
+        "#E2E6EA"
+      ],
+      "color_intent": "cool_blue_atm; bright_blue_atm_screen; neutral_grey_hoodie_sleeve; dark_machine_body; dark_caption_pill",
+      "pose_description": "a hoodie-sleeved arm reaches diagonally across frame to tap a bright blue ATM touchscreen; the other hand holds a phone at the left edge; the machine's keypad and cash slot fill the lower frame",
+      "subject_motion": "arm_reaching_tapping_atm_touchscreen",
+      "camera_motion": "handheld_active",
+      "camera_effect_local": "shallow_dof_machine_detail",
+      "intra_cut_rhythm": "tapping_input_action",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "mid_frame_path": "ADV-2026-018_frames/cut10_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "hoodie_sleeved_arm_tapping",
+          "phone_in_other_hand",
+          "lower_third_caption_pill"
+        ],
+        "midground": [
+          "blue_atm_touchscreen_with_korean_text",
+          "atm_keypad_and_cash_slot"
+        ],
+        "background": [
+          "blue_atm_cabinet",
+          "store_notice_placard"
+        ],
+        "lighting_env": [
+          "cool_fluorescent_overhead",
+          "atm_screen_glow"
+        ],
+        "atmosphere": [
+          "task_focused",
+          "convenience_store",
+          "instructional_real_world"
+        ]
+      },
+      "texture": {
+        "primary_subject": "glossy_blue_atm_screen_and_plastic",
+        "secondary_objects": [
+          "soft_cotton_hoodie_sleeve",
+          "matte_atm_keypad"
+        ],
+        "background_surface": "moulded_blue_plastic_cabinet",
+        "atmospheric": [
+          "soft_focus_store"
+        ]
+      },
+      "lighting": {
+        "key_direction": "cool_overhead_fluorescent",
+        "key_hardness": "medium",
+        "key_color_temp": "cool_fluorescent_5000K",
+        "fill_strength": "medium",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": false,
+        "practical_lights": [
+          "atm_screen_glow",
+          "store_ceiling_fluorescents"
+        ],
+        "shadow_presence": "medium",
+        "overall_contrast": "medium"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#2E50B0",
+          "#3A6BC4",
+          "#C9C6C0",
+          "#1C1C1C",
+          "#E2E6EA"
+        ],
+        "palette_role": {
+          "#2E50B0": "blue_atm_cabinet",
+          "#3A6BC4": "bright_blue_atm_screen",
+          "#C9C6C0": "neutral_grey_hoodie_sleeve",
+          "#1C1C1C": "dark_machine_body_and_caption_pill",
+          "#E2E6EA": "atm_screen_white_panel"
+        },
+        "color_relationship": "cool_blue_dominant_with_neutral_grey",
+        "temperature_balance": "cool_dominant",
+        "saturation_strategy": "moderate_cool_with_blue_screen_glow",
+        "contrast_type": "medium_location_contrast",
+        "accent_color": "#3A6BC4",
+        "accent_ratio": 0.2
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "Vertical 9:16 handheld on-location live-action close-up of a Korean convenience-store cardless ATM, framed tight on its bright blue touchscreen and dark machine body. A grey hoodie-sleeved arm reaches diagonally across the frame from the lower left and a hand taps the ATM's blue touchscreen; in the far left edge the other hand holds a dark smartphone. The ATM screen is a saturated blue interface with a white content panel: a top utility strip carries a generic search-style bar, and the body reads a bold Korean heading '출금 승인 번호' (withdrawal approval number) and, in smaller Korean lines, '모바일 APP에서 발급받은 / 출금용 승인번호(6자리)를 / 입력하신 후, [확인] 버튼을 눌러주십시오' (after entering the six-digit withdrawal approval number issued in the mobile app, press the confirm button), beside an on-screen numeric keypad with digits and red/green action keys. Above the screen a lit 'ATM' sign glows on the dark machine bezel; below the screen are a card/receipt slot, a speaker grille, a small green status light, a physical numeric keypad with coloured function keys, and a cash-out tray at the bottom. A small printed notice placard is taped above the machine. Superimposed across the lower third of the entire frame is a horizontally-centered dark charcoal rounded-rectangle caption pill with bold white Korean text reading '생년월일과 승인번호를 입력하면'. Lighting is cool overhead fluorescent at roughly 5000K with medium fill, the blue screen casting its own glow onto the hand and machine, medium shadows and medium contrast — the cool, slightly clinical look of a real convenience-store interior. Lens rendering: a fast prime at roughly 35 to 50mm full-frame equivalent at a wide aperture, the plane of focus on the ATM screen and the tapping hand, with a natural handheld presence. Composition runs the reaching grey arm as a diagonal from lower-left toward the blue screen at center-right, the machine's keypad and cash tray grounding the lower frame, and the caption pill anchoring the lower third. Color palette and strategy: a cool-dominant location grade — cobalt-blue ATM cabinet (#2E50B0), bright blue ATM screen (#3A6BC4), neutral grey hoodie sleeve (#C9C6C0), dark machine body and caption pill (#1C1C1C), and the white ATM content panel (#E2E6EA); saturation is moderate and realist with the blue screen as the bright chromatic event. Surfaces and texture: glossy blue ATM screen and moulded plastic, soft cotton hoodie sleeve, matte rubberised keypad, all clean modern digital with handheld life. Atmosphere: task-focused real-world instruction — entering the approval number and birth date at the machine. Post and signature look: clean digital with a cool location grade, gentle handheld motion, naturalistic. Style anchor: contemporary Korean fintech social-video on-location live action that mirrors the in-app steps at a real machine; preserve the on-screen Korean ATM strings ('출금 승인 번호', '모바일 APP에서 발급받은', '출금용 승인번호(6자리)를', '입력하신 후, [확인] 버튼을 눌러주십시오') and the caption '생년월일과 승인번호를 입력하면' exactly. Render the ATM and its on-screen branding generically — a plausible generic cardless ATM with no real bank, kiosk-operator or franchise wordmarks; no celebrity likeness, the person shown only as a hand and hoodie sleeve. The craft should read as premium Korean commercial work shot on location: a fast prime wide open for screen-and-hand separation, honest cool convenience-store light with the blue screen glow, and a handheld camera that feels present, the dark caption pill a clean anti-aliased graphic anchored in the lower third.",
+        "t2i_negative": "english ui on atm, warm studio light, sharp deep-focus background, real bank or franchise logos, identifiable face, orange background, legible approval digits",
+        "i2v_motion": "The grey hoodie-sleeved hand taps the bright blue ATM touchscreen to enter the birth date and six-digit approval number while the other hand holds the phone; active handheld motion; the lower-third caption pill holds '생년월일과 승인번호를 입력하면'; hard cut at ~3.4s.",
+        "i2v_params": {
+          "clip_duration_sec": 3.4,
+          "camera_move": "handheld_active",
+          "subject_motion_level": "moderate",
+          "signature_effect": "none",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen Korean ATM text and caption preserved; identity/logo generic"
+      }
+    },
+    {
+      "index": 11,
+      "duration": 3.303,
+      "framing": "MS",
+      "function": "real_world_payoff",
+      "subject_action": "handheld on-location live action on the blue ATM: the screen shows '현금을 세고 있습니다 / 잠시만 기다려 주십시오' (counting cash) then resolves to '현금 수취 / 현금을 받아 주십시오 / 인출액 30,000원 / 수수료 0원 / 잔액 0원'; the woman's hoodie-sleeved hand reaches into the lower cash-out tray to collect the dispensed bills; the lower-third caption pill reads '카드 없이도 이렇게 편하게'",
+      "layout_grid": "atm_screen_upper_hand_lower",
+      "subject_position": "center_device",
+      "typo_motion": "lower_third_caption_pill",
+      "camera_angle": "eye_level_close",
+      "camera_facing": "toward_atm",
+      "shot_scope": "product_detail_location",
+      "gaze": "none",
+      "props": [
+        "convenience_store_atm",
+        "atm_cash_tray",
+        "banknotes",
+        "grey_hoodie_sleeve"
+      ],
+      "color_palette": [
+        "#2E50B0",
+        "#3A6BC4",
+        "#C9C6C0",
+        "#1C1C1C",
+        "#9FB89A"
+      ],
+      "color_intent": "cool_blue_atm; bright_blue_atm_result_screen; neutral_grey_hoodie; pale_green_banknotes; dark_caption_pill",
+      "pose_description": "the ATM result screen glows at the top of frame while the woman's hoodie-sleeved hand reaches into the cash-out tray at the bottom to take the dispensed banknotes",
+      "subject_motion": "hand_collecting_cash_from_tray",
+      "camera_motion": "handheld_active",
+      "camera_effect_local": "shallow_dof_machine_detail",
+      "intra_cut_rhythm": "counting_to_dispense_to_collect",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "mid_frame_path": "ADV-2026-018_frames/cut11_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "hoodie_sleeved_hand_taking_cash",
+          "dispensed_banknotes",
+          "lower_third_caption_pill"
+        ],
+        "midground": [
+          "blue_atm_result_screen",
+          "atm_cash_out_tray"
+        ],
+        "background": [
+          "blue_atm_cabinet",
+          "store_notice_placard"
+        ],
+        "lighting_env": [
+          "cool_fluorescent_overhead",
+          "atm_screen_glow"
+        ],
+        "atmosphere": [
+          "rewarding",
+          "convenience_store",
+          "task_complete"
+        ]
+      },
+      "texture": {
+        "primary_subject": "glossy_blue_atm_screen",
+        "secondary_objects": [
+          "crisp_paper_banknotes",
+          "soft_cotton_hoodie_sleeve"
+        ],
+        "background_surface": "moulded_blue_plastic_cabinet",
+        "atmospheric": [
+          "soft_focus_store"
+        ]
+      },
+      "lighting": {
+        "key_direction": "cool_overhead_fluorescent",
+        "key_hardness": "medium",
+        "key_color_temp": "cool_fluorescent_5000K",
+        "fill_strength": "medium",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": false,
+        "practical_lights": [
+          "atm_screen_glow",
+          "store_ceiling_fluorescents"
+        ],
+        "shadow_presence": "medium",
+        "overall_contrast": "medium"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#2E50B0",
+          "#3A6BC4",
+          "#C9C6C0",
+          "#1C1C1C",
+          "#9FB89A"
+        ],
+        "palette_role": {
+          "#2E50B0": "blue_atm_cabinet",
+          "#3A6BC4": "bright_blue_atm_result_screen",
+          "#C9C6C0": "neutral_grey_hoodie_sleeve",
+          "#1C1C1C": "dark_machine_body_and_caption_pill",
+          "#9FB89A": "pale_green_banknote"
+        },
+        "color_relationship": "cool_blue_dominant_with_pale_green_cash_accent",
+        "temperature_balance": "cool_dominant",
+        "saturation_strategy": "moderate_cool_with_cash_accent",
+        "contrast_type": "medium_location_contrast",
+        "accent_color": "#9FB89A",
+        "accent_ratio": 0.1
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "Vertical 9:16 handheld on-location live-action shot of a Korean convenience-store cardless ATM, framed on its bright blue result screen at the top and the cash-out tray at the bottom. The ATM screen shows a generic Korean cash-withdrawal result interface in saturated blue with a white content panel: a bold Korean heading '현금 수취' (cash receipt), a line '현금을 받아 주십시오' (please take your cash), and a small summary block listing '인출액' with a right-aligned value '*30,000 원', '수수료' with '*0 원', and '잔액' with '*0 원'; a moment earlier the same screen read '현금을 세고 있습니다 / 잠시만 기다려 주십시오' (counting your cash, please wait) with a small illustration. Above the screen a lit 'ATM' sign glows on the dark bezel. At the bottom of the frame, the machine's cash-out tray has opened and a grey hoodie-sleeved hand reaches in to collect a small stack of dispensed pale-green banknotes. A small printed notice placard is taped above the machine. Superimposed across the lower third of the entire frame is a horizontally-centered dark charcoal rounded-rectangle caption pill with bold white Korean text reading '카드 없이도 이렇게 편하게'. Lighting is cool overhead fluorescent at roughly 5000K with medium fill, the blue screen casting its own glow onto the machine and hand, medium shadows and medium contrast — the cool look of a real convenience-store interior. Lens rendering: a fast prime at roughly 35 to 50mm full-frame equivalent at a wide aperture, the plane of focus on the ATM result screen and the collecting hand, with a natural handheld presence. Composition stacks the glowing blue result screen in the upper-center and the cash-out tray with the reaching hand in the lower-center, the caption pill anchoring the lower third. Color palette and strategy: a cool-dominant location grade — cobalt-blue ATM cabinet (#2E50B0), bright blue result screen (#3A6BC4), neutral grey hoodie sleeve (#C9C6C0), dark machine body and caption pill (#1C1C1C), and pale-green banknotes (#9FB89A) as the small warm-neutral payoff accent; saturation is moderate and realist with the blue screen as the bright chromatic event and the cash the meaningful reward. Surfaces and texture: glossy blue ATM screen, crisp paper banknotes (rendered as generic pale-green bills with no legible real currency marks), soft cotton hoodie sleeve, and moulded blue plastic, all clean modern digital with handheld life. Atmosphere: rewarding and conclusive — the machine has counted and dispensed the cash and the user collects it. Post and signature look: clean digital with a cool location grade, gentle handheld motion, naturalistic. Style anchor: contemporary Korean fintech social-video on-location live action paying off the in-app steps in the real world; preserve the on-screen Korean ATM strings ('현금 수취', '현금을 받아 주십시오', '인출액', '*30,000 원', '수수료', '*0 원', '잔액') and the caption '카드 없이도 이렇게 편하게' exactly. Render the ATM and its on-screen branding generically with no real bank, operator or franchise wordmarks, and no legible real banknote detail; no celebrity likeness, the person shown only as a hand and hoodie sleeve. The craft should read as premium Korean commercial work shot on location: a fast prime wide open for screen-and-hand separation, honest cool convenience-store light with the blue screen glow, and a present handheld camera, the dark caption pill a clean anti-aliased graphic anchored in the lower third.",
+        "t2i_negative": "english ui on atm, warm studio light, sharp deep-focus background, real bank or franchise logos, identifiable face, legible real currency, orange background",
+        "i2v_motion": "The ATM screen resolves from '현금을 세고 있습니다 / 잠시만 기다려 주십시오' to the '현금 수취 / 인출액 30,000원' result, the cash tray opens, and the grey hoodie-sleeved hand reaches in to take the banknotes; active handheld motion; the lower-third caption pill holds '카드 없이도 이렇게 편하게'; hard cut at ~3.3s.",
+        "i2v_params": {
+          "clip_duration_sec": 3.3,
+          "camera_move": "handheld_active",
+          "subject_motion_level": "moderate",
+          "signature_effect": "none",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen Korean ATM text and caption preserved; identity/logo/currency generic"
+      }
+    },
+    {
+      "index": 12,
+      "duration": 3.37,
+      "framing": "MCU",
+      "function": "payoff_reveal",
+      "subject_action": "handheld on-location live action: the young woman in the grey hoodie now faces camera beside the blue ATM, holding up a fan of withdrawn banknotes near her cheek and giving a thumbs-up with a warm smile, phone still in one hand; the lower-third caption pill reads '현금을 인출할 수 있습니다'",
+      "layout_grid": "center_subject_with_cash_and_thumb",
+      "subject_position": "center",
+      "typo_motion": "lower_third_caption_pill",
+      "camera_angle": "low_eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "medium_portrait",
+      "gaze": "to_camera",
+      "props": [
+        "banknotes",
+        "smartphone",
+        "grey_hoodie",
+        "convenience_store_atm",
+        "shopping_basket"
+      ],
+      "color_palette": [
+        "#2E50B0",
+        "#C9C6C0",
+        "#9FB89A",
+        "#E8C27A",
+        "#1A1A1A"
+      ],
+      "color_intent": "cool_blue_atm_edge; neutral_grey_hoodie; pale_green_cash; warm_store_bokeh; dark_caption_pill",
+      "pose_description": "the woman stands centered facing the lens, holding a fan of banknotes up near her right cheek while her other hand gives a thumbs-up; a warm closed-mouth smile, phone tucked in a hand",
+      "subject_motion": "presenting_cash_and_thumbs_up_smile",
+      "camera_motion": "handheld_active",
+      "camera_effect_local": "shallow_dof_store_background",
+      "intra_cut_rhythm": "reveal_and_thumbs_up_hold",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "mid_frame_path": "ADV-2026-018_frames/cut12_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "woman_holding_cash",
+          "thumbs_up_hand",
+          "lower_third_caption_pill"
+        ],
+        "midground": [
+          "blue_atm_edge",
+          "phone_in_hand"
+        ],
+        "background": [
+          "store_interior_bokeh",
+          "shopping_basket",
+          "shelving"
+        ],
+        "lighting_env": [
+          "cool_fluorescent_overhead",
+          "mixed_warm_store_practicals"
+        ],
+        "atmosphere": [
+          "delighted",
+          "satisfied",
+          "convenience_store"
+        ]
+      },
+      "texture": {
+        "primary_subject": "soft_cotton_hoodie_and_skin",
+        "secondary_objects": [
+          "crisp_paper_banknotes",
+          "glossy_blue_atm_edge"
+        ],
+        "background_surface": "soft_focus_store_shelving",
+        "atmospheric": [
+          "soft_store_bokeh"
+        ]
+      },
+      "lighting": {
+        "key_direction": "cool_frontal_fluorescent",
+        "key_hardness": "medium_soft",
+        "key_color_temp": "cool_fluorescent_5000K",
+        "fill_strength": "medium",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": true,
+        "practical_lights": [
+          "store_ceiling_fluorescents",
+          "warm_aisle_lights"
+        ],
+        "shadow_presence": "medium_soft",
+        "overall_contrast": "medium"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#2E50B0",
+          "#C9C6C0",
+          "#9FB89A",
+          "#E8C27A",
+          "#1A1A1A"
+        ],
+        "palette_role": {
+          "#2E50B0": "blue_atm_edge",
+          "#C9C6C0": "neutral_grey_hoodie",
+          "#9FB89A": "pale_green_banknote",
+          "#E8C27A": "warm_store_aisle_bokeh",
+          "#1A1A1A": "shadow_and_caption_pill"
+        },
+        "color_relationship": "cool_blue_and_grey_with_warm_aisle_accent",
+        "temperature_balance": "cool_with_warm_accent",
+        "saturation_strategy": "moderate_with_cash_and_warm_bokeh_accents",
+        "contrast_type": "medium_location_portrait_contrast",
+        "accent_color": "#9FB89A",
+        "accent_ratio": 0.14
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "Vertical 9:16 handheld on-location live-action medium close-up portrait, shot from a low eye-level angle, of a young Korean adult woman in a heather-grey cotton hoodie standing beside a glossy blue cardless ATM inside a Korean convenience store, now facing the camera. She holds up a small fan of freshly withdrawn pale-green banknotes near her right cheek and gives a clear thumbs-up with her other hand, wearing a warm, satisfied closed-mouth smile; a dark smartphone is tucked in one of her hands. The edge of the cobalt-blue ATM kiosk frames the upper-right of the frame, and behind her the convenience-store interior — aisle shelving and a glimpse of a green shopping basket at the lower-left — dissolves into soft warm-and-cool bokeh. Lighting is cool overhead fluorescent at roughly 5000K with medium fill on her face, a faint rim on her hair from the store lights and a touch of warmer light from the aisles, medium-soft shadows and medium contrast, blending the cool ATM area with warmer store ambience. Superimposed across the lower third of the entire frame is a horizontally-centered dark charcoal rounded-rectangle caption pill with bold white Korean text reading '현금을 인출할 수 있습니다'. Lens rendering: a fast prime at roughly 35 to 50mm full-frame equivalent at a wide aperture, the plane of focus on her face and the fan of cash, the store blurred behind, with a natural handheld presence. Composition seats her centered, the fan of banknotes and the thumbs-up framing her face, the blue ATM edge anchoring the upper-right and the caption pill the lower third. Color palette and strategy: a cool-dominant location grade with warm relief — cobalt-blue ATM edge (#2E50B0), neutral grey hoodie (#C9C6C0), pale-green banknotes (#9FB89A) as the meaningful payoff accent, warm store-aisle bokeh (#E8C27A), and deep shadow and the dark caption pill (#1A1A1A); saturation is moderate and realist, the cash and the thumbs-up carrying the emotional reward. Surfaces and texture: soft cotton hoodie and natural skin, crisp paper banknotes (generic pale-green bills with no legible real currency marks), glossy blue ATM edge, and soft-focus store shelving, all clean modern digital with handheld life. Atmosphere: delighted and satisfied — the happy payoff of getting cash card-free at a convenience store. Post and signature look: clean digital with a cool-warm location grade, gentle handheld motion, naturalistic skin. Style anchor: contemporary Korean fintech social-video on-location live action delivering the human payoff after the walkthrough; the on-screen Korean caption text '현금을 인출할 수 있습니다' must be preserved exactly. No celebrity likeness — render a generic Korean adult woman; no real brand logos or franchise wordmarks on the ATM, store or anywhere, and no legible real banknote detail. The craft should read as premium Korean commercial work shot on location: a fast prime wide open for creamy subject separation, honest mixed convenience-store light, and a present handheld camera, the dark caption pill a clean anti-aliased graphic anchored in the lower third. This is the single most emotionally upbeat beat of the spot and the art direction earns it by withholding flourish everywhere else: there is no graphic effect, no confetti, just a real person turning to the lens with cash in hand and a genuine thumbs-up, the low angle giving her a small heroic lift and the blurred store behind keeping the focus entirely on her face, the fan of bills and the raised thumb. Her expression should read as quietly proud and a little relieved rather than broadly grinning — the natural satisfaction of someone who just solved a small problem the easy way — and the cash should be held casually near the cheek, slightly soft from a tiny handheld drift, so the moment feels candid rather than posed. The cool fluorescent key on her skin, warmed faintly by the aisle lights, ties this payoff visually back to the cooler convenience-store demonstration shots while the relatable warmth of the smile echoes the cozy domestic opening, closing the emotional loop of the spot. This restrained, human, real-world payoff treatment — letting an ordinary likeable person and a stack of bills carry the reward with almost no production trickery — is characteristic of contemporary Korean fintech social videos that want the feature to feel genuinely effortless and trustworthy.",
+        "t2i_negative": "english caption, studio backdrop, warm domestic interior, sharp deep-focus background, real franchise or bank logos, legible real currency, orange background",
+        "i2v_motion": "The woman holds up the fan of withdrawn banknotes near her cheek and gives a thumbs-up with a warm smile to camera, phone in hand; gentle handheld motion; the lower-third caption pill holds '현금을 인출할 수 있습니다'; hard cut at ~3.4s.",
+        "i2v_params": {
+          "clip_duration_sec": 3.4,
+          "camera_move": "handheld_active",
+          "subject_motion_level": "low_natural",
+          "signature_effect": "none",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen Korean caption preserved; identity/currency generic; no real logos"
+      }
+    },
+    {
+      "index": 13,
+      "duration": 2.792,
+      "framing": "TITLE_CARD",
+      "function": "cta_endcard",
+      "subject_action": "series end card: a small light-grey rounded rectangle badge settles centered on a textured off-white paper field, bearing sketch-pixel/CRT-distorted blue text 'Curator T' over a thin blue underline with smaller Korean text '토스를 발견하다' beneath",
+      "layout_grid": "center_badge_on_paper_field",
+      "subject_position": "center",
+      "typo_motion": "sticker_settle_then_static_hold",
+      "camera_angle": "flat_frontal",
+      "camera_facing": "frontal_flat",
+      "shot_scope": "typography_endcard",
+      "gaze": "none",
+      "props": [],
+      "color_palette": [
+        "#EFEDE7",
+        "#D8D5CD",
+        "#2E4BD6",
+        "#5A8FE0",
+        "#9A9690"
+      ],
+      "color_intent": "textured_offwhite_paper_field; light_grey_badge; sketch_pixel_crt_blue_text_with_chromatic_fringe",
+      "pose_description": "no subjects; a single small badge graphic centered on a matte paper field, its text rendered with a retro sketch-pixel/CRT distortion and slight RGB color split",
+      "subject_motion": "badge_settle_micro",
+      "camera_motion": "locked_off",
+      "camera_effect_local": "pixel_crt_chromatic_aberration",
+      "intra_cut_rhythm": "settle_then_hold",
+      "transition_in": "cut",
+      "transition_out": "end",
+      "mid_frame_path": "ADV-2026-018_frames/cut13_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "pixel_crt_badge",
+          "curator_t_text",
+          "korean_tagline_text"
+        ],
+        "midground": [],
+        "background": [
+          "textured_offwhite_paper_field"
+        ],
+        "lighting_env": [
+          "flat_even"
+        ],
+        "atmosphere": [
+          "retro_digital",
+          "quiet_brand_signature",
+          "tactile_paper"
+        ]
+      },
+      "texture": {
+        "primary_subject": "sketch_pixel_crt_distorted_text",
+        "secondary_objects": [
+          "light_grey_badge_panel"
+        ],
+        "background_surface": "matte_textured_paper",
+        "atmospheric": [
+          "subtle_paper_grain"
+        ]
+      },
+      "lighting": {
+        "key_direction": "flat_even_frontal",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral",
+        "fill_strength": "high",
+        "key_to_fill_ratio": "1:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "minimal_soft_under_badge",
+        "overall_contrast": "low_with_high_contrast_text"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#EFEDE7",
+          "#D8D5CD",
+          "#2E4BD6",
+          "#5A8FE0",
+          "#9A9690"
+        ],
+        "palette_role": {
+          "#EFEDE7": "paper_background_offwhite",
+          "#D8D5CD": "badge_panel_light_grey",
+          "#2E4BD6": "primary_pixel_text_blue",
+          "#5A8FE0": "chromatic_fringe_cyan_blue",
+          "#9A9690": "paper_texture_shadow_grey"
+        },
+        "color_relationship": "near_monochrome_paper_with_blue_text_accent",
+        "temperature_balance": "neutral_cool_text_on_warm_neutral_paper",
+        "saturation_strategy": "low_saturation_ground_with_saturated_blue_text",
+        "contrast_type": "high_text_on_light_panel",
+        "accent_color": "#2E4BD6",
+        "accent_ratio": 0.15
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "Vertical 9:16 flat frontal graphic end card on a textured off-white matte paper field that fills the entire frame as warm-neutral negative space with a subtle visible paper grain and faint soft mottling, like a sheet of uncoated card stock. Centered in the frame sits a single small horizontal rounded-rectangle badge in a slightly darker light-grey tone than the paper, as if a printed label or sticker rests on the sheet, casting only the faintest soft contact shadow. On the badge, rendered in a deliberately retro sketch-pixel/CRT-distorted style, is the bold Latin wordmark 'Curator T' in a saturated cobalt blue; the lettering carries a visible hand-scribbled bitmap/scanline texture and a slight RGB chromatic-aberration split so cyan-blue and faint red fringes edge the characters, evoking an old CRT monitor or low-resolution pixel display drawn with a ballpoint hatch. Directly beneath the wordmark runs a thin horizontal blue underline rule, and below that, in much smaller dark characters, sits the Korean tagline '토스를 발견하다'. The badge is the only element on the otherwise empty paper field, giving the card a quiet, collectible, stamp-like feel. Lighting is flat and even and frontal with high fill, neutral temperature, no modelling shadows beyond a whisper of contact shadow under the badge, and an overall low scene contrast that throws the high-contrast saturated blue text into relief against the pale ground. Lens rendering: a flat, straight-on graphic capture with no perspective and no depth of field, the paper texture crisp across the frame. Composition is centered and calm with wide margins of paper around the small badge. Color palette and strategy: a near-monochrome warm-neutral ground — off-white paper (#EFEDE7), light-grey badge panel (#D8D5CD), and paper-texture shadow grey (#9A9690) — punctuated by the single saturated cobalt-blue sketch-pixel wordmark (#2E4BD6) with a cyan-blue chromatic fringe (#5A8FE0); the strategy is restraint and tactility, a low-saturation paper world with one vivid retro-digital blue accent. Surfaces and texture: a matte fibrous paper background, a slightly smoother light-grey label panel, and the sketch-pixelated CRT text with scanline and chromatic-split artifacts as the signature texture. Atmosphere: a quiet, retro-digital brand signature with a tactile, almost analog-print sensibility — a deliberate contrast to the glossy app screens and the convenience-store location footage that preceded it. Post and signature look: intentional lo-fi sketch-pixel/CRT distortion and RGB split applied only to the badge text, over a clean textured-paper plate. Style anchor: contemporary Korean brand series end-card design that pairs tactile paper texture with retro pixel/CRT typography as a recurring signature device; preserve the on-screen text exactly — the Latin wordmark 'Curator T' and the Korean tagline '토스를 발견하다'. No real corporate logo marks beyond this stylized series wordmark; no photographic subjects, no celebrity likeness. The card should feel intentionally hand-made and tactile despite being digital: imagine a small printed label resting on a sheet of recycled card stock, photographed flat and even, the paper's fibrous grain just visible, the label's edges soft. The pixel/CRT treatment on the text is the whole personality of the frame — visible square pixels, faint horizontal scanline banding, hand-hatched strokes and a small registration offset between the blue and cyan channels so the wordmark looks like it is glowing on an old low-resolution display. This retro-digital flourish reads as a knowing, playful brand signature and stands in deliberate contrast to the crisp footage that came before it, signalling the recurring sign-off of an ongoing series rather than a one-off endcard. Wide calm margins of empty paper surround the small centered badge, giving the close a quiet, collectible, almost stamp-like restraint.",
+        "t2i_negative": "photographic subjects, smooth vector text without pixelation, dark background, glossy 3d, busy decoration, english tagline, real corporate logo",
+        "i2v_motion": "The light-grey badge settles centered on the paper field; the sketch-pixel/CRT 'Curator T' wordmark and '토스를 발견하다' tagline hold with a faint flickering chromatic-aberration shimmer; locked-off camera; clip ends at ~2.8s.",
+        "i2v_params": {
+          "clip_duration_sec": 2.8,
+          "camera_move": "locked_off",
+          "subject_motion_level": "low_graphic_settle",
+          "signature_effect": "pixel_crt_chromatic_aberration",
+          "pacing": "slow_deliberate",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen series wordmark and tagline preserved; no real corporate logo"
+      }
+    }
+  ],
+  "search_keywords": {
+    "industry": [
+      "finance",
+      "fintech"
+    ],
+    "product_category": [
+      "atm_withdrawal",
+      "cardless_cash",
+      "convenience_store_atm",
+      "personal_finance_app"
+    ],
+    "target_demo": [
+      "korean_adults",
+      "20s_30s",
+      "mobile_users",
+      "cash_users"
+    ],
+    "media_format": [
+      "shortform_vertical_30s_plus",
+      "social_media",
+      "vertical_9x16"
+    ],
+    "tone": [
+      "helpful",
+      "reassuring",
+      "instructional",
+      "lightly_upbeat"
+    ],
+    "pacing": [
+      "steady",
+      "linear",
+      "narration_driven"
+    ],
+    "technique": [
+      "app_demo",
+      "ui_walkthrough",
+      "caption_led",
+      "flatlay_phone_on_color",
+      "crt_pixel_typo",
+      "on_location_payoff"
+    ],
+    "vfx_keywords": [
+      "ui_motion",
+      "screen_capture",
+      "pixel_crt_distortion",
+      "caption_pill_swap"
+    ],
+    "copy_strategy_keywords": [
+      "voice_caption_sync",
+      "step_by_step_guide",
+      "problem_then_solution",
+      "real_world_payoff"
+    ],
+    "concept_derivation_pattern": [
+      "app_feature_walkthrough",
+      "hidden_feature_reveal"
+    ]
+  },
+  "inferred_creative_thinking": {
+    "insight": "In a card-and-mobile-pay world many Korean adults rarely carry a card or cash, so the moment they actually need physical cash with an empty wallet feels like a real mini-crisis; few realize their finance app can dispense cash at a convenience-store ATM with no card at all",
+    "persona": "A young Korean adult, mobile-first, who almost never carries cash or a debit card and is caught out needing physical money near a convenience store",
+    "moment": "The small panic of opening a wallet with no card and no cash, immediately answered by a guided cardless ATM withdrawal that ends with bills in hand and a thumbs-up",
+    "product_role": "The cardless ATM-withdrawal feature is positioned as a hidden 'tip' inside the super-app: choose it in the all-tab, find a nearby convenience-store ATM, set the amount, get a time-limited approval number, and collect cash at the machine with just your birth date and that number — no card needed",
+    "punchline": "카드 없이도 이렇게 편하게 현금을 인출할 수 있습니다 — cash in hand at a convenience-store ATM with no card, sealed with a thumbs-up",
+    "differentiator": "No physical card required: the app issues a six-digit approval number and the convenience-store ATM dispenses cash from your linked account, fee-free, in a few taps",
+    "brand_fit_one_liner": "Toss frames itself as the app that quietly solves a real-world cash emergency for you, card-free, from your phone",
+    "confidence": "inferred"
+  },
+  "inferred_brief": "Drive awareness of Toss's cardless 'ATM 현금 출금' feature among cash-light young adults by walking through, step by step, how to choose it in the app, find a nearby convenience-store ATM, get an approval number, and withdraw cash card-free at the machine, paying off on a real-world thumbs-up cash reveal and the recurring Curator T series end card.",
+  "cross_pollination_tags": {
+    "adjacent": [
+      "banking_app_demo_ads",
+      "mobile_payment_ads",
+      "super_app_feature_walkthroughs"
+    ],
+    "distant": [
+      "cooking_recipe_step_videos",
+      "saas_onboarding_tutorials",
+      "vending_machine_how_to"
+    ],
+    "contrast": [
+      "emotional_brand_film",
+      "celebrity_endorsement_spot",
+      "abstract_image_ad"
+    ]
+  },
+  "concept_derivation_pattern": "hidden_feature_walkthrough: surface a relatable money pain point (empty wallet, no card or cash), resolve it with a synced voice-and-caption step-by-step in-app demo shot as a phone-on-color flat-lay, then pay off the steps in real-world on-location live action at a convenience-store cardless ATM, and sign with a recurring retro pixel/CRT series end card",
+  "confidence": "inferred",
+  "analyst_notes": "This entry is a mixed-format walkthrough of a Korean fintech app's cardless ATM cash-withdrawal feature: warm shallow-DOF live-action interior shots (empty wallet, woman with cash + editorial CONTENT header) set up the pain point, flat-lay phone-on-vivid-green screen-demo shots (effectively screen captures composited onto a green flat-lay) carry the in-app steps, and cooler handheld on-location live action at a convenience-store cardless ATM pays the steps off in the real world, closing on the pixel/CRT 'Curator T / 토스를 발견하다' series end card. capture_style classified 'mixed'. Eight scenedetect hard cuts (f62/111/193/708/775/893/1093/1194 in hard_cuts) were cross-checked visually; scenedetect also flagged f626/694/994 which fall mid-action and were used to help split the long f193-708 green-flatlay scene by SCREEN-STATE into shots 4-8 (all-tab menu -> ATM finder map -> ATM-select+amount -> confirm+PIN -> issued approval number). The long auto-detected scene 4 (f194-708, ~17s, 477 text-change spikes) is one constant green background but genuinely distinct app screens, so it was split into shots 4-8; the convenience-store ATM block was split by action/screen-state into shots 9-12 (approach -> input -> count+dispense+collect -> cash reveal/thumbs-up). The f1093 cut is a handheld re-frame within the same payoff (whip to the cash reveal). wow cut is shot 12, the real-world cash-in-hand thumbs-up reveal. wiggle is NOT stereoscopic (mean_abs_shift_x 0.45, sign_flips 0.30 = ordinary handheld): live-action interior and convenience-store shots are gentle-to-active handheld, the flat-lay UI and end card are locked off; confirmed visually as NOT wiggle_3d. Audio reconciled: faster_whisper tiny mis-heard '현금' as '형금', 'ATM' as 'AT&', '출금' as '사킬', '주변 ATM 찾기' as '주변 AT&복이', '생년월일' as '생련을과', '편하게' as '평하게'; all corrected from the crisp on-screen captions/UI. Note the VO/menu says 'ATM 현금 출금'/'ATM에서 출금하기' while the synced caption pill reads \"'ATM 현금찾기'를 선택해보세요\" and the map step caption reads '주변 ATM 보기를 누르면' — captions kept verbatim. speech_coverage 0.859; bgm_likely was null in audio.json and set true on judgement (light bed under VO). On-screen demo names ('토스뱅크 통장' etc.) and ATM hardware text (NICEPARK / PULOON / CU pins) are real-world artifacts captured in the footage; brand/product names kept only in source_ref/copywriting and visuals described abstractly as a generic Korean fintech app and generic convenience-store ATM. This entry is ADV-2026-018; sibling files ADV-2026-017/019/020 and ADV-2026-021/022/023/024/025 in this folder belong to other work and were left untouched, as were the _owtest/_writetest files.",
+  "verification": {
+    "frames_reviewed": "~33/1276 read at native res, including all eight hard-cut boundaries (f61/63 via f58/63, f110/112, f192/195, f707/709, f774/775, f892/893, f1092/1094, f1193/1194), interior frames per shot, and a representative frame for every distinct screen-state across the long f193-708 green-flatlay span (all-tab menu f200/195, amount landing f250/300, finder map f340/400/470, ATM-select+amount f510/560/620, confirm sheet f660/693, PIN screen f707, approval-number screen f740/774) plus the convenience-store ATM block (approach f830, input f893/950/970/993, count/dispense/collect f995/1050, cash reveal/thumbs-up f1150/1193) and the end card (f1235/1276); 100% per-frame metrics (diff/text_delta/motion_zones/shift) and cut_hints reviewed",
+    "audio_analyzed": true,
+    "hitrate_na": true,
+    "abstraction_checked": true
+  }
+}

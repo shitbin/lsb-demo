@@ -1,0 +1,1431 @@
+{
+  "id": "ADV-2026-007",
+  "source_ref": {
+    "platform": "YouTube / broadcast",
+    "title_or_campaign": "사기꾼 여러분 — 사기 계좌 자동 조회 (토스 × 경찰청)",
+    "brand": "토스 (Toss)",
+    "product": "토스 송금 사기 계좌 자동 조회 기능 (Toss × 경찰청 fraud-account auto-check)",
+    "model": null,
+    "year": 2024,
+    "production_note": "토스 × 경찰청 협력 캠페인. 사기꾼을 유령(ghost) 코스튬으로 의인화하는 컨셉.",
+    "url": null
+  },
+  "category_primary": "finance.bank",
+  "category_tags": [
+    "fintech",
+    "mobile_payment",
+    "fraud_prevention",
+    "public_safety_campaign",
+    "co-brand"
+  ],
+  "mood": [
+    "eerie",
+    "confident",
+    "cinematic",
+    "empowering",
+    "dark_humor"
+  ],
+  "target_demo": [
+    "20s_30s_korean",
+    "mobile_native",
+    "smartphone_transfer_users"
+  ],
+  "total_duration": 25.54,
+  "shot_count": 10,
+  "shot_count_corrected": 10,
+  "fps": 29.97,
+  "aspect_ratio": "16:9",
+  "hook_position": 0.0,
+  "cta_position": 13.45,
+  "narrative_arc": "villain_reveal → protagonist_confidence → product_demo → villain_defeat",
+  "narrative_structure": "linear_continuous",
+  "pacing_curve": "slow_build",
+  "music_tempo_curve": "low_atmospheric_opening_→_beat_rise_→_resolution",
+  "wow_cut_index": 9,
+  "creative_device": [
+    "direct_address_villain",
+    "architectural_frame_as_compositional_motif",
+    "ghost_costume_villain_metaphor",
+    "product_demo_in_narrative",
+    "partner_co_branding_watermark"
+  ],
+  "production_signature": {
+    "capture_style": "cinematic_live_action + smartphone_screen_capture",
+    "camera_signature": [
+      "slow_dolly_push",
+      "window_frame_peekthrough",
+      "car_window_framing",
+      "doorway_frosted_glass_framing",
+      "aerial_overhead_spin"
+    ],
+    "signature_note": "Recurring architectural-frame motif: every character shot uses a structural element (window grid, car A-pillar, frosted glass tiles, corridor) as a second frame within the frame. Ghost costume villain bookends the piece as stylized metaphor.",
+    "color_grade": "dark_teal_desaturated_cinematic; highlight roll-off warm amber practicals",
+    "texture_fx": "none"
+  },
+  "global_layout": {
+    "grid_system": "center_dominant with structural frame-within-frame",
+    "subject_placement_dominant": "center",
+    "subject_typo_relation": "text_lower_left_overlay_or_center_on_bg",
+    "negative_space_use": "heavy — dark backgrounds surround ghost figures",
+    "layout_note": "Ghost shots: subject fills center-vertical axis against large dark bg. Real-person shots: subject framed by architectural aperture (window, car, glass tile). Phone screen shots: phone fills right-center with text overlay lower-left."
+  },
+  "recurring_motifs": [
+    "ghost_costume_villain",
+    "frame_within_frame_architecture",
+    "smartphone_held_with_confidence",
+    "warning_red_account_number_on_app_screen",
+    "toss_x_경찰청_watermark"
+  ],
+  "copywriting": {
+    "tagline_text": "송금에 안전을",
+    "tagline_structure": "noun_phrase_benefit",
+    "cta_text": "송금 전, 알아서 사기 계좌 조회",
+    "copy_tone": [
+      "direct",
+      "confident",
+      "slightly_playful_dark"
+    ],
+    "copy_strategy": "villain_POV_subversion — ad speaks to scammers first (사기꾼 여러분), reveals product capability defeats them, closes with brand safety promise",
+    "lines": [
+      "사기꾼 여러분",
+      "이제 새로운 일을 찾아주세요",
+      "사기를 못 하시는 건 끝났으니까",
+      "송금 전, 알아서 사기 계좌 조회",
+      "당신들은 망했어요",
+      "송금에 안전을"
+    ],
+    "captions": [
+      {
+        "text": "사기꾼 여러분",
+        "shot_index": 2,
+        "position": "center"
+      },
+      {
+        "text": "송금 전,\n알아서 사기 계좌 조회\n● toss × 경찰청",
+        "shot_index": 6,
+        "position": "lower_left"
+      },
+      {
+        "text": "당신들은 망했어요",
+        "shot_index": 9,
+        "position": "center"
+      },
+      {
+        "text": "송금에 안전을",
+        "shot_index": 10,
+        "position": "center"
+      },
+      {
+        "text": "● toss",
+        "shot_index": 10,
+        "position": "center_below_tagline"
+      }
+    ],
+    "narration_handling": "voiceover_matches_captions"
+  },
+  "typography": {
+    "primary_font_class": "gothic_sans_bold_korean (Pretendard-style)",
+    "animation_style": [
+      "fade_in",
+      "hold"
+    ],
+    "subtitle_position_dominant": "center",
+    "color_strategy": "white_on_dark_bg",
+    "typo_motion_dominant": "fade_in_hold"
+  },
+  "vfx": {
+    "primary_effects": [
+      "slow_dolly_push",
+      "frame_within_frame_practical",
+      "overhead_aerial_spin",
+      "app_screen_ui_animation"
+    ],
+    "effect_intensity": "medium",
+    "transition_style_dominant": "hard_cut",
+    "vfx_event_count": 3
+  },
+  "audio": {
+    "has_audio": true,
+    "language": "ko",
+    "speech_coverage": 0.81,
+    "bgm_likely": null,
+    "narration_lines": [
+      {
+        "start": 0.0,
+        "end": 2.0,
+        "text": "사기꾼 여러분",
+        "source": "whisper+caption_corrected"
+      },
+      {
+        "start": 4.5,
+        "end": 7.5,
+        "text": "이제 새로운 일을 찾아주세요",
+        "source": "whisper+caption_inferred"
+      },
+      {
+        "start": 9.8,
+        "end": 12.8,
+        "text": "사기를 못 하시는 건 끝났으니까",
+        "source": "whisper+caption_inferred"
+      },
+      {
+        "start": 12.8,
+        "end": 17.7,
+        "text": "송금 전, 알아서 사기 계좌 조회",
+        "source": "whisper+caption_corrected"
+      },
+      {
+        "start": 17.7,
+        "end": 23.4,
+        "text": "당신들은 망했어요",
+        "source": "whisper+caption_corrected"
+      },
+      {
+        "start": 23.4,
+        "end": 25.4,
+        "text": "toss",
+        "source": "whisper+caption_corrected"
+      }
+    ],
+    "voice_vs_caption": "voiceover_matches_captions",
+    "transcribed_by": "faster_whisper",
+    "audio_note": "Whisper raw corrected against on-screen captions. BGM likely present but very low under voiceover; whisper did not flag separately."
+  },
+  "frames_dir": "ADV-2026-007_frames",
+  "contact_sheet_path": "ADV-2026-007_frames/contact_sheet.png",
+  "shots": [
+    {
+      "index": 1,
+      "duration": 1.17,
+      "framing": "wide",
+      "function": "hook_open",
+      "subject_action": "ensemble of ghost-costumed figures standing still in dark studio, slight collective sway",
+      "layout_grid": "symmetric_horizontal_lineup",
+      "subject_position": "center_and_spread_across_frame",
+      "typo_motion": "none",
+      "camera_angle": "eye_level",
+      "camera_facing": "front",
+      "shot_scope": "full_body",
+      "gaze": "forward_to_camera",
+      "props": [
+        "draped_sheet_ghost_costumes",
+        "dark_studio_floor"
+      ],
+      "color_palette": [
+        "#102025",
+        "#344143",
+        "#0d1316",
+        "#0c181d",
+        "#0d191d"
+      ],
+      "color_intent": "deep_teal_black_mystery",
+      "pose_description": "Nine figures in ghost costumes stand in a row, bodies erect, head-peaks at varied heights, draped sheets with eye holes facing camera",
+      "subject_motion": "minimal_sway",
+      "camera_motion": "locked_off",
+      "camera_effect_local": "none",
+      "intra_cut_rhythm": "static_hold",
+      "transition_in": "fade_from_black",
+      "transition_out": "cut",
+      "mid_frame_path": "ADV-2026-007_frames/cut01_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "ghost_costumed_figures_x9"
+        ],
+        "midground": [],
+        "background": [
+          "dark_teal_studio_wall"
+        ],
+        "lighting_env": [
+          "low_key_frontal_soft_box",
+          "subtle_teal_ambient"
+        ],
+        "atmosphere": [
+          "eerie",
+          "theatrical",
+          "mysterious"
+        ]
+      },
+      "texture": {
+        "primary_subject": "draped_fabric_sheet_soft_linen",
+        "secondary_objects": [],
+        "background_surface": "matte_painted_studio_wall",
+        "atmospheric": [
+          "deep_shadow_pool",
+          "cool_teal_haze"
+        ]
+      },
+      "lighting": {
+        "key_direction": "frontal_slight_top",
+        "key_hardness": "soft",
+        "key_color_temp": "cool_teal_5500K",
+        "fill_strength": "minimal",
+        "key_to_fill_ratio": "4:1",
+        "rim_light": "none",
+        "practical_lights": [],
+        "shadow_presence": "deep_ground_shadows",
+        "overall_contrast": "high"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#102025",
+          "#344143",
+          "#0d1316",
+          "#647a7e",
+          "#8f9b9e"
+        ],
+        "palette_role": {
+          "#102025": "midground_ambient",
+          "#344143": "ghost_costume_teal",
+          "#0d1316": "deep_shadow",
+          "#647a7e": "highlight_ghost_face",
+          "#8f9b9e": "light_drape_highlight"
+        },
+        "color_relationship": "analogous_cool",
+        "temperature_balance": "cool_dominant",
+        "saturation_strategy": "desaturated_muted",
+        "contrast_type": "luminosity_contrast_dark_bg_light_subject",
+        "accent_color": "#8f9b9e",
+        "accent_ratio": "0.15"
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A wide cinematic shot of nine human figures dressed in full-body draped sheet ghost costumes with simple oval eye holes, standing in a horizontal row facing the camera directly inside a large dark photography studio. The ghost costumes are made from soft linen-weight fabric in varied muted tones — some cream-white, some sage-teal, some pale mushroom beige — each draping from a peak at the head down to the floor, covering feet entirely and concealing any identifying features of the body beneath. The figures are arranged in an irregular staggered lineup from left to right across the frame, varying slightly in height and proximity to camera, creating a natural organic rhythm of silhouettes across the horizontal axis; some figures stand slightly forward, others slightly back, and two or three overlap each other in the middle and right sections of the lineup. No faces are visible beneath the drapes — only the two dark oval eye holes cut into each costume near the top, lending each figure a simple cartoonish but quietly unsettling expressiveness, as if they are watching the viewer with blank curiosity. The leftmost and rightmost figures are partially cut off at the frame edges, reinforcing the sense of a much larger ensemble extending beyond the visible field in both directions. The background is a large matte-painted studio wall in deep teal-charcoal, with almost no detail — an entirely flat expanse of dark neutral paint that fills the upper two-thirds of the frame above the figures, the teal slightly lighter near the center from the frontal key. The studio floor is barely visible at the bottom edge of the frame as a slightly lighter dark plane with faint shadows from the figures. Lighting is a soft frontal key light positioned slightly above center, creating gentle curved folds and wrinkles in the hanging fabric that catch the light on their peaks and fall into shadow in the recessed folds, generating a range of tonal values across the costume surfaces. Ground shadows beneath each figure are soft and oval, spilling gently backward. The mood is theatrical, eerie, and mysteriously humorous — like a police lineup of spectral suspects or an avant-garde surrealist fashion collective. The overall tone bridges art-house cinematic and dark-comedy advertisement aesthetics, leaning into deliberate artificiality and theatrical staging. Color palette is deeply desaturated teal-black: background dark teal approximately #102025, midtone ghost bodies with teal-cast approximately #344143, highlight edges of lighter cream ghosts approximately #8f9b9e, deep shadow pools near-black approximately #0d1316, a range of muted cream and sage fabric mid-tones between, and the floor in near-black #0a0f12. Lens is a wide prime or short zoom at eye level in the 35-50mm equivalent range, producing mild compression that slightly flattens depth and brings the rear figures closer to the front, with moderately shallow depth of field that gently softens the rear-row figures into soft focus while keeping the front row critically sharp. No text, no typography, no brand marks in frame. The composition is horizontal, broadly balanced across the lineup, and nominally symmetrical with a slight center-weighted emphasis on the tallest central ghost figure that stands slightly taller and more frontal than its neighbors. Cinematic 16:9 aspect ratio, photorealistic commercial photography quality, South Korean major-brand fintech advertisement aesthetic, high-end studio production values.",
+        "t2i_negative": "blurry, low quality, cartoon, illustration, people without ghost costumes visible, bright color, text artifacts",
+        "i2v_motion": "Camera locked-off, holding wide shot for approx 0.5s then beginning an extremely slow, near-imperceptible dolly push toward the center ghost figure. Ghost figures show minimal collective breathing sway. No camera pan or tilt. Shot ends on hard cut.",
+        "i2v_params": {
+          "clip_duration_sec": 1.2,
+          "camera_move": "ultra_slow_dolly_in",
+          "subject_motion_level": "minimal",
+          "signature_effect": "none",
+          "pacing": "slow_hold",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen copy preserved; identity/logo generic"
+      }
+    },
+    {
+      "index": 2,
+      "duration": 1.47,
+      "framing": "medium_close",
+      "function": "hook_text_reveal",
+      "subject_action": "center ghost figure isolated in medium close, text 사기꾼 여러분 appears center-lower",
+      "layout_grid": "center_vertical_axis",
+      "subject_position": "center",
+      "typo_motion": "fade_in",
+      "camera_angle": "eye_level",
+      "camera_facing": "front",
+      "shot_scope": "half_body",
+      "gaze": "forward_to_camera",
+      "props": [
+        "draped_sheet_ghost_costume",
+        "dark_studio"
+      ],
+      "color_palette": [
+        "#162529",
+        "#36484c",
+        "#64676d",
+        "#918f95",
+        "#0d161a"
+      ],
+      "color_intent": "teal_dark_with_cooler_midtones",
+      "pose_description": "Single center ghost figure, cream-white draped sheet, fills center of frame; bg ghosts soft-focus either side",
+      "subject_motion": "minimal_sway_breathing",
+      "camera_motion": "slow_dolly_push_in",
+      "camera_effect_local": "depth_of_field_bg_softening",
+      "intra_cut_rhythm": "slow_push_hold",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "mid_frame_path": "ADV-2026-007_frames/cut02_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "center_ghost_figure"
+        ],
+        "midground": [
+          "flanking_ghost_figures_soft_focus"
+        ],
+        "background": [
+          "dark_teal_studio_wall"
+        ],
+        "lighting_env": [
+          "soft_frontal_key",
+          "teal_ambient_fill"
+        ],
+        "atmosphere": [
+          "eerie",
+          "direct_address",
+          "theatrical"
+        ]
+      },
+      "texture": {
+        "primary_subject": "cream_linen_draped_sheet",
+        "secondary_objects": [
+          "adjacent_teal_draped_ghosts"
+        ],
+        "background_surface": "matte_painted_wall",
+        "atmospheric": [
+          "cool_shadow",
+          "soft_bokeh_edges"
+        ]
+      },
+      "lighting": {
+        "key_direction": "frontal_top",
+        "key_hardness": "soft",
+        "key_color_temp": "cool_5200K",
+        "fill_strength": "low",
+        "key_to_fill_ratio": "3:1",
+        "rim_light": "none",
+        "practical_lights": [],
+        "shadow_presence": "soft_fall_shadows",
+        "overall_contrast": "high"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#162529",
+          "#36484c",
+          "#64676d",
+          "#918f95",
+          "#0d161a"
+        ],
+        "palette_role": {
+          "#0d161a": "deep_shadow",
+          "#162529": "bg_teal_wall",
+          "#36484c": "mid_ghost_teal",
+          "#64676d": "mid_ghost_neutral",
+          "#918f95": "highlight_ghost_cream_face"
+        },
+        "color_relationship": "analogous_cool_desaturated",
+        "temperature_balance": "cool_dominant",
+        "saturation_strategy": "low_saturation_cinematic",
+        "contrast_type": "luminosity",
+        "accent_color": "#918f95",
+        "accent_ratio": "0.20"
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A medium close-up cinematic shot of a single figure wearing a full-body draped ghost costume made from cream-white soft linen sheet fabric with two oval black eye holes, standing centered in frame against a deep teal-charcoal dark studio background. The camera has pushed in to isolate this central ghost from the ensemble, so it now fills roughly the upper two-thirds of the frame vertically, its draped fabric peak at the top of the frame and its body widening naturally toward the lower edge. On either side, slightly out of focus and partially cropped, the edges of adjacent ghost-costumed figures in teal and pale-beige drapes are still visible — a teal-fabric ghost on the left partially in frame, a cream-beige ghost on the right partially in frame — reinforcing the sense of the larger ensemble from which this central figure has been isolated by the tighter framing. The centered ghost appears as the de-facto spokesperson or ringleader of the group: its two oval black eye holes stare directly and flatly into the camera with an uncanny, unreadable presence that is simultaneously comic and unsettling. The costume fabric on this central figure is a clean cream-white linen, catching the frontal key light most prominently on its upper peak and then gradually falling into shadow in the lower folds where the fabric gathers and drapes. There are subtle surface wrinkles and creases in the fabric from the peak downward, creating a range of tonal values that give the ghost dimension and volume. The composition frames the ghost head and upper torso prominently, the lower body trailing off toward the frame bottom in soft focus. Korean display typography reading 사기꾼 여러분 (meaning Attention, fraudsters) appears in white bold sans-serif rounded gothic lettering — clean, large, and confidently spaced — centered horizontally at approximately the lower-middle third of the frame, floating across the fabric surface in high-contrast white against the tonal mid-value of the cream costume. The lettering is large relative to the frame, perhaps 10-12% of frame height, commanding and legible. Lighting is a soft frontal key light from slightly above center, producing a gentle highlight sheen on the rounded crown peak of the ghost costume, soft gradual tonal falloff along the draped body fabric, and soft oval pool shadows on the studio floor beneath. Adjacent ghost figures on either side receive slightly less light, adding to the sense of the center figure being spotlit. The background is near-black teal with minimal texture, slightly lighter in the center zone behind the ghost's head, creating a subtle vignette toward the edges. Side ghosts in soft bokeh provide teal and beige color variation that frames the central cream figure without distracting from it. Color palette: deep background #162529 to near-black shadow #0d161a, mid-tone flanking ghost bodies in teal #36484c and warm neutral #64676d, central cream ghost highlight surface #918f95 to pure cream at peak. Cinematic 16:9 aspect ratio, commercial photographic quality, moody theatrical South Korean advertisement tone, photorealistic studio lighting with high production value. The studio environment is entirely enclosed and sealed from natural light, creating a completely controlled photographic space. The floor beneath the ghosts reflects a very faint specular of the overhead key, adding subtle depth to the lower composition. The overall impression is of a carefully orchestrated tableau that bridges fine-art photography and commercial advertising, with the Korean-language typography serving as the first direct communication to a scammer audience.",
+        "t2i_negative": "bright colors, sharp background, cartoon, illustration, text errors, blurry subject",
+        "i2v_motion": "Slow continuous dolly push toward center ghost figure. Bokeh from flanking ghosts deepens slightly. Ghost sways imperceptibly. Korean bold white text 사기꾼 여러분 fades in at center lower third around mid-shot. Shot holds until hard cut at ~1.47s.",
+        "i2v_params": {
+          "clip_duration_sec": 1.5,
+          "camera_move": "slow_dolly_in",
+          "subject_motion_level": "minimal",
+          "signature_effect": "text_fade_in",
+          "pacing": "slow",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen copy preserved; identity/logo generic"
+      }
+    },
+    {
+      "index": 3,
+      "duration": 3.34,
+      "framing": "medium",
+      "function": "character_confidence",
+      "subject_action": "young woman stands arms crossed holding teal smartphone, looking through glass window grid directly to camera, confident half-smile",
+      "layout_grid": "rule_of_thirds_horizontal_green_window_grid",
+      "subject_position": "center",
+      "typo_motion": "none",
+      "camera_angle": "eye_level",
+      "camera_facing": "front",
+      "shot_scope": "waist_up",
+      "gaze": "direct_to_camera",
+      "props": [
+        "green_painted_window_frame",
+        "teal_smartphone",
+        "warm_interior_sconce_lamp"
+      ],
+      "color_palette": [
+        "#161513",
+        "#332f24",
+        "#545445",
+        "#6d6a5e",
+        "#998d83"
+      ],
+      "color_intent": "warm_amber_mixed_with_dark_green_frame",
+      "pose_description": "Woman stands upright with arms crossed, right hand holding teal phone up near chest, head tilted slightly, subtle smirk directed toward camera; framed by four-pane green-painted window; second figure (child/adolescent) visible soft-focus in right background pane",
+      "subject_motion": "static_slight_weight_shift",
+      "camera_motion": "slow_dolly_push_through_window",
+      "camera_effect_local": "window_frame_foreground_bokeh_edges",
+      "intra_cut_rhythm": "slow_push_hold",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "mid_frame_path": "ADV-2026-007_frames/cut03_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "green_window_frame_bars"
+        ],
+        "midground": [
+          "woman_in_tan_brown_ribbed_sweater",
+          "teal_smartphone"
+        ],
+        "background": [
+          "dark_wood_paneled_interior",
+          "amber_wall_sconce",
+          "beige_curtains",
+          "second_figure_child"
+        ],
+        "lighting_env": [
+          "warm_interior_ambient",
+          "soft_window_side_key",
+          "practical_wall_sconce_amber"
+        ],
+        "atmosphere": [
+          "warm_domestic_night",
+          "confident",
+          "cinematic_peek"
+        ]
+      },
+      "texture": {
+        "primary_subject": "ribbed_knit_sweater_tan_brown_cotton_blend",
+        "secondary_objects": [
+          "painted_green_wood_window_mullions",
+          "teal_glass_smartphone"
+        ],
+        "background_surface": "dark_wood_panel_wall",
+        "atmospheric": [
+          "soft_warm_bokeh",
+          "shallow_depth_domestic_interior"
+        ]
+      },
+      "lighting": {
+        "key_direction": "frontal_soft_diffuse_through_glass",
+        "key_hardness": "soft",
+        "key_color_temp": "warm_mixed_3200K_ambient",
+        "fill_strength": "medium",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": "none",
+        "practical_lights": [
+          "amber_wall_sconce_upper_left_bg"
+        ],
+        "shadow_presence": "soft_fill_shadows",
+        "overall_contrast": "medium"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#161513",
+          "#332f24",
+          "#545445",
+          "#6d6a5e",
+          "#998d83"
+        ],
+        "palette_role": {
+          "#161513": "deep_shadow_bg",
+          "#332f24": "dark_wood_panel",
+          "#545445": "sweater_midtone",
+          "#6d6a5e": "neutral_olive",
+          "#998d83": "skin_highlight_warm"
+        },
+        "color_relationship": "warm_neutral_with_teal_accent_in_prop",
+        "temperature_balance": "warm_mixed",
+        "saturation_strategy": "muted_earth_tones",
+        "contrast_type": "chiaroscuro_moderate",
+        "accent_color": "#4e7a6b",
+        "accent_ratio": "0.08"
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A medium cinematic shot of a young Korean woman in her mid-to-late twenties standing inside a warmly-lit residential or boutique interior space, seen through a four-pane painted sage-green wooden window frame that functions as a second compositional frame within the overall frame — a deliberate frame-within-frame compositional device repeated throughout this advertisement. The window grid divides the background into four rectangular quadrants: the woman stands in the central two quadrants, her body occupying the full vertical center of the composition, flanked by the vertical and horizontal window muntins which run as green lines across the image. She stands with her arms crossed loosely across her torso in a relaxed self-contained posture, her right hand raised and holding a teal-colored touchscreen smartphone near the center of her chest with a relaxed grip, the phone's screen facing forward and partially visible. Her left arm crosses her body horizontally at waist height, completing the comfortable cross-arm stance. She wears a fitted tan-caramel ribbed-knit short-sleeve sweater in a warm earth-tone — the knit pattern creating fine horizontal ribbing texture across the chest and arms — over a form-fitting cream-white base layer visible at the neckline. Her dark hair is pulled back neatly in a low ponytail or bun, exposing her ears and neck cleanly. Her expression is composed, confident, and slightly knowing — she looks directly into the camera lens with a calm half-smile, the expression of someone who possesses useful information and is comfortable with that advantage. The overall body language communicates confident ease rather than aggression. The window frame is the full height of the frame, its four panes subdividing the background behind her into quadrants. In the right-side lower quadrant of the window, partially visible and softly out of focus, a second smaller figure — a child or adolescent — can be made out in the warm interior background, partially standing or sitting. The interior background seen through the glass includes dark warm wood-paneled walls that absorb much of the ambient light into deep chocolate-brown tones, a classic brass or warm-metal wall sconce in the upper-left background area emitting a soft warm amber glow about the size of a candle flame, and cream-ivory fabric curtains visible in the right pane. The window frame itself is painted a muted sage-green with some aging or patina visible on the paintwork. A white curtain panel is partially visible at the extreme left edge of the frame. Lighting: the dominant key is warm interior ambient at approximately 3200K filling the space through the practicals and ambient sources, complemented by a cooler subtle diffuse fill from the direction of camera through the glass pane, resulting in a naturalistic warm-mixed soft exposure on the subject's face and sweater. The wood panels absorb light into deep chocolate-brown shadows. Color palette: deep shadow #161513, dark wood-panel #332f24, ribbed sweater midtone earth-tone #545445, neutral midtone #6d6a5e, warm skin highlight #998d83, sage-green window frame accent approximately #5a7060. Camera at eye-level on a gentle slow dolly push toward the window. Cinematic 16:9 aspect ratio, photorealistic commercial quality, South Korean lifestyle advertisement aesthetic, high production value domestic-interior cinematography.",
+        "t2i_negative": "outdoors, bright sunlight, cartoon, text artifacts, frame without window grid, blurry subject",
+        "i2v_motion": "Camera slowly dollies forward toward window grid, slightly deepening the framing. Woman remains mostly static with gentle natural breathing movement. Teal phone hand shifts slightly. No text overlay. Shot holds approximately 3.3s before hard cut.",
+        "i2v_params": {
+          "clip_duration_sec": 3.3,
+          "camera_move": "slow_dolly_in",
+          "subject_motion_level": "minimal",
+          "signature_effect": "frame_within_frame_depth",
+          "pacing": "slow",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen copy preserved; identity/logo generic"
+      }
+    },
+    {
+      "index": 4,
+      "duration": 3.6,
+      "framing": "medium",
+      "function": "character_confidence",
+      "subject_action": "young man sits in vintage car driver seat, holds white smartphone in right hand, looks toward camera with calm knowing expression",
+      "layout_grid": "car_frame_diagonal_A_pillar_leading_line",
+      "subject_position": "center_right",
+      "typo_motion": "none",
+      "camera_angle": "slightly_low_from_outside_car",
+      "camera_facing": "front",
+      "shot_scope": "waist_up",
+      "gaze": "direct_to_camera",
+      "props": [
+        "vintage_car_tan_leather_seat",
+        "white_smartphone",
+        "car_steering_wheel"
+      ],
+      "color_palette": [
+        "#0c1115",
+        "#121315",
+        "#1c1d1c",
+        "#362c28",
+        "#6b564c"
+      ],
+      "color_intent": "dark_night_warm_red_neon_tint",
+      "pose_description": "Man in late 20s, longish dark hair, facial stubble, black long-sleeve, seated in driver seat; right arm rests on seat holding phone; left hand on steering wheel; relaxed posture, slight lean away; car A-pillar and door frame create diagonal compositional lines across frame",
+      "subject_motion": "static_subtle_breathing",
+      "camera_motion": "locked_off_slight_drift",
+      "camera_effect_local": "car_frame_foreground_diagonal",
+      "intra_cut_rhythm": "static_hold",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "mid_frame_path": "ADV-2026-007_frames/cut04_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "car_A_pillar_warm_orange_tint",
+          "car_window_frame"
+        ],
+        "midground": [
+          "man_black_longsleeve",
+          "white_smartphone",
+          "tan_leather_headrest_seat"
+        ],
+        "background": [
+          "dark_parking_exterior",
+          "teal_lit_foliage",
+          "red_orange_neon_car_body_reflections"
+        ],
+        "lighting_env": [
+          "low_key_mixed_neon_practical",
+          "teal_exterior_ambient",
+          "warm_interior_car_light"
+        ],
+        "atmosphere": [
+          "urban_night",
+          "noir_cinematic",
+          "confident"
+        ]
+      },
+      "texture": {
+        "primary_subject": "cotton_black_longsleeve_jersey",
+        "secondary_objects": [
+          "aged_tan_leather_car_seat_cracked",
+          "worn_plastic_steering_wheel"
+        ],
+        "background_surface": "parking_lot_concrete_and_dark_exterior",
+        "atmospheric": [
+          "neon_red_orange_reflections",
+          "teal_exterior_bokeh"
+        ]
+      },
+      "lighting": {
+        "key_direction": "frontal_mixed_practical",
+        "key_hardness": "medium_soft",
+        "key_color_temp": "mixed_warm_red_3000K_and_cool_teal_5500K",
+        "fill_strength": "low",
+        "key_to_fill_ratio": "3:1",
+        "rim_light": "red_orange_neon_on_right_car_door",
+        "practical_lights": [
+          "red_neon_exterior_reflections_on_car_body"
+        ],
+        "shadow_presence": "deep_shadow_left_side",
+        "overall_contrast": "high"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#0c1115",
+          "#362c28",
+          "#6b564c",
+          "#a0734e",
+          "#1c5a6a"
+        ],
+        "palette_role": {
+          "#0c1115": "deep_black_bg",
+          "#362c28": "car_interior_shadow",
+          "#6b564c": "tan_leather_mid",
+          "#a0734e": "orange_neon_highlight_car",
+          "#1c5a6a": "teal_exterior_ambient"
+        },
+        "color_relationship": "complementary_warm_cool_split",
+        "temperature_balance": "mixed_warm_and_cool",
+        "saturation_strategy": "moderate_saturation_neon_accents",
+        "contrast_type": "high_luminosity_chiaroscuro",
+        "accent_color": "#a0734e",
+        "accent_ratio": "0.12"
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A medium cinematic shot of a young Korean man in his late twenties sitting in the driver seat of a vintage 1970s or early 1980s era car with aged tan cracked-leather bucket seats and a worn plastic-rimmed steering wheel that shows patina and decades of use — the leather cracked and darkened at the wear points, the steering wheel surface showing fine surface scratches. The man has shoulder-length or slightly longer dark hair that falls to his collar, slight facial stubble of a few days growth, and wears a plain relaxed-fit black long-sleeve jersey cotton shirt with no visible branding, print, or detail. He holds a white modern touchscreen smartphone loosely in his right hand, resting it casually at approximately lap or lower-torso height, the screen facing somewhat forward. His left arm rests naturally on the steering wheel at the lower arc. He looks directly at the camera with a calm, unhurried, knowing expression — a slight half-smile, entirely composed and confident, as if completely comfortable with the current situation. The shot is taken from slightly outside and below the car through the open driver-side window or door frame, so the car's A-pillar on the right side of the visible frame and the upper door frame and window trim create strong diagonal compositional lines running from upper-left to lower-right and from lower-left toward upper-right, cutting through and dramatically fragmenting the composition in a cinematic noir manner. The A-pillar is tan leather-wrapped or dark plastic. These structural car-frame lines function exactly as architectural framing devices used in the other character shots — isolating the subject within a secondary visual frame while adding visual dynamism. The car's exterior door and body have a warm orange-red or burgundy-copper period automotive paint color — aged but still rich — that catches strong warm neon-style practical reflections from an unseen orange or warm-yellow neon or practical light source positioned off-frame at frame right or behind the camera-right position, creating vivid orange-copper rim-lighting along the car door's edge and fender. The background beyond the car is a dark urban night exterior — a parking area or quiet night street with cool teal-ambient lit foliage trees visible through the car windows behind the figure, their leaves in silhouette against the faint teal ambient. The background is largely dark with only these subtle cool teal elements. Lighting is high-contrast, mixed, and dramatically split between two distinct practical sources: warm orange-red neon at approximately 3000K catching the car door, the man's right cheek and jaw, his right shoulder, and the inside of the leather seat seat-back; with a cooler 5500K teal atmospheric ambient from the exterior environment filling the left-side shadow and providing separation between the man's dark black shirt silhouette and the slightly lighter dark exterior. The aged cracked tan leather seat texture is visible in the pools of warm reflected light — cracked hide showing grain and crazing. Color palette: near-black shadow #0c1115, car interior dark warm shadow #362c28, tan aged leather mid-highlight #6b564c, orange-neon practical accent #a0734e, teal exterior ambient #1c5a6a, black shirt #111111. Camera positioned at slightly low eye-level from outside the car through the window or open door, locked-off, moderately shallow depth of field keeping the man critically sharp while the background exterior falls into a soft dark bokeh. Cinematic 16:9, photorealistic commercial quality, South Korean film and advertisement noir aesthetic.",
+        "t2i_negative": "daytime, bright interior, modern car, cartoon, text artifacts, blurry main subject",
+        "i2v_motion": "Camera locked-off with very slight atmospheric handheld micro-movement. Man remains static, subtle breathing motion only. No text overlay. Red-orange neon light flickers imperceptibly on car door. Shot holds approx 3.6s before hard cut.",
+        "i2v_params": {
+          "clip_duration_sec": 3.6,
+          "camera_move": "locked_slight_drift",
+          "subject_motion_level": "minimal",
+          "signature_effect": "neon_practical_light_flicker",
+          "pacing": "slow",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen copy preserved; identity/logo generic"
+      }
+    },
+    {
+      "index": 5,
+      "duration": 3.87,
+      "framing": "medium",
+      "function": "character_confidence_reaction",
+      "subject_action": "young woman in doorway looks down at phone (concerned), then raises eyes to camera with growing smile",
+      "layout_grid": "doorframe_center_flanked_by_frosted_glass_tiles",
+      "subject_position": "center",
+      "typo_motion": "none",
+      "camera_angle": "eye_level",
+      "camera_facing": "front",
+      "shot_scope": "waist_up",
+      "gaze": "down_then_direct",
+      "props": [
+        "frosted_glass_tile_wall_panels",
+        "black_smartphone",
+        "teal_skateboard",
+        "pendant_lamp_blush"
+      ],
+      "color_palette": [
+        "#152123",
+        "#383733",
+        "#47504a",
+        "#65716b",
+        "#a39d91"
+      ],
+      "color_intent": "dark_teal_domestic_warm_glow",
+      "pose_description": "Young woman late teens-20s, long auburn hair, wearing oversized Nordic-pattern sweater in blue/teal/ochre/cream; standing in open doorway of apartment; initially looking down at black phone with slight frown, progressively lifting eyes and smiling by cut end; teal skateboard leaning beside door; warm pendant lamp above doorframe; frosted aqua glass tile panels frame either side",
+      "subject_motion": "slight_head_raise_gaze_shift",
+      "camera_motion": "slow_dolly_push",
+      "camera_effect_local": "frosted_glass_tile_foreground_frame",
+      "intra_cut_rhythm": "slow_build_expression",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "mid_frame_path": "ADV-2026-007_frames/cut05_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "frosted_aqua_glass_tile_wall_panels_both_sides"
+        ],
+        "midground": [
+          "woman_nordic_patterned_sweater",
+          "black_smartphone",
+          "doorframe_teal_painted"
+        ],
+        "background": [
+          "interior_warm_amber_hallway",
+          "pendant_lamp_blush_shade",
+          "teal_skateboard"
+        ],
+        "lighting_env": [
+          "warm_amber_interior_key",
+          "cool_frosted_glass_ambient_side"
+        ],
+        "atmosphere": [
+          "domestic_youth_lifestyle",
+          "cozy_apartment",
+          "anticipation"
+        ]
+      },
+      "texture": {
+        "primary_subject": "chunky_nordic_pattern_knit_sweater_wool_blend",
+        "secondary_objects": [
+          "frosted_ribbed_glass_tile_panels",
+          "teal_painted_wood_doorframe"
+        ],
+        "background_surface": "smooth_plaster_warm_amber_corridor",
+        "atmospheric": [
+          "warm_glow_halo",
+          "frosted_glass_diffusion_sides"
+        ]
+      },
+      "lighting": {
+        "key_direction": "top_overhead_through_pendant",
+        "key_hardness": "medium",
+        "key_color_temp": "warm_amber_3000K",
+        "fill_strength": "low_cool_side",
+        "key_to_fill_ratio": "3:1",
+        "rim_light": "none",
+        "practical_lights": [
+          "blush_pendant_lamp_ceiling"
+        ],
+        "shadow_presence": "moderate_door_edge_shadow",
+        "overall_contrast": "medium_high"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#152123",
+          "#383733",
+          "#47504a",
+          "#65716b",
+          "#a39d91"
+        ],
+        "palette_role": {
+          "#152123": "deep_teal_glass_tile_shadow",
+          "#383733": "doorframe_dark",
+          "#47504a": "midtone_glass_tile",
+          "#65716b": "cool_neutral_fill",
+          "#a39d91": "sweater_cream_warm_highlight"
+        },
+        "color_relationship": "cool_teal_warm_amber_split",
+        "temperature_balance": "mixed_warm_key_cool_fill",
+        "saturation_strategy": "muted_with_pattern_accent",
+        "contrast_type": "moderate_chiaroscuro",
+        "accent_color": "#2a8a8a",
+        "accent_ratio": "0.10"
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A medium cinematic shot of a young Korean woman in her late teens or early twenties standing centered in the open doorway of a Korean apartment or residential interior corridor, with the camera at eye-level framing her through the doorway. On both sides of the doorway, the hallway wall is clad in aqua-tinted frosted ribbed-glass tile panels — rectangular subway-style tiles with a translucent aqua-green or celadon tint that diffuse ambient light softly and create a cooler flanking fill across the composition on both the left and right sides of the doorframe. These glass tile wall panels function as a third deliberate frame-within-frame compositional device in the advertisement, flanking the woman symmetrically left and right of the doorframe and creating a distinct aperture effect that draws the eye to the centered subject in the warm doorway interior. The frosted ribbing of the tile surface creates a fine parallel texture visible on the panel faces, adding material detail. The doorframe itself is painted in a dark teal-green color with clean straight edges. The woman has long straight auburn-dyed hair falling loosely to her shoulders with a slight inward curl at the tips. She wears an oversized chunky Nordic-pattern knit sweater — the garment is voluminous and the knit is thick, suggesting a heavyweight wool or wool-blend yarn — featuring a bold folk-art geometric pattern in multiple colors: blue, teal, ochre, mustard-yellow, and cream in an irregular snowflake or stylized floral-folk motif across the yoke and upper torso, transitioning to a simpler rib or plain panel toward the hem. This is a distinctly youthful Korean streetwear or vintage-market style garment. She holds a black modern touchscreen smartphone in both hands at approximately mid-torso height, the screen angled slightly downward toward her as she reads it. Her expression in this mid-shot frame is one of slightly troubled or concerned focus — a very slight furrowing of the brow, eyes directed at the phone screen — which by the end of this shot resolves into a knowing, satisfied upward glance directly at camera with a subtle smile. Beside the doorframe at ground level on the right side, a complete teal-colored skateboard deck leans vertically against the glass tile wall, its underside-wheel side facing forward, showing the trucks and wheels slightly, adding a youthful lifestyle prop to the composition. Above the doorframe interior ceiling a round blush-pink or nude-ceramic pendant lamp hangs on a short cord, casting a warm amber-orange circular glow downward into the doorway corridor and onto the woman's face, sweater shoulders, and upper arms, functioning as the primary practical warm key light source and framing her head within a warm pool. The hallway corridor interior beyond the doorframe shows smooth warm amber-beige plaster walls receding into the background, warmly lit by the pendant in amber tones. The frosted aqua glass tile panels either side of the shot diffuse a cooler ambient fill, complementing the warm key. Color palette: deep aqua tile shadow #152123, teal doorframe #383733, neutral cool midtone tiles #47504a, warm skin and sweater highlight #a39d91, oversized sweater pattern multi-color warm-cool. Camera at eye-level, gentle slow dolly push toward doorway, moderate shallow depth of field with foreground frosted glass tiles slightly soft. Cinematic 16:9 Korean advertisement photography, photorealistic, high production value youthful lifestyle aesthetic.",
+        "t2i_negative": "bright daylight, outdoor, cartoon, text artifacts, sharp frosted glass, no skateboard, blurry subject",
+        "i2v_motion": "Slow dolly push toward doorway. Woman's expression transitions from looking at phone with concern to slowly raising head and making direct eye contact with camera, a knowing smile emerging by the end of the shot. Teal skateboard remains static. Pendant lamp holds warm. Hard cut at ~3.87s.",
+        "i2v_params": {
+          "clip_duration_sec": 3.9,
+          "camera_move": "slow_dolly_in",
+          "subject_motion_level": "low_expression_shift",
+          "signature_effect": "expression_reveal",
+          "pacing": "slow_build",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen copy preserved; identity/logo generic"
+      }
+    },
+    {
+      "index": 6,
+      "duration": 4.67,
+      "framing": "close_up",
+      "function": "product_demo",
+      "subject_action": "hands hold smartphone showing app fraud warning flow; finger taps screen; fraud account warning modal appears",
+      "layout_grid": "centered_phone_right_offset",
+      "subject_position": "center_right",
+      "typo_motion": "fade_in_stagger",
+      "camera_angle": "slight_overhead",
+      "camera_facing": "top_angled",
+      "shot_scope": "detail_hands_phone",
+      "gaze": "n/a_product_shot",
+      "props": [
+        "black_smartphone_app_screen",
+        "yellow_ribbed_knit_sleeve_hand"
+      ],
+      "color_palette": [
+        "#134153",
+        "#1e2526",
+        "#58421d",
+        "#5f645b",
+        "#b9bcb8"
+      ],
+      "color_intent": "neutral_bg_blue_app_ui_accent",
+      "pose_description": "Hands holding phone in landscape-tilted angle; screen shows transfer confirmation UI with fraud-flagging animation; warning modal with police report badge; overlay text builds in lower-left: 송금 전, / 알아서 사기 계좌 조회 / toss × 경찰청",
+      "subject_motion": "finger_tap_scroll",
+      "camera_motion": "locked_off",
+      "camera_effect_local": "shallow_DOF_bg_blur",
+      "intra_cut_rhythm": "UI_animation_driven",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "mid_frame_path": "ADV-2026-007_frames/cut06_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "hands_holding_phone_yellow_ribbed_sleeve"
+        ],
+        "midground": [
+          "app_screen_showing_transfer_UI"
+        ],
+        "background": [
+          "teal_ambient_bokeh",
+          "second_hand_soft_focus"
+        ],
+        "lighting_env": [
+          "soft_diffuse_key",
+          "screen_emitted_light"
+        ],
+        "atmosphere": [
+          "focused_urgent",
+          "feature_reveal",
+          "reassuring"
+        ]
+      },
+      "texture": {
+        "primary_subject": "glass_phone_screen_smartphone_body",
+        "secondary_objects": [
+          "yellow_ribbed_knit_sweater_sleeve"
+        ],
+        "background_surface": "blurred_domestic_interior_teal",
+        "atmospheric": [
+          "screen_glow",
+          "shallow_depth_product_focus"
+        ]
+      },
+      "lighting": {
+        "key_direction": "overhead_diffuse",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_5000K_with_screen_blue_cast",
+        "fill_strength": "low",
+        "key_to_fill_ratio": "3:1",
+        "rim_light": "none",
+        "practical_lights": [
+          "phone_screen_emitted_light"
+        ],
+        "shadow_presence": "minimal",
+        "overall_contrast": "medium"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#134153",
+          "#1e2526",
+          "#58421d",
+          "#4a90d9",
+          "#f5f5f3"
+        ],
+        "palette_role": {
+          "#134153": "teal_ambient_bg",
+          "#1e2526": "deep_shadow_bg",
+          "#58421d": "yellow_sleeve_midtone",
+          "#4a90d9": "app_UI_blue_CTA_button",
+          "#f5f5f3": "app_UI_white_card_bg"
+        },
+        "color_relationship": "complementary_blue_amber",
+        "temperature_balance": "neutral_with_blue_dominant_in_UI",
+        "saturation_strategy": "moderate_UI_accent",
+        "contrast_type": "UI_white_card_on_teal_bg",
+        "accent_color": "#e53935",
+        "accent_ratio": "0.05"
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A close-up cinematic product demonstration shot of two hands holding a large modern black-frame touchscreen smartphone, the hands belonging to a person whose yellow mustard-ribbed knit sweater sleeve is visible entering the frame from the right side, wrapping warmly around the right-side holding hand. The phone is held at a slight clockwise tilt of approximately 10 to 15 degrees from vertical, the top-right corner higher than the top-left, and it fills the right-center and center portions of the 16:9 frame. The phone's screen is brightly and clearly illuminated, showing a detailed and legible Korean mobile banking transfer confirmation interface. Reading the screen from top to bottom: a teal circular bank icon with a white geometric mark inside sits at the very top center of the screen; below it in large bold Korean text 김새봄님께 followed by a larger bolder line 720,000원을 보냅니다 in the largest and most prominent text on the screen — the recipient name and amount clearly the focal information; below that, a prominent red warning indicator combining a red triangle warning symbol ▲ and in red bold text the account identifier B뱅크 1234123123456 indicating a flagged suspicious account — the red color and warning icon drawing immediate visual attention; below that in gray smaller text 받는 본 통장 표시: 이소연 showing the registered account holder display name; then a bank source row showing a small bank logo icon and text 하나은행 통장에서 출금 / 잔액 1,243,034 원 in gray indicating the source account and balance; then a large solid teal-blue rounded-rectangle button with white Korean bold text 보내기 (send now); below that in small gray text 수수료 면제 9회 남음 (fee waiver 9 uses remaining); and a small teal status badge reading 조회 중 (checking in progress) positioned near the warning row, indicating the fraud check is running in real time. The phone background UI is clean minimal white and light gray matching contemporary Korean fintech design conventions. Overlaid on the lower-left quadrant of the full 16:9 frame, outside the phone screen and over the blurred teal background, white Korean bold sans-serif text in two lines reads: 송금 전, (larger, line one) / 알아서 사기 계좌 조회 (large bold, line two — meaning automatic fraud account check before transfer); and below that a smaller co-brand lockup: a filled circle ● followed by toss (lowercase rounded sans-serif brand wordmark) followed by × followed by a small police agency badge emblem icon and the word 경찰청 (National Police Agency). The background behind and around the phone is a softly blurred teal-dark domestic interior in bokeh, completely indistinct and atmospheric, serving only as a cool color environment. The left side of the frame includes the partially visible second hand and forearm of the person holding the phone. Lighting: soft overhead diffuse key at approximately 5000K neutral white, supplemented by cool blue-white emitted light from the phone screen that bounces onto the hands and yellow sleeve. Color palette: teal ambient bg #134153, deep shadow #1e2526, yellow ribbed sleeve midtone #58421d, app UI CTA blue #4a90d9, app card white #f5f5f3, fraud warning red accent #e53935. Cinematic 16:9 Korean fintech advertisement photography, photorealistic, high-production product demonstration framing.",
+        "t2i_negative": "blurry phone screen, low resolution UI, no text on screen, cartoon, bright outdoor light",
+        "i2v_motion": "Phone held steady with slight wrist micro-movement. Finger tap on the blue 보내기 button triggers a warning modal animation sliding up from the bottom of the app screen showing 경찰청 사기신고 이력조회 / 송금 전 주의가 필요해요 / 경찰청 신고 7건 with alarm icon / 계속하기 / 송금 취소 buttons. Text overlay 송금 전, / 알아서 사기 계좌 조회 / toss × 경찰청 fades in at lower-left over approx 1s. Shot runs ~4.67s before hard cut.",
+        "i2v_params": {
+          "clip_duration_sec": 4.7,
+          "camera_move": "locked_off",
+          "subject_motion_level": "finger_interaction",
+          "signature_effect": "ui_modal_slide_up",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen copy preserved; identity/logo generic"
+      }
+    },
+    {
+      "index": 7,
+      "duration": 1.2,
+      "framing": "extreme_close_up",
+      "function": "product_demo_escalation",
+      "subject_action": "tighter crop of phone screen showing fraud warning with escalated report count (12 reports); finger reaches to tap cancel button",
+      "layout_grid": "phone_dominant_tilted",
+      "subject_position": "center",
+      "typo_motion": "persistent_overlay",
+      "camera_angle": "slight_overhead",
+      "camera_facing": "top_angled",
+      "shot_scope": "detail_screen",
+      "gaze": "n/a",
+      "props": [
+        "smartphone_screen",
+        "finger"
+      ],
+      "color_palette": [
+        "#1e2526",
+        "#134153",
+        "#4a90d9",
+        "#e53935",
+        "#f5f5f3"
+      ],
+      "color_intent": "bright_white_UI_blue_red_on_dark_ambient",
+      "pose_description": "Phone held at more extreme angle, nearly horizontal; screen shows fraud warning modal escalated: 경찰청 신고 12건; finger approaching blue 송금 취소 button; text overlay persists lower-left",
+      "subject_motion": "finger_approaching_button",
+      "camera_motion": "locked_off",
+      "camera_effect_local": "extreme_shallow_DOF",
+      "intra_cut_rhythm": "fast_UI_change",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "mid_frame_path": "ADV-2026-007_frames/cut07_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "finger_tip"
+        ],
+        "midground": [
+          "phone_screen_fraud_warning_modal"
+        ],
+        "background": [
+          "dark_teal_ambient_blur"
+        ],
+        "lighting_env": [
+          "screen_emitted_light"
+        ],
+        "atmosphere": [
+          "urgent",
+          "decisive_action"
+        ]
+      },
+      "texture": {
+        "primary_subject": "glass_phone_screen",
+        "secondary_objects": [
+          "fingertip_skin"
+        ],
+        "background_surface": "blurred_teal_ambient",
+        "atmospheric": [
+          "screen_glow_dominates"
+        ]
+      },
+      "lighting": {
+        "key_direction": "screen_front_emit",
+        "key_hardness": "soft",
+        "key_color_temp": "cool_white_6500K_screen",
+        "fill_strength": "negligible",
+        "key_to_fill_ratio": "5:1",
+        "rim_light": "none",
+        "practical_lights": [
+          "phone_screen"
+        ],
+        "shadow_presence": "minimal",
+        "overall_contrast": "medium_high"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#1e2526",
+          "#134153",
+          "#4a90d9",
+          "#e53935",
+          "#f5f5f3"
+        ],
+        "palette_role": {
+          "#1e2526": "deep_bg",
+          "#134153": "teal_ambient",
+          "#4a90d9": "UI_blue_cancel_button",
+          "#e53935": "fraud_warning_red",
+          "#f5f5f3": "card_white"
+        },
+        "color_relationship": "triadic_blue_red_white",
+        "temperature_balance": "cool_dominant",
+        "saturation_strategy": "high_saturation_UI_accents_on_muted_bg",
+        "contrast_type": "high_UI_white_on_dark",
+        "accent_color": "#e53935",
+        "accent_ratio": "0.08"
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "An extreme close-up cinematic shot of a modern touchscreen smartphone held at an extreme angle — significantly tilted from portrait orientation so that the phone's long axis runs diagonally across the frame, the device held nearly horizontal from the viewer's perspective — with the screen facing upward at a steep angle and sharply in focus, filling approximately two-thirds of the 16:9 frame from the center to the right side. The phone's screen is clearly legible, showing the same Korean mobile banking application with an escalated fraud-warning modal overlay. The underlying transfer screen partially shows at the top of the screen in compressed perspective: the teal app icon, the text 김새봄님께 / 720,000원을 보냅니다, the red warning triangle ▲ and red flagged account text B뱅크 1234123123456, all slightly compressed and skewed by the angle. Over this, a white rounded-rectangle modal card dominates the visible screen area with rounded corners and a subtle drop-shadow. The modal card displays at the top in dark gray bold Korean text: 경찰청 사기신고 이력조회 (Police Agency fraud report history check), below that a line reading: 송금 전 주의가 필요해요 (Caution required before sending), below that center-aligned an animated red siren or bell icon with small particle dots radiating outward as a visual alert indicator, and in the largest text element a bold number 경찰청 신고 12건 — the count has escalated from the previous scene's 7 to now 12, the number shown in bold red to maximize urgency. At the bottom of the modal are two action buttons: a light gray ghost-style button on the left reading 계속하기 (Continue anyway), and a solid filled deep-blue rounded-rectangle primary button on the right reading 송금 취소 (Cancel transfer) — the blue button visually dominant and positioned as the recommended safe action. A single fingertip enters the frame from the left edge of the frame, belonging to the person holding the phone, its skin lit from below by the cool white phone screen glow as it reaches toward the blue 송금 취소 button. The approach angle and proximity suggest the person is about to tap the cancel button to abort the fraudulent transfer. In the lower-left quadrant of the overall 16:9 composition, outside the phone, the persistent white Korean sans-serif text overlay reads: 송금 전, (larger, first line) / 알아서 사기 계좌 조회 (bold, second line) / ● toss × 경찰청 (smaller co-brand line). The background behind the phone is a dark teal-black ambient environment, completely blurred into a deep teal void. The screen-emitted cool white approximately 6500K light illuminates the hand skin and fingertip from below, creating a soft warm bounce. Color palette: near-black bg #1e2526, teal ambient #134153, UI CTA button blue #4a90d9, fraud warning red #e53935, modal card white #f5f5f3. Cinematic 16:9 Korean fintech advertisement photography, photorealistic, decisive product interaction shot at extreme close-up. The phone body itself shows clean modern industrial design — thin bezels, rounded corners, black glass back partially visible at the phone edges, a small rear camera bump. The person's grip is firm and deliberate, suggesting someone who has made a decision and is moments away from executing it. The overall mood of this extreme close-up is urgent, decisive, and reassuring — a representation of the moment a potential fraud is stopped in its tracks. The visual language of the bright screen against deep darkness communicates the clarity of the app's protective function in the user's hands. This shot's brevity and tightness create a staccato rhythm change that accelerates the ad's pacing toward its climax.",
+        "t2i_negative": "low resolution, blurry screen, no text readable, cartoon, outdoor",
+        "i2v_motion": "Finger moves toward 송금 취소 (cancel transfer) button and taps it. Screen UI responds with a brief animation. Text overlay remains static at lower-left. Shot is brief ~1.2s before hard cut.",
+        "i2v_params": {
+          "clip_duration_sec": 1.2,
+          "camera_move": "locked_off",
+          "subject_motion_level": "finger_tap",
+          "signature_effect": "ui_button_tap_response",
+          "pacing": "fast",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen copy preserved; identity/logo generic"
+      }
+    },
+    {
+      "index": 8,
+      "duration": 1.3,
+      "framing": "close_up",
+      "function": "product_demo_second_scenario",
+      "subject_action": "different person in dark exterior holds phone showing different transfer fraud warning (15 reports), 송금 취소 visible",
+      "layout_grid": "phone_tilted_center_right",
+      "subject_position": "center_right",
+      "typo_motion": "persistent_overlay",
+      "camera_angle": "slight_overhead",
+      "camera_facing": "angled",
+      "shot_scope": "detail_hands_phone",
+      "gaze": "n/a",
+      "props": [
+        "smartphone_screen",
+        "dark_night_bg"
+      ],
+      "color_palette": [
+        "#1e2526",
+        "#134153",
+        "#4a90d9",
+        "#e53935",
+        "#f5f5f3"
+      ],
+      "color_intent": "dark_night_exterior_with_phone_screen_light",
+      "pose_description": "Phone tilted at steeper angle in hands; different transfer amount 345,020원; same recipient; fraud warning shows 경찰청 신고 15건; dark night exterior bokeh bg; lower-left overlay persists",
+      "subject_motion": "phone_tilt_readjust",
+      "camera_motion": "locked_off",
+      "camera_effect_local": "shallow_DOF_night_bokeh",
+      "intra_cut_rhythm": "fast_cut",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "mid_frame_path": "ADV-2026-007_frames/cut08_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "hands_phone"
+        ],
+        "midground": [
+          "app_screen_fraud_warning_modal_15_reports"
+        ],
+        "background": [
+          "dark_night_urban_bokeh_warm_amber_blurs"
+        ],
+        "lighting_env": [
+          "screen_emitted_light",
+          "night_ambient"
+        ],
+        "atmosphere": [
+          "urgent_night",
+          "decisive"
+        ]
+      },
+      "texture": {
+        "primary_subject": "glass_phone_screen",
+        "secondary_objects": [
+          "hands_skin"
+        ],
+        "background_surface": "dark_night_bokeh",
+        "atmospheric": [
+          "screen_glow",
+          "warm_urban_bokeh_ambient"
+        ]
+      },
+      "lighting": {
+        "key_direction": "screen_front_emit",
+        "key_hardness": "soft",
+        "key_color_temp": "cool_white_screen_6500K",
+        "fill_strength": "negligible",
+        "key_to_fill_ratio": "5:1",
+        "rim_light": "none",
+        "practical_lights": [
+          "phone_screen",
+          "urban_ambient_warm_bokeh_bg"
+        ],
+        "shadow_presence": "minimal",
+        "overall_contrast": "high"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#1e2526",
+          "#134153",
+          "#4a90d9",
+          "#e53935",
+          "#f5f5f3"
+        ],
+        "palette_role": {
+          "#1e2526": "deep_night_bg",
+          "#134153": "teal_ambient",
+          "#4a90d9": "UI_blue",
+          "#e53935": "fraud_red",
+          "#f5f5f3": "card_white"
+        },
+        "color_relationship": "triadic_blue_red_white_on_dark",
+        "temperature_balance": "cool_dominant",
+        "saturation_strategy": "high_UI_accent",
+        "contrast_type": "high_screen_on_night",
+        "accent_color": "#e53935",
+        "accent_ratio": "0.08"
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A close-up cinematic product demonstration shot of a modern black-frame touchscreen smartphone held at a steep and dramatic angle in two hands — the phone tilted significantly so that its long axis runs diagonally from lower-left to upper-right across the 16:9 frame, the screen surface facing partially upward and forward. The hands holding the phone belong to a different person than the previous phone shot: male or different-gendered hands, different skin tone and hand morphology, no yellow sweater sleeve visible — these hands appear against the dark background without warm fabric. The phone screen is sharply in focus and clearly legible despite the steep angle, showing a Korean mobile banking application interface with the same fraud warning modal now escalated further. The underlying transfer text on the screen now reads 김새봄님께 / 345,020원을 보냅니다 — a different transfer amount of 345,020 Korean Won — with the same B뱅크 1234123123456 account flagged in red, demonstrating a second independent scenario triggering the same fraud-protection feature. The fraud warning modal card now displays the escalated count: 경찰청 신고 15건 (15 police agency fraud reports) in bold red text, above the siren icon — the highest count shown in the ad, reinforcing that this account is deeply compromised. The same two-button layout appears: gray 계속하기 on the left, solid blue 송금 취소 on the right, with the user's hand about to engage. The phone's black metal or glass frame is visible along the edges. The background behind the phone is a dark urban nighttime exterior, completely out of focus — soft warm amber and orange-yellow bokeh orbs of varying sizes float in the background darkness, approximately 2-6% of frame height each, suggesting distant street lamps, illuminated shop signs, or urban ambient light sources at depth. The bokeh color temperature is warm approximately 3000K orange-amber contrasting against the cool blue-black night atmosphere. The phone screen emits the dominant cool white approximately 6500K light source, casting this light downward and forward onto the hands and fingers, illuminating them from the screen-facing direction. In the lower-left quadrant of the 16:9 frame, outside the phone, the persistent white Korean sans-serif text overlay reads: 송금 전, (larger first line) / 알아서 사기 계좌 조회 (bold second line) / ● toss × 경찰청 (smaller co-brand third line). Color palette: near-black night bg #1e2526, deep shadow #0d0f12, teal ambient residual #134153, UI button blue #4a90d9, fraud warning red #e53935, card white #f5f5f3, warm bokeh ambient #c4813b. Cinematic 16:9 Korean fintech advertisement photography, photorealistic, night-exterior urban atmosphere with screen-lit hands. The bokeh orbs in the background vary in size from very small distant points to larger softly glowing circles closer to the camera's out-of-focus range, creating a layered depth that adds visual richness to the dark background without distracting from the phone screen. The phone itself is held with a slightly more aggressive tilt in this shot compared to the previous, suggesting a different user scenario and reinforcing that the fraud protection feature activates universally regardless of context, time, or location. The dark night setting versus the more domestic teal interior of the previous phone shots demonstrates the feature's always-on quality — the app protects whether the user is home or out in the city at night. The combination of the glowing screen, warm bokeh city ambiance, and persistent text overlay creates a complete visual argument for the product's utility in everyday urban Korean life.",
+        "t2i_negative": "daylight, bright background, blurry screen text, cartoon, no urban bokeh",
+        "i2v_motion": "Phone held at angle, slight wrist adjustment. Screen content holds on fraud warning 15-count modal. Person pauses before tapping cancel. Warm bokeh orbs in background hold static. Text overlay persists. ~1.3s hard cut.",
+        "i2v_params": {
+          "clip_duration_sec": 1.3,
+          "camera_move": "locked_off",
+          "subject_motion_level": "minimal_wrist",
+          "signature_effect": "night_bokeh_ambient",
+          "pacing": "fast",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen copy preserved; identity/logo generic"
+      }
+    },
+    {
+      "index": 9,
+      "duration": 0.7,
+      "framing": "wide",
+      "function": "villain_defeat_punchline",
+      "subject_action": "single ghost figure walks in industrial corridor toward camera then stumbles/falls; text 당신들은 망했어요 appears",
+      "layout_grid": "one_point_perspective_corridor_center",
+      "subject_position": "center",
+      "typo_motion": "cut_in",
+      "camera_angle": "eye_level",
+      "camera_facing": "front",
+      "shot_scope": "full_body",
+      "gaze": "forward_to_camera_stumbling",
+      "props": [
+        "industrial_corridor_pillars",
+        "exit_sign",
+        "ghost_costume"
+      ],
+      "color_palette": [
+        "#0d1016",
+        "#162329",
+        "#2d3f48",
+        "#5a6e73",
+        "#c5b9aa"
+      ],
+      "color_intent": "dark_teal_industrial_with_cream_ghost_center",
+      "pose_description": "Single ghost figure in cream-beige draped sheet, in the center of a dark cement-floor industrial corridor or underground parking structure; receding pillars and ceiling exit sign form one-point perspective; ghost initially upright walking toward camera, then beginning to crumple/fall",
+      "subject_motion": "walking_then_stumbling_falling",
+      "camera_motion": "locked_off",
+      "camera_effect_local": "none",
+      "intra_cut_rhythm": "impact_moment",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "mid_frame_path": "ADV-2026-007_frames/cut09_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "ghost_figure_cream_costume"
+        ],
+        "midground": [],
+        "background": [
+          "cement_pillars",
+          "corridor_floor",
+          "green_exit_sign_ceiling"
+        ],
+        "lighting_env": [
+          "low_key_teal_ambient_industrial",
+          "overhead_fluorescent_dim"
+        ],
+        "atmosphere": [
+          "eerie_industrial",
+          "defeat",
+          "comeuppance"
+        ]
+      },
+      "texture": {
+        "primary_subject": "cream_linen_ghost_costume",
+        "secondary_objects": [],
+        "background_surface": "bare_cement_floor_and_pillars",
+        "atmospheric": [
+          "industrial_cold_concrete",
+          "teal_fluorescent_ambient"
+        ]
+      },
+      "lighting": {
+        "key_direction": "top_overhead_fluorescent",
+        "key_hardness": "hard_practical",
+        "key_color_temp": "cool_teal_5000K_fluorescent",
+        "fill_strength": "low",
+        "key_to_fill_ratio": "4:1",
+        "rim_light": "none",
+        "practical_lights": [
+          "ceiling_fluorescent_dim",
+          "exit_sign_green"
+        ],
+        "shadow_presence": "strong_ground_shadow",
+        "overall_contrast": "high"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#0d1016",
+          "#162329",
+          "#2d3f48",
+          "#5a6e73",
+          "#c5b9aa"
+        ],
+        "palette_role": {
+          "#0d1016": "deep_shadow",
+          "#162329": "bg_wall_teal",
+          "#2d3f48": "pillar_midtone",
+          "#5a6e73": "corridor_floor_reflection",
+          "#c5b9aa": "ghost_costume_cream"
+        },
+        "color_relationship": "complementary_cream_on_teal_dark",
+        "temperature_balance": "cool_dominant",
+        "saturation_strategy": "desaturated_cool_cinematic",
+        "contrast_type": "subject_isolation_luminosity",
+        "accent_color": "#2d8a3e",
+        "accent_ratio": "0.02"
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A wide cinematic shot of a single figure in a full-body draped ghost costume made of cream-beige linen sheet fabric with two oval black eye holes, standing in the center of a long dark industrial underground corridor or multi-level parking structure interior. The corridor has bare poured-cement floors with a slight sheen from the low-key overhead fluorescent lighting, exposed cement or painted-block structural pillars on both sides receding in strong one-point perspective toward a vanishing point at the center of the frame, and a dark industrial ceiling with the pillars' tops disappearing into shadow above. Ceiling-mounted utility fixtures emit very dim cool teal-tinged fluorescent light. Most importantly, a single green emergency exit sign with a white right-pointing arrow (→) is mounted on the ceiling at approximately the upper center of the frame — a small but vivid point of cool green color in the otherwise dark teal and gray environment, and the only practical light source other than the ambient floor-reflected fluorescence. The ghost figure stands at roughly the midpoint of the corridor, centered horizontally, occupying approximately one-fifth to one-quarter of the frame height — small against the vast industrial space — reinforcing a sense of spatial scale and the figure's smallness within the environment. The ghost's cream-beige linen fabric catches the sparse overhead fluorescent light along its topmost peak and down its front face, while its sides fall into shadow. Korean white bold sans-serif text reading 당신들은 망했어요 (meaning You are finished) appears centered horizontally at approximately the middle-third of the frame, floating in the air space between the camera and the ghost figure, in high-contrast white against the dark teal-gray industrial background. The text is large and commanding — approximately the same type scale used throughout the ad, confident and final. The ghost figure's posture at this frame's mid-point shows it beginning to stumble or crumple — slightly off-balance, starting to lean or list — as if struck by an invisible force that is defeating it. The cement floor texture is visible in pools of reflected light as a rough aggregate surface. Color palette: near-black shadow #0d1016, teal background wall and ceiling #162329, pillar structural mid-tone #2d3f48, corridor floor reflection #5a6e73, ghost costume cream #c5b9aa, exit sign green accent. Camera eye-level locked-off, wide angle, 16:9 cinematic photorealistic South Korean advertisement photography, industrial atmosphere, moody defeat climax moment. The empty corridor space above and to the sides of the ghost figure communicates the vastness of the space and the isolation of the defeated villain — alone in this industrial environment with no escape. The single green exit sign above functions as a subtle ironic touch: the only exit available to the ghost is the defeat it is already experiencing. The one-point perspective of the corridor creates a powerful sense of depth and draws the eye directly to the center figure, giving even this wide shot an intimate focus on the ghost's defeat. The teal-dark color palette echoes the brand's blue-teal identity and the dark studio of the opening shots, completing a visual circle in the advertisement's color language.",
+        "t2i_negative": "bright, outdoor, cartoon, text errors, no exit sign, blurry figure",
+        "i2v_motion": "Ghost figure walks toward camera in the corridor for about 0.4s, then begins to stumble and crumple toward the ground as if struck or defeated. White bold text 당신들은 망했어요 cuts in at the start. The fall motion continues into the next cut. Hard cut at ~0.7s.",
+        "i2v_params": {
+          "clip_duration_sec": 0.7,
+          "camera_move": "locked_off",
+          "subject_motion_level": "walking_then_falling",
+          "signature_effect": "defeat_fall",
+          "pacing": "fast_staccato",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen copy preserved; identity/logo generic"
+      }
+    },
+    {
+      "index": 10,
+      "duration": 4.17,
+      "framing": "extreme_close_up_to_medium",
+      "function": "resolution_brand_reveal",
+      "subject_action": "ghost costume collapses to floor, camera pulls back overhead to reveal deflated crumpled cloth on dark floor; tagline then brand logo fade in",
+      "layout_grid": "center_overhead_radial",
+      "subject_position": "center",
+      "typo_motion": "fade_in_sequence",
+      "camera_angle": "overhead_top_down",
+      "camera_facing": "downward",
+      "shot_scope": "detail_to_medium",
+      "gaze": "n/a_overhead",
+      "props": [
+        "deflated_ghost_costume_cloth_floor"
+      ],
+      "color_palette": [
+        "#13191a",
+        "#222a29",
+        "#404141",
+        "#615b5b",
+        "#837b78"
+      ],
+      "color_intent": "near_monochrome_dark_teal_black_with_cream_cloth",
+      "pose_description": "Ghost costume has crumpled and deflated completely on dark floor, cloth in soft irregular pile; two eye-holes visible from above looking up; camera is overhead top-down; first text 당신들은 망했어요 completes then transitions to 송금에 안전을, finally toss wordmark appears center over collapsed cloth",
+      "subject_motion": "cloth_settling_collapse",
+      "camera_motion": "overhead_slow_pull_back_with_slight_rotation",
+      "camera_effect_local": "top_down_rotation",
+      "intra_cut_rhythm": "slow_resolution",
+      "transition_in": "cut",
+      "transition_out": "fade_to_black",
+      "mid_frame_path": "ADV-2026-007_frames/cut10_mid.png",
+      "visible_elements": {
+        "foreground": [],
+        "midground": [
+          "deflated_cream_ghost_costume_cloth_pile"
+        ],
+        "background": [
+          "dark_teal_cement_floor"
+        ],
+        "lighting_env": [
+          "low_key_overhead_ambient_teal",
+          "cloth_surface_diffuse_reflection"
+        ],
+        "atmosphere": [
+          "eerie_quiet",
+          "resolution",
+          "brand_moment"
+        ]
+      },
+      "texture": {
+        "primary_subject": "crumpled_cream_linen_sheet_cloth_pile",
+        "secondary_objects": [],
+        "background_surface": "dark_teal_cement_painted_floor",
+        "atmospheric": [
+          "soft_cloth_texture_detail",
+          "dark_cool_floor"
+        ]
+      },
+      "lighting": {
+        "key_direction": "overhead_ambient_diffuse",
+        "key_hardness": "soft",
+        "key_color_temp": "cool_teal_5000K",
+        "fill_strength": "low",
+        "key_to_fill_ratio": "4:1",
+        "rim_light": "none",
+        "practical_lights": [],
+        "shadow_presence": "soft_cloth_fold_shadows",
+        "overall_contrast": "medium_high"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#13191a",
+          "#222a29",
+          "#404141",
+          "#615b5b",
+          "#837b78"
+        ],
+        "palette_role": {
+          "#13191a": "deep_floor_shadow",
+          "#222a29": "teal_floor_ambient",
+          "#404141": "mid_shadow_cloth",
+          "#615b5b": "mid_cloth_neutral",
+          "#837b78": "cream_cloth_highlight"
+        },
+        "color_relationship": "near_monochrome_teal_neutral",
+        "temperature_balance": "cool_neutral",
+        "saturation_strategy": "near_desaturated",
+        "contrast_type": "subtle_luminosity",
+        "accent_color": "#ffffff",
+        "accent_ratio": "0.05"
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "An overhead top-down cinematic shot looking directly downward from approximately two meters above the floor level at a ghost costume that has completely collapsed and deflated into a crumpled pile of cream-beige linen sheet fabric on a dark teal-cement painted floor. The ghost costume, previously worn by a figure standing upright in the previous shot, has now fallen entirely flat — the person underneath apparently gone or vanished — leaving only the fabric itself crumpled in an irregular organic pile covering roughly the center half of the frame's visible floor space. The cloth pile shows rich texture detail: visible folds, creases, compression points where fabric layers overlap, and the soft rounded forms created by the collapse, with lighter regions where the fabric is taut or exposed to the overhead light source and deeper shadow-valley regions between the folds. Most distinctly, the two small oval black eye holes cut into the ghost costume are still visible in the fabric pile, now lying horizontally and facing upward toward the camera in a strangely comedic and final pose — as if even collapsed, the ghost mascot maintains its defining feature. The floor visible around the fabric pile is dark teal-painted smooth cement — a deep, cool, near-black teal that provides strong tonal contrast against the cream-beige of the fabric. In the initial moments of this shot, the bold Korean white sans-serif text 당신들은 망했어요 (You are finished) still appears centered in the frame over the cloth, completing the previous shot's caption. This then transitions: first, white Korean bold sans-serif text reading 송금에 안전을 (Safety for transfers) fades in centered in the frame at approximately the same position, slightly larger than the surrounding space suggests, floating above the cloth pile. Then, after a brief hold, this transitions to the brand's logo treatment: a white filled circle ● followed immediately by the word toss in lowercase rounded white sans-serif typography — the brand wordmark presented cleanly and confidently over the defeated, deflated ghost pile. The camera during this shot performs an extremely slow overhead pullback and slight rotational drift, the fabric pile remaining centered as the floor gradually reveals a slightly wider area around it. The ambient lighting is a soft low-key overhead diffuse source at approximately 5000K cool, creating gentle fold shadows in the fabric and a cool teal-ambient floor reflection pool around the pile. Color palette: near-black floor shadow #13191a, teal ambient floor #222a29, cloth shadow fold #404141, cloth neutral mid #615b5b, cream cloth highlight #837b78, pure white text and logo #ffffff. Camera directly overhead, cinematic 16:9 aspect ratio, photorealistic Korean advertisement photography, brand resolution moment with high production value. The transition from 당신들은 망했어요 to 송금에 안전을 to the toss brand wordmark represents the three-beat resolution structure of the ad: defeat of villain, benefit statement, brand identity. The overhead camera angle that makes even a ghost costume look small and defeated is a deliberate choice that communicates scale and finality — the brand is above, looking down on the defeated fraud attempt. The cream fabric's texture is almost sensuously detailed in this overhead close perspective, showing every thread intersection, crease, and fold shadow in the soft overhead light. The two black eye holes remaining visible in the cloth are the final visual callback to the ghost villain introduced at the start, closing the narrative loop. This is the brand's ownership moment: the enemy is defeated, the product delivered safety, and the brand stands centered and confident over the entire scene.",
+        "t2i_negative": "upright figure, bright background, cartoon, text errors, no cloth pile, human standing",
+        "i2v_motion": "Camera is already overhead top-down. Ghost cloth settles and stops moving (from carry-over fall in cut09). Text sequence: 당신들은 망했어요 fades out (~0.5s into shot), then 송금에 안전을 fades in centered (~2s), then transforms or cross-fades to ● toss brand mark centered (~3.5s). Camera imperceptibly slow pull-back overhead. Cloth remains static. Fades to black at ~4.17s.",
+        "i2v_params": {
+          "clip_duration_sec": 4.2,
+          "camera_move": "slow_overhead_pullback",
+          "subject_motion_level": "cloth_settle_static",
+          "signature_effect": "text_sequence_fade_brand_reveal",
+          "pacing": "slow_resolution",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen copy preserved; identity/logo generic"
+      }
+    }
+  ],
+  "search_keywords": {
+    "industry": [
+      "finance",
+      "fintech",
+      "public_safety"
+    ],
+    "product_category": [
+      "mobile_transfer",
+      "fraud_detection",
+      "digital_banking"
+    ],
+    "target_demo": [
+      "20s_30s",
+      "mobile_native",
+      "korean_urban"
+    ],
+    "media_format": [
+      "short_form_25s",
+      "youtube_broadcast"
+    ],
+    "tone": [
+      "dark_humor",
+      "eerie_confident",
+      "empowering"
+    ],
+    "pacing": [
+      "slow_build",
+      "staccato_climax",
+      "cinematic"
+    ],
+    "technique": [
+      "frame_within_frame",
+      "dolly_push",
+      "overhead_spin",
+      "ghost_costume"
+    ],
+    "vfx_keywords": [
+      "ui_animation",
+      "screen_capture",
+      "cloth_physics"
+    ],
+    "copy_strategy_keywords": [
+      "villain_pov_subversion",
+      "direct_address_scammer",
+      "feature_reveal"
+    ],
+    "concept_derivation_pattern": [
+      "ghost_villain_metaphor",
+      "anti-fraud_empowerment",
+      "co-brand_authority"
+    ]
+  },
+  "inferred_creative_thinking": {
+    "insight": "Scam victims feel helpless — but if the app catches fraud automatically, it's the scammers who should be afraid, not users",
+    "persona": "Young Korean mobile-native users (20s-30s) who transfer money frequently and have heard of voice phishing / transfer scams",
+    "moment": "The moment just before tapping 보내기 on a transfer to an unknown account",
+    "product_role": "Toss silently checks every transfer recipient against police fraud reports — without the user having to do anything",
+    "punchline": "당신들은 망했어요 — scammers are defeated before they can act",
+    "differentiator": "Proactive automatic fraud-account check at the point of transfer — not a warning you have to look up",
+    "brand_fit_one_liner": "Toss positions itself as the user's invisible guardian, turning the table on scammers before the money moves",
+    "confidence": "inferred"
+  },
+  "inferred_brief": "Create a 25-second cinematic campaign ad that speaks directly to phone scammers, dramatizing them as ghost-costumed villains who are outsmarted by the fintech app's automatic fraud-account detection feature, culminating in their symbolic defeat.",
+  "cross_pollination_tags": {
+    "adjacent": [
+      "anti_fraud_psa",
+      "mobile_banking_feature_demo",
+      "police_collab_campaign"
+    ],
+    "distant": [
+      "horror_parody_costuming",
+      "villain_pov_ad_format",
+      "fashion_film_framing_architecture"
+    ],
+    "contrast": [
+      "warm_domestic_character_shots_vs_dark_ghost_studio",
+      "playful_ghost_metaphor_vs_serious_fraud_topic"
+    ]
+  },
+  "concept_derivation_pattern": "villain_POV_subversion + ghost_costume_metaphor_for_invisible_fraud + frame_within_frame_architecture_motif + feature_demo_in_narrative_context + co-brand_police_authority",
+  "confidence": "inferred",
+  "analyst_notes": "Metrics detected 10 cut candidates matching scenedetect exactly except a spurious in-scene motion spike at frame 499 (finger scroll within cut06) — correctly excluded. The video is a toss × 경찰청 co-branded public safety campaign with high production value. The ghost costume metaphor is a distinctive creative device. All three real-person shots use the same architectural frame-within-frame compositional strategy (window grid, car door frame, frosted glass tiles), creating a visual language of 'seeing through' surveillance/protection. wiggle metric flagged but confirmed as handheld_shake/camera_move rather than stereoscopic wiggle — no wiggle_3d effect present.",
+  "verification": {
+    "frames_reviewed": "≈28/764 native-res + 100% metrics",
+    "audio_analyzed": "faster_whisper base model, corrected against on-screen captions",
+    "hitrate_na": null,
+    "abstraction_checked": true
+  }
+}

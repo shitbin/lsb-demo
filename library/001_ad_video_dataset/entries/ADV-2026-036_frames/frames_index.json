@@ -1,0 +1,111 @@
+{
+  "id": "ADV-2026-036",
+  "fps": 29.97,
+  "cuts": [
+    {
+      "cut": 1,
+      "start": 0.0,
+      "end": 1.23,
+      "mid_time": 0.615,
+      "file": "cut01_mid.png"
+    },
+    {
+      "cut": 2,
+      "start": 1.23,
+      "end": 2.8,
+      "mid_time": 2.015,
+      "file": "cut02_mid.png"
+    },
+    {
+      "cut": 3,
+      "start": 2.8,
+      "end": 4.14,
+      "mid_time": 3.47,
+      "file": "cut03_mid.png"
+    },
+    {
+      "cut": 4,
+      "start": 4.14,
+      "end": 6.51,
+      "mid_time": 5.325,
+      "file": "cut04_mid.png"
+    },
+    {
+      "cut": 5,
+      "start": 6.51,
+      "end": 8.58,
+      "mid_time": 7.545,
+      "file": "cut05_mid.png"
+    },
+    {
+      "cut": 6,
+      "start": 8.58,
+      "end": 9.08,
+      "mid_time": 8.83,
+      "file": "cut06_mid.png"
+    },
+    {
+      "cut": 7,
+      "start": 9.08,
+      "end": 10.98,
+      "mid_time": 10.03,
+      "file": "cut07_mid.png"
+    },
+    {
+      "cut": 8,
+      "start": 10.98,
+      "end": 13.08,
+      "mid_time": 12.03,
+      "file": "cut08_mid.png"
+    },
+    {
+      "cut": 9,
+      "start": 13.08,
+      "end": 15.15,
+      "mid_time": 14.115,
+      "file": "cut09_mid.png"
+    },
+    {
+      "cut": 10,
+      "start": 15.15,
+      "end": 17.82,
+      "mid_time": 16.485,
+      "file": "cut10_mid.png"
+    },
+    {
+      "cut": 11,
+      "start": 17.82,
+      "end": 20.45,
+      "mid_time": 19.135,
+      "file": "cut11_mid.png"
+    },
+    {
+      "cut": 12,
+      "start": 20.45,
+      "end": 22.49,
+      "mid_time": 21.47,
+      "file": "cut12_mid.png"
+    },
+    {
+      "cut": 13,
+      "start": 22.49,
+      "end": 25.19,
+      "mid_time": 23.84,
+      "file": "cut13_mid.png"
+    },
+    {
+      "cut": 14,
+      "start": 25.19,
+      "end": 26.63,
+      "mid_time": 25.91,
+      "file": "cut14_mid.png"
+    },
+    {
+      "cut": 15,
+      "start": 26.63,
+      "end": 28.909,
+      "mid_time": 27.77,
+      "file": "cut15_mid.png"
+    }
+  ]
+}

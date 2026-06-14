@@ -1,0 +1,803 @@
+{
+  "id": "ADV-2026-016",
+  "source_ref": {
+    "platform": "online_video_ad",
+    "title_or_campaign": "토스 신용등급 무료조회 (Toss credit rating free check)",
+    "brand": "Toss (Viva Republica)",
+    "product": "Toss 신용관리 / 신용등급 무료조회 서비스",
+    "model": null,
+    "year": 2019,
+    "production_note": "Motion-graphics + app-UI demo; year inferred from on-screen data citation '2019년 5월 전국은행연합회 자료 기준'.",
+    "url": null
+  },
+  "category_primary": "finance.credit_score",
+  "category_tags": [
+    "핀테크",
+    "신용등급 조회 서비스",
+    "앱 UI 데모",
+    "데이터 시각화"
+  ],
+  "mood": [
+    "clean",
+    "trustworthy",
+    "informative",
+    "calm"
+  ],
+  "target_demo": "20s-40s adults managing personal credit; loan-considering consumers who don't know their credit grade",
+  "total_duration": 15.07,
+  "shot_count": 4,
+  "shot_count_corrected": 4,
+  "fps": 29.97,
+  "aspect_ratio": "16:9",
+  "hook_position": 0.0,
+  "cta_position": 8.21,
+  "narrative_arc": "Demonstration to question to solution: an abstract 3D credit gauge shows how a credit grade maps to a loan interest rate (good grade = low rate, poor grade = high rate), a full-screen blue card asks the viewer their own grade as a hook, the app composite then reveals the free check/diagnose/manage service with a real credit screen, and the film closes on the centered brand logo.",
+  "narrative_structure": "linear_continuous",
+  "pacing_curve": "steady",
+  "music_tempo_curve": "steady",
+  "wow_cut_index": [
+    3
+  ],
+  "creative_device": "abstract data-viz gauge as risk-to-safety metaphor, then question hook, then app-UI proof and CTA",
+  "production_signature": {
+    "capture_style": "mixed",
+    "camera_signature": [
+      "locked_off"
+    ],
+    "signature_note": "Three visual registers composited: a 3D-rendered credit speedometer (cut1), a flat brand-blue kinetic-typography card (cut2), a split brand-copy + phone app-UI demo (cut3), and a centered logo end card (cut4). No global wiggle/parallax — metrics mean_abs_shift_x 0.53 with low sign-flip ratio 0.107 confirm a locked-off, graphics-driven piece.",
+    "color_grade": "brand_color_dominant",
+    "texture_fx": "clean_digital"
+  },
+  "global_layout": {
+    "grid_system": "center",
+    "subject_placement_dominant": "center",
+    "subject_typo_relation": "typo_over_subject",
+    "negative_space_use": "generous",
+    "layout_note": "Cuts 1, 2 and 4 are centered single-focus compositions (gauge / question / logo) with wide margins; cut 3 breaks into a left-right vertical split — a brand-and-copy zone on the left and a phone showing the app credit screen on the right."
+  },
+  "recurring_motifs": [
+    "semicircular red-to-blue credit gauge",
+    "Toss royal-blue brand field",
+    "credit grade numeral (2등급)",
+    "clean near-white studio background"
+  ],
+  "copywriting": {
+    "tagline_text": "신용등급 무료조회",
+    "tagline_structure": "noun_phrase_offer (credit-grade + free + check)",
+    "tagline_length_syllables": 8,
+    "tagline_position_sec": 8.21,
+    "cta_text": "신용등급 무료조회",
+    "cta_text_structure": "offer_headline",
+    "cta_position_sec": 8.21,
+    "copy_tone": [
+      "clear",
+      "informative",
+      "reassuring"
+    ],
+    "copy_strategy": "Make an invisible number (credit grade) concrete via a speedometer metaphor, pose it as a personal question, then resolve with a free, all-in-one app service.",
+    "copy_lines_count": 7,
+    "lines": [
+      {
+        "position_sec": 0.0,
+        "text": "신용등급 2등급",
+        "function": "demo_label_good",
+        "tone": "neutral",
+        "source": "caption"
+      },
+      {
+        "position_sec": 0.0,
+        "text": "대출금리 4 %",
+        "function": "demo_label_good",
+        "tone": "neutral",
+        "source": "caption"
+      },
+      {
+        "position_sec": 3.0,
+        "text": "신용등급 9등급",
+        "function": "demo_label_bad",
+        "tone": "neutral",
+        "source": "caption"
+      },
+      {
+        "position_sec": 3.0,
+        "text": "대출금리 10%",
+        "function": "demo_label_bad",
+        "tone": "neutral",
+        "source": "caption"
+      },
+      {
+        "position_sec": 6.07,
+        "text": "당신의 신용등급은 ?",
+        "function": "hook_question",
+        "tone": "engaging",
+        "source": "both"
+      },
+      {
+        "position_sec": 8.21,
+        "text": "신용등급 무료조회",
+        "function": "headline_offer",
+        "tone": "confident",
+        "source": "both"
+      },
+      {
+        "position_sec": 8.21,
+        "text": "조회, 진단, 관리까지 한번에",
+        "function": "benefit_subcopy",
+        "tone": "reassuring",
+        "source": "both"
+      }
+    ],
+    "captions": [
+      {
+        "position_sec": 0.0,
+        "text": "2019년 5월 전국은행연합회 자료 기준",
+        "function": "data_citation_fineprint"
+      },
+      {
+        "position_sec": 8.21,
+        "text": "신용관리 · 2등급 · 신용 백분위 상위 13.0% ▲8% · 신용평점 930 / 1000 점 ▲32점",
+        "function": "app_screen_ui_labels"
+      },
+      {
+        "position_sec": 8.21,
+        "text": "광고에 소개된 신용정보 서비스는 토스 서비스를 제공하는 주식회사 비바리퍼블리카의 서비스가 아니며 신용평가회사(또는 신용정보회사)와의 제휴에 의하여 제공됩니다.",
+        "function": "legal_disclaimer_excerpt"
+      }
+    ],
+    "narration_handling": "excerpt_only"
+  },
+  "typography": {
+    "primary_font_class": "bold_rounded_sans_korean",
+    "secondary_font_class": "regular_sans_korean",
+    "animation_style": [
+      "fade_in",
+      "pop",
+      "static"
+    ],
+    "subtitle_position_dominant": "center",
+    "tagline_position": "left_block",
+    "color_strategy": "white-on-blue for the question card; brand-blue headline and charcoal sub-copy on the light composite; charcoal numerals on the gauge",
+    "appearance_count": 7,
+    "key_typography_moments_sec": [
+      0.0,
+      6.07,
+      8.21
+    ],
+    "typo_motion_dominant": "fade_pop"
+  },
+  "vfx": {
+    "primary_effects": [
+      "3d_render",
+      "ui_motion",
+      "data_viz",
+      "color_pop"
+    ],
+    "effect_intensity": "moderate",
+    "transition_style_dominant": "slide",
+    "vfx_event_count": 4,
+    "vfx_timing_array_sec": [
+      0.0,
+      6.07,
+      8.21,
+      13.51
+    ],
+    "wow_vfx_index": [
+      3
+    ]
+  },
+  "audio": {
+    "has_audio": true,
+    "language": "ko",
+    "speech_coverage": 0.541,
+    "bgm_likely": true,
+    "narration_lines": [
+      {
+        "start": 5.9,
+        "end": 7.6,
+        "text": "당신의 신용등급은",
+        "text_raw": "당신의 신용 등급은",
+        "kind": "voiceover",
+        "source": "both"
+      },
+      {
+        "start": 7.6,
+        "end": 10.1,
+        "text": "토스 신용등급 무료조회",
+        "text_raw": "토스 신용 등급 무려조해",
+        "kind": "voiceover",
+        "source": "both"
+      },
+      {
+        "start": 10.1,
+        "end": 12.7,
+        "text": "조회 진단 관리까지 한 번에",
+        "text_raw": "조회 진단 관리까지 한 번에",
+        "kind": "voiceover",
+        "source": "both"
+      },
+      {
+        "start": 12.7,
+        "end": 14.1,
+        "text": "토스",
+        "text_raw": "토스",
+        "kind": "voiceover",
+        "source": "both"
+      }
+    ],
+    "voice_vs_caption": "Voiceover closely tracks on-screen captions; whisper raw '무려조해' corrected to '무료조회' against the on-screen headline.",
+    "narration_handling": "verbatim_short",
+    "transcribed_by": "faster_whisper",
+    "audio_note": "Whisper base (ko), 4 segments; raw text preserved in text_raw, corrected against captions."
+  },
+  "frames_dir": "ADV-2026-016_frames",
+  "contact_sheet_path": "ADV-2026-016_frames/contact_sheet.png",
+  "shots": [
+    {
+      "index": 1,
+      "duration": 6.07,
+      "framing": "environment",
+      "function": "hook_demo_problem_setup",
+      "subject_action": "A 3D semicircular credit speedometer's chrome needle sweeps between a good grade (2등급 / 4% rate) and a poor grade (9등급 / 10% rate); the numeric labels increment in place to demonstrate how credit grade drives loan interest.",
+      "copy_overlay": "신용등급 2등급 / 대출금리 4 %  (sweeps to 9등급 / 10%); fineprint: 2019년 5월 전국은행연합회 자료 기준",
+      "layout_grid": "center",
+      "subject_position": "center",
+      "subject_typo_layout": "labels stacked directly beneath the gauge, centered",
+      "typo_motion": "numerals update in place (2등급 to 9등급, 4% to 10%) synchronized to the needle sweep; labels static",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "environment",
+      "gaze": "none",
+      "props": [
+        "3d credit gauge dial",
+        "chrome needle indicator"
+      ],
+      "prop_semantics": "Speedometer metaphor equates credit grade with risk/cost: the same dial doubles as a loan-rate meter, making an abstract number feel mechanical and consequential.",
+      "color_palette": [
+        "#eef1f5",
+        "#e8455f",
+        "#2f80ed",
+        "#33363a"
+      ],
+      "color_intent": "Desaturated cool field lets the red-to-blue arc carry a risk-to-safety spectrum; charcoal numerals anchor legibility.",
+      "pose_description": "No human; the needle gesture mimics a speedometer reading, implying motion and judgment.",
+      "subject_motion": "animated needle rotation/sweep across the arc",
+      "prop_motion": "needle swings left-right; numeric labels increment",
+      "camera_motion": "locked_off",
+      "camera_motion_intensity": "none",
+      "camera_effect_local": "none",
+      "motion_blur": "light on fast needle frames",
+      "intra_cut_rhythm": "steady",
+      "transition_in": "open_on_graphic",
+      "transition_out": "hard_cut",
+      "vfx_in_shot": [
+        "3d_render",
+        "data_viz"
+      ],
+      "vfx_intensity_local": "moderate",
+      "fact_check_flag": "on-screen citation: 2019년 5월 전국은행연합회 자료 기준",
+      "notes": "Metrics: hard cut out at f182 (diff 136.7).",
+      "mid_frame_path": "ADV-2026-016_frames/cut01_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "semicircular red-to-blue credit gauge",
+          "chrome needle"
+        ],
+        "midground": [
+          "stacked numeric labels 신용등급 / 대출금리"
+        ],
+        "background": [
+          "near-white studio field with faint cool gradient"
+        ],
+        "lighting_env": [
+          "soft diffused high-key ambient"
+        ],
+        "atmosphere": [
+          "clean, clinical, no haze"
+        ]
+      },
+      "texture": {
+        "primary_subject": "plastic_matte",
+        "secondary_objects": [
+          "metallic"
+        ],
+        "background_surface": "paper",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "front",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "strong",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "minimal",
+        "overall_contrast": "hi_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#eef1f5",
+          "#e8455f",
+          "#2f80ed",
+          "#33363a"
+        ],
+        "palette_role": {
+          "#eef1f5": "background_dominant",
+          "#e8455f": "warm_risk_accent",
+          "#2f80ed": "cool_safe_accent",
+          "#33363a": "text_anchor"
+        },
+        "color_relationship": "split_complementary",
+        "temperature_balance": "split_warm_cool",
+        "saturation_strategy": "desaturated_with_pop",
+        "contrast_type": "hue_complementary",
+        "accent_color": "#e8455f",
+        "accent_ratio": "15_percent",
+        "brand_color_match": [
+          "arc blue ~#2f80ed approximates Toss blue family"
+        ]
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A clean, minimal financial data-visualization key frame rendered as a polished 3D motion-graphics still, set on a softly lit near-white studio background in pale cool grey (#eef1f5) carrying a faint top-to-bottom gradient and a gentle vignette that keeps the corners slightly darker than the center. Centered in the upper-middle of a 16:9 landscape frame sits a large semicircular speedometer-style credit gauge: an open arc spanning roughly two hundred degrees, its tube-like body rendered with smooth three-dimensional thickness, soft rounded end caps, gentle specular highlights along the top edge and a faint soft contact shadow beneath it. The arc carries a continuous left-to-right color gradient that travels from a warm coral red (#e8455f) on the left, through a magenta-violet midpoint at the top, into a vivid cobalt blue (#2f80ed) on the right, reading unmistakably as a risk-to-safety spectrum. At the geometric center of the arc a brushed chrome-grey needle indicator, metallic and slightly beveled, pivots from a small circular hub and points toward the right-hand blue zone, casting a small soft drop shadow onto the pale surface to reinforce depth and separation from the background. Directly below the gauge two numeric readouts sit side by side in a clean bold Korean rounded sans-serif: the left column shows a small grey label 신용등급 with a large charcoal 2등급 beneath it, and the right column shows a small grey label 대출금리 with a large charcoal 4 % beneath it, all in near-black charcoal (#33363a) for crisp legibility against the bright field. In the lower-right corner a small light-grey fine-print citation line reads 2019년 5월 전국은행연합회 자료 기준. The composition is centered and symmetrical with generous negative space surrounding the single hero dial, a quiet single-focus infographic layout with nothing else competing for attention. Lighting is soft, high-key and almost shadowless: a broad diffused frontal key at a neutral 5500K color temperature, abundant fill because the background is already luminous, no rim light, and only the faint contact shadows under the dial body and needle to suggest a hair of dimensionality. The lens read is flat and orthographic, as if a 50mm-equivalent view looks straight onto a flat motion-graphics plane at eye level with no perspective distortion or converging verticals. The color strategy pairs a desaturated cool background with a single high-saturation red-to-blue arc that owns nearly all of the chroma in frame, while charcoal numerals act as luminance anchors and a split warm-cool temperature contrast quietly dramatizes the good-versus-bad reading. Textures are smooth matte plastic on the gauge body, brushed metal on the needle, clean flat vector type on the labels, and a soft paper-like matte field in the background with no film grain. The atmosphere is calm, clinical and trustworthy, with no haze, particles, smoke or atmospheric effects of any kind. The post and signature look is clean digital 4K commercial motion graphics with crisp anti-aliased edges, gentle ambient occlusion where the dial meets the ground plane, and an uncluttered brand-forward finish. Style anchor: Korean fintech explainer-ad aesthetic, a flat-meets-3D infographic look, hi-key product-neutral studio, absolutely no people present; this still is the start state of an animated sweep in which the needle will rock between a good grade and a poor grade while the paired numerals increment.",
+        "t2i_negative": "people, hands, real bank logos, brand marks, watermark, text artifacts, harsh shadows, low-key lighting, grain, noise, heavy vignette, cluttered background, lens flare, 3d perspective distortion",
+        "i2v_motion": "Hold the locked-off framing; animate only the chrome needle sweeping smoothly from the right blue zone toward the left red zone and back, while the paired numerals update in place (2등급 to 9등급, 4% to 10%) in sync with the needle position; gentle ease-in-ease-out timing, light motion blur on the fastest needle frames; background, labels and citation stay perfectly still; ~6.0s, steady rhythm, no camera move, ends on a hard cut.",
+        "i2v_params": {
+          "clip_duration_sec": 6.07,
+          "camera_move": "locked_off",
+          "subject_motion_level": "micro",
+          "signature_effect": "none",
+          "pacing": "steady",
+          "loopable": true
+        },
+        "fidelity_note": "craft-faithful; on-screen copy preserved verbatim; no logo mark; no people."
+      }
+    },
+    {
+      "index": 2,
+      "duration": 2.14,
+      "framing": "full_field_typo",
+      "function": "hook_question",
+      "subject_action": "A white question 당신의 신용등급은 ? sits centered on a solid Toss royal-blue field, directly addressing the viewer.",
+      "copy_overlay": "당신의 신용등급은 ?",
+      "layout_grid": "center",
+      "subject_position": "center",
+      "subject_typo_layout": "single centered line of large white type on full blue field",
+      "typo_motion": "question text fades/pops in and holds; near the end the next composition begins sliding in from the left",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "environment",
+      "gaze": "none",
+      "props": [],
+      "prop_semantics": "None; the empty blue field foregrounds the personal question and the brand color.",
+      "color_palette": [
+        "#1a56f0",
+        "#eaf0ff"
+      ],
+      "color_intent": "Maximal brand-blue saturation with white type for a clean, declarative question card.",
+      "pose_description": "No human; pure typographic address.",
+      "subject_motion": "none (text only)",
+      "prop_motion": "none",
+      "camera_motion": "locked_off",
+      "camera_motion_intensity": "none",
+      "camera_effect_local": "none",
+      "motion_blur": "none",
+      "intra_cut_rhythm": "static",
+      "transition_in": "hard_cut",
+      "transition_out": "horizontal_slide",
+      "vfx_in_shot": [
+        "kinetic_typo"
+      ],
+      "vfx_intensity_local": "subtle",
+      "fact_check_flag": "none",
+      "notes": "Metrics: text appears, then slide transition starts ~f246 (8.21s) as a phone enters from the left.",
+      "mid_frame_path": "ADV-2026-016_frames/cut02_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "white question text 당신의 신용등급은 ?"
+        ],
+        "midground": [],
+        "background": [
+          "solid Toss royal-blue field (#1a56f0)"
+        ],
+        "lighting_env": [
+          "flat even digital fill"
+        ],
+        "atmosphere": [
+          "none, flat color"
+        ]
+      },
+      "texture": {
+        "primary_subject": "flat_vector_type",
+        "secondary_objects": [],
+        "background_surface": "flat_color",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "front",
+        "key_hardness": "diffused",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "none",
+        "key_to_fill_ratio": "1:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "none",
+        "overall_contrast": "luminance_high"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#1a56f0",
+          "#eaf0ff"
+        ],
+        "palette_role": {
+          "#1a56f0": "background_dominant",
+          "#eaf0ff": "text_foreground"
+        },
+        "color_relationship": "monochrome",
+        "temperature_balance": "cool_dominant",
+        "saturation_strategy": "vivid",
+        "contrast_type": "luminance_high",
+        "accent_color": "#eaf0ff",
+        "accent_ratio": "15_percent",
+        "brand_color_match": [
+          "full-field royal blue ~#1a56f0 = Toss brand blue"
+        ]
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A bold, declarative full-screen typographic title card filling a 16:9 landscape frame edge to edge with a single solid, saturated royal-blue field in a vivid Toss-like cobalt (#1a56f0), perfectly flat with no gradient, no texture and no vignette, the color owning the entire background as a confident brand statement. Centered slightly below the vertical midpoint sits one line of large Korean type reading 당신의 신용등급은 ? set in a heavy rounded sans-serif, the glyphs a soft near-white with the faintest cool tint (#eaf0ff) so they glow gently against the blue without harsh pure-white clipping; the question mark is spaced a little apart at the end, giving the line a calm, conversational cadence as if the brand is speaking directly to one viewer. The type is horizontally centered with comfortable margins left and right, and a large expanse of empty blue above and below it, the negative space doing real work to make the single question feel important and unhurried. There are no other graphic elements in frame: no logos, no icons, no decorative shapes, no UI, no people, no props, nothing but the field of blue and the white question. Lighting is irrelevant in a literal sense because this is flat motion-graphics color, but render it as perfectly even digital fill with absolutely uniform luminance across the entire blue plane, no hot spots, no falloff toward the corners, and no cast shadows behind the letters, keeping the surface clean and screen-native. The lens read is a straight-on flat composition with no perspective and no depth, the type sitting exactly on the picture plane. The color strategy is deliberately monochrome and maximal: one dominant high-saturation brand blue plus a single near-white for the text, a pure luminance contrast that is instantly legible and unmistakably on-brand, with the white reading as roughly fifteen percent of the frame area. Texture is none — smooth flat vector type on smooth flat color, the cleanest possible digital surface, no grain, no paper, no noise. Atmosphere is none: this is a graphic interstitial, not a photographic scene, so there is no haze, dust, glow or particle of any kind. The post and signature look is crisp, anti-aliased, modern app-marketing minimalism, the kind of confident single-color question card that punctuates Korean fintech short-form ads between a demo and a product reveal. The single line of type is optically centered rather than mathematically centered, nudged a touch above the true middle so the large empty lower half of the blue field feels intentional and balanced, and the weight of the glyphs is heavy enough to hold presence against the saturated field without tipping into shouting. The spacing between 당신의, 신용등급은 and the trailing question mark gives the line a measured, conversational rhythm, as if a friendly teller were leaning in to ask a single direct question, and the soft near-white tint keeps the address warm rather than clinical. Nothing animates in this still; it is a calm, confident pause in the edit, a deliberate breath of pure brand color and one human question between the explanatory gauge that precedes it and the product proof that follows. Style anchor: brand-forward kinetic-typography interstitial, full-bleed brand blue, one Korean question in soft white, total simplicity, no imagery; this still is the held state of the card just before the next composition (a smartphone showing the app) begins sliding in horizontally from the left edge to replace it.",
+        "t2i_negative": "people, hands, logos, icons, gradients, textures, shadows behind text, UI chrome, photographic background, watermark, noise, multiple colors, clutter",
+        "i2v_motion": "Open with the white question 당신의 신용등급은 ? settling onto the flat blue field with a quick soft fade-and-pop; hold it still and centered; in the final third, begin a smooth horizontal slide transition where a white smartphone edge enters from the left and starts pushing the blue card off-screen toward the right, motivating the handoff to the next composition; locked-off camera, no zoom; ~2.1s, static-then-slide rhythm.",
+        "i2v_params": {
+          "clip_duration_sec": 2.14,
+          "camera_move": "locked_off",
+          "subject_motion_level": "still",
+          "signature_effect": "none",
+          "pacing": "static",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; question copy preserved verbatim; brand color generic-but-faithful; no logo mark."
+      }
+    },
+    {
+      "index": 3,
+      "duration": 5.3,
+      "framing": "environment",
+      "function": "product_demo_cta_keyvisual",
+      "subject_action": "After a phone slides in from the left, the frame settles into a split composite: a left brand-and-copy zone (logo, 신용등급 무료조회 headline, 조회·진단·관리까지 한번에 sub-copy, legal fineprint) and a right phone screen showing the app's 신용관리 credit gauge at 2등급 with percentile and score readouts.",
+      "copy_overlay": "신용등급 무료조회 / 조회, 진단, 관리까지 한번에 / [app] 신용관리 · 2등급 · 상위 13.0% ▲8% · 930/1000점 ▲32점",
+      "layout_grid": "split_screen",
+      "subject_position": "left_third_copy_right_two_thirds_phone",
+      "subject_typo_layout": "stacked left copy block opposite the phone UI on the right",
+      "typo_motion": "headline and sub-copy settle in after the slide; app numerals tick up (▲8%, ▲32점)",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "environment",
+      "gaze": "none",
+      "props": [
+        "smartphone showing app credit screen",
+        "in-app credit gauge",
+        "brand wordmark"
+      ],
+      "prop_semantics": "The phone is the product proof — it turns the abstract opening gauge into a real in-app credit screen, demonstrating the free check and the diagnose/manage features.",
+      "color_palette": [
+        "#eef1f5",
+        "#1a56f0",
+        "#33363a",
+        "#e8455f"
+      ],
+      "color_intent": "Light field foregrounds the brand-blue headline and the colorful app gauge; charcoal for body copy keeps the busy composite calm.",
+      "pose_description": "No human; the phone is held by the frame, presented straight-on like a product hero.",
+      "subject_motion": "phone slides in then holds; subtle UI number count-up",
+      "prop_motion": "phone enters from left (slide); in-app values animate up",
+      "camera_motion": "locked_off",
+      "camera_motion_intensity": "none",
+      "camera_effect_local": "none",
+      "motion_blur": "moderate during the slide-in",
+      "intra_cut_rhythm": "steady",
+      "transition_in": "horizontal_slide",
+      "transition_out": "dissolve",
+      "vfx_in_shot": [
+        "ui_motion",
+        "3d_render",
+        "data_viz"
+      ],
+      "vfx_intensity_local": "moderate",
+      "fact_check_flag": "app values are illustrative: 2등급, 상위 13.0%, 930/1000점",
+      "notes": "Key visual / CTA frame; split layout captured in panel_layout.",
+      "mid_frame_path": "ADV-2026-016_frames/cut03_mid.png",
+      "panel_layout": {
+        "is_multi_panel": true,
+        "type": "split_vertical",
+        "panel_count": 2,
+        "divider": "none (soft seam between light copy zone and bright phone)",
+        "orientation": "row",
+        "panels": [
+          {
+            "id": 1,
+            "rect": "x 0-42%, y 0-100%",
+            "size_ratio": "~2/5 width",
+            "content": "Brand-and-copy zone on a light field: a generic circular speech-bubble app logo with lowercase wordmark, a large brand-blue two-line headline, a charcoal one-line benefit sub-copy, and a small grey legal fineprint block at the bottom.",
+            "text_in_panel": "신용등급 무료조회 / 조회, 진단, 관리까지 한번에 / 광고에 소개된 신용정보 서비스는 ... 제휴에 의하여 제공됩니다."
+          },
+          {
+            "id": 2,
+            "rect": "x 42-100%, y 0-100%",
+            "size_ratio": "~3/5 width",
+            "content": "A white smartphone shown straight-on, its screen filled with the app credit screen: a header 신용관리, a small semicircular red-to-blue gauge, a large 2등급 readout, and two stacked stats for percentile and score.",
+            "text_in_panel": "신용관리 · 2등급 · 신용 백분위 상위 13.0% ▲8% · 신용평점 930 / 1000 점 ▲32점"
+          }
+        ],
+        "layout_note": "Reads left-to-right: brand promise on the left, live proof on the right; the phone arrives via a horizontal slide from off-screen left."
+      },
+      "visible_elements": {
+        "foreground": [
+          "smartphone with app credit screen",
+          "brand-blue headline",
+          "benefit sub-copy"
+        ],
+        "midground": [
+          "brand wordmark/logo",
+          "in-app credit gauge and stats"
+        ],
+        "background": [
+          "near-white studio field"
+        ],
+        "lighting_env": [
+          "soft high-key ambient",
+          "screen self-illumination on the phone"
+        ],
+        "atmosphere": [
+          "clean, no haze"
+        ]
+      },
+      "texture": {
+        "primary_subject": "glass_clear",
+        "secondary_objects": [
+          "plastic_glossy",
+          "flat_vector_type"
+        ],
+        "background_surface": "paper",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "front",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "strong",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": false,
+        "practical_lights": [
+          "phone screen self-illumination"
+        ],
+        "shadow_presence": "soft",
+        "overall_contrast": "hi_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#eef1f5",
+          "#1a56f0",
+          "#33363a",
+          "#e8455f"
+        ],
+        "palette_role": {
+          "#eef1f5": "background_dominant",
+          "#1a56f0": "brand_headline_accent",
+          "#33363a": "body_text_anchor",
+          "#e8455f": "in_app_gauge_warm_accent"
+        },
+        "color_relationship": "brand_dominant",
+        "temperature_balance": "cool_dominant",
+        "saturation_strategy": "desaturated_with_pop",
+        "contrast_type": "luminance_high",
+        "accent_color": "#1a56f0",
+        "accent_ratio": "15_percent",
+        "brand_color_match": [
+          "headline blue ~#1a56f0 = Toss brand blue"
+        ]
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A clean Korean fintech app-demo composite key frame in a 16:9 landscape, set on a softly lit near-white studio field (#eef1f5) with a faint cool gradient and gentle vignette, organized as a left-right vertical split between a brand-and-copy zone and a product phone. On the left roughly two-fifths of the frame is a calm copy block: at the top a small generic circular speech-bubble app logo (rendered generically, not a real trademark) beside a lowercase wordmark; below it a large two-line headline in vivid brand cobalt-blue (#1a56f0) reading 신용등급 / 무료조회 stacked, set in a heavy rounded Korean sans-serif; beneath the headline a single charcoal (#33363a) benefit line reads 조회, 진단, 관리까지 한번에 in a lighter weight; and anchored to the lower-left corner a small grey multi-line legal fineprint paragraph reads 광고에 소개된 신용정보 서비스는 토스 서비스를 제공하는 주식회사 비바리퍼블리카의 서비스가 아니며 신용평가회사(또는 신용정보회사)와의 제휴에 의하여 제공됩니다. On the right roughly three-fifths of the frame stands a white smartphone shown straight-on and upright, lightly cropped at the top and bottom edges, its screen self-illuminated and filled with an app credit-management screen: a centered header label 신용관리 at the top, below it a small semicircular red-to-blue credit gauge identical in spirit to the opening dial with its needle near the blue safe zone, then a large bold 2등급 readout, and at the bottom two side-by-side stat columns, the left labeled 신용 백분위 with 상위 13.0% and a small green up-arrow ▲8%, the right labeled 신용평점 with 930 / 1000 점 and a small green up-arrow ▲32점. The composition reads cleanly left-to-right as promise-then-proof, the light copy zone balanced against the brighter phone, with comfortable margins and a soft seam rather than a hard divider between the two zones. Lighting is soft, high-key and shadow-light: a broad diffused frontal key at neutral 5500K with strong fill so the white field stays luminous, the only real luminance source besides the ambient being the phone screen's own glow, and just a soft contact shadow grounding the phone. The lens read is a flat, straight-on product framing at eye level, a 50mm-equivalent look with no perspective distortion, the phone presented like a hero object on a clean stage. The color strategy is brand-dominant: a desaturated cool background and charcoal body copy keep the composite quiet, while the cobalt headline and the small saturated red-to-blue app gauge provide controlled pops of chroma, the brand blue reading as the single organizing accent across the frame. Textures are clear glossy phone glass, smooth glossy white phone body, crisp flat vector type, and a soft matte paper-like background, with the in-app gauge rendered as smooth glossy plastic. Atmosphere is clean and clinical with no haze, particles or smoke. The post and signature look is clean digital 4K commercial UI demo, crisp anti-aliased edges, gentle ambient occlusion under the phone, screen-accurate UI contrast, and an uncluttered, trustworthy finish. Style anchor: Korean fintech product-reveal composite, split brand-copy plus app-UI demo, hi-key studio, no people; this still is the settled state immediately after the phone has slid in from the left and the headline and app numerals have locked into place.",
+        "t2i_negative": "people, hands holding phone, real bank or credit-bureau logos, trademark marks, watermark, harsh shadows, low-key lighting, grain, cluttered UI, skewed perspective, lens flare, duplicated phones",
+        "i2v_motion": "Begin with a white smartphone sliding in smoothly from the left edge over the light field with moderate motion blur, decelerating to rest in the right portion of the frame; as it settles, the left brand-blue headline 신용등급 무료조회 and the charcoal sub-copy 조회, 진단, 관리까지 한번에 fade and pop into place, and on the phone the app stats tick upward (percentile to 상위 13.0% with ▲8%, score to 930/1000 with ▲32점) while the in-app gauge needle eases toward the blue zone; locked-off camera, no zoom; ~5.3s, steady rhythm, ending on a soft dissolve toward the logo card.",
+        "i2v_params": {
+          "clip_duration_sec": 5.3,
+          "camera_move": "locked_off",
+          "subject_motion_level": "walk",
+          "signature_effect": "none",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; all on-screen copy and app labels preserved verbatim; logo mark rendered generically; no people."
+      }
+    },
+    {
+      "index": 4,
+      "duration": 1.56,
+      "framing": "environment",
+      "function": "brand_signoff_endcard",
+      "subject_action": "The composite dissolves to a centered brand logo (speech-bubble mark + lowercase wordmark) resting on a light off-white field.",
+      "copy_overlay": "[brand logo] toss",
+      "layout_grid": "center",
+      "subject_position": "center",
+      "subject_typo_layout": "single centered logo lockup",
+      "typo_motion": "logo holds; gentle settle/fade",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "environment",
+      "gaze": "none",
+      "props": [
+        "brand logo lockup"
+      ],
+      "prop_semantics": "Brand sign-off; the speech-bubble mark closes the film and ties the service to the brand.",
+      "color_palette": [
+        "#ebecf0",
+        "#1a56f0"
+      ],
+      "color_intent": "Quiet light field with the brand-blue logo as the only chroma for a calm, memorable close.",
+      "pose_description": "No human; centered logo lockup.",
+      "subject_motion": "none (gentle settle)",
+      "prop_motion": "subtle logo fade/settle",
+      "camera_motion": "locked_off",
+      "camera_motion_intensity": "none",
+      "camera_effect_local": "none",
+      "motion_blur": "none",
+      "intra_cut_rhythm": "static",
+      "transition_in": "dissolve",
+      "transition_out": "end",
+      "vfx_in_shot": [
+        "fade"
+      ],
+      "vfx_intensity_local": "subtle",
+      "fact_check_flag": "none",
+      "notes": "Final brand end card; narration 토스.",
+      "mid_frame_path": "ADV-2026-016_frames/cut04_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "centered brand logo lockup (speech-bubble mark + wordmark)"
+        ],
+        "midground": [],
+        "background": [
+          "light off-white field (#ebecf0)"
+        ],
+        "lighting_env": [
+          "soft even ambient"
+        ],
+        "atmosphere": [
+          "none, clean"
+        ]
+      },
+      "texture": {
+        "primary_subject": "flat_vector_type",
+        "secondary_objects": [],
+        "background_surface": "paper",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "front",
+        "key_hardness": "diffused",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "strong",
+        "key_to_fill_ratio": "1:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "none",
+        "overall_contrast": "hi_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#ebecf0",
+          "#1a56f0"
+        ],
+        "palette_role": {
+          "#ebecf0": "background_dominant",
+          "#1a56f0": "brand_logo_accent"
+        },
+        "color_relationship": "brand_dominant",
+        "temperature_balance": "cool_dominant",
+        "saturation_strategy": "monochrome",
+        "contrast_type": "luminance_low",
+        "accent_color": "#1a56f0",
+        "accent_ratio": "5_percent",
+        "brand_color_match": [
+          "logo blue ~#1a56f0 = Toss brand blue"
+        ]
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A minimal brand end-card key frame in a 16:9 landscape, a quiet and almost empty composition built around a single centered logo lockup on a soft, very light off-white background (#ebecf0) that carries the faintest cool grey tint and an extremely subtle center-to-edge gradient, calm and premium and uncluttered. Dead center sits a simple brand logo lockup rendered generically rather than as a real trademark: a small rounded speech-bubble or chat-drop mark in vivid cobalt brand-blue (#1a56f0) immediately to the left of a lowercase wordmark in the same blue, the wordmark set in a soft rounded sans-serif with even letter spacing, the whole lockup occupying only a small fraction of the frame so that the surrounding emptiness does the emotional work of a confident sign-off. There is nothing else in the frame: no tagline, no URL, no icons, no UI, no people, no props, no decorative shapes, only the centered mark and a wide, breathing field of pale neutral around it. Lighting is rendered as soft, perfectly even digital fill with uniform luminance across the entire background, no hot spots, no vignette darkening beyond the faintest hint, and no cast shadow behind the logo, keeping the surface clean and screen-native. The lens read is a flat, straight-on composition with no depth and no perspective, the logo sitting exactly on the picture plane at eye level and dead-centered both horizontally and vertically. The color strategy is essentially monochrome and brand-dominant: a single near-neutral pale background plus one saturated brand blue for the mark, a low overall luminance contrast that feels gentle and refined rather than punchy, with the blue reading as only about five percent of the frame area, a small jewel of color in a large calm field. Texture is none in any photographic sense — smooth flat vector logo on a smooth flat field, no grain, no paper fiber, no noise, the cleanest possible digital surface. Atmosphere is none: no haze, glow, particles or smoke, just clean color and a single mark. The post and signature look is crisp, anti-aliased, modern minimalist brand-close styling, the restrained final beat that Korean fintech short-form ads use to leave the brand name resonating after a busy demo. The mark itself is simple and rounded, a soft chat-bubble or droplet silhouette with a single smooth tail, paired with a lowercase wordmark whose letterforms are gently rounded and evenly tracked, the two elements balanced as a compact horizontal lockup that sits as one optical unit at the exact center of the frame. The negative space is the real subject here: easily four-fifths of the frame is empty pale neutral, and that emptiness reads as confidence and calm rather than as a missing element, the restraint signalling a premium, trustworthy brand that does not need to crowd the screen. There is a quiet, almost silent quality to the composition, the kind of held final beat that lets a viewer's eye rest on the name for a moment before the film ends. Style anchor: minimalist centered brand end card, pale neutral field, one small cobalt logo lockup, total simplicity, no imagery and no people; this still is the held end state of a gentle dissolve-in from the previous app-demo composite, the logo settled and resting as the final narration says the brand name.",
+        "t2i_negative": "people, hands, taglines, url, multiple logos, real trademark marks, watermark, gradients with hot spots, shadows behind logo, textures, noise, clutter, photographic background",
+        "i2v_motion": "Dissolve in from the previous composite to the centered logo lockup; the mark settles with a very gentle fade and a hair of scale-up, then holds perfectly still on the calm pale field; locked-off camera, no zoom, no parallax; ~1.5s, static rhythm, ending the film.",
+        "i2v_params": {
+          "clip_duration_sec": 1.56,
+          "camera_move": "locked_off",
+          "subject_motion_level": "still",
+          "signature_effect": "none",
+          "pacing": "static",
+          "loopable": true
+        },
+        "fidelity_note": "craft-faithful; logo mark rendered generically (no real trademark); no people; minimal copy."
+      }
+    }
+  ],
+  "search_keywords": {
+    "industry": [
+      "finance"
+    ],
+    "product_category": [
+      "credit_score",
+      "mobile_banking"
+    ],
+    "target_demo": [
+      "late20s_early30s",
+      "30s",
+      "office_worker",
+      "mz"
+    ],
+    "media_format": [
+      "shortform_landscape_30s"
+    ],
+    "tone": [
+      "clean_minimal",
+      "calm_refined",
+      "friendly"
+    ],
+    "pacing": [
+      "steady"
+    ],
+    "technique": [
+      "data_viz_gauge",
+      "question_hook",
+      "app_ui_demo",
+      "kinetic_typo"
+    ],
+    "vfx_keywords": [
+      "3d_render",
+      "ui_motion",
+      "data_viz",
+      "color_pop"
+    ],
+    "copy_strategy_keywords": [
+      "question_hook",
+      "number_emphasis",
+      "feature_benefit_direct"
+    ],
+    "concept_derivation_pattern": [
+      "metaphor_visual_sequence"
+    ]
+  },
+  "inferred_creative_thinking": {
+    "insight": "Most people don't know their own credit grade and don't realize it directly sets the interest rate they pay on loans.",
+    "persona": "A young-to-mid adult who is vaguely anxious about money and loans but has never checked their credit grade because it felt opaque or paid.",
+    "moment": "The second the speedometer needle swings from a good grade to a bad grade and the rate jumps from 4% to 10%, making the cost of a low grade viscerally clear.",
+    "product_role": "Toss turns an invisible, intimidating number into a free, one-tap check with diagnosis and ongoing management inside an app they already trust.",
+    "punchline": "Your credit grade isn't a mystery and it isn't paid — check it free in Toss.",
+    "differentiator": "Free check plus diagnose-and-manage in one place, framed with a clean speedometer metaphor instead of dry tables.",
+    "brand_fit_one_liner": "Toss makes a scary financial number feel simple, free and friendly.",
+    "confidence": "inferred"
+  },
+  "inferred_brief": "Drive awareness and trial of Toss's free credit-rating check by making an invisible number (credit grade) feel concrete and consequential, then resolving it with a free all-in-one app service.",
+  "cross_pollination_tags": {
+    "adjacent": [
+      "card",
+      "insurance",
+      "mobile_banking"
+    ],
+    "distant": [
+      "automotive",
+      "healthcare_pharma"
+    ],
+    "contrast": [
+      "gaming",
+      "fashion"
+    ]
+  },
+  "concept_derivation_pattern": [
+    "metaphor_visual_sequence"
+  ],
+  "confidence": "inferred",
+  "analyst_notes": "15s Toss credit-rating service ad, motion-graphics + app-UI demo, no human subjects. 4 cuts: (1) 3D speedometer credit gauge animating between 2등급/4% and 9등급/10%; (2) full-screen blue hook card '당신의 신용등급은 ?'; (3) split brand-copy + phone app demo with CTA '신용등급 무료조회'; (4) centered logo end card. scenedetect found 3 scenes (it merged cut2-3 across the gradual slide); metrics flagged the slide boundary at f246/8.21s, so shot_count_corrected = 4. No global wiggle (mean_abs_shift_x 0.53). Year 2019 inferred from on-screen data citation. Whisper raw '무려조해' corrected to '무료조회' against captions.",
+  "verification": {
+    "frames_reviewed": "450/450 frames extracted at native 1920x1080 + 100% per-frame metrics (diff/hist/shift/motion-zones/text-delta); all 4 cut boundaries plus ~12 sampled frames visually read at native res; slide transition at f246 confirmed by reading f246 and f320.",
+    "audio_analyzed": true,
+    "hitrate_na": true,
+    "abstraction_checked": true
+  }
+}

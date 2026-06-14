@@ -1,0 +1,2199 @@
+{
+  "id": "ADV-2026-012",
+  "source_ref": {
+    "platform": "youtube",
+    "title_or_campaign": "토스 미니앱 - 기차 예매 로그인 없이",
+    "brand": "토스 (Toss)",
+    "product": "토스 미니앱 (기차 예약 KTX·SRT)",
+    "model": null,
+    "year": 2024,
+    "production_note": "Korean fintech super-app mini-app feature ad; live-action narrative comedy; 38s",
+    "url": null
+  },
+  "category_primary": "finance.fintech",
+  "category_tags": [
+    "fintech",
+    "super_app",
+    "mini_app",
+    "ktx",
+    "train_booking",
+    "mobile_ux"
+  ],
+  "mood": [
+    "humorous",
+    "relatable",
+    "warm",
+    "light"
+  ],
+  "target_demo": "30s-40s Korean adults, family households, KTX commuters/travelers",
+  "total_duration": 38.01,
+  "shot_count": 18,
+  "shot_count_corrected": 18,
+  "fps": 23.976,
+  "aspect_ratio": "16:9",
+  "hook_position": 0.18,
+  "cta_position": 31.95,
+  "narrative_arc": "problem_solution",
+  "narrative_structure": "linear_continuous",
+  "pacing_curve": "accelerating",
+  "music_tempo_curve": "steady",
+  "wow_cut_index": 11,
+  "creative_device": [
+    "everyday_frustration_hook",
+    "comedy_of_errors",
+    "product_reveal_pivot",
+    "login_friction_as_antagonist",
+    "ironing_as_metaphor"
+  ],
+  "production_signature": {
+    "capture_style": "cinema_verite_mockumentary_hybrid",
+    "camera_signature": [
+      "locked_off_wide_for_comedy",
+      "low_angle_reaction_cu",
+      "ecu_phone_screen_pov",
+      "handheld_slight_push"
+    ],
+    "signature_note": "Warm overexposed morning window light throughout; consistent Scandinavian-minimal living room set; comedy contrast: formal shirt+tie over blue boxers; ECU phone inserts for UX reveal",
+    "color_grade": "warm_natural_lift",
+    "texture_fx": "natural_steam_practical"
+  },
+  "global_layout": {
+    "grid_system": "rule_of_thirds",
+    "subject_placement_dominant": "center_left",
+    "subject_typo_relation": "typo_over_action",
+    "negative_space_use": "high_in_endcard_minimal_in_narrative",
+    "layout_note": "Narrative shots use natural domestic composition; endcard shifts to pure negative space with centered product name"
+  },
+  "recurring_motifs": [
+    "ironing_board_as_anchor",
+    "blue_boxers_comedy_reveal",
+    "phone_ecus",
+    "steam_metaphor_for_frustration",
+    "window_backlight"
+  ],
+  "copywriting": {
+    "tagline_text": "기차 예매, 로그인 없이 토스에서 바로",
+    "tagline_structure": "pain_point_negation + brand_action",
+    "cta_text": "토스 미니앱",
+    "copy_tone": [
+      "conversational",
+      "humorous",
+      "direct",
+      "benefit-led"
+    ],
+    "copy_strategy": "problem_inversion",
+    "lines": [
+      "기차 예매, 로그인 없이",
+      "토스에서 바로",
+      "토스 미니앱",
+      "앱을 쓰는 새로운 방식 토스 미니앱"
+    ],
+    "captions": [
+      {
+        "time_start": 28.74,
+        "time_end": 31.95,
+        "text": "기차 예매, 로그인 없이"
+      },
+      {
+        "time_start": 31.95,
+        "time_end": 34.0,
+        "text": "기차 예매, 로그인 없이\n토스에서 바로"
+      },
+      {
+        "time_start": 34.0,
+        "time_end": 37.0,
+        "text": "토스 미니앱"
+      },
+      {
+        "time_start": 37.0,
+        "time_end": 38.01,
+        "text": "*토스 미니앱 서비스는 만 19세 이상부터 이용할 수 있어요."
+      }
+    ],
+    "narration_handling": "dialogue_plus_narration"
+  },
+  "typography": {
+    "primary_font_class": "bold_sans_korean",
+    "animation_style": [
+      "fade_in",
+      "static_hold"
+    ],
+    "subtitle_position_dominant": "center_screen",
+    "color_strategy": "white_on_scene_then_dark_on_endcard",
+    "typo_motion_dominant": "static_overlay"
+  },
+  "vfx": {
+    "primary_effects": [
+      "practical_steam",
+      "natural_bokeh",
+      "screen_insert_ecus"
+    ],
+    "effect_intensity": "low",
+    "transition_style_dominant": "hard_cut",
+    "vfx_event_count": 3
+  },
+  "audio": {
+    "has_audio": true,
+    "language": "ko",
+    "speech_coverage": 0.823,
+    "bgm_likely": null,
+    "narration_lines": [
+      {
+        "source": "dialogue",
+        "start": 0.18,
+        "end": 2.86,
+        "text": "자기야 우리 기차표 예맸지?"
+      },
+      {
+        "source": "dialogue",
+        "start": 2.86,
+        "end": 4.1,
+        "text": "그런데 예맸어?"
+      },
+      {
+        "source": "dialogue",
+        "start": 4.1,
+        "end": 10.06,
+        "text": "아, 형 뭐, 뭐 했더라니?"
+      },
+      {
+        "source": "dialogue",
+        "start": 10.78,
+        "end": 13.66,
+        "text": "아, 내가 아이디가 이 순간 나오지 못하고"
+      },
+      {
+        "source": "dialogue",
+        "start": 15.06,
+        "end": 17.02,
+        "text": "로그인은 왜 안 되는지 이거"
+      },
+      {
+        "source": "narration",
+        "start": 18.34,
+        "end": 31.9,
+        "text": "기차 예매, 로그인 없이 토스에서 바로"
+      },
+      {
+        "source": "narration",
+        "start": 31.9,
+        "end": 34.9,
+        "text": "앱을 쓰는 새로운 방식 토스 미니앱"
+      }
+    ],
+    "voice_vs_caption": "voice_leads_captions_follow",
+    "transcribed_by": "faster_whisper_base_corrected_against_captions",
+    "audio_note": "Dialogue-driven narrative; no BGM detected; narration takes over at product reveal ~18s; whisper output corrected against visible on-screen text"
+  },
+  "frames_dir": "ADV-2026-012_frames",
+  "contact_sheet_path": "ADV-2026-012_frames/contact_sheet.png",
+  "shots": [
+    {
+      "index": 1,
+      "duration": 5.42,
+      "framing": "MCU",
+      "function": "hook_establish",
+      "subject_action": "middle_aged_man_bowing_head_downward_looking_at_something_below_frame",
+      "layout_grid": "left_center_third",
+      "subject_position": "left_center",
+      "typo_motion": "none",
+      "camera_angle": "eye_level_slight_high",
+      "camera_facing": "three_quarter_profile",
+      "shot_scope": "medium_close",
+      "gaze": "downward_off_camera",
+      "props": [
+        "white_dress_shirt",
+        "blue_tie"
+      ],
+      "color_palette": [
+        "#F5F0EB",
+        "#FFFFFF",
+        "#6B8DB8",
+        "#2C2C2C"
+      ],
+      "color_intent": "soft_morning_warmth",
+      "pose_description": "torso bent forward, head bowed, mouth slightly open as if speaking or sighing",
+      "subject_motion": "slight_lean_forward",
+      "camera_motion": "locked_off",
+      "camera_effect_local": "shallow_dof_background_bokeh",
+      "intra_cut_rhythm": "slow_build",
+      "transition_in": "cold_open",
+      "transition_out": "hard_cut",
+      "mid_frame_path": "ADV-2026-012_frames/cut01_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "man_in_shirt_and_tie"
+        ],
+        "midground": [
+          "vertical_blinds",
+          "sheer_curtains"
+        ],
+        "background": [
+          "woman_with_ponytail_blurred",
+          "child_blurred",
+          "warm_interior"
+        ],
+        "lighting_env": [
+          "strong_backlit_window_morning_light",
+          "soft_fill"
+        ],
+        "atmosphere": [
+          "domestic_morning_rush",
+          "slightly_stressed"
+        ]
+      },
+      "texture": {
+        "primary_subject": "cotton_dress_shirt_crisp_white_fabric",
+        "secondary_objects": [
+          "silk_tie_woven_pattern"
+        ],
+        "background_surface": "soft_bokeh_cream_interior",
+        "atmospheric": [
+          "hazy_morning_light",
+          "warm_diffused"
+        ]
+      },
+      "lighting": {
+        "key_direction": "back_left_window",
+        "key_hardness": "soft",
+        "key_color_temp": "5500K_daylight",
+        "fill_strength": "medium",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": "natural_window_rim_on_hair",
+        "practical_lights": [],
+        "shadow_presence": "soft_minimal",
+        "overall_contrast": "low"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#F5F0EB",
+          "#FFFFFF",
+          "#6B8DB8",
+          "#2C2C2C",
+          "#D4C8B8"
+        ],
+        "palette_role": {
+          "#F5F0EB": "background",
+          "#FFFFFF": "shirt",
+          "#6B8DB8": "tie",
+          "#2C2C2C": "hair",
+          "#D4C8B8": "skin"
+        },
+        "color_relationship": "analogous_warm_neutrals_with_blue_accent",
+        "temperature_balance": "warm",
+        "saturation_strategy": "desaturated_naturalistic",
+        "contrast_type": "tonal",
+        "accent_color": "#6B8DB8",
+        "accent_ratio": "0.08"
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A middle-aged Korean man, stocky build with a round face, short neatly trimmed black hair that is slightly salt-and-pepper at the temples, clean-shaven with visible natural skin texture including slight pores and lived-in character, dressed in a crisp bright white cotton dress shirt fully buttoned at the collar and cuffs, and a textured woven dark cornflower blue necktie with a tight half-Windsor knot, stands inside a modern Scandinavian-inspired Korean apartment living room during early morning. He is bent forward and downward at the waist, his torso inclined toward something below the frame, his head bowed so his chin nearly touches his chest, and his mouth is slightly open as if mid-sigh, mid-speech, or processing a thought. His gaze is directed downward and off the left side of the frame, giving him an introspective, slightly worried, or preoccupied expression. The scene is bathed in the distinctive soft overexposed quality of early morning daylight streaming in from a large window with full-height vertical sheer white blinds and semi-opaque cream-colored curtains positioned on the left side of the frame behind and around the subject. This window light acts as the primary illumination source and creates a bright, slightly blown-out luminosity behind the subject, rimming his dark hair with a subtle warm halo and washing the background into a gentle cream and white diffusion. The camera angle is slightly elevated, shooting down at the subject from approximately eye-level to a slight high angle, creating a sense of looking at the subject from close range. Behind him and to the right, rendered softly out of focus in warm cream bokeh, are two additional figures: a young woman with a long reddish-auburn ponytail standing near what appears to be a mirror or wardrobe doorway, and a smaller child figure partially visible beside her. The interior background suggests a spacious modern Korean apartment with warm beige and off-white painted walls, characteristic of contemporary Korean residential design. The framing is a medium close-up with the subject positioned slightly left of center in the 16:9 frame, giving him room to breathe on the right side, which is filled with the soft window-lit background bokeh. The lens focal length equivalent is approximately 85mm to 100mm, a classic portrait telephoto that produces the characteristic shallow depth of field keeping the man pin-sharp while rendering the background in smooth, creamy out-of-focus bokeh. The color palette throughout the frame is consistently desaturated and naturalistic, leaning warm: ivory and off-white from the shirt and background walls, the warm light-tan color of his skin, the very dark brown-black of his hair, and the muted cornflower blue of his necktie as the only saturated chromatic accent in the frame. The lighting setup is low-contrast and soft, resembling overcast daylight enhanced with off-camera fill light, producing a 2:1 key-to-fill ratio that creates subtle facial modeling without harsh shadows. The mood is quietly domestic and slightly stressed, the opening beat of a comedy that situates the viewer in a relatable Korean family morning. No brand logos, no identifiable face features beyond the generic Korean adult male appearance. Korean domestic apartment aesthetic, contemporary commercial live-action cinematography.",
+        "t2i_negative": "outdoor, harsh shadows, high contrast, saturated colors, corporate setting, logo visible, English text",
+        "i2v_motion": "Camera locked off; subject slowly raises head from bowed position over 3 seconds; woman in background makes small movement toward mirror; subtle breathing motion in shirt fabric; soft morning light stays constant; cut to wide shot at end",
+        "i2v_params": {
+          "clip_duration_sec": 5.4,
+          "camera_move": "locked_off",
+          "subject_motion_level": "minimal",
+          "signature_effect": "shallow_dof_window_backlight",
+          "pacing": "slow",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen copy preserved; identity/logo generic"
+      }
+    },
+    {
+      "index": 2,
+      "duration": 2.42,
+      "framing": "WS",
+      "function": "establish_comedy",
+      "subject_action": "man_standing_at_ironing_board_in_dress_shirt_and_blue_boxer_shorts_ironing_black_suit_jacket",
+      "layout_grid": "right_center_thirds",
+      "subject_position": "center_right",
+      "typo_motion": "none",
+      "camera_angle": "eye_level",
+      "camera_facing": "three_quarter_front",
+      "shot_scope": "wide",
+      "gaze": "downward_at_ironing",
+      "props": [
+        "ironing_board",
+        "black_iron",
+        "black_suit_jacket",
+        "blue_patterned_boxer_shorts"
+      ],
+      "color_palette": [
+        "#F8F4EE",
+        "#FFFFFF",
+        "#2B4C8C",
+        "#1A1A1A",
+        "#8FBE6A"
+      ],
+      "color_intent": "bright_domestic_comedy",
+      "pose_description": "standing upright, both hands on iron, pressing black jacket, mouth slightly open speaking, head tilted looking at garment",
+      "subject_motion": "arm_ironing_motion",
+      "camera_motion": "locked_off",
+      "camera_effect_local": "natural_window_backlight",
+      "intra_cut_rhythm": "steady",
+      "transition_in": "hard_cut",
+      "transition_out": "hard_cut",
+      "mid_frame_path": "ADV-2026-012_frames/cut02_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "ironing_board_edge",
+          "black_iron",
+          "black_jacket"
+        ],
+        "midground": [
+          "man_in_shirt_tie_and_blue_boxers",
+          "white_floor_lamp_mushroom_shade",
+          "full_length_mirror"
+        ],
+        "background": [
+          "woman_with_ponytail_at_mirror",
+          "child_peeking",
+          "cream_sofa_with_yellow_green_cushions",
+          "matisse_style_wall_art_orange_abstract",
+          "record_player_on_white_shelf",
+          "bookshelves"
+        ],
+        "lighting_env": [
+          "large_window_backlight_left",
+          "soft_fill_right",
+          "practical_floor_lamp"
+        ],
+        "atmosphere": [
+          "bright_morning",
+          "humorous_domestic_chaos"
+        ]
+      },
+      "texture": {
+        "primary_subject": "white_cotton_shirt_wrinkled_blue_polka_dot_cotton_boxers",
+        "secondary_objects": [
+          "black_wool_suit_jacket",
+          "white_ironing_board_cover"
+        ],
+        "background_surface": "light_oak_parquet_floor_cream_area_rug",
+        "atmospheric": [
+          "bright_morning_sunlight_through_sheers",
+          "slightly_hazy"
+        ]
+      },
+      "lighting": {
+        "key_direction": "left_window_backlight",
+        "key_hardness": "soft_diffused",
+        "key_color_temp": "5500K",
+        "fill_strength": "strong",
+        "key_to_fill_ratio": "1.5:1",
+        "rim_light": "none",
+        "practical_lights": [
+          "floor_lamp"
+        ],
+        "shadow_presence": "soft_minimal",
+        "overall_contrast": "low"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#F8F4EE",
+          "#FFFFFF",
+          "#2B4C8C",
+          "#1A1A1A",
+          "#8FBE6A"
+        ],
+        "palette_role": {
+          "#F8F4EE": "walls_background",
+          "#FFFFFF": "shirt_curtains",
+          "#2B4C8C": "boxer_shorts",
+          "#1A1A1A": "suit_jacket_hair",
+          "#8FBE6A": "sofa_cushion"
+        },
+        "color_relationship": "neutral_warm_ground_with_mid_blue_comedy_accent",
+        "temperature_balance": "warm_neutral",
+        "saturation_strategy": "moderate_naturalistic",
+        "contrast_type": "tonal",
+        "accent_color": "#2B4C8C",
+        "accent_ratio": "0.12"
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A wide-angle establishing shot capturing the full interior of a bright, spacious, modern Korean apartment living room during morning preparation, rendered in the clean Scandinavian-minimal aesthetic popular among contemporary Korean upper-middle-class households. The scene is lit primarily by a large floor-to-ceiling window with diffused white sheer curtains and vertical blinds on the left wall, flooding the room with soft overexposed morning daylight. The primary subject — a middle-aged Korean man in his late forties, stocky build with short black hair, wearing a pressed bright white cotton dress shirt fully buttoned with a textured woven dark blue necktie, but conspicuously wearing bright blue polka-dotted boxer shorts instead of trousers, along with dark socks — stands at the center-right area of the frame at a portable wooden-framed ironing board. He holds a matte black steam iron in one hand and is in the process of pressing a dark navy-black wool suit jacket laid flat on the ironing board cover. His posture is slightly hunched over the garment, head tilted downward examining the fabric he is ironing, his mouth slightly open mid-speech or reaction. The comedy derives entirely from the visible contrast between the formal top (dress shirt, tie) and the casual bottom (patterned boxer shorts). Behind him to the left, near the large standing mirror and mushroom-shaped white floor lamp, the young woman with an auburn ponytail is adjusting her clothing or hair. A small child peeks around the mirror frame. The room extends fully into the background revealing its complete Scandinavian-Nordic domestic character: a wide cream linen upholstered sofa with scattered decorative cushions in mustard yellow and sage green on the left side of the composition, a small round white Scandinavian-style coffee table in the foreground center carrying a few stacked books and a ceramic coffee mug, a low white media credenza console against the right wall bearing a compact retro-style record player in warm wood and metal finish, a small cream cube speaker, and a framed abstract art print on the white wall above in the style of warm oranges and golds — abstract organic shapes referencing Matisse — in a simple light wood frame. The floor throughout is warm light oak parquet running horizontally, with a cream geometric patterned area rug defining the living zone. The walls are off-white with a very slight warm tint. The lens is a wide approximately 35mm equivalent capturing the full room with slight natural perspective distortion. The color palette is airy and Nordic throughout: ivory whites, warm creams, the vivid mid-blue of the boxer shorts as a comedic accent, the dark charcoal of the suit jacket as a formal contrast, and the scattered mustard, sage, and warm amber accents from the furnishings. Lighting is low-contrast, bright, overcast morning quality, approximately 1.5:1 key-to-fill from the window. The mood is energetic domestic chaos rendered with visual calm. No brand logos visible. Korean commercial live-action aesthetic. The composition is cinematographic, not snapshot. The ironing board is a standard collapsible design with a slim metal tubular frame in silver-grey, the board surface padded and covered in a white heat-resistant fabric with faint grid lines. The man's legs below the boxer shorts are bare with dark compression or dress socks visible at the ankle, grounding the comedy in one final costume detail. The young child partially visible behind the woman adds a third character dimension that establishes this as a family unit, not a couple — making the domestic morning chaos even more universally relatable. The early morning quality of the light and the level of preparation visible on all characters suggests this family is preparing for a trip or important day out, adding narrative urgency to the man's phone-related distraction.",
+        "t2i_negative": "outdoor, dark, dramatic lighting, cramped, Western interior, branded items visible",
+        "i2v_motion": "Camera locked off; man continues ironing motion on jacket; woman adjusts hair at mirror; child moves slightly; slight camera push-in over 2 seconds to tighten toward man; cut to ECU hands on phone",
+        "i2v_params": {
+          "clip_duration_sec": 2.4,
+          "camera_move": "very_slight_push_in",
+          "subject_motion_level": "low",
+          "signature_effect": "morning_window_backlight",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen copy preserved; identity/logo generic"
+      }
+    },
+    {
+      "index": 3,
+      "duration": 2.5,
+      "framing": "ECU",
+      "function": "product_problem_introduce",
+      "subject_action": "hands_typing_password_into_train_booking_app_login_screen",
+      "layout_grid": "center_fill",
+      "subject_position": "center",
+      "typo_motion": "none",
+      "camera_angle": "overhead_tilt",
+      "camera_facing": "top_down",
+      "shot_scope": "extreme_close",
+      "gaze": "n/a",
+      "props": [
+        "smartphone_with_case",
+        "train_booking_app_login_screen",
+        "iron_in_bg"
+      ],
+      "color_palette": [
+        "#F0F0F2",
+        "#1A3A8F",
+        "#FFFFFF",
+        "#3A3A3C"
+      ],
+      "color_intent": "clean_functional_app_ui",
+      "pose_description": "two hands holding phone, one index finger entering numeric keypad, tie and white shirt visible",
+      "subject_motion": "finger_tapping",
+      "camera_motion": "locked_off",
+      "camera_effect_local": "shallow_dof_out_of_focus_iron_bg",
+      "intra_cut_rhythm": "steady",
+      "transition_in": "hard_cut",
+      "transition_out": "hard_cut",
+      "mid_frame_path": "ADV-2026-012_frames/cut03_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "smartphone_screen_login_ui",
+          "hands_with_shirt_cuffs",
+          "blue_tie"
+        ],
+        "midground": [],
+        "background": [
+          "iron_on_black_jacket_blurred",
+          "wooden_table_surface_blurred"
+        ],
+        "lighting_env": [
+          "studio_soft_overhead"
+        ],
+        "atmosphere": [
+          "app_ui_reveal",
+          "frustrated_intent"
+        ]
+      },
+      "texture": {
+        "primary_subject": "smartphone_glass_screen_ui_elements",
+        "secondary_objects": [
+          "white_shirt_cuff_cotton",
+          "woven_blue_tie_silk"
+        ],
+        "background_surface": "blurred_wood_grain_ironing_board",
+        "atmospheric": [
+          "cool_screen_glow"
+        ]
+      },
+      "lighting": {
+        "key_direction": "overhead_soft",
+        "key_hardness": "soft",
+        "key_color_temp": "5000K",
+        "fill_strength": "medium",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": "screen_glow_from_phone",
+        "practical_lights": [],
+        "shadow_presence": "minimal",
+        "overall_contrast": "low_medium"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#F0F0F2",
+          "#1A3A8F",
+          "#FFFFFF",
+          "#3A3A3C",
+          "#6B8DB8"
+        ],
+        "palette_role": {
+          "#F0F0F2": "app_background",
+          "#1A3A8F": "app_header_blue_cta",
+          "#FFFFFF": "form_fields",
+          "#3A3A3C": "text",
+          "#6B8DB8": "tie"
+        },
+        "color_relationship": "cool_blue_app_ui_dominant",
+        "temperature_balance": "neutral_cool",
+        "saturation_strategy": "desaturated_ui_minimal",
+        "contrast_type": "structural",
+        "accent_color": "#1A3A8F",
+        "accent_ratio": "0.25"
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "An extreme close-up overhead-tilt view looking down at a pair of hands holding a modern edge-to-edge rectangular smartphone in portrait orientation, with the screen fully visible and in sharp focus, displaying a Korean train reservation application login interface. The left hand grips the phone frame firmly from the left side, fingers wrapping around the edge, while the right index finger is positioned mid-tap on a numeric keypad that occupies the lower third of the screen, the fingertip slightly blurred with downward motion. The phone itself is a current-generation rectangular smartphone with very thin bezels and a small pill-shaped front camera cutout at the top of the screen, housed in a slim black protective case with slightly rounded edges. The application interface displayed on the screen is a Korean train booking service login screen. The upper portion of the screen features a dark navy blue header bar with white Korean text positioned toward the top right reading '열차 예매' and below it a small icon-style illustration of a KTX bullet train in grey and silver tones. Below this header, against a white background, the form area shows two labeled input fields: the first labeled '회원번호' (membership number) with a partially entered number visible, and the second labeled '비밀번호' (password) with bullet-dot characters indicating obscured content. A large navy-blue rounded pill-shaped button labeled '로그인' (login) in white text appears prominently below the input fields. Beneath the login button, smaller grey text provides links for password recovery and membership registration. The lower portion of the screen is dominated by a standard Korean numeric keypad layout with the digits 0-9 arranged in grid format, white rounded buttons on a light grey background. The surrounding context visible around the phone includes the wrist and cuff of a crisp white cotton dress shirt with a woven dark blue tie tail visible from the right edge, establishing the character context. Slightly below and behind the phone in shallow depth of field bokeh, the dark surface of a black suit jacket on a pale ironing board cover creates a soft textural background. The composition fills the 16:9 frame with the phone at approximately a 15-degree diagonal tilt, the screen occupying the upper-center of the frame and the numeric keypad dominating the lower half. The lens is approximately 50mm equivalent creating a flat graphic quality without significant perspective distortion. The color palette is dominated by the cool off-white and navy blue of the app UI, the white shirt fabric as a warm contrast element, with the dark blue tie as a saturated middle accent. Lighting is soft and even from above, with the screen itself contributing cool blue-white illumination that slightly color-grades the surrounding skin and fabric. The depth of field is very shallow, keeping only the phone screen and hands in focus. The mood is task-focused urgency layered with underlying frustration. No brand logos beyond the generic train booking app UI. Korean fintech and transport service UI aesthetic rendered with photographic realism. The man's thumb position and the specific numeric input on screen establishes this as the second attempt or continued effort at entering login credentials — the narrative suggests he has already tried once with the QWERTY keyboard and is now trying the numeric PIN approach. The iron visible in the background as a blurred prop recalls the domestic ironing scene, maintaining spatial consistency. The composition deliberately crops out any visual that would reveal the man's lower half, maintaining the surprise for the upcoming wide shots. The specific app UI design reflects the aesthetic of established Korean rail ticketing services, using the corporate navy blue and clean white palette typical of official Korean transportation digital products. The depth of field separation is precise enough to keep individual UI text elements legible for the viewer.",
+        "t2i_negative": "brand logos, wrong app layout, dark background, outdoor, portrait orientation on whole frame",
+        "i2v_motion": "Finger taps the numeric keypad repeatedly entering digits; slight hand shake from frustration; phone held at slight diagonal; background iron remains blurred and static; cut after password field fills",
+        "i2v_params": {
+          "clip_duration_sec": 2.5,
+          "camera_move": "locked_off",
+          "subject_motion_level": "low_fingertip",
+          "signature_effect": "shallow_dof_screen_insert",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen copy preserved; identity/logo generic"
+      }
+    },
+    {
+      "index": 4,
+      "duration": 1.63,
+      "framing": "MCU",
+      "function": "reaction_frustration",
+      "subject_action": "man_looking_at_phone_with_confused_frustrated_expression_scratching_head",
+      "layout_grid": "center_thirds_low",
+      "subject_position": "center",
+      "typo_motion": "none",
+      "camera_angle": "low_angle_looking_up",
+      "camera_facing": "frontal",
+      "shot_scope": "medium_close",
+      "gaze": "downward_at_phone",
+      "props": [
+        "smartphone",
+        "ironing_board_edge_fg"
+      ],
+      "color_palette": [
+        "#F2EDE6",
+        "#FFFFFF",
+        "#2C2C2C",
+        "#6B8DB8"
+      ],
+      "color_intent": "warm_neutral_reaction",
+      "pose_description": "standing, slightly leaning forward, phone in right hand, left hand raised to head scratching",
+      "subject_motion": "head_scratch_gesture",
+      "camera_motion": "locked_off",
+      "camera_effect_local": "low_angle_looking_up_at_subject",
+      "intra_cut_rhythm": "steady",
+      "transition_in": "hard_cut",
+      "transition_out": "hard_cut",
+      "mid_frame_path": "ADV-2026-012_frames/cut04_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "ironing_board_edge_extreme_blur"
+        ],
+        "midground": [
+          "man_in_shirt_tie",
+          "phone_in_hand"
+        ],
+        "background": [
+          "white_ceiling",
+          "warm_wall_blurred"
+        ],
+        "lighting_env": [
+          "soft_overhead_fill",
+          "window_backlight"
+        ],
+        "atmosphere": [
+          "frustration_peak",
+          "comedy_reaction"
+        ]
+      },
+      "texture": {
+        "primary_subject": "white_cotton_shirt_face_skin_texture",
+        "secondary_objects": [
+          "black_phone_case"
+        ],
+        "background_surface": "soft_bokeh_cream_ceiling",
+        "atmospheric": [
+          "warm_interior_light"
+        ]
+      },
+      "lighting": {
+        "key_direction": "overhead_soft",
+        "key_hardness": "soft",
+        "key_color_temp": "5000K",
+        "fill_strength": "strong",
+        "key_to_fill_ratio": "1.5:1",
+        "rim_light": "none",
+        "practical_lights": [],
+        "shadow_presence": "minimal",
+        "overall_contrast": "low"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#F2EDE6",
+          "#FFFFFF",
+          "#2C2C2C",
+          "#6B8DB8",
+          "#C4A882"
+        ],
+        "palette_role": {
+          "#F2EDE6": "background_ceiling",
+          "#FFFFFF": "shirt",
+          "#2C2C2C": "hair",
+          "#6B8DB8": "tie",
+          "#C4A882": "skin"
+        },
+        "color_relationship": "warm_neutral_minimal",
+        "temperature_balance": "warm",
+        "saturation_strategy": "very_low",
+        "contrast_type": "tonal",
+        "accent_color": "#6B8DB8",
+        "accent_ratio": "0.06"
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A medium close-up shot from a low angle, the camera positioned below the subject and looking slightly upward, capturing a middle-aged Korean man in white dress shirt and blue necktie as he looks down at a smartphone he holds in his right hand. The camera angle creates a slightly heroic or comedically theatrical framing that contrasts with the man's clearly frustrated and bewildered expression. His face is the primary focal element: a round face with a stocky jawline, short cropped black hair with natural texture, visible skin character in the midrange lens rendering, and an expression conveying peak confusion and exasperated disbelief — furrowed brow with deep horizontal wrinkle lines across the forehead, eyes narrowed and focused downward on the phone screen, cheeks slightly flushed, and the mouth in a pursed or slightly downturned grimace. His left arm is raised with the hand near or touching the side of his head — either in a classic head-scratch gesture or pressing his palm against his temple in self-recrimination. This body language universally communicates 'I cannot believe this' or 'why is this not working'. The black smartphone is held in his right hand at waist or lower chest level, screen angled slightly toward him. In the extreme lower foreground of the frame, the soft out-of-focus edge of an ironing board or wooden table surface creates a blurred horizontal line that establishes the low camera position and gives the shot its characteristic 'from below' quality. The background above the subject is the white ceiling and warm off-white upper wall of the Korean apartment, completely out of focus in creamy bokeh, contributing to the clean high-key brightness of the overall composition. The light source is primarily from the left, a residual quality of the window backlight seen in earlier shots, now casting soft even light across the subject with a gentle rim on the top of his hair. The shirt and tie visible from collar to mid-chest are the only clothing elements shown, with no lower garments visible in this tight framing. The depth of field is very shallow, with the man's face perfectly sharp and the background completely diffused. The lens is approximately 85mm equivalent, giving the shot its characteristic compressed and intimate quality. The color palette is warm and minimal: ivory white shirt, dark brown-black hair, warm skin tones in the tan-to-amber range, and the muted cornflower blue of the tie as the sole chromatic accent, all set against a cream-to-white background. The lighting is soft, low-contrast, warm, approximately 1.5:1 key-to-fill. The comedic mood is rendered with naturalistic restraint rather than cartoon exaggeration. Korean commercial live-action, documentary-style cinematography. The choice of low angle creates a slight distortion that makes the man appear simultaneously more imposing and more comic — a figure of domestic authority undone by a digital obstacle. The white ceiling visible above his head creates a pure graphic contrast against which his dark hair is clearly silhouetted, contributing to the clean visual separation. The ironing board edge in the extreme foreground is purely compositional — it grounds the camera position in physical space and references the ongoing domestic context without requiring the viewer to see the full setup again. The slight red or pink flush visible on his cheeks and nose adds physical embodiment to the frustration, making it physiologically legible beyond just the facial expression. This reaction shot is the emotional pivot point of the first act — the moment where the audience fully understands the problem before the solution is introduced.",
+        "t2i_negative": "outdoor, dramatic lighting, western interior, woman in frame, busy background",
+        "i2v_motion": "Man scratches head while staring at phone screen; mouth moves in mumbling frustration; eyes narrow; ironing board in FG sways very slightly; cut to iron close-up",
+        "i2v_params": {
+          "clip_duration_sec": 1.6,
+          "camera_move": "locked_off",
+          "subject_motion_level": "low",
+          "signature_effect": "low_angle_comedy_cu",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen copy preserved; identity/logo generic"
+      }
+    },
+    {
+      "index": 5,
+      "duration": 1.92,
+      "framing": "ECU",
+      "function": "visual_metaphor",
+      "subject_action": "iron_pressing_black_suit_jacket_with_no_visible_operator",
+      "layout_grid": "center_horizontal",
+      "subject_position": "center_upper",
+      "typo_motion": "none",
+      "camera_angle": "eye_level_side",
+      "camera_facing": "side_profile",
+      "shot_scope": "extreme_close",
+      "gaze": "n/a",
+      "props": [
+        "black_electric_iron",
+        "black_wool_suit_jacket",
+        "ironing_board"
+      ],
+      "color_palette": [
+        "#1A1A1A",
+        "#2A2A2C",
+        "#F0EEE8"
+      ],
+      "color_intent": "dark_minimal_texture",
+      "pose_description": "n/a - object shot",
+      "subject_motion": "iron_pressing_static",
+      "camera_motion": "locked_off",
+      "camera_effect_local": "extreme_shallow_dof",
+      "intra_cut_rhythm": "steady",
+      "transition_in": "hard_cut",
+      "transition_out": "hard_cut",
+      "mid_frame_path": "ADV-2026-012_frames/cut05_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "ironing_board_edge_in_focus"
+        ],
+        "midground": [
+          "black_iron_tip_on_black_jacket"
+        ],
+        "background": [
+          "blue_boxer_shorts_blurred_upper_bg",
+          "warm_interior_bokeh"
+        ],
+        "lighting_env": [
+          "side_soft_studio"
+        ],
+        "atmosphere": [
+          "tension_pressing_frustration_metaphor"
+        ]
+      },
+      "texture": {
+        "primary_subject": "matte_black_iron_plastic_body_black_wool_fabric",
+        "secondary_objects": [
+          "white_ironing_board_cover_edge"
+        ],
+        "background_surface": "warm_bokeh_interior",
+        "atmospheric": [
+          "close_up_domestic_object"
+        ]
+      },
+      "lighting": {
+        "key_direction": "side_soft",
+        "key_hardness": "soft",
+        "key_color_temp": "5000K",
+        "fill_strength": "low",
+        "key_to_fill_ratio": "3:1",
+        "rim_light": "none",
+        "practical_lights": [],
+        "shadow_presence": "soft_on_fabric",
+        "overall_contrast": "medium"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#1A1A1A",
+          "#2A2A2C",
+          "#F0EEE8",
+          "#3B3B8A"
+        ],
+        "palette_role": {
+          "#1A1A1A": "iron_and_jacket",
+          "#2A2A2C": "iron_body",
+          "#F0EEE8": "ironing_board",
+          "#3B3B8A": "bokeh_bg_boxer"
+        },
+        "color_relationship": "dark_monochromatic_with_warm_neutral_ground",
+        "temperature_balance": "neutral",
+        "saturation_strategy": "monochrome_dominant",
+        "contrast_type": "tonal_dark",
+        "accent_color": "#3B3B8A",
+        "accent_ratio": "0.05"
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "An extreme close-up side-profile view of a black electric clothes iron making contact with a dark charcoal-black wool suiting fabric laid flat on a white ironing board, with no human figure visible. The iron is positioned facing left with its characteristic triangular shape in profile, the tapering soleplate pointing left and the body widening toward the right. The iron is matte black with slightly glossy accents on the control elements, a small steam valve button or dial visible on the upper left of the body, a temperature dial indicator on the top right portion, and a textured rubberized grip handle extending off the right edge of the frame. The soleplate of the iron makes contact with the fabric surface, and the fabric visible beneath and around the iron shows the characteristic fine diagonal twill weave of premium dress suiting wool or wool blend, the dark charcoal color rendering as near-black in this exposure. At the leading edge of the iron soleplate where it meets the fabric, a very fine crease line in the fabric is visible where pressure is being applied. The white ironing board cover — showing a faint grid or stripe pattern typical of commercial ironing board pads — is visible at the lower edge of the frame extending left and right. The depth of field is extremely shallow, placing the iron soleplate and immediate fabric texture in sharp focus while everything else falls into soft bokeh. In the background upper-left corner, rendered completely abstract in bokeh, the soft color impression of something blue (the man's boxer shorts) and white (his shirt) suggests the out-of-focus human figure standing behind the iron, establishing spatial context without revealing the full figure. The composition is tight and dramatic, with the iron positioned center-upper frame and the board surface diagonal providing compositional movement. The framing occupies a large portion of the 16:9 frame with the iron close and imposing. The color palette is intentionally monochromatic and somber: very dark charcoal approaching black for the iron body and the suit fabric, ivory-to-white for the ironing board cover edge, and the ghost of mid-blue in the background bokeh. There are no bright or warm colors. Lighting is from a soft side source to the right, creating subtle tonal variation on the iron's surface texture and revealing the fine weave structure of the fabric in raking light. The iron's shadow falls softly to the lower left. The atmosphere is deliberate and metaphorical — the pressing iron represents the protagonist's pressure and frustration rendered as a cinematic insert. No brand marks on the iron are legible. Macro photography aesthetic with photographic product-shot quality within a domestic lifestyle context. Korean commercial advertising visual language. The extreme closeness of the framing creates an almost claustrophobic quality that mirrors the character's mental state — there is no escape from this problem, no wide perspective that would offer relief. The steam metaphor is culturally resonant in Korean advertising contexts where domestic scenes are frequently elevated into emotional symbols. The fine details visible in the extreme close-up — the micro-texture of the iron's soleplate, the slight surface variation in the wool weave, the precise geometry of the board cover's edge — demonstrate the production's commitment to high-quality cinematography even in brief insert shots. The color temperature of the steam lit by the side source reads as a very slightly cooler temperature than the surrounding warm domestic interior, further isolating the iron moment as a metaphorical pause in the warmer narrative flow. This shot is held just long enough to register the metaphor before the rhythm accelerates back to character close-ups.",
+        "t2i_negative": "colorful background, steam shown, human face, brand logo on iron, outdoors",
+        "i2v_motion": "Iron remains very still with barely perceptible micro-vibration on the fabric; focus pulls very slightly toward the board surface; steam begins to appear at rear of iron at end of clip; cut to man reaction",
+        "i2v_params": {
+          "clip_duration_sec": 1.9,
+          "camera_move": "locked_off",
+          "subject_motion_level": "minimal",
+          "signature_effect": "extreme_shallow_dof_macro",
+          "pacing": "slow",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen copy preserved; identity/logo generic"
+      }
+    },
+    {
+      "index": 6,
+      "duration": 2.29,
+      "framing": "MS",
+      "function": "reaction_direct",
+      "subject_action": "man_staring_at_camera_holding_phone_with_exasperated_expression",
+      "layout_grid": "center_thirds",
+      "subject_position": "center",
+      "typo_motion": "none",
+      "camera_angle": "eye_level",
+      "camera_facing": "full_frontal",
+      "shot_scope": "medium",
+      "gaze": "direct_to_camera",
+      "props": [
+        "smartphone"
+      ],
+      "color_palette": [
+        "#F5F0E8",
+        "#FFFFFF",
+        "#6B8DB8",
+        "#8FBE6A"
+      ],
+      "color_intent": "bright_living_room_natural",
+      "pose_description": "standing upright, both hands holding phone in front of waist, face directly confronting camera with exasperated stare",
+      "subject_motion": "minimal_weight_shift",
+      "camera_motion": "locked_off",
+      "camera_effect_local": "natural_depth",
+      "intra_cut_rhythm": "steady",
+      "transition_in": "hard_cut",
+      "transition_out": "hard_cut",
+      "mid_frame_path": "ADV-2026-012_frames/cut06_mid.png",
+      "visible_elements": {
+        "foreground": [],
+        "midground": [
+          "man_in_shirt_tie_holding_phone"
+        ],
+        "background": [
+          "full_length_mirror",
+          "woman_at_mirror",
+          "cream_sofa",
+          "record_player_shelf",
+          "floor_lamp"
+        ],
+        "lighting_env": [
+          "window_backlight_left",
+          "soft_interior_fill"
+        ],
+        "atmosphere": [
+          "comedic_breaking_fourth_wall_look",
+          "domestic"
+        ]
+      },
+      "texture": {
+        "primary_subject": "cotton_shirt_woven_tie",
+        "secondary_objects": [
+          "black_smartphone"
+        ],
+        "background_surface": "light_oak_floor_cream_wall",
+        "atmospheric": [
+          "bright_airy_morning"
+        ]
+      },
+      "lighting": {
+        "key_direction": "left_window",
+        "key_hardness": "soft",
+        "key_color_temp": "5500K",
+        "fill_strength": "strong",
+        "key_to_fill_ratio": "1.5:1",
+        "rim_light": "subtle_from_window",
+        "practical_lights": [],
+        "shadow_presence": "minimal",
+        "overall_contrast": "low"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#F5F0E8",
+          "#FFFFFF",
+          "#6B8DB8",
+          "#8FBE6A",
+          "#1A1A1A"
+        ],
+        "palette_role": {
+          "#F5F0E8": "walls",
+          "#FFFFFF": "shirt_curtains",
+          "#6B8DB8": "tie",
+          "#8FBE6A": "cushion",
+          "#1A1A1A": "hair"
+        },
+        "color_relationship": "warm_neutral_with_complementary_accents",
+        "temperature_balance": "warm",
+        "saturation_strategy": "low_moderate",
+        "contrast_type": "tonal",
+        "accent_color": "#8FBE6A",
+        "accent_ratio": "0.05"
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A medium shot of a middle-aged Korean man with a stocky build and short black hair, dressed in a crisp white cotton dress shirt fully buttoned with a textured woven dark blue necktie, standing in the center of the composition in his bright modern Korean apartment living room. He faces the camera directly, establishing a quasi-fourth-wall-breaking moment typical of contemporary Korean advertising comedy. Both hands hold a black smartphone at waist level, loosely gripped and slightly angled toward him, but his attention is not on the phone — his eyes look directly into the camera lens with a flat, exasperated, comedic deadpan expression combining resignation, disbelief, and dark humor. The expression has the quality of a person who has given up explaining their frustration and is instead presenting it to an unseen sympathetic witness. The eyebrows are barely elevated, the mouth is a flat neutral line, the eyes carry the weight of accumulated defeat. He may be wearing his blue boxer shorts below frame given the established visual comedy of the scene, but this shot is framed tightly enough at medium shot that only the shirt and tie are clearly visible. Behind him, the living room extends in clear detail with excellent depth and naturalistic focus separation: to the frame left, the woman with auburn ponytail is visible mid-ground near the full-length mirror doing something with her clothing — creating background action that reinforces the 'everyone is busy except him' comedy tension. The full Scandinavian-minimal living room set is established clearly: cream sofa with yellow and green cushions left side, wooden floor lamp with mushroom shade, standing mirror, white media credenza with retro record player on the right, warm abstract art print on the white wall right, large window with diffused morning light providing the key illumination from the left. The floor is light oak parquet with a cream geometric rug. The composition uses a classic medium shot with the man centered in the frame, approximately waist-to-head, the apartment visible as a clean symmetrical backdrop behind him. The lens is approximately 35mm to 40mm equivalent, capturing the man and the full living room context with moderate depth rendering. The color palette is warm and airy: ivory whites, cream, sage green and mustard accent colors in the furnishings, dark blue tie, and the record player's warm wood finish as additional warm accent. Lighting is soft, even, morning quality, low-contrast, with the window providing a gentle left-side key and even fill throughout the interior. No harsh shadows. The mood is comedic deadpan, Korean commercial style, naturalistic realism. The woman visible in the background performing a continuous action creates a natural mise-en-scène principle where the background remains alive while the foreground subject establishes the comedic fourth-wall beat. The record player visible on the credenza right of the background is likely spinning, adding the implication of morning music in the household — a detail that reinforces the character of this family as design-conscious, cultured, and modern. The Matisse-style art print on the wall is a strong visual character indicator: this is a Korean professional couple with aesthetic sensibility who shop at design-conscious home furnishing retailers. The man's failure to figure out the login is therefore doubly comic — he is clearly intelligent and has good taste, but this digital friction defeats him completely. The deadpan direct camera gaze is a beloved technique in contemporary Korean advertising that creates an instant comedic complicity between subject and viewer.",
+        "t2i_negative": "dark room, outdoors, western decor, branded products, no sofa in background",
+        "i2v_motion": "Man maintains exasperated direct gaze at camera for 2 seconds; barely imperceptible mouth movement; woman in BG continues moving; slight natural breath movement; cut to ECU phone hands",
+        "i2v_params": {
+          "clip_duration_sec": 2.3,
+          "camera_move": "locked_off",
+          "subject_motion_level": "minimal",
+          "signature_effect": "direct_deadpan_camera_gaze",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen copy preserved; identity/logo generic"
+      }
+    },
+    {
+      "index": 7,
+      "duration": 1.92,
+      "framing": "ECU",
+      "function": "problem_escalation",
+      "subject_action": "hand_typing_password_into_train_app_with_qwerty_keyboard_open",
+      "layout_grid": "center_fill_diagonal",
+      "subject_position": "center",
+      "typo_motion": "none",
+      "camera_angle": "overhead_tilt",
+      "camera_facing": "top_down",
+      "shot_scope": "extreme_close",
+      "gaze": "n/a",
+      "props": [
+        "smartphone_train_app_login",
+        "qwerty_keyboard"
+      ],
+      "color_palette": [
+        "#EEEEF0",
+        "#1A3A8F",
+        "#FFFFFF",
+        "#3A3A3C"
+      ],
+      "color_intent": "functional_app_ui_frustration",
+      "pose_description": "thumb pressing qwerty keyboard to enter alphanumeric password",
+      "subject_motion": "thumb_tapping_keyboard",
+      "camera_motion": "locked_off",
+      "camera_effect_local": "extreme_shallow_dof",
+      "intra_cut_rhythm": "rapid",
+      "transition_in": "hard_cut",
+      "transition_out": "hard_cut",
+      "mid_frame_path": "ADV-2026-012_frames/cut07_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "hand_thumb_pressing_qwerty_key"
+        ],
+        "midground": [
+          "phone_screen_train_reservation_login_ui"
+        ],
+        "background": [
+          "dark_soft_bg_blurred"
+        ],
+        "lighting_env": [
+          "screen_glow",
+          "soft_overhead"
+        ],
+        "atmosphere": [
+          "password_entry_frustration",
+          "product_problem_peak"
+        ]
+      },
+      "texture": {
+        "primary_subject": "glass_phone_screen_reflecting_ui_keys",
+        "secondary_objects": [
+          "hand_skin_texture"
+        ],
+        "background_surface": "dark_bokeh",
+        "atmospheric": [
+          "screen_glow_cool"
+        ]
+      },
+      "lighting": {
+        "key_direction": "overhead",
+        "key_hardness": "soft",
+        "key_color_temp": "4500K_screen",
+        "fill_strength": "medium",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": "screen_glow",
+        "practical_lights": [],
+        "shadow_presence": "minimal",
+        "overall_contrast": "medium"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#EEEEF0",
+          "#1A3A8F",
+          "#FFFFFF",
+          "#3A3A3C",
+          "#B0B0B5"
+        ],
+        "palette_role": {
+          "#EEEEF0": "keyboard_keys",
+          "#1A3A8F": "app_header_button",
+          "#FFFFFF": "form_bg",
+          "#3A3A3C": "text",
+          "#B0B0B5": "inactive_keys"
+        },
+        "color_relationship": "cool_neutral_ui_blue_accent",
+        "temperature_balance": "cool_neutral",
+        "saturation_strategy": "minimal_ui_focused",
+        "contrast_type": "structural",
+        "accent_color": "#1A3A8F",
+        "accent_ratio": "0.20"
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "An extreme close-up overhead-tilt view looking down at a hand holding a modern smartphone displaying a Korean train reservation application with the software keyboard open, the full QWERTY layout visible on the lower half of the screen. The phone is a current rectangular edge-to-edge smartphone in a slim black case, held at approximately a 15-degree diagonal tilt in the frame. The screen displays the same Korean train booking service login screen seen earlier in the narrative, now with an alphabetic QWERTY keyboard active on the lower half. The upper portion of the screen still shows the navy blue header bar with '열차 예매' Korean text right-aligned in white and the small KTX train illustration. Below the header, the white form area shows the membership number field with numbers partially visible and the password field now showing '비밀번호' label with the number sequence '59812673' partially visible in the input, along with the partially filled password field, establishing that the man has successfully entered his membership number but is now struggling with the alphanumeric password requiring the QWERTY keyboard. The large navy login button labeled '로그인' is visible center-screen. The lower fifty percent of the screen is occupied by the expanded QWERTY keyboard layout: rows of grey rectangular rounded keys displaying the full Latin alphabet in lowercase, with number row at the top, special character keys on the sides, space bar at the bottom, and a Korean/English language toggle key visible as well as an emoji or keyboard-switch key. A thumb is visible mid-press on one of the alphabetic keys with slight motion blur indicating active typing. The right hand grips the phone while the left thumb or right thumb operates the keyboard. The surrounding context shows the wrist and lower shirt cuff of the white dress shirt. The background behind and below the phone is dark and blurred, suggesting the ironing board or dark suit jacket surface. The composition fills the frame tightly with the phone and keyboard visible in sharp detail. The lens creates a flat telephoto quality. The color palette is cool and functional: light grey and white of the keyboard keys, the navy blue UI elements above, white form fields, dark text, all against the warm contrast of the shirt fabric. The screen emits cool blue-white light. The mood is acute frustration — typing a forgotten password in an archaic login flow. No legible brand marks. Korean fintech and transport UI design language rendered photographically. The visual appearance of the QWERTY keyboard in a Korean context is itself a source of humor — the Latin alphabet keyboard being used to type what turns out to be an alphanumeric password for a Korean service, requiring the user to switch keyboard modes, adding an extra layer of complexity to an already frustrating login process. The partial visibility of the password field showing numeric characters establishes that the membership number was successfully entered but the password is the sticking point — the specific pain of password fatigue and credential recall failure is precisely targeted. The hand positioning with both palms gripping the phone frame and a thumb operating the keyboard is the universal modern smartphone usage posture, instantly recognizable across age demographics. The background darkness behind the phone creates strong visual figure-ground separation that makes the screen content the sole focus.",
+        "t2i_negative": "no iron visible and in focus, bright outdoors, Western UI, English keyboard",
+        "i2v_motion": "Thumb taps multiple keys in quick succession on QWERTY keyboard, hand shifts slightly as typing; small motion blur on moving thumb; screen UI text updates as characters entered; cut to wide living room shot",
+        "i2v_params": {
+          "clip_duration_sec": 1.9,
+          "camera_move": "locked_off",
+          "subject_motion_level": "low_fingertip",
+          "signature_effect": "screen_insert_typing",
+          "pacing": "rapid",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen copy preserved; identity/logo generic"
+      }
+    },
+    {
+      "index": 8,
+      "duration": 1.92,
+      "framing": "ECU",
+      "function": "frustration_climax_metaphor",
+      "subject_action": "iron_emitting_heavy_steam_over_suit_jacket",
+      "layout_grid": "center_horizontal",
+      "subject_position": "center",
+      "typo_motion": "none",
+      "camera_angle": "eye_level_side",
+      "camera_facing": "side",
+      "shot_scope": "extreme_close",
+      "gaze": "n/a",
+      "props": [
+        "black_iron",
+        "black_suit_jacket",
+        "steam_practical_effect"
+      ],
+      "color_palette": [
+        "#D8D8DC",
+        "#1A1A1A",
+        "#3B3B8A"
+      ],
+      "color_intent": "steam_tension_metaphor",
+      "pose_description": "n/a - object shot with steam",
+      "subject_motion": "steam_rising_from_iron",
+      "camera_motion": "locked_off",
+      "camera_effect_local": "steam_practical_atmospheric",
+      "intra_cut_rhythm": "slow",
+      "transition_in": "hard_cut",
+      "transition_out": "hard_cut",
+      "mid_frame_path": "ADV-2026-012_frames/cut08_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "rising_steam_cloud"
+        ],
+        "midground": [
+          "black_iron_mid_steam",
+          "black_jacket_surface"
+        ],
+        "background": [
+          "blue_bokeh_hint",
+          "warm_interior_bokeh"
+        ],
+        "lighting_env": [
+          "side_soft_with_steam_diffusion"
+        ],
+        "atmosphere": [
+          "peak_frustration_steam_metaphor",
+          "cinematic_object_shot"
+        ]
+      },
+      "texture": {
+        "primary_subject": "dense_white_steam_vapour",
+        "secondary_objects": [
+          "matte_black_iron_body",
+          "wool_jacket_weave"
+        ],
+        "background_surface": "warm_soft_bokeh",
+        "atmospheric": [
+          "steam_haze_filling_frame"
+        ]
+      },
+      "lighting": {
+        "key_direction": "side_soft",
+        "key_hardness": "soft_diffused_by_steam",
+        "key_color_temp": "5000K",
+        "fill_strength": "medium",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": "steam_backlit_slightly",
+        "practical_lights": [],
+        "shadow_presence": "minimal_diffused",
+        "overall_contrast": "low"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#D8D8DC",
+          "#1A1A1A",
+          "#3B3B8A",
+          "#F0EDE8"
+        ],
+        "palette_role": {
+          "#D8D8DC": "steam_cloud",
+          "#1A1A1A": "iron_jacket",
+          "#3B3B8A": "background_bokeh_blue",
+          "#F0EDE8": "ironing_board"
+        },
+        "color_relationship": "dark_warm_base_steam_highlight",
+        "temperature_balance": "neutral",
+        "saturation_strategy": "near_monochrome",
+        "contrast_type": "atmospheric",
+        "accent_color": "#3B3B8A",
+        "accent_ratio": "0.08"
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "An extreme close-up side-profile shot of a black electric steam iron positioned above a dark navy-black wool suit jacket on a white ironing board surface, from which a substantial cloud of white steam is actively erupting and rising upward into the frame. This shot contrasts with the earlier iron ECU by featuring the dramatic practical steam effect as the primary visual and emotional element. The steam emerges from the steam vents along the iron's soleplate and lower body, rising in dense white billowing clouds that fill approximately the upper half of the frame with soft, semi-transparent vapour. The steam is backlit very slightly from a side-rear source that catches the individual vapour particles and gives the cloud a luminous quality against the slightly darker background. The iron itself is positioned with its soleplate touching or hovering very close to the jacket fabric, the body of the iron in profile facing left. The dark charcoal-black wool jacket beneath shows the fine weave texture where steam has been applied, with a slightly darkened tone from the moisture. The ironing board cover white surface is visible at the lower edge. The background behind and above the iron and steam cloud is a soft warm bokeh that hints at out-of-focus blue garment fabric (the boxer shorts) and white shirt — the human figure present but entirely abstracted into background color suggestion. The depth of field is very shallow with the iron body in partial focus and the steam cloud drawing the eye upward. The steam density is sufficient to partially obscure the iron body in places, creating a dramatic atmospheric quality that visually represents overwhelming frustration — steam as metaphor for the character's internal pressure. The composition is horizontal with the iron and steam occupying center and upper frame respectively, the ironing board forming a stable horizontal base in the lower frame. The color palette is dramatically minimal: the dense white steam cloud dominates the upper frame, the matte charcoal-black iron and jacket fill the center, the pale white ironing board provides the lower base, and the soft warm-to-blue bokeh provides the background. The lighting is soft side-light with a slight back-rim on the steam to accentuate its texture. The overall atmosphere is cinematic and metaphorically dense. Korean commercial advertising, object cinematography, practical effects. The steam as a practical physical effect on set rather than a post-production addition gives this shot an authenticity that CGI steam cannot replicate — the physical particles catch the light organically, the cloud forms and dissipates with natural randomness, and the slight cooling condensation on nearby surfaces is physically real. This practical commitment to production craft is consistent with the overall naturalistic approach of the advertisement. The heavy volume of steam from a single ironing session suggests the iron has been running unattended while the man has been struggling with his phone — a detail that adds to the comedy of the man's complete distraction from his original task. The brief metaphorical insert provides rhythmic breathing room in the accelerating edit, serving as a visual pause beat before returning to character.",
+        "t2i_negative": "bright colorful background, face visible, steam very thin or absent, outdoor",
+        "i2v_motion": "Steam rises and billows continuously from iron; cloud grows and drifts upward and left; iron stays static; steam volume pulses; background out-of-focus blue shorts shift slightly; cut to woman reaction shot",
+        "i2v_params": {
+          "clip_duration_sec": 1.9,
+          "camera_move": "locked_off",
+          "subject_motion_level": "steam_only",
+          "signature_effect": "practical_steam_metaphor",
+          "pacing": "slow",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen copy preserved; identity/logo generic"
+      }
+    },
+    {
+      "index": 9,
+      "duration": 1.63,
+      "framing": "MCU",
+      "function": "reaction_family",
+      "subject_action": "young_woman_buttoning_jacket_cuff_looking_toward_man",
+      "layout_grid": "center_thirds",
+      "subject_position": "center",
+      "typo_motion": "none",
+      "camera_angle": "eye_level_slight_low",
+      "camera_facing": "frontal",
+      "shot_scope": "medium_close",
+      "gaze": "off_camera_right_toward_man",
+      "props": [
+        "light_grey_linen_blazer",
+        "ironing_board_blurred_fg"
+      ],
+      "color_palette": [
+        "#E8EAE8",
+        "#F0EDE6",
+        "#A8C4B0"
+      ],
+      "color_intent": "cool_neutral_calm_contrast_to_blue",
+      "pose_description": "standing, hands at left wrist buttoning cuff, slight head tilt to side looking off-camera with mild concern",
+      "subject_motion": "arm_gesture_buttoning",
+      "camera_motion": "locked_off",
+      "camera_effect_local": "shallow_dof_fg_blur",
+      "intra_cut_rhythm": "steady",
+      "transition_in": "hard_cut",
+      "transition_out": "hard_cut",
+      "mid_frame_path": "ADV-2026-012_frames/cut09_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "ironing_board_edge_extreme_blur"
+        ],
+        "midground": [
+          "young_woman_in_light_grey_blazer"
+        ],
+        "background": [
+          "sheer_curtains_window_light",
+          "woman_at_mirror_reflected"
+        ],
+        "lighting_env": [
+          "strong_window_backlight_left",
+          "soft_interior_fill"
+        ],
+        "atmosphere": [
+          "calm_mild_concern",
+          "family_morning_context"
+        ]
+      },
+      "texture": {
+        "primary_subject": "textured_linen_grey_blazer_button_detail",
+        "secondary_objects": [
+          "white_or_cream_blouse_under_blazer"
+        ],
+        "background_surface": "sheer_white_curtain_bokeh",
+        "atmospheric": [
+          "strong_morning_backlight"
+        ]
+      },
+      "lighting": {
+        "key_direction": "left_window_backlight",
+        "key_hardness": "soft",
+        "key_color_temp": "5500K",
+        "fill_strength": "medium",
+        "key_to_fill_ratio": "2.5:1",
+        "rim_light": "strong_from_window_on_hair",
+        "practical_lights": [],
+        "shadow_presence": "moderate_on_face_side",
+        "overall_contrast": "medium_low"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#E8EAE8",
+          "#F0EDE6",
+          "#A8C4B0",
+          "#C4B8A4"
+        ],
+        "palette_role": {
+          "#E8EAE8": "blazer",
+          "#F0EDE6": "curtain_bg",
+          "#A8C4B0": "blouse_hint",
+          "#C4B8A4": "skin"
+        },
+        "color_relationship": "cool_grey_neutral_all_harmony",
+        "temperature_balance": "neutral_to_cool",
+        "saturation_strategy": "very_low",
+        "contrast_type": "tonal",
+        "accent_color": "#A8C4B0",
+        "accent_ratio": "0.08"
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A medium close-up shot of a young Korean woman in her mid-to-late twenties, standing in the Korean apartment living room near the large window. She is dressed in a loosely structured, slightly oversized light grey linen blazer-cardigan with small button detailing down the front, layered over a simple cream or white blouse beneath. Her dark auburn or reddish-brown hair is medium length, styled loosely with a slight natural wave, partially framing her round, expressive face. At this moment, she is delicately buttoning or adjusting the cuff button on her left wrist, both hands meeting near the wrist in the characteristic preparation gesture. Her head is turned slightly to the right and slightly downward, her gaze directed off-camera toward the right side of the frame — toward where the man and his ironing board would be — with an expression of quiet mild concern or bemused awareness, perhaps a mix of 'I see what you're struggling with' and 'we need to leave soon'. Her expression is composed and gentle rather than distressed. The camera is positioned at approximately eye level or very slightly below, shooting from a distance equivalent to 85mm focal length, which renders the background in soft smooth bokeh. In the foreground extreme near-camera, the completely out-of-focus edge and surface of the ironing board creates a blurred foreground plane that establishes depth and the spatial relationship between the two characters. The background consists of the full-height sheer white curtains of the large window, through which bright diffused morning sunlight creates a luminous backlit quality that rims the woman's hair and shoulder with a gentle warm highlight, creating an almost glowing halo effect on her hair in the backlight. Further in the background, very softly out of focus, the suggestion of a second person at a mirror and apartment interior furnishings creates contextual depth. The color palette for this shot is notably cooler and more muted than the previous shots: soft grey blazer, cream blouse, the woman's warm-neutral skin tone, all set against the bright diffused white-to-warm-cream of the backlit curtains. There are no saturated color accents in this frame — everything is harmoniously low-saturation in a quiet morning palette. The lighting is high-key with the window backlight as the dominant source and soft fill from interior light, creating a 2.5:1 key-to-fill ratio with a prominent rim light. The mood is warmth and gentle family comedy. Korean domestic morning context, naturalistic commercial cinematography. The linen blazer-cardigan the young woman wears is a specific Korean contemporary fashion choice that signals her generation and aesthetic sensibility — the slightly oversized relaxed fit, textured natural fabric, and muted grey color are characteristic of Korean women's morning casual-to-smart dressing codes of the 2020s. Her hairstyle — dark auburn dyed hair in a natural loose style — reinforces her character as a modern Korean woman with a degree of individual style expression. The buttoning of the cuff is a precise, delicate gesture that contrasts beautifully with the man's larger, more clumsy domestic struggles — her composure against his chaos is the core comedic dynamic of the narrative. The ironing board edge in the extreme foreground functions as a prop that visually connects her shot to the man's space, maintaining the spatial grammar of the scene even in this cutaway reaction shot.",
+        "t2i_negative": "outdoor, dramatic lighting, man in frame, busy background, colored wall",
+        "i2v_motion": "Woman finishes buttoning cuff and turns her gaze slightly more toward camera; small head movement; hair catches window light; ironing board FG stays blurred static; cut to man looking down",
+        "i2v_params": {
+          "clip_duration_sec": 1.6,
+          "camera_move": "locked_off",
+          "subject_motion_level": "minimal",
+          "signature_effect": "window_backlit_hair_rim",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen copy preserved; identity/logo generic"
+      }
+    },
+    {
+      "index": 10,
+      "duration": 1.87,
+      "framing": "CU",
+      "function": "frustration_continuation",
+      "subject_action": "man_bowed_head_hand_at_ear_muttering",
+      "layout_grid": "center_slight_left",
+      "subject_position": "center_left",
+      "typo_motion": "none",
+      "camera_angle": "slight_high",
+      "camera_facing": "three_quarter",
+      "shot_scope": "close",
+      "gaze": "downward",
+      "props": [],
+      "color_palette": [
+        "#F2EDE8",
+        "#FFFFFF",
+        "#2C2C2C",
+        "#6B8DB8"
+      ],
+      "color_intent": "warm_reaction_intimate",
+      "pose_description": "head bowed, one hand raised to ear/side of head, mouth moving as if muttering to himself",
+      "subject_motion": "head_slight_movement_muttering",
+      "camera_motion": "locked_off",
+      "camera_effect_local": "shallow_dof",
+      "intra_cut_rhythm": "steady",
+      "transition_in": "hard_cut",
+      "transition_out": "hard_cut",
+      "mid_frame_path": "ADV-2026-012_frames/cut10_mid.png",
+      "visible_elements": {
+        "foreground": [],
+        "midground": [
+          "man_head_shoulder_in_shirt_tie"
+        ],
+        "background": [
+          "vertical_blinds",
+          "sofa_blurred",
+          "credenza_blurred"
+        ],
+        "lighting_env": [
+          "window_backlight",
+          "soft_fill"
+        ],
+        "atmosphere": [
+          "peak_frustration_mumbling"
+        ]
+      },
+      "texture": {
+        "primary_subject": "hair_texture_skin_pores",
+        "secondary_objects": [
+          "white_shirt_collar"
+        ],
+        "background_surface": "cream_interior_bokeh",
+        "atmospheric": [
+          "warm_interior"
+        ]
+      },
+      "lighting": {
+        "key_direction": "left_window",
+        "key_hardness": "soft",
+        "key_color_temp": "5500K",
+        "fill_strength": "strong",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": "window_on_hair_top",
+        "practical_lights": [],
+        "shadow_presence": "minimal",
+        "overall_contrast": "low"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#F2EDE8",
+          "#FFFFFF",
+          "#2C2C2C",
+          "#6B8DB8",
+          "#C8AA8A"
+        ],
+        "palette_role": {
+          "#F2EDE8": "background_cream",
+          "#FFFFFF": "shirt",
+          "#2C2C2C": "hair",
+          "#6B8DB8": "tie",
+          "#C8AA8A": "skin"
+        },
+        "color_relationship": "warm_neutral_monochromatic",
+        "temperature_balance": "warm",
+        "saturation_strategy": "very_low",
+        "contrast_type": "tonal",
+        "accent_color": "#6B8DB8",
+        "accent_ratio": "0.05"
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A close-up shot of a middle-aged Korean man's head, neck, and upper shoulders from approximately a three-quarter frontal angle and slightly elevated position, capturing his facial expression at a moment of peak exasperated self-defeat. His head is bowed downward so that his chin is near his chest, the top of his head visible and slightly turned toward the camera. His right hand is raised to the right side of his head, with the palm pressed against his temple or the fingers lightly touching the side of his skull near the ear — a classic gesture communicating internal conflict, overwhelm, or self-recrimination. His mouth is slightly open, the lips forming words or a quiet mutter — he appears to be talking to himself or quietly swearing at the situation. His facial expression combines multiple simultaneously readable emotions: fatigue, mild self-directed anger, comedic disbelief, and the particular resignation of someone who has been defeated by a digital interface. The fine skin texture of his face is visible in the close-up rendering — slight pores, natural aging lines, the real skin quality of an adult Korean male in his late forties. He wears the now-familiar white dress shirt collar, the top button showing, with the blue woven necktie partly visible below the chin. The background behind him is a soft warm cream-toned bokeh created by the living room interior — vertical window blinds visible as soft vertical rhythm, the sofa and low furniture as warm tonal shapes, all completely out of focus. A gentle window backlight from the left side of the frame creates a subtle rim light on the top and left side of his hair, keeping him separated from the warm background. The depth of field is very shallow at this close range with an 85mm equivalent lens, keeping the man's face and hand in sharp focus while the background dissolves completely. The color palette is intimate and warm: dark brown-black hair, warm beige skin tone, ivory white shirt collar, cornflower blue tie partially visible, all against a cream-warm background. Lighting is soft, low-contrast, warm, with a subtle window rim. The mood is intimately comedic — the character fully in the grip of domestic frustration. No props in focus. Korean adult male, close-up portrait aesthetics in commercial advertising style. The particular intimacy of this close-up framing — tighter than the previous medium close-ups — signals that the emotional climax of the problem phase has been reached. The camera's proximity to the subject creates a psychological intimacy that makes the viewer feel they are witnessing a genuinely private moment of personal frustration, despite the clearly staged and lit quality of the production. The subtle lip movement — the mouth forming words of self-talk or quiet complaint — adds an additional layer of interiority that makes the character feel psychologically inhabited rather than merely performed. The background, though completely out of focus, maintains its warm cream quality from the window light that has been the consistent visual signature throughout the domestic interior scenes. This shot is the last character close-up before the solution pivot, making it the emotional low point before the product rescue.",
+        "t2i_negative": "outdoor, dramatic, woman in frame, looking up, smiling",
+        "i2v_motion": "Man's head sways very slightly as mouth moves muttering; hand at ear taps or squeezes the side of his head; slight tension in shoulders; camera remains locked; cut to ECU of Toss app icon being tapped",
+        "i2v_params": {
+          "clip_duration_sec": 1.9,
+          "camera_move": "locked_off",
+          "subject_motion_level": "minimal",
+          "signature_effect": "intimate_close_up_reaction",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen copy preserved; identity/logo generic"
+      }
+    },
+    {
+      "index": 11,
+      "duration": 0.38,
+      "framing": "ECU",
+      "function": "product_reveal",
+      "subject_action": "finger_tapping_fintech_app_icon_on_phone_home_screen",
+      "layout_grid": "center_diagonal",
+      "subject_position": "center",
+      "typo_motion": "none",
+      "camera_angle": "overhead",
+      "camera_facing": "top_down",
+      "shot_scope": "extreme_close",
+      "gaze": "n/a",
+      "props": [
+        "smartphone_home_screen",
+        "fintech_app_icon"
+      ],
+      "color_palette": [
+        "#D4A89A",
+        "#1A5FD8",
+        "#FFFFFF"
+      ],
+      "color_intent": "product_icon_reveal",
+      "pose_description": "finger mid-tap on app icon, motion blur on approaching finger",
+      "subject_motion": "finger_tap_motion_blur",
+      "camera_motion": "locked_off",
+      "camera_effect_local": "extreme_shallow_dof",
+      "intra_cut_rhythm": "rapid",
+      "transition_in": "hard_cut",
+      "transition_out": "hard_cut",
+      "mid_frame_path": "ADV-2026-012_frames/cut11_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "approaching_finger_motion_blur"
+        ],
+        "midground": [
+          "app_icon_blue_geometric_on_white_rounded_square"
+        ],
+        "background": [
+          "phone_home_screen_warm_gradient",
+          "partial_app_label_text"
+        ],
+        "lighting_env": [
+          "screen_ambient_backlit"
+        ],
+        "atmosphere": [
+          "pivotal_product_reveal_moment"
+        ]
+      },
+      "texture": {
+        "primary_subject": "glass_phone_screen_icon_array",
+        "secondary_objects": [
+          "finger_skin"
+        ],
+        "background_surface": "warm_phone_wallpaper_gradient",
+        "atmospheric": [
+          "screen_glow"
+        ]
+      },
+      "lighting": {
+        "key_direction": "screen_self_lit",
+        "key_hardness": "soft",
+        "key_color_temp": "5000K_screen",
+        "fill_strength": "ambient",
+        "key_to_fill_ratio": "1:1",
+        "rim_light": "none",
+        "practical_lights": [],
+        "shadow_presence": "minimal",
+        "overall_contrast": "low"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#D4A89A",
+          "#1A5FD8",
+          "#FFFFFF",
+          "#F0DDD8"
+        ],
+        "palette_role": {
+          "#D4A89A": "phone_wallpaper_warm_gradient",
+          "#1A5FD8": "app_icon_gradient_blue",
+          "#FFFFFF": "icon_background_rounded_square",
+          "#F0DDD8": "surrounding_wallpaper"
+        },
+        "color_relationship": "warm_warm_with_cool_blue_focal_product",
+        "temperature_balance": "warm_dominant_with_blue_accent",
+        "saturation_strategy": "saturated_product_icon_on_muted_ground",
+        "contrast_type": "warm_cool_focal",
+        "accent_color": "#1A5FD8",
+        "accent_ratio": "0.30"
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "An extreme close-up overhead shot tightly framing just the upper right corner of a modern smartphone home screen, with a single application icon positioned as the clear visual focal point of the composition. The phone screen glows with a warm-toned wallpaper — a gentle gradient from peach or salmon at the edges to a slightly lighter warm tone at the center, suggesting a custom home screen aesthetic. In the center-left area of this visible screen section, in sharp focus, sits a single application icon: a rounded-corner white square icon background containing a vivid blue geometric symbol. The symbol is composed of two overlapping organic shapes or stylized abstract forms in a gradient of deep cobalt blue to lighter sky blue, together creating a pinwheel or overlapping-leaf configuration that suggests motion or integration — a clean, modern fintech application icon with a bold and immediately recognizable visual identity. This is the pivotal product reveal moment in the advertisement. Directly above the icon, entering the frame from the top, is a human finger — a man's index finger with natural skin texture — approaching the icon with clear downward momentum, the tip slightly motion-blurred from movement speed, about to make contact with the glass screen surface in a tap gesture. The finger's arrival from above creates a strong diagonal compositional line driving the viewer's eye down to the app icon. The phone has a thin black bezel at the extreme top edge of the frame and the small pill-shaped front camera cutout is barely visible at the top. The camera angle is directly overhead looking straight down at the screen, or very nearly so, creating a flat graphic composition. The depth of field is shallow, keeping the icon and immediate screen area in sharp focus while the background behind and around the phone melts into soft dark bokeh suggesting the domestic living room context from which this extreme close-up emerges. There are no other elements competing for attention in this tight crop. The color palette is deliberately focused: warm peach-salmon wallpaper background, the vivid cobalt-to-sky-blue gradient of the icon symbol, the clean white icon container, and the natural skin tone of the approaching finger. The contrast between the warm wallpaper background and the cool blue icon creates a warm-cool complementary focal point. Lighting is entirely from the screen's own luminosity plus soft ambient light. The mood is the pivotal reveal — the moment the solution enters the frame. No brand name text legible. Pure visual language of a recognized app icon as story beat. The exact warm-to-peach wallpaper gradient visible on the home screen provides a subtle visual warmth contrast to the cool cobalt blue of the app icon, creating a natural attention-directing warm-cool complementary color dynamic that makes the icon stand out as a jewel. The phone model evident from the edge profile and camera cutout design represents a current-generation premium smartphone, establishing that the character is using a modern device — the friction he experienced was not due to an outdated phone but due to the complexity of the separate app's login requirements. The finger entering from the top edge with motion blur conveys decisiveness and agency — after the frustration of the login-dependent app, this tap is confident and purposeful. The extreme crop to just the corner of the phone creates a graphic abstract quality while maintaining photographic realism, a balance typical of high-quality Korean fintech advertising production.",
+        "t2i_negative": "full phone visible, text readable, outdoor, dark background, multiple app icons sharp",
+        "i2v_motion": "Finger taps icon; brief haptic visual pulsation on the icon as it registers the tap; screen begins to transition/open the app; quick cut to app listing screen; 0.4 seconds total",
+        "i2v_params": {
+          "clip_duration_sec": 0.4,
+          "camera_move": "locked_off",
+          "subject_motion_level": "micro_tap",
+          "signature_effect": "product_reveal_tap",
+          "pacing": "staccato",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen copy preserved; identity/logo generic"
+      }
+    },
+    {
+      "index": 12,
+      "duration": 1.0,
+      "framing": "ECU",
+      "function": "product_feature_demo",
+      "subject_action": "scrolling_mini_app_list_showing_train_booking_highlighted",
+      "layout_grid": "center_fill_vertical",
+      "subject_position": "center",
+      "typo_motion": "list_scroll_reveal",
+      "camera_angle": "slight_tilt",
+      "camera_facing": "frontal",
+      "shot_scope": "extreme_close",
+      "gaze": "n/a",
+      "props": [
+        "smartphone_mini_app_directory",
+        "ktx_mini_app_entry"
+      ],
+      "color_palette": [
+        "#F8F8F8",
+        "#1A5FD8",
+        "#1A1A1A"
+      ],
+      "color_intent": "clean_ui_feature_demo",
+      "pose_description": "hand holds phone, thumb hovers near screen showing mini-app list",
+      "subject_motion": "static_hold",
+      "camera_motion": "locked_off",
+      "camera_effect_local": "shallow_dof",
+      "intra_cut_rhythm": "steady",
+      "transition_in": "hard_cut",
+      "transition_out": "hard_cut",
+      "mid_frame_path": "ADV-2026-012_frames/cut12_mid.png",
+      "visible_elements": {
+        "foreground": [],
+        "midground": [
+          "phone_screen_mini_app_list"
+        ],
+        "background": [
+          "hand_holding_phone",
+          "soft_interior_bokeh"
+        ],
+        "lighting_env": [
+          "screen_ambient"
+        ],
+        "atmosphere": [
+          "product_feature_reveal_mini_app_list"
+        ]
+      },
+      "texture": {
+        "primary_subject": "clean_white_ui_list_screen",
+        "secondary_objects": [
+          "hand_skin_phone_edge"
+        ],
+        "background_surface": "warm_interior_bokeh",
+        "atmospheric": [
+          "screen_glow_cool"
+        ]
+      },
+      "lighting": {
+        "key_direction": "screen_self_lit",
+        "key_hardness": "soft",
+        "key_color_temp": "5000K",
+        "fill_strength": "ambient",
+        "key_to_fill_ratio": "1:1",
+        "rim_light": "none",
+        "practical_lights": [],
+        "shadow_presence": "minimal",
+        "overall_contrast": "low"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#F8F8F8",
+          "#1A5FD8",
+          "#1A1A1A",
+          "#E8F0FE"
+        ],
+        "palette_role": {
+          "#F8F8F8": "list_background",
+          "#1A5FD8": "app_icons_and_highlight",
+          "#1A1A1A": "text",
+          "#E8F0FE": "selected_row_tint"
+        },
+        "color_relationship": "minimal_white_ui_blue_accent",
+        "temperature_balance": "neutral_cool",
+        "saturation_strategy": "minimal",
+        "contrast_type": "structural",
+        "accent_color": "#1A5FD8",
+        "accent_ratio": "0.15"
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "An extreme close-up shot of a modern smartphone screen held in portrait orientation by a hand gripping the lower edges, the screen displaying a clean scrollable list interface from a Korean financial super-application's integrated mini-app directory. The screen fills most of the frame with a white background list UI, crisp and clear in sharp focus. The list shows approximately six mini-app items arranged as rows, each with a small circular icon on the left, a Korean app name in bold dark type as the primary text, and a lighter grey subtitle line beneath. The visible items from top to bottom in sequence are: a warm amber-toned fortune-telling icon with '관상으로 보는 커플 궁합' (couple compatibility fortune reading) and subtitle '관상가 양반'; a cyan circular icon with '구장예약하기' (reserve a sports facility) and subtitle '키타임'; a pink rounded icon with '지금 단기 알바 구하기' (find a short-term part-time job now) and subtitle '알바몬'; then prominently in fourth position — visually emphasized by slightly heavier typography and a subtle highlight treatment — the KTX train reservation entry featuring the iconic KTX logo badge in blue and yellow with a small train illustration as its icon, with the Korean text '기차 예약' in noticeably bolder black Korean type as the app name and 'KTX·SRT' as the subtitle. This fourth entry is clearly the one the user is seeking and would select. Below this, a purple cloud-bubble icon for '재미있는 심리테스트' (fun psychology test) and a yellow security shield icon for '내 정보 유출되면 알림 받기' (alert me if my data leaks). The rows are separated by very thin light grey dividers. The screen is clean white with minimal UI ornamentation, representing the clean design language of the Korean fintech application. The hand holding the phone is male, with the thumb visible at the lower right edge about to interact, and a dark phone case edge visible at the lower portion. The background behind the phone is completely out of focus, a warm domestic interior bokeh at low luminance. The lens is approximately 50mm to 85mm equivalent. The color palette is clean white-dominated UI with small blocks of icon color providing visual interest, the KTX blue and yellow standing out in the list context. The mood is product demonstration clarity — here is the feature, here is the exact item being sought. Korean app UI design aesthetic, fintech digital product photography. The bold emphasis on '기차 예약' compared to the other list items is a UI design choice that communicates hierarchy and discoverability — the mini-app platform has surfaced this as a recommended or featured item based on context or usage patterns. The diversity of the other mini-app items visible in the list — fortune-telling, sports court booking, part-time job search, psychology tests, data leak alerts — demonstrates the breadth of the mini-app platform and its aspiration to be a universal utility layer within the financial super-app. This breadth is itself a product argument: if this one app can do all of these things, the user has a reason to stay in the ecosystem rather than maintaining dozens of separate specialist apps. The hand holding the phone from below shows engagement and ownership — the character has found what he was looking for and is about to act.",
+        "t2i_negative": "English text, dark mode UI, multiple apps in grid, outdoor, wrong list order",
+        "i2v_motion": "Screen slightly scrolls to center on the train booking item; the highlighted row subtly pulses or brightens to draw attention; thumb moves near the list; cut to ticket selection screen",
+        "i2v_params": {
+          "clip_duration_sec": 1.0,
+          "camera_move": "locked_off",
+          "subject_motion_level": "micro_scroll",
+          "signature_effect": "ui_feature_demo",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen copy preserved; identity/logo generic"
+      }
+    },
+    {
+      "index": 13,
+      "duration": 0.38,
+      "framing": "ECU",
+      "function": "product_action",
+      "subject_action": "selecting_train_departure_time_in_mini_app",
+      "layout_grid": "center_slight_left",
+      "subject_position": "center",
+      "typo_motion": "selection_feedback",
+      "camera_angle": "slight_tilt",
+      "camera_facing": "frontal",
+      "shot_scope": "extreme_close",
+      "gaze": "n/a",
+      "props": [
+        "smartphone_ktx_booking_screen",
+        "select_button"
+      ],
+      "color_palette": [
+        "#F0F2F5",
+        "#1A5FD8",
+        "#1A1A1A"
+      ],
+      "color_intent": "functional_ui_action",
+      "pose_description": "finger approaching select button on train time selection screen",
+      "subject_motion": "finger_tap",
+      "camera_motion": "locked_off",
+      "camera_effect_local": "motion_blur_finger",
+      "intra_cut_rhythm": "rapid",
+      "transition_in": "hard_cut",
+      "transition_out": "hard_cut",
+      "mid_frame_path": "ADV-2026-012_frames/cut13_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "finger_motion_blur"
+        ],
+        "midground": [
+          "train_schedule_ui_row",
+          "departure_time_10:03",
+          "select_button"
+        ],
+        "background": [
+          "ktx_train_listing_partial"
+        ],
+        "lighting_env": [
+          "screen_ambient"
+        ],
+        "atmosphere": [
+          "quick_effortless_booking_action"
+        ]
+      },
+      "texture": {
+        "primary_subject": "clean_white_card_ui",
+        "secondary_objects": [
+          "finger_skin"
+        ],
+        "background_surface": "light_grey_app_bg",
+        "atmospheric": [
+          "cool_screen_glow"
+        ]
+      },
+      "lighting": {
+        "key_direction": "screen_self_lit",
+        "key_hardness": "soft",
+        "key_color_temp": "5000K",
+        "fill_strength": "ambient",
+        "key_to_fill_ratio": "1:1",
+        "rim_light": "none",
+        "practical_lights": [],
+        "shadow_presence": "none",
+        "overall_contrast": "low"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#F0F2F5",
+          "#1A5FD8",
+          "#1A1A1A",
+          "#FFFFFF"
+        ],
+        "palette_role": {
+          "#F0F2F5": "app_bg",
+          "#1A5FD8": "select_button_text",
+          "#1A1A1A": "time_text",
+          "#FFFFFF": "card_bg"
+        },
+        "color_relationship": "minimal_clean_ui_blue",
+        "temperature_balance": "neutral",
+        "saturation_strategy": "minimal",
+        "contrast_type": "structural",
+        "accent_color": "#1A5FD8",
+        "accent_ratio": "0.10"
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "An extreme close-up shot of a smartphone screen held with one hand, displaying a specific ticket selection row from a Korean KTX train booking interface embedded within a financial super-application's mini-app environment. The screen shows a white background app interface with a light grey page background. A prominent white card-style list item for a specific train departure dominates the center of the frame. The card contains: at the top in very small grey text, the date and route information partially legible showing a train number and station information with an arrow. Below this header information in the card, the primary content is the large bold departure time '오전 10:03' (AM 10:03) rendered in very large dark near-black Korean and numeric typography that occupies the majority of the card's vertical space. To the left side of the card, the small KTX logo badge in blue and yellow confirms the train operator. To the right side of the same card row, a blue text button labeled '선택' (select/choose) in medium Korean typography sits in its active or hover state, slightly highlighted, suggesting it is about to be or is in the process of being tapped. From the left side of the frame, the edge of a human thumb or finger enters with motion blur, moving toward the select button to tap it. The finger has natural skin texture and is blurred suggesting rapid decisive movement. The rest of the app screen above and below this card is visible in partial out-of-focus soft quality, showing additional similar cards for other departure times in a list format, creating the train schedule browsing context. The hand holding the phone is partially visible at the lower and right edges. The background behind the phone is warm soft bokeh of the domestic living room. The color palette is clean and minimal: white card background, very large dark time text as the dominant visual element, KTX corporate blue accent, the '선택' button in bright cobalt blue, light grey page background. The composition is very tight, cropping to just the relevant interaction area. The mood is the decisive action moment — selecting the train. No other brand marks. Korean rail transportation and fintech UI design aesthetic rendered in photographic ECU. The departure time '오전 10:03' is specific and human-scale — not a round number like 10:00, but a real Korean train schedule time, adding authenticity to the product demonstration. The '선택' (select) button in Korean blue being tapped is the specific action that differentiates this flow from the previous separate-app experience: in the old app, the user was stuck at the login screen and never reached the train selection step at all. In the Toss mini-app, the user arrives directly at the train selection stage because no login is required — the mini-app leverages the existing Toss account authentication seamlessly. This is the implicit product argument made visual without any explanatory narration. The tight crop focuses only on the moment of selection, eliminating all non-essential visual context to maximize clarity.",
+        "t2i_negative": "wrong language, dark mode, multiple rows sharp, outdoor, face visible",
+        "i2v_motion": "Finger taps the select button; button briefly depresses with haptic visual feedback; screen transitions; cut to confirmation screen; 0.4 seconds total",
+        "i2v_params": {
+          "clip_duration_sec": 0.4,
+          "camera_move": "locked_off",
+          "subject_motion_level": "micro_tap",
+          "signature_effect": "ui_tap_feedback",
+          "pacing": "rapid",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen copy preserved; identity/logo generic"
+      }
+    },
+    {
+      "index": 14,
+      "duration": 1.29,
+      "framing": "ECU",
+      "function": "product_action_confirm",
+      "subject_action": "tapping_select_button_on_train_booking_screen",
+      "layout_grid": "center_left",
+      "subject_position": "center_left",
+      "typo_motion": "none",
+      "camera_angle": "overhead_tilt",
+      "camera_facing": "top_down_slight",
+      "shot_scope": "extreme_close",
+      "gaze": "n/a",
+      "props": [
+        "smartphone_ktx_booking_ui",
+        "select_button",
+        "ktx_logo_visible"
+      ],
+      "color_palette": [
+        "#F0F2F5",
+        "#1A5FD8",
+        "#1A1A1A"
+      ],
+      "color_intent": "ui_confirmation_action",
+      "pose_description": "two-handed phone grip, thumb pressing select button",
+      "subject_motion": "thumb_tap",
+      "camera_motion": "locked_off",
+      "camera_effect_local": "shallow_dof",
+      "intra_cut_rhythm": "rapid",
+      "transition_in": "hard_cut",
+      "transition_out": "hard_cut",
+      "mid_frame_path": "ADV-2026-012_frames/cut14_mid.png",
+      "visible_elements": {
+        "foreground": [],
+        "midground": [
+          "phone_screen_train_selection",
+          "thumbs_holding_phone"
+        ],
+        "background": [
+          "warm_interior_bokeh"
+        ],
+        "lighting_env": [
+          "screen_ambient"
+        ],
+        "atmosphere": [
+          "booking_confirmation_action"
+        ]
+      },
+      "texture": {
+        "primary_subject": "phone_screen_ui",
+        "secondary_objects": [
+          "hands_skin"
+        ],
+        "background_surface": "warm_bokeh",
+        "atmospheric": [
+          "screen_glow"
+        ]
+      },
+      "lighting": {
+        "key_direction": "screen_self_lit",
+        "key_hardness": "soft",
+        "key_color_temp": "5000K",
+        "fill_strength": "ambient",
+        "key_to_fill_ratio": "1:1",
+        "rim_light": "none",
+        "practical_lights": [],
+        "shadow_presence": "minimal",
+        "overall_contrast": "low"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#F0F2F5",
+          "#1A5FD8",
+          "#1A1A1A",
+          "#FFFFFF"
+        ],
+        "palette_role": {
+          "#F0F2F5": "app_bg",
+          "#1A5FD8": "select_button_ktx_blue",
+          "#1A1A1A": "text",
+          "#FFFFFF": "card"
+        },
+        "color_relationship": "minimal_blue_ui",
+        "temperature_balance": "neutral",
+        "saturation_strategy": "minimal",
+        "contrast_type": "structural",
+        "accent_color": "#1A5FD8",
+        "accent_ratio": "0.12"
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "An extreme close-up overhead-tilt angle view of a man's two hands gripping a modern smartphone displaying a Korean KTX train ticket booking selection interface, the same screen context as the previous shot but from a slightly different angle showing both hands in the two-handed phone grip. The phone is a current rectangular edge-to-edge smartphone in a slim black protective case, held at a slight 15-20 degree diagonal tilt in the frame, filling most of the visible area with the screen surface and hand edges. The screen shows the white-background train schedule list interface: the dominant card displays '오전 10:03' in large bold dark typography as the featured departure time, with the KTX logo badge visible to the left and the blue '선택' (select) button to the right. The right thumb is actively pressing or has just pressed the '선택' button, the thumb tip making contact with the screen glass surface. The two-handed grip shows the phone held securely with both palms cupping the lower sides and thumbs operating the screen — a natural two-handed portrait smartphone usage posture. The shirt cuffs of a white dress shirt are visible at the wrist edges of both hands entering the frame from below, establishing the character context. The background visible around and behind the phone is warm bokeh of the domestic Korean apartment interior — suggesting the living room context through ambient warm tones. The depth of field is shallow enough to keep the phone screen and hands in crisp focus while softening the background. The lens is approximately 50mm equivalent, creating a slight overhead perspective. The color palette is the clean digital white of the app UI: very white card background, large dark departure time text, small KTX blue branding, the active blue select button as the primary saturated element, surrounded by the warm skin tone of the hands and the warm interior bokeh background. The lighting is soft overhead ambient plus screen glow. The composition emphasizes the phone and action over the character identity. The mood is the confirmation click — the final booking action before the success state. Korean fintech mini-app UX demonstration photography. No brand logos beyond the generic train booking UI elements. The two-handed phone grip observed in this shot versus the one-handed grip of the previous shot suggests the character has shifted from browsing mode to active confirmation mode — holding the phone more firmly to make a decisive action. This micro-physical detail communicates agency and confidence, contrasting with the tentative frustrated single-handed phone holding seen during the login struggle earlier. The KTX logo badge visible in the UI row confirms the seamless integration of the train booking third-party service within the mini-app platform — the user is booking a real KTX ticket through the Toss interface without ever leaving the single application or creating a separate account. This seamlessness is the core product benefit shown rather than told. The warm bokeh background maintains the domestic context, reminding the viewer that this is happening in the same morning preparation scenario.",
+        "t2i_negative": "wrong app design, full room visible, face visible, outdoor, English text",
+        "i2v_motion": "Thumb taps select button; UI transitions to loading dots; then cut to success screen; 1.3 seconds",
+        "i2v_params": {
+          "clip_duration_sec": 1.3,
+          "camera_move": "locked_off",
+          "subject_motion_level": "micro_tap",
+          "signature_effect": "ui_booking_confirm",
+          "pacing": "rapid",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen copy preserved; identity/logo generic"
+      }
+    },
+    {
+      "index": 15,
+      "duration": 1.12,
+      "framing": "ECU",
+      "function": "product_success",
+      "subject_action": "showing_reservation_success_screen_with_train_emoji_and_confirmation_text",
+      "layout_grid": "center_fill",
+      "subject_position": "center",
+      "typo_motion": "center_reveal",
+      "camera_angle": "slight_tilt",
+      "camera_facing": "frontal",
+      "shot_scope": "extreme_close",
+      "gaze": "n/a",
+      "props": [
+        "smartphone_success_screen"
+      ],
+      "color_palette": [
+        "#F0F2F5",
+        "#1A1A1A",
+        "#4AABF0"
+      ],
+      "color_intent": "success_state_clean",
+      "pose_description": "both hands holding phone displaying success screen",
+      "subject_motion": "static",
+      "camera_motion": "locked_off",
+      "camera_effect_local": "none",
+      "intra_cut_rhythm": "slow",
+      "transition_in": "hard_cut",
+      "transition_out": "hard_cut",
+      "mid_frame_path": "ADV-2026-012_frames/cut15_mid.png",
+      "visible_elements": {
+        "foreground": [],
+        "midground": [
+          "phone_screen_success_ui"
+        ],
+        "background": [
+          "hand_edges",
+          "warm_bokeh"
+        ],
+        "lighting_env": [
+          "screen_ambient"
+        ],
+        "atmosphere": [
+          "resolution_success_moment"
+        ]
+      },
+      "texture": {
+        "primary_subject": "clean_grey_app_screen_success_state",
+        "secondary_objects": [],
+        "background_surface": "warm_bokeh",
+        "atmospheric": [
+          "calm_success"
+        ]
+      },
+      "lighting": {
+        "key_direction": "screen_self_lit",
+        "key_hardness": "soft",
+        "key_color_temp": "5000K",
+        "fill_strength": "ambient",
+        "key_to_fill_ratio": "1:1",
+        "rim_light": "none",
+        "practical_lights": [],
+        "shadow_presence": "none",
+        "overall_contrast": "very_low"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#F0F2F5",
+          "#1A1A1A",
+          "#4AABF0",
+          "#FFFFFF"
+        ],
+        "palette_role": {
+          "#F0F2F5": "screen_bg",
+          "#1A1A1A": "headline_text",
+          "#4AABF0": "train_icon_blue",
+          "#FFFFFF": "screen_highlights"
+        },
+        "color_relationship": "minimal_success_state",
+        "temperature_balance": "neutral_cool",
+        "saturation_strategy": "very_low_calm",
+        "contrast_type": "tonal",
+        "accent_color": "#4AABF0",
+        "accent_ratio": "0.12"
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "An extreme close-up of a smartphone screen held with both hands, the phone in portrait orientation, displaying a clean Korean train ticket reservation success confirmation interface that marks the resolution of the advertisement's central problem. The screen background is a very light neutral grey — approximately the same off-white or light grey used throughout the application's UI — completely flat and simple. Centered vertically and horizontally on the screen, with generous white space above and below, is a compact content block. At the top of this block sits a large, cheerful illustrated icon of a cartoon train — a flat-design simplified emoji-style blue and grey bullet train viewed from a slight front angle, with dark rectangular windows, a rounded aerodynamic nose, blue body panels, and simple geometric detailing suggesting the KTX aesthetic without specific brand reference. The train icon is approximately the size of a large emoji or small image, centered horizontally. Directly below the train icon, in large bold dark near-black Korean typography using a clean rounded sans-serif typeface, the text reads '승차권 예약 완료' (Train ticket reservation complete), the headline taking up approximately two lines. This is the primary message — the ticket is booked. Below this headline in slightly smaller, lighter grey Korean text, a secondary message reads '탑승일이 다가오면 알려드릴게요' (We will notify you as the boarding date approaches), a friendly promise of follow-up notification. The spacing between elements is generous and calm, creating a sense of resolution and ease after the preceding frustration. The two hands gripping the sides of the phone are partially visible at the left and right frame edges, the phone held steadily as the man reads this success confirmation. The background behind the phone is warm soft bokeh of the domestic living room interior, providing the domestic context. The depth of field keeps the screen in focus while the background is fully diffused. The lens is approximately 85mm equivalent. The color palette of this success screen is intentionally minimal and calm: very light grey background, dark charcoal text for the headline, lighter grey for the subtitle, and the mid-blue of the train icon as the only warm color accent. The overall mood is resolution, relief, and quiet satisfaction — the UX problem solved in a few taps. Korean fintech success state UI design. Clean, spacious, reassuring. The train icon emoji-style illustration chosen for this success state is deliberately friendly and approachable — not the detailed photorealistic KTX train shown on the old booking app, but a simplified cheerful cartoon train that aligns with the fintech app's personality language: accessible, warm, non-intimidating. The promise text '탑승일이 다가오면 알려드릴게요' is written in the characteristically warm and personal Korean tone of the brand — '알려드릴게요' uses an honorific form that conveys both respect and friendly engagement, the brand speaking to the user as a trusted assistant rather than a transactional service. This tone of copy is consistent with the broader brand voice strategy of humanizing financial services. The generous whitespace on this success screen reflects a design philosophy that the most important moments deserve to breathe — the success state is visually calm, not cluttered with upsell prompts or notifications.",
+        "t2i_negative": "error screen, dark mode, outdoor, face visible, cluttered layout, English text",
+        "i2v_motion": "Screen stays static showing success state for 1 second; hands hold still; a subtle fade-in animation on the text from below; the train icon may have a tiny bounce; cut to man's face reaction",
+        "i2v_params": {
+          "clip_duration_sec": 1.1,
+          "camera_move": "locked_off",
+          "subject_motion_level": "none",
+          "signature_effect": "success_state_hold",
+          "pacing": "slow",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen copy preserved; identity/logo generic"
+      }
+    },
+    {
+      "index": 16,
+      "duration": 1.05,
+      "framing": "CU",
+      "function": "relief_reaction",
+      "subject_action": "man_exhales_with_relief_head_bowed_eyes_momentarily_closing",
+      "layout_grid": "center_slight_left",
+      "subject_position": "center_left",
+      "typo_motion": "none",
+      "camera_angle": "eye_level_slight_high",
+      "camera_facing": "three_quarter",
+      "shot_scope": "close",
+      "gaze": "downward_relieved",
+      "props": [],
+      "color_palette": [
+        "#F2EDE8",
+        "#FFFFFF",
+        "#6B8DB8",
+        "#2C2C2C"
+      ],
+      "color_intent": "warm_relief",
+      "pose_description": "head slightly bowed, eyes partially or fully closed, slight exhale breath visible, mouth slightly pursed",
+      "subject_motion": "head_slight_exhale_bow",
+      "camera_motion": "locked_off",
+      "camera_effect_local": "shallow_dof",
+      "intra_cut_rhythm": "slow",
+      "transition_in": "hard_cut",
+      "transition_out": "hard_cut",
+      "mid_frame_path": "ADV-2026-012_frames/cut16_mid.png",
+      "visible_elements": {
+        "foreground": [],
+        "midground": [
+          "man_head_neck_in_shirt_tie"
+        ],
+        "background": [
+          "window_blinds_blurred",
+          "interior_bokeh"
+        ],
+        "lighting_env": [
+          "window_backlight",
+          "soft_fill"
+        ],
+        "atmosphere": [
+          "relief_resolution"
+        ]
+      },
+      "texture": {
+        "primary_subject": "skin_face_close_detail_pores",
+        "secondary_objects": [
+          "shirt_collar_blue_tie"
+        ],
+        "background_surface": "cream_warm_interior_bokeh",
+        "atmospheric": [
+          "warm_soft_light"
+        ]
+      },
+      "lighting": {
+        "key_direction": "left_window",
+        "key_hardness": "soft",
+        "key_color_temp": "5500K",
+        "fill_strength": "strong",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": "subtle_window_rim_hair",
+        "practical_lights": [],
+        "shadow_presence": "soft",
+        "overall_contrast": "low"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#F2EDE8",
+          "#FFFFFF",
+          "#6B8DB8",
+          "#C4A882"
+        ],
+        "palette_role": {
+          "#F2EDE8": "cream_bg",
+          "#FFFFFF": "shirt",
+          "#6B8DB8": "tie",
+          "#C4A882": "skin"
+        },
+        "color_relationship": "warm_neutral_relief",
+        "temperature_balance": "warm",
+        "saturation_strategy": "very_low",
+        "contrast_type": "tonal",
+        "accent_color": "#6B8DB8",
+        "accent_ratio": "0.07"
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A close-up shot of a middle-aged Korean man's face, head, and upper neck from a slightly elevated three-quarter frontal angle, capturing a transitional emotional expression moving from the earlier frustration toward genuine relief and satisfaction. His head is slightly bowed downward from the chin-to-chest position of earlier frustration, now beginning to lift — he may be mid-exhale, his lips barely parted in a quiet breath of release, eyes in a relaxed partial squint or briefly closed in the manner of someone processing good news with private satisfaction. The facial muscles are visibly softer than in previous close-ups: the forehead wrinkles are reduced, the brow is lower and less furrowed, the jaw is relaxed. This is the micro-expression of relief — not triumphant joy, but the quiet 'thank goodness' exhale of a small domestic problem resolved. The skin texture of his face remains visible in the shallow depth of field: natural pores, slight facial lines, the lived-in quality of a Korean man in his mid-to-late forties. He wears the white dress shirt collar with the blue woven tie, both visible from collar to approximately chest level, no other clothing apparent in the tight frame. The background is a soft warm cream and neutral bokeh of the apartment interior: the vertical window blinds create a faint rhythmic pattern in the out-of-focus background, the sofa and credenza contributing warm tonal shapes, and window light from the left providing a gentle rim on the top of his hair. The depth of field is very shallow, the face absolutely sharp, the background completely dissolved. The lens is approximately 85mm to 100mm equivalent. The color palette is intimate and warm: dark hair, warm skin tones in the beige range, white shirt, blue tie accent, cream background. Lighting is soft, low-contrast, warm, with a subtle window rim highlight on the hair. The mood is quiet personal relief rendered in a naturalistic close-up that prepares the transition to the tagline reveal wide shot. No props visible in focus, no phone, no ironing board — just the face. Korean adult male, intimate portraiture in commercial advertising context. The transitional nature of this close-up — between the success screen reveal and the tagline wide shot — serves a crucial pacing function: it re-anchors the viewer to the human emotional narrative after several consecutive phone screen inserts. Without this human reaction beat, the preceding sequence of five phone screen ECUs would create digital abstraction that disconnects from the domestic comedy premise. By returning to the face before the tagline, the advertisement ensures that the product success is felt through a human response rather than just seen on a screen. The very slightly parted lips in the exhale pose also set up the next shot aurally — the narration voice will take over at this point, bridging from the character's wordless relief to the brand narration of the tagline. The warmth of the color grade in this close-up, slightly richer than the cool phone screen inserts, signals the return to human emotional warmth.",
+        "t2i_negative": "frustration, outdoor, woman in frame, smiling broadly, looking up, brand visible",
+        "i2v_motion": "Man gently raises his head from bowed position over 0.8 seconds; eyes open to a relaxed squint; slight relaxation of shoulder tension; mouth closes in satisfaction; cut to wide living room with tagline",
+        "i2v_params": {
+          "clip_duration_sec": 1.0,
+          "camera_move": "locked_off",
+          "subject_motion_level": "minimal",
+          "signature_effect": "relief_expression_cu",
+          "pacing": "slow",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen copy preserved; identity/logo generic"
+      }
+    },
+    {
+      "index": 17,
+      "duration": 3.21,
+      "framing": "WS",
+      "function": "tagline_reveal",
+      "subject_action": "man_resumes_ironing_jacket_while_tagline_appears_on_screen",
+      "layout_grid": "rule_of_thirds_right_subject",
+      "subject_position": "center_right",
+      "typo_motion": "fade_in_static_overlay",
+      "camera_angle": "eye_level",
+      "camera_facing": "three_quarter_front",
+      "shot_scope": "wide",
+      "gaze": "downward_at_ironing",
+      "props": [
+        "ironing_board",
+        "black_iron_with_steam",
+        "suit_jacket"
+      ],
+      "color_palette": [
+        "#F8F4EE",
+        "#FFFFFF",
+        "#2B4C8C",
+        "#1A1A1A"
+      ],
+      "color_intent": "bright_domestic_returning_to_comedy",
+      "pose_description": "standing at ironing board pressing jacket, now wearing jacket on one arm or both, blue boxers still visible",
+      "subject_motion": "ironing_motion",
+      "camera_motion": "locked_off",
+      "camera_effect_local": "natural_window_backlight",
+      "intra_cut_rhythm": "slow_build",
+      "transition_in": "hard_cut",
+      "transition_out": "hard_cut",
+      "mid_frame_path": "ADV-2026-012_frames/cut17_mid.png",
+      "visible_elements": {
+        "foreground": [],
+        "midground": [
+          "man_ironing_board",
+          "steam_rising"
+        ],
+        "background": [
+          "woman_at_mirror",
+          "sofa",
+          "wall_art",
+          "record_player"
+        ],
+        "lighting_env": [
+          "window_backlight",
+          "morning_natural_light"
+        ],
+        "atmosphere": [
+          "domestic_comedy_returning",
+          "tagline_moment"
+        ]
+      },
+      "texture": {
+        "primary_subject": "white_shirt_blue_boxers",
+        "secondary_objects": [
+          "steam_iron_black",
+          "black_jacket"
+        ],
+        "background_surface": "oak_parquet_cream_wall",
+        "atmospheric": [
+          "morning_light_steam"
+        ]
+      },
+      "lighting": {
+        "key_direction": "left_window",
+        "key_hardness": "soft",
+        "key_color_temp": "5500K",
+        "fill_strength": "strong",
+        "key_to_fill_ratio": "1.5:1",
+        "rim_light": "subtle",
+        "practical_lights": [],
+        "shadow_presence": "minimal",
+        "overall_contrast": "low"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#F8F4EE",
+          "#FFFFFF",
+          "#2B4C8C",
+          "#8FBE6A",
+          "#1A1A1A"
+        ],
+        "palette_role": {
+          "#F8F4EE": "walls",
+          "#FFFFFF": "shirt_curtains_typo",
+          "#2B4C8C": "boxer_shorts",
+          "#8FBE6A": "cushion_accent",
+          "#1A1A1A": "jacket_hair"
+        },
+        "color_relationship": "warm_bright_domestic_blue_comedy",
+        "temperature_balance": "warm",
+        "saturation_strategy": "moderate",
+        "contrast_type": "tonal",
+        "accent_color": "#2B4C8C",
+        "accent_ratio": "0.12"
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A wide shot recreating the same domestic Korean apartment living room that was established in shot 2, now returned to as the final narrative beat before the product endcard. The middle-aged Korean man in his white dress shirt, blue woven necktie, and — still maintaining the comedy — his blue polka-dot boxer shorts and dark socks, stands at the wooden ironing board positioned right of center in the frame. He has now progressed in his task: he may be in the act of putting on or inspecting the now-ironed black suit jacket, holding it up or sliding one arm in, while the steam iron rests on the board. A gentle cloud of residual steam rises from the board area, echoing the earlier steam shots as a visual callback. Behind him, the young woman with the auburn ponytail continues her morning preparation near the full-length standing mirror, providing background life and motion. The full Scandinavian-minimal living room set is visible in its entirety: cream linen sofa with yellow mustard and sage green cushions left side, round white coffee table with books and ceramic mug, the wooden floor lamp with white mushroom shade left center, the full-length mirror center-left, the white media credenza on the right with the retro record player and compact speaker, the warm abstract art print in an orange and gold palette on the right wall. The floor is light oak parquet with the cream geometric rug. The large window with full-height sheer curtains provides morning backlight from the left, washing the scene in that characteristic soft overexposed quality. Over this domestic scene, a text overlay appears on the left-center area of the frame: white bold Korean sans-serif typography reading '기차 예매, 로그인 없이' on the first line, floating cleanly over the scene, the text positioned at approximately two-thirds height in the frame. The text is large and legible, set in clean white with perhaps a very subtle shadow to ensure readability against the bright background. The composition is the same 35mm wide-angle establishing shot that opened the domestic comedy sequences, completing the visual callback. The color palette returns to the full room's warm Nordic warmth: ivory whites, cream, mustard, sage, the blue boxer shorts as the persistent comedy anchor. Low-contrast morning light, 1.5:1 key-to-fill, warm grade. Korean commercial advertising, wide narrative shot with typography integration. The visual callback to the ironing setup in this tagline shot is structurally important: it closes the domestic comedy loop by returning to exactly the situation we opened on, but now transformed by the product's intervention. The man is still in his boxer shorts (unchanged — the comedy remains present) but the panic has been replaced by purposeful action. The steam still rising from the iron is a physical reminder of time passing and tasks being done — life going on — while the phone problem is now solved. The text overlay placement on the left side of the frame works with the composition because the man occupies the right third, leaving the left two-thirds as a clean-enough ground for the white text. The second line '토스에서 바로' appearing slightly after the first line, as a reveal rather than simultaneous text, maintains the narrative momentum and allows each phrase to land separately: first the pain point elimination, then the brand solution.",
+        "t2i_negative": "dark, night, different room, no text, different family, outdoor",
+        "i2v_motion": "Man irons back and forth over jacket; steam rises in rhythm; woman turns slightly at mirror; second line of tagline '토스에서 바로' fades in below the first line after 1.5 seconds; camera locked; cut to product endcard",
+        "i2v_params": {
+          "clip_duration_sec": 3.2,
+          "camera_move": "locked_off",
+          "subject_motion_level": "low_ironing",
+          "signature_effect": "tagline_fade_in_overlay_on_scene",
+          "pacing": "slow_build",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen copy preserved; identity/logo generic"
+      }
+    },
+    {
+      "index": 18,
+      "duration": 6.06,
+      "framing": "TITLE_CARD",
+      "function": "brand_endcard",
+      "subject_action": "product_name_and_brand_logo_on_clean_background",
+      "layout_grid": "center_centered",
+      "subject_position": "center",
+      "typo_motion": "fade_in_sequential",
+      "camera_angle": "n/a",
+      "camera_facing": "n/a",
+      "shot_scope": "title_card",
+      "gaze": "n/a",
+      "props": [],
+      "color_palette": [
+        "#EBEBEB",
+        "#1A5FD8",
+        "#1A1A1A"
+      ],
+      "color_intent": "clean_brand_endcard",
+      "pose_description": "n/a - typography only",
+      "subject_motion": "none",
+      "camera_motion": "locked_off",
+      "camera_effect_local": "none",
+      "intra_cut_rhythm": "static",
+      "transition_in": "hard_cut",
+      "transition_out": "fade_to_end",
+      "mid_frame_path": "ADV-2026-012_frames/cut18_mid.png",
+      "visible_elements": {
+        "foreground": [],
+        "midground": [
+          "product_name_korean_text",
+          "brand_logo_wordmark"
+        ],
+        "background": [
+          "clean_off_white_background"
+        ],
+        "lighting_env": [
+          "flat_even_studio"
+        ],
+        "atmosphere": [
+          "brand_resolution",
+          "clean_product_statement"
+        ]
+      },
+      "texture": {
+        "primary_subject": "typography_flat",
+        "secondary_objects": [],
+        "background_surface": "clean_light_grey",
+        "atmospheric": [
+          "minimal_calm"
+        ]
+      },
+      "lighting": {
+        "key_direction": "flat_even",
+        "key_hardness": "none",
+        "key_color_temp": "5000K",
+        "fill_strength": "full",
+        "key_to_fill_ratio": "1:1",
+        "rim_light": "none",
+        "practical_lights": [],
+        "shadow_presence": "none",
+        "overall_contrast": "very_low"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#EBEBEB",
+          "#1A5FD8",
+          "#1A1A1A",
+          "#3A90F5"
+        ],
+        "palette_role": {
+          "#EBEBEB": "endcard_background",
+          "#1A5FD8": "brand_name_korean_blue",
+          "#1A1A1A": "product_name_text",
+          "#3A90F5": "logo_icon_blue_gradient"
+        },
+        "color_relationship": "minimal_brand_blue_on_neutral",
+        "temperature_balance": "neutral",
+        "saturation_strategy": "minimal_brand_color_only",
+        "contrast_type": "structural",
+        "accent_color": "#1A5FD8",
+        "accent_ratio": "0.20"
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A clean, completely minimal brand endcard or title card design rendered as a flat graphic composition against a pure light grey or off-white background surface. The background is a uniform neutral grey approximately the value of #EBEBEB or slightly lighter — not pure white, not mid-grey, but the particular sophisticated pale grey used in premium Korean brand design and contemporary fintech visual identity systems. The surface is completely flat, featureless, and unbroken by any texture, shadow, or image. The only elements present in the composition are carefully centered typographic and logotype elements. In the first phase of this endcard sequence, a two-line text block appears centered in the vertical and horizontal center of the frame. The Korean text '토스 미니앱' is displayed in large, bold, clean rounded Korean sans-serif typography. The first two characters '토스' are rendered in the distinctive cobalt-to-sky-blue gradient of a recognizable Korean fintech brand — a vivid saturated blue that sits in the range of #1A5FD8 to #3A90F5 as a gradient — creating an immediate brand color association. The remaining characters ' 미니앱' are rendered in a very dark near-black or dark charcoal color, approximately #1A1A1A, using the same typeface weight and size. The contrast between the brand-blue and near-black within a single coherent word creates a visual brand signature. The type is large, taking up approximately 25% of the frame width, centered with generous negative space on all sides. In the second phase of this endcard, the product name gives way to the full brand identity lockup: a rounded-corner rectangular or circular brand mark symbol in the same cobalt-to-sky-blue gradient — composed of two overlapping abstract organic forms suggesting connectivity or integration — sits to the left, and to its immediate right the logotype word 'toss' appears in clean lowercase bold rounded sans-serif, color-matched to the near-black dark charcoal. This full brand lockup is centered in the frame, approximately the same size as the previous product name text. At the very bottom of the frame, in a significantly smaller point size and a medium grey color, Korean legal disclaimer text reads: '*토스 미니앱 서비스는 만 19세 이상부터 이용할 수 있어요.' (Toss mini-app service is available for users aged 19 and above.) This disclaimer sits at the lower center, separated from the logo by substantial negative space. The overall design communicates with absolute typographic minimalism: no photography, no illustration beyond the brand mark symbol, no decorative elements, no gradient backgrounds, no motion blur or texture. Pure brand identity communication. The color palette is three-element: the pale grey ground, the brand cobalt-blue gradient for the product/brand color, and the near-black for text. The lighting is flat studio even light creating no shadows or dimensional qualities — pure graphic flatness. Korean fintech brand endcard design, contemporary minimal visual identity system, commercial production quality. The transition from the '토스 미니앱' product name phase to the full brand lockup phase within this endcard is a common Korean brand advertising grammar move: establish the specific product, then resolve to the master brand. The legal disclaimer text at the bottom '*토스 미니앱 서비스는 만 19세 이상부터 이용할 수 있어요.' is legally required for Korean financial services products with age restrictions, and its placement in the endcard rather than within the narrative maintains the clean storytelling of the main ad while fulfilling regulatory obligations. The light grey background color chosen for this endcard references the app's own UI color palette — the same light grey used as the background for the success state screen seen in shot 15 — creating a seamless visual bridge between the in-app experience shown and the brand identity presented. The complete absence of photography, people, props, or lifestyle imagery in this endcard is a deliberate branding choice: it says 'we are confident enough in our name alone.' The overall production from narrative comedy through to this minimal endcard demonstrates a coherent visual brand strategy.",
+        "t2i_negative": "busy background, colorful, outdoor, people, decorative elements, dark mode",
+        "i2v_motion": "Product name appears with gentle fade-in; holds for 2 seconds; crossfades to brand logo + wordmark; disclaimer fades in at bottom; holds 2 seconds before fade to black",
+        "i2v_params": {
+          "clip_duration_sec": 6.1,
+          "camera_move": "locked_off",
+          "subject_motion_level": "none",
+          "signature_effect": "brand_endcard_clean_fade",
+          "pacing": "slow",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen copy preserved; identity/logo generic"
+      }
+    }
+  ],
+  "search_keywords": {
+    "industry": [
+      "finance"
+    ],
+    "product_category": [
+      "super_app_mini_app"
+    ],
+    "target_demo": [
+      "30s_40s_korean_family"
+    ],
+    "media_format": [
+      "short_form_digital_tv"
+    ],
+    "tone": [
+      "humorous_relatable_warm"
+    ],
+    "pacing": [
+      "accelerating"
+    ],
+    "technique": [
+      "comedy_of_errors_narrative"
+    ],
+    "vfx_keywords": [
+      "practical_steam_shallow_dof_screen_insert"
+    ],
+    "copy_strategy_keywords": [
+      "problem_inversion_login_friction_negation"
+    ],
+    "concept_derivation_pattern": [
+      "everyday_frustration_then_product_pivot"
+    ]
+  },
+  "inferred_creative_thinking": {
+    "insight": "Korean adults struggle with forgotten passwords and login friction for infrequently used apps like KTX booking; the frustration is universal and comedic",
+    "persona": "middle-aged Korean salaried worker, family breadwinner, not tech-savvy, perpetually rushing on weekday mornings",
+    "moment": "morning family departure preparation, everything happening at once, husband half-dressed multitasking ironing and phone",
+    "product_role": "Toss mini-app eliminates the login barrier entirely, allowing access to train booking without a separate app account",
+    "punchline": "the man goes from multi-step login frustration in the legacy app to booking a KTX ticket in seconds through Toss — all while still in his boxer shorts",
+    "differentiator": "no login required — the product's simplest UX differentiator is the entire ad's narrative engine",
+    "brand_fit_one_liner": "Toss removes the friction from financial and daily-life tasks, demonstrated through the most relatable domestic frustration",
+    "confidence": "inferred"
+  },
+  "inferred_brief": "Dramatize the everyday friction of logging into separate apps for KTX ticket booking, then reveal that Toss mini-app solves it instantly without any login — using comedy to make the pain point feel universally relatable.",
+  "cross_pollination_tags": {
+    "adjacent": [
+      "mobility_app_booking_ads",
+      "super_app_feature_launch",
+      "korean_family_morning_ads"
+    ],
+    "distant": [
+      "single_feature_product_demos",
+      "login_ux_marketing",
+      "humor_problem_solution_format"
+    ],
+    "contrast": [
+      "serious_financial_advertising",
+      "complex_multi_feature_fintech_ads"
+    ]
+  },
+  "concept_derivation_pattern": "everyday_frustration_then_product_pivot",
+  "confidence": "inferred",
+  "analyst_notes": "18 shots including 2 micro-cuts (0.38s each at shots 11 and 13) serving as product pivot moments. Wiggle hint from metrics confirmed as handheld-lite on some character close-ups, not stereoscopic 3D. Steam in shots 8 and 17 is practical on-set. Audio coverage 82.3% — dialogue-heavy first half, narration-heavy second half aligning with product reveal. The blue boxer shorts are a consistent comedy visual anchor, providing the 'shame' or 'incomplete state' that mirrors the frustration state before the product solves the problem.",
+  "verification": {
+    "frames_reviewed": "≈42 native-res reads + 100% metrics (910 frames)",
+    "audio_analyzed": true,
+    "hitrate_na": null,
+    "abstraction_checked": true
+  }
+}

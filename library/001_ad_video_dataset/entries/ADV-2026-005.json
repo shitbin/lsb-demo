@@ -1,0 +1,2189 @@
+{
+  "id": "ADV-2026-005",
+  "source_ref": {
+    "platform": "broadcast_online",
+    "title_or_campaign": "토스 브랜드 런칭 광고 — 돈의 이동에 자유를",
+    "brand": "토스 (Toss)",
+    "product": "토스 금융 앱 (Toss fintech app)",
+    "model": null,
+    "year": 2021,
+    "production_note": "Cinematic 30s brand film. Joseon-era historical figures in traditional Korean court costume riding a customized classic American convertible through a desert highway. Korean warrior hood ornament. Plate: 21-KOR-0802 Unlimited. On-screen copy builds: 돈의 이동에 / 돈의 이동에 자유를 / 이제, 자유롭게 / 토스가 시작합니다.",
+    "url": null
+  },
+  "category_primary": "finance.fintech",
+  "category_tags": [
+    "fintech",
+    "money_transfer",
+    "digital_banking",
+    "brand_launch",
+    "lifestyle"
+  ],
+  "mood": [
+    "cinematic",
+    "epic",
+    "bold",
+    "liberating",
+    "surreal",
+    "aspirational"
+  ],
+  "target_demo": "Korean adults 20–40s, digitally native, seeking financial freedom and simplicity",
+  "total_duration": 30.094,
+  "shot_count": 17,
+  "shot_count_corrected": 17,
+  "fps": 29.97,
+  "aspect_ratio": "16:9",
+  "hook_position": 0.0,
+  "cta_position": 26.26,
+  "narrative_arc": "wide_establishing_open → product_detail → character_reveal → copy_build → brand_declaration → wide_exit_logo",
+  "narrative_structure": "linear_continuous",
+  "pacing_curve": "slow_build",
+  "music_tempo_curve": "steady_with_climax",
+  "wow_cut_index": 8,
+  "creative_device": [
+    "anachronism_clash",
+    "historical_meets_modern",
+    "copy_stagger_reveal",
+    "hood_ornament_motif",
+    "road_as_freedom_metaphor"
+  ],
+  "production_signature": {
+    "capture_style": "cinematic_live_action",
+    "camera_signature": [
+      "aerial_drone_wide",
+      "handheld_tight_portraits",
+      "static_low_angle",
+      "dolly_side_tracking"
+    ],
+    "signature_note": "Desert-highway-as-freedom metaphor anchors open and close. Joseon court figures in a classic American convertible create striking anachronistic contrast. Car customised with Korean cultural badges on grille and a traditional general statue as hood ornament. Subtle handheld shimmer on portrait cuts; wide aerial shots fully locked-off with high drone.",
+    "color_grade": "desaturated_warm_cinematic",
+    "texture_fx": "slight_chromatic_aberration_edge, lens_flare_sunset, motion_blur_speed_cuts"
+  },
+  "global_layout": {
+    "grid_system": "cinematic_thirds",
+    "subject_placement_dominant": "center_and_left_third",
+    "subject_typo_relation": "text_lower_left_overlay_on_subject_cuts",
+    "negative_space_use": "expansive_sky_and_desert_dominate_wide_shots",
+    "layout_note": "Copy stagger: left-aligned white sans-serif appears line-by-line across portrait shots, building the tagline incrementally. Wide shots bookend the narrative with pure landscape negative space."
+  },
+  "recurring_motifs": [
+    "desert_highway",
+    "classic_convertible_car",
+    "Joseon_court_attire",
+    "Korean_cultural_badges_on_grille",
+    "warrior_hood_ornament",
+    "open_sky",
+    "copy_build_reveal"
+  ],
+  "copywriting": {
+    "tagline_text": "돈의 이동에 자유를",
+    "tagline_structure": "subject_noun_phrase + freedom_declaration",
+    "cta_text": "토스가 시작합니다",
+    "copy_tone": [
+      "declarative",
+      "epic",
+      "liberating",
+      "confident"
+    ],
+    "copy_strategy": "incremental_reveal — tagline builds across multiple shots: first 돈의 이동에 alone, then 자유를 fades in, then new line 이제, 자유롭게, concluding with 토스가 시작합니다 on the wide exit shot",
+    "lines": [
+      {
+        "text": "돈의 이동에",
+        "time_start": 11.1,
+        "time_end": 13.1,
+        "position": "lower_left"
+      },
+      {
+        "text": "돈의 이동에 자유를",
+        "time_start": 13.1,
+        "time_end": 17.1,
+        "position": "lower_left"
+      },
+      {
+        "text": "이제, 자유롭게",
+        "time_start": 20.3,
+        "time_end": 22.0,
+        "position": "lower_left"
+      },
+      {
+        "text": "토스가 시작합니다",
+        "time_start": 25.3,
+        "time_end": 28.0,
+        "position": "center"
+      },
+      {
+        "text": "toss (logo)",
+        "time_start": 28.0,
+        "time_end": 30.094,
+        "position": "center"
+      }
+    ],
+    "captions": [
+      {
+        "text": "돈의 이동에",
+        "source": "on_screen"
+      },
+      {
+        "text": "돈의 이동에 자유를",
+        "source": "on_screen"
+      },
+      {
+        "text": "이제, 자유롭게",
+        "source": "on_screen"
+      },
+      {
+        "text": "토스가 시작합니다",
+        "source": "on_screen"
+      }
+    ],
+    "narration_handling": "voice_over_with_caption_sync"
+  },
+  "typography": {
+    "primary_font_class": "sans_serif_bold_white",
+    "animation_style": [
+      "fade_in_word_by_word",
+      "static_hold"
+    ],
+    "subtitle_position_dominant": "lower_left",
+    "color_strategy": "white_on_dark_or_medium_background",
+    "typo_motion_dominant": "stagger_fade_in"
+  },
+  "vfx": {
+    "primary_effects": [
+      "lens_flare",
+      "chromatic_aberration",
+      "motion_blur",
+      "depth_of_field_bokeh"
+    ],
+    "effect_intensity": "moderate",
+    "transition_style_dominant": "hard_cut",
+    "vfx_event_count": 4
+  },
+  "audio": {
+    "has_audio": true,
+    "language": "ko",
+    "speech_coverage": 0.605,
+    "bgm_likely": true,
+    "narration_lines": [
+      {
+        "start": 13.41,
+        "end": 15.41,
+        "text": "돈의 이동의 자유를",
+        "source": "whisper_corrected_from_caption"
+      },
+      {
+        "start": 15.41,
+        "end": 20.29,
+        "text": "이제 자유롭게",
+        "source": "whisper_corrected_from_caption"
+      },
+      {
+        "start": 24.02,
+        "end": 26.02,
+        "text": "토스가 시작합니다",
+        "source": "whisper_corrected_from_caption"
+      }
+    ],
+    "voice_vs_caption": "voice_matches_caption",
+    "transcribed_by": "faster_whisper",
+    "audio_note": "Cinematic score with male narrator VO. Whisper raw segments corrected against on-screen captions. One segment (11.41-13.41) whisper hallucinated English — actual audio/caption content is 돈의 이동에."
+  },
+  "frames_dir": "ADV-2026-005_frames",
+  "contact_sheet_path": "ADV-2026-005_frames/contact_sheet.png",
+  "shots": [
+    {
+      "index": 1,
+      "duration": 1.835,
+      "framing": "extreme_wide",
+      "function": "establishing",
+      "subject_action": "distant_vehicle_traversing_straight_desert_highway_under_dramatic_sky",
+      "layout_grid": "rule_of_thirds_center_road_vanishing_point",
+      "subject_position": "center_horizon",
+      "typo_motion": "none",
+      "camera_angle": "high_angle_aerial",
+      "camera_facing": "overhead_looking_down_and_forward",
+      "shot_scope": "landscape_extreme_wide",
+      "gaze": "none",
+      "props": [
+        "straight_road",
+        "desert_scrubland",
+        "dramatic_clouds",
+        "distant_mountains"
+      ],
+      "color_palette": [
+        "#8B7355",
+        "#6B8CAE",
+        "#C4A882",
+        "#4A5568",
+        "#D4B896"
+      ],
+      "color_intent": "muted_desaturated_cinematic_establishing_vast_scale",
+      "pose_description": "Vehicle tiny in center-road vanishing-point composition; horizon at upper third; sky fills upper half with textured clouds; flat desert extends to all edges.",
+      "subject_motion": "slow_forward_travel",
+      "camera_motion": "locked_off_aerial",
+      "camera_effect_local": "none",
+      "intra_cut_rhythm": "slow",
+      "transition_in": "cold_open",
+      "transition_out": "hard_cut",
+      "mid_frame_path": "ADV-2026-005_frames/cut01_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "road_surface_asphalt",
+          "white_lane_markings"
+        ],
+        "midground": [
+          "small_convertible_silhouette"
+        ],
+        "background": [
+          "barren_desert_plain",
+          "mountain_range",
+          "dramatic_cumulus_clouds"
+        ],
+        "lighting_env": [
+          "overcast_dramatic_daylight"
+        ],
+        "atmosphere": [
+          "vast_desolation",
+          "epic_scale",
+          "freedom_metaphor"
+        ]
+      },
+      "texture": {
+        "primary_subject": "asphalt_road_surface",
+        "secondary_objects": [
+          "dry_scrub_vegetation",
+          "sand_dust"
+        ],
+        "background_surface": "flat_arid_desert",
+        "atmospheric": [
+          "haze",
+          "cinematic_grade"
+        ]
+      },
+      "lighting": {
+        "key_direction": "overhead_diffused",
+        "key_hardness": "soft",
+        "key_color_temp": "cool_neutral",
+        "fill_strength": "high",
+        "key_to_fill_ratio": "1:1",
+        "rim_light": "none",
+        "practical_lights": [],
+        "shadow_presence": "minimal",
+        "overall_contrast": "low_to_medium"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#8B7355",
+          "#6B8CAE",
+          "#C4A882",
+          "#4A5568",
+          "#D4B896"
+        ],
+        "palette_role": {
+          "#8B7355": "dominant_desert_ground",
+          "#6B8CAE": "sky_cool",
+          "#C4A882": "midtone_road",
+          "#4A5568": "shadow_distance",
+          "#D4B896": "highlight_sand"
+        },
+        "color_relationship": "analogous_earth_tones_with_cool_sky_contrast",
+        "temperature_balance": "neutral_slightly_cool",
+        "saturation_strategy": "low_saturation_cinematic",
+        "contrast_type": "soft_tonal",
+        "accent_color": "#6B8CAE",
+        "accent_ratio": 0.3
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "An extreme wide-angle aerial drone photograph taken from approximately 200 meters altitude looking straight down and slightly forward along a perfectly straight two-lane asphalt highway that bisects a vast flat desert plain into two equal halves, creating a strong geometric vanishing-point perspective composition. At the center of the road, a tiny pale steel-blue classic American convertible automobile is barely visible as a small silhouette, occupying less than two percent of the total frame area, emphasizing the overwhelming and humbling scale of the surrounding landscape. The terrain on both sides of the road is arid desert — characteristic of Mojave or Nevada high desert — covered in sparse brown-grey scrub vegetation, dried short desert bushes, and dry reddish-brown sandy soil with occasional pale stone outcroppings. The road itself is perfectly straight with white broken center-lane markings disappearing into the distance. In the far background, a jagged low mountain range with irregular rocky silhouettes rises against the horizon under the dramatic sky. The upper half of the entire frame is dominated by a dramatic overcast sky featuring dense layered stratocumulus clouds lit diffusely from behind and above, creating a moody silver and dark-grey atmospheric texture with subtle variations of luminosity across the cloud formations. The entire image is graded with a desaturated cinematic color look — earth tones are muted to warm ochre and tan, all saturation is pulled down significantly, the sky is pushed towards cool slate-blue grey, and the road asphalt is rendered as a neutral medium grey. No people are visible at all. The atmosphere is one of vast open emptiness. Shallow depth of atmospheric haze softly reduces contrast in the far distance, creating a natural vignette on the horizon. The composition follows a strict rule-of-thirds layout: the horizon line sits precisely at the upper horizontal third, the road vanishing point sits at the exact center of the frame. The lens appears to be a wide rectilinear drone camera with minimal barrel distortion. The cinematic aspect ratio is 16:9. Road markings create a hypnotic linear rhythm converging on the vanishing point. The feeling evoked is epic desolation, the seductive freedom of an infinite open road stretching forever, sublime scale contrast between human transport and nature, and a sense of understated cinematic grandeur. Shot as the opening frame of a Korean fintech brand commercial campaign about financial freedom and movement, with a signature cinematic grade using slight desaturation, lifted shadow tones, and a subtle warm-to-cool color temperature split between ground and sky. The road surface texture shows fine aggregate and tarmac grain visible in the aerial resolution. The white broken center-lane markings are evenly spaced at regular intervals. Dust raised by the vehicle is visible as a faint plume dissipating in the still desert air. The entire composition breathes with cinematic stillness and the promise of infinite forward motion. The drone camera stabilization creates a perfectly static frame where only the vehicle and clouds move. This is the iconic opening image of the campaign, establishing all the visual and emotional grammar of what follows. The desaturation grade creates a timeless quality, neither clearly contemporary nor historical, a visual liminal space appropriate for a story about transcending the boundaries of financial tradition.",
+        "t2i_negative": "people close-up, text, logos, urban buildings, trees, night, rain, green landscape",
+        "i2v_motion": "Locked-off drone view. Vehicle in center-road slowly grows slightly larger as it approaches. Clouds drift subtly overhead. No camera pan or tilt. Smooth atmospheric haze shimmer on horizon. Approx 1.8 seconds, ends on hard cut to ground-level vehicle rear shot.",
+        "i2v_params": {
+          "clip_duration_sec": 1.835,
+          "camera_move": "locked_off",
+          "subject_motion_level": "minimal_vehicle_forward",
+          "signature_effect": "atmospheric_haze",
+          "pacing": "slow",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen copy preserved; identity/logo generic"
+      }
+    },
+    {
+      "index": 2,
+      "duration": 1.101,
+      "framing": "medium_wide",
+      "function": "product_hero",
+      "subject_action": "classic_convertible_rear_three_quarter_view_with_passengers_in_traditional_costume_at_sunset",
+      "layout_grid": "subject_centered_low_horizon",
+      "subject_position": "center_lower_half",
+      "typo_motion": "none",
+      "camera_angle": "low_angle_rear",
+      "camera_facing": "behind_vehicle",
+      "shot_scope": "medium_wide",
+      "gaze": "away_from_camera",
+      "props": [
+        "classic_convertible_car",
+        "license_plate_21_KOR_0802",
+        "rear_tail_fins",
+        "chrome_trim",
+        "sunset_horizon",
+        "coastal_mountains"
+      ],
+      "color_palette": [
+        "#1B3A5C",
+        "#F4C46A",
+        "#E8D4B0",
+        "#8B6252",
+        "#C8A882"
+      ],
+      "color_intent": "warm_sunset_golden_hour_with_steel_blue_car_body",
+      "pose_description": "Rear three-quarter view of a large-bodied classic American-style convertible, top-down, passengers visible as dark silhouettes. License plate reads 21-KOR-0802 Unlimited. Sunset flare enters from right. Horizon low, sky golden and hazy.",
+      "subject_motion": "vehicle_stationary_or_slow_creep",
+      "camera_motion": "locked_off",
+      "camera_effect_local": "lens_flare_sunset",
+      "intra_cut_rhythm": "slow",
+      "transition_in": "hard_cut",
+      "transition_out": "hard_cut",
+      "mid_frame_path": "ADV-2026-005_frames/cut02_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "rear_bumper_chrome",
+          "tail_lights",
+          "license_plate"
+        ],
+        "midground": [
+          "passenger_silhouettes_traditional_headwear"
+        ],
+        "background": [
+          "sunset_sky_golden_haze",
+          "coastal_low_mountains"
+        ],
+        "lighting_env": [
+          "magic_hour_backlight",
+          "warm_sunset_flare"
+        ],
+        "atmosphere": [
+          "cinematic_romance",
+          "open_road",
+          "freedom"
+        ]
+      },
+      "texture": {
+        "primary_subject": "metallic_painted_car_body_steel_blue",
+        "secondary_objects": [
+          "chrome_bumper",
+          "leather_interior"
+        ],
+        "background_surface": "coastal_rock_terrain",
+        "atmospheric": [
+          "golden_haze",
+          "lens_flare",
+          "warm_sunset"
+        ]
+      },
+      "lighting": {
+        "key_direction": "rear_backlight_from_setting_sun",
+        "key_hardness": "soft",
+        "key_color_temp": "very_warm_golden",
+        "fill_strength": "medium",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": "strong_golden_rim_on_car_body",
+        "practical_lights": [
+          "sunset_sun"
+        ],
+        "shadow_presence": "long_shadows",
+        "overall_contrast": "medium_warm"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#1B3A5C",
+          "#F4C46A",
+          "#E8D4B0",
+          "#8B6252",
+          "#C8A882"
+        ],
+        "palette_role": {
+          "#1B3A5C": "car_body_steel_blue",
+          "#F4C46A": "sunset_gold",
+          "#E8D4B0": "hazy_sky_light",
+          "#8B6252": "dark_terrain",
+          "#C8A882": "warm_midtone"
+        },
+        "color_relationship": "complementary_warm_cool",
+        "temperature_balance": "warm_dominant",
+        "saturation_strategy": "moderate_saturation_sunset",
+        "contrast_type": "rim_light_silhouette",
+        "accent_color": "#F4C46A",
+        "accent_ratio": 0.25
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A medium-wide cinematic photograph taken from ground level at the rear-left three-quarter angle of a large classic American-style convertible automobile from the early 1970s, top fully down, body painted in a deep metallic steel-blue color that catches the warm backlighting. The vehicle is positioned on a deserted open road, coastal or desert-edge, with a very low horizon line keeping the sky prominent. Coastal or inland mountain foothills are softly visible as a dark silhouette against the glowing sky in the middle background. Two or three passengers sit in the wide ivory-white leather bench seat and rear seat area, their forms visible as dark silhouettes wearing traditional Korean Joseon-dynasty ceremonial court attire including tall structured black court hats called gat with characteristic rounded cylindrical shapes, their faces not clearly visible from this rear angle. The rear license plate of the vehicle reads the digits 21 KOR 0802 with the descriptive word Unlimited written in handwritten red cursive script above the number. Chrome rear bumper and twin sets of vertical rectangular tail-light clusters along the rear fins of the car catch and reflect the warm sunset backlight with a soft glow. The setting sun positioned just off-camera to the right creates a strong warm golden back-rim light that traces the entire roofline, rear fins, and chrome trim of the vehicle in luminous amber highlights. A soft dreamy lens flare streak extends diagonally across the lower right portion of the frame from the sun source. The sky above is a rich warm gradient transitioning from deep amber and orange near the horizon upward through golden yellow to pale lavender and then steel-blue at the very top. The mountains form a low organic dark silhouette against the radiant horizon glow. The overall color grade is warm cinematic with slightly lifted shadow tones giving a filmic softness, midtones pushed toward golden-tan, and a subtle halation around bright light sources. The mood blends cinematic elegance with surreal anachronistic whimsy — traditional Korean historical ceremonial figures inhabiting a thoroughly modern road-trip convertible scene in a breathtaking sunset setting. Korean fintech brand commercial, cinematic 16:9, magic-hour golden-hour lighting. The car's large chrome tail fins reflect distorted abstract shapes of the sunset sky. The rear bench seat is wide enough to seat three figures in traditional court attire comfortably. The figure in the front passenger seat is also partially visible at the right edge wearing a different color hanbok. Small dust particles on the trunk lid catch the golden back light as fine specks of luminosity. The road surface behind the car is dry desert asphalt with minimal road markings. A faint coastal or desert-edge haze softens the mountain silhouette to a warm purple-grey tone. The vehicle's large body mass creates a powerful silhouette against the sunset that communicates premium scale and presence. The chrome tail light lenses glow with an internal warm amber from the setting sun hitting them directly. This shot functions as the first clear reveal that the vehicle carries passengers in traditional court costume, immediately establishing the anachronistic central conceit of the advertisement.",
+        "t2i_negative": "text, logos, daytime bright, green trees, urban",
+        "i2v_motion": "Camera slowly orbits or crabs left around the rear of the stationary vehicle. Lens flare pulses gently with sunset. Passengers shift slightly. Duration approx 1.1 seconds, ends hard cut to close-up of car front grille.",
+        "i2v_params": {
+          "clip_duration_sec": 1.101,
+          "camera_move": "slow_orbit_left",
+          "subject_motion_level": "minimal_passenger_idle",
+          "signature_effect": "sunset_lens_flare",
+          "pacing": "slow",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen copy preserved; identity/logo generic"
+      }
+    },
+    {
+      "index": 3,
+      "duration": 3.637,
+      "framing": "close_up",
+      "function": "product_detail",
+      "subject_action": "extreme_close_up_of_vintage_car_front_grille_decorated_with_Korean_cultural_enamel_badge_pins",
+      "layout_grid": "centered_macro_fill_frame",
+      "subject_position": "center",
+      "typo_motion": "none",
+      "camera_angle": "eye_level_close",
+      "camera_facing": "front_of_vehicle",
+      "shot_scope": "close_up",
+      "gaze": "none",
+      "props": [
+        "chrome_vertical_bar_grille",
+        "Korean_cultural_enamel_pins",
+        "rectangular_headlight_cluster",
+        "bumper_chrome",
+        "KOR_0802_license_plate"
+      ],
+      "color_palette": [
+        "#1B3A5C",
+        "#C0C0C0",
+        "#8B1A1A",
+        "#4A7C59",
+        "#B8860B"
+      ],
+      "color_intent": "steel_blue_car_body_with_multicolor_enamel_pin_accents_against_grey_grille",
+      "pose_description": "Extreme close-up of the front grille: a chrome vertical-bar pattern houses five or six decorative enamel souvenir pins depicting Korean cultural imagery — a lotus flower dated 1976, a pagoda tower, a mountain landscape badge, a crane bird oval, and other traditional cultural symbols. The rectangular headlight housing is partially visible right edge. Bumper chrome at bottom, license plate partially readable.",
+      "subject_motion": "static",
+      "camera_motion": "slow_zoom_in_or_push",
+      "camera_effect_local": "shallow_depth_of_field",
+      "intra_cut_rhythm": "slow",
+      "transition_in": "hard_cut",
+      "transition_out": "hard_cut",
+      "mid_frame_path": "ADV-2026-005_frames/cut03_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "chrome_grille_bars",
+          "enamel_pin_decorations"
+        ],
+        "midground": [
+          "rectangular_headlights",
+          "car_hood_edge"
+        ],
+        "background": [
+          "overcast_sky_bokeh"
+        ],
+        "lighting_env": [
+          "overcast_daylight_soft_diffused"
+        ],
+        "atmosphere": [
+          "detail_craftsmanship",
+          "cultural_identity",
+          "Korean_heritage"
+        ]
+      },
+      "texture": {
+        "primary_subject": "polished_chrome_metal_grille",
+        "secondary_objects": [
+          "painted_enamel_pins",
+          "steel_blue_car_paint"
+        ],
+        "background_surface": "bokeh_sky",
+        "atmospheric": [
+          "shallow_dof",
+          "cinematic_grade"
+        ]
+      },
+      "lighting": {
+        "key_direction": "front_diffused_overhead",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_cool",
+        "fill_strength": "high",
+        "key_to_fill_ratio": "1:1",
+        "rim_light": "subtle_chrome_specular",
+        "practical_lights": [],
+        "shadow_presence": "minimal",
+        "overall_contrast": "medium"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#1B3A5C",
+          "#C0C0C0",
+          "#8B1A1A",
+          "#4A7C59",
+          "#B8860B"
+        ],
+        "palette_role": {
+          "#1B3A5C": "car_body",
+          "#C0C0C0": "chrome_grille",
+          "#8B1A1A": "red_enamel_pin",
+          "#4A7C59": "green_enamel_pin",
+          "#B8860B": "gold_pin_detail"
+        },
+        "color_relationship": "neutral_chrome_with_polychrome_cultural_accents",
+        "temperature_balance": "neutral",
+        "saturation_strategy": "low_body_high_accents",
+        "contrast_type": "local_detail",
+        "accent_color": "#8B1A1A",
+        "accent_ratio": 0.1
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A macro close-up still photograph of the front grille section of a classic American full-size luxury convertible automobile from the late 1960s or early 1970s, its body color a deep rich steel-blue metallic paint. The grille itself consists of fine closely-spaced vertical chrome bars arranged in a precise repeating grid pattern, highly polished and reflecting soft overcast daylight in a cool silver shimmer across their surfaces. The rectangular chrome grille frame forms a solid architectural border around this intricate bar pattern. Decorating and adorning the grille bars are five to six small ornamental souvenir collector pins of various shapes depicting traditional Korean cultural heritage imagery, each carefully affixed to the chrome bars with pin clasps: one approximately circular enamel pin featuring a stylized lotus flower in green and pink with the year 1976 inscribed, one shield-shaped pin depicting a traditional multi-tiered stone pagoda tower in grey and silver enamel, one oval-shaped pin with a white-winged crane bird in flight set against a sky-blue enamel background with a decorative rope border, one roughly triangular or mountain-shaped pin depicting a mountainous landscape in muted grey-brown enamel tones, and one red oval pin featuring Korean script lettering in white. Each pin is approximately two to three centimeters in diameter and adds a personal, curated, and culturally rooted decorative identity to the otherwise mass-produced automotive grille. The rectangular dual-headlight housing with round sealed-beam headlamps is partially visible at the right edge of the frame. The chrome front bumper is just visible at the very bottom of the frame, and a partially visible license plate reads 21 KOR 0802 with the handwritten red script word Unlimited above the numbers. The background behind the car is an out-of-focus overcast sky rendered as smooth shallow-depth-of-field bokeh in pale grey. The overall color grade is cool cinematic with subtle desaturation, neutral highlights, and clean shadow rendering. The image conveys crafted personal cultural identity, the playful and deliberate collision of mid-century American automotive heritage with deeply rooted Korean cultural heritage iconography, and the idea that objects can be claimed and reimagined through cultural expression. Cinematic 16:9 aspect ratio, medium macro lens approximately 85mm equivalent, shot from eye-level slightly below the car's headlight height. The spacing between the chrome bars is approximately one centimeter, allowing partial visibility of the dark space behind the grille. The enamel pins are clearly lovingly collected over time, each representing a different facet of Korean cultural and historical identity, the lotus flower as national floral symbol, the pagoda as architectural heritage, the crane as longevity and grace, the mountain as national landscape identity, the cultural script as linguistic heritage. The combination of these distinctly Korean cultural symbols mounted on a distinctly American mid-century automobile grille makes this an image of cultural appropriation and creative reclamation, a statement that Korean identity can inhabit and transform any context. The chrome surface has a few fine surface micro-scratches consistent with authentic use and age, adding realism and tactile authenticity to the detail shot. The reflective surface of the chrome mirrors a distorted abstract impression of the overcast sky above. The visual density of this close-up rewards extended viewing and repeated frames, serving as a key design element in the broader visual identity of the campaign.",
+        "t2i_negative": "text overlays, people, urban background, daytime harsh sunlight",
+        "i2v_motion": "Very slow push-in toward center of grille, camera slightly below eye level tilting up. Chrome catches light minimally. No subject motion. Duration approx 3.6 seconds, ends on hard cut to dark interior/tunnel transition frame.",
+        "i2v_params": {
+          "clip_duration_sec": 3.637,
+          "camera_move": "slow_push_in",
+          "subject_motion_level": "static",
+          "signature_effect": "shallow_dof_bokeh",
+          "pacing": "slow",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen copy preserved; identity/logo generic"
+      }
+    },
+    {
+      "index": 4,
+      "duration": 1.869,
+      "framing": "close_up",
+      "function": "transition_detail",
+      "subject_action": "close_up_of_traditional_embroidered_garment_collar_and_shoulder_gold_dragon_on_green_silk",
+      "layout_grid": "fill_frame_texture",
+      "subject_position": "center",
+      "typo_motion": "none",
+      "camera_angle": "eye_level_close",
+      "camera_facing": "frontal_oblique",
+      "shot_scope": "close_up",
+      "gaze": "none",
+      "props": [
+        "embroidered_green_silk_robe",
+        "gold_dragon_pattern",
+        "white_collar"
+      ],
+      "color_palette": [
+        "#4A7C59",
+        "#B8860B",
+        "#F5F5F5",
+        "#87CEEB"
+      ],
+      "color_intent": "jewel_tone_green_with_gold_embroidery_detail",
+      "pose_description": "Extreme close-up of the shoulder and chest area of a traditional Korean Joseon-dynasty official court robe. The garment is made of rich emerald-green silk with intricate raised gold embroidery depicting a coiling dragon — the symbol of royal authority. White folded collar at neck edge. Sky background visible in soft bokeh.",
+      "subject_motion": "slight_fabric_movement",
+      "camera_motion": "handheld_slight_drift",
+      "camera_effect_local": "shallow_dof",
+      "intra_cut_rhythm": "slow",
+      "transition_in": "hard_cut",
+      "transition_out": "hard_cut",
+      "mid_frame_path": "ADV-2026-005_frames/cut04_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "embroidered_silk_fabric_detail"
+        ],
+        "midground": [
+          "white_collar_edge"
+        ],
+        "background": [
+          "sky_bokeh"
+        ],
+        "lighting_env": [
+          "soft_outdoor_daylight"
+        ],
+        "atmosphere": [
+          "regal_heritage",
+          "craftsmanship_texture"
+        ]
+      },
+      "texture": {
+        "primary_subject": "silk_embroidered_robe",
+        "secondary_objects": [
+          "gold_thread_raised_embroidery"
+        ],
+        "background_surface": "bokeh_sky",
+        "atmospheric": [
+          "shallow_dof",
+          "jewel_toned"
+        ]
+      },
+      "lighting": {
+        "key_direction": "overhead_soft",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral",
+        "fill_strength": "high",
+        "key_to_fill_ratio": "1:1",
+        "rim_light": "none",
+        "practical_lights": [],
+        "shadow_presence": "low",
+        "overall_contrast": "medium"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#4A7C59",
+          "#B8860B",
+          "#F5F5F5",
+          "#87CEEB"
+        ],
+        "palette_role": {
+          "#4A7C59": "emerald_silk_robe",
+          "#B8860B": "gold_embroidery",
+          "#F5F5F5": "white_collar",
+          "#87CEEB": "bokeh_sky"
+        },
+        "color_relationship": "jewel_tone_dominant_with_metallic_accent",
+        "temperature_balance": "warm_accent_cool_neutral_base",
+        "saturation_strategy": "high_saturation_subject",
+        "contrast_type": "textural",
+        "accent_color": "#B8860B",
+        "accent_ratio": 0.3
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A macro close-up photograph of the chest and upper shoulder area of a traditional Korean Joseon-dynasty court official's ceremonial outer robe known as a doryeopo or gwanbok worn during formal court functions. The outer garment is crafted from lustrous richly shimmering emerald-green raw silk fabric smooth and tightly woven with a subtle natural sheen visible in the soft overcast daylight. The entire visible surface of the garment is densely embroidered with a magnificent raised three-dimensional gold-thread motif depicting a coiling dragon, the traditional symbol of royalty and supreme authority in Korean court tradition. The dragon motif fills most of the visible fabric surface its body rendered in intricate satin-stitch embroidery using thick gold metallic thread that creates a pronounced three-dimensional relief texture with visible raised ridges along the dragon spine wings and scales. The individual scale shapes are each a small raised lozenge of gleaming gold thread. Flame and cloud motifs accompany the central dragon figure in the embroidery design. At the upper edge of the visible fabric near the neck a crisp multi-layered white cotton inner collar is just visible neat and precisely folded in the traditional Korean court fashion contrasting cleanly against the vivid green of the outer robe. The subject skin at the lower jaw and chin area is barely faintly visible at the very top edge of the frame anchoring the garment to its wearer. The background behind the figure is completely blurred into a smooth uniform pale blue-white sky bokeh with no detail visible. Shot from slightly below the garment looking upward at approximately a thirty to forty-five degree angle creating a subtly heroic compositional angle that emphasizes the garment visual scale and importance. Soft overcast outdoor natural daylight fills the scene evenly from above with minimal harsh shadows. The color grade preserves the fully natural vivid colors, the emerald green and warm metallic gold are rendered at near-full saturation not desaturated like the landscape shots in the broader campaign. Medium telephoto macro lens at approximately one hundred millimeter equivalent focal length with very shallow depth of field keeps the central embroidery texture razor sharp while the edges of the robe and the background fall gently soft. The image conveys regal historical authority deeply-rooted Korean cultural heritage extraordinary craft and artisanship and the intimate textural beauty of traditional ceremonial dress. The composition is abstract and richly sensory, inviting the viewer to appreciate the artistry of the embroiderer and the cultural weight of the costume. Korean fintech brand commercial cinematic 16:9 detail shot. The three-dimensional raised nature of the embroidery creates complex micro-shadow patterns within the gold thread work as the soft light rakes across the surface at a slight angle. The silk base fabric between the embroidered motifs shows its natural woven structure, a tight plain-weave or twill in the characteristic deep emerald green. The white inner collar shows the careful multi-layer folding technique of traditional Korean court dress construction, with several layers of white cotton visible at the neckline. This detail shot communicates that the campaign invests in authentic, high-quality costume construction rather than theatrical approximations. The depth of the embroidery craftsmanship echoes the depth of Korean cultural heritage being invoked throughout the campaign. The specific choice of a dragon motif, reserved in Joseon society for the highest court ranks, deliberately references the campaign theme of unlocking power and authority over one's financial life.",
+        "t2i_negative": "text, logos, modern fabric, synthetic material, harsh shadow",
+        "i2v_motion": "Subtle handheld breathing movement, slight pan across the embroidery detail. Fabric ripples gently in breeze. Duration approx 1.9 seconds, hard cut to interior car shot.",
+        "i2v_params": {
+          "clip_duration_sec": 1.869,
+          "camera_move": "handheld_slight_drift",
+          "subject_motion_level": "minimal_fabric_ripple",
+          "signature_effect": "shallow_dof_texture",
+          "pacing": "slow",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen copy preserved; identity/logo generic"
+      }
+    },
+    {
+      "index": 5,
+      "duration": 2.002,
+      "framing": "medium_close_up",
+      "function": "character_portrait",
+      "subject_action": "male_figure_in_Joseon_court_dress_seated_in_convertible_looking_forward_serious_expression",
+      "layout_grid": "portrait_center_right",
+      "subject_position": "center_right",
+      "typo_motion": "none",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal_through_windshield",
+      "shot_scope": "medium_close_up",
+      "gaze": "off_camera_forward",
+      "props": [
+        "gat_traditional_black_hat",
+        "green_gold_embroidered_robe",
+        "white_collar",
+        "white_car_interior",
+        "desert_background"
+      ],
+      "color_palette": [
+        "#4A7C59",
+        "#B8860B",
+        "#1A1A2E",
+        "#F5F5F5",
+        "#C4A882"
+      ],
+      "color_intent": "jewel_tone_figure_against_muted_desert_background",
+      "pose_description": "Medium close-up of a Korean male actor in Joseon-era official court costume — green embroidered silk robe, white collar, tall structured black cylindrical gat hat — seated in the driver seat of a white-interior convertible. His expression is serious and composed, looking forward with intensity. In the background through the open car, a second figure in lighter blue-grey hanbok is partially visible. Desert landscape rolls past behind.",
+      "subject_motion": "static_seated",
+      "camera_motion": "handheld_slight",
+      "camera_effect_local": "none",
+      "intra_cut_rhythm": "medium",
+      "transition_in": "hard_cut",
+      "transition_out": "hard_cut",
+      "mid_frame_path": "ADV-2026-005_frames/cut05_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "steering_wheel_edge",
+          "car_door_frame"
+        ],
+        "midground": [
+          "male_figure_in_court_dress"
+        ],
+        "background": [
+          "second_figure_light_hanbok",
+          "desert_landscape",
+          "pale_sky"
+        ],
+        "lighting_env": [
+          "overcast_outdoor_soft_natural"
+        ],
+        "atmosphere": [
+          "composed_authority",
+          "surreal_anachronism"
+        ]
+      },
+      "texture": {
+        "primary_subject": "embroidered_silk_robe",
+        "secondary_objects": [
+          "gat_hat_lacquered",
+          "white_car_leather_seat"
+        ],
+        "background_surface": "desert_rolling_background",
+        "atmospheric": [
+          "cinematic_neutral_grade"
+        ]
+      },
+      "lighting": {
+        "key_direction": "front_overcast",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral",
+        "fill_strength": "high",
+        "key_to_fill_ratio": "1:1",
+        "rim_light": "subtle",
+        "practical_lights": [],
+        "shadow_presence": "minimal",
+        "overall_contrast": "medium"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#4A7C59",
+          "#B8860B",
+          "#1A1A2E",
+          "#F5F5F5",
+          "#C4A882"
+        ],
+        "palette_role": {
+          "#4A7C59": "robe_green",
+          "#B8860B": "embroidery_gold",
+          "#1A1A2E": "hat_black",
+          "#F5F5F5": "collar_white",
+          "#C4A882": "desert_background"
+        },
+        "color_relationship": "jewel_tone_against_muted_background",
+        "temperature_balance": "neutral",
+        "saturation_strategy": "high_subject_low_background",
+        "contrast_type": "subject_background_separation",
+        "accent_color": "#B8860B",
+        "accent_ratio": 0.2
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A medium close-up cinematic portrait photograph of a Korean male actor in his thirties wearing traditional Joseon-dynasty official court costume, seated in the driver seat of a large classic American convertible automobile with the convertible top fully down and white leather interior visible. He wears a richly embroidered emerald-green silk court robe with raised gold dragon motif embroidery covering the shoulders and upper chest, a crisp folded layered white cotton collar at the neck, and a tall structured black cylindrical traditional court hat called a gat made of lacquered horsehair mesh weave with a knotted decorative cord band at its base and the characteristic tall upright cylindrical form. His expression is serious composed and forward-focused conveying quiet intensity and authority as if driving with deliberate purpose. He has a neatly trimmed short beard and moustache giving him a mature regal appearance. In the background through the open car behind his shoulder a second Korean male figure is partially visible wearing a lighter pale blue-grey silk hanbok robe, his form slightly out of focus. Behind both figures the out-of-focus desert landscape scrolls past as the vehicle moves, showing ochre-tan flat terrain and distant low hills under an overcast pale grey sky. The car interior features an ivory-white padded dashboard visible at the lower edge of the frame and the white steering wheel partially in frame at the lower center. Shot from approximately eye level slightly below looking up at him creating a subtle hero angle. Soft overcast outdoor lighting provides clean even illumination with no harsh shadows on his face, rendering skin tones accurately with a slightly warm neutral grade. The color grade is cinematic with slightly muted background elements and vivid jewel-toned garment colors, the emerald green and gold embroidery of his robe standing out strongly against the muted desert backdrop visible through the car. The scene evokes a powerful surreal juxtaposition, the absolute authority and formality of Joseon royal court hierarchy transported into the context of contemporary personal freedom and self-directed travel. The combination of historical costume and modern vehicle creates an iconic anachronistic visual. Korean fintech brand commercial cinematic 16:9 portrait. The composition places his face in the upper-center of the frame with the robe filling the lower two-thirds, creating a balanced portrait that gives equal visual weight to his identity and his costume. The car window frame visible at the very left edge anchors the shot in its automotive context. The intensity of his forward gaze communicates that this journey is taken with absolute purpose and conviction, not casual pleasure. The desert background through the rear window shows a different perspective of the landscape than the aerial shots, providing visual continuity and world-building coherence. The handheld camera adds a subtle breathing quality to the shot, making it feel observational and intimate rather than formally staged. His beard and overall strong facial features are rendered with cinematic clarity in the soft overcast light, making this a highly printable hero portrait for the campaign. The slight upward viewing angle creates an unconscious sense of respect and admiration for the figure, positioning the viewer as slightly subordinate to his composed authority even in this casual automotive context. The desert landscape through the car windows creates a sense of movement and forward progress that energizes the otherwise still portrait. The car's white leather interior contrasts strongly with the vivid green and gold of his court robe, making the garment pop visually in the frame.",
+        "t2i_negative": "text, logos, smiling expression, casual clothing, night, harsh lighting",
+        "i2v_motion": "Very slight handheld camera drift forward, subject's robes flutter gently in wind. Expression holds composed. Background landscape slides past. Duration approx 2 seconds, hard cut to next character portrait.",
+        "i2v_params": {
+          "clip_duration_sec": 2.002,
+          "camera_move": "handheld_slight_push",
+          "subject_motion_level": "minimal_robe_flutter",
+          "signature_effect": "none",
+          "pacing": "slow",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen copy preserved; identity/logo generic"
+      }
+    },
+    {
+      "index": 6,
+      "duration": 1.235,
+      "framing": "medium",
+      "function": "character_portrait",
+      "subject_action": "secondary_male_in_light_blue_hanbok_reclines_in_back_seat_looking_away_with_sky_behind",
+      "layout_grid": "portrait_center_low_angle",
+      "subject_position": "center_right",
+      "typo_motion": "fade_in_partial_text",
+      "camera_angle": "low_angle_looking_up",
+      "camera_facing": "from_car_exterior_low",
+      "shot_scope": "medium",
+      "gaze": "off_camera_horizon",
+      "props": [
+        "light_blue_hanbok_robe",
+        "dark_purple_collar_trim",
+        "black_gat_hat_variant",
+        "dramatic_sky"
+      ],
+      "color_palette": [
+        "#6B9DC0",
+        "#4A3728",
+        "#D4D4D4",
+        "#8BA5C0",
+        "#E8E0D8"
+      ],
+      "color_intent": "cool_blue_hanbok_against_dramatic_grey_sky",
+      "pose_description": "A second Korean male figure in a pale powder-blue silk hanbok with dark navy/purple collar trim leans back in the rear seat, head slightly tilted back with eyes half-closed, looking up and away toward the horizon in a relaxed liberated pose. His black gat hat is partially visible. The low camera angle places the dramatic overcast sky as backdrop. Emerging text caption: 돈의 이동에",
+      "subject_motion": "gentle_sway_with_motion",
+      "camera_motion": "handheld_low_angle",
+      "camera_effect_local": "none",
+      "intra_cut_rhythm": "medium",
+      "transition_in": "hard_cut",
+      "transition_out": "hard_cut",
+      "mid_frame_path": "ADV-2026-005_frames/cut06_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "car_body_edge_blue"
+        ],
+        "midground": [
+          "male_figure_light_blue_robe"
+        ],
+        "background": [
+          "dramatic_overcast_sky",
+          "pale_horizon"
+        ],
+        "lighting_env": [
+          "overcast_daylight_backlit"
+        ],
+        "atmosphere": [
+          "liberating",
+          "surreal",
+          "contemplative"
+        ]
+      },
+      "texture": {
+        "primary_subject": "pale_silk_hanbok",
+        "secondary_objects": [
+          "gat_hat"
+        ],
+        "background_surface": "overcast_sky",
+        "atmospheric": [
+          "cinematic_grade_cool"
+        ]
+      },
+      "lighting": {
+        "key_direction": "overhead_overcast",
+        "key_hardness": "soft",
+        "key_color_temp": "cool_neutral",
+        "fill_strength": "high",
+        "key_to_fill_ratio": "1:1",
+        "rim_light": "subtle_sky_edge",
+        "practical_lights": [],
+        "shadow_presence": "low",
+        "overall_contrast": "medium"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#6B9DC0",
+          "#4A3728",
+          "#D4D4D4",
+          "#8BA5C0",
+          "#E8E0D8"
+        ],
+        "palette_role": {
+          "#6B9DC0": "hanbok_blue",
+          "#4A3728": "collar_dark",
+          "#D4D4D4": "sky_overcast",
+          "#8BA5C0": "cool_shadow",
+          "#E8E0D8": "highlight_sky"
+        },
+        "color_relationship": "monochromatic_cool_blue",
+        "temperature_balance": "cool",
+        "saturation_strategy": "low_saturation_cool",
+        "contrast_type": "tonal_soft",
+        "accent_color": "#4A3728",
+        "accent_ratio": 0.1
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A medium cinematic photograph from a low exterior angle shot from below the windowline looking up and diagonally into the rear seat area of a classic large-body American convertible automobile moving along a desert highway with the top down. A Korean male figure in his late thirties reclines languidly in the back seat wearing a flowing powder-blue pale silk hanbok court robe with a dark navy-purple collar trim and layered construction typical of Joseon-dynasty formal male attire. A partially visible traditional tall black court gat hat rests on his head. His head is tilted slightly backward with eyes half-closed and gaze directed upward toward the horizon and sky in a relaxed liberated pose suggesting absolute freedom from constraint and a sense of floating in open space. His right arm extends casually resting along the top of the rear seat back. The camera angle is dramatically low, positioned at approximately wheel level or below, so that the dramatic overcast sky fills almost the entire background of the frame, creating a heroic and aspirational framing with the figure rendered against pure sky. The sky is layered with dynamic moving grey-silver overcast clouds lit from above by diffused daylight, with subtle variations in luminosity and texture across the cloud formations. The car's deep steel-blue painted body panels are visible as a curved metallic shape at the bottom edge of the frame. The white leather interior headrest and seat top edge are visible. In the lower left corner of the image the Korean text caption reading the first part of the tagline appears as white bold rounded sans-serif type. The color grade is cool cinematic with slight desaturation, the pale blue hanbok as the primary saturated color element in an otherwise muted cool scene. The mood conveys liberation, contemplative freedom, and the pleasurable sensation of the wind and sky overhead while moving freely through open space. Korean fintech commercial cinematic 16:9 low angle portrait shot with dramatic sky background. The powder-blue hanbok color has been specifically chosen to contrast with the darker steel-blue car body while harmonizing with the grey-blue overcast sky, creating a tonal relationship that makes him appear to belong to the open sky rather than the enclosed vehicle. The traditional formal court gat hat on his head reads as a sculptural form against the sky, its circular cylindrical silhouette creating a simple but powerful shape. His posture of leaning back with open body language contrasts directly with the formal upright posture expected in traditional Korean court settings, making the physical liberation visible. The caption text in the lower left is carefully positioned to occupy negative space without overlapping the figure, maintaining compositional clarity. The low-angle perspective creates a feeling that the viewer is looking up at this liberated historical figure with admiration and aspiration. The motion-induced robe movement creates dynamic visual energy even in what is essentially a portrait shot, the silk fabric catching the desert wind and streaming backward in a way that emphasizes speed and freedom. The contrast between the formal historical costume and the casual physical posture creates the core visual tension that runs through the entire advertisement.",
+        "t2i_negative": "text other than specified caption, harsh sunlight, green landscape, urban",
+        "i2v_motion": "Low camera slowly rises upward while figure's robes billow in wind. Clouds drift overhead. Text 돈의 이동에 fades in lower left. Duration 1.2 seconds, hard cut to next wider shot with same text continuing.",
+        "i2v_params": {
+          "clip_duration_sec": 1.235,
+          "camera_move": "slow_tilt_up",
+          "subject_motion_level": "robe_billowing",
+          "signature_effect": "caption_fade_in",
+          "pacing": "slow",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen copy preserved; identity/logo generic"
+      }
+    },
+    {
+      "index": 7,
+      "duration": 1.401,
+      "framing": "medium_close_up",
+      "function": "character_portrait",
+      "subject_action": "third_male_in_peach_hanbok_with_spiked_gat_leans_back_against_car_body",
+      "layout_grid": "portrait_right_third",
+      "subject_position": "right_center",
+      "typo_motion": "持続_existing_text_돈의이동에",
+      "camera_angle": "low_angle",
+      "camera_facing": "exterior_low",
+      "shot_scope": "medium_close_up",
+      "gaze": "upward_away",
+      "props": [
+        "peach_salmon_hanbok",
+        "distinctive_winged_gat_hat",
+        "car_blue_body"
+      ],
+      "color_palette": [
+        "#F5CBA7",
+        "#1A1A2E",
+        "#B0B0B0",
+        "#8BA5C0",
+        "#E8E0D8"
+      ],
+      "color_intent": "warm_peach_figure_against_cool_grey_sky",
+      "pose_description": "A third Korean male in a warm peach-salmon colored silk hanbok with a distinctive traditional winged-brim spiked gat hat leans back over the rear car body, head tilted back, with a relaxed liberated posture. The camera is at low exterior angle, sky filling the background. Caption 돈의 이동에 persists lower left.",
+      "subject_motion": "gentle_lean_back",
+      "camera_motion": "handheld_low",
+      "camera_effect_local": "none",
+      "intra_cut_rhythm": "medium",
+      "transition_in": "hard_cut",
+      "transition_out": "hard_cut",
+      "mid_frame_path": "ADV-2026-005_frames/cut07_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "car_blue_panel"
+        ],
+        "midground": [
+          "figure_peach_robe_winged_hat"
+        ],
+        "background": [
+          "dramatic_overcast_sky"
+        ],
+        "lighting_env": [
+          "overcast_backlight"
+        ],
+        "atmosphere": [
+          "freedom",
+          "joy",
+          "surreal_anachronism"
+        ]
+      },
+      "texture": {
+        "primary_subject": "peach_silk_hanbok",
+        "secondary_objects": [
+          "winged_gat_hat"
+        ],
+        "background_surface": "overcast_sky",
+        "atmospheric": [
+          "cinematic_grade"
+        ]
+      },
+      "lighting": {
+        "key_direction": "overhead_overcast",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_warm",
+        "fill_strength": "high",
+        "key_to_fill_ratio": "1:1",
+        "rim_light": "subtle",
+        "practical_lights": [],
+        "shadow_presence": "low",
+        "overall_contrast": "low_medium"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#F5CBA7",
+          "#1A1A2E",
+          "#B0B0B0",
+          "#8BA5C0",
+          "#E8D4A0"
+        ],
+        "palette_role": {
+          "#F5CBA7": "peach_hanbok",
+          "#1A1A2E": "gat_hat",
+          "#B0B0B0": "overcast_sky",
+          "#8BA5C0": "car_body",
+          "#E8D4A0": "warm_highlight"
+        },
+        "color_relationship": "warm_cool_contrast",
+        "temperature_balance": "neutral",
+        "saturation_strategy": "low_overall",
+        "contrast_type": "subject_vs_sky",
+        "accent_color": "#1A1A2E",
+        "accent_ratio": 0.1
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A medium close-up cinematic photograph from a low angle exterior position looking up at a Korean male figure in his forties leaning back against the rear bodywork of a classic large-body American-style convertible automobile with deep steel-blue metallic paintwork. The figure wears a warm peach-salmon colored silk hanbok court robe made of smooth flowing silk with a slightly matte surface and a darker complementary collar trim. On his head he wears a distinctive traditional Korean official court hat with outward-angled wing-like or fin-like brim extensions called a gat in a particular regional or rank-specific style, the entire hat constructed of black lacquered material with a structured angular quality quite different from the more common cylindrical court hat. He leans his torso back over the rear body of the car with his head tilted back and eyes partially closed in an expression of serene liberation and physical abandon, one arm draped casually over the upper edge of the car body. The camera angle is dramatically low, positioned at approximately wheel or lower-body level looking upward, so that the overcast grey-blue sky with moving cloud formations fills the entire background above the figure creating a powerfully heroic and open compositional space. The deep steel-blue car body paint and chrome trim are visible in the lower portions of the frame. The white Korean text caption reading the partial tagline appears in bold rounded sans-serif type at the lower left of the frame. The color grade is cool cinematic with slight desaturation, the warm peach tones of his silk robe creating a compelling warm-cool contrast against the grey overcast sky background. The mood conveys freedom, anachronistic playfulness, and the physical pleasure of wind and motion as a historical figure unexpectedly experiences the sensation of modern automotive speed and open air. Korean fintech commercial cinematic 16:9. The particular style of the winged gat hat worn by this figure differs visually from the standard cylindrical gat, its swept-back angular wings creating a dynamic graphic shape against the sky that suggests speed and forward movement even while the figure is static. The warm peach color of his robe creates a complementary color relationship with the cool grey sky that is visually sophisticated and pleasing. His physical posture of leaning freely over the rear of the car body communicates complete physical relaxation and trust in the modern vehicle, a posture utterly impossible in formal traditional court settings and therefore powerfully symbolic of freedom from that social constraint. The low camera position forces the viewer to look up at him from below, a compositional choice that elevates his status even as his pose is casual and relaxed. The gold-embroidery details visible on the robe even at this distance catch the available light and add richness and visual reward to the composition. The steel-blue car body at the bottom of the frame provides a grounding element that prevents the composition from becoming too abstract and skyward. The figure's relaxed confidence in this unconventional posture communicates that liberation is already achieved, not merely aspired to.",
+        "t2i_negative": "text other than specified caption, harsh sunlight, green landscape, smile",
+        "i2v_motion": "Low camera holds steady while figure's robe billows in wind. Head tilts back further. Caption text stable. Duration 1.4 seconds, hard cut to car grille front view.",
+        "i2v_params": {
+          "clip_duration_sec": 1.401,
+          "camera_move": "locked_off_low",
+          "subject_motion_level": "robe_billowing",
+          "signature_effect": "none",
+          "pacing": "slow",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen copy preserved; identity/logo generic"
+      }
+    },
+    {
+      "index": 8,
+      "duration": 1.268,
+      "framing": "medium",
+      "function": "product_hero_with_copy",
+      "subject_action": "front_grille_with_warrior_hood_ornament_and_Korean_badges_caption_돈의이동에자유를",
+      "layout_grid": "centered_symmetrical",
+      "subject_position": "center",
+      "typo_motion": "fade_in_자유를_to_complete_tagline",
+      "camera_angle": "eye_level_front",
+      "camera_facing": "front_of_vehicle",
+      "shot_scope": "medium",
+      "gaze": "none",
+      "props": [
+        "car_hood",
+        "traditional_warrior_statue_hood_ornament",
+        "chrome_grille",
+        "Korean_cultural_badges",
+        "license_plate_partial"
+      ],
+      "color_palette": [
+        "#1B3A5C",
+        "#C0C0C0",
+        "#8B7355",
+        "#B8860B",
+        "#D4D4D4"
+      ],
+      "color_intent": "steel_blue_symmetrical_hero_shot_with_warrior_ornament",
+      "pose_description": "Symmetrical front view of the car hood showing the apex of the hood with a silver cast-metal traditional Korean general/warrior statue as hood ornament — standing erect with staff/weapon. Below it, the chrome grille with Korean cultural enamel pins. Caption builds: 돈의 이동에 자유를. This is the wow cut — the car is fully revealed as a cultural-hybrid object.",
+      "subject_motion": "static",
+      "camera_motion": "locked_off",
+      "camera_effect_local": "none",
+      "intra_cut_rhythm": "medium",
+      "transition_in": "hard_cut",
+      "transition_out": "hard_cut",
+      "mid_frame_path": "ADV-2026-005_frames/cut08_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "car_grille_chrome",
+          "cultural_pins"
+        ],
+        "midground": [
+          "hood_surface",
+          "warrior_ornament"
+        ],
+        "background": [
+          "overcast_sky"
+        ],
+        "lighting_env": [
+          "overcast_diffused"
+        ],
+        "atmosphere": [
+          "cultural_power",
+          "iconic_reveal",
+          "tagline_climax"
+        ]
+      },
+      "texture": {
+        "primary_subject": "painted_car_hood_steel_blue",
+        "secondary_objects": [
+          "chrome_grille",
+          "cast_metal_ornament"
+        ],
+        "background_surface": "overcast_sky",
+        "atmospheric": [
+          "cinematic_grade"
+        ]
+      },
+      "lighting": {
+        "key_direction": "overhead_front",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_cool",
+        "fill_strength": "high",
+        "key_to_fill_ratio": "1:1",
+        "rim_light": "subtle_chrome_reflection",
+        "practical_lights": [],
+        "shadow_presence": "minimal",
+        "overall_contrast": "medium"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#1B3A5C",
+          "#C0C0C0",
+          "#8B7355",
+          "#B8860B",
+          "#D4D4D4"
+        ],
+        "palette_role": {
+          "#1B3A5C": "car_hood_blue",
+          "#C0C0C0": "chrome",
+          "#8B7355": "sky_neutral",
+          "#B8860B": "pin_gold_accent",
+          "#D4D4D4": "overcast_sky"
+        },
+        "color_relationship": "cool_dominant_metallic",
+        "temperature_balance": "neutral_cool",
+        "saturation_strategy": "low_saturation_with_metallic",
+        "contrast_type": "symmetrical_balanced",
+        "accent_color": "#B8860B",
+        "accent_ratio": 0.1
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A medium symmetrical front-view cinematic photograph of the hood and grille section of a classic American full-size convertible automobile from the early 1970s with the body painted in deep steel-blue metallic. The composition is perfectly centered and bilaterally balanced around the central axis of the vehicle. At the very apex of the long curved hood stands a custom-made silver cast-metal ornamental figurine in the form of a traditional Korean historical general or warrior figure, approximately fifteen centimeters in total height, depicted in full classical military ceremonial robes and armor, holding a long staff or weapon upright at a vertical angle beside the body, the figure facing directly forward toward the camera in a commanding formal stance, this cultural figurine replacing the conventional automotive hood ornament with a deeply significant Korean cultural emblem. Directly below the hood the chrome vertical-bar grille is prominently visible decorated with the five to six Korean cultural souvenir enamel collector pins described in detail previously, each pin a small treasure of Korean heritage iconography affixed to the polished chrome bars. Two sets of large rectangular dual headlights with chrome bezels flank the grille symmetrically on each side, their sealed-beam glass faces catching the diffused overcast light. At the lower edge the chrome front bumper spans the full width and a partially visible license plate is readable at the center. The entire background is overcast sky with layered clouds providing soft even neutral lighting. The Korean text caption showing the complete tagline appears in white bold sans-serif type at the lower left of the frame, this being the full reveal of the campaign tagline. The overall color grade is cinematic and cool-neutral with the steel-blue car body as the dominant chromatic element. The image is the iconic hero shot of the entire advertisement, the cultural hybrid object fully revealed as a deliberate artistic statement combining American automotive heritage and Korean historical cultural identity into a single powerfully meaningful vehicle. Korean fintech commercial cinematic 16:9. The warrior hood ornament is the single most concept-dense visual element in the entire advertisement, condensing the campaign's central narrative into one small sculptural object: a Korean historical warrior figurine standing guard at the prow of a vehicle speeding toward a liberated financial future. The symmetry of the composition mirrors traditional Korean court architectural compositions, drawing on visual heritage even in this nontraditional context. The Korean cultural enamel pins in the grille make the vehicle function as a kind of moving cultural archive or scrapbook, each pin a small token of specific Korean historical and cultural identity. The headline caption visible on screen at this moment represents the full reveal of the campaign tagline, making this the climactic copy moment coinciding with the climactic visual reveal of the hero product object. The car's chrome grille surface reflects the overcast sky in multiple distorted facets across the individual bars, creating a complex luminous pattern of cool silver light. The Korean warrior ornament is positioned at the exact vertical center line of the frame, creating a focal point of perfect bilateral symmetry. The caption text placement at lower left creates deliberate asymmetry that prevents the composition from being overly static and formal.",
+        "t2i_negative": "text other than specified caption, people, modern car",
+        "i2v_motion": "Static shot, very slow zoom back to reveal full front face of car. Hood ornament catches subtle light. Caption 자유를 fades in to complete tagline. Duration 1.3 seconds, hard cut to wide-shot of all passengers in car.",
+        "i2v_params": {
+          "clip_duration_sec": 1.268,
+          "camera_move": "very_slow_pullback",
+          "subject_motion_level": "static",
+          "signature_effect": "caption_completion_reveal",
+          "pacing": "slow",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen copy preserved; identity/logo generic"
+      }
+    },
+    {
+      "index": 9,
+      "duration": 2.736,
+      "framing": "medium_wide",
+      "function": "ensemble_reveal",
+      "subject_action": "all_four_passengers_in_traditional_costume_visible_in_open_convertible_moving_along_desert_highway",
+      "layout_grid": "overhead_angle_wide_vehicle",
+      "subject_position": "center",
+      "typo_motion": "持続_돈의이동에자유를",
+      "camera_angle": "high_angle_side",
+      "camera_facing": "side_tracking",
+      "shot_scope": "medium_wide",
+      "gaze": "mixed_some_forward_some_away",
+      "props": [
+        "convertible_full_view",
+        "four_passengers_traditional_hanbok",
+        "desert_road",
+        "car_shadow"
+      ],
+      "color_palette": [
+        "#1B3A5C",
+        "#4A7C59",
+        "#6B9DC0",
+        "#F5CBA7",
+        "#C4A882"
+      ],
+      "color_intent": "ensemble_color_harmony_of_different_hanbok_hues_against_car_blue",
+      "pose_description": "High-angle tracking side shot showing the full convertible from the driver side: woman in gold hanbok driving, man in green robe front passenger, two men in back (peach robe, pale blue robe). All four wear traditional Korean court attire. Desert road scrolls below. Caption 돈의 이동에 자유를 visible.",
+      "subject_motion": "vehicle_moving_forward",
+      "camera_motion": "tracking_side",
+      "camera_effect_local": "chromatic_aberration_edge",
+      "intra_cut_rhythm": "medium",
+      "transition_in": "hard_cut",
+      "transition_out": "hard_cut",
+      "mid_frame_path": "ADV-2026-005_frames/cut09_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "desert_road_blur"
+        ],
+        "midground": [
+          "convertible_side_full_view",
+          "four_figures_traditional_dress"
+        ],
+        "background": [
+          "desert_plain",
+          "horizon"
+        ],
+        "lighting_env": [
+          "overcast_daylight"
+        ],
+        "atmosphere": [
+          "ensemble_freedom",
+          "group_liberation",
+          "surreal_spectacle"
+        ]
+      },
+      "texture": {
+        "primary_subject": "car_body_steel_blue",
+        "secondary_objects": [
+          "silk_robes_multiple_colors",
+          "white_leather_interior"
+        ],
+        "background_surface": "desert_road",
+        "atmospheric": [
+          "motion_blur_road",
+          "chromatic_aberration"
+        ]
+      },
+      "lighting": {
+        "key_direction": "overhead_overcast",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral",
+        "fill_strength": "high",
+        "key_to_fill_ratio": "1:1",
+        "rim_light": "none",
+        "practical_lights": [],
+        "shadow_presence": "low",
+        "overall_contrast": "medium"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#1B3A5C",
+          "#4A7C59",
+          "#6B9DC0",
+          "#F5CBA7",
+          "#C4A882"
+        ],
+        "palette_role": {
+          "#1B3A5C": "car_body",
+          "#4A7C59": "green_robe",
+          "#6B9DC0": "blue_robe",
+          "#F5CBA7": "peach_robe",
+          "#C4A882": "desert_ground"
+        },
+        "color_relationship": "analogous_cool_plus_warm_accent",
+        "temperature_balance": "neutral",
+        "saturation_strategy": "moderate_varied_hues",
+        "contrast_type": "figure_vs_ground",
+        "accent_color": "#F5CBA7",
+        "accent_ratio": 0.15
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A medium-wide cinematic photograph taken from a high exterior tracking position elevated slightly above the car roofline on the left driver side of a classic American full-size convertible automobile moving at moderate speed along a straight desert highway. The camera appears to be mounted on a parallel tracking vehicle moving at the same speed as the subject vehicle so the car appears relatively static while the desert road surface below is blurred with motion. All four passengers inside the open convertible are fully visible in this encompassing ensemble shot: in the driver seat position a young Korean woman wearing a flowing golden-yellow silk hanbok with a dark wine-colored neckpiece collar and her black hair styled in a traditional braided court updo grips the white steering wheel and faces forward; in the front passenger seat a Korean male wears a richly embroidered emerald-green court robe and a tall structured black gat hat; in the wide rear bench seat two additional Korean males are visible, one wearing a warm peach-salmon silk hanbok with a distinctive winged gat hat and another in a pale powder-blue hanbok. All four occupants wear distinct different-colored traditional Korean Joseon-dynasty court attire creating a rich palette of jewel tones: green, gold, peach, and blue. The car body is deep steel-blue metallic with polished chrome trim all along the exterior, the white ivory leather seats visible inside, the chrome grille with cultural pins at the front just visible. Beneath the vehicle the desert road surface shows strong diagonal motion blur streaking from the vehicle speed. On both sides of the road the flat arid desert extends to a low horizon. The Korean text caption appears at lower left in white bold sans-serif. Slight chromatic aberration at the extreme corners of the frame gives an authentic cinematic film look. The color grade is slightly desaturated cinematic with the vivid costume colors standing out against the muted landscape. Korean fintech brand commercial cinematic 16:9 ensemble wide tracking shot. The tracking shot composition allows the viewer to read all four figures simultaneously in a single frame, creating a group portrait that emphasizes the ensemble nature of this journey and the idea that financial freedom benefits everyone. The different hanbok colors create a spectrum of warm and cool tones across the group, gold yellow, emerald green, peach salmon, and powder blue, that is visually harmonious and immediately distinguishable for each character. The desert road and landscape visible beneath and behind the car provide spatial context and confirm the vehicle's actual motion. The chromatic aberration at the frame edges is deliberately included as a cinematic texture element consistent with certain film stock characteristics, adding analog warmth to the digital capture. The rolling desert landscape visible on both sides of the road beyond the car creates a panoramic sense of open space and freedom that amplifies the liberation narrative. The car's chrome exterior trim glints with reflected light from the overcast sky. Each figure's individual posture and expression contributes to the collective ensemble feeling of a group of individuals freely choosing their journey together.",
+        "t2i_negative": "text other than specified caption, modern clothing, urban setting, close-up",
+        "i2v_motion": "Tracking side shot with camera moving at same speed as vehicle. Road surface blurs below. Robes flutter in wind. Duration approx 2.7 seconds, hard cut to driver close-up portrait.",
+        "i2v_params": {
+          "clip_duration_sec": 2.736,
+          "camera_move": "parallel_tracking_side",
+          "subject_motion_level": "vehicle_forward_robes_flutter",
+          "signature_effect": "chromatic_aberration_edge",
+          "pacing": "medium",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen copy preserved; identity/logo generic"
+      }
+    },
+    {
+      "index": 10,
+      "duration": 1.401,
+      "framing": "medium_close_up",
+      "function": "character_portrait",
+      "subject_action": "female_passenger_in_gold_hanbok_driving_with_caption_이제자유롭게",
+      "layout_grid": "portrait_center_through_window",
+      "subject_position": "center",
+      "typo_motion": "none_text_stable",
+      "camera_angle": "eye_level_side_through_window",
+      "camera_facing": "side_through_window",
+      "shot_scope": "medium_close_up",
+      "gaze": "forward_slight_sidelong",
+      "props": [
+        "gold_yellow_hanbok",
+        "dark_wine_collar",
+        "traditional_braided_updo",
+        "white_steering_wheel",
+        "car_mirror",
+        "desert_background"
+      ],
+      "color_palette": [
+        "#D4A843",
+        "#4A1C2A",
+        "#F5F5F5",
+        "#8B7355",
+        "#1B3A5C"
+      ],
+      "color_intent": "warm_golden_figure_framed_by_car_window",
+      "pose_description": "Medium close-up through car window of a young Korean woman wearing a golden-yellow hanbok with dark wine-red collar, traditional braided hair pinned up. She drives, gripping the white steering wheel, looking forward with a composed expression. Caption: 이제, 자유롭게",
+      "subject_motion": "static_driving",
+      "camera_motion": "handheld_side",
+      "camera_effect_local": "slight_lens_flare",
+      "intra_cut_rhythm": "medium",
+      "transition_in": "hard_cut",
+      "transition_out": "hard_cut",
+      "mid_frame_path": "ADV-2026-005_frames/cut10_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "car_door_window_frame",
+          "side_mirror"
+        ],
+        "midground": [
+          "female_driver_gold_hanbok"
+        ],
+        "background": [
+          "desert_landscape",
+          "mountain_silhouette"
+        ],
+        "lighting_env": [
+          "overcast_outdoor_soft"
+        ],
+        "atmosphere": [
+          "feminine_authority",
+          "driving_freedom"
+        ]
+      },
+      "texture": {
+        "primary_subject": "golden_silk_hanbok",
+        "secondary_objects": [
+          "braided_hair",
+          "car_interior_white"
+        ],
+        "background_surface": "desert_background",
+        "atmospheric": [
+          "cinematic_grade"
+        ]
+      },
+      "lighting": {
+        "key_direction": "side_overcast",
+        "key_hardness": "soft",
+        "key_color_temp": "warm_neutral",
+        "fill_strength": "high",
+        "key_to_fill_ratio": "1:1",
+        "rim_light": "subtle_window_edge",
+        "practical_lights": [],
+        "shadow_presence": "minimal",
+        "overall_contrast": "medium"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#D4A843",
+          "#4A1C2A",
+          "#F5F5F5",
+          "#8B7355",
+          "#1B3A5C"
+        ],
+        "palette_role": {
+          "#D4A843": "gold_hanbok",
+          "#4A1C2A": "wine_collar",
+          "#F5F5F5": "white_interior",
+          "#8B7355": "desert_background",
+          "#1B3A5C": "car_body_frame"
+        },
+        "color_relationship": "warm_gold_dominant",
+        "temperature_balance": "warm",
+        "saturation_strategy": "moderate",
+        "contrast_type": "warm_cool_window_frame",
+        "accent_color": "#4A1C2A",
+        "accent_ratio": 0.15
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A medium close-up cinematic photograph shot through the open driver side window of a classic American convertible automobile in motion, looking at the driver from a low exterior side angle with the desert road scrolling past in the background. The driver is a young Korean woman in her mid-twenties to early thirties wearing a flowing golden-yellow silk hanbok with a dark wine-red collar neckpiece and layered folded white inner collar. Her black hair is styled in a traditional Korean court braided updo pinned tightly and neatly to the top of her head, characteristic of Joseon-dynasty formal female court hairstyle. She grips a large white padded steering wheel with both hands in a confident driving posture and looks steadily forward along the road ahead with a calm composed expression combining quiet authority with a slight sidelong awareness of the camera. Her posture conveys confidence and liberation, the woman of traditional historical culture freely and capably controlling the modern vehicle. Behind her through the windshield and open car interior the out-of-focus desert landscape with low rock formations scrolls past as the car moves. The car body is deep steel-blue visible at the lower frame edge, the door window frame and chrome windowsill forming a geometric architectural border around the interior space. The car rear-view mirror and chrome exterior door trim are partially visible at the left frame edge. The Korean text caption appears in white bold rounded sans-serif type at the lower left of the frame. Soft overcast daylight provides clean even natural lighting with a warm neutral grade that particularly complements the golden-yellow of her garment. The scene conveys a modern woman of authority and grace freely choosing her direction, the historical costume suggesting the weight of tradition while the act of driving suggests liberation from it. Korean fintech brand commercial cinematic 16:9 portrait through window. The composition through the car window creates a natural frame-within-a-frame that emphasizes her containment within the automotive context and by extension within the financial freedom it represents. Her golden hanbok filling the center of frame creates a radiant warm focal point that draws the eye immediately. The driving posture with both hands on the wheel communicates competence and control, suggesting that financial autonomy is about active engagement not passive receipt. The caption text for the second major copy line in the campaign appears in this shot, marking the transition from the first tagline phrase to the second call-to-action phrase. The slight upward angle of the camera looking through the window frames her face against the sky visible above the windshield, creating a subtle heroic quality to this everyday driving portrait. The motion blur in the background landscape visible through the windows confirms the vehicle is actually moving at speed rather than being stationary for filming purposes. The presence of the male passenger visible through the rear window behind her creates spatial depth and narrative context, reminding the viewer that this driver is part of a larger group journey. The chrome side mirror catching a reflection of the exterior landscape creates a layered visual space within the frame. The car door interior panel with its chrome accents and the window rubber seal frame create a geometric border that focuses attention on her face and upper body. The golden-yellow of her hanbok in the morning or overcast midday light has a warm luminosity that makes her the natural focal point of the composition. The careful placement of the Korean text caption in the lower left corner maintains readability without interfering with her portrait.",
+        "t2i_negative": "text other than specified caption, harsh shadow, modern clothing, smiling exaggerated",
+        "i2v_motion": "Camera holds steady, slight handheld breathing. Driver's hair and robe flutter in wind. She occasionally glances forward and adjusts grip. Duration 1.4 seconds, hard cut to interior hand close-up.",
+        "i2v_params": {
+          "clip_duration_sec": 1.401,
+          "camera_move": "handheld_stable_side",
+          "subject_motion_level": "minimal_hair_flutter",
+          "signature_effect": "none",
+          "pacing": "medium",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen copy preserved; identity/logo generic"
+      }
+    },
+    {
+      "index": 11,
+      "duration": 1.802,
+      "framing": "medium_close_up",
+      "function": "character_portrait",
+      "subject_action": "male_driver_in_green_robe_grips_steering_wheel_smiling_caption_이제자유롭게",
+      "layout_grid": "portrait_interior_driver",
+      "subject_position": "center",
+      "typo_motion": "持続_이제자유롭게",
+      "camera_angle": "eye_level_interior",
+      "camera_facing": "frontal_interior",
+      "shot_scope": "medium_close_up",
+      "gaze": "forward_smiling",
+      "props": [
+        "green_embroidered_robe",
+        "gat_hat",
+        "white_steering_wheel",
+        "car_dashboard_walnut",
+        "blue_sky_through_windshield"
+      ],
+      "color_palette": [
+        "#4A7C59",
+        "#B8860B",
+        "#1A1A2E",
+        "#8B7355",
+        "#F5F5F5"
+      ],
+      "color_intent": "jewel_green_dominant_interior_portrait",
+      "pose_description": "Interior medium close-up of the male driver (green embroidered robe) gripping the white steering wheel with both hands, now showing a slight smile for the first time — a beat of joy. Caption 이제, 자유롭게 holds.",
+      "subject_motion": "slight_body_sway_with_driving",
+      "camera_motion": "handheld_interior",
+      "camera_effect_local": "none",
+      "intra_cut_rhythm": "medium",
+      "transition_in": "hard_cut",
+      "transition_out": "hard_cut",
+      "mid_frame_path": "ADV-2026-005_frames/cut11_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "steering_wheel_white"
+        ],
+        "midground": [
+          "male_driver_green_robe"
+        ],
+        "background": [
+          "desert_landscape_through_windshield"
+        ],
+        "lighting_env": [
+          "interior_ambient_overcast"
+        ],
+        "atmosphere": [
+          "liberation_joy",
+          "confident_ownership"
+        ]
+      },
+      "texture": {
+        "primary_subject": "embroidered_silk_green",
+        "secondary_objects": [
+          "steering_wheel",
+          "walnut_dashboard"
+        ],
+        "background_surface": "windshield_landscape",
+        "atmospheric": [
+          "cinematic_interior"
+        ]
+      },
+      "lighting": {
+        "key_direction": "front_diffused_through_windshield",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral",
+        "fill_strength": "high",
+        "key_to_fill_ratio": "1:1",
+        "rim_light": "none",
+        "practical_lights": [],
+        "shadow_presence": "minimal",
+        "overall_contrast": "medium"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#4A7C59",
+          "#B8860B",
+          "#1A1A2E",
+          "#8B7355",
+          "#F5F5F5"
+        ],
+        "palette_role": {
+          "#4A7C59": "robe_green",
+          "#B8860B": "embroidery_gold",
+          "#1A1A2E": "hat_black",
+          "#8B7355": "desert_bg",
+          "#F5F5F5": "steering_wheel"
+        },
+        "color_relationship": "jewel_tone_dominant",
+        "temperature_balance": "neutral",
+        "saturation_strategy": "high_subject",
+        "contrast_type": "subject_vs_background",
+        "accent_color": "#B8860B",
+        "accent_ratio": 0.2
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A medium close-up cinematic interior photograph taken from inside a classic American convertible automobile looking at the driver from the front passenger side position. The driver is a Korean male in his thirties wearing a richly embroidered emerald-green Joseon-dynasty court robe with dramatic raised gold dragon embroidery covering the shoulders chest and upper sleeves in three-dimensional satin-stitch metallic thread work, a crisp folded white cotton inner collar at the neck, and a tall structured black cylindrical lacquered court gat hat perched on his head. He grips a large white padded steering wheel with both hands in a forward-leaning engaged driving posture and for the first time in the advertisement he shows a subtle genuine smile, the corners of his mouth turned upward slightly in an expression of real joy and quiet satisfaction, a rare and therefore emotionally resonant beat in an otherwise composed serious narrative. The white ivory car interior including the padded dashboard with wood-panel inlay, analog gauges, and instrument cluster is partially visible in the lower portion of the frame. Through the front windshield and above the open convertible roof line the desert landscape continues to scroll past, showing ochre-tan flat terrain with the pale overcast sky above. The Korean text caption reading the second line of the campaign copy appears at the lower left in white bold sans-serif type. Soft overcast daylight fills the interior through the open top creating clean even neutral illumination with no harsh shadows on his face or hands. The cinematic grade features the vivid jewel-green robe colors as the dominant chromatic presence against the muted desert background. The emotional moment of the smile marks the transition point in the advertisement where composed historical solemnity transforms into genuine liberation and joy. Korean fintech brand commercial cinematic 16:9 interior portrait. His smile in this shot is the emotional fulcrum of the entire 30-second advertisement, the single moment where the composed historical seriousness breaks into genuine human joy, making the concept of financial liberation visceral and personal rather than abstract. The white steering wheel in his green-robed hands creates a strong visual contrast that encapsulates the entire campaign concept in one image. The dashboard walnut panel and analog instruments reinforce the classic automotive heritage of the vehicle while his traditional court attire insists on its Korean cultural recoding. This interior portrait is the most intimate and human shot in the advertisement and functions as the emotional peak of the narrative. The white steering wheel occupying the lower center of frame creates a visual anchor that grounds the portrait in the automotive context without competing with the face for attention. The soft overcast light on his skin and the embroidery creates an even flattering illumination quality that would work effectively across multiple media placements from broadcast to digital to print. The angle from the passenger side looking across gives the viewer the perspective of a traveling companion, creating intimacy and shared journey narrative. The white padded steering wheel in his embroidered-robe hands is the single most iconic pairing of old and new in the campaign, the instrument of modern automotive freedom held in the hands of historical authority. His gat hat visible above the steering wheel creates a distinctive silhouette that has become associated with this campaign. The walnut dashboard panel and chrome instruments in the lower frame position this as an authentic period vehicle rather than a prop, reinforcing the commitment to visual authenticity throughout the production.",
+        "t2i_negative": "text other than specified caption, rain, darkness, modern clothing",
+        "i2v_motion": "Interior handheld, camera gently sways with vehicle motion. Driver's expression shifts to a slight smile. Robes move. Duration 1.8 seconds, hard cut to hand on radio dial close-up.",
+        "i2v_params": {
+          "clip_duration_sec": 1.802,
+          "camera_move": "handheld_interior",
+          "subject_motion_level": "sway_with_driving",
+          "signature_effect": "none",
+          "pacing": "medium",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen copy preserved; identity/logo generic"
+      }
+    },
+    {
+      "index": 12,
+      "duration": 1.735,
+      "framing": "close_up",
+      "function": "detail_transition",
+      "subject_action": "hand_reaching_to_adjust_car_radio_dial_interior_detail",
+      "layout_grid": "centered_macro",
+      "subject_position": "center",
+      "typo_motion": "none",
+      "camera_angle": "low_angle_interior",
+      "camera_facing": "interior_dashboard",
+      "shot_scope": "close_up",
+      "gaze": "none",
+      "props": [
+        "car_radio_dashboard",
+        "hand_in_silk_sleeve",
+        "walnut_panel"
+      ],
+      "color_palette": [
+        "#C0A882",
+        "#1A1A2E",
+        "#8B7355",
+        "#2A1A0E",
+        "#6B8CAE"
+      ],
+      "color_intent": "dark_interior_with_warm_wood_and_pale_hand",
+      "pose_description": "Close-up of a hand (in traditional silk sleeve) reaching forward to adjust a rotary dial on the classic car dashboard. Dark interior environment, wood-panel dashboard visible. Shallow depth of field.",
+      "subject_motion": "hand_reaching_forward",
+      "camera_motion": "locked_off",
+      "camera_effect_local": "shallow_dof",
+      "intra_cut_rhythm": "medium",
+      "transition_in": "hard_cut",
+      "transition_out": "hard_cut",
+      "mid_frame_path": "ADV-2026-005_frames/cut12_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "hand_silk_sleeve",
+          "rotary_dial"
+        ],
+        "midground": [
+          "dashboard_wood_panel"
+        ],
+        "background": [
+          "dark_interior_bokeh"
+        ],
+        "lighting_env": [
+          "dim_interior_ambient"
+        ],
+        "atmosphere": [
+          "tactile_control",
+          "driver_agency"
+        ]
+      },
+      "texture": {
+        "primary_subject": "skin_silk_sleeve",
+        "secondary_objects": [
+          "walnut_wood_panel",
+          "chrome_dial"
+        ],
+        "background_surface": "dark_interior",
+        "atmospheric": [
+          "shallow_dof"
+        ]
+      },
+      "lighting": {
+        "key_direction": "ambient_interior",
+        "key_hardness": "soft",
+        "key_color_temp": "warm",
+        "fill_strength": "low",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": "none",
+        "practical_lights": [],
+        "shadow_presence": "deep_background",
+        "overall_contrast": "high_local"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#C0A882",
+          "#1A1A2E",
+          "#8B7355",
+          "#2A1A0E",
+          "#6B8CAE"
+        ],
+        "palette_role": {
+          "#C0A882": "hand_skin_warm",
+          "#1A1A2E": "dark_interior",
+          "#8B7355": "wood_panel",
+          "#2A1A0E": "deep_shadow",
+          "#6B8CAE": "bokeh_sky_hint"
+        },
+        "color_relationship": "dark_warm_interior",
+        "temperature_balance": "warm_dark",
+        "saturation_strategy": "low_dark",
+        "contrast_type": "chiaroscuro",
+        "accent_color": "#C0A882",
+        "accent_ratio": 0.3
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "An extreme close-up macro cinematic photograph of a human hand reaching forward through the interior of a classic American convertible automobile from the early 1970s to adjust a rotary control dial on the vintage dashboard. The hand is lit by dim warm ambient interior light filtering through the open convertible top from above and slightly from the windshield direction, casting a soft warm glow on the skin and the surrounding interior surfaces. The cuff and lower sleeve of a traditional Korean court silk garment is partially visible at the right edge of the frame, the fabric appearing to be the embroidered emerald-green court robe previously seen on the main character, its presence anchoring the hand to its historical context. The dashboard is a polished warm walnut wood-veneer panel finished to a high gloss, with a row of circular chrome-rimmed gauges and instrument dials. The specific control being touched is a round chrome-ringed rotary knob approximately three centimeters in diameter, its surface knurled or ribbed for grip, positioned in the center of the dashboard panel. The surrounding walnut wood grain is subtly visible in the warm interior light. The car interior space behind and around the dashboard is very dark, the edges and background falling into deep shadow creating strong chiaroscuro with only the dashboard surface and hand lit. A narrow horizontal strip of pale sky through the front windshield at the very top of the background provides the only bright element in the background bokeh. Shallow depth of field keeps the dial and hand in sharp focus while the walnut panel behind falls slightly soft and the far background is fully blurred. The color grade is dark warm cinematic with a film-noir quality to the contrast ratio. No text overlays. The image conveys tactile intimacy with the vehicle, the physical act of taking control, and a moment of private connection between the historical figure and the modern machine. Korean fintech brand commercial cinematic 16:9 macro interior detail. The walnut wood grain pattern on the dashboard creates organic visual texture that contrasts beautifully with the precision-machined chrome instrument faces. The dark interior ambiance creates an intimate private space that contrasts with the vast outdoor landscape of the other shots, emphasizing this as a moment of personal agency and choice. The green silk cuff visible at the frame edge maintains narrative continuity by identifying this hand as belonging to the main court-dressed character. This detail shot functions as a rhythmic transition beat in the editing, giving the viewer a moment of tactile intimacy before returning to the expansive landscape views. The dark interior tone of this shot provides valuable visual contrast and breathing room between the bright outdoor portrait shots that surround it in the edit, functioning as a visual pause before the final outdoor sequence. The intimacy of the scale brings the viewer physically closer to the narrative than any of the wide landscape shots. The shot composition places the viewer in the position of the subject looking at their own hand adjusting the radio, creating a first-person experiential quality rarely used in this campaign otherwise. The selective focus technique where the hand and dial are sharp while both foreground and background are soft creates a dreamlike quality appropriate to a moment of private intimate connection with the vehicle. The warmth of the interior wood tones creates a cozy enclosed feeling that contrasts with the vast open landscapes outside.",
+        "t2i_negative": "text, logos, bright light, modern dashboard, full body visible",
+        "i2v_motion": "Macro close-up, hand reaches forward and turns the dial slightly. Dashboard dials catch tiny reflections. Duration 1.7 seconds, hard cut to exterior gear-shift extreme close-up.",
+        "i2v_params": {
+          "clip_duration_sec": 1.735,
+          "camera_move": "locked_off_macro",
+          "subject_motion_level": "hand_reaching",
+          "signature_effect": "shallow_dof_dark_interior",
+          "pacing": "medium",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen copy preserved; identity/logo generic"
+      }
+    },
+    {
+      "index": 13,
+      "duration": 0.601,
+      "framing": "extreme_close_up",
+      "function": "detail_transition",
+      "subject_action": "hands_on_gear_shift_exterior_low_angle",
+      "layout_grid": "fill_frame_oblique",
+      "subject_position": "center",
+      "typo_motion": "none",
+      "camera_angle": "very_low_oblique",
+      "camera_facing": "interior_low",
+      "shot_scope": "extreme_close_up",
+      "gaze": "none",
+      "props": [
+        "gear_shift_lever",
+        "hands_in_silk_robe",
+        "car_interior_dark"
+      ],
+      "color_palette": [
+        "#4A7C59",
+        "#F5F5F5",
+        "#1A1A2E",
+        "#2A2A2A",
+        "#8BA5C0"
+      ],
+      "color_intent": "dark_interior_with_green_robe_accent",
+      "pose_description": "Very brief extreme close-up from a very low oblique angle inside the car showing gloved or robe-sleeved hands gripping or touching the gear shift. Sky visible through open top in background.",
+      "subject_motion": "hand_movement",
+      "camera_motion": "locked_off_oblique",
+      "camera_effect_local": "none",
+      "intra_cut_rhythm": "fast",
+      "transition_in": "hard_cut",
+      "transition_out": "hard_cut",
+      "mid_frame_path": "ADV-2026-005_frames/cut13_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "gear_shift",
+          "hands"
+        ],
+        "midground": [
+          "car_interior_dark"
+        ],
+        "background": [
+          "pale_sky_through_open_top"
+        ],
+        "lighting_env": [
+          "dim_interior"
+        ],
+        "atmosphere": [
+          "control_motion"
+        ]
+      },
+      "texture": {
+        "primary_subject": "gear_shift_lever",
+        "secondary_objects": [
+          "silk_robe_sleeve"
+        ],
+        "background_surface": "dark_interior",
+        "atmospheric": [
+          "oblique_angle"
+        ]
+      },
+      "lighting": {
+        "key_direction": "overhead_ambient",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral",
+        "fill_strength": "low",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": "none",
+        "practical_lights": [],
+        "shadow_presence": "deep",
+        "overall_contrast": "high"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#4A7C59",
+          "#F5F5F5",
+          "#1A1A2E",
+          "#2A2A2A",
+          "#8BA5C0"
+        ],
+        "palette_role": {
+          "#4A7C59": "robe_green",
+          "#F5F5F5": "white_cuff",
+          "#1A1A2E": "dark_interior",
+          "#2A2A2A": "shadow",
+          "#8BA5C0": "sky_background"
+        },
+        "color_relationship": "dark_interior_accent",
+        "temperature_balance": "neutral",
+        "saturation_strategy": "low_dark",
+        "contrast_type": "chiaroscuro",
+        "accent_color": "#4A7C59",
+        "accent_ratio": 0.25
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "An extreme close-up cinematic photograph taken from a very dramatic low oblique angle inside the passenger compartment of a classic American convertible automobile looking upward at the center console and gear shift area. The composition is highly abstract and geometric with the car interior structural elements cutting across the frame at diagonal angles. One or two hands are positioned near or lightly gripping a vertical gear shift lever with a round chrome-capped knob at the top, the lever rising from the floor-mounted tunnel between the seats. The hands wear Joseon-dynasty traditional Korean court robe sleeves, the emerald-green embroidered silk outer robe visible as a strong color element at the left edge of the frame, and a crisp white inner cotton sleeve cuff at the right. The car interior surrounding the figures is very dark with minimal ambient illumination coming primarily from the open convertible top above and the windshield ahead, creating a strong chiaroscuro effect where the gear shift lever and hands are isolated in a pool of light against deep shadow. At the very top of the frame a narrow band of pale grey-blue overcast sky is visible through the open top of the convertible, providing just enough light to separate the upper silhouette of the gear shift and hands from the dark interior background. The dashboard walnut panel is just barely discernible in deep shadow at the far background. The color grade is dark cinematic high-contrast with the green robe silk as the primary color accent in an otherwise monochromatic dark interior space. The abstract compositional angle and dramatic lighting create a purely graphic shot that suggests motion, control, and mechanical engagement. No text overlays. Korean fintech brand commercial cinematic 16:9 abstract interior detail shot. The extreme low oblique angle used for this shot is a deliberate cinematographic choice that creates maximum visual disruption and dynamism, a purely technical shot designed to accelerate the editing rhythm before the final sequence of wider shots. The dark interior with minimal light creates graphic shapes where the gear shift lever and hands are silhouetted against the pale sky stripe above, reducing the image to almost pure black-and-white high-contrast composition with the green robe as the only chromatic element. This abstracted quality makes the shot work as a pure visual punctuation mark in the editing flow. The dramatic lighting contrast makes this shot function almost as an abstract print rather than a narrative frame, a quality that could work as a standalone visual element in outdoor or print advertising contexts. The silk fabric texture visible in the sleeve cuff catches the available interior light in a way that maintains the material luxury quality of the costumes even in this dark intimate shot. The brevity of this shot in the edit, less than one second, means it functions almost subliminally, its primary effect being kinetic energy rather than information delivery. The abstract angle prevents the viewer from immediately identifying what they are looking at, creating a brief moment of visual disorientation before the next shot resolves context. The green robe sleeve in frame maintains the color vocabulary and character continuity of the campaign.",
+        "t2i_negative": "text, logos, bright light, modern clothing",
+        "i2v_motion": "Fast cut, hands move on gear shift. Very brief 0.6 seconds. Hard cut to exterior desert low-angle speed shot.",
+        "i2v_params": {
+          "clip_duration_sec": 0.601,
+          "camera_move": "locked_off_oblique",
+          "subject_motion_level": "hand_quick",
+          "signature_effect": "none",
+          "pacing": "fast",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen copy preserved; identity/logo generic"
+      }
+    },
+    {
+      "index": 14,
+      "duration": 0.834,
+      "framing": "extreme_close_up",
+      "function": "detail_transition",
+      "subject_action": "extreme_low_exterior_desert_ground_speeding_past",
+      "layout_grid": "fill_frame_abstract",
+      "subject_position": "fill",
+      "typo_motion": "none",
+      "camera_angle": "extreme_low_angle",
+      "camera_facing": "downward_oblique",
+      "shot_scope": "extreme_close_up",
+      "gaze": "none",
+      "props": [
+        "desert_ground_blur",
+        "motion_blur"
+      ],
+      "color_palette": [
+        "#8B7355",
+        "#6B5B3E",
+        "#9E8E70",
+        "#7A6B52"
+      ],
+      "color_intent": "pure_motion_blur_earth_tones",
+      "pose_description": "Extreme low-angle exterior shot looking down at the desert ground speeding past under the car — pure motion blur of sandy earth creating dynamic speed impression.",
+      "subject_motion": "speed_blur",
+      "camera_motion": "locked_off_extreme_low",
+      "camera_effect_local": "extreme_motion_blur",
+      "intra_cut_rhythm": "fast",
+      "transition_in": "hard_cut",
+      "transition_out": "hard_cut",
+      "mid_frame_path": "ADV-2026-005_frames/cut14_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "desert_ground_blurred"
+        ],
+        "midground": [],
+        "background": [],
+        "lighting_env": [
+          "ambient_overcast"
+        ],
+        "atmosphere": [
+          "pure_speed_energy"
+        ]
+      },
+      "texture": {
+        "primary_subject": "motion_blurred_earth",
+        "secondary_objects": [],
+        "background_surface": "desert_sand",
+        "atmospheric": [
+          "extreme_motion_blur"
+        ]
+      },
+      "lighting": {
+        "key_direction": "overhead",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral",
+        "fill_strength": "high",
+        "key_to_fill_ratio": "1:1",
+        "rim_light": "none",
+        "practical_lights": [],
+        "shadow_presence": "none",
+        "overall_contrast": "low"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#8B7355",
+          "#6B5B3E",
+          "#9E8E70",
+          "#7A6B52"
+        ],
+        "palette_role": {
+          "#8B7355": "sandy_earth",
+          "#6B5B3E": "dark_shadow_blur",
+          "#9E8E70": "highlight_blur",
+          "#7A6B52": "midtone"
+        },
+        "color_relationship": "monochromatic_earth",
+        "temperature_balance": "warm",
+        "saturation_strategy": "low",
+        "contrast_type": "tonal_motion",
+        "accent_color": "#9E8E70",
+        "accent_ratio": 0.3
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "An extreme close-up abstract cinematic photograph created by mounting a camera in an extremely low position beside or under a moving vehicle, pointing downward and slightly forward at the desert ground surface passing beneath the vehicle at speed. The entire frame is completely filled with the heavily motion-blurred desert earth surface as it speeds past at high velocity. The motion blur creates strong diagonal streaks of warm tan, ochre, and dark brown earth tones extending from the upper right to the lower left of the frame, suggesting very high speed and forward momentum. The blurred earth surface has a softly layered texture with variations of warm sandy yellow, reddish-brown clay, and dark shadow bands all compressed into diagonal velocity streaks. There is no horizon, no sky, no subject, no recognizable shapes visible anywhere in the frame. The composition is entirely abstract and relies purely on the kinetic energy of the motion blur pattern to communicate the sensation of speed. Scattered pebbles, dried vegetation fragments, and variations in earth color create subtle texture variation within the blur. The overall color palette is warm earth tones, tan, ochre, rust, and brown, consistent with the arid desert highway setting established in the rest of the advertisement. The grade has the characteristic desaturated warm cinematic quality of the broader campaign. This shot is deliberately non-representational and functions as a pure kinetic transition beat between the narrative portrait shots. The image is approximately 0.8 seconds in duration and serves to create a moment of visceral physical sensation of speed and liberation between the more contemplative portrait cuts. Korean fintech brand commercial cinematic 16:9 extreme close-up abstract motion blur speed shot. The motion blur pattern creates a sense of unstoppable momentum and freedom of movement that translates directly to the campaign theme of unrestricted financial mobility. The abstract non-representational quality of this shot is unusual in the context of an advertisement for a financial technology product but is highly effective as a kinetic punctuation beat in the editing rhythm. The warm earth-tone palette of the blurred desert surface provides visual continuity with the surrounding landscape shots. The extreme brevity of this shot at approximately 0.8 seconds gives it the quality of a subliminal image, felt more than consciously processed, amplifying the physical sensation of speed and liberation. The dynamic abstract quality of this shot provides maximum visual differentiation from the composed portrait shots on either side of it in the edit, functioning as a visual exclamation point that punctuates the rhythm of the advertisement. The particular angle creates a sensation of being physically very close to the moving ground. The viewer cannot immediately determine the direction of travel from the motion blur alone, making the image temporarily disorienting before spatial context is restored in the next shot. This deliberate visual disruption serves as an editorial technique to maintain viewer engagement and prevent the advertisement from becoming visually predictable. The warm earth-tone palette of the motion blur integrates seamlessly into the overall campaign color vocabulary. The extreme low camera position required to capture this shot type would typically use a custom-built camera rig mounted beneath or beside the vehicle very close to ground level, demonstrating the high production investment made in this advertisement. The precise frame timing in the edit places this shot at the moment of maximum physical acceleration in the narrative rhythm, creating a physiological response in the viewer that mirrors the sensation of financial liberation being communicated.",
+        "t2i_negative": "text, logos, people, horizon line, sky",
+        "i2v_motion": "Pure motion blur, speed streaks sweep diagonally. Very short 0.8 seconds. Hard cut to aerial wide desert shot.",
+        "i2v_params": {
+          "clip_duration_sec": 0.834,
+          "camera_move": "locked_off_low_moving",
+          "subject_motion_level": "speed_blur_abstract",
+          "signature_effect": "extreme_motion_blur",
+          "pacing": "fast",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen copy preserved; identity/logo generic"
+      }
+    },
+    {
+      "index": 15,
+      "duration": 1.835,
+      "framing": "extreme_wide",
+      "function": "establishing_repeat",
+      "subject_action": "aerial_side_view_small_convertible_crosses_wide_desert_plain_caption_토스가시작합니다",
+      "layout_grid": "wide_landscape_horizon_center",
+      "subject_position": "center_left_horizon",
+      "typo_motion": "fade_in_토스가시작합니다",
+      "camera_angle": "high_aerial",
+      "camera_facing": "side_aerial",
+      "shot_scope": "extreme_wide",
+      "gaze": "none",
+      "props": [
+        "convertible_small",
+        "desert_plain",
+        "dramatic_sky",
+        "flat_mesas"
+      ],
+      "color_palette": [
+        "#C4A882",
+        "#6B8CAE",
+        "#8B7355",
+        "#A0B4C8",
+        "#4A3728"
+      ],
+      "color_intent": "vast_landscape_return_with_brand_declaration",
+      "pose_description": "High aerial wide shot of the desert plain from a side perspective — the blue convertible is a tiny object crossing the vast open space. Flat-top mesa formations in background. Caption: 토스가 시작합니다 appears at center.",
+      "subject_motion": "vehicle_traversing",
+      "camera_motion": "locked_off_aerial",
+      "camera_effect_local": "none",
+      "intra_cut_rhythm": "slow",
+      "transition_in": "hard_cut",
+      "transition_out": "hard_cut",
+      "mid_frame_path": "ADV-2026-005_frames/cut15_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "desert_scrub"
+        ],
+        "midground": [
+          "tiny_convertible_blue"
+        ],
+        "background": [
+          "flat_mesa_formations",
+          "dramatic_sky"
+        ],
+        "lighting_env": [
+          "overcast_dramatic"
+        ],
+        "atmosphere": [
+          "epic_scale",
+          "brand_declaration_moment"
+        ]
+      },
+      "texture": {
+        "primary_subject": "desert_scrubland",
+        "secondary_objects": [
+          "tiny_car"
+        ],
+        "background_surface": "flat_mesa_terrain",
+        "atmospheric": [
+          "cinematic_haze"
+        ]
+      },
+      "lighting": {
+        "key_direction": "overhead_overcast",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_cool",
+        "fill_strength": "high",
+        "key_to_fill_ratio": "1:1",
+        "rim_light": "none",
+        "practical_lights": [],
+        "shadow_presence": "minimal",
+        "overall_contrast": "medium"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#C4A882",
+          "#6B8CAE",
+          "#8B7355",
+          "#A0B4C8",
+          "#4A3728"
+        ],
+        "palette_role": {
+          "#C4A882": "desert_tan",
+          "#6B8CAE": "sky_blue_grey",
+          "#8B7355": "dark_scrub",
+          "#A0B4C8": "pale_sky",
+          "#4A3728": "mesa_shadow"
+        },
+        "color_relationship": "analogous_muted_landscape",
+        "temperature_balance": "neutral",
+        "saturation_strategy": "low",
+        "contrast_type": "tonal_wide",
+        "accent_color": "#1B3A5C",
+        "accent_ratio": 0.02
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A high aerial cinematic wide-angle photograph taken from a drone at approximately 100 to 150 meters altitude looking slightly downward and forward across the full panoramic extent of a vast flat arid desert plain. The landscape is covered with sparse brown scrub vegetation, dried desert bushes, and pale sandy earth extending from the near foreground to the very far distance. In the center-left portion of the frame at approximately mid-frame height a tiny deep steel-blue classic American convertible automobile is barely discernible as a small colored object crossing the enormous open landscape, its scale emphasizing the vast emptiness surrounding it and the freedom that vast space represents. On the distant horizon flat-topped mesa rock formations and low buttes rise from the desert floor, their horizontal flat tops and vertical sides creating a characteristic plateau landscape silhouette. The sky above occupies a substantial portion of the upper frame and is filled with dramatic layered grey-blue overcast clouds with strong tonal variation and texture in the cloud formations. The white Korean text caption appears in bold rounded sans-serif typeface centered horizontally in the frame at approximately the mid-height position between the sky above and the desert floor below. This shot recaptures the epic aerial scale of the opening shot but from a different angle, more of a side aerial view rather than the strict overhead vanishing-point composition of cut one, providing visual variety while maintaining the desert highway freedom metaphor. The color grade is desaturated cinematic with earthy warm tones for the desert surface and cool grey-blue for the dramatic sky overhead. The composition creates maximum emotional contrast between the overwhelming vastness of the empty natural landscape and the tiny fragile human vehicle crossing it, emphasizing the theme of individual freedom in an open world. Korean fintech brand commercial cinematic 16:9 aerial wide establishing shot. The side aerial view used in this shot provides a different geometric perspective than the overhead vanishing-point views used in the opening and closing sequences, adding visual variety to the aerial shot language of the campaign while maintaining the overall sense of desert scale and freedom. The tiny vehicle visible against the vast landscape scale creates a powerful emotional resonance with the campaign concept, the individual freed from financial constraints moving through an open world of possibility. The dramatic sky with layered clouds creates the epic cinematic atmosphere that distinguishes this advertisement from typical financial services advertising. The caption text marks the arrival of the brand declaration copy. The mesa formations on the horizon create a characteristic American Southwest landscape identity that reinforces the road-trip freedom association of the car, connecting to a global cinematic visual vocabulary of open-road travel films and photography while simultaneously being claimed for a Korean cultural narrative. The scale contrast between the tiny vehicle and the landscape is maximized in this shot. The side aerial perspective used here is different enough from the straight-down vanishing-point aerials of the opening and closing to provide necessary visual variety while maintaining the campaign's overall aerial vocabulary. The flat mesa geology of the chosen desert location gives this shot a distinctly American West visual identity that connects to global cinematic road-trip imagery. The sparseness of the landscape and absence of any other human presence except the single vehicle creates a profound sense of individual freedom in open space.",
+        "t2i_negative": "text other than specified caption, urban, green landscape, people visible",
+        "i2v_motion": "Locked aerial shot. Vehicle moves slowly left to right. Clouds drift. Caption fades in. Duration 1.8 seconds, hard cut to straight road aerial vanishing point shot.",
+        "i2v_params": {
+          "clip_duration_sec": 1.835,
+          "camera_move": "locked_off_aerial",
+          "subject_motion_level": "tiny_vehicle_traversing",
+          "signature_effect": "caption_fade_in_center",
+          "pacing": "slow",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen copy preserved; identity/logo generic"
+      }
+    },
+    {
+      "index": 16,
+      "duration": 0.968,
+      "framing": "extreme_wide",
+      "function": "establishing_repeat",
+      "subject_action": "aerial_vanishing_point_road_convertible_moving_forward_caption_토스가시작합니다",
+      "layout_grid": "vanishing_point_center",
+      "subject_position": "center",
+      "typo_motion": "持続_토스가시작합니다",
+      "camera_angle": "high_aerial_front",
+      "camera_facing": "overhead_forward",
+      "shot_scope": "extreme_wide",
+      "gaze": "none",
+      "props": [
+        "straight_highway",
+        "tiny_convertible",
+        "desert",
+        "mountains"
+      ],
+      "color_palette": [
+        "#8B7355",
+        "#6B8CAE",
+        "#C4A882",
+        "#4A5568",
+        "#A8B4BE"
+      ],
+      "color_intent": "return_to_opening_shot_composition_with_brand_text",
+      "pose_description": "Aerial overhead forward-looking shot echoing the opening — straight desert highway with tiny blue convertible as a vanishing-point composition. Mountains in background. Caption 토스가 시작합니다 holds center frame. This echoes Cut 1 perfectly — a bookend.",
+      "subject_motion": "vehicle_moving_forward",
+      "camera_motion": "locked_off_aerial",
+      "camera_effect_local": "none",
+      "intra_cut_rhythm": "slow",
+      "transition_in": "hard_cut",
+      "transition_out": "hard_cut",
+      "mid_frame_path": "ADV-2026-005_frames/cut16_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "road_asphalt"
+        ],
+        "midground": [
+          "tiny_convertible"
+        ],
+        "background": [
+          "mountain_range",
+          "desert",
+          "sky"
+        ],
+        "lighting_env": [
+          "overcast_aerial"
+        ],
+        "atmosphere": [
+          "bookend_to_opening",
+          "brand_moment",
+          "freedom_achieved"
+        ]
+      },
+      "texture": {
+        "primary_subject": "asphalt_road",
+        "secondary_objects": [
+          "desert_scrub"
+        ],
+        "background_surface": "mountain_terrain",
+        "atmospheric": [
+          "cinematic_grade"
+        ]
+      },
+      "lighting": {
+        "key_direction": "overhead_overcast",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral",
+        "fill_strength": "high",
+        "key_to_fill_ratio": "1:1",
+        "rim_light": "none",
+        "practical_lights": [],
+        "shadow_presence": "minimal",
+        "overall_contrast": "medium"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#8B7355",
+          "#6B8CAE",
+          "#C4A882",
+          "#4A5568",
+          "#A8B4BE"
+        ],
+        "palette_role": {
+          "#8B7355": "desert_earth",
+          "#6B8CAE": "sky",
+          "#C4A882": "sandy_terrain",
+          "#4A5568": "mountain_shadow",
+          "#A8B4BE": "overcast_sky"
+        },
+        "color_relationship": "muted_analogous",
+        "temperature_balance": "neutral",
+        "saturation_strategy": "low",
+        "contrast_type": "geometric_vanishing_point",
+        "accent_color": "#1B3A5C",
+        "accent_ratio": 0.02
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A high aerial cinematic photograph taken from a drone at 150 to 200 meters altitude looking straight down and slightly forward along the central axis of a perfectly straight two-lane asphalt desert highway creating a strong symmetric geometric vanishing-point composition that intentionally echoes and mirrors the opening aerial establishing shot of the advertisement, functioning as a visual bookend to the narrative. The road bisects the arid desert plain precisely at the horizontal center of the frame with equal proportions of desert terrain extending symmetrically on both sides. White broken center-lane markings and white solid edge-lane markings are clearly visible on the dark asphalt surface and converge toward the vanishing point with strong linear perspective. A tiny deep steel-blue classic American convertible automobile is positioned near the center of the road at approximately mid-frame moving away from the camera toward the distant horizon, its small scale conveying the freedom and purpose of travel into infinite space. The terrain on both sides of the road is the familiar flat arid desert with sparse brown-grey scrub. On the far horizon a mountain range is visible with more clearly defined ridgelines and rocky profiles than in the opening shot, suggesting arrival at a more defined destination or a clearer vision of the future. The overcast sky shows layered cumulus clouds with dramatic tonal variation and visible atmospheric depth. The white Korean text caption continues to be displayed in bold rounded sans-serif type centered in the frame horizontally, positioned vertically between the sky and the desert floor. The color grade matches the opening shot style with desaturated cinematic earth tones and cool-neutral sky. The emotional register has shifted from the opening curiosity to a sense of arrival and declaration. Korean fintech brand commercial cinematic 16:9 aerial bookend echo shot. The deliberate echo of the opening shot composition creates a satisfying circular narrative structure for the advertisement, the visual rhyme communicating that a journey has been completed and a new reality has arrived. The mountain range more visible in this shot than in the opening suggests that the destination initially seen as a vague distant aspiration has now become a clear defined reality. The presence of the campaign tagline caption text in this shot bridges the visual bookend to the verbal declaration, aligning the compositional closure with the verbal resolution. The vehicle in this shot appears to have advanced significantly from its position in the opening shot, confirming actual forward progress in the narrative. The geometric precision of the vanishing-point road composition creates a feeling of mathematical order and inevitability, the single straight line of the road leading without deviation toward a defined destination, a metaphor for clear purposeful financial direction. The familiarity of this composition echoing the opening provides psychological satisfaction of narrative completion. The deliberate compositional echo of the opening creates a satisfying circularity that rewards attentive viewers who recognize the rhyme. The slight color grading shift to marginally warmer in this shot compared to the opening creates a barely perceptible but emotionally significant shift from the cool uncertainty of the beginning to the warm confidence of the declaration. The mountain range more visible in this closing aerial provides a sense of definite destination reached.",
+        "t2i_negative": "text other than specified caption, people close-up, green landscape, urban",
+        "i2v_motion": "Locked aerial shot mirroring the opening. Vehicle slowly grows larger as it moves away toward horizon. Duration 1.0 second. Hard cut to final logo endcard shot.",
+        "i2v_params": {
+          "clip_duration_sec": 0.968,
+          "camera_move": "locked_off_aerial",
+          "subject_motion_level": "tiny_vehicle_forward",
+          "signature_effect": "caption_center_hold",
+          "pacing": "slow",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen copy preserved; identity/logo generic"
+      }
+    },
+    {
+      "index": 17,
+      "duration": 3.77,
+      "framing": "extreme_wide",
+      "function": "logo_endcard",
+      "subject_action": "aerial_vanishing_point_road_with_brand_logo_endcard",
+      "layout_grid": "vanishing_point_center_logo_center",
+      "subject_position": "center",
+      "typo_motion": "logo_fade_in_center",
+      "camera_angle": "high_aerial_forward",
+      "camera_facing": "overhead_forward",
+      "shot_scope": "extreme_wide",
+      "gaze": "none",
+      "props": [
+        "desert_highway",
+        "tiny_convertible",
+        "mountain_background",
+        "brand_logo"
+      ],
+      "color_palette": [
+        "#8B7355",
+        "#6B8CAE",
+        "#C4A882",
+        "#4A5568",
+        "#FFFFFF"
+      ],
+      "color_intent": "matching_opening_aerial_with_white_brand_logo_centered",
+      "pose_description": "Same vanishing-point aerial composition as opening, now fully color-saturated and sharp — the desert highway stretches to mountains. The tiny blue convertible is still on the road moving into the horizon. The white toss brand logo (wordmark with small dot icon) appears centered in the frame. Clean, epic, declarative brand endcard.",
+      "subject_motion": "vehicle_moving_forward",
+      "camera_motion": "very_slow_aerial_push",
+      "camera_effect_local": "none",
+      "intra_cut_rhythm": "slow",
+      "transition_in": "hard_cut",
+      "transition_out": "end",
+      "mid_frame_path": "ADV-2026-005_frames/cut17_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "road_asphalt",
+          "white_lane_lines"
+        ],
+        "midground": [
+          "tiny_convertible_blue"
+        ],
+        "background": [
+          "mountain_range",
+          "dramatic_sky"
+        ],
+        "lighting_env": [
+          "overcast_aerial_dramatic"
+        ],
+        "atmosphere": [
+          "epic_closure",
+          "brand_declaration",
+          "open_road_freedom"
+        ]
+      },
+      "texture": {
+        "primary_subject": "asphalt_desert_highway",
+        "secondary_objects": [
+          "desert_scrub"
+        ],
+        "background_surface": "mountain_terrain",
+        "atmospheric": [
+          "cinematic_grade_slightly_warmer"
+        ]
+      },
+      "lighting": {
+        "key_direction": "overhead_overcast",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_slightly_warm",
+        "fill_strength": "high",
+        "key_to_fill_ratio": "1:1",
+        "rim_light": "none",
+        "practical_lights": [],
+        "shadow_presence": "minimal",
+        "overall_contrast": "medium_high"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#8B7355",
+          "#6B8CAE",
+          "#C4A882",
+          "#4A5568",
+          "#FFFFFF"
+        ],
+        "palette_role": {
+          "#8B7355": "desert_earth",
+          "#6B8CAE": "sky",
+          "#C4A882": "sandy_terrain",
+          "#4A5568": "mountain_shadow",
+          "#FFFFFF": "brand_logo"
+        },
+        "color_relationship": "muted_landscape_with_pure_white_logo",
+        "temperature_balance": "neutral",
+        "saturation_strategy": "low_landscape_pure_white_accent",
+        "contrast_type": "white_on_mid_toned_background",
+        "accent_color": "#FFFFFF",
+        "accent_ratio": 0.05
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A high aerial cinematic endcard photograph taken from a drone at 150 to 200 meters altitude looking straight down and slightly forward along the central axis of a perfectly straight two-lane desert highway creating a strong symmetric vanishing-point composition. The road bisects the arid desert plain precisely at the center of the frame with white lane markings converging into the distance. A tiny deep steel-blue classic American convertible automobile is positioned on the road at approximately center frame moving away from camera toward the distant horizon, its small but distinctive steel-blue color just identifiable against the grey asphalt. The flat arid desert with sparse brown-grey scrub extends to both sides of the road. On the far horizon a dramatic mountain range with visible rocky ridgelines and peaks rises against the sky, the mountains more clearly defined and closer in this shot compared to the earlier aerial views, creating a satisfying sense of progress and destination achieved. The overcast sky above shows dramatic layered cumulus clouds with strong tonal variation creating an epic atmospheric backdrop. Centered precisely in the frame, at the horizontal and vertical midpoint of the composition, the clean white logotype of the fintech brand appears as the sole typographic element, a wordmark in a modern humanist rounded sans-serif typeface with a small circular icon to the immediate left of the brand name. The wordmark is clean pure white, appropriately sized to be clearly legible without dominating the landscape composition. The overall visual balance is minimal and powerful: the infinite desert highway landscape plus the tiny human vehicle plus the single centered brand name. The color grade is desaturated cinematic with slightly warmer contrast than the opening shot, suggesting a subtle visual warmth of completion and arrival. The image embodies the complete brand proposition: infinite open financial road ahead, freedom of movement, you are at the wheel, Toss begins. Korean fintech brand commercial cinematic 16:9 brand endcard logo shot. The clean minimal endcard design places maximum emphasis on the brand identity without distracting from the powerful landscape composition that carries the entire emotional weight of the campaign. The white logotype against the mid-toned desert-sky landscape creates clear legibility while maintaining the cinematic aesthetic rather than switching to a corporate card aesthetic. The vehicle still present on the road in this final shot communicates that the journey continues, the brand is not a destination but a beginning, consistent with the campaign tagline about starting. The use of a wordmark with a small icon maintains brand recognition while the surrounding landscape communicates the brand values of freedom, scale, and movement more powerfully than any product feature enumeration could achieve. The combination of the infinite-road landscape with the brand name creates the most distilled and powerful summary of the campaign concept achievable in a single image. This endcard image would work effectively as a static print or digital advertisement completely independent of the video, communicating the entire campaign concept through composition brand name and landscape alone. The economy of means in the endcard is itself a statement of confidence and clarity, no need for multiple product claims or feature bullets, just the open road and the brand name and the suggestion that everything else follows. The landscape scale dwarfs the brand name making it feel earned rather than imposed. The visual continuity of the final shot with the opening shot creates a complete aesthetic world for the brand that extends beyond the thirty seconds of the advertisement itself into memory and association.",
+        "t2i_negative": "text other than brand logo, people close-up, green landscape, urban, busy composition",
+        "i2v_motion": "Very slow aerial push-forward. Vehicle continues toward horizon. Brand logo fades in cleanly at center. Duration 3.8 seconds to end. No music sting needed.",
+        "i2v_params": {
+          "clip_duration_sec": 3.77,
+          "camera_move": "very_slow_aerial_push",
+          "subject_motion_level": "tiny_vehicle_forward",
+          "signature_effect": "logo_fade_in_center",
+          "pacing": "very_slow",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen copy preserved; identity/logo generic"
+      }
+    }
+  ],
+  "search_keywords": {
+    "industry": [
+      "finance"
+    ],
+    "product_category": [
+      "fintech_app"
+    ],
+    "target_demo": [
+      "young_adults_20s_40s"
+    ],
+    "media_format": [
+      "30s_brand_film"
+    ],
+    "tone": [
+      "cinematic_epic_bold"
+    ],
+    "pacing": [
+      "slow_build"
+    ],
+    "technique": [
+      "anachronism_culture_clash"
+    ],
+    "vfx_keywords": [
+      "aerial_drone_wide"
+    ],
+    "copy_strategy_keywords": [
+      "copy_stagger_reveal"
+    ],
+    "concept_derivation_pattern": [
+      "historical_anachronism_liberation"
+    ]
+  },
+  "inferred_creative_thinking": {
+    "insight": "Money has always been controlled — by kings, by institutions. What if moving money could feel as free as driving an open-top car down an empty road?",
+    "persona": "Korean adults aged 20-40 who feel restricted by traditional banking and want financial autonomy that matches their modern lifestyle.",
+    "moment": "The first time you send money instantly at any hour, any day — no queues, no paperwork, no waiting — and feel genuinely unshackled.",
+    "product_role": "Toss as the tool that delivers freedom of financial movement — the end of anachronistic financial friction.",
+    "punchline": "The most absurd anachronism (Korean royal court figures driving a classic American convertible) makes the liberation feel visceral and universal.",
+    "differentiator": "Toss frames itself not as a feature list but as a fundamental shift in how money moves — positioning against the entire legacy financial system, not just competing apps.",
+    "brand_fit_one_liner": "Freedom of money movement is the open road — Toss hands you the keys.",
+    "confidence": "inferred"
+  },
+  "inferred_brief": "Create a cinematic brand launch film that dramatizes freedom of financial movement by juxtaposing Korea's Joseon-era past (symbol of rigid hierarchy and restricted resources) with the unbounded freedom of an open convertible on an infinite desert road — announce Toss as the new financial freedom.",
+  "cross_pollination_tags": {
+    "adjacent": [
+      "road_trip_lifestyle_brand",
+      "travel_app_advertising",
+      "challenger_bank_brand_film"
+    ],
+    "distant": [
+      "western_film_road_imagery",
+      "korean_historical_drama_costume_aesthetic",
+      "luxury_automobile_brand_cinema"
+    ],
+    "contrast": [
+      "conservative_bank_branch_advertising",
+      "feature_led_app_demo_ads"
+    ]
+  },
+  "concept_derivation_pattern": "historical_anachronism_liberation — place historical figures symbolizing past restriction in a freedom-signifying modern context; the absurdist juxtaposition creates emotional resonance and differentiates from functional product demos",
+  "confidence": "inferred",
+  "analyst_notes": "17 scenes per scenedetect, confirmed visually. Wiggle metric indicates handheld shake on portrait cuts, not stereoscopic wiggle. The opening and closing aerial shots bookend the narrative symmetrically. The car itself is the primary product metaphor — a Joseon-era customized vehicle (cultural badges, warrior ornament) suggests Korean cultural identity redefined for modernity. Copy builds across 5 shots for maximum retention. Whisper hallucinated English in one segment; corrected to caption-confirmed Korean text.",
+  "verification": {
+    "frames_reviewed": "≈32/900 native-res + 100% metrics",
+    "audio_analyzed": true,
+    "hitrate_na": null,
+    "abstraction_checked": true
+  }
+}

@@ -1,0 +1,2056 @@
+{
+  "id": "ADV-2026-057",
+  "source_ref": {
+    "platform": "online_video_ad (reference copy, TVCBOOK watermark)",
+    "title_or_campaign": "ANTA running — 从这一秒开始 / athlete 陈妤颉",
+    "brand": "ANTA (安踏)",
+    "product": "ANTA running shoes & apparel",
+    "model": "陈妤颉 (athlete, generic-face in visuals)",
+    "year": 2024,
+    "production_note": "vertical 9:16 cinematic sport film, lime kinetic type, handheld",
+    "url": null
+  },
+  "category_primary": "apparel.sportswear",
+  "category_tags": [
+    "스포츠웨어",
+    "러닝",
+    "선수 프로필 광고",
+    "키네틱 타이포",
+    "숏폼 세로형"
+  ],
+  "mood": [
+    "cinematic",
+    "aspirational",
+    "determined",
+    "athletic"
+  ],
+  "target_demo": "Teens-to-20s active and aspiring runners; sport-and-fitness consumers drawn to athlete heroism and performance gear",
+  "total_duration": 34.007,
+  "shot_count": 16,
+  "shot_count_corrected": 16,
+  "fps": 25,
+  "aspect_ratio": "9:16",
+  "hook_position": 0.0,
+  "cta_position": 29.24,
+  "narrative_arc": "Stillness to explosion to triumph to brand: a young female sprinter is introduced in a serene golden-hour profile with documentary credits, holds a contemplative breath, then sets into the blocks; she explodes out and runs at full speed under flaring sun with a race timer ticking past one second; a rapid desaturated montage with kinetic Chinese type ('you think this is just one second?', 'youthful power') compresses the effort, the climax tagline '从这一秒开始' (from this very second, begin) lands on her arms-up victory, a calm hero shot delivers the quick-dry product claim, and the film closes on the ANTA arc mark on black.",
+  "narrative_structure": "linear_with_rapid_climax_montage",
+  "pacing_curve": "accelerating",
+  "music_tempo_curve": "build_to_peak",
+  "wow_cut_index": [
+    4,
+    14
+  ],
+  "creative_device": "athlete-hero profile with a literal race-timer device ('one second') that the rhetorical kinetic copy reframes as a turning point, resolved by the quick-dry product claim",
+  "production_signature": {
+    "capture_style": "handheld_cinematic",
+    "camera_signature": [
+      "handheld_shake",
+      "dynamic_tracking"
+    ],
+    "signature_note": "Dynamic handheld sports cinematography: slow reveal/tilt on the intro, low tracking on the block start, lateral tracking and whip-pans through the run, and an overhead beat. metrics mean_abs_shift_x 1.72 with sign_flips 0.18 reflect real handheld + fast subject motion, NOT a lenticular wiggle_3d; camera_effect_local is 'none' throughout (no edge oscillation). A deliberate 23-28s rapid-cut climax montage alternates desaturated high-grain blur beats with color drive shots.",
+    "color_grade": "warm_golden_cinematic_with_neon_lime_accent",
+    "texture_fx": "film_grain_and_lens_flare; intentional desaturation in climax beats"
+  },
+  "global_layout": {
+    "grid_system": "center_with_split_kinetic_type",
+    "subject_placement_dominant": "center",
+    "subject_typo_relation": "typo_over_subject",
+    "negative_space_use": "moderate_to_generous (sky and track as breathing space)",
+    "layout_note": "Subject-centered vertical compositions with low angles for heroism; on-screen Chinese type is lime-yellow and frequently SPLIT across the frame (left phrase / right phrase) over the running subject, plus a left vertical credit block on the intro and a top headline block on the hero claim. A monospaced lime race-timer overlay recurs through the run."
+  },
+  "recurring_motifs": [
+    "lime-yellow kinetic Chinese typography",
+    "race timer counting to 1.00\"",
+    "golden-hour backlight and lens flare",
+    "empty red-track stadium",
+    "desaturated high-grain motion-blur climax beats",
+    "ANTA white arc/swoosh mark"
+  ],
+  "copywriting": {
+    "tagline_text": "从这一秒开始",
+    "tagline_structure": "adverbial_imperative (from this very second + begin)",
+    "tagline_length_syllables": 6,
+    "tagline_position_sec": 28.08,
+    "cta_text": "安踏速干之王 / 一秒瞬吸汗 速干不粘身",
+    "cta_text_structure": "product_superlative_claim + feature_benefit",
+    "cta_position_sec": 29.24,
+    "copy_tone": [
+      "determined",
+      "aspirational",
+      "punchy"
+    ],
+    "copy_strategy": "Credential the athlete (record holder, ANTA ambassador), dramatize her effort with a literal one-second race timer, reframe that single second rhetorically ('you think this is just one second?'), pay it off with the imperative tagline '从这一秒开始', then convert with a superlative quick-dry product claim.",
+    "copy_lines_count": 9,
+    "lines": [
+      {
+        "position_sec": 0.0,
+        "text": "陈妤颉",
+        "function": "athlete_name_credit",
+        "tone": "documentary",
+        "source": "caption"
+      },
+      {
+        "position_sec": 0.0,
+        "text": "安踏跑步代言人",
+        "function": "credential_ambassador",
+        "tone": "documentary",
+        "source": "caption"
+      },
+      {
+        "position_sec": 0.0,
+        "text": "亚洲女子一百米青年纪录",
+        "function": "credential_record",
+        "tone": "documentary",
+        "source": "caption"
+      },
+      {
+        "position_sec": 23.36,
+        "text": "你以为",
+        "function": "rhetorical_setup",
+        "tone": "provocative",
+        "source": "caption"
+      },
+      {
+        "position_sec": 23.36,
+        "text": "这只是一秒？",
+        "function": "rhetorical_question",
+        "tone": "provocative",
+        "source": "caption"
+      },
+      {
+        "position_sec": 26.64,
+        "text": "年轻",
+        "function": "theme_word_left",
+        "tone": "bold",
+        "source": "caption"
+      },
+      {
+        "position_sec": 26.64,
+        "text": "力量",
+        "function": "theme_word_right",
+        "tone": "bold",
+        "source": "caption"
+      },
+      {
+        "position_sec": 28.08,
+        "text": "从这一秒",
+        "function": "tagline_part1",
+        "tone": "declarative",
+        "source": "both"
+      },
+      {
+        "position_sec": 28.08,
+        "text": "开始",
+        "function": "tagline_part2_shout_cue",
+        "tone": "declarative",
+        "source": "both"
+      }
+    ],
+    "captions": [
+      {
+        "position_sec": 2.0,
+        "text": "0.00\" / 0.23\" / 0.25\" / 0.31\" / 0.35\" / 1.00\"",
+        "function": "race_timer_overlay_progression"
+      },
+      {
+        "position_sec": 20.84,
+        "text": "ANTA RUNNING",
+        "function": "jersey_brand_print_detail"
+      },
+      {
+        "position_sec": 29.24,
+        "text": "安踏速干之王",
+        "function": "product_superlative_headline"
+      },
+      {
+        "position_sec": 29.24,
+        "text": "一秒瞬吸汗　速干不粘身",
+        "function": "product_feature_subline_quick_dry"
+      }
+    ],
+    "narration_handling": "shout_cue_only"
+  },
+  "typography": {
+    "primary_font_class": "bold_condensed_sans_chinese",
+    "secondary_font_class": "monospaced_digital_segment (timer)",
+    "animation_style": [
+      "fade_in",
+      "pop",
+      "split_reveal",
+      "static_hold"
+    ],
+    "subtitle_position_dominant": "split_left_right_over_subject",
+    "tagline_position": "split_mid_left_and_mid_right",
+    "color_strategy": "saturated lime-yellow (#c8e639/#d9e84a) type over warm natural footage; monospaced lime timer; bold lime headline on hero shot; white arc mark on black close",
+    "appearance_count": 9,
+    "key_typography_moments_sec": [
+      0.0,
+      8.16,
+      23.36,
+      26.64,
+      28.08,
+      29.24
+    ],
+    "typo_motion_dominant": "split_fade_pop"
+  },
+  "vfx": {
+    "primary_effects": [
+      "lens_flare",
+      "slow_motion",
+      "kinetic_typo",
+      "speed_ramp",
+      "desaturation",
+      "film_grain",
+      "race_timer_overlay"
+    ],
+    "effect_intensity": "high",
+    "transition_style_dominant": "hard_cut",
+    "vfx_event_count": 7,
+    "vfx_timing_array_sec": [
+      0.0,
+      7.52,
+      15.52,
+      23.36,
+      26.64,
+      29.24,
+      32.32
+    ],
+    "wow_vfx_index": [
+      14
+    ]
+  },
+  "audio": {
+    "has_audio": true,
+    "language": "zh",
+    "speech_coverage": 0.06,
+    "bgm_likely": true,
+    "narration_lines": [
+      {
+        "start": 28.6,
+        "end": 30.6,
+        "text": "开始",
+        "text_raw": "시작!",
+        "kind": "shout_cue",
+        "source": "both"
+      }
+    ],
+    "voice_vs_caption": "music_driven_minimal_vo",
+    "narration_handling": "shout_cue_only",
+    "transcribed_by": "faster_whisper",
+    "audio_note": "Music-driven sport film; ko-forced whisper unreliable for this Chinese ad (returned 1 segment '시작!' at 28.6-30.6s, which is actually the Chinese shout/cue '开始' (start) matching the on-screen tagline 开始); copy is on-screen Chinese kinetic type. language set to zh (note: ko-forced ASR, unreliable)."
+  },
+  "frames_dir": "ADV-2026-057_frames",
+  "contact_sheet_path": "ADV-2026-057_frames/contact_sheet.png",
+  "shots": [
+    {
+      "index": 1,
+      "duration": 7.52,
+      "framing": "close_up",
+      "function": "hook_atmospheric_intro",
+      "subject_action": "On an empty blue sky, the camera slowly rises/tilts to reveal a young female sprinter's upturned face in low-angle profile, eyes closed in calm focus under golden backlight; lime-yellow vertical credit type fades in beside her.",
+      "layout_grid": "left_third_type_right_subject",
+      "subject_position": "lower_right",
+      "typo_motion": "vertical lime credit block fades up and holds at left; name 陈妤颉 largest, credentials in smaller vertical lines",
+      "camera_angle": "low_angle",
+      "camera_facing": "profile",
+      "shot_scope": "subject",
+      "gaze": "averted_closed",
+      "props": [
+        "athlete hair bun/braid"
+      ],
+      "color_palette": [
+        "#9ecbe8",
+        "#d9e84a",
+        "#e8c9a8",
+        "#2a3340"
+      ],
+      "color_intent": "Cool sky blue dominant with warm golden skin and a single lime credit accent; serene, aspirational open.",
+      "pose_description": "Head tilted slightly up, eyes closed, contemplative pre-competition stillness; profile to camera.",
+      "subject_motion": "micro: subtle breathing and faint drift as the frame rises to reveal her face",
+      "camera_motion": "tilt_up_reveal",
+      "camera_effect_local": "none",
+      "intra_cut_rhythm": "slow_build",
+      "transition_in": "open_on_sky",
+      "transition_out": "hard_cut",
+      "mid_frame_path": "ADV-2026-006_frames/cut01_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "athlete's upturned profile face",
+          "wisps of backlit hair"
+        ],
+        "midground": [
+          "lime-yellow vertical credit block 陈妤颉 / 安踏跑步代言人 / 亚洲女子一百米青年纪录"
+        ],
+        "background": [
+          "clear graduated blue sky",
+          "soft sun glow upper area"
+        ],
+        "lighting_env": [
+          "golden-hour backlight",
+          "rim light on hair and cheek"
+        ],
+        "atmosphere": [
+          "gentle lens haze",
+          "soft sun bloom"
+        ]
+      },
+      "texture": {
+        "primary_subject": "skin_natural",
+        "secondary_objects": [
+          "hair_strands"
+        ],
+        "background_surface": "sky_gradient",
+        "atmospheric": [
+          "sun_haze"
+        ]
+      },
+      "lighting": {
+        "key_direction": "back",
+        "key_hardness": "soft",
+        "key_color_temp": "warm_3200K",
+        "fill_strength": "weak",
+        "key_to_fill_ratio": "4:1",
+        "rim_light": true,
+        "practical_lights": [],
+        "shadow_presence": "soft",
+        "overall_contrast": "medium_high"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#9ecbe8",
+          "#d9e84a",
+          "#e8c9a8",
+          "#2a3340"
+        ],
+        "palette_role": {
+          "#9ecbe8": "background_dominant",
+          "#d9e84a": "type_accent",
+          "#e8c9a8": "skin_warm",
+          "#2a3340": "shadow_anchor"
+        },
+        "color_relationship": "warm_cool_complementary",
+        "temperature_balance": "cool_field_warm_subject",
+        "saturation_strategy": "natural_with_neon_accent",
+        "contrast_type": "temperature_and_luminance",
+        "accent_color": "#d9e84a",
+        "accent_ratio": "10_percent"
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A cinematic vertical 9:16 sports-film key frame: a young East Asian female sprinter in her late teens to early twenties, athletic and lean, hair pulled back into a tight low bun with a short braided tail, shown in a tight low-angle right-facing profile from the chest up, her chin lifted a few degrees skyward and her eyes gently closed in a calm, focused, pre-competition breath. She wears a fitted lime-yellow technical running tee in a lightweight performance knit, the collar and shoulder seam just visible at the bottom edge of frame; her skin is dewy and warmly lit, faint athletic sheen on the cheekbone and jaw. The setting is pure open sky: a smooth graduated cyan-to-pale-blue gradient with no clouds, the only feature a soft diffused sun-bloom glowing from the upper right behind her so the source itself stays out of frame. No foreground props except wisps of her backlit flyaway hair catching the light; the lower two-thirds is dominated by her head and shoulder, the upper third is empty luminous sky. Lighting is golden-hour backlight, warm roughly 3200K, hard enough to carve a bright rim around the crown of her head, the edge of her nose and her shoulder, with weak frontal fill so the shadow side of her face falls into gentle cool shadow at about a four-to-one ratio; soft natural shadow, medium-high contrast, a hair of anamorphic lens haze and sun bloom softening the highlights. Lens and framing: a 50mm-to-85mm-equivalent look, shot from slightly below eye level looking up at her so she reads heroic against the sky, shallow-to-medium depth of field with the sky melting to a clean soft gradient, vertical 9:16 portrait orientation. Composition places her face and shoulder in the lower-right quadrant on a loose rule-of-thirds, leaving generous negative sky to the upper left for type. In that left margin sits a vertical block of neon lime-yellow Chinese typography running top-to-bottom: a large bold name 陈妤颉, and to its right two slimmer vertical credential lines 安踏跑步代言人 and 亚洲女子一百米青年纪录, all in a clean condensed sans in saturated lime (#d9e84a) reading like a documentary title card. Color palette: dominant cool sky blue (#9ecbe8), warm golden skin (#e8c9a8), a single neon lime accent (#d9e84a) for the type, and a deep cool shadow anchor (#2a3340); the strategy is natural warm-cool complementary tones with one electric neon accent, the lime owning roughly ten percent of the frame as the only high-chroma graphic element. Textures: natural skin with fine pores and athletic sheen, soft individual backlit hair strands, and a perfectly smooth atmospheric sky gradient. Atmosphere is serene and aspirational with light sun haze and a soft glow bleeding off her silhouette. Post and signature look: warm cinematic grade, slightly lifted blacks, gentle bloom, handheld-documentary intimacy, fine filmic grain. Style anchor: vertical Chinese sportswear performance film, athlete-profile opening beat, golden-hour backlit portrait against open sky with neon kinetic credit type. This still is the moment the rising frame settles on her upturned face. To direct this frame precisely, keep the horizon implied rather than shown: there is no land line, only sky, so her upturned profile becomes the sole anchor and the eye is free to travel from her lit cheekbone up into the empty blue. Treat the backlight as the storyteller — let it kiss the bridge of her nose and the curve of her upper lip while the cheek nearest camera stays in cool, soft shadow, the contrast quiet but present. The lime type should feel like a documentary lower-third rotated vertical: confident, editorial, never decorative, sitting flush in the negative space so it never crowds her face. A faint dust-mote sparkle or two can drift in the backlit air for texture, and a gentle bloom can spill off her shoulder where the sun wraps it. The overall read is patience and promise: a champion at rest, breathing before the storm, rendered with warm filmic restraint so the viewer leans in.",
+        "t2i_negative": "real recognizable celebrity face, exact ANTA trademark reproduction, real brand logos other than a generic swoosh, tvcbook watermark, distorted hands, extra limbs, mangled fingers, text gibberish, warped chinese characters, low resolution, jpeg artifacts, oversaturated skin, plastic skin, washed-out flat lighting, lens dirt smears, duplicate runners, motion smear on the whole frame when not intended, harsh hdr halos, clouds, busy background, studio backdrop, frontal flat lighting, multiple people",
+        "i2v_motion": "Hold a slow handheld tilt-up: begin on near-empty bright sky, the top of her head rising into the lower frame, then ease the framing up to settle on her calm upturned profile as the lime vertical credit block fades up at left and holds; her chest barely rises with a breath, hair flickers in a light breeze, backlight shimmers; very slow, meditative, ~7.5s, no whip or shake, ending on a hard cut to a black-and-white eye macro.",
+        "i2v_params": {
+          "clip_duration_sec": 7.52,
+          "camera_move": "tilt_up_slow",
+          "subject_motion_level": "micro",
+          "signature_effect": "sun_haze_bloom",
+          "pacing": "slow_build",
+          "loopable": false
+        },
+        "fidelity_note": "Athlete rendered as a generic young East Asian sprinter (no specific real face); credit copy 陈妤颉 / 安踏跑步代言人 / 亚洲女子一百米青年纪录 preserved verbatim as on-screen caption; no real trademark."
+      }
+    },
+    {
+      "index": 2,
+      "duration": 0.64,
+      "framing": "extreme_close_up",
+      "function": "insert_emotional_detail",
+      "subject_action": "A brief, near-monochrome extreme close-up of the sprinter's closed eye and brow, holding the contemplative stillness for a single beat before the action begins.",
+      "layout_grid": "full_frame_macro",
+      "subject_position": "center",
+      "typo_motion": "none",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "detail",
+      "gaze": "closed",
+      "props": [],
+      "color_palette": [
+        "#7d8186",
+        "#4a4d52",
+        "#2b2d31",
+        "#a9adb2"
+      ],
+      "color_intent": "Desaturated near-grey monochrome to isolate emotion and texture; a quiet held breath between intro and action.",
+      "pose_description": "Closed eye, relaxed brow, skin texture in soft directional light; total stillness.",
+      "subject_motion": "micro: an almost imperceptible lid/lash settle",
+      "camera_motion": "locked_subtle_handheld",
+      "camera_effect_local": "none",
+      "intra_cut_rhythm": "static_held",
+      "transition_in": "hard_cut",
+      "transition_out": "hard_cut",
+      "mid_frame_path": "ADV-2026-006_frames/cut02_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "closed eye, lashes and brow"
+        ],
+        "midground": [
+          "cheek and temple skin"
+        ],
+        "background": [
+          "soft out-of-focus dark skin falloff"
+        ],
+        "lighting_env": [
+          "soft directional side light"
+        ],
+        "atmosphere": [
+          "fine film grain"
+        ]
+      },
+      "texture": {
+        "primary_subject": "skin_pores",
+        "secondary_objects": [
+          "eyelashes"
+        ],
+        "background_surface": "skin_soft_focus",
+        "atmospheric": [
+          "grain"
+        ]
+      },
+      "lighting": {
+        "key_direction": "side",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_5000K",
+        "fill_strength": "weak",
+        "key_to_fill_ratio": "3:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "strong",
+        "overall_contrast": "medium"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#7d8186",
+          "#4a4d52",
+          "#2b2d31",
+          "#a9adb2"
+        ],
+        "palette_role": {
+          "#7d8186": "midtone_dominant",
+          "#4a4d52": "shadow",
+          "#2b2d31": "deep_shadow",
+          "#a9adb2": "highlight"
+        },
+        "color_relationship": "monochrome",
+        "temperature_balance": "neutral",
+        "saturation_strategy": "desaturated",
+        "contrast_type": "luminance",
+        "accent_color": "#a9adb2",
+        "accent_ratio": "15_percent"
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A near-monochrome cinematic extreme close-up in vertical 9:16, filling the frame with the closed right eye, lash line, eyebrow and surrounding cheek-and-temple skin of a young East Asian female athlete in her late teens to early twenties, eyes serenely shut in a contemplative held breath. There is no wardrobe visible at this magnification and no props; the entire frame is human skin and lashes, the eyelid smooth and relaxed, the brow softly arched, fine downy hair and natural pores rendered with crisp filmic detail. The background is simply more of her own face dropping into soft out-of-focus falloff at the edges, no environment readable, the location implied only as the same golden outdoor moment now desaturated almost entirely to grey. Lighting is soft directional side light, neutral around 5000K, raking gently across the skin from one side so the lashes cast delicate shadow and the orbital socket reads with quiet dimensional modelling; weak fill leaves the far side of the lid in soft shadow at roughly three-to-one, strong shadow presence but soft edges, overall medium contrast. Lens and framing: a macro or long-lens equivalent close enough that only the eye and a band of cheek and brow fit, shot straight-on at eye level, extremely shallow depth of field so the lash tips are tack-sharp and the cheek melts to blur, vertical 9:16 orientation. Composition centers the closed eye slightly above the vertical middle, the diagonal of the brow leading gently across the frame, a tight intimate portrait fragment with no negative space and no graphic elements at all. Color palette is a desaturated near-grey monochrome: a midtone skin-grey (#7d8186) dominant, shadow grey (#4a4d52), deep shadow (#2b2d31) and a soft highlight (#a9adb2); the strategy is deliberately drained of chroma so the cut reads as a quiet emotional held beat, a momentary black-and-white insert between the warm sky intro and the explosive action to come, the highlight on the lid acting as the only luminance accent at about fifteen percent of frame. Textures are the star here: real human skin with visible pores and peach-fuzz, individually separated dark eyelashes, the slight crepe of the eyelid, all under a fine even layer of film grain. Atmosphere is hushed and interior, no haze or particles, just grain and stillness. Post and signature look: high-grain near-monochrome grade, slightly crushed blacks, soft contrast, an intentional analogue cinematic texture that contrasts with the colour footage around it. Style anchor: vertical Chinese sportswear performance film, intimate emotional insert, desaturated macro of a closed eye as a one-beat pause before the sprint. This still is the held middle of that brief breath. Direct this as a held emotional breath: the magnification should be intimate enough that the viewer feels they are inside her concentration, the closed lid and lash line carrying all the meaning. Let the side light fall just hard enough to separate each lash and to model the soft hollow of the orbital socket, while the surrounding skin drops gently out of focus so nothing competes. The desaturation is deliberate and total: this is the only near-monochrome held portrait in the film and it should read as a deliberate tonal contrast against the warm color around it, a quiet grey island between the sky intro and the explosive blocks. Keep grain present and even, an analogue veil that makes the skin feel real rather than retouched, and keep the frame absolutely still so the cut lands as a pause. There must be no text, no logo, no environment — only skin, lash and breath, the most stripped-down frame in the entire piece.",
+        "t2i_negative": "real recognizable celebrity face, exact ANTA trademark reproduction, real brand logos other than a generic swoosh, tvcbook watermark, distorted hands, extra limbs, mangled fingers, text gibberish, warped chinese characters, low resolution, jpeg artifacts, oversaturated skin, plastic skin, washed-out flat lighting, lens dirt smears, duplicate runners, motion smear on the whole frame when not intended, harsh hdr halos, open eyes, heavy makeup, colorful saturated tones, visible background scene, sharp full face",
+        "i2v_motion": "Almost frozen: hold the desaturated macro of the closed eye for a single short beat with only an imperceptible settle of the eyelid and lashes and the faintest handheld micro-drift; no zoom, no pan; high grain shimmer; ~0.6s, static-held, ending on a hard cut to the wide starting-blocks shot.",
+        "i2v_params": {
+          "clip_duration_sec": 0.64,
+          "camera_move": "static_micro",
+          "subject_motion_level": "micro",
+          "signature_effect": "film_grain_mono",
+          "pacing": "static",
+          "loopable": true
+        },
+        "fidelity_note": "Generic young East Asian athlete (no specific real face); no copy in frame; near-monochrome emotional insert; no trademark."
+      }
+    },
+    {
+      "index": 3,
+      "duration": 3.88,
+      "framing": "full_shot",
+      "function": "setup_block_set_position",
+      "subject_action": "The sprinter is in the 'set' position at the starting blocks on a red track in an empty stadium, crouched and coiled, head down, weight forward; a lime digital race timer reading 0.00\" floats at center, holding the tension before the gun.",
+      "layout_grid": "center_subject_low",
+      "subject_position": "center_right",
+      "typo_motion": "lime digital seconds counter 0.00\" sits centered, monospaced, holding still (begins counting)",
+      "camera_angle": "low_angle",
+      "camera_facing": "three_quarter",
+      "shot_scope": "environment",
+      "gaze": "down_focused",
+      "props": [
+        "starting blocks",
+        "race timer overlay",
+        "ANTA-style teal/lime spikes",
+        "white crew socks"
+      ],
+      "color_palette": [
+        "#b94a3a",
+        "#d9e84a",
+        "#9ec5e0",
+        "#6f7d4a"
+      ],
+      "color_intent": "Warm red track against cool sky with green infield; lime timer ties to the brand accent and the one-second theme.",
+      "pose_description": "Classic sprint 'set' crouch: hands on the line, hips raised above shoulders, front knee bent, rear leg loaded into the block, head bowed.",
+      "subject_motion": "held tension with micro-tremor of loaded muscles; slight settle",
+      "camera_motion": "handheld_static_tracking",
+      "camera_effect_local": "none",
+      "intra_cut_rhythm": "held_tension",
+      "transition_in": "hard_cut",
+      "transition_out": "hard_cut",
+      "mid_frame_path": "ADV-2026-006_frames/cut03_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "sprinter crouched at blocks",
+          "teal/lime spikes on the block pedals"
+        ],
+        "midground": [
+          "red running track lane lines",
+          "lime digital timer 0.00\""
+        ],
+        "background": [
+          "empty stadium grandstand",
+          "green infield",
+          "blue sky",
+          "large dark scoreboard"
+        ],
+        "lighting_env": [
+          "hard golden-hour sun from camera-left/back",
+          "warm key on back and limbs"
+        ],
+        "atmosphere": [
+          "clean dry warm air",
+          "faint heat shimmer over track"
+        ]
+      },
+      "texture": {
+        "primary_subject": "athletic_skin_fabric",
+        "secondary_objects": [
+          "rubber_track",
+          "metal_blocks",
+          "mesh_spikes"
+        ],
+        "background_surface": "stadium_concrete",
+        "atmospheric": [
+          "heat_shimmer"
+        ]
+      },
+      "lighting": {
+        "key_direction": "back_left",
+        "key_hardness": "hard",
+        "key_color_temp": "warm_3400K",
+        "fill_strength": "moderate",
+        "key_to_fill_ratio": "3:1",
+        "rim_light": true,
+        "practical_lights": [],
+        "shadow_presence": "strong",
+        "overall_contrast": "high"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#b94a3a",
+          "#d9e84a",
+          "#9ec5e0",
+          "#6f7d4a"
+        ],
+        "palette_role": {
+          "#b94a3a": "track_dominant",
+          "#d9e84a": "accent_type_and_shoe",
+          "#9ec5e0": "sky_secondary",
+          "#6f7d4a": "infield_green"
+        },
+        "color_relationship": "warm_dominant_cool_relief",
+        "temperature_balance": "warm_dominant",
+        "saturation_strategy": "rich_natural",
+        "contrast_type": "hue_and_luminance",
+        "accent_color": "#d9e84a",
+        "accent_ratio": "12_percent"
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A vertical 9:16 cinematic full shot of a young East Asian female sprinter, late teens to early twenties, lean and muscular with her hair in a tight low bun, locked into the classic 'set' position at the starting blocks on a running track. She is crouched and coiled: both hands fingertip-down behind the white start line, hips raised above her shoulders, front knee deeply bent, rear leg loaded into the angled metal starting block, head bowed and eyes cast down in total concentration. Wardrobe: a fitted lime-yellow technical running tee, dark charcoal-black running shorts, white crew socks, and bright teal-and-lime sprinting spikes (generic ANTA-style, not an exact trademark) braced against the silver block pedals. The location is a large empty outdoor athletics stadium at golden hour: a rich brick-red rubber running track with crisp white lane lines, a green grass infield beyond, sweeping empty grandstands and a big dark scoreboard structure in the background, all under a clear pale-blue sky. Foreground props are the metallic starting blocks and her spikes gripping them; the track surface fills the lower frame with its fine rubberised pebble texture. Lighting is hard golden-hour sun coming from the camera-left and slightly behind, warm around 3400K, raking a bright rim across her back, shoulder and calf, with moderate bounce fill off the bright track at roughly three-to-one; strong directional shadows stretch across the lane, high overall contrast, a faint heat shimmer rising off the warm track. Lens and framing: a 35mm-to-50mm-equivalent look, camera low and close to track level looking up the lane at a three-quarter angle so her coiled body reads powerfully against the stadium, medium depth of field keeping her sharp while the grandstand softens, vertical 9:16 orientation. Composition seats her crouched form center-right on a thirds grid with the diagonal of the blocks and lane lines leading in from the lower left, leaving the upper third for sky. Centered over her, a small lime-yellow digital seconds counter reads 0.00\" in a monospaced segmented typeface, glowing softly like a race clock and tying the action to the brand's neon accent and the one-second theme. Color palette: dominant warm brick-red track (#b94a3a), the neon lime accent (#d9e84a) shared by the timer and her spikes, cool sky-blue relief (#9ec5e0) and muted infield green (#6f7d4a); the strategy is a rich natural warm-dominant grade with cool relief and a single electric lime accent at about twelve percent of frame. Textures: athletic skin and technical fabric, rubberised track grain, brushed-metal blocks, woven mesh spikes. Atmosphere is dry, warm and expectant with light heat shimmer. Post and signature look: warm teal-and-orange-leaning cinematic grade, handheld documentary energy, fine grain. Style anchor: vertical Chinese sportswear performance film, the held set-position beat with a neon race-timer overlay. This still is the coiled moment of stillness just before the start. Direct the geometry around her coil: let the white start line and the silver blocks create strong leading lines into her hands, and let the lane lines rake away behind her toward the soft grandstand so the depth reads instantly as a real stadium. Keep her the only sharp element while the empty stands and scoreboard fall just soft enough to say 'vast and waiting' without losing the sense of place. The race timer should glow like a real trackside clock, its segmented lime digits crisp and slightly emissive, sitting in clean air beside her bowed head so it never collides with her body. Let the warm rim light trace the long muscles of her back and hamstring to telegraph loaded power, and let a thread of heat shimmer rise off the sun-warmed track for atmosphere. The whole frame should hold its breath with her: stillness charged with the certainty of an imminent explosion, warm and tense and cinematic.",
+        "t2i_negative": "real recognizable celebrity face, exact ANTA trademark reproduction, real brand logos other than a generic swoosh, tvcbook watermark, distorted hands, extra limbs, mangled fingers, text gibberish, warped chinese characters, low resolution, jpeg artifacts, oversaturated skin, plastic skin, washed-out flat lighting, lens dirt smears, duplicate runners, motion smear on the whole frame when not intended, harsh hdr halos, crowded stadium full of spectators, indoor track, overcast flat sky, modern hud clutter, multiple timers",
+        "i2v_motion": "Hold the loaded 'set' position with handheld micro-tracking: she stays crouched and still, only fine muscle tremor and a tiny settle of the hips as she holds tension; the lime 0.00\" timer sits centered and begins to flicker as if about to start; warm rim light shimmers, faint heat haze drifts off the track; tense and quiet, ~3.9s, no big move, ending on a hard cut to the explosive block start.",
+        "i2v_params": {
+          "clip_duration_sec": 3.88,
+          "camera_move": "handheld_static",
+          "subject_motion_level": "micro",
+          "signature_effect": "race_timer_overlay",
+          "pacing": "held_tension",
+          "loopable": false
+        },
+        "fidelity_note": "Generic young East Asian sprinter (no specific real face); spikes/apparel rendered generically (ANTA-style, no exact trademark); on-screen timer 0.00\" preserved; no real logo."
+      }
+    },
+    {
+      "index": 4,
+      "duration": 3.48,
+      "framing": "full_shot",
+      "function": "action_explosive_start",
+      "subject_action": "From a tight detail of the spike pushing off the block, the sprinter explodes out of the blocks into the drive phase, body angled steeply forward, arms driving, legs extending against an empty golden stadium.",
+      "layout_grid": "center_diagonal_body",
+      "subject_position": "center",
+      "typo_motion": "none (timer briefly absent during the launch detail)",
+      "camera_angle": "low_angle",
+      "camera_facing": "profile",
+      "shot_scope": "environment",
+      "gaze": "down_forward",
+      "props": [
+        "starting blocks",
+        "teal/lime spikes",
+        "red track"
+      ],
+      "color_palette": [
+        "#b4452f",
+        "#d9e84a",
+        "#c9a86a",
+        "#7c8a52"
+      ],
+      "color_intent": "Explosive warm energy: red track and golden grandstand with neon spike accent; power and acceleration.",
+      "pose_description": "Drive-phase launch: torso at a steep forward angle near 45 degrees, rear leg fully extended off the block, front knee driving up, arms pumping in opposition.",
+      "subject_motion": "large: explosive forward launch and first powerful strides",
+      "camera_motion": "dynamic_tracking",
+      "camera_effect_local": "none",
+      "intra_cut_rhythm": "burst_accelerate",
+      "transition_in": "hard_cut",
+      "transition_out": "hard_cut",
+      "mid_frame_path": "ADV-2026-006_frames/cut04_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "sprinter launching at a steep forward angle",
+          "spikes leaving the blocks"
+        ],
+        "midground": [
+          "starting blocks",
+          "red track lane lines"
+        ],
+        "background": [
+          "empty golden grandstand",
+          "green infield",
+          "blue sky"
+        ],
+        "lighting_env": [
+          "hard warm sun back-left",
+          "bright bounce off track"
+        ],
+        "atmosphere": [
+          "dry warm air",
+          "faint dust kick"
+        ]
+      },
+      "texture": {
+        "primary_subject": "athletic_skin_fabric",
+        "secondary_objects": [
+          "rubber_track",
+          "metal_blocks",
+          "mesh_spikes"
+        ],
+        "background_surface": "stadium_seating",
+        "atmospheric": [
+          "light_dust"
+        ]
+      },
+      "lighting": {
+        "key_direction": "back_left",
+        "key_hardness": "hard",
+        "key_color_temp": "warm_3400K",
+        "fill_strength": "moderate",
+        "key_to_fill_ratio": "3:1",
+        "rim_light": true,
+        "practical_lights": [],
+        "shadow_presence": "strong",
+        "overall_contrast": "high"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#b4452f",
+          "#d9e84a",
+          "#c9a86a",
+          "#7c8a52"
+        ],
+        "palette_role": {
+          "#b4452f": "track_dominant",
+          "#d9e84a": "shoe_accent",
+          "#c9a86a": "grandstand_warm",
+          "#7c8a52": "infield_green"
+        },
+        "color_relationship": "warm_analogous",
+        "temperature_balance": "warm_dominant",
+        "saturation_strategy": "rich_natural",
+        "contrast_type": "luminance_and_hue",
+        "accent_color": "#d9e84a",
+        "accent_ratio": "8_percent"
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A vertical 9:16 cinematic action key frame of a young East Asian female sprinter, late teens to early twenties, lean and powerful with her hair in a tight bun, caught at the instant of the explosive block start, driving out into the first stride of the drive phase. Her body is angled steeply forward at roughly forty-five degrees, rear leg fully extended off the silver starting block with the toe just leaving the pedal, front knee driving up and forward, both arms pumping hard in opposition, head down and eyes forward in pure exertion. Wardrobe: a fitted lime-yellow technical running tee, charcoal-black running shorts, white crew socks and vivid teal-and-lime sprinting spikes (generic ANTA-style, not an exact trademark), one shoe still in contact with the block. Location is the same empty golden-hour athletics stadium: rich brick-red rubber track with white lane lines, the metallic starting blocks anchored in the lower-left foreground, a warm sunlit empty grandstand and green infield behind under a clear blue sky. Foreground props are the blocks and her launching spikes; a faint kick of track dust trails her rear foot. Lighting is hard warm golden-hour sun from the back-left around 3400K, throwing a brilliant rim down her spine, hamstring and calf and separating her from the warm grandstand, with moderate bounce fill off the bright track at three-to-one; long hard shadows rake forward, contrast is high, a little dust and heat shimmer hang in the air. Lens and framing: a 35mm-equivalent look, camera low near track level and tracking with her in profile so her forward-driving line cuts a strong diagonal across the frame, medium depth of field, a touch of directional motion energy in the limbs while her torso stays sharp, vertical 9:16 orientation. Composition runs her explosive diagonal through the center of the frame from lower-left blocks to upper-right drive, the lane lines reinforcing the thrust, sky filling the upper third. Color palette: dominant warm brick-red track (#b4452f), neon lime spike accent (#d9e84a), warm honey grandstand (#c9a86a) and muted infield green (#7c8a52); the strategy is a warm analogous golden grade with a single electric lime accent at about eight percent of frame, all energy and heat. Textures: taut athletic skin and technical fabric, rubberised track grain, brushed-metal blocks, woven mesh spikes, soft airborne dust. Atmosphere is explosive, dry and warm with a hint of kicked dust and heat haze. Post and signature look: warm cinematic teal-orange-leaning grade, handheld tracking energy, light directional motion blur on the limbs, fine grain. Style anchor: vertical Chinese sportswear performance film, the explosive block-start beat. This still is the first frame of the launch out of the blocks. Direct the launch for maximum thrust: let her body form one clean line from the planted block to the crown of her driving head, the diagonal cutting boldly across the vertical frame so the eye is pulled up and forward with her. Keep the rear foot still kissing the block to read the exact instant of departure, and let a small spray of track dust trail it for kinetic proof. Allow a touch of directional motion blur on the pumping arms and the driving shin while the torso and face stay sharp, so the frame feels fast without dissolving. The warm grandstand behind should glow honey-gold and soft, a luminous backdrop that makes her lime tee and teal spikes pop as the only saturated notes. Long hard shadows should rake forward off her body across the red lane, reinforcing the low sun and the explosive forward energy; the whole image should read as raw, athletic, golden power at the moment of release.",
+        "t2i_negative": "real recognizable celebrity face, exact ANTA trademark reproduction, real brand logos other than a generic swoosh, tvcbook watermark, distorted hands, extra limbs, mangled fingers, text gibberish, warped chinese characters, low resolution, jpeg artifacts, oversaturated skin, plastic skin, washed-out flat lighting, lens dirt smears, duplicate runners, motion smear on the whole frame when not intended, harsh hdr halos, spectators in seats, indoor venue, flat overcast light, both feet planted upright, static standing pose",
+        "i2v_motion": "Cut in on a tight low detail of the spike toe pushing off the metal block, then explode: she launches out of the blocks into the drive phase, torso pitched forward, arms pumping, rear leg snapping straight then the first powerful strides, camera tracking low and fast alongside her in profile with dynamic handheld energy and light limb motion-blur; dust kicks off the track; powerful and accelerating, ~3.5s, ending on a hard cut to the full-speed run.",
+        "i2v_params": {
+          "clip_duration_sec": 3.48,
+          "camera_move": "dynamic_tracking",
+          "subject_motion_level": "large",
+          "signature_effect": "motion_blur_limbs",
+          "pacing": "burst_accelerate",
+          "loopable": false
+        },
+        "fidelity_note": "Generic young East Asian sprinter (no specific real face); apparel/spikes generic ANTA-style (no exact trademark); no copy in frame; no real logo."
+      }
+    },
+    {
+      "index": 5,
+      "duration": 3.08,
+      "framing": "full_shot",
+      "function": "action_full_speed_run",
+      "subject_action": "At full speed she sprints in side profile across the empty stadium, hair streaming, backlit by a flaring sun; a lime digital timer counts up (0.23\"/0.25\") as she powers through the stride cycle.",
+      "layout_grid": "center_subject_running",
+      "subject_position": "center",
+      "typo_motion": "lime digital seconds counter ticks up (0.23\" then 0.25\"), centered, monospaced",
+      "camera_angle": "eye_level",
+      "camera_facing": "profile",
+      "shot_scope": "environment",
+      "gaze": "forward",
+      "props": [
+        "race timer overlay",
+        "red track",
+        "teal/lime spikes"
+      ],
+      "color_palette": [
+        "#e7d7b0",
+        "#d9e84a",
+        "#b94a3a",
+        "#3a4452"
+      ],
+      "color_intent": "Backlit golden haze blows out the sky to luminous cream; lime timer is the crisp accent; speed and light.",
+      "pose_description": "Mid-sprint full extension: one leg driving back in toe-off, the other knee high, arms scything, torso tall, hair flying behind.",
+      "subject_motion": "large: full-speed running across frame, hair and limbs in fast motion",
+      "camera_motion": "dynamic_tracking",
+      "camera_effect_local": "lens_flare",
+      "intra_cut_rhythm": "driving",
+      "transition_in": "hard_cut",
+      "transition_out": "hard_cut",
+      "mid_frame_path": "ADV-2026-006_frames/cut05_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "sprinter at full stride in profile",
+          "streaming ponytail braid"
+        ],
+        "midground": [
+          "red track",
+          "lime digital timer 0.25\""
+        ],
+        "background": [
+          "blown-out bright grandstand",
+          "green infield",
+          "hazy sky"
+        ],
+        "lighting_env": [
+          "strong backlit sun with flare",
+          "rim light along body"
+        ],
+        "atmosphere": [
+          "heavy lens flare",
+          "golden haze",
+          "sun bloom"
+        ]
+      },
+      "texture": {
+        "primary_subject": "athletic_skin_fabric",
+        "secondary_objects": [
+          "rubber_track",
+          "streaming_hair"
+        ],
+        "background_surface": "stadium_haze",
+        "atmospheric": [
+          "flare_haze"
+        ]
+      },
+      "lighting": {
+        "key_direction": "back",
+        "key_hardness": "hard",
+        "key_color_temp": "warm_3200K",
+        "fill_strength": "weak",
+        "key_to_fill_ratio": "4:1",
+        "rim_light": true,
+        "practical_lights": [],
+        "shadow_presence": "soft",
+        "overall_contrast": "high_with_bloom"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#e7d7b0",
+          "#d9e84a",
+          "#b94a3a",
+          "#3a4452"
+        ],
+        "palette_role": {
+          "#e7d7b0": "sky_haze_dominant",
+          "#d9e84a": "accent_type_shoe",
+          "#b94a3a": "track",
+          "#3a4452": "shadow"
+        },
+        "color_relationship": "warm_dominant_neon_accent",
+        "temperature_balance": "warm_dominant",
+        "saturation_strategy": "natural_blown_highlights",
+        "contrast_type": "luminance",
+        "accent_color": "#d9e84a",
+        "accent_ratio": "8_percent"
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A vertical 9:16 cinematic full shot of a young East Asian female sprinter, late teens to early twenties, lean and athletic with her hair in a bun and a short braid streaming behind her, captured at top speed mid-stride in clean side profile, powering left-to-right across an empty stadium. Her form is fully extended: rear leg driving back through toe-off, front knee high, arms scything in long opposition, torso tall and proud, ponytail braid flying horizontally in the slipstream, expression set in fierce focused effort. Wardrobe: a fitted lime-yellow technical running tee, charcoal-black running shorts, white crew socks and bright teal-and-lime sprinting spikes (generic ANTA-style, not an exact trademark). Location is the same outdoor athletics stadium, now shot almost into the sun: a brick-red rubber track underfoot, a green infield and a vast empty grandstand behind, the sky and stands blown to a luminous warm cream by the low backlit sun. Foreground is the running figure; the bright track stretches beneath her. Lighting is hard backlight, warm around 3200K, the low sun directly behind her so a brilliant rim outlines her entire body and hair while weak fill leaves her front in soft shadow at roughly four-to-one; a strong anamorphic lens flare streaks across the frame with golden veiling glare and bloom, soft shadow presence, high contrast tempered by the haze. Lens and framing: a 50mm-equivalent look, camera at roughly eye level tracking laterally with her so she stays centered and sharp while the background smears slightly with speed, shallow-to-medium depth of field, vertical 9:16 orientation. Composition centers her running figure with her forward line of travel leading into open bright space ahead, the track and a sliver of grandstand grounding the lower third, the upper two-thirds glowing haze. Centered near her midsection a small lime-yellow monospaced digital timer reads about 0.25\", glowing like a race clock as it counts the seconds of her run. Color palette: dominant warm cream haze (#e7d7b0), neon lime accent (#d9e84a) on the timer and spikes, brick-red track (#b94a3a) and a cool shadow anchor (#3a4452); the strategy is a warm-dominant natural grade with intentionally blown highlights and a single electric lime accent at about eight percent of frame. Textures: athletic skin and technical fabric, rubberised track, streaming hair strands catching light, and a veil of flare haze over everything. Atmosphere is luminous, hot and fast, dominated by sun bloom and lens flare. Post and signature look: warm cinematic grade with heavy backlit flare and bloom, handheld tracking, fine grain. Style anchor: vertical Chinese sportswear performance film, the full-speed backlit sprint with a neon race-timer overlay. This still is one driving frame of the run. Direct this as the film's luminous high point of pure speed: shoot almost straight into the low sun so the entire upper frame blooms to warm cream and a long anamorphic flare streaks across, letting her body read as a crisp rim-lit silhouette of effort. Keep her centered and sharp while the grandstand smears slightly with the lateral track, selling velocity. Let the braid fly horizontal in the slipstream and let a faint sweat sheen catch the rim light along her arm and calf. The lime race timer should sit clean against the haze, its segmented digits the one cool-crisp graphic note in a frame otherwise dissolved in golden glare. Keep the track a warm brick band beneath her and let the flare veil lift the shadows so the contrast feels airy rather than harsh; the overall read is exhilaration, light and forward motion, the camera barely able to keep pace with her.",
+        "t2i_negative": "real recognizable celebrity face, exact ANTA trademark reproduction, real brand logos other than a generic swoosh, tvcbook watermark, distorted hands, extra limbs, mangled fingers, text gibberish, warped chinese characters, low resolution, jpeg artifacts, oversaturated skin, plastic skin, washed-out flat lighting, lens dirt smears, duplicate runners, motion smear on the whole frame when not intended, harsh hdr halos, crowd in stands, frontal flat light, no flare, dark underexposed sky, standing still pose",
+        "i2v_motion": "Track laterally with her at full speed in profile: legs and arms cycle through fast powerful strides, the braid whips behind, the lime timer ticks up from about 0.23\" to 0.25\"; a strong sun flare drags across frame and the background blurs with her speed; driving and kinetic with dynamic handheld float, ~3.1s, ending on a hard cut to a tight flaring face close-up.",
+        "i2v_params": {
+          "clip_duration_sec": 3.08,
+          "camera_move": "dynamic_tracking",
+          "subject_motion_level": "large",
+          "signature_effect": "lens_flare_bloom",
+          "pacing": "driving",
+          "loopable": false
+        },
+        "fidelity_note": "Generic young East Asian sprinter (no specific real face); apparel/spikes generic ANTA-style (no exact trademark); on-screen timer 0.25\" preserved; no real logo."
+      }
+    },
+    {
+      "index": 6,
+      "duration": 2.24,
+      "framing": "close_up",
+      "function": "action_face_determination",
+      "subject_action": "A tight side close-up of the sprinter's face mid-run, jaw set and breathing hard, a pink-magenta lens flare blooming across her cheek as the lime timer reads 0.31\".",
+      "layout_grid": "center_face_profile",
+      "subject_position": "center_right",
+      "typo_motion": "lime digital timer 0.31\" centered over the flare, monospaced",
+      "camera_angle": "eye_level",
+      "camera_facing": "profile",
+      "shot_scope": "subject",
+      "gaze": "forward",
+      "props": [
+        "race timer overlay"
+      ],
+      "color_palette": [
+        "#e0c8b0",
+        "#d9e84a",
+        "#cf7fb0",
+        "#3a3138"
+      ],
+      "color_intent": "Warm skin with a magenta flare across it; intimate, intense; lime timer keeps the brand thread.",
+      "pose_description": "Profile face mid-stride, lips parted breathing, jaw and neck taut, eyes locked forward; subtle bounce of the run.",
+      "subject_motion": "medium: head and shoulder bob of running, flare drifting",
+      "camera_motion": "dynamic_tracking",
+      "camera_effect_local": "lens_flare",
+      "intra_cut_rhythm": "driving",
+      "transition_in": "hard_cut",
+      "transition_out": "hard_cut",
+      "mid_frame_path": "ADV-2026-006_frames/cut06_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "sprinter's profile face mid-run",
+          "parted lips, taut jaw"
+        ],
+        "midground": [
+          "lime digital timer 0.31\"",
+          "pink-magenta flare orb"
+        ],
+        "background": [
+          "soft blown bright stadium haze"
+        ],
+        "lighting_env": [
+          "hard backlight with magenta flare",
+          "warm rim on face"
+        ],
+        "atmosphere": [
+          "heavy lens flare",
+          "golden-pink bloom"
+        ]
+      },
+      "texture": {
+        "primary_subject": "skin_sweat_sheen",
+        "secondary_objects": [
+          "flyaway_hair"
+        ],
+        "background_surface": "haze",
+        "atmospheric": [
+          "flare_bloom"
+        ]
+      },
+      "lighting": {
+        "key_direction": "back",
+        "key_hardness": "hard",
+        "key_color_temp": "warm_3200K",
+        "fill_strength": "weak",
+        "key_to_fill_ratio": "4:1",
+        "rim_light": true,
+        "practical_lights": [],
+        "shadow_presence": "soft",
+        "overall_contrast": "high_with_bloom"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#e0c8b0",
+          "#d9e84a",
+          "#cf7fb0",
+          "#3a3138"
+        ],
+        "palette_role": {
+          "#e0c8b0": "skin_dominant",
+          "#d9e84a": "type_accent",
+          "#cf7fb0": "flare_accent",
+          "#3a3138": "shadow"
+        },
+        "color_relationship": "warm_with_magenta_flare",
+        "temperature_balance": "warm_dominant",
+        "saturation_strategy": "natural_with_flare_pop",
+        "contrast_type": "luminance",
+        "accent_color": "#d9e84a",
+        "accent_ratio": "7_percent"
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A vertical 9:16 cinematic close-up of a young East Asian female sprinter, late teens to early twenties, shown in tight right-facing profile from the shoulders up while running at speed, her jaw set, lips parted as she breathes hard, eyes locked forward with fierce determination, a few flyaway hairs loose from her bun. At this magnification there is no wardrobe detail beyond the lime collar at the very bottom edge; no props in the scene except an overlaid timer. The background is the empty stadium reduced to a soft blown-out bright haze, completely out of focus, the location implied only as the same golden run. Lighting is hard backlight, warm around 3200K, the low sun behind her rimming her cheekbone, nose, lips and the loose hairs with bright light while weak fill keeps the near side of her face in soft warm shadow at about four-to-one; a vivid pink-magenta anamorphic lens-flare orb and streak bloom directly across her cheek and the center of frame, soft shadow presence, high contrast softened by glare. Lens and framing: an 85mm-equivalent look, camera at eye level floating alongside her so her profile stays large and sharp while the background melts, very shallow depth of field, a gentle vertical bob from the running gait, vertical 9:16 orientation. Composition seats her profile center-right facing into open hazy space on the left, her eyeline leading the frame, the magenta flare crossing the lower-center. Over the flare a small lime-yellow monospaced digital timer reads 0.31\", glowing as the seconds tick. Color palette: dominant warm skin tones (#e0c8b0), neon lime timer accent (#d9e84a), a pink-magenta flare accent (#cf7fb0) and a soft shadow (#3a3138); the strategy is a warm natural skin grade with a vivid flare pop and a single electric lime accent at about seven percent of frame. Textures: real athletic skin with a sweat sheen across the cheek and temple, a couple of backlit flyaway hairs, and a dominant veil of flare bloom over the whole frame. Atmosphere is intimate, intense and luminous, dominated by golden-and-pink lens flare. Post and signature look: warm cinematic grade leaning into heavy anamorphic flare, handheld float, fine grain. Style anchor: vertical Chinese sportswear performance film, the determined mid-run face close-up with flare and a neon race-timer overlay. This still is one breathing frame of the run. Direct this as the emotional close-up of will: get tight enough on her profile that the viewer reads the strain in her jaw and the rhythm of her breathing, the eye locked on a point far ahead. Let a vivid pink-magenta flare orb drift across her cheek as the sun catches the lens, an intentional optical bloom that feels alive and adds heat without obscuring her expression. Keep the background a soft luminous wash so nothing competes with her face, and let a couple of backlit flyaway hairs glow at the crown. The lime timer should sit small and crisp over the flare, the only hard graphic note in a frame full of soft glow. Allow a gentle vertical bob from the gait so the frame feels handheld and human, and keep a real sweat sheen on the cheek and temple to sell the effort; the whole image should read as intimate, fierce determination at full speed, the champion's face inside her own one-second world.",
+        "t2i_negative": "real recognizable celebrity face, exact ANTA trademark reproduction, real brand logos other than a generic swoosh, tvcbook watermark, distorted hands, extra limbs, mangled fingers, text gibberish, warped chinese characters, low resolution, jpeg artifacts, oversaturated skin, plastic skin, washed-out flat lighting, lens dirt smears, duplicate runners, motion smear on the whole frame when not intended, harsh hdr halos, calm relaxed expression, frontal flat light, no flare, crowd background, full body framing",
+        "i2v_motion": "Float alongside her profile as she runs: the face bobs gently with the gait, lips work with hard breathing, jaw stays set; a pink-magenta sun flare drifts and pulses across her cheek; the lime timer reads about 0.31\" and ticks; intimate and intense, ~2.2s, dynamic handheld, ending on a hard cut to the brand-fabric macro.",
+        "i2v_params": {
+          "clip_duration_sec": 2.24,
+          "camera_move": "dynamic_tracking",
+          "subject_motion_level": "medium",
+          "signature_effect": "magenta_lens_flare",
+          "pacing": "driving",
+          "loopable": false
+        },
+        "fidelity_note": "Generic young East Asian sprinter (no specific real face); on-screen timer 0.31\" preserved; no real logo."
+      }
+    },
+    {
+      "index": 7,
+      "duration": 2.52,
+      "framing": "extreme_close_up",
+      "function": "product_fabric_brand_detail",
+      "subject_action": "An extreme macro racks across the lime jersey fabric, revealing the printed brand text ANTA RUNNING and a large reflective RUN graphic; the lime timer climbs to 1.00\", landing the one-second idea on the product.",
+      "layout_grid": "diagonal_fabric_macro",
+      "subject_position": "upper_left_text",
+      "typo_motion": "printed jersey graphic ANTA RUNNING + stylized RUN; lime timer counts up toward 1.00\"",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "detail",
+      "gaze": "none",
+      "props": [
+        "lime technical jersey",
+        "ANTA RUNNING print",
+        "reflective RUN graphic",
+        "race timer overlay"
+      ],
+      "color_palette": [
+        "#c2dd3e",
+        "#9aa0a6",
+        "#2b3326",
+        "#d9e84a"
+      ],
+      "color_intent": "Saturated lime fabric fills the frame as a product hero; reflective grey print and lime timer read the brand and the claim.",
+      "pose_description": "No pose; the moving body presents the jersey surface in raking macro.",
+      "subject_motion": "medium: fabric ripples and slides as she runs, rack focus across the weave",
+      "camera_motion": "dynamic_tracking",
+      "camera_effect_local": "rack_focus",
+      "intra_cut_rhythm": "driving",
+      "transition_in": "hard_cut",
+      "transition_out": "hard_cut",
+      "mid_frame_path": "ADV-2026-006_frames/cut07_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "lime jersey knit in macro",
+          "printed ANTA RUNNING text",
+          "large reflective RUN graphic"
+        ],
+        "midground": [
+          "lime digital timer climbing to 1.00\""
+        ],
+        "background": [
+          "soft out-of-focus lime fabric falloff"
+        ],
+        "lighting_env": [
+          "warm directional light raking the weave"
+        ],
+        "atmosphere": [
+          "shallow-focus bokeh"
+        ]
+      },
+      "texture": {
+        "primary_subject": "technical_mesh_knit",
+        "secondary_objects": [
+          "reflective_print",
+          "rubberized_print"
+        ],
+        "background_surface": "fabric_soft_focus",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "side",
+        "key_hardness": "soft",
+        "key_color_temp": "warm_3400K",
+        "fill_strength": "moderate",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "soft",
+        "overall_contrast": "medium"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#c2dd3e",
+          "#9aa0a6",
+          "#2b3326",
+          "#d9e84a"
+        ],
+        "palette_role": {
+          "#c2dd3e": "fabric_dominant",
+          "#9aa0a6": "reflective_print",
+          "#2b3326": "text_shadow",
+          "#d9e84a": "timer_accent"
+        },
+        "color_relationship": "monochrome_lime_with_grey",
+        "temperature_balance": "warm_neutral",
+        "saturation_strategy": "hyper_saturated_subject",
+        "contrast_type": "luminance",
+        "accent_color": "#d9e84a",
+        "accent_ratio": "5_percent"
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A vertical 9:16 cinematic extreme macro of a vivid lime-yellow technical running jersey filling the entire frame, the fine performance mesh-knit weave rendered in crisp shallow-focus detail as it ripples and slides over the moving body of a runner (no skin or face visible, only the garment). Across the upper-left of the fabric sits printed branding rendered generically: small dark text reading ANTA RUNNING and, sweeping up to the right, a large stylized reflective-silver RUN graphic in a bold custom script, the reflective print catching a metallic sheen against the saturated lime cloth. There are no other props; the garment is the entire subject, a hero close-up of the product surface. The background is simply more lime fabric falling away into soft out-of-focus bokeh, the location implied only as the same sunlit run. Lighting is warm directional side light around 3400K raking gently across the knit so every loop of the weave and the raised edges of the print read with texture, moderate fill at about two-to-one keeps the shadows open, soft shadow presence, medium contrast. Lens and framing: a macro or 100mm-equivalent look extremely close to the cloth, camera tracking with the runner so the surface drifts and a rack focus pulls sharpness across the weave and the printed graphic, razor-thin depth of field, vertical 9:16 orientation. Composition places the ANTA RUNNING text and the large reflective RUN graphic across the upper-left and upper portion of the frame on a strong diagonal following the cloth, the lower frame all soft lime knit. Centered lower in the frame a small lime-yellow monospaced digital timer reads about 1.00\", climbing to land the one-second concept squarely on the product. Color palette: hyper-saturated lime fabric (#c2dd3e) utterly dominant, reflective grey print (#9aa0a6), dark print-shadow (#2b3326) and the neon lime timer (#d9e84a); the strategy is an almost monochrome lime field with grey print relief and a single electric lime accent at about five percent of frame, the chroma turned all the way up on the product. Textures: technical performance mesh-knit with visible loops, raised reflective and rubberised print edges, and creamy out-of-focus fabric bokeh. Atmosphere is product-clean with shallow-focus softness, no haze. Post and signature look: warm cinematic grade, saturated product hero rendering, handheld macro tracking, fine grain. Style anchor: vertical Chinese sportswear performance film, the brand-fabric product-detail beat with a neon timer landing on one second. This still is one rack-focus frame across the jersey print. Direct this as a tactile product hero hidden inside the action: get the macro close enough that the performance mesh reads as engineered fabric, every loop of the knit and every raised edge of the print catching the warm raking light. Use the rack focus to pull the eye deliberately across the weave and onto the ANTA RUNNING text and the big reflective RUN script, the silver print flashing a metallic highlight as it turns to the light. Keep the lime chroma cranked so the cloth glows almost electric, the grey print the only relief, and let the lower frame melt into creamy bokeh so the timer floats clean. Let the fabric flex and ripple with her stride so the surface feels alive rather than flat, and keep the depth of field razor-thin so only a sliver of the print is tack-sharp at any instant. The whole frame should make the garment feel premium and fast, the brand and the one-second timer landing together on the product as the quiet payoff inside the run.",
+        "t2i_negative": "real recognizable celebrity face, exact ANTA trademark reproduction, real brand logos other than a generic swoosh, tvcbook watermark, distorted hands, extra limbs, mangled fingers, text gibberish, warped chinese characters, low resolution, jpeg artifacts, oversaturated skin, plastic skin, washed-out flat lighting, lens dirt smears, duplicate runners, motion smear on the whole frame when not intended, harsh hdr halos, visible face or skin, full garment on a hanger, flat even studio light, real exact ANTA wordmark logo, multiple logos",
+        "i2v_motion": "Macro-track the lime jersey as it ripples with the run: a rack focus pulls sharpness across the weave onto the ANTA RUNNING print and the reflective RUN graphic, the cloth sliding and flexing; the lime timer climbs and lands on 1.00\"; tactile and kinetic, ~2.5s, shallow-focus handheld, ending on a hard cut to a black-and-white blurred montage shot.",
+        "i2v_params": {
+          "clip_duration_sec": 2.52,
+          "camera_move": "dynamic_tracking",
+          "subject_motion_level": "medium",
+          "signature_effect": "rack_focus",
+          "pacing": "driving",
+          "loopable": false
+        },
+        "fidelity_note": "Jersey print ANTA RUNNING shown as generic garment branding, not an exact trademark; on-screen timer 1.00\" preserved; no face; no real logo mark."
+      }
+    },
+    {
+      "index": 8,
+      "duration": 0.64,
+      "framing": "full_shot",
+      "function": "climax_montage_question_setup",
+      "subject_action": "A fast black-and-white, motion-blurred high-angle whip of multiple sprinters streaking down the track opens the rapid climax montage; lime kinetic text 你以为 / 这只是一秒? splits across the frame.",
+      "layout_grid": "split_kinetic_text_over_blur",
+      "subject_position": "center_blur",
+      "typo_motion": "lime kinetic text appears in two halves: 你以为 lower-left, 这只是一秒? center-right (carries across the cut)",
+      "camera_angle": "high_angle",
+      "camera_facing": "three_quarter",
+      "shot_scope": "environment",
+      "gaze": "none",
+      "props": [
+        "red track (desaturated)",
+        "multiple runners"
+      ],
+      "color_palette": [
+        "#bdbdbd",
+        "#d9e84a",
+        "#6e6e6e",
+        "#2c2c2c"
+      ],
+      "color_intent": "Gritty desaturated monochrome with heavy motion blur and grain; neon lime text is the only color, a hard rhythmic jolt.",
+      "pose_description": "Multiple blurred sprinting bodies smeared by speed and whip-pan; no readable single pose.",
+      "subject_motion": "large: extreme motion blur of running bodies plus camera whip",
+      "camera_motion": "whip_pan",
+      "camera_effect_local": "motion_blur_heavy",
+      "intra_cut_rhythm": "rapid_jolt",
+      "transition_in": "hard_cut",
+      "transition_out": "hard_cut",
+      "mid_frame_path": "ADV-2026-006_frames/cut08_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "motion-blurred sprinting bodies"
+        ],
+        "midground": [
+          "lime kinetic text 你以为 / 这只是一秒?"
+        ],
+        "background": [
+          "desaturated streaked track and stadium"
+        ],
+        "lighting_env": [
+          "blown bright sky, hard contrast"
+        ],
+        "atmosphere": [
+          "heavy grain",
+          "motion smear"
+        ]
+      },
+      "texture": {
+        "primary_subject": "motion_blur_bodies",
+        "secondary_objects": [
+          "streaked_track"
+        ],
+        "background_surface": "blurred_stadium",
+        "atmospheric": [
+          "heavy_grain"
+        ]
+      },
+      "lighting": {
+        "key_direction": "back",
+        "key_hardness": "hard",
+        "key_color_temp": "neutral_mono",
+        "fill_strength": "weak",
+        "key_to_fill_ratio": "4:1",
+        "rim_light": true,
+        "practical_lights": [],
+        "shadow_presence": "strong",
+        "overall_contrast": "high"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#bdbdbd",
+          "#d9e84a",
+          "#6e6e6e",
+          "#2c2c2c"
+        ],
+        "palette_role": {
+          "#bdbdbd": "highlight_mono",
+          "#d9e84a": "text_accent",
+          "#6e6e6e": "midtone_mono",
+          "#2c2c2c": "shadow_mono"
+        },
+        "color_relationship": "monochrome_plus_neon",
+        "temperature_balance": "neutral",
+        "saturation_strategy": "desaturated_with_neon",
+        "contrast_type": "luminance",
+        "accent_color": "#d9e84a",
+        "accent_ratio": "10_percent"
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A vertical 9:16 cinematic black-and-white key frame in a deliberately gritty, high-grain documentary style: a fast high-angle view looking down at a running track where multiple young sprinters streak past, their bodies smeared into heavy motion blur by both their speed and a whip-pan of the camera, so individual figures dissolve into ghosted streaks of grey. The runners wear simple athletic kit (tees and shorts) but at this blur nothing is legible as a logo; no clear single subject, just energy and speed. The location is the same athletics stadium reduced to desaturated monochrome: the track and a sliver of stadium streak diagonally across frame, the sky blown to bright grey at the top. There are no clean foreground props; the whole image is rushing blurred bodies and track. Lighting is hard and high-contrast in monochrome, a bright backlit blowout at the top of frame and deep grey shadows below, rim-light edges flaring on the smeared figures at roughly four-to-one, strong shadow presence. Lens and framing: a wide-ish equivalent shot from a high angle looking down the lane, the camera whip-panning so the entire frame carries horizontal motion smear, no clean depth of field, vertical 9:16 orientation. Composition runs the blurred bodies and track on a strong diagonal from upper area to lower frame, leaving room for kinetic type. Over the blur, large neon lime-yellow Chinese kinetic typography splits across the frame in two parts: 你以为 sits lower-left and 这只是一秒? sits center-right, set in a bold condensed sans in saturated lime, the two phrases reading together as a rhetorical question that punches in over the desaturated motion. Color palette is intentionally drained: a monochrome range of highlight grey (#bdbdbd), midtone grey (#6e6e6e) and shadow (#2c2c2c) with a single neon lime (#d9e84a) reserved entirely for the type; the strategy is desaturated near-black-and-white footage plus one electric neon accent at about ten percent of frame, a hard rhythmic graphic jolt opening the climax montage. Textures: smeared blurred bodies, streaked track, and a heavy layer of film grain over everything. Atmosphere is raw, fast and gritty, dominated by motion smear and grain. Post and signature look: high-grain monochrome grade, crushed contrast, intentional analogue grit, hard rapid-cut editing energy. Style anchor: vertical Chinese sportswear performance film, the desaturated rapid-cut climax with split neon kinetic type. This still is one whip-blurred frame carrying the rhetorical question 你以为 这只是一秒?. Direct this as a hard rhythmic graphic jolt: drop the color entirely, crank the grain, and let the whip-pan smear every body into grey streaks so the cut reads as raw speed rather than a legible scene. The neon lime type is the whole point — it should snap in hard and clean over the chaos, the only color in the frame, the two phrases reading together as a provocation. Keep the bright blown sky at the top of frame so the smeared figures rim with light, and let the track streak diagonally to imply violent forward motion. This is the opening beat of the climax montage, so it should feel abrupt and percussive, an analogue grain-soaked frame that contrasts deliberately with the warm color footage on either side of it. There must be no clean detail anywhere except the type: just speed, grain, monochrome contrast and one electric green line of Chinese characters punching the question into the cut.",
+        "t2i_negative": "real recognizable celebrity face, exact ANTA trademark reproduction, real brand logos other than a generic swoosh, tvcbook watermark, distorted hands, extra limbs, mangled fingers, text gibberish, warped chinese characters, low resolution, jpeg artifacts, oversaturated skin, plastic skin, washed-out flat lighting, lens dirt smears, duplicate runners, motion smear on the whole frame when not intended, harsh hdr halos, full color, sharp frozen runners, calm static framing, clean readable logos, no grain",
+        "i2v_motion": "A hard fast beat: a whip-pan smears multiple monochrome sprinters streaking down the track in heavy motion blur, the camera ripping sideways; the lime kinetic text 你以为 / 这只是一秒? snaps in split across the frame and carries; grainy and violent, ~0.6s, rapid-jolt pacing, ending on a hard cut to the same question over a color side-tracking run.",
+        "i2v_params": {
+          "clip_duration_sec": 0.64,
+          "camera_move": "whip_pan",
+          "subject_motion_level": "large",
+          "signature_effect": "motion_blur_mono_grain",
+          "pacing": "rapid_jolt",
+          "loopable": false
+        },
+        "fidelity_note": "Generic blurred runners (no specific real faces); kinetic copy 你以为 / 这只是一秒? preserved verbatim; no real logo; desaturated by design."
+      }
+    },
+    {
+      "index": 9,
+      "duration": 1.28,
+      "framing": "full_shot",
+      "function": "climax_question_color_drive",
+      "subject_action": "Back in warm color, a low side-tracking shot follows the sprinter in a powerful forward-leaning drive stride; the lime kinetic question 你以为 / 这只是一秒? holds split across the frame.",
+      "layout_grid": "split_kinetic_text_over_runner",
+      "subject_position": "center",
+      "typo_motion": "lime kinetic text holds: 你以为 lower-left, 这只是一秒? center-right",
+      "camera_angle": "low_angle",
+      "camera_facing": "profile",
+      "shot_scope": "environment",
+      "gaze": "forward",
+      "props": [
+        "red track",
+        "empty grandstand"
+      ],
+      "color_palette": [
+        "#c8e039",
+        "#b94a3a",
+        "#8aa0b8",
+        "#3a3a3a"
+      ],
+      "color_intent": "Warm color returns hard against the monochrome cut; lime tee and lime type unify; aggressive forward drive.",
+      "pose_description": "Forward-leaning acceleration stride, torso pitched ahead, arms driving low, one leg powering back, captured close in profile.",
+      "subject_motion": "large: powerful forward-leaning running across frame",
+      "camera_motion": "dynamic_tracking",
+      "camera_effect_local": "none",
+      "intra_cut_rhythm": "driving",
+      "transition_in": "hard_cut",
+      "transition_out": "hard_cut",
+      "mid_frame_path": "ADV-2026-006_frames/cut09_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "sprinter in forward-drive stride, profile"
+        ],
+        "midground": [
+          "lime kinetic text 你以为 / 这只是一秒?",
+          "red track"
+        ],
+        "background": [
+          "empty grandstand, green infield, sky"
+        ],
+        "lighting_env": [
+          "warm side-back sun",
+          "rim on shoulder and leg"
+        ],
+        "atmosphere": [
+          "clear warm air",
+          "slight haze"
+        ]
+      },
+      "texture": {
+        "primary_subject": "athletic_skin_fabric",
+        "secondary_objects": [
+          "rubber_track"
+        ],
+        "background_surface": "stadium_seating",
+        "atmospheric": [
+          "light_haze"
+        ]
+      },
+      "lighting": {
+        "key_direction": "back_left",
+        "key_hardness": "hard",
+        "key_color_temp": "warm_3300K",
+        "fill_strength": "moderate",
+        "key_to_fill_ratio": "3:1",
+        "rim_light": true,
+        "practical_lights": [],
+        "shadow_presence": "strong",
+        "overall_contrast": "high"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#c8e039",
+          "#b94a3a",
+          "#8aa0b8",
+          "#3a3a3a"
+        ],
+        "palette_role": {
+          "#c8e039": "tee_and_type_accent",
+          "#b94a3a": "track_dominant",
+          "#8aa0b8": "sky_secondary",
+          "#3a3a3a": "shadow"
+        },
+        "color_relationship": "warm_dominant_neon_accent",
+        "temperature_balance": "warm_dominant",
+        "saturation_strategy": "rich_natural",
+        "contrast_type": "hue_and_luminance",
+        "accent_color": "#c8e039",
+        "accent_ratio": "14_percent"
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A vertical 9:16 cinematic full shot, back in warm saturated color after a monochrome beat, of a young East Asian female sprinter, late teens to early twenties, lean and powerful with her hair in a bun, captured close in side profile mid-acceleration in a forward-leaning drive stride. Her torso is pitched aggressively ahead, arms driving low and hard, one leg powering back through extension and the other lifting, body coiled with forward intent, expression set. Wardrobe: a fitted lime-yellow technical running tee, charcoal-black running shorts, white crew socks and teal-and-lime sprinting spikes (generic ANTA-style, not an exact trademark). Location is the same outdoor athletics stadium at golden hour: brick-red rubber track underfoot, the empty grandstand with a strip of red seating and a green infield behind, a band of pale-blue sky above. Foreground is the driving runner filling much of the frame; the track fills the lower portion. Lighting is hard warm sun from the back-left around 3300K rimming her shoulder, back and the driving leg, with moderate bounce fill off the bright track at three-to-one; strong directional shadows, high contrast, clear warm air with a little haze. Lens and framing: a 35mm-to-50mm-equivalent look, camera low near track level and tracking tight with her in profile so her forward lean cuts a powerful diagonal, medium depth of field with the grandstand softened, vertical 9:16 orientation. Composition centers her driving body with her forward line leading into open space ahead and the grandstand grounding the background. Across the frame the lime kinetic Chinese typography holds split in two: 你以为 lower-left and 这只是一秒? center-right, in bold condensed lime sans, continuing the rhetorical question from the previous cut and visually unified with her lime tee. Color palette: the neon lime (#c8e039) shared by her tee and the type, dominant brick-red track (#b94a3a), cool sky relief (#8aa0b8) and a shadow anchor (#3a3a3a); the strategy is a rich warm-dominant natural grade with a strong lime accent at about fourteen percent of frame, the color slamming back after the grey cut. Textures: taut athletic skin and technical fabric, rubberised track grain, woven mesh spikes. Atmosphere is warm, clear and driving with light haze. Post and signature look: warm cinematic teal-orange-leaning grade, dynamic handheld tracking, fine grain. Style anchor: vertical Chinese sportswear performance film, the color drive-phase climax beat with split neon kinetic type. This still is one forward-leaning frame of the drive. Direct this as the color slamming back after the grey: the warm grade should hit hard and saturated, her lime tee and the lime type ringing out as the unifying note, the brick-red track rich beneath her. Get the camera low and tight in profile so her forward lean cuts an aggressive diagonal and the viewer feels the drive in their own body. Let the warm back-left sun rim her shoulder, spine and driving leg to sculpt the muscle and telegraph power, and keep strong forward-raking shadows for dynamism. The kinetic question should hold split across the frame exactly as in the previous cut so the text reads continuously across the edit, the type unified with her tee. Keep the grandstand soft behind so she stays the sharp focus, and let a little warm haze hang in the air; the whole frame should read as relentless forward acceleration, the answer to the question building in her stride.",
+        "t2i_negative": "real recognizable celebrity face, exact ANTA trademark reproduction, real brand logos other than a generic swoosh, tvcbook watermark, distorted hands, extra limbs, mangled fingers, text gibberish, warped chinese characters, low resolution, jpeg artifacts, oversaturated skin, plastic skin, washed-out flat lighting, lens dirt smears, duplicate runners, motion smear on the whole frame when not intended, harsh hdr halos, monochrome desaturation, crowd in stands, frontal flat light, upright relaxed posture, no text",
+        "i2v_motion": "Track tight and low alongside her in profile as she drives forward: torso pitched ahead, arms pumping low, legs powering through the acceleration stride, warm rim light flaring on her back; the lime kinetic question 你以为 / 这只是一秒? holds split across frame; aggressive and driving, ~1.3s, dynamic handheld, ending on a hard cut to a clean overhead track shot.",
+        "i2v_params": {
+          "clip_duration_sec": 1.28,
+          "camera_move": "dynamic_tracking",
+          "subject_motion_level": "large",
+          "signature_effect": "none",
+          "pacing": "driving",
+          "loopable": false
+        },
+        "fidelity_note": "Generic young East Asian sprinter (no specific real face); apparel/spikes generic ANTA-style (no exact trademark); kinetic copy 你以为 / 这只是一秒? preserved verbatim; no real logo."
+      }
+    },
+    {
+      "index": 10,
+      "duration": 0.76,
+      "framing": "wide_shot",
+      "function": "climax_overhead_scale",
+      "subject_action": "A clean top-down overhead beat: three sprinters run down the red track lanes casting long golden-hour shadows, a graphic aerial pause in the rapid montage.",
+      "layout_grid": "overhead_lanes_diagonal",
+      "subject_position": "center_column",
+      "typo_motion": "none",
+      "camera_angle": "top_down",
+      "camera_facing": "overhead",
+      "shot_scope": "environment",
+      "gaze": "none",
+      "props": [
+        "red track lanes",
+        "long cast shadows",
+        "three runners"
+      ],
+      "color_palette": [
+        "#b94a3a",
+        "#e8e8e8",
+        "#3a2a26",
+        "#cdb98a"
+      ],
+      "color_intent": "Graphic top-down red track with rhythmic white lane lines and long shadows; clean, designed, a visual breath.",
+      "pose_description": "Three runners seen from directly above in mid-stride, small in the frame, long shadows raking off them.",
+      "subject_motion": "medium: runners progressing down the lanes seen from above",
+      "camera_motion": "locked_overhead",
+      "camera_effect_local": "none",
+      "intra_cut_rhythm": "clean_beat",
+      "transition_in": "hard_cut",
+      "transition_out": "hard_cut",
+      "mid_frame_path": "ADV-2026-006_frames/cut10_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "three sprinters from directly above"
+        ],
+        "midground": [
+          "red track lanes with white lines",
+          "long golden shadows"
+        ],
+        "background": [
+          "uniform red track surface"
+        ],
+        "lighting_env": [
+          "low hard golden sun raking across",
+          "long shadows"
+        ],
+        "atmosphere": [
+          "clean dry warm air"
+        ]
+      },
+      "texture": {
+        "primary_subject": "runners_topdown",
+        "secondary_objects": [
+          "rubber_track",
+          "painted_lines"
+        ],
+        "background_surface": "rubber_track",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "low_side",
+        "key_hardness": "hard",
+        "key_color_temp": "warm_3300K",
+        "fill_strength": "weak",
+        "key_to_fill_ratio": "5:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "strong",
+        "overall_contrast": "high"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#b94a3a",
+          "#e8e8e8",
+          "#3a2a26",
+          "#cdb98a"
+        ],
+        "palette_role": {
+          "#b94a3a": "track_dominant",
+          "#e8e8e8": "lane_lines",
+          "#3a2a26": "shadow",
+          "#cdb98a": "sunlit_skin"
+        },
+        "color_relationship": "warm_dominant",
+        "temperature_balance": "warm_dominant",
+        "saturation_strategy": "rich_natural",
+        "contrast_type": "luminance",
+        "accent_color": "#e8e8e8",
+        "accent_ratio": "10_percent"
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A vertical 9:16 cinematic top-down overhead key frame looking straight down from high above a running track at three young sprinters running down adjacent lanes, each seen from directly above in mid-stride, small within the frame, each casting a long raking golden-hour shadow across the track. The athletes wear simple athletic kit in muted tones from this height; one wears a pale lime tee echoing the campaign color, the others darker, none with any legible logo. The location is the brick-red rubber athletics track filling the entire frame, crisp white painted lane lines running vertically down the image and dividing it into rhythmic bands, no sky and no horizon visible, a pure graphic plan view. There are no foreground props beyond the runners and their shadows; the track surface and lane lines are the whole composition. Lighting is a low hard golden sun raking across from one side around 3300K, so each runner throws a long dramatic shadow stretching sideways across the lanes, very weak fill at roughly five-to-one, strong shadow presence and high contrast, the sunlit tops of heads and shoulders bright against the dark red. Lens and framing: a wide overhead drone-style equivalent shot looking straight down, perfectly orthographic with the lane lines parallel, deep depth of field with everything sharp, vertical 9:16 orientation. Composition arranges the three runners in a loose staggered column down the center of the frame with the white lane lines providing a strict vertical rhythm and the long diagonal shadows adding dynamic counter-lines, a clean designed aerial pause in the otherwise frantic montage. There is no typography in this beat. Color palette: dominant brick-red track (#b94a3a), bright white lane lines (#e8e8e8), deep shadow (#3a2a26) and warm sunlit skin (#cdb98a); the strategy is a rich warm-dominant natural grade with the white lines as the luminance accent at about ten percent of frame, graphic and clean. Textures: tiny figures of runners from above, rubberised track grain, crisp painted lines. Atmosphere is clean, dry and warm, no haze, the drama all in the long shadows. Post and signature look: warm cinematic grade, designed top-down geometry, fine grain, a brief composed breath between cuts. Style anchor: vertical Chinese sportswear performance film, the graphic overhead scale beat with long golden shadows. This still is one frame of the runners progressing down the lanes from above. Direct this as a designed compositional breath inside the frenzy: shoot perfectly straight down so the lane lines run dead-vertical and parallel, turning the track into a clean graphic grid. Let the low golden sun rake across from one side so each tiny runner throws a long dramatic shadow that stretches sideways across the lanes, the shadows becoming bold counter-diagonals against the strict vertical rhythm. Keep the three figures small and staggered down the center column so the eye reads scale and isolation — a few athletes alone in a vast geometric field of red. Render the track surface with its fine rubberised grain and the painted lines crisp and bright, the only luminance accents in an otherwise warm red plan view. This single overhead beat should feel composed and intentional, a held graphic image that lets the montage breathe for a fraction of a second before the next blurred jolt, all drama carried by the long shadows and the clean geometry.",
+        "t2i_negative": "real recognizable celebrity face, exact ANTA trademark reproduction, real brand logos other than a generic swoosh, tvcbook watermark, distorted hands, extra limbs, mangled fingers, text gibberish, warped chinese characters, low resolution, jpeg artifacts, oversaturated skin, plastic skin, washed-out flat lighting, lens dirt smears, duplicate runners, motion smear on the whole frame when not intended, harsh hdr halos, eye-level horizon view, single runner, flat midday light with no shadows, sky in frame, text overlay",
+        "i2v_motion": "Hold a locked top-down overhead: the three sprinters progress down their lanes as seen from straight above, their long golden shadows sweeping with them, the white lane lines static; clean and graphic, ~0.8s, a composed beat, ending on a hard cut to a black-and-white blurred sprint.",
+        "i2v_params": {
+          "clip_duration_sec": 0.76,
+          "camera_move": "locked_overhead",
+          "subject_motion_level": "medium",
+          "signature_effect": "long_shadow_graphic",
+          "pacing": "clean_beat",
+          "loopable": false
+        },
+        "fidelity_note": "Generic runners from above (no recognizable faces); no copy in frame; no real logo."
+      }
+    },
+    {
+      "index": 11,
+      "duration": 0.6,
+      "framing": "full_shot",
+      "function": "climax_montage_blur",
+      "subject_action": "A brief black-and-white, motion-blurred beat of two sprinters streaking across frame, pure speed and grain inside the rapid montage.",
+      "layout_grid": "full_frame_blur",
+      "subject_position": "center",
+      "typo_motion": "none",
+      "camera_angle": "low_angle",
+      "camera_facing": "three_quarter",
+      "shot_scope": "environment",
+      "gaze": "none",
+      "props": [
+        "track (desaturated)"
+      ],
+      "color_palette": [
+        "#c4c4c4",
+        "#7a7a7a",
+        "#3a3a3a",
+        "#1e1e1e"
+      ],
+      "color_intent": "Desaturated grainy monochrome with heavy blur; raw kinetic texture, no color.",
+      "pose_description": "Two blurred sprinting bodies smeared by speed; no readable pose.",
+      "subject_motion": "large: heavy motion blur of running plus camera movement",
+      "camera_motion": "dynamic_tracking",
+      "camera_effect_local": "motion_blur_heavy",
+      "intra_cut_rhythm": "rapid_jolt",
+      "transition_in": "hard_cut",
+      "transition_out": "hard_cut",
+      "mid_frame_path": "ADV-2026-006_frames/cut11_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "two motion-blurred sprinters"
+        ],
+        "midground": [
+          "streaked desaturated track"
+        ],
+        "background": [
+          "blown bright sky band"
+        ],
+        "lighting_env": [
+          "hard backlit mono contrast"
+        ],
+        "atmosphere": [
+          "heavy grain",
+          "motion smear"
+        ]
+      },
+      "texture": {
+        "primary_subject": "motion_blur_bodies",
+        "secondary_objects": [
+          "streaked_track"
+        ],
+        "background_surface": "blurred_field",
+        "atmospheric": [
+          "heavy_grain"
+        ]
+      },
+      "lighting": {
+        "key_direction": "back",
+        "key_hardness": "hard",
+        "key_color_temp": "neutral_mono",
+        "fill_strength": "weak",
+        "key_to_fill_ratio": "4:1",
+        "rim_light": true,
+        "practical_lights": [],
+        "shadow_presence": "strong",
+        "overall_contrast": "high"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#c4c4c4",
+          "#7a7a7a",
+          "#3a3a3a",
+          "#1e1e1e"
+        ],
+        "palette_role": {
+          "#c4c4c4": "highlight_mono",
+          "#7a7a7a": "midtone_mono",
+          "#3a3a3a": "shadow_mono",
+          "#1e1e1e": "deep_shadow"
+        },
+        "color_relationship": "monochrome",
+        "temperature_balance": "neutral",
+        "saturation_strategy": "desaturated",
+        "contrast_type": "luminance",
+        "accent_color": "#c4c4c4",
+        "accent_ratio": "20_percent"
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A vertical 9:16 cinematic black-and-white key frame in a raw high-grain style: two young sprinters streak across the frame smeared into heavy motion blur by their speed and the moving camera, their bodies dissolving into ghosted grey streaks against a desaturated track. They wear plain athletic tees and shorts, but at this level of blur nothing reads as a logo and no face is legible; the image is pure speed and texture. The location is the same athletics stadium drained to monochrome, the track and a sliver of bright blown sky streaking diagonally, no clean detail anywhere. There are no clear props; the whole frame is rushing blurred bodies and smeared ground. Lighting is hard, high-contrast monochrome, a bright backlit blowout edging the figures with rim light at roughly four-to-one and deep grey shadows below, strong shadow presence. Lens and framing: a low-ish angle full shot with the camera moving so the entire frame carries directional motion smear, no clean depth of field, vertical 9:16 orientation. Composition runs the two blurred runners across the mid-frame on a slight diagonal, the streaks implying violent forward speed, no negative space that reads as calm. There is no typography in this beat; it is a pure visual jolt between text cards. Color palette is fully desaturated: highlight grey (#c4c4c4), midtone grey (#7a7a7a), shadow (#3a3a3a) and deep shadow (#1e1e1e), no chroma at all; the strategy is straight near-black-and-white with the bright blown highlights acting as the only luminance accent at about twenty percent of frame. Textures: smeared blurred bodies, streaked track and a heavy blanket of film grain. Atmosphere is raw, fast and gritty, dominated by motion smear and grain. Post and signature look: high-grain monochrome grade, crushed contrast, analogue grit, rapid-cut energy. Style anchor: vertical Chinese sportswear performance film, a desaturated motion-blur jolt inside the climax montage. This still is one smeared frame of two runners at speed. Direct this as a pure speed jolt with no anchor: let both runners dissolve almost completely into horizontal grey streaks, the camera moving with them so the entire frame carries motion smear and nothing holds still. Crush the contrast, blow the highlights at the top where the sky burns bright, and crank the grain so the image feels like a frame ripped from analogue sports footage. There is no text and no clean detail here — the cut is a percussive beat between type cards, meant to register as raw kinetic energy more than as a readable scene. Keep the tonal range fully desaturated so the eye reads only light, dark and speed, the blown highlights rimming the smeared bodies the single accent. Let the diagonal of the streaks imply violent forward thrust, and keep the frame brief and abrupt so it lands as one hard hit of velocity inside the climax montage, deliberately contrasting the warm color shots around it. In practical terms, build the frame so the two smeared figures cross the central band at slightly different depths, the nearer one a denser grey streak and the farther one a fainter ghost, so even within total blur there is a faint sense of layered space and parallel effort. Let the streaking come not only from the runners but from the whole field, the ground and the bright sky band dragging into horizontal lines that all point the same forward direction, an image made entirely of vectors of speed. Keep any incidental track markings, lane lines or shadows reduced to soft luminous smears rather than crisp shapes, reinforcing that nothing here is meant to be read literally. The grain should sit on top as a fine even analogue texture, slightly coarser in the shadows, giving the monochrome a tactile film-stock quality rather than a clean digital one. This is a connective heartbeat of the montage — under a second on screen — so it must communicate instantly and physically: raw, grey, grainy velocity, a held nothing-but-speed that throws the surrounding color shots into sharper relief and keeps the climax pulse driving forward toward the tagline.",
+        "t2i_negative": "real recognizable celebrity face, exact ANTA trademark reproduction, real brand logos other than a generic swoosh, tvcbook watermark, distorted hands, extra limbs, mangled fingers, text gibberish, warped chinese characters, low resolution, jpeg artifacts, oversaturated skin, plastic skin, washed-out flat lighting, lens dirt smears, duplicate runners, motion smear on the whole frame when not intended, harsh hdr halos, full color, sharp frozen athletes, calm static framing, readable logos, clean clear focus, no grain",
+        "i2v_motion": "A fast hard beat: two monochrome sprinters streak across frame in heavy motion blur as the camera moves with them, everything smeared and grainy; raw and violent, ~0.6s, rapid-jolt pacing, ending on a hard cut to a black-and-white blurred beat with kinetic text.",
+        "i2v_params": {
+          "clip_duration_sec": 0.6,
+          "camera_move": "dynamic_tracking",
+          "subject_motion_level": "large",
+          "signature_effect": "motion_blur_mono_grain",
+          "pacing": "rapid_jolt",
+          "loopable": true
+        },
+        "fidelity_note": "Generic blurred runners (no recognizable faces); no copy in frame; no real logo; desaturated by design."
+      }
+    },
+    {
+      "index": 12,
+      "duration": 0.76,
+      "framing": "medium_shot",
+      "function": "climax_montage_youth_power_text",
+      "subject_action": "A black-and-white, motion-blurred low beat of running legs and torso against a blurred city skyline; lime kinetic text 年轻 (left) and 力量 (right) splits the frame: youthful power.",
+      "layout_grid": "split_kinetic_text_over_blur",
+      "subject_position": "center",
+      "typo_motion": "lime kinetic text: 年轻 lower-left, 力量 lower-right",
+      "camera_angle": "low_angle",
+      "camera_facing": "profile",
+      "shot_scope": "environment",
+      "gaze": "none",
+      "props": [
+        "city skyline (desaturated, blurred)"
+      ],
+      "color_palette": [
+        "#bcbcbc",
+        "#d9e84a",
+        "#6a6a6a",
+        "#2a2a2a"
+      ],
+      "color_intent": "Gritty monochrome urban-run blur; neon lime text the only color, hammering the youthful-power idea.",
+      "pose_description": "Blurred running legs and torso in profile, mid-stride, smeared by speed; cityscape behind.",
+      "subject_motion": "large: heavy motion blur of the running lower body",
+      "camera_motion": "dynamic_tracking",
+      "camera_effect_local": "motion_blur_heavy",
+      "intra_cut_rhythm": "rapid_jolt",
+      "transition_in": "hard_cut",
+      "transition_out": "hard_cut",
+      "mid_frame_path": "ADV-2026-006_frames/cut12_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "motion-blurred running legs and torso"
+        ],
+        "midground": [
+          "lime kinetic text 年轻 / 力量"
+        ],
+        "background": [
+          "blurred desaturated city skyline"
+        ],
+        "lighting_env": [
+          "flat bright mono daylight"
+        ],
+        "atmosphere": [
+          "heavy grain",
+          "motion smear"
+        ]
+      },
+      "texture": {
+        "primary_subject": "motion_blur_legs",
+        "secondary_objects": [
+          "blurred_buildings"
+        ],
+        "background_surface": "hazy_skyline",
+        "atmospheric": [
+          "heavy_grain"
+        ]
+      },
+      "lighting": {
+        "key_direction": "side",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_mono",
+        "fill_strength": "moderate",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "medium",
+        "overall_contrast": "medium_high"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#bcbcbc",
+          "#d9e84a",
+          "#6a6a6a",
+          "#2a2a2a"
+        ],
+        "palette_role": {
+          "#bcbcbc": "highlight_mono",
+          "#d9e84a": "text_accent",
+          "#6a6a6a": "midtone_mono",
+          "#2a2a2a": "shadow_mono"
+        },
+        "color_relationship": "monochrome_plus_neon",
+        "temperature_balance": "neutral",
+        "saturation_strategy": "desaturated_with_neon",
+        "contrast_type": "luminance",
+        "accent_color": "#d9e84a",
+        "accent_ratio": "9_percent"
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A vertical 9:16 cinematic black-and-white key frame in a gritty high-grain style: a low side view of a young sprinter's running legs and torso, smeared into heavy motion blur by speed, powering across the frame against a blurred, desaturated city skyline of mid-rise buildings on the horizon. The runner wears plain athletic shorts and tee, nothing legible as a logo, the figure cropped to the lower body and midsection so it reads as anonymous youthful motion. The location shifts to an urban edge: a blurred grey cityscape behind, the ground a smeared mid-grey, the sky a flat bright grey, all drained of color. There are no clean props; the frame is rushing blurred legs and a soft skyline. Lighting is soft side daylight in monochrome, moderate fill at about two-to-one keeping the blurred forms visible, medium shadow presence, medium-high contrast. Lens and framing: a low-angle medium shot with the camera tracking so the legs and torso carry strong horizontal motion smear, the skyline soft behind, no clean depth of field, vertical 9:16 orientation. Composition runs the blurred lower body across the upper-center with the city band behind, leaving the lower-left and lower-right corners for kinetic type. Across the lower frame large neon lime-yellow Chinese kinetic typography splits in two: 年轻 sits lower-left and 力量 sits lower-right, in a bold condensed lime sans, the two words reading together as 'youthful power' punched in over the desaturated motion. Color palette is drained: highlight grey (#bcbcbc), midtone grey (#6a6a6a) and shadow (#2a2a2a) with a single neon lime (#d9e84a) reserved for the type; the strategy is desaturated monochrome footage plus one electric accent at about nine percent of frame, hammering the message graphically. Textures: smeared blurred legs, soft blurred buildings and a heavy layer of film grain. Atmosphere is raw, urban and fast, dominated by motion smear and grain. Post and signature look: high-grain monochrome grade, analogue grit, rapid-cut energy with bold kinetic type. Style anchor: vertical Chinese sportswear performance film, a desaturated urban-run jolt with split neon kinetic type. This still is one smeared frame carrying 年轻 力量. Direct this as the campaign message hammered home graphically: let the runner's monochrome legs and torso smear across the upper frame against a soft, drained city skyline so the location reads as 'anywhere, every young runner' rather than the stadium. Crank the grain and keep the tones a flat urban grey so the only color in the entire frame is the neon lime type. Split the two words low and bold — 年轻 at the lower-left, 力量 at the lower-right — so they read together as 'youthful power', the type snapping in over the blur. Keep the buildings soft and the ground smeared so the eye is held by the type and the rushing limbs, not by any background detail. This beat should feel like a rhythmic graphic statement inside the montage: gritty, fast, desaturated footage carrying one electric-green idea, a deliberate tonal and color contrast against the warm color hero shots that bracket the climax.",
+        "t2i_negative": "real recognizable celebrity face, exact ANTA trademark reproduction, real brand logos other than a generic swoosh, tvcbook watermark, distorted hands, extra limbs, mangled fingers, text gibberish, warped chinese characters, low resolution, jpeg artifacts, oversaturated skin, plastic skin, washed-out flat lighting, lens dirt smears, duplicate runners, motion smear on the whole frame when not intended, harsh hdr halos, full color, sharp frozen legs, stadium-only background, flat clean focus, readable logos, no grain",
+        "i2v_motion": "A fast hard beat: the runner's monochrome legs and torso smear across frame at speed against a blurred city skyline as the camera tracks; the lime kinetic text 年轻 / 力量 snaps in split low across the frame; gritty and kinetic, ~0.8s, rapid-jolt pacing, ending on a hard cut to a black-and-white blurred multi-runner beat.",
+        "i2v_params": {
+          "clip_duration_sec": 0.76,
+          "camera_move": "dynamic_tracking",
+          "subject_motion_level": "large",
+          "signature_effect": "motion_blur_mono_grain",
+          "pacing": "rapid_jolt",
+          "loopable": false
+        },
+        "fidelity_note": "Generic blurred runner (no recognizable face); kinetic copy 年轻 / 力量 preserved verbatim; no real logo; desaturated by design."
+      }
+    },
+    {
+      "index": 13,
+      "duration": 0.68,
+      "framing": "full_shot",
+      "function": "climax_montage_blur",
+      "subject_action": "A final black-and-white, motion-blurred montage beat: two or three sprinters whip across frame at speed, hair flying, the last grainy jolt before the victory.",
+      "layout_grid": "full_frame_blur",
+      "subject_position": "center",
+      "typo_motion": "none",
+      "camera_angle": "low_angle",
+      "camera_facing": "three_quarter",
+      "shot_scope": "environment",
+      "gaze": "none",
+      "props": [
+        "track (desaturated)",
+        "multiple runners"
+      ],
+      "color_palette": [
+        "#c0c0c0",
+        "#787878",
+        "#3a3a3a",
+        "#1c1c1c"
+      ],
+      "color_intent": "Desaturated grainy monochrome whip; the montage's last burst of raw speed before color returns.",
+      "pose_description": "Two or three blurred sprinting bodies, one nearer with hair flying, smeared by whip-pan.",
+      "subject_motion": "large: heavy motion blur plus camera whip",
+      "camera_motion": "whip_pan",
+      "camera_effect_local": "motion_blur_heavy",
+      "intra_cut_rhythm": "rapid_jolt",
+      "transition_in": "hard_cut",
+      "transition_out": "hard_cut",
+      "mid_frame_path": "ADV-2026-006_frames/cut13_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "nearer blurred runner with flying hair"
+        ],
+        "midground": [
+          "second and third blurred runners",
+          "streaked track"
+        ],
+        "background": [
+          "blown bright sky band"
+        ],
+        "lighting_env": [
+          "hard backlit mono contrast"
+        ],
+        "atmosphere": [
+          "heavy grain",
+          "motion smear"
+        ]
+      },
+      "texture": {
+        "primary_subject": "motion_blur_bodies",
+        "secondary_objects": [
+          "streaked_track"
+        ],
+        "background_surface": "blurred_field",
+        "atmospheric": [
+          "heavy_grain"
+        ]
+      },
+      "lighting": {
+        "key_direction": "back",
+        "key_hardness": "hard",
+        "key_color_temp": "neutral_mono",
+        "fill_strength": "weak",
+        "key_to_fill_ratio": "4:1",
+        "rim_light": true,
+        "practical_lights": [],
+        "shadow_presence": "strong",
+        "overall_contrast": "high"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#c0c0c0",
+          "#787878",
+          "#3a3a3a",
+          "#1c1c1c"
+        ],
+        "palette_role": {
+          "#c0c0c0": "highlight_mono",
+          "#787878": "midtone_mono",
+          "#3a3a3a": "shadow_mono",
+          "#1c1c1c": "deep_shadow"
+        },
+        "color_relationship": "monochrome",
+        "temperature_balance": "neutral",
+        "saturation_strategy": "desaturated",
+        "contrast_type": "luminance",
+        "accent_color": "#c0c0c0",
+        "accent_ratio": "20_percent"
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A vertical 9:16 cinematic black-and-white key frame in raw high-grain style: two or three young sprinters whip across the frame at full speed, smeared into heavy motion blur by both their pace and a hard whip-pan, the nearest runner's ponytail flying out in a streak, all bodies dissolving into ghosted grey. They wear plain athletic tees and shorts; at this blur nothing is legible as a logo and faces are not readable, the image pure kinetic texture. The location is the same athletics stadium drained to monochrome, the track and a band of bright blown sky streaking across, no clean detail. There are no clean props; the whole frame is rushing blurred bodies and smeared ground. Lighting is hard high-contrast monochrome, a bright backlit blowout rimming the figures at roughly four-to-one with deep grey shadows below, strong shadow presence. Lens and framing: a low-ish full shot with a violent horizontal whip so the entire image carries motion smear, no clean depth of field, vertical 9:16 orientation. Composition runs the nearer runner across the center-right with hair streaking and the others ghosted behind on a slight diagonal, all forward speed, no calm negative space. There is no typography in this beat; it is the last pure visual jolt of the montage. Color palette is fully desaturated: highlight grey (#c0c0c0), midtone grey (#787878), shadow (#3a3a3a) and deep shadow (#1c1c1c), no chroma; the strategy is straight near-black-and-white with the blown highlights as the only luminance accent at about twenty percent of frame. Textures: smeared blurred bodies, streaked track and a heavy layer of film grain. Atmosphere is raw, fast and gritty, dominated by motion smear and grain. Post and signature look: high-grain monochrome grade, crushed contrast, analogue grit, the final rapid-cut beat. Style anchor: vertical Chinese sportswear performance film, a desaturated whip-blur jolt closing the climax montage. This still is one smeared frame of runners whipping past. Direct this as the montage's final hard burst before the payoff: let two or three bodies whip across frame as grey streaks, the nearest runner's ponytail flaring out in a long smear, the camera ripping sideways so the whole image dissolves into speed. Crush the contrast and blow the bright sky band so the smeared figures rim with light, and keep the grain heavy and even for analogue grit. There is no text in this beat — it is the last pure visual jolt, meant to register as raw velocity and momentum just before the color and the tagline land. Keep the tonal range fully desaturated so only light, dark and motion read, the blown highlights the single accent. Let the diagonal of the streaks drive the eye forward and keep the frame brief and percussive so it hits like the final drum stroke of the montage, deliberately contrasting the warm triumphant color frame that follows it. In practical terms, stagger the two or three bodies across the frame at different depths so the whip reads as a crowd of effort rather than a single figure, the nearest runner densest with her ponytail flaring into the longest streak and the others dissolving to faint grey ghosts behind. Let the entire field drag into horizontal motion lines — ground, distant stands and the blown sky band all smearing the same direction — so the image becomes pure forward vector, every element pointing toward the finish. Reduce any lane lines, markings or shadows to soft luminous smears rather than crisp edges, keeping the frame deliberately unreadable as a literal scene and entirely about momentum. Lay the grain on top as a fine, even, slightly coarser-in-shadow film texture so the monochrome feels like a frame pulled from analogue sports footage rather than clean digital video. This is the final percussive beat of the montage — well under a second on screen — so it must hit instantly and physically: the densest, fastest, grainiest smear of the sequence, the last hard drum stroke of grey velocity immediately before the warm color and the arms-up victory and the tagline 从这一秒开始 land as release.",
+        "t2i_negative": "real recognizable celebrity face, exact ANTA trademark reproduction, real brand logos other than a generic swoosh, tvcbook watermark, distorted hands, extra limbs, mangled fingers, text gibberish, warped chinese characters, low resolution, jpeg artifacts, oversaturated skin, plastic skin, washed-out flat lighting, lens dirt smears, duplicate runners, motion smear on the whole frame when not intended, harsh hdr halos, full color, sharp frozen athletes, calm static framing, readable logos, clear focus, no grain",
+        "i2v_motion": "A fast hard beat: a whip-pan smears two or three monochrome sprinters across frame in heavy motion blur, the nearest one's ponytail streaking; raw and violent, ~0.7s, rapid-jolt pacing, ending on a hard cut to the full-color victory with arms raised.",
+        "i2v_params": {
+          "clip_duration_sec": 0.68,
+          "camera_move": "whip_pan",
+          "subject_motion_level": "large",
+          "signature_effect": "motion_blur_mono_grain",
+          "pacing": "rapid_jolt",
+          "loopable": true
+        },
+        "fidelity_note": "Generic blurred runners (no recognizable faces); no copy in frame; no real logo; desaturated by design."
+      }
+    },
+    {
+      "index": 14,
+      "duration": 1.16,
+      "framing": "medium_shot",
+      "function": "climax_victory_tagline",
+      "subject_action": "In warm color, the sprinter throws both arms up in triumph after the finish, chin lifted, breathing hard; the lime tagline 从这一秒 (left) and 开始 (right) splits the frame as she shouts the cue.",
+      "layout_grid": "split_kinetic_text_over_subject",
+      "subject_position": "center",
+      "typo_motion": "lime tagline split: 从这一秒 mid-left, 开始 mid-right (the climax line 从这一秒开始)",
+      "camera_angle": "low_angle",
+      "camera_facing": "profile",
+      "shot_scope": "subject",
+      "gaze": "up_forward",
+      "props": [
+        "empty grandstand"
+      ],
+      "color_palette": [
+        "#cfe23e",
+        "#d8c9b0",
+        "#8a98aa",
+        "#3a3a3a"
+      ],
+      "color_intent": "Warm triumphant color, lime tee and lime tagline unified; the emotional and brand peak.",
+      "pose_description": "Both arms thrown overhead in victory, torso lifted and slightly arched, chin up, mouth open in a shout/breath.",
+      "subject_motion": "medium: arms raising and holding, chest heaving",
+      "camera_motion": "dynamic_tracking",
+      "camera_effect_local": "none",
+      "intra_cut_rhythm": "peak_hold",
+      "transition_in": "hard_cut",
+      "transition_out": "hard_cut",
+      "mid_frame_path": "ADV-2026-006_frames/cut14_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "sprinter, arms raised in victory, profile"
+        ],
+        "midground": [
+          "lime tagline 从这一秒 / 开始",
+          "empty grandstand"
+        ],
+        "background": [
+          "blown bright stadium and sky"
+        ],
+        "lighting_env": [
+          "warm backlit sun",
+          "rim on arms and face"
+        ],
+        "atmosphere": [
+          "light haze",
+          "sun bloom"
+        ]
+      },
+      "texture": {
+        "primary_subject": "skin_sweat_sheen",
+        "secondary_objects": [
+          "lime_fabric"
+        ],
+        "background_surface": "stadium_haze",
+        "atmospheric": [
+          "haze_bloom"
+        ]
+      },
+      "lighting": {
+        "key_direction": "back",
+        "key_hardness": "hard",
+        "key_color_temp": "warm_3300K",
+        "fill_strength": "moderate",
+        "key_to_fill_ratio": "3:1",
+        "rim_light": true,
+        "practical_lights": [],
+        "shadow_presence": "soft",
+        "overall_contrast": "high_with_bloom"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#cfe23e",
+          "#d8c9b0",
+          "#8a98aa",
+          "#3a3a3a"
+        ],
+        "palette_role": {
+          "#cfe23e": "tee_and_type_accent",
+          "#d8c9b0": "skin_warm",
+          "#8a98aa": "sky_secondary",
+          "#3a3a3a": "shadow"
+        },
+        "color_relationship": "warm_dominant_neon_accent",
+        "temperature_balance": "warm_dominant",
+        "saturation_strategy": "rich_natural",
+        "contrast_type": "hue_and_luminance",
+        "accent_color": "#cfe23e",
+        "accent_ratio": "16_percent"
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A vertical 9:16 cinematic medium shot, in warm saturated color, of a young East Asian female sprinter, late teens to early twenties, in right-facing low-angle profile from the waist up, throwing both arms triumphantly overhead in a finish-line victory, her torso lifted and slightly arched, chin raised, mouth open in a shout or hard exhale, hair in a bun with loose strands, glowing with effort. Wardrobe: a fitted lime-yellow technical running tee, the lime cloth bright against the light; only the upper body is in frame. Location is the same empty golden-hour athletics stadium: the sweeping grandstand and a strip of red seating behind, the sky and stands blown to luminous warm brightness by the low backlit sun. Foreground is her raised-arms silhouette filling much of the frame; the stadium softens behind. Lighting is hard warm backlight around 3300K, the low sun behind her rimming her lifted arms, jaw and the loose hair with brilliant light while moderate bounce fill keeps her front readable at about three-to-one; soft shadow presence, high contrast tempered by sun bloom and light haze. Lens and framing: a 50mm-equivalent look, camera low looking up at her so the victory reads heroic against the bright sky, medium depth of field with the grandstand softened, vertical 9:16 orientation. Composition centers her lifted torso with her raised arms breaking into the upper frame, the open bright stadium framing her, leaving mid-left and mid-right margins for type. Across the frame the lime kinetic Chinese tagline splits in two: 从这一秒 sits mid-left and 开始 sits mid-right, in bold lime sans, reading together as the climax line 'from this very second, begin', visually unified with her lime tee and timed to her shout. Color palette: the neon lime (#cfe23e) shared by her tee and the tagline, warm sunlit skin (#d8c9b0), cool sky relief (#8a98aa) and a shadow anchor (#3a3a3a); the strategy is a rich warm-dominant triumphant grade with a strong lime accent at about sixteen percent of frame, the emotional and brand peak. Textures: athletic skin with a sweat sheen, bright lime technical fabric, and a veil of warm haze. Atmosphere is triumphant, luminous and warm with sun bloom. Post and signature look: warm cinematic grade with backlit bloom, dynamic handheld, fine grain. Style anchor: vertical Chinese sportswear performance film, the victory beat carrying the climax tagline 从这一秒开始. This still is the peak moment of arms thrown up at the finish. Direct this as the emotional and brand peak: shoot from low so her thrown-up arms break into the upper frame and read as pure triumph against the bright sky, the viewer looking up at a champion. Let the warm backlight rim her lifted arms, jaw and the loose hair with brilliant light while a veil of sun bloom lifts the shadows, the contrast high but glowing rather than harsh. Time the split lime tagline to her shout — 从这一秒 mid-left, 开始 mid-right — so the type and the cry of '开始' land together as the line 'from this very second, begin'. Keep her lime tee and the lime type ringing out as the unifying note against the warm bloom, and keep the grandstand soft behind so nothing competes with her silhouette of victory. Let her chest heave and her mouth open with effort so the moment feels earned and human; this single frame should carry the entire arc's release, raw joy and brand message fused in one backlit beat.",
+        "t2i_negative": "real recognizable celebrity face, exact ANTA trademark reproduction, real brand logos other than a generic swoosh, tvcbook watermark, distorted hands, extra limbs, mangled fingers, text gibberish, warped chinese characters, low resolution, jpeg artifacts, oversaturated skin, plastic skin, washed-out flat lighting, lens dirt smears, duplicate runners, motion smear on the whole frame when not intended, harsh hdr halos, monochrome, calm neutral expression, arms down at sides, crowd in stands, frontal flat light",
+        "i2v_motion": "Track up with her in profile as she throws both arms overhead at the finish: torso lifts and arches, chin rises, mouth opens in a shout/breath, chest heaving, warm backlight flaring around her; the lime tagline 从这一秒 / 开始 snaps in split across frame timed to the shout '开始'; triumphant and held, ~1.2s, dynamic handheld, ending on a hard cut to the calm hero product shot.",
+        "i2v_params": {
+          "clip_duration_sec": 1.16,
+          "camera_move": "dynamic_tracking",
+          "subject_motion_level": "medium",
+          "signature_effect": "backlit_bloom",
+          "pacing": "peak_hold",
+          "loopable": false
+        },
+        "fidelity_note": "Generic young East Asian sprinter (no specific real face); tagline 从这一秒 / 开始 preserved verbatim; no real logo."
+      }
+    },
+    {
+      "index": 15,
+      "duration": 3.08,
+      "framing": "medium_shot",
+      "function": "product_hero_claim",
+      "subject_action": "The sprinter stands tall and calm against blue sky and a distant city skyline, gazing forward; a bold lime product-claim lockup 安踏速干之王 with sub-line 一秒瞬吸汗 速干不粘身 sits at the top, a small ANTA arc mark above it.",
+      "layout_grid": "top_type_block_center_subject",
+      "subject_position": "center_lower",
+      "typo_motion": "lime headline 安踏速干之王 with sub-line 一秒瞬吸汗 速干不粘身 settles at top; small ANTA arc mark centered above",
+      "camera_angle": "low_angle",
+      "camera_facing": "three_quarter",
+      "shot_scope": "subject",
+      "gaze": "up_forward",
+      "props": [
+        "distant city skyline",
+        "ANTA arc mark (small)"
+      ],
+      "color_palette": [
+        "#c8e639",
+        "#9ec9e8",
+        "#c2d98f",
+        "#3a4452"
+      ],
+      "color_intent": "Calm confident hero: clean blue sky, lime tech-tee and bold lime claim type; the product feature payoff.",
+      "pose_description": "Standing tall and still, slight three-quarter turn, chin up, gaze into the distance, composed and proud after the run.",
+      "subject_motion": "micro: breathing and faint settle; near-static hero hold",
+      "camera_motion": "slow_push_in",
+      "camera_effect_local": "none",
+      "intra_cut_rhythm": "calm_hold",
+      "transition_in": "hard_cut",
+      "transition_out": "dip_to_black",
+      "mid_frame_path": "ADV-2026-006_frames/cut15_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "sprinter standing, chest up, calm"
+        ],
+        "midground": [
+          "lime headline 安踏速干之王",
+          "lime sub-line 一秒瞬吸汗 速干不粘身",
+          "small white ANTA arc mark"
+        ],
+        "background": [
+          "clear blue sky",
+          "distant hazy city skyline"
+        ],
+        "lighting_env": [
+          "soft warm key on face",
+          "cool sky ambient"
+        ],
+        "atmosphere": [
+          "clear air",
+          "faint distance haze"
+        ]
+      },
+      "texture": {
+        "primary_subject": "skin_natural",
+        "secondary_objects": [
+          "lime_tech_fabric"
+        ],
+        "background_surface": "sky_gradient",
+        "atmospheric": [
+          "distance_haze"
+        ]
+      },
+      "lighting": {
+        "key_direction": "front_left",
+        "key_hardness": "soft",
+        "key_color_temp": "warm_3600K",
+        "fill_strength": "strong",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": true,
+        "practical_lights": [],
+        "shadow_presence": "soft",
+        "overall_contrast": "medium"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#c8e639",
+          "#9ec9e8",
+          "#c2d98f",
+          "#3a4452"
+        ],
+        "palette_role": {
+          "#c8e639": "type_and_tee_accent",
+          "#9ec9e8": "sky_dominant",
+          "#c2d98f": "tee_midtone",
+          "#3a4452": "shadow"
+        },
+        "color_relationship": "warm_cool_with_neon",
+        "temperature_balance": "cool_field_warm_subject",
+        "saturation_strategy": "natural_with_neon_type",
+        "contrast_type": "hue_and_luminance",
+        "accent_color": "#c8e639",
+        "accent_ratio": "18_percent"
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A vertical 9:16 cinematic hero key frame of a young East Asian female sprinter, late teens to early twenties, standing tall and calm in a slight three-quarter view from the waist up, chin lifted and gaze directed confidently into the distance, hair in a low braided ponytail, composed and proud in the still aftermath of her run. Wardrobe: a fitted lime-yellow technical running tee in a smooth quick-dry knit, the cloth bright and clean, a tiny generic chest emblem barely visible (not an exact trademark). Location is an elevated outdoor vantage at golden hour: a clear pale-blue sky filling most of the frame with a distant hazy low-rise city skyline along the lower horizon behind her, a hint of red track or rooftop at the very bottom. Foreground is the standing athlete; the sky and far skyline are clean behind. Lighting is soft warm key from the front-left around 3600K modelling her face gently, strong fill from the bright sky keeps shadows open at about two-to-one, a soft warm rim on her cheek and shoulder, soft shadow presence, medium contrast, calm and flattering. Lens and framing: an 50mm-to-85mm-equivalent look, camera slightly low looking up at her so she reads heroic and aspirational against the open sky, medium depth of field with the city softened to haze, vertical 9:16 orientation. Composition seats her standing figure in the lower-center with her face on an upper-third line, leaving the clean sky above for a type block. Across the top of the frame sits a bold lime product-claim lockup: a large headline 安踏速干之王 in heavy lime sans, and beneath it a smaller two-part sub-line 一秒瞬吸汗 速干不粘身, all in saturated lime; centered just above the headline a small white ANTA-style arc/swoosh mark (rendered generically, not the exact trademark). Color palette: the neon lime (#c8e639) shared by her tee and the claim type, dominant sky blue (#9ec9e8), a lime-green tee midtone (#c2d98f) and a cool shadow (#3a4452); the strategy is a natural warm-cool grade with bold neon lime type, the lime owning about eighteen percent of frame as the unifying brand accent. Textures: natural athletic skin, smooth lime quick-dry technical fabric, and a soft atmospheric sky with distance haze. Atmosphere is calm, clear, aspirational and confident. Post and signature look: clean warm-cool cinematic grade, gentle handheld, fine grain, a composed product-hero finish. Style anchor: vertical Chinese sportswear performance film, the product-claim hero beat with a top lime headline and a small arc brand mark. This still is the calm settled hero state. Direct this as the calm confident payoff after the noise: pose her tall and still against clean open sky so the frame breathes after the frantic montage, her gaze steady into the distance reading as quiet certainty. Keep the city skyline far and hazy so it places her 'above the city' without clutter, and keep the sky a clean pale blue that lets the bold lime headline sit cleanly across the top. Light her face softly and warmly with strong sky fill so she looks composed and flattering, a small warm rim separating her from the blue. Render the lime quick-dry tee smooth and bright to support the '速干之王' claim visually — fabric that looks light, dry and engineered — and keep the small white arc mark crisp above the headline. Let the type be the loudest graphic note while she stays serene; the whole frame should read as aspirational resolution, the product claim delivered by a calm hero who has just proven it, warm and clean and brand-forward.",
+        "t2i_negative": "real recognizable celebrity face, exact ANTA trademark reproduction, real brand logos other than a generic swoosh, tvcbook watermark, distorted hands, extra limbs, mangled fingers, text gibberish, warped chinese characters, low resolution, jpeg artifacts, oversaturated skin, plastic skin, washed-out flat lighting, lens dirt smears, duplicate runners, motion smear on the whole frame when not intended, harsh hdr halos, crowd, indoor wall background, harsh shadows, slouched posture, exact ANTA wordmark, busy cluttered skyline",
+        "i2v_motion": "A very slow push-in on the calm standing hero against the sky: she breathes and faintly settles, gaze steady into the distance, the lime headline 安踏速干之王 and sub-line 一秒瞬吸汗 速干不粘身 settle in at top with the small arc mark above; serene and confident, ~3.1s, near-static with a gentle push, ending with a dip to black toward the logo card.",
+        "i2v_params": {
+          "clip_duration_sec": 3.08,
+          "camera_move": "slow_push_in",
+          "subject_motion_level": "micro",
+          "signature_effect": "clean_grade",
+          "pacing": "calm_hold",
+          "loopable": false
+        },
+        "fidelity_note": "Generic young East Asian sprinter (no specific real face); product claim 安踏速干之王 / 一秒瞬吸汗 / 速干不粘身 preserved verbatim; arc mark rendered generically (no exact ANTA trademark)."
+      }
+    },
+    {
+      "index": 16,
+      "duration": 1.687,
+      "framing": "logo_card",
+      "function": "brand_signoff_endcard",
+      "subject_action": "A minimal end card: a white ANTA-style arc/swoosh mark rests centered on a pure black field, holding to the end of the film.",
+      "layout_grid": "center_logo",
+      "subject_position": "center",
+      "typo_motion": "logo holds; gentle settle/hold",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "graphic",
+      "gaze": "none",
+      "props": [
+        "white arc/swoosh logo mark"
+      ],
+      "color_palette": [
+        "#0a0a0a",
+        "#f5f5f5",
+        "#1a1a1a",
+        "#000000"
+      ],
+      "color_intent": "Maximal contrast: a single white mark on pure black for a clean, premium, memorable close.",
+      "pose_description": "No human; centered white logo mark on black.",
+      "subject_motion": "none (gentle settle/hold)",
+      "camera_motion": "locked_off",
+      "camera_effect_local": "none",
+      "intra_cut_rhythm": "static_hold",
+      "transition_in": "dip_from_black",
+      "transition_out": "end",
+      "mid_frame_path": "ADV-2026-006_frames/cut16_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "white arc/swoosh logo mark"
+        ],
+        "midground": [],
+        "background": [
+          "pure black field"
+        ],
+        "lighting_env": [
+          "none, flat graphic"
+        ],
+        "atmosphere": [
+          "none, pure black"
+        ]
+      },
+      "texture": {
+        "primary_subject": "flat_vector_mark",
+        "secondary_objects": [],
+        "background_surface": "pure_black",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "none",
+        "key_hardness": "flat",
+        "key_color_temp": "neutral",
+        "fill_strength": "none",
+        "key_to_fill_ratio": "1:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "none",
+        "overall_contrast": "maximal"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#0a0a0a",
+          "#f5f5f5",
+          "#1a1a1a",
+          "#000000"
+        ],
+        "palette_role": {
+          "#0a0a0a": "background_dominant",
+          "#f5f5f5": "logo_mark",
+          "#1a1a1a": "near_black",
+          "#000000": "true_black"
+        },
+        "color_relationship": "monochrome_max_contrast",
+        "temperature_balance": "neutral",
+        "saturation_strategy": "monochrome",
+        "contrast_type": "luminance_max",
+        "accent_color": "#f5f5f5",
+        "accent_ratio": "5_percent"
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A minimal brand end-card key frame in a vertical 9:16 format, an almost entirely black frame built around a single small white logo mark resting at the exact center on a pure, deep black field. Dead center sits a simple sportswear logo rendered generically rather than as a real trademark: a clean white arc or swoosh silhouette, a single confident curved stroke that tapers to a point, occupying only a small fraction of the frame so the surrounding blackness does all the emotional work of a premium sign-off. There is nothing else in the frame: no wordmark, no tagline, no url, no icons, no people, no props, no texture, only the centered white mark and a vast field of pure black around it. Lighting is irrelevant in a literal sense because this is a flat graphic card; render it as a perfectly even pure-black background with absolutely uniform density, no gradient, no hot spots and no cast shadow behind the mark, the white logo reading as crisp flat vector with clean anti-aliased edges. Lens and framing: a straight-on flat composition with no depth and no perspective, the mark sitting exactly on the picture plane, dead-centered both horizontally and vertically, vertical 9:16 orientation. Composition is the simplest possible: one small white mark, centered, in a sea of black, the negative space the real subject and that emptiness reading as confidence and restraint. Color palette is monochrome and maximal-contrast: a near-black-to-pure-black field (#0a0a0a, #1a1a1a, #000000) and a single clean white (#f5f5f5) for the mark; the strategy is the cleanest possible high-contrast brand close, the white occupying only about five percent of frame, a small bright jewel of identity in pure darkness. Texture is none in any photographic sense, smooth flat vector mark on smooth flat black, no grain, no noise, the cleanest possible digital surface. Atmosphere is none: no haze, glow or particles, just black and one mark, a held silent final beat. Post and signature look: crisp, anti-aliased, modern minimalist sportswear brand-close styling, the restrained final frame that a cinematic sport film uses to leave the mark resonating after the noise. The mark itself is a single smooth curved swoosh-like stroke, balanced and simple, sitting as one optical unit at the center of the frame, the kind of clean athletic emblem that needs no caption. Style anchor: minimalist centered sportswear logo end card, pure black field, one small white arc mark, total simplicity, no imagery and no people. This still is the held end state of the film after a dip from black. Direct this as the cleanest possible brand-resonant close: a single white arc mark centered in a sea of pure black, the negative space doing all the work, the restraint itself signalling a premium, confident sportswear brand. Keep the black truly black and uniform with no gradient or glow so the white mark reads as a crisp bright jewel, its single curved stroke tapering to a clean point. There must be nothing else — no wordmark, no tagline, no texture — only the mark, centered and still, holding to the end of the film as a silent final beat. Render the edges crisp and anti-aliased like clean vector art, the mark occupying only a small fraction of the frame so the emptiness reads as calm and assurance rather than as absence. Treat it as the held last frame that lets the whole sprint, the one-second idea and the lime energy settle into a single quiet mark, the camera locked and the black absolute, a modern minimalist sportswear sign-off.",
+        "t2i_negative": "real recognizable celebrity face, exact ANTA trademark reproduction, real brand logos other than a generic swoosh, tvcbook watermark, distorted hands, extra limbs, mangled fingers, text gibberish, warped chinese characters, low resolution, jpeg artifacts, oversaturated skin, plastic skin, washed-out flat lighting, lens dirt smears, duplicate runners, motion smear on the whole frame when not intended, harsh hdr halos, people, taglines, wordmark text, multiple logos, exact ANTA trademark, gradients, grain, colored background, photographic scene",
+        "i2v_motion": "Dip in from black to the centered white arc mark: the logo settles with a gentle fade and a hair of scale, then holds perfectly still on the pure black field to the end of the film; locked-off, no zoom, no parallax; ~1.7s, static hold, ending the film.",
+        "i2v_params": {
+          "clip_duration_sec": 1.687,
+          "camera_move": "locked_off",
+          "subject_motion_level": "still",
+          "signature_effect": "none",
+          "pacing": "static",
+          "loopable": true
+        },
+        "fidelity_note": "Logo rendered generically as a white arc/swoosh mark (no exact ANTA trademark); no people; no copy."
+      }
+    }
+  ],
+  "search_keywords": {
+    "industry": [
+      "sportswear"
+    ],
+    "product_category": [
+      "running_shoes",
+      "sportswear"
+    ],
+    "target_demo": [
+      "teens",
+      "20s",
+      "running_fitness",
+      "active_consumers"
+    ],
+    "media_format": [
+      "shortform_vertical_30s_plus"
+    ],
+    "tone": [
+      "cinematic",
+      "determined_focused",
+      "dynamic_powerful"
+    ],
+    "pacing": [
+      "accelerating"
+    ],
+    "technique": [
+      "athlete_profile",
+      "sprint_performance",
+      "slowmo",
+      "kinetic_typo",
+      "handheld_tracking"
+    ],
+    "vfx_keywords": [
+      "slow_motion",
+      "lens_flare",
+      "kinetic_typo",
+      "speed_ramp"
+    ],
+    "copy_strategy_keywords": [
+      "athlete_record_credentialing",
+      "imperative_slogan",
+      "number_emphasis"
+    ],
+    "concept_derivation_pattern": [
+      "athlete_hero_profile"
+    ]
+  },
+  "inferred_creative_thinking": {
+    "insight": "A single second separates a champion from everyone else, and that second is the sum of years of relentless effort.",
+    "persona": "A young, ambitious runner who measures herself in hundredths of a second and refuses to see one second as 'just' one second.",
+    "moment": "The instant the race timer ticks past 1.00\" over her effort and the kinetic copy challenges 'you think this is just one second?' before her arms fly up in victory.",
+    "product_role": "ANTA's quick-dry running gear (the lime tech tee and spikes) is the kit that lets a young record-holder train and explode without the sweat-soaked drag, framed as the wear of a champion.",
+    "punchline": "From this very second, begin — your one second is everything.",
+    "differentiator": "Quick-dry superlative ('速干之王', instant sweat-wicking, non-clinging) tied to an aspirational real youth-record athlete and a one-second race-timer device.",
+    "brand_fit_one_liner": "ANTA backs young Chinese athletic ambition with performance gear engineered for the decisive second.",
+    "confidence": "inferred"
+  },
+  "inferred_brief": "Build aspirational brand heat for ANTA running by profiling a young female sprint record-holder ambassador, dramatizing the value of a single second through a cinematic block-start-to-victory arc with neon kinetic copy, and landing a quick-dry tech-tee product claim.",
+  "cross_pollination_tags": {
+    "adjacent": [
+      "footwear",
+      "fitness_app",
+      "energy_drink",
+      "activewear"
+    ],
+    "distant": [
+      "automotive_performance",
+      "watch_chronograph",
+      "fintech"
+    ],
+    "contrast": [
+      "luxury_skincare",
+      "home_goods",
+      "insurance"
+    ]
+  },
+  "concept_derivation_pattern": [
+    "athlete_hero_profile"
+  ],
+  "confidence": "inferred",
+  "analyst_notes": "ANTA (安踏) running athlete-profile ad, vertical 9:16, 34.007s, 25fps, 720x1280, 849 frames, has_audio true. 16 cuts: serene golden-hour profile intro with lime credits (陈妤颉 / 安踏跑步代言人 / 亚洲女子一百米青年纪录), a desaturated eye-macro breath, block 'set' position with a 0.00\" race timer, explosive block start, full-speed backlit sprint with flaring sun and a timer counting up (0.23\"-1.00\"), determined face close-ups, an ANTA RUNNING jersey-fabric macro, then a deliberate 23-28s rapid-cut climax montage alternating desaturated high-grain motion-blur beats and color drive shots with split lime kinetic type ('你以为 / 这只是一秒？', '年轻 / 力量'), the climax tagline '从这一秒 / 开始' on an arms-up victory, a calm hero product claim (安踏速干之王 / 一秒瞬吸汗　速干不粘身), and a white ANTA arc/swoosh mark on black. A 'TVCBOOK.com' reference-site watermark sits top-right on EVERY frame and is NOT part of the ad. The athlete is real (陈妤颉); visuals use a generic young East Asian sprinter type and the logo is rendered generically (no exact trademark); on-screen Chinese copy is preserved verbatim as caption text. Year 2024 inferred. Wiggle metrics (mean_abs_shift_x 1.72, sign_flips 0.18) are handheld + fast motion, not a wiggle_3d effect. Audio: ko-forced faster_whisper is unreliable here, returning '시작!' which is the Chinese shout cue '开始' at the climax; music-driven, minimal VO.",
+  "verification": {
+    "frames_reviewed": "849 frames native-res + 100% metrics; per-cut boundary + sampled frames read (start/mid/end for long cuts, start+end for the short climax cuts 8-14); all 16 mid-frames and key transition frames read; on-screen Chinese copy re-zoomed and transcribed verbatim",
+    "audio_analyzed": true,
+    "hitrate_na": true,
+    "abstraction_checked": true
+  }
+}

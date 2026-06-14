@@ -1,0 +1,523 @@
+{
+  "ui_motion": [
+    "ADV-2026-001",
+    "ADV-2026-003",
+    "ADV-2026-004",
+    "ADV-2026-014",
+    "ADV-2026-015",
+    "ADV-2026-016",
+    "ADV-2026-017",
+    "ADV-2026-018",
+    "ADV-2026-019",
+    "ADV-2026-020",
+    "ADV-2026-025",
+    "ADV-2026-026",
+    "ADV-2026-027",
+    "ADV-2026-028",
+    "ADV-2026-033",
+    "ADV-2026-034",
+    "ADV-2026-035",
+    "ADV-2026-036",
+    "ADV-2026-040",
+    "ADV-2026-042",
+    "ADV-2026-043",
+    "ADV-2026-051",
+    "ADV-2026-052",
+    "ADV-2026-054",
+    "ADV-2026-056",
+    "ADV-2026-059",
+    "ADV-2026-062"
+  ],
+  "data_viz": [
+    "ADV-2026-001",
+    "ADV-2026-015",
+    "ADV-2026-016",
+    "ADV-2026-039",
+    "ADV-2026-059"
+  ],
+  "split_screen": [
+    "ADV-2026-001",
+    "ADV-2026-042",
+    "ADV-2026-043",
+    "ADV-2026-045",
+    "ADV-2026-052",
+    "ADV-2026-060"
+  ],
+  "ui_overlay_animation": [
+    "ADV-2026-002"
+  ],
+  "whip_pan": [
+    "ADV-2026-002"
+  ],
+  "lens_flare": [
+    "ADV-2026-002",
+    "ADV-2026-051",
+    "ADV-2026-053",
+    "ADV-2026-054",
+    "ADV-2026-055",
+    "ADV-2026-057"
+  ],
+  "3d_cg_intro": [
+    "ADV-2026-002"
+  ],
+  "phone_rotation_reveal": [
+    "ADV-2026-003"
+  ],
+  "text_slide_in": [
+    "ADV-2026-003"
+  ],
+  "particle": [
+    "ADV-2026-004",
+    "ADV-2026-039",
+    "ADV-2026-050"
+  ],
+  "color_pop": [
+    "ADV-2026-004",
+    "ADV-2026-014",
+    "ADV-2026-015",
+    "ADV-2026-016",
+    "ADV-2026-025",
+    "ADV-2026-026",
+    "ADV-2026-028",
+    "ADV-2026-038",
+    "ADV-2026-039",
+    "ADV-2026-040",
+    "ADV-2026-041",
+    "ADV-2026-043",
+    "ADV-2026-046",
+    "ADV-2026-050",
+    "ADV-2026-052",
+    "ADV-2026-056",
+    "ADV-2026-060"
+  ],
+  "aerial_drone_wide": [
+    "ADV-2026-005"
+  ],
+  "ui_demo_animation+speech_bubble_pop+checkmark_draw_on+walk_cycle": [
+    "ADV-2026-006"
+  ],
+  "ui_animation": [
+    "ADV-2026-007"
+  ],
+  "screen_capture": [
+    "ADV-2026-007",
+    "ADV-2026-017",
+    "ADV-2026-018",
+    "ADV-2026-019",
+    "ADV-2026-020"
+  ],
+  "cloth_physics": [
+    "ADV-2026-007"
+  ],
+  "on_screen_copy_overlay": [
+    "ADV-2026-008"
+  ],
+  "word_reveal_animation": [
+    "ADV-2026-008"
+  ],
+  "neon_practical_lights": [
+    "ADV-2026-008"
+  ],
+  "bokeh_night_portrait": [
+    "ADV-2026-008"
+  ],
+  "push_in_zoom_typo": [
+    "ADV-2026-009"
+  ],
+  "motion_blur_water_spray_rack_focus_bokeh": [
+    "ADV-2026-010"
+  ],
+  "bokeh": [
+    "ADV-2026-011"
+  ],
+  "rack_focus": [
+    "ADV-2026-011",
+    "ADV-2026-046",
+    "ADV-2026-061"
+  ],
+  "motion_blur": [
+    "ADV-2026-011",
+    "ADV-2026-047"
+  ],
+  "screen_glow": [
+    "ADV-2026-011",
+    "ADV-2026-030"
+  ],
+  "practical_steam_shallow_dof_screen_insert": [
+    "ADV-2026-012"
+  ],
+  "no_vfx": [
+    "ADV-2026-013"
+  ],
+  "practical_lighting": [
+    "ADV-2026-013"
+  ],
+  "handheld_macro": [
+    "ADV-2026-013"
+  ],
+  "kinetic_typo": [
+    "ADV-2026-014",
+    "ADV-2026-025",
+    "ADV-2026-028",
+    "ADV-2026-034",
+    "ADV-2026-035",
+    "ADV-2026-038",
+    "ADV-2026-043",
+    "ADV-2026-046",
+    "ADV-2026-050",
+    "ADV-2026-051",
+    "ADV-2026-057"
+  ],
+  "3d_render": [
+    "ADV-2026-014",
+    "ADV-2026-016",
+    "ADV-2026-033",
+    "ADV-2026-034",
+    "ADV-2026-035",
+    "ADV-2026-036",
+    "ADV-2026-050",
+    "ADV-2026-052",
+    "ADV-2026-053",
+    "ADV-2026-059"
+  ],
+  "slot_machine_scroll": [
+    "ADV-2026-014"
+  ],
+  "liquid_morph": [
+    "ADV-2026-014"
+  ],
+  "slide_transition": [
+    "ADV-2026-014"
+  ],
+  "flat_2d_animation": [
+    "ADV-2026-015"
+  ],
+  "scroll_montage": [
+    "ADV-2026-015"
+  ],
+  "match_cut": [
+    "ADV-2026-015"
+  ],
+  "confetti_celebration": [
+    "ADV-2026-017"
+  ],
+  "pixel_crt_distortion": [
+    "ADV-2026-017",
+    "ADV-2026-018",
+    "ADV-2026-019",
+    "ADV-2026-020"
+  ],
+  "caption_pill_swap": [
+    "ADV-2026-018"
+  ],
+  "editorial_header_overlay": [
+    "ADV-2026-019",
+    "ADV-2026-020"
+  ],
+  "caption_pill": [
+    "ADV-2026-021",
+    "ADV-2026-022"
+  ],
+  "title_card": [
+    "ADV-2026-021"
+  ],
+  "screen_composite": [
+    "ADV-2026-021"
+  ],
+  "optical_distortion": [
+    "ADV-2026-021"
+  ],
+  "sticker_endcard": [
+    "ADV-2026-021"
+  ],
+  "screen_recording": [
+    "ADV-2026-022",
+    "ADV-2026-023",
+    "ADV-2026-024"
+  ],
+  "torn_paper_card": [
+    "ADV-2026-022"
+  ],
+  "macro_push_in": [
+    "ADV-2026-022"
+  ],
+  "sketch_sticker_pop": [
+    "ADV-2026-022"
+  ],
+  "subtitle_overlay": [
+    "ADV-2026-023"
+  ],
+  "content_card": [
+    "ADV-2026-023"
+  ],
+  "sticker_peel": [
+    "ADV-2026-023"
+  ],
+  "kinetic_text": [
+    "ADV-2026-024"
+  ],
+  "subtitle_pill": [
+    "ADV-2026-024"
+  ],
+  "paper_title_card": [
+    "ADV-2026-024"
+  ],
+  "torn_paper_caption": [
+    "ADV-2026-025",
+    "ADV-2026-028"
+  ],
+  "step_number_badge": [
+    "ADV-2026-025",
+    "ADV-2026-028"
+  ],
+  "red_alert_reveal": [
+    "ADV-2026-026"
+  ],
+  "numbered_step_badge": [
+    "ADV-2026-026"
+  ],
+  "caption_badge": [
+    "ADV-2026-027"
+  ],
+  "brush_stroke_caption": [
+    "ADV-2026-027"
+  ],
+  "handheld": [
+    "ADV-2026-027"
+  ],
+  "keyword_color_highlight": [
+    "ADV-2026-029"
+  ],
+  "card_stack_animation": [
+    "ADV-2026-029"
+  ],
+  "disclaimer_ticker": [
+    "ADV-2026-029"
+  ],
+  "emoji_iconography": [
+    "ADV-2026-029"
+  ],
+  "holographic_cards": [
+    "ADV-2026-030"
+  ],
+  "floor_reflection": [
+    "ADV-2026-030"
+  ],
+  "composited_search_ui": [
+    "ADV-2026-030"
+  ],
+  "floating_logo_discs": [
+    "ADV-2026-030"
+  ],
+  "duotone_grade": [
+    "ADV-2026-030"
+  ],
+  "volumetric_clouds": [
+    "ADV-2026-031"
+  ],
+  "photoreal_moon": [
+    "ADV-2026-031"
+  ],
+  "lunar_surface_cg": [
+    "ADV-2026-031"
+  ],
+  "motion_streaks": [
+    "ADV-2026-031"
+  ],
+  "lens_glow": [
+    "ADV-2026-031"
+  ],
+  "letterbox": [
+    "ADV-2026-031"
+  ],
+  "kinetic_typography": [
+    "ADV-2026-032",
+    "ADV-2026-063"
+  ],
+  "morph": [
+    "ADV-2026-033",
+    "ADV-2026-034",
+    "ADV-2026-035",
+    "ADV-2026-036",
+    "ADV-2026-037",
+    "ADV-2026-039",
+    "ADV-2026-042",
+    "ADV-2026-045",
+    "ADV-2026-059",
+    "ADV-2026-060",
+    "ADV-2026-062"
+  ],
+  "lineart_boil": [
+    "ADV-2026-035"
+  ],
+  "film_grain": [
+    "ADV-2026-037",
+    "ADV-2026-053",
+    "ADV-2026-060",
+    "ADV-2026-061",
+    "ADV-2026-062"
+  ],
+  "color_grade": [
+    "ADV-2026-037"
+  ],
+  "3d_product_render": [
+    "ADV-2026-038"
+  ],
+  "graphic_system": [
+    "ADV-2026-038",
+    "ADV-2026-040"
+  ],
+  "neon_glow": [
+    "ADV-2026-038"
+  ],
+  "clean_digital": [
+    "ADV-2026-040",
+    "ADV-2026-041",
+    "ADV-2026-045",
+    "ADV-2026-051"
+  ],
+  "matte_composite": [
+    "ADV-2026-041"
+  ],
+  "glitch_crt": [
+    "ADV-2026-042"
+  ],
+  "color_shift": [
+    "ADV-2026-042"
+  ],
+  "volumetric_haze": [
+    "ADV-2026-046"
+  ],
+  "warm_bokeh": [
+    "ADV-2026-046"
+  ],
+  "logo_animation": [
+    "ADV-2026-046"
+  ],
+  "painterly_pastiche": [
+    "ADV-2026-047"
+  ],
+  "miniature_composite": [
+    "ADV-2026-047"
+  ],
+  "zoom_burst": [
+    "ADV-2026-047"
+  ],
+  "vignette": [
+    "ADV-2026-047"
+  ],
+  "backlit_macro": [
+    "ADV-2026-047"
+  ],
+  "ember_particles": [
+    "ADV-2026-048",
+    "ADV-2026-049"
+  ],
+  "cinemascope_letterbox": [
+    "ADV-2026-048",
+    "ADV-2026-049"
+  ],
+  "gold_title_card": [
+    "ADV-2026-048",
+    "ADV-2026-049"
+  ],
+  "volumetric_backlight": [
+    "ADV-2026-048",
+    "ADV-2026-049"
+  ],
+  "style_switching": [
+    "ADV-2026-048",
+    "ADV-2026-049"
+  ],
+  "bean_particles": [
+    "ADV-2026-048"
+  ],
+  "product_pour": [
+    "ADV-2026-048"
+  ],
+  "color_grade_cool": [
+    "ADV-2026-051"
+  ],
+  "wiggle_3d": [
+    "ADV-2026-052"
+  ],
+  "balloon_inflate": [
+    "ADV-2026-052"
+  ],
+  "genai": [
+    "ADV-2026-053"
+  ],
+  "dust": [
+    "ADV-2026-053"
+  ],
+  "god_rays": [
+    "ADV-2026-053"
+  ],
+  "led_grille_glow": [
+    "ADV-2026-053"
+  ],
+  "light_reveal": [
+    "ADV-2026-054"
+  ],
+  "rim_light": [
+    "ADV-2026-054",
+    "ADV-2026-058"
+  ],
+  "photoreal_cgi": [
+    "ADV-2026-055"
+  ],
+  "bokeh_foreground": [
+    "ADV-2026-055"
+  ],
+  "night_architectural_glow": [
+    "ADV-2026-055"
+  ],
+  "cutout_composite": [
+    "ADV-2026-056"
+  ],
+  "graphic_wipe": [
+    "ADV-2026-056"
+  ],
+  "slow_motion": [
+    "ADV-2026-057",
+    "ADV-2026-063"
+  ],
+  "speed_ramp": [
+    "ADV-2026-057"
+  ],
+  "atmospheric_haze": [
+    "ADV-2026-058"
+  ],
+  "title_graphics": [
+    "ADV-2026-058",
+    "ADV-2026-059",
+    "ADV-2026-060"
+  ],
+  "glitch": [
+    "ADV-2026-059"
+  ],
+  "ai_generated": [
+    "ADV-2026-059"
+  ],
+  "film_frame_ui": [
+    "ADV-2026-060"
+  ],
+  "halation": [
+    "ADV-2026-060"
+  ],
+  "lens_blur_transition": [
+    "ADV-2026-061"
+  ],
+  "shallow_dof": [
+    "ADV-2026-061"
+  ],
+  "letterbox_cinematic": [
+    "ADV-2026-062"
+  ],
+  "black_and_white": [
+    "ADV-2026-063"
+  ],
+  "high_contrast": [
+    "ADV-2026-063"
+  ]
+}

@@ -1,0 +1,2359 @@
+{
+  "id": "ADV-2026-046",
+  "source_ref": {
+    "platform": "broadcast_online",
+    "title_or_campaign": "배민오더 - 미리 주문 픽업 (런웨이편)",
+    "brand": "배달의민족 / 배민 (Baemin)",
+    "product": "배민오더 (Baemin Order) — 미리 주문 픽업 / pre-order pickup",
+    "model": null,
+    "year": 2024,
+    "production_note": "live_action_comedic_narrative_with_kinetic_typography",
+    "url": null
+  },
+  "category_primary": "commerce.delivery_platform",
+  "category_tags": [
+    "delivery_platform",
+    "food_delivery",
+    "pre_order_pickup",
+    "super_app",
+    "fnb",
+    "mobile_ordering",
+    "kinetic_typography"
+  ],
+  "mood": [
+    "comedic",
+    "playful",
+    "confident",
+    "stylish",
+    "relatable"
+  ],
+  "target_demo": "20s-40s urban Korean food-delivery app users who want to skip waiting in line",
+  "total_duration": 31.14,
+  "shot_count": 16,
+  "shot_count_corrected": 16,
+  "fps": 23.976,
+  "aspect_ratio": "16:9",
+  "hook_position": 0.0,
+  "cta_position": 27.4,
+  "narrative_arc": "problem_dramatized_then_hero_solution_payoff",
+  "narrative_structure": "linear_continuous",
+  "pacing_curve": "accelerating",
+  "music_tempo_curve": "quiet_build_to_confident_pop",
+  "wow_cut_index": 12,
+  "creative_device": [
+    "everyday_pain_dramatization",
+    "status_reversal_hero_walk",
+    "fashion_runway_metaphor",
+    "reaction_shot_montage",
+    "product_UI_reveal",
+    "kinetic_typography_punchline",
+    "minimal_logo_endcard"
+  ],
+  "production_signature": {
+    "capture_style": "cinematic_handheld_warm_realism_with_volumetric_haze",
+    "camera_signature": [
+      "handheld_micro_drift",
+      "shallow_DOF_warm_bokeh",
+      "backlit_volumetric_haze_runway",
+      "rack_focus_product_insert",
+      "symmetrical_corridor_vanishing_point"
+    ],
+    "signature_note": "Handheld warm realism, mean abs shift ~1.83px (intentional handheld + CG haze drift); warm tungsten interior; dramatic backlit volumetric runway haze for the hero reveal; cool night exterior bookends; dark-field kinetic Korean typography for the copy/demo beats; clean white logo end card",
+    "color_grade": "warm_amber_naturalistic_with_cool_night_bookends_and_mint_brand_pops",
+    "texture_fx": "fine_film_grain_plus_volumetric_haze"
+  },
+  "global_layout": {
+    "grid_system": "rule_of_thirds_narrative_with_symmetrical_runway_and_split_typo_zones",
+    "subject_placement_dominant": "center_for_narrative_and_runway",
+    "subject_typo_relation": "device_or_subject_one_side_kinetic_copy_other_side_on_dark_field",
+    "negative_space_use": "minimal_in_warm_narrative_heavy_in_dark_typo_and_white_endcard",
+    "layout_note": "Narrative/reaction shots use centered shallow-DOF portraits; hero walk uses symmetrical corridor vanishing-point; copy/demo beats split frame into device/subject vs stacked kinetic Korean typography on dark negative space; closes on centered minimal logo on white"
+  },
+  "recurring_motifs": [
+    "waiting_in_line",
+    "smartphones",
+    "kraft_takeout_bag",
+    "silver_haired_hero",
+    "gold_metallic_jacket",
+    "fashion_runway_haze",
+    "reaction_gasps",
+    "mint_brand_color",
+    "kinetic_korean_copy"
+  ],
+  "copywriting": {
+    "tagline_text": "요즘은 이렇게 삽니다",
+    "tagline_structure": "lifestyle_declaration_these_days_this_is_how_we_live",
+    "cta_text": "배민오더",
+    "copy_tone": [
+      "confident",
+      "witty",
+      "punchy",
+      "modern",
+      "knowing"
+    ],
+    "copy_strategy": "dramatize_the_pain_of_waiting_then_present_pre_order_pickup_as_a_status_upgrade",
+    "lines": [
+      {
+        "text": "아 언제 들어가?",
+        "type": "dialogue",
+        "time_sec": 0.27
+      },
+      {
+        "text": "내 차례 언제야",
+        "type": "dialogue",
+        "time_sec": 1.51
+      },
+      {
+        "text": "○○○ 고객님!",
+        "type": "dialogue_call_out",
+        "time_sec": 2.35
+      },
+      {
+        "text": "고생 끝에 낙이 오는 시대는 끝났다",
+        "type": "narration_vo",
+        "time_sec": 17.12
+      },
+      {
+        "text": "미리 주문은 옳지",
+        "type": "narration_vo",
+        "time_sec": 20.8
+      },
+      {
+        "text": "미리 주문하면 바로 받아가는 손 안의 오더",
+        "type": "narration_vo",
+        "time_sec": 23.04
+      },
+      {
+        "text": "요즘은 이렇게 삽니다",
+        "type": "narration_vo_tagline",
+        "time_sec": 27.04
+      },
+      {
+        "text": "배민오더",
+        "type": "brand_reveal_vo",
+        "time_sec": 29.08
+      }
+    ],
+    "captions": [
+      {
+        "text": "배민오더",
+        "source": "on_product_takeout_bag",
+        "time_sec": 12.3
+      },
+      {
+        "text": "우아한 치킨",
+        "source": "on_screen_phone_app_restaurant",
+        "time_sec": 23.5
+      },
+      {
+        "text": "미리 주문하면",
+        "source": "kinetic_typography_overlay",
+        "time_sec": 23.3
+      },
+      {
+        "text": "바로 받아가는",
+        "source": "kinetic_typography_overlay",
+        "time_sec": 24.5
+      },
+      {
+        "text": "손 안의 오더",
+        "source": "kinetic_typography_overlay_accent",
+        "time_sec": 25.5
+      },
+      {
+        "text": "요즘은",
+        "source": "kinetic_typography_overlay",
+        "time_sec": 27.4
+      },
+      {
+        "text": "이렇게",
+        "source": "kinetic_typography_overlay",
+        "time_sec": 28.0
+      },
+      {
+        "text": "삽니다",
+        "source": "kinetic_typography_overlay",
+        "time_sec": 28.5
+      },
+      {
+        "text": "배달의민족",
+        "source": "endcard_wordmark",
+        "time_sec": 29.28
+      },
+      {
+        "text": "배민오더",
+        "source": "endcard_product_lockup",
+        "time_sec": 30.2
+      }
+    ],
+    "narration_handling": "diegetic_dialogue_then_voiceover_with_synced_kinetic_typography"
+  },
+  "typography": {
+    "primary_font_class": "rounded_geometric_hangul_display_baemin_style",
+    "animation_style": [
+      "line_by_line_build_in",
+      "static_hold",
+      "logo_fade_scale_swap"
+    ],
+    "subtitle_position_dominant": "side_stacked_on_dark_field",
+    "color_strategy": "white_and_brand_mint_on_dark_then_black_on_white_endcard",
+    "typo_motion_dominant": "staccato_line_by_line_kinetic_build"
+  },
+  "vfx": {
+    "primary_effects": [
+      "volumetric_haze",
+      "shallow_dof_bokeh",
+      "handheld_shake",
+      "rack_focus",
+      "screen_UI_insert",
+      "kinetic_typography",
+      "logo_animation"
+    ],
+    "effect_intensity": "medium_high",
+    "transition_style_dominant": "hard_cut",
+    "vfx_event_count": 7
+  },
+  "audio": {
+    "has_audio": true,
+    "language": "ko",
+    "speech_coverage": 0.471,
+    "bgm_likely": true,
+    "narration_lines": [
+      {
+        "start": 0.27,
+        "end": 1.51,
+        "text": "아 언제 들어가?",
+        "text_raw": "아 언제 들어가?",
+        "source": "whisper"
+      },
+      {
+        "start": 1.51,
+        "end": 2.35,
+        "text": "내 차례 언제야",
+        "text_raw": "네 차례 언제워.",
+        "source": "whisper"
+      },
+      {
+        "start": 2.35,
+        "end": 3.75,
+        "text": "○○○ 고객님!",
+        "text_raw": "백팔방고객님!",
+        "source": "whisper"
+      },
+      {
+        "start": 17.12,
+        "end": 20.16,
+        "text": "고생 끝에 낙이 오는 시대는 끝났다",
+        "text_raw": "고생 끝에 날이 오는 시대는 끝난다.",
+        "source": "whisper"
+      },
+      {
+        "start": 20.8,
+        "end": 22.56,
+        "text": "미리 주문은 옳지",
+        "text_raw": "미리 주문은 왔지.",
+        "source": "whisper"
+      },
+      {
+        "start": 23.04,
+        "end": 26.64,
+        "text": "미리 주문하면 바로 받아가는 손 안의 오더",
+        "text_raw": "미리 주문하면 바로 받아가는 손 안에 오더.",
+        "source": "whisper"
+      },
+      {
+        "start": 27.04,
+        "end": 28.84,
+        "text": "요즘은 이렇게 삽니다",
+        "text_raw": "요즘은 이렇게 삽니다.",
+        "source": "whisper"
+      },
+      {
+        "start": 29.08,
+        "end": 30.08,
+        "text": "배민오더",
+        "text_raw": "베밍 오더.",
+        "source": "whisper"
+      }
+    ],
+    "voice_vs_caption": "vo_tagline_matched_to_on_screen_kinetic_typography",
+    "transcribed_by": "faster_whisper_base",
+    "audio_note": "Korean diegetic line-waiting dialogue in the opening, then confident male/narration VO over the solution; whisper speech_coverage 0.471 (long non-speech music/SFX gaps). Corrected mis-hears against on-screen captions: '손 안에 오더'→on-screen '손 안의 오더'; '베밍 오더'→'배민오더'; '백팔방고객님'→a customer name being called '○○○ 고객님!'; '날이 오는'→'낙이 오는'. text_raw preserves uncorrected whisper."
+  },
+  "frames_dir": "ADV-2026-046_frames",
+  "contact_sheet_path": "ADV-2026-046_frames/contact_sheet.png",
+  "shots": [
+    {
+      "index": 1,
+      "duration": 1.79,
+      "framing": "WS",
+      "function": "hook_establishing",
+      "subject_action": "a long single-file queue of people stands on a night sidewalk outside a restaurant entrance, waiting, barely moving",
+      "layout_grid": "symmetrical_centered_entrance",
+      "subject_position": "distributed_horizontal_band",
+      "typo_motion": "none",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal_exterior",
+      "shot_scope": "wide_establishing",
+      "gaze": "away_toward_entrance",
+      "props": [
+        "queue_barrier_rope",
+        "neon_restaurant_sign",
+        "smartphones",
+        "tote_bags"
+      ],
+      "color_palette": [
+        "#1A1E2A",
+        "#C8741E",
+        "#E8A24A",
+        "#5A6472",
+        "#0E1018"
+      ],
+      "color_intent": "cold_night_blue_with_warm_doorway_pool",
+      "pose_description": "rows of people standing in profile and three-quarter, shoulders hunched against night chill, some glancing at phones",
+      "subject_motion": "near_static_idle_shuffle",
+      "camera_motion": "locked_off_tripod_static",
+      "camera_effect_local": "fade_in_from_black_subtle_grain",
+      "intra_cut_rhythm": "slow_hold",
+      "transition_in": "fade_from_black",
+      "transition_out": "cut",
+      "mid_frame_path": "ADV-2026-046_frames/cut01_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "queue_barrier_rope",
+          "silhouetted_waiting_people"
+        ],
+        "midground": [
+          "single_file_line_of_people",
+          "restaurant_glass_facade"
+        ],
+        "background": [
+          "illuminated_restaurant_entrance",
+          "warm_neon_script_sign",
+          "backlit_window_blinds"
+        ],
+        "lighting_env": [
+          "cold_ambient_night",
+          "warm_tungsten_doorway_glow",
+          "interior_window_backlight"
+        ],
+        "atmosphere": [
+          "chilly_evening_stillness",
+          "long_wait_boredom",
+          "urban_after_dark"
+        ]
+      },
+      "texture": {
+        "primary_subject": "fabric_coats_matte",
+        "secondary_objects": [
+          "nylon_barrier_rope",
+          "glass_facade_reflective"
+        ],
+        "background_surface": "brushed_metal_and_glass_storefront",
+        "atmospheric": [
+          "faint_night_haze",
+          "film_grain"
+        ]
+      },
+      "lighting": {
+        "key_direction": "back_center_from_doorway",
+        "key_hardness": "soft",
+        "key_color_temp": "split_cool_ambient_warm_practical",
+        "fill_strength": "low",
+        "key_to_fill_ratio": "5:1",
+        "rim_light": "warm_doorway_rim_on_queue",
+        "practical_lights": [
+          "restaurant_entrance_lamp",
+          "neon_sign",
+          "interior_window_light"
+        ],
+        "shadow_presence": "deep_long_shadows",
+        "overall_contrast": "high"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#1A1E2A",
+          "#C8741E",
+          "#E8A24A",
+          "#5A6472",
+          "#0E1018"
+        ],
+        "palette_role": {
+          "#1A1E2A": "dominant_night_blue",
+          "#C8741E": "doorway_amber_glow",
+          "#E8A24A": "neon_sign_warm",
+          "#5A6472": "cool_facade_midtone",
+          "#0E1018": "shadow_black"
+        },
+        "color_relationship": "cool_warm_complementary",
+        "temperature_balance": "cool_dominant_warm_accent",
+        "saturation_strategy": "desaturated_blue_with_saturated_warm_pool",
+        "contrast_type": "hard_chiaroscuro",
+        "accent_color": "#E8A24A",
+        "accent_ratio": 0.12
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A wide, locked-off establishing frame, shot at eye level on a city sidewalk at night, of a long single-file queue of roughly a dozen people waiting outside the glass entrance of an upscale restaurant. The crowd is generic, diverse Korean urban adults of mixed ages in autumn outerwear — beige trench coats, padded jackets, knit sweaters, crossbody and tote bags — standing in profile and three-quarter views, shoulders slightly hunched against the evening chill, a few tilting their heads down toward glowing smartphones. They stand patiently, barely moving, strung out along a low nylon queue-barrier rope that runs across the foreground. The restaurant facade behind them is a modern wall of dark brushed metal and tall vertical-blind windows that glow warm amber from the interior. At the centre of the frame a recessed entrance porch frames the doorway, crowned by a small warm cursive neon script sign. The lighting design is a deliberate cool-warm split: the open sidewalk reads cold ambient night blue (#1A1E2A, #5A6472), while a pool of warm tungsten light (#C8741E, #E8A24A) spills out of the doorway and the neon sign, rim-lighting the silhouettes of the waiting people and casting long deep shadows toward the camera. Key light is effectively back-center from the doorway, soft but with a roughly 5:1 key-to-fill ratio producing hard chiaroscuro and crushed blacks (#0E1018). Lens is a moderate wide angle with deep depth of field so the entire queue stays legible; the composition is near-symmetrical, centred on the bright doorway as the vanishing point with the rope leading the eye in. Surfaces: matte wool and nylon coats, reflective glass-and-metal storefront, taut nylon rope. Atmosphere carries a faint cold night haze and a layer of fine cinematic film grain; the mood is one of dull, drawn-out waiting after dark — the universal boredom of standing in line. The very first instant of the frame emerges out of a soft fade up from black, so edges are slightly veiled and the doorway glow is the first thing to resolve. The palette is desaturated blue overall with one saturated warm light pool, a complementary cool-warm relationship anchored by the amber accent (~12% of frame). No on-screen text or graphic overlays are present in this shot. Korean broadcast-commercial realism: full-frame cinema-camera capture with a slightly compressed, naturalistic look, fine analogue film-adjacent grain, restrained warm-amber color grade, practical-motivated lighting, shallow depth of field, and gentle handheld micro-motion rather than locked-off clinical clarity. Composition follows Korean ad norms — subjects placed on the rule-of-thirds grid with considered breathing room. The image should read as a single film frame from a high-production Korean lifestyle commercial — restrained, atmospheric, never glossy or HDR. Fidelity note: the identity of any individual is entirely generic — no likeness of any real person, actor or celebrity is intended or implied; any logo mark, app glyph, brand wordmark or mascot character is rendered generically and not reproduced as a real trademark. On-screen copy is preserved verbatim only where it actually appears in this frame. Additional production context for faithful reconstruction: the lighting in this exterior is motivated entirely by practical sources actually present in the scene — the restaurant's recessed doorway lamp, the small warm cursive neon sign and the tungsten light bleeding through the vertical window blinds — with no added film-lighting rigs, which is why the open sidewalk falls into deep cool shadow while only the entrance pools with warm light. The queue should be staged with naturalistic irregular spacing rather than a rigid line, individuals at slightly different distances from the rope, a couple leaning, one or two checking phones, conveying real fatigue and the dull passage of time. The camera height sits at standing eye level on a tripod, dead-level horizon, the storefront's horizontal mullions reinforcing the architectural symmetry. Colour temperature contrast between the cold blue ambient and the warm doorway is the entire visual point of the frame, so the grade should preserve that split rather than neutralising it. A faint cold mist or breath-haze in the air adds depth and reads as a chilly evening. Grain is fine and even, evoking a high-end broadcast sensor rather than a noisy low-light phone capture.",
+        "t2i_negative": "text overlay, caption, daylight, bright flat lighting, studio backdrop, cartoon, CGI, wide-angle face distortion, oversaturated neon, lens flare bloom",
+        "i2v_motion": "hold the locked-off wide; the queue idles with tiny shuffles and weight shifts, one or two people glance down at phones, faint breath-haze drifts; the doorway glow finishes resolving as the opening fade-from-black completes in the first ~0.3s; no camera move; hard cut out at ~1.8s",
+        "i2v_params": {
+          "clip_duration_sec": 1.79,
+          "camera_move": "static_locked_off",
+          "subject_motion_level": "very_low_idle",
+          "signature_effect": "fade_in_from_black_film_grain",
+          "pacing": "slow_hold",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful establishing wide; identities/signage generic; no on-screen copy in this cut"
+      }
+    },
+    {
+      "index": 2,
+      "duration": 2.29,
+      "framing": "MCU",
+      "function": "character_intro_pain",
+      "subject_action": "a young man in a green track jacket sits waiting in an indoor lounge, exhales and glances around impatiently while others nearby stare at phones",
+      "layout_grid": "rule_of_thirds_center",
+      "subject_position": "center",
+      "typo_motion": "none",
+      "camera_angle": "eye_level",
+      "camera_facing": "3/4_front",
+      "shot_scope": "medium_close_up",
+      "gaze": "off_camera_wandering",
+      "props": [
+        "green_track_jacket",
+        "white_earphone_cable",
+        "smartphones_held_by_others",
+        "potted_plant"
+      ],
+      "color_palette": [
+        "#2E4A2C",
+        "#E8C8A8",
+        "#6B4A30",
+        "#C49A6C",
+        "#1A1410"
+      ],
+      "color_intent": "warm_interior_amber_with_green_garment_pop",
+      "pose_description": "seated, torso slightly forward, head turning to glance off-camera, lips parted in a bored exhale, earphone cable down his chest",
+      "subject_motion": "head_turn_and_sigh",
+      "camera_motion": "handheld_slight_drift",
+      "camera_effect_local": "shallow_dof_warm_bokeh",
+      "intra_cut_rhythm": "steady",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "mid_frame_path": "ADV-2026-046_frames/cut02_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "young_man_green_jacket",
+          "earphone_cable"
+        ],
+        "midground": [
+          "seated_people_on_phones",
+          "bench_seating"
+        ],
+        "background": [
+          "warm_lit_interior_wall",
+          "potted_plant",
+          "soft_ceiling_lights"
+        ],
+        "lighting_env": [
+          "warm_tungsten_interior",
+          "soft_window_practical"
+        ],
+        "atmosphere": [
+          "crowded_waiting_lounge",
+          "amber_warmth",
+          "low_energy_boredom"
+        ]
+      },
+      "texture": {
+        "primary_subject": "nylon_track_jacket_sheen",
+        "secondary_objects": [
+          "white_earphone_wire",
+          "matte_skin"
+        ],
+        "background_surface": "blurred_warm_interior",
+        "atmospheric": [
+          "soft_bokeh_highlights",
+          "film_grain"
+        ]
+      },
+      "lighting": {
+        "key_direction": "front_right_soft",
+        "key_hardness": "soft",
+        "key_color_temp": "warm_3000K",
+        "fill_strength": "medium",
+        "key_to_fill_ratio": "2.5:1",
+        "rim_light": "soft_warm_hair_rim",
+        "practical_lights": [
+          "interior_pendant_lights",
+          "wall_sconce"
+        ],
+        "shadow_presence": "soft_moderate",
+        "overall_contrast": "medium"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#2E4A2C",
+          "#E8C8A8",
+          "#6B4A30",
+          "#C49A6C",
+          "#1A1410"
+        ],
+        "palette_role": {
+          "#2E4A2C": "garment_green_pop",
+          "#E8C8A8": "skin_warm",
+          "#6B4A30": "interior_wood_tone",
+          "#C49A6C": "ambient_amber_midtone",
+          "#1A1410": "shadow_warm_black"
+        },
+        "color_relationship": "warm_dominant_with_green_accent",
+        "temperature_balance": "warm_dominant",
+        "saturation_strategy": "muted_warm_with_one_saturated_garment",
+        "contrast_type": "soft_medium",
+        "accent_color": "#2E4A2C",
+        "accent_ratio": 0.22
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A medium close-up at eye level of a generic young Korean man in his late twenties, seated and waiting inside a warm, crowded indoor restaurant lounge, framed center on the rule-of-thirds grid in a 16:9 cinematic frame. He has short, slightly tousled dark wavy hair and a clean-shaven boyish face; his lips are parted mid-exhale in an expression of dull, impatient boredom as his eyes wander off-camera to the side. He wears a retro forest-green nylon track jacket with a contrasting white horizontal chest stripe and a zipped collar; a thin white earphone cable runs from his ear down across his chest. He sits with his torso tipped slightly forward, elbows toward his knees, in the posture of someone who has been waiting a long time. Around and behind him, out of focus, other generic young adults sit on bench seating staring down into the glow of their smartphones, reinforcing the collective tedium of the wait. The location is an upscale waiting area with warm wood tones, a soft-lit wall, a leafy potted plant and gentle ceiling pendant lights blurred into round amber bokeh highlights in the deep background. Lighting is warm and naturalistic, roughly 3000K, with a soft front-right key at about a 2.5:1 key-to-fill ratio, a faint warm rim grazing his hair, and soft moderate shadows — an inviting tungsten interior glow. The palette is warm-dominant: ambient amber and wood midtones (#C49A6C, #6B4A30), warm peach skin (#E8C8A8) and warm-black shadow (#1A1410), with the saturated forest green of his jacket (#2E4A2C) acting as the single colour pop that makes him the clear protagonist of the frame (the green occupies roughly 22% of the image). Lens is a short-telephoto portrait focal length wide open, giving a shallow depth of field that melts the background into creamy warm bokeh while keeping his face crisp; the camera has a faint handheld drift. Surfaces read as glossy nylon jacket, thin white earphone wire, and matte natural skin, over a softly blurred warm interior. The atmosphere is a busy but low-energy waiting room, everyone passing time. No on-screen text or graphics appear in this shot. Korean broadcast-commercial realism: full-frame cinema-camera capture with a slightly compressed, naturalistic look, fine analogue film-adjacent grain, restrained warm-amber color grade, practical-motivated lighting, shallow depth of field, and gentle handheld micro-motion rather than locked-off clinical clarity. Composition follows Korean ad norms — subjects placed on the rule-of-thirds grid with considered breathing room. The result should feel like a candid character beat lifted from a Korean narrative commercial — relatable, warmly lit, lightly comedic in its depiction of boredom. Fidelity note: the identity of any individual is entirely generic — no likeness of any real person, actor or celebrity is intended or implied; any logo mark, app glyph, brand wordmark or mascot character is rendered generically and not reproduced as a real trademark. On-screen copy is preserved verbatim only where it actually appears in this frame. Additional production context: this is the first of several intercut character beats establishing the collective boredom of the wait, so the man's performance is small and internal — a bored exhale, eyes drifting, the universal micro-expression of someone who has been standing in line far too long. The earphone cable is a deliberate prop signalling he is killing time with his phone like everyone else. The background extras must stay genuinely out of focus and quietly absorbed in their own phones so the shallow depth of field carries all the storytelling weight onto his face. Keep the warm tungsten grade rich but not orange-clipped, with his green jacket reading as a true saturated forest green that anchors the eye. The handheld float should be barely perceptible — a living, breathing frame rather than an obvious shake. Skin is rendered with natural texture and a soft sheen from the warm key, not smoothed; the nylon jacket catches a subtle specular highlight along the zip and chest stripe.",
+        "t2i_negative": "text overlay, caption, cool blue grade, hard studio lighting, flat lighting, two subjects in focus, cartoon, CGI, plastic skin, wide-angle distortion",
+        "i2v_motion": "subtle handheld drift; the man turns his head slightly and lets out a bored exhale, shoulders settling; background figures stay still on their phones, warm bokeh shimmers faintly; shallow DOF held; hard cut out at ~2.3s",
+        "i2v_params": {
+          "clip_duration_sec": 2.29,
+          "camera_move": "handheld_micro_drift",
+          "subject_motion_level": "low_head_turn_sigh",
+          "signature_effect": "shallow_dof_warm_bokeh",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful character beat; identity generic; no on-screen copy in this cut"
+      }
+    },
+    {
+      "index": 3,
+      "duration": 1.59,
+      "framing": "MS",
+      "function": "pain_point_montage",
+      "subject_action": "two people slump together on bench seating while waiting; one with long hair rests eyes-closed against the other's head, exhausted",
+      "layout_grid": "rule_of_thirds_left",
+      "subject_position": "center_left",
+      "typo_motion": "none",
+      "camera_angle": "eye_level",
+      "camera_facing": "profile_3/4",
+      "shot_scope": "medium_shot_two_figures",
+      "gaze": "eyes_closed_downcast",
+      "props": [
+        "faux_fur_collar_coat",
+        "smartphone_in_background_hand",
+        "bench_seat"
+      ],
+      "color_palette": [
+        "#2A1C12",
+        "#D8B088",
+        "#7A5638",
+        "#A07850",
+        "#120C08"
+      ],
+      "color_intent": "dim_warm_drowsy_amber",
+      "pose_description": "long-haired figure leans head back tiredly, eyes shut; companion slumped against their shoulder; both limp with fatigue",
+      "subject_motion": "micro_slump_breathing",
+      "camera_motion": "handheld_slight_drift",
+      "camera_effect_local": "shallow_dof_low_light_grain",
+      "intra_cut_rhythm": "slow_hold",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "mid_frame_path": "ADV-2026-046_frames/cut03_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "long_haired_person",
+          "slumped_companion",
+          "faux_fur_collar"
+        ],
+        "midground": [
+          "bench_seating",
+          "warm_light_panel"
+        ],
+        "background": [
+          "standing_person_on_phone",
+          "blurred_lattice_screen"
+        ],
+        "lighting_env": [
+          "dim_warm_interior",
+          "glowing_light_box_panel"
+        ],
+        "atmosphere": [
+          "drowsy_exhaustion",
+          "dim_amber_warmth",
+          "endless_wait"
+        ]
+      },
+      "texture": {
+        "primary_subject": "smooth_skin_and_straight_hair",
+        "secondary_objects": [
+          "faux_fur_collar_fluffy",
+          "fabric_coat"
+        ],
+        "background_surface": "warm_glowing_panel_and_lattice",
+        "atmospheric": [
+          "low_light_grain",
+          "soft_glow"
+        ]
+      },
+      "lighting": {
+        "key_direction": "left_practical_panel",
+        "key_hardness": "soft",
+        "key_color_temp": "warm_2900K",
+        "fill_strength": "low",
+        "key_to_fill_ratio": "3:1",
+        "rim_light": "soft_panel_rim_left",
+        "practical_lights": [
+          "wall_light_box_panel",
+          "ambient_pendants"
+        ],
+        "shadow_presence": "soft_deep",
+        "overall_contrast": "medium_low_dim"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#2A1C12",
+          "#D8B088",
+          "#7A5638",
+          "#A07850",
+          "#120C08"
+        ],
+        "palette_role": {
+          "#2A1C12": "dominant_dim_brown",
+          "#D8B088": "lit_skin_warm",
+          "#7A5638": "coat_brown",
+          "#A07850": "amber_glow_midtone",
+          "#120C08": "shadow_black"
+        },
+        "color_relationship": "monochromatic_warm_brown",
+        "temperature_balance": "warm_dominant",
+        "saturation_strategy": "low_desaturated_dim",
+        "contrast_type": "soft_low",
+        "accent_color": "#A07850",
+        "accent_ratio": 0.18
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A dim, warmly-lit medium two-shot at eye level of two generic young Korean adults slumped together on bench seating in a restaurant waiting area, framed center-left in a 16:9 cinematic frame, conveying utter fatigue from a long wait. In the foreground a person with long, straight, centre-parted dark hair leans their head back and slightly to the side with eyes closed, mouth relaxed, completely drained; resting against their shoulder, a second companion has nodded off, head tucked down. The long-haired figure wears a coat with a fluffy faux-fur or textured collar; the companion wears a brown jacket. Their bodies are limp and heavy, the universal posture of people who have given up on the wait ever ending. To the right, softly out of focus, a standing person holds a glowing smartphone, and behind them a warm wooden lattice screen and a softly glowing wall light-box panel provide the only illumination. Lighting is dim and intimate, roughly 2900K, keyed from a soft left practical light panel at about a 3:1 ratio with low fill, a delicate warm rim along the long hair, and soft deep shadows that let the edges fall to near-black (#120C08). The palette is an almost monochromatic warm brown scheme — dim brown dominant (#2A1C12), warmly-lit skin (#D8B088), coat brown (#7A5638) and an amber glow midtone (#A07850) that serves as the accent (~18%). Lens is a short telephoto wide open for a shallow depth of field, the foreground pair sharp while everything behind dissolves into warm low-light blur; a faint handheld drift keeps it alive. Surfaces: smooth skin and straight hair on the leads, fluffy faux fur and matte coat fabric, a glowing softbox panel and wooden lattice behind. The atmosphere is drowsy, dim and amber, heavy with the boredom of an interminable queue. No on-screen text or graphics appear in this shot. Korean broadcast-commercial realism: full-frame cinema-camera capture with a slightly compressed, naturalistic look, fine analogue film-adjacent grain, restrained warm-amber color grade, practical-motivated lighting, shallow depth of field, and gentle handheld micro-motion rather than locked-off clinical clarity. Composition follows Korean ad norms — subjects placed on the rule-of-thirds grid with considered breathing room. The frame should feel like a tender, faintly comedic documentary beat of exhaustion from a Korean lifestyle commercial — low-light, grainy, intimate. Fidelity note: the identity of any individual is entirely generic — no likeness of any real person, actor or celebrity is intended or implied; any logo mark, app glyph, brand wordmark or mascot character is rendered generically and not reproduced as a real trademark. On-screen copy is preserved verbatim only where it actually appears in this frame. Additional production context: this fatigue beat is the emotional low point of the 'waiting is suffering' setup, so the two figures should look genuinely drained — limp necks, closed or half-closed eyes, the body language of total surrender to boredom. The dim, almost monochromatic warm-brown lighting is intentional and should not be brightened; the single soft glowing wall panel on the left is the only meaningful source and rim-lights the long hair. The standing phone-user behind, kept far out of focus, is a quiet reminder that everyone is stuck in the same limbo. Preserve the low-light grain as part of the texture rather than denoising it away. The faux-fur collar should read as a soft, fuzzy contrast against the smooth skin and straight hair. The handheld motion is a slow, almost imperceptible float that keeps the dim frame from feeling like a freeze-frame, reinforcing the sense of suspended, sleepy time inside a crowded but hushed waiting room.",
+        "t2i_negative": "text overlay, caption, bright lighting, cool grade, sharp background, energetic poses, studio backdrop, cartoon, CGI, plastic skin, harsh contrast",
+        "i2v_motion": "near-static slow hold; the long-haired figure breathes and head sags a fraction lower, the companion stays slumped, the background phone glows; faint handheld float; shallow DOF held; hard cut out at ~1.6s",
+        "i2v_params": {
+          "clip_duration_sec": 1.59,
+          "camera_move": "handheld_micro_float",
+          "subject_motion_level": "very_low_breathing",
+          "signature_effect": "shallow_dof_low_light_grain",
+          "pacing": "slow_hold",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful fatigue beat; identities generic; no on-screen copy in this cut"
+      }
+    },
+    {
+      "index": 4,
+      "duration": 1.79,
+      "framing": "MCU",
+      "function": "pain_point_montage",
+      "subject_action": "a young person in a bright orange hoodie sits waiting, looking tired and sullen, fiddling with hands, others on phones beside them",
+      "layout_grid": "rule_of_thirds_center_right",
+      "subject_position": "center_right",
+      "typo_motion": "none",
+      "camera_angle": "eye_level",
+      "camera_facing": "3/4_front",
+      "shot_scope": "medium_close_up",
+      "gaze": "downcast_tired",
+      "props": [
+        "orange_hoodie",
+        "thin_pendant_necklace",
+        "smartphones_in_background"
+      ],
+      "color_palette": [
+        "#D9531E",
+        "#E8B890",
+        "#5A3A24",
+        "#2A1810",
+        "#B8884E"
+      ],
+      "color_intent": "warm_amber_with_orange_garment_pop",
+      "pose_description": "seated, shoulders rounded, head slightly bowed, fingers fidgeting, weary half-lidded gaze downward",
+      "subject_motion": "small_fidget_and_blink",
+      "camera_motion": "handheld_slight_drift",
+      "camera_effect_local": "shallow_dof_warm_bokeh",
+      "intra_cut_rhythm": "steady",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "mid_frame_path": "ADV-2026-046_frames/cut04_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "young_person_orange_hoodie",
+          "pendant_necklace"
+        ],
+        "midground": [
+          "seated_people_on_phones",
+          "bench_seating"
+        ],
+        "background": [
+          "warm_lit_interior",
+          "dried_flower_arrangement",
+          "soft_lights"
+        ],
+        "lighting_env": [
+          "warm_tungsten_interior",
+          "soft_practical_glow"
+        ],
+        "atmosphere": [
+          "weary_waiting",
+          "amber_warmth",
+          "sullen_boredom"
+        ]
+      },
+      "texture": {
+        "primary_subject": "cotton_hoodie_fleece",
+        "secondary_objects": [
+          "thin_metal_necklace",
+          "matte_skin"
+        ],
+        "background_surface": "blurred_warm_interior",
+        "atmospheric": [
+          "soft_bokeh",
+          "film_grain"
+        ]
+      },
+      "lighting": {
+        "key_direction": "front_left_soft",
+        "key_hardness": "soft",
+        "key_color_temp": "warm_3000K",
+        "fill_strength": "medium",
+        "key_to_fill_ratio": "2.5:1",
+        "rim_light": "soft_warm_rim",
+        "practical_lights": [
+          "interior_pendant_lights"
+        ],
+        "shadow_presence": "soft_moderate",
+        "overall_contrast": "medium"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#D9531E",
+          "#E8B890",
+          "#5A3A24",
+          "#2A1810",
+          "#B8884E"
+        ],
+        "palette_role": {
+          "#D9531E": "garment_orange_pop",
+          "#E8B890": "skin_warm",
+          "#5A3A24": "interior_brown",
+          "#2A1810": "shadow_warm_black",
+          "#B8884E": "ambient_amber"
+        },
+        "color_relationship": "warm_analogous_orange_amber",
+        "temperature_balance": "warm_dominant",
+        "saturation_strategy": "muted_warm_with_saturated_orange",
+        "contrast_type": "soft_medium",
+        "accent_color": "#D9531E",
+        "accent_ratio": 0.3
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A medium close-up at eye level of a generic young Korean person, late teens to early twenties, seated and waiting in a warm restaurant lounge, framed center-right on the rule-of-thirds grid in a 16:9 cinematic frame, looking tired and faintly sullen. They have a short dark bob with blunt bangs, soft natural features, and a weary half-lidded gaze cast downward; their shoulders are rounded and their fingers fidget idly in their lap, the body language of someone worn out by waiting. They wear a bright, saturated orange pullover hoodie with a thin delicate pendant necklace at the collar. To the left, softly out of focus, other seated young adults bow their heads into the glow of smartphones; behind, the warm interior dissolves into amber blur with a dried-flower arrangement and soft pendant lights rendered as round bokeh. Lighting is warm and naturalistic, roughly 3000K, with a soft front-left key at about a 2.5:1 key-to-fill ratio, a gentle warm rim on the hair, and soft moderate shadows. The palette is warm and analogous: the saturated orange hoodie (#D9531E) dominates as the colour pop (~30% of frame) and ties beautifully into the ambient amber (#B8884E) and warm peach skin (#E8B890), grounded by interior brown (#5A3A24) and warm-black shadow (#2A1810). Lens is a short-telephoto portrait focal length wide open for shallow depth of field — the face sharp, the surroundings creamy warm bokeh; a faint handheld drift keeps the frame breathing. Surfaces: soft cotton-fleece hoodie, thin metal necklace chain, matte natural skin, over a blurred warm interior. The atmosphere is one of weary, sullen boredom inside an inviting but tediously slow waiting room. No on-screen text or graphics appear in this shot. Korean broadcast-commercial realism: full-frame cinema-camera capture with a slightly compressed, naturalistic look, fine analogue film-adjacent grain, restrained warm-amber color grade, practical-motivated lighting, shallow depth of field, and gentle handheld micro-motion rather than locked-off clinical clarity. Composition follows Korean ad norms — subjects placed on the rule-of-thirds grid with considered breathing room. The frame should read as another relatable, gently comic character beat of waiting-fatigue in a Korean narrative commercial — the saturated hoodie giving the otherwise muted scene a single graphic anchor. Fidelity note: the identity of any individual is entirely generic — no likeness of any real person, actor or celebrity is intended or implied; any logo mark, app glyph, brand wordmark or mascot character is rendered generically and not reproduced as a real trademark. On-screen copy is preserved verbatim only where it actually appears in this frame. Additional production context: this is another relatable waiting-fatigue beat, the subject's earlier sullen boredom set up here so that their later astonished reaction lands as a clear reversal. The performance is restrained — a slow blink, idle fidgeting fingers, a downcast weary gaze — nothing theatrical. The saturated orange hoodie is the graphic anchor of an otherwise muted warm frame and should hold its punchy colour without bleeding or clipping. Background extras remain softly defocused and absorbed in phones. The warm 3000K key models the face gently from the front-left with a soft rim on the hair; shadows stay soft and warm, never harsh. Keep the dried-flower arrangement and pendant lights as warm round bokeh shapes that add depth without distraction. Skin texture is natural and slightly matte under the tungsten glow, and a faint handheld drift keeps the portrait alive and documentary rather than static and posed.",
+        "t2i_negative": "text overlay, caption, cool grade, hard lighting, flat lighting, smiling energetic pose, studio backdrop, cartoon, CGI, plastic skin, wide-angle distortion",
+        "i2v_motion": "subtle handheld drift; the person blinks slowly and fidgets fingers, head dipping a touch lower, background figures still on phones; warm bokeh shimmers; shallow DOF held; hard cut out at ~1.8s",
+        "i2v_params": {
+          "clip_duration_sec": 1.79,
+          "camera_move": "handheld_micro_drift",
+          "subject_motion_level": "low_fidget_blink",
+          "signature_effect": "shallow_dof_warm_bokeh",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful character beat; identity generic; no on-screen copy in this cut"
+      }
+    },
+    {
+      "index": 5,
+      "duration": 1.25,
+      "framing": "MWS",
+      "function": "turn_setup",
+      "subject_action": "a standing crowd seen from behind faces a glowing interior doorway; a silver-haired woman in a patterned jacket stands centre, back to camera, about to move forward",
+      "layout_grid": "centered_corridor_vanishing",
+      "subject_position": "center_back_to_camera",
+      "typo_motion": "none",
+      "camera_angle": "eye_level",
+      "camera_facing": "behind_crowd",
+      "shot_scope": "medium_wide",
+      "gaze": "forward_toward_doorway",
+      "props": [
+        "patterned_metallic_jacket",
+        "long_silver_hair",
+        "crowd_silhouettes"
+      ],
+      "color_palette": [
+        "#1C2230",
+        "#B8862E",
+        "#3A4250",
+        "#6E5A2E",
+        "#0C0E14"
+      ],
+      "color_intent": "cool_dim_with_warm_doorway_target",
+      "pose_description": "rows of standing backs facing away; centre woman with long silver hair and shimmer jacket stands poised, weight shifting forward",
+      "subject_motion": "crowd_settle_hero_steps_forward",
+      "camera_motion": "handheld_slight_push",
+      "camera_effect_local": "shallow_dof_backlit_haze",
+      "intra_cut_rhythm": "building",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "mid_frame_path": "ADV-2026-046_frames/cut05_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "silver_haired_woman_back",
+          "patterned_jacket"
+        ],
+        "midground": [
+          "standing_crowd_silhouettes"
+        ],
+        "background": [
+          "glowing_interior_doorway",
+          "warm_light_strip",
+          "dark_entryway"
+        ],
+        "lighting_env": [
+          "dim_cool_ambient",
+          "warm_doorway_backlight"
+        ],
+        "atmosphere": [
+          "anticipation",
+          "crowd_density",
+          "backlit_glow"
+        ]
+      },
+      "texture": {
+        "primary_subject": "metallic_shimmer_jacket_and_silver_hair",
+        "secondary_objects": [
+          "matte_crowd_coats"
+        ],
+        "background_surface": "warm_glowing_doorway",
+        "atmospheric": [
+          "backlit_haze",
+          "low_light_grain"
+        ]
+      },
+      "lighting": {
+        "key_direction": "back_from_doorway",
+        "key_hardness": "soft",
+        "key_color_temp": "warm_backlight_cool_ambient",
+        "fill_strength": "very_low",
+        "key_to_fill_ratio": "6:1",
+        "rim_light": "strong_warm_backlit_rim",
+        "practical_lights": [
+          "interior_doorway_light_strip"
+        ],
+        "shadow_presence": "deep_silhouette",
+        "overall_contrast": "high_backlit"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#1C2230",
+          "#B8862E",
+          "#3A4250",
+          "#6E5A2E",
+          "#0C0E14"
+        ],
+        "palette_role": {
+          "#1C2230": "dominant_cool_dim",
+          "#B8862E": "warm_doorway_glow",
+          "#3A4250": "cool_crowd_midtone",
+          "#6E5A2E": "jacket_shimmer_warm",
+          "#0C0E14": "shadow_black"
+        },
+        "color_relationship": "cool_warm_complementary_backlit",
+        "temperature_balance": "cool_dominant_warm_target",
+        "saturation_strategy": "desaturated_cool_with_warm_pool",
+        "contrast_type": "hard_backlit_silhouette",
+        "accent_color": "#B8862E",
+        "accent_ratio": 0.14
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A medium-wide frame at eye level shot from behind a standing crowd of generic Korean adults who all face away from camera toward a glowing interior doorway, in a 16:9 cinematic frame, composed as a centred corridor with the bright doorway as the vanishing point. The crowd is rendered largely in cool silhouette — dark coats and jackets, shoulders and the backs of heads forming a dense band of figures. At the dead centre of the frame, closest to camera and slightly elevated in importance, stands a woman with long, straight silver-grey hair cascading down her back, wearing a patterned metallic shimmer jacket whose surface catches faint warm highlights; she stands poised with her back to us, weight shifting forward as if about to step into the light. Beyond the crowd, a recessed dark entryway frames a warm glowing light strip and doorway that is the only strong light source. The lighting is hard backlight: warm tungsten light (#B8862E, #6E5A2E) pours from the doorway and rim-lights the silhouettes against a cool dim ambient (#1C2230, #3A4250), with very low fill (around 6:1) so the foreground reads as near-black silhouette (#0C0E14) and the doorway as a bright warm target. The silver hair and metallic jacket of the central woman pick up a distinctive warm rim that subtly separates her from the anonymous crowd, foreshadowing her as the protagonist. Lens is a normal-to-short-telephoto with a shallow depth of field and gentle backlit haze diffusing the doorway glow into a soft bloom; a faint handheld push edges the camera forward, building anticipation. The palette is desaturated cool overall with one warm light pool, a complementary cool-warm relationship anchored by the amber doorway accent (~14%). Surfaces: shimmering metallic jacket and silvery hair catching light, matte crowd coats in shadow, a warm glowing doorway behind. Atmosphere is thick with anticipation and crowd density, backlit and slightly hazy. No on-screen text or graphics appear in this shot. Korean broadcast-commercial realism: full-frame cinema-camera capture with a slightly compressed, naturalistic look, fine analogue film-adjacent grain, restrained warm-amber color grade, practical-motivated lighting, shallow depth of field, and gentle handheld micro-motion rather than locked-off clinical clarity. Composition follows Korean ad norms — subjects placed on the rule-of-thirds grid with considered breathing room. The frame should feel like the held breath just before a reveal in a Korean cinematic commercial — silhouetted, backlit, charged. Fidelity note: the identity of any individual is entirely generic — no likeness of any real person, actor or celebrity is intended or implied; any logo mark, app glyph, brand wordmark or mascot character is rendered generically and not reproduced as a real trademark. On-screen copy is preserved verbatim only where it actually appears in this frame. Additional production context: this transitional frame is the pivot from the bored waiting montage to the hero reveal, so the staging must read instantly as 'something is about to happen' — the crowd's collective attention pulled toward the glowing doorway, the central silver-haired woman subtly distinguished from the anonymous backs around her by her catching the warm rim on her hair and shimmering jacket. Keep the foreground crowd in true silhouette so the bright doorway dominates as the target of everyone's gaze. The backlit haze should bloom softly around the doorway light strip without becoming a hard star-flare. The slow handheld push edges the viewer forward with the anticipation. Colour stays desaturated cool in the crowd with the single warm doorway pool, the complementary tension priming the dramatic warm reveal that follows. Grain is fine; contrast is high and backlit, with crushed blacks in the silhouetted shoulders and heads framing the bright centre.",
+        "t2i_negative": "text overlay, caption, frontal lighting, bright flat exposure, faces visible in front, daylight, studio backdrop, cartoon, CGI, oversaturated, lens flare star",
+        "i2v_motion": "faint handheld push toward the doorway; the crowd settles and the central silver-haired woman shifts her weight and begins to step forward, her jacket shimmer catching light; backlit haze breathes; shallow DOF held; hard cut out at ~1.25s",
+        "i2v_params": {
+          "clip_duration_sec": 1.25,
+          "camera_move": "handheld_slow_push_in",
+          "subject_motion_level": "low_weight_shift_step",
+          "signature_effect": "shallow_dof_backlit_haze",
+          "pacing": "building",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful pre-reveal beat; identities generic; no on-screen copy in this cut"
+      }
+    },
+    {
+      "index": 6,
+      "duration": 1.88,
+      "framing": "WS",
+      "function": "hero_reveal_walk",
+      "subject_action": "the silver-haired woman strides confidently out of the glowing doorway down a corridor as the seated/standing crowd watches; hazy spotlit runway entrance",
+      "layout_grid": "centered_runway_corridor",
+      "subject_position": "center",
+      "typo_motion": "none",
+      "camera_angle": "eye_level_slight_low",
+      "camera_facing": "frontal_approaching",
+      "shot_scope": "wide_full_figure",
+      "gaze": "forward_confident",
+      "props": [
+        "glowing_doorway",
+        "spotlight_haze",
+        "seated_onlookers",
+        "sneakers"
+      ],
+      "color_palette": [
+        "#2A2030",
+        "#C88A3A",
+        "#E0A858",
+        "#5A4A5A",
+        "#0E0A12"
+      ],
+      "color_intent": "dramatic_warm_spotlight_runway",
+      "pose_description": "full-figure stride forward out of bright doorway, arms relaxed, chin up, confident catwalk gait, backlit by glow",
+      "subject_motion": "confident_forward_stride",
+      "camera_motion": "handheld_slow_push",
+      "camera_effect_local": "backlit_haze_volumetric_glow",
+      "intra_cut_rhythm": "building",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "mid_frame_path": "ADV-2026-046_frames/cut06_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "seated_onlookers_silhouette",
+          "corridor_floor"
+        ],
+        "midground": [
+          "silver_haired_woman_striding",
+          "runway_aisle"
+        ],
+        "background": [
+          "glowing_doorway",
+          "volumetric_light_haze",
+          "warm_corridor_walls"
+        ],
+        "lighting_env": [
+          "warm_backlit_doorway",
+          "volumetric_spotlight_haze",
+          "dim_corridor"
+        ],
+        "atmosphere": [
+          "dramatic_entrance",
+          "runway_spectacle",
+          "hazy_glow"
+        ]
+      },
+      "texture": {
+        "primary_subject": "silver_hair_and_shimmer_outfit",
+        "secondary_objects": [
+          "matte_onlooker_silhouettes",
+          "wood_floor_sheen"
+        ],
+        "background_surface": "warm_glowing_haze",
+        "atmospheric": [
+          "volumetric_light_beams",
+          "soft_grain"
+        ]
+      },
+      "lighting": {
+        "key_direction": "back_from_doorway_volumetric",
+        "key_hardness": "soft_diffused",
+        "key_color_temp": "warm_3200K",
+        "fill_strength": "low",
+        "key_to_fill_ratio": "4:1",
+        "rim_light": "strong_warm_full_body_rim",
+        "practical_lights": [
+          "doorway_backlight",
+          "corridor_wall_lamps"
+        ],
+        "shadow_presence": "long_silhouette_shadows",
+        "overall_contrast": "high_dramatic"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#2A2030",
+          "#C88A3A",
+          "#E0A858",
+          "#5A4A5A",
+          "#0E0A12"
+        ],
+        "palette_role": {
+          "#2A2030": "dim_corridor_dominant",
+          "#C88A3A": "warm_doorway_glow",
+          "#E0A858": "spotlight_amber",
+          "#5A4A5A": "cool_shadow_midtone",
+          "#0E0A12": "shadow_black"
+        },
+        "color_relationship": "warm_glow_against_dim_neutral",
+        "temperature_balance": "warm_dominant_dramatic",
+        "saturation_strategy": "moody_desaturated_with_warm_bloom",
+        "contrast_type": "hard_dramatic_backlit",
+        "accent_color": "#E0A858",
+        "accent_ratio": 0.2
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A wide, full-figure cinematic frame at eye level with a slight low angle, of a generic, elegant older Korean woman in her fifties or sixties striding confidently forward out of a brightly glowing doorway and down a dim interior corridor that has become an impromptu fashion runway, composed dead-centre in a 16:9 frame. She has long, straight silver-grey hair, a poised chin-up posture and a relaxed, self-assured catwalk gait; she is silhouetted and rim-lit by the powerful warm backlight of the doorway behind her, walking on white sneakers down a wood-floored aisle. On both sides, generic onlookers sit and stand in shadowy silhouette, heads turned to watch her like spectators at a show. The doorway and corridor are filled with volumetric warm light haze — thick, hazy beams of tungsten glow (#C88A3A, #E0A858) bloom around her body and pour down the aisle, while the rest of the corridor stays dim and moody (#2A2030, #5A4A5A) with deep shadows (#0E0A12). Lighting is dramatic backlight, roughly 3200K, with a strong warm full-body rim outlining her silhouette, low frontal fill (around 4:1), and long shadows stretching toward camera. The effect is a theatrical hero entrance — the ordinary person transformed into a runway star. Lens is a normal wide angle with the haze softening everything into a glowing atmosphere; a faint handheld push slowly closes the distance as she approaches. The palette is moody and desaturated with a warm bloom: dim corridor neutrals dominant, an amber spotlight accent (~20%) carrying all the energy. Surfaces: silvery hair and faintly shimmering outfit catching the rim, matte onlooker silhouettes, a sheened wood floor reflecting the glow, all wrapped in volumetric haze and a layer of soft grain. Atmosphere is a dramatic, spectacle-like entrance, hazy and reverent. No on-screen text or graphics appear in this shot. Korean broadcast-commercial realism: full-frame cinema-camera capture with a slightly compressed, naturalistic look, fine analogue film-adjacent grain, restrained warm-amber color grade, practical-motivated lighting, shallow depth of field, and gentle handheld micro-motion rather than locked-off clinical clarity. Composition follows Korean ad norms — subjects placed on the rule-of-thirds grid with considered breathing room. The frame should feel like the triumphant hero-reveal walk of a Korean commercial, turning a mundane wait into a catwalk moment. Fidelity note: the identity of any individual is entirely generic — no likeness of any real person, actor or celebrity is intended or implied; any logo mark, app glyph, brand wordmark or mascot character is rendered generically and not reproduced as a real trademark. On-screen copy is preserved verbatim only where it actually appears in this frame. Additional production context: this is the dramatic hero entrance, the visual gear-change of the whole spot, so the volumetric warm haze and strong backlight are essential and should be pushed — thick, tangible beams of tungsten light pouring from the doorway and wrapping the woman's silhouette in a glowing rim as she strides out. Her walk is a confident, unhurried catwalk gait, chin up, arms loose, owning the corridor. The seated and standing onlookers on both sides stay in shadowy silhouette, heads turning to follow her, framing the aisle. The slight low angle subtly heroises her. The wood floor should sheen with reflected warm light, extending the runway feel. Keep the rest of the corridor dim and moody so the warm bloom around her reads as theatrical spotlight rather than general room light. The handheld push slowly closes distance, increasing intimacy as she approaches. Grain and haze together give the frame a dreamlike, larger-than-life quality appropriate to the absurd fashion-show metaphor being staged around an everyday food pickup.",
+        "t2i_negative": "text overlay, caption, flat frontal lighting, bright even exposure, daylight, no haze, studio seamless backdrop, cartoon, CGI, plastic skin, star lens flare",
+        "i2v_motion": "slow handheld push-in as the silver-haired woman strides forward down the hazy runway out of the glowing doorway, hips and shoulders moving in a confident catwalk rhythm, volumetric light beams swirling around her, onlooker silhouettes turning to follow; backlit haze breathing; hard cut out at ~1.9s",
+        "i2v_params": {
+          "clip_duration_sec": 1.88,
+          "camera_move": "handheld_slow_push_in",
+          "subject_motion_level": "medium_confident_walk",
+          "signature_effect": "volumetric_backlit_haze",
+          "pacing": "building",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful hero-reveal walk; identity generic; no on-screen copy in this cut"
+      }
+    },
+    {
+      "index": 7,
+      "duration": 1.71,
+      "framing": "MCU",
+      "function": "hero_payoff_glamour",
+      "subject_action": "the silver-haired woman walks toward camera in a glamorous gold patterned jacket and statement necklace, radiating confidence, crowd seated around her",
+      "layout_grid": "rule_of_thirds_center",
+      "subject_position": "center",
+      "typo_motion": "none",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal_approaching",
+      "shot_scope": "medium_close_up",
+      "gaze": "forward_proud",
+      "props": [
+        "gold_patterned_metallic_jacket",
+        "statement_disc_necklace",
+        "hoop_earrings",
+        "white_tshirt"
+      ],
+      "color_palette": [
+        "#C8961E",
+        "#E8B84A",
+        "#6E5230",
+        "#E0C0A0",
+        "#1A120A"
+      ],
+      "color_intent": "opulent_gold_warm_glamour",
+      "pose_description": "walking toward camera, chin lifted, faint proud smile, gold jacket gleaming, statement necklace at chest",
+      "subject_motion": "forward_walk_subtle_sway",
+      "camera_motion": "handheld_slow_pull_match",
+      "camera_effect_local": "warm_bokeh_volumetric_glow",
+      "intra_cut_rhythm": "steady_climax",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "mid_frame_path": "ADV-2026-046_frames/cut07_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "silver_haired_woman_gold_jacket",
+          "statement_necklace"
+        ],
+        "midground": [
+          "seated_onlookers",
+          "warm_aisle"
+        ],
+        "background": [
+          "glowing_corridor",
+          "warm_lamps",
+          "hazy_light"
+        ],
+        "lighting_env": [
+          "warm_tungsten_glow",
+          "volumetric_haze",
+          "practical_lamps"
+        ],
+        "atmosphere": [
+          "glamour",
+          "triumph",
+          "warm_spectacle"
+        ]
+      },
+      "texture": {
+        "primary_subject": "metallic_gold_jacket_and_silver_hair",
+        "secondary_objects": [
+          "polished_disc_necklace",
+          "cotton_tshirt"
+        ],
+        "background_surface": "warm_blurred_corridor",
+        "atmospheric": [
+          "golden_haze",
+          "soft_grain"
+        ]
+      },
+      "lighting": {
+        "key_direction": "front_warm_glow",
+        "key_hardness": "soft",
+        "key_color_temp": "warm_3200K",
+        "fill_strength": "medium",
+        "key_to_fill_ratio": "3:1",
+        "rim_light": "warm_hair_and_shoulder_rim",
+        "practical_lights": [
+          "corridor_lamps",
+          "ambient_glow"
+        ],
+        "shadow_presence": "soft_warm",
+        "overall_contrast": "medium_high_golden"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#C8961E",
+          "#E8B84A",
+          "#6E5230",
+          "#E0C0A0",
+          "#1A120A"
+        ],
+        "palette_role": {
+          "#C8961E": "dominant_gold_jacket",
+          "#E8B84A": "gold_highlight",
+          "#6E5230": "warm_brown_midtone",
+          "#E0C0A0": "skin_warm",
+          "#1A120A": "shadow_warm_black"
+        },
+        "color_relationship": "monochromatic_warm_gold",
+        "temperature_balance": "warm_dominant_opulent",
+        "saturation_strategy": "rich_warm_golden",
+        "contrast_type": "medium_high_golden",
+        "accent_color": "#E8B84A",
+        "accent_ratio": 0.4
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A medium close-up at eye level of a generic, glamorous older Korean woman in her fifties or sixties walking toward camera down a warm glowing corridor, framed center on the rule-of-thirds grid in a 16:9 cinematic frame, radiating poised confidence at the climax of a hero reveal. She has long, straight silver-grey hair parted in the middle, refined features with a faint proud smile and red lipstick, large gold hoop earrings, and a bold statement necklace of polished gold discs resting at her chest over a plain white t-shirt. Over it she wears an opulent gold patterned metallic jacket whose geometric sheen gleams and catches the light as she moves. Her chin is lifted and her gait has a subtle runway sway. On either side, softly out of focus, seated onlookers watch from a warm aisle; behind her the corridor dissolves into glowing warm lamps and golden haze. Lighting is warm and flattering, roughly 3200K, with a soft frontal warm glow as key at about a 3:1 ratio, a warm rim along her hair and shoulders, and soft warm shadows. The palette is a rich, almost monochromatic gold scheme: the patterned gold jacket dominates (#C8961E with #E8B84A highlights, together ~40% of frame), warmed by brown midtones (#6E5230) and warm skin (#E0C0A0) against warm-black shadow (#1A120A) — opulent, celebratory warmth. Lens is a short-telephoto portrait focal length wide open for a shallow depth of field that keeps her sharp while the corridor melts into golden bokeh; a faint handheld pull matches her forward walk to hold framing. Surfaces: gleaming metallic gold jacket and silvery hair, polished gold disc necklace, soft cotton tee, all wrapped in warm golden haze and fine grain. Atmosphere is glamour and quiet triumph — the ordinary made magnificent. No on-screen text or graphics appear in this shot. Korean broadcast-commercial realism: full-frame cinema-camera capture with a slightly compressed, naturalistic look, fine analogue film-adjacent grain, restrained warm-amber color grade, practical-motivated lighting, shallow depth of field, and gentle handheld micro-motion rather than locked-off clinical clarity. Composition follows Korean ad norms — subjects placed on the rule-of-thirds grid with considered breathing room. The frame should feel like the gleaming payoff close-up of a Korean commercial's hero walk — rich, golden, confident. Fidelity note: the identity of any individual is entirely generic — no likeness of any real person, actor or celebrity is intended or implied; any logo mark, app glyph, brand wordmark or mascot character is rendered generically and not reproduced as a real trademark. On-screen copy is preserved verbatim only where it actually appears in this frame. Additional production context: this gleaming close-up is the payoff of the hero walk, so the gold patterned jacket must genuinely gleam and ripple with metallic highlights as she moves, the statement gold disc necklace catching light at her chest. Her expression is a faint, knowing, proud smile — self-assured rather than smug — and her red lipstick and gold hoop earrings complete the glamorous, confident look. The grade is rich and golden, warm-dominant, the corridor behind dissolving into creamy golden bokeh from the practical lamps. The handheld pull matches her forward walk to hold the framing while preserving the living, breathing camera feel. Keep her silver hair distinct and luminous against the gold, with a warm rim separating it from the background. Skin is rendered with natural mature texture, flattered by the soft warm key but not smoothed or over-lit. The overall impression is opulence and quiet triumph — an ordinary person transformed into a runway star by the simple act of having pre-ordered, the absurdity played completely straight.",
+        "t2i_negative": "text overlay, caption, cool grade, flat lighting, harsh shadows, daylight, studio seamless backdrop, cartoon, CGI, plastic skin, oversharpened, lens flare star",
+        "i2v_motion": "faint handheld pull matching her forward walk; the silver-haired woman advances with a subtle runway sway, gold jacket gleaming and rippling, faint proud smile holding, statement necklace swinging slightly, seated onlookers blurred behind; golden haze and warm bokeh shimmer; hard cut out at ~1.7s",
+        "i2v_params": {
+          "clip_duration_sec": 1.71,
+          "camera_move": "handheld_slow_pull_match",
+          "subject_motion_level": "medium_runway_walk",
+          "signature_effect": "warm_golden_bokeh_haze",
+          "pacing": "steady_climax",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful hero payoff close-up; identity generic; no on-screen copy in this cut"
+      }
+    },
+    {
+      "index": 8,
+      "duration": 1.08,
+      "framing": "MCU",
+      "function": "product_reveal",
+      "subject_action": "a kraft-paper takeout bag printed with a dark circular 배민오더 logo is handed across a counter from a staffer to a customer, then a rack-focus pulls to the warm interior",
+      "layout_grid": "centered_product_hero",
+      "subject_position": "center",
+      "typo_motion": "static_logo_on_bag",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal_product",
+      "shot_scope": "product_insert",
+      "gaze": "na_product",
+      "props": [
+        "kraft_paper_takeout_bag",
+        "circular_brand_logo_print",
+        "hand_of_staffer",
+        "hand_of_customer"
+      ],
+      "color_palette": [
+        "#C8A064",
+        "#2A1C10",
+        "#E8D8C0",
+        "#8A6A40",
+        "#161008"
+      ],
+      "color_intent": "warm_appetizing_product_amber",
+      "pose_description": "two hands meet at the bag handle mid-exchange over a counter, bag held upright facing camera showing the printed circular logo",
+      "subject_motion": "bag_handover_lift",
+      "camera_motion": "static_then_rack_focus",
+      "camera_effect_local": "rack_focus_shallow_dof",
+      "intra_cut_rhythm": "punctuating_beat",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "mid_frame_path": "ADV-2026-046_frames/cut08_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "kraft_takeout_bag",
+          "circular_logo_print",
+          "exchanging_hands"
+        ],
+        "midground": [
+          "counter_edge",
+          "white_sleeve_staffer"
+        ],
+        "background": [
+          "warm_wooden_lattice_screen",
+          "soft_interior_lights"
+        ],
+        "lighting_env": [
+          "warm_tungsten_interior",
+          "soft_key_on_bag"
+        ],
+        "atmosphere": [
+          "appetizing_warmth",
+          "product_focus",
+          "intimate_handover"
+        ]
+      },
+      "texture": {
+        "primary_subject": "kraft_paper_matte_ribbed",
+        "secondary_objects": [
+          "twisted_paper_handle",
+          "skin_hands"
+        ],
+        "background_surface": "warm_wooden_lattice",
+        "atmospheric": [
+          "soft_bokeh",
+          "film_grain"
+        ]
+      },
+      "lighting": {
+        "key_direction": "front_left_soft",
+        "key_hardness": "soft",
+        "key_color_temp": "warm_3000K",
+        "fill_strength": "medium",
+        "key_to_fill_ratio": "2.5:1",
+        "rim_light": "soft_edge_rim_on_bag",
+        "practical_lights": [
+          "interior_pendant_lights",
+          "wall_glow"
+        ],
+        "shadow_presence": "soft_moderate",
+        "overall_contrast": "medium"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#C8A064",
+          "#2A1C10",
+          "#E8D8C0",
+          "#8A6A40",
+          "#161008"
+        ],
+        "palette_role": {
+          "#C8A064": "dominant_kraft_amber",
+          "#2A1C10": "logo_dark_circle",
+          "#E8D8C0": "white_sleeve_light",
+          "#8A6A40": "warm_wood_midtone",
+          "#161008": "shadow_black"
+        },
+        "color_relationship": "warm_monochromatic_amber",
+        "temperature_balance": "warm_dominant",
+        "saturation_strategy": "muted_warm_appetizing",
+        "contrast_type": "soft_medium",
+        "accent_color": "#2A1C10",
+        "accent_ratio": 0.1
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A warm product-insert close-up at eye level, centred in a 16:9 cinematic frame, of a kraft-paper takeout bag being handed across a counter from one person to another inside a cozy restaurant interior. The bag is the hero of the frame: a medium-brown ribbed kraft-paper carrier with twisted paper handles, held upright and facing camera, printed on its front with a single bold dark circular logo badge containing two short stacked lines of rounded Korean characters reading '배민오더' in white knocked out of the dark disc (the brand's pre-order pickup service mark, rendered generically). Two generic hands meet at the bag's handle mid-exchange — a staffer's hand in a white sleeve passing it to a customer's hand entering from the left — capturing the exact beat of receiving an order. The counter edge and a white-sleeved forearm sit in the midground; behind, a warm wooden lattice screen and soft interior pendant lights dissolve into gentle amber bokeh. Lighting is warm and appetizing, roughly 3000K, with a soft front-left key at about a 2.5:1 ratio, a soft edge rim outlining the bag, and soft moderate shadows that make the kraft paper glow invitingly. The palette is warm and nearly monochromatic amber: kraft-paper brown dominant (#C8A064), the dark logo circle (#2A1C10) as a small graphic accent (~10%), bright white sleeve (#E8D8C0), warm wood midtone (#8A6A40) and warm-black shadow (#161008). Lens is a short-telephoto wide open for a very shallow depth of field — the printed logo on the bag tack-sharp while the background melts to creamy warm blur; the shot begins locked then performs a gentle rack focus, the plane of focus shifting off the bag toward the warm interior as the beat resolves. Surfaces: matte ribbed kraft paper and twisted paper handle, natural skin on the exchanging hands, warm wooden lattice behind, all over fine film grain. Atmosphere is intimate, appetizing and warm, a satisfying product handover. The only on-screen text is the brand mark '배민오더' printed on the bag, preserved verbatim as it appears. Korean broadcast-commercial realism: full-frame cinema-camera capture with a slightly compressed, naturalistic look, fine analogue film-adjacent grain, restrained warm-amber color grade, practical-motivated lighting, shallow depth of field, and gentle handheld micro-motion rather than locked-off clinical clarity. Composition follows Korean ad norms — subjects placed on the rule-of-thirds grid with considered breathing room. The frame should read as the clean product-reveal beat of a Korean food-platform commercial — warm, tactile, mouth-watering. Fidelity note: the identity of any individual is entirely generic — no likeness of any real person, actor or celebrity is intended or implied; any logo mark, app glyph, brand wordmark or mascot character is rendered generically and not reproduced as a real trademark. On-screen copy is preserved verbatim only where it actually appears in this frame. Additional production context: this is the clean product-reveal beat, so the kraft takeout bag and its printed circular brand badge must be the unmistakable hero of the frame — sharp, well-lit and appetisingly warm — while the rest falls into shallow-DOF blur. The handover gesture should read as a real, satisfying exchange across a counter, two hands meeting at the twisted-paper handle. The gentle rack focus at the end shifts attention off the bag toward the warm interior, a soft visual exhale after the punchy reveal. Keep the kraft paper's ribbed matte texture and the warm tungsten grade inviting and food-adjacent, never cold or clinical like a studio packshot. The dark logo circle is the single graphic accent against all the warm amber. Background wooden lattice and soft pendant lights stay as warm bokeh. Preserve the printed brand characters crisply legible at the moment of focus. A subtle handheld presence keeps even this insert shot feeling part of the same handheld documentary language as the surrounding narrative.",
+        "t2i_negative": "text caption overlay outside the bag, cool grade, flat lighting, bright clinical product studio, hard shadows, daylight, cartoon, CGI, plastic look, oversaturated, extra graphics",
+        "i2v_motion": "the bag lifts slightly as the two hands complete the handover at the handle; the shot holds then performs a gentle rack focus pulling the plane of focus off the printed logo toward the warm interior behind; shallow DOF; subtle handheld; hard cut out at ~1.1s",
+        "i2v_params": {
+          "clip_duration_sec": 1.08,
+          "camera_move": "static_then_rack_focus",
+          "subject_motion_level": "low_handover_lift",
+          "signature_effect": "rack_focus_shallow_dof",
+          "pacing": "punctuating_beat",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful product reveal; brand mark '배민오더' on bag preserved verbatim, rendered generically (not a real trademark reproduction)"
+      }
+    },
+    {
+      "index": 9,
+      "duration": 1.08,
+      "framing": "MCU",
+      "function": "reaction_awe",
+      "subject_action": "the green-track-jacket man stares off-camera with mouth agape in astonishment, reacting to the hero",
+      "layout_grid": "rule_of_thirds_center",
+      "subject_position": "center",
+      "typo_motion": "none",
+      "camera_angle": "eye_level",
+      "camera_facing": "3/4_front",
+      "shot_scope": "medium_close_up",
+      "gaze": "off_camera_astonished",
+      "props": [
+        "green_track_jacket",
+        "white_chest_stripe"
+      ],
+      "color_palette": [
+        "#2E4A2C",
+        "#E8C098",
+        "#5A3A24",
+        "#1A1208",
+        "#B8884E"
+      ],
+      "color_intent": "warm_amber_with_green_pop_reaction",
+      "pose_description": "leaning back slightly, eyes wide, mouth open in an astonished gasp, eyebrows raised",
+      "subject_motion": "eyebrow_raise_mouth_open_gasp",
+      "camera_motion": "handheld_slight_drift",
+      "camera_effect_local": "shallow_dof_warm_bokeh",
+      "intra_cut_rhythm": "punctuating_beat",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "mid_frame_path": "ADV-2026-046_frames/cut09_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "green_jacket_man_face"
+        ],
+        "midground": [
+          "blurred_seated_neighbor"
+        ],
+        "background": [
+          "warm_lit_interior",
+          "soft_lights"
+        ],
+        "lighting_env": [
+          "warm_tungsten_interior"
+        ],
+        "atmosphere": [
+          "astonishment",
+          "comic_awe",
+          "warm_glow"
+        ]
+      },
+      "texture": {
+        "primary_subject": "matte_skin_natural",
+        "secondary_objects": [
+          "nylon_jacket_sheen"
+        ],
+        "background_surface": "blurred_warm_interior",
+        "atmospheric": [
+          "soft_bokeh",
+          "film_grain"
+        ]
+      },
+      "lighting": {
+        "key_direction": "front_right_soft",
+        "key_hardness": "soft",
+        "key_color_temp": "warm_3000K",
+        "fill_strength": "medium",
+        "key_to_fill_ratio": "2.5:1",
+        "rim_light": "soft_warm_rim",
+        "practical_lights": [
+          "interior_pendant_lights"
+        ],
+        "shadow_presence": "soft_moderate",
+        "overall_contrast": "medium"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#2E4A2C",
+          "#E8C098",
+          "#5A3A24",
+          "#1A1208",
+          "#B8884E"
+        ],
+        "palette_role": {
+          "#2E4A2C": "garment_green_pop",
+          "#E8C098": "skin_warm",
+          "#5A3A24": "interior_brown",
+          "#1A1208": "shadow_warm_black",
+          "#B8884E": "ambient_amber"
+        },
+        "color_relationship": "warm_dominant_with_green_accent",
+        "temperature_balance": "warm_dominant",
+        "saturation_strategy": "muted_warm_with_saturated_green",
+        "contrast_type": "soft_medium",
+        "accent_color": "#2E4A2C",
+        "accent_ratio": 0.2
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A medium close-up at eye level of the same generic young Korean man in his late twenties from earlier, now reacting with open-mouthed astonishment, framed center on the rule-of-thirds grid in a 16:9 cinematic frame inside the warm restaurant lounge. He has short, slightly tousled dark wavy hair and a boyish face; his eyebrows are raised high, his eyes wide, and his mouth hangs open in a comic gasp of disbelief as he stares off-camera toward the unseen hero of the moment. He leans back a fraction, caught mid-reaction. He wears the same forest-green nylon track jacket with a white horizontal chest stripe and zipped collar. Just behind him, softly out of focus, a seated neighbour and the warm interior dissolve into amber blur with round bokeh highlights. Lighting is warm and naturalistic, roughly 3000K, with a soft front-right key at about a 2.5:1 ratio, a faint warm rim on his hair, and soft moderate shadows. The palette is warm-dominant: ambient amber (#B8884E) and interior brown (#5A3A24) midtones, warm peach skin (#E8C098), warm-black shadow (#1A1208), and the saturated forest green of his jacket (#2E4A2C) as the single colour pop (~20%) that keeps him visually anchored. Lens is a short-telephoto portrait focal length wide open for shallow depth of field — his astonished face crisp, the surroundings creamy warm bokeh; a faint handheld drift keeps the frame alive. Surfaces: matte natural skin and glossy nylon jacket over a blurred warm interior, finished with fine film grain. Atmosphere is comic awe — the look of an ordinary onlooker thunderstruck by the hero's confident arrival. No on-screen text or graphics appear in this shot. Korean broadcast-commercial realism: full-frame cinema-camera capture with a slightly compressed, naturalistic look, fine analogue film-adjacent grain, restrained warm-amber color grade, practical-motivated lighting, shallow depth of field, and gentle handheld micro-motion rather than locked-off clinical clarity. Composition follows Korean ad norms — subjects placed on the rule-of-thirds grid with considered breathing room. The frame should read as a punchy, gently comedic reaction beat in a Korean narrative commercial, the wide-eyed gasp selling the spectacle. Fidelity note: the identity of any individual is entirely generic — no likeness of any real person, actor or celebrity is intended or implied; any logo mark, app glyph, brand wordmark or mascot character is rendered generically and not reproduced as a real trademark. On-screen copy is preserved verbatim only where it actually appears in this frame. Additional production context: this is the first beat of the reaction-gasp montage, deliberately mirroring the man's earlier bored frame so the contrast — slack boredom then wide-eyed astonishment — is unmistakable and comic. The performance is big but brief: eyebrows up, eyes wide, jaw dropping in a genuine gasp, the head tipping back a touch. The warm tungsten grade and shallow depth of field match the earlier character shots exactly to preserve continuity, the forest-green jacket again the single colour anchor. Keep the background neighbour and interior as soft warm bokeh so all attention lands on the astonished face. The handheld drift is barely perceptible. Skin keeps natural texture with a soft warm sheen from the front-right key; the cut is short and punchy, a single comedic exclamation point timed to the rhythm of the montage as the crowd collectively registers the hero's impossibly stylish arrival to simply collect a pre-ordered meal.",
+        "t2i_negative": "text overlay, caption, cool grade, flat lighting, neutral expression, studio backdrop, cartoon, CGI, plastic skin, wide-angle distortion",
+        "i2v_motion": "subtle handheld drift; the man's eyebrows shoot up and his jaw drops further into an astonished gasp, head tipping back a fraction, then holding the wide-eyed look; background blurred and still; shallow DOF held; hard cut out at ~1.1s",
+        "i2v_params": {
+          "clip_duration_sec": 1.08,
+          "camera_move": "handheld_micro_drift",
+          "subject_motion_level": "low_gasp_react",
+          "signature_effect": "shallow_dof_warm_bokeh",
+          "pacing": "punctuating_beat",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful reaction beat; identity generic; no on-screen copy in this cut"
+      }
+    },
+    {
+      "index": 10,
+      "duration": 1.08,
+      "framing": "MS",
+      "function": "reaction_awe",
+      "subject_action": "a young couple seated together look up and off-camera in astonishment, phones still loosely in hand, reacting to the hero",
+      "layout_grid": "rule_of_thirds_center",
+      "subject_position": "center",
+      "typo_motion": "none",
+      "camera_angle": "eye_level",
+      "camera_facing": "3/4_front",
+      "shot_scope": "medium_two_shot",
+      "gaze": "up_off_camera_astonished",
+      "props": [
+        "smartphones_in_hands",
+        "brown_jacket",
+        "teal_streaked_hair"
+      ],
+      "color_palette": [
+        "#7A5638",
+        "#E0B890",
+        "#C8A878",
+        "#2A1C12",
+        "#5A7A78"
+      ],
+      "color_intent": "warm_interior_with_cool_hair_accent",
+      "pose_description": "two faces tilted upward side by side, eyes wide, lips parted in awe, phones forgotten in their hands",
+      "subject_motion": "heads_tilt_up_react",
+      "camera_motion": "handheld_slight_drift",
+      "camera_effect_local": "shallow_dof_warm_bokeh",
+      "intra_cut_rhythm": "punctuating_beat",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "mid_frame_path": "ADV-2026-046_frames/cut10_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "young_couple_faces",
+          "phones_in_hands"
+        ],
+        "midground": [
+          "bench_seating",
+          "third_person_blurred"
+        ],
+        "background": [
+          "warm_lattice_screen",
+          "soft_interior_lights"
+        ],
+        "lighting_env": [
+          "warm_tungsten_interior",
+          "soft_practical_glow"
+        ],
+        "atmosphere": [
+          "shared_awe",
+          "warm_intimacy",
+          "spectacle_reaction"
+        ]
+      },
+      "texture": {
+        "primary_subject": "matte_skin_natural",
+        "secondary_objects": [
+          "smartphone_glass",
+          "jacket_fabric"
+        ],
+        "background_surface": "warm_wooden_lattice",
+        "atmospheric": [
+          "soft_bokeh",
+          "film_grain"
+        ]
+      },
+      "lighting": {
+        "key_direction": "front_soft",
+        "key_hardness": "soft",
+        "key_color_temp": "warm_3000K",
+        "fill_strength": "medium",
+        "key_to_fill_ratio": "2.5:1",
+        "rim_light": "soft_warm_rim",
+        "practical_lights": [
+          "interior_pendant_lights",
+          "wall_glow"
+        ],
+        "shadow_presence": "soft_moderate",
+        "overall_contrast": "medium"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#7A5638",
+          "#E0B890",
+          "#C8A878",
+          "#2A1C12",
+          "#5A7A78"
+        ],
+        "palette_role": {
+          "#7A5638": "jacket_brown_dominant",
+          "#E0B890": "skin_warm",
+          "#C8A878": "ambient_amber",
+          "#2A1C12": "shadow_warm_black",
+          "#5A7A78": "teal_hair_accent"
+        },
+        "color_relationship": "warm_dominant_with_cool_hair_accent",
+        "temperature_balance": "warm_dominant",
+        "saturation_strategy": "muted_warm_with_small_cool_pop",
+        "contrast_type": "soft_medium",
+        "accent_color": "#5A7A78",
+        "accent_ratio": 0.06
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A medium two-shot at eye level of a generic young Korean couple seated side by side in the warm restaurant lounge, both tilting their faces up and off-camera in shared astonishment, framed center in a 16:9 cinematic frame. On the left, a person with shoulder-length dark hair; on the right, a person with a dark bob streaked with a cool teal/blue tint at the ends; both have wide eyes and lips parted in awe, their attention yanked upward toward the unseen hero. Each still holds a smartphone loosely in hand, the devices momentarily forgotten — a nice visual beat (phones, the thing that kept them distracted, now dropping as something more impressive arrives). They wear muted brown and earth-toned jackets. Behind and beside them, softly out of focus, bench seating, a third blurred onlooker and a warm wooden lattice screen with soft interior lights dissolve into amber bokeh. Lighting is warm and naturalistic, roughly 3000K, with a soft frontal key at about a 2.5:1 ratio, faint warm rims on the hair, and soft moderate shadows. The palette is warm-dominant: brown jacket (#7A5638) and ambient amber (#C8A878) carrying the frame, warm skin (#E0B890), warm-black shadow (#2A1C12), with the small cool teal hair streak (#5A7A78) as a tiny but deliberate cool accent (~6%) that pops against all the warmth. Lens is a short-telephoto wide open for shallow depth of field — both faces sharp, the background creamy warm bokeh; a faint handheld drift keeps it alive. Surfaces: matte natural skin, smartphone glass catching faint glints, jacket fabric, warm wooden lattice behind, all over fine film grain. Atmosphere is shared, intimate awe — two people simultaneously struck by the spectacle. No on-screen text or graphics appear in this shot. Korean broadcast-commercial realism: full-frame cinema-camera capture with a slightly compressed, naturalistic look, fine analogue film-adjacent grain, restrained warm-amber color grade, practical-motivated lighting, shallow depth of field, and gentle handheld micro-motion rather than locked-off clinical clarity. Composition follows Korean ad norms — subjects placed on the rule-of-thirds grid with considered breathing room. The frame should read as a warm, comedic dual-reaction beat in a Korean narrative commercial, the forgotten phones a quiet punchline. Fidelity note: the identity of any individual is entirely generic — no likeness of any real person, actor or celebrity is intended or implied; any logo mark, app glyph, brand wordmark or mascot character is rendered generically and not reproduced as a real trademark. On-screen copy is preserved verbatim only where it actually appears in this frame. Additional production context: this dual reaction doubles the comedy by having two people struck simultaneously, their forgotten phones a quiet sight-gag — the very devices that kept them distracted now hanging useless as something better arrives. Both performances tilt upward in unison, eyes widening, lips parting in awe. The warm grade and shallow DOF match the rest of the montage; the small cool teal hair-streak is a deliberate tiny accent that keeps the otherwise warm frame from feeling monotonous. Keep both faces sharp and equally weighted on the rule-of-thirds, the background lattice and third onlooker as soft warm bokeh. The handheld drift stays subtle. Phones should catch faint screen or ambient glints to read clearly as phones. Skin textures are natural under the soft frontal key. The beat is short and rhythmic, another comedic exclamation in the montage, selling the spectacle of the hero through the synchronised astonishment of the formerly bored, phone-absorbed line-waiters around her.",
+        "t2i_negative": "text overlay, caption, cool overall grade, flat lighting, neutral expressions, looking at phones, studio backdrop, cartoon, CGI, plastic skin, distortion",
+        "i2v_motion": "subtle handheld drift; both faces tilt up further in unison, eyes widening and lips parting in awe, phones sinking forgotten in their hands; background blurred and still; shallow DOF held; hard cut out at ~1.1s",
+        "i2v_params": {
+          "clip_duration_sec": 1.08,
+          "camera_move": "handheld_micro_drift",
+          "subject_motion_level": "low_look_up_react",
+          "signature_effect": "shallow_dof_warm_bokeh",
+          "pacing": "punctuating_beat",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful dual reaction beat; identities generic; no on-screen copy in this cut"
+      }
+    },
+    {
+      "index": 11,
+      "duration": 1.13,
+      "framing": "MCU",
+      "function": "reaction_awe",
+      "subject_action": "the orange-hoodie young person looks up and off-camera with mouth open in astonishment, reacting to the hero",
+      "layout_grid": "rule_of_thirds_center",
+      "subject_position": "center",
+      "typo_motion": "none",
+      "camera_angle": "eye_level",
+      "camera_facing": "3/4_front",
+      "shot_scope": "medium_close_up",
+      "gaze": "up_off_camera_astonished",
+      "props": [
+        "orange_hoodie",
+        "thin_pendant_necklace"
+      ],
+      "color_palette": [
+        "#D9531E",
+        "#E8B890",
+        "#5A3A24",
+        "#2A1810",
+        "#B8884E"
+      ],
+      "color_intent": "warm_amber_with_orange_pop_reaction",
+      "pose_description": "head tilted up, eyes wide, mouth open in an astonished gasp, eyebrows raised",
+      "subject_motion": "look_up_mouth_open_gasp",
+      "camera_motion": "handheld_slight_drift",
+      "camera_effect_local": "shallow_dof_warm_bokeh",
+      "intra_cut_rhythm": "punctuating_beat",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "mid_frame_path": "ADV-2026-046_frames/cut11_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "orange_hoodie_person_face"
+        ],
+        "midground": [
+          "blurred_seated_neighbor"
+        ],
+        "background": [
+          "warm_lit_interior",
+          "soft_lights"
+        ],
+        "lighting_env": [
+          "warm_tungsten_interior"
+        ],
+        "atmosphere": [
+          "astonishment",
+          "comic_awe",
+          "warm_glow"
+        ]
+      },
+      "texture": {
+        "primary_subject": "matte_skin_natural",
+        "secondary_objects": [
+          "cotton_hoodie_fleece",
+          "thin_necklace"
+        ],
+        "background_surface": "blurred_warm_interior",
+        "atmospheric": [
+          "soft_bokeh",
+          "film_grain"
+        ]
+      },
+      "lighting": {
+        "key_direction": "front_left_soft",
+        "key_hardness": "soft",
+        "key_color_temp": "warm_3000K",
+        "fill_strength": "medium",
+        "key_to_fill_ratio": "2.5:1",
+        "rim_light": "soft_warm_rim",
+        "practical_lights": [
+          "interior_pendant_lights"
+        ],
+        "shadow_presence": "soft_moderate",
+        "overall_contrast": "medium"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#D9531E",
+          "#E8B890",
+          "#5A3A24",
+          "#2A1810",
+          "#B8884E"
+        ],
+        "palette_role": {
+          "#D9531E": "garment_orange_pop",
+          "#E8B890": "skin_warm",
+          "#5A3A24": "interior_brown",
+          "#2A1810": "shadow_warm_black",
+          "#B8884E": "ambient_amber"
+        },
+        "color_relationship": "warm_analogous_orange_amber",
+        "temperature_balance": "warm_dominant",
+        "saturation_strategy": "muted_warm_with_saturated_orange",
+        "contrast_type": "soft_medium",
+        "accent_color": "#D9531E",
+        "accent_ratio": 0.32
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A medium close-up at eye level of the same generic young Korean person in the bright orange hoodie from earlier, now reacting with open-mouthed astonishment, framed center on the rule-of-thirds grid in a 16:9 cinematic frame inside the warm restaurant lounge. They have a short dark bob with blunt bangs and soft natural features; their head is tilted up, eyes wide, eyebrows raised, and mouth open in a comic gasp as they stare up and off-camera toward the unseen hero — a complete reversal of their earlier weary, downcast boredom. They wear the same saturated orange pullover hoodie with a thin pendant necklace. Just behind, softly out of focus, a seated neighbour and the warm interior dissolve into amber blur with round bokeh. Lighting is warm and naturalistic, roughly 3000K, with a soft front-left key at about a 2.5:1 ratio, a gentle warm rim on the hair, and soft moderate shadows. The palette is warm and analogous: the saturated orange hoodie (#D9531E) dominates as the colour pop (~32%), tying into ambient amber (#B8884E) and warm peach skin (#E8B890), grounded by interior brown (#5A3A24) and warm-black shadow (#2A1810). Lens is a short-telephoto portrait focal length wide open for shallow depth of field — the astonished face crisp, the surroundings creamy warm bokeh; a faint handheld drift keeps the frame alive. Surfaces: matte natural skin, soft cotton-fleece hoodie, thin metal necklace, over a blurred warm interior with fine film grain. Atmosphere is comic awe — the formerly bored onlooker now agog. No on-screen text or graphics appear in this shot. Korean broadcast-commercial realism: full-frame cinema-camera capture with a slightly compressed, naturalistic look, fine analogue film-adjacent grain, restrained warm-amber color grade, practical-motivated lighting, shallow depth of field, and gentle handheld micro-motion rather than locked-off clinical clarity. Composition follows Korean ad norms — subjects placed on the rule-of-thirds grid with considered breathing room. The frame should read as the last punchy reaction beat of the awe montage in a Korean narrative commercial, the saturated hoodie anchoring the gasp. Fidelity note: the identity of any individual is entirely generic — no likeness of any real person, actor or celebrity is intended or implied; any logo mark, app glyph, brand wordmark or mascot character is rendered generically and not reproduced as a real trademark. On-screen copy is preserved verbatim only where it actually appears in this frame. Additional production context: this is the closing beat of the reaction montage and the clearest single reversal — the same orange-hoodie subject who slumped in sullen boredom earlier now agog, head up, mouth open in a comic gasp. The saturated orange hoodie is again the graphic anchor and must hold its punchy colour. The performance is a quick, big astonished beat timed to the montage rhythm. The warm tungsten grade, soft front-left key with hair rim, and shallow depth of field all match the earlier shot of this character precisely for continuity, so only the expression has flipped. Keep the seated neighbour and interior as soft warm bokeh behind. The handheld drift is minimal. Skin retains natural matte texture under the warm key. As the last gasp before the spectacle climax, this frame should land like the final beat of a comic drumroll, the crowd's collective disbelief fully established and ready to pay off in the wide runway reveal that follows.",
+        "t2i_negative": "text overlay, caption, cool grade, flat lighting, bored downcast expression, studio backdrop, cartoon, CGI, plastic skin, distortion",
+        "i2v_motion": "subtle handheld drift; the person's head tilts up further, eyes widening and jaw dropping into an astonished gasp, then holding; background blurred and still; shallow DOF held; hard cut out at ~1.1s",
+        "i2v_params": {
+          "clip_duration_sec": 1.13,
+          "camera_move": "handheld_micro_drift",
+          "subject_motion_level": "low_look_up_gasp",
+          "signature_effect": "shallow_dof_warm_bokeh",
+          "pacing": "punctuating_beat",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful reaction beat; identity generic; no on-screen copy in this cut"
+      }
+    },
+    {
+      "index": 12,
+      "duration": 3.75,
+      "framing": "WS",
+      "function": "hero_spectacle_climax",
+      "subject_action": "the silver-haired woman walks the full length of a glowing wood-floored runway aisle between two rows of seated onlookers holding takeout bags, hazy golden light blooming",
+      "layout_grid": "symmetrical_runway_corridor_vanishing",
+      "subject_position": "center",
+      "typo_motion": "none",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal_approaching",
+      "shot_scope": "wide_full_figure_environment",
+      "gaze": "forward_confident",
+      "props": [
+        "gold_patterned_jacket",
+        "rows_of_seated_onlookers",
+        "takeout_bags_on_laps",
+        "wood_floor_runway"
+      ],
+      "color_palette": [
+        "#C8893A",
+        "#E8B860",
+        "#6E4A28",
+        "#3A2A1A",
+        "#1A1008"
+      ],
+      "color_intent": "golden_hazy_runway_spectacle",
+      "pose_description": "full-figure confident catwalk stride down the centre aisle, arms relaxed, chin up, onlookers seated symmetrically on both sides",
+      "subject_motion": "confident_runway_walk_forward",
+      "camera_motion": "handheld_slow_push_in",
+      "camera_effect_local": "volumetric_golden_haze_bloom",
+      "intra_cut_rhythm": "sustained_climax",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "mid_frame_path": "ADV-2026-046_frames/cut12_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "runway_floor",
+          "seated_onlookers_rows"
+        ],
+        "midground": [
+          "silver_haired_woman_striding",
+          "takeout_bags_on_laps"
+        ],
+        "background": [
+          "glowing_corridor_end",
+          "warm_wall_lamps",
+          "volumetric_haze"
+        ],
+        "lighting_env": [
+          "warm_volumetric_spotlight",
+          "practical_wall_lamps",
+          "hazy_glow"
+        ],
+        "atmosphere": [
+          "fashion_runway_spectacle",
+          "golden_haze",
+          "reverent_attention"
+        ]
+      },
+      "texture": {
+        "primary_subject": "metallic_gold_jacket_and_silver_hair",
+        "secondary_objects": [
+          "kraft_bags",
+          "wood_floor_sheen",
+          "onlooker_garments"
+        ],
+        "background_surface": "warm_glowing_haze",
+        "atmospheric": [
+          "volumetric_beams",
+          "soft_grain"
+        ]
+      },
+      "lighting": {
+        "key_direction": "back_and_top_volumetric",
+        "key_hardness": "soft_diffused",
+        "key_color_temp": "warm_3200K",
+        "fill_strength": "low_medium",
+        "key_to_fill_ratio": "3.5:1",
+        "rim_light": "warm_full_body_rim",
+        "practical_lights": [
+          "corridor_wall_lamps",
+          "ceiling_downlights"
+        ],
+        "shadow_presence": "soft_long_warm",
+        "overall_contrast": "medium_high_golden"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#C8893A",
+          "#E8B860",
+          "#6E4A28",
+          "#3A2A1A",
+          "#1A1008"
+        ],
+        "palette_role": {
+          "#C8893A": "dominant_golden_amber",
+          "#E8B860": "spotlight_highlight",
+          "#6E4A28": "warm_wood_midtone",
+          "#3A2A1A": "shadow_brown",
+          "#1A1008": "shadow_black"
+        },
+        "color_relationship": "monochromatic_warm_golden",
+        "temperature_balance": "warm_dominant_opulent",
+        "saturation_strategy": "rich_golden_hazy",
+        "contrast_type": "medium_high_volumetric",
+        "accent_color": "#E8B860",
+        "accent_ratio": 0.35
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A wide, full-figure environmental frame at eye level, composed as a perfectly symmetrical runway corridor in a 16:9 cinematic frame, of a generic elegant older Korean woman walking the full length of a glowing wood-floored aisle toward camera while two facing rows of seated onlookers watch her like an audience at a fashion show. She has long straight silver-grey hair and wears an opulent gold patterned metallic jacket and matching trousers with white sneakers; she walks with a confident, relaxed catwalk stride, chin up, arms loose, dead-centre on the vanishing-point axis of the corridor. Down both sides, generic onlookers of mixed ages sit on benches in rows, many with kraft-paper takeout bags resting on their laps, heads turned reverently toward her. The corridor recedes to a warm glowing end wall with practical wall lamps and ceiling downlights; the whole space is flooded with volumetric warm light haze — thick golden beams (#C8893A, #E8B860) blooming around her and down the aisle, the wood floor sheening with reflected glow. Lighting is warm and theatrical, roughly 3200K, keyed from back-and-top volumetric sources at about a 3.5:1 ratio with low-medium fill, a warm full-body rim outlining her, and soft long warm shadows. The palette is a rich, nearly monochromatic golden amber: dominant golden amber (#C8893A) and spotlight highlight (#E8B860, together ~35% of frame), warm wood midtone (#6E4A28), and brown-to-black shadows (#3A2A1A, #1A1008) — opulent, hazy, celebratory. Lens is a normal-to-wide focal length with the haze diffusing everything into a glowing, dreamlike atmosphere and a deep enough field that the rows and the corridor end stay legible; a slow handheld push-in gradually advances down the runway toward her. Surfaces: gleaming metallic gold outfit and silvery hair, matte kraft takeout bags, sheened wood floor, varied onlooker garments, all wrapped in volumetric beams and soft grain. Atmosphere is full fashion-runway spectacle — the ordinary act of picking up an order elevated into a glamorous catwalk. No on-screen text or graphics appear in this shot. Korean broadcast-commercial realism: full-frame cinema-camera capture with a slightly compressed, naturalistic look, fine analogue film-adjacent grain, restrained warm-amber color grade, practical-motivated lighting, shallow depth of field, and gentle handheld micro-motion rather than locked-off clinical clarity. Composition follows Korean ad norms — subjects placed on the rule-of-thirds grid with considered breathing room. The frame should read as the sustained, hazy spectacle climax of a Korean commercial's hero walk — golden, reverent, larger-than-life. Fidelity note: the identity of any individual is entirely generic — no likeness of any real person, actor or celebrity is intended or implied; any logo mark, app glyph, brand wordmark or mascot character is rendered generically and not reproduced as a real trademark. On-screen copy is preserved verbatim only where it actually appears in this frame. Additional production context: this is the WOW spectacle climax, the single most produced frame of the spot, so the symmetrical runway composition and the volumetric golden haze must be fully committed — a perfectly centred corridor with the hero walking the vanishing-point axis, the warm beams blooming thick around her and down the aisle, the wood floor sheening with reflected glow. The two facing rows of seated onlookers, many cradling kraft takeout bags on their laps, are the audience of this absurd catwalk, all reverently watching. Her stride is confident and unhurried. The slow handheld push-in advances down the runway, increasing grandeur. Keep the haze soft and atmospheric rather than a hard flare, and let the rich golden grade carry the celebratory, larger-than-life mood while preserving legibility of the rows and corridor end. Grain stays fine. The whole frame plays the fashion-runway metaphor completely straight, finding the comedy in treating an ordinary food pickup with the gravity and spectacle of a luxury fashion show, which is exactly the joke the commercial is building toward.",
+        "t2i_negative": "text overlay, caption, flat frontal lighting, cool grade, daylight, no haze, asymmetrical messy composition, studio seamless backdrop, cartoon, CGI, plastic skin, star lens flare",
+        "i2v_motion": "slow steady handheld push-in advancing down the runway as the silver-haired woman strides confidently toward camera in a catwalk rhythm, gold jacket gleaming, volumetric golden beams swirling and blooming, seated onlookers on both sides turning to track her; haze breathing throughout the held 3.75s; hard cut out",
+        "i2v_params": {
+          "clip_duration_sec": 3.75,
+          "camera_move": "handheld_slow_push_in",
+          "subject_motion_level": "medium_runway_walk",
+          "signature_effect": "volumetric_golden_haze_bloom",
+          "pacing": "sustained_climax",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful spectacle climax wide; identities generic; no on-screen copy in this cut"
+      }
+    },
+    {
+      "index": 13,
+      "duration": 2.17,
+      "framing": "CU",
+      "function": "hero_emotional_payoff",
+      "subject_action": "the silver-haired woman faces camera with a warm confident closed-mouth smile, over-ear headphones resting around her neck, hair catching warm light",
+      "layout_grid": "centered_portrait",
+      "subject_position": "center",
+      "typo_motion": "none",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "close_up_face",
+      "gaze": "toward_camera_warm",
+      "props": [
+        "over_ear_headphones_around_neck",
+        "gold_patterned_jacket",
+        "disc_necklace",
+        "hoop_earrings"
+      ],
+      "color_palette": [
+        "#C8932E",
+        "#E8C078",
+        "#6E4A2A",
+        "#E0BC98",
+        "#1A1208"
+      ],
+      "color_intent": "warm_golden_confident_portrait",
+      "pose_description": "facing camera, chin slightly lifted, warm closed-mouth smile, eyes soft and self-assured, hair framing face",
+      "subject_motion": "subtle_smile_and_hair_sway",
+      "camera_motion": "handheld_slight_drift",
+      "camera_effect_local": "warm_bokeh_shallow_dof",
+      "intra_cut_rhythm": "settling_warm",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "mid_frame_path": "ADV-2026-046_frames/cut13_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "silver_haired_woman_face",
+          "headphones_around_neck"
+        ],
+        "midground": [
+          "blurred_onlooker"
+        ],
+        "background": [
+          "warm_glowing_interior",
+          "soft_lamps",
+          "hazy_light"
+        ],
+        "lighting_env": [
+          "warm_tungsten_glow",
+          "soft_practical_lamps"
+        ],
+        "atmosphere": [
+          "confident_warmth",
+          "satisfied_glamour",
+          "golden_glow"
+        ]
+      },
+      "texture": {
+        "primary_subject": "smooth_mature_skin_and_silver_hair",
+        "secondary_objects": [
+          "matte_headphone_cushions",
+          "metallic_jacket_collar",
+          "gold_necklace"
+        ],
+        "background_surface": "warm_blurred_interior",
+        "atmospheric": [
+          "golden_bokeh",
+          "soft_grain"
+        ]
+      },
+      "lighting": {
+        "key_direction": "front_left_warm",
+        "key_hardness": "soft",
+        "key_color_temp": "warm_3200K",
+        "fill_strength": "medium",
+        "key_to_fill_ratio": "2.5:1",
+        "rim_light": "warm_hair_rim",
+        "practical_lights": [
+          "interior_lamps",
+          "ambient_glow"
+        ],
+        "shadow_presence": "soft_warm",
+        "overall_contrast": "medium"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#C8932E",
+          "#E8C078",
+          "#6E4A2A",
+          "#E0BC98",
+          "#1A1208"
+        ],
+        "palette_role": {
+          "#C8932E": "jacket_gold_dominant",
+          "#E8C078": "warm_highlight",
+          "#6E4A2A": "warm_brown_midtone",
+          "#E0BC98": "skin_warm",
+          "#1A1208": "shadow_warm_black"
+        },
+        "color_relationship": "monochromatic_warm_gold",
+        "temperature_balance": "warm_dominant",
+        "saturation_strategy": "rich_warm_golden",
+        "contrast_type": "soft_medium_golden",
+        "accent_color": "#E8C078",
+        "accent_ratio": 0.3
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A warm close-up portrait at eye level of a generic, elegant older Korean woman in her fifties or sixties facing camera with a confident, satisfied closed-mouth smile, centred in a 16:9 cinematic frame inside a glowing warm interior. She has long, straight silver-grey hair framing her face, refined features with soft eyes and red lipstick, and large gold hoop earrings. A pair of over-ear headphones rests casually around her neck, lending her a stylish, contemporary cool; below them sit a bold gold disc necklace and the collar of her gold patterned metallic jacket. Her chin is slightly lifted and her expression radiates quiet self-assurance and warmth, as if she has just shown everyone how it is done. Behind her, softly out of focus, a blurred onlooker and warm interior lamps dissolve into golden bokeh and gentle haze. Lighting is warm and flattering, roughly 3200K, with a soft front-left warm key at about a 2.5:1 ratio, a warm rim along her silver hair, and soft warm shadows that model her face gently. The palette is a rich, nearly monochromatic gold: jacket gold dominant (#C8932E) with warm highlight (#E8C078, together ~30% of frame), warm brown midtone (#6E4A2A), warm skin (#E0BC98) and warm-black shadow (#1A1208) — golden, intimate, celebratory. Lens is a short-telephoto portrait focal length wide open for a very shallow depth of field that keeps her face crisp while the background melts into creamy golden bokeh; a faint handheld drift keeps it breathing. Surfaces: smooth mature skin and silvery hair, matte headphone ear-cushions, polished gold necklace and metallic jacket collar, over a warm blurred interior with soft grain. Atmosphere is confident warmth and satisfied glamour — the emotional payoff of the hero's moment. No on-screen text or graphics appear in this shot. Korean broadcast-commercial realism: full-frame cinema-camera capture with a slightly compressed, naturalistic look, fine analogue film-adjacent grain, restrained warm-amber color grade, practical-motivated lighting, shallow depth of field, and gentle handheld micro-motion rather than locked-off clinical clarity. Composition follows Korean ad norms — subjects placed on the rule-of-thirds grid with considered breathing room. The frame should read as the warm, glowing hero close-up that lands the commercial's emotional beat — assured, stylish, content. Fidelity note: the identity of any individual is entirely generic — no likeness of any real person, actor or celebrity is intended or implied; any logo mark, app glyph, brand wordmark or mascot character is rendered generically and not reproduced as a real trademark. On-screen copy is preserved verbatim only where it actually appears in this frame. Additional production context: this warm hero close-up lands the emotional payoff, so her confident, satisfied closed-mouth smile must feel genuine and earned — the look of someone who has just shown the whole room the easier, smarter way. The over-ear headphones around her neck read as casual contemporary cool, and the gold disc necklace and metallic jacket collar keep the glamour. The grade is rich, golden and intimate, the background dissolving into warm bokeh and gentle haze. The handheld drift keeps it breathing. Her silver hair stays luminous and distinct against the gold, lit by a soft warm front-left key with a hair rim, shadows soft and warm. Skin is rendered with natural mature texture, flattered but not smoothed. This is the human warmth that grounds the absurd runway gag, letting the viewer share her quiet satisfaction before the commercial pivots to the practical phone-UI demonstration and the kinetic-typography copy that explain the feature behind the fantasy.",
+        "t2i_negative": "text overlay, caption, cool grade, flat lighting, harsh shadows, neutral or frowning expression, daylight, studio backdrop, cartoon, CGI, plastic skin, oversharpened",
+        "i2v_motion": "faint handheld drift; the silver-haired woman holds and gently deepens her confident closed-mouth smile, hair swaying a touch, a slow satisfied blink; background golden bokeh shimmers; shallow DOF held; hard cut out at ~2.2s",
+        "i2v_params": {
+          "clip_duration_sec": 2.17,
+          "camera_move": "handheld_micro_drift",
+          "subject_motion_level": "low_smile_hold",
+          "signature_effect": "warm_golden_bokeh",
+          "pacing": "settling_warm",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful hero payoff close-up; identity generic; no on-screen copy in this cut"
+      }
+    },
+    {
+      "index": 14,
+      "duration": 4.8,
+      "framing": "MS",
+      "function": "product_demo_ui_copy",
+      "subject_action": "a hand holds a smartphone running the food-delivery app (map → restaurant page '우아한 치킨' → order/cart screen) at frame-left while bold kinetic Korean copy builds line-by-line at frame-right",
+      "layout_grid": "split_left_device_right_typography",
+      "subject_position": "left_third",
+      "typo_motion": "line_by_line_build_in",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal_device",
+      "shot_scope": "medium_phone_in_hand",
+      "gaze": "na_device_demo",
+      "props": [
+        "smartphone_running_app",
+        "app_map_screen",
+        "restaurant_listing_ui",
+        "order_cart_ui"
+      ],
+      "color_palette": [
+        "#1A1A1A",
+        "#3DBE9A",
+        "#E8F0E8",
+        "#9AC8A8",
+        "#0E0E0E"
+      ],
+      "color_intent": "dark_bg_with_mint_app_glow_and_typo",
+      "pose_description": "a hand holds the phone upright at frame-left, screen facing camera; dark blurred night background; clean copy stacked at right",
+      "subject_motion": "phone_screen_ui_transitions_slight_hand_hold",
+      "camera_motion": "static_locked_with_micro_drift",
+      "camera_effect_local": "screen_ui_glow_kinetic_typography",
+      "intra_cut_rhythm": "staccato_typo_build",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "mid_frame_path": "ADV-2026-046_frames/cut14_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "smartphone_in_hand",
+          "app_ui_screen",
+          "kinetic_korean_typography"
+        ],
+        "midground": [
+          "holding_hand_wrist"
+        ],
+        "background": [
+          "dark_blurred_night_bokeh"
+        ],
+        "lighting_env": [
+          "screen_self_glow",
+          "dim_ambient_night"
+        ],
+        "atmosphere": [
+          "product_demonstration",
+          "clean_graphic_clarity",
+          "dark_negative_space"
+        ]
+      },
+      "texture": {
+        "primary_subject": "glossy_phone_screen_ui",
+        "secondary_objects": [
+          "skin_hand",
+          "phone_glass_edge"
+        ],
+        "background_surface": "dark_defocused_bokeh",
+        "atmospheric": [
+          "screen_glow",
+          "soft_grain"
+        ]
+      },
+      "lighting": {
+        "key_direction": "screen_self_emission_front",
+        "key_hardness": "soft_glow",
+        "key_color_temp": "mixed_screen_cool_ambient_warm",
+        "fill_strength": "very_low",
+        "key_to_fill_ratio": "high_screen_dominant",
+        "rim_light": "faint_night_rim",
+        "practical_lights": [
+          "smartphone_screen",
+          "distant_night_lights"
+        ],
+        "shadow_presence": "deep_dark_background",
+        "overall_contrast": "high_screen_vs_dark"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#1A1A1A",
+          "#3DBE9A",
+          "#E8F0E8",
+          "#9AC8A8",
+          "#0E0E0E"
+        ],
+        "palette_role": {
+          "#1A1A1A": "dominant_dark_bg",
+          "#3DBE9A": "brand_mint_accent_typo",
+          "#E8F0E8": "app_screen_light",
+          "#9AC8A8": "app_mint_ui_tint",
+          "#0E0E0E": "shadow_black"
+        },
+        "color_relationship": "dark_field_with_mint_accent",
+        "temperature_balance": "neutral_dark_with_cool_mint",
+        "saturation_strategy": "high_contrast_graphic_mint_pop",
+        "contrast_type": "hard_graphic",
+        "accent_color": "#3DBE9A",
+        "accent_ratio": 0.18
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A clean, graphic medium product-demo frame in a 16:9 cinematic composition, split into two zones: at frame-left a generic hand holds a modern bezel-less smartphone upright with its screen facing camera, and at frame-right bold Korean kinetic typography is stacked over a dark, deep negative-space background. The smartphone runs a food-delivery ordering app with a clean mint-green-and-white interface: across this cut the screen progresses from a map/store-list view, to a restaurant listing page headed by the dish name '우아한 치킨' with a 5.0 star rating and food photos, to an order/cart screen with menu line-items and a prominent mint pickup-order button at the bottom — a concise demonstration of pre-ordering for pickup. The phone glass glows with the bright app UI (#E8F0E8 whites, #9AC8A8 and #3DBE9A mint tints) and is the dominant light source, self-illuminating the holding hand against an almost black, defocused night background (#1A1A1A, #0E0E0E) studded with a few soft bokeh night lights. On the right two-thirds, large rounded geometric Korean sans-serif copy animates in line by line: the verbatim on-screen lines read '미리 주문하면' (top), then '바로 받아가는' beneath it, then a punchy accent line '손 안의 오더' set in the brand mint green — the copy building to its payoff as the cut progresses. Lighting is driven almost entirely by the screen's self-emission, soft and frontal, with very low ambient fill and deep dark shadows, yielding a high-contrast graphic look of glowing device and typography against black. The palette is a dark field with a mint accent: dark background dominant (#1A1A1A), brand mint (#3DBE9A) carrying the accent line and UI highlights (~18%), bright app whites (#E8F0E8) and mint UI tint (#9AC8A8). Lens is a normal focal length, the phone and typography crisp with a shallow-DOF dark blur behind; the camera is essentially locked with only a micro handheld drift. Surfaces: glossy glowing phone screen, smooth skin on the holding hand, phone glass edge catching a thin highlight, deep defocused dark background, fine grain. Atmosphere is a clean, modern product demonstration carved out of dark negative space. The on-screen copy and the app dish name are preserved verbatim exactly as written: '우아한 치킨', '미리 주문하면', '바로 받아가는', '손 안의 오더'. Korean broadcast-commercial realism: full-frame cinema-camera capture with a slightly compressed, naturalistic look, fine analogue film-adjacent grain, restrained warm-amber color grade, practical-motivated lighting, shallow depth of field, and gentle handheld micro-motion rather than locked-off clinical clarity. Composition follows Korean ad norms — subjects placed on the rule-of-thirds grid with considered breathing room. The frame should read as the crisp product-and-typography demo beat of a Korean food-platform commercial, kinetic copy doing the selling. Panel decomposition: LEFT ~0-45% width = phone-in-hand with the live app UI; RIGHT ~50-100% width = stacked kinetic Korean copy on black; the two zones share one dark continuous background. Fidelity note: the identity of any individual is entirely generic — no likeness of any real person, actor or celebrity is intended or implied; any logo mark, app glyph, brand wordmark or mascot character is rendered generically and not reproduced as a real trademark. On-screen copy is preserved verbatim only where it actually appears in this frame. Additional production context: this product-and-copy demo is where the commercial gets literal about the feature, so the phone screen must be clearly legible and the app UI clean and bright against the dark negative space, the device self-illuminating the holding hand. The kinetic Korean copy on the right must animate in crisply, line by line, in the brand's signature rounded display lettering, the accent line set in brand mint. Keep the background almost black with only a few soft night bokeh points so the glowing screen and the typography own the frame. The micro handheld drift keeps it from feeling like a flat motion-graphics card while still reading as a controlled demo. Preserve the app's mint-and-white palette and the verbatim on-screen Korean exactly as written. The high contrast between the bright device/type and the dark field is the entire graphic strategy of the beat and must be maintained, giving the copy maximum punch as it builds to its 'order in your hand' payoff line.",
+        "t2i_negative": "english translated caption, wrong language text, bright daylight background, busy colourful background, flat lighting, no screen glow, studio backdrop, cartoon, CGI, plastic, oversaturated, distorted phone",
+        "i2v_motion": "phone held nearly still with a micro handheld drift; the app screen transitions from map to the '우아한 치킨' restaurant page to the order/cart screen; on the right the Korean copy builds line by line — '미리 주문하면' appears, then '바로 받아가는', then the mint accent line '손 안의 오더' pops in — staccato kinetic-typography rhythm across the full 4.8s; hard cut out",
+        "i2v_params": {
+          "clip_duration_sec": 4.8,
+          "camera_move": "static_locked_micro_drift",
+          "subject_motion_level": "low_screen_ui_transitions",
+          "signature_effect": "kinetic_typography_screen_glow",
+          "pacing": "staccato_typo_build",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful product+copy demo; on-screen app text and captions ('우아한 치킨','미리 주문하면','바로 받아가는','손 안의 오더') preserved verbatim; app UI/logo rendered generically (not a real trademark reproduction)"
+      },
+      "panel_layout": [
+        {
+          "rect_pct": [
+            0.0,
+            0.0,
+            0.48,
+            1.0
+          ],
+          "size_ratio": 0.48,
+          "content": "hand holding smartphone with live food-delivery app UI (map / '우아한 치킨' restaurant page / order-cart screen)",
+          "text_in_panel": "우아한 치킨",
+          "divider": "soft_focus_falloff",
+          "type": "live_device_ui"
+        },
+        {
+          "rect_pct": [
+            0.5,
+            0.0,
+            0.5,
+            1.0
+          ],
+          "size_ratio": 0.5,
+          "content": "stacked kinetic Korean copy building line by line on dark negative space",
+          "text_in_panel": "미리 주문하면 / 바로 받아가는 / 손 안의 오더",
+          "divider": "none_shared_dark_bg",
+          "type": "kinetic_typography"
+        }
+      ]
+    },
+    {
+      "index": 15,
+      "duration": 1.88,
+      "framing": "MS",
+      "function": "tagline_with_hero_and_device",
+      "subject_action": "the silver-haired woman, on a night street, holds up her phone showing the delivery-app splash screen and gives a knowing smile to camera while bold copy '요즘은 / 이렇게 / 삽니다' stacks at frame-left",
+      "layout_grid": "split_left_typography_right_subject",
+      "subject_position": "right",
+      "typo_motion": "line_by_line_build_in",
+      "camera_angle": "eye_level",
+      "camera_facing": "3/4_front",
+      "shot_scope": "medium_shot",
+      "gaze": "toward_camera_knowing",
+      "props": [
+        "smartphone_app_splash_screen",
+        "gold_patterned_jacket",
+        "hoop_earrings",
+        "night_street_bokeh"
+      ],
+      "color_palette": [
+        "#1A2230",
+        "#3DBE9A",
+        "#C8932E",
+        "#E0BC98",
+        "#0C0E14"
+      ],
+      "color_intent": "night_street_with_mint_screen_and_typo",
+      "pose_description": "standing on a night street, body angled, holding phone up beside her face, knowing half-smile to camera",
+      "subject_motion": "hold_phone_and_smile",
+      "camera_motion": "handheld_slight_drift",
+      "camera_effect_local": "night_bokeh_screen_glow_kinetic_typo",
+      "intra_cut_rhythm": "staccato_typo_build",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "mid_frame_path": "ADV-2026-046_frames/cut15_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "silver_haired_woman",
+          "held_smartphone_app_splash",
+          "kinetic_korean_typography"
+        ],
+        "midground": [
+          "night_street_setting"
+        ],
+        "background": [
+          "blurred_storefront_night_lights",
+          "bokeh_signage"
+        ],
+        "lighting_env": [
+          "dim_night_street",
+          "warm_signage_glow",
+          "phone_screen_glow"
+        ],
+        "atmosphere": [
+          "confident_lifestyle_statement",
+          "night_city",
+          "knowing_charm"
+        ]
+      },
+      "texture": {
+        "primary_subject": "metallic_gold_jacket_and_silver_hair",
+        "secondary_objects": [
+          "glossy_phone_screen",
+          "skin"
+        ],
+        "background_surface": "dark_defocused_night_bokeh",
+        "atmospheric": [
+          "warm_bokeh_lights",
+          "soft_grain"
+        ]
+      },
+      "lighting": {
+        "key_direction": "front_soft_with_screen_fill",
+        "key_hardness": "soft",
+        "key_color_temp": "mixed_warm_ambient_cool_screen",
+        "fill_strength": "low_medium",
+        "key_to_fill_ratio": "3:1",
+        "rim_light": "warm_signage_rim",
+        "practical_lights": [
+          "street_signage",
+          "smartphone_screen",
+          "storefront_lights"
+        ],
+        "shadow_presence": "soft_deep_night",
+        "overall_contrast": "medium_high_night"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#1A2230",
+          "#3DBE9A",
+          "#C8932E",
+          "#E0BC98",
+          "#0C0E14"
+        ],
+        "palette_role": {
+          "#1A2230": "dominant_night_blue",
+          "#3DBE9A": "brand_mint_typo_and_screen",
+          "#C8932E": "gold_jacket_warm",
+          "#E0BC98": "skin_warm",
+          "#0C0E14": "shadow_black"
+        },
+        "color_relationship": "cool_night_with_mint_and_warm_subject",
+        "temperature_balance": "cool_night_warm_subject",
+        "saturation_strategy": "moody_night_with_mint_and_gold_pops",
+        "contrast_type": "medium_high_night",
+        "accent_color": "#3DBE9A",
+        "accent_ratio": 0.16
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A medium frame at eye level of a generic, elegant older Korean woman with long silver-grey hair standing on a dim night city street, holding her smartphone up beside her face and giving a knowing, confident half-smile straight to camera, framed at the right side of a 16:9 cinematic composition with bold Korean kinetic typography stacked down the left. She wears the same opulent gold patterned metallic jacket and large gold hoop earrings; the phone she holds up displays the food-delivery app's launch/splash screen — a mint-green field bearing a wordmark and a small cartoon delivery-rider mascot character (rendered generically) on a scooter. Behind her, the night street dissolves into soft warm bokeh from blurred storefront lights and signage. On the left two-thirds, large rounded geometric Korean sans-serif copy animates in line by line, stacked vertically: the verbatim on-screen lines read '요즘은' (top), '이렇게' (middle), '삽니다' (bottom), set in bright brand mint green — a confident lifestyle-statement tagline ('these days, this is how we live'). Lighting is a moody night mix: a soft warm key on her face at about a 3:1 ratio, a warm signage rim, plus cool fill spilling from the phone screen, with soft deep night shadows. The palette is cool night blue dominant (#1A2230) against warm subject tones — the gold jacket (#C8932E) and warm skin (#E0BC98) — with the brand mint (#3DBE9A) carrying both the typography and the phone screen as the unifying accent (~16%), and crushed blacks (#0C0E14). Lens is a short-telephoto wide open for shallow depth of field, the woman and her phone and the type crisp while the street melts into warm night bokeh; a faint handheld drift keeps the frame alive. Surfaces: gleaming metallic gold jacket and silver hair, glossy glowing phone screen, natural skin, dark defocused night background, fine grain. Atmosphere is a confident, charming lifestyle statement set against a stylish night city. The on-screen copy is preserved verbatim exactly as stacked: '요즘은', '이렇게', '삽니다'. Korean broadcast-commercial realism: full-frame cinema-camera capture with a slightly compressed, naturalistic look, fine analogue film-adjacent grain, restrained warm-amber color grade, practical-motivated lighting, shallow depth of field, and gentle handheld micro-motion rather than locked-off clinical clarity. Composition follows Korean ad norms — subjects placed on the rule-of-thirds grid with considered breathing room. The frame should read as the tagline beat of a Korean food-platform commercial, the hero and her phone presenting the new normal with a wink. Panel decomposition: LEFT ~0-45% width = stacked kinetic Korean tagline on dark night field; RIGHT ~50-100% width = the silver-haired woman holding the mint app-splash phone; the two zones share one continuous night background. Fidelity note: the identity of any individual is entirely generic — no likeness of any real person, actor or celebrity is intended or implied; any logo mark, app glyph, brand wordmark or mascot character is rendered generically and not reproduced as a real trademark. On-screen copy is preserved verbatim only where it actually appears in this frame. Additional production context: this tagline beat reunites the hero with the product in a stylish night setting, so the woman's knowing half-smile to camera must feel charming and confident as she holds up her phone showing the app's mint splash screen. The warm bokeh of the blurred night storefront lights behind her contrasts with the cool night ambient and the mint of the screen and typography, the gold jacket keeping her warm and distinct. The kinetic Korean tagline on the left builds line by line in bright mint in the brand's rounded display lettering. Keep her, the phone screen and the type all crisp against the soft night blur, lit by a soft warm key with a signage rim and cool screen fill. The handheld drift keeps the frame alive. This is the lifestyle-statement landing of the campaign — the hero literally presenting 'this is how we live now' with a wink — and should feel as confident and effortlessly cool as the feature it is selling, bridging the warm narrative and the clean brand card that closes the film.",
+        "t2i_negative": "english translated caption, wrong language text, bright daylight, flat lighting, no bokeh, frowning expression, studio backdrop, cartoon human, CGI face, plastic skin, oversaturated",
+        "i2v_motion": "faint handheld drift; the silver-haired woman holds her phone up beside her face and deepens her knowing half-smile to camera, hair swaying slightly, warm night bokeh shimmering behind; on the left the Korean tagline builds line by line — '요즘은', then '이렇게', then '삽니다' pop in in mint; staccato kinetic rhythm across ~1.9s; hard cut out",
+        "i2v_params": {
+          "clip_duration_sec": 1.88,
+          "camera_move": "handheld_micro_drift",
+          "subject_motion_level": "low_hold_phone_smile",
+          "signature_effect": "kinetic_typography_night_bokeh",
+          "pacing": "staccato_typo_build",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful tagline beat; on-screen copy ('요즘은','이렇게','삽니다') preserved verbatim; app splash wordmark/mascot rendered generically (not a real trademark reproduction); identity generic"
+      },
+      "panel_layout": [
+        {
+          "rect_pct": [
+            0.0,
+            0.0,
+            0.45,
+            1.0
+          ],
+          "size_ratio": 0.45,
+          "content": "stacked kinetic Korean tagline building line by line on dark night field",
+          "text_in_panel": "요즘은 / 이렇게 / 삽니다",
+          "divider": "none_shared_night_bg",
+          "type": "kinetic_typography"
+        },
+        {
+          "rect_pct": [
+            0.48,
+            0.0,
+            0.52,
+            1.0
+          ],
+          "size_ratio": 0.52,
+          "content": "silver-haired woman holding up smartphone showing mint app splash screen, smiling to camera",
+          "text_in_panel": "",
+          "divider": "soft_focus_falloff",
+          "type": "live_subject_with_device"
+        }
+      ]
+    },
+    {
+      "index": 16,
+      "duration": 1.79,
+      "framing": "FS_graphic",
+      "function": "brand_logo_endcard",
+      "subject_action": "a clean white end card displays the brand wordmark '배달의민족' which transitions to the product lockup '배민오더' with a teal circular order icon, both centred",
+      "layout_grid": "centered_minimal_logo",
+      "subject_position": "center",
+      "typo_motion": "logo_swap_fade_scale",
+      "camera_angle": "flat_graphic",
+      "camera_facing": "flat_graphic",
+      "shot_scope": "full_screen_graphic",
+      "gaze": "na_graphic",
+      "props": [
+        "brand_wordmark_logotype",
+        "product_logo_lockup",
+        "teal_circular_order_icon"
+      ],
+      "color_palette": [
+        "#F4F4F2",
+        "#111111",
+        "#2BB7A6",
+        "#E8E8E6",
+        "#000000"
+      ],
+      "color_intent": "clean_minimal_brand_white",
+      "pose_description": "centred black Korean logotype on near-white field; transitions to product lockup with a teal-and-black circular order icon left of the wordmark",
+      "subject_motion": "logo_fade_swap_scale",
+      "camera_motion": "none_static_graphic",
+      "camera_effect_local": "clean_logo_animation_fade",
+      "intra_cut_rhythm": "resolved_hold",
+      "transition_in": "cut",
+      "transition_out": "cut_to_black",
+      "mid_frame_path": "ADV-2026-046_frames/cut16_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "brand_logotype",
+          "product_logo_lockup",
+          "teal_order_icon"
+        ],
+        "midground": [],
+        "background": [
+          "near_white_flat_field"
+        ],
+        "lighting_env": [
+          "flat_even_graphic_light"
+        ],
+        "atmosphere": [
+          "clean_minimal",
+          "brand_resolution",
+          "bright_negative_space"
+        ]
+      },
+      "texture": {
+        "primary_subject": "flat_vector_logotype",
+        "secondary_objects": [
+          "flat_vector_icon"
+        ],
+        "background_surface": "smooth_near_white_field",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "flat_even",
+        "key_hardness": "flat_graphic",
+        "key_color_temp": "neutral_white",
+        "fill_strength": "full_even",
+        "key_to_fill_ratio": "1:1",
+        "rim_light": "none",
+        "practical_lights": [],
+        "shadow_presence": "none",
+        "overall_contrast": "high_graphic_black_on_white"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#F4F4F2",
+          "#111111",
+          "#2BB7A6",
+          "#E8E8E6",
+          "#000000"
+        ],
+        "palette_role": {
+          "#F4F4F2": "dominant_white_field",
+          "#111111": "logotype_black",
+          "#2BB7A6": "order_icon_teal",
+          "#E8E8E6": "off_white_shade",
+          "#000000": "pure_black_text"
+        },
+        "color_relationship": "high_contrast_black_on_white_with_teal",
+        "temperature_balance": "neutral_white_cool_teal_accent",
+        "saturation_strategy": "minimal_monochrome_with_one_teal_pop",
+        "contrast_type": "hard_graphic",
+        "accent_color": "#2BB7A6",
+        "accent_ratio": 0.05
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A clean, minimal full-screen brand end-card graphic in a 16:9 frame: bold rounded black Korean logotype centred on a near-white field. The card opens with the parent-brand wordmark reading '배달의민족' set in a heavy rounded geometric Korean sans-serif in near-black (#111111) on a bright off-white background (#F4F4F2), perfectly centred with generous negative space all around. Over the course of the cut this transitions, via a clean fade-and-scale swap, to the product lockup: a small circular badge icon — a teal (#2BB7A6) disc outlined in black containing rounded Korean characters and concentric 'signal/wave' arcs (a generic order/pickup glyph) — sits to the left of the rounded black wordmark '배민오더', the two forming a horizontal logo lockup centred on the same white field. The aesthetic is pure, modern, flat vector graphic design with no photographic depth: even flat lighting, no shadows, hard high-contrast black-on-white with a single teal accent (the order icon, ~5% of frame). The palette is minimal monochrome — dominant white field (#F4F4F2, #E8E8E6), pure black logotype (#111111, #000000) — plus the one teal pop (#2BB7A6) of the order icon. There is no camera move, no lens character, no grain to speak of; this is a clean broadcast end card. Composition is centred and balanced with abundant breathing room, the logotype occupying the middle band of the frame. The on-screen brand text is preserved verbatim exactly as shown: first '배달의민족', then '배민오더'. Korean broadcast-commercial realism: full-frame cinema-camera capture with a slightly compressed, naturalistic look, fine analogue film-adjacent grain, restrained warm-amber color grade, practical-motivated lighting, shallow depth of field, and gentle handheld micro-motion rather than locked-off clinical clarity. Composition follows Korean ad norms — subjects placed on the rule-of-thirds grid with considered breathing room. (Here the 'capture' is graphic rather than photographic — the only nod to the commercial's style is the brand's signature rounded display Korean lettering.) The frame should read as the crisp, minimal logo resolution that closes a Korean brand commercial. Panel/logo decomposition: STATE A = centred wordmark '배달의민족'; STATE B = horizontal lockup of a teal circular order icon at left + the wordmark '배민오더' at right, both centred on the white field; the transition between states is a clean fade-and-scale swap. Fidelity note: the identity of any individual is entirely generic — no likeness of any real person, actor or celebrity is intended or implied; any logo mark, app glyph, brand wordmark or mascot character is rendered generically and not reproduced as a real trademark. On-screen copy is preserved verbatim only where it actually appears in this frame. Additional production context: this is the clean broadcast logo resolution, so it must be pure flat vector graphic design — no photographic depth, no drop shadows, no gradients, no grain — just the bold rounded black Korean logotype centred on a bright near-white field with generous negative space. The animated swap from the parent wordmark to the product lockup should be smooth and minimal, a clean fade-and-scale, with the teal circular order icon resolving to the left of the product wordmark. The single teal accent is the only colour against the black-on-white, and should match the brand mint family used in the preceding kinetic-typography beats for consistency. Keep the lettering weight heavy and the spacing balanced and centred, the composition calm and resolved after the energetic montage and spectacle. The frame ends by cutting to black. This minimal card is the signature sign-off of the brand's type-forward design language, closing the comedic narrative with quiet, confident restraint and leaving the product name as the final clean impression.",
+        "t2i_negative": "photographic background, gradient, drop shadow, 3d bevel, texture, grain, busy background, off-centre, wrong language, english logo, cartoon scene, oversaturated, lens flare",
+        "i2v_motion": "static white end card; the centred wordmark '배달의민족' holds, then performs a clean fade-and-scale swap to the product lockup — a teal circular order icon scales/fades in to the left as the wordmark resolves to '배민오더' — settling centred and holding; no camera move; cut to black at the very end (~1.8s)",
+        "i2v_params": {
+          "clip_duration_sec": 1.79,
+          "camera_move": "none_static_graphic",
+          "subject_motion_level": "logo_fade_scale_swap_only",
+          "signature_effect": "clean_logo_swap_animation",
+          "pacing": "resolved_hold",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful brand end card; brand text ('배달의민족','배민오더') preserved verbatim; logotype/order-icon rendered generically as a clean vector approximation, not a reproduction of the real trademark mark"
+      }
+    }
+  ],
+  "search_keywords": {
+    "industry": [
+      "commerce",
+      "food_delivery",
+      "platform"
+    ],
+    "product_category": [
+      "delivery_app",
+      "pre_order_pickup",
+      "mobile_ordering"
+    ],
+    "target_demo": [
+      "20s",
+      "30s",
+      "40s",
+      "urban_korean",
+      "app_user"
+    ],
+    "media_format": [
+      "tv_online_31s",
+      "comedic_narrative_ad"
+    ],
+    "tone": [
+      "comedic",
+      "confident",
+      "playful",
+      "stylish"
+    ],
+    "pacing": [
+      "accelerating",
+      "staccato_typo_finish"
+    ],
+    "technique": [
+      "handheld_warm_realism",
+      "volumetric_haze_runway",
+      "reaction_montage",
+      "kinetic_typography",
+      "screen_ui_insert"
+    ],
+    "vfx_keywords": [
+      "volumetric_haze",
+      "warm_bokeh",
+      "rack_focus",
+      "kinetic_typo",
+      "logo_animation",
+      "color_pop"
+    ],
+    "copy_strategy_keywords": [
+      "pain_dramatization",
+      "status_reversal",
+      "product_reveal",
+      "lifestyle_tagline",
+      "kinetic_punchline"
+    ],
+    "concept_derivation_pattern": [
+      "mundane_chore_as_fashion_spectacle",
+      "pain_point_then_product_as_status_upgrade"
+    ]
+  },
+  "inferred_creative_thinking": {
+    "insight": "Waiting in a long line for a popular restaurant is a dull, status-lowering ordeal — everyone stuck on their phones, bored and tired — while the person who pre-ordered for pickup simply breezes in and out",
+    "persona": "An urban Korean diner who hates wasting time in queues and wants the smarter, effortless option that makes them feel one step ahead of the crowd",
+    "moment": "The exact contrast between the resigned, exhausted line-waiters and the one confident person who pre-ordered and strides past them like a celebrity to collect their food",
+    "product_role": "The platform's pre-order pickup feature turns the humiliating wait into a power move — order ahead, walk past the line, grab your bag, and leave like a star",
+    "punchline": "Suffering-then-reward is over; now you just pre-order and walk the runway — 'these days, this is how we live'",
+    "differentiator": "Reframes a utilitarian pickup feature as a status upgrade via an absurd fashion-runway metaphor, with the brand's signature kinetic Korean typography landing the copy",
+    "brand_fit_one_liner": "A food-delivery brand that sells convenience as confidence and wraps it in witty, type-driven B-grade humour",
+    "confidence": "inferred"
+  },
+  "inferred_brief": "Create a ~31-second comedic Korean commercial for the platform's pre-order pickup feature by dramatizing the misery of waiting in a long restaurant line, then reversing status with a hero who pre-ordered: stage an absurd fashion-runway 'walk' as she strides past the envious, gasping crowd to collect her takeout bag, cut to a phone-UI demo of pre-ordering with building kinetic Korean copy, and close on the lifestyle tagline and a minimal brand logo card.",
+  "cross_pollination_tags": {
+    "adjacent": [
+      "convenience_store_lifestyle_ad",
+      "qsr_pickup_ad",
+      "super_app_feature_demo"
+    ],
+    "distant": [
+      "fashion_runway_film",
+      "luxury_brand_hero_walk",
+      "slice_of_life_comedy_short"
+    ],
+    "contrast": [
+      "minimalist_abstract_tech_ad",
+      "data_driven_finance_ad",
+      "quiet_documentary_food_film"
+    ]
+  },
+  "concept_derivation_pattern": "pain_point_dramatization_then_status_reversal_hero_walk_with_kinetic_typography_punchline_and_minimal_logo_reveal",
+  "confidence": "inferred",
+  "analyst_notes": "16 cuts confirmed by scenedetect + metrics cross-check (no merges/splits; shot_count_corrected=false). Verified every boundary by reading f(n-1)/f(n) native frames. Wiggle mean_abs_shift_x 1.83 with sign_flips 0.117 consistent with intentional handheld + CG volumetric-haze drift on the runway beats. Narrative is linear-continuous: cuts 1-5 dramatize the waiting-line pain (exterior establishing + interior bored/tired character beats), cut 5 sets up the turn, cuts 6-7 are the hero reveal walk (silver-haired woman, gold jacket), cut 8 is the 배민오더 kraft-bag product insert (rack focus), cuts 9-11 are a reaction-gasp montage of the earlier waiters, cut 12 is the WOW spectacle climax (symmetrical golden-haze runway wide, VO 'high-effort-then-reward era is over'), cut 13 hero payoff CU, cut 14 is the phone-UI product demo with building kinetic copy ('미리 주문하면 / 바로 받아가는 / 손 안의 오더', restaurant '우아한 치킨'), cut 15 is the tagline beat ('요즘은 / 이렇게 / 삽니다') with hero + app splash, cut 16 is the white end card animating from '배달의민족' wordmark to '배민오더' product lockup with teal order icon. On-screen copy and app text preserved verbatim; people/logos/mascot described/rendered generically per abstraction rules. Audio corrections logged in audio_note; text_raw retained. BGM assumed present (whisper coverage 0.471 reflects long music/SFX-only stretches).",
+  "verification": {
+    "frames_reviewed": "44/745 native-res frames read across all 16 cuts (start+mid+end, all 15 boundary pairs f(n-1)/f(n), the 2 long cuts 12/14 sampled internally, plus 4 PIL crops of phone-UI and end-card text for caption legibility) + 100% per-frame metrics",
+    "audio_analyzed": true,
+    "hitrate_na": null,
+    "abstraction_checked": true
+  }
+}

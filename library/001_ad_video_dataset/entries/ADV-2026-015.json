@@ -1,0 +1,2425 @@
+{
+  "id": "ADV-2026-015",
+  "source_ref": {
+    "platform": "online_video_ad",
+    "title_or_campaign": "토스 브랜드 필름 — 나에게 금융이 필요한 순간 (Toss brand film: the moment I need finance)",
+    "brand": "Toss (Viva Republica)",
+    "product": "Toss app / 종합 금융 서비스 (all-in-one financial life)",
+    "model": null,
+    "year": 2019,
+    "production_note": "Flat 2D motion-graphics brand film (illustrated lifestyle vignettes + app-UI demo); Korean voiceover credited on-screen as 나레이션 토스팀 안지영. Year approximate; 16 cuts, 66.78s, 1920x1080.",
+    "url": null
+  },
+  "category_primary": "finance.fintech_platform",
+  "category_tags": [
+    "핀테크",
+    "브랜드 필름",
+    "라이프스타일 일러스트 애니메이션",
+    "앱 UI 데모",
+    "감성 스토리텔링"
+  ],
+  "mood": [
+    "warm",
+    "reassuring",
+    "everyday",
+    "optimistic",
+    "trustworthy"
+  ],
+  "target_demo": "20s-40s Korean adults navigating everyday personal finance; mobile-first MZ users who find finance distant or intimidating",
+  "total_duration": 66.78,
+  "shot_count": 16,
+  "shot_count_corrected": 16,
+  "fps": 25,
+  "aspect_ratio": "16:9",
+  "hook_position": 0.0,
+  "cta_position": 64.04,
+  "narrative_arc": "Empathy-to-solution brand story: it opens by calling finance a distant, hard word, then reframes it as something already woven through everyday life via illustrated vignettes (splitting a meal bill with friends, opening a first salary account, moving house, buying a car, planning a nice vacation); at the carefree high point doubt creeps in (am I managing money wisely? unsure and overwhelmed?); the film pivots onto a brand-blue world where sending money became as easy as texting since Toss, demos clean app cards that make all financial life simpler and visible at a glance (한 눈에 보이는 금융), recaps the journey as scrolling icons that bloom into the brand palette, and closes on a phone holding everything in orbit and the centered toss logo — 나에게 금융이 필요한 순간, 토스.",
+  "narrative_structure": "linear_emotional_arc",
+  "pacing_curve": "rising_then_resolve",
+  "music_tempo_curve": "build_then_warm_resolve",
+  "wow_cut_index": [
+    4,
+    9,
+    15
+  ],
+  "creative_device": "everyday-life vignette montage as empathy, doubt-beat as turn, brand-blue world + app-UI proof as resolution, orbit motif bookending the protagonist's financial life",
+  "production_signature": {
+    "capture_style": "animation_2d",
+    "camera_signature": [
+      "locked_off",
+      "simulated_dolly_pan",
+      "top_down"
+    ],
+    "signature_note": "Entirely flat 2D motion-graphics: locked-off graphic cards (cuts 1,3,10-12,16), simulated continuous dolly/pan and scroll montages (cuts 4,13,14), true orthographic top-down beats (cuts 2,4,15), and full-brand-blue interstitials (cuts 8,9). Metrics mean_abs_shift_x 1.225 with low sign-flip 0.23 reflect lifestyle edit movement and 2D scrolls, NOT 3D wiggle; no handheld shake and no real parallax rig — camera_signature is locked_off with motion-graphics moves.",
+    "color_grade": "brand_blue_dominant_with_warm_lifestyle_pops",
+    "texture_fx": "flat_illustration_clean_digital"
+  },
+  "global_layout": {
+    "grid_system": "center",
+    "subject_placement_dominant": "center",
+    "subject_typo_relation": "subtitle_lower_third",
+    "negative_space_use": "generous",
+    "layout_note": "Most beats are centered single-focus compositions (coin, walking woman, app cards, logo) with generous margins and lower-third Korean subtitles; the lifestyle and recap beats (cuts 4,13,14) break into scrolling/overhead panoramas, and the transfer beats (cuts 8,9) fill the frame with brand blue."
+  },
+  "recurring_motifs": [
+    "royal-blue won (₩) coin/token",
+    "Toss royal-blue brand field",
+    "thin circular orbit ring of coloured dots",
+    "the stylised protagonist (black hair, red/yellow wardrobe)",
+    "clean app cards on pastel gradients",
+    "speech-bubble brand logo"
+  ],
+  "copywriting": {
+    "tagline_text": "나에게 금융이 필요한 순간",
+    "tagline_structure": "noun_phrase_brand_promise (the moment I need finance)",
+    "tagline_length_syllables": 12,
+    "tagline_position_sec": 60.56,
+    "cta_text": "토스",
+    "cta_text_structure": "brand_signoff",
+    "cta_position_sec": 64.04,
+    "copy_tone": [
+      "empathetic",
+      "warm",
+      "reassuring",
+      "conversational"
+    ],
+    "copy_strategy": "Disarm finance anxiety by naming it, then prove finance is already part of ordinary life, validate the feeling of being unsure, and resolve with Toss making money simple and visible — closing on a personal brand promise.",
+    "copy_lines_count": 22,
+    "lines": [
+      {
+        "position_sec": 1.1,
+        "text": "금융.",
+        "function": "opening_word",
+        "tone": "measured",
+        "source": "both"
+      },
+      {
+        "position_sec": 3.1,
+        "text": "멀고 어렵게 느껴지는 단어입니다.",
+        "function": "problem_statement",
+        "tone": "empathetic",
+        "source": "both"
+      },
+      {
+        "position_sec": 6.1,
+        "text": "하지만 돌이켜보면 우리는 늘 금융과 함께하고 있습니다.",
+        "function": "reframe",
+        "tone": "warm",
+        "source": "both"
+      },
+      {
+        "position_sec": 10.1,
+        "text": "친구들과 밥값 나눌 때",
+        "function": "vignette_label",
+        "tone": "everyday",
+        "source": "both"
+      },
+      {
+        "position_sec": 14.4,
+        "text": "처음 월급 통장을 만들 때",
+        "function": "vignette_label",
+        "tone": "everyday",
+        "source": "both"
+      },
+      {
+        "position_sec": 17.4,
+        "text": "이사를 갈 때",
+        "function": "vignette_label",
+        "tone": "everyday",
+        "source": "both"
+      },
+      {
+        "position_sec": 19.4,
+        "text": "차를 살 때",
+        "function": "vignette_label",
+        "tone": "everyday",
+        "source": "both"
+      },
+      {
+        "position_sec": 21.4,
+        "text": "근사한 휴가 계획 짤 때에도요",
+        "function": "vignette_label",
+        "tone": "everyday",
+        "source": "both"
+      },
+      {
+        "position_sec": 24.4,
+        "text": "그런데 내가 현명한 금융 생활을 하고 있는지",
+        "function": "doubt_setup",
+        "tone": "questioning",
+        "source": "both"
+      },
+      {
+        "position_sec": 30.3,
+        "text": "확신 없고 막막할 때가 있지 않나요?",
+        "function": "pain_point",
+        "tone": "questioning",
+        "source": "both"
+      },
+      {
+        "position_sec": 34.3,
+        "text": "어느 순간부터 많은 사람들에게 송금은",
+        "function": "solution_setup",
+        "tone": "assured",
+        "source": "both"
+      },
+      {
+        "position_sec": 37.3,
+        "text": "문자를 보내는 것만큼 간편한 일이 됐습니다.",
+        "function": "solution_claim",
+        "tone": "assured",
+        "source": "both"
+      },
+      {
+        "position_sec": 40.3,
+        "text": "토스와 함께했을 때부터 말이죠.",
+        "function": "brand_attribution",
+        "tone": "confident",
+        "source": "both"
+      },
+      {
+        "position_sec": 43.3,
+        "text": "이제 토스는 모든 금융 생활을",
+        "function": "brand_promise",
+        "tone": "confident",
+        "source": "both"
+      },
+      {
+        "position_sec": 46.3,
+        "text": "더 쉽고 간편하게 만들어 갑니다.",
+        "function": "brand_promise",
+        "tone": "confident",
+        "source": "both"
+      },
+      {
+        "position_sec": 49.3,
+        "text": "한 눈에 보이는 금융",
+        "function": "feature_headline",
+        "tone": "clear",
+        "source": "both"
+      },
+      {
+        "position_sec": 55.4,
+        "text": "자신 없고 어렵기만 하던 나의 금융이 달라집니다.",
+        "function": "transformation",
+        "tone": "uplifting",
+        "source": "both"
+      },
+      {
+        "position_sec": 60.4,
+        "text": "나에게 금융이 필요한 순간",
+        "function": "tagline",
+        "tone": "warm",
+        "source": "both"
+      },
+      {
+        "position_sec": 63.4,
+        "text": "토스",
+        "function": "brand_signoff",
+        "tone": "confident",
+        "source": "both"
+      }
+    ],
+    "captions": [
+      {
+        "position_sec": 0.0,
+        "text": "나레이션 토스팀 안지영",
+        "function": "production_credit_onscreen"
+      },
+      {
+        "position_sec": 12.5,
+        "text": "8,580",
+        "function": "prop_ui_calculator"
+      },
+      {
+        "position_sec": 18.1,
+        "text": "1,870,000",
+        "function": "prop_ui_passbook_balance"
+      },
+      {
+        "position_sec": 25.0,
+        "text": "하와이 자유여행 1,359,000원~ · 예약하기",
+        "function": "prop_ui_travel_booking_card"
+      },
+      {
+        "position_sec": 41.4,
+        "text": "지영님 안녕하세요.",
+        "function": "app_ui_greeting"
+      },
+      {
+        "position_sec": 44.64,
+        "text": "이번 달의 지출 내역입니다. · 카드대금 · 이체 · 기타 · 쇼핑 · 그 외 7개 카테고",
+        "function": "app_ui_spending_card"
+      },
+      {
+        "position_sec": 47.0,
+        "text": "자유 적금을 시작해보는 건 어떨까요?",
+        "function": "app_ui_savings_card"
+      },
+      {
+        "position_sec": 49.2,
+        "text": "3월 타임라인 · 185,208원 지출 · 320,500원 수입 · 카드 12 · 12,432,828원 · 토스머니 0원 · 자동저축계좌 10,400원",
+        "function": "app_ui_dashboard_timeline"
+      }
+    ],
+    "narration_handling": "verbatim_full"
+  },
+  "typography": {
+    "primary_font_class": "bold_rounded_sans_korean",
+    "secondary_font_class": "regular_sans_korean",
+    "animation_style": [
+      "fade_in",
+      "subtitle_crossfade",
+      "ui_settle",
+      "static"
+    ],
+    "subtitle_position_dominant": "lower_center",
+    "tagline_position": "lower_center",
+    "color_strategy": "White lower-third narration subtitles with a faint shadow over illustrated scenes; brand cobalt headlines and charcoal body copy inside white app cards; cobalt logo on a pale close.",
+    "appearance_count": 22,
+    "key_typography_moments_sec": [
+      1.1,
+      24.4,
+      37.3,
+      49.3,
+      60.4,
+      64.04
+    ],
+    "typo_motion_dominant": "subtitle_crossfade"
+  },
+  "vfx": {
+    "primary_effects": [
+      "flat_2d_animation",
+      "ui_motion",
+      "data_viz",
+      "scroll_montage",
+      "match_cut",
+      "color_pop"
+    ],
+    "effect_intensity": "moderate",
+    "transition_style_dominant": "dissolve_and_scroll",
+    "vfx_event_count": 16,
+    "vfx_timing_array_sec": [
+      0.0,
+      4.48,
+      9.0,
+      11.24,
+      24.92,
+      28.12,
+      28.64,
+      32.88,
+      33.8,
+      41.4,
+      44.64,
+      47.0,
+      49.2,
+      53.6,
+      60.56,
+      64.04
+    ],
+    "wow_vfx_index": [
+      4,
+      9,
+      15
+    ]
+  },
+  "audio": {
+    "has_audio": true,
+    "language": "ko",
+    "speech_coverage": 0.948,
+    "bgm_likely": true,
+    "narration_lines": [
+      {
+        "start": 1.1,
+        "end": 3.1,
+        "text": "금융.",
+        "text_raw": "금융.",
+        "kind": "voiceover",
+        "source": "both"
+      },
+      {
+        "start": 3.1,
+        "end": 6.1,
+        "text": "멀고 어렵게 느껴지는 단어입니다.",
+        "text_raw": "멀고 어렵게 느껴지는 단어입니다.",
+        "kind": "voiceover",
+        "source": "both"
+      },
+      {
+        "start": 6.1,
+        "end": 10.1,
+        "text": "하지만 돌이켜보면 우리는 늘 금융과 함께하고 있습니다.",
+        "text_raw": "하지만 돌이켜보면 우리는 늘 금융과 함께하고 있습니다.",
+        "kind": "voiceover",
+        "source": "both"
+      },
+      {
+        "start": 10.1,
+        "end": 14.4,
+        "text": "친구들과 밥값 나눌 때",
+        "text_raw": "친구들과 밥값 나눌 때",
+        "kind": "voiceover",
+        "source": "both"
+      },
+      {
+        "start": 14.4,
+        "end": 17.4,
+        "text": "처음 월급 통장을 만들 때",
+        "text_raw": "처음 월급 통장을 만들 때",
+        "kind": "voiceover",
+        "source": "both"
+      },
+      {
+        "start": 17.4,
+        "end": 19.4,
+        "text": "이사를 갈 때",
+        "text_raw": "이사를 갈 때",
+        "kind": "voiceover",
+        "source": "both"
+      },
+      {
+        "start": 19.4,
+        "end": 21.4,
+        "text": "차를 살 때",
+        "text_raw": "차를 사이 때",
+        "kind": "voiceover",
+        "source": "both"
+      },
+      {
+        "start": 21.4,
+        "end": 24.4,
+        "text": "근사한 휴가 계획 짤 때에도요",
+        "text_raw": "금사한 휴가게 애교 짤 때에도요",
+        "kind": "voiceover",
+        "source": "both"
+      },
+      {
+        "start": 24.4,
+        "end": 30.3,
+        "text": "그런데 내가 현명한 금융 생활을 하고 있는지",
+        "text_raw": "그런데 내가 현명한 금융 생활을 하고 있는지",
+        "kind": "voiceover",
+        "source": "both"
+      },
+      {
+        "start": 30.3,
+        "end": 33.3,
+        "text": "확신 없고 막막할 때가 있지 않나요?",
+        "text_raw": "확신 없고 막막할 때가 있지 않나요?",
+        "kind": "voiceover",
+        "source": "both"
+      },
+      {
+        "start": 34.3,
+        "end": 37.3,
+        "text": "어느 순간부터 많은 사람들에게 송금은",
+        "text_raw": "어느 순간부터 많은 사람들에게 성금은",
+        "kind": "voiceover",
+        "source": "both"
+      },
+      {
+        "start": 37.3,
+        "end": 40.3,
+        "text": "문자를 보내는 것만큼 간편한 일이 됐습니다.",
+        "text_raw": "문짜를 보내는 것만큼 간편한 일이 됐습니다.",
+        "kind": "voiceover",
+        "source": "both"
+      },
+      {
+        "start": 40.3,
+        "end": 43.3,
+        "text": "토스와 함께했을 때부터 말이죠.",
+        "text_raw": "토스와 함께했을 때부터 말이죠.",
+        "kind": "voiceover",
+        "source": "both"
+      },
+      {
+        "start": 43.3,
+        "end": 46.3,
+        "text": "이제 토스는 모든 금융 생활을",
+        "text_raw": "이제 토스는 모든 금융 생활을",
+        "kind": "voiceover",
+        "source": "both"
+      },
+      {
+        "start": 46.3,
+        "end": 49.3,
+        "text": "더 쉽고 간편하게 만들어 갑니다.",
+        "text_raw": "더 쉽고 간편하게 만들어 갑니다.",
+        "kind": "voiceover",
+        "source": "both"
+      },
+      {
+        "start": 49.3,
+        "end": 55.4,
+        "text": "한 눈에 보이는 금융",
+        "text_raw": "한 눈에 보이는 금융",
+        "kind": "voiceover",
+        "source": "both"
+      },
+      {
+        "start": 55.4,
+        "end": 60.4,
+        "text": "자신 없고 어렵기만 하던 나의 금융이 달라집니다.",
+        "text_raw": "자신 없고 어렵기만 하던 나의 금융이 달라집니다.",
+        "kind": "voiceover",
+        "source": "both"
+      },
+      {
+        "start": 60.4,
+        "end": 63.4,
+        "text": "나에게 금융이 필요한 순간",
+        "text_raw": "나에게 금융이 필요한 순간",
+        "kind": "voiceover",
+        "source": "both"
+      },
+      {
+        "start": 63.4,
+        "end": 65.4,
+        "text": "토스",
+        "text_raw": "토스",
+        "kind": "voiceover",
+        "source": "both"
+      }
+    ],
+    "voice_vs_caption": "Voiceover tracks on-screen lower-third subtitles almost exactly; raw whisper slips (차를 사이 때, 금사한 휴가게 애교, 성금은, 문짜를) corrected against the captions; the on-screen 나레이션 토스팀 안지영 credits the in-house narrator.",
+    "narration_handling": "verbatim_full",
+    "transcribed_by": "faster_whisper",
+    "audio_note": "faster_whisper (ko), coverage 0.948, bgm_likely true; raw segments preserved in text_raw and corrected against on-screen captions."
+  },
+  "frames_dir": "ADV-2026-015_frames",
+  "contact_sheet_path": "ADV-2026-015_frames/contact_sheet.png",
+  "shots": [
+    {
+      "index": 1,
+      "duration": 4.48,
+      "framing": "environment",
+      "function": "open_titlecard_motif",
+      "subject_action": "On a near-white hand-painted field, a glossy royal-blue coin embossed with a Korean won (₩) symbol rests and gently bobs atop a horizontal lattice of pale grey financial slider/progress bars dotted with small ring nodes; the word 금융 sits centered low; the coin begins to be wiped away by a thin vertical sliver as the cut ends.",
+      "copy_overlay": "금융  (lower-center) · 나레이션 토스팀 안지영 (lower-right credit)",
+      "layout_grid": "center",
+      "subject_position": "center",
+      "typo_motion": "the single word 금융 holds statically centered-low; a small white production credit 나레이션 토스팀 안지영 sits in the lower-right; no kinetic type",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "environment",
+      "gaze": "none",
+      "props": [
+        "royal-blue won-symbol coin",
+        "pale grey financial slider bars",
+        "small ring/dot nodes"
+      ],
+      "color_palette": [
+        "#f3f4f6",
+        "#1f4fe0",
+        "#b9bfc8",
+        "#3a3d42"
+      ],
+      "color_intent": "An almost-white paper field with desaturated grey UI rails so the single saturated blue coin reads as the lone hero; charcoal word anchors legibility.",
+      "pose_description": "No human; the coin's gentle bob and roll imply a token of money moving along everyday financial tracks.",
+      "subject_motion": "coin gently bobs/rolls in place atop the rails",
+      "camera_motion": "locked_off",
+      "camera_effect_local": "none",
+      "intra_cut_rhythm": "steady",
+      "transition_in": "fade_in_from_white",
+      "transition_out": "vertical_wipe",
+      "mid_frame_path": "ADV-2026-015_frames/cut01_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "royal-blue won-symbol coin",
+          "centered word 금융"
+        ],
+        "midground": [
+          "pale grey horizontal slider/progress bars",
+          "small ring nodes",
+          "white production credit text"
+        ],
+        "background": [
+          "near-white hand-painted paper field with faint cloudy texture"
+        ],
+        "lighting_env": [
+          "soft diffused high-key ambient"
+        ],
+        "atmosphere": [
+          "clean, airy, no haze"
+        ]
+      },
+      "texture": {
+        "primary_subject": "plastic_glossy",
+        "secondary_objects": [
+          "matte_flat_ui"
+        ],
+        "background_surface": "paper",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "front",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "strong",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "minimal",
+        "overall_contrast": "hi_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#f3f4f6",
+          "#1f4fe0",
+          "#b9bfc8",
+          "#3a3d42"
+        ],
+        "palette_role": {
+          "#f3f4f6": "background_dominant",
+          "#1f4fe0": "hero_brand_accent",
+          "#b9bfc8": "ui_rail_neutral",
+          "#3a3d42": "text_anchor"
+        },
+        "color_relationship": "brand_dominant",
+        "temperature_balance": "cool_dominant",
+        "saturation_strategy": "desaturated_with_pop",
+        "contrast_type": "luminance_high",
+        "accent_color": "#1f4fe0",
+        "accent_ratio": "10_percent",
+        "brand_color_match": [
+          "hero coin blue ~#1f4fe0 = Toss brand blue family"
+        ]
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A clean Korean fintech brand-film opening key frame rendered as flat 2D motion-graphics on a softly lit, near-white hand-painted paper field in pale cool grey (#f3f4f6) carrying a faint cloudy watercolour texture and a gentle bottom-edge vignette that darkens the lower band slightly. Filling the lower third of a 16:9 landscape frame is a horizontal lattice of long, rounded, pale grey financial slider and progress bars (#b9bfc8) stacked and overlapping like UI rails, each punctuated with small outlined ring nodes and a few muted colour pills, reading as the quiet machinery of everyday money. Resting on top of these rails, slightly left of center and elevated a touch above them, sits a single hero object: a glossy, saturated royal-blue circular coin (#1f4fe0) embossed with a clean Korean won symbol drawn as a stylised double-stroke W, the coin given gentle three-dimensional thickness, a soft top specular highlight and a faint soft contact shadow on the rail beneath it so it feels like a real token of currency about to roll. Centered low in the frame, in a heavy rounded Korean sans-serif, the single word 금융 sits in near-black charcoal (#3a3d42) with comfortable letter spacing; in the lower-right corner a small white production-credit line reads 나레이션 토스팀 안지영. The composition is calm and centered with very generous negative space across the upper two thirds of the frame, the eye drawn first to the bright blue coin and then to the word below it. Lighting is soft, high-key and almost shadowless: a broad diffused frontal key at a neutral 5500K colour temperature with abundant fill because the field is already luminous, no rim light, and only faint contact shadows under the coin and rails to suggest a hair of depth. The lens read is flat and orthographic, a straight-on view onto a flat illustrated plane at eye level with no perspective distortion and no converging verticals. The colour strategy pairs a desaturated cool grey background and neutral UI rails with one high-saturation royal-blue coin that owns nearly all of the chroma in frame, while charcoal type acts as a luminance anchor; this is a brand-dominant cool palette with a single confident pop. Textures are smooth glossy plastic on the coin, flat matte vector on the slider bars and nodes, crisp flat type on the word, and a soft paper-like matte field in the background with a hint of painterly grain. The atmosphere is clean, airy and trustworthy, with no smoke, particles or haze of any kind. The post and signature look is polished flat-design commercial motion graphics with crisp anti-aliased edges, gentle ambient occlusion where the coin meets the rail, and an uncluttered brand-forward finish. Style anchor: Korean lifestyle commercial / fintech brand-film title beat, flat 2D illustration with a single 3D-ish coin, hi-key paper studio, absolutely no people present; this still is the held opening state just before a thin vertical sliver begins wiping the coin away to reveal the next scene. As a craft note for faithful recreation, keep every element vector-crisp and resolution-independent: the coin's embossed won symbol should sit slightly recessed with a soft inner bevel and a faint warm-blue ambient bounce on its lower edge, the slider rails should read as stacked rounded capsules of subtly different lengths and grey values so they suggest depth without any true perspective, and the small ring nodes should be thin two-pixel outlines rather than filled dots. The painterly paper texture in the background must stay extremely low-contrast, a barely-there cloud mottling that never competes with the coin, and the bottom vignette should be a gentle ten-percent darkening rather than a hard edge. The single Korean word should be optically centered a touch above the rails with comfortable tracking, and the production credit in the lower-right must be small, quiet and unobtrusive. The overall read is a confident, almost meditative opening frame: one bright token of money poised on the quiet machinery of everyday finance, calm and premium, the kind of restrained brand-film title beat that earns trust before a single claim is made, leaving wide breathing room above so the eye settles on the coin first and the word second.",
+        "t2i_negative": "people, faces, hands, real bank logos, trademark marks, watermark, photographic background, harsh shadows, low-key lighting, heavy grain, lens flare, 3d perspective distortion, clutter, neon colors",
+        "i2v_motion": "Open with a soft fade-up from white; hold the locked-off framing while the royal-blue won-coin gently bobs and rolls a few degrees in place atop the static grey rails and the word 금융 holds perfectly still; in the final beat a thin vertical sliver begins to sweep across the coin as a wipe toward the next scene; no camera move, no zoom; ~4.5s, calm steady rhythm, ending on a vertical wipe.",
+        "i2v_params": {
+          "clip_duration_sec": 4.48,
+          "camera_move": "locked_off",
+          "subject_motion_level": "micro",
+          "signature_effect": "none",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen word and credit preserved verbatim; coin generic; no people; brand color generic-but-faithful."
+      }
+    },
+    {
+      "index": 2,
+      "duration": 4.52,
+      "framing": "environment",
+      "function": "concept_metaphor_money_everywhere",
+      "subject_action": "A top-down view of an abstract woven grid of pale conveyor roads on which dozens of small won (₩) coins — most muted blue-grey, a few bright blue and white — travel and crisscross in every direction; one vivid royal-blue hero coin slides along its lane, dramatising that money flows through everyday life.",
+      "copy_overlay": "하지만 돌이켜보면 우리는 늘 → 금융과 함께하고 있습니다 (lower-center subtitles)",
+      "layout_grid": "full_field_pattern",
+      "subject_position": "distributed",
+      "typo_motion": "white narration subtitles cross-fade in sequence at lower-center; no other type",
+      "camera_angle": "top_down",
+      "camera_facing": "overhead",
+      "shot_scope": "environment",
+      "gaze": "none",
+      "props": [
+        "won-symbol coins (blue/grey/white)",
+        "woven pale conveyor roads/grid"
+      ],
+      "color_palette": [
+        "#dfe2e6",
+        "#1f4fe0",
+        "#8a93a0",
+        "#3f4cae"
+      ],
+      "color_intent": "A muted grey-blue grid lets the single bright royal-blue hero coin pop while the mass of greyed coins reads as the constant background hum of finance.",
+      "pose_description": "No human; the streaming coins imply ceaseless everyday money movement.",
+      "subject_motion": "many coins travel along the lattice; one bright blue hero coin advances along its lane",
+      "camera_motion": "slow_drift_dolly",
+      "camera_effect_local": "parallax_scroll",
+      "intra_cut_rhythm": "flowing",
+      "transition_in": "vertical_wipe",
+      "transition_out": "match_cut_to_orbit",
+      "mid_frame_path": "ADV-2026-015_frames/cut02_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "bright royal-blue hero won-coin",
+          "scattered won-symbol coins"
+        ],
+        "midground": [
+          "woven lattice of pale conveyor roads",
+          "grid of square tiles"
+        ],
+        "background": [
+          "soft grey-white textured floor seen from above"
+        ],
+        "lighting_env": [
+          "flat even overhead ambient"
+        ],
+        "atmosphere": [
+          "clean, faint painterly texture, no haze"
+        ]
+      },
+      "texture": {
+        "primary_subject": "matte_flat_token",
+        "secondary_objects": [
+          "matte_flat_ui"
+        ],
+        "background_surface": "paper",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "top",
+        "key_hardness": "diffused",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "strong",
+        "key_to_fill_ratio": "1:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "minimal",
+        "overall_contrast": "flat"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#dfe2e6",
+          "#1f4fe0",
+          "#8a93a0",
+          "#3f4cae"
+        ],
+        "palette_role": {
+          "#dfe2e6": "background_dominant",
+          "#1f4fe0": "hero_accent",
+          "#8a93a0": "muted_coin_mass",
+          "#3f4cae": "secondary_blue"
+        },
+        "color_relationship": "analogous_cool",
+        "temperature_balance": "cool_dominant",
+        "saturation_strategy": "desaturated_with_pop",
+        "contrast_type": "luminance_mid",
+        "accent_color": "#1f4fe0",
+        "accent_ratio": "10_percent",
+        "brand_color_match": [
+          "hero coin blue ~#1f4fe0 = Toss brand blue"
+        ]
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A clean Korean fintech brand-film concept key frame seen from directly overhead, flat 2D motion-graphics filling a 16:9 landscape, depicting an abstract top-down city-grid of money. The entire frame is an interlocking woven lattice of long, pale, softly rounded conveyor-road ribbons (#dfe2e6) laid over a faint grid of square tiles on a soft grey-white painterly floor, the ribbons crossing over and under one another like an aerial view of streets or a circuit board. Travelling along these lanes are dozens of small circular coins, each embossed with a stylised Korean won (₩) double-stroke symbol; most coins are muted blue-grey and semi-transparent (#8a93a0) so they recede into the busy background, a handful are pale white outlined tokens, and a few are a deeper secondary blue (#3f4cae). Slightly off-center sits the single clear hero of the frame: one vivid, fully saturated royal-blue won-coin (#1f4fe0) with a soft drop shadow, mid-glide along its lane, drawing the eye instantly against the desaturated swarm. The coins are distributed across the whole field in a balanced but lively scatter, some clustered in short trains along a single road, others isolated at intersections, the overall impression being ceaseless gentle motion frozen for one instant. Centered low in the frame, white Korean narration subtitles read 금융과 함께하고 있습니다 in a clean sans-serif with a faint soft shadow for legibility over the pale floor. Lighting is flat, even and high-key, a broad overhead diffused ambient at neutral 5500K with no strong key direction, minimal shadows beyond the faint soft drops under the brighter coins, giving the scene a clean infographic flatness. The lens read is a true orthographic top-down look, perfectly perpendicular to the floor plane with no perspective convergence, as if a camera hangs straight above a tabletop diagram. The colour strategy is an analogous cool palette: a desaturated grey-blue field and muted coin mass with one high-saturation royal-blue hero coin and a few mid-blue accents providing controlled pops, the brand blue reading as roughly ten percent of the frame. Textures are smooth matte flat vector on the coins and road ribbons, a soft paper-like painterly grain on the floor, and crisp flat type on the subtitle, with no photographic surfaces. The atmosphere is clean and quietly busy, no haze, smoke or particles, just the implied hum of many small transactions. The post and signature look is polished flat-design commercial motion graphics, crisp anti-aliased edges, subtle ambient occlusion under the coins, an uncluttered editorial feel. Style anchor: Korean lifestyle commercial / fintech brand film, aerial money-grid metaphor, flat 2D illustration, no people; this still is one moment of a slowly drifting overhead shot in which the coins stream continuously and the hero coin advances along its lane. As a craft note for faithful recreation, the woven road ribbons should overlap with clean over-and-under crossings and soft rounded ends, each ribbon a marginally different pale grey so the lattice reads as layered depth without any perspective convergence, and the square grid tiles beneath should be the faintest possible guide lines. Every coin must carry the same stylised double-stroke won glyph, with the muted coins drawn semi-transparent and slightly smaller so they recede, the few mid-blue coins a step brighter, and the single saturated hero coin given a soft drop shadow and a tiny specular kiss so it pops instantly from the swarm. Distribute the coins in believable little trains along the lanes and singletons at intersections, frozen mid-glide so the still implies ceaseless gentle motion. The painterly floor grain stays whisper-quiet, and the white subtitle keeps a soft shadow for legibility over the pale ground. The overall read is a calm aerial diagram of money moving everywhere at once, an editorial infographic of everyday transactions, busy yet legible, the lone bright coin guiding the eye like a single highlighted data point in a field of grey.",
+        "t2i_negative": "people, faces, hands, real currency portraits, bank logos, watermark, perspective distortion, harsh shadows, low-key lighting, heavy grain, neon, photographic textures, clutter beyond the grid",
+        "i2v_motion": "Hold a gentle slow overhead drift (a few percent dolly) while dozens of small won-coins travel continuously along the woven lanes in varied directions and the single bright royal-blue hero coin advances steadily along its lane; subtle parallax between coin layers; white subtitle 금융과 함께하고 있습니다 cross-fades in at lower-center; no zoom, no rotation; ~4.5s, flowing rhythm, resolving into a match cut toward a circular orbit.",
+        "i2v_params": {
+          "clip_duration_sec": 4.52,
+          "camera_move": "slow_drift_dolly",
+          "subject_motion_level": "walk",
+          "signature_effect": "none",
+          "pacing": "flowing",
+          "loopable": true
+        },
+        "fidelity_note": "craft-faithful; subtitle preserved verbatim; coins and grid generic; no people; brand color generic-but-faithful."
+      }
+    },
+    {
+      "index": 3,
+      "duration": 2.24,
+      "framing": "full_body",
+      "function": "protagonist_intro",
+      "subject_action": "A stylised flat-illustrated young woman in profile (black hair in a low bun, mustard-yellow coat, blue trousers, ankle boots, holding a paper coffee cup) strides to the right at the exact center of a thin circular ring studded with small multi-coloured dot nodes, set on a soft light gradient; the ring frames her like an orbit of financial moments around her life.",
+      "copy_overlay": "금융과 함께하고 있습니다 (lower-center subtitle)",
+      "layout_grid": "center",
+      "subject_position": "center",
+      "typo_motion": "white subtitle holds at lower-center; no kinetic type",
+      "camera_angle": "eye_level",
+      "camera_facing": "profile",
+      "shot_scope": "full_body",
+      "gaze": "screen_right",
+      "props": [
+        "thin circular orbit ring",
+        "coloured dot nodes",
+        "paper coffee cup"
+      ],
+      "color_palette": [
+        "#eceef0",
+        "#f2b417",
+        "#1f4fe0",
+        "#1d1d2b"
+      ],
+      "color_intent": "A near-neutral light field isolates the warm mustard coat as the human focal point while the thin navy orbit and coloured nodes hint at finance circling her.",
+      "pose_description": "Mid-stride walk cycle in clean profile, one foot forward, coffee cup held at the waist, calm composed posture.",
+      "subject_motion": "continuous walk-in-place cycle; the orbit ring slowly rotates around her",
+      "camera_motion": "locked_off",
+      "camera_effect_local": "none",
+      "intra_cut_rhythm": "steady",
+      "transition_in": "match_cut_from_grid",
+      "transition_out": "dissolve_to_overhead",
+      "mid_frame_path": "ADV-2026-015_frames/cut03_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "walking woman in mustard coat (flat illustration)",
+          "paper coffee cup"
+        ],
+        "midground": [
+          "thin circular orbit ring with coloured dot nodes",
+          "soft cast shadow behind her"
+        ],
+        "background": [
+          "light cool-grey vertical gradient field"
+        ],
+        "lighting_env": [
+          "soft even ambient with faint floor gradient"
+        ],
+        "atmosphere": [
+          "clean, calm, no haze"
+        ]
+      },
+      "texture": {
+        "primary_subject": "flat_illustration_matte",
+        "secondary_objects": [
+          "flat_vector_line"
+        ],
+        "background_surface": "gradient_paper",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "front",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "strong",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "soft",
+        "overall_contrast": "hi_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#eceef0",
+          "#f2b417",
+          "#1f4fe0",
+          "#1d1d2b"
+        ],
+        "palette_role": {
+          "#eceef0": "background_dominant",
+          "#f2b417": "subject_warm_focal",
+          "#1f4fe0": "orbit_accent",
+          "#1d1d2b": "hair_line_anchor"
+        },
+        "color_relationship": "complementary",
+        "temperature_balance": "split_warm_cool",
+        "saturation_strategy": "desaturated_with_pop",
+        "contrast_type": "hue_complementary",
+        "accent_color": "#f2b417",
+        "accent_ratio": "20_percent",
+        "brand_color_match": [
+          "orbit/node blue ~#1f4fe0 = Toss brand blue family"
+        ]
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A clean Korean lifestyle-commercial key frame in flat 2D illustration, a 16:9 landscape built around a single stylised human figure centered inside a thin circular orbit, set on a soft light cool-grey vertical gradient field (#eceef0) that fades fractionally darker toward the lower edge with a faint painterly texture. At the exact center stands a young woman drawn in a refined flat editorial-illustration style, shown in clean side profile facing and mid-stride toward screen right: she has neat black hair pulled into a small low bun (#1d1d2b), a calm composed face with minimal features, and wears a knee-length mustard-yellow coat (#f2b417) over a coral collar, slim blue trousers and black ankle boots, holding a small paper coffee cup at her waist with a thin wisp of steam. Her warm yellow coat is the unmistakable focal point of the whole composition. Encircling her, drawn as a single thin navy line, is a large near-perfect ring that fills most of the frame height, studded at intervals with small dot nodes in muted multi-colours — navy, coral, teal, mustard, grey — like waypoints on an orbit, suggesting the many financial moments that revolve around an ordinary life. A soft grey cast shadow sits just behind and beneath her to ground the figure. Centered low in the frame, a white Korean subtitle reads 금융과 함께하고 있습니다 in a clean sans-serif with a faint shadow. The composition is symmetrical and generous, the single figure and the encircling ring leaving wide calm margins of pale field around them. Lighting is soft, high-key and even, a broad diffused frontal key at neutral 5500K with strong fill, no rim light, and only a soft grounding shadow, keeping the illustration bright and airy. The lens read is flat and straight-on at eye level with no perspective distortion, the figure and ring sitting on the picture plane. The colour strategy is complementary and controlled: a desaturated cool-grey field against the warm mustard coat creates a clean split warm-cool contrast, while the small coloured orbit nodes and navy ring add restrained accents; the warm coat reads as roughly a fifth of the visual weight. Textures are smooth matte flat illustration on the figure with subtle painterly shading, crisp flat vector line on the orbit and nodes, and a soft gradient paper field behind, no photographic surfaces and no heavy grain. The atmosphere is calm, optimistic and clean, with no haze or particles. The post and signature look is polished flat-design commercial illustration with crisp anti-aliased edges and gentle ambient shading. Style anchor: Korean lifestyle commercial / fintech brand film, flat editorial character illustration, single protagonist in an orbit ring, hi-key field, a generic stylised woman rather than any real person; this still is one moment of a looping walk cycle in which she strides while the dotted orbit slowly rotates around her. As a craft note for faithful recreation, draw the woman in a refined flat editorial style with subtle painterly shading inside flat shapes rather than hard cel blocks: the mustard coat should carry a faint fabric-grain texture and a slightly darker hem and lapel, the hair a single clean black mass with one or two carved strands, and the face minimal — a small nose line, calm closed-ish eyes, a hint of blush — so she reads as a generic stylised everywoman, never a specific real person. The orbit ring must be one continuous thin navy stroke forming a near-perfect circle that nearly touches the top and bottom safe margins, its dot nodes small and evenly spaced in muted navy, coral, teal, mustard and grey, like waypoints. Her soft grey cast shadow sits just behind and below to anchor her on the implied ground without a visible floor line. Keep the background a clean cool-grey vertical gradient with a barely-there paper grain and a soft lower vignette. The white subtitle holds a faint shadow at lower-center. The overall read is calm, optimistic and human: a single ordinary person at the still center of a quietly revolving orbit of financial moments, generous negative space making the figure feel important and unhurried.",
+        "t2i_negative": "real person likeness, celebrity face, photographic skin, multiple people, logos, watermark, harsh shadows, low-key lighting, busy background, neon, heavy grain, perspective distortion",
+        "i2v_motion": "Hold the locked-off centered framing while the stylised woman performs a smooth looping walk cycle in profile (legs and coat-hem swinging, coffee cup steady at the waist) as the thin dotted orbit ring slowly rotates clockwise around her; the soft shadow shifts subtly with her stride; white subtitle holds at lower-center; no camera move, no zoom; ~2.2s, steady rhythm, ending on a gentle dissolve to an overhead scene.",
+        "i2v_params": {
+          "clip_duration_sec": 2.24,
+          "camera_move": "locked_off",
+          "subject_motion_level": "walk",
+          "signature_effect": "none",
+          "pacing": "steady",
+          "loopable": true
+        },
+        "fidelity_note": "craft-faithful; subtitle verbatim; generic stylised character (no real-person likeness); no logo."
+      }
+    },
+    {
+      "index": 4,
+      "duration": 13.68,
+      "framing": "environment",
+      "function": "everyday_finance_montage",
+      "subject_action": "A long continuous top-down tracking montage glides across five everyday money moments stitched by diagonal/scrolling wipes: friends splitting a restaurant bill (table with pasta, beer, won banknote and coins, a card, a phone calculator showing 8,580), opening a first salary bankbook (blue passbook, ID card, pen), moving house (a woman carrying a yellow box up a staircase, a passbook reading 1,870,000), buying a car (the woman drives a white car past a city skyline), and planning a nice vacation (a finger points at a sea/island travel view).",
+      "copy_overlay": "친구들과 밥값 나눌 때 / 처음 월급 통장을 만들 때 / 이사를 갈 때 / 차를 살 때 / 근사한 휴가 계획 짤 때에도요 (sequential lower-center subtitles); on-prop numerals 8,580 · 1,870,000",
+      "layout_grid": "scrolling_panorama",
+      "subject_position": "moving_focus",
+      "typo_motion": "white subtitles cross-fade one per vignette at lower-center; small numerals are baked into props (calculator, passbook)",
+      "camera_angle": "top_down_and_side",
+      "camera_facing": "mixed",
+      "shot_scope": "environment",
+      "gaze": "none",
+      "props": [
+        "restaurant table items (pasta, beer, banknote, coins, card, phone calculator)",
+        "blue salary passbook + ID card + pen",
+        "yellow moving box + staircase",
+        "white car + city skyline",
+        "travel sea/island view"
+      ],
+      "color_palette": [
+        "#e7e8ea",
+        "#f2c200",
+        "#1f4fe0",
+        "#d94c3d"
+      ],
+      "color_intent": "A neutral pale tabletop ground lets warm props (banknote yellow, coral accents) and brand-blue cards punctuate each life moment with friendly colour.",
+      "pose_description": "Hands enter from frame edges to place money and slide a passbook; the protagonist carries a box, then drives, then points at a map — implied human action without full faces dominating.",
+      "subject_motion": "hands and objects move within each vignette; the woman walks/drives/points",
+      "camera_motion": "continuous_dolly_pan",
+      "camera_effect_local": "diagonal_wipe_scroll",
+      "intra_cut_rhythm": "building",
+      "transition_in": "dissolve_from_orbit",
+      "transition_out": "dissolve_to_beach",
+      "mid_frame_path": "ADV-2026-015_frames/cut04_mid.png",
+      "panel_layout": {
+        "is_multi_panel": true,
+        "type": "sequential_scroll_montage",
+        "panel_count": 5,
+        "divider": "diagonal wipes / scrolling seams between vignettes (not simultaneous panels)",
+        "orientation": "temporal",
+        "panels": [
+          {
+            "id": 1,
+            "rect": "t 0.0-3.2s",
+            "size_ratio": "~23%",
+            "content": "Top-down restaurant table: hands, plate of pasta with cherry tomatoes, beer bottle and glass, a 50,000-won banknote with a traditional figure, scattered 100/10 won coins, a blue credit card, and a smartphone calculator reading 8,580.",
+            "text_in_panel": "친구들과 밥값 나눌 때 · 8,580"
+          },
+          {
+            "id": 2,
+            "rect": "t 3.2-6.4s",
+            "size_ratio": "~23%",
+            "content": "Top-down desk: hands holding a royal-blue dot-pattern bankbook/passbook with ○○△△ marks, an ID card with a photo, a red-tipped pen, a perforated ledger pad.",
+            "text_in_panel": "처음 월급 통장을 만들 때"
+          },
+          {
+            "id": 3,
+            "rect": "t 6.4-9.5s",
+            "size_ratio": "~23%",
+            "content": "A pale-yellow passbook reading 1,870,000 held in hands on the left while, via a diagonal wipe, the woman in a red top and blue jeans carries a yellow moving box up a grey staircase past a houseplant and window.",
+            "text_in_panel": "이사를 갈 때 · 1,870,000"
+          },
+          {
+            "id": 4,
+            "rect": "t 9.5-12.0s",
+            "size_ratio": "~18%",
+            "content": "Side view: the woman drives a clean white car in profile across a flat-illustrated city skyline with street lamps under a bright blue sky.",
+            "text_in_panel": "차를 살 때"
+          },
+          {
+            "id": 5,
+            "rect": "t 12.0-13.7s",
+            "size_ratio": "~13%",
+            "content": "The car wheel scrolls up to reveal a top-down sea-and-island travel view with a finger pointing at a destination, beginning the vacation booking beat.",
+            "text_in_panel": "근사한 휴가 계획 짤 때에도요"
+          }
+        ],
+        "layout_note": "Not simultaneous panels but a single continuous camera move that scrolls/wipes through five sequential lifestyle vignettes; treat each as a temporal panel."
+      },
+      "visible_elements": {
+        "foreground": [
+          "foreground hands and the hero props of each vignette (banknote, passbook, box, car, pointing finger)"
+        ],
+        "midground": [
+          "table/desk surfaces",
+          "food, coins, card, phone, ID, staircase, car, sea view"
+        ],
+        "background": [
+          "pale neutral tabletop and soft illustrated environments seen mostly from above"
+        ],
+        "lighting_env": [
+          "soft even high-key ambient; bright sky in the car/vacation beats"
+        ],
+        "atmosphere": [
+          "clean, warm, no haze"
+        ]
+      },
+      "texture": {
+        "primary_subject": "flat_illustration_matte",
+        "secondary_objects": [
+          "matte_flat_objects",
+          "flat_vector_line"
+        ],
+        "background_surface": "paper",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "top",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "strong",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "soft",
+        "overall_contrast": "hi_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#e7e8ea",
+          "#f2c200",
+          "#1f4fe0",
+          "#d94c3d"
+        ],
+        "palette_role": {
+          "#e7e8ea": "background_dominant",
+          "#f2c200": "warm_money_accent",
+          "#1f4fe0": "brand_card_accent",
+          "#d94c3d": "coral_pop"
+        },
+        "color_relationship": "warm_cool_balanced",
+        "temperature_balance": "balanced",
+        "saturation_strategy": "saturated_friendly",
+        "contrast_type": "hue_and_value",
+        "accent_color": "#f2c200",
+        "accent_ratio": "20_percent",
+        "brand_color_match": [
+          "blue cards ~#1f4fe0 = Toss brand blue family"
+        ]
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A warm Korean lifestyle-commercial key frame in flat 2D illustration, a 16:9 landscape seen from directly overhead, depicting a friends-splitting-the-bill restaurant tabletop as the opening beat of a long continuous montage. The ground is a pale neutral grey-white table surface (#e7e8ea) with a faint painterly texture, filled edge to edge with a lively flat-lay of dinner objects drawn in clean editorial illustration. Near the top, a white plate holds yellow pasta with bright red cherry tomatoes; beside it a tall glass of golden beer and a tipped beer bottle with blue-and-white labels; in the upper right a saturated royal-blue credit card (#1f4fe0) with a dual-circle logo and a gold chip. Across the lower half, two human hands in soft peach skin tone enter from the frame edges — one wearing a black smartwatch and red sleeve — reaching toward a folded warm-yellow 50,000-won banknote (#f2c200) printed with a stylised traditional figure, while scattered around them lie circular coins embossed 100 and 10. On the right edge a smartphone shows a simple calculator screen with the number 8,580 in dark type. The arrangement is a balanced overhead scatter, busy but legible, every object casting a soft drop shadow onto the table. Centered low, a white Korean subtitle reads 친구들과 밥값 나눌 때 in a clean sans-serif with a faint shadow. Lighting is soft, high-key and even from above, a broad diffused overhead ambient at neutral 5500K with strong fill and only gentle contact shadows under each object, giving a clean flat-lay flatness with a hair of dimensionality. The lens read is a true orthographic top-down look, perpendicular to the table with no perspective convergence, like a camera mounted straight above. The colour strategy is a warm-cool balance: a neutral pale table lets the warm banknote yellow and coral accents converse with the saturated brand-blue card, friendly and appetising, with warm hues carrying roughly a fifth of the weight. Textures are smooth matte flat illustration on every object, crisp flat vector line on the coins and card details, soft paper grain on the table, no photographic surfaces. The atmosphere is clean, warm and sociable, no haze or particles. The post and signature look is polished flat-design commercial motion graphics, crisp anti-aliased edges, soft consistent drop shadows, an inviting editorial feel. Style anchor: Korean lifestyle commercial / fintech brand film, overhead lifestyle flat-lay, flat 2D illustration, hands only with no faces, generic objects and no real logos; this still is the first beat of a long continuous overhead tracking montage that will scroll and wipe onward through opening a salary bankbook, moving house, buying a car and planning a vacation, each introduced by its own subtitle. As a craft note for faithful recreation, treat this as one continuous illustrated camera move rather than separate shots: every vignette shares the same pale neutral ground, the same soft consistent drop-shadow language and the same flat editorial illustration so the wipes feel seamless. Hands enter only from the frame edges with soft peach skin and occasional accents (a black smartwatch, a red sleeve, a thin ring) and never show full faces in the overhead beats, keeping the focus on the money objects. The won banknote should read as a generic warm-yellow note with a stylised traditional figure rather than an exact reproduction, the coins as simple embossed discs marked 100 and 10, the credit card as a generic blue card with a dual-circle mark and gold chip, and the passbooks as plain blue and pale-yellow booklets with placeholder ledger lines and the small baked numerals. The moving-house and car beats tilt from top-down toward a side view via a diagonal wipe, the staircase and city skyline drawn flat with bright sky. Keep prop numerals crisp and legible. The overall read is a warm, sociable, building montage that proves finance already threads through ordinary life, each subtitle landing one relatable moment as the camera glides on.",
+        "t2i_negative": "faces, full people, real bank or card logos, real currency portrait likeness, watermark, perspective distortion, harsh shadows, low-key lighting, heavy grain, neon, photographic textures, empty background",
+        "i2v_motion": "Run a single continuous top-down tracking move that glides and diagonally wipes through five sequential vignettes over the duration: hands place money and slide a calculator on the bill-splitting table; a hand presents a blue salary passbook and ID; a yellow passbook (1,870,000) gives way via diagonal wipe to the woman carrying a moving box up stairs; she then drives a white car in profile across a city skyline; finally the wheel scrolls up to a sea view where a finger points at a travel destination; white subtitles cross-fade one per vignette; smooth easing, gentle motion blur on faster scrolls; ~13.7s, building rhythm, ending on a dissolve to a beach.",
+        "i2v_params": {
+          "clip_duration_sec": 13.68,
+          "camera_move": "continuous_dolly_pan",
+          "subject_motion_level": "walk",
+          "signature_effect": "scroll_wipe_montage",
+          "pacing": "building",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; all subtitles and prop numerals (8,580 · 1,870,000) preserved verbatim; hands/props generic; protagonist a generic stylised character; no real logos."
+      }
+    },
+    {
+      "index": 5,
+      "duration": 3.2,
+      "framing": "medium_close",
+      "function": "aspiration_payoff",
+      "subject_action": "A stylised flat-illustrated woman relaxes at a sunny tropical beach, wearing round sunglasses and a white frangipani flower in her hair and a red-and-blue floral top, sipping an orange cocktail through a blue straw with a lemon slice on the rim; sailboats, a cruise ship, palm fronds and a hazy sun fill a saturated sea backdrop; a translucent booking card (✈ 하와이 자유여행 1,359,000원~ / 예약하기) is dissolving away over the scene.",
+      "copy_overlay": "하와이 자유여행 1,359,000원~ · 예약하기 (booking overlay, dissolving)",
+      "layout_grid": "center",
+      "subject_position": "center",
+      "typo_motion": "a travel booking UI card with airplane icon, price line and a 예약하기 button dissolves in/out over the lower-center; no narration subtitle on the clean mid frame",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "medium_close",
+      "gaze": "down_relaxed",
+      "props": [
+        "round sunglasses",
+        "white flower",
+        "orange cocktail with lemon and blue straw",
+        "sailboats",
+        "cruise ship",
+        "palm fronds",
+        "booking UI card"
+      ],
+      "color_palette": [
+        "#46c6d6",
+        "#f4a01f",
+        "#1b3fb0",
+        "#e9e2c0"
+      ],
+      "color_intent": "Hot saturated tropical teal-and-gold conveys carefree leisure; the deep blue floral top keeps the brand cool note present even in the holiday.",
+      "pose_description": "Seated, leaning back relaxed, one hand raising the cocktail toward her lips, face tilted slightly down behind sunglasses, serene.",
+      "subject_motion": "subtle sipping gesture; sailboats and cocktail drift gently; booking card dissolves",
+      "camera_motion": "very_slow_push_in",
+      "camera_effect_local": "ui_dissolve_overlay",
+      "intra_cut_rhythm": "easing",
+      "transition_in": "dissolve_from_montage",
+      "transition_out": "hard_cut",
+      "mid_frame_path": "ADV-2026-015_frames/cut05_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "woman with sunglasses and flower sipping a cocktail",
+          "orange cocktail with lemon slice"
+        ],
+        "midground": [
+          "sailboats",
+          "cruise ship",
+          "palm fronds",
+          "translucent booking card"
+        ],
+        "background": [
+          "saturated tropical sea, beach, hazy sun and warm sky gradient"
+        ],
+        "lighting_env": [
+          "bright warm sunlight ambient",
+          "hazy sun glow"
+        ],
+        "atmosphere": [
+          "sunny, warm, faint atmospheric glow"
+        ]
+      },
+      "texture": {
+        "primary_subject": "flat_illustration_matte",
+        "secondary_objects": [
+          "flat_vector_objects",
+          "ui_translucent_glass"
+        ],
+        "background_surface": "gradient_paper",
+        "atmospheric": [
+          "soft_sun_glow"
+        ]
+      },
+      "lighting": {
+        "key_direction": "back_top",
+        "key_hardness": "soft",
+        "key_color_temp": "warm_5200K",
+        "fill_strength": "strong",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": true,
+        "practical_lights": [
+          "hazy sun disc"
+        ],
+        "shadow_presence": "soft",
+        "overall_contrast": "mid"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#46c6d6",
+          "#f4a01f",
+          "#1b3fb0",
+          "#e9e2c0"
+        ],
+        "palette_role": {
+          "#46c6d6": "sea_dominant",
+          "#f4a01f": "sun_warm_accent",
+          "#1b3fb0": "floral_brand_cool",
+          "#e9e2c0": "beach_neutral"
+        },
+        "color_relationship": "warm_cool_split",
+        "temperature_balance": "split_warm_cool",
+        "saturation_strategy": "saturated_vivid",
+        "contrast_type": "hue_complementary",
+        "accent_color": "#f4a01f",
+        "accent_ratio": "20_percent",
+        "brand_color_match": [
+          "deep floral blue ~#1b3fb0 echoes Toss brand blue"
+        ]
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A vivid Korean lifestyle-commercial key frame in flat 2D illustration, a 16:9 landscape medium-close portrait of a carefree tropical-beach holiday. Centered and filling much of the frame is a stylised young woman drawn in clean editorial illustration, seen from the chest up, leaning back in relaxed leisure: she wears large round dark sunglasses, a single white frangipani flower tucked beside her black hair, and a red-and-deep-blue floral resort top (#1b3fb0 blues), and she raises an orange citrus cocktail toward her lips, the tall glass garnished with a yellow lemon wheel and a curved blue drinking straw. Behind her stretches a saturated tropical sea in bright teal (#46c6d6) under a warm sky that graduates from soft golden cream (#e9e2c0) near the horizon to teal-green above, with a hazy warm sun disc (#f4a01f) glowing upper-left. The scene is dressed with flat-illustrated holiday motifs: a small yellow sailboat and a red-sailed boat on the water, a long white cruise ship near the horizon, grey-blue headlands, and big stylised palm fronds framing the lower corners. Hovering over the lower-center as a translucent glassy overlay is a travel booking card showing a small airplane icon, a price line reading 하와이 자유여행 1,359,000원~, a couple of placeholder text bars, and a rounded button labelled 예약하기 in blue — rendered semi-transparent as if dissolving away. The composition is centered and frontal, the woman's relaxed face the focal point, the saturated sea and warm sky wrapping her in summer. Lighting is warm and sunny, a soft back-top key around a slightly cooler 5200K with a gentle rim glow from the hazy sun, strong fill so the illustration stays bright, and soft shadows under the chin and glass. The lens read is flat and straight-on at eye level with no perspective distortion. The colour strategy is a bold warm-cool split: hot golden sun and orange cocktail against vivid teal sea and the deep blue floral top, a high-saturation complementary contrast that screams vacation, with warm hues carrying about a fifth of the frame as accent against the dominant teal. Textures are smooth matte flat illustration on the figure and props, crisp flat vector on the boats and palms, a faint translucent glass on the booking card, and a soft gradient paper sky, with a gentle painterly grain; the only atmospheric is a soft diffuse sun glow. The atmosphere is sunny, indulgent and warm, with a faint hazy bloom around the sun but no smoke or particles. The post and signature look is polished flat-design commercial illustration, crisp anti-aliased edges, saturated but tasteful colour, a glossy holiday-ad feel. Style anchor: Korean lifestyle commercial / fintech brand film, flat editorial beach illustration, a generic stylised woman rather than any real person, with a dissolving app booking card; this still is the clean settled beat just after a travel-booking overlay has faded, the carefree high point before doubt creeps in. As a craft note for faithful recreation, lean into saturated tropical colour but keep it tasteful: the sea should graduate from bright teal to a paler shoreline, the sky from golden cream at the horizon to teal-green above, and the hazy sun a soft warm disc with a gentle diffuse bloom rather than a hard flare. Draw the woman in the same flat editorial style as the protagonist — black hair, minimal features behind round dark sunglasses, a white frangipani at the temple — so she stays a generic stylised character; her floral resort top mixes deep brand-leaning blues with coral blossoms. The cocktail glass is a simple tall vessel with a yellow lemon wheel and a curved blue straw, a thin condensation sheen its only detail. Scatter holiday motifs — a yellow sailboat, a red-sailed boat, a long white cruise ship, grey headlands and big stylised palm fronds in the lower corners — as flat shapes with soft shadows. The dissolving booking card should be a translucent glassy panel with an airplane glyph, the price line and a rounded 예약하기 button, low-opacity as if fading. The overall read is an indulgent, sun-warmed high point of the story, bright and aspirational, the carefree beat just before doubt arrives.",
+        "t2i_negative": "real person likeness, celebrity face, photographic skin, extra people, real airline or travel-brand logos, watermark, harsh shadows, low-key lighting, dull desaturated palette, heavy grain, perspective distortion",
+        "i2v_motion": "Run a very slow push-in on the relaxed beach portrait while she gently sips the orange cocktail (small straw-to-lips motion), the sailboats and palm fronds drift a touch, the hazy sun shimmers, and the translucent booking card with its 예약하기 button dissolves away over the lower-center; no rotation; ~3.2s, easing rhythm, ending on a hard cut into the doubt sequence.",
+        "i2v_params": {
+          "clip_duration_sec": 3.2,
+          "camera_move": "very_slow_push_in",
+          "subject_motion_level": "small",
+          "signature_effect": "ui_dissolve",
+          "pacing": "easing",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; booking-card copy (하와이 자유여행 1,359,000원~ · 예약하기) preserved verbatim; generic character; no real travel logos."
+      }
+    },
+    {
+      "index": 6,
+      "duration": 0.52,
+      "framing": "medium_close",
+      "function": "turn_doubt_onset",
+      "subject_action": "The same beach woman, still in sunglasses and flower, is now overlaid and surrounded by faded translucent financial UI panels (a credit card, a piggy-bank icon, charts, a shopping cart, a BUY button), the carefree holiday suddenly crowded by money-management worries.",
+      "copy_overlay": "현명한 금융 생활을 하고 있는지 (lower-center subtitle)",
+      "layout_grid": "center_overlay",
+      "subject_position": "center",
+      "typo_motion": "white subtitle at lower-center; translucent UI panels fade in around her",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "medium_close",
+      "gaze": "hidden_sunglasses",
+      "props": [
+        "translucent credit card",
+        "piggy-bank icon",
+        "charts",
+        "shopping cart / BUY button",
+        "sunglasses",
+        "flower"
+      ],
+      "color_palette": [
+        "#9fb6c4",
+        "#1f4fe0",
+        "#e9c23a",
+        "#d94c3d"
+      ],
+      "color_intent": "The vacation palette is washed under a cool translucent UI haze, signalling that financial questions are intruding on the leisure.",
+      "pose_description": "Still seated with the cocktail, but the surrounding faded UI overlays reframe her as preoccupied.",
+      "subject_motion": "minimal; UI panels drift/fade in over the held portrait",
+      "camera_motion": "locked_off",
+      "camera_effect_local": "translucent_ui_overlay",
+      "intra_cut_rhythm": "static",
+      "transition_in": "hard_cut",
+      "transition_out": "hard_cut",
+      "mid_frame_path": "ADV-2026-015_frames/cut06_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "beach woman with sunglasses and flower (washed)",
+          "cocktail glass"
+        ],
+        "midground": [
+          "translucent financial UI panels",
+          "credit card",
+          "piggy-bank icon",
+          "charts",
+          "BUY button"
+        ],
+        "background": [
+          "washed-out tropical sea and sky behind the UI haze"
+        ],
+        "lighting_env": [
+          "flat even ambient under a cool UI wash"
+        ],
+        "atmosphere": [
+          "clean, slightly clinical overlay, no haze"
+        ]
+      },
+      "texture": {
+        "primary_subject": "flat_illustration_matte",
+        "secondary_objects": [
+          "ui_translucent_glass",
+          "flat_vector_icons"
+        ],
+        "background_surface": "gradient_paper",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "front",
+        "key_hardness": "diffused",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "strong",
+        "key_to_fill_ratio": "1:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "soft",
+        "overall_contrast": "mid"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#9fb6c4",
+          "#1f4fe0",
+          "#e9c23a",
+          "#d94c3d"
+        ],
+        "palette_role": {
+          "#9fb6c4": "washed_background",
+          "#1f4fe0": "ui_brand_accent",
+          "#e9c23a": "warm_residual",
+          "#d94c3d": "alert_pop"
+        },
+        "color_relationship": "cool_with_warm_residue",
+        "temperature_balance": "cool_dominant",
+        "saturation_strategy": "muted_with_pop",
+        "contrast_type": "luminance_mid",
+        "accent_color": "#1f4fe0",
+        "accent_ratio": "15_percent",
+        "brand_color_match": [
+          "UI accents ~#1f4fe0 = Toss brand blue family"
+        ]
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A Korean lifestyle-commercial key frame in flat 2D illustration, a 16:9 landscape medium-close portrait that takes the carefree beach woman from the previous beat and washes it under a cool translucent layer of financial user-interface panels, signalling the onset of money worry. At the center, still seen from the chest up, the stylised young woman in round dark sunglasses with a white flower in her black hair and a floral resort top holds her orange cocktail, but her bright tropical scene — teal sea, sailboats, palm fronds, warm sky — is now muted and overlaid by a semi-transparent grid of pale financial UI cards and icons (#9fb6c4 wash). Floating around and partly over her are flat translucent interface elements: a royal-blue credit card (#1f4fe0) in the upper left, a small piggy-bank outline icon, simple bar and line chart cards, a browser-like panel with a shopping cart and a rounded BUY button, and faint placeholder text bars, all rendered glassy and low-opacity so the beach reads dimly behind them. A small coral alert accent (#d94c3d) and a mustard residue (#e9c23a) keep a hint of warmth. Centered low, a white Korean subtitle reads 현명한 금융 생활을 하고 있는지 in a clean sans-serif with a faint shadow. The composition stays centered and frontal on the woman, but the surrounding floating UI crowds the formerly open holiday space, making her feel preoccupied. Lighting is flat and even, a diffused frontal ambient at neutral 5500K with balanced fill under the cool UI wash, soft shadows only, deliberately clinical rather than sunny now. The lens read is flat and straight-on at eye level with no perspective distortion. The colour strategy is a cool palette with warm residue: the translucent grey-blue UI wash and brand-blue card dominate while faint mustard and coral survive from the beach, a muted-with-pop scheme where the brand blue and a coral alert are the only saturated notes. Textures are smooth matte flat illustration on the figure, translucent glass on the UI panels, crisp flat vector on the icons and button, and a soft gradient paper behind, no photographic surfaces and no heavy grain. The atmosphere is clean and faintly clinical, the holiday warmth draining under the interface overlay, with no smoke or particles. The post and signature look is polished flat-design commercial motion graphics, crisp anti-aliased edges, layered translucency, an intentionally over-busy momentary feel. Style anchor: Korean lifestyle commercial / fintech brand film, flat illustration with floating translucent UI overlay, a generic stylised woman rather than any real person; this very short still is the instant the carefree mood tips into financial uncertainty as money-management panels crowd in around her. As a craft note for faithful recreation, this is a very short transitional beat, so keep the woman exactly continuous with the previous and following frames — same pose, sunglasses, flower and floral top — but drain her tropical scene under a cool translucent wash so the beach reads only dimly behind the interface layer. The floating UI elements must be flat, low-opacity and glassy: a royal-blue credit card, a thin piggy-bank outline, simple bar and line chart cards, a browser-style panel with a small cart and a rounded BUY button, and faint placeholder text bars, arranged to crowd the formerly open holiday space without fully hiding her face. Let one small coral alert accent and a faint mustard residue survive from the beach palette so the transition from warm to cool is legible. Keep the white subtitle with a soft shadow at lower-center. The lighting flattens deliberately into a clinical even ambient, the sunny warmth gone. The overall read is the precise instant the carefree mood tips into preoccupation: the same person, the same beach, suddenly seen through a film of money questions, a brief held breath that sets up the worried face to follow.",
+        "t2i_negative": "real person likeness, celebrity face, photographic skin, extra people, real bank or shop logos, watermark, harsh shadows, low-key lighting, opaque solid UI blocking the figure entirely, heavy grain, perspective distortion",
+        "i2v_motion": "Very brief beat: hold the locked-off centered portrait while a layer of translucent financial UI panels (credit card, piggy bank, charts, cart, BUY) fades and drifts in around her, dimming the tropical scene; the white subtitle 현명한 금융 생활을 하고 있는지 holds at lower-center; no camera move; ~0.5s, static rhythm, ending on a hard cut.",
+        "i2v_params": {
+          "clip_duration_sec": 0.52,
+          "camera_move": "locked_off",
+          "subject_motion_level": "still",
+          "signature_effect": "ui_overlay",
+          "pacing": "static",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; subtitle preserved verbatim; generic character and generic UI; no real logos."
+      }
+    },
+    {
+      "index": 7,
+      "duration": 4.24,
+      "framing": "medium_close",
+      "function": "pain_point_uncertainty",
+      "subject_action": "The woman has lowered her sunglasses to reveal worried, uncertain eyes and knit brows, one hand to her chin, surrounded by flat financial UI elements including a red-X error window, a piggy bank, charts, a smartwatch panel and a BUY button — visualising feeling unsure and overwhelmed about money.",
+      "copy_overlay": "확신없고 막막할 때가 있지 않나요? (lower-center subtitle)",
+      "layout_grid": "center_overlay",
+      "subject_position": "center",
+      "typo_motion": "white subtitle holds at lower-center; UI panels (incl. a red-X error) sit around her",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "medium_close",
+      "gaze": "to_camera_worried",
+      "props": [
+        "red-X error window",
+        "piggy-bank icon",
+        "bar charts",
+        "smartwatch panel",
+        "BUY button",
+        "flower"
+      ],
+      "color_palette": [
+        "#cfd8df",
+        "#d94c3d",
+        "#1f4fe0",
+        "#e9c23a"
+      ],
+      "color_intent": "A cool desaturated UI field with a single red-X alert focuses the anxiety; her uncovered worried eyes become the emotional centre.",
+      "pose_description": "Sunglasses pushed down, brows drawn together, mouth turned slightly down, hand raised pensively near the chin — a clear beat of doubt.",
+      "subject_motion": "subtle worried expression shift; UI panels drift gently",
+      "camera_motion": "locked_off",
+      "camera_effect_local": "translucent_ui_overlay",
+      "intra_cut_rhythm": "steady",
+      "transition_in": "hard_cut",
+      "transition_out": "cut_to_abstract",
+      "mid_frame_path": "ADV-2026-015_frames/cut07_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "worried woman with sunglasses lowered",
+          "hand near chin"
+        ],
+        "midground": [
+          "red-X error window",
+          "piggy-bank icon",
+          "charts",
+          "smartwatch panel",
+          "BUY button"
+        ],
+        "background": [
+          "pale cool-grey field washed behind faded UI"
+        ],
+        "lighting_env": [
+          "flat even ambient"
+        ],
+        "atmosphere": [
+          "clean, clinical, no haze"
+        ]
+      },
+      "texture": {
+        "primary_subject": "flat_illustration_matte",
+        "secondary_objects": [
+          "flat_vector_icons",
+          "ui_panel_flat"
+        ],
+        "background_surface": "gradient_paper",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "front",
+        "key_hardness": "diffused",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "strong",
+        "key_to_fill_ratio": "1:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "soft",
+        "overall_contrast": "mid"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#cfd8df",
+          "#d94c3d",
+          "#1f4fe0",
+          "#e9c23a"
+        ],
+        "palette_role": {
+          "#cfd8df": "background_dominant",
+          "#d94c3d": "alert_focal_accent",
+          "#1f4fe0": "ui_brand_accent",
+          "#e9c23a": "warm_minor"
+        },
+        "color_relationship": "cool_with_red_alert",
+        "temperature_balance": "cool_dominant",
+        "saturation_strategy": "muted_with_pop",
+        "contrast_type": "hue_and_value",
+        "accent_color": "#d94c3d",
+        "accent_ratio": "15_percent",
+        "brand_color_match": [
+          "UI accents ~#1f4fe0 = Toss brand blue family"
+        ]
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A Korean lifestyle-commercial key frame in flat 2D illustration, a 16:9 landscape medium-close portrait expressing financial uncertainty. At the center, the stylised young woman from the beach beat has now pushed her round sunglasses down her nose, revealing worried eyes with gently knit brows and a faintly downturned mouth; the white flower still sits in her black hair, she wears the floral top, and one hand is raised pensively near her chin in a classic beat of doubt. Her tropical surroundings have been replaced by a pale cool-grey studio field (#cfd8df) populated with flat, low-saturation financial UI elements arranged around her like intrusive thoughts: a small browser-style window in the right mid-ground carrying a bold red circular X error mark (#d94c3d), a piggy-bank outline icon upper-left, simple grey bar and line charts at the lower corners, a smartwatch notification panel, a rounded BUY button, and scattered faint placeholder text bars, several rendered in muted blue-grey with brand-blue accents (#1f4fe0). The single red X is the visual hotspot, pulling the eye to the idea of something wrong or unconfirmed. Centered low, a white Korean subtitle reads 확신없고 막막할 때가 있지 않나요? in a clean sans-serif with a faint shadow. The composition is centered and frontal, her uncovered worried face the clear focal point while the desaturated UI clutter presses in from the edges. Lighting is flat and even, a diffused frontal ambient at neutral 5500K with balanced fill, soft shadows only, a deliberately clinical and slightly anxious flatness. The lens read is flat and straight-on at eye level with no perspective distortion. The colour strategy is a cool palette punctuated by a red alert: a desaturated grey field and muted blue-grey UI with one saturated coral-red X and restrained brand-blue accents, a muted-with-pop scheme where red and blue are the only strong notes, the red reading as a small but dominant accent. Textures are smooth matte flat illustration on the figure, flat vector on the icons and panels, crisp flat type on the subtitle, and a soft gradient paper field behind, no photographic surfaces and no heavy grain. The atmosphere is clean, clinical and quietly tense, with no smoke or particles. The post and signature look is polished flat-design commercial motion graphics, crisp anti-aliased edges, layered flat panels, an intentionally over-busy worried feel. Style anchor: Korean lifestyle commercial / fintech brand film, flat editorial illustration with floating financial UI and a red error mark, a generic stylised woman rather than any real person; this still is the pain-point beat where she looks unsure and overwhelmed about managing money. As a craft note for faithful recreation, push the emotional read clearly but stay within the flat editorial style: lower the round sunglasses down the nose so the eyes are visible, knit the brows gently, turn the mouth faintly down, and raise one hand pensively near the chin, the classic micro-gesture of doubt, while keeping her a generic stylised character rather than any real person. Surround her with flat, muted financial UI panels arranged like intrusive thoughts, with the single saturated coral-red circular X error mark as the unmistakable hotspot, supported by a piggy-bank icon, grey bar and line charts, a smartwatch notification, a rounded BUY button and faint text bars in muted blue-grey with restrained brand-blue accents. Keep the field a pale cool grey so the red and blue are the only strong notes. The lighting stays flat, even and faintly clinical, soft shadows only. The white subtitle holds a soft shadow at lower-center. The overall read is the film's pain-point beat made plain: a real, relatable flicker of feeling unsure and overwhelmed by money, the desaturated clutter and the red X pressing in while her uncovered worried eyes carry the moment.",
+        "t2i_negative": "real person likeness, celebrity face, photographic skin, extra people, real bank or shop logos, watermark, harsh shadows, low-key lighting, smiling expression, heavy grain, perspective distortion",
+        "i2v_motion": "Hold the locked-off centered portrait while her worried expression settles (brows knitting a touch more, hand resting near the chin) and the surrounding flat UI panels — including the red-X error window — drift and pulse gently around her; the white subtitle 확신없고 막막할 때가 있지 않나요? holds at lower-center; no camera move, no zoom; ~4.2s, steady rhythm, cutting to an abstract blue transition.",
+        "i2v_params": {
+          "clip_duration_sec": 4.24,
+          "camera_move": "locked_off",
+          "subject_motion_level": "small",
+          "signature_effect": "ui_overlay",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; subtitle preserved verbatim; generic character and generic UI; no real logos."
+      }
+    },
+    {
+      "index": 8,
+      "duration": 0.92,
+      "framing": "abstract",
+      "function": "transition_to_brand_world",
+      "subject_action": "A brief abstract transition on a deep royal-blue field: a flesh-toned circle (an abstracted face reduced to a single dot/eye) floats center-screen amid scattered flat fragments — a pale blue memo square, a black phone rectangle, a translucent browser window with a cart, a red card — as the film pivots from anxiety into the brand's blue world of easy money transfer.",
+      "copy_overlay": "(no subtitle on mid; leads into 어느 순간부터 많은 사람들에게 송금은)",
+      "layout_grid": "center",
+      "subject_position": "center",
+      "typo_motion": "none on the mid frame; abstract shapes scatter and converge",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "abstract",
+      "gaze": "none",
+      "props": [
+        "abstracted face dot",
+        "pale blue memo square",
+        "black phone rectangle",
+        "translucent browser/cart window",
+        "red card"
+      ],
+      "color_palette": [
+        "#1b2fa6",
+        "#f3c7b3",
+        "#7fb0e8",
+        "#c0392b"
+      ],
+      "color_intent": "Switching to a deep saturated brand-blue ground resets the mood; the lone warm face-dot reads as the individual entering the brand's world.",
+      "pose_description": "No figurative pose; the face is abstracted to a peach circle with a single dark dot, drifting upward as fragments fall away.",
+      "subject_motion": "the face-dot and shape fragments drift/scatter across the blue field",
+      "camera_motion": "locked_off",
+      "camera_effect_local": "shape_scatter_transition",
+      "intra_cut_rhythm": "quick",
+      "transition_in": "cut_from_uncertainty",
+      "transition_out": "match_to_blue_world",
+      "mid_frame_path": "ADV-2026-015_frames/cut08_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "central peach face-dot with a single dark dot"
+        ],
+        "midground": [
+          "pale blue memo square",
+          "black phone rectangle",
+          "translucent browser/cart window",
+          "red tilted card"
+        ],
+        "background": [
+          "deep saturated royal-blue field with faint cloudy texture"
+        ],
+        "lighting_env": [
+          "flat even ambient on blue"
+        ],
+        "atmosphere": [
+          "clean, deep-blue void, no haze"
+        ]
+      },
+      "texture": {
+        "primary_subject": "flat_matte_shape",
+        "secondary_objects": [
+          "flat_vector_fragments"
+        ],
+        "background_surface": "flat_color_painted",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "front",
+        "key_hardness": "diffused",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "medium",
+        "key_to_fill_ratio": "1:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "minimal",
+        "overall_contrast": "mid"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#1b2fa6",
+          "#f3c7b3",
+          "#7fb0e8",
+          "#c0392b"
+        ],
+        "palette_role": {
+          "#1b2fa6": "background_dominant",
+          "#f3c7b3": "face_warm_focal",
+          "#7fb0e8": "fragment_blue",
+          "#c0392b": "fragment_red"
+        },
+        "color_relationship": "brand_dominant_with_pops",
+        "temperature_balance": "cool_dominant",
+        "saturation_strategy": "vivid",
+        "contrast_type": "luminance_high",
+        "accent_color": "#f3c7b3",
+        "accent_ratio": "5_percent",
+        "brand_color_match": [
+          "deep field ~#1b2fa6 = Toss brand blue family"
+        ]
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A minimal Korean fintech brand-film transition key frame in flat 2D motion-graphics, a 16:9 landscape that resets the mood onto a deep, saturated royal-blue field (#1b2fa6) carrying a faint cloudy painterly texture and a subtle darkening toward the edges. Floating just above center is the abstract hero of this brief beat: a smooth peach-toned circle (#f3c7b3) standing in for a human face reduced to its simplest sign — a single small dark dot near its upper third reads as one eye or a minimal expression — drifting gently upward as if the individual is being lifted into a new, calmer world. Scattered around the blue void are a few flat, partly translucent interface and object fragments left over from the previous anxiety: a pale blue memo or note square (#7fb0e8) tilted in the upper left, a small solid black phone rectangle upper-center, a faint translucent browser-style window with a tiny shopping cart and globe icon in the upper right, and a tilted red card (#c0392b) dropping out of frame at the bottom, all softly shadowed against the blue. The composition is centered and very spare, dominated by the field of deep blue with the lone warm face-dot as the single focal accent and the fragments reading as departing clutter. Lighting is flat and even, a diffused frontal ambient at neutral 5500K with medium fill, minimal shadows, keeping the surface clean and screen-native. The lens read is flat and straight-on at eye level with no perspective and no depth cues beyond the soft drop shadows. The colour strategy is brand-dominant with tiny pops: one saturated royal-blue ground owning almost the entire frame, a single warm peach face-dot as the only meaningful focal colour, and small blue and red fragment accents, the warm accent reading as barely five percent of the frame. Textures are smooth matte flat shapes throughout, flat vector on the fragments, a softly painted flat-colour blue field, no photographic surfaces and no heavy grain. The atmosphere is a clean deep-blue void, calm and resetting, with no smoke, haze or particles. The post and signature look is polished flat-design commercial motion graphics, crisp anti-aliased edges, soft minimal shadows, a confident brand-colour interstitial. Style anchor: Korean lifestyle commercial / fintech brand film, abstract flat-shape transition on full brand blue, a face abstracted to a peach dot rather than any real person; this very short still is the pivot beat where the film leaves financial anxiety behind and enters the brand's blue world of effortless money transfer. As a craft note for faithful recreation, keep this pivot beat extremely spare so the shift in mood lands: the deep royal-blue field should own almost the entire frame with only a faint cloudy painterly texture and a subtle edge darkening, no gradient hot spots. The abstracted face is simply a smooth peach circle with one small dark dot for an eye or minimal expression, drifting gently upward as the leftover clutter departs; render it generic and sign-like, never a real face. The departing fragments — a tilted pale-blue memo square, a small solid black phone rectangle, a translucent browser panel with a tiny cart and globe, and a tilted red card falling out of the bottom — should be flat, softly shadowed and clearly on their way out of frame. No subtitle sits on this beat. The overall read is a confident colour-reset interstitial: the film exhaling the anxiety of the previous scene and inhaling the brand's calm blue world, the lone warm face-dot standing for the individual being carried into a simpler place where money transfer is effortless, a brief graphic breath between problem and solution.",
+        "t2i_negative": "real faces, photographic people, real logos, trademark marks, watermark, gradients with hot spots, harsh shadows, busy texture, neon, heavy grain, perspective distortion, clutter",
+        "i2v_motion": "Very brief pivot: on the deep royal-blue field the peach face-dot drifts gently upward toward center while the leftover flat fragments (memo square, phone rectangle, browser/cart window, red card) scatter and fall away out of frame; no camera move; ~0.9s, quick rhythm, matching into the next full-blue scene.",
+        "i2v_params": {
+          "clip_duration_sec": 0.92,
+          "camera_move": "locked_off",
+          "subject_motion_level": "small",
+          "signature_effect": "shape_scatter",
+          "pacing": "quick",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; abstract shapes and brand color generic; no real logos; no real-person likeness."
+      }
+    },
+    {
+      "index": 9,
+      "duration": 7.6,
+      "framing": "environment",
+      "function": "solution_setup_transfer_easy",
+      "subject_action": "On the brand-blue field a hand flicks a small blue won-chip, then a white coin/dot floats centered; the scene resolves into a grid of generic circular contact avatars on blue with three illustrated people highlighted (a man with a backpack, the protagonist in red holding a phone, a person in glasses); finally a finger taps the center avatar — selecting a recipient, sending money as easily as picking a contact to text.",
+      "copy_overlay": "어느 순간부터 / 많은 사람들에게 송금은 / 문자를 보내는 것만큼 / 간편한 일이 됐습니다 (sequential lower-center subtitles)",
+      "layout_grid": "center_then_grid",
+      "subject_position": "center",
+      "typo_motion": "white narration subtitles cross-fade in sequence at lower-center across the cut",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "environment",
+      "gaze": "none",
+      "props": [
+        "blue won-chip / white coin",
+        "grid of circular contact avatars",
+        "three highlighted character portraits",
+        "pointing finger"
+      ],
+      "color_palette": [
+        "#1f4fe0",
+        "#ffffff",
+        "#e85d3a",
+        "#f2b417"
+      ],
+      "color_intent": "Full brand-blue ownership with white tokens and warm-skinned avatars makes the contacts grid feel friendly and instantly legible as a person-to-person money network.",
+      "pose_description": "A hand flicks/holds a chip; later a finger reaches in to tap a circular avatar; the three portrait characters sit calmly facing forward.",
+      "subject_motion": "chip flick, coin float, avatars populate the grid, finger taps a contact",
+      "camera_motion": "slow_push_then_static",
+      "camera_effect_local": "tap_interaction",
+      "intra_cut_rhythm": "building",
+      "transition_in": "match_from_blue_transition",
+      "transition_out": "dissolve_to_app_card",
+      "mid_frame_path": "ADV-2026-015_frames/cut09_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "central white coin / blue won-chip",
+          "three highlighted contact portraits",
+          "pointing finger"
+        ],
+        "midground": [
+          "grid of faded generic circular contact avatars",
+          "small floating dot accents"
+        ],
+        "background": [
+          "deep saturated royal-blue field with faint texture"
+        ],
+        "lighting_env": [
+          "flat even ambient on blue"
+        ],
+        "atmosphere": [
+          "clean, deep-blue brand world, no haze"
+        ]
+      },
+      "texture": {
+        "primary_subject": "flat_matte_token",
+        "secondary_objects": [
+          "flat_illustration_matte",
+          "flat_vector_avatars"
+        ],
+        "background_surface": "flat_color_painted",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "front",
+        "key_hardness": "diffused",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "strong",
+        "key_to_fill_ratio": "1:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "minimal",
+        "overall_contrast": "mid"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#1f4fe0",
+          "#ffffff",
+          "#e85d3a",
+          "#f2b417"
+        ],
+        "palette_role": {
+          "#1f4fe0": "background_dominant",
+          "#ffffff": "token_foreground",
+          "#e85d3a": "character_warm_accent",
+          "#f2b417": "minor_warm_pop"
+        },
+        "color_relationship": "brand_dominant",
+        "temperature_balance": "cool_dominant",
+        "saturation_strategy": "vivid_with_warm_accents",
+        "contrast_type": "luminance_high",
+        "accent_color": "#ffffff",
+        "accent_ratio": "10_percent",
+        "brand_color_match": [
+          "full field ~#1f4fe0 = Toss brand blue"
+        ]
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A Korean fintech brand-film key frame in flat 2D illustration on a full-bleed deep royal-blue field (#1f4fe0) carrying a faint cloudy texture, a 16:9 landscape that visualises sending money as effortlessly as choosing a contact to text. Filling the frame is a regular grid of soft circular contact avatars rendered as faint, low-opacity blue silhouettes of generic smiling head-and-shoulders icons, receding like an address book of many people. Standing out from the faded grid are three fully illustrated character portraits in opaque circular bubbles, evenly spaced across the middle band: on the left a young man with dark hair and a backpack strap in a yellow top; at the exact center the protagonist — a young woman with black hair in a low side-braid and a coral-red top (#e85d3a), a small phone visible at her chest and a tiny string of dark speech-dots beside her; on the right a person with round teal glasses in a striped green top. A small warm mustard dot (#f2b417) or two floats among the avatars as a friendly accent. Reaching in from the lower edge, a single peach-toned index finger hovers toward the center portrait, about to tap it like selecting a recipient. Centered low, a white Korean subtitle reads 간편한 일이 됐습니다 in a clean sans-serif with a faint shadow. The composition is centered and orderly, the regular avatar grid giving structure while the three coloured portraits and the pointing finger draw the eye to the act of choosing a person. Lighting is flat and even, a diffused frontal ambient at neutral 5500K with strong fill, minimal shadows, keeping the surface clean and screen-native. The lens read is flat and straight-on at eye level with no perspective distortion. The colour strategy is strongly brand-dominant: one saturated royal-blue ground owning the frame, crisp white and warm-skinned avatars providing friendly contrast, and small coral and mustard accents on the highlighted characters, white reading as roughly a tenth of the frame. Textures are smooth matte flat illustration on the portraits, flat vector on the faded avatar icons and finger, a softly painted flat-colour blue field, no photographic surfaces and no heavy grain. The atmosphere is clean and sociable, a calm bright brand world, with no smoke, haze or particles. The post and signature look is polished flat-design commercial motion graphics, crisp anti-aliased edges, soft minimal shadows, an approachable people-network feel. Style anchor: Korean lifestyle commercial / fintech brand film, flat illustrated contacts grid on full brand blue, generic stylised people rather than any real persons; this still is the moment a finger is about to tap a contact, dramatising that transferring money has become as simple as sending a text. As a craft note for faithful recreation, build the contacts grid as a regular matrix of faint, low-opacity circular avatar icons — generic smiling head-and-shoulders silhouettes in slightly lighter blue than the field — so it reads instantly as an address book of many people without any real likenesses. The three highlighted portraits should be opaque, fully illustrated flat characters in circular crops (a young man with a backpack strap in yellow, the protagonist in coral-red with a small phone and a string of dark speech-dots, and a person in round teal glasses and a striped green top), each a generic stylised character. The peach index finger reaching from the lower edge should be simple and flat, hovering toward the center portrait with a soft contact ripple to imply a tap. Keep small warm mustard dots floating as friendly accents. The blue field carries a faint cloudy texture; the white subtitle holds a soft shadow at lower-center. The overall read is a friendly person-to-person money network: choosing who to pay is as casual as opening a chat thread and tapping a contact, the brand-blue world bright, sociable and reassuringly simple.",
+        "t2i_negative": "real person likeness, celebrity face, photographic skin, real messaging-app logos, watermark, harsh shadows, low-key lighting, opaque cluttered UI, neon, heavy grain, perspective distortion",
+        "i2v_motion": "Across the beat: open with a hand flicking a small blue won-chip on the blue field and a white coin floating to center, then populate a grid of faded contact avatars and bring three coloured character portraits into focus, finally a peach finger reaches in from below and taps the center portrait with a soft ripple; gentle slow push then settle; white subtitles cross-fade one per phrase at lower-center; ~7.6s, building rhythm, dissolving toward a clean app card.",
+        "i2v_params": {
+          "clip_duration_sec": 7.6,
+          "camera_move": "slow_push_then_static",
+          "subject_motion_level": "walk",
+          "signature_effect": "tap_interaction",
+          "pacing": "building",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; subtitle preserved verbatim; generic stylised people and generic avatars; no real logos; brand color generic-but-faithful."
+      }
+    },
+    {
+      "index": 10,
+      "duration": 3.24,
+      "framing": "graphic_card",
+      "function": "product_demo_greeting",
+      "subject_action": "A clean white rounded app card floats on a soft light-grey gradient, showing a personalised greeting 지영님 안녕하세요. in brand-blue beside the protagonist's circular avatar (red top, content smile, coffee mug) — the app welcoming the user by name.",
+      "copy_overlay": "지영님 안녕하세요. (app greeting on card)",
+      "layout_grid": "center",
+      "subject_position": "center",
+      "typo_motion": "the greeting text and avatar settle onto the card with a gentle fade/pop; card has a soft drop shadow",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "graphic_card",
+      "gaze": "to_camera_friendly",
+      "props": [
+        "white rounded app card",
+        "circular user avatar",
+        "coffee mug"
+      ],
+      "color_palette": [
+        "#e7e8ea",
+        "#ffffff",
+        "#1b2fa6",
+        "#e85d3a"
+      ],
+      "color_intent": "A near-white card on light grey reads as a calm, premium app surface; brand-blue greeting text and the warm avatar make it personal and friendly.",
+      "pose_description": "The avatar shows the woman from the chest up with a soft content smile facing forward; no full-body pose.",
+      "subject_motion": "minimal; the card and avatar settle and hold",
+      "camera_motion": "locked_off",
+      "camera_effect_local": "card_settle",
+      "intra_cut_rhythm": "steady",
+      "transition_in": "dissolve_from_contacts",
+      "transition_out": "cross_dissolve_to_card",
+      "mid_frame_path": "ADV-2026-015_frames/cut10_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "white rounded app greeting card",
+          "circular user avatar with coffee mug",
+          "지영님 안녕하세요 text"
+        ],
+        "midground": [
+          "soft drop shadow under the card"
+        ],
+        "background": [
+          "light cool-grey gradient field"
+        ],
+        "lighting_env": [
+          "soft even ambient with gentle floor gradient"
+        ],
+        "atmosphere": [
+          "clean, calm, no haze"
+        ]
+      },
+      "texture": {
+        "primary_subject": "flat_ui_card",
+        "secondary_objects": [
+          "flat_illustration_matte"
+        ],
+        "background_surface": "gradient_paper",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "front",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "strong",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "soft",
+        "overall_contrast": "hi_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#e7e8ea",
+          "#ffffff",
+          "#1b2fa6",
+          "#e85d3a"
+        ],
+        "palette_role": {
+          "#e7e8ea": "background_dominant",
+          "#ffffff": "card_surface",
+          "#1b2fa6": "greeting_brand_accent",
+          "#e85d3a": "avatar_warm_accent"
+        },
+        "color_relationship": "brand_dominant",
+        "temperature_balance": "cool_dominant",
+        "saturation_strategy": "clean_minimal",
+        "contrast_type": "luminance_high",
+        "accent_color": "#1b2fa6",
+        "accent_ratio": "10_percent",
+        "brand_color_match": [
+          "greeting text ~#1b2fa6 = Toss brand blue family"
+        ]
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A clean Korean fintech app-demo key frame in flat 2D motion-graphics, a 16:9 landscape centered on a single floating user-interface card against a soft light cool-grey vertical gradient field (#e7e8ea) with a gentle painterly texture and a faint floor gradient. Dominating the center is a large white rounded-rectangle app card (#ffffff) with softly rounded corners and a diffuse drop shadow that lifts it off the background like a premium mobile surface. On the left side of the card, set in a heavy rounded Korean sans-serif in saturated brand cobalt-blue (#1b2fa6), a two-line personalised greeting reads 지영님 / 안녕하세요. On the right side of the card sits a circular avatar portrait of the protagonist drawn in flat editorial illustration: a young woman seen from the chest up with black hair in a low side-braid, a calm content smile, wearing a coral-red top (#e85d3a) with a thin lanyard, a small yellow coffee mug visible beside her, the circle cropping her against a soft grey interior. The card is the lone object in the frame, surrounded by generous calm margins of pale grey. Lighting is soft, high-key and even, a broad diffused frontal key at neutral 5500K with strong fill, no rim light, and only the soft card drop shadow grounding the surface. The lens read is flat and straight-on at eye level with no perspective distortion, the card sitting squarely on the picture plane. The colour strategy is brand-dominant and minimal: a near-white card and pale grey field with the saturated cobalt greeting and the warm coral avatar as the only meaningful colours, brand blue reading as roughly a tenth of the frame, a clean and reassuring scheme. Textures are smooth flat UI on the card, soft matte flat illustration on the avatar, crisp flat type on the greeting, and a soft gradient paper field behind, no photographic surfaces and no heavy grain. The atmosphere is calm, premium and friendly, with no smoke, haze or particles. The post and signature look is polished flat-design commercial app motion graphics, crisp anti-aliased edges, a gentle soft shadow, screen-accurate UI cleanliness. Style anchor: Korean lifestyle commercial / fintech brand film, single floating app greeting card, a generic stylised avatar rather than any real person; this still is the calm product-reveal beat where the app welcomes the user by name as the film moves from problem to solution. As a craft note for faithful recreation, render the app card as a clean white rounded rectangle with a soft diffuse drop shadow that lifts it convincingly off the pale grey field, the corners generously rounded like a real mobile surface. The greeting type sits on the left in a heavy rounded Korean sans-serif in saturated cobalt, two lines, optically balanced against the avatar on the right. Draw the circular avatar in the same flat editorial style as the protagonist — black hair in a low side-braid, a soft content smile, a coral-red top with a thin lanyard, a small yellow coffee mug beside her, cropped against a soft grey interior — keeping her a generic stylised character rather than any real person. Keep the surrounding field a calm cool-grey vertical gradient with a faint floor gradient and barely-there grain, generous empty margins doing the premium work. The lighting is soft high-key with only the card's own shadow. The overall read is the warm first beat of the product reveal: the app greeting the user by name, personal and friendly, the design language clean and trustworthy, signalling that the solution to all that earlier worry is simple and human.",
+        "t2i_negative": "real person likeness, celebrity face, photographic skin, extra people, real app or bank logos, watermark, harsh shadows, low-key lighting, busy background, neon, heavy grain, perspective distortion",
+        "i2v_motion": "Cross-dissolve in from the contacts grid to the white app card; the greeting text 지영님 안녕하세요. and the circular avatar settle onto the card with a gentle fade-and-pop, the card easing a touch upward and holding still with its soft shadow; locked-off camera, no zoom; ~3.2s, steady rhythm, cross-dissolving to the next app card.",
+        "i2v_params": {
+          "clip_duration_sec": 3.24,
+          "camera_move": "locked_off",
+          "subject_motion_level": "still",
+          "signature_effect": "card_settle",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; greeting copy 지영님 안녕하세요. preserved verbatim; generic stylised avatar; no real logos."
+      }
+    },
+    {
+      "index": 11,
+      "duration": 2.36,
+      "framing": "graphic_card",
+      "function": "product_demo_spending",
+      "subject_action": "A white rounded app card on a saturated brand-blue gradient shows a monthly-spending headline 이번 달의 지출 내역입니다. with an animated multi-colour donut chart and a category legend (카드대금 blue, 이체 coral, 기타 green, 쇼핑 yellow, 그 외 7개 카테고 grey).",
+      "copy_overlay": "이번 달의 지출 내역입니다. · 카드대금 / 이체 / 기타 / 쇼핑 / 그 외 7개 카테고 (card UI labels)",
+      "layout_grid": "center",
+      "subject_position": "center",
+      "typo_motion": "headline and legend settle onto the card; the donut segments sweep/draw in",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "graphic_card",
+      "gaze": "none",
+      "props": [
+        "white rounded app card",
+        "multi-colour donut chart",
+        "category legend"
+      ],
+      "color_palette": [
+        "#2f7df0",
+        "#ffffff",
+        "#1f4fe0",
+        "#e85d3a"
+      ],
+      "color_intent": "A bright brand-blue ground frames a clean white card; the donut's blue-dominant slices echo the brand while category colours add legible variety.",
+      "pose_description": "No human; data-visualisation card presented straight-on like a product hero.",
+      "subject_motion": "donut chart segments animate/draw in; numbers settle",
+      "camera_motion": "locked_off",
+      "camera_effect_local": "data_viz_draw",
+      "intra_cut_rhythm": "steady",
+      "transition_in": "cross_dissolve_from_card",
+      "transition_out": "cross_dissolve_to_card",
+      "mid_frame_path": "ADV-2026-015_frames/cut11_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "white rounded app card",
+          "multi-colour donut chart",
+          "category legend text"
+        ],
+        "midground": [
+          "soft drop shadow under the card"
+        ],
+        "background": [
+          "saturated brand-blue gradient field"
+        ],
+        "lighting_env": [
+          "soft even ambient"
+        ],
+        "atmosphere": [
+          "clean, no haze"
+        ]
+      },
+      "texture": {
+        "primary_subject": "flat_ui_card",
+        "secondary_objects": [
+          "flat_vector_chart"
+        ],
+        "background_surface": "gradient_color",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "front",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "strong",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "soft",
+        "overall_contrast": "hi_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#2f7df0",
+          "#ffffff",
+          "#1f4fe0",
+          "#e85d3a"
+        ],
+        "palette_role": {
+          "#2f7df0": "background_dominant",
+          "#ffffff": "card_surface",
+          "#1f4fe0": "chart_brand_slice",
+          "#e85d3a": "chart_warm_slice"
+        },
+        "color_relationship": "brand_dominant",
+        "temperature_balance": "cool_dominant",
+        "saturation_strategy": "saturated_clean",
+        "contrast_type": "luminance_high",
+        "accent_color": "#1f4fe0",
+        "accent_ratio": "20_percent",
+        "brand_color_match": [
+          "chart and field blue ~#1f4fe0 = Toss brand blue"
+        ]
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A clean Korean fintech app-demo key frame in flat 2D motion-graphics, a 16:9 landscape centered on a single data-visualisation card against a saturated brand-blue gradient field (#2f7df0) that shades a touch deeper toward the corners. At the center floats a large white rounded-rectangle app card (#ffffff) with a soft drop shadow lifting it off the bright blue ground. Across the top of the card, in a heavy rounded Korean sans-serif in dark navy, a headline reads 이번 달의 지출 내역입니다. Below and to the left sits a bold multi-colour donut chart: a thick ring whose largest segment is saturated brand blue (#1f4fe0), with smaller slices in coral (#e85d3a), teal-green, mustard-yellow and pale grey completing the circle around an empty white center. To the right of the donut is a clean vertical legend, each row a small coloured square beside a Korean label: a blue square with 카드대금, a coral square with 이체, a green square with 기타, a yellow square with 쇼핑, and a grey square with 그 외 7개 카테고. The card is the lone object in frame, surrounded by generous margins of vivid blue. Lighting is soft, high-key and even, a broad diffused frontal key at neutral 5500K with strong fill, no rim light, and only the soft card shadow grounding the surface. The lens read is flat and straight-on at eye level with no perspective distortion, the card squarely on the picture plane. The colour strategy is brand-dominant: a saturated blue ground and a blue-led donut keep the brand front and center while the coral, green, yellow and grey slices and legend swatches add just enough categorical variety to read clearly, the brand blue carrying roughly a fifth of the frame. Textures are smooth flat UI on the card, crisp flat vector on the donut and legend, clean flat type on the labels, and a soft colour gradient behind, no photographic surfaces and no heavy grain. The atmosphere is clean, bright and confident, with no smoke, haze or particles. The post and signature look is polished flat-design commercial app motion graphics, crisp anti-aliased edges, a gentle soft shadow, screen-accurate chart contrast. Style anchor: Korean lifestyle commercial / fintech brand film, single floating spending-breakdown card, data-viz donut, no people; this still is the settled state of a spending-summary card whose donut segments have just drawn into place to show the month's expenses at a glance. As a craft note for faithful recreation, keep the card a clean white rounded rectangle with a soft drop shadow floating on the saturated brand-blue ground, the headline in a heavy rounded Korean sans-serif in dark navy across the top. Draw the donut as a thick even ring with a clearly dominant brand-blue segment and smaller coral, teal-green, mustard and grey slices meeting cleanly around a hollow white center, no 3D bevel, just flat vector. The legend on the right should be tidy rows, each a small rounded colour square beside its Korean label, the colours matching the donut slices exactly so the mapping is instant. Keep generous margins of vivid blue around the lone card. The lighting is soft high-key with only the card's shadow, and the contrast is screen-accurate so every label stays crisp. The overall read is a confident, legible data beat in the product demo: the month's spending shown as one clean chart, the brand blue leading the palette, reassuring the viewer that Toss turns messy money into something glanceable and calm rather than intimidating, a single tidy card that proves the promise of simplicity.",
+        "t2i_negative": "people, faces, hands, real bank or card-brand logos, watermark, harsh shadows, low-key lighting, busy background, photographic textures, neon, heavy grain, perspective distortion",
+        "i2v_motion": "Cross-dissolve in from the greeting card; the headline 이번 달의 지출 내역입니다. settles at the top while the donut chart segments sweep and draw in around the ring and the category legend rows fade in one by one; the card holds still with its soft shadow; locked-off camera, no zoom; ~2.4s, steady rhythm, cross-dissolving to the next card.",
+        "i2v_params": {
+          "clip_duration_sec": 2.36,
+          "camera_move": "locked_off",
+          "subject_motion_level": "micro",
+          "signature_effect": "data_viz_draw",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; headline and category labels preserved verbatim; chart generic; no real logos."
+      }
+    },
+    {
+      "index": 12,
+      "duration": 2.2,
+      "framing": "graphic_card",
+      "function": "product_demo_savings",
+      "subject_action": "A white rounded app card on a soft mint-green gradient poses a friendly suggestion 자유 적금을 시작해보는 건 어떨까요? above a row of short colourful capsule bars of varying heights, implying easy savings options.",
+      "copy_overlay": "자유 적금을 시작해보는 건 어떨까요? (card UI headline)",
+      "layout_grid": "center",
+      "subject_position": "center",
+      "typo_motion": "headline settles; capsule bars grow/stagger up; subtitle 더 쉽고 간편하게 만들어 갑니다 at lower-center",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "graphic_card",
+      "gaze": "none",
+      "props": [
+        "white rounded app card",
+        "row of colourful capsule bars"
+      ],
+      "color_palette": [
+        "#bfe0c4",
+        "#ffffff",
+        "#1b2fa6",
+        "#2bb38a"
+      ],
+      "color_intent": "A fresh mint-green ground signals growth and savings; the multi-colour capsule bars read as cheerful, low-pressure options.",
+      "pose_description": "No human; suggestion card presented straight-on like a product hero.",
+      "subject_motion": "capsule bars animate up in a gentle stagger",
+      "camera_motion": "locked_off",
+      "camera_effect_local": "bar_grow",
+      "intra_cut_rhythm": "steady",
+      "transition_in": "cross_dissolve_from_card",
+      "transition_out": "cross_dissolve_to_home",
+      "mid_frame_path": "ADV-2026-015_frames/cut12_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "white rounded app card",
+          "row of short colourful capsule bars",
+          "자유 적금 headline"
+        ],
+        "midground": [
+          "soft drop shadow under the card"
+        ],
+        "background": [
+          "soft mint-green gradient field"
+        ],
+        "lighting_env": [
+          "soft even ambient"
+        ],
+        "atmosphere": [
+          "clean, fresh, no haze"
+        ]
+      },
+      "texture": {
+        "primary_subject": "flat_ui_card",
+        "secondary_objects": [
+          "flat_vector_bars"
+        ],
+        "background_surface": "gradient_color",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "front",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "strong",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "soft",
+        "overall_contrast": "hi_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#bfe0c4",
+          "#ffffff",
+          "#1b2fa6",
+          "#2bb38a"
+        ],
+        "palette_role": {
+          "#bfe0c4": "background_dominant",
+          "#ffffff": "card_surface",
+          "#1b2fa6": "headline_brand_accent",
+          "#2bb38a": "growth_green_accent"
+        },
+        "color_relationship": "analogous_fresh",
+        "temperature_balance": "cool_warm_balanced",
+        "saturation_strategy": "saturated_clean",
+        "contrast_type": "luminance_high",
+        "accent_color": "#1b2fa6",
+        "accent_ratio": "10_percent",
+        "brand_color_match": [
+          "headline ~#1b2fa6 = Toss brand blue family"
+        ]
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A clean Korean fintech app-demo key frame in flat 2D motion-graphics, a 16:9 landscape centered on a single suggestion card against a soft fresh mint-green vertical gradient field (#bfe0c4) that fades a little lighter toward the top, with a gentle painterly texture. At the center floats a large white rounded-rectangle app card (#ffffff) with a soft drop shadow lifting it off the green ground. Across the upper-left of the card, in a heavy rounded Korean sans-serif in saturated brand cobalt-blue (#1b2fa6), a friendly two-line suggestion reads 자유 적금을 / 시작해보는 건 어떨까요? Below the text, occupying the lower portion of the card, sits a neat row of seven or eight short rounded capsule bars of staggered heights, each a different cheerful colour — blue, sky, mustard, coral, teal-green (#2bb38a), pale blue and a final shorter coral — resting on faint grey base stems like a playful little bar chart of savings options. The card is the lone object in frame, surrounded by generous margins of soft mint. Centered low, a white Korean subtitle reads 더 쉽고 간편하게 만들어 갑니다 in a clean sans-serif with a faint shadow. Lighting is soft, high-key and even, a broad diffused frontal key at neutral 5500K with strong fill, no rim light, and only the soft card shadow grounding the surface. The lens read is flat and straight-on at eye level with no perspective distortion, the card squarely on the picture plane. The colour strategy is fresh and analogous: a calm mint ground with the saturated cobalt headline and a cheerful multi-colour capsule row, a balanced clean scheme where the brand blue anchors and the green signals growth, blue reading as roughly a tenth of the frame. Textures are smooth flat UI on the card, crisp flat vector on the capsule bars, clean flat type on the headline, and a soft colour gradient behind, no photographic surfaces and no heavy grain. The atmosphere is clean, fresh and encouraging, with no smoke, haze or particles. The post and signature look is polished flat-design commercial app motion graphics, crisp anti-aliased edges, a gentle soft shadow, screen-accurate cleanliness. Style anchor: Korean lifestyle commercial / fintech brand film, single floating savings-suggestion card with a colourful bar row, no people; this still is the settled state of a friendly card inviting the user to start a flexible savings plan. As a craft note for faithful recreation, keep the card a clean white rounded rectangle with a soft drop shadow floating on the fresh mint-green ground, the two-line suggestion headline in a heavy rounded Korean sans-serif in saturated cobalt in the upper-left. Draw the capsule bars as a neat row of rounded vertical pills of staggered heights resting on faint grey base stems, each a different cheerful flat colour — blue, sky, mustard, coral, teal-green, pale blue and a shorter coral — like a playful miniature bar chart of savings options, no gradients or bevels. Keep generous margins of soft mint around the lone card, the green signalling growth and ease. The white subtitle holds a soft shadow at lower-center. The lighting is soft high-key with only the card's shadow. The overall read is an encouraging, low-pressure beat in the product demo: the app gently inviting the user to start a flexible savings plan, the colourful little bars making saving feel approachable and friendly rather than burdensome, another tidy proof that Toss makes financial life simpler and more inviting.",
+        "t2i_negative": "people, faces, hands, real bank logos, watermark, harsh shadows, low-key lighting, busy background, photographic textures, neon, heavy grain, perspective distortion",
+        "i2v_motion": "Cross-dissolve in from the spending card; the headline 자유 적금을 시작해보는 건 어떨까요? settles in the upper-left while the colourful capsule bars grow upward in a gentle staggered sequence from their base stems; the card holds still with its soft shadow; white subtitle 더 쉽고 간편하게 만들어 갑니다 holds at lower-center; locked-off camera, no zoom; ~2.2s, steady rhythm, cross-dissolving to the app home screen.",
+        "i2v_params": {
+          "clip_duration_sec": 2.2,
+          "camera_move": "locked_off",
+          "subject_motion_level": "micro",
+          "signature_effect": "bar_grow",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; headline and subtitle preserved verbatim; chart generic; no real logos."
+      }
+    },
+    {
+      "index": 13,
+      "duration": 4.4,
+      "framing": "screen_fill",
+      "function": "product_demo_dashboard_at_a_glance",
+      "subject_action": "A near-full-screen Toss app home/timeline view on a soft coral gradient scrolls vertically through an all-in-one finance dashboard: account balances (ㅇㅇ은행 1,430,232원, 카드 12 · 12,432,828원, 토스머니 0원, 자동저축계좌 10,400원) and a 3월 타임라인 with transactions (-11,277원 ㅁㅁ카드|AB레코드 온라인, -3,800원 ㅇㅇ카드|가나다커피 판교점, -138,990원 △△은행|월요장학재단, -20,000원 김태오 토스더치페이, -30,810원 ㅁㅇ은행|마마북스).",
+      "copy_overlay": "한 눈에 보이는 금융 (narration); app labels: 3월 타임라인 · 185,208원 지출 · 320,500원 수입 · 카드 12 · 12,432,828원 · 토스머니 0원 · 자동저축계좌 10,400원 · transactions list",
+      "layout_grid": "single_screen",
+      "subject_position": "center_fill",
+      "typo_motion": "the whole UI list scrolls vertically; numerals and rows slide past; narration subtitle at lower-center earlier in the beat",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "screen_fill",
+      "gaze": "none",
+      "props": [
+        "app home dashboard",
+        "account balance cards",
+        "transaction timeline list"
+      ],
+      "color_palette": [
+        "#f0b6a0",
+        "#ffffff",
+        "#1f4fe0",
+        "#3a3d42"
+      ],
+      "color_intent": "A warm coral gradient frames a clean white app surface; brand-blue figures and charcoal text keep the dense data calm and legible at a glance.",
+      "pose_description": "No human; the app screen is presented straight-on and scrolls, like a phone held up to camera without the hand.",
+      "subject_motion": "vertical scroll through the dashboard and timeline",
+      "camera_motion": "vertical_scroll",
+      "camera_effect_local": "ui_scroll",
+      "intra_cut_rhythm": "steady",
+      "transition_in": "cross_dissolve_from_card",
+      "transition_out": "dissolve_to_icon_montage",
+      "mid_frame_path": "ADV-2026-015_frames/cut13_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "white app home/timeline surface",
+          "account balance rows",
+          "transaction list with icons and amounts"
+        ],
+        "midground": [
+          "soft card seams and dividers",
+          "small category icons"
+        ],
+        "background": [
+          "soft warm coral gradient field framing the screen"
+        ],
+        "lighting_env": [
+          "soft even ambient; subtle screen self-illumination"
+        ],
+        "atmosphere": [
+          "clean, warm, no haze"
+        ]
+      },
+      "texture": {
+        "primary_subject": "flat_ui_screen",
+        "secondary_objects": [
+          "flat_vector_icons"
+        ],
+        "background_surface": "gradient_color",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "front",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "strong",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": false,
+        "practical_lights": [
+          "app screen self-illumination"
+        ],
+        "shadow_presence": "soft",
+        "overall_contrast": "hi_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#f0b6a0",
+          "#ffffff",
+          "#1f4fe0",
+          "#3a3d42"
+        ],
+        "palette_role": {
+          "#f0b6a0": "frame_background",
+          "#ffffff": "screen_surface",
+          "#1f4fe0": "figure_brand_accent",
+          "#3a3d42": "text_anchor"
+        },
+        "color_relationship": "warm_frame_cool_accent",
+        "temperature_balance": "warm_dominant_frame",
+        "saturation_strategy": "clean_minimal",
+        "contrast_type": "luminance_high",
+        "accent_color": "#1f4fe0",
+        "accent_ratio": "10_percent",
+        "brand_color_match": [
+          "income figures blue ~#1f4fe0 = Toss brand blue"
+        ]
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A clean Korean fintech app-demo key frame in flat 2D motion-graphics, a 16:9 landscape filled almost entirely by a smartphone app home-and-timeline screen, framed by a soft warm coral gradient (#f0b6a0) at the left and right margins as if a phone is held straight to camera without the hand. The screen surface is white (#ffffff) and screen-native, organised as a vertically scrolling all-in-one finance dashboard rendered in clean rounded Korean UI type. Near the top a balance card row shows an account label ㅇㅇ은행 with a value 1,430,232 원 beside a small navy icon; below it a card module headed 카드 with a small count badge 12 and a large balance 12,432,828 원 and a chevron, with a 즐겨찾기 sub-section listing 토스머니 0 원 beside a small blue square icon and 자동저축계좌 10,400 원 beside a small yellow square icon. Lower on the screen a 3월 타임라인 section header sits above a summary line 185,208 원 지출 and 320,500 원 수입 in saturated brand blue (#1f4fe0), followed by a 전체 toggle and a scrolling transaction list, each row a circular category icon beside a charcoal amount, a merchant label and a timestamp: a music note with -11,277 원 ㅁㅁ카드 | AB레코드 온라인 06:28, a coffee cup with -3,800 원 ㅇㅇ카드 | 가나다커피 판교점 21:09, a red flag with -138,990 원 △△은행 | 월요장학재단 10:15. All numerals and labels are in near-black charcoal (#3a3d42) except the blue income figures. The composition is a single dense but tidy screen, dividers and soft card seams keeping the many rows legible. Lighting is soft, high-key and even, a broad diffused frontal key at neutral 5500K with strong fill plus a faint screen self-illumination, soft shadows only. The lens read is flat and straight-on at eye level with no perspective distortion, the screen squarely on the picture plane. The colour strategy is a warm frame with cool accents: the coral margins and white screen dominate while brand-blue figures and charcoal text carry the data, a clean minimal scheme with blue reading as roughly a tenth of the frame. Textures are smooth flat UI on the screen, crisp flat vector on the category icons, clean flat type on every label, and a soft colour gradient at the margins, no photographic surfaces and no heavy grain. The atmosphere is clean, warm and orderly, with no smoke, haze or particles. The post and signature look is polished flat-design commercial app motion graphics, crisp anti-aliased edges, screen-accurate contrast, a trustworthy at-a-glance feel. Style anchor: Korean lifestyle commercial / fintech brand film, full-screen app dashboard, all merchant and bank names abstracted with placeholder symbols, no people; this still is one frame of a vertical scroll showing the user's whole financial life at a glance. As a craft note for faithful recreation, treat this as a single dense but tidy app screen mid-scroll rather than a card: the white surface fills almost the whole frame, framed only by soft warm coral margins as if a phone is held to camera without a visible hand. Keep the UI hierarchy clear — balance rows and a card module up top with a count badge and a chevron, a favourites sub-section, then a timeline header with a spent/income summary line where the income figure is brand blue, a 전체 toggle, and a scrolling transaction list of circular category icons beside charcoal amounts, merchant labels and timestamps. Crucially, abstract every merchant and bank name with placeholder symbols (ㅁㅁ카드, ㅇㅇ카드, △△은행, ㅁㅇ은행) and generic shop names, and use no real card-network marks. Render type in a clean rounded Korean UI face, screen-accurate contrast, with a faint screen self-illumination. The overall read is the payoff of the feature headline 한 눈에 보이는 금융: the user's entire financial life — balances, spending and a transaction timeline — visible at a glance on one calm, orderly screen, dense yet completely legible.",
+        "t2i_negative": "people, faces, hands, real bank or merchant logos, real card-network marks, watermark, harsh shadows, low-key lighting, photographic textures, neon, heavy grain, perspective distortion",
+        "i2v_motion": "Cross-dissolve in from the savings card; the app screen scrolls smoothly upward through the dashboard — account balances passing first, then the 3월 타임라인 transaction rows sliding past one after another with their icons and amounts — at a calm reading pace; faint screen glow; locked-off framing aside from the internal scroll; narration subtitle 한 눈에 보이는 금융 holds at lower-center earlier in the beat; ~4.4s, steady rhythm, dissolving to an icon montage.",
+        "i2v_params": {
+          "clip_duration_sec": 4.4,
+          "camera_move": "vertical_scroll",
+          "subject_motion_level": "scroll",
+          "signature_effect": "ui_scroll",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; all app labels and amounts preserved verbatim; merchant/bank names abstracted (ㅁㅁ카드, 가나다커피, △△은행); no real logos."
+      }
+    },
+    {
+      "index": 14,
+      "duration": 6.96,
+      "framing": "environment",
+      "function": "recap_icon_montage_transform",
+      "subject_action": "Three horizontal rows of flat financial-life icons scroll sideways across a light field — credit card, checkmark, calendar 3, line graph, documents, wine glass, chat bubbles, coins, taxi, airplane, won-coins, coffee, cursor, gift boxes, OK hand, bank building, red car, receipt, staircase — recapping every money moment as simple symbols; the rows then converge and spin into a radial swirl of wide colour arcs (blue/sky/yellow/navy) that carries into the close.",
+      "copy_overlay": "자신없고 어렵기만 하던 / 나의 금융이 (sequential lower-center subtitles)",
+      "layout_grid": "scrolling_rows",
+      "subject_position": "distributed",
+      "typo_motion": "white subtitles cross-fade at lower-center; icon rows scroll horizontally then twist into colour arcs",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "environment",
+      "gaze": "none",
+      "props": [
+        "rows of flat financial-life icons",
+        "radial colour arcs"
+      ],
+      "color_palette": [
+        "#eceef0",
+        "#1f4fe0",
+        "#f2c200",
+        "#2bb38a"
+      ],
+      "color_intent": "A pale field with friendly multi-colour icons recaps the journey; the closing colour arcs introduce the brand's primary palette as a hopeful turn.",
+      "pose_description": "No human; an OK-hand icon is the only figurative element; the montage is object-led.",
+      "subject_motion": "icon rows scroll horizontally, then rotate/converge into spinning colour arcs",
+      "camera_motion": "lateral_scroll_then_rotate",
+      "camera_effect_local": "radial_swirl_transition",
+      "intra_cut_rhythm": "building",
+      "transition_in": "dissolve_from_app",
+      "transition_out": "match_to_phone_orbit",
+      "mid_frame_path": "ADV-2026-015_frames/cut14_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "three rows of flat financial-life icons",
+          "OK-hand icon",
+          "coins, car, airplane, bank, gift boxes"
+        ],
+        "midground": [
+          "soft motion between rows",
+          "emerging radial colour arcs"
+        ],
+        "background": [
+          "light cool-grey field, later overtaken by colour arcs"
+        ],
+        "lighting_env": [
+          "soft even ambient"
+        ],
+        "atmosphere": [
+          "clean, no haze"
+        ]
+      },
+      "texture": {
+        "primary_subject": "flat_vector_icons",
+        "secondary_objects": [
+          "flat_color_arcs"
+        ],
+        "background_surface": "gradient_paper",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "front",
+        "key_hardness": "diffused",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "strong",
+        "key_to_fill_ratio": "1:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "minimal",
+        "overall_contrast": "hi_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#eceef0",
+          "#1f4fe0",
+          "#f2c200",
+          "#2bb38a"
+        ],
+        "palette_role": {
+          "#eceef0": "background_dominant",
+          "#1f4fe0": "brand_arc_primary",
+          "#f2c200": "warm_icon_accent",
+          "#2bb38a": "green_icon_accent"
+        },
+        "color_relationship": "multi_color_friendly",
+        "temperature_balance": "balanced",
+        "saturation_strategy": "saturated_friendly",
+        "contrast_type": "hue_and_value",
+        "accent_color": "#1f4fe0",
+        "accent_ratio": "20_percent",
+        "brand_color_match": [
+          "arc blue ~#1f4fe0 = Toss brand blue family"
+        ]
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A Korean fintech brand-film recap key frame in flat 2D motion-graphics, a 16:9 landscape on a light cool-grey field (#eceef0) with a faint painterly texture and a subtle bottom gradient, organised as three long horizontal rows of small flat financial-life icons scrolling sideways like a ticker of everyday money moments. Each icon is a clean flat-vector pictogram in friendly muted colours with thin navy outlines: the top row carries a blue credit card, a green checkmark circle, a calendar page marked 3, a small line graph, a folder of documents, a glass of red wine, and a chat-bubble panel; the middle row shows a stack of gold coins, a black-and-yellow taxi, a pale blue airplane, a coral chat bubble, a fan of won-banknotes, a navy archway, a coffee cup and a cursor arrow; the bottom row shows gift boxes, a peach OK-hand gesture, a grey bank building with columns, a red sedan car, a receipt, and a small staircase. The icons are evenly spaced and mid-scroll, some half-entering the frame edges, casting only the faintest soft shadows, the whole reading as a lively but orderly summary of the film's vignettes. Centered low, a white Korean subtitle reads 자신없고 어렵기만 하던 in a clean sans-serif with a faint shadow. Lighting is flat, even and high-key, a broad diffused frontal ambient at neutral 5500K with strong balanced fill, minimal shadows, a clean infographic flatness. The lens read is flat and straight-on at eye level with no perspective distortion, the rows sitting on the picture plane. The colour strategy is multi-colour but friendly: a pale neutral field lets a controlled spread of brand blue (#1f4fe0), warm mustard (#f2c200), teal-green (#2bb38a), coral and grey icons read clearly without any one shouting, the brand blue carrying roughly a fifth of the colour weight and previewing the palette of the colour arcs about to emerge. Textures are crisp flat vector on every icon, a soft gradient paper field behind, and no photographic surfaces or heavy grain. The atmosphere is clean, optimistic and busy-but-tidy, with no smoke, haze or particles. The post and signature look is polished flat-design commercial motion graphics, crisp anti-aliased edges, faint consistent shadows, an editorial recap feel. Style anchor: Korean lifestyle commercial / fintech brand film, scrolling flat-icon recap montage, generic pictograms and no real logos, no people beyond a single OK-hand icon; this still is one moment of a sideways-scrolling icon ticker that will soon rotate and converge into a swirl of wide colour arcs leading into the brand close. As a craft note for faithful recreation, draw every icon as a clean flat-vector pictogram with thin navy outlines in friendly muted colours, evenly spaced in three horizontal rows, some half-entering the frame edges as the rows scroll at staggered speeds, each casting only the faintest soft shadow. The icon set should clearly recap the film's vignettes — card, checkmark, calendar marked 3, line graph, documents, wine glass, chat bubbles, coins, taxi, airplane, banknotes, archway, coffee, cursor, gift boxes, an OK-hand gesture, a columned bank building, a red sedan, a receipt and a small staircase — all generic symbols with no real logos. Keep the field a pale cool grey with a faint paper grain. As the beat builds, the rows should rotate and converge so the icons dissolve into wide concentric colour arcs in the brand palette (blue, sky, mustard, navy) beginning to spin. The white subtitles hold soft shadows at lower-center. The overall read is an optimistic recap that gathers every money moment into a single hopeful swirl, the friendly icons blooming into the brand's colours as the story turns from difficulty to transformation.",
+        "t2i_negative": "people, faces, real brand logos, app icons of real companies, watermark, harsh shadows, low-key lighting, photographic textures, neon, heavy grain, perspective distortion, cluttered overlap",
+        "i2v_motion": "Scroll the three rows of financial-life icons horizontally at staggered speeds across the light field while white subtitles cross-fade at lower-center (자신없고 어렵기만 하던 → 나의 금융이); partway through, the rows rotate and converge, the icons dissolving into wide concentric colour arcs (blue, sky, yellow, navy) that begin to spin as a radial swirl carrying into the close; smooth easing with gentle motion blur on faster scrolls; ~7.0s, building rhythm, matching into a phone-orbit close.",
+        "i2v_params": {
+          "clip_duration_sec": 6.96,
+          "camera_move": "lateral_scroll_then_rotate",
+          "subject_motion_level": "scroll",
+          "signature_effect": "radial_swirl",
+          "pacing": "building",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; subtitles preserved verbatim; all icons generic pictograms; no real logos; no real-person likeness."
+      }
+    },
+    {
+      "index": 15,
+      "duration": 3.48,
+      "framing": "environment",
+      "function": "resolution_keyvisual",
+      "subject_action": "A top-down desk view: a centered smartphone whose screen shows concentric multi-colour orbital rings circling the glowing Toss speech-bubble logo at its core (the 'everything orbits the app' motif), surrounded on the desk by a pencil, a smartwatch, a coffee mug, a blue chip and an ID badge bearing the protagonist's photo.",
+      "copy_overlay": "나에게 금융이 필요한 순간 (lower-center subtitle)",
+      "layout_grid": "center",
+      "subject_position": "center",
+      "typo_motion": "white subtitle holds at lower-center; the orbital rings rotate inside the phone",
+      "camera_angle": "top_down",
+      "camera_facing": "overhead",
+      "shot_scope": "environment",
+      "gaze": "none",
+      "props": [
+        "smartphone with orbital app screen",
+        "Toss speech-bubble logo core",
+        "pencil",
+        "smartwatch",
+        "coffee mug",
+        "ID badge with photo"
+      ],
+      "color_palette": [
+        "#e9eaec",
+        "#1f4fe0",
+        "#ffffff",
+        "#f2c200"
+      ],
+      "color_intent": "A calm pale desk lets the phone's glowing concentric colour orbits and the brand-blue logo core become the serene focal resolution.",
+      "pose_description": "No human; the protagonist appears only as a small flat photo on the desk ID badge.",
+      "subject_motion": "concentric orbital rings rotate gently inside the phone screen",
+      "camera_motion": "very_slow_overhead_drift",
+      "camera_effect_local": "orbit_rotation",
+      "intra_cut_rhythm": "easing",
+      "transition_in": "match_from_swirl",
+      "transition_out": "dissolve_to_logo",
+      "mid_frame_path": "ADV-2026-015_frames/cut15_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "centered smartphone with orbital app screen",
+          "glowing speech-bubble logo core",
+          "concentric colour rings"
+        ],
+        "midground": [
+          "pencil",
+          "smartwatch",
+          "coffee mug",
+          "blue chip",
+          "ID badge with the protagonist's photo"
+        ],
+        "background": [
+          "pale grey-white desk surface seen from above with faint texture"
+        ],
+        "lighting_env": [
+          "soft even overhead ambient; gentle screen glow"
+        ],
+        "atmosphere": [
+          "clean, calm, no haze"
+        ]
+      },
+      "texture": {
+        "primary_subject": "flat_ui_screen",
+        "secondary_objects": [
+          "flat_illustration_matte",
+          "flat_vector_objects"
+        ],
+        "background_surface": "paper",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "top",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "strong",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": false,
+        "practical_lights": [
+          "phone screen self-illumination"
+        ],
+        "shadow_presence": "soft",
+        "overall_contrast": "hi_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#e9eaec",
+          "#1f4fe0",
+          "#ffffff",
+          "#f2c200"
+        ],
+        "palette_role": {
+          "#e9eaec": "background_dominant",
+          "#1f4fe0": "logo_brand_accent",
+          "#ffffff": "screen_surface",
+          "#f2c200": "orbit_warm_accent"
+        },
+        "color_relationship": "brand_dominant",
+        "temperature_balance": "cool_dominant",
+        "saturation_strategy": "clean_minimal",
+        "contrast_type": "luminance_high",
+        "accent_color": "#1f4fe0",
+        "accent_ratio": "10_percent",
+        "brand_color_match": [
+          "logo core blue ~#1f4fe0 = Toss brand blue"
+        ]
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A calm Korean fintech brand-film resolution key frame in flat 2D illustration, a 16:9 landscape seen from directly overhead, centered on a smartphone resting on a tidy pale desk. The desk surface is a soft grey-white (#e9eaec) with a faint painterly texture, and at the exact center lies a clean smartphone shown straight down, its white screen self-illuminated and filled with the hero motif: a set of concentric multi-colour orbital rings — thin arcs in brand blue, sky blue, navy, mustard-yellow, coral and grey, each carrying small dot nodes like planets — circling around a softly glowing white core in which sits the brand's rounded speech-bubble or chat-droplet logo in cobalt blue (#1f4fe0), echoing the orbit motif from earlier and implying that the app holds everything in gentle orbit around it. Arranged around the phone on the desk, drawn in flat editorial illustration and casting soft shadows, are a few everyday objects: a green-and-yellow pencil to the upper left, a black smartwatch with a dotted strap on the left, a white coffee mug with dark coffee in the upper right, a small blue chip below the pencil, and on the right an ID badge on a lanyard bearing a small flat photo of the protagonist (a woman with black hair and a red top). The composition is centered and orderly, the bright phone the clear focal point amid the calm scatter of desk objects and generous pale margins. Centered low, a white Korean subtitle reads 나에게 금융이 필요한 순간 in a clean sans-serif with a faint shadow. Lighting is soft, high-key and even from above, a broad diffused overhead ambient at neutral 5500K with strong fill plus a gentle screen glow from the phone, soft contact shadows grounding each object. The lens read is a true orthographic top-down look, perpendicular to the desk with no perspective convergence. The colour strategy is brand-dominant: a pale neutral desk and white screen with the cobalt logo core and a controlled spread of orbital colours as accents, the brand blue reading as roughly a tenth of the frame, a clean and serene scheme. Textures are smooth flat UI on the phone screen, soft matte flat illustration on the desk objects and badge photo, crisp flat vector on the orbit arcs, and a soft paper desk surface, no photographic surfaces and no heavy grain. The atmosphere is calm, resolved and premium, with no smoke, haze or particles. The post and signature look is polished flat-design commercial motion graphics, crisp anti-aliased edges, soft consistent shadows, a quietly confident finish. Style anchor: Korean lifestyle commercial / fintech brand film, overhead phone-on-desk hero with an orbital app screen, the protagonist appearing only as a tiny badge photo rather than a real person, no real logos; this still is the resolution beat where the app sits at the calm center of the user's financial life. As a craft note for faithful recreation, shoot this as a true orthographic top-down of a tidy desk: the phone lies flat and centered, its white screen filled with the orbital motif — thin concentric arcs in brand blue, sky, navy, mustard, coral and grey, each carrying small dot nodes like planets, circling a softly glowing white core that holds the rounded cobalt speech-bubble logo rendered generically. Arrange a few flat-illustrated desk objects around it with soft shadows — a green-and-yellow pencil, a black smartwatch with a dotted strap, a white mug of dark coffee, a small blue chip, and an ID badge on a lanyard bearing a tiny flat photo of the protagonist (black hair, red top) so she appears only as a generic badge image, never a real face. Keep the desk a pale grey-white with a faint paper grain and generous margins, the bright phone the clear focal point. The white subtitle holds a soft shadow at lower-center. The overall read is the calm resolution of the whole film: the app sitting serenely at the center of the user's financial life, everything held in gentle orbit, premium and reassuring just before the brand close.",
+        "t2i_negative": "real person likeness, celebrity face, photographic skin, full people, real app or bank logos beyond a generic mark, watermark, harsh shadows, low-key lighting, neon, heavy grain, perspective distortion, cluttered desk",
+        "i2v_motion": "Hold a very slow overhead drift while the concentric multi-colour orbital rings rotate gently around the glowing speech-bubble logo core inside the phone screen, their dot nodes sliding along the arcs, and the surrounding desk objects stay still; faint screen glow pulses softly; white subtitle 나에게 금융이 필요한 순간 holds at lower-center; no zoom; ~3.5s, easing rhythm, dissolving to the final logo card.",
+        "i2v_params": {
+          "clip_duration_sec": 3.48,
+          "camera_move": "very_slow_overhead_drift",
+          "subject_motion_level": "small",
+          "signature_effect": "orbit_rotation",
+          "pacing": "easing",
+          "loopable": true
+        },
+        "fidelity_note": "craft-faithful; subtitle preserved verbatim; logo rendered generically; protagonist only as a tiny generic badge photo; no real logos."
+      }
+    },
+    {
+      "index": 16,
+      "duration": 2.74,
+      "framing": "graphic_card",
+      "function": "brand_signoff_endcard",
+      "subject_action": "The film settles on a centered brand logo lockup — a cobalt speech-bubble/droplet mark beside a lowercase 'toss' wordmark — on a clean off-white field with a subtle bottom gradient, holding as the final narration says the brand name.",
+      "copy_overlay": "[brand logo] toss",
+      "layout_grid": "center",
+      "subject_position": "center",
+      "typo_motion": "logo lockup settles with a gentle fade and holds; no other type",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "graphic_card",
+      "gaze": "none",
+      "props": [
+        "brand logo lockup (speech-bubble mark + lowercase wordmark)"
+      ],
+      "color_palette": [
+        "#f1f2f4",
+        "#1f4fe0"
+      ],
+      "color_intent": "A quiet near-white field with a single cobalt logo as the only chroma makes a calm, premium, memorable close.",
+      "pose_description": "No human; centered logo lockup.",
+      "subject_motion": "subtle logo settle/fade; otherwise still",
+      "camera_motion": "locked_off",
+      "camera_effect_local": "logo_settle",
+      "intra_cut_rhythm": "static",
+      "transition_in": "dissolve_from_phone",
+      "transition_out": "end",
+      "mid_frame_path": "ADV-2026-015_frames/cut16_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "centered brand logo lockup (speech-bubble mark + lowercase wordmark)"
+        ],
+        "midground": [],
+        "background": [
+          "clean off-white field with subtle bottom gradient"
+        ],
+        "lighting_env": [
+          "soft even ambient"
+        ],
+        "atmosphere": [
+          "none, clean"
+        ]
+      },
+      "texture": {
+        "primary_subject": "flat_vector_logo",
+        "secondary_objects": [],
+        "background_surface": "gradient_paper",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "front",
+        "key_hardness": "diffused",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "strong",
+        "key_to_fill_ratio": "1:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "none",
+        "overall_contrast": "hi_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#f1f2f4",
+          "#1f4fe0"
+        ],
+        "palette_role": {
+          "#f1f2f4": "background_dominant",
+          "#1f4fe0": "brand_logo_accent"
+        },
+        "color_relationship": "brand_dominant",
+        "temperature_balance": "cool_dominant",
+        "saturation_strategy": "monochrome",
+        "contrast_type": "luminance_low",
+        "accent_color": "#1f4fe0",
+        "accent_ratio": "5_percent",
+        "brand_color_match": [
+          "logo blue ~#1f4fe0 = Toss brand blue"
+        ]
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A minimal Korean fintech brand end-card key frame in flat 2D motion-graphics, a 16:9 landscape built around a single centered logo lockup on a clean, very light off-white field (#f1f2f4) that carries the faintest cool grey tint and an extremely subtle center-to-bottom gradient, calm and premium and almost empty. Dead center sits a simple brand logo lockup rendered generically rather than as a real trademark: a small rounded speech-bubble or chat-droplet mark in vivid cobalt brand-blue (#1f4fe0) immediately to the left of a lowercase wordmark reading toss in the same blue, the wordmark set in a soft rounded sans-serif with even letter spacing and gently rounded terminals, the whole lockup occupying only a small fraction of the frame so the surrounding emptiness carries the confident sign-off. There is nothing else in the frame: no tagline, no URL, no icons, no UI, no people, no props, no decorative shapes, only the centered mark and a wide breathing field of pale neutral around it. Lighting is rendered as soft, perfectly even digital fill with uniform luminance across the entire background, no hot spots, no vignette beyond the faintest hint, and no cast shadow behind the logo, keeping the surface clean and screen-native. The lens read is a flat straight-on composition with no depth and no perspective, the logo sitting exactly on the picture plane at eye level and dead-centered horizontally and vertically. The colour strategy is essentially monochrome and brand-dominant: a single near-neutral pale background plus one saturated brand blue for the mark, a low overall luminance contrast that feels gentle and refined rather than punchy, the blue reading as only about five percent of the frame, a small jewel of colour in a large calm field. Texture is none in any photographic sense — smooth flat vector logo on a smooth flat field, no grain, no paper fibre, no noise, the cleanest possible digital surface. Atmosphere is none: no haze, glow, particles or smoke, just clean colour and a single mark. The post and signature look is crisp, anti-aliased, modern minimalist brand-close styling, the restrained final beat that Korean fintech brand films use to leave the brand name resonating after a long emotional story. The mark itself is simple and rounded, a soft chat-bubble or droplet silhouette with a single smooth tail, paired with the lowercase wordmark, the two elements balanced as one compact horizontal lockup at the exact center; the negative space is the real subject, four-fifths of the frame empty pale neutral, the restraint reading as confidence and calm. There is a quiet, almost silent quality to the composition, a held final beat that lets the viewer's eye rest on the name. Style anchor: Korean lifestyle commercial / fintech brand film, minimalist centered brand end card, pale neutral field, one small cobalt logo lockup, total simplicity, no imagery and no people; this still is the held end state of a gentle dissolve-in from the phone-on-desk beat, the logo settled and resting as the final narration says the brand name. As a craft note for faithful recreation, this is the most restrained frame in the film, so let the emptiness carry it: a single compact horizontal logo lockup dead-center on a near-white field, the rounded cobalt speech-bubble or chat-droplet mark immediately left of the lowercase wordmark in the same blue, both with gently rounded terminals and even tracking, rendered generically rather than as a real registered mark. Keep the background a uniform pale neutral with only the faintest cool tint and an almost imperceptible center-to-bottom gradient, no hot spots, no cast shadow behind the mark, the cleanest possible screen-native surface. The negative space — roughly four-fifths of the frame empty pale neutral — is the true subject, signalling confidence and calm rather than anything missing. There is no tagline, no URL, no extra graphics, nothing but the mark and the breathing field. The overall read is a quiet, premium final beat that lets the brand name resonate after a long, warm emotional story, the kind of held, almost silent end card that leaves the viewer resting on the name for a moment as the narration says it and the film ends.",
+        "t2i_negative": "people, hands, taglines, url, multiple logos, real trademark marks, watermark, gradients with hot spots, shadows behind logo, textures, noise, clutter, photographic background",
+        "i2v_motion": "Dissolve in from the phone-on-desk beat to the centered logo lockup; the speech-bubble mark and lowercase toss wordmark settle with a very gentle fade and a hair of scale-up, then hold perfectly still on the calm pale field; locked-off camera, no zoom, no parallax; ~2.7s, static rhythm, ending the film as the narration says the brand name.",
+        "i2v_params": {
+          "clip_duration_sec": 2.74,
+          "camera_move": "locked_off",
+          "subject_motion_level": "still",
+          "signature_effect": "logo_settle",
+          "pacing": "static",
+          "loopable": true
+        },
+        "fidelity_note": "craft-faithful; logo rendered generically (no real trademark); no people; minimal copy."
+      }
+    }
+  ],
+  "search_keywords": {
+    "industry": [
+      "finance"
+    ],
+    "product_category": [
+      "fintech_platform",
+      "mobile_banking",
+      "money_transfer"
+    ],
+    "target_demo": [
+      "20s",
+      "30s",
+      "40s",
+      "mz",
+      "mobile_first"
+    ],
+    "media_format": [
+      "brand_film",
+      "youtube_60s_plus"
+    ],
+    "tone": [
+      "warm",
+      "reassuring",
+      "everyday",
+      "optimistic"
+    ],
+    "pacing": [
+      "rising_then_resolve"
+    ],
+    "technique": [
+      "lifestyle_vignettes",
+      "brand_film",
+      "app_ui_demo",
+      "emotional_storytelling",
+      "flat_2d_animation"
+    ],
+    "vfx_keywords": [
+      "flat_2d_animation",
+      "ui_motion",
+      "data_viz",
+      "scroll_montage",
+      "match_cut",
+      "color_pop"
+    ],
+    "copy_strategy_keywords": [
+      "empathy_to_solution",
+      "everyday_moments",
+      "brand_promise",
+      "pain_point_reframe"
+    ],
+    "concept_derivation_pattern": [
+      "everyday_problem_metaphor_product_release"
+    ]
+  },
+  "inferred_creative_thinking": {
+    "insight": "Finance feels distant and intimidating, yet people already do finance constantly in ordinary life — they just don't feel confident or in control of it.",
+    "persona": "A young-to-mid Korean adult who splits bills, gets a first paycheck, moves, buys a car and plans trips, but quietly worries whether they're managing money wisely.",
+    "moment": "The turn where the carefree vacation high is invaded by financial UI and a red X, landing the feeling of being unsure and overwhelmed before Toss offers relief.",
+    "product_role": "Toss makes every part of financial life — transfers, spending, saving, an at-a-glance dashboard — simple and visible inside one trusted app, like texting.",
+    "punchline": "Finance isn't a far-off, hard word; with Toss it's simply part of your day, easy and clear.",
+    "differentiator": "An all-in-one financial life made effortless and human, told through warm lifestyle illustration rather than rates and tables, bookended by an orbit motif.",
+    "brand_fit_one_liner": "Toss turns intimidating finance into a simple, friendly, everyday companion.",
+    "confidence": "inferred"
+  },
+  "inferred_brief": "Build brand affinity for Toss as the all-in-one financial-life app by reframing finance from a distant, hard word into something already part of everyday life, validating users' money anxiety, and resolving it with Toss making all financial life simple and visible at a glance.",
+  "cross_pollination_tags": {
+    "adjacent": [
+      "card",
+      "insurance",
+      "mobile_banking",
+      "savings"
+    ],
+    "distant": [
+      "telecom",
+      "healthcare_pharma",
+      "travel"
+    ],
+    "contrast": [
+      "luxury",
+      "gaming",
+      "fast_food"
+    ]
+  },
+  "concept_derivation_pattern": [
+    "everyday_problem_metaphor_product_release"
+  ],
+  "confidence": "inferred",
+  "analyst_notes": "66.78s Toss flagship brand film, 16 cuts, flat 2D motion-graphics (illustrated lifestyle vignettes + app-UI demo), no live-action; full Korean voiceover drives an empathy-to-solution arc. Cuts: (1) blue won-coin on finance rails 금융; (2) overhead coin grid = money everywhere; (3) protagonist walking in a dotted orbit ring; (4) long continuous overhead/side montage of five life moments (splitting a bill 8,580 / first salary passbook / moving 1,870,000 / buying a car / vacation); (5) tropical beach payoff with a dissolving 하와이 자유여행 1,359,000원~ 예약하기 booking card; (6) doubt onset, UI invades the beach; (7) worried face among financial UI incl. red-X error; (8) abstract face-dot transition onto brand blue; (9) 송금 = texting, contacts-grid tap; (10) app greeting 지영님 안녕하세요.; (11) spending donut card; (12) savings bar card; (13) full-screen dashboard/timeline scroll = 한 눈에 보이는 금융; (14) scrolling icon recap blooming into colour arcs; (15) overhead phone with orbital app + logo core on desk; (16) centered toss logo end card. On-screen credit 나레이션 토스팀 안지영; protagonist named 지영. Metrics mean_abs_shift_x 1.225 / sign_flips 0.23 = lifestyle edit & 2D scroll movement, not 3D wiggle; camera_signature locked_off + simulated dolly/pan + top_down. All people are generic stylised illustrations (no real-person likeness); merchant/bank names abstracted (ㅁㅁ카드, 가나다커피, △△은행) and logo rendered generically.",
+  "verification": {
+    "frames_reviewed": "1668 frames native-res + 100% metrics; per-cut boundary+sampled frames read (start/mid/end plus ~1 fps sampling on the long cuts 4, 9, 14); transition types confirmed by reading frames adjacent to each boundary.",
+    "audio_analyzed": true,
+    "hitrate_na": true,
+    "abstraction_checked": true
+  }
+}

@@ -1,0 +1,709 @@
+{
+  "id": "ADV-2026-039",
+  "source_ref": {
+    "platform": "digital_video",
+    "title_or_campaign": "현대카드 슈퍼콘서트 22 콜드플레이 (A Head Full of Dreams Tour) 발표 필름",
+    "brand": "현대카드",
+    "product": "현대카드 슈퍼콘서트 22 (콜드플레이 내한공연)",
+    "model": null,
+    "year": 2017,
+    "production_note": "콜드플레이 A Head Full of Dreams Tour 내한 — 2017.4.15(토) 잠실종합운동장 주경기장. 현대카드 컬처마케팅(슈퍼콘서트) 시리즈 22회. 영상 내 고지 기준.",
+    "url": null
+  },
+  "category_primary": "finance.card",
+  "category_tags": [
+    "신용카드",
+    "컬처마케팅",
+    "슈퍼콘서트",
+    "콘서트 발표 티저",
+    "음악 라이프스타일"
+  ],
+  "mood": [
+    "celebratory",
+    "uplifting",
+    "minimal",
+    "premium",
+    "emotional"
+  ],
+  "target_demo": "20대 후~40대 음악·공연 팬, 콜드플레이 내한을 기다려온 대중 + 현대카드 컬처마케팅 타깃",
+  "total_duration": 15.26,
+  "shot_count": 4,
+  "shot_count_corrected": 4,
+  "fps": 29.97,
+  "aspect_ratio": "16:9",
+  "hook_position": 0.0,
+  "cta_position": 14.02,
+  "narrative_arc": "사운드 파형 인트로(브랜드 청각 아이덴티티 → 시각화) → 무지개 파형이 'COLDPLAY' 워드마크로 응집(아티스트 공개) → '너무 늦어서 미안' 감성 카피(공감/기대 자극) → 공연 정보 고지(콜드플레이 현대카드 슈퍼콘서트 22, 일시·장소) → 'Hyundai Card' 브랜드 마무리(주최 각인)",
+  "narrative_structure": "linear_continuous",
+  "pacing_curve": "slow_build",
+  "music_tempo_curve": "ramp_up",
+  "wow_cut_index": [
+    1
+  ],
+  "creative_device": "audio_waveform_to_wordmark_morph + emotional_apology_copy_hook",
+  "production_signature": {
+    "capture_style": "3d_cg",
+    "camera_signature": [
+      "locked_off"
+    ],
+    "signature_note": "전 구간 실사·인물 없음 — 순백 배경 위 모션그래픽/키네틱 타이포만으로 구성. cut1은 화면 중앙 수평축에 무지개 스펙트럼 도트(사운드 파형/이퀄라이저) 애니메이션이 음악에 반응하듯 상하 진폭을 변조하며 'COLDPLAY' 워드마크로 응집. metrics wiggle(mean_abs_shift_x=0.3657, sign_flips_ratio=0.424)은 파형 도트의 미세 좌우/상하 변조에 기인한 수치이며 카메라 wiggle_3d가 아님(배경 순백 정지, 카메라 locked-off). 컷 경계 diff 스파이크: f281(1.21) cut1→cut2, f338(3.33) cut2→cut3, f421(4.03) cut3→cut4 — 모두 하드컷. cut2~4는 정지 타이포 카드.",
+    "color_grade": "high_key",
+    "texture_fx": "clean_digital"
+  },
+  "global_layout": {
+    "grid_system": "center",
+    "subject_placement_dominant": "center",
+    "subject_typo_relation": "typo_only_no_person",
+    "negative_space_use": "generous",
+    "layout_note": "전 컷 화면 정중앙 수평 집중 구도. cut1 무지개 파형이 가로 중앙축을 가로지르며 좌우 대칭으로 진폭 변조 → 중앙에 워드마크 응집. cut2~4 모두 중앙 정렬 타이포(블랙 on 화이트). 상하·좌우 여백이 매우 넓은 미니멀 레이아웃."
+  },
+  "recurring_motifs": [
+    "순백(off-white) 배경",
+    "화면 중앙 수평축",
+    "무지개 스펙트럼 컬러(콜드플레이 'A Head Full of Dreams' 키 컬러)",
+    "사운드 파형/이퀄라이저 도트",
+    "중앙 정렬 미니멀 타이포"
+  ],
+  "copywriting": {
+    "tagline_text": "너무 늦어서 미안",
+    "tagline_structure": "감성 사과체 한 줄(아티스트 의인화/공감)",
+    "tagline_length_syllables": 8,
+    "tagline_position_sec": 9.34,
+    "cta_text": "콜드플레이 현대카드 슈퍼콘서트 22",
+    "cta_text_structure": "아티스트명 + 브랜드 시리즈명 + 회차",
+    "cta_position_sec": 11.25,
+    "copy_tone": [
+      "감성",
+      "공감",
+      "미니멀",
+      "기대감"
+    ],
+    "copy_strategy": "empathy_to_solution",
+    "copy_lines_count": 5,
+    "lines": [
+      {
+        "position_sec": 8.0,
+        "text": "COLDPLAY",
+        "function": "artist_reveal",
+        "tone": "celebratory",
+        "source": "caption"
+      },
+      {
+        "position_sec": 8.0,
+        "text": "A HEAD FULL OF DREAMS TOUR",
+        "function": "tour_subtitle",
+        "tone": "celebratory",
+        "source": "caption"
+      },
+      {
+        "position_sec": 9.34,
+        "text": "너무 늦어서 미안",
+        "function": "empathy_hook",
+        "tone": "emotional",
+        "source": "caption"
+      },
+      {
+        "position_sec": 11.25,
+        "text": "콜드플레이\n현대카드 슈퍼콘서트 22",
+        "function": "event_title",
+        "tone": "informational",
+        "source": "caption"
+      },
+      {
+        "position_sec": 11.25,
+        "text": "2017. 4. 15 (토) 오후 7시 잠실종합운동장 주경기장",
+        "function": "event_detail",
+        "tone": "informational",
+        "source": "caption"
+      }
+    ],
+    "captions": [
+      {
+        "position_sec": 11.25,
+        "text": "만 7세 이상 관람가",
+        "function": "viewing_rating_notice"
+      }
+    ],
+    "narration_handling": "none"
+  },
+  "typography": {
+    "primary_font_class": "serif_caps_display",
+    "secondary_font_class": "sans_serif_bold_geometric",
+    "animation_style": [
+      "particle_assemble",
+      "static",
+      "cut"
+    ],
+    "subtitle_position_dominant": "center",
+    "tagline_position": "center",
+    "color_strategy": "rainbow_gradient_then_black_on_white",
+    "appearance_count": 5,
+    "key_typography_moments_sec": [
+      7.9,
+      9.34,
+      11.25,
+      14.02
+    ],
+    "typo_motion_dominant": "particle_assemble"
+  },
+  "vfx": {
+    "primary_effects": [
+      "particle",
+      "morph",
+      "data_viz"
+    ],
+    "effect_intensity": "moderate",
+    "transition_style_dominant": "cut",
+    "vfx_event_count": 4,
+    "vfx_timing_array_sec": [
+      0.0,
+      7.9,
+      9.34,
+      14.02
+    ],
+    "wow_vfx_index": [
+      1
+    ]
+  },
+  "audio": {
+    "has_audio": true,
+    "language": "ko",
+    "speech_coverage": 0.0,
+    "bgm_likely": true,
+    "narration_lines": [],
+    "voice_vs_caption": "caption_only_no_voice",
+    "narration_handling": "none",
+    "transcribed_by": "faster_whisper",
+    "audio_note": "faster_whisper(base) 전사 결과 0 segments, speech_coverage=0.0 — 음성 나레이션 없음. 오디오는 BGM(음악)만으로 판단됨(콜드플레이 곡 추정, 화면 파형이 음악에 반응하는 청각 아이덴티티 시각화). 화면에는 음성 자막이 아닌 그래픽 카피만 등장하므로 narration_handling=none."
+  },
+  "frames_dir": "ADV-2026-039_frames",
+  "contact_sheet_path": "ADV-2026-039_frames/contact_sheet.png",
+  "shots": [
+    {
+      "index": 1,
+      "duration": 9.34,
+      "framing": "environment",
+      "function": "brand_hook_artist_reveal",
+      "subject_action": "A horizontal multicolor rainbow-spectrum dot waveform (sound-wave / audio-equalizer visualization) runs across the exact horizontal center of a pure white frame; it pulses and modulates its vertical amplitude continuously as if reacting to music, dots scattering up and down off the central axis; over the cut the waveform energy condenses toward center and the colored particles coalesce/assemble into the rainbow-gradient wordmark 'COLDPLAY' with the smaller bold subtitle 'A HEAD FULL OF DREAMS TOUR' below it, fully resolving around 7.9s then holding briefly before fading",
+      "layout_grid": "center",
+      "subject_position": "center",
+      "subject_identity": "none_environment",
+      "subject_relationship_to_protagonist": null,
+      "mid_frame_path": "ADV-2026-039_frames/cut01_mid.png",
+      "subject_typo_layout": "typo_only_no_person",
+      "typo_motion": "f1부터 가는 무지개 도트 파형이 중앙 수평축에 존재 → 음악 반응하듯 진폭/밀도 변조하며 점차 에너지 증가(f1~f200) → 중앙으로 응집하며 컬러 도트가 'COLDPLAY' 글자 형태로 입자 조립(particle_assemble, ~f200~f238) → 'A HEAD FULL OF DREAMS TOUR' 서브라인 함께 정착(~f240~f265) → 워드마크 페이드아웃하며 파형도 소멸(~f270~f280)",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "environment",
+      "gaze": "none",
+      "eye_contact_effect": null,
+      "props": [],
+      "prop_semantics": null,
+      "color_palette": [
+        "#ffffff",
+        "#e8442f",
+        "#f5a623",
+        "#7ed321",
+        "#3aa9e0",
+        "#8b4fc0"
+      ],
+      "color_intent": "순백 배경 위 풀스펙트럼 무지개 컬러로 콜드플레이 'A Head Full of Dreams' 키 비주얼(무지개 스펙트럼)을 직접 환기; 사운드 파형의 다채로운 색이 '음악=색의 향연'을 상징하고 하이키 화이트가 프리미엄·청량 톤 유지",
+      "pose_description": "인물 없음; 무지개 도트 파형이 화면 중앙 수평선을 따라 좌우 대칭으로 진폭을 변조하는 동적 그래픽 오브제로 기능, 시선을 정중앙으로 모은 뒤 워드마크로 귀결",
+      "subject_motion": "static",
+      "prop_motion": "none",
+      "camera_motion": "locked_off",
+      "camera_motion_intensity": "none",
+      "camera_effect_local": "none",
+      "motion_blur": false,
+      "intra_cut_rhythm": "accelerating",
+      "transition_in": "fade",
+      "transition_out": "cut",
+      "vfx_in_shot": [
+        "particle",
+        "morph",
+        "data_viz"
+      ],
+      "vfx_intensity_local": "moderate",
+      "fact_check_flag": null,
+      "notes": "Cut 1 (f1-f280, 0.00-9.34s): pure white background, central horizontal rainbow-dot sound waveform animating/pulsing → particle-assembles into rainbow-gradient 'COLDPLAY' + 'A HEAD FULL OF DREAMS TOUR' (~f238-265) → fades by f280. No people, no camera move. metrics diff <0.4 throughout (tiny dots vs large white field) but high wiggle/sign-flips from waveform modulation. This is the wow/hero cut.",
+      "visible_elements": {
+        "foreground": [
+          "horizontal rainbow-spectrum dot waveform (audio-equalizer style) on central axis",
+          "rainbow-gradient serif wordmark 'COLDPLAY' (forms at center mid-late cut)",
+          "bold subtitle 'A HEAD FULL OF DREAMS TOUR' beneath wordmark"
+        ],
+        "midground": [
+          "scattered colored particle dots dispersing above/below the central axis during modulation"
+        ],
+        "background": [
+          "flat pure white / off-white field (#ffffff)"
+        ],
+        "lighting_env": [
+          "flat even ambient — clean digital render, no directional light, no shadow"
+        ],
+        "atmosphere": [
+          "ultra-clean minimal digital, no grain, no haze, no depth",
+          "bright hi-key whiteout negative space"
+        ]
+      },
+      "texture": {
+        "primary_subject": "flat_2d_vector",
+        "secondary_objects": [
+          "flat_2d_vector"
+        ],
+        "background_surface": "flat_digital",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "front",
+        "key_hardness": "diffused",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "strong",
+        "key_to_fill_ratio": "1:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "none",
+        "overall_contrast": "hi_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#ffffff",
+          "#e8442f",
+          "#f5a623",
+          "#7ed321",
+          "#3aa9e0",
+          "#8b4fc0"
+        ],
+        "palette_role": {
+          "#ffffff": "background_white_dominant",
+          "#e8442f": "spectrum_red",
+          "#f5a623": "spectrum_orange",
+          "#7ed321": "spectrum_green",
+          "#3aa9e0": "spectrum_blue",
+          "#8b4fc0": "spectrum_purple"
+        },
+        "color_relationship": "full_spectrum_rainbow",
+        "temperature_balance": "balanced",
+        "saturation_strategy": "vivid",
+        "contrast_type": "luminance_high",
+        "accent_color": "#3aa9e0",
+        "accent_ratio": "15_percent",
+        "brand_color_match": [
+          "콜드플레이 A Head Full of Dreams 무지개 스펙트럼 키 컬러"
+        ]
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A clean, ultra-minimal motion-graphic still rendered at 1920x1080 pixels in a 16:9 landscape format, depicting a single horizontal audio-waveform visualization composed entirely of tiny square pixel-dots, centered precisely on the horizontal mid-line of an otherwise empty pure-white (#ffffff) frame. The waveform spans roughly the central 60 to 70 percent of the frame width, thinning out to faint single-dot tails at both the far left and far right edges where the dots become sparse and widely spaced; it is built from hundreds of small uniform square dots arranged in a dense row along the central axis and scattered a few pixels above and below it, so that the line reads unmistakably as a sound-wave or graphic-equalizer trace caught mid-pulse, the kind of frequency-spectrum bar visualization that responds to music in real time. The dots are colored as a continuous left-to-right rainbow spectrum: deep red and warm orange-red (#e8442f) at the far left, transitioning through orange and amber (#f5a623), to yellow and bright lime green (#7ed321) in the left-center, to cyan and sky blue (#3aa9e0) through the center, into indigo and violet-purple (#8b4fc0) and magenta-pink toward the right, then cycling back through warm reds at the far right tail — a full, vivid, saturated, evenly distributed spectrum with no single hue dominating. Vertical modulation is clearly visible: in this frame the amplitude is moderate, with small clusters of dots rising and falling a short distance off the axis at several points, a couple of slightly taller vertical ticks near the center where the wave momentarily peaks, and shorter near-flat passages between them, giving an irregular, organic, music-reactive contour rather than a flat ruler line or a perfectly periodic sine. The individual dots have crisp hard square edges, zero blur, zero glow, zero anti-aliased softness, and sit on the flat white field casting no shadow whatsoever, as if printed onto paper. There are no people, no human figures, no objects, no logos, no brand marks, and no text of any kind in this start frame — only the rainbow dot-waveform floating on white. Composition: perfectly symmetrical and balanced around the vertical center axis, the waveform occupying only a thin horizontal band at roughly 50 percent of the frame height, leaving enormous generous white negative space above (about 48 percent of frame height) and below (about 48 percent of frame height), so the colorful trace feels suspended in a vast bright void. Color palette: pure white background dominates approximately 92 to 95 percent of the total frame area; the rainbow spectrum dots occupy only the thin central band (about 5 to 8 percent of frame area) but carry all the visual energy through saturated full-spectrum hue. Color relationship: full-spectrum rainbow against a neutral white ground; very high luminance contrast between the bright white field and the saturated colored dots; balanced overall temperature because the spectrum spans warm and cool equally across its width. Texture: every element is flat 2D digital vector — zero photographic texture, zero film grain, zero halation, zero noise, zero gradient, perfectly clean digital render on a uniform white plane. Lighting: completely flat even ambient illumination, neutral 5500K, no directional key light, no fill falloff, no rim, no cast shadow, hi-key throughout the entire frame. The aesthetic is a premium Korean culture-marketing concert-announce motion graphic — extremely clean, modern, minimal, confident, restrained, with a music and sound-identity concept expressed purely as a colorful reactive waveform on white; the emptiness and the spectrum together imply 'this is about music and the joy of color.' Style anchor: clean 4K commercial motion-graphic, hi-key whiteout background, flat vector dot-matrix audio-waveform visualization, full rainbow spectrum, generous symmetrical negative space, no people, no photographic elements, no grain, Korean premium brand culture-marketing teaser aesthetic, contemporary minimal design-system look.",
+        "t2i_negative": "photorealistic, 3D render, gradient background, grain, noise, bokeh, people, faces, hands, real brand logos/marks, watermark, drop shadow, glow, dark background, low-key, busy composition, clutter",
+        "i2v_motion": "Animate the rainbow dot-waveform as a living, music-reactive sound wave: the colored dots oscillate vertically off the central horizontal axis with continuous irregular amplitude modulation (peaks rising and falling, denser clusters pulsing), like a graphic equalizer responding to a song; the whole trace breathes and shimmers while staying anchored to the centered horizontal band. Over the clip, the waveform's energy gradually builds and condenses toward the center, and in the final third the colored particles begin to migrate and assemble into letterforms, coalescing into the rainbow-gradient wordmark 'COLDPLAY' with 'A HEAD FULL OF DREAMS TOUR' settling beneath it (recorded on-screen copy; finalized in post). Camera locked-off, background pure white and static. Accelerating rhythm, ~9.3s, ends on a clean cut handoff. Clean, hi-key, no motion blur.",
+        "i2v_params": {
+          "clip_duration_sec": 9.34,
+          "camera_move": "locked_off",
+          "subject_motion_level": "dynamic",
+          "signature_effect": "none",
+          "pacing": "accelerating",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen copy 'COLDPLAY' / 'A HEAD FULL OF DREAMS TOUR' preserved verbatim; rainbow waveform is generic spectrum dot-matrix graphic (no logo mark reproduced); artist identity expressed as text only"
+      }
+    },
+    {
+      "index": 2,
+      "duration": 1.9,
+      "framing": "environment",
+      "function": "empathy_hook",
+      "subject_action": "static black Korean headline copy '너무 늦어서 미안' set in a bold geometric sans-serif, centered on a pure white frame; held still for the full cut as an emotional teaser line (an apology addressed to fans for the long wait for this concert)",
+      "layout_grid": "center",
+      "subject_position": "center",
+      "subject_identity": "none_environment",
+      "subject_relationship_to_protagonist": null,
+      "mid_frame_path": "ADV-2026-039_frames/cut02_mid.png",
+      "subject_typo_layout": "typo_only_no_person",
+      "typo_motion": "f281 하드컷으로 '너무 늦어서 미안' 한 줄이 화면 정중앙에 즉시 등장(diff 스파이크 f281=1.21) → 이후 f337까지 완전 정지(diff ~0.01). 모션 없는 정지 타이포 카드.",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "environment",
+      "gaze": "none",
+      "eye_contact_effect": null,
+      "props": [],
+      "prop_semantics": null,
+      "color_palette": [
+        "#ffffff",
+        "#1a1a1a"
+      ],
+      "color_intent": "무지개 컬러 인트로 직후 의도적으로 컬러를 모두 비우고 블랙 텍스트만 남겨, 감성 카피에 집중시키고 톤을 차분하게 전환(화려함→진심)",
+      "pose_description": "인물 없음; 단 한 줄의 블랙 카피가 광활한 화이트 여백 중앙에 놓여 침묵·여백의 무게로 진정성을 전달",
+      "subject_motion": "static",
+      "prop_motion": "none",
+      "camera_motion": "locked_off",
+      "camera_motion_intensity": "none",
+      "camera_effect_local": "none",
+      "motion_blur": false,
+      "intra_cut_rhythm": "static",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [],
+      "vfx_intensity_local": "none",
+      "fact_check_flag": null,
+      "notes": "Cut 2 (f281-f337, 9.34-11.25s): pure white, single black centered Korean line '너무 늦어서 미안' (bold geometric sans). Static hold, no animation. Hard cut in at f281, hard cut out at f338. Emotional apology-tone teaser hook (the band/brand 'apologizes' for being so late to come).",
+      "visible_elements": {
+        "foreground": [
+          "centered black Korean headline '너무 늦어서 미안' in bold geometric sans-serif"
+        ],
+        "midground": [],
+        "background": [
+          "flat pure white field (#ffffff)"
+        ],
+        "lighting_env": [
+          "flat even ambient — clean digital, no directional light"
+        ],
+        "atmosphere": [
+          "ultra-clean minimal digital, vast white negative space, no grain"
+        ]
+      },
+      "texture": {
+        "primary_subject": "flat_2d_vector",
+        "secondary_objects": [],
+        "background_surface": "flat_digital",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "front",
+        "key_hardness": "diffused",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "strong",
+        "key_to_fill_ratio": "1:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "none",
+        "overall_contrast": "hi_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#ffffff",
+          "#1a1a1a"
+        ],
+        "palette_role": {
+          "#ffffff": "background_white_dominant",
+          "#1a1a1a": "headline_text_black"
+        },
+        "color_relationship": "monochrome",
+        "temperature_balance": "balanced",
+        "saturation_strategy": "monochrome",
+        "contrast_type": "luminance_high",
+        "accent_color": "#1a1a1a",
+        "accent_ratio": "5_percent"
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A minimal typographic still rendered at 1920x1080 pixels in 16:9 landscape, consisting of a single short line of black Korean Hangul text centered on a completely empty pure-white (#ffffff) background. The text reads '너무 늦어서 미안' and is set in a bold, modern geometric sans-serif typeface with even, slightly heavy stroke weight and clean, confident, mostly upright letterforms with gently squared terminals; the characters are a near-black dark charcoal (#1a1a1a) with crisp, perfectly sharp edges and no anti-aliased softness. The single line is positioned at the exact horizontal and vertical center of the frame, occupying roughly the central 20 percent of the frame width and only about 6 to 8 percent of the frame height, so it sits as a compact, quiet, deliberate statement surrounded by an enormous calm field of white. Above the text is approximately 47 percent of frame height in empty white; below it approximately 47 percent of frame height in empty white; to the left and right, wide white margins of roughly 40 percent each, so the words feel small and intimate within the vast bright space. There are absolutely no other elements in the frame: no waveform, no dots, no graphics, no icons, no logos, no subtitle, no underline, no box, no decoration of any kind — only the one black Korean headline floating on white. The deliberate reduction to a single line of copy suspended in vast negative space communicates sincerity, humility and emotional weight; coming immediately after a colorful, energetic rainbow-waveform opening, this hushed monochrome pause reads as a sudden quiet breath, a direct and personal address to the viewer. The line of text is horizontally centered with even, slightly open letter-spacing and a single comfortable line height, no line breaks, reading as one continuous spoken-feeling phrase, the kind of short confessional sentence a person might say quietly. The phrase is short — four small word-clusters in Hangul — so it does not crowd the frame; it floats as a gentle caption-like statement well clear of all four edges. Color palette: pure white background dominates approximately 95 percent of the total frame area; black text occupies only about 5 percent. Color relationship: pure monochrome (black on white), no color anywhere in the frame. Temperature: neutral throughout. Saturation: zero, fully monochrome. Contrast: maximum luminance contrast between the near-black text and the bright white field, ensuring crisp, immediate legibility. Texture: completely flat 2D digital vector — zero grain, zero noise, zero halation, zero gradient, zero texture of any kind, a perfectly clean uniform white plane. Lighting: flat even ambient, neutral 5500K, no directional key, no cast shadow, no rim, hi-key whiteout across the whole frame. The aesthetic is an ultra-minimal Korean commercial teaser copy card — restrained, premium, emotionally direct, confident enough to let a single sentence and empty space carry the whole moment, using emptiness as expressive space and silence as tone. Style anchor: clean 4K commercial typographic card, hi-key pure white background, bold geometric Korean sans-serif, single centered emotional headline, generous symmetrical negative space, no photographic elements, no grain, premium minimal Korean brand teaser aesthetic, contemporary design-system typography.",
+        "t2i_negative": "photorealistic, gradient background, grain, noise, people, faces, hands, real brand logos/marks, watermark, drop shadow, glow, dark background, low-key, multiple text lines, decorative elements, color text, serif font",
+        "i2v_motion": "Hold the single black Korean headline '너무 늦어서 미안' (recorded copy) perfectly static and centered on the pure white background for the full clip — no animation, no movement, no fade; the text is present from the first frame and does not change. Camera locked-off, background static white. Static pacing, ~1.9s, ends on a clean cut handoff to the next text card. Absolutely no motion of any kind.",
+        "i2v_params": {
+          "clip_duration_sec": 1.9,
+          "camera_move": "locked_off",
+          "subject_motion_level": "still",
+          "signature_effect": "none",
+          "pacing": "static",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen copy '너무 늦어서 미안' preserved verbatim; pure typographic card, no logos/people"
+      }
+    },
+    {
+      "index": 3,
+      "duration": 2.77,
+      "framing": "environment",
+      "function": "event_announcement",
+      "subject_action": "static centered concert-information typographic card on pure white: large bold black title block '콜드플레이' over '현대카드 슈퍼콘서트 22', with a date/time/venue line '2017. 4. 15 (토) 오후 7시 잠실종합운동장 주경기장' beneath, and a small viewing-rating notice '만 7세 이상 관람가' at the bottom; held still as the announce/CTA card",
+      "layout_grid": "center",
+      "subject_position": "center",
+      "subject_identity": "none_environment",
+      "subject_relationship_to_protagonist": null,
+      "mid_frame_path": "ADV-2026-039_frames/cut03_mid.png",
+      "subject_typo_layout": "typo_only_no_person",
+      "typo_motion": "f338 하드컷으로 정보 카드 전체가 화면 중앙에 즉시 등장(diff 스파이크 f338=3.33, 이후 잔여 미세 settle f339~f345 diff~0.1) → f420까지 정지. 4단 스택 텍스트(타이틀 2줄 + 일시·장소 1줄 + 등급 1줄) 중앙 정렬.",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "environment",
+      "gaze": "none",
+      "eye_contact_effect": null,
+      "props": [],
+      "prop_semantics": null,
+      "color_palette": [
+        "#ffffff",
+        "#1a1a1a"
+      ],
+      "color_intent": "감성 카피와 동일한 블랙 on 화이트 모노톤을 유지해 통일감 있는 정보 전달; 컬러 없이 타이포 위계(타이틀 大 → 일시·장소 中 → 등급 小)만으로 정보 정리",
+      "pose_description": "인물 없음; 위계가 분명한 4단 텍스트 블록이 중앙에 정렬되어 공연 발표의 공식성·명료함을 전달",
+      "subject_motion": "static",
+      "prop_motion": "none",
+      "camera_motion": "locked_off",
+      "camera_motion_intensity": "none",
+      "camera_effect_local": "none",
+      "motion_blur": false,
+      "intra_cut_rhythm": "static",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [],
+      "vfx_intensity_local": "none",
+      "fact_check_flag": null,
+      "notes": "Cut 3 (f338-f420, 11.25-14.02s): pure white, centered black info card. Title '콜드플레이' / '현대카드 슈퍼콘서트 22'; detail '2017. 4. 15 (토) 오후 7시 잠실종합운동장 주경기장'; notice '만 7세 이상 관람가'. Static hold. Hard cut in f338, hard cut out f421. Provides production year 2017 and event identity.",
+      "visible_elements": {
+        "foreground": [
+          "large bold black title '콜드플레이' (line 1)",
+          "large bold black title '현대카드 슈퍼콘서트 22' (line 2)",
+          "medium black detail line '2017. 4. 15 (토) 오후 7시 잠실종합운동장 주경기장'",
+          "small black notice '만 7세 이상 관람가'"
+        ],
+        "midground": [],
+        "background": [
+          "flat pure white field (#ffffff)"
+        ],
+        "lighting_env": [
+          "flat even ambient — clean digital, no directional light"
+        ],
+        "atmosphere": [
+          "ultra-clean minimal digital, generous white space around the text block, no grain"
+        ]
+      },
+      "texture": {
+        "primary_subject": "flat_2d_vector",
+        "secondary_objects": [],
+        "background_surface": "flat_digital",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "front",
+        "key_hardness": "diffused",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "strong",
+        "key_to_fill_ratio": "1:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "none",
+        "overall_contrast": "hi_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#ffffff",
+          "#1a1a1a"
+        ],
+        "palette_role": {
+          "#ffffff": "background_white_dominant",
+          "#1a1a1a": "text_black_all_tiers"
+        },
+        "color_relationship": "monochrome",
+        "temperature_balance": "balanced",
+        "saturation_strategy": "monochrome",
+        "contrast_type": "luminance_high",
+        "accent_color": "#1a1a1a",
+        "accent_ratio": "15_percent"
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A clean centered typographic information card rendered at 1920x1080 pixels in 16:9 landscape, presenting concert-announcement text in black on a completely empty pure-white (#ffffff) background. The text is arranged as a vertically stacked, center-aligned block occupying roughly the central horizontal third of the frame and sitting slightly below the vertical mid-line, every line horizontally centered on the same vertical axis. From top to bottom the hierarchy is: a first large bold black (#1a1a1a) Korean title line reading '콜드플레이'; directly beneath it a second large bold black title line of equal weight reading '현대카드 슈퍼콘서트 22' (slightly wider, the largest and heaviest text mass in the card and the clear focal point); below the title block, with a small consistent vertical gap, a medium-size bold black detail line reading '2017. 4. 15 (토) 오후 7시 잠실종합운동장 주경기장'; and at the very bottom of the block, a small lighter-weight black notice line reading '만 7세 이상 관람가'. All text is set in a bold, modern geometric sans-serif typeface (the same family as the preceding teaser card), with clean even strokes, sharp edges and confident proportions; the two title lines are the dominant elements, the date/venue line is clearly secondary in size, and the rating notice is the smallest and lightest, establishing a precise three-tier typographic hierarchy purely through size and weight rather than color or rule lines. The two title lines stack tightly with minimal leading so they read as one title unit, while the detail and notice lines sit a touch further below as supporting information. The entire stacked block is centered horizontally and roughly centered vertically, leaving wide generous white margins: approximately 38 percent empty white above the title, approximately 38 percent below the notice, and broad white margins to the left and right, so the announcement feels poised and uncluttered. There are no graphics, no logos, no icons, no color, no waveform, no underline, no box, no decoration of any kind — only the black announcement text on white, letting the information speak plainly. The continuity of pure-white ground and black geometric type with the previous card makes this read as the informational payoff of the same minimal system. Color palette: pure white background dominates approximately 88 to 90 percent of the total frame area; black text occupies roughly 10 to 12 percent. Color relationship: pure monochrome (black on white). Temperature: neutral throughout. Saturation: zero, fully monochrome. Contrast: maximum luminance contrast between black text and the bright white field for crisp legibility at every tier. Texture: completely flat 2D digital vector — zero grain, zero noise, zero halation, zero gradient, zero texture, a perfectly clean uniform white plane. Lighting: flat even ambient, neutral 5500K, no directional key, no cast shadow, no rim, hi-key whiteout. The aesthetic is a premium Korean concert-announcement information card — formal, clear, minimal, trustworthy, hierarchy-driven typography on clean white. Style anchor: clean 4K commercial typographic announce card, hi-key pure white background, bold geometric Korean sans-serif, multi-tier centered event information, generous negative space, no photographic elements, no grain, premium minimal Korean brand culture-marketing aesthetic, contemporary design-system layout.",
+        "t2i_negative": "photorealistic, gradient background, grain, noise, people, faces, hands, real brand logos/marks, watermark, drop shadow, glow, dark background, low-key, color text, decorative elements, serif font, cluttered layout",
+        "i2v_motion": "Hold the full centered concert-information text block ('콜드플레이' / '현대카드 슈퍼콘서트 22' / '2017. 4. 15 (토) 오후 7시 잠실종합운동장 주경기장' / '만 7세 이상 관람가', all recorded copy) perfectly static on the pure white background for the entire clip — no animation, no movement, no fade after the initial appearance; text present from the first frame. Camera locked-off, background static white. Static pacing, ~2.77s, ends on a clean cut handoff to the brand logo card. No motion of any kind.",
+        "i2v_params": {
+          "clip_duration_sec": 2.77,
+          "camera_move": "locked_off",
+          "subject_motion_level": "still",
+          "signature_effect": "none",
+          "pacing": "static",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen copy preserved verbatim (title, date/venue, rating notice); pure typographic card, no logos/people"
+      }
+    },
+    {
+      "index": 4,
+      "duration": 1.25,
+      "framing": "environment",
+      "function": "brand_cta",
+      "subject_action": "static brand sign-off on pure white: the 'Hyundai Card' wordmark rendered in the brand's geometric typeface, enclosed by a thin rounded-rectangle outline open at the right (the brand's card-shape bracket lockup), centered in frame; held still to the end",
+      "layout_grid": "center",
+      "subject_position": "center",
+      "subject_identity": "none_environment",
+      "subject_relationship_to_protagonist": null,
+      "mid_frame_path": "ADV-2026-039_frames/cut04_mid.png",
+      "subject_typo_layout": "typo_only_no_person",
+      "typo_motion": "f421 하드컷으로 'Hyundai Card' 워드마크 + 라운드 사각 브래킷이 화면 중앙에 즉시 등장(diff 스파이크 f421=4.03) → f451 끝까지 정지. 정지 브랜드 로고 카드.",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "environment",
+      "gaze": "none",
+      "eye_contact_effect": null,
+      "props": [],
+      "prop_semantics": null,
+      "color_palette": [
+        "#ffffff",
+        "#1a1a1a"
+      ],
+      "color_intent": "전 구간 일관된 블랙 on 화이트 미니멀 톤으로 브랜드(주최) 각인; 절제된 모노톤이 현대카드 디자인 시스템의 프리미엄·정제된 정체성을 마무리에서 확정",
+      "pose_description": "인물 없음; 브랜드 워드마크가 카드 형태를 연상시키는 라운드 사각 브래킷 안에 놓여 '주최=현대카드'를 정제된 한 컷으로 마무리",
+      "subject_motion": "static",
+      "prop_motion": "none",
+      "camera_motion": "locked_off",
+      "camera_motion_intensity": "none",
+      "camera_effect_local": "none",
+      "motion_blur": false,
+      "intra_cut_rhythm": "static",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [],
+      "vfx_intensity_local": "none",
+      "fact_check_flag": null,
+      "notes": "Cut 4 (f421-f451, 14.02-15.26s): pure white, centered 'Hyundai Card' wordmark inside a thin rounded-rectangle outline (card-shape bracket). Static hold to end. Hard cut in f421. Brand sign-off / sponsor lockup.",
+      "visible_elements": {
+        "foreground": [
+          "'Hyundai Card' wordmark in geometric brand typeface (black #1a1a1a)",
+          "thin rounded-rectangle outline / card-shape bracket enclosing the wordmark"
+        ],
+        "midground": [],
+        "background": [
+          "flat pure white field (#ffffff)"
+        ],
+        "lighting_env": [
+          "flat even ambient — clean digital, no directional light"
+        ],
+        "atmosphere": [
+          "ultra-clean minimal digital, generous white space, no grain"
+        ]
+      },
+      "texture": {
+        "primary_subject": "flat_2d_vector",
+        "secondary_objects": [
+          "flat_2d_vector"
+        ],
+        "background_surface": "flat_digital",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "front",
+        "key_hardness": "diffused",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "strong",
+        "key_to_fill_ratio": "1:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "none",
+        "overall_contrast": "hi_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#ffffff",
+          "#1a1a1a"
+        ],
+        "palette_role": {
+          "#ffffff": "background_white_dominant",
+          "#1a1a1a": "wordmark_and_bracket_black"
+        },
+        "color_relationship": "monochrome",
+        "temperature_balance": "balanced",
+        "saturation_strategy": "monochrome",
+        "contrast_type": "luminance_high",
+        "accent_color": "#1a1a1a",
+        "accent_ratio": "5_percent"
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A minimal brand sign-off still rendered at 1920x1080 pixels in 16:9 landscape, showing a single black wordmark centered on a completely empty pure-white (#ffffff) background. At the exact center of the frame is a brand logotype in a distinctive geometric, slightly angular and modular sans-serif typeface reading 'Hyundai Card' (two words, capitalized H and C, with the second word set close to the first), rendered in near-black dark charcoal (#1a1a1a) with crisp sharp edges. The wordmark is enclosed by a thin black rounded-rectangle outline that frames it like the silhouette of a payment card or a soft bracket — the outline has gently rounded corners and a fine, even, consistent stroke weight, and it sits closely around the wordmark with small comfortable internal padding on all sides, reading as a clean card-shape lockup that subtly nods to the product itself (a card). The entire logo lockup occupies roughly the central 22 to 26 percent of the frame width and about 8 to 10 percent of the frame height, centered both horizontally and vertically on the frame, surrounded by very generous white negative space: approximately 45 percent empty white above, approximately 45 percent below, and wide even white margins to the left and right, so the mark feels precisely placed and uncrowded. There are absolutely no other elements — no additional text, no tagline, no graphics, no icons, no waveform, no color, no decoration, no second logo — only the black 'Hyundai Card' wordmark in its thin rounded-rectangle bracket on the clean white field. The minimal single-logo composition functions as a confident, premium brand bookend, signaling the sponsoring brand cleanly and unmistakably at the very end of the announcement, and its continuation of the pure-white-and-black minimal system ties the whole film together as one consistent design language. The restraint — a single typographic brand mark and nothing else in a vast white space — itself signals premium confidence and design discipline, a hallmark of the brand's well-known design-led identity. The wordmark's letterforms are even in weight and tightly, precisely kerned, sitting on a single baseline within the bracket, and the bracket's rounded corners echo the rounded corners of a physical card. Color palette: pure white background dominates approximately 94 to 95 percent of the total frame area; the black wordmark and its outline occupy only about 5 percent. Color relationship: pure monochrome (black on white). Temperature: neutral throughout. Saturation: zero, fully monochrome. Contrast: maximum luminance contrast between the black logotype and the bright white field. Texture: completely flat 2D digital vector — zero grain, zero noise, zero halation, zero gradient, zero texture, a perfectly clean uniform white plane. Lighting: flat even ambient, neutral 5500K, no directional key, no cast shadow, no rim, hi-key whiteout. The aesthetic is a refined, minimal Korean premium-brand closer — restraint as a signal of confidence, a single typographic brand mark on clean white. Style anchor: clean 4K commercial brand closer, hi-key pure white background, geometric Korean fintech brand logotype in a rounded-rectangle bracket, generous negative space, no photographic elements, no grain, premium minimal brand sign-off aesthetic, contemporary design-system identity.",
+        "t2i_negative": "photorealistic, gradient background, grain, noise, people, faces, hands, watermark, drop shadow, glow, dark background, low-key, color, decorative elements, multiple logos, cluttered layout, distorted lettering",
+        "i2v_motion": "Hold the 'Hyundai Card' wordmark and its rounded-rectangle bracket (recorded brand lockup) perfectly static and centered on the pure white background for the entire clip — no animation, no movement, no fade; present from the first frame. Camera locked-off, background static white. Static pacing, ~1.25s, clean hold to the end of the film. No motion of any kind.",
+        "i2v_params": {
+          "clip_duration_sec": 1.25,
+          "camera_move": "locked_off",
+          "subject_motion_level": "still",
+          "signature_effect": "none",
+          "pacing": "static",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; brand wordmark treatment generic geometric sans-serif in a rounded-rectangle bracket (logo mark abstracted as type-in-bracket lockup); on-screen brand text preserved as-is"
+      }
+    }
+  ],
+  "search_keywords": {
+    "industry": [
+      "finance"
+    ],
+    "product_category": [
+      "card"
+    ],
+    "target_demo": [
+      "late20s_early30s",
+      "30s",
+      "active_consumers",
+      "mz"
+    ],
+    "media_format": [
+      "digital_30s",
+      "shortform_landscape_30s"
+    ],
+    "tone": [
+      "premium",
+      "clean_minimal",
+      "emotional_lyrical",
+      "upbeat"
+    ],
+    "pacing": [
+      "slow_build",
+      "ramp_up"
+    ],
+    "technique": [
+      "kinetic_typo",
+      "morph",
+      "color_shift",
+      "product_solo_hero"
+    ],
+    "vfx_keywords": [
+      "particle",
+      "morph",
+      "data_viz",
+      "color_pop"
+    ],
+    "copy_strategy_keywords": [
+      "empathy_to_solution",
+      "building_climax",
+      "caption_led",
+      "number_emphasis"
+    ],
+    "concept_derivation_pattern": [
+      "detail_to_whole_reveal"
+    ]
+  },
+  "inferred_creative_thinking": {
+    "insight": "오래 기다려온 아티스트의 내한은 '드디어 왔다'는 안도와 '왜 이제야'라는 아쉬움이 공존한다 — 그 감정을 브랜드(주최)가 먼저 대신 말해주면 팬의 마음을 산다",
+    "persona": "콜드플레이를 사랑하지만 그동안 내한 기회가 없어 아쉬웠던 음악 팬, 그리고 '문화는 현대카드'라는 인식을 가진 대중",
+    "moment": "공연 라인업/내한이 공식 발표되는 순간 — 팬들이 'COLDPLAY' 네 글자에 환호하고 일정을 확인하는 그 찰나",
+    "product_role": "현대카드 슈퍼콘서트라는 컬처마케팅 플랫폼이 '오래 기다린 공연을 현실로 만든 주최자'로 포지셔닝 — 카드사가 아니라 문화 경험의 매개자",
+    "punchline": "너무 늦어서 미안",
+    "differentiator": "상품 혜택을 말하지 않고 음악(사운드 파형)·아티스트·감성 카피만으로 브랜드를 각인 — 컬처마케팅 자산 자체가 차별점",
+    "brand_fit_one_liner": "문화를 만드는 현대카드이기에 가능한, 오래 기다린 콜드플레이 내한의 감성적 발표",
+    "confidence": "inferred"
+  },
+  "inferred_brief": "콜드플레이 'A Head Full of Dreams Tour' 내한(현대카드 슈퍼콘서트 22)을 대중에게 발표하되, 상품 혜택 대신 음악의 무지개 사운드 비주얼과 '너무 늦어서 미안'이라는 감성 카피로 오래 기다린 팬의 마음을 움직이고 '문화=현대카드'를 각인한다.",
+  "cross_pollination_tags": {
+    "adjacent": [
+      "telecom",
+      "content_ott",
+      "it_saas"
+    ],
+    "distant": [
+      "sportswear",
+      "automotive",
+      "travel_tourism"
+    ],
+    "contrast": [
+      "fnb",
+      "beauty",
+      "home_appliance"
+    ]
+  },
+  "concept_derivation_pattern": "detail_to_whole_reveal",
+  "confidence": "inferred",
+  "analyst_notes": "1. ★브랜드/콘텐츠 주의: manifest 브랜드는 '현대카드'지만 실제 영상은 '현대카드 슈퍼콘서트 22 — 콜드플레이(A Head Full of Dreams Tour)' 내한 발표 필름(현대카드 컬처마케팅). 화면 카피(COLDPLAY / 너무 늦어서 미안 / 콜드플레이 현대카드 슈퍼콘서트 22 / 2017.4.15)를 원문 보존했고, 브랜드는 source_ref에 현대카드로 유지. 2. faster_whisper(base) 전사 0 segments(speech_coverage=0.0) — 음성 나레이션 없음, 오디오는 BGM(음악)만으로 판단; narration_handling=none. 3. ★컷 구조: scenedetect/metrics 자동 컷 0개(순백 배경 위 작은 그래픽이라 diff 미검출). 전 프레임 육안 판독으로 하드컷 4개 확정 — diff 스파이크 f281(1.21)/f338(3.33)/f421(4.03)이 컷 경계와 일치. shot_count_corrected=4. 4. wiggle 수치(mean_abs_shift_x=0.3657, sign_flips_ratio=0.424)는 cut1 무지개 사운드 파형의 도트 진폭 변조에 기인한 것으로 판단; 순수 카메라 wiggle_3d 아님(배경 정지, locked_off). 5. 제작연도 2017로 확정(화면 고지 '2017. 4. 15'). 6. capture_style=3d_cg(모션그래픽/키네틱 타이포), 인물·실사 없음.",
+  "verification": {
+    "frames_reviewed": "approx 50/451 native-res frames read on host (all 4 cut boundaries f269/f277/f281/f283, f337/f338/f339, f420/f421/f422 + each cut midpoint + opening f1-f30 waveform birth + COLDPLAY assembly f230-f262 + cropped/zoomed reads of COLDPLAY wordmark f242, concert info card f380, Hyundai Card logo f435 for verbatim copy) + 100% per-frame metrics coverage (451/451) + scenedetect cross-check",
+    "audio_analyzed": true,
+    "hitrate_na": true,
+    "abstraction_checked": true
+  }
+}

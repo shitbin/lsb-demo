@@ -1,0 +1,1126 @@
+{
+  "id": "ADV-2026-003",
+  "source_ref": {
+    "platform": "TVC/digital",
+    "title_or_campaign": "카카오뱅크 모임통장 — 동호회 편",
+    "brand": "카카오뱅크 (KakaoBank)",
+    "product": "모임통장 (Group Account)",
+    "model": null,
+    "year": 2018,
+    "production_note": "준법감시인 심의필 18-378 (2018.11.30 현재)",
+    "url": null
+  },
+  "category_primary": "finance.bank",
+  "category_tags": [
+    "모바일뱅킹",
+    "모임통장",
+    "핀테크",
+    "동호회"
+  ],
+  "mood": [
+    "warm_everyday",
+    "empathetic_comforting",
+    "friendly",
+    "slice_of_life"
+  ],
+  "target_demo": "30s–50s club and association organizers, adult group leaders, active social members",
+  "total_duration": 31.44,
+  "shot_count": 6,
+  "shot_count_corrected": 6,
+  "fps": 29.97,
+  "aspect_ratio": "16:9",
+  "hook_position": 2.0,
+  "cta_position": 20.39,
+  "narrative_arc": "Product need established through club treasurer's pain point (everyone cheering but no practical help with dues) then app UI reveals painless solution then brand sign-off",
+  "narrative_structure": "linear_continuous",
+  "pacing_curve": "slow_build",
+  "music_tempo_curve": "steady",
+  "wow_cut_index": [
+    3,
+    5
+  ],
+  "creative_device": "everyday_problem_metaphor_product_release",
+  "production_signature": {
+    "capture_style": "live_action",
+    "camera_signature": [
+      "locked_off",
+      "handheld_light"
+    ],
+    "signature_note": "Warm cinematic grade throughout live-action scenes (shots 2–4); clean digital white for app UI reveal (shot 5); no wiggle_3d detected (mean_abs_shift_x 0.52 within cuts, consistent with mild handheld); title and end cards are clean digital composites",
+    "color_grade": "warm",
+    "texture_fx": "film_grain_subtle"
+  },
+  "global_layout": {
+    "grid_system": "center",
+    "subject_placement_dominant": "center",
+    "subject_typo_relation": "typo_separate_zone",
+    "negative_space_use": "generous",
+    "layout_note": "Shots 1 and 6 use centered dark-navy card layout; shots 2–4 use cinematic warm-lit live action; shot 5 uses split-screen (phone UI left ~52%, typography right ~48%) on white background"
+  },
+  "recurring_motifs": [
+    "tour_bus_interior",
+    "group_celebration",
+    "phone_app_screen",
+    "yellow_brand_mark"
+  ],
+  "copywriting": {
+    "tagline_text": "응원만 하고 도와주진 않으니까",
+    "tagline_structure": "ironic_empathy_statement",
+    "tagline_length_syllables": 14,
+    "tagline_position_sec": 16.0,
+    "cta_text": "카카오뱅크 모임통장",
+    "cta_text_structure": "brand_product_name",
+    "cta_position_sec": 26.5,
+    "copy_tone": [
+      "empathetic",
+      "wry_humor",
+      "solution_forward",
+      "warm"
+    ],
+    "copy_strategy": "empathy_to_solution",
+    "copy_lines_count": 5,
+    "lines": [
+      {
+        "position_sec": 16.0,
+        "text": "응원만 하고 도와주진 않으니까",
+        "function": "tagline_hook",
+        "tone": "wry_ironic",
+        "source": "caption"
+      },
+      {
+        "position_sec": 20.4,
+        "text": "최대 100명까지 회비 관리를 손쉽게",
+        "function": "feature_benefit",
+        "tone": "informational",
+        "source": "both"
+      },
+      {
+        "position_sec": 24.3,
+        "text": "회비 입금현황도 한눈에",
+        "function": "feature_benefit",
+        "tone": "clean",
+        "source": "both"
+      },
+      {
+        "position_sec": 26.5,
+        "text": "카카오뱅크 모임통장",
+        "function": "cta_product_name",
+        "tone": "direct",
+        "source": "both"
+      },
+      {
+        "position_sec": 29.5,
+        "text": "자세한 내용은 카카오뱅크 모바일앱을 참고하세요.",
+        "function": "legal_disclaimer",
+        "tone": "informational",
+        "source": "caption"
+      }
+    ],
+    "captions": [
+      {
+        "position_sec": 0.5,
+        "text": "카카오뱅크 모임통장",
+        "function": "title_product_reveal"
+      },
+      {
+        "position_sec": 3.5,
+        "text": "성북고 부부동반 산악회",
+        "function": "group_identification_prop"
+      },
+      {
+        "position_sec": 29.3,
+        "text": "자세한 내용은 카카오뱅크 모바일앱을 참고하세요.",
+        "function": "disclaimer"
+      },
+      {
+        "position_sec": 29.3,
+        "text": "준법감시인 심의필 18-378 (2018.11.30 현재)",
+        "function": "regulatory_notice"
+      }
+    ],
+    "narration_handling": "excerpt_only"
+  },
+  "typography": {
+    "primary_font_class": "rounded_sans_bold",
+    "secondary_font_class": "geometric_sans_condensed_black",
+    "animation_style": [
+      "fade_in",
+      "slide",
+      "static",
+      "pop"
+    ],
+    "subtitle_position_dominant": "right_third",
+    "tagline_position": "center_right",
+    "color_strategy": "white_on_live_action_and_dark_bold_on_white",
+    "appearance_count": 5,
+    "key_typography_moments_sec": [
+      0.5,
+      16.0,
+      20.5,
+      24.5,
+      29.0
+    ],
+    "typo_motion_dominant": "slide_in_from_right"
+  },
+  "vfx": {
+    "primary_effects": [
+      "ui_motion"
+    ],
+    "effect_intensity": "subtle",
+    "transition_style_dominant": "cut",
+    "vfx_event_count": 2,
+    "vfx_timing_array_sec": [
+      20.39,
+      24.3
+    ],
+    "wow_vfx_index": [
+      5
+    ]
+  },
+  "audio": {
+    "has_audio": true,
+    "language": "ko",
+    "speech_coverage": 0.824,
+    "bgm_likely": true,
+    "narration_lines": [
+      {
+        "start": 2.03,
+        "end": 4.03,
+        "text": "정원님 잘하셨습니다.",
+        "text_raw": "정원님 예술하셨습니다.",
+        "kind": "crowd_cheer",
+        "source": "voice"
+      },
+      {
+        "start": 4.03,
+        "end": 5.79,
+        "text": "정원님 최고!",
+        "text_raw": "정원님 최고!",
+        "kind": "crowd_cheer",
+        "source": "voice"
+      },
+      {
+        "start": 5.79,
+        "end": 8.19,
+        "text": "정원님 고생하셨어요!",
+        "text_raw": "정원님 고생하셨어요!",
+        "kind": "crowd_cheer",
+        "source": "voice"
+      },
+      {
+        "start": 8.19,
+        "end": 9.19,
+        "text": "고생하셨어요!",
+        "text_raw": "고생하셨어요!",
+        "kind": "crowd_cheer",
+        "source": "voice"
+      },
+      {
+        "start": 9.19,
+        "end": 23.67,
+        "text": "최대 100명까지 회비 관리를 손쉽게",
+        "text_raw": "최대 100년까지 해비 관리를 손쉽게",
+        "kind": "voiceover",
+        "source": "voice"
+      },
+      {
+        "start": 23.67,
+        "end": 25.95,
+        "text": "회비 입금현황도 한눈에",
+        "text_raw": "이끈 현황도 한 눈에",
+        "kind": "voiceover",
+        "source": "voice"
+      },
+      {
+        "start": 25.95,
+        "end": 27.95,
+        "text": "카카오뱅크 모임통장",
+        "text_raw": "카카오뱅크 모임 통장",
+        "kind": "voiceover",
+        "source": "voice"
+      }
+    ],
+    "voice_vs_caption": "voice_caption_sync",
+    "narration_handling": "excerpt_only",
+    "transcribed_by": "faster_whisper",
+    "audio_note": "Corrected against on-screen captions: Whisper misheard '100명' as '100년' and '회비' as '해비'. Crowd cheering in shots 2–3; clean voiceover in shots 5–6. BGM inferred (upbeat acoustic or light percussion likely)."
+  },
+  "frames_dir": "ADV-2026-003_frames",
+  "contact_sheet_path": "ADV-2026-003_frames/contact_sheet.png",
+  "shots": [
+    {
+      "index": 1,
+      "duration": 2.002,
+      "framing": "environment",
+      "function": "product_title_reveal",
+      "color_mood": "brand_navy_yellow",
+      "subject_action": "animated mascot character emerges from behind yellow brand mark letterform, text types in revealing product name",
+      "copy_overlay": "카카오뱅크 모임통장",
+      "subject_identity": "none_character",
+      "subject_relationship_to_protagonist": null,
+      "mid_frame_path": "ADV-2026-003_frames/cut01_mid.png",
+      "layout_grid": "center",
+      "subject_position": "center",
+      "subject_typo_layout": "typo_over_subject",
+      "typo_motion": "text characters appear letter-by-letter from left to right: '카카오뱅크' on top line, then '모임통장' below; yellow blocky rounded sans-serif; mascot pops out from behind the B letterform around midpoint of this shot",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "environment",
+      "gaze": "none",
+      "eye_contact_effect": null,
+      "props": [
+        "brand_mark_letterform_yellow",
+        "bear_mascot_character"
+      ],
+      "prop_semantics": "brand identity anchor; mascot adds warmth and personality to digital-first brand",
+      "color_palette": [
+        "#343956",
+        "#ece489",
+        "#9a9482",
+        "#2c3150"
+      ],
+      "color_intent": "brand_color_dominant — deep navy contrasts with warm yellow brand element for identity recall",
+      "pose_description": "2D mascot animation: bear figure peeks from behind yellow B, turns with expression; static typographic lock-up",
+      "subject_motion": "character_animation_2d",
+      "prop_motion": "bear_character_peek_emerge",
+      "camera_motion": "locked_off",
+      "camera_motion_intensity": "none",
+      "camera_effect_local": "none",
+      "motion_blur": "none",
+      "intra_cut_rhythm": "steady",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [
+        "2d_character_animation",
+        "text_typewriter"
+      ],
+      "vfx_intensity_local": "moderate",
+      "fact_check_flag": false,
+      "notes": "Title card; same dark navy (#343956) as end card (cut 6); yellow matches brand yellow (#ece489); bear is brand mascot character",
+      "panel_layout": null,
+      "visible_elements": {
+        "foreground": [
+          "yellow B-shaped brand letterform",
+          "animated bear mascot character"
+        ],
+        "midground": [
+          "white Korean text '카카오뱅크 모임통장' in rounded bold sans-serif"
+        ],
+        "background": [
+          "deep navy gradient background"
+        ],
+        "lighting_env": [
+          "ambient even digital flat lighting — no directional"
+        ],
+        "atmosphere": [
+          "clean minimal digital"
+        ]
+      },
+      "texture": {
+        "primary_subject": "plastic_glossy_2d_vector",
+        "secondary_objects": [
+          "matte_flat_typography"
+        ],
+        "background_surface": "smooth_solid_navy",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "front",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "strong",
+        "key_to_fill_ratio": "1:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "none",
+        "overall_contrast": "hi_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#343956",
+          "#ece489",
+          "#9a9482",
+          "#2c3150"
+        ],
+        "palette_role": {
+          "#343956": "background_dominant_navy",
+          "#ece489": "brand_yellow_accent",
+          "#9a9482": "warm_mid_tone",
+          "#2c3150": "dark_secondary"
+        },
+        "color_relationship": "complementary",
+        "temperature_balance": "cool_dominant",
+        "saturation_strategy": "muted_with_pop",
+        "contrast_type": "luminance_high",
+        "accent_color": "#ece489",
+        "accent_ratio": "20_percent",
+        "brand_color_match": [
+          "navy #343956 brand identity",
+          "yellow #ece489 brand yellow"
+        ]
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A clean 2D motion-graphic title card frame set against a deep navy background (approximately #343956, a dark desaturated blue-grey); the composition fills a 16:9 landscape frame. In the center of the frame, a large stylized capital letter B shaped in a chunky, bold, rounded geometric form occupies roughly one-third of the frame width and two-thirds of the frame height, rendered entirely in warm pastel yellow (#ece489 — a soft, slightly muted lemon yellow with warmth); the letter has thick even strokes, fully flat vector graphic with no gradients or drop shadows, positioned slightly left of center-frame. Peeking from behind the right edge of this large yellow B letterform is a small 2D animated bear-like mascot character: the bear has a round warm-brown furry head (medium brown tone approximately #9e6b3a), two small black bead eyes, a flat simplified cartoon snout, no mouth visible; its body is partially occluded by the yellow B; the character is mid-animation — head tilted slightly upward, facing right, with a curious friendly cheerful expression; the bear's paw or arm may be just visible at the lower edge of the B. To the right of the B letterform and mascot, two lines of white Korean text are displayed in a rounded bold modern Korean sans-serif typeface (similar to a rounded Noto Sans KR Bold or Sandoll type): the first line reads '카카오뱅크' and the second line reads '모임통장', both in pure white (#ffffff), approximately 1/10 of frame height per line, with clean optical spacing and no outlines or backgrounds. The background is uniformly deep navy (#343956), slightly lighter at the very center (~#3a3f60) and slightly deeper at the edges (~#2a2e4a) — a barely perceptible radial vignette. The overall composition is horizontally centered, with generous empty navy above and below the mark+text group; the yellow B, mascot, and white text together form a compact centered lockup. No textures, no grain, no lens effects; purely digital flat illustration. Color mood: brand-identity graphic — cool deep navy background with warm yellow pop, classic complementary contrast logic; white text on navy for high legibility. The yellow (#ece489) occupies approximately 20% of the frame area. Textures: flat vector letterform (perfectly smooth), cartoon mascot (smooth 2D), crisp anti-aliased sans-serif text — no physical textures anywhere. Atmosphere: clean, minimal, confident, digital-first brand identity. Post: clean digital render, hi-key overall, no film grain, perfectly sharp edges and text. Lighting: purely digital flat even illumination; no directional light, no shadows, no highlights. This represents a single frozen frame from an animated title card sequence mid-animation — the bear has emerged but the text is mid-typewriter reveal. Style anchor: Korean mobile banking brand title card, clean vector 2D motion-graphic commercial insert, 4K resolution, flat digital design, centered brand-identity lockup, minimal corporate animation aesthetic. The deep navy background is completely uniform with no visible variation, no texture pattern, no grain, no noise — purely a clean flat digital color field. The yellow B letterform itself has a slight inner shadow at the very center of the letter form (where the two bowl shapes meet the stem) creating an illusion of depth, but overall remains a flat vector graphic. The mascot bear character has small detailed features: two small round black eyes with tiny white highlight specks, a rounded flat nose, the fur texture of the head is suggested by the color rather than drawn-in detail lines — smooth with a matte finish. The white text '카카오뱅크 모임통장' is positioned with '카카오뱅크' starting approximately 10% from the left edge of the right half of the B+text group, and '모임통장' below it left-aligned to the same position; both lines end before reaching the right edge of the frame by approximately 15% width, preserving asymmetric whitespace on the right. The total lockup (B + mascot + two text lines) is contained within a rectangular area approximately 45% of frame width and 40% of frame height, centered in the frame. No drop shadow under the text or the B. The yellow B has perfectly sharp geometric edges with no anti-aliasing fuzz visible at this scale. The atmosphere is confident, digital-first, friendly — the brand's identity in compressed form. This is a living moment in a motion sequence: the bear is mid-peek, the text is mid-type, conveying dynamism through stillness.",
+        "t2i_negative": "photographic, realistic, blurry, noisy, grain, low-resolution, extra characters, crowded, multiple logos, off-brand colors, green background, drop shadows, 3D render depth",
+        "i2v_motion": "Start from static title card; bear mascot peeks from behind the yellow B letterform with a slow smooth 2D animation — head emerges over approximately 60 frames; the two lines of Korean text type in letter-by-letter from left to right (typewriter reveal); camera completely locked off; background static deep navy; overall feel is warm friendly brand identity reveal; ends on clean static title lock-up at approximately 2.0s.",
+        "i2v_params": {
+          "clip_duration_sec": 2.002,
+          "camera_move": "locked_off",
+          "subject_motion_level": "micro",
+          "signature_effect": "none",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen copy preserved verbatim; bear mascot rendered as generic cartoon character type; brand color HEX preserved for production reference"
+      }
+    },
+    {
+      "index": 2,
+      "duration": 3.57,
+      "framing": "CU",
+      "function": "context_establishment",
+      "color_mood": "warm_cinematic_muted",
+      "subject_action": "handwritten paper notice clipped to bus window, slight camera movement, warm backlit glow",
+      "copy_overlay": "성북고 부부동반 산악회",
+      "subject_identity": "none_environment",
+      "subject_relationship_to_protagonist": null,
+      "mid_frame_path": "ADV-2026-003_frames/cut02_mid.png",
+      "layout_grid": "center",
+      "subject_position": "center",
+      "subject_typo_layout": "typo_over_subject",
+      "typo_motion": "static prop text — handwritten; no motion; camera slow drift reveals background reflection",
+      "camera_angle": "low_angle",
+      "camera_facing": "frontal",
+      "shot_scope": "environment",
+      "gaze": "none",
+      "eye_contact_effect": null,
+      "props": [
+        "paper_notice_handwritten",
+        "plastic_document_holder",
+        "bus_window_glass",
+        "chrome_bus_door_handle"
+      ],
+      "prop_semantics": "handwritten paper establishes analog club culture and community — the human imperfect nature of grassroots group organization; sets up the problem",
+      "color_palette": [
+        "#bebfb9",
+        "#847770",
+        "#3e362f",
+        "#161714"
+      ],
+      "color_intent": "warm_muted_cinematic — desaturated warm browns create nostalgic everyday texture; backlit glass produces warm lens flare",
+      "pose_description": "No human subject; notice is static; background figure of person in hiking jacket faintly visible as reflection",
+      "subject_motion": "static",
+      "prop_motion": "none",
+      "camera_motion": "handheld_drift_slight",
+      "camera_motion_intensity": "low",
+      "camera_effect_local": "none",
+      "motion_blur": "none",
+      "intra_cut_rhythm": "steady",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [],
+      "vfx_intensity_local": "none",
+      "fact_check_flag": false,
+      "notes": "The notice text '성북고 부부동반 산악회' = 'Seongbuk High School Couples Hiking Club'; specific real-feeling name establishes credibility and relatable slice-of-life; lens flare from side-window backlight adds warmth",
+      "panel_layout": null,
+      "visible_elements": {
+        "foreground": [
+          "white handwritten paper notice on bus window",
+          "chrome bus door handle (left edge)"
+        ],
+        "midground": [
+          "plastic document holder",
+          "dusty bus window glass"
+        ],
+        "background": [
+          "blurred exterior architecture",
+          "reflection of person in hiking jacket"
+        ],
+        "lighting_env": [
+          "strong side-backlight through bus window",
+          "warm lens flare from upper-left"
+        ],
+        "atmosphere": [
+          "dust particles on glass",
+          "warm glowing backlight"
+        ]
+      },
+      "texture": {
+        "primary_subject": "paper_cardboard",
+        "secondary_objects": [
+          "glass_tinted",
+          "plastic_matte",
+          "metal_chrome"
+        ],
+        "background_surface": "glass_dusty",
+        "atmospheric": [
+          "dust",
+          "lens_flare_glow"
+        ]
+      },
+      "lighting": {
+        "key_direction": "back",
+        "key_hardness": "soft",
+        "key_color_temp": "warm_3000K",
+        "fill_strength": "minimal",
+        "key_to_fill_ratio": "4:1",
+        "rim_light": true,
+        "practical_lights": [
+          "창문 자연광 역광"
+        ],
+        "shadow_presence": "soft",
+        "overall_contrast": "mid_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#bebfb9",
+          "#847770",
+          "#3e362f",
+          "#161714"
+        ],
+        "palette_role": {
+          "#bebfb9": "paper_white_warm",
+          "#847770": "midtone_brown_warm",
+          "#3e362f": "shadow_dark_warm",
+          "#161714": "deep_shadow"
+        },
+        "color_relationship": "monochrome",
+        "temperature_balance": "warm_dominant",
+        "saturation_strategy": "desaturated_with_pop",
+        "contrast_type": "luminance_high",
+        "accent_color": "#d4c8b0",
+        "accent_ratio": "30_percent",
+        "brand_color_match": []
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A close-up cinematic frame of a handwritten paper notice clipped inside a transparent plastic document holder, which is affixed to the inside window frame of a Korean long-distance tour coach bus. The paper notice is white, slightly worn at the edges, with three lines of large brush-pen style Korean handwritten text reading: '성북고' (top line), '부부동반' (middle line), '산악회' (bottom line) — the characters are written in a confident informal brushstroke style, black ink, slightly variable stroke thickness, filling most of the paper area which itself occupies approximately 50–55% of the total frame area. The paper is contained within a clear rigid acrylic plastic document holder with simple clip mechanism at the top and bottom edges; these clips are barely visible at the top and bottom of the paper. The bus window glass immediately behind the paper and holder is slightly dusty with minor surface scratches and fine particulate dust visible as a texture overlay; through the glass in the far distance, soft out-of-focus exterior architecture in muted grey-brown and cream tones — building facades, partially visible urban Korean street elements, all rendered as bokeh shapes. On the left edge of the frame (approximately 12–15% of frame width), a chrome-plated bus door handle is visible in partial close-up — a rounded tubular horizontal bar, warm chrome-silver finish with subtle specular highlights from the backlight. The camera angle is low (approximately 10–15 degrees below horizontal), looking upward at the notice with a slight 5-degree clockwise tilt — creating a slightly dynamic, not perfectly horizontal composition. The lighting is entirely backlighted — strong natural daylight through the bus window behind the paper creates a warm white halo rim-light around the paper edges and through the slightly translucent paper; the front (camera-facing) side of the paper receives only modest ambient fill. A warm lens flare from the upper-left corner — a diagonal golden-white streak approximately 15% of frame width in length — enters from the top-left, consistent with sunlight refracting through the window edge. The depth of field is shallow at approximately f/2.8 equivalent; the paper is tack-sharp while the background behind the glass dissolves into soft bokeh. In the glass surface reflection, a blurred figure wearing a warm yellow-green hiking jacket is faintly visible — approximately 20% opacity, soft-edged, in the upper-right background. Color palette: warm muted tones — #bebfb9 (paper white with warm cast), #847770 (warm midtone shadow), #3e362f (deep shadow), #161714 (near black shadow), and warm gold lens flare accent. Atmosphere: nostalgic, everyday, slightly aged, analog human-scale — the paper notice evokes a pre-smartphone club culture where everything is handwritten and improvised. Cinematic warm grade with lifted blacks, slight orange-brown color cast, muted saturation. Textures: paper surface (slightly fibrous), glass (dusty, smooth), chrome (reflective specular), acrylic plastic (clear matte). Style anchor: Korean slice-of-life TVC, documentary-inflected warm lens close-up, handheld aesthetic with deliberate framing, 4K live-action Korean commercial production. The handwritten text style is informal but deliberate — each character is formed with full brush strokes, moderate speed writing (not rushing), with character heights of approximately 1/5 of the paper height per line of text. The paper surface itself has very slight yellowing or cream tint suggesting it has been attached for some time or was not pure white when written. The plastic document holder clips are semi-transparent clear acrylic, approximately 1.5cm width in real scale, showing slight surface scuffs. The chrome door handle occupies the left 12% of frame and shows two main specular highlight points from the backlighting: a brighter one at the top curve and a dimmer one along the lower edge. Looking closely at the glass texture: there are approximately 8–12 scattered fine dust particles visible as tiny irregular off-white specks against the deeper background, plus two or three thin surface scratches running diagonally. The depth of field separation is pronounced — from the slightly out-of-focus chrome handle at the very left, to the tack-sharp paper center, to the fully blurred background — creates a visual journey from near to far. The color temperature of the backlight is approximately 5600K (daylight color) while the slight ambient fill has a warmer cast (~4000K), creating a subtle mixed-temperature atmosphere that reads as genuine natural lighting rather than studio. The overall color treatment lifts the shadow blacks to approximately 12% luminance value, consistent with a slight log-grade or gentle cinematic LUT applied — preventing any true blacks and keeping shadows warm-toned.",
+        "t2i_negative": "digital text, clean modern signage, bright high-key, flat lighting, no texture, blurry text, extra hands, distorted paper, multiple signs",
+        "i2v_motion": "Hold close-up on paper notice; very gentle natural handheld camera drift (micro-movement, approximately 2–3 pixels at native res); warm lens flare from upper-left pulses slightly; blurred background shows minimal movement; paper and handle remain static and sharp; no zoom; approximately 3.5s; clean cut to bus interior.",
+        "i2v_params": {
+          "clip_duration_sec": 3.57,
+          "camera_move": "handheld_drift_slight",
+          "subject_motion_level": "still",
+          "signature_effect": "none",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen text verbatim (prop text is narrative worldbuilding); no celeb faces; no brand marks"
+      }
+    },
+    {
+      "index": 3,
+      "duration": 9.009,
+      "framing": "MS",
+      "function": "emotional_hook_community_joy",
+      "color_mood": "warm_cinematic_dark",
+      "subject_action": "group of hiking club members inside tour bus singing, cheering, clapping, raising thumbs and fists in celebration",
+      "copy_overlay": null,
+      "subject_identity": "ensemble_group",
+      "subject_relationship_to_protagonist": "supporting_character",
+      "mid_frame_path": "ADV-2026-003_frames/cut03_mid.png",
+      "layout_grid": "dynamic_symmetry",
+      "subject_position": "varies",
+      "subject_typo_layout": "typo_separate_zone",
+      "typo_motion": "no on-screen text in this shot",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "waist_up",
+      "gaze": "to_camera",
+      "eye_contact_effect": "creates warmth and inclusion — viewer feels part of the group",
+      "props": [
+        "bus_seats_maroon_leather",
+        "decorative_curtains_purple_pattern",
+        "hiking_backpacks",
+        "scarves_neckwear",
+        "sports_caps"
+      ],
+      "prop_semantics": "bus interior creates contained community space; hiking gear signals active adult social group; festive atmosphere through movement and expression",
+      "color_palette": [
+        "#8f7156",
+        "#52392b",
+        "#361f1a",
+        "#131511"
+      ],
+      "color_intent": "warm_dark_cinematic — deep maroon-brown tones from leather seats create rich warm cocoon feel",
+      "pose_description": "Multiple Korean adults 40s–60s in hiking attire (windbreakers, fleece, scarves, caps) seated in rows, bodies animated — arms raised, hands clapping, thumbs up, mouths open in singing/chanting; joyful energetic group dynamics",
+      "subject_motion": "dynamic_group_movement",
+      "prop_motion": "none",
+      "camera_motion": "handheld_slight",
+      "camera_motion_intensity": "low",
+      "camera_effect_local": "none",
+      "motion_blur": "motion_blur_on_hands_gesture",
+      "intra_cut_rhythm": "accelerating",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [],
+      "vfx_intensity_local": "none",
+      "fact_check_flag": false,
+      "notes": "Longest shot (9s); camera escalates from small group (4 people) to full bus wide (20+ members); narration '정원님 최고!', '정원님 고생하셨어요!' heard here",
+      "panel_layout": null,
+      "visible_elements": {
+        "foreground": [
+          "Korean adults in hiking attire (40s–60s)",
+          "maroon leather bus seats",
+          "colorful windbreakers and fleece"
+        ],
+        "midground": [
+          "rows of bus passengers",
+          "mix of ages in casual hiking gear"
+        ],
+        "background": [
+          "tour bus ceiling with overhead storage",
+          "decorative purple patterned curtains",
+          "daylight through windows"
+        ],
+        "lighting_env": [
+          "warm bus interior overhead tungsten panels",
+          "window daylight secondary source"
+        ],
+        "atmosphere": [
+          "warm air, intimate enclosed festive space"
+        ]
+      },
+      "texture": {
+        "primary_subject": "fabric_fleece+fabric_nylon_windbreaker",
+        "secondary_objects": [
+          "leather_vinyl_maroon_seats"
+        ],
+        "background_surface": "fabric_curtain_patterned",
+        "atmospheric": [
+          "motion_blur_on_gesture"
+        ]
+      },
+      "lighting": {
+        "key_direction": "front",
+        "key_hardness": "soft",
+        "key_color_temp": "warm_3000K",
+        "fill_strength": "moderate",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": false,
+        "practical_lights": [
+          "버스 실내 천장 조명 (warm tungsten)",
+          "창문 자연광"
+        ],
+        "shadow_presence": "soft",
+        "overall_contrast": "mid_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#8f7156",
+          "#52392b",
+          "#361f1a",
+          "#131511"
+        ],
+        "palette_role": {
+          "#8f7156": "warm_midtone_skin_fabric",
+          "#52392b": "dark_brown_secondary",
+          "#361f1a": "shadow_deep_warm",
+          "#131511": "near_black_shadow"
+        },
+        "color_relationship": "monochrome",
+        "temperature_balance": "warm_dominant",
+        "saturation_strategy": "muted",
+        "contrast_type": "luminance_low",
+        "accent_color": "#d47830",
+        "accent_ratio": "15_percent",
+        "brand_color_match": []
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A cinematic medium shot inside a Korean long-distance tour coach bus, capturing a jubilant large group of Korean adults in their 40s to 60s, all dressed in hiking and outdoor recreational clothing, celebrating enthusiastically. The frame is 16:9 landscape, camera at eye level approximately 35–50mm equivalent lens, frontal angle looking down the center aisle of the bus. In the immediate foreground (front row, waist-up framing), four to five people dominate the lower half of the frame: at far-left, a Korean woman in her early 50s with medium-length dark hair, wearing a layered outfit with a teal or turquoise element partially visible, is leaning back with eyes closed in laughter; center-left foreground, a woman in her mid-40s with short dark hair parted in the middle, wearing a dark navy outdoor jacket over an orange turtleneck base layer, is smiling broadly and raising a small white object (possibly a phone or compass) toward camera with her right hand; center-right foreground, a middle-aged woman wearing a pink or red outer layer with a colored scarf, is gesturing with hands; far-right foreground, partially visible at the very edge, a person in a yellow outdoor vest. Behind them in the second and third rows, eight to twelve more passengers fill the frame: a man in his 50s with glasses, dark blue-grey jacket, seat visible; a woman in her 40s with short permed hair and a pattern jacket; several more figures in outdoor jackets in warm earth colors (orange, teal, khaki, yellow). In the very back rows, visible above the seats, five to seven more people are visible including a person in a bright yellow or khaki guide vest standing in the aisle. All subjects are animated — arms raised in V-shapes, thumbs up, fists pumping, open mouths singing or chanting, broad smiles, clapping hands; the energy is peak celebration. The bus interior provides the environmental context: maroon and burgundy vinyl and leather seat upholstery with curved headrests; at the top of the frame above the back rows, decorative curtains in purple with a traditional patterned design run along the window line; the bus ceiling with overhead storage compartments visible at the very top of frame; warm ambient overhead tungsten-type interior bus lights create a cozy warm amber-orange cast over everything. Outside the windows visible in narrow strips, grey or overcast daylight. Color palette: warm dark muted cinematic — #8f7156 (dominant warm brown midtone from fabrics and skin), #52392b (dark brown secondary), #361f1a (deep warm shadow), #131511 (near-black edges); accent colors include bursts of orange (#d05a18 approximate from jackets), teal, and yellow-green from individual clothing items. Lighting: warm soft practical interior bus overhead lights as key (~3000K warm), with minimal daylight window contribution as secondary side fill; soft overall, low-to-mid contrast, warm lifted shadows. Textures: nylon ripstop windbreaker fabric (subtle sheen), vinyl and leather seat surfaces (slight gloss), patterned fabric curtains, natural skin. Motion blur present on faster hand gestures and raised arms. Depth: foreground subjects sharp (~f/2.8), background rows slightly soft, furthest rows soft bokeh. Atmosphere: warm, festive, enclosed communal space — maximum social energy inside a packed tour bus in winter. Korean outdoor/hiking group culture aesthetic. Style anchor: Korean everyday-life TVC ensemble shot, warm cinematic interior, mid-shot handheld energy, naturalistic group portraiture, 4K live-action commercial.",
+        "t2i_negative": "cold blue lighting, fashion model aesthetic, staged stiff poses, clean modern interior, no warmth, desaturated, extra text overlay, single subject",
+        "i2v_motion": "Subjects continue animated celebratory motion — arms raise and clap, open-mouthed chanting and singing, thumbs-up gestures; medium group energy throughout; camera has gentle handheld drift; no zoom; energy escalates from medium group to wider group over 9 seconds; motion blur on faster hand gestures; transitions to lone protagonist shot.",
+        "i2v_params": {
+          "clip_duration_sec": 9.009,
+          "camera_move": "handheld_drift_slight",
+          "subject_motion_level": "dynamic",
+          "signature_effect": "none",
+          "pacing": "accelerating",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; no individual subject identity; generic Korean adult ensemble; no brand marks in this shot"
+      }
+    },
+    {
+      "index": 4,
+      "duration": 5.806,
+      "framing": "MCU",
+      "function": "protagonist_insight_problem_statement",
+      "color_mood": "warm_dark_cinematic_isolated",
+      "subject_action": "middle-aged man seated alone in bus seat, eyes downcast, holding paper dues ledger, background shows blurred celebrating group",
+      "copy_overlay": "응원만 하고 도와주진 않으니까",
+      "subject_identity": "protagonist_main",
+      "subject_relationship_to_protagonist": "main_character",
+      "mid_frame_path": "ADV-2026-003_frames/cut04_mid.png",
+      "layout_grid": "rule_of_thirds",
+      "subject_position": "left_third",
+      "subject_typo_layout": "typo_separate_zone",
+      "typo_motion": "text '응원만 하고 도와주진 않으니까' slides in from right side around frames 510–530; first appears with small CHEER UP megaphone graphic icon, then settles as clean white bold text in right third; persists through end of shot",
+      "camera_angle": "eye_level",
+      "camera_facing": "three_quarter",
+      "shot_scope": "bust",
+      "gaze": "off_camera",
+      "eye_contact_effect": "deliberate avoidance creates interiority — man is lost in thought or resigned",
+      "props": [
+        "printed_document_paper_ledger",
+        "shoulder_bag_strap",
+        "bus_seat_maroon"
+      ],
+      "prop_semantics": "paper dues ledger is the pain-point prop — represents analog tedious error-prone dues collection; this is what the app replaces",
+      "color_palette": [
+        "#ac9480",
+        "#624633",
+        "#3f241e",
+        "#18160f"
+      ],
+      "color_intent": "warm_dark_isolation — contrast between lone protagonist in foreground and blurred celebrating background reinforces separation and burden",
+      "pose_description": "Korean man approximately 50s, weathered face, grey-streaked disheveled hair, olive-green outdoor jacket; seated in maroon bus seat, body angled left, head lowered, eyes closed or partially shut, resigned expression; left hand loosely holds folded paper ledger",
+      "subject_motion": "micro_head_movement_breathing",
+      "prop_motion": "none",
+      "camera_motion": "locked_off",
+      "camera_motion_intensity": "none",
+      "camera_effect_local": "none",
+      "motion_blur": "none",
+      "intra_cut_rhythm": "static",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [
+        "text_slide_in",
+        "graphic_icon_pop"
+      ],
+      "vfx_intensity_local": "moderate",
+      "fact_check_flag": false,
+      "notes": "Emotional core of ad — the tagline 'only cheering, not actually helping' is the narrative pivot; CHEER UP icon adds visual humor before resolving to clean typography; paper ledger symbolizes the burden the app eliminates",
+      "panel_layout": null,
+      "visible_elements": {
+        "foreground": [
+          "Korean middle-aged man (50s)",
+          "olive-green outdoor jacket with badge",
+          "folded paper dues ledger in left hand",
+          "maroon bus seat"
+        ],
+        "midground": [
+          "bag shoulder strap crossing chest",
+          "blurred bus interior background"
+        ],
+        "background": [
+          "blurred group of celebrating passengers (warm orange, teal, yellow bokeh shapes)",
+          "purple patterned curtains faintly visible"
+        ],
+        "lighting_env": [
+          "warm bus interior overhead lighting, soft and diffused",
+          "slight window light from right edge"
+        ],
+        "atmosphere": [
+          "warm dark intimate, contrast between lone subject and blurred background activity"
+        ]
+      },
+      "texture": {
+        "primary_subject": "fabric_nylon_outdoor_jacket",
+        "secondary_objects": [
+          "paper_cardboard_document",
+          "leather_vinyl_seat"
+        ],
+        "background_surface": "fabric_blurred_bokeh",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "front",
+        "key_hardness": "soft",
+        "key_color_temp": "warm_3000K",
+        "fill_strength": "moderate",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": false,
+        "practical_lights": [
+          "버스 천장 실내 조명"
+        ],
+        "shadow_presence": "soft",
+        "overall_contrast": "mid_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#ac9480",
+          "#624633",
+          "#3f241e",
+          "#18160f"
+        ],
+        "palette_role": {
+          "#ac9480": "warm_mid_skin_jacket",
+          "#624633": "dark_brown_secondary",
+          "#3f241e": "shadow_warm_deep",
+          "#18160f": "near_black"
+        },
+        "color_relationship": "monochrome",
+        "temperature_balance": "warm_dominant",
+        "saturation_strategy": "muted",
+        "contrast_type": "luminance_low",
+        "accent_color": "#c4966a",
+        "accent_ratio": "20_percent",
+        "brand_color_match": []
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A cinematic medium-close-up bust-to-shoulder shot of a Korean man in his early-to-mid 50s, positioned in the left third of a 16:9 landscape frame, with his upper body and face the primary subject, and large bold white Korean typographic text occupying the right two-thirds of the frame. The man has a weathered lived-in face with visible laugh lines and slight stubble; his hair is dark with prominent grey streaks, medium length, slightly disheveled and tousled with a small tuft sticking up at the crown — giving him an absent-minded or preoccupied appearance. His expression is quiet and resigned — eyes are downcast or partially closed, not looking at camera, chin slightly lowered, mouth relaxed; he appears to be in thought or emotionally fatigued. He is seated in a maroon vinyl bus seat (the curved headrest partially visible at top-left background), body angled slightly left and forward. He wears a dark olive-green outdoor jacket (matte nylon shell fabric, slightly worn at the cuffs, with a small embroidered badge or patch on the left chest that is too small to read), with a dark nylon bag shoulder strap crossing diagonally from upper-right to lower-left across his chest. In his loosely held left hand at the lower frame level (hand approximately 30% from the bottom, left side), he holds a folded white paper document — a printed ledger or accounting sheet with dense rows of small Korean text and numbers arranged in columns (member names and amounts — the specific content is not clearly legible at this distance but the dense print structure is visible: approximately 20–30 rows of data, tabulated format, very small font). The man occupies approximately 40% of the frame width, aligned to the left third with his shoulder at the left edge; to his right and behind him, the background shows a blurred scene of the celebrating group from the prior scene — warm bokeh shapes of orange, purple, teal clothing and moving arms, all at approximately f/2 depth rendering them as indistinct colored shapes. In the right side of the frame (approximately 55–60% of frame width from center to right edge), large white bold Korean text appears directly on the blurred background: three lines reading '응원만 하고' (first line), '도와주진' (second line), '않으니까' (third line); the typeface is a heavy condensed black-weight Korean gothic sans-serif (similar to Noto Sans CJK Black or Sandoll Gothic condensed Black), pure white (#ffffff), each line approximately 1/9 of frame height, centered in the right zone. Just above the first line of the main text, a small graphic element appears: a pink cheerleader-style megaphone illustration with the words 'CHEER UP!' written across it in white retro italic lettering inside the megaphone shape, approximately 5% of frame height. The overall scene lighting is warm and soft — bus interior overhead practical tungsten lights as the key source (~3000K warm temperature), creating a gentle frontal fill with very soft shadows; slight window light from the right edge adds minimal rim-lighting. Color palette: warm dark muted — #ac9480 (dominant warm midtone from skin and jacket), #624633 (dark brown secondary), #3f241e (deep warm shadow), #18160f (near-black); white text (#ffffff) as accent with sharp contrast against the blurred warm background. Skin tone is warm, natural, unretouched — medium tan Korean skin. The cinematic grade is warm orange-brown with slightly lifted blacks and a subtle vignette. Depth of field: subject sharp at approximately f/2.8 equivalent, background fully bokeh. Atmosphere: quiet, reflective, isolated from the joy of the group behind him — the visual metaphor is powerful: he is the organizer who carries the administrative burden alone while everyone else celebrates. 4K live-action Korean commercial. Style anchor: Korean slice-of-life TVC, intimate empathy-led medium-close-up, warm cinematic grade, handheld aesthetic, protagonist insight moment.",
+        "t2i_negative": "young person, smiling, looking at camera, cold lighting, blue grade, clean modern setting, multiple sharp subjects, extra people in focus, western face",
+        "i2v_motion": "Man holds very still — breathing-level micro movement only; paper in hand barely shifts; blurred background group continues faint bokeh motion; at approximately 2.0s into clip, text '응원만 하고 / 도와주진 / 않으니까' slides in from right edge — fast smooth horizontal slide taking 12–15 frames; CHEER UP megaphone graphic pops in briefly then fades; camera completely locked-off; total approximately 5.8s; clean cut to white app UI scene.",
+        "i2v_params": {
+          "clip_duration_sec": 5.806,
+          "camera_move": "locked_off",
+          "subject_motion_level": "still",
+          "signature_effect": "none",
+          "pacing": "static",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; protagonist identity is generic (Korean man 50s, outdoor jacket type); on-screen copy verbatim; no brand marks in shot"
+      }
+    },
+    {
+      "index": 5,
+      "duration": 8.475,
+      "framing": "MS",
+      "function": "product_demo_benefit_reveal",
+      "color_mood": "clean_white_digital",
+      "subject_action": "smartphone UI screen demo showing group dues management app on white background; text benefit lines appear on right side; phone rotates into position",
+      "copy_overlay": "최대 100명까지 회비 관리를 손쉽게 / 회비 입금현황도 한눈에 / 카카오뱅크 모임통장",
+      "subject_identity": "none_product",
+      "subject_relationship_to_protagonist": null,
+      "mid_frame_path": "ADV-2026-003_frames/cut05_mid.png",
+      "layout_grid": "split_screen",
+      "subject_position": "left_third",
+      "subject_typo_layout": "typo_separate_zone",
+      "typo_motion": "typography cycles through three benefit statements on right side; phone UI scrolls content; phone rotates into upright from initial tilted entry",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "environment",
+      "gaze": "none",
+      "eye_contact_effect": null,
+      "props": [
+        "smartphone_iOS_white",
+        "app_UI_screen"
+      ],
+      "prop_semantics": "smartphone with app screen is the product hero — demonstrates solution to problem in shot 4; app UI shows real use case (member list, dues amounts, total)",
+      "color_palette": [
+        "#f3f3f3",
+        "#e1e0e0",
+        "#fefefe",
+        "#f9e70b"
+      ],
+      "color_intent": "clean_white_with_brand_yellow_accent — stark contrast from warm live-action signals digital/product world; dark bold sans-serif for readability",
+      "pose_description": "No human; smartphone device on white background with clean shadow; UI screen shows '회비 입금현황' screen with member list and amounts in yellow and grey",
+      "subject_motion": "phone_rotation_slide_in",
+      "prop_motion": "phone slides from left frame edge to center-left, rotating from tilted to upright; UI content scrolls upward",
+      "camera_motion": "locked_off",
+      "camera_motion_intensity": "none",
+      "camera_effect_local": "none",
+      "motion_blur": "none",
+      "intra_cut_rhythm": "steady",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [
+        "ui_motion",
+        "phone_rotation_3d_product_reveal"
+      ],
+      "vfx_intensity_local": "moderate",
+      "fact_check_flag": false,
+      "notes": "Split screen: phone UI left ~52%, typography benefits right ~48%; phone enters tilted then settles upright; screen shows app data (member names, amounts); disclaimer '준법감시인 심의필 18-378' visible bottom-right; phone rotates through approximately 30 degrees",
+      "panel_layout": {
+        "is_multi_panel": true,
+        "type": "split_vertical",
+        "panel_count": 2,
+        "divider": "none",
+        "orientation": "row",
+        "panels": [
+          {
+            "id": 1,
+            "rect": "x 0-52%, y 0-100%",
+            "size_ratio": "~52% width",
+            "content": "white iOS smartphone on pure white background showing app UI '회비 입금현황'; phone enters tilted and rotates upright; app screen shows member list with dues amounts in yellow (#f9e70b) and grey text",
+            "text_in_panel": "회비 입금현황 / 이번달 / 누적 / 2018.12 / 높은금액순 / 회원 입금 총액 / 320,000원 / 70,000원 / 50,000원"
+          },
+          {
+            "id": 2,
+            "rect": "x 52-100%, y 0-100%",
+            "size_ratio": "~48% width",
+            "content": "pure white background with large bold dark Korean sans-serif typography cycling through three benefit statements; legal disclaimer in bottom-right corner",
+            "text_in_panel": "최대 100명까지 / 회비 관리를 / 손쉽게 → 회비 입금현황도 / 한눈에 → 카카오뱅크 모임통장 / 준법감시인 심의필 18-378 (2018.11.30 현재)"
+          }
+        ],
+        "layout_note": "Product demo split: UI screen left, typographic benefit right; both on white; app UI scrolls; typography cycles through three benefit statements during shot"
+      },
+      "visible_elements": {
+        "foreground": [
+          "white iOS smartphone device",
+          "app UI interface (회비 입금현황 screen with member list)"
+        ],
+        "midground": [
+          "soft shadow below phone"
+        ],
+        "background": [
+          "pure white background (#fefefe)"
+        ],
+        "lighting_env": [
+          "even studio soft-box lighting — no visible directional shadows"
+        ],
+        "atmosphere": [
+          "clean digital product photography"
+        ]
+      },
+      "texture": {
+        "primary_subject": "plastic_glossy_phone_chassis",
+        "secondary_objects": [
+          "glass_screen_glossy"
+        ],
+        "background_surface": "smooth_white_infinity",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "top",
+        "key_hardness": "diffused",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "strong",
+        "key_to_fill_ratio": "1:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "minimal",
+        "overall_contrast": "hi_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#f3f3f3",
+          "#e1e0e0",
+          "#fefefe",
+          "#f9e70b"
+        ],
+        "palette_role": {
+          "#f3f3f3": "white_background_dominant",
+          "#e1e0e0": "light_grey_secondary",
+          "#fefefe": "pure_white_screen",
+          "#f9e70b": "brand_yellow_app_accent"
+        },
+        "color_relationship": "monochrome",
+        "temperature_balance": "balanced",
+        "saturation_strategy": "desaturated_with_pop",
+        "contrast_type": "luminance_high",
+        "accent_color": "#f9e70b",
+        "accent_ratio": "5_percent",
+        "brand_color_match": [
+          "brand yellow #f9e70b in app UI header and paid-amount text"
+        ]
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A clean product demonstration split-screen composite frame in 16:9 landscape format, with a pure white background (#fefefe) filling the entire frame. The composition is divided vertically into two clear zones without any explicit divider line. Left panel (approximately 0–52% of frame width): a white-chassis iOS smartphone device, standing nearly upright at a slight three-quarter angle (approximately 15 degrees of clockwise rotation from perfectly frontal), centered vertically and positioned in the left-center of this panel. The phone is a contemporary slim white device; its screen occupies most of the visible face and displays a Korean mobile banking application UI. The app screen shows a clear white UI with the following elements from top to bottom: a standard iOS status bar at the very top (19:00 time, Wi-Fi icon, signal bars, battery); below it a navigation bar with a back arrow '←' on the left and the screen title '회비 입금현황' (Dues Payment Status) centered; below that two horizontal tabs: '이번달' (This Month) on the left with an underline indicator, and '누적' (Cumulative) on the right; then a date row showing '2018.12' left-aligned and a sort dropdown '높은금액순 ∨' right-aligned; then a grey-background summary row showing '회원 입금 총액' label on left and '320,000원' on the right in dark body text; then a scrollable white list of member rows, each row containing: a circular profile avatar (small photo) on the left, the member's Korean name in dark text, and their dues amount right-aligned in blue (#0087cb approximate) for paid amounts — the visible rows show: 김정원 (70,000원), 손태영 (50,000원), 김선재 (50,000원), 신보영 (50,000원), 박용수 (50,000원), 고경호 (50,000원), 심지연 (0원, this last one in grey indicating unpaid). The profile photos are actual small circular cropped photographs of fictional characters in a demonstration dataset. The phone device casts a clean soft diffused shadow directly below it on the white background surface — a subtle grey oval shadow approximately 2% opacity. Right panel (approximately 52–100% of frame width): pure white background with no background elements. In this right panel, large bold dark Korean typography is arranged vertically centered: three primary lines reading '최대 100명까지' (line 1, approximately 1/8 of frame height, heavy condensed black sans-serif, near-black #1a1a1a), '회비 관리를' (line 2, same size and style), '손쉽게' (line 3, same size and style); then a vertical gap; then a smaller sub-line in lighter weight reading '카카오뱅크 모임통장' (approximately 1/14 of frame height, medium bold, dark #1a1a1a). In the extreme bottom-right corner of the entire frame, a small disclaimer text reads '준법감시인 심의필 18-378 (2018.11.30 현재)' in very small grey body text (#888888, approximately 0.5% of frame height), right-aligned. The overall lighting of this product shot is entirely even studio soft-box — perfectly neutral 5500K color temperature, no directional shadows beyond the phone's own soft cast shadow, no colored gels or toning in this section. Color palette: white (#fefefe) dominant, light grey (#e1e0e0) for subtle shadow, near-black (#1a1a1a) for typography, yellow (#f9e70b) visible as an accent inside the app UI header element, blue (#0087cb) for paid amounts in the list. Atmosphere: clean, clinical, digital product world — deliberate stark contrast from the warm live-action scenes preceding this shot. Textures: smooth white phone chassis (plastic glossy), glass screen (reflective, slightly specular), matte white background surface. Style anchor: Korean mobile banking product demonstration shot, clean white studio photography, hi-key neutral lighting, contemporary app UX showcase, 4K commercial product photography composite.",
+        "t2i_negative": "human subjects, dark background, dramatic lighting, props other than phone, distracting elements, blurry text, incorrect UI layout, additional devices, shadows on white",
+        "i2v_motion": "Phone enters from left edge tilted approximately 30 degrees and slides right while rotating counter-clockwise to settle upright — this motion takes approximately 1.5 seconds; once settled phone holds still; app UI scrolls upward revealing more of member list; right-side typography first shows '최대 100명까지 / 회비 관리를 / 손쉽게', then cross-fades to '회비 입금현황도 / 한눈에' after approximately 4 seconds, then transitions to '카카오뱅크 모임통장'; camera completely locked-off; total duration approximately 8.5s; clean cut to dark end-card.",
+        "i2v_params": {
+          "clip_duration_sec": 8.475,
+          "camera_move": "locked_off",
+          "subject_motion_level": "micro",
+          "signature_effect": "none",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen app UI content preserved verbatim (member names are fictional sample data); brand name in copy preserved; app logo mark in UI rendered generic"
+      }
+    },
+    {
+      "index": 6,
+      "duration": 2.502,
+      "framing": "environment",
+      "function": "brand_end_card",
+      "color_mood": "brand_navy",
+      "subject_action": "brand wordmark displayed centered on dark navy background",
+      "copy_overlay": "kakaobank / 자세한 내용은 카카오뱅크 모바일앱을 참고하세요.",
+      "subject_identity": "none_environment",
+      "subject_relationship_to_protagonist": null,
+      "mid_frame_path": "ADV-2026-003_frames/cut06_mid.png",
+      "layout_grid": "center",
+      "subject_position": "center",
+      "subject_typo_layout": "typo_over_subject",
+      "typo_motion": "static; wordmark already on screen at start; disclaimer text at bottom is small and static",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "environment",
+      "gaze": "none",
+      "eye_contact_effect": null,
+      "props": [],
+      "prop_semantics": "brand-only end card; no props",
+      "color_palette": [
+        "#6b6f82",
+        "#222946",
+        "#212946",
+        "#1f2643"
+      ],
+      "color_intent": "brand_color_dominant — same navy family as title card (shot 1) creating bookend visual consistency; wordmark in white for maximum legibility",
+      "pose_description": "No human subject; white typographic wordmark 'kakaobank' centered — 'kakao' regular weight, 'bank' bold weight; small disclaimer text at bottom center",
+      "subject_motion": "static",
+      "prop_motion": "none",
+      "camera_motion": "locked_off",
+      "camera_motion_intensity": "none",
+      "camera_effect_local": "none",
+      "motion_blur": "none",
+      "intra_cut_rhythm": "static",
+      "transition_in": "cut",
+      "transition_out": "fade_to_black",
+      "vfx_in_shot": [],
+      "vfx_intensity_local": "none",
+      "fact_check_flag": false,
+      "notes": "End card matches title card palette exactly (deep navy); white wordmark uses standard brand typography split-weight; disclaimer '자세한 내용은 카카오뱅크 모바일앱을 참고하세요.' directs to app",
+      "panel_layout": null,
+      "visible_elements": {
+        "foreground": [
+          "white brand wordmark 'kakaobank' centered"
+        ],
+        "midground": [],
+        "background": [
+          "deep navy background (#222946)"
+        ],
+        "lighting_env": [
+          "even ambient digital flat light — no directional"
+        ],
+        "atmosphere": [
+          "clean minimal brand"
+        ]
+      },
+      "texture": {
+        "primary_subject": "matte_flat_typography",
+        "secondary_objects": [],
+        "background_surface": "smooth_solid_navy",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "front",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "strong",
+        "key_to_fill_ratio": "1:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "none",
+        "overall_contrast": "hi_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#6b6f82",
+          "#222946",
+          "#212946",
+          "#1f2643"
+        ],
+        "palette_role": {
+          "#6b6f82": "lighter_navy_mid",
+          "#222946": "brand_navy_dominant",
+          "#212946": "brand_navy_secondary",
+          "#1f2643": "deep_navy_edge"
+        },
+        "color_relationship": "monochrome",
+        "temperature_balance": "cool_dominant",
+        "saturation_strategy": "desaturated_with_pop",
+        "contrast_type": "luminance_high",
+        "accent_color": "#ffffff",
+        "accent_ratio": "10_percent",
+        "brand_color_match": [
+          "brand navy #222946",
+          "white wordmark #ffffff"
+        ]
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A clean brand end-card frame in 16:9 landscape format. The entire background is a solid deep navy blue (#222946 — a dark saturated blue with a slight purple undertone, darker and more definitively blue than a standard navy, similar to a deep midnight blue; hex approximately #1f2644). There are no photographic elements, no textures, no objects, and no gradients visible in this frame — only solid flat color. The composition is completely centered. In the horizontal and vertical center of the frame, a white (#ffffff) brand wordmark is displayed in a single horizontal line: the wordmark reads 'kakaobank' using a clean, modern, geometric sans-serif Latin typeface — the word 'kakao' is set in regular or light weight, and 'bank' is set in bold or black weight, creating a visual weight contrast within the single word; both are in the same typeface family with consistent letter spacing (slightly tracked out, clean optical spacing); the wordmark is approximately 25–28% of frame width; letter height approximately 8% of frame height. The wordmark is centered at approximately 50% from left and 50% from top — perfectly centered in the frame. Below the wordmark, with approximately 22% of frame height vertical spacing, a single centered line of small white Korean body text reads '자세한 내용은 카카오뱅크 모바일앱을 참고하세요.' — the text is in the same sans-serif family in regular weight, white (#ffffff), approximately 1.5% of frame height in font size, centered horizontally. No other elements exist in the frame — no decorative graphics, no yellow brand elements, no mascot, no icons, no additional text lines, no lines or dividers. The deep navy background appears uniform to the eye — no vignette, no gradient, no subtle texture. The overall lighting is purely digital and flat — no directional light source, no shadows, no highlights. Color palette: #222946 (background dominant deep navy), #ffffff (wordmark and disclaimer text only). The mood is confident, minimal, authoritative — a clean brand closure. Style anchor: Korean mobile bank brand end card, flat digital design, 2018-era Korean fintech brand aesthetic, clean typography-only lockup, 4K, perfectly minimal. Looking at the wordmark more closely: the letter 'k' in 'kakao' has a conventional geometric sans structure; the 'bank' portion's heavier weight creates a natural reading emphasis shift — the eye reads 'kakao' first (regular weight, longer word) then 'bank' (bold weight, shorter word) in a single unified brand name. The inter-character spacing within the wordmark is slightly tighter than default to maintain visual compactness. The disclaimer text below uses the same typeface family in regular weight, with approximately 200% of the wordmark's line height as the vertical gap between them, ensuring they read as distinct elements on the same visual axis without crowding. There are no decorative elements anywhere in the frame — no underlining, no box rules, no icons, no decorative punctuation — just the wordmark and disclaimer in white on deep navy. The frame's four edges are clean with no vignette darkening. The overall aesthetic is precise, confident, and restrained — the visual language of a modern Korean digital bank brand that communicates through simplicity rather than ornamentation. This end card functions as a brand signature that closes the emotional narrative of the advertisement with authority and clarity. The deep navy color (#222946) is consistent with the brand's established color identity visible in the title card (shot 1), creating a visual bookend that gives the advertisement a coherent structural frame from open to close.",
+        "t2i_negative": "yellow elements, photographic elements, textures, grain, extra logos, colorful accents, gradient, pattern, mascot, icons, additional text",
+        "i2v_motion": "Completely static — no motion; end card held for approximately 2.5 seconds; wordmark and disclaimer do not animate; camera locked-off; fades to black at very end.",
+        "i2v_params": {
+          "clip_duration_sec": 2.502,
+          "camera_move": "locked_off",
+          "subject_motion_level": "still",
+          "signature_effect": "none",
+          "pacing": "static",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; wordmark text is brand name (legitimate copywriting context); text-only wordmark, no graphic logo mark"
+      }
+    }
+  ],
+  "search_keywords": {
+    "industry": [
+      "finance"
+    ],
+    "product_category": [
+      "mobile_banking",
+      "group_account"
+    ],
+    "target_demo": [
+      "30s",
+      "40s",
+      "50s",
+      "active_senior",
+      "leisure_outdoor"
+    ],
+    "media_format": [
+      "tvc_30s",
+      "digital_30s"
+    ],
+    "tone": [
+      "warm_emotional",
+      "empathetic_comforting",
+      "friendly",
+      "punchy_humor"
+    ],
+    "pacing": [
+      "slow_build",
+      "steady"
+    ],
+    "technique": [
+      "empathy_copy_hook",
+      "product_app_cutout_float",
+      "splitscreen",
+      "direct_cta"
+    ],
+    "vfx_keywords": [
+      "ui_motion",
+      "phone_rotation_reveal",
+      "text_slide_in"
+    ],
+    "copy_strategy_keywords": [
+      "empathy_to_solution",
+      "feature_benefit_direct",
+      "voice_caption_sync",
+      "number_emphasis"
+    ],
+    "concept_derivation_pattern": [
+      "everyday_problem_metaphor_product_release"
+    ]
+  },
+  "inferred_creative_thinking": {
+    "insight": "The person who manages dues for a club gets all the cheering but none of the practical help — they carry a hidden burden invisible to others",
+    "persona": "a middle-aged Korean serving as treasurer or organizer for a community group (hiking club, alumni association); tech-hesitant but overwhelmed by analog dues tracking",
+    "moment": "sitting alone on the bus while everyone else celebrates, holding a paper ledger, realizing the app could have made all this easier",
+    "product_role": "the app is not just a bank feature — it is practical solidarity; it does what cheerleaders won't: actually help",
+    "punchline": "응원만 하고 도와주진 않으니까 — the app is the one that helps",
+    "differentiator": "specifically built for group dues management up to 100 members — not generic banking, a tool designed for this exact human situation",
+    "brand_fit_one_liner": "KakaoBank is the friend who shows up and does the work, not just the cheering",
+    "confidence": "inferred"
+  },
+  "inferred_brief": "Launch KakaoBank's group account feature targeting adult club organizers frustrated by manual dues tracking; use relatable slice-of-life scenario to establish empathy then demonstrate the app as practical solution",
+  "cross_pollination_tags": {
+    "adjacent": [
+      "insurance",
+      "telecom_app",
+      "subscription_membership"
+    ],
+    "distant": [
+      "sportswear",
+      "community_platform",
+      "travel_tourism"
+    ],
+    "contrast": [
+      "luxury_finance",
+      "b2b_saas",
+      "corporate_banking"
+    ]
+  },
+  "concept_derivation_pattern": "everyday_problem_metaphor_product_release",
+  "confidence": "inferred",
+  "analyst_notes": "6 clean shots confirmed by scenedetect + metrics (cuts at frames 60, 167, 437, 611, 865). Shot 3 is the longest (9s) and contains the most dynamic group content. Wiggle metrics (mean_abs_shift_x 0.52, sign_flips 0.179) are within handheld range — no wiggle_3d detected. Audio corrected against on-screen captions: Whisper misheard '100명' as '100년' and '회비' as '해비'. Paper document in shot 4 is a printed dues ledger — key pain-point prop. App UI in shot 5 shows fictional sample data (member names and dues amounts as demonstration data).",
+  "verification": {
+    "frames_reviewed": "≈80/940 native-res read (all 6 cut boundaries + mid-cut samples every ~10 frames through key scenes) + 100% per-frame metrics via metrics.json",
+    "audio_analyzed": "faster_whisper base model; corrected against captions",
+    "hitrate_na": null,
+    "abstraction_checked": true
+  }
+}

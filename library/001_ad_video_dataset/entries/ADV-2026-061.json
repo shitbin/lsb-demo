@@ -1,0 +1,2709 @@
+{
+  "id": "ADV-2026-061",
+  "source_ref": {
+    "platform": "digital_landscape",
+    "title_or_campaign": "29CM ORIGINAL — gardening lifestyle brand film",
+    "brand": "29CM",
+    "product": "29CM ORIGINAL (오리지널) — platform lifestyle editorial series",
+    "model": "young woman with natural curly hair (abstracted, not reproduced)",
+    "year": 2024,
+    "production_note": "16:9 landscape, 19.42s, 23.976fps; warm natural grade; real-location lifestyle gardening/outdoor; minimal narration (single word 이따가); 29CM watermark top-right throughout; ends on woman standing on vintage truck",
+    "url": null
+  },
+  "category_primary": "retail.commerce_platform",
+  "category_tags": [
+    "커머스 플랫폼",
+    "라이프스타일",
+    "패션",
+    "29CM 오리지널",
+    "가드닝",
+    "아웃도어"
+  ],
+  "mood": [
+    "warm",
+    "earthy",
+    "naturalistic",
+    "calm",
+    "independent",
+    "tactile",
+    "slow_living"
+  ],
+  "target_demo": "late-20s to mid-30s, style-conscious women; independent lifestyle / slow living interest; premium platform shoppers",
+  "total_duration": 19.42,
+  "shot_count": 19,
+  "shot_count_corrected": 19,
+  "fps": 23.976,
+  "aspect_ratio": "16:9",
+  "hook_position": 0.0,
+  "cta_position": null,
+  "narrative_arc": "Title card (29CM ORIGINAL) → blur/movement intro → face reveal → water/gardening action details → overhead tools still life → workshop potting scene → footwear detail montage (sandals ×4) → outfit/torso details ×3 → rain boots in grass ×2 → outdoor meadow walks ×2 → leaf touch ECU → wide reveal on vintage truck bed.",
+  "narrative_structure": "linear_continuous",
+  "pacing_curve": "steady",
+  "music_tempo_curve": "steady",
+  "wow_cut_index": [
+    5,
+    6,
+    16,
+    19
+  ],
+  "creative_device": "lifestyle editorial — single protagonist across indoor workshop and outdoor natural settings, transitioning through two outfit/footwear sets (workshop sandals → outdoor rain boots/white dress), unified by slow-living gardening motif and curated product detail",
+  "production_signature": {
+    "capture_style": "live_action",
+    "camera_signature": [
+      "handheld_gentle",
+      "rack_focus"
+    ],
+    "signature_note": "Smooth handheld with intentional blur transitions; soft rack focus on subject; 29CM ORIGINAL watermark upper-right throughout every frame. No wiggle/parallax 3D. Warm natural daylight and practical window light dominant. Minor film grain overlay.",
+    "color_grade": "warm_natural",
+    "texture_fx": "slight_film_grain_soft_halation"
+  },
+  "global_layout": {
+    "grid_system": "rule_of_thirds",
+    "subject_placement_dominant": "center",
+    "subject_typo_relation": "typo_separate_zone",
+    "negative_space_use": "generous",
+    "layout_note": "Landscape 16:9 framing throughout. Subject often centered or slightly off-axis. Wide negative space in outdoor shots. No heavy typography overlays — only persistent 29CM watermark and opening title card. Warm muted backgrounds dominate."
+  },
+  "recurring_motifs": [
+    "natural curly hair as visual anchor across all subject shots",
+    "plaid/gingham fabric pattern recurring across multiple outfit elements",
+    "dark navy rubber rain boots (shots 14-17, 19)",
+    "white chunky platform sandals (shots 7-10)",
+    "gardening tools and soil",
+    "29CM watermark top-right every frame",
+    "warm workshop/garage interior as home base"
+  ],
+  "copywriting": {
+    "tagline_text": "29CM ORIGINAL",
+    "tagline_structure": "brand_name + series_label",
+    "tagline_length_syllables": 5,
+    "tagline_position_sec": 0.95,
+    "cta_text": null,
+    "cta_text_structure": null,
+    "cta_position_sec": null,
+    "copy_tone": [
+      "minimal",
+      "editorial",
+      "understated"
+    ],
+    "copy_strategy": "brand_name_only_title_card",
+    "copy_lines_count": 1,
+    "lines": [
+      {
+        "position_sec": 0.95,
+        "text": "29CM ORIGINAL",
+        "function": "title_card",
+        "tone": "editorial_clean",
+        "source": "caption"
+      }
+    ],
+    "captions": [
+      {
+        "position_sec": 0.95,
+        "text": "29CM ORIGINAL",
+        "function": "brand_series_title"
+      }
+    ],
+    "narration_handling": "excerpt_only"
+  },
+  "typography": {
+    "primary_font_class": "sans_serif_light",
+    "secondary_font_class": null,
+    "animation_style": [
+      "fade_in",
+      "static"
+    ],
+    "subtitle_position_dominant": "center",
+    "tagline_position": "center_frame",
+    "color_strategy": "white_on_dark",
+    "appearance_count": 1,
+    "key_typography_moments_sec": [
+      0.95
+    ],
+    "typo_motion_dominant": "static_fade"
+  },
+  "vfx": {
+    "primary_effects": [
+      "rack_focus_blur",
+      "lens_blur_transition",
+      "film_grain"
+    ],
+    "effect_intensity": "subtle",
+    "transition_style_dominant": "cut",
+    "vfx_event_count": 2,
+    "vfx_timing_array_sec": [
+      0.0,
+      1.9
+    ],
+    "wow_vfx_index": [
+      1,
+      2
+    ]
+  },
+  "audio": {
+    "has_audio": true,
+    "language": "ko",
+    "speech_coverage": 0.05,
+    "bgm_likely": true,
+    "narration_lines": [
+      {
+        "start": 0.0,
+        "end": 13.68,
+        "text": "이따가",
+        "text_raw": "이따가",
+        "kind": "vo_spoken",
+        "source": "faster_whisper"
+      }
+    ],
+    "voice_vs_caption": "voice_only_minimal",
+    "narration_handling": "excerpt_only",
+    "transcribed_by": "faster_whisper",
+    "audio_note": "Single spoken word '이따가' (meaning 'later/in a while') detected spanning 0-13.68s by faster-whisper base model. Very sparse narration — film is primarily ambient BGM/music. BGM runs throughout entire 19.42s."
+  },
+  "frames_dir": "ADV-2026-061_frames",
+  "contact_sheet_path": "ADV-2026-061_frames/contact_sheet.png",
+  "shots": [
+    {
+      "index": 1,
+      "start_sec": 0.0,
+      "end_sec": 1.9,
+      "duration": 1.9,
+      "mid_frame_path": "ADV-2026-010_frames/cut01_mid.png",
+      "framing": "CU",
+      "function": "hook",
+      "color_mood": "dark_navy_near_black",
+      "subject_action": "title card over dark blurred textile — brand opening",
+      "subject_identity": "none_environment",
+      "subject_relationship_to_protagonist": null,
+      "copy_overlay": "29CM ORIGINAL",
+      "layout_grid": "center",
+      "subject_position": "center",
+      "subject_typo_layout": "typo_over_subject",
+      "typo_motion": "static_fade",
+      "panel_layout": null,
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "environment",
+      "gaze": "none",
+      "eye_contact_effect": null,
+      "props": [
+        "dark_navy_textile_fabric"
+      ],
+      "prop_semantics": "atmospheric brand canvas",
+      "color_palette": [
+        "#1A1A2E",
+        "#FFFFFF",
+        "#2B2B4A"
+      ],
+      "color_intent": "white title on dark field",
+      "pose_description": "no subject",
+      "subject_motion": "none",
+      "prop_motion": "micro_drift",
+      "camera_motion": "locked_off",
+      "camera_motion_intensity": "low",
+      "camera_effect_local": "lens_blur_shallow",
+      "motion_blur": "slight",
+      "intra_cut_rhythm": "static",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [
+        "lens_blur"
+      ],
+      "vfx_intensity_local": "subtle",
+      "fact_check_flag": false,
+      "notes": "Title card. '29CM ORIGINAL' white center. Dark blurred navy textile bg.",
+      "visible_elements": {
+        "foreground": [
+          "blurred dark navy textile"
+        ],
+        "midground": [],
+        "background": [
+          "near-black deep shadow"
+        ],
+        "lighting_env": [
+          "low ambient"
+        ],
+        "atmosphere": [
+          "moody, dark, editorial"
+        ]
+      },
+      "texture": {
+        "primary_subject": "fabric_blurred",
+        "secondary_objects": [],
+        "background_surface": "deep_shadow",
+        "atmospheric": [
+          "soft_blur_halo"
+        ]
+      },
+      "lighting": {
+        "key_direction": "front",
+        "key_hardness": "soft",
+        "key_color_temp": "cool_6000K",
+        "fill_strength": "none",
+        "key_to_fill_ratio": "silhouette",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "deep",
+        "overall_contrast": "low_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#1A1A2E",
+          "#FFFFFF",
+          "#2B2B4A"
+        ],
+        "palette_role": {
+          "#1A1A2E": "background_dominant",
+          "#FFFFFF": "title_text",
+          "#2B2B4A": "fabric_midtone"
+        },
+        "color_relationship": "monochrome",
+        "temperature_balance": "cool_dominant",
+        "saturation_strategy": "desaturated_with_pop",
+        "contrast_type": "luminance_high",
+        "accent_color": "#FFFFFF",
+        "accent_ratio": "5_percent",
+        "brand_color_match": []
+      },
+      "style_prompt": "dark blurred navy textile ECU, white minimal sans-serif '29CM ORIGINAL' centered, low-key editorial brand title card, 16:9",
+      "recreation_prompts": {
+        "t2i_start_frame": "A 16:9 landscape frame as a minimalist brand title card. The full frame is filled with a deeply blurred extreme close-up of dark navy or indigo-toned textile — the focus is so shallow that fiber and weave dissolve into an abstract wash of near-black and deep blue-indigo (#1A1A2E to #2B2B4A). At the frame's center, in clean white (#FFFFFF) light-weight sans-serif typography with medium letter-spacing, the words '29CM ORIGINAL' appear as a simple editorial title. The font is contemporary Korean editorial style — no serifs, refined proportions, similar to a premium fashion magazine logotype. No other text or graphic elements. The textile surface occupies the full frame with no clear edges. Lighting is extremely low-key — faint practical ambient creates subtle tonal variation in the fabric but no defined highlights. Color temperature cool 5500–6000K. A barely perceptible fine film grain overlays the frame, and a slight halation rings the white text against the dark background. The overall atmosphere is moody, sophisticated, restrained — a confident brand that leads with minimal visual statement. Composition is centered and symmetrical. The dark field reads as generous negative space despite being fully filled. There is no subject — only textile and typography. Post grade: clean digital with subtle warm emulsion tone, slight soft halation on white text edges. Style anchor: contemporary Korean premium e-commerce editorial, 16:9, analogous to high-fashion short-film title cards — clean 4K commercial with subtle grain. The impression is of a brand that communicates through restraint: dark, elegant, tactile, unhurried. The single on-screen copyline preserved verbatim is '29CM ORIGINAL' placed at exact frame center. The camera is positioned at approximately lens-height of the fabric, with the optical center aligned to the fabric surface — creating an almost abstract macro quality. The individual threads and fibers of the textile, while blurred, suggest a substantial woven structure — not lightweight cotton but perhaps a heavier knit or structured weave fabric. The color oscillates between true deep navy (#1A1A2E) in the deepest shadow areas and a slightly lighter blue-indigo (#2B2B4A) in the areas where the surface curves or catches a hint of ambient light from off-frame. The white typography '29CM ORIGINAL' sits cleanly at optical center — the type renders at approximately 8% of frame height, which reads as commanding yet not aggressive. The letterforms have precise construction: uniform stroke weight (suggesting geometric sans-serif design), slightly generous letter-spacing (approximately 5% of type height), and perfectly centered horizontal and vertical alignment. There are no additional brand elements, taglines, dates, or supplementary copy. The simplicity is intentional and confident. The overall color temperature of the frame is cool (around 5800–6200K), reinforcing a sense of controlled precision. The near-total absence of warmth in the background pushes the dark fabric toward the abstract and away from any specific material reference — it could be a heavy linen, a structured jersey, a wool suiting — the specific material is deliberately irrelevant. What matters is the depth of color and the sense of quality. A faint horizontal light-to-shadow gradient is perceptible across the upper third of the frame — this is the only structural visual information beyond the pure color field and the typography. The film grain is consistent with 35mm or a modern digital capture with a fine grain emulation applied in post — approximately ISO 800-equivalent grain visibility.",
+        "t2i_negative": "bright colors, harsh light, multiple text lines, decorative font, busy background, logo marks, watermark artifacts, distorted text",
+        "i2v_motion": "The dark textile beneath drifts with imperceptible micro-movement — a breath-like suggestion of wind. '29CM ORIGINAL' text holds perfectly static. A faint lens-focus breathe over 1.9s. No camera move. Cinematic, still, editorial. Hard cut at end.",
+        "i2v_params": {
+          "clip_duration_sec": 1.9,
+          "camera_move": "locked_off",
+          "subject_motion_level": "micro",
+          "signature_effect": "lens_blur_breathe",
+          "pacing": "static",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen title '29CM ORIGINAL' preserved verbatim; no identity in frame"
+      }
+    },
+    {
+      "index": 2,
+      "start_sec": 1.9,
+      "end_sec": 3.1,
+      "duration": 1.2,
+      "mid_frame_path": "ADV-2026-010_frames/cut02_mid.png",
+      "framing": "ECU",
+      "function": "build",
+      "color_mood": "dark_warm_blur",
+      "subject_action": "blurred transition — dense curly hair mass or dark fabric in motion",
+      "subject_identity": "protagonist_main",
+      "subject_relationship_to_protagonist": "main_character",
+      "copy_overlay": null,
+      "layout_grid": "center",
+      "subject_position": "center",
+      "subject_typo_layout": "typo_separate_zone",
+      "typo_motion": null,
+      "panel_layout": null,
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "face_only",
+      "gaze": "off_camera",
+      "eye_contact_effect": null,
+      "props": [],
+      "prop_semantics": null,
+      "color_palette": [
+        "#1C1C2A",
+        "#4A3020",
+        "#8B6A50"
+      ],
+      "color_intent": "warm-dark transitional blur",
+      "pose_description": "blurred — subject moving into frame, hair fills frame",
+      "subject_motion": "movement_into_frame",
+      "prop_motion": "none",
+      "camera_motion": "rack_focus",
+      "camera_motion_intensity": "low",
+      "camera_effect_local": "extreme_rack_focus_blur",
+      "motion_blur": "heavy",
+      "intra_cut_rhythm": "steady",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [
+        "rack_focus",
+        "motion_blur"
+      ],
+      "vfx_intensity_local": "moderate",
+      "fact_check_flag": false,
+      "notes": "Intentional blur transition — dark curly hair mass, warm tones. Bridge to face reveal. 29CM watermark top-right.",
+      "visible_elements": {
+        "foreground": [
+          "blurred mass natural curly dark hair"
+        ],
+        "midground": [],
+        "background": [
+          "warm blurred ambient — outdoor or warm interior"
+        ],
+        "lighting_env": [
+          "diffused warm ambient"
+        ],
+        "atmosphere": [
+          "intimate, blurred, kinetic"
+        ]
+      },
+      "texture": {
+        "primary_subject": "hair_natural_curly_blurred",
+        "secondary_objects": [],
+        "background_surface": "blurred_warm_ambient",
+        "atmospheric": [
+          "heavy_motion_blur",
+          "warm_haze"
+        ]
+      },
+      "lighting": {
+        "key_direction": "45deg_above",
+        "key_hardness": "soft",
+        "key_color_temp": "warm_4000K",
+        "fill_strength": "minimal",
+        "key_to_fill_ratio": "4:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "soft",
+        "overall_contrast": "mid_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#1C1C2A",
+          "#4A3020",
+          "#8B6A50"
+        ],
+        "palette_role": {
+          "#1C1C2A": "shadow_depth",
+          "#4A3020": "hair_dark_warm",
+          "#8B6A50": "warm_midtone"
+        },
+        "color_relationship": "analogous",
+        "temperature_balance": "warm_dominant",
+        "saturation_strategy": "muted",
+        "contrast_type": "luminance_low",
+        "accent_color": null,
+        "accent_ratio": null,
+        "brand_color_match": []
+      },
+      "style_prompt": "extreme close-up blurred natural curly dark hair in motion, warm dark tones, editorial transition bridge, film grain, 16:9",
+      "recreation_prompts": {
+        "t2i_start_frame": "A 16:9 landscape frame dominated by the blurred mass of natural, dense, tightly-coiled dark curly hair filling the center and right of the frame — Afro-textured or naturally voluminous. The focus is intentionally extreme: depth of field so shallow that no individual hair strand is sharp; the mass reads as an abstract cloud of warm dark browns (#4A3020 to #8B6A50) and near-black (#1C1C2A). The subject appears to be moving — leaning into frame or the camera pulling focus — creating additional motion blur reinforcing the transitional feel. In the background, a soft warm-toned blur suggests outdoor garden environment or warm interior — diffused daylight visible as a brighter warm glow behind the hair. The upper right corner carries the small white sans-serif watermark '29CM' in minimal clean typography. The frame has a cinematic quality: shallow focus, natural light, warm color temperature 4000K, slight halation on bright background areas. No sharp elements; entire shot intentionally blurred. Color palette is analogous warm-dark: deep warm blacks, dark chocolate browns, muted amber. Fine film grain overlays the frame. Composition suggests intimacy and movement — viewer drawn into protagonist's world before the face reveal. Lighting: soft, diffused, from 45 degrees above — natural window or overcast outdoor. No harsh shadows. Atmosphere: organic, tactile, unhurried. Upper right: small '29CM' watermark in thin white sans-serif. The hair texture, though blurred, reads as natural and healthy — dense spring coils compressed into a full volumetric mass. The overall impression is of a woman in confident, sensory motion — the blur is purposeful, not accidental. Style anchor: contemporary Korean lifestyle editorial, high-end slow-cinema approach, 16:9 landscape, fine grain, warm color science. The motion blur in this transitional shot is cinematic and purposeful — not the blur of a technical error but the blur of a deliberate storytelling choice. The edges of the hair mass catch micro-highlights from the warm ambient background, creating a slight halo where the dark hair meets the lighter warm tones behind it. These halo edges trace the organic shape of the hair volume: full on the right, slightly compressed on the left where the subject is moving from. The background warmth visible through and around the hair reads as a gradient from approximately #8B6A50 in the center to #4A3020 in the darker peripheral areas. The transition from Shot 1 (dark, cool, still) to Shot 2 (warm, blurred, kinetic) is a deliberate contrast that signals the move from brand declaration to lived experience. The camera maintains its locked-off position throughout, which means all motion is caused by the subject rather than the camera — reinforcing the sense that this is a candid moment, not a staged camera move. The lens is relatively long (50–85mm equivalent based on the narrow field of view and the compression of depth), which amplifies the bokeh quality and makes the blur feel luxurious rather than merely out-of-focus. The film grain is consistent throughout with the rest of the film. There is no typography in this shot beyond the persistent '29CM' watermark in the upper right, which reads in clean white (#FFFFFF) against whatever background happens to occupy that corner — here it floats against the warm blurred ambient tones, remaining legible but unobtrusive.",
+        "t2i_negative": "sharp focus, harsh light, saturated colors, multiple subjects, artificial lighting artifacts, low quality",
+        "i2v_motion": "Blurred hair mass drifts gently upward or to the right. Slow rack focus begins pulling toward sharpness. Background warm blur brightens slightly. ~1.2s, locked-off, organic unhurried motion. Hard cut to face reveal.",
+        "i2v_params": {
+          "clip_duration_sec": 1.2,
+          "camera_move": "locked_off",
+          "subject_motion_level": "micro",
+          "signature_effect": "rack_focus_transition",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; no face visible — abstract hair blur only; no identity reproduced"
+      }
+    },
+    {
+      "index": 3,
+      "start_sec": 3.1,
+      "end_sec": 4.2,
+      "duration": 1.1,
+      "mid_frame_path": "ADV-2026-010_frames/cut03_mid.png",
+      "framing": "CU",
+      "function": "character_reveal",
+      "color_mood": "warm_natural_soft",
+      "subject_action": "young woman face reveal — eyes gently closed or downcast, subtle smile, natural curly hair, wearing checkered shirt",
+      "subject_identity": "protagonist_main",
+      "subject_relationship_to_protagonist": "main_character",
+      "copy_overlay": null,
+      "layout_grid": "center",
+      "subject_position": "center",
+      "subject_typo_layout": "typo_separate_zone",
+      "typo_motion": null,
+      "panel_layout": null,
+      "camera_angle": "eye_level",
+      "camera_facing": "three_quarter",
+      "shot_scope": "face_only",
+      "gaze": "off_camera",
+      "eye_contact_effect": null,
+      "props": [
+        "checkered_gingham_shirt"
+      ],
+      "prop_semantics": "relaxed rural/garden outfit identifier — gingham as naturalistic style marker",
+      "color_palette": [
+        "#C8A882",
+        "#8B6B4A",
+        "#4A3828",
+        "#F5E8D8"
+      ],
+      "color_intent": "warm skin and earth tones, naturalistic",
+      "pose_description": "head slightly tilted or angled, eyes closed or softly downcast, genuine relaxed small smile — introspective, content, present in the moment",
+      "subject_motion": "micro_head_tilt",
+      "prop_motion": "none",
+      "camera_motion": "locked_off",
+      "camera_motion_intensity": "low",
+      "camera_effect_local": "shallow_focus_background_blur",
+      "motion_blur": "none",
+      "intra_cut_rhythm": "static",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [
+        "shallow_dof"
+      ],
+      "vfx_intensity_local": "subtle",
+      "fact_check_flag": false,
+      "notes": "Protagonist face reveal. Natural curly hair, checkered/gingham shirt, warm outdoorsy setting. Soft genuine expression. 29CM watermark top-right.",
+      "visible_elements": {
+        "foreground": [
+          "young woman face, natural curly voluminous dark hair",
+          "gingham/checkered shirt collar visible"
+        ],
+        "midground": [],
+        "background": [
+          "warm blurred outdoor or porch environment — wood tones, soft green"
+        ],
+        "lighting_env": [
+          "soft diffused natural daylight — possibly overcast or north-facing window"
+        ],
+        "atmosphere": [
+          "intimate, warm, serene"
+        ]
+      },
+      "texture": {
+        "primary_subject": "skin_natural_minimal_makeup",
+        "secondary_objects": [
+          "fabric_cotton_gingham"
+        ],
+        "background_surface": "blurred_warm_wood_or_foliage",
+        "atmospheric": [
+          "soft_focus_halo",
+          "warm_air"
+        ]
+      },
+      "lighting": {
+        "key_direction": "45deg_side",
+        "key_hardness": "soft",
+        "key_color_temp": "warm_4500K",
+        "fill_strength": "moderate",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": false,
+        "practical_lights": [
+          "natural window or open sky"
+        ],
+        "shadow_presence": "soft",
+        "overall_contrast": "mid_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#C8A882",
+          "#8B6B4A",
+          "#4A3828",
+          "#F5E8D8"
+        ],
+        "palette_role": {
+          "#C8A882": "skin_warm_highlight",
+          "#8B6B4A": "hair_and_shadow",
+          "#4A3828": "deep_hair_shadow",
+          "#F5E8D8": "light_skin_catch"
+        },
+        "color_relationship": "analogous",
+        "temperature_balance": "warm_dominant",
+        "saturation_strategy": "muted",
+        "contrast_type": "luminance_mid",
+        "accent_color": "#F5E8D8",
+        "accent_ratio": "15_percent",
+        "brand_color_match": []
+      },
+      "style_prompt": "CU face, young woman natural curly voluminous dark hair, eyes softly closed, gentle smile, gingham shirt, warm soft natural light, shallow DOF, 16:9 editorial lifestyle",
+      "recreation_prompts": {
+        "t2i_start_frame": "A 16:9 landscape close-up portrait of a young woman — abstracted type, NOT a photo-likeness of any real person — with a full, naturally voluminous mass of dark curly hair (densely coiled, healthy, Afro-textured or naturally curly, large volume framing her face). She is caught in a quiet, candid moment: eyes gently closed or cast softly downward, a small, genuine relaxed smile on her lips — the expression of someone fully present and content, not posed for camera. Her head is angled slightly to one side with natural ease. She wears a checkered or gingham-patterned shirt in a classic cotton weave — the collar and upper chest visible, the pattern reading in muted tones of navy-white or blue-white gingham. Her skin tone is warm and natural — medium brown with warm undertone — natural, minimal makeup, visible pores and fine texture of real skin under soft light. The background is a warm, deeply blurred outdoor or porch environment suggesting wood surfaces, soft foliage, warm afternoon or overcast daylight — completely out of focus, providing a soft warm amber-green bokeh. Lighting: soft, diffused natural light from approximately 45 degrees to the side — possibly open sky or north-facing window; no harsh shadows; key-to-fill ratio approximately 2:1; warm 4500K color temperature; the light wraps her face gently creating smooth gradations from highlight to shadow. The depth of field is shallow — background fully blurred, face just sharp enough to read expressions clearly. Fine film grain visible across the entire frame. Upper right corner: small minimal white sans-serif '29CM' watermark. Color palette: warm skin tones (#C8A882 to #8B6B4A), deep warm hair (#4A3828), warm light catch (#F5E8D8) — analogous warm earth palette. Texture: natural skin, cotton gingham fabric, soft focus on hair mass. No artificial light, no studio feel. The overall impression is of a documentary-style portrait — natural, unpretentious, genuinely beautiful. Style anchor: contemporary Korean lifestyle editorial, 16:9 landscape, warm natural cinema, close-portrait documentary style. The face is the face of a stranger — an abstracted everyday type, never a photographic likeness of any real celebrity or known person. The color science of this portrait shot is warm but controlled — the skin tones are natural and unsaturated (not pushed warm or cool in grade), which gives the frame a documentary quality rather than a fashion-editorial over-treated feel. The gingham or checkered shirt introduces a graphic pattern element that is quickly identified as one of the film's recurring visual motifs — it ties this opening face-reveal to the later workshop scenes where the same or similar fabric patterns appear. The curly hair has significant volume — it extends outward and upward from the head, occupying a substantial portion of the frame at this close distance, and its dark mass (approximately #4A3828 in shadow to #8B6B4A in ambient highlight areas) creates a strong natural frame for the face. The subject's expression is genuinely relaxed — not a model's composed neutral, but the slightly unguarded expression of someone who doesn't know (or doesn't care) that they are being filmed. This quality of authentic presence is a hallmark of the entire film's approach to its protagonist. The shallow depth of field creates a soft green-amber background bokeh (#5A7245 to #A8885A range) that prevents the outdoor setting from competing with the face while still communicating a naturalistic outdoor environment. The film's choice to shoot wide open and let the background fully dissolve underlines its commitment to intimacy over spectacle. Upper right corner: '29CM' watermark in clean thin white sans-serif, maintaining consistent placement across all shots.",
+        "t2i_negative": "real celebrity face likeness, harsh studio light, heavily retouched skin, saturated colors, dark background, multiple people, low quality, distorted features",
+        "i2v_motion": "Subject's head makes a tiny natural micro-movement — a slight tilt or breath-caused shift. Hair moves minimally with the motion. Eyes remain closed or gently downcast. A gentle focus breathe on the background bokeh. ~1.1s, camera locked-off, minimal motion. Intimate, candid, still. Hard cut.",
+        "i2v_params": {
+          "clip_duration_sec": 1.1,
+          "camera_move": "locked_off",
+          "subject_motion_level": "micro",
+          "signature_effect": "none",
+          "pacing": "static",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; face abstracted (not a real person likeness); no on-screen copy in this shot"
+      }
+    },
+    {
+      "index": 4,
+      "start_sec": 4.2,
+      "end_sec": 5.71,
+      "duration": 1.51,
+      "mid_frame_path": "ADV-2026-010_frames/cut04_mid.png",
+      "framing": "CU",
+      "function": "action_detail",
+      "color_mood": "cool_grey_outdoor",
+      "subject_action": "hands gripping a metal garden hose nozzle, water spraying — action closeup against outdoor building background",
+      "subject_identity": "protagonist_main",
+      "subject_relationship_to_protagonist": "main_character",
+      "copy_overlay": null,
+      "layout_grid": "rule_of_thirds",
+      "subject_position": "center",
+      "subject_typo_layout": "typo_separate_zone",
+      "typo_motion": null,
+      "panel_layout": null,
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "waist_up",
+      "gaze": "none",
+      "eye_contact_effect": null,
+      "props": [
+        "garden_hose_metal_nozzle",
+        "water_spray",
+        "gingham_shirt_sleeve"
+      ],
+      "prop_semantics": "water nozzle = active gardening/outdoor work; water spray = refreshing summer garden activity; gingham shirt continuity from previous shot",
+      "color_palette": [
+        "#8A9BA8",
+        "#C8D4D8",
+        "#4A5A62",
+        "#E8EEF0"
+      ],
+      "color_intent": "cool grey-blue outdoor light, industrial hose metal",
+      "pose_description": "hands firmly gripping hose nozzle — wrists and forearms visible, practical grip, slight water spray burst",
+      "subject_motion": "slight_arm_movement",
+      "prop_motion": "water_spray_active",
+      "camera_motion": "locked_off",
+      "camera_motion_intensity": "low",
+      "camera_effect_local": "shallow_focus",
+      "motion_blur": "slight",
+      "intra_cut_rhythm": "steady",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [
+        "water_spray_practical"
+      ],
+      "vfx_intensity_local": "subtle",
+      "fact_check_flag": false,
+      "notes": "Action detail — hands and hose nozzle, water spray. Cool outdoor light. Building eaves/overhang visible in background. 29CM watermark top-right.",
+      "visible_elements": {
+        "foreground": [
+          "hands gripping metal garden hose nozzle",
+          "water droplets/spray burst"
+        ],
+        "midground": [
+          "gingham shirt sleeve and forearm"
+        ],
+        "background": [
+          "building exterior — overhang/eave, pale wall, outdoor overcast sky"
+        ],
+        "lighting_env": [
+          "overcast outdoor natural light — soft, diffused"
+        ],
+        "atmosphere": [
+          "fresh, outdoor, active, slightly cool"
+        ]
+      },
+      "texture": {
+        "primary_subject": "metal_matte_hose_nozzle",
+        "secondary_objects": [
+          "fabric_cotton_gingham",
+          "water_droplets_clear"
+        ],
+        "background_surface": "concrete_or_painted_wall_pale",
+        "atmospheric": [
+          "water_spray_mist"
+        ]
+      },
+      "lighting": {
+        "key_direction": "top",
+        "key_hardness": "soft",
+        "key_color_temp": "cool_6500K",
+        "fill_strength": "strong",
+        "key_to_fill_ratio": "1:1",
+        "rim_light": false,
+        "practical_lights": [
+          "overcast outdoor sky"
+        ],
+        "shadow_presence": "minimal",
+        "overall_contrast": "mid_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#8A9BA8",
+          "#C8D4D8",
+          "#4A5A62",
+          "#E8EEF0"
+        ],
+        "palette_role": {
+          "#8A9BA8": "metal_hose_mid",
+          "#C8D4D8": "cool_background_sky",
+          "#4A5A62": "dark_metal_grip",
+          "#E8EEF0": "water_spray_highlight"
+        },
+        "color_relationship": "analogous",
+        "temperature_balance": "cool_dominant",
+        "saturation_strategy": "muted",
+        "contrast_type": "luminance_mid",
+        "accent_color": "#E8EEF0",
+        "accent_ratio": "10_percent",
+        "brand_color_match": []
+      },
+      "style_prompt": "CU hands gripping garden hose metal nozzle, water spray burst, gingham shirt sleeve, cool overcast outdoor light, shallow DOF, 16:9 lifestyle editorial",
+      "recreation_prompts": {
+        "t2i_start_frame": "A 16:9 landscape close-up shot centered on a pair of hands firmly gripping a metal garden hose nozzle — the grip confident and practical. The nozzle is a standard professional-style metal watering nozzle with a textured grip section, matte dark gunmetal finish (#4A5A62), with a burst of water spray visible at the nozzle tip — droplets and mist catching the cool overcast outdoor light and creating a brief sparkle of water (#E8EEF0). The hands belong to a young woman — abstracted type — and the gingham or checkered shirt sleeve is visible at the wrist and forearm, providing outfit continuity: the gingham reads in muted navy-on-white or blue-on-white check cotton. The background is an outdoor residential or garden setting: a building exterior with a painted pale wall and overhanging eave/roofline partially visible in the blurred background; the sky beyond reads as overcast and cool-grey (#C8D4D8). Lighting: overcast outdoor natural light — extremely diffused, even key-to-fill ratio approximately 1:1; cool 6500K color temperature; soft shadows only on the hands and nozzle; no harsh highlights. The metal nozzle surface shows subtle specular highlights from the diffused sky. Depth of field: shallow — the nozzle and hands are in focus, the background soft. Fine film grain throughout. Upper right corner: small minimal white sans-serif '29CM' watermark. Color palette: cool grey-blue (#8A9BA8 to #C8D4D8), dark metal (#4A5A62), water highlight (#E8EEF0). The composition places the hose nozzle center-to-left, rule-of-thirds, the spray traveling right. Atmosphere: fresh outdoor summer or spring morning — crisp, practical, slightly cool and clean. Style anchor: Korean lifestyle editorial commercial, product-in-action close-up, 16:9 landscape, overcast daylight, tactile focus on craft objects. The choice of extreme closeness to the hose nozzle — so close that the human hand nearly fills the frame width — is a deliberate emphasis on the tactile and the functional. This is not a glamorized product shot with special lighting; it is the object in use, caught in a real moment of garden work. The water spray at the nozzle tip is the dynamic element: a fine cone of water that catches the diffused overcast light and creates a brief sparkle of individual droplets and fine mist. The droplets are in mid-flight — some sharp, some slightly motion-blurred — creating a sense of the precise moment of action rather than a frozen static tableau. The grip of the hands on the nozzle is confident and practiced — the thumb on the trigger mechanism, the fingers wrapped around the body of the nozzle. The wrist and lower forearm are visible, with the gingham shirt cuff pushed up slightly to avoid getting wet — a small practical detail that reinforces the authenticity of the scene. The pale building background (a residential or garden structure exterior) and the wooden overhang above create a neutral, light, non-distracting context. The natural light falling from the overcast sky creates an even, almost shadowless illumination across the entire scene — metal nozzle, hands, spray, and background all receive the same quality of light. This creates a unified, clean visual quality without harsh highlights or deep shadows.",
+        "t2i_negative": "indoor studio lighting, colorful background, decorative hose, blurry hands, multiple props, harsh direct sunlight, low quality",
+        "i2v_motion": "Hands make a slight adjustment grip on the nozzle — trigger depressed, water spray active throughout. Spray catches light and disperses naturally. ~1.51s. Camera locked-off. Prop motion: continuous water spray. Natural active motion. Hard cut.",
+        "i2v_params": {
+          "clip_duration_sec": 1.51,
+          "camera_move": "locked_off",
+          "subject_motion_level": "micro",
+          "signature_effect": "none",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; hands abstracted (no face visible); no on-screen copy"
+      }
+    },
+    {
+      "index": 5,
+      "start_sec": 5.71,
+      "end_sec": 7.51,
+      "duration": 1.8,
+      "mid_frame_path": "ADV-2026-010_frames/cut05_mid.png",
+      "framing": "overhead",
+      "function": "still_life",
+      "color_mood": "dark_earth_warm",
+      "subject_action": "overhead still life — three gardening tools (trowel, pruner/secateur, small spade) arranged on dark soil with white pebbles/stones",
+      "subject_identity": "none_environment",
+      "subject_relationship_to_protagonist": null,
+      "copy_overlay": null,
+      "layout_grid": "rule_of_thirds",
+      "subject_position": "center",
+      "subject_typo_layout": "typo_separate_zone",
+      "typo_motion": null,
+      "panel_layout": null,
+      "camera_angle": "overhead",
+      "camera_facing": "frontal",
+      "shot_scope": "environment",
+      "gaze": "none",
+      "eye_contact_effect": null,
+      "props": [
+        "garden_trowel_wooden_handle",
+        "pruner_secateur_orange_handle",
+        "small_garden_spade_metal",
+        "dark_potting_soil",
+        "white_pebbles_stones"
+      ],
+      "prop_semantics": "gardening tools as product/lifestyle identifiers — premium yet practical; soil = earth connection; pebbles = decorative care in the garden",
+      "color_palette": [
+        "#2C1A0E",
+        "#8B4513",
+        "#D4601A",
+        "#C8C0A8"
+      ],
+      "color_intent": "rich earth tones, warm tool handles against dark soil",
+      "pose_description": "no human subject — pure product still life from directly above",
+      "subject_motion": "none",
+      "prop_motion": "none",
+      "camera_motion": "locked_off",
+      "camera_motion_intensity": "low",
+      "camera_effect_local": "none",
+      "motion_blur": "none",
+      "intra_cut_rhythm": "static",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [],
+      "vfx_intensity_local": "none",
+      "fact_check_flag": false,
+      "notes": "Overhead still life of gardening tools on dark soil with white pebbles. Strong product styling shot. Rich earth palette. 29CM watermark top-right.",
+      "visible_elements": {
+        "foreground": [
+          "trowel with wooden handle",
+          "orange-handled pruner/secateur",
+          "small metal spade",
+          "dark moist potting soil",
+          "white round pebbles/stones"
+        ],
+        "midground": [],
+        "background": [
+          "dark textured soil, possibly plastic mulch sheet beneath"
+        ],
+        "lighting_env": [
+          "even overhead diffused light — studio-like or overcast outdoor"
+        ],
+        "atmosphere": [
+          "earthy, tactile, artisanal, still"
+        ]
+      },
+      "texture": {
+        "primary_subject": "dark_moist_soil_granular",
+        "secondary_objects": [
+          "wood_raw_trowel_handle",
+          "metal_matte_tool_head",
+          "plastic_glossy_orange_handle",
+          "stone_smooth_white_pebbles"
+        ],
+        "background_surface": "dark_plastic_mulch_or_rubber_mat",
+        "atmospheric": [
+          "earth_scent_implied"
+        ]
+      },
+      "lighting": {
+        "key_direction": "top",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "moderate",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "soft",
+        "overall_contrast": "mid_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#2C1A0E",
+          "#8B4513",
+          "#D4601A",
+          "#C8C0A8"
+        ],
+        "palette_role": {
+          "#2C1A0E": "dark_soil_dominant",
+          "#8B4513": "wooden_handle",
+          "#D4601A": "orange_pruner_accent",
+          "#C8C0A8": "white_pebbles_stones"
+        },
+        "color_relationship": "complementary",
+        "temperature_balance": "warm_dominant",
+        "saturation_strategy": "vivid_accent_on_muted",
+        "contrast_type": "luminance_high",
+        "accent_color": "#D4601A",
+        "accent_ratio": "10_percent",
+        "brand_color_match": []
+      },
+      "style_prompt": "overhead still life garden tools on dark soil with white pebbles — trowel, orange pruner, small spade — warm earth tones, editorial product styling, 16:9",
+      "recreation_prompts": {
+        "t2i_start_frame": "A 16:9 landscape overhead (bird's-eye) still-life shot of three garden tools arranged on a bed of dark moist potting soil, with several white rounded pebbles scattered among them. The tools from left to right: first a classic garden trowel with a worn wooden handle (natural grain, aged warm brown #8B4513) and a matte metal blade head partially buried in soil; second in the center a pair of hand pruners or secateurs with a vivid orange plastic handle (#D4601A) — the single most colorful element in the frame, acting as an accent; third a small narrow garden spade or transplanting trowel with a matte metal head and shorter wooden handle. The dark potting soil (#2C1A0E) is rich, moist and granular in texture — the kind of dark professional potting mix that holds together in clumps. The white rounded pebbles (#C8C0A8 to near-white) are scattered naturally around the tools like decorative mulch or pebble drainage stones — smooth, small, organic in arrangement. The background beneath everything is a dark surface — possibly a black rubber mat, dark plastic mulch sheet, or polished dark concrete — providing maximum contrast. The camera is directly overhead at 90 degrees, creating a flat lay / knolling aesthetic with slight organic arrangement. Lighting: even, soft, diffused from overhead — either a large soft box studio light or overcast outdoor; neutral 5500K color temperature; minimal shadows — only very soft directional shadow beneath each tool and stone. Key-to-fill approximately 2:1. No harsh highlights. Fine film grain. Upper right: small '29CM' white watermark. The color palette is warm-earth dominant with the orange pruner as the single saturated accent. The arrangement is aesthetically intentional but not sterile — slightly imperfect, as if laid out by the person mid-work. Atmosphere: earthy, tactile, artisanal still-life. Style anchor: Korean lifestyle editorial product styling, overhead flat-lay, warm analog palette, tactile surfaces, 16:9 landscape. The flat-lay overhead composition is an extremely deliberate styling choice — it elevates what would be three ordinary working tools into an aesthetic still-life that communicates intentionality, care, and quality. The arrangement is not symmetrical but is balanced — the trowel to the far left at a slight diagonal, the orange pruner in the center slightly forward, the small spade to the right completing a loose triangular composition. The dark soil functions both as background surface and as product in its own right — it is rich, dark, professional-quality potting mix rather than garden clay or sandy soil — the kind associated with serious gardening and horticultural practice. The white pebbles (smooth, river-washed in appearance, approximately 1–3cm diameter) are scattered with apparent randomness but actually create visual rhythm across the dark soil surface — they are the lightest elements and draw the eye in multiple directions, preventing the composition from collapsing into a simple three-tool line-up. The orange pruner handle (#D4601A) is the single vivid saturated accent in an otherwise warm-muted palette — it provides the visual punctuation that makes the eye move among the three tools in a deliberate sequence. Each tool shows appropriate signs of use — not brand-new and sterile, but not worn beyond functionality either — communicating that these are genuinely used garden tools belonging to an active gardener. This detail reinforces the film's overall authenticity-forward approach. The image resembles a styled product photograph for a premium garden/lifestyle editorial or brand catalog.",
+        "t2i_negative": "colorful props, harsh shadows, bright background, cluttered arrangement, artificial-looking placement, multiple unrelated objects, low quality",
+        "i2v_motion": "Tools remain perfectly still — a static overhead still-life tableau. Very slight soil surface micro-vibration as if someone nearby walks, or purely static. ~1.8s. Camera locked-off. No subject motion. Hold. Hard cut.",
+        "i2v_params": {
+          "clip_duration_sec": 1.8,
+          "camera_move": "locked_off",
+          "subject_motion_level": "still",
+          "signature_effect": "none",
+          "pacing": "static",
+          "loopable": true
+        },
+        "fidelity_note": "craft-faithful; no human subject in frame; product/prop styling shot"
+      }
+    },
+    {
+      "index": 6,
+      "start_sec": 7.51,
+      "end_sec": 10.08,
+      "duration": 2.57,
+      "mid_frame_path": "ADV-2026-010_frames/cut06_mid.png",
+      "framing": "MS",
+      "function": "key_visual",
+      "color_mood": "warm_workshop_natural",
+      "subject_action": "young woman at workshop/studio workbench, potting or repotting a plant — hands working with soil and small plant, dressed in white tank top and plaid pants, workshop environment visible",
+      "subject_identity": "protagonist_main",
+      "subject_relationship_to_protagonist": "main_character",
+      "copy_overlay": null,
+      "layout_grid": "rule_of_thirds",
+      "subject_position": "center",
+      "subject_typo_layout": "typo_separate_zone",
+      "typo_motion": null,
+      "panel_layout": null,
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "waist_up",
+      "gaze": "off_camera",
+      "eye_contact_effect": null,
+      "props": [
+        "small_potted_plant_seedling",
+        "workbench_table",
+        "pegboard_wall_with_tools",
+        "metal_wire_organizer_rack",
+        "yellow_plastic_storage_crates",
+        "bags_of_soil",
+        "white_tank_top",
+        "plaid_gingham_pants"
+      ],
+      "prop_semantics": "workshop space as lifestyle setting — organized creative studio; pegboard and storage = curated functional aesthetic; plant potting = hands-on relationship with nature",
+      "color_palette": [
+        "#F2F0EB",
+        "#8B7355",
+        "#B8A890",
+        "#E8C848",
+        "#6B8C6B"
+      ],
+      "color_intent": "warm neutral workshop tones, yellow accent crates, green plant life",
+      "pose_description": "standing at workbench, upper body slightly bent forward over work, both hands engaged with plant/soil, head angled downward in focus — absorbed in task, natural working posture",
+      "subject_motion": "gentle_arm_work_motion",
+      "prop_motion": "plant_handling",
+      "camera_motion": "locked_off",
+      "camera_motion_intensity": "low",
+      "camera_effect_local": "none",
+      "motion_blur": "none",
+      "intra_cut_rhythm": "steady",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [],
+      "vfx_intensity_local": "none",
+      "fact_check_flag": false,
+      "notes": "Longest shot (2.57s). Key visual — protagonist in workshop space with plants. Rich environmental detail: pegboard, yellow crates, tools visible. 29CM watermark top-right.",
+      "visible_elements": {
+        "foreground": [
+          "protagonist in white tank top and plaid pants",
+          "small plant seedling being handled",
+          "workbench surface with soil"
+        ],
+        "midground": [
+          "pegboard wall hung with tools and organizers",
+          "metal wire hanging rack"
+        ],
+        "background": [
+          "large window with natural light beyond",
+          "yellow plastic storage crates stacked",
+          "shelving unit with supplies",
+          "bags of soil/materials",
+          "copper/metal hanger hooks on wall"
+        ],
+        "lighting_env": [
+          "large window natural daylight from behind/side — soft and diffused"
+        ],
+        "atmosphere": [
+          "warm, organized, productive, artisanal, indoor garden studio"
+        ]
+      },
+      "texture": {
+        "primary_subject": "fabric_cotton_tank_top_and_plaid_pants",
+        "secondary_objects": [
+          "wood_workbench",
+          "metal_pegboard",
+          "plastic_storage_crate_yellow",
+          "soil_granular"
+        ],
+        "background_surface": "wood_wall_panels_warm",
+        "atmospheric": [
+          "dust_motes_in_light"
+        ]
+      },
+      "lighting": {
+        "key_direction": "back",
+        "key_hardness": "soft",
+        "key_color_temp": "warm_5000K",
+        "fill_strength": "strong",
+        "key_to_fill_ratio": "1:1",
+        "rim_light": true,
+        "practical_lights": [
+          "large window backlight"
+        ],
+        "shadow_presence": "soft",
+        "overall_contrast": "mid_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#F2F0EB",
+          "#8B7355",
+          "#B8A890",
+          "#E8C848",
+          "#6B8C6B"
+        ],
+        "palette_role": {
+          "#F2F0EB": "tank_top_white_and_wall",
+          "#8B7355": "wood_warm_brown",
+          "#B8A890": "plaid_pants_neutral",
+          "#E8C848": "yellow_crate_accent",
+          "#6B8C6B": "plant_green"
+        },
+        "color_relationship": "analogous",
+        "temperature_balance": "warm_dominant",
+        "saturation_strategy": "muted_with_vivid_accent",
+        "contrast_type": "luminance_mid",
+        "accent_color": "#E8C848",
+        "accent_ratio": "10_percent",
+        "brand_color_match": []
+      },
+      "style_prompt": "MS young woman potting plant at workshop workbench, white tank top plaid pants, warm studio window light, organized craft space, pegboard, yellow crates, 16:9 lifestyle editorial",
+      "recreation_prompts": {
+        "t2i_start_frame": "A 16:9 landscape medium shot of a young woman — abstracted everyday type, NOT a photo-likeness of any real person — standing at a workshop or garden studio workbench, engaged in the act of potting or repotting a small plant seedling. She is centered in frame with natural curly dark hair visible. She wears a fitted white cotton tank top and high-waisted plaid or gingham-patterned pants — the plaid reading in muted grey-blue or navy tones (#B8A890 range) — styled casually and practically. Her hands are actively working with a small green plant seedling and soil on the workbench surface. Posture: upper body slightly forward, head angled down with focus — the absorbed, unselfconscious posture of someone genuinely engaged in their work. The workbench is made of natural wood and sits against a warm wood-paneled wall. Behind the subject, a large window allows generous natural daylight to flood in from behind, creating a soft backlighting rim effect that separates her from the background. The background environment is richly detailed: a pegboard wall hung with hand tools (small clippers, hooks, organizers); a metal wire hanging display rack; several bright yellow plastic storage crates (#E8C848) stacked to the right, providing a warm vivid accent; bags of potting soil; additional shelving with supplies. The color palette is warm and muted: creamy white (#F2F0EB), warm wood brown (#8B7355), neutral plaid (#B8A890), plant green (#6B8C6B), yellow crate accent (#E8C848). Lighting: soft, diffused natural daylight from the large window behind/side — warm 5000K; strong fill from the front ambient; creates a gentle backlighting halo on the subject. Key-to-fill approximately 1:1 from the window bounce. Slight dust motes in the backlit air. Fine film grain throughout. Upper right: small white '29CM' watermark. Atmosphere: warm, organized, productive craft studio — a curated aesthetic that balances function and beauty. The setting suggests a conscious lifestyle: the space is organized yet lived-in, the tools are quality, the plants are cared for. Style anchor: Korean lifestyle editorial, warm studio documentary portrait, 16:9 landscape, natural light, analog warmth. The workshop space visible in this wide shot is the most environmentally rich of all 19 shots — it functions almost as a character in itself, communicating a complete lifestyle aesthetic through its spatial organization and material choices. The pegboard wall is a classic workshop organizational element — here it carries small clips, hooks, and a variety of hand tools, creating a visual rhythm of organized utility. The metal wire hanging rack (possibly a display or organizer from a shop or studio fitting) adds an industrial-artisanal aesthetic note. The yellow plastic stackable crates (#E8C848) — likely a European utility brand style — provide a vibrant warm accent that prevents the workspace from feeling purely industrial. The bags of potting soil on the floor and table confirm that plant work is a regular activity here, not a staged photo-shoot set-up. The large window that backlit the subject in this shot is the primary light source for the entire workshop sequence — its diffused natural light travels through the space and creates the gentle, even illumination visible on the wood walls and the subject's tank top. The composition places the subject in the center of the frame with the organized workshop elements arranged symmetrically on either side — this is the most formally composed shot of the film, giving it the quality of an architectural portrait as much as a lifestyle shot. The potted plant being worked on is a small green seedling — suggesting propagation or repotting activity, a sign of plant care rather than simply decoration.",
+        "t2i_negative": "studio strobe lighting, dark cluttered background, messy workspace, harsh shadows, saturated artificial colors, subject looking at camera, real brand identifiers, low quality",
+        "i2v_motion": "Subject works at bench — gentle forward arm motion handling the plant, small organic hand movements. Plant leaves sway slightly as handled. Window light stays steady. ~2.57s. Camera locked-off or near-imperceptible slow pull back. Steady, warm, absorbed. Hard cut.",
+        "i2v_params": {
+          "clip_duration_sec": 2.57,
+          "camera_move": "locked_off",
+          "subject_motion_level": "walk",
+          "signature_effect": "none",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; face abstracted; workshop environment detailed for builder reconstruction"
+      }
+    },
+    {
+      "index": 7,
+      "start_sec": 10.08,
+      "end_sec": 10.58,
+      "duration": 0.5,
+      "mid_frame_path": "ADV-2026-010_frames/cut07_mid.png",
+      "framing": "CU",
+      "function": "product_detail",
+      "color_mood": "warm_neutral_indoor",
+      "subject_action": "CU legs and feet — light wash rolled denim and white chunky platform sandals, workshop interior floor, slightly elevated angle",
+      "subject_identity": "protagonist_main",
+      "subject_relationship_to_protagonist": "main_character",
+      "copy_overlay": null,
+      "layout_grid": "center",
+      "subject_position": "center",
+      "subject_typo_layout": "typo_separate_zone",
+      "typo_motion": null,
+      "panel_layout": null,
+      "camera_angle": "low_angle",
+      "camera_facing": "frontal",
+      "shot_scope": "bust",
+      "gaze": "none",
+      "eye_contact_effect": null,
+      "props": [
+        "white_chunky_platform_sandals",
+        "light_wash_rolled_denim_jeans"
+      ],
+      "prop_semantics": "sandals as featured lifestyle product — chunky platform sandal as key item; denim continuity with outfit; low-angle frames the footwear as primary subject",
+      "color_palette": [
+        "#F5F0E8",
+        "#9BA8B5",
+        "#D4C8B0",
+        "#4A5060"
+      ],
+      "color_intent": "clean neutral sandal white against cool indoor light, denim blue-grey",
+      "pose_description": "standing or shifting weight — legs seen from knee down, feet in sandals on workshop floor",
+      "subject_motion": "slight_weight_shift",
+      "prop_motion": "none",
+      "camera_motion": "locked_off",
+      "camera_motion_intensity": "low",
+      "camera_effect_local": "shallow_focus",
+      "motion_blur": "none",
+      "intra_cut_rhythm": "static",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [],
+      "vfx_intensity_local": "none",
+      "fact_check_flag": false,
+      "notes": "Footwear detail montage shot 1/4. White chunky platform sandals + rolled light-wash denim. Low/floor-level camera angle. Workshop setting background. 29CM watermark top-right.",
+      "visible_elements": {
+        "foreground": [
+          "white chunky platform sandals with velcro or buckle straps",
+          "light wash denim jeans rolled at cuff"
+        ],
+        "midground": [
+          "workshop floor — polished concrete or resin"
+        ],
+        "background": [
+          "workshop shelving with storage bins (neon green, red visible)",
+          "tools and equipment"
+        ],
+        "lighting_env": [
+          "diffused indoor natural window light"
+        ],
+        "atmosphere": [
+          "clean, functional, workshop studio"
+        ]
+      },
+      "texture": {
+        "primary_subject": "leather_or_synthetic_sandal_matte_white",
+        "secondary_objects": [
+          "denim_light_wash_cotton",
+          "concrete_floor_smooth"
+        ],
+        "background_surface": "polished_concrete",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "side_left",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "moderate",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": false,
+        "practical_lights": [
+          "window ambient"
+        ],
+        "shadow_presence": "soft",
+        "overall_contrast": "mid_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#F5F0E8",
+          "#9BA8B5",
+          "#D4C8B0",
+          "#4A5060"
+        ],
+        "palette_role": {
+          "#F5F0E8": "sandal_white",
+          "#9BA8B5": "denim_blue_grey",
+          "#D4C8B0": "floor_and_skin",
+          "#4A5060": "dark_denim_shadow"
+        },
+        "color_relationship": "analogous",
+        "temperature_balance": "cool_dominant",
+        "saturation_strategy": "muted",
+        "contrast_type": "luminance_mid",
+        "accent_color": "#F5F0E8",
+        "accent_ratio": "40_percent",
+        "brand_color_match": []
+      },
+      "style_prompt": "CU low-angle view, white chunky platform sandals and rolled light-wash denim, polished workshop floor, cool soft indoor light, product footwear detail, shot 1/4, 16:9 editorial",
+      "recreation_prompts": {
+        "t2i_start_frame": "A 16:9 landscape close-up shot from a low or near-floor camera angle showing a young woman's legs from approximately the knee down, wearing light-wash denim jeans with the cuffs rolled up to reveal the lower ankle, and a pair of white chunky platform sandals. The sandals are a key lifestyle product item: a chunky rubber or EVA platform sole approximately 3–4cm thick in clean off-white (#F5F0E8), with wide flat straps in the same white material featuring simple buckle or velcro closures across the foot, and a simple open-toe design — the style reads as contemporary Korean lifestyle fashion, functional-aesthetic. The denim is light wash (#9BA8B5 range) — relaxed fit, cotton, rolled once or twice at the cuff to show the ankle. The camera angle is low — positioned at approximately ankle height looking slightly upward or straight-on — making the footwear the visual hero of the frame. The floor beneath is a polished concrete or resin workshop floor (#D4C8B0 — warm pale grey). In the blurred background, workshop shelving with colorful storage bins (neon green, red, orange) and tools creates a warm, organized studio environment. Lighting: diffused indoor natural light from a window to the left of frame — soft, neutral-to-cool 5500K; gentle fill from the right ambient; soft shadows beneath the sandal sole on the floor. Depth of field: shallow — sandals in crisp focus, background soft blur. Fine film grain throughout. Upper right: small '29CM' white watermark. Color palette: sandal white (#F5F0E8), denim blue-grey (#9BA8B5), warm concrete floor (#D4C8B0), denim shadow (#4A5060). The composition is centered on the footwear — generous negative space of the floor in the lower frame, legs entering from the top. The atmosphere is clean, functional-aesthetic: a workshop space where the footwear choice feels intentional and curated. Style anchor: Korean lifestyle editorial footwear detail shot, low-angle product showcase, 16:9 landscape, indoor natural light. The decision to feature four consecutive close-up shots of footwear (shots 7–10) is unusual and signals that the footwear itself is either a featured product or a strong lifestyle signifier. The white chunky platform sandals have a contemporary Korean street-fashion aesthetic — this style of sandal became prominent in Korean fashion culture in the early-to-mid 2020s, combining a thick practical rubber platform with simple velcro or buckle strap closures. The chunky platform sole (approximately 3–4cm thick) is a deliberate stylistic exaggeration that creates visual weight and interest from a low camera angle. The light-wash denim rolled at the cuff is a classic casual pairing — the roll exposing the ankle and sandal is both practical and aesthetically intentional. Shot 7 shows the left-side perspective with slightly elevated angle, establishing both feet in frame with equal weight distribution — a standing pose. The polished concrete or resin workshop floor creates a clean, contemporary surface that complements both the industrial workshop aesthetic and the crisp white sandals. In the background, visible at the bottom of the blurred shelving units, are bright-colored storage organizers (neon green, red) — these provide a colorful but non-distracting environmental context that confirms the indoor workshop setting. The 29CM watermark in this shot reads against the mid-tone floor and shelving background in clean white, maintaining its consistent visual presence.",
+        "t2i_negative": "high camera angle, dark background, elaborate styling, multiple people, harsh studio strobes, dirty floor, obscured footwear, low quality",
+        "i2v_motion": "Slight natural weight-shift — subject shifts from one foot to the other. Sandal straps flex slightly with movement. Floor reflections shift. ~0.5s. Camera locked-off at floor level. Minimal motion. Product-showcase pacing. Hard cut.",
+        "i2v_params": {
+          "clip_duration_sec": 0.5,
+          "camera_move": "locked_off",
+          "subject_motion_level": "micro",
+          "signature_effect": "none",
+          "pacing": "static",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; footwear product abstracted (no brand logo reproduced, sandal type described); no face visible"
+      }
+    },
+    {
+      "index": 8,
+      "start_sec": 10.58,
+      "end_sec": 11.41,
+      "duration": 0.83,
+      "mid_frame_path": "ADV-2026-010_frames/cut08_mid.png",
+      "framing": "CU",
+      "function": "product_detail",
+      "color_mood": "warm_neutral_indoor",
+      "subject_action": "CU legs and feet — same white platform sandals and rolled denim, slightly different angle, workshop floor, more of the background shelf visible",
+      "subject_identity": "protagonist_main",
+      "subject_relationship_to_protagonist": "main_character",
+      "copy_overlay": null,
+      "layout_grid": "center",
+      "subject_position": "center",
+      "subject_typo_layout": "typo_separate_zone",
+      "typo_motion": null,
+      "panel_layout": null,
+      "camera_angle": "low_angle",
+      "camera_facing": "frontal",
+      "shot_scope": "bust",
+      "gaze": "none",
+      "eye_contact_effect": null,
+      "props": [
+        "white_chunky_platform_sandals",
+        "light_wash_rolled_denim_jeans"
+      ],
+      "prop_semantics": "sandals as featured lifestyle product — chunky platform sandal as key item; denim continuity with outfit; low-angle frames the footwear as primary subject",
+      "color_palette": [
+        "#F5F0E8",
+        "#9BA8B5",
+        "#D4C8B0",
+        "#4A5060"
+      ],
+      "color_intent": "clean neutral sandal white against cool indoor light, denim blue-grey",
+      "pose_description": "standing or shifting weight — legs seen from knee down, feet in sandals on workshop floor",
+      "subject_motion": "slight_weight_shift",
+      "prop_motion": "none",
+      "camera_motion": "locked_off",
+      "camera_motion_intensity": "low",
+      "camera_effect_local": "shallow_focus",
+      "motion_blur": "none",
+      "intra_cut_rhythm": "static",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [],
+      "vfx_intensity_local": "none",
+      "fact_check_flag": false,
+      "notes": "Footwear detail montage shot 2/4. White chunky platform sandals + rolled light-wash denim. Low/floor-level camera angle. Workshop setting background. 29CM watermark top-right.",
+      "visible_elements": {
+        "foreground": [
+          "white chunky platform sandals with velcro or buckle straps",
+          "light wash denim jeans rolled at cuff"
+        ],
+        "midground": [
+          "workshop floor — polished concrete or resin"
+        ],
+        "background": [
+          "workshop shelving with storage bins (neon green, red visible)",
+          "tools and equipment"
+        ],
+        "lighting_env": [
+          "diffused indoor natural window light"
+        ],
+        "atmosphere": [
+          "clean, functional, workshop studio"
+        ]
+      },
+      "texture": {
+        "primary_subject": "leather_or_synthetic_sandal_matte_white",
+        "secondary_objects": [
+          "denim_light_wash_cotton",
+          "concrete_floor_smooth"
+        ],
+        "background_surface": "polished_concrete",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "side_left",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "moderate",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": false,
+        "practical_lights": [
+          "window ambient"
+        ],
+        "shadow_presence": "soft",
+        "overall_contrast": "mid_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#F5F0E8",
+          "#9BA8B5",
+          "#D4C8B0",
+          "#4A5060"
+        ],
+        "palette_role": {
+          "#F5F0E8": "sandal_white",
+          "#9BA8B5": "denim_blue_grey",
+          "#D4C8B0": "floor_and_skin",
+          "#4A5060": "dark_denim_shadow"
+        },
+        "color_relationship": "analogous",
+        "temperature_balance": "cool_dominant",
+        "saturation_strategy": "muted",
+        "contrast_type": "luminance_mid",
+        "accent_color": "#F5F0E8",
+        "accent_ratio": "40_percent",
+        "brand_color_match": []
+      },
+      "style_prompt": "CU low-angle view, white chunky platform sandals and rolled light-wash denim, polished workshop floor, cool soft indoor light, product footwear detail, shot 2/4, 16:9 editorial",
+      "recreation_prompts": {
+        "t2i_start_frame": "A 16:9 landscape close-up shot from a low or near-floor camera angle showing a young woman's legs from approximately the knee down, wearing light-wash denim jeans with the cuffs rolled up to reveal the lower ankle, and a pair of white chunky platform sandals. The sandals are a key lifestyle product item: a chunky rubber or EVA platform sole approximately 3–4cm thick in clean off-white (#F5F0E8), with wide flat straps in the same white material featuring simple buckle or velcro closures across the foot, and a simple open-toe design — the style reads as contemporary Korean lifestyle fashion, functional-aesthetic. The denim is light wash (#9BA8B5 range) — relaxed fit, cotton, rolled once or twice at the cuff to show the ankle. The camera angle is low — positioned at approximately ankle height looking slightly upward or straight-on — making the footwear the visual hero of the frame. The floor beneath is a polished concrete or resin workshop floor (#D4C8B0 — warm pale grey). In the blurred background, workshop shelving with colorful storage bins (neon green, red, orange) and tools creates a warm, organized studio environment. Lighting: diffused indoor natural light from a window to the left of frame — soft, neutral-to-cool 5500K; gentle fill from the right ambient; soft shadows beneath the sandal sole on the floor. Depth of field: shallow — sandals in crisp focus, background soft blur. Fine film grain throughout. Upper right: small '29CM' white watermark. Color palette: sandal white (#F5F0E8), denim blue-grey (#9BA8B5), warm concrete floor (#D4C8B0), denim shadow (#4A5060). The composition is centered on the footwear — generous negative space of the floor in the lower frame, legs entering from the top. The atmosphere is clean, functional-aesthetic: a workshop space where the footwear choice feels intentional and curated. Style anchor: Korean lifestyle editorial footwear detail shot, low-angle product showcase, 16:9 landscape, indoor natural light. Shot 8 is a continuation of the footwear detail montage — same subject, same location, same sandals and denim, but with a slightly different camera angle and framing. The perspective has shifted fractionally — possibly a deliberate camera reposition between shots rather than a continuous take — creating a marginally different spatial relationship between the feet and the background environment. This shot shows both feet with perhaps slightly more of the floor visible and the background shelving slightly differently composed, suggesting the camera may have shifted a few centimeters lower or to the side. The neon green and red storage bins in the background are now more compositionally distinct — their vivid colors creating a small pop of saturation against the otherwise muted neutral palette of the scene. The sandal straps are slightly more visible in this framing — the velcro or buckle closures on the instep of each sandal read as clean white rectangular elements against the slightly darker sole platform. The denim roll is consistent with Shot 7 — the same single or double cuff roll, the same light-wash fade pattern. The workshop floor reflects a very faint, diffused highlight from the ambient window light — visible as a slight sheen on the concrete or resin surface. The overall color palette maintains the cool neutral character established in Shot 7: sandal white, denim blue-grey, concrete floor, warm environmental background blur.",
+        "t2i_negative": "high camera angle, dark background, elaborate styling, multiple people, harsh studio strobes, dirty floor, obscured footwear, low quality",
+        "i2v_motion": "Slight natural weight-shift — subject shifts from one foot to the other. Sandal straps flex slightly with movement. Floor reflections shift. ~0.83s. Camera locked-off at floor level. Minimal motion. Product-showcase pacing. Hard cut.",
+        "i2v_params": {
+          "clip_duration_sec": 0.83,
+          "camera_move": "locked_off",
+          "subject_motion_level": "micro",
+          "signature_effect": "none",
+          "pacing": "static",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; footwear product abstracted (no brand logo reproduced, sandal type described); no face visible"
+      }
+    },
+    {
+      "index": 9,
+      "start_sec": 11.41,
+      "end_sec": 12.88,
+      "duration": 1.47,
+      "mid_frame_path": "ADV-2026-010_frames/cut09_mid.png",
+      "framing": "CU",
+      "function": "product_detail",
+      "color_mood": "warm_neutral_indoor",
+      "subject_action": "CU lower legs and feet — same sandals, lower camera angle, concrete/workshop floor prominent, longer duration holds on footwear",
+      "subject_identity": "protagonist_main",
+      "subject_relationship_to_protagonist": "main_character",
+      "copy_overlay": null,
+      "layout_grid": "center",
+      "subject_position": "center",
+      "subject_typo_layout": "typo_separate_zone",
+      "typo_motion": null,
+      "panel_layout": null,
+      "camera_angle": "low_angle",
+      "camera_facing": "frontal",
+      "shot_scope": "bust",
+      "gaze": "none",
+      "eye_contact_effect": null,
+      "props": [
+        "white_chunky_platform_sandals",
+        "light_wash_rolled_denim_jeans"
+      ],
+      "prop_semantics": "sandals as featured lifestyle product — chunky platform sandal as key item; denim continuity with outfit; low-angle frames the footwear as primary subject",
+      "color_palette": [
+        "#F5F0E8",
+        "#9BA8B5",
+        "#D4C8B0",
+        "#4A5060"
+      ],
+      "color_intent": "clean neutral sandal white against cool indoor light, denim blue-grey",
+      "pose_description": "standing or shifting weight — legs seen from knee down, feet in sandals on workshop floor",
+      "subject_motion": "slight_weight_shift",
+      "prop_motion": "none",
+      "camera_motion": "locked_off",
+      "camera_motion_intensity": "low",
+      "camera_effect_local": "shallow_focus",
+      "motion_blur": "none",
+      "intra_cut_rhythm": "static",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [],
+      "vfx_intensity_local": "none",
+      "fact_check_flag": false,
+      "notes": "Footwear detail montage shot 3/4. White chunky platform sandals + rolled light-wash denim. Low/floor-level camera angle. Workshop setting background. 29CM watermark top-right.",
+      "visible_elements": {
+        "foreground": [
+          "white chunky platform sandals with velcro or buckle straps",
+          "light wash denim jeans rolled at cuff"
+        ],
+        "midground": [
+          "workshop floor — polished concrete or resin"
+        ],
+        "background": [
+          "workshop shelving with storage bins (neon green, red visible)",
+          "tools and equipment"
+        ],
+        "lighting_env": [
+          "diffused indoor natural window light"
+        ],
+        "atmosphere": [
+          "clean, functional, workshop studio"
+        ]
+      },
+      "texture": {
+        "primary_subject": "leather_or_synthetic_sandal_matte_white",
+        "secondary_objects": [
+          "denim_light_wash_cotton",
+          "concrete_floor_smooth"
+        ],
+        "background_surface": "polished_concrete",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "side_left",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "moderate",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": false,
+        "practical_lights": [
+          "window ambient"
+        ],
+        "shadow_presence": "soft",
+        "overall_contrast": "mid_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#F5F0E8",
+          "#9BA8B5",
+          "#D4C8B0",
+          "#4A5060"
+        ],
+        "palette_role": {
+          "#F5F0E8": "sandal_white",
+          "#9BA8B5": "denim_blue_grey",
+          "#D4C8B0": "floor_and_skin",
+          "#4A5060": "dark_denim_shadow"
+        },
+        "color_relationship": "analogous",
+        "temperature_balance": "cool_dominant",
+        "saturation_strategy": "muted",
+        "contrast_type": "luminance_mid",
+        "accent_color": "#F5F0E8",
+        "accent_ratio": "40_percent",
+        "brand_color_match": []
+      },
+      "style_prompt": "CU low-angle view, white chunky platform sandals and rolled light-wash denim, polished workshop floor, cool soft indoor light, product footwear detail, shot 3/4, 16:9 editorial",
+      "recreation_prompts": {
+        "t2i_start_frame": "A 16:9 landscape close-up shot from a low or near-floor camera angle showing a young woman's legs from approximately the knee down, wearing light-wash denim jeans with the cuffs rolled up to reveal the lower ankle, and a pair of white chunky platform sandals. The sandals are a key lifestyle product item: a chunky rubber or EVA platform sole approximately 3–4cm thick in clean off-white (#F5F0E8), with wide flat straps in the same white material featuring simple buckle or velcro closures across the foot, and a simple open-toe design — the style reads as contemporary Korean lifestyle fashion, functional-aesthetic. The denim is light wash (#9BA8B5 range) — relaxed fit, cotton, rolled once or twice at the cuff to show the ankle. The camera angle is low — positioned at approximately ankle height looking slightly upward or straight-on — making the footwear the visual hero of the frame. The floor beneath is a polished concrete or resin workshop floor (#D4C8B0 — warm pale grey). In the blurred background, workshop shelving with colorful storage bins (neon green, red, orange) and tools creates a warm, organized studio environment. Lighting: diffused indoor natural light from a window to the left of frame — soft, neutral-to-cool 5500K; gentle fill from the right ambient; soft shadows beneath the sandal sole on the floor. Depth of field: shallow — sandals in crisp focus, background soft blur. Fine film grain throughout. Upper right: small '29CM' white watermark. Color palette: sandal white (#F5F0E8), denim blue-grey (#9BA8B5), warm concrete floor (#D4C8B0), denim shadow (#4A5060). The composition is centered on the footwear — generous negative space of the floor in the lower frame, legs entering from the top. The atmosphere is clean, functional-aesthetic: a workshop space where the footwear choice feels intentional and curated. Style anchor: Korean lifestyle editorial footwear detail shot, low-angle product showcase, 16:9 landscape, indoor natural light. Shot 9 is the longest of the four sandal detail shots at 1.47 seconds, suggesting the director chose to hold on this angle for additional contemplative time. The camera angle is lower than Shots 7 and 8 — positioned closer to floor level, looking up toward the legs rather than across at them. This creates a more dramatic perspective where the chunky platform sole of each sandal becomes a more prominent architectural element in the composition. The sole profile (approximately 4cm thick, with a slight platform taper from toe to heel) is visible in this lower angle, giving the sandal its characteristic silhouette. The feet are positioned in a slight weight-shift or walking pause — perhaps one foot slightly ahead of the other — creating a more dynamic, less static lower body composition than the previous standing shots. The concrete floor takes up more of the lower frame in this angle, reading as a warm-cool pale grey surface with fine aggregate texture visible. The denim legs recede upward and out of frame with a slight linear perspective convergence that emphasizes the low camera angle. This creates the feeling of looking up at the subject — a camera choice that subtly elevates the status of the footwear and, by extension, the person wearing it. The background shelving environment is visible at the top of the frame, confirming the continuous workshop setting.",
+        "t2i_negative": "high camera angle, dark background, elaborate styling, multiple people, harsh studio strobes, dirty floor, obscured footwear, low quality",
+        "i2v_motion": "Slight natural weight-shift — subject shifts from one foot to the other. Sandal straps flex slightly with movement. Floor reflections shift. ~1.47s. Camera locked-off at floor level. Minimal motion. Product-showcase pacing. Hard cut.",
+        "i2v_params": {
+          "clip_duration_sec": 1.47,
+          "camera_move": "locked_off",
+          "subject_motion_level": "micro",
+          "signature_effect": "none",
+          "pacing": "static",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; footwear product abstracted (no brand logo reproduced, sandal type described); no face visible"
+      }
+    },
+    {
+      "index": 10,
+      "start_sec": 12.88,
+      "end_sec": 13.51,
+      "duration": 0.63,
+      "mid_frame_path": "ADV-2026-010_frames/cut10_mid.png",
+      "framing": "CU",
+      "function": "product_detail",
+      "color_mood": "warm_neutral_indoor",
+      "subject_action": "CU feet — white platform sandals dominant, lowest angle, floor-level or near-floor view, sandal straps and chunky sole most prominent",
+      "subject_identity": "protagonist_main",
+      "subject_relationship_to_protagonist": "main_character",
+      "copy_overlay": null,
+      "layout_grid": "center",
+      "subject_position": "center",
+      "subject_typo_layout": "typo_separate_zone",
+      "typo_motion": null,
+      "panel_layout": null,
+      "camera_angle": "low_angle",
+      "camera_facing": "frontal",
+      "shot_scope": "bust",
+      "gaze": "none",
+      "eye_contact_effect": null,
+      "props": [
+        "white_chunky_platform_sandals",
+        "light_wash_rolled_denim_jeans"
+      ],
+      "prop_semantics": "sandals as featured lifestyle product — chunky platform sandal as key item; denim continuity with outfit; low-angle frames the footwear as primary subject",
+      "color_palette": [
+        "#F5F0E8",
+        "#9BA8B5",
+        "#D4C8B0",
+        "#4A5060"
+      ],
+      "color_intent": "clean neutral sandal white against cool indoor light, denim blue-grey",
+      "pose_description": "standing or shifting weight — legs seen from knee down, feet in sandals on workshop floor",
+      "subject_motion": "slight_weight_shift",
+      "prop_motion": "none",
+      "camera_motion": "locked_off",
+      "camera_motion_intensity": "low",
+      "camera_effect_local": "shallow_focus",
+      "motion_blur": "none",
+      "intra_cut_rhythm": "static",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [],
+      "vfx_intensity_local": "none",
+      "fact_check_flag": false,
+      "notes": "Footwear detail montage shot 4/4. White chunky platform sandals + rolled light-wash denim. Low/floor-level camera angle. Workshop setting background. 29CM watermark top-right.",
+      "visible_elements": {
+        "foreground": [
+          "white chunky platform sandals with velcro or buckle straps",
+          "light wash denim jeans rolled at cuff"
+        ],
+        "midground": [
+          "workshop floor — polished concrete or resin"
+        ],
+        "background": [
+          "workshop shelving with storage bins (neon green, red visible)",
+          "tools and equipment"
+        ],
+        "lighting_env": [
+          "diffused indoor natural window light"
+        ],
+        "atmosphere": [
+          "clean, functional, workshop studio"
+        ]
+      },
+      "texture": {
+        "primary_subject": "leather_or_synthetic_sandal_matte_white",
+        "secondary_objects": [
+          "denim_light_wash_cotton",
+          "concrete_floor_smooth"
+        ],
+        "background_surface": "polished_concrete",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "side_left",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "moderate",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": false,
+        "practical_lights": [
+          "window ambient"
+        ],
+        "shadow_presence": "soft",
+        "overall_contrast": "mid_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#F5F0E8",
+          "#9BA8B5",
+          "#D4C8B0",
+          "#4A5060"
+        ],
+        "palette_role": {
+          "#F5F0E8": "sandal_white",
+          "#9BA8B5": "denim_blue_grey",
+          "#D4C8B0": "floor_and_skin",
+          "#4A5060": "dark_denim_shadow"
+        },
+        "color_relationship": "analogous",
+        "temperature_balance": "cool_dominant",
+        "saturation_strategy": "muted",
+        "contrast_type": "luminance_mid",
+        "accent_color": "#F5F0E8",
+        "accent_ratio": "40_percent",
+        "brand_color_match": []
+      },
+      "style_prompt": "CU low-angle view, white chunky platform sandals and rolled light-wash denim, polished workshop floor, cool soft indoor light, product footwear detail, shot 4/4, 16:9 editorial",
+      "recreation_prompts": {
+        "t2i_start_frame": "A 16:9 landscape close-up shot from a low or near-floor camera angle showing a young woman's legs from approximately the knee down, wearing light-wash denim jeans with the cuffs rolled up to reveal the lower ankle, and a pair of white chunky platform sandals. The sandals are a key lifestyle product item: a chunky rubber or EVA platform sole approximately 3–4cm thick in clean off-white (#F5F0E8), with wide flat straps in the same white material featuring simple buckle or velcro closures across the foot, and a simple open-toe design — the style reads as contemporary Korean lifestyle fashion, functional-aesthetic. The denim is light wash (#9BA8B5 range) — relaxed fit, cotton, rolled once or twice at the cuff to show the ankle. The camera angle is low — positioned at approximately ankle height looking slightly upward or straight-on — making the footwear the visual hero of the frame. The floor beneath is a polished concrete or resin workshop floor (#D4C8B0 — warm pale grey). In the blurred background, workshop shelving with colorful storage bins (neon green, red, orange) and tools creates a warm, organized studio environment. Lighting: diffused indoor natural light from a window to the left of frame — soft, neutral-to-cool 5500K; gentle fill from the right ambient; soft shadows beneath the sandal sole on the floor. Depth of field: shallow — sandals in crisp focus, background soft blur. Fine film grain throughout. Upper right: small '29CM' white watermark. Color palette: sandal white (#F5F0E8), denim blue-grey (#9BA8B5), warm concrete floor (#D4C8B0), denim shadow (#4A5060). The composition is centered on the footwear — generous negative space of the floor in the lower frame, legs entering from the top. The atmosphere is clean, functional-aesthetic: a workshop space where the footwear choice feels intentional and curated. Style anchor: Korean lifestyle editorial footwear detail shot, low-angle product showcase, 16:9 landscape, indoor natural light. Shot 10 is the most extreme close-up of the sandal series — positioned at nearly floor level, the camera appears to be placed almost on the concrete surface itself, looking straight at or very slightly upward at the sandal soles and straps. At this extreme proximity, the material qualities of the sandal become most apparent: the rubber or EVA foam platform sole material has a fine-textured matte finish — not glossy, not completely matte, somewhere in the satin-matte range that is typical of quality lifestyle footwear. The toe box of the sandals shows the open-toe design — the front edge of each sandal is open, with the foot's toes extending to or near the front edge of the platform sole. The strap structure is now most legible at this closeness — two wide flat straps in the same off-white material as the sole, possibly with a thick velcro closure panel across the top of the foot for each strap. The shoe brand label (if present) is not prominently visible at this angle — consistent with the film's approach of featuring clothing and accessories as lifestyle types rather than specific branded items. This extreme low-angle floor-level perspective creates the most fashion-editorial quality composition of the four sandal shots — it transforms a practical product into a sculptural subject. The concrete floor at this proximity shows fine texture and a very slight ambient light sheen. The background is heavily blurred at this close focus distance, reducing to an abstract warm-green color field that provides complementary contrast to the white sandals.",
+        "t2i_negative": "high camera angle, dark background, elaborate styling, multiple people, harsh studio strobes, dirty floor, obscured footwear, low quality",
+        "i2v_motion": "Slight natural weight-shift — subject shifts from one foot to the other. Sandal straps flex slightly with movement. Floor reflections shift. ~0.63s. Camera locked-off at floor level. Minimal motion. Product-showcase pacing. Hard cut.",
+        "i2v_params": {
+          "clip_duration_sec": 0.63,
+          "camera_move": "locked_off",
+          "subject_motion_level": "micro",
+          "signature_effect": "none",
+          "pacing": "static",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; footwear product abstracted (no brand logo reproduced, sandal type described); no face visible"
+      }
+    },
+    {
+      "index": 11,
+      "start_sec": 13.51,
+      "end_sec": 13.98,
+      "duration": 0.47,
+      "mid_frame_path": "ADV-2026-010_frames/cut11_mid.png",
+      "framing": "MCU",
+      "function": "outfit_detail",
+      "color_mood": "warm_neutral_workshop",
+      "subject_action": "MCU torso side/profile — holding a garden tool (trowel), white tank top, plaid pants visible, workshop shelving background",
+      "subject_identity": "protagonist_main",
+      "subject_relationship_to_protagonist": "main_character",
+      "copy_overlay": null,
+      "layout_grid": "center",
+      "subject_position": "center",
+      "subject_typo_layout": "typo_separate_zone",
+      "typo_motion": null,
+      "panel_layout": null,
+      "camera_angle": "eye_level",
+      "camera_facing": "back",
+      "shot_scope": "waist_up",
+      "gaze": "off_camera",
+      "eye_contact_effect": null,
+      "props": [
+        "white_tank_top",
+        "plaid_gingham_pants",
+        "garden_tool_trowel"
+      ],
+      "prop_semantics": "outfit detail montage — white tank + plaid pants as the workshop outfit; back-to-camera framing highlights clothing silhouette and fabric texture",
+      "color_palette": [
+        "#F2F0EB",
+        "#B8A890",
+        "#8B7355",
+        "#4A3C30"
+      ],
+      "color_intent": "warm neutral fabric tones",
+      "pose_description": "back to camera or profile, upright, engaged in task — outfit shown from behind/side to highlight clothing",
+      "subject_motion": "slight_pivot_or_arm_work",
+      "prop_motion": "none",
+      "camera_motion": "locked_off",
+      "camera_motion_intensity": "low",
+      "camera_effect_local": "none",
+      "motion_blur": "none",
+      "intra_cut_rhythm": "static",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [],
+      "vfx_intensity_local": "none",
+      "fact_check_flag": false,
+      "notes": "Outfit detail shot 1/3. Back or profile view — white tank top and plaid pants. Workshop environment. No face shown. 29CM watermark top-right.",
+      "visible_elements": {
+        "foreground": [
+          "back and torso of protagonist in white tank top and plaid pants"
+        ],
+        "midground": [
+          "workshop shelving with organized storage — boxes, equipment"
+        ],
+        "background": [
+          "warm wood-paneled wall, natural window light",
+          "storage bins, tools"
+        ],
+        "lighting_env": [
+          "diffused natural window light from side/behind"
+        ],
+        "atmosphere": [
+          "productive, warm, organized craft space"
+        ]
+      },
+      "texture": {
+        "primary_subject": "fabric_cotton_tank_and_plaid_pants",
+        "secondary_objects": [
+          "wood_shelving",
+          "plastic_storage_containers"
+        ],
+        "background_surface": "wood_warm_panel",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "back",
+        "key_hardness": "soft",
+        "key_color_temp": "warm_5000K",
+        "fill_strength": "moderate",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": true,
+        "practical_lights": [
+          "window backlight"
+        ],
+        "shadow_presence": "soft",
+        "overall_contrast": "mid_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#F2F0EB",
+          "#B8A890",
+          "#8B7355",
+          "#4A3C30"
+        ],
+        "palette_role": {
+          "#F2F0EB": "tank_top_white",
+          "#B8A890": "plaid_mid_tone",
+          "#8B7355": "wood_warm",
+          "#4A3C30": "deep_shadow"
+        },
+        "color_relationship": "analogous",
+        "temperature_balance": "warm_dominant",
+        "saturation_strategy": "muted",
+        "contrast_type": "luminance_mid",
+        "accent_color": null,
+        "accent_ratio": null,
+        "brand_color_match": []
+      },
+      "style_prompt": "MCU back view young woman white tank top plaid pants in workshop, warm backlight from window, outfit detail shot 1/3, 16:9 lifestyle editorial",
+      "recreation_prompts": {
+        "t2i_start_frame": "A 16:9 landscape medium close-up shot showing the back or profile torso of a young woman — abstracted everyday type, not a real person's likeness — from approximately waist to shoulder. She wears a fitted white cotton tank top (#F2F0EB) — clean, simple, minimal; the fabric reads as soft cotton, slightly form-fitting, natural drape. Over or paired with high-waisted plaid or gingham-patterned pants (#B8A890) in a classic check weave — the plaid reads in muted tones, either navy-on-natural or grey-on-natural check cotton, with a relaxed comfortable fit. The camera is behind or to the profile of the subject — her face is not visible, making the clothing the primary visual subject. She appears to be engaged in a task: possibly holding a garden tool (shot 1: trowel visible at side), or working at a shelving/workbench area. The background environment is a warm workshop or garden studio: wood-paneled wall warm brown (#8B7355), shelving units with organized storage containers, warm backlight from a large window creating a gentle rim light on the subject's shoulders and upper back. The overall feel is of a working woman absorbed in her craft — the clothing practical yet stylistically considered. Lighting: warm natural backlight from the window (~5000K), soft fill from front ambient, rim light on the back of the shoulders. Key-to-fill 2:1. Soft shadows. Film grain throughout. Upper right: small '29CM' white watermark. Color palette warm and muted: white (#F2F0EB), plaid neutral (#B8A890), warm wood (#8B7355), deep shadow (#4A3C30). Atmosphere: productive, warm, organized studio. Style anchor: Korean lifestyle editorial clothing detail, back-view portrait, 16:9 landscape, warm natural light, analog warmth. The light entering from the side window creates a warm-cool gradient across the wood-paneled wall — warmer in the upper portion where the ceiling reflects, cooler near the floor where shadows pool. Fine film grain visible. Upper right '29CM' watermark in clean thin white sans-serif. Style anchor: Korean lifestyle editorial clothing detail, close back-profile view, workshop portrait, 16:9 landscape, warm natural light, documentary analog warmth. The composition places the subject center-frame with the workshop environment equally weighted on both sides, creating a sense of a person embedded in their space rather than staged within it. The composition places the subject at the center-left axis of the frame, with the shelving units flanking both sides — creating a balanced, symmetrical workshop portrait feel. The light entering from the side window creates a warm-cool gradient across the wood-paneled wall — warmer in the upper portion where the ceiling reflects, cooler near the floor where shadows pool. The garden tool held at the side (a trowel or hand fork with a wooden handle and metal head) hangs naturally from a relaxed arm, demonstrating the protagonist's comfort and familiarity with her tools — they are extensions of her daily practice, not unfamiliar objects. The plaid pants, at this medium close distance, show their weave and check pattern with good clarity — a traditional even-spaced gingham or larger-scale plaid in a two-tone cotton weave. The tank top's thin straps are visible at the shoulder against the warm light, creating a clean line from shoulder to arm. Fine film grain visible throughout. Upper right corner: small white '29CM' watermark in clean thin sans-serif. The warm quality of the workshop light — a mixture of the large backlit window and the warm tones of the wood surfaces — creates a color palette that reads as domestic and handcrafted rather than industrial or clinical. This is a space that belongs to someone, and the clothing worn in it is chosen for exactly this kind of beautiful, practical day. Style anchor: Korean lifestyle editorial clothing detail, close back-profile portrait, workshop environment, 16:9 landscape, warm natural light, documentary analog warmth.",
+        "t2i_negative": "front-facing portrait, face visible, harsh lighting, colorful background, multiple people, low quality",
+        "i2v_motion": "Subject makes a slight pivot or arm work movement — turning slightly or reaching for something on the shelf. The fabric of the tank top and plaid pants moves naturally with the motion. ~0.47s. Camera locked-off. Minimal, organic motion. Hard cut.",
+        "i2v_params": {
+          "clip_duration_sec": 0.47,
+          "camera_move": "locked_off",
+          "subject_motion_level": "micro",
+          "signature_effect": "none",
+          "pacing": "static",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; back-view only, no face identity reproduced; clothing type described"
+      }
+    },
+    {
+      "index": 12,
+      "start_sec": 13.98,
+      "end_sec": 14.68,
+      "duration": 0.7,
+      "mid_frame_path": "ADV-2026-010_frames/cut12_mid.png",
+      "framing": "MCU",
+      "function": "outfit_detail",
+      "color_mood": "warm_neutral_workshop",
+      "subject_action": "MCU back — white tank top and plaid pants, back to camera, working at shelving/workbench, warm workshop environment",
+      "subject_identity": "protagonist_main",
+      "subject_relationship_to_protagonist": "main_character",
+      "copy_overlay": null,
+      "layout_grid": "center",
+      "subject_position": "center",
+      "subject_typo_layout": "typo_separate_zone",
+      "typo_motion": null,
+      "panel_layout": null,
+      "camera_angle": "eye_level",
+      "camera_facing": "back",
+      "shot_scope": "waist_up",
+      "gaze": "off_camera",
+      "eye_contact_effect": null,
+      "props": [
+        "white_tank_top",
+        "plaid_gingham_pants",
+        "none"
+      ],
+      "prop_semantics": "outfit detail montage — white tank + plaid pants as the workshop outfit; back-to-camera framing highlights clothing silhouette and fabric texture",
+      "color_palette": [
+        "#F2F0EB",
+        "#B8A890",
+        "#8B7355",
+        "#4A3C30"
+      ],
+      "color_intent": "warm neutral fabric tones",
+      "pose_description": "back to camera or profile, upright, engaged in task — outfit shown from behind/side to highlight clothing",
+      "subject_motion": "slight_pivot_or_arm_work",
+      "prop_motion": "none",
+      "camera_motion": "locked_off",
+      "camera_motion_intensity": "low",
+      "camera_effect_local": "none",
+      "motion_blur": "none",
+      "intra_cut_rhythm": "static",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [],
+      "vfx_intensity_local": "none",
+      "fact_check_flag": false,
+      "notes": "Outfit detail shot 2/3. Back or profile view — white tank top and plaid pants. Workshop environment. No face shown. 29CM watermark top-right.",
+      "visible_elements": {
+        "foreground": [
+          "back and torso of protagonist in white tank top and plaid pants"
+        ],
+        "midground": [
+          "workshop shelving with organized storage — boxes, equipment"
+        ],
+        "background": [
+          "warm wood-paneled wall, natural window light",
+          "storage bins, tools"
+        ],
+        "lighting_env": [
+          "diffused natural window light from side/behind"
+        ],
+        "atmosphere": [
+          "productive, warm, organized craft space"
+        ]
+      },
+      "texture": {
+        "primary_subject": "fabric_cotton_tank_and_plaid_pants",
+        "secondary_objects": [
+          "wood_shelving",
+          "plastic_storage_containers"
+        ],
+        "background_surface": "wood_warm_panel",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "back",
+        "key_hardness": "soft",
+        "key_color_temp": "warm_5000K",
+        "fill_strength": "moderate",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": true,
+        "practical_lights": [
+          "window backlight"
+        ],
+        "shadow_presence": "soft",
+        "overall_contrast": "mid_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#F2F0EB",
+          "#B8A890",
+          "#8B7355",
+          "#4A3C30"
+        ],
+        "palette_role": {
+          "#F2F0EB": "tank_top_white",
+          "#B8A890": "plaid_mid_tone",
+          "#8B7355": "wood_warm",
+          "#4A3C30": "deep_shadow"
+        },
+        "color_relationship": "analogous",
+        "temperature_balance": "warm_dominant",
+        "saturation_strategy": "muted",
+        "contrast_type": "luminance_mid",
+        "accent_color": null,
+        "accent_ratio": null,
+        "brand_color_match": []
+      },
+      "style_prompt": "MCU back view young woman white tank top plaid pants in workshop, warm backlight from window, outfit detail shot 2/3, 16:9 lifestyle editorial",
+      "recreation_prompts": {
+        "t2i_start_frame": "A 16:9 landscape medium close-up shot showing the back or profile torso of a young woman — abstracted everyday type, not a real person's likeness — from approximately waist to shoulder. She wears a fitted white cotton tank top (#F2F0EB) — clean, simple, minimal; the fabric reads as soft cotton, slightly form-fitting, natural drape. Over or paired with high-waisted plaid or gingham-patterned pants (#B8A890) in a classic check weave — the plaid reads in muted tones, either navy-on-natural or grey-on-natural check cotton, with a relaxed comfortable fit. The camera is behind or to the profile of the subject — her face is not visible, making the clothing the primary visual subject. She appears to be engaged in a task: possibly holding a garden tool (shot 2: trowel visible at side), or working at a shelving/workbench area. The background environment is a warm workshop or garden studio: wood-paneled wall warm brown (#8B7355), shelving units with organized storage containers, warm backlight from a large window creating a gentle rim light on the subject's shoulders and upper back. The overall feel is of a working woman absorbed in her craft — the clothing practical yet stylistically considered. Lighting: warm natural backlight from the window (~5000K), soft fill from front ambient, rim light on the back of the shoulders. Key-to-fill 2:1. Soft shadows. Film grain throughout. Upper right: small '29CM' white watermark. Color palette warm and muted: white (#F2F0EB), plaid neutral (#B8A890), warm wood (#8B7355), deep shadow (#4A3C30). Atmosphere: productive, warm, organized studio. Style anchor: Korean lifestyle editorial clothing detail, back-view portrait, 16:9 landscape, warm natural light, analog warmth. The warm backlight rim on the shoulders creates a separation from the background that gives the white tank top a luminous quality — it almost glows against the slightly darker wood and shelving tones behind. Fine film grain consistent with the rest of the film. Upper right: small '29CM' white watermark. The wooden ceiling above the frame contributes warm amber tones (#8B7355 range) that gradient down from the top edge. Style anchor: Korean lifestyle editorial back portrait, workshop environment, warm window backlight, 16:9 landscape, analog warmth, documentary clothing detail. The view of the back from this angle reveals the well-designed simplicity of the white tank top as a garment — it requires nothing beyond itself to be visually satisfying in this context. The plaid pants from behind show their high-waisted cut most clearly: the waistband sits above the natural waist, creating a clean line that begins the check pattern from a high starting point, and the relaxed wide-leg or straight-leg fit hangs naturally from the hip with ease. The subject's posture — upright and engaged, reaching toward the workbench or shelving — shows a physical confidence and ease consistent with someone in their own space. The warm backlight rim on the shoulders creates a separation from the background that gives the white tank top a subtle luminous quality — it appears slightly backlit, almost glowing against the slightly darker wood and shelving tones behind. Fine film grain consistent throughout the film. Upper right: small '29CM' white watermark. The wooden ceiling above the frame contributes warm amber tones (#8B7355 range) that gradient softly down from the upper edge of the frame, reinforcing the characteristic warm workshop palette. The shelving in the background shows a variety of storage containers and implements — the organized workspace of a person who uses their tools regularly and knows where everything belongs. Style anchor: Korean lifestyle editorial back portrait, workshop environment, warm window backlight, 16:9 landscape, analog warmth.",
+        "t2i_negative": "front-facing portrait, face visible, harsh lighting, colorful background, multiple people, low quality",
+        "i2v_motion": "Subject makes a slight pivot or arm work movement — turning slightly or reaching for something on the shelf. The fabric of the tank top and plaid pants moves naturally with the motion. ~0.7s. Camera locked-off. Minimal, organic motion. Hard cut.",
+        "i2v_params": {
+          "clip_duration_sec": 0.7,
+          "camera_move": "locked_off",
+          "subject_motion_level": "micro",
+          "signature_effect": "none",
+          "pacing": "static",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; back-view only, no face identity reproduced; clothing type described"
+      }
+    },
+    {
+      "index": 13,
+      "start_sec": 14.68,
+      "end_sec": 15.22,
+      "duration": 0.54,
+      "mid_frame_path": "ADV-2026-010_frames/cut13_mid.png",
+      "framing": "MCU",
+      "function": "outfit_detail",
+      "color_mood": "warm_neutral_workshop",
+      "subject_action": "MCU back/torso — turning or pivoting, same outfit, workshop shelving background, light from window",
+      "subject_identity": "protagonist_main",
+      "subject_relationship_to_protagonist": "main_character",
+      "copy_overlay": null,
+      "layout_grid": "center",
+      "subject_position": "center",
+      "subject_typo_layout": "typo_separate_zone",
+      "typo_motion": null,
+      "panel_layout": null,
+      "camera_angle": "eye_level",
+      "camera_facing": "back",
+      "shot_scope": "waist_up",
+      "gaze": "off_camera",
+      "eye_contact_effect": null,
+      "props": [
+        "white_tank_top",
+        "plaid_gingham_pants",
+        "none"
+      ],
+      "prop_semantics": "outfit detail montage — white tank + plaid pants as the workshop outfit; back-to-camera framing highlights clothing silhouette and fabric texture",
+      "color_palette": [
+        "#F2F0EB",
+        "#B8A890",
+        "#8B7355",
+        "#4A3C30"
+      ],
+      "color_intent": "warm neutral fabric tones",
+      "pose_description": "back to camera or profile, upright, engaged in task — outfit shown from behind/side to highlight clothing",
+      "subject_motion": "slight_pivot_or_arm_work",
+      "prop_motion": "none",
+      "camera_motion": "locked_off",
+      "camera_motion_intensity": "low",
+      "camera_effect_local": "none",
+      "motion_blur": "none",
+      "intra_cut_rhythm": "static",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [],
+      "vfx_intensity_local": "none",
+      "fact_check_flag": false,
+      "notes": "Outfit detail shot 3/3. Back or profile view — white tank top and plaid pants. Workshop environment. No face shown. 29CM watermark top-right.",
+      "visible_elements": {
+        "foreground": [
+          "back and torso of protagonist in white tank top and plaid pants"
+        ],
+        "midground": [
+          "workshop shelving with organized storage — boxes, equipment"
+        ],
+        "background": [
+          "warm wood-paneled wall, natural window light",
+          "storage bins, tools"
+        ],
+        "lighting_env": [
+          "diffused natural window light from side/behind"
+        ],
+        "atmosphere": [
+          "productive, warm, organized craft space"
+        ]
+      },
+      "texture": {
+        "primary_subject": "fabric_cotton_tank_and_plaid_pants",
+        "secondary_objects": [
+          "wood_shelving",
+          "plastic_storage_containers"
+        ],
+        "background_surface": "wood_warm_panel",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "back",
+        "key_hardness": "soft",
+        "key_color_temp": "warm_5000K",
+        "fill_strength": "moderate",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": true,
+        "practical_lights": [
+          "window backlight"
+        ],
+        "shadow_presence": "soft",
+        "overall_contrast": "mid_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#F2F0EB",
+          "#B8A890",
+          "#8B7355",
+          "#4A3C30"
+        ],
+        "palette_role": {
+          "#F2F0EB": "tank_top_white",
+          "#B8A890": "plaid_mid_tone",
+          "#8B7355": "wood_warm",
+          "#4A3C30": "deep_shadow"
+        },
+        "color_relationship": "analogous",
+        "temperature_balance": "warm_dominant",
+        "saturation_strategy": "muted",
+        "contrast_type": "luminance_mid",
+        "accent_color": null,
+        "accent_ratio": null,
+        "brand_color_match": []
+      },
+      "style_prompt": "MCU back view young woman white tank top plaid pants in workshop, warm backlight from window, outfit detail shot 3/3, 16:9 lifestyle editorial",
+      "recreation_prompts": {
+        "t2i_start_frame": "A 16:9 landscape medium close-up shot showing the back or profile torso of a young woman — abstracted everyday type, not a real person's likeness — from approximately waist to shoulder. She wears a fitted white cotton tank top (#F2F0EB) — clean, simple, minimal; the fabric reads as soft cotton, slightly form-fitting, natural drape. Over or paired with high-waisted plaid or gingham-patterned pants (#B8A890) in a classic check weave — the plaid reads in muted tones, either navy-on-natural or grey-on-natural check cotton, with a relaxed comfortable fit. The camera is behind or to the profile of the subject — her face is not visible, making the clothing the primary visual subject. She appears to be engaged in a task: possibly holding a garden tool (shot 3: trowel visible at side), or working at a shelving/workbench area. The background environment is a warm workshop or garden studio: wood-paneled wall warm brown (#8B7355), shelving units with organized storage containers, warm backlight from a large window creating a gentle rim light on the subject's shoulders and upper back. The overall feel is of a working woman absorbed in her craft — the clothing practical yet stylistically considered. Lighting: warm natural backlight from the window (~5000K), soft fill from front ambient, rim light on the back of the shoulders. Key-to-fill 2:1. Soft shadows. Film grain throughout. Upper right: small '29CM' white watermark. Color palette warm and muted: white (#F2F0EB), plaid neutral (#B8A890), warm wood (#8B7355), deep shadow (#4A3C30). Atmosphere: productive, warm, organized studio. Style anchor: Korean lifestyle editorial clothing detail, back-view portrait, 16:9 landscape, warm natural light, analog warmth. The workshop environment visible during this pivot moment includes the wooden ceiling structure above — visible beams and panels in warm brown — and the shelf storage organization visible on both sides. The rotation creates a brief visual dynamism that contrasts with the otherwise static workshop shots. Fine film grain. Upper right: small '29CM' white watermark. Color palette consistent with shots 11 and 12: white (#F2F0EB), plaid muted (#B8A890), warm wood (#8B7355). Style anchor: Korean lifestyle editorial, transitional motion shot in workshop, back-to-three-quarter pivot, 16:9 landscape, warm natural documentary light. The turning motion in this shot creates a brief visual dynamism that contrasts with the otherwise static workshop shots — it functions as a transitional beat, both narratively (she is moving between tasks) and cinematically (the film is about to transition to the outdoor sequence). The plaid pants in motion show the fabric's natural behavior — the lightweight cotton check material follows the body's rotation, suggesting volume and ease. The composition during this pivot briefly reveals more of the workshop environment than the tighter shots 11 and 12 — the wooden ceiling structure and beams above are visible, the shelf storage organization visible on both sides. The rotation carries the silhouette from back-view toward a three-quarter angle, and at the precise mid-point of the turn there is a brief moment where the protagonist's profile could almost be glimpsed — but the film opts to continue the back-and-profile framing, maintaining the visual privacy it has maintained throughout the workshop sequence. The warm window backlight continues to illuminate the scene. Fine film grain consistent with the rest of the film. Upper right: small '29CM' white watermark throughout. Color palette: white tank (#F2F0EB), plaid muted neutral (#B8A890), warm wood wall (#8B7355), deep shadow (#4A3C30). Style anchor: Korean lifestyle editorial, transitional pivot shot in workshop interior, three-quarter back view, 16:9 landscape, warm natural documentary light, analog warmth.",
+        "t2i_negative": "front-facing portrait, face visible, harsh lighting, colorful background, multiple people, low quality",
+        "i2v_motion": "Subject makes a slight pivot or arm work movement — turning slightly or reaching for something on the shelf. The fabric of the tank top and plaid pants moves naturally with the motion. ~0.54s. Camera locked-off. Minimal, organic motion. Hard cut.",
+        "i2v_params": {
+          "clip_duration_sec": 0.54,
+          "camera_move": "locked_off",
+          "subject_motion_level": "micro",
+          "signature_effect": "none",
+          "pacing": "static",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; back-view only, no face identity reproduced; clothing type described"
+      }
+    },
+    {
+      "index": 14,
+      "start_sec": 15.22,
+      "end_sec": 15.72,
+      "duration": 0.5,
+      "mid_frame_path": "ADV-2026-010_frames/cut14_mid.png",
+      "framing": "CU",
+      "function": "product_detail",
+      "color_mood": "natural_green_outdoor",
+      "subject_action": "CU lower legs — dark navy tall rubber rain boots walking through or standing in tall lush grass/greenery, outdoor natural setting",
+      "subject_identity": "protagonist_main",
+      "subject_relationship_to_protagonist": "main_character",
+      "copy_overlay": null,
+      "layout_grid": "center",
+      "subject_position": "center",
+      "subject_typo_layout": "typo_separate_zone",
+      "typo_motion": null,
+      "panel_layout": null,
+      "camera_angle": "low_angle",
+      "camera_facing": "frontal",
+      "shot_scope": "bust",
+      "gaze": "none",
+      "eye_contact_effect": null,
+      "props": [
+        "dark_navy_rubber_rain_boots_tall",
+        "tall_grass_meadow_greenery"
+      ],
+      "prop_semantics": "rain boots as key featured product item — tall rubber boots as outdoor workwear; grass = natural outdoor environment, tactile immersion in nature",
+      "color_palette": [
+        "#1A2832",
+        "#3A4A3A",
+        "#6B8B5E",
+        "#C8D8A8"
+      ],
+      "color_intent": "dark navy boots against lush greens",
+      "pose_description": "legs in motion or standing — boots in tall grass, sense of walking through a meadow or garden",
+      "subject_motion": "walking_forward",
+      "prop_motion": "grass_swaying",
+      "camera_motion": "locked_off",
+      "camera_motion_intensity": "low",
+      "camera_effect_local": "shallow_focus",
+      "motion_blur": "slight",
+      "intra_cut_rhythm": "steady",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [],
+      "vfx_intensity_local": "none",
+      "fact_check_flag": false,
+      "notes": "Rain boot footwear detail shot 1/2. Dark navy tall rubber boots in lush outdoor greenery. Outfit transition from sandals (indoor) to boots (outdoor). 29CM watermark top-right.",
+      "visible_elements": {
+        "foreground": [
+          "dark navy tall rubber rain boots — classic wellie style, visible logo tab on back"
+        ],
+        "midground": [
+          "tall lush grass blades and meadow greenery",
+          "ground path visible between grass"
+        ],
+        "background": [
+          "more tall grass, blurred green meadow"
+        ],
+        "lighting_env": [
+          "soft outdoor natural daylight — overcast or diffused golden hour"
+        ],
+        "atmosphere": [
+          "lush, natural, outdoor, earthy, alive"
+        ]
+      },
+      "texture": {
+        "primary_subject": "rubber_matte_rain_boots_dark_navy",
+        "secondary_objects": [
+          "grass_blades_soft",
+          "foliage_meadow"
+        ],
+        "background_surface": "soil_path_and_grass",
+        "atmospheric": [
+          "cool_moist_air_implied"
+        ]
+      },
+      "lighting": {
+        "key_direction": "top",
+        "key_hardness": "soft",
+        "key_color_temp": "cool_5500K",
+        "fill_strength": "strong",
+        "key_to_fill_ratio": "1:1",
+        "rim_light": false,
+        "practical_lights": [
+          "overcast outdoor daylight"
+        ],
+        "shadow_presence": "minimal",
+        "overall_contrast": "mid_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#1A2832",
+          "#3A4A3A",
+          "#6B8B5E",
+          "#C8D8A8"
+        ],
+        "palette_role": {
+          "#1A2832": "boot_dark_navy",
+          "#3A4A3A": "deep_grass_shadow",
+          "#6B8B5E": "mid_grass_green",
+          "#C8D8A8": "light_grass_and_sky"
+        },
+        "color_relationship": "analogous",
+        "temperature_balance": "cool_dominant",
+        "saturation_strategy": "muted",
+        "contrast_type": "luminance_mid",
+        "accent_color": "#1A2832",
+        "accent_ratio": "20_percent",
+        "brand_color_match": []
+      },
+      "style_prompt": "CU low-angle dark navy tall rubber rain boots in tall lush outdoor grass, cool natural daylight, outdoor meadow product detail shot 1/2, 16:9 editorial lifestyle",
+      "recreation_prompts": {
+        "t2i_start_frame": "A 16:9 landscape close-up shot from a low camera angle showing a pair of tall dark navy rubber rain boots — classic Wellington or Hunter-style tall wellies — standing in or walking through lush tall outdoor grass. The boots (#1A2832 — very deep navy, nearly dark teal-black) are a tall shaft style reaching approximately to the knee, with a matte rubber finish and classic round toe. A small brand label tab is visible on the back shaft. The lower legs wearing the boots are visible — the subject wears a neutral-colored garment above (skirt or shorts) that is partially visible at the top of frame. The tall grass (#6B8B5E to #C8D8A8) surrounds the boots on all sides — lush, healthy, varied lengths of meadow grass blades, slightly wind-moved. Some grass blades press against the boot surface. The ground beneath is a natural path or meadow floor — soil and compressed grass visible. In the background, more tall grass fades to a soft green blur. Camera position: low angle, approximately boot-height, looking up slightly. This creates a perspective that makes the boots appear substantial and grounded in the natural landscape. Lighting: soft overcast outdoor daylight from above — even, diffused, cool 5500K; key-to-fill approximately 1:1; minimal shadows; the dark rubber of the boots creates maximum contrast against the lighter greens. Depth of field: the boots are in crisp focus, background grass in soft blur. Fine film grain. Upper right: small '29CM' white watermark. Color palette: dark navy boot (#1A2832), deep grass shadow (#3A4A3A), mid grass green (#6B8B5E), light grass/sky (#C8D8A8). Atmosphere: lush, natural, outdoor, earthy — the feeling of a summer or late spring meadow, slightly cool and moist. Style anchor: Korean lifestyle editorial product detail shot, outdoor natural environment, low-angle footwear showcase, 16:9 landscape. The transition from indoor workshop shots to outdoor rain boot shots represents the film's second major environmental shift — from the warm, organized studio space to the cool, lush outdoor landscape. The rain boots are a classic iconic lifestyle fashion item — the tall dark navy rubber Wellington boot has been a fashion staple since Hunter Boot Ltd made the style a premium lifestyle item. At this close low-angle perspective, the boot details become legible: the shaft is tall, reaching approximately to mid-calf, with a classic round toe and a slight heel elevation (a few centimeters) typical of quality rain boots. The rubber material is matte-finished — not the highly polished patent finish of cheaper alternatives — which gives the boot an understated premium quality. A small brand label or tab may be visible on the back of the shaft near the top — consistent with quality boots of this style. The tall grass surrounding the boots has a variety of texture and color: thick broad grass blades (#6B8B5E), narrow fine grass (#C8D8A8), some wildflower stems — the ecological richness suggesting an untamed meadow rather than a cultivated lawn. The lower frame foreground shows the ground surface — a packed earth path or short-grass area where the boots stand, surrounded by the taller meadow grass. The overcast soft daylight creates even illumination across the boot surface, the grass, and the background — no harsh shadows, no direct sunlight creating bleached highlights.",
+        "t2i_negative": "indoor setting, bright artificial light, dirty muddy boots, urban background, multiple footwear, low quality, crushed grass",
+        "i2v_motion": "Subject walks forward through the grass — boots step through, grass blades push aside and spring back. Slight motion blur on grass movement. ~0.5s. Camera locked-off low. Steady walking motion. Natural outdoors. Hard cut.",
+        "i2v_params": {
+          "clip_duration_sec": 0.5,
+          "camera_move": "locked_off",
+          "subject_motion_level": "walk",
+          "signature_effect": "none",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; footwear type described (tall rubber rain boots, dark navy); no face visible; grass environment natural"
+      }
+    },
+    {
+      "index": 15,
+      "start_sec": 15.72,
+      "end_sec": 16.32,
+      "duration": 0.6,
+      "mid_frame_path": "ADV-2026-010_frames/cut15_mid.png",
+      "framing": "CU",
+      "function": "product_detail",
+      "color_mood": "natural_green_outdoor",
+      "subject_action": "CU lower legs — same dark navy rain boots in motion through tall grass, slightly wider framing, boots and grass movement",
+      "subject_identity": "protagonist_main",
+      "subject_relationship_to_protagonist": "main_character",
+      "copy_overlay": null,
+      "layout_grid": "center",
+      "subject_position": "center",
+      "subject_typo_layout": "typo_separate_zone",
+      "typo_motion": null,
+      "panel_layout": null,
+      "camera_angle": "low_angle",
+      "camera_facing": "frontal",
+      "shot_scope": "bust",
+      "gaze": "none",
+      "eye_contact_effect": null,
+      "props": [
+        "dark_navy_rubber_rain_boots_tall",
+        "tall_grass_meadow_greenery"
+      ],
+      "prop_semantics": "rain boots as key featured product item — tall rubber boots as outdoor workwear; grass = natural outdoor environment, tactile immersion in nature",
+      "color_palette": [
+        "#1A2832",
+        "#3A4A3A",
+        "#6B8B5E",
+        "#C8D8A8"
+      ],
+      "color_intent": "dark navy boots against lush greens",
+      "pose_description": "legs in motion or standing — boots in tall grass, sense of walking through a meadow or garden",
+      "subject_motion": "walking_forward",
+      "prop_motion": "grass_swaying",
+      "camera_motion": "locked_off",
+      "camera_motion_intensity": "low",
+      "camera_effect_local": "shallow_focus",
+      "motion_blur": "slight",
+      "intra_cut_rhythm": "steady",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [],
+      "vfx_intensity_local": "none",
+      "fact_check_flag": false,
+      "notes": "Rain boot footwear detail shot 2/2. Dark navy tall rubber boots in lush outdoor greenery. Outfit transition from sandals (indoor) to boots (outdoor). 29CM watermark top-right.",
+      "visible_elements": {
+        "foreground": [
+          "dark navy tall rubber rain boots — classic wellie style, visible logo tab on back"
+        ],
+        "midground": [
+          "tall lush grass blades and meadow greenery",
+          "ground path visible between grass"
+        ],
+        "background": [
+          "more tall grass, blurred green meadow"
+        ],
+        "lighting_env": [
+          "soft outdoor natural daylight — overcast or diffused golden hour"
+        ],
+        "atmosphere": [
+          "lush, natural, outdoor, earthy, alive"
+        ]
+      },
+      "texture": {
+        "primary_subject": "rubber_matte_rain_boots_dark_navy",
+        "secondary_objects": [
+          "grass_blades_soft",
+          "foliage_meadow"
+        ],
+        "background_surface": "soil_path_and_grass",
+        "atmospheric": [
+          "cool_moist_air_implied"
+        ]
+      },
+      "lighting": {
+        "key_direction": "top",
+        "key_hardness": "soft",
+        "key_color_temp": "cool_5500K",
+        "fill_strength": "strong",
+        "key_to_fill_ratio": "1:1",
+        "rim_light": false,
+        "practical_lights": [
+          "overcast outdoor daylight"
+        ],
+        "shadow_presence": "minimal",
+        "overall_contrast": "mid_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#1A2832",
+          "#3A4A3A",
+          "#6B8B5E",
+          "#C8D8A8"
+        ],
+        "palette_role": {
+          "#1A2832": "boot_dark_navy",
+          "#3A4A3A": "deep_grass_shadow",
+          "#6B8B5E": "mid_grass_green",
+          "#C8D8A8": "light_grass_and_sky"
+        },
+        "color_relationship": "analogous",
+        "temperature_balance": "cool_dominant",
+        "saturation_strategy": "muted",
+        "contrast_type": "luminance_mid",
+        "accent_color": "#1A2832",
+        "accent_ratio": "20_percent",
+        "brand_color_match": []
+      },
+      "style_prompt": "CU low-angle dark navy tall rubber rain boots in tall lush outdoor grass, cool natural daylight, outdoor meadow product detail shot 2/2, 16:9 editorial lifestyle",
+      "recreation_prompts": {
+        "t2i_start_frame": "A 16:9 landscape close-up shot from a low camera angle showing a pair of tall dark navy rubber rain boots — classic Wellington or Hunter-style tall wellies — standing in or walking through lush tall outdoor grass. The boots (#1A2832 — very deep navy, nearly dark teal-black) are a tall shaft style reaching approximately to the knee, with a matte rubber finish and classic round toe. A small brand label tab is visible on the back shaft. The lower legs wearing the boots are visible — the subject wears a neutral-colored garment above (skirt or shorts) that is partially visible at the top of frame. The tall grass (#6B8B5E to #C8D8A8) surrounds the boots on all sides — lush, healthy, varied lengths of meadow grass blades, slightly wind-moved. Some grass blades press against the boot surface. The ground beneath is a natural path or meadow floor — soil and compressed grass visible. In the background, more tall grass fades to a soft green blur. Camera position: low angle, approximately boot-height, looking up slightly. This creates a perspective that makes the boots appear substantial and grounded in the natural landscape. Lighting: soft overcast outdoor daylight from above — even, diffused, cool 5500K; key-to-fill approximately 1:1; minimal shadows; the dark rubber of the boots creates maximum contrast against the lighter greens. Depth of field: the boots are in crisp focus, background grass in soft blur. Fine film grain. Upper right: small '29CM' white watermark. Color palette: dark navy boot (#1A2832), deep grass shadow (#3A4A3A), mid grass green (#6B8B5E), light grass/sky (#C8D8A8). Atmosphere: lush, natural, outdoor, earthy — the feeling of a summer or late spring meadow, slightly cool and moist. Style anchor: Korean lifestyle editorial product detail shot, outdoor natural environment, low-angle footwear showcase, 16:9 landscape. Shot 15 is a walking continuation of Shot 14 — the protagonist is now in mid-stride through the tall grass, and the motion of walking is captured in the slight blur of the grass blades pushed aside by the boots and the very faint motion blur on the boot edges as they move. The camera remains locked-off at approximately boot height, so the low-angle perspective is maintained. The movement of walking creates a dynamic energy absent from the static Shot 14 — the boot heel lifts in one frame, the toe plants in the next, and the grass blades are displaced in a natural wave pattern around the boot. The widened framing compared to Shot 14 allows more of the surrounding meadow environment to register — more grass blades at various distances creating the layered depth of a natural landscape, with the background blur deepening as the depth increases. The transition from the previous shot to this one creates a micro-montage of footwear-in-environment shots that has a rhythmic quality — a visual poem about a person moving through their chosen landscape in their chosen footwear. This combination of product (the boot) and environment (the meadow) communicates the 29CM platform's lifestyle positioning: curated objects that belong in real, beautiful environments — not as decoration but as tools of living.",
+        "t2i_negative": "indoor setting, bright artificial light, dirty muddy boots, urban background, multiple footwear, low quality, crushed grass",
+        "i2v_motion": "Subject walks forward through the grass — boots step through, grass blades push aside and spring back. Slight motion blur on grass movement. ~0.6s. Camera locked-off low. Steady walking motion. Natural outdoors. Hard cut.",
+        "i2v_params": {
+          "clip_duration_sec": 0.6,
+          "camera_move": "locked_off",
+          "subject_motion_level": "walk",
+          "signature_effect": "none",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; footwear type described (tall rubber rain boots, dark navy); no face visible; grass environment natural"
+      }
+    },
+    {
+      "index": 16,
+      "start_sec": 16.32,
+      "end_sec": 16.78,
+      "duration": 0.46,
+      "mid_frame_path": "ADV-2026-010_frames/cut16_mid.png",
+      "framing": "LS",
+      "function": "environment",
+      "color_mood": "lush_green_warm",
+      "subject_action": "wide shot — woman in white dress and open plaid overshirt, dark rain boots, walking away up a green meadow hillside, carrying a sage-green tote or metal watering can, trees and summer vegetation behind",
+      "subject_identity": "protagonist_main",
+      "subject_relationship_to_protagonist": "main_character",
+      "copy_overlay": null,
+      "layout_grid": "rule_of_thirds",
+      "subject_position": "center",
+      "subject_typo_layout": "typo_separate_zone",
+      "typo_motion": null,
+      "panel_layout": null,
+      "camera_angle": "eye_level",
+      "camera_facing": "back",
+      "shot_scope": "full_body",
+      "gaze": "off_camera",
+      "eye_contact_effect": null,
+      "props": [
+        "white_mini_dress",
+        "plaid_overshirt_open",
+        "dark_navy_rain_boots",
+        "sage_green_tote_or_metal_watering_can"
+      ],
+      "prop_semantics": "full outfit reveal — second look (white dress + open plaid + boots); carrying vessel = gardening errand in outdoor landscape; wide frame gives sense of freedom and space",
+      "color_palette": [
+        "#4A7A4A",
+        "#8BBE5E",
+        "#C8E8A8",
+        "#F5F0E8",
+        "#1A2832"
+      ],
+      "color_intent": "lush green landscape dominant, white dress accent, dark boot grounding",
+      "pose_description": "walking away from camera up a gentle meadow slope — natural stride, white dress moving with motion, open plaid shirt as loose overshirt, boots contrast the lightness of the dress",
+      "subject_motion": "walking_away",
+      "prop_motion": "dress_and_shirt_moving_with_stride",
+      "camera_motion": "locked_off",
+      "camera_motion_intensity": "low",
+      "camera_effect_local": "none",
+      "motion_blur": "slight",
+      "intra_cut_rhythm": "steady",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [],
+      "vfx_intensity_local": "none",
+      "fact_check_flag": false,
+      "notes": "Wide shot — protagonist walking in meadow, full outfit visible. Dress + plaid + boots = outdoor second look. Sage carry item. Lush summer greenery. 29CM watermark top-right.",
+      "visible_elements": {
+        "foreground": [
+          "protagonist walking away — white mini dress, open plaid overshirt, dark navy rain boots, carrying sage-green tote or small metal container"
+        ],
+        "midground": [
+          "lush green meadow/hillside grass, wildflowers visible"
+        ],
+        "background": [
+          "large deciduous trees — dense summer foliage green",
+          "clear or overcast sky partially visible"
+        ],
+        "lighting_env": [
+          "soft natural daylight — possibly overcast or early evening golden"
+        ],
+        "atmosphere": [
+          "lush, summery, free, naturalistic, wide open space"
+        ]
+      },
+      "texture": {
+        "primary_subject": "fabric_cotton_dress_lightweight",
+        "secondary_objects": [
+          "fabric_plaid_cotton_overshirt",
+          "rubber_rain_boots",
+          "grass_meadow",
+          "foliage_trees"
+        ],
+        "background_surface": "grass_meadow_slope",
+        "atmospheric": [
+          "warm_summer_air",
+          "slight_wind"
+        ]
+      },
+      "lighting": {
+        "key_direction": "top",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "strong",
+        "key_to_fill_ratio": "1:1",
+        "rim_light": false,
+        "practical_lights": [
+          "open sky"
+        ],
+        "shadow_presence": "minimal",
+        "overall_contrast": "mid_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#4A7A4A",
+          "#8BBE5E",
+          "#C8E8A8",
+          "#F5F0E8",
+          "#1A2832"
+        ],
+        "palette_role": {
+          "#4A7A4A": "deep_foliage",
+          "#8BBE5E": "meadow_mid_green",
+          "#C8E8A8": "light_grass_sky",
+          "#F5F0E8": "white_dress",
+          "#1A2832": "dark_boots"
+        },
+        "color_relationship": "analogous",
+        "temperature_balance": "cool_dominant",
+        "saturation_strategy": "muted",
+        "contrast_type": "luminance_mid",
+        "accent_color": "#F5F0E8",
+        "accent_ratio": "15_percent",
+        "brand_color_match": []
+      },
+      "style_prompt": "LS wide shot woman walking away in white dress, open plaid shirt, dark rain boots, carrying sage tote, lush summer meadow hillside, trees background, 16:9 editorial lifestyle",
+      "recreation_prompts": {
+        "t2i_start_frame": "A 16:9 landscape wide shot (long shot) of a young woman walking away from the camera up a gently sloping green meadow hillside. She is centered in the lower-middle third of the frame, receding into the landscape. Her full outfit is visible from behind: a white lightweight cotton mini dress or skirt (#F5F0E8) — loose, relaxed fit, the hem swaying with her stride; an open plaid or gingham overshirt worn loosely over the dress, untucked, acting as a layer — the plaid in muted tones similar to the workshop outfit; and the same dark navy tall rubber rain boots (#1A2832) from the previous shots, providing a grounding contrast to the lightness of the dress above. In one hand she carries a sage-green canvas tote bag or small olive-colored metal watering vessel — a functional outdoor accessory in muted olive or sage green. Her natural curly dark hair is visible at the back of her head, bouncing slightly with her natural walking stride. The meadow surrounds her: lush, dense summer grass in multiple greens (#4A7A4A to #C8E8A8), with some wildflowers visible in the midground. Behind her, the slope rises to a tree line — large deciduous trees with dense summer green foliage filling the upper background. The sky above the trees is soft and either overcast or golden-hour warm. The camera is positioned at ground level or slightly elevated, looking straight ahead — the woman occupying approximately one-sixth of the frame height, the landscape dominating. Lighting: soft, even natural daylight from above — overcast or diffused; 5500K; minimal directional shadows; the white dress catches light from above and reads as the brightest element against the green meadow. Film grain throughout. Upper right: small '29CM' white watermark. Atmosphere: lush, summery, free — a person moving through her landscape with ease and purpose. Style anchor: Korean lifestyle editorial wide shot, figure in landscape, natural environment, 16:9 landscape, analog warmth. This shot is the most compositionally ambitious of the outdoor sequence — a genuine wide landscape shot that places the protagonist as a small figure in a large natural world. The ratio of subject-to-environment (approximately 1:8 in terms of frame area) is a deliberate choice that subordinates the human figure to the landscape, conveying a sense of belonging to and moving through a world larger than oneself. The meadow hillside has a gentle upward slope that draws the eye from the lower foreground toward the tree line at the upper middle ground — the natural perspective converges toward the center-upper portion of the frame, which is where the protagonist walks. This convergence creates a strong sense of destination — she is going somewhere, not wandering. The plaid overshirt worn open over the white dress introduces a new layering dynamic — the white dress as a base layer of clean simplicity, the plaid as a casual functional layer, the boots as the grounding outdoor element. Together these three elements create a stylistically coherent outdoor lifestyle look that ties back to the workshop outfit through the plaid pattern. The sage-green carry item (tote or small watering vessel) in her hand adds a warm natural accent to the outfit grouping and also implies purpose — she is bringing something to or from the meadow, reinforcing the narrative of a person engaged in intentional outdoor activity. The trees in the background are large and mature, their full summer foliage creating a dense wall of varied greens that frames the figure.",
+        "t2i_negative": "urban background, studio setting, facing camera, harsh light, saturated fake greens, multiple subjects, low quality",
+        "i2v_motion": "Subject walks naturally up the gentle slope away from camera — stride even, white dress swaying, plaid shirt shifting with motion, hair bouncing. The sage carry item swings slightly at her side. Grass moves gently with a light breeze. ~0.46s. Camera locked-off. Natural walking pace. Hard cut.",
+        "i2v_params": {
+          "clip_duration_sec": 0.46,
+          "camera_move": "locked_off",
+          "subject_motion_level": "walk",
+          "signature_effect": "none",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; back-view only, face not visible; full outfit described for reconstruction"
+      }
+    },
+    {
+      "index": 17,
+      "start_sec": 16.78,
+      "end_sec": 17.55,
+      "duration": 0.77,
+      "mid_frame_path": "ADV-2026-010_frames/cut17_mid.png",
+      "framing": "LS",
+      "function": "environment",
+      "color_mood": "lush_green_airy",
+      "subject_action": "wide shot — woman walking away through green meadow, white dress with wind movement, slight distance from camera than shot 16, freer composition with more sky",
+      "subject_identity": "protagonist_main",
+      "subject_relationship_to_protagonist": "main_character",
+      "copy_overlay": null,
+      "layout_grid": "rule_of_thirds",
+      "subject_position": "center",
+      "subject_typo_layout": "typo_separate_zone",
+      "typo_motion": null,
+      "panel_layout": null,
+      "camera_angle": "eye_level",
+      "camera_facing": "back",
+      "shot_scope": "full_body",
+      "gaze": "off_camera",
+      "eye_contact_effect": null,
+      "props": [
+        "white_dress_or_skirt",
+        "plaid_overshirt",
+        "rain_boots",
+        "sage_carry_item"
+      ],
+      "prop_semantics": "continuation of outdoor landscape sequence — same outfit further into the walk, increased distance creates more environmental context",
+      "color_palette": [
+        "#3A6A3A",
+        "#7AAA5A",
+        "#B8D890",
+        "#F5F0E8",
+        "#E8F0E8"
+      ],
+      "color_intent": "greens dominant, white dress airy accent",
+      "pose_description": "mid-stride walking away, slightly further than shot 16, dress moving with walking pace",
+      "subject_motion": "walking_away",
+      "prop_motion": "dress_moving_in_breeze",
+      "camera_motion": "locked_off",
+      "camera_motion_intensity": "low",
+      "camera_effect_local": "none",
+      "motion_blur": "slight",
+      "intra_cut_rhythm": "steady",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [],
+      "vfx_intensity_local": "none",
+      "fact_check_flag": false,
+      "notes": "Continuation wide shot — same meadow walk, slightly further distance. White dress more prominent with air movement. 29CM watermark top-right.",
+      "visible_elements": {
+        "foreground": [
+          "meadow grass in slight wind"
+        ],
+        "midground": [
+          "protagonist walking away — full outfit visible"
+        ],
+        "background": [
+          "dense tree line — large deciduous summer foliage",
+          "sky visible above trees"
+        ],
+        "lighting_env": [
+          "soft diffused natural daylight",
+          "possible slight golden warmth"
+        ],
+        "atmosphere": [
+          "airy, summery, free, open space"
+        ]
+      },
+      "texture": {
+        "primary_subject": "lightweight_cotton_dress_airy",
+        "secondary_objects": [
+          "plaid_overshirt",
+          "rubber_boots",
+          "meadow_grass"
+        ],
+        "background_surface": "grass_meadow",
+        "atmospheric": [
+          "gentle_breeze",
+          "warm_humid_summer_air"
+        ]
+      },
+      "lighting": {
+        "key_direction": "top",
+        "key_hardness": "soft",
+        "key_color_temp": "warm_5000K",
+        "fill_strength": "strong",
+        "key_to_fill_ratio": "1:1",
+        "rim_light": false,
+        "practical_lights": [
+          "open sky"
+        ],
+        "shadow_presence": "minimal",
+        "overall_contrast": "mid_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#3A6A3A",
+          "#7AAA5A",
+          "#B8D890",
+          "#F5F0E8",
+          "#E8F0E8"
+        ],
+        "palette_role": {
+          "#3A6A3A": "tree_foliage",
+          "#7AAA5A": "meadow_grass_mid",
+          "#B8D890": "light_grass",
+          "#F5F0E8": "white_dress",
+          "#E8F0E8": "sky_or_air_highlight"
+        },
+        "color_relationship": "analogous",
+        "temperature_balance": "cool_dominant",
+        "saturation_strategy": "muted",
+        "contrast_type": "luminance_mid",
+        "accent_color": "#F5F0E8",
+        "accent_ratio": "10_percent",
+        "brand_color_match": []
+      },
+      "style_prompt": "LS wide shot woman walking away further in meadow, white dress in slight breeze, dark boots, lush green summer landscape, trees, 16:9 editorial lifestyle",
+      "recreation_prompts": {
+        "t2i_start_frame": "A 16:9 landscape long shot of the same young woman from the previous shot, now slightly farther into the meadow and thus smaller in the frame — walking away from the camera through the lush green summer landscape. She occupies approximately one-eighth of the frame height now, centered or slightly left-of-center, the vast green landscape surrounding her. The same outfit is visible: white lightweight cotton dress (#F5F0E8) with a relaxed airy quality — the hem lifted slightly by the breeze and her stride; the open plaid overshirt; dark navy rubber rain boots. The sage carry item (tote or metal vessel) visible in hand. Her natural curly dark hair moves slightly. The meadow is rich with life: varied greens (#3A6A3A deep tree shadow through #7AAA5A mid grass to #B8D890 light grass tips), and at the top of the frame a dense line of large deciduous trees in full summer leaf creates a natural frame. Above the trees, sky is visible — either soft overcast pale or early-evening golden warmth. The camera is at meadow level, the horizon approximately at the upper third. The figure walking away gives a strong sense of journey and independence — she is moving into her world, not performing for anyone. Lighting: soft even outdoor daylight, 5000K, slight warmth — 1:1 fill, no shadows. The white dress is the lightest element, almost glowing against the greens. Film grain. Upper right '29CM' watermark. Atmosphere: airy, summery, free — the embodiment of slow-living outdoor lifestyle. Style anchor: Korean lifestyle editorial, figure in summer landscape, 16:9 wide shot, analog warmth, documentary naturalism. Shot 17 extends the walking-away sequence — the protagonist now slightly farther from camera than in Shot 16, occupying less of the frame height (approximately one-eighth versus one-sixth), with the surrounding landscape correspondingly more dominant. The additional distance creates a subtle but significant shift in the viewer's relationship to the subject — she feels more independent, more integrated into the landscape, less approachable. The white dress is more prominent in this shot from the increased distance — its lightness against the green meadow makes it a visual beacon that anchors the eye even as the subject recedes. The dress in motion at this speed (a natural walk) creates a characteristic flutter or sway at the hem — this motion quality reinforces the airy, summery, free character of the outfit and by extension the brand aesthetic. The sky visible above the tree line in this shot has the quality of a late-afternoon light — possibly the golden hour transitional light that gives the greens a slightly warmer tint than earlier shots. The carry item in her hand is less distinctly visible at this distance — becoming an ambiguous organic shape associated with the hand. The tree line here shows slightly more sky than in Shot 16 — possibly because the protagonist has moved to a position where the angle of view opens up slightly above the canopy. The overall impression of this shot and Shot 16 together is of a free-spirited journey through a beloved landscape — the kind of afternoon walk that gives the feeling of being completely, contentedly, in one's own life.",
+        "t2i_negative": "urban background, studio, facing camera, harsh direct sun, over-saturated greens, multiple subjects, low quality",
+        "i2v_motion": "Continuation of walking motion — subject strides naturally further away, becoming slightly smaller in frame. Dress sways with breeze and motion. Grass moves in gentle wind. ~0.77s. Camera locked-off. Natural walking pace, slight perspective zoom from subject receding. Hard cut.",
+        "i2v_params": {
+          "clip_duration_sec": 0.77,
+          "camera_move": "locked_off",
+          "subject_motion_level": "walk",
+          "signature_effect": "none",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; back-view walking, no face; landscape environment fully described"
+      }
+    },
+    {
+      "index": 18,
+      "start_sec": 17.55,
+      "end_sec": 18.05,
+      "duration": 0.5,
+      "mid_frame_path": "ADV-2026-010_frames/cut18_mid.png",
+      "framing": "ECU",
+      "function": "nature_detail",
+      "color_mood": "deep_green_botanical",
+      "subject_action": "hand gently touching or stroking the surface of large blue-green hosta leaves — fingers making contact with leaf surface",
+      "subject_identity": "protagonist_main",
+      "subject_relationship_to_protagonist": "main_character",
+      "copy_overlay": null,
+      "layout_grid": "center",
+      "subject_position": "center",
+      "subject_typo_layout": "typo_separate_zone",
+      "typo_motion": null,
+      "panel_layout": null,
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "face_only",
+      "gaze": "none",
+      "eye_contact_effect": null,
+      "props": [
+        "large_hosta_leaves_blue_green",
+        "hand_with_nail_polish_hint"
+      ],
+      "prop_semantics": "tactile connection with plants — hand touching leaf = care, intimacy with nature; hosta leaves as specific botanical detail showing horticultural knowledge",
+      "color_palette": [
+        "#2A4A3A",
+        "#4A8A6A",
+        "#7AB88A",
+        "#C8E8D8"
+      ],
+      "color_intent": "botanical deep greens, cool and lush",
+      "pose_description": "hand extended to leaf — fingers curled slightly, touching leaf edge or surface with gentle curiosity or care",
+      "subject_motion": "slow_gentle_reach",
+      "prop_motion": "leaf_slight_movement",
+      "camera_motion": "locked_off",
+      "camera_motion_intensity": "low",
+      "camera_effect_local": "shallow_focus",
+      "motion_blur": "none",
+      "intra_cut_rhythm": "static",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [],
+      "vfx_intensity_local": "none",
+      "fact_check_flag": false,
+      "notes": "ECU botanical tactile shot — hand on large hosta leaf. Deep cool greens. Strong emotional/sensory beat. 29CM watermark top-right.",
+      "visible_elements": {
+        "foreground": [
+          "hand and fingers touching large hosta leaf surface"
+        ],
+        "midground": [
+          "multiple large hosta leaves — ribbed surface texture visible"
+        ],
+        "background": [
+          "soft blur of more green foliage"
+        ],
+        "lighting_env": [
+          "soft diffused natural light from above or side — filtered through garden canopy"
+        ],
+        "atmosphere": [
+          "intimate, botanical, tactile, cool and lush"
+        ]
+      },
+      "texture": {
+        "primary_subject": "leaf_hosta_ribbed_waxy_surface",
+        "secondary_objects": [
+          "skin_hand_natural"
+        ],
+        "background_surface": "blurred_foliage_green",
+        "atmospheric": [
+          "cool_garden_humidity"
+        ]
+      },
+      "lighting": {
+        "key_direction": "top",
+        "key_hardness": "soft",
+        "key_color_temp": "cool_5500K",
+        "fill_strength": "moderate",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": false,
+        "practical_lights": [
+          "filtered_garden_daylight"
+        ],
+        "shadow_presence": "soft",
+        "overall_contrast": "mid_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#2A4A3A",
+          "#4A8A6A",
+          "#7AB88A",
+          "#C8E8D8"
+        ],
+        "palette_role": {
+          "#2A4A3A": "deep_leaf_shadow",
+          "#4A8A6A": "mid_leaf_green",
+          "#7AB88A": "light_leaf_surface",
+          "#C8E8D8": "leaf_highlight_and_background"
+        },
+        "color_relationship": "monochrome",
+        "temperature_balance": "cool_dominant",
+        "saturation_strategy": "muted",
+        "contrast_type": "luminance_mid",
+        "accent_color": "#C8E8D8",
+        "accent_ratio": "15_percent",
+        "brand_color_match": []
+      },
+      "style_prompt": "ECU hand gently touching large ribbed blue-green hosta leaves, deep cool botanical greens, tactile nature detail, shallow DOF, 16:9 editorial",
+      "recreation_prompts": {
+        "t2i_start_frame": "A 16:9 landscape extreme close-up macro-style shot of a human hand reaching in from the left or lower edge of the frame to gently touch or stroke the surface of large, healthy hosta leaves. The hosta leaves are the dominant visual element: large, wide-ovate leaves with deeply ribbed surface texture and a glaucous blue-green color (#4A8A6A to #7AB88A) that is characteristic of blue-toned hosta varieties — the leaf surface has a slightly waxy or frosted quality, with prominent parallel veins creating a sculptural ribbed texture. Multiple overlapping leaves fill most of the frame. The hand (from an abstracted young woman — no face visible) reaches in from the left, fingers lightly curled, making gentle contact with the leaf surface — a touch of tactile curiosity or care. The fingernails are natural or lightly painted. The skin tone is warm medium brown. The background behind the leaves is a deep blurred green — more garden foliage, completely out of focus, creating a monochromatic green depth. Lighting: soft, diffused, filtered natural daylight from above — as if in a shaded garden area where light comes through a canopy; cool 5500K; key-to-fill 2:1; soft shadows in the leaf ribs create three-dimensional texture. The depth of field is shallow — the front leaf and hand in crisp focus, background in soft blur. Fine film grain throughout. Upper right: small '29CM' white watermark. Color palette: deep leaf shadow (#2A4A3A), mid leaf (#4A8A6A), light leaf surface (#7AB88A), highlight and ambient (#C8E8D8). Atmosphere: cool, botanical, intimate, sensory — the quiet pleasure of touching a beautiful plant. No text beyond watermark. Style anchor: Korean lifestyle editorial botanical macro, tactile detail, cool garden light, 16:9 landscape, documentary naturalism. This ECU botanical shot is the most intimate and sensory of the entire film — a moment of pure tactile engagement between the protagonist and a plant. The hosta leaves are a sophisticated plant choice for a fashion/lifestyle film — hostas are grown primarily for their foliage (not flowers), and their large, textured, glaucous blue-green leaves are prized by serious gardeners for their architectural quality and color. The choice of hostas (rather than a more commonly recognized flower) signals gardening knowledge and a refined naturalistic sensibility consistent with the film's protagonist characterization. The leaf surface itself is the visual hero: the ribbed parallel venation creates a regular sculptural grid across the leaf surface that reads as almost architectural — fine and precise. The glaucous coating on the surface (the frosted or waxy texture that gives blue hostas their color) catches the diffused garden light in a specific way — slightly reflective without being glossy, creating a subtle luminous quality to the green surface. The hand touching the leaf establishes a direct tactile connection — the warmth of skin against the cool waxy leaf creates an implied temperature contrast that reinforces the sensory focus of the shot. This is the only shot in the film where a body part other than legs makes contact with a purely natural object — hands were previously shown on the hose nozzle and the plant in the workshop, but here the touch is purely exploratory, not functional. The deep background blur of more foliage creates an immersive, all-green environment with no architectural or structural elements to anchor the viewer in a specific place.",
+        "t2i_negative": "bright direct sunlight, multiple hands, wilted or damaged leaves, urban background, artificial plant, low quality, overcrowded frame",
+        "i2v_motion": "Hand makes a slow, gentle stroking motion across the leaf surface — fingers travel a few centimeters along the ribbed texture. The leaf bends very slightly under the touch and springs back. ~0.5s. Camera locked-off. Slow, intimate motion. Hard cut.",
+        "i2v_params": {
+          "clip_duration_sec": 0.5,
+          "camera_move": "locked_off",
+          "subject_motion_level": "micro",
+          "signature_effect": "none",
+          "pacing": "static",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; hand abstracted (no face); botanical leaf detail precise"
+      }
+    },
+    {
+      "index": 19,
+      "start_sec": 18.05,
+      "end_sec": 19.42,
+      "duration": 1.37,
+      "mid_frame_path": "ADV-2026-010_frames/cut19_mid.png",
+      "framing": "LS",
+      "function": "wow_cta_exit",
+      "color_mood": "warm_indoor_evening",
+      "subject_action": "WS — woman standing on the roof/bed of a vintage pickup truck parked in a garage/workshop space, white mini dress, open plaid overshirt, dark rain boots, one hand on the roof of the truck cab, posture confident and grounded",
+      "subject_identity": "protagonist_main",
+      "subject_relationship_to_protagonist": "main_character",
+      "copy_overlay": null,
+      "layout_grid": "rule_of_thirds",
+      "subject_position": "center",
+      "subject_typo_layout": "typo_separate_zone",
+      "typo_motion": null,
+      "panel_layout": null,
+      "camera_angle": "eye_level",
+      "camera_facing": "three_quarter",
+      "shot_scope": "full_body",
+      "gaze": "off_camera",
+      "eye_contact_effect": null,
+      "props": [
+        "vintage_pickup_truck_silver_grey",
+        "garage_workshop_interior",
+        "white_mini_dress",
+        "plaid_open_overshirt",
+        "dark_navy_rain_boots"
+      ],
+      "prop_semantics": "vintage pickup truck = lifestyle symbol of independent rugged utility merged with style; standing on truck bed = ownership, confidence, elevated perspective; workshop/garage = full-circle return to the protagonist's space",
+      "color_palette": [
+        "#8A8A8A",
+        "#C8C0B0",
+        "#F5F0E8",
+        "#1A2832",
+        "#8B7355"
+      ],
+      "color_intent": "grey truck and warm workshop tones, white dress as anchor",
+      "pose_description": "standing upright on the flat bed of the pickup truck, one hand resting on the cab roof, legs apart in a grounded stance — the posture radiates ease, confidence, ownership; looking out or to the side — not to camera",
+      "subject_motion": "static_standing",
+      "prop_motion": "none",
+      "camera_motion": "locked_off",
+      "camera_motion_intensity": "low",
+      "camera_effect_local": "none",
+      "motion_blur": "none",
+      "intra_cut_rhythm": "static",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [],
+      "vfx_intensity_local": "none",
+      "fact_check_flag": false,
+      "notes": "Final wow-exit shot. Protagonist standing on vintage truck bed in workshop/garage. Full outfit visible. Confident grounded pose. Circular return to interior space. 29CM watermark top-right. No CTA text overlay.",
+      "visible_elements": {
+        "foreground": [
+          "vintage silver-grey pickup truck — flat bed visible, round headlights, compact classic Japanese-style body"
+        ],
+        "midground": [
+          "protagonist standing on truck bed — white dress, plaid overshirt, boots"
+        ],
+        "background": [
+          "garage/workshop interior — roller door partially open or closed, tools and items on walls, warm wooden ceiling, workshop clutter including buckets, supplies"
+        ],
+        "lighting_env": [
+          "warm interior workshop lighting mixed with ambient daylight"
+        ],
+        "atmosphere": [
+          "warm, lived-in, independent, confident, slightly romantic-rural"
+        ]
+      },
+      "texture": {
+        "primary_subject": "vehicle_metal_painted_silver_grey",
+        "secondary_objects": [
+          "fabric_cotton_dress",
+          "fabric_plaid_overshirt",
+          "rubber_rain_boots",
+          "wood_garage_ceiling",
+          "concrete_garage_floor"
+        ],
+        "background_surface": "garage_concrete_and_wood",
+        "atmospheric": [
+          "warm_workshop_air",
+          "oil_and_wood_dust_implied"
+        ]
+      },
+      "lighting": {
+        "key_direction": "front",
+        "key_hardness": "soft",
+        "key_color_temp": "warm_4500K",
+        "fill_strength": "moderate",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": false,
+        "practical_lights": [
+          "overhead workshop fluorescent or tungsten",
+          "ambient outdoor light through open door"
+        ],
+        "shadow_presence": "soft",
+        "overall_contrast": "mid_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#8A8A8A",
+          "#C8C0B0",
+          "#F5F0E8",
+          "#1A2832",
+          "#8B7355"
+        ],
+        "palette_role": {
+          "#8A8A8A": "truck_body_silver",
+          "#C8C0B0": "truck_and_concrete",
+          "#F5F0E8": "white_dress",
+          "#1A2832": "boots_and_shadows",
+          "#8B7355": "warm_wood_ceiling"
+        },
+        "color_relationship": "analogous",
+        "temperature_balance": "warm_dominant",
+        "saturation_strategy": "muted",
+        "contrast_type": "luminance_mid",
+        "accent_color": "#F5F0E8",
+        "accent_ratio": "20_percent",
+        "brand_color_match": []
+      },
+      "style_prompt": "LS full body shot, woman standing on vintage silver pickup truck bed in workshop garage, white dress, open plaid shirt, dark boots, one hand on cab roof, confident pose, warm workshop light, 16:9 editorial lifestyle",
+      "recreation_prompts": {
+        "t2i_start_frame": "A 16:9 landscape wide shot / long shot of a young woman — abstracted everyday type, NOT a real person's likeness — standing confidently on the flat bed of a vintage compact pickup truck parked inside a workshop or garage. The truck is a classic compact Japanese-style vintage pickup (circa 1970s–80s) in a muted silver-grey (#8A8A8A) with a simple two-tone or solid body, rounded cab, visible round headlights, and a flat open truck bed. The woman stands on the truck bed with both feet planted apart, one hand resting on the roof of the cab — the posture is grounded, natural, confident, and relaxed — she is looking out to the side or slightly forward, not toward the camera. She wears the same outdoor outfit from the meadow sequence: a white lightweight cotton mini dress or skirt (#F5F0E8) — relaxed and slightly air-moved; an open plaid overshirt worn loosely over the dress; and the same dark navy tall rubber rain boots (#1A2832). Her natural curly dark hair is visible. The garage interior surrounds the truck: a warm wooden ceiling with exposed beams, workshop walls with hanging tools, a large rolling garage door that may be partially open letting in ambient daylight from the right, buckets and workshop supplies scattered around the floor in an organized-but-lived-in way. The floor is concrete. Overhead practical lighting (warm tungsten or slightly warm fluorescent, 4500K) mixes with the ambient daylight. The overall atmosphere is warm, indie, independent — a person at home in her own space, the truck and workshop together suggesting a certain lifestyle identity: utility-meets-style, practical-meets-beautiful. Depth of field: the full scene is relatively in focus — this is a wide environmental shot. Fine film grain throughout. Upper right: small '29CM' white watermark. Color palette: truck grey (#8A8A8A), concrete and metal (#C8C0B0), white dress (#F5F0E8), dark boots (#1A2832), warm wood (#8B7355). Style anchor: Korean lifestyle editorial final tableau, figure-in-environment wide shot, warm workshop light, 16:9 landscape, indie-rural aesthetic. The final shot of the film is the most compositionally surprising — the choice to end on the protagonist standing on the bed of a vintage pickup truck parked in a workshop garage creates a memorable, slightly unexpected closing image that synthesizes several of the film's themes. The vintage truck is a powerful lifestyle symbol: it represents utility, durability, independence, and a certain anti-fashion practicality that is, paradoxically, intensely fashionable in contemporary Korean lifestyle and fashion culture. The choice of a compact Japanese-style vintage pickup (a likely reference to classic trucks of the 1970s–80s such as vintage Toyota HiLux or similar) rather than an American full-size pickup signals a more specific, culturally-coded taste — it is the kind of vehicle associated with a certain urban-rural hybrid lifestyle aesthetic. Standing on the truck bed (rather than in it or beside it) is a bold, uninhibited pose — it requires intention, it's slightly transgressive (you don't typically stand on the roof of someone's vehicle), and it gives the protagonist an elevated, commanding vantage point. The white dress flowing slightly and the open plaid shirt create a dynamic silhouette from this frontal-adjacent angle. The workshop/garage setting provides the interior framing, warm artificial light mixing with ambient daylight from the door, giving the closing shot a warm, contained, intimate quality after the expansive outdoor landscape shots. This is a fitting closing image for a brand film about curated living: beautiful things, beautiful spaces, a person at home in all of it.",
+        "t2i_negative": "new modern truck, indoor studio backdrop, facing camera directly, harsh studio light, dark dramatic lighting, multiple people, low quality",
+        "i2v_motion": "Subject holds her grounded confident stance on the truck bed — static with only natural breathing micro-motion. Her hair has a slight movement from air in the workshop. The workshop environment is still. ~1.37s. Camera locked-off. Static hold, cinematic tableau. Final frame. Hard cut or fade to end.",
+        "i2v_params": {
+          "clip_duration_sec": 1.37,
+          "camera_move": "locked_off",
+          "subject_motion_level": "still",
+          "signature_effect": "none",
+          "pacing": "static",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; figure abstracted (not a real person likeness); full environment and outfit described for reconstruction; no on-screen copy in this shot"
+      }
+    }
+  ],
+  "search_keywords": {
+    "industry": [
+      "retail",
+      "fashion"
+    ],
+    "product_category": [
+      "commerce_platform",
+      "lifestyle_editorial",
+      "apparel"
+    ],
+    "target_demo": [
+      "late20s_early30s",
+      "women",
+      "premium_buyers",
+      "active_consumers"
+    ],
+    "media_format": [
+      "digital_30s",
+      "shortform_landscape_30s"
+    ],
+    "tone": [
+      "warm_emotional",
+      "calm_refined",
+      "cinematic",
+      "relaxed_healing"
+    ],
+    "pacing": [
+      "steady"
+    ],
+    "technique": [
+      "detail_closeup",
+      "oner_walking_shot",
+      "nature_intro",
+      "product_solo_hero"
+    ],
+    "vfx_keywords": [
+      "rack_focus",
+      "lens_blur_transition",
+      "film_grain",
+      "shallow_dof"
+    ],
+    "copy_strategy_keywords": [
+      "brand_name_only",
+      "editorial_title_card"
+    ],
+    "concept_derivation_pattern": [
+      "detail_to_whole_reveal",
+      "lifestyle_cg_intercut"
+    ]
+  },
+  "inferred_creative_thinking": {
+    "insight": "Modern consumers want to escape the transactional — they desire lifestyle identity expressed through beautiful, tactile everyday objects and spaces",
+    "persona": "A style-conscious woman in her late 20s–30s who curates her life intentionally: plants, good clothes, real outdoor experiences — not performative luxury but genuine slow living",
+    "moment": "A slow, sensory afternoon of gardening, potting, and outdoor walking — transitioning from indoor workshop to outdoor meadow",
+    "product_role": "29CM ORIGINAL positions the platform as curator of authentic, beautiful lifestyle objects that accompany real living moments",
+    "punchline": "These clothes, these tools, this life — all from one place that understands how you actually want to live",
+    "differentiator": "Anti-fast-fashion editorial: tactile, naturalistic, single protagonist, no product list — just a life being lived in carefully chosen things",
+    "brand_fit_one_liner": "29CM ORIGINAL = the lifestyle curation platform for people who buy things to live in them, not just wear them",
+    "confidence": "inferred"
+  },
+  "inferred_brief": "Create a 20-second lifestyle brand film for the 29CM ORIGINAL series that communicates the platform's identity as a curated, naturalistic lifestyle destination — use a single protagonist, gardening/outdoor activities, tactile close-ups of tools and clothing, and warm natural cinematography to attract style-conscious women aged 25–35.",
+  "cross_pollination_tags": {
+    "adjacent": [
+      "beauty_platform",
+      "home_lifestyle",
+      "apparel",
+      "fnb"
+    ],
+    "distant": [
+      "automotive",
+      "travel_tourism"
+    ],
+    "contrast": [
+      "finance",
+      "telecom",
+      "it_saas"
+    ]
+  },
+  "concept_derivation_pattern": [
+    "detail_to_whole_reveal",
+    "lifestyle_cg_intercut"
+  ],
+  "confidence": "inferred",
+  "analyst_notes": "IMPORTANT DATA DISCREPANCY: This video file is named '토스 미니앱 1.mp4' and placed in a 토스 미니앱 folder in the source dataset, but the actual video content is a 29CM ORIGINAL brand film (Korean fashion/commerce platform). The 29CM watermark appears in every frame. The previous ADV-2026-010 entry (a finance/check-card vertical ad) was completely unrelated to this video. Entry fully rewritten based on actual frame-by-frame analysis of all 19 shots. Audio: single spoken word '이따가' detected via faster-whisper. FPS confirmed 23.976 from ffprobe. Total 466 frames extracted for the 19.42s segment. All 19 shot mid-frames saved to ADV-2026-010_frames/.",
+  "verification": {
+    "frames_reviewed": true,
+    "audio_analyzed": true,
+    "hitrate_na": false,
+    "abstraction_checked": true
+  }
+}

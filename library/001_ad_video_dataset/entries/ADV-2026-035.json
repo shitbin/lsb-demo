@@ -1,0 +1,1751 @@
+{
+  "id": "ADV-2026-035",
+  "source_ref": {
+    "platform": "digital_video",
+    "title_or_campaign": "토스 페이스페이 - 얼굴이 밥 먹여줬다",
+    "brand": "토스",
+    "product": "페이스페이 (FacePay)",
+    "model": null,
+    "year": 2024,
+    "production_note": "Toss FacePay (biometric face-recognition payment) promo, hand-drawn B&W illustration + 3D device render. Toss signature doodle/line-boil animation style.",
+    "url": null
+  },
+  "category_primary": "finance.fintech",
+  "category_tags": [
+    "핀테크",
+    "간편결제",
+    "생체인증결제",
+    "얼굴인식",
+    "Face Pay"
+  ],
+  "mood": [
+    "playful",
+    "witty",
+    "friendly",
+    "light",
+    "clever"
+  ],
+  "target_demo": "20대 후~30대, 외식·친구 모임이 잦고 지갑·카드 없이 휴대폰만 들고 다니는 MZ 소비자",
+  "total_duration": 27.284,
+  "shot_count": 12,
+  "shot_count_corrected": 12,
+  "fps": 29.97,
+  "aspect_ratio": "16:9",
+  "hook_position": 1.8,
+  "cta_position": 24.66,
+  "narrative_arc": "식사를 마친 세 친구가 '배 터지겠다'며 만족(공감) → 점원이 '카드로? 현금으로?' 물음(문제제시) → 한 친구가 '얼굴이요'라 답함(반전 셋업) → 얼굴인식 결제 단말이 얼굴을 스캔해 '결제 완료'(솔루션 시연) → '얼굴이 밥 먹여줬다' 펀치라인 키네틱 타이포(위트) → '결제의 새얼굴' 단말 회전 슬로건 → FacePay·토스 브랜드 → '페이스페이 할게요!' 마무리(CTA)",
+  "narrative_structure": "linear_continuous",
+  "pacing_curve": "steady",
+  "music_tempo_curve": "steady",
+  "wow_cut_index": [
+    6,
+    8
+  ],
+  "creative_device": "literal_pun_payoff (얼굴이요/얼굴이 밥 먹여줬다 — '얼굴=결제수단' 말장난) + hand_drawn_doodle_illustration + face_scan_ui_demo",
+  "production_signature": {
+    "capture_style": "mixed",
+    "camera_signature": [
+      "locked_off"
+    ],
+    "signature_note": "전 구간 로크오프(고정 프레임) 모션그래픽. 카메라 무빙은 없고 일러스트가 직접 줌인(스케일 업)되거나 3D 단말이 턴테이블 회전. metrics wiggle 수치(mean_abs_shift_x=1.65, sign_flips_ratio=0.156)는 컷6/8/9의 모핑·단말 회전·면 전환 같은 '이산적 트랜지션 시프트'에서 비롯된 것이며 정적 구간 shift_x/y는 거의 0 — 연속적 wiggle_3d 효과는 육안·수치 모두 부재. 핵심 시그니처는 손그림 흑백 라인의 '보일(boil)' 떨림 애니메이션(매 프레임 선이 미세 재드로잉)과 컷별 느린 줌인. hist_corr이 전 구간 1.0(색 히스토그램 불변)이라 scenedetect는 0개 컷 검출(단일 연속 컴포지션).",
+    "color_grade": "high_key_white_ground",
+    "texture_fx": "hand_drawn_lineart_boil"
+  },
+  "global_layout": {
+    "grid_system": "center",
+    "subject_placement_dominant": "center",
+    "subject_typo_relation": "typo_separate_zone",
+    "negative_space_use": "generous",
+    "layout_note": "순백 배경 위 단일 오브젝트(둥근 카드 속 일러스트 / 3D 단말 / 워드마크 / 얼굴 아이콘)를 화면 정중앙에 배치. 자막은 항상 화면 하단 중앙에 토스블루로 분리 배치(인물 위에 겹치지 않음). 카피 타이포는 별도 풀스크린 컷(컷8)이나 단말 화면 내부(컷9)에 위치. 극단적 미니멀·중앙집중·풍부한 여백."
+  },
+  "recurring_motifs": [
+    "둥근 모서리 세로 카드(신분증/결제카드 은유) 속 인물 일러스트",
+    "손그림 흑백 라인 캐릭터(보일 애니메이션)",
+    "토스블루 얼굴 스캔 원형 링",
+    "토스블루 하단 자막",
+    "흰색 3D 얼굴인식 결제 단말",
+    "정면 응시 surprised 'o' 입모양 (코믹 비트)"
+  ],
+  "copywriting": {
+    "tagline_text": "결제의 새얼굴",
+    "tagline_structure": "소유격 + 명사구 (얼굴 중의적 펀)",
+    "tagline_length_syllables": 7,
+    "tagline_position_sec": 19.0,
+    "cta_text": "페이스페이 할게요!",
+    "cta_text_structure": "결제수단 선언형 대사",
+    "cta_position_sec": 24.66,
+    "copy_tone": [
+      "위트",
+      "구어체",
+      "친근"
+    ],
+    "copy_strategy": "literal_pun_payoff",
+    "copy_lines_count": 6,
+    "lines": [
+      {
+        "position_sec": 1.8,
+        "text": "아~ 배 터지겠네",
+        "function": "setup_mood",
+        "tone": "satisfied_casual",
+        "source": "both"
+      },
+      {
+        "position_sec": 4.4,
+        "text": "카드로 하세요? 현금으로 하세요?",
+        "function": "problem_question",
+        "tone": "neutral_clerk",
+        "source": "both"
+      },
+      {
+        "position_sec": 10.04,
+        "text": "얼굴이요",
+        "function": "twist_answer",
+        "tone": "deadpan_playful",
+        "source": "both"
+      },
+      {
+        "position_sec": 16.62,
+        "text": "얼굴이 밥 먹여줬다",
+        "function": "punchline",
+        "tone": "witty",
+        "source": "both"
+      },
+      {
+        "position_sec": 19.0,
+        "text": "결제의 새얼굴",
+        "function": "campaign_slogan",
+        "tone": "confident",
+        "source": "both"
+      },
+      {
+        "position_sec": 24.66,
+        "text": "페이스페이 할게요!",
+        "function": "brand_cta",
+        "tone": "upbeat",
+        "source": "both"
+      }
+    ],
+    "captions": [
+      {
+        "position_sec": 21.4,
+        "text": "FacePay",
+        "function": "product_wordmark"
+      },
+      {
+        "position_sec": 23.59,
+        "text": "toss",
+        "function": "brand_wordmark"
+      }
+    ],
+    "narration_handling": "none"
+  },
+  "typography": {
+    "primary_font_class": "sans_serif_bold_rounded",
+    "secondary_font_class": "sans_serif_regular",
+    "animation_style": [
+      "typewriter",
+      "fade_in",
+      "scale_in",
+      "bounce",
+      "static"
+    ],
+    "subtitle_position_dominant": "lower_third",
+    "tagline_position": "center",
+    "color_strategy": "toss_blue_on_white",
+    "appearance_count": 8,
+    "key_typography_moments_sec": [
+      1.8,
+      4.4,
+      10.04,
+      16.62,
+      19.0,
+      21.4,
+      23.59,
+      24.66
+    ],
+    "typo_motion_dominant": "typewriter"
+  },
+  "vfx": {
+    "primary_effects": [
+      "ui_motion",
+      "morph",
+      "3d_render",
+      "kinetic_typo"
+    ],
+    "effect_intensity": "moderate",
+    "transition_style_dominant": "morph",
+    "vfx_event_count": 6,
+    "vfx_timing_array_sec": [
+      13.0,
+      14.0,
+      16.0,
+      16.35,
+      18.82,
+      24.66
+    ],
+    "wow_vfx_index": [
+      6,
+      8
+    ]
+  },
+  "audio": {
+    "has_audio": true,
+    "language": "ko",
+    "speech_coverage": 0.476,
+    "bgm_likely": true,
+    "narration_lines": [
+      {
+        "start": 1.39,
+        "end": 3.39,
+        "text": "아~ 배 터지겠네",
+        "text_raw": "아 배 터지겠네.",
+        "kind": "dialogue",
+        "source": "both"
+      },
+      {
+        "start": 3.39,
+        "end": 5.93,
+        "text": "카드로 하세요? 현금으로 하세요?",
+        "text_raw": "카드로 하세요. 현금으로 하세요?",
+        "kind": "dialogue",
+        "source": "both"
+      },
+      {
+        "start": 10.04,
+        "end": 11.14,
+        "text": "얼굴이요",
+        "text_raw": "얼굴이요.",
+        "kind": "dialogue",
+        "source": "both"
+      },
+      {
+        "start": 16.48,
+        "end": 18.84,
+        "text": "얼굴이 밥 먹여줬다",
+        "text_raw": "얼굴이 밥 먹여줬다.",
+        "kind": "vo_punchline",
+        "source": "both"
+      },
+      {
+        "start": 19.34,
+        "end": 20.86,
+        "text": "결제의 새얼굴",
+        "text_raw": "결제 세 얼굴.",
+        "kind": "vo_slogan",
+        "source": "both"
+      },
+      {
+        "start": 21.56,
+        "end": 22.56,
+        "text": "페이스페이",
+        "text_raw": "페이스베이.",
+        "kind": "vo_brand",
+        "source": "both"
+      },
+      {
+        "start": 23.36,
+        "end": 24.26,
+        "text": "토스",
+        "text_raw": "토스.",
+        "kind": "vo_brand",
+        "source": "both"
+      },
+      {
+        "start": 24.56,
+        "end": 26.12,
+        "text": "페이스페이 할게요",
+        "text_raw": "페이스베이 할게요.",
+        "kind": "vo_cta",
+        "source": "both"
+      }
+    ],
+    "voice_vs_caption": "voice_and_caption_aligned",
+    "narration_handling": "none",
+    "transcribed_by": "faster_whisper",
+    "audio_note": "faster_whisper base 모델(HF_HOME=/tmp/hf 캐시, offline)로 전사 성공. 9세그먼트, speech_coverage 0.476. text_raw는 원문 whisper 출력이며 화면 자막과 대조해 보정: '카드로 하세요.'→'카드로 하세요?', '결제 세 얼굴'→'결제의 새얼굴', '페이스베이'→'페이스페이'(b→p), VO와 하단 자막이 거의 일치. BGM은 음성 외 구간이 많아 likely true로 추정(전사기로 직접 확인은 불가)."
+  },
+  "frames_dir": "ADV-2026-035_frames",
+  "contact_sheet_path": "ADV-2026-035_frames/contact_sheet.png",
+  "shots": [
+    {
+      "index": 1,
+      "duration": 1.8,
+      "framing": "MS",
+      "function": "scene_setup",
+      "color_mood": "monochrome_high_key",
+      "subject_action": "hand-drawn black-and-white illustration of three friends grouped inside a vertical rounded-rectangle card on pure white ground: a woman with shoulder-length hair in a dark knit turtleneck (front-left), a man with short hair (front-right), and a taller man in a horizontal-striped sweater standing behind; all have closed/calm eyes and gentle satisfied smiles (post-meal). Lines subtly boil (redraw) each frame; no caption yet.",
+      "layout_grid": "center",
+      "subject_position": "center",
+      "subject_identity": "ensemble_three_friends",
+      "subject_relationship_to_protagonist": "main_character",
+      "mid_frame_path": "ADV-2026-035_frames/cut01_mid.png",
+      "subject_typo_layout": "typo_only_no_person",
+      "typo_motion": "자막 없음 — 일러스트 보일 애니메이션만. 인물 표정·라인 미세 떨림으로 살아있는 느낌 전달",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "waist_up",
+      "gaze": "off_camera",
+      "eye_contact_effect": null,
+      "props": [
+        "vertical rounded-rectangle card frame"
+      ],
+      "prop_semantics": "둥근 카드 프레임 = 결제카드/신분증의 은유적 윈도우. 인물을 카드 안에 담아 '얼굴=카드' 컨셉의 시각적 복선",
+      "color_palette": [
+        "#ffffff",
+        "#111111",
+        "#3182f6"
+      ],
+      "color_intent": "순백 배경 + 흑색 펜 라인의 극단적 미니멀 흑백. 토스블루는 자막/UI에만 점적으로 사용해 강조",
+      "pose_description": "세 친구가 카드 안에 옹기종기 모인 단체사진 같은 포즈. 편안하고 만족스러운 식후 분위기. 정적 포즈 + 라인 보일",
+      "subject_motion": "static_pose_with_line_boil",
+      "prop_motion": "none",
+      "camera_motion": "locked_off",
+      "camera_motion_intensity": "none",
+      "camera_effect_local": "none",
+      "motion_blur": false,
+      "intra_cut_rhythm": "static",
+      "transition_in": "cut",
+      "transition_out": "match_cut_caption_in",
+      "vfx_in_shot": [],
+      "vfx_intensity_local": "subtle",
+      "fact_check_flag": null,
+      "notes": "Cut 1 (f1-54, 0.00-1.80s): 흑백 손그림 세 친구가 둥근 카드 안에. 자막 없음. 라인 보일(매 프레임 선 미세 재드로잉)이 유일한 모션. metrics diff는 보일에 의한 ~0.5 수준.",
+      "visible_elements": {
+        "foreground": [
+          "woman in dark knit turtleneck (front-left, cross-hatched dark top)",
+          "man in light top (front-right)"
+        ],
+        "midground": [
+          "taller man in horizontal-striped long-sleeve sweater standing behind, head cut off at top of card",
+          "vertical rounded-rectangle card outline (thin black stroke)"
+        ],
+        "background": [
+          "pure flat white field surrounding the card"
+        ],
+        "lighting_env": [
+          "no rendered lighting — flat hand-drawn illustration on white"
+        ],
+        "atmosphere": [
+          "clean minimal white space, no grain, hand-drawn pen texture"
+        ]
+      },
+      "texture": {
+        "primary_subject": "hand_drawn_lineart",
+        "secondary_objects": [
+          "hand_drawn_lineart",
+          "cross_hatch_shading"
+        ],
+        "background_surface": "flat_white_paper",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "front",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "strong",
+        "key_to_fill_ratio": "1:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "none",
+        "overall_contrast": "hi_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#ffffff",
+          "#111111",
+          "#3182f6"
+        ],
+        "palette_role": {
+          "#ffffff": "background_dominant",
+          "#111111": "lineart_ink",
+          "#3182f6": "brand_blue_reserved_for_typo"
+        },
+        "color_relationship": "monochrome",
+        "temperature_balance": "balanced",
+        "saturation_strategy": "desaturated_with_pop",
+        "contrast_type": "luminance_high",
+        "accent_color": "#3182f6",
+        "accent_ratio": "5_percent",
+        "brand_color_match": [
+          "토스 브랜드 블루 ≈ #3182F6 (자막·UI에만 사용)"
+        ]
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A minimalist hand-drawn black-and-white illustration centered on a pure flat white 1920x1080 pixel 16:9 landscape background, in the style of a friendly Korean fintech doodle motion-graphic commercial. At the exact center of the frame, shifted to dead-center both horizontally and vertically, sits a single vertical rounded-rectangle card outline drawn with a thin slightly-wobbly hand-inked black pen line about 3-4 pixels wide, occupying roughly 22 percent of the frame width and 58 percent of the frame height, like an oversized upright ID-card or payment-card window standing on its short edge with softly rounded corners. Inside this card window, framed from the chest up, are three young Korean friends grouped tightly together shoulder to shoulder as if posing for a group photo squeezed into a small frame. Front-left: a woman with shoulder-length wavy hair parted to one side, wearing a dark knit turtleneck rendered with dense scribbly cross-hatched pen shading so the garment reads almost solid black against the white, while her face and neck stay clean white with only outline; her eyes are gently closed as two simple downward-curved arcs and she has a small calm satisfied closed-mouth smile. Front-right: a man with short cropped hair drawn as a soft scribbled mass, wearing a plain light sweater rendered in outline only with no shading so it reads white; his eyes are closed in calm arcs and he smiles softly, head tilted a touch toward the woman. Standing taller behind and between the two of them: a third man wearing a horizontal-striped long-sleeve crew-neck sweater with evenly spaced bold black horizontal stripes and a thick dark crew collar, whose head is partly cropped by the top edge of the card so at this opening moment only his lower face area and his striped torso are visible, deliberately withholding his face to be revealed later. All linework throughout is loose, confident, organic and hand-inked with visible natural line-weight variation, small overshoots at stroke ends, and a faint frame-by-frame 'boil' quality as if the whole drawing were re-inked by hand every frame. There is absolutely no color anywhere in the illustration itself — it is pure black ink on white, a strict two-value monochrome drawing. There is no caption text in this opening frame at all; the entire lower third of the frame is empty bright white. The card and the figures float in generous white negative space: roughly 18 percent empty white margin above the card, 18 percent below, and about 38 percent empty white on each side, so the single card sits like an isolated object on a vast clean white stage. The character drawing style is warm, friendly, slightly naive editorial-cartoon linework with simple round dot eyes, single-line eyebrows, soft rounded jawlines, minimal nose and ear detail, and almost no interior facial shading, evoking the signature approachable Toss illustration aesthetic. The texture reads as clean digital pen-on-paper with subtle line jitter and a faintly rough ink edge, with absolutely no grain, no halftone dots, no gradient, no vignette, and no photographic element of any kind. Lighting is essentially irrelevant because this is flat 2D lineart with no rendered shadow, no highlight, no ambient occlusion — just a perfectly even pure white field behind and around the drawing. The only reserved accent color used anywhere in the broader campaign is a single bright friendly Toss-blue around hex #3182F6, but it does NOT appear anywhere in this particular frame, which is wholly black-on-white. The composition is strictly centered and symmetrical about the vertical axis, the rounded card window acting as one bold simple focal object on an otherwise empty white stage, maximizing calm and clarity. Style anchor: Korean fintech hand-drawn doodle commercial, black ink character-cartoon lineart with frame-by-frame boil, ultra-minimal high-key pure white background, centered single-object composition, warm friendly editorial line style, strict monochrome, no color, no text, no logo. The overall mood is light, warm, relaxed post-meal contentment with three close friends gathered cozily together inside the little card.",
+        "t2i_negative": "color, colored illustration, photorealistic, 3D render, gradient background, grain, halftone, watermark, real human faces, real logos, caption text, lower-third subtitle, harsh shadows, painterly shading",
+        "i2v_motion": "Hold the three friends in their static group pose; apply a continuous gentle hand-drawn line-boil so every black ink contour subtly redraws and wobbles 1-2 pixels each frame (classic boil animation), giving the illustration a living, breathing quality without any real body movement. Faint breathing on the figures only. Camera locked-off, no zoom yet. No caption. 1.8s, static rhythm, ends as a blue Korean caption is about to fade in at the lower third.",
+        "i2v_params": {
+          "clip_duration_sec": 1.8,
+          "camera_move": "locked_off",
+          "subject_motion_level": "micro",
+          "signature_effect": "lineart_boil",
+          "pacing": "static",
+          "loopable": true
+        },
+        "fidelity_note": "craft-faithful; subjects generic Korean young adults in hand-drawn cartoon style; line-boil signature preserved; no logo/brand mark; no caption in this cut"
+      }
+    },
+    {
+      "index": 2,
+      "duration": 2.6,
+      "framing": "MS",
+      "function": "mood_setup",
+      "color_mood": "monochrome_high_key",
+      "subject_action": "same three-friends illustration; the front-right man's mouth opens in speech (lip-sync) saying he is full; Toss-blue caption '아~ 배 터지겠네' fades in at lower-center. Line-boil continues; faces shift subtly between satisfied and talking.",
+      "layout_grid": "center",
+      "subject_position": "center",
+      "subject_identity": "ensemble_three_friends",
+      "subject_relationship_to_protagonist": "main_character",
+      "mid_frame_path": "ADV-2026-035_frames/cut02_mid.png",
+      "subject_typo_layout": "typo_separate_zone",
+      "typo_motion": "토스블루 자막 '아~ 배 터지겠네'가 화면 하단 중앙에 페이드 인(f54~)하여 컷 끝까지 정적 유지. 인물 입모양 립싱크.",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "waist_up",
+      "gaze": "off_camera",
+      "eye_contact_effect": null,
+      "props": [
+        "vertical rounded-rectangle card frame"
+      ],
+      "prop_semantics": "동일 카드 윈도우 유지 — 일관된 컨셉 앵커",
+      "color_palette": [
+        "#ffffff",
+        "#111111",
+        "#3182f6"
+      ],
+      "color_intent": "흑백 일러스트 + 토스블루 자막의 2색 대비로 자막 가독성·브랜드 컬러 각인",
+      "pose_description": "남성(우측)이 입을 벌려 말하는 포즈, 여성(좌측)·뒤 인물은 만족 표정. 정적 포즈 + 립싱크 + 라인 보일",
+      "subject_motion": "lip_sync_with_line_boil",
+      "prop_motion": "none",
+      "camera_motion": "locked_off",
+      "camera_motion_intensity": "none",
+      "camera_effect_local": "none",
+      "motion_blur": false,
+      "intra_cut_rhythm": "static",
+      "transition_in": "caption_fade_in",
+      "transition_out": "caption_swap",
+      "vfx_in_shot": [],
+      "vfx_intensity_local": "subtle",
+      "fact_check_flag": null,
+      "notes": "Cut 2 (f54-131, 1.80-4.40s): 동일 일러스트 + 하단 토스블루 자막 '아~ 배 터지겠네'. 우측 남성 립싱크(VO 1.39-3.39 일치). diff~0.6 보일+입모양. 식후 만족 셋업.",
+      "visible_elements": {
+        "foreground": [
+          "woman in dark cross-hatched turtleneck (front-left)",
+          "man in light top, mouth open speaking (front-right)"
+        ],
+        "midground": [
+          "taller striped-sweater man behind (head cropped at top)",
+          "vertical rounded-rectangle card outline"
+        ],
+        "background": [
+          "pure flat white field"
+        ],
+        "lighting_env": [
+          "flat hand-drawn, no rendered light"
+        ],
+        "atmosphere": [
+          "clean white space, pen-line texture"
+        ]
+      },
+      "texture": {
+        "primary_subject": "hand_drawn_lineart",
+        "secondary_objects": [
+          "cross_hatch_shading",
+          "hand_drawn_lineart"
+        ],
+        "background_surface": "flat_white_paper",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "front",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "strong",
+        "key_to_fill_ratio": "1:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "none",
+        "overall_contrast": "hi_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#ffffff",
+          "#111111",
+          "#3182f6"
+        ],
+        "palette_role": {
+          "#ffffff": "background_dominant",
+          "#111111": "lineart_ink",
+          "#3182f6": "caption_blue_accent"
+        },
+        "color_relationship": "monochrome",
+        "temperature_balance": "balanced",
+        "saturation_strategy": "desaturated_with_pop",
+        "contrast_type": "luminance_high",
+        "accent_color": "#3182f6",
+        "accent_ratio": "5_percent",
+        "brand_color_match": [
+          "토스 블루 ≈ #3182F6 (자막)"
+        ]
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A minimalist hand-drawn black-and-white illustration centered on a pure flat white 1920x1080 pixel 16:9 landscape background, in the warm friendly style of a Korean fintech doodle motion-graphic commercial. At the dead center of the frame sits a single vertical rounded-rectangle card outline drawn with a thin slightly-wobbly hand-inked black pen line about 3-4 pixels wide, occupying roughly 22 percent of frame width and 58 percent of frame height, an oversized upright ID-card or payment-card window with softly rounded corners standing on its short edge. Inside this card window, framed from the chest up, three young Korean friends pose as a tight squeezed group shoulder to shoulder. Front-left: a woman with shoulder-length wavy side-parted hair wearing a dark knit turtleneck shaded with dense scribbly black cross-hatching so the garment reads near-solid black, her face left clean white with outline only, her eyes gently closed as soft downward arcs, calm and content. Front-right: a man with short cropped scribbled hair in a plain unshaded white sweater (outline only), his MOUTH NOW OPEN in mid-speech, drawn as a small simple open oval talking shape as if he is happily announcing that he is pleasantly stuffed after the meal; his eyes are relaxed. Standing taller behind and between them: a third man in a bold horizontal-striped crew-neck sweater with evenly spaced thick black stripes and a dark collar, his head still partly cropped by the top edge of the card so his face remains mostly hidden at this moment. All linework throughout is loose, confident, organic, hand-inked with natural line-weight variation, small overshoots, and a faint frame-by-frame boil quality (as if redrawn by hand each frame). The figures are pure black ink on white with absolutely no color in the drawing — strict two-value monochrome. In the LOWER CENTER of the frame, set within the empty white lower third about 80 percent of the way down, is a single line of Korean Hangul caption in a bold rounded geometric sans-serif typeface rendered in a bright friendly Toss-blue (hex approximately #3182F6): it reads exactly '아~ 배 터지겠네' (a casual satisfied 'ahh, I'm so full'). The caption is horizontally centered, sized to roughly 38 percent of frame width, sitting clearly below the card in its own zone with generous white space around it and not overlapping the illustration at all. Generous white negative space surrounds the card: about 18 percent white above, the dedicated caption zone below, and about 38 percent empty white on each side. The character drawing style uses simple round dot eyes, single-line eyebrows, soft rounded jaws, minimal nose and ear detail and almost no interior shading — the signature approachable warm Toss editorial-cartoon look. The texture is clean digital pen-on-paper with subtle line jitter and faintly rough ink edges, with no grain, no halftone, no gradient, no vignette and no photographic element. There is no rendered lighting — a perfectly even pure white field behind the drawing, no shadow or highlight. The ONLY color anywhere in the entire frame is the bright blue caption at the bottom; absolutely everything else is black ink on white. The composition is strictly centered and symmetrical about the vertical axis, the rounded card and the three friends forming one single bold focal object, with the blue caption anchoring the lower third and balancing the layout. Style anchor: Korean fintech hand-drawn doodle commercial, black ink character-cartoon lineart with boil, bright blue lower-third Korean subtitle in Toss-blue #3182F6, ultra-minimal high-key pure white background, centered composition, friendly relaxed post-meal mood, strict monochrome illustration with a single blue caption, no logo. The caption text '아~ 배 터지겠네' must be preserved exactly and verbatim.",
+        "t2i_negative": "color in the illustration, photorealistic, 3D render, gradient, grain, halftone, watermark, real human faces, real logos, text errors, mistyped Hangul, caption over the figures, harsh shadows",
+        "i2v_motion": "Hold the static group pose; continuous hand-drawn line-boil on all black contours (1-2px redraw jitter each frame); the front-right man's mouth animates in a small talking loop (open-close lip-sync) as he speaks '아~ 배 터지겠네'; the others hold satisfied expressions with faint breathing. The blue caption '아~ 배 터지겠네' is already faded in and holds static at the lower center. Camera locked-off, no zoom. 2.6s, steady rhythm.",
+        "i2v_params": {
+          "clip_duration_sec": 2.6,
+          "camera_move": "locked_off",
+          "subject_motion_level": "micro",
+          "signature_effect": "lineart_boil",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; generic Korean cartoon characters; caption '아~ 배 터지겠네' verbatim; line-boil + lip-sync signature; no logo"
+      }
+    },
+    {
+      "index": 3,
+      "duration": 2.17,
+      "framing": "MS",
+      "function": "problem_question",
+      "color_mood": "monochrome_high_key",
+      "subject_action": "same illustration; the front woman turns her head slightly and opens her eyes, looking toward the man as an off-screen clerk asks the payment-method question; Toss-blue caption swaps to '카드로 하세요? 현금으로 하세요?'. A slow zoom-in (illustration scale-up) begins, making the figures grow gradually within the card.",
+      "layout_grid": "center",
+      "subject_position": "center",
+      "subject_identity": "ensemble_three_friends",
+      "subject_relationship_to_protagonist": "main_character",
+      "mid_frame_path": "ADV-2026-035_frames/cut03_mid.png",
+      "subject_typo_layout": "typo_separate_zone",
+      "typo_motion": "하단 자막이 '아~ 배 터지겠네'→'카드로 하세요? 현금으로 하세요?'로 교체(f132). 컷 끝까지 정적 유지. 인물 표정·시선 변화.",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "waist_up",
+      "gaze": "off_camera",
+      "eye_contact_effect": "여성이 눈을 뜨고 옆(남성/점원 방향)을 봄 — 질문에 반응하는 시선 전환",
+      "props": [
+        "vertical rounded-rectangle card frame"
+      ],
+      "prop_semantics": "카드 윈도우 유지; 곧 '얼굴=결제' 반전의 무대",
+      "color_palette": [
+        "#ffffff",
+        "#111111",
+        "#3182f6"
+      ],
+      "color_intent": "동일 흑백+블루 2색. 줌인으로 인물에 점점 집중",
+      "pose_description": "여성이 눈을 뜨고 고개를 돌려 옆을 응시(반응), 남성은 차분, 뒤 인물은 surprised 기색. 정적 포즈 + 느린 스케일업",
+      "subject_motion": "head_turn_eyes_open_with_line_boil",
+      "prop_motion": "none",
+      "camera_motion": "locked_off",
+      "camera_motion_intensity": "none",
+      "camera_effect_local": "slow_scale_in_on_illustration",
+      "motion_blur": false,
+      "intra_cut_rhythm": "steady",
+      "transition_in": "caption_swap",
+      "transition_out": "continuous_zoom",
+      "vfx_in_shot": [],
+      "vfx_intensity_local": "subtle",
+      "fact_check_flag": null,
+      "notes": "Cut 3 (f132-196, 4.40-6.57s): 자막 '카드로 하세요? 현금으로 하세요?'(점원 질문, VO 3.39-5.93). 여성 눈뜨고 옆을 봄(f152 diff~3.9 head turn). 일러스트 느린 줌인 시작.",
+      "visible_elements": {
+        "foreground": [
+          "woman in dark turtleneck, eyes now open, head turning (front-left)",
+          "man in light top (front-right)"
+        ],
+        "midground": [
+          "striped-sweater man behind (head cropped)",
+          "rounded-rectangle card outline (scaling up)"
+        ],
+        "background": [
+          "pure flat white field"
+        ],
+        "lighting_env": [
+          "flat hand-drawn, no rendered light"
+        ],
+        "atmosphere": [
+          "clean white space, pen-line texture"
+        ]
+      },
+      "texture": {
+        "primary_subject": "hand_drawn_lineart",
+        "secondary_objects": [
+          "cross_hatch_shading",
+          "hand_drawn_lineart"
+        ],
+        "background_surface": "flat_white_paper",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "front",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "strong",
+        "key_to_fill_ratio": "1:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "none",
+        "overall_contrast": "hi_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#ffffff",
+          "#111111",
+          "#3182f6"
+        ],
+        "palette_role": {
+          "#ffffff": "background_dominant",
+          "#111111": "lineart_ink",
+          "#3182f6": "caption_blue_accent"
+        },
+        "color_relationship": "monochrome",
+        "temperature_balance": "balanced",
+        "saturation_strategy": "desaturated_with_pop",
+        "contrast_type": "luminance_high",
+        "accent_color": "#3182f6",
+        "accent_ratio": "6_percent",
+        "brand_color_match": [
+          "토스 블루 ≈ #3182F6 (자막)"
+        ]
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A minimalist hand-drawn black-and-white illustration centered on a pure flat white 1920x1080 pixel 16:9 landscape background, in the warm friendly style of a Korean fintech doodle motion-graphic commercial, captured mid slow zoom-in. A vertical rounded-rectangle card outline drawn with a thin slightly-wobbly hand-inked black pen line, now scaled slightly larger to about 24 percent of frame width and 62 percent of frame height because a gentle continuous zoom-in is underway, holds three young Korean friends framed from the chest up and grouped tightly shoulder to shoulder. Front-left: a woman with shoulder-length wavy side-parted hair in a dark cross-hatched knit turtleneck rendered near-solid black with dense scribbly pen shading while her face stays clean white outline — her eyes are NOW OPEN as two simple round dot eyes, and her head is slightly turned to look sideways toward her companion, reacting to an off-screen question, with a small neutral curious mouth. Front-right: a man with short cropped scribbled hair in a plain unshaded white sweater, calm, looking forward with a soft expression. Behind and taller: a third man in a bold horizontal-striped crew-neck sweater with evenly spaced thick black stripes and a dark collar, his head still partly cropped by the top edge of the card but sitting lower in the frame than before as the ongoing zoom enlarges all three figures. All linework is pure black ink on white, loose confident organic hand-inked strokes with natural line-weight variation, small overshoots, and a faint frame-by-frame boil quality, with absolutely no color anywhere in the figures — strict two-value monochrome. The characters use the signature simple round dot eyes, single-line eyebrows, soft rounded jaws and minimal nose, ear and interior facial detail of the approachable Toss editorial-cartoon look. In the LOWER CENTER of the frame, in the empty white lower third about 80 percent down, a bold rounded geometric sans-serif Korean Hangul caption in bright Toss-blue (hex about #3182F6) reads exactly '카드로 하세요? 현금으로 하세요?' (a clerk asking 'Will you pay by card? Or cash?'), set on a single line or naturally wrapped, horizontally centered, about 46 percent of frame width, sitting clearly below the card in its own zone and not overlapping the illustration. Generous empty white negative space surrounds everything: roughly 16 percent white above the card, the caption zone below, and large white margins left and right. The texture is clean digital pen-on-paper with subtle line jitter and faintly rough ink edges, with no grain, no halftone, no gradient, no vignette and no photographic element. There is no rendered lighting whatsoever — a perfectly even pure white field behind the drawing, no shadow, no highlight, no ambient occlusion. The ONLY color anywhere in the entire frame is the bright blue caption at the bottom; everything else is strictly black ink on white. The composition is centered and symmetrical about the vertical axis, the rounded card and three friends forming one single bold focal object slightly enlarged by the ongoing zoom, with the blue caption anchoring and balancing the lower third. Style anchor: Korean fintech hand-drawn doodle commercial, black ink character-cartoon lineart with boil, bright blue lower-third Korean subtitle in Toss-blue #3182F6, high-key pure white minimal background, centered composition, a clerk-asking-payment-method narrative beat, strict monochrome illustration with a single blue caption, no logo. The caption text '카드로 하세요? 현금으로 하세요?' must be preserved exactly and verbatim.",
+        "t2i_negative": "color in the illustration, photorealistic, 3D render, gradient, grain, halftone, watermark, real human faces, real logos, mistyped Hangul, caption over figures, harsh shadows",
+        "i2v_motion": "Apply a slow continuous zoom-in (illustration scales up gradually, the card and figures growing larger within the frame over the cut). Continuous line-boil on all contours. The woman opens her eyes and turns her head slightly toward her companion in a small reaction motion; the others hold with faint breathing. The blue caption '카드로 하세요? 현금으로 하세요?' is present and holds static at the lower center. Camera itself locked-off (the growth is an illustration scale, not a camera move). 2.17s, steady rhythm.",
+        "i2v_params": {
+          "clip_duration_sec": 2.17,
+          "camera_move": "locked_off",
+          "subject_motion_level": "micro",
+          "signature_effect": "lineart_boil",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; generic Korean cartoon characters; caption '카드로 하세요? 현금으로 하세요?' verbatim; slow scale-in + boil; no logo"
+      }
+    },
+    {
+      "index": 4,
+      "duration": 3.47,
+      "framing": "MCU",
+      "function": "reveal_buildup",
+      "color_mood": "monochrome_high_key",
+      "subject_action": "the slow zoom-in continues and the third (striped-sweater) man's full face is revealed from behind the two front friends — he has wide bug-eyes and a surprised 'o' mouth (comic beat). No caption in most of this cut. All three faces now clearly visible, the back man's exaggerated startled expression carrying the comedy.",
+      "layout_grid": "center",
+      "subject_position": "center",
+      "subject_identity": "ensemble_three_friends",
+      "subject_relationship_to_protagonist": "main_character",
+      "mid_frame_path": "ADV-2026-035_frames/cut04_mid.png",
+      "subject_typo_layout": "typo_only_no_person",
+      "typo_motion": "자막 없음 구간(이전 자막 소멸 ~f200). 인물 표정 변화·줌인이 서사를 끌고감. 뒤 남성의 surprised 'o' 입이 코믹 포인트.",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "bust",
+      "gaze": "off_camera",
+      "eye_contact_effect": "뒤 남성이 정면을 향해 눈을 크게 뜸(놀란 코믹 비트)",
+      "props": [
+        "vertical rounded-rectangle card frame"
+      ],
+      "prop_semantics": "카드 윈도우 유지; 줌인으로 세 얼굴이 카드에 가득 참 — '얼굴들'을 부각",
+      "color_palette": [
+        "#ffffff",
+        "#111111"
+      ],
+      "color_intent": "순수 흑백(자막 없음). 표정 코미디에 집중",
+      "pose_description": "뒤 남성이 눈 크게·입 'o'로 놀란 표정, 앞 두 명은 차분. 정적 포즈 + 느린 줌인 + 표정 애니",
+      "subject_motion": "facial_expression_change_with_line_boil",
+      "prop_motion": "none",
+      "camera_motion": "locked_off",
+      "camera_motion_intensity": "none",
+      "camera_effect_local": "slow_scale_in_on_illustration",
+      "motion_blur": false,
+      "intra_cut_rhythm": "steady",
+      "transition_in": "caption_fade_out",
+      "transition_out": "continuous_zoom",
+      "vfx_in_shot": [],
+      "vfx_intensity_local": "subtle",
+      "fact_check_flag": null,
+      "notes": "Cut 4 (f196-300, 6.57-10.04s): 자막 없음. 줌인으로 뒤 줄무늬 스웨터 남성의 얼굴이 드러남(surprised 'o' 입). text_delta_upper 스파이크(f197-262)는 줌인으로 줄무늬·얼굴이 프레임에 들어오는 것. 세 얼굴 모두 노출.",
+      "visible_elements": {
+        "foreground": [
+          "woman in dark turtleneck (front-left)",
+          "man in light top (front-right)"
+        ],
+        "midground": [
+          "third man in striped sweater now fully revealed center-back, wide eyes + surprised 'o' mouth"
+        ],
+        "background": [
+          "pure flat white field",
+          "rounded-rectangle card outline (enlarged by zoom)"
+        ],
+        "lighting_env": [
+          "flat hand-drawn, no rendered light"
+        ],
+        "atmosphere": [
+          "clean white space, pen-line texture"
+        ]
+      },
+      "texture": {
+        "primary_subject": "hand_drawn_lineart",
+        "secondary_objects": [
+          "cross_hatch_shading",
+          "hand_drawn_lineart"
+        ],
+        "background_surface": "flat_white_paper",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "front",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "strong",
+        "key_to_fill_ratio": "1:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "none",
+        "overall_contrast": "hi_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#ffffff",
+          "#111111"
+        ],
+        "palette_role": {
+          "#ffffff": "background_dominant",
+          "#111111": "lineart_ink"
+        },
+        "color_relationship": "monochrome",
+        "temperature_balance": "balanced",
+        "saturation_strategy": "desaturated",
+        "contrast_type": "luminance_high",
+        "accent_color": "#111111",
+        "accent_ratio": "30_percent",
+        "brand_color_match": []
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A minimalist hand-drawn black-and-white illustration centered on a pure flat white 1920x1080 pixel 16:9 landscape background, in the warm friendly style of a Korean fintech doodle motion-graphic commercial, captured mid slow zoom-in at a closer point than before. A vertical rounded-rectangle card outline drawn with a thin slightly-wobbly hand-inked black pen line, now enlarged to roughly 26 percent of frame width and 66 percent of frame height by the ongoing zoom, frames three young Korean friends pressed closer and tighter together, their faces now filling much of the card. Center-back and tallest, standing between and slightly above the two front friends: a man in a bold horizontal-striped crew-neck sweater with evenly spaced thick black stripes and a dark collar, whose face is NOW FULLY revealed for the first time — he has large round wide-open bug-eyes drawn as big circles with small dot pupils and a small round surprised 'o' shaped open mouth, an exaggerated startled, deadpan-comic expression that reads as the visual gag of the beat; his short dark hair is drawn as a solid black scribbled mass with a small cowlick. Front-left: a woman with shoulder-length wavy side-parted hair in a dark cross-hatched knit turtleneck rendered near-solid black, her face clean white outline, eyes open as simple dots, calm, looking slightly forward-left. Front-right: a man with short cropped scribbled hair in a plain unshaded white sweater, calm, with a soft closed-mouth smile. All three figures are rendered in pure black ink lineart on white, loose confident organic hand-inked strokes with natural line-weight variation, small overshoots at stroke ends, and a faint frame-by-frame boil quality as if redrawn by hand each frame, with simple round dot eyes, single-line eyebrows, soft rounded jaws and minimal interior detail — and absolutely no color anywhere, a strict two-value monochrome drawing. There is NO caption text anywhere in this frame; the entire lower third of the frame is empty bright white (the previous caption has faded out). Generous empty white negative space remains around the slightly enlarged card: roughly 14 percent white above, empty white below, and white margins left and right, though the card is now larger and more dominant than in the opening. The drawing style is the warm friendly approachable Toss editorial-cartoon look, with the comedic wide-eyed startled expression of the back man clearly the focal gag of the composition. The texture is clean digital pen-on-paper with subtle line jitter and faintly rough ink edges, with no grain, no halftone, no gradient, no vignette and no photographic element. There is no rendered lighting at all — a perfectly even pure white field behind the drawing, no shadow, no highlight, no ambient occlusion. The frame is purely black ink on white with no color of any kind. The composition is centered and symmetrical about the vertical axis, the three clustered faces forming one single bold focal object, noticeably enlarged by the ongoing zoom so the expressions read clearly. Style anchor: Korean fintech hand-drawn doodle commercial, black ink character-cartoon lineart with boil, comic wide-eyed surprised-expression reveal beat, high-key pure white minimal background, centered composition, strict monochrome, no color, no text, no logo. The mood is a light comedic surprise as the third friend's startled face is unveiled.",
+        "t2i_negative": "color, photorealistic, 3D render, gradient, grain, halftone, watermark, real human faces, real logos, caption text, lower-third subtitle, harsh shadows",
+        "i2v_motion": "Continue the slow steady zoom-in (illustration scales up, faces growing and the back man's startled face emerging fully into view between the front two). Continuous line-boil on all contours. The back man's eyes widen and mouth pops into a surprised round 'o' as a small comic expression animation; the front two hold with faint breathing. No caption present (previous caption has faded out). Camera locked-off (growth is illustration scale). 3.47s, steady rhythm building to the reveal.",
+        "i2v_params": {
+          "clip_duration_sec": 3.47,
+          "camera_move": "locked_off",
+          "subject_motion_level": "micro",
+          "signature_effect": "lineart_boil",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; generic Korean cartoon characters; comic surprised expression; scale-in + boil; no caption; no logo"
+      }
+    },
+    {
+      "index": 5,
+      "duration": 2.96,
+      "framing": "MCU",
+      "function": "twist_setup",
+      "color_mood": "monochrome_high_key",
+      "subject_action": "tight three-friends portrait holds (zoom near its closest); the back striped-sweater man does a surprised 'o' mouth again as one of the group answers the clerk; Toss-blue caption '얼굴이요' (the deadpan answer: 'Face.') fades in at lower-center — the comedic twist that they will pay with their face.",
+      "layout_grid": "center",
+      "subject_position": "center",
+      "subject_identity": "ensemble_three_friends",
+      "subject_relationship_to_protagonist": "main_character",
+      "mid_frame_path": "ADV-2026-035_frames/cut05_mid.png",
+      "subject_typo_layout": "typo_separate_zone",
+      "typo_motion": "토스블루 자막 '얼굴이요'가 하단 중앙에 등장(f303~). 뒤 남성 입 'o' 립싱크. 줌인 거의 정점, 미세 보일.",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "bust",
+      "gaze": "off_camera",
+      "eye_contact_effect": "뒤 남성 정면 응시 + 'o' 입 (대사 전달 코믹 비트)",
+      "props": [
+        "vertical rounded-rectangle card frame"
+      ],
+      "prop_semantics": "카드 속 '얼굴들'이 곧 결제수단임을 암시 — 카드=얼굴 컨셉의 핵심 복선 회수 직전",
+      "color_palette": [
+        "#ffffff",
+        "#111111",
+        "#3182f6"
+      ],
+      "color_intent": "흑백+블루 자막. '얼굴이요' 반전 대사 강조",
+      "pose_description": "세 얼굴이 카드에 가득. 뒤 남성 놀란 'o' 입, 앞 두 명 차분. 정적 포즈 + 표정 립싱크",
+      "subject_motion": "lip_sync_expression_with_line_boil",
+      "prop_motion": "none",
+      "camera_motion": "locked_off",
+      "camera_motion_intensity": "none",
+      "camera_effect_local": "subtle_scale_settle",
+      "motion_blur": false,
+      "intra_cut_rhythm": "steady",
+      "transition_in": "caption_fade_in",
+      "transition_out": "morph_to_device",
+      "vfx_in_shot": [],
+      "vfx_intensity_local": "subtle",
+      "fact_check_flag": null,
+      "notes": "Cut 5 (f300-389, 10.04-13.00s): 자막 '얼굴이요'(반전 답변, VO 10.04-11.14). 뒤 남성 'o' 입. 줌인 정점에서 미세 정착. f386~ 카드가 3D 단말로 모핑 시작.",
+      "visible_elements": {
+        "foreground": [
+          "woman in dark turtleneck (front-left)",
+          "man in light top (front-right)"
+        ],
+        "midground": [
+          "third striped-sweater man center-back, surprised 'o' mouth, wide eyes"
+        ],
+        "background": [
+          "pure flat white field",
+          "rounded-rectangle card outline (near full zoom)"
+        ],
+        "lighting_env": [
+          "flat hand-drawn, no rendered light"
+        ],
+        "atmosphere": [
+          "clean white space, pen-line texture"
+        ]
+      },
+      "texture": {
+        "primary_subject": "hand_drawn_lineart",
+        "secondary_objects": [
+          "cross_hatch_shading",
+          "hand_drawn_lineart"
+        ],
+        "background_surface": "flat_white_paper",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "front",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "strong",
+        "key_to_fill_ratio": "1:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "none",
+        "overall_contrast": "hi_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#ffffff",
+          "#111111",
+          "#3182f6"
+        ],
+        "palette_role": {
+          "#ffffff": "background_dominant",
+          "#111111": "lineart_ink",
+          "#3182f6": "caption_blue_accent"
+        },
+        "color_relationship": "monochrome",
+        "temperature_balance": "balanced",
+        "saturation_strategy": "desaturated_with_pop",
+        "contrast_type": "luminance_high",
+        "accent_color": "#3182f6",
+        "accent_ratio": "5_percent",
+        "brand_color_match": [
+          "토스 블루 ≈ #3182F6 (자막)"
+        ]
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A minimalist hand-drawn black-and-white illustration centered on a pure flat white 1920x1080 pixel 16:9 landscape background, in the warm friendly style of a Korean fintech doodle motion-graphic commercial, with the slow zoom now near its closest point. A vertical rounded-rectangle card outline drawn with a thin slightly-wobbly hand-inked black pen line, enlarged to roughly 27 percent of frame width and 68 percent of frame height, tightly frames three young Korean friends whose faces now fill most of the card. Center-back and tallest, standing between the two front friends: a man in a bold horizontal-striped crew-neck sweater with evenly spaced thick black stripes and a dark collar, with large round wide-open eyes (big circles with small dot pupils) and a small round surprised 'o' shaped open mouth, mid-speech in a comic deadpan way as the group delivers its answer, his short dark hair a solid black scribbled mass. Front-left: a woman with shoulder-length wavy side-parted hair in a dark cross-hatched knit turtleneck rendered near-solid black, her face clean white outline, eyes open as simple dots, calm. Front-right: a man with short cropped scribbled hair in a plain unshaded white sweater, calm with a soft closed-mouth expression. All three are pure black ink lineart on white, loose confident organic hand-inked strokes with natural line-weight variation, small stroke-end overshoots, and a faint frame-by-frame boil quality as if redrawn by hand each frame, using simple round dot eyes, single-line eyebrows, soft rounded jaws and minimal interior detail, with absolutely no color in the figures — a strict two-value monochrome drawing. In the LOWER CENTER of the frame, in the empty white lower third about 80 percent down, a bold rounded geometric sans-serif Korean Hangul caption in bright Toss-blue (hex about #3182F6) reads exactly '얼굴이요' (a short deadpan one-word answer meaning 'My face.' or 'With my face.'), horizontally centered, about 18 percent of frame width, sitting clearly below the card in its own zone and not overlapping the illustration. Generous empty white negative space surrounds the now-enlarged card: a small white margin above, the caption zone below, and white margins left and right. The drawing style is the warm friendly approachable Toss editorial-cartoon look, with the back man's surprised round 'o' face as the comic focal point delivering the twist line of the joke. The texture is clean digital pen-on-paper with subtle line jitter and faintly rough ink edges, with no grain, no halftone, no gradient, no vignette and no photographic element. There is no rendered lighting at all — a perfectly even pure white field behind the drawing, no shadow, no highlight, no ambient occlusion. The ONLY color anywhere in the entire frame is the bright blue caption at the bottom; everything else is strictly black ink on white. The composition is centered and symmetrical about the vertical axis, the three clustered faces forming one single bold focal object near the peak of the zoom, with the short blue caption anchoring the lower third. Style anchor: Korean fintech hand-drawn doodle commercial, black ink character-cartoon lineart with boil, bright blue lower-third Korean subtitle in Toss-blue #3182F6, high-key pure white minimal background, centered composition, comedic deadpan twist beat, strict monochrome illustration with a single blue caption, no logo. The caption text '얼굴이요' must be preserved exactly and verbatim.",
+        "t2i_negative": "color in the illustration, photorealistic, 3D render, gradient, grain, halftone, watermark, real human faces, real logos, mistyped Hangul, caption over figures, harsh shadows",
+        "i2v_motion": "Zoom settles at its closest point with only the faintest residual scale drift. Continuous line-boil on all contours. The back striped-sweater man animates a small surprised 'o' mouth lip-sync as the group answers '얼굴이요'; the front two hold with faint breathing. The blue caption '얼굴이요' fades in and holds static at the lower center. Camera locked-off. Near the end, the card outline begins to morph/transform toward a 3D device (handoff to next cut). 2.96s, steady rhythm.",
+        "i2v_params": {
+          "clip_duration_sec": 2.96,
+          "camera_move": "locked_off",
+          "subject_motion_level": "micro",
+          "signature_effect": "lineart_boil",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; generic Korean cartoon characters; caption '얼굴이요' verbatim; boil + comic 'o' mouth; morph handoff at end; no logo"
+      }
+    },
+    {
+      "index": 6,
+      "duration": 3.35,
+      "framing": "MS",
+      "function": "product_demo",
+      "color_mood": "high_key_white_with_blue_ui",
+      "subject_action": "the rounded card morphs into a 3D-rendered white face-recognition payment kiosk (tall rounded device with a side camera/button bump on the right and a card-slot tray at the bottom). The three-friends illustration now sits ON the device screen; a Toss-blue circular scan ring sweeps around the central man's face while the other two fade to light gray, then a solid blue circle crops to just his recognized face. The screen then shows a blue-purple gradient check-circle with '결제 완료!' (Payment complete!).",
+      "layout_grid": "center",
+      "subject_position": "center",
+      "subject_identity": "protagonist_face_on_device",
+      "subject_relationship_to_protagonist": "main_character",
+      "mid_frame_path": "ADV-2026-035_frames/cut06_mid.png",
+      "subject_typo_layout": "typo_over_ui",
+      "typo_motion": "단말 화면 UI: 얼굴 스캔 블루 링 회전(f400~) → 솔리드 블루 원 얼굴 크롭(f420) → 그라데이션 체크원 + '결제 완료!' 텍스트 등장(f480). 모두 단말 화면 내부 모션.",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "environment",
+      "gaze": "to_camera",
+      "eye_contact_effect": "스캔되는 남성 얼굴이 화면 정면을 향함 — 얼굴인식 시연의 응시",
+      "props": [
+        "3D white face-recognition payment kiosk",
+        "blue face-scan ring UI",
+        "gradient check-mark circle UI"
+      ],
+      "prop_semantics": "흰색 3D 결제 단말 = 페이스페이 하드웨어/얼굴인식 결제 시연; 블루 스캔 링·체크원 = 인식 성공·결제 완료 피드백",
+      "color_palette": [
+        "#ffffff",
+        "#111111",
+        "#3182f6",
+        "#7b9cf6",
+        "#cfd8e3"
+      ],
+      "color_intent": "순백 단말 + 토스블루 UI 포인트. 비주체 인물은 회색으로 디엠퍼시스하여 '한 얼굴 인식'을 시각화",
+      "pose_description": "인물 없음(단말 오브젝트). 화면 속 일러스트 남성 얼굴이 스캔 대상. 단말은 정면 로크오프",
+      "subject_motion": "ui_scan_animation",
+      "prop_motion": "device static; on-screen scan ring rotates, face crops, check appears",
+      "camera_motion": "locked_off",
+      "camera_motion_intensity": "none",
+      "camera_effect_local": "none",
+      "motion_blur": false,
+      "intra_cut_rhythm": "steady",
+      "transition_in": "morph_from_card",
+      "transition_out": "white_wipe",
+      "vfx_in_shot": [
+        "ui_motion",
+        "morph",
+        "3d_render"
+      ],
+      "vfx_intensity_local": "moderate",
+      "fact_check_flag": null,
+      "notes": "Cut 6 (f389-490, 13.00-16.35s): 둥근 카드→흰색 3D 얼굴인식 결제 단말 모핑. 화면에 세 친구 일러스트, 블루 스캔 링 회전(f400)→얼굴 솔리드 블루 원 크롭(f420)→그라데이션 체크 + '결제 완료!'(f480). 와우컷. f490 화이트 와이프로 종료.",
+      "visible_elements": {
+        "foreground": [
+          "3D rendered white payment kiosk (tall rounded body, glossy white)",
+          "kiosk screen showing the three-friends illustration with blue face-scan ring on the central man"
+        ],
+        "midground": [
+          "side camera/scanner bump on the right of the device",
+          "card-slot tray at the bottom of the device"
+        ],
+        "background": [
+          "pure flat white field"
+        ],
+        "lighting_env": [
+          "soft even studio render light on the white 3D device (subtle ambient occlusion)"
+        ],
+        "atmosphere": [
+          "clean minimal product-render white space"
+        ]
+      },
+      "texture": {
+        "primary_subject": "matte_white_plastic_3d",
+        "secondary_objects": [
+          "glass_clear_screen",
+          "hand_drawn_lineart_on_screen"
+        ],
+        "background_surface": "flat_white",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "45deg_above",
+        "key_hardness": "diffused",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "strong",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": false,
+        "practical_lights": [
+          "단말 화면 발광(블루 UI)"
+        ],
+        "shadow_presence": "soft",
+        "overall_contrast": "hi_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#ffffff",
+          "#111111",
+          "#3182f6",
+          "#7b9cf6",
+          "#cfd8e3"
+        ],
+        "palette_role": {
+          "#ffffff": "device_and_background_dominant",
+          "#111111": "lineart_face_on_screen",
+          "#3182f6": "scan_ring_brand_blue",
+          "#7b9cf6": "gradient_check_purple_blue",
+          "#cfd8e3": "device_shadow_gray"
+        },
+        "color_relationship": "brand_dominant",
+        "temperature_balance": "cool_dominant",
+        "saturation_strategy": "desaturated_with_pop",
+        "contrast_type": "luminance_high",
+        "accent_color": "#3182f6",
+        "accent_ratio": "15_percent",
+        "brand_color_match": [
+          "토스 블루 ≈ #3182F6 (스캔 링·UI)"
+        ]
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A clean 3D-rendered product visualization on a pure flat white 1920x1080 pixel 16:9 landscape background, in the friendly Korean fintech commercial style. Centered in the frame stands a tall vertical rounded-rectangle white face-recognition payment kiosk, rendered in soft matte-to-glossy white plastic with gently rounded corners and edges, subtle soft studio shadows and mild ambient occlusion where it meets the ground; the device has a small protruding rounded camera/scanner bump on its right side (a smooth white disc housing the face camera), a thin dark elongated sensor slot at the very top of the screen bezel, and a horizontal recessed card-slot tray near the bottom of the device. The kiosk occupies roughly 30 percent of frame width and 75 percent of frame height, floating upright and centered on the white field. On the device's large bright white screen is displayed the hand-drawn black-and-white illustration of the three friends (the woman in the dark cross-hatched turtleneck, the man in the light top, and the central striped-sweater man), drawn in the same loose organic black ink lineart with boil as the earlier cuts. Overlaid on that screen, a bright Toss-blue (hex about #3182F6) circular SCAN RING is sweeping around the central man's face — a partial-to-near-full blue arc forming a face-detection circle with clean rounded stroke ends; as the scan progresses the two side friends fade and desaturate to a light cool gray (about #cfd8e3) so that only the central man's face remains in full crisp black ink, clearly emphasizing single-face biometric recognition of one registered user. The kiosk body is pure white with soft gentle reflective highlights along its rounded edges and a faint gradient of shading that gives it dimensional form; the bottom card-slot tray and the side camera bump read as the same smooth white plastic. The background is a completely flat uniform white field with only a faint soft contact shadow pooling directly under the base of the device to ground it. The color palette is dominated by white (the device plus the background together about 70 percent of the frame), with the black ink illustration on the screen (~12 percent), the bright Toss-blue scan ring and small UI accents (~10 percent), and the light cool gray of the faded side faces plus the device's soft contact shadow (~8 percent). Lighting is a soft even product-studio diffused key from about 45 degrees above-front at neutral 5500K with strong fill (key-to-fill roughly 2:1), producing soft edges, a soft grounding shadow, and an overall hi-key bright look with no harsh contrast. Texture reads as matte-glossy smooth white plastic on the device body, clear glossy glass on the screen surface, hand-drawn pen lineart on the displayed illustration, and no atmospheric texture, no grain, no dust. The overall aesthetic is a Korean fintech biometric-payment hardware demonstration: a friendly clean white face-scan kiosk recognizing a hand-drawn cartoon face via a sweeping blue ring, communicating that the face alone completes the payment. Style anchor: clean 3D product render, high-key pure white studio background, Toss-blue UI accent #3182F6, soft matte white rounded device, biometric face-scan demonstration, single-object centered composition, no real trademarked logos, and no real or photoreal human faces (the only face shown is a cartoon ink drawing on the screen).",
+        "t2i_negative": "dark background, dramatic shadows, real human face, photoreal face, grain, gradient background, multiple devices, real brand logos, watermark, cluttered UI, distorted device geometry",
+        "i2v_motion": "Start from the card-to-device morph completing into the white 3D kiosk. On the screen: a blue face-scan ring sweeps and closes around the central man's face (~1s), the other two friends desaturate to light gray; then the recognized face crops into a solid blue circle (face avatar); then the screen transitions to a blue-purple gradient circle with a white check-mark and the Korean text '결제 완료!' (Payment complete!) appearing below it. The kiosk body holds locked-off and static; all motion is on-screen UI. Soft studio lighting steady. 3.35s, steady demo pacing; ends on a quick full-white wipe handing off to the next cut.",
+        "i2v_params": {
+          "clip_duration_sec": 3.35,
+          "camera_move": "locked_off",
+          "subject_motion_level": "still",
+          "signature_effect": "ui_face_scan",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; device generic white kiosk type; on-screen face is cartoon lineart (no real-face likeness); '결제 완료!' verbatim; UI blue #3182F6; no real logo"
+      }
+    },
+    {
+      "index": 7,
+      "duration": 0.27,
+      "framing": "WS",
+      "function": "transition_bridge",
+      "color_mood": "pure_white",
+      "subject_action": "a brief full-white bridge frame as the device wipes off-screen and the composition resets to white before the punchline typography; effectively an empty white flash transition.",
+      "layout_grid": "center",
+      "subject_position": "center",
+      "subject_identity": "none_environment",
+      "subject_relationship_to_protagonist": null,
+      "mid_frame_path": "ADV-2026-035_frames/cut07_mid.png",
+      "subject_typo_layout": "typo_only_no_person",
+      "typo_motion": "내용 없는 화이트 브릿지(f490-497). shift_x/y가 159/89로 박혀 화면 밖으로 콘텐츠가 슬라이드 아웃됨을 시사. 다음 펀치라인 타이포로 연결.",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "environment",
+      "gaze": "none",
+      "eye_contact_effect": null,
+      "props": [],
+      "prop_semantics": null,
+      "color_palette": [
+        "#ffffff"
+      ],
+      "color_intent": "순백 플래시로 장면 리셋 — 펀치라인 임팩트를 위한 호흡",
+      "pose_description": "오브젝트 없음. 순백 화면.",
+      "subject_motion": "none",
+      "prop_motion": "content slides off-screen (white wipe)",
+      "camera_motion": "locked_off",
+      "camera_motion_intensity": "none",
+      "camera_effect_local": "white_wipe",
+      "motion_blur": false,
+      "intra_cut_rhythm": "static",
+      "transition_in": "white_wipe",
+      "transition_out": "typewriter_in",
+      "vfx_in_shot": [],
+      "vfx_intensity_local": "subtle",
+      "fact_check_flag": null,
+      "notes": "Cut 7 (f490-497, 16.35-16.62s): 내용 없는 화이트 브릿지(8프레임). metrics shift_x=159/shift_y=89 고정 = 콘텐츠가 프레임 밖. 펀치라인 타이포 진입 직전의 짧은 화이트 호흡.",
+      "visible_elements": {
+        "foreground": [],
+        "midground": [],
+        "background": [
+          "pure flat white field (empty)"
+        ],
+        "lighting_env": [
+          "none (flat white)"
+        ],
+        "atmosphere": [
+          "blank white, no grain"
+        ]
+      },
+      "texture": {
+        "primary_subject": "flat_white",
+        "secondary_objects": [],
+        "background_surface": "flat_white",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "front",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "strong",
+        "key_to_fill_ratio": "1:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "none",
+        "overall_contrast": "hi_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#ffffff"
+        ],
+        "palette_role": {
+          "#ffffff": "full_frame_white"
+        },
+        "color_relationship": "monochrome",
+        "temperature_balance": "neutral",
+        "saturation_strategy": "desaturated",
+        "contrast_type": "luminance_low",
+        "accent_color": "#ffffff",
+        "accent_ratio": "5_percent",
+        "brand_color_match": []
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A completely empty pure flat white 1920x1080 pixel 16:9 landscape frame — a blank uniform white field with no objects, no text, no illustration, no device, no characters, nothing but perfectly even bright white (approximately hex #ffffff) across every single pixel of the frame. This is an intentional transitional bridge frame, a brief white flash or clean wipe used as a beat between two compositions in a friendly Korean fintech doodle motion-graphic commercial: the preceding payment-complete kiosk has just slid and wiped fully off-screen, and the upcoming bold blue punchline headline typography has not yet begun to appear, so for a fraction of a second the stage is reset to pure empty white. There is zero gradient, zero texture, zero film grain, zero halftone, zero shadow, zero vignette, zero noise, and zero color — it is a single flat clean white plane, consistent with this campaign's signature ultra-minimal high-key white background that runs through every cut and lets each isolated element (the rounded card, the hand-drawn characters, the 3D white kiosk, the kinetic blue typography, the brand marks) read clearly against an unbroken white void. The narrative and rhythmic purpose of this frame is breathing room and pacing: a short clean exhale of empty white that resets the viewer's eye and creates a crisp beat of anticipation immediately before the witty Toss-blue Korean punchline headline types in character by character on the next composition. In editorial terms it functions like a hard white cut or quick wipe rather than a held shot, but as a single still it is deliberately and entirely blank. Because there is no subject, there is no lighting, no perspective, no depth, no horizon and no rendered form — only the flat white field itself, which is the constant canvas of the whole spot. If reproduced as part of a sequence, this frame should remain pure white with no artifacts so the transition reads as a clean snap of negative space rather than a glitch or fade-to-gray. Style anchor: ultra-minimal high-key pure white field, transitional flash or wipe frame in a Korean commercial motion-graphic, brand white-ground discipline, no content, no color, no texture, no logo, no text. The frame is intentionally minimal — its meaning is entirely in its emptiness and timing within the edit, a momentary white pause that heightens the impact of the punchline that follows. To describe it exhaustively for faithful reproduction: the white is not warm-white or cool-white but a neutral paper-bright white identical to the background used in every other cut of the commercial, so that across the whole spot the negative space reads as one continuous unbroken canvas and the cuts feel like elements entering and leaving a single white world rather than separate scenes. There are no edge feathering, no corner gradients, no subtle lens vignetting, no rounded safe-area marks, no letterboxing bars, no UI chrome, no timecode, no registration marks, no watermark, and no faint ghost of the outgoing kiosk or the incoming headline; the outgoing content has fully cleared the frame and the incoming content has not yet entered, so the plate is genuinely empty. Compositionally it is a true full-bleed white field filling the entire 1920 by 1080 raster edge to edge, with the implied center of attention simply being the geometric center of the empty frame where, a beat later, the blue punchline headline will begin to type. This emptiness is a deliberate craft choice characteristic of premium minimal motion design: confident use of nothing, a clean rest between two strong beats. In a recreation pipeline this still should be generated as a flat white image and used as a one- to eight-frame wipe or flash between the payment-complete device cut and the punchline-typography cut, preserving the snappy rhythm of the original edit.",
+        "t2i_negative": "any object, text, illustration, device, color, gradient, grain, shadow, vignette, logo, watermark, texture",
+        "i2v_motion": "A fast clean white wipe: the previous content slides fully off-screen to the right/up (matching a large positive shift) leaving a pure white frame for a fraction of a second, then immediately the next cut's blue Korean headline begins to type in. Very short, ~0.27s, snappy transitional beat, no camera move.",
+        "i2v_params": {
+          "clip_duration_sec": 0.27,
+          "camera_move": "locked_off",
+          "subject_motion_level": "still",
+          "signature_effect": "white_wipe",
+          "pacing": "accelerating",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; blank white transitional bridge; no content, no logo"
+      }
+    },
+    {
+      "index": 8,
+      "duration": 2.2,
+      "framing": "WS",
+      "function": "punchline_kinetic_typo",
+      "color_mood": "high_key_white_with_blue_typo",
+      "subject_action": "on the white frame, a bold Toss-blue Korean headline types in character by character (typewriter): '얼굴이 밥 먹여줬다' (literally 'my face bought the meal' — the pun payoff that your face is the payment method). Center-set, large bold rounded sans-serif, settles with a slight bounce.",
+      "layout_grid": "center",
+      "subject_position": "center",
+      "subject_identity": "none_environment",
+      "subject_relationship_to_protagonist": null,
+      "mid_frame_path": "ADV-2026-035_frames/cut08_mid.png",
+      "subject_typo_layout": "typo_only_no_person",
+      "typo_motion": "헤드라인 '얼굴이 밥 먹여줬다'가 좌→우 타이프라이터/리빌로 글자 단위 등장(f498~f560), 완성 후 살짝 바운스 정착. 토스블루 볼드.",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "environment",
+      "gaze": "none",
+      "eye_contact_effect": null,
+      "props": [],
+      "prop_semantics": null,
+      "color_palette": [
+        "#ffffff",
+        "#3182f6"
+      ],
+      "color_intent": "순백 위 토스블루 단색 타이포. 카피 임팩트 극대화(미니멀 키네틱 타이포)",
+      "pose_description": "인물 없음. 중앙 대형 카피 타이포만.",
+      "subject_motion": "none",
+      "prop_motion": "none",
+      "camera_motion": "locked_off",
+      "camera_motion_intensity": "none",
+      "camera_effect_local": "none",
+      "motion_blur": false,
+      "intra_cut_rhythm": "accelerating",
+      "transition_in": "typewriter_in",
+      "transition_out": "device_pop_in",
+      "vfx_in_shot": [
+        "kinetic_typo"
+      ],
+      "vfx_intensity_local": "moderate",
+      "fact_check_flag": null,
+      "notes": "Cut 8 (f498-563, 16.62-18.82s): 화이트 배경 위 토스블루 헤드라인 '얼굴이 밥 먹여줬다' 타이프라이터 등장(f530 '얼굴이 밥 먹', f560 완성). VO 16.48-18.84 일치. 펀치라인 와우컷. f564 단말 팝인으로 전환.",
+      "visible_elements": {
+        "foreground": [
+          "bold Toss-blue Korean headline '얼굴이 밥 먹여줬다' (center, large)"
+        ],
+        "midground": [],
+        "background": [
+          "pure flat white field"
+        ],
+        "lighting_env": [
+          "none (flat white)"
+        ],
+        "atmosphere": [
+          "blank white, no grain"
+        ]
+      },
+      "texture": {
+        "primary_subject": "flat_vector_type",
+        "secondary_objects": [],
+        "background_surface": "flat_white",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "front",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "strong",
+        "key_to_fill_ratio": "1:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "none",
+        "overall_contrast": "hi_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#ffffff",
+          "#3182f6"
+        ],
+        "palette_role": {
+          "#ffffff": "background_dominant",
+          "#3182f6": "headline_brand_blue"
+        },
+        "color_relationship": "monochrome_with_brand_accent",
+        "temperature_balance": "cool_accent_on_neutral",
+        "saturation_strategy": "desaturated_with_pop",
+        "contrast_type": "hue_brand",
+        "accent_color": "#3182f6",
+        "accent_ratio": "15_percent",
+        "brand_color_match": [
+          "토스 블루 ≈ #3182F6 (헤드라인)"
+        ]
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A bold minimalist kinetic-typography title-card frame on a pure flat white 1920x1080 pixel 16:9 landscape background, in the friendly Korean fintech commercial style, matching the spot's signature high-key white-ground discipline. Centered in the frame, occupying roughly the middle horizontal band at about 45 to 55 percent of frame height, is a single line of large bold Korean Hangul headline text reading exactly '얼굴이 밥 먹여줬다' (a witty pun meaning, literally, 'my face bought the meal' or 'my face fed me' — the comedic payoff that one's face itself is the payment method). The text is set in a heavy bold rounded geometric sans-serif Hangul typeface with friendly slightly-rounded terminals, colored a single bright friendly Toss-blue (hex approximately #3182F6), with crisp clean solid edges, no outline, no drop shadow, no gradient, no bevel and no texture inside the letterforms. The headline is horizontally centered and sized to roughly 55 to 60 percent of frame width as one continuous single line, making it the sole dominant element on an otherwise completely empty white stage. The full remainder of the frame is pure flat uniform white, with generous empty white space above the line (about 45 percent of frame height) and below it (about 45 percent of frame height), plus comfortable white margins to the left and right of the text. There is no illustration, no device, no characters, no icon, no secondary text and no other graphic anywhere — just the one bold blue Korean headline floating on clean white. The texture is clean flat digital vector type on a uniform white field, with zero film grain, zero gradient, zero shadow, zero halftone, zero vignette and zero photographic element. Because it is flat typography there is no lighting, no perspective and no depth — the brand-blue letters sit perfectly flat on the white plane. The aesthetic is a confident punchline title card: a single witty Korean line rendered in the brand's blue as the comedic climax of the commercial, the verbal payoff of the running 'face' wordplay (face as payment). The strong contrast between the saturated friendly blue lettering and the surrounding pure white maximizes legibility and impact, and the extreme negative space concentrates all attention on the words. Style anchor: Korean fintech kinetic-typography punchline title card, bold rounded Hangul sans-serif, single Toss-blue color #3182F6 on pure white, ultra-minimal centered composition, generous negative space, no illustration, no logo, brand white-ground discipline. The headline text '얼굴이 밥 먹여줬다' must be preserved exactly and verbatim with no alteration. To describe the typographic craft more fully for faithful recreation: the Hangul is set in a single weight, heavy and even, with generous but not loose letter-spacing so each syllable block reads clearly at a glance; the spacing between the spaced words (얼굴이 / 밥 / 먹여줬다) follows natural Korean word-spacing so the pun lands cleanly when read aloud. The baseline of the single line sits just below the vertical midline, optically centered so the mass of the text balances the empty space above and below. There is no italic slant, no condensed or extended distortion, no all-caps equivalent, no underline, no highlight bar behind the text, and no secondary smaller line — the punchline stands completely alone. The blue is a flat solid fill at full opacity with no inner shadow, no glow, no stroke and no per-letter color variation, so the line reads as one confident unified statement in the brand color. The white field behind extends full-bleed to all four edges of the 1920 by 1080 frame with no border, no vignette and no texture. This is the comedic peak of the spot rendered as pure type, and its power comes from restraint: one witty Korean sentence, one brand-blue color, vast clean white, perfectly centered. In a recreation pipeline this still is generated as the settled end-state of a left-to-right typewriter reveal, and is held briefly before the device pops back in.",
+        "t2i_negative": "illustration, device, photo, gradient, grain, shadow, outline text, multiple colors, serif font, mistyped Hangul, watermark, logo",
+        "i2v_motion": "On the white frame, the blue Korean headline '얼굴이 밥 먹여줬다' types in character by character left-to-right (typewriter/reveal), each syllable popping in quickly; once complete the whole line settles with a subtle scale bounce. The text stays bold Toss-blue on white. Camera locked-off, no other motion. 2.2s, accelerating-then-settle rhythm; at the end the composition transitions as the 3D kiosk pops back in for the next cut.",
+        "i2v_params": {
+          "clip_duration_sec": 2.2,
+          "camera_move": "locked_off",
+          "subject_motion_level": "still",
+          "signature_effect": "typewriter_kinetic_typo",
+          "pacing": "accelerating",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; headline '얼굴이 밥 먹여줬다' verbatim; Toss-blue #3182F6; typewriter motion; no logo"
+      }
+    },
+    {
+      "index": 9,
+      "duration": 2.58,
+      "framing": "MS",
+      "function": "slogan_product",
+      "color_mood": "high_key_white_with_blue_ui",
+      "subject_action": "the white 3D face-recognition kiosk pops back in (now with a small stand/base) and slowly rotates in 3D (turntable), while a Toss-blue Korean tagline types onto its screen: '결제의 새얼굴' (The new face of payment — a pun on 얼굴/face). The device tilts to a dynamic three-quarter view as it rotates.",
+      "layout_grid": "center",
+      "subject_position": "center",
+      "subject_identity": "none_environment",
+      "subject_relationship_to_protagonist": null,
+      "mid_frame_path": "ADV-2026-035_frames/cut09_mid.png",
+      "subject_typo_layout": "typo_over_ui",
+      "typo_motion": "단말 화면에 '결제의 / 새얼굴' 2줄 타이프라이터 등장(f568~f575 settle). 단말 자체가 정면→3/4 틸트로 3D 회전(f615~f625).",
+      "camera_angle": "eye_level",
+      "camera_facing": "three_quarter",
+      "shot_scope": "environment",
+      "gaze": "none",
+      "eye_contact_effect": null,
+      "props": [
+        "3D white face-recognition payment kiosk with stand/base"
+      ],
+      "prop_semantics": "단말의 3D 턴테이블 회전 = 제품의 입체감·세련미 강조; 화면 슬로건으로 제품 포지셔닝 선언",
+      "color_palette": [
+        "#ffffff",
+        "#3182f6",
+        "#cfd8e3"
+      ],
+      "color_intent": "흰 단말 + 토스블루 슬로건. 제품을 브랜드 컬러로 각인",
+      "pose_description": "인물 없음(단말 오브젝트). 단말이 정면에서 3/4 측면으로 회전하며 화면에 슬로건 타이포.",
+      "subject_motion": "none",
+      "prop_motion": "device turntable rotation (frontal to three-quarter tilt)",
+      "camera_motion": "locked_off",
+      "camera_motion_intensity": "none",
+      "camera_effect_local": "object_3d_turntable_rotation",
+      "motion_blur": false,
+      "intra_cut_rhythm": "steady",
+      "transition_in": "device_pop_in",
+      "transition_out": "cut_to_wordmark",
+      "vfx_in_shot": [
+        "ui_motion",
+        "3d_render",
+        "kinetic_typo"
+      ],
+      "vfx_intensity_local": "moderate",
+      "fact_check_flag": null,
+      "notes": "Cut 9 (f564-641, 18.82-21.40s): 흰 3D 단말(스탠드 포함) 재등장 + 화면에 '결제의 새얼굴' 타이프라이터(f575 mid-typing). 단말 3D 턴테이블 회전(f615 정면→f625 3/4 틸트). VO 19.34-20.86 일치. 슬로건 컷.",
+      "visible_elements": {
+        "foreground": [
+          "3D rendered white payment kiosk with stand/base, rotating",
+          "Toss-blue Korean tagline '결제의 새얼굴' on the device screen"
+        ],
+        "midground": [
+          "device stand/base (white), side camera bump"
+        ],
+        "background": [
+          "pure flat white field"
+        ],
+        "lighting_env": [
+          "soft even studio render light on white device with subtle reflections"
+        ],
+        "atmosphere": [
+          "clean minimal product-render white space"
+        ]
+      },
+      "texture": {
+        "primary_subject": "matte_white_plastic_3d",
+        "secondary_objects": [
+          "glass_clear_screen",
+          "flat_vector_type"
+        ],
+        "background_surface": "flat_white",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "45deg_above",
+        "key_hardness": "diffused",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "strong",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": false,
+        "practical_lights": [
+          "단말 화면 발광"
+        ],
+        "shadow_presence": "soft",
+        "overall_contrast": "hi_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#ffffff",
+          "#3182f6",
+          "#cfd8e3"
+        ],
+        "palette_role": {
+          "#ffffff": "device_and_background_dominant",
+          "#3182f6": "slogan_brand_blue",
+          "#cfd8e3": "device_shadow_gray"
+        },
+        "color_relationship": "brand_dominant",
+        "temperature_balance": "cool_accent_on_neutral",
+        "saturation_strategy": "desaturated_with_pop",
+        "contrast_type": "hue_brand",
+        "accent_color": "#3182f6",
+        "accent_ratio": "15_percent",
+        "brand_color_match": [
+          "토스 블루 ≈ #3182F6 (슬로건)"
+        ]
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A clean 3D-rendered product visualization on a pure flat white 1920x1080 pixel 16:9 landscape background, in the friendly Korean fintech commercial style with the spot's signature high-key white ground. Centered in the frame is a tall vertical rounded-rectangle white face-recognition payment kiosk shown standing on a small white wedge-shaped stand or base, rendered in soft matte-to-glossy white plastic with gently rounded corners and edges, mild soft studio shadows and subtle ambient occlusion where the stand meets the floor; the device has a small rounded camera/scanner bump on its right side, a thin dark elongated sensor slot at the top of the screen bezel, and a horizontal recessed card-slot tray near the bottom. The kiosk is shown rotated into a dynamic slight three-quarter perspective, turned a bit toward the viewer's left as part of a slow turntable rotation so one side face and the camera bump catch the light, occupying roughly 32 percent of frame width and 78 percent of frame height. On the bright white screen of the device, set in a bold rounded geometric Korean Hangul sans-serif, is a two-line Toss-blue (hex about #3182F6) tagline reading exactly '결제의' on the first line and '새얼굴' on the second line — together '결제의 새얼굴', meaning 'the new face of payment', a deliberate pun on the word face (얼굴). The slogan text is large and centered on the screen, solid brand-blue, with no outline, no drop shadow and no gradient inside the letters. The device body is pure white with soft gentle reflective highlights running along its rounded edges and a faint form-shading gradient that gives it dimension; the wedge stand and the card-slot tray read as the same smooth white plastic. The background is a completely flat uniform white field with only a faint soft contact shadow pooling beneath the stand to ground the object. The color palette is dominated by white (device plus background together about 72 percent of the frame), with the bright Toss-blue slogan (~15 percent) and the light cool gray of the soft contact shadow and subtle form shading (~13 percent). Lighting is a soft even product-studio diffused key from about 45 degrees above-front at neutral 5500K with strong fill (key-to-fill roughly 2:1), giving soft edges, a soft grounding shadow and a bright hi-key look with gentle moving reflections appropriate to a rotating object. Texture reads as smooth matte-glossy white plastic on the body and stand, clear glossy glass on the screen carrying flat vector type, with no atmospheric texture, no grain and no dust. The overall aesthetic is a Korean fintech biometric-payment hardware hero shot with the campaign slogan displayed on the device screen, positioning the product as the new face of payment. Style anchor: clean 3D product render, three-quarter rotated white kiosk on a white stand, high-key pure white studio background, Toss-blue slogan #3182F6 on the screen, single-object centered composition, no real trademarked logos, no real or photoreal human faces. The slogan text '결제의 새얼굴' must be preserved exactly and verbatim. For faithful recreation, note that the on-screen slogan is large enough to nearly fill the width of the device screen, set in the same friendly bold rounded Hangul weight used elsewhere in the spot, with the two lines stacked and centered on the display; the screen itself is bright white so the blue type reads with high contrast, and there are no other UI elements, icons or chrome on the screen besides the two-line slogan. The device's three-quarter turn reveals a hint of its right side surface and the rounded camera bump, reinforcing that it is a real dimensional object rather than a flat card, and the subtle reflections traveling across the glossy white body sell the slow rotation. The composition keeps the kiosk as the single hero object centered on an otherwise empty white frame, full-bleed white to all edges, with no border or vignette, true to the campaign's clean minimal white-ground style.",
+        "t2i_negative": "dark background, dramatic shadows, real human face, photo, grain, gradient background, multiple devices, real brand logos, watermark, distorted geometry, mistyped Hangul",
+        "i2v_motion": "The white kiosk pops/scales in onto the white stage, then performs a slow smooth 3D turntable rotation from a frontal view to a dynamic three-quarter tilt (rotating around its vertical axis), the stand visible. On the screen, the Toss-blue Korean tagline '결제의 / 새얼굴' types/reveals onto the display and settles. Soft studio lighting steady with gentle moving reflections as it rotates. Device body locked in place on the stand (only rotating, no camera move). 2.58s, steady rhythm; cuts to the brand wordmark next.",
+        "i2v_params": {
+          "clip_duration_sec": 2.58,
+          "camera_move": "locked_off",
+          "subject_motion_level": "still",
+          "signature_effect": "object_3d_turntable",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; device generic white kiosk type; slogan '결제의 새얼굴' verbatim; Toss-blue #3182F6; 3D turntable; no real logo"
+      }
+    },
+    {
+      "index": 10,
+      "duration": 2.19,
+      "framing": "MS",
+      "function": "product_wordmark_reveal",
+      "color_mood": "high_key_white_with_blue_typo",
+      "subject_action": "the 'FacePay' product wordmark animates in center-frame on white: letters slide/settle into place, set in a bold sans-serif with a light-to-dark blue gradient ('Face' lighter blue, 'Pay' darker Toss-blue). Clean brand wordmark reveal.",
+      "layout_grid": "center",
+      "subject_position": "center",
+      "subject_identity": "none_environment",
+      "subject_relationship_to_protagonist": null,
+      "mid_frame_path": "ADV-2026-035_frames/cut10_mid.png",
+      "subject_typo_layout": "typo_only_no_person",
+      "typo_motion": "'FacePay' 워드마크가 글자 슬라이드/세틀로 등장(f655 mid-anim, f700 정착). 라이트→다크 블루 그라데이션.",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "environment",
+      "gaze": "none",
+      "eye_contact_effect": null,
+      "props": [],
+      "prop_semantics": null,
+      "color_palette": [
+        "#ffffff",
+        "#5b9bf6",
+        "#2b6ef0"
+      ],
+      "color_intent": "순백 위 블루 그라데이션 워드마크. 제품 브랜드명 각인",
+      "pose_description": "인물 없음. 중앙 'FacePay' 워드마크.",
+      "subject_motion": "none",
+      "prop_motion": "none",
+      "camera_motion": "locked_off",
+      "camera_motion_intensity": "none",
+      "camera_effect_local": "none",
+      "motion_blur": false,
+      "intra_cut_rhythm": "steady",
+      "transition_in": "cut",
+      "transition_out": "cut_to_brand_logo",
+      "vfx_in_shot": [
+        "kinetic_typo"
+      ],
+      "vfx_intensity_local": "subtle",
+      "fact_check_flag": null,
+      "notes": "Cut 10 (f642-706, 21.40-23.59s): 화이트 배경 위 'FacePay' 워드마크 슬라이드 인(f655)→정착(f700). 라이트블루'Face'+다크블루'Pay' 그라데이션. VO '페이스페이' 21.56-22.56 일치. 제품명 리빌.",
+      "visible_elements": {
+        "foreground": [
+          "'FacePay' wordmark (blue gradient, center)"
+        ],
+        "midground": [],
+        "background": [
+          "pure flat white field"
+        ],
+        "lighting_env": [
+          "none (flat white)"
+        ],
+        "atmosphere": [
+          "blank white, no grain"
+        ]
+      },
+      "texture": {
+        "primary_subject": "flat_vector_type",
+        "secondary_objects": [],
+        "background_surface": "flat_white",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "front",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "strong",
+        "key_to_fill_ratio": "1:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "none",
+        "overall_contrast": "hi_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#ffffff",
+          "#5b9bf6",
+          "#2b6ef0"
+        ],
+        "palette_role": {
+          "#ffffff": "background_dominant",
+          "#5b9bf6": "wordmark_face_light_blue",
+          "#2b6ef0": "wordmark_pay_dark_blue"
+        },
+        "color_relationship": "monochrome_blue_gradient",
+        "temperature_balance": "cool_accent_on_neutral",
+        "saturation_strategy": "desaturated_with_pop",
+        "contrast_type": "hue_brand",
+        "accent_color": "#2b6ef0",
+        "accent_ratio": "15_percent",
+        "brand_color_match": [
+          "토스 블루 계열 그라데이션 ≈ #5b9bf6→#2b6ef0"
+        ]
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A minimalist brand-wordmark reveal frame on a pure flat white 1920x1080 pixel 16:9 landscape background, in the friendly Korean fintech commercial style with the spot's signature high-key white ground. Centered horizontally and vertically is a single product wordmark reading exactly 'FacePay' as one continuous unspaced word in a bold modern geometric sans-serif typeface with clean even strokes, set with a smooth left-to-right blue gradient across the letters: the 'Face' portion begins in a lighter friendly sky-blue (hex about #5b9bf6) and transitions smoothly rightward into the 'Pay' portion in a deeper saturated Toss-blue (hex about #2b6ef0). The letters are crisp, geometric and bold, with consistent stroke weight, no outline, no drop shadow, no bevel and no texture inside the glyphs, sitting as the single focal element of the frame. The wordmark occupies roughly 30 percent of frame width and about 9 to 10 percent of frame height, centered with very generous empty white space around it — about 45 percent of frame height as empty white above the word and a similar amount below, plus large clean white margins to the left and right. The entire remainder of the frame is pure flat uniform white. There is no other element anywhere — no illustration, no device, no characters, no Korean text, no icon and no secondary graphic. The texture is clean flat digital vector type on a uniform white field, with zero film grain, zero gradient in the background itself (the gradient lives only inside the letterforms), zero shadow, zero halftone, zero vignette and zero photographic element. Because it is flat typography there is no lighting, no perspective and no depth; the gradient-blue word sits perfectly flat on the white plane. The aesthetic is a confident, clean product-name reveal card for a biometric face-payment product, the kind of crisp typographic beat that names the product right before the parent brand logo. The contrast between the cool blue gradient lettering and the surrounding pure white maximizes legibility, and the extreme negative space gives the single word a premium, assured presence. Style anchor: Korean fintech brand wordmark reveal card, bold geometric sans-serif, left-to-right blue gradient lettering from #5b9bf6 to #2b6ef0, pure white minimal background, centered single-element composition, generous negative space, brand white-ground discipline. The wordmark text 'FacePay' must be preserved exactly and verbatim, but rendered as a GENERIC typographic treatment rather than an exact specific trademarked logo mark (copyright-safe generic lettering). For faithful recreation, note the following details: the capital F of 'Face' and the capital P of 'Pay' are the two uppercase letters in the otherwise lowercase camel-case word, marking the two halves of the compound name; the gradient flows continuously across the whole word from left to right so the 'F' is the lightest blue and the final 'y' is the deepest blue, with a smooth seamless blend rather than a hard split between the two halves. The letterforms have a friendly modern character — even stroke widths, gently rounded corners and open counters — consistent with a contemporary fintech brand voice, and they sit on a single baseline with tight, confident letter-spacing so the word reads as one unit. There is no tagline, no Korean text, no registered-trademark symbol, no icon, no underline and no container shape around the wordmark; it floats alone. The frame is full-bleed pure white to all four edges with no border, no vignette, no gradient in the background and no texture, keeping the composition clean and premium. This single-word reveal beat names the product immediately before the parent-brand logo lockup, and its restraint — one gradient-blue word centered in vast white — gives it a calm, assured, trustworthy feel appropriate to a payment product.",
+        "t2i_negative": "illustration, device, photo, gradient background, grain, shadow, serif font, multiple words, icon, mistyped letters, watermark, specific trademarked logo mark",
+        "i2v_motion": "On the white frame, the 'FacePay' wordmark animates in: the letters slide/settle into their final positions (e.g. characters easing inward from slight offsets) and lock into the centered blue-gradient wordmark. Subtle, clean motion. Once settled it holds static. Camera locked-off, no other motion. 2.19s, steady rhythm; cuts to the brand logo next.",
+        "i2v_params": {
+          "clip_duration_sec": 2.19,
+          "camera_move": "locked_off",
+          "subject_motion_level": "still",
+          "signature_effect": "wordmark_settle",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; 'FacePay' wordmark verbatim as generic type treatment (no trademarked mark); blue gradient #5b9bf6 to #2b6ef0; slide-settle motion"
+      }
+    },
+    {
+      "index": 11,
+      "duration": 1.07,
+      "framing": "MS",
+      "function": "brand_logo",
+      "color_mood": "high_key_white_with_blue_logo",
+      "subject_action": "the Toss brand logo appears center-frame on white: the signature 3D-styled glossy blue split-circle/coin mark (two halves, blue gradient) beside the lowercase 'toss' wordmark in dark charcoal; holds briefly, then begins to fade out.",
+      "layout_grid": "center",
+      "subject_position": "center",
+      "subject_identity": "none_environment",
+      "subject_relationship_to_protagonist": null,
+      "mid_frame_path": "ADV-2026-035_frames/cut11_mid.png",
+      "subject_typo_layout": "typo_only_no_person",
+      "typo_motion": "토스 로고(블루 3D 분할원 심볼 + 'toss' 워드마크) 정적 표시(f707~f732), 이후 페이드 아웃(f733~f738).",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "environment",
+      "gaze": "none",
+      "eye_contact_effect": null,
+      "props": [],
+      "prop_semantics": null,
+      "color_palette": [
+        "#ffffff",
+        "#3182f6",
+        "#1f2533"
+      ],
+      "color_intent": "순백 위 토스 블루 심볼 + 다크 워드마크. 모기업 브랜드 신뢰 각인",
+      "pose_description": "인물 없음. 중앙 토스 로고(심볼+워드마크).",
+      "subject_motion": "none",
+      "prop_motion": "none",
+      "camera_motion": "locked_off",
+      "camera_motion_intensity": "none",
+      "camera_effect_local": "none",
+      "motion_blur": false,
+      "intra_cut_rhythm": "static",
+      "transition_in": "cut",
+      "transition_out": "fade_out",
+      "vfx_in_shot": [
+        "3d_render"
+      ],
+      "vfx_intensity_local": "subtle",
+      "fact_check_flag": "logo mark abstracted to generic type (실제 토스 심볼은 generic 3D 분할원으로 추상화)",
+      "notes": "Cut 11 (f707-738, 23.59-24.66s): 화이트 배경 위 토스 브랜드 로고 — 블루 3D 글로시 분할원 심볼 + 'toss' 다크 워드마크. VO '토스' 23.36-24.26 일치. f733~ 페이드 아웃.",
+      "visible_elements": {
+        "foreground": [
+          "Toss 3D split-circle blue symbol (glossy, two halves, gradient)",
+          "'toss' lowercase wordmark in dark charcoal"
+        ],
+        "midground": [],
+        "background": [
+          "pure flat white field"
+        ],
+        "lighting_env": [
+          "soft render light on the 3D symbol (subtle gloss)"
+        ],
+        "atmosphere": [
+          "clean white space, no grain"
+        ]
+      },
+      "texture": {
+        "primary_subject": "glossy_3d_symbol",
+        "secondary_objects": [
+          "flat_vector_type"
+        ],
+        "background_surface": "flat_white",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "45deg_above",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "strong",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "minimal",
+        "overall_contrast": "hi_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#ffffff",
+          "#3182f6",
+          "#1f2533"
+        ],
+        "palette_role": {
+          "#ffffff": "background_dominant",
+          "#3182f6": "logo_symbol_blue",
+          "#1f2533": "wordmark_dark_charcoal"
+        },
+        "color_relationship": "brand_dominant",
+        "temperature_balance": "cool_accent_on_neutral",
+        "saturation_strategy": "desaturated_with_pop",
+        "contrast_type": "luminance_high",
+        "accent_color": "#3182f6",
+        "accent_ratio": "10_percent",
+        "brand_color_match": [
+          "토스 블루 ≈ #3182F6 (심볼)"
+        ]
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A minimalist brand-logo closer frame on a pure flat white 1920x1080 pixel 16:9 landscape background, in the friendly Korean fintech commercial style with the spot's signature high-key white ground. Centered horizontally and vertically is a clean brand lockup consisting of two parts arranged side by side with comfortable spacing. On the left is a compact dimensional glossy symbol: a roughly circular mark split into two curved halves, like a coin or a rounded token divided down the middle into two leaf- or lens-shaped pieces, rendered with a smooth blue gradient — a lighter friendly sky-blue on one half easing into a deeper saturated Toss-blue around hex #3182F6 on the other — with soft 3D shading, gentle reflective highlights and a subtle sense of volume so it reads as a glossy three-dimensional object rather than a flat icon; the two curved halves are slightly offset and overlapping, giving a small sense of motion and depth. To the right of the symbol, vertically centered against it, is a lowercase wordmark reading exactly 'toss' set in a bold rounded geometric sans-serif in dark charcoal (hex about #1f2533), clean, modern and friendly with softly rounded terminals. The symbol is roughly the same height as the lowercase wordmark, and together the symbol-plus-wordmark lockup occupies about 22 percent of frame width and roughly 9 percent of frame height, centered with very generous empty white space around it — about 46 percent of frame height as clean white above and a similar amount below, plus wide white margins to the left and right. The entire remainder of the frame is pure flat uniform white. There is no other element anywhere in the frame — no illustration, no device, no characters, no caption and no secondary graphic. The texture reads as a glossy dimensional 3D symbol with soft smooth reflections and gentle highlights, a flat clean vector wordmark, and a uniform white background, with zero film grain, zero gradient in the background (the gradient lives only inside the symbol), zero halftone, zero vignette and only a whisper of soft shadow beneath the glossy mark to seat it. Lighting is implied only on the small 3D symbol as a soft even studio reflection; the wordmark and background are flat. The overall aesthetic is a clean, calm, trustworthy fintech parent-brand logo closer that signs off the spot with quiet confidence on an empty white stage. Style anchor: Korean fintech brand logo card, glossy dimensional blue split-circle symbol, dark charcoal lowercase sans-serif wordmark, pure white minimal background, centered lockup, generous negative space, brand white-ground discipline. Render the symbol and wordmark strictly as a GENERIC dimensional blue split-circle mark plus a generic lowercase wordmark type treatment (copyright-safe, NOT an exact trademarked logo reproduction). For faithful recreation, the symbol-to-wordmark gap is modest and balanced so the two parts read as one cohesive lockup, the wordmark's x-height aligns roughly with the vertical center of the round symbol, and the lowercase letters are evenly spaced with friendly rounded forms. There is no tagline, no registered-trademark symbol, no Korean text, no container or border around the lockup, and no other graphic anywhere; the lockup simply floats at the center of a clean full-bleed white frame that extends to all four edges with no vignette, no background gradient and no texture. This is the parent-brand sign-off beat, held briefly before fading toward white into the final face-avatar call-to-action, and its calm centered minimalism communicates trust and quiet confidence.",
+        "t2i_negative": "exact trademarked logo reproduction, illustration, device, photo, gradient background, grain, heavy shadow, multiple logos, uppercase wordmark, serif font, watermark",
+        "i2v_motion": "The Toss brand lockup (glossy blue 3D split-circle symbol + dark 'toss' wordmark) holds static center-frame on white for most of the cut, with only the faintest reflective shimmer on the 3D symbol; in the final ~0.2s it begins a clean fade-out toward white. Camera locked-off, no other motion. 1.07s, static rhythm ending on fade.",
+        "i2v_params": {
+          "clip_duration_sec": 1.07,
+          "camera_move": "locked_off",
+          "subject_motion_level": "still",
+          "signature_effect": "none",
+          "pacing": "static",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; brand symbol + 'toss' wordmark rendered as GENERIC dimensional blue split-circle + lowercase type (copyright-safe, not exact trademark); brand-blue #3182F6"
+      }
+    },
+    {
+      "index": 12,
+      "duration": 2.62,
+      "framing": "CU",
+      "function": "brand_cta",
+      "color_mood": "high_key_white_with_blue",
+      "subject_action": "the central man's hand-drawn face (cropped inside a Toss-blue circle, with a surprised/open-mouth talking expression) bounces into center-frame, settles, and a Toss-blue caption '페이스페이 할게요!' ('I'll pay with FacePay!') appears at lower-center — the closing call-to-action spoken by the character. Holds to the end.",
+      "layout_grid": "center",
+      "subject_position": "center",
+      "subject_identity": "protagonist_face_avatar",
+      "subject_relationship_to_protagonist": "main_character",
+      "mid_frame_path": "ADV-2026-035_frames/cut12_mid.png",
+      "subject_typo_layout": "typo_separate_zone",
+      "typo_motion": "얼굴 아이콘(블루 원 속 흑백 얼굴)이 바운스 인(f739-744), 정착 후 미세 립싱크. 하단 토스블루 자막 '페이스페이 할게요!' 등장(f745~) 유지.",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "face_only",
+      "gaze": "to_camera",
+      "eye_contact_effect": "얼굴 아이콘이 정면 응시 + 말하는 입 — 친근한 마무리 직접 호소",
+      "props": [
+        "Toss-blue circular face-avatar frame"
+      ],
+      "prop_semantics": "블루 원 속 얼굴 = 페이스페이 등록 얼굴/아바타. 얼굴이 곧 결제수단이라는 컨셉의 마지막 시각 요약",
+      "color_palette": [
+        "#ffffff",
+        "#111111",
+        "#3182f6"
+      ],
+      "color_intent": "흑백 얼굴 + 토스블루 원·자막. 브랜드 컬러로 마무리 각인",
+      "pose_description": "인물(얼굴만) — 블루 원 안 흑백 손그림 얼굴, 정면, 놀란/말하는 입. 바운스 인 + 미세 립싱크",
+      "subject_motion": "bounce_in_then_micro_lip_sync",
+      "prop_motion": "blue circle frame bounces in with the face",
+      "camera_motion": "locked_off",
+      "camera_motion_intensity": "none",
+      "camera_effect_local": "bounce_in",
+      "motion_blur": false,
+      "intra_cut_rhythm": "static",
+      "transition_in": "bounce_in",
+      "transition_out": "hold_to_end",
+      "vfx_in_shot": [
+        "ui_motion"
+      ],
+      "vfx_intensity_local": "subtle",
+      "fact_check_flag": null,
+      "notes": "Cut 12 (f739-816, 24.66-27.28s): 블루 원 속 흑백 손그림 얼굴(놀란/말하는 입)이 바운스 인(f739/744 shift_y±7) + 하단 자막 '페이스페이 할게요!'. VO 24.56-26.12 일치. 엔드카드 끝까지 유지. 마지막 CTA.",
+      "visible_elements": {
+        "foreground": [
+          "hand-drawn black-and-white face of the central man cropped inside a Toss-blue circle, surprised/talking mouth"
+        ],
+        "midground": [
+          "Toss-blue circle ring frame"
+        ],
+        "background": [
+          "pure flat white field",
+          "Toss-blue caption '페이스페이 할게요!' lower-center"
+        ],
+        "lighting_env": [
+          "flat hand-drawn, no rendered light"
+        ],
+        "atmosphere": [
+          "clean white space, pen-line texture"
+        ]
+      },
+      "texture": {
+        "primary_subject": "hand_drawn_lineart",
+        "secondary_objects": [
+          "flat_vector_circle"
+        ],
+        "background_surface": "flat_white",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "front",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "strong",
+        "key_to_fill_ratio": "1:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "none",
+        "overall_contrast": "hi_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#ffffff",
+          "#111111",
+          "#3182f6"
+        ],
+        "palette_role": {
+          "#ffffff": "background_dominant",
+          "#111111": "lineart_face_ink",
+          "#3182f6": "circle_and_caption_brand_blue"
+        },
+        "color_relationship": "monochrome_with_brand_accent",
+        "temperature_balance": "cool_accent_on_neutral",
+        "saturation_strategy": "desaturated_with_pop",
+        "contrast_type": "luminance_high",
+        "accent_color": "#3182f6",
+        "accent_ratio": "10_percent",
+        "brand_color_match": [
+          "토스 블루 ≈ #3182F6 (원·자막)"
+        ]
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A minimalist brand call-to-action closing frame on a pure flat white 1920x1080 pixel 16:9 landscape background, in the warm friendly style of a Korean fintech doodle motion-graphic commercial, matching the spot's signature high-key white ground. Centered in the frame, sitting a little above the vertical center, is a circular face avatar: a bright Toss-blue (hex about #3182F6) clean even ring circle roughly 12 percent of frame width in diameter, inside which is the hand-drawn black-and-white face of a young Korean man — the central character from earlier cuts — drawn in the same loose organic black ink lineart with a faint boil quality. He has short solid-black scribbled hair with a small cowlick, simple round wide-open dot eyes, single-line eyebrows, soft minimal facial detail, and a small round open mouth as if mid-speech (a surprised, talking expression), and his head is slightly tilted; the blue ring crops tightly to his face like a circular profile avatar or a registered-face badge, with the white interior of the circle showing the clean black-on-white drawing. In the LOWER CENTER of the frame, within the empty white lower third about 80 percent of the way down, a bold rounded geometric sans-serif Korean Hangul caption in the same bright Toss-blue (#3182F6) reads exactly '페이스페이 할게요!' (meaning 'I'll pay with FacePay!', an upbeat spoken declaration), horizontally centered, about 26 percent of frame width, sitting clearly below the avatar in its own zone and not overlapping it. The entire rest of the frame is pure flat uniform white with generous negative space surrounding both the avatar and the caption — clean white above, between and around the two elements. The texture reads as hand-drawn black ink face lineart inside a flat blue vector ring, with a flat clean vector blue caption below, all on a uniform white background, with zero film grain, zero gradient, zero halftone, zero vignette and zero rendered shadow. There is no rendered lighting on the drawing — it is flat ink on white — and the only color anywhere in the frame is the Toss-blue of the ring and the caption; the face itself is strictly pure black on white. The overall aesthetic is a friendly, witty closing CTA that visually summarizes the whole concept: a person's face, framed like a registered payment avatar in brand blue, cheerfully declaring it will pay by face. The composition is centered and balanced, the circular blue avatar as the upper focal object and the blue caption anchoring the lower third, with everything else clean empty white. Style anchor: Korean fintech hand-drawn doodle commercial CTA card, black ink cartoon face inside a Toss-blue circle #3182F6, bright blue lower-third Korean caption, pure white minimal centered composition, generous negative space, brand white-ground discipline, no real or photoreal human face (cartoon ink drawing only), no trademarked logo. The caption text '페이스페이 할게요!' must be preserved exactly and verbatim. For faithful recreation, the blue ring of the avatar is a clean even-weight circle (not a sweeping arc here but a fully closed circle) framing the man's face like a profile badge, and the face is sized so the head comfortably fills most of the circle with a little white margin inside the ring. The caption below is set in the same friendly bold rounded Hangul weight as the rest of the spot, on a single line, optically centered, with the exclamation mark giving it an upbeat spoken energy. There is no other element, no border, no vignette and no background gradient; the frame is full-bleed pure white to all four edges, keeping the campaign's clean minimal white-ground style as the spot signs off on its witty face-pays-for-everything idea.",
+        "t2i_negative": "color in the face, photorealistic face, 3D render, gradient, grain, shadow, real human face, real logos, mistyped Hangul, caption over the face, multiple faces, watermark",
+        "i2v_motion": "The Toss-blue circle with the hand-drawn face bounces into center-frame (a small overshoot-and-settle bounce, slight tilt), then holds; the face does a tiny lip-sync open-close as the character says '페이스페이 할게요!'; continuous faint line-boil on the face contours. The blue caption '페이스페이 할게요!' appears at lower-center and holds. Camera locked-off. Holds to the end of the spot. 2.62s, settle-then-hold rhythm, loopable on the hold.",
+        "i2v_params": {
+          "clip_duration_sec": 2.62,
+          "camera_move": "locked_off",
+          "subject_motion_level": "micro",
+          "signature_effect": "bounce_in",
+          "pacing": "static",
+          "loopable": true
+        },
+        "fidelity_note": "craft-faithful; generic Korean cartoon face (no real-face likeness); caption '페이스페이 할게요!' verbatim; Toss-blue circle+caption #3182F6; bounce-in + lip-sync + boil; no real logo"
+      }
+    }
+  ],
+  "search_keywords": {
+    "industry": [
+      "finance"
+    ],
+    "product_category": [
+      "biometric_payment",
+      "payment",
+      "mobile_banking"
+    ],
+    "target_demo": [
+      "late20s_early30s",
+      "20s",
+      "mz",
+      "office_worker"
+    ],
+    "media_format": [
+      "shortform_landscape_30s",
+      "digital_30s"
+    ],
+    "tone": [
+      "punchy_humor",
+      "friendly",
+      "clean_minimal"
+    ],
+    "pacing": [
+      "steady"
+    ],
+    "technique": [
+      "hand_drawn_doodle_animation",
+      "kinetic_typo",
+      "morph",
+      "product_app_cutout_float",
+      "call_and_response"
+    ],
+    "vfx_keywords": [
+      "ui_motion",
+      "morph",
+      "3d_render",
+      "kinetic_typo",
+      "lineart_boil"
+    ],
+    "copy_strategy_keywords": [
+      "double_wordplay",
+      "product_name_pun",
+      "question_hook",
+      "voice_caption_sync",
+      "brand_name_pun"
+    ],
+    "concept_derivation_pattern": [
+      "everyday_problem_metaphor_product_release",
+      "breaking_fourth_wall"
+    ]
+  },
+  "inferred_creative_thinking": {
+    "insight": "외식·결제 순간 '카드냐 현금이냐' 묻는 관성적 질문이 있는데, 생체결제(얼굴인식)는 그 질문 자체를 무의미하게 만든다 — 지갑·카드 없이 '얼굴'만으로 결제 가능하다는 점을 일상 코미디로 보여줄 수 있다.",
+    "persona": "20대 후~30대, 친구들과 외식이 잦고 휴대폰만 들고 다니며 새로운 간편결제·생체인증에 호의적인 얼리어답터 성향 소비자",
+    "moment": "식사를 마치고 계산대에서 '카드로? 현금으로?' 질문을 받는 순간 — 누군가 천연덕스럽게 '얼굴이요'라 답하는 반전의 찰나",
+    "product_role": "얼굴인식만으로 결제가 완료되는 페이스페이 — 지갑·카드·현금 없이 '내 얼굴'이 곧 결제수단",
+    "punchline": "얼굴이 밥 먹여줬다 (내 얼굴이 밥값을 냈다 = 얼굴=결제수단이라는 말장난)",
+    "differentiator": "카드/현금/폰 태깅조차 필요 없는 얼굴인식 결제 — '결제의 새얼굴'이라는 중의적 슬로건으로 차별점을 한 단어(얼굴)에 응축",
+    "brand_fit_one_liner": "토스의 친근한 손그림 톤과 '얼굴'을 축으로 한 말장난으로 생체결제를 부담 없이 각인",
+    "confidence": "inferred"
+  },
+  "inferred_brief": "20대~30대에게 토스 페이스페이가 카드·현금 없이 '얼굴'만으로 결제되는 새로운 생체인증 결제수단임을, 손그림 톤의 일상 코미디와 '얼굴' 말장난('얼굴이 밥 먹여줬다'/'결제의 새얼굴')으로 친근하고 위트 있게 알린다.",
+  "cross_pollination_tags": {
+    "adjacent": [
+      "mobile_banking",
+      "card",
+      "subscription_membership"
+    ],
+    "distant": [
+      "food_delivery",
+      "telecom",
+      "retail"
+    ],
+    "contrast": [
+      "luxury_sedan",
+      "luxury",
+      "premium_cosmetics"
+    ]
+  },
+  "concept_derivation_pattern": "everyday_problem_metaphor_product_release",
+  "confidence": "inferred",
+  "analyst_notes": "1. 단일 연속 모션그래픽 — scenedetect adaptive/content 모두 1개 컷 검출(hist_corr 전 구간 1.0). 사용자 지침대로 '구별되는 컴포지션/홀드'를 컷으로 정의해 12컷으로 분절. 2. 비주얼 스타일: 토스 시그니처 흑백 손그림(라인 보일) 일러스트 + 흰색 3D 결제 단말 렌더 + 토스블루 키네틱 타이포. wiggle_3d 효과는 부재(로크오프) — metrics wiggle 수치(mean_abs_shift_x=1.65)는 컷6 모핑·컷9 단말 회전·컷7 화이트 와이프 같은 이산적 트랜지션 시프트에서 비롯. 3. 오디오: faster_whisper base(HF_HOME=/tmp/hf 캐시, offline) 전사 성공(9세그). text_raw 일부 오인식 보정: '카드로 하세요.'→'?', '결제 세 얼굴'→'결제의 새얼굴', '페이스베이'→'페이스페이'. VO와 하단 자막이 거의 1:1 일치. 4. 카피 펀: '얼굴이요'(답변)→'얼굴이 밥 먹여줬다'(펀치라인)→'결제의 새얼굴'(슬로건) 모두 '얼굴' 중의어 사용. 5. 셀럽 없음(손그림 가상 캐릭터). 토스 로고 마크·FacePay 워드마크는 recreation_prompts에서 generic 타입 처리, 카피 원문은 보존. 6. 제작연도 2024로 추정(페이스페이 출시 시기 기준, 미확정).",
+  "verification": {
+    "frames_reviewed": "~36/816 native-res frames read with Read in time order (all 12 composition boundaries +/-1, each phase midpoint, and every diff>=1.5 / text_delta spike + the f490 white-wipe and f564/f625/f744 shift events; key text/UI frames re-extracted losslessly and read) + 100% per-frame metrics coverage on all 816 frames (diff/hist_corr/shift_x_y/motion_zones/text_delta) + scenedetect adaptive & content (1 scene) + faster_whisper audio.",
+    "audio_analyzed": true,
+    "hitrate_na": true,
+    "abstraction_checked": true
+  }
+}

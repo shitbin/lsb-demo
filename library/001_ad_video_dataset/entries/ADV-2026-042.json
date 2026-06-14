@@ -1,0 +1,2060 @@
+{
+  "id": "ADV-2026-042",
+  "source_ref": {
+    "platform": "digital_video",
+    "title_or_campaign": "당신2 9하던 삶 (브랜드 필름 60s)",
+    "brand": "29CM",
+    "product": "29CM 셀렉트숍 플랫폼 (큐레이션 라이프스타일 커머스)",
+    "model": null,
+    "year": 2023,
+    "production_note": "29CM 공식 유튜브 채널 브랜드 필름. 다수 큐레이션 브랜드 제품이 화면 태그로 노출(NEITHERS, STANLEY, lawn chair usa, LIFE ARCHIVE, Ma Journee, HermanMiller, artek, Hem, txture, MERGE, BLUE BRICK, Mardi Mercredi, new balance, GRAMICCI, BIG UNION, audio-technica 등).",
+    "url": "https://www.youtube.com/watch?v=coEJ3D32QX8"
+  },
+  "category_primary": "retail.commerce",
+  "category_tags": [
+    "셀렉트숍",
+    "라이프스타일 커머스",
+    "취향 큐레이션",
+    "브랜드 필름",
+    "패션·리빙 플랫폼"
+  ],
+  "mood": [
+    "aspirational",
+    "warm_emotional",
+    "uplifting",
+    "youthful",
+    "lyrical",
+    "stylish"
+  ],
+  "target_demo": "20대 중반~30대 중반, 취향과 자기표현을 중시하는 MZ 라이프스타일 소비자(패션·리빙·취미)",
+  "total_duration": 60.163,
+  "shot_count": 57,
+  "shot_count_corrected": 12,
+  "fps": 23.976,
+  "aspect_ratio": "16:9",
+  "hook_position": 0.0,
+  "cta_position": 58.27,
+  "narrative_arc": "잔잔한 바다 오프닝 + 캠페인 카피 빌드(인식) -> 다섯 갈래 인물(낚시 친구들·사진가·화가·플로리스트·러너·뮤지션)이 각자 '구하던 삶'을 사는 몽타주(공감) -> 큐레이션 제품 태그가 각 라이프스타일을 받쳐줌(솔루션) -> '어떤 삶을 구하던 깊이 행복해질 수 있도록' 정서적 클라이맥스(고양) -> 검은 화면 브랜드 카피 '감도 깊은 취향 셀렉트샵 29CM'(브랜드 각인)",
+  "narrative_structure": "cross_cutting_montage",
+  "pacing_curve": "steady",
+  "music_tempo_curve": "ramp_up",
+  "wow_cut_index": [
+    9,
+    11
+  ],
+  "creative_device": "swap_word_kinetic_tagline + multi_persona_lifestyle_montage + product_curation_tags",
+  "production_signature": {
+    "capture_style": "live_action",
+    "camera_signature": [
+      "handheld_shake",
+      "locked_off",
+      "tiny_planet_360",
+      "glitch_datamosh"
+    ],
+    "signature_note": "주로 실사 핸드헬드 + 일부 locked-off 시네마틱 와이드. 전역 wiggle 수치(mean_abs_shift_x=2.80, sign_flips_ratio=0.219)는 (a)빠른 컷 몽타주, (b)공격적 핸드헬드, (c)글리치/데이터모시 트랜지션, (d)360도 little-planet 회전에 기인한 것으로 판단됨 — 순수 lenticular wiggle_3d 효과는 육안 확인 결과 부재. 인접 프레임 비교 시 360 컷은 구체 투영 전체가 회전(의도된 모션)이며 정적 컷에는 미세 시점 떨림 없음.",
+    "color_grade": "warm",
+    "texture_fx": "clean_digital"
+  },
+  "global_layout": {
+    "grid_system": "dynamic_symmetry",
+    "subject_placement_dominant": "varies",
+    "subject_typo_relation": "typo_over_subject",
+    "negative_space_use": "generous",
+    "layout_note": "전역적으로 흰 산세리프 카피·캡션이 라이브 인물 위에 얹힘(typo_over_subject). 핵심 디바이스는 화면 중앙 가로 밴드의 키네틱 마스터 카피 '당신2 9하던 ___ 삶'(중간 단어가 인물별로 교체). 제품은 브랜드명+오렌지 플러스 배지+한국어 제품명 태그로 인물 옆에 큐레이션 라벨처럼 배치. 일부 컷은 분할 제품 그리드 또는 떠 있는 사진 프린트 PIP."
+  },
+  "recurring_motifs": [
+    "당신2 9하던 ___ 삶 스왑워드 키네틱 카피",
+    "브랜드명+오렌지 플러스(+) 배지+한국어 제품명 큐레이션 태그",
+    "떠 있는 사진 프린트 / 필름 콜라주 PIP",
+    "글리치·CRT·데이터모시 트랜지션",
+    "VHS 카세트 플레이어 트랜스포트 UI 프레임",
+    "360도 little-planet 투영",
+    "흰 산세리프 한국어 나레이션 캡션",
+    "35mm 필름 네거티브 스트립"
+  ],
+  "copywriting": {
+    "tagline_text": "당신2 9하던 삶",
+    "tagline_structure": "브랜드명 숫자 워드플레이(2·9=29) + 스왑형 수식어 + '삶'",
+    "tagline_length_syllables": 7,
+    "tagline_position_sec": 2.0,
+    "cta_text": "감도 깊은 취향 셀렉트샵 29CM",
+    "cta_text_structure": "브랜드 슬로건 + 브랜드명",
+    "cta_position_sec": 58.27,
+    "copy_tone": [
+      "lyrical",
+      "warm",
+      "aspirational",
+      "empathetic"
+    ],
+    "copy_strategy": "swap_word_anaphora_tagline",
+    "copy_lines_count": 14,
+    "lines": [
+      {
+        "position_sec": 2.0,
+        "text": "당신2 9하던 삶",
+        "function": "brand_tagline_hook",
+        "tone": "aspirational",
+        "source": "caption"
+      },
+      {
+        "position_sec": 2.0,
+        "text": "당신2 9하던 여행같은 삶",
+        "function": "tagline_variant",
+        "tone": "aspirational",
+        "source": "caption"
+      },
+      {
+        "position_sec": 7.5,
+        "text": "그냥 흘러가는 대로 살고 싶어요",
+        "function": "persona_voice",
+        "tone": "relaxed",
+        "source": "both"
+      },
+      {
+        "position_sec": 11.0,
+        "text": "재밌게",
+        "function": "persona_voice",
+        "tone": "playful",
+        "source": "both"
+      },
+      {
+        "position_sec": 12.2,
+        "text": "즐겁게",
+        "function": "persona_voice",
+        "tone": "playful",
+        "source": "both"
+      },
+      {
+        "position_sec": 15.06,
+        "text": "당신2 9하던 감각적인 삶",
+        "function": "tagline_variant",
+        "tone": "aspirational",
+        "source": "caption"
+      },
+      {
+        "position_sec": 15.21,
+        "text": "예쁜 걸",
+        "function": "persona_voice",
+        "tone": "refined",
+        "source": "both"
+      },
+      {
+        "position_sec": 18.49,
+        "text": "멋진 거",
+        "function": "persona_voice",
+        "tone": "refined",
+        "source": "both"
+      },
+      {
+        "position_sec": 20.09,
+        "text": "놓칠 수 없죠",
+        "function": "persona_voice",
+        "tone": "confident",
+        "source": "both"
+      },
+      {
+        "position_sec": 27.19,
+        "text": "할 수 있는 만큼 나를 사랑해 줄 거예요",
+        "function": "persona_voice",
+        "tone": "tender",
+        "source": "both"
+      },
+      {
+        "position_sec": 38.96,
+        "text": "나로 태어났으니까",
+        "function": "theme_line",
+        "tone": "affirming",
+        "source": "both"
+      },
+      {
+        "position_sec": 44.88,
+        "text": "어떤 삶을 구하던",
+        "function": "theme_line",
+        "tone": "lyrical",
+        "source": "both"
+      },
+      {
+        "position_sec": 51.49,
+        "text": "깊이 행복해질 수 있도록",
+        "function": "theme_line",
+        "tone": "lyrical",
+        "source": "both"
+      },
+      {
+        "position_sec": 54.49,
+        "text": "당신이 구하던 삶, 여기 29cm에서",
+        "function": "tagline_resolve",
+        "tone": "aspirational",
+        "source": "both"
+      }
+    ],
+    "captions": [
+      {
+        "position_sec": 5.67,
+        "text": "NEITHERS / 유틸리티 셔츠",
+        "function": "product_callout"
+      },
+      {
+        "position_sec": 10.1,
+        "text": "STANLEY / 진공 캠프머그",
+        "function": "product_callout"
+      },
+      {
+        "position_sec": 12.5,
+        "text": "STANLEY / 커피 드리퍼 세트",
+        "function": "product_callout"
+      },
+      {
+        "position_sec": 12.5,
+        "text": "lawn chair usa / 론체어 클래식",
+        "function": "product_callout"
+      },
+      {
+        "position_sec": 16.0,
+        "text": "Ma Journée / 크링클 셔츠 원피스",
+        "function": "product_callout"
+      },
+      {
+        "position_sec": 17.5,
+        "text": "LIFE ARCHIVE / 일회용 카메라",
+        "function": "product_callout"
+      },
+      {
+        "position_sec": 18.0,
+        "text": "HermanMiller / 임스 몰디드 암 체어",
+        "function": "product_callout"
+      },
+      {
+        "position_sec": 18.0,
+        "text": "artek STOOL 60 · Hem Hide Side Table H40 · txture STI",
+        "function": "product_callout"
+      },
+      {
+        "position_sec": 27.5,
+        "text": "MERGE / Bubble mug",
+        "function": "product_callout"
+      },
+      {
+        "position_sec": 33.0,
+        "text": "BLUE BRICK / 톤 턱 데님",
+        "function": "product_callout"
+      },
+      {
+        "position_sec": 41.0,
+        "text": "Mardi Mercredi / 플라워 임브로이더리 스웨트 셔츠",
+        "function": "product_callout"
+      },
+      {
+        "position_sec": 33.7,
+        "text": "new balance / ML860",
+        "function": "product_callout"
+      },
+      {
+        "position_sec": 37.16,
+        "text": "#긍정 파워로 #나만의 길 / @alldaysmileboy",
+        "function": "social_graphic"
+      },
+      {
+        "position_sec": 43.6,
+        "text": "GRAMICCI / 릴렉스드 캡",
+        "function": "product_callout"
+      },
+      {
+        "position_sec": 43.6,
+        "text": "BIG UNION / 피그먼트 스웨트 셔츠",
+        "function": "product_callout"
+      },
+      {
+        "position_sec": 47.5,
+        "text": "다 내꺼",
+        "function": "graphic_sticker"
+      },
+      {
+        "position_sec": 50.0,
+        "text": "audio-technica / USB 타입 다이내믹 스피커",
+        "function": "product_callout"
+      },
+      {
+        "position_sec": 50.6,
+        "text": "SNOWMAN22 Stand",
+        "function": "product_callout"
+      },
+      {
+        "position_sec": 53.5,
+        "text": "새로운 도전 · 멋진 실수 · THE LIFE YOU DREAMED IN LIFE",
+        "function": "poster_sticker"
+      }
+    ],
+    "narration_handling": "excerpt_only"
+  },
+  "typography": {
+    "primary_font_class": "sans_serif_bold",
+    "secondary_font_class": "script_handwritten_accent",
+    "animation_style": [
+      "kinetic",
+      "fade_in",
+      "slide",
+      "track_in",
+      "static"
+    ],
+    "subtitle_position_dominant": "lower_third",
+    "tagline_position": "center_band",
+    "color_strategy": "white_with_colored_accent_word",
+    "appearance_count": 33,
+    "key_typography_moments_sec": [
+      2.0,
+      15.06,
+      21.48,
+      38.96,
+      44.88,
+      51.49,
+      54.49,
+      58.27
+    ],
+    "typo_motion_dominant": "kinetic"
+  },
+  "vfx": {
+    "primary_effects": [
+      "glitch",
+      "ui_motion",
+      "split_screen",
+      "color_pop",
+      "morph"
+    ],
+    "effect_intensity": "moderate",
+    "transition_style_dominant": "cut",
+    "vfx_event_count": 12,
+    "vfx_timing_array_sec": [
+      6.67,
+      9.05,
+      15.06,
+      19.89,
+      26.69,
+      37.16,
+      42.42,
+      47.46,
+      48.84,
+      50.13,
+      53.05,
+      58.27
+    ],
+    "wow_vfx_index": [
+      9,
+      11
+    ]
+  },
+  "audio": {
+    "has_audio": true,
+    "language": "ko",
+    "speech_coverage": 0.743,
+    "bgm_likely": true,
+    "narration_lines": [
+      {
+        "start": 0.21,
+        "end": 5.31,
+        "text": "(인물 대사) 잡았다 / 한 번 해봐",
+        "text_raw": "내가 원했던 거 들을 점분께 / 잡았다 / 한 번 해봐, 한 번 해봐",
+        "kind": "dialogue",
+        "source": "faster_whisper"
+      },
+      {
+        "start": 6.81,
+        "end": 9.21,
+        "text": "그냥 흘러가는 대로 살고 싶어요",
+        "text_raw": "그냥 흘러가는 대로 살려줘",
+        "kind": "voiceover",
+        "source": "faster_whisper"
+      },
+      {
+        "start": 11.01,
+        "end": 13.21,
+        "text": "재밌게 / 즐겁게",
+        "text_raw": "재밌게 / 즐겁게",
+        "kind": "voiceover",
+        "source": "faster_whisper"
+      },
+      {
+        "start": 15.21,
+        "end": 19.49,
+        "text": "예쁜 걸 / 멋진 거",
+        "text_raw": "예쁜 걸 / 멋진 거",
+        "kind": "voiceover",
+        "source": "faster_whisper"
+      },
+      {
+        "start": 20.09,
+        "end": 21.49,
+        "text": "놓칠 수 없죠",
+        "text_raw": "놓칠 수 없죠",
+        "kind": "voiceover",
+        "source": "faster_whisper"
+      },
+      {
+        "start": 27.19,
+        "end": 29.69,
+        "text": "할 수 있는 만큼 나를 사랑해 줄 거예요",
+        "text_raw": "할 수 있는 만큼 / 나를 사랑해줄 거예요",
+        "kind": "voiceover",
+        "source": "faster_whisper"
+      },
+      {
+        "start": 38.96,
+        "end": 42.0,
+        "text": "나로 태어났으니까",
+        "text_raw": "나로 태어났으니까",
+        "kind": "voiceover",
+        "source": "faster_whisper"
+      },
+      {
+        "start": 44.88,
+        "end": 51.49,
+        "text": "어떤 삶을 구하던",
+        "text_raw": "다닛고 / 어떤 삶을 구하던",
+        "kind": "voiceover",
+        "source": "faster_whisper"
+      },
+      {
+        "start": 51.49,
+        "end": 53.49,
+        "text": "깊이 행복해질 수 있도록",
+        "text_raw": "깊이 행복해질 수 있도록",
+        "kind": "voiceover",
+        "source": "faster_whisper"
+      },
+      {
+        "start": 54.49,
+        "end": 59.49,
+        "text": "당신이 구하던 삶, 여기 29cm에서",
+        "text_raw": "당신이 구하던 / 삶 / 여기 29cm에서",
+        "kind": "voiceover",
+        "source": "faster_whisper"
+      }
+    ],
+    "voice_vs_caption": "voice_and_caption_synced",
+    "narration_handling": "excerpt_only",
+    "transcribed_by": "faster_whisper",
+    "audio_note": "faster-whisper base 전사 성공(speech_coverage=0.743). 여성 나레이션 1인 + 초반 남성 인물 대사. whisper 원문(text_raw)에 오인식 다수('들을 점분께','살려줘','다닛고') — 화면 자막·문맥으로 보정(text). BGM은 잔잔한 무드 음악이 깔린 것으로 추정(bgm_likely=true). 핵심 마무리 카피 '당신이 구하던 삶, 여기 29cm에서'는 음성·자막 일치."
+  },
+  "frames_dir": "ADV-2026-042_frames",
+  "contact_sheet_path": "ADV-2026-042_frames/contact_sheet.png",
+  "search_keywords": {
+    "industry": [
+      "retail"
+    ],
+    "product_category": [
+      "apparel",
+      "beauty_platform"
+    ],
+    "target_demo": [
+      "mz",
+      "20s",
+      "30s",
+      "active_consumers"
+    ],
+    "media_format": [
+      "youtube_60s_plus",
+      "tvc_60s"
+    ],
+    "tone": [
+      "emotional_lyrical",
+      "warm_emotional",
+      "premium"
+    ],
+    "pacing": [
+      "steady",
+      "ramp_up"
+    ],
+    "technique": [
+      "omnibus_series",
+      "kinetic_typo",
+      "anaphora_copy",
+      "glitch_crt",
+      "lifestyle_cg_intercut",
+      "detail_closeup"
+    ],
+    "vfx_keywords": [
+      "glitch_crt",
+      "ui_motion",
+      "split_screen",
+      "color_shift",
+      "morph"
+    ],
+    "copy_strategy_keywords": [
+      "anaphora_copy",
+      "neologism_slogan",
+      "brand_name_pun",
+      "caption_led",
+      "voice_caption_sync"
+    ],
+    "concept_derivation_pattern": [
+      "metaphor_visual_sequence",
+      "series_omnibus"
+    ]
+  },
+  "inferred_creative_thinking": {
+    "insight": "취향 큐레이션 커머스는 '무엇을 파느냐'보다 '어떤 삶을 가능하게 하느냐'로 차별화된다 — 소비자는 물건이 아니라 자기다운 삶의 장면을 산다.",
+    "persona": "20~30대, 낚시·사진·그림·꽃·러닝·음악 등 각자의 취향과 자기표현을 통해 '나다운 삶'을 추구하는 MZ 라이프스타일 소비자",
+    "moment": "주말이나 일상 속에서 좋아하는 일에 몰입하며 '이게 내가 원하던 삶'이라고 느끼는 순간",
+    "product_role": "29CM가 큐레이션한 패션·리빙·취미 제품들이 각 인물의 '구하던 삶'을 구성하는 소품으로 자연스럽게 등장 — 제품은 라이프스타일의 조력자",
+    "punchline": "당신이 구하던 삶, 여기 29cm에서 — 감도 깊은 취향 셀렉트샵",
+    "differentiator": "단일 제품 광고가 아니라 다수 큐레이션 브랜드를 한 편의 정서적 브랜드 필름에 녹여, 플랫폼 자체를 '취향의 큐레이터'로 포지셔닝",
+    "brand_fit_one_liner": "셀렉트숍이기에 가능한 '취향으로 완성하는 나다운 삶'의 제안",
+    "confidence": "inferred"
+  },
+  "inferred_brief": "20~30대 취향 소비자에게 29CM가 단순 쇼핑몰이 아니라 '당신이 구하던 삶'을 큐레이션해 주는 감도 깊은 셀렉트숍임을, 다양한 인물의 라이프스타일 몽타주와 스왑워드 키네틱 카피로 정서적으로 각인시킨다.",
+  "cross_pollination_tags": {
+    "adjacent": [
+      "fashion",
+      "beauty",
+      "content_ott",
+      "travel_tourism"
+    ],
+    "distant": [
+      "finance",
+      "telecom",
+      "automotive"
+    ],
+    "contrast": [
+      "industrial_b2b",
+      "healthcare_pharma",
+      "semiconductor"
+    ]
+  },
+  "concept_derivation_pattern": "metaphor_visual_sequence",
+  "confidence": "inferred",
+  "analyst_notes": "1. ~1441 네이티브-해상도 프레임 중 ~94장 시각 판독(57개 scenedetect 씬 중간프레임 전부 + 3개 불일치 경계존 [f419-515, f640-780, f1158-1230] 경계 프레임 + 오프닝 타이포 빌드 f5/50/70 + 글리치 트랜지션 f160-180 + 360 little-planet 인접쌍 f820-821) + 100% 프레임 metrics + scenedetect 58씬 + faster-whisper 전사. 2. 구조: 57개 빠른 컷의 cross-cutting 몽타주를 12개 의미 단위(시퀀스/인물 챕터)로 묶어 shots[]에 심층 기록; shot_count=57(검출된 실제 컷수), shot_count_corrected=12(12개 의미 단위로 그룹화 — shots[]와 일치). 3. 전역 wiggle 수치(2.80, sign_flips 0.219)는 빠른 컷+핸드헬드+글리치+360 회전 합산 — 순수 lenticular wiggle_3d 아님(인접 프레임 확인). 4. 화면 제품 태그(NEITHERS/STANLEY/lawn chair usa/LIFE ARCHIVE/Ma Journee/HermanMiller/artek/Hem/txture/MERGE/BLUE BRICK/Mardi Mercredi/new balance/GRAMICCI/BIG UNION/audio-technica/SNOWMAN22 등)는 29CM 큐레이션 카탈로그 브랜드로, 자막(copy_overlay) 원문으로 보존. 5. 제작연도 2023 추정(공개 링크 메타 기준, 확정 불가 — confidence inferred). 6. whisper 일부 오인식 보정(text vs text_raw 병기).",
+  "verification": {
+    "frames_reviewed": "~94/1441 native-res frames visually read (all 57 scenedetect scene-midframes + boundary triplets across 3 detector-discrepancy zones + opening kinetic-typo build + glitch/CRT transition frames + 360 tiny-planet adjacent pair, plus zoomed crops of all product-callout tags and the brand end card for verbatim copy) + 100% per-frame metrics + scenedetect 58 scenes + faster_whisper transcription",
+    "audio_analyzed": true,
+    "hitrate_na": true,
+    "abstraction_checked": true
+  },
+  "shots": [
+    {
+      "index": 1,
+      "duration": 3.13,
+      "framing": "EWS",
+      "function": "brand_hook",
+      "subject_action": "three young men sit in folding chairs on a long concrete sea-pier fishing, backs to camera, small dog beside them; kinetic white Korean tagline builds across center from '29CM' to '당신2 9하던 삶'",
+      "layout_grid": "center",
+      "subject_position": "center",
+      "subject_identity": "ensemble_friends",
+      "subject_relationship_to_protagonist": "main_character",
+      "mid_frame_path": "ADV-2026-042_frames/cut01_mid.png",
+      "subject_typo_layout": "typo_over_subject",
+      "typo_motion": "흰 산세리프 카피가 화면 가로 중앙에 단어 단위로 빌드인: '29CM'(f5) -> '당신2 9하던'(f50) -> '당신2 9하던 삶'(f70). 슬라이드/페이드 키네틱.",
+      "camera_angle": "eye_level",
+      "camera_facing": "back",
+      "shot_scope": "environment",
+      "gaze": "off_camera",
+      "eye_contact_effect": null,
+      "props": [
+        "folding lawn chairs",
+        "fishing rods",
+        "small dog",
+        "fishing boat (distant)"
+      ],
+      "prop_semantics": "낚시 장비와 접이식 의자가 '흘러가는 대로 사는 여행 같은 삶' 페르소나를 시각화",
+      "color_palette": [
+        "#a9cdd9",
+        "#8c8c86",
+        "#3f6b7e",
+        "#4f6b4a"
+      ],
+      "color_intent": "차분한 쿨 블루 바다·하늘로 명상적 여백과 시네마틱 오프닝 톤",
+      "pose_description": "세 인물이 의자에 앉아 바다를 향해 등을 보임, 작은 실루엣으로 광활한 풍경 속 정적 배치",
+      "subject_motion": "near_static_seated",
+      "prop_motion": "fishing rods slight sway",
+      "camera_motion": "locked_off",
+      "camera_motion_intensity": "none",
+      "camera_effect_local": "none",
+      "motion_blur": false,
+      "intra_cut_rhythm": "static",
+      "transition_in": "fade",
+      "transition_out": "cut",
+      "vfx_in_shot": [
+        "ui_motion"
+      ],
+      "vfx_intensity_local": "subtle",
+      "fact_check_flag": null,
+      "notes": "Scene1 f1-75 (0.04-3.13s): cinematic wide seascape, 3 friends fishing on pier. Tagline builds word-by-word establishing campaign structure '당신2 9하던 ___ 삶'.",
+      "visible_elements": {
+        "foreground": [
+          "grey concrete pier surface",
+          "three seated men in folding chairs",
+          "small dog at left"
+        ],
+        "midground": [
+          "calm sea with white foam waves",
+          "fishing rods angling out"
+        ],
+        "background": [
+          "green forested island headland (left)",
+          "single fishing boat near horizon (right)",
+          "pale cyan sky"
+        ],
+        "lighting_env": [
+          "broad natural overcast-bright daylight",
+          "open sky as giant soft source"
+        ],
+        "atmosphere": [
+          "aerial haze over distant island",
+          "airy open calm sea air",
+          "no grain"
+        ]
+      },
+      "texture": {
+        "primary_subject": "fabric_nylon",
+        "secondary_objects": [
+          "concrete",
+          "glass_clear"
+        ],
+        "background_surface": "water_glossy",
+        "atmospheric": [
+          "atmospheric_haze"
+        ]
+      },
+      "lighting": {
+        "key_direction": "top",
+        "key_hardness": "soft",
+        "key_color_temp": "cool_7000K",
+        "fill_strength": "strong",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "soft",
+        "overall_contrast": "mid_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#a9cdd9",
+          "#8c8c86",
+          "#3f6b7e",
+          "#4f6b4a"
+        ],
+        "palette_role": {
+          "#a9cdd9": "sky_sea_dominant",
+          "#8c8c86": "concrete_pier_midtone",
+          "#3f6b7e": "deep_water_cool",
+          "#4f6b4a": "island_green"
+        },
+        "color_relationship": "analogous",
+        "temperature_balance": "cool_dominant",
+        "saturation_strategy": "desaturated_with_pop",
+        "contrast_type": "luminance_low",
+        "accent_color": "#ffffff",
+        "accent_ratio": "5_percent"
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A wide cinematic establishing shot rendered at 1920x1080 pixels, 16:9 landscape, of three young Korean men in their late twenties seated on lightweight folding lawn chairs at the very end of a long narrow grey concrete breakwater pier that juts out into a calm sea; the three figures are small in the frame, occupying only the lower-center portion (roughly 45 to 60 percent of frame width, sitting low on the horizon line), seen from directly behind so their backs face the camera as they fish out toward the open water; fishing rods angle out from their hands toward the sea, and a small dog sits at the left edge of the pier near them. The location is a serene Korean coastal seascape on a bright clear day: a large green forested island headland fills the left third of the background, a single small fishing boat floats on the water at right of center near the horizon, and gentle white foam waves lap against the base of the pier in the foreground. The sky is a soft pale cyan-blue gradient occupying the entire upper two thirds of the frame, nearly cloudless, hazy near the horizon. Lighting is broad soft natural daylight, an overcast-bright high key with the sun high and slightly behind camera, producing flat even illumination with minimal hard shadows, a cool-neutral 6000K to 6500K color temperature, gentle atmospheric haze over the distant island giving aerial perspective depth; key-to-fill ratio close to 2:1 from the open sky acting as a giant soft source, no rim light, soft long shadows of the chairs on the pavement. The camera is a locked-off wide static eye-level shot at a slightly elevated vantage, frontal-from-behind framing, an environment-scope extreme-long-shot with a roughly 35mm equivalent field of view, deep focus throughout. Composition uses generous negative space: the empty calm sea and sky dominate, the three small human figures anchored at the lower-center along a near rule-of-thirds lower line, the island mass balancing the left. Over this serene image a large kinetic Korean headline animates in across the horizontal center of the frame in clean bold white sans-serif Hangul; in this start frame the recorded on-screen copy reads in sequence-building form, beginning with brand text and growing into the phrase \"당신2 9하던 삶\" (a deliberate numeric wordplay where 2 and 9 evoke the brand name twenty-nine), the white type centered and spanning the middle band of the frame at large display size, set against the bright sky for clean legibility, with the changeable word slot in the middle still settling. Color palette: pale cyan sky and sea #a9cdd9 dominant across most of the frame, muted grey concrete pier #8c8c86, deep teal-blue distant water #3f6b7e, green island #4f6b4a, with the human figures and chairs as small warm-neutral accents under 8 percent of frame area; the relationship is analogous cool blues and greens, cool-temperature dominant, gently desaturated naturalistic grade, low-to-mid luminance contrast, accent provided by the bright white typography. Textures read as matte rough concrete pavement, glossy reflective sea surface with sparkle, soft hazy distant foliage, smooth nylon-fabric folding chairs; atmosphere is airy, open, contemplative, a little breeze implied by the rippling water, no grain, clean digital cinema capture. Post and signature look: clean 4K digital commercial cinematography, naturalistic film-like color grade with slightly lifted shadows, gentle highlight roll-off, a calm premium lifestyle-brand mood; this is the serene quiet opening of a Korean lifestyle e-commerce brand film, the wide tranquil seascape paired with a building kinetic headline establishing the campaign tagline structure. Style anchor: Korean premium lifestyle brand film opening, wide cinematic seascape, locked-off establishing shot, hi-key natural daylight, generous negative space, bold centered Hangul kinetic typography, contemplative aspirational tone.",
+        "t2i_negative": "indoor, dramatic shadows, heavy grain, blown-out sky, real brand logos, watermark, distorted figures, extra limbs, busy foreground, sunset orange",
+        "i2v_motion": "Locked-off static wide; the three men sit nearly still, fishing rods sway a hair, gentle sea waves roll, the small dog shifts; over the image the white Korean tagline builds in word by word from '29CM' to '당신2 9하던' to '당신2 9하던 삶', clean kinetic slide/fade, settling by end. 3.13s, static-calm rhythm, no cut.",
+        "i2v_params": {
+          "clip_duration_sec": 3.13,
+          "camera_move": "locked_off",
+          "subject_motion_level": "micro",
+          "signature_effect": "none",
+          "pacing": "static",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; subjects generic Korean young men seen from behind; on-screen tagline preserved verbatim; brand wordmark generic"
+      }
+    },
+    {
+      "index": 2,
+      "duration": 3.5,
+      "framing": "MS",
+      "function": "narrative_setup",
+      "subject_action": "floating glossy photo-print of three friends posing with a freshly caught fish (peace signs, big grins) composited over a sunlit beach; product tag 'NEITHERS / 유틸리티 셔츠' callout appears",
+      "layout_grid": "center",
+      "subject_position": "center",
+      "subject_identity": "ensemble_friends",
+      "subject_relationship_to_protagonist": "main_character",
+      "mid_frame_path": "ADV-2026-042_frames/cut02_mid.png",
+      "subject_typo_layout": "typo_over_subject",
+      "typo_motion": "떠 있는 사진 프린트가 라이브 해변 위에 얹히며 가벼운 페이드/슬라이드; 제품 태그(브랜드명+오렌지 플러스 배지+한국어 제품명)가 인물 옆에 트랙인.",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "waist_up",
+      "gaze": "to_camera",
+      "eye_contact_effect": "trophy_pose",
+      "props": [
+        "floating photo print",
+        "caught silver fish",
+        "fishing rods",
+        "camping windscreen"
+      ],
+      "prop_semantics": "전리품 물고기와 사진 프린트가 '여행의 기록·추억'을 시각화; 제품 태그가 큐레이션 셔츠를 연결",
+      "color_palette": [
+        "#9cc3d6",
+        "#c9b393",
+        "#4a7385",
+        "#6b5240"
+      ],
+      "color_intent": "밝고 청량한 해변 톤에 흰 프린트 보더로 스크랩북 질감",
+      "pose_description": "세 인물이 카메라 향해 피스 사인·환호, 가운데 인물이 물고기를 들어올림 — 활기찬 트로피 포즈",
+      "subject_motion": "micro_gestures_and_laughter",
+      "prop_motion": "fish held up, photo print settles",
+      "camera_motion": "handheld_drift",
+      "camera_motion_intensity": "low",
+      "camera_effect_local": "handheld_slight_wobble",
+      "motion_blur": false,
+      "intra_cut_rhythm": "steady",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [
+        "ui_motion"
+      ],
+      "vfx_intensity_local": "moderate",
+      "fact_check_flag": null,
+      "notes": "Scenes2-4 cluster f76-159 (3.17-6.63s): floating photo-print PIP over beach; trophy-fish group pose; NEITHERS 유틸리티 셔츠 product callout tag.",
+      "visible_elements": {
+        "foreground": [
+          "floating glossy photo print with white border",
+          "crossing fishing rods"
+        ],
+        "midground": [
+          "three young men posing with peace signs and a caught fish",
+          "camping windscreen on pebbles"
+        ],
+        "background": [
+          "sunlit pebble-and-sand beach",
+          "calm blue sea",
+          "green island",
+          "pale sky"
+        ],
+        "lighting_env": [
+          "bright natural midday sun",
+          "strong sky fill"
+        ],
+        "atmosphere": [
+          "sunlit breezy beach air",
+          "joyful travel-memory feel",
+          "no grain"
+        ]
+      },
+      "texture": {
+        "primary_subject": "paper",
+        "secondary_objects": [
+          "skin_natural",
+          "fabric_cotton",
+          "metallic"
+        ],
+        "background_surface": "stone",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "45deg_above",
+        "key_hardness": "hard",
+        "key_color_temp": "cool_7000K",
+        "fill_strength": "strong",
+        "key_to_fill_ratio": "3:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "soft",
+        "overall_contrast": "mid_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#9cc3d6",
+          "#c9b393",
+          "#4a7385",
+          "#6b5240"
+        ],
+        "palette_role": {
+          "#9cc3d6": "sky_dominant",
+          "#c9b393": "beach_sand_warm",
+          "#4a7385": "sea_teal_cool",
+          "#6b5240": "jacket_earth_accent"
+        },
+        "color_relationship": "split_complementary",
+        "temperature_balance": "balanced",
+        "saturation_strategy": "vivid",
+        "contrast_type": "luminance_high",
+        "accent_color": "#ffffff",
+        "accent_ratio": "12_percent"
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A bright outdoor daytime composite frame at 1920x1080 pixels, 16:9 landscape, built as a layered photo-print collage motif over a live seaside fishing scene: the base layer is a sunlit Korean coastline of pebble-and-sand beach, calm blue sea, a green island headland and clear pale-blue sky, shot handheld at a casual eye level, while floating on top of it occupying the central 55 to 70 percent of the frame is a rectangular glossy photographic print with thin white borders, slightly tilted a few degrees, casting a soft drop shadow as if a real printed photo were laid over the scene. The inset print shows three cheerful young Korean men in their late twenties standing together on the beach posing for a trophy photo: the left man in a grey beanie and grey windbreaker crouches and gestures with open hands, the center man in a light hoodie grins broadly and throws a peace sign while holding up a large freshly caught silver fish on a line, and the right man in a brown zip jacket and glasses leans in smiling with a peace sign; behind them a small camping windscreen and fishing gear sit on the pebbles. The men are mid-laugh, full of candid travel-with-friends energy, framed waist-up to full-body within the print. Foreground props include the floating photo print itself, fishing rods crossing the lower frame, and the silver fish as a hero object signifying the catch. A small product-callout tag is composited near the men: a clean white sans-serif brand label reading \"NEITHERS\" with a small fish-shaped icon and an orange circular plus-sign badge, and beneath it the recorded Korean product name \"유틸리티 셔츠\"; the tag is the brand's signature curation-callout treatment naming an item worn in the scene. Lighting is bright natural midday sun, a hard-ish key from high front-left giving punchy highlights on the men's faces and crisp shadows on the pebbles, cool-neutral 6000K daylight, strong sky fill, key-to-fill near 3:1, no rim, soft beach shadows; the live base layer is slightly softer and more atmospheric than the sharp inset print. Camera framing is a casual handheld medium-wide environment shot, eye level, three-quarter to frontal facing on the men inside the print, roughly 28 to 35mm equivalent, moderate depth of field. Composition centers the floating print over the seascape with the product tag offset to the right of the group and generous bright negative space of sea and sky around the print edges. Color palette: bright sky-blue #9cc3d6 and sandy beige beach #c9b393 dominant, cool sea teal #4a7385, warm skin tones and earthy jacket browns #6b5240 as mid accents, crisp white print borders and white tag text; analogous-warm-meets-cool relationship, balanced temperature leaning bright and airy, naturalistic moderately saturated grade, mid luminance contrast, the silver fish and white labels as bright accents under 12 percent. Textures read as glossy photo-print paper with subtle sheen, matte pebble beach, soft hazy sea, casual cotton-and-nylon outdoor clothing, slick fish scales; atmosphere is sunlit, breezy, joyful, a travel-memory feel, clean digital with the photo-collage device adding a scrapbook tactility. Post and signature look: clean 4K digital commercial capture with a layered floating-photo-print compositing motif, a recurring device in this brand film where curated lifestyle moments appear as printed photos laid over live footage, naturalistic bright grade, premium lifestyle-curation aesthetic. Style anchor: Korean lifestyle e-commerce brand film, floating photo-print collage over seaside footage, candid travel-with-friends trophy-catch moment, bright natural daylight, product-callout curation tag, warm joyful documentary tone.",
+        "t2i_negative": "studio backdrop, dark scene, heavy grain, real brand logos, watermark, distorted faces, extra fingers, indoor, night",
+        "i2v_motion": "Handheld low drift over the sunlit beach; the floating photo print settles with a soft shadow; inside the print the three friends laugh and jostle, the center man raises the fish higher with a peace sign; the 'NEITHERS / 유틸리티 셔츠' tag tracks in beside them. 3.5s, steady joyful rhythm, ends on cut to next vignette.",
+        "i2v_params": {
+          "clip_duration_sec": 3.5,
+          "camera_move": "handheld_drift",
+          "subject_motion_level": "micro",
+          "signature_effect": "none",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; subjects generic Korean young men; product-callout text preserved verbatim; fish a generic prop"
+      }
+    },
+    {
+      "index": 3,
+      "duration": 2.42,
+      "framing": "ECU",
+      "function": "transition_glitch",
+      "subject_action": "heavily glitched CRT/datamosh handheld extreme close-up of a laughing man at the beach, scanlines and chromatic aberration and lens flares churning; cuts to glitchy silhouettes running toward the surf",
+      "layout_grid": "dynamic_symmetry",
+      "subject_position": "right_third",
+      "subject_identity": "ensemble_friends",
+      "subject_relationship_to_protagonist": "main_character",
+      "mid_frame_path": "ADV-2026-042_frames/cut03_mid.png",
+      "subject_typo_layout": "typo_over_subject",
+      "typo_motion": "흰 한국어 캡션 '그냥 흘러가는 대로 살고 싶어요'가 하단 중앙에 정적; 이미지 전체는 글리치/스캔라인으로 진동.",
+      "camera_angle": "low_angle",
+      "camera_facing": "frontal",
+      "shot_scope": "face_only",
+      "gaze": "to_camera",
+      "eye_contact_effect": "candid_proximity",
+      "props": [
+        "action camera (implied)",
+        "beach pebbles"
+      ],
+      "prop_semantics": "값싼 액션캠 근접·글리치가 '날것의 즐거움·청춘 에너지'를 트랜지션으로 전달",
+      "color_palette": [
+        "#c7c4bd",
+        "#5fd0d6",
+        "#d05fb0",
+        "#e8d8c0"
+      ],
+      "color_intent": "시안-마젠타 색수차로 로파이 캠코더 노스탤지어, 컷 사이 에너지 주입",
+      "pose_description": "남성이 카메라에 바짝 붙어 입 벌리고 크게 웃음 — 왜곡으로 반쯤만 식별되는 활력 포즈",
+      "subject_motion": "chaotic_jostling_running",
+      "prop_motion": "none",
+      "camera_motion": "handheld_chaotic",
+      "camera_motion_intensity": "high",
+      "camera_effect_local": "glitch_datamosh_scanlines",
+      "motion_blur": true,
+      "intra_cut_rhythm": "chaotic",
+      "transition_in": "glitch",
+      "transition_out": "glitch",
+      "vfx_in_shot": [
+        "glitch",
+        "color_pop"
+      ],
+      "vfx_intensity_local": "heavy",
+      "fact_check_flag": null,
+      "notes": "Scenes5-7 f160-217 (6.67-9.05s): glitch/CRT/datamosh transition device; extreme close laughing face + glitchy running silhouettes; caption '그냥 흘러가는 대로 살고 싶어요'. metrics diff spikes 87->94.",
+      "visible_elements": {
+        "foreground": [
+          "laughing man's face crammed upper-right",
+          "blurred swinging hands"
+        ],
+        "midground": [
+          "second figure in grey jacket at right edge"
+        ],
+        "background": [
+          "bright overexposed beach and sky bleeding through distortion"
+        ],
+        "lighting_env": [
+          "harsh blown daylight",
+          "bloomed highlights and lens flares"
+        ],
+        "atmosphere": [
+          "scanline raster",
+          "chromatic aberration fringing",
+          "datamosh smear",
+          "halation"
+        ]
+      },
+      "texture": {
+        "primary_subject": "skin_natural",
+        "secondary_objects": [
+          "fabric_nylon"
+        ],
+        "background_surface": "stone",
+        "atmospheric": [
+          "video_noise",
+          "glitch_smear",
+          "lens_flare"
+        ]
+      },
+      "lighting": {
+        "key_direction": "front",
+        "key_hardness": "hard",
+        "key_color_temp": "mixed",
+        "fill_strength": "none",
+        "key_to_fill_ratio": "silhouette",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "minimal",
+        "overall_contrast": "high_contrast"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#c7c4bd",
+          "#5fd0d6",
+          "#d05fb0",
+          "#e8d8c0"
+        ],
+        "palette_role": {
+          "#c7c4bd": "washed_neutral_dominant",
+          "#5fd0d6": "glitch_cyan_accent",
+          "#d05fb0": "glitch_magenta_accent",
+          "#e8d8c0": "bleached_skin_highlight"
+        },
+        "color_relationship": "complementary",
+        "temperature_balance": "split_warm_cool",
+        "saturation_strategy": "desaturated_with_pop",
+        "contrast_type": "hue_complementary",
+        "accent_color": "#5fd0d6",
+        "accent_ratio": "20_percent"
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A deliberately degraded glitch-treated handheld frame rendered at 1920x1080 pixels, 16:9 landscape, evoking a low-fi found-footage transition: the image is heavily distorted with horizontal CRT-style scanlines, chromatic-aberration color fringing where cyan and magenta edges separate, digital datamosh smearing, blown highlight light-leaks and lens flares streaking diagonally across the frame, so the subject is only half-legible and the whole picture vibrates with artifact energy. The content is an extreme close handheld shot at a Korean beach: a young Korean man in his late twenties leans very close to a low fish-eye-style action camera, caught mid-laugh with a wide open-mouthed grin, his face and torso filling the upper-right portion of the frame while a second figure in a light-grey jacket stands at the right edge; pebbly beach ground and a bright overcast sky bleed through the distortion. The motion energy is high and chaotic — the men are jostling, running and horsing around — and the frame reads as a single churned exuberant moment of friends being silly on a trip, a burst of release after the calm opening. Foreground props are minimal: the action-camera proximity itself, blurred swinging hands, a hint of grey beach pebbles, a sliver of denim and nylon sleeve. A small white Korean subtitle caption sits near the lower-center carrying a line of the female voiceover; preserve any on-screen caption text verbatim as a thin white sans-serif line reading the recorded narration fragment. Lighting is harsh bright outdoor daylight overexposed by the cheap-camera look, with bloomed highlights, rainbow lens flares and heavy halation, a cool daylight base around 6000K but smeared by the glitch color separation, no controlled key, effectively a blown high-key wash with deep crushed glitch blacks at the frame edges; shadow presence is erratic and the contrast is extreme and artifact-driven rather than lit. Camera framing is an extreme close-up to medium close handheld at a low canted angle, frontal facing, a face-and-bust scope with a wide fish-eye-ish field of view and aggressive unstable motion that blurs the boundary between frames. Composition is intentionally unbalanced and energetic, the laughing face crammed into the upper right while distortion bands sweep diagonally and flares cut across the lower left. Color palette: washed pale beach-and-sky neutrals #c7c4bd, glitch cyan #5fd0d6 and magenta #d05fb0 fringing accents, warm skin tones bleached by overexposure, with the chromatic-aberration colors as the signature accent across roughly 20 percent of the edges; the relationship is a high-contrast complementary cyan-magenta split, temperature pushed and unstable, saturation locally vivid in the fringing and washed elsewhere, contrast artifact-extreme. Textures read as scanline raster, analog video noise, datamosh pixel-smear, bloomed glass flare and rough beach pebbles glimpsed through the corruption; the atmosphere is raucous, kinetic, nostalgic-lo-fi, a camcorder-memory feel that says this is real unpolished fun. Post and signature look: this is the brand film's recurring glitch, CRT and datamosh transition treatment used to punctuate the montage and inject youthful energy, clean digital footage intentionally corrupted with VHS-and-glitch post-processing so the cut feels alive and analog. Style anchor: Korean lifestyle brand film glitch transition, found-footage camcorder aesthetic, chromatic aberration and scanlines, chaotic handheld friends-on-a-trip energy, lo-fi nostalgic punctuation between polished lifestyle vignettes.",
+        "t2i_negative": "clean sharp footage, studio, real brand logos, watermark, calm composition, polished skin, no distortion, high fidelity",
+        "i2v_motion": "Aggressive handheld churn with heavy glitch/datamosh and scanline flicker; the laughing face jostles in and out of legibility, chromatic-aberration cyan/magenta fringes swim, lens flares streak; cuts within to glitchy silhouettes running toward the surf with pixel-smear motion blur; white caption '그냥 흘러가는 대로 살고 싶어요' holds low-center. 2.42s, chaotic accelerating energy, glitch handoff out.",
+        "i2v_params": {
+          "clip_duration_sec": 2.42,
+          "camera_move": "handheld_drift",
+          "subject_motion_level": "dynamic",
+          "signature_effect": "glitch_datamosh",
+          "pacing": "chaotic",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful glitch transition; subjects generic; on-screen caption preserved verbatim"
+      }
+    },
+    {
+      "index": 4,
+      "duration": 5.96,
+      "framing": "MCU",
+      "function": "narrative_vignette",
+      "subject_action": "cozy night camp: a beanie-wearing man laughs warmly by a lantern holding an insulated tumbler; fireside flames, pour-over set; product tags STANLEY 진공 캠프머그 / 커피 드리퍼 세트 / lawn chair usa 론체어 클래식; captions '재밌게' '즐겁게'",
+      "layout_grid": "rule_of_thirds",
+      "subject_position": "right_third",
+      "subject_identity": "ensemble_friends",
+      "subject_relationship_to_protagonist": "main_character",
+      "mid_frame_path": "ADV-2026-042_frames/cut04_mid.png",
+      "subject_typo_layout": "typo_over_subject",
+      "typo_motion": "흰 한국어 캡션 '재밌게'/'즐겁게'가 하단 중앙에 짧게 등장; 제품 태그가 좌하단에 트랙인.",
+      "camera_angle": "eye_level",
+      "camera_facing": "three_quarter",
+      "shot_scope": "bust",
+      "gaze": "off_camera",
+      "eye_contact_effect": null,
+      "props": [
+        "camping lantern",
+        "insulated tumbler",
+        "pour-over coffee dripper",
+        "campfire"
+      ],
+      "prop_semantics": "캠핑 기어와 랜턴 불빛이 '재밌고 즐거운 캠핑 라이프'를 시각화; 제품 태그가 STANLEY·lawn chair 큐레이션 연결",
+      "color_palette": [
+        "#0c0d10",
+        "#d99a4e",
+        "#25303f",
+        "#e8b87a"
+      ],
+      "color_intent": "단일 랜턴 웜키 키아로스쿠로로 친밀한 밤 모임의 온기",
+      "pose_description": "비니 쓴 남성이 텀블러를 감싸쥐고 앞으로 기울여 환하게 웃음 — 따뜻한 교감 포즈",
+      "subject_motion": "laughing_micro_gestures",
+      "prop_motion": "flames flicker, tumbler held",
+      "camera_motion": "handheld_drift",
+      "camera_motion_intensity": "low",
+      "camera_effect_local": "handheld_slight_wobble",
+      "motion_blur": false,
+      "intra_cut_rhythm": "steady",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [
+        "ui_motion"
+      ],
+      "vfx_intensity_local": "subtle",
+      "fact_check_flag": null,
+      "notes": "Scenes8-14 f218-360 (9.09-15.02s): night camping fireside; STANLEY camp mug + coffee dripper set, lawn chair usa retro chair callouts; captions '재밌게'/'즐겁게'.",
+      "visible_elements": {
+        "foreground": [
+          "out-of-focus back of a second person's shoulder",
+          "insulated tumbler in hands"
+        ],
+        "midground": [
+          "laughing man in beanie and glossy black puffer",
+          "warm-glowing camping lantern",
+          "pour-over dripper"
+        ],
+        "background": [
+          "deep night darkness",
+          "dark camp gear",
+          "campfire flames (cut)"
+        ],
+        "lighting_env": [
+          "single warm lantern practical key",
+          "firelight"
+        ],
+        "atmosphere": [
+          "cozy warm night-camp air",
+          "faint campfire haze",
+          "no grain"
+        ]
+      },
+      "texture": {
+        "primary_subject": "fabric_nylon",
+        "secondary_objects": [
+          "metallic",
+          "glass_frosted"
+        ],
+        "background_surface": "flat_digital",
+        "atmospheric": [
+          "atmospheric_haze"
+        ]
+      },
+      "lighting": {
+        "key_direction": "side_left",
+        "key_hardness": "hard",
+        "key_color_temp": "warm_3000K",
+        "fill_strength": "minimal",
+        "key_to_fill_ratio": "8:1",
+        "rim_light": true,
+        "practical_lights": [
+          "캠핑 랜턴",
+          "모닥불"
+        ],
+        "shadow_presence": "deep",
+        "overall_contrast": "low_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#0c0d10",
+          "#d99a4e",
+          "#25303f",
+          "#e8b87a"
+        ],
+        "palette_role": {
+          "#0c0d10": "night_black_dominant",
+          "#d99a4e": "lantern_amber_key",
+          "#25303f": "cool_shadow_blue",
+          "#e8b87a": "warm_skin_highlight"
+        },
+        "color_relationship": "complementary",
+        "temperature_balance": "warm_dominant",
+        "saturation_strategy": "vivid",
+        "contrast_type": "luminance_high",
+        "accent_color": "#d99a4e",
+        "accent_ratio": "18_percent"
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A warm intimate nighttime camping scene rendered at 1920x1080 pixels, 16:9 landscape: a young Korean man in his late twenties sits at a low camp table in the dark outdoors, leaning forward into the frame mid-laugh with a big open smile, wearing a grey beanie and a glossy black puffer-style jacket; he is framed from the chest up at center-right, lit warmly from a small camping lantern that glows on the table at left, while the deep night and dark camp gear recede behind him. Across from him in the extreme foreground, slightly out of focus, is the back of a second person's shoulder and head, placing the viewer inside the circle of friends. On the table sit camping vessels — a dark insulated tumbler the man wraps his hands around, a pour-over coffee dripper set, and a warm-glowing gas lantern — the gear of a cozy night camp. In this start frame a small product-callout tag may be composited at lower-left in the brand's signature style: a white sans-serif brand name with an orange circular plus-sign badge and a recorded Korean product name beneath it, for example \"STANLEY\" with \"진공 캠프머그\" or \"커피 드리퍼 세트\" naming the camp vessels, plus the parallel \"lawn chair usa\" with \"론체어 클래식\" naming a retro folding chair seen elsewhere in the chapter; preserve any visible tag text verbatim. A thin white Korean subtitle caption near the lower-center carries the voiceover fragment, for example the recorded word \"재밌게\" or \"즐겁게\". Lighting is the heart of the shot: a single warm practical lantern key from the lower-left at roughly 2700K to 3000K, hard-ish and close so it carves warm highlights on the laughing face and lets the background fall to deep shadow, minimal cool fill from the night sky, key-to-fill near 6:1, a faint rim from a second lantern, deep shadow presence, an intimate low-key high-contrast chiaroscuro. Camera framing is a handheld medium close-up, eye level, three-quarter facing on the man, bust scope, roughly 50mm equivalent, shallow depth of field with the foreground shoulder and background bokeh soft. Composition places the lit laughing face at center-right against pooling darkness, the lantern glow anchoring the left, an over-the-shoulder foreground framing device. Color palette: deep near-black night #0c0d10 dominant, warm amber lantern light #d99a4e and warm skin highlights, glossy black jacket, a faint cool night-blue #25303f in the shadows; the relationship is warm-light-on-cool-dark, warm-dominant in the lit areas, vivid-but-controlled saturation, high luminance contrast, amber as the accent under 18 percent. Textures read as glossy technical puffer fabric, brushed-metal insulated tumbler, frosted lantern glass, soft knit beanie and natural firelit skin; atmosphere is cozy, warm, convivial, a faint haze of campfire air, no grain, clean digital with a filmic warm grade. Post and signature look: clean 4K digital commercial cinematography with a warm low-key night-camp grade and the brand's product-callout curation tag, premium-but-relatable lifestyle mood. Style anchor: Korean lifestyle brand film, cozy night-camping vignette, warm lantern-lit chiaroscuro, candid laughing friend, product-callout curation tags, intimate convivial tone.\n The overall feeling is the warm payoff of a day outdoors, friends gathered close around a small light, the kind of curated cozy moment the brand sells as a lifestyle.",
+        "t2i_negative": "daylight, flat lighting, bright background, real brand logos, watermark, extra people sharp in background, cool sterile tone, grain",
+        "i2v_motion": "Handheld low drift in the dark; the beanie man laughs and gestures warmly, hands cradling the tumbler, lantern flame and campfire flicker, the foreground shoulder bobs; product tags STANLEY 진공 캠프머그 / 커피 드리퍼 세트 and lawn chair usa 론체어 클래식 track in at lower-left across the chapter; captions '재밌게' then '즐겁게' pop low-center. 5.96s, steady warm rhythm.",
+        "i2v_params": {
+          "clip_duration_sec": 5.96,
+          "camera_move": "handheld_drift",
+          "subject_motion_level": "micro",
+          "signature_effect": "none",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; subject generic Korean man; product-callout text preserved verbatim; lantern/gear generic props"
+      }
+    },
+    {
+      "index": 5,
+      "duration": 6.46,
+      "framing": "MS",
+      "function": "narrative_vignette",
+      "subject_action": "elegant woman photographer in a sun-flooded minimal apartment raises a DSLR to her eye; designer furniture styled around her; product tags Ma Journée 크링클 셔츠 원피스, LIFE ARCHIVE 일회용 카메라, HermanMiller 임스 몰디드 암 체어, plus split product grid artek/Hem/txture; captions '예쁜 걸' '멋진 거'",
+      "layout_grid": "split_screen",
+      "subject_position": "left_third",
+      "subject_identity": "supporting_A",
+      "subject_relationship_to_protagonist": "main_character",
+      "mid_frame_path": "ADV-2026-042_frames/cut05_mid.png",
+      "subject_typo_layout": "typo_over_subject",
+      "typo_motion": "흰 한국어 캡션 '예쁜 걸'/'멋진 거' 하단 중앙; 제품 태그 다수가 인물·가구 옆에 트랙인; 일부 컷은 좌우 분할 제품 그리드(artek/Hem/txture).",
+      "camera_angle": "eye_level",
+      "camera_facing": "profile",
+      "shot_scope": "waist_up",
+      "gaze": "at_product",
+      "eye_contact_effect": null,
+      "props": [
+        "DSLR camera with long lens",
+        "disposable film camera",
+        "designer armchair",
+        "stools and side table"
+      ],
+      "prop_semantics": "카메라와 디자이너 가구가 '감각적인·예쁜 것을 보는 눈'을 가진 사진가 페르소나를 시각화; 제품 태그가 큐레이션 연결",
+      "color_palette": [
+        "#efe9e1",
+        "#1c2230",
+        "#f2622a",
+        "#2f4bd0"
+      ],
+      "color_intent": "밝은 화이트 하이키에 디자이너 오브제 색(오렌지·코발트) 포인트로 에디토리얼 무드",
+      "pose_description": "여성이 측면으로 서서 카메라를 눈에 대고 셔터를 누르는 우아한 실루엣 — 절제된 집중 포즈",
+      "subject_motion": "near_static_shooting",
+      "prop_motion": "camera lifted to eye",
+      "camera_motion": "locked_off",
+      "camera_motion_intensity": "none",
+      "camera_effect_local": "none",
+      "motion_blur": false,
+      "intra_cut_rhythm": "steady",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [
+        "split_screen",
+        "ui_motion"
+      ],
+      "vfx_intensity_local": "moderate",
+      "fact_check_flag": null,
+      "notes": "Scenes15-22 f361-515 (15.06-21.48s): photographer in bright minimal apartment; Ma Journée dress, LIFE ARCHIVE disposable camera, HermanMiller Eames armchair, split product grid artek STOOL 60/Hem Hide Side Table H40/txture STI; tagline variant '감각적인'; captions '예쁜 걸'/'멋진 거'.",
+      "visible_elements": {
+        "foreground": [
+          "woman in long dark shirt-dress holding DSLR to eye"
+        ],
+        "midground": [
+          "white molded designer armchair",
+          "blue side cabinet",
+          "stools and side table (split grid)"
+        ],
+        "background": [
+          "white walls",
+          "large mullioned windows",
+          "pale flooring"
+        ],
+        "lighting_env": [
+          "bright soft natural window daylight",
+          "white-wall bounce fill"
+        ],
+        "atmosphere": [
+          "serene bright luminous",
+          "dust motes in window light",
+          "no grain"
+        ]
+      },
+      "texture": {
+        "primary_subject": "fabric_cotton",
+        "secondary_objects": [
+          "glass_clear",
+          "plastic_glossy",
+          "wood_polished"
+        ],
+        "background_surface": "concrete",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "side_left",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "strong",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": false,
+        "practical_lights": [
+          "대형 창 자연광"
+        ],
+        "shadow_presence": "soft",
+        "overall_contrast": "hi_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#efe9e1",
+          "#1c2230",
+          "#f2622a",
+          "#2f4bd0"
+        ],
+        "palette_role": {
+          "#efe9e1": "warm_white_dominant",
+          "#1c2230": "dress_navy_anchor",
+          "#f2622a": "tag_badge_orange_accent",
+          "#2f4bd0": "cabinet_cobalt_accent"
+        },
+        "color_relationship": "brand_dominant",
+        "temperature_balance": "balanced",
+        "saturation_strategy": "muted_with_pop",
+        "contrast_type": "luminance_high",
+        "accent_color": "#f2622a",
+        "accent_ratio": "12_percent"
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A bright airy daytime interior scene rendered at 1920x1080 pixels, 16:9 landscape, inside a minimal sun-flooded apartment or studio with white walls, large mullioned windows and pale concrete or wood flooring: a young Korean woman in her mid-twenties with sleek dark hair stands in profile near the windows holding a large black DSLR-style camera with a long lens up toward her eye, dressed in an elegant long dark navy or black shirt-dress, her whole silhouette graceful and poised. She is the curated taste-maker persona of this chapter — a photographer with a discerning eye. The room is styled like a design showroom: in the background and mid-ground sit pieces of designer furniture, and the brand's signature product-callout tags are composited beside several of them: a white sans-serif brand label with an orange circular plus-sign badge and a recorded Korean or French product name, for example \"Ma Journée\" with \"크링클 셔츠 원피스\" naming her dress, \"HermanMiller\" with \"임스 몰디드 암 체어\" naming a white molded armchair, and a split product grid elsewhere naming \"artek STOOL 60\", \"Hem Hide Side Table H40\" and \"txture STI\" stools and tables; preserve all visible tag text verbatim. A thin white Korean subtitle caption near the lower-center carries the voiceover fragment, for example the recorded word \"예쁜 거\" or \"멋진 거\". Lighting is bright soft natural daylight pouring through the big windows, a large diffused key from the side at roughly 5500K to 6000K, gentle bounce fill off the white walls keeping shadows open, key-to-fill near 2:1, no hard rim, soft minimal shadows, an overall hi-key clean luminous look that flatters the matte surfaces. Camera framing is a clean medium shot at eye level, profile to three-quarter facing on the woman, waist-up to environment scope, roughly 50mm equivalent, with a shallow-to-moderate depth of field that can rack between her and the camera she holds. Composition is editorial and calm, the woman placed along a left or right third near the bright window, generous negative space of clean wall, the furniture and product tags arranged in tidy magazine-like balance, sometimes splitting into a two-panel product layout. Color palette: bright warm-white walls #efe9e1 and pale daylight dominant, deep navy-black of her dress #1c2230, with controlled pops of designer-object color — an orange tag badge #f2622a, a cobalt-blue side cabinet #2f4bd0, warm wood and grey concrete — as crisp accents; the relationship is a neutral hi-key base with saturated object accents, balanced-to-warm temperature, muted-with-pop saturation strategy, mid-high luminance contrast, the orange badge and cobalt cabinet as accents under 12 percent. Textures read as crinkled cotton shirt-dress fabric, glossy black camera body and glass lens, matte white walls, smooth molded plastic and bent-plywood furniture, polished concrete floor; atmosphere is serene, bright, refined, dust motes in window light, no grain, clean digital. Post and signature look: clean 4K digital commercial cinematography with a luminous editorial grade and the brand's curation tags, an aspirational design-magazine mood. Style anchor: Korean lifestyle e-commerce brand film, bright minimal design-showroom interior, elegant photographer persona, hi-key natural window light, editorial furniture styling with product-callout tags, refined aspirational tone.",
+        "t2i_negative": "dark scene, cluttered, dramatic shadows, real brand logos, watermark, low-key, grain, outdoor, second person",
+        "i2v_motion": "Locked-off bright interior; the woman holds the camera to her eye, presses the shutter, lowers it slightly (breathing-level subject motion); a beat may rack focus between her and the lens; product tags Ma Journée 크링클 셔츠 원피스, LIFE ARCHIVE 일회용 카메라, HermanMiller 임스 몰디드 암 체어 track in, a split product grid naming artek STOOL 60 / Hem Hide Side Table H40 / txture STI appears; captions '예쁜 걸' then '멋진 거'. 6.46s, calm editorial pacing.",
+        "i2v_params": {
+          "clip_duration_sec": 6.46,
+          "camera_move": "locked_off",
+          "subject_motion_level": "micro",
+          "signature_effect": "none",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; photographer generic Korean woman; product-callout text preserved verbatim; furniture generic types"
+      }
+    },
+    {
+      "index": 6,
+      "duration": 5.17,
+      "framing": "MS",
+      "function": "narrative_vignette",
+      "subject_action": "high-angle overhead beat: woman lies on blue-grey carpet reaching a hand to a sunbeam with a soft smile; a floating black-and-white photo print of the same pose composited over the live color scene; lens flare on hand; caption '놓칠 수 없죠'",
+      "layout_grid": "center",
+      "subject_position": "center",
+      "subject_identity": "supporting_A",
+      "subject_relationship_to_protagonist": "main_character",
+      "mid_frame_path": "ADV-2026-042_frames/cut06_mid.png",
+      "subject_typo_layout": "typo_over_subject",
+      "typo_motion": "떠 있는 흑백 사진 프린트가 오버헤드 라이브 위에 얹힘; 흰 캡션 '놓칠 수 없죠' 하단 중앙.",
+      "camera_angle": "overhead",
+      "camera_facing": "frontal",
+      "shot_scope": "waist_up",
+      "gaze": "to_camera",
+      "eye_contact_effect": "reaching_hand",
+      "props": [
+        "floating monochrome photo print",
+        "red disposable camera",
+        "soft carpet"
+      ],
+      "prop_semantics": "오버헤드 셀프포트레이트 + 흑백 프린트가 '놓칠 수 없는 예쁜 순간을 기록하는' 취향을 시각화",
+      "color_palette": [
+        "#8f9aa6",
+        "#f4d49a",
+        "#d9d9d9",
+        "#1a1a1a"
+      ],
+      "color_intent": "차분한 쿨 카펫에 단 하나의 골든 플레어 포인트로 정적·서정",
+      "pose_description": "여성이 바닥에 누워 한 손을 카메라로 뻗으며 햇살을 받는 포즈 — 빛을 음미하는 정적 순간",
+      "subject_motion": "near_static_reaching",
+      "prop_motion": "hand reaches, flare blooms",
+      "camera_motion": "locked_off",
+      "camera_motion_intensity": "none",
+      "camera_effect_local": "lens_flare",
+      "motion_blur": false,
+      "intra_cut_rhythm": "static",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [
+        "ui_motion",
+        "color_pop"
+      ],
+      "vfx_intensity_local": "moderate",
+      "fact_check_flag": null,
+      "notes": "Scenes23-29 f516-639 (21.52-26.65s): overhead reclining self-portrait, floating B&W photo-print PIP, sunbeam lens flare on raised hand, disposable camera; caption '놓칠 수 없죠'.",
+      "visible_elements": {
+        "foreground": [
+          "raised open hand catching sunbeam",
+          "floating monochrome photo print"
+        ],
+        "midground": [
+          "woman lying on carpet in black top over striped shirt"
+        ],
+        "background": [
+          "soft blue-grey carpet expanse"
+        ],
+        "lighting_env": [
+          "soft warm daylight",
+          "single hard sunbeam accent"
+        ],
+        "atmosphere": [
+          "hushed sunlit introspective",
+          "fine dust in beam",
+          "no grain"
+        ]
+      },
+      "texture": {
+        "primary_subject": "fabric_cotton",
+        "secondary_objects": [
+          "paper",
+          "skin_natural"
+        ],
+        "background_surface": "fabric_velvet",
+        "atmospheric": [
+          "lens_flare"
+        ]
+      },
+      "lighting": {
+        "key_direction": "45deg_side",
+        "key_hardness": "hard",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "strong",
+        "key_to_fill_ratio": "3:1",
+        "rim_light": true,
+        "practical_lights": [
+          "창 햇살"
+        ],
+        "shadow_presence": "soft",
+        "overall_contrast": "mid_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#8f9aa6",
+          "#f4d49a",
+          "#d9d9d9",
+          "#1a1a1a"
+        ],
+        "palette_role": {
+          "#8f9aa6": "carpet_grey_dominant",
+          "#f4d49a": "sunbeam_flare_accent",
+          "#d9d9d9": "monochrome_print_midtone",
+          "#1a1a1a": "black_top_anchor"
+        },
+        "color_relationship": "analogous",
+        "temperature_balance": "cool_dominant",
+        "saturation_strategy": "desaturated_with_pop",
+        "contrast_type": "luminance_low",
+        "accent_color": "#f4d49a",
+        "accent_ratio": "8_percent"
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A serene bright interior frame rendered at 1920x1080 pixels, 16:9 landscape, again using the brand's floating photo-print and overhead-portrait motif: the base layer is a top-down or high-angle view of a young Korean woman in her mid-twenties lying on her back on a soft blue-grey carpet, one arm raised toward the camera with her open palm catching a warm sunbeam, eyes squinting and a soft smile on her face, wearing a black short-sleeve top over a striped shirt; floating over the central 50 to 70 percent of the frame is a rectangular glossy black-and-white photographic print with thin white borders, slightly tilted, casting a soft drop shadow, showing the same woman lying on the carpet in monochrome — a curated artful self-portrait laid over the live color scene. A bright lens-flare star blooms where the sunbeam hits her raised hand. The mood is a quiet personal moment of someone savoring light and stillness in her own space. Foreground props are the floating photo print, her raised hand and the soft carpet; a small red disposable film camera may appear in a related beat as she shoots upward. A thin white Korean subtitle caption near the lower-center carries the voiceover fragment, for example the recorded phrase \"놓칠 수 없죠\". Lighting is soft warm natural daylight with a single hard sunbeam acting as a dramatic accent key from the upper left at roughly 5000K to 5500K, broad ambient fill from the bright room keeping the carpet open, key-to-fill near 3:1, a glowing rim of flare on the hand, soft shadows, an overall bright mid-to-hi-key with one sparkling specular highlight. Camera framing is a high-angle near-overhead medium shot looking down, frontal to the reclining figure, waist-up to environment scope, roughly 35mm equivalent, shallow depth of field on the raised hand. Composition centers the floating monochrome print over the live overhead portrait, the raised hand and flare anchoring the left, calm carpet negative space around. Color palette: soft desaturated blue-grey carpet #8f9aa6 dominant, warm skin tones and the white-grey of the monochrome print, a warm golden flare accent #f4d49a where the sun hits; the relationship is a cool-neutral base with a single warm flare accent, cool-temperature dominant, desaturated-with-warm-pop saturation, mid luminance contrast, the golden flare as accent under 8 percent. Textures read as soft looped carpet pile, glossy photo-print paper, smooth skin, matte black cotton top with a striped knit underlayer; atmosphere is hushed, sunlit, introspective, fine dust in the beam, no grain, clean digital. Post and signature look: clean 4K digital commercial cinematography with the recurring floating photo-print device (here in black and white) and a soft warm-cool grade, an intimate aspirational mood. Style anchor: Korean lifestyle brand film, overhead reclining self-portrait, floating monochrome photo-print collage, soft sunbeam flare, quiet self-care moment, refined introspective tone.\n The composite reads as the brand's idea of curated beauty — that the ordinary act of catching afternoon light on your own floor becomes a photograph worth keeping, a small joy not to be missed, the everyday elevated by taste and a good eye.",
+        "t2i_negative": "low angle, dark scene, real brand logos, watermark, busy background, dramatic color, grain, extra people",
+        "i2v_motion": "Locked-off overhead; the woman reaches her hand up toward the lens, fingers spreading, a sunbeam flare blooms across the palm, soft smile, breathing-level body motion; the floating black-and-white photo print of the same pose settles over the live color scene; caption '놓칠 수 없죠' holds low-center. 5.17s, static-calm rhythm.",
+        "i2v_params": {
+          "clip_duration_sec": 5.17,
+          "camera_move": "locked_off",
+          "subject_motion_level": "micro",
+          "signature_effect": "none",
+          "pacing": "static",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; woman generic Korean; floating photo-print device; on-screen caption preserved verbatim"
+      }
+    },
+    {
+      "index": 7,
+      "duration": 9.01,
+      "framing": "MS",
+      "function": "narrative_vignette",
+      "subject_action": "warm tungsten artist's studio: a woman paints a vivid canvas, seen in profile then in blue headphones, a second painter works a colorful butterfly canvas, macro of an oil-pastel flower; she clutches a paint-stained blue ceramic mug of brushes; product tags MERGE Bubble mug, BLUE BRICK 톤 턱 데님; caption '할 수 있는 만큼'",
+      "layout_grid": "rule_of_thirds",
+      "subject_position": "center",
+      "subject_identity": "supporting_B",
+      "subject_relationship_to_protagonist": "main_character",
+      "mid_frame_path": "ADV-2026-042_frames/cut07_mid.png",
+      "subject_typo_layout": "typo_over_subject",
+      "typo_motion": "흰 한국어 캡션 '할 수 있는 만큼' 하단 중앙; 제품 태그가 좌하단에 트랙인.",
+      "camera_angle": "eye_level",
+      "camera_facing": "three_quarter",
+      "shot_scope": "bust",
+      "gaze": "at_product",
+      "eye_contact_effect": null,
+      "props": [
+        "easel and canvases",
+        "paint-stained ceramic mug with brushes",
+        "oil pastels",
+        "clip lamps"
+      ],
+      "prop_semantics": "물감 묻은 머그와 화려한 캔버스가 '할 수 있는 만큼 나를 사랑하는' 창작 몰입을 시각화; 제품 태그가 MERGE 머그·BLUE BRICK 데님 연결",
+      "color_palette": [
+        "#d9a23f",
+        "#2f7a55",
+        "#cc3b3b",
+        "#2f4bd0"
+      ],
+      "color_intent": "웜 텅스텐 베이스에 폭발적 캔버스 색을 악센트로 — 창작의 열정",
+      "pose_description": "화가가 캔버스 앞에서 붓을 든 채 집중; 다른 컷에선 물감 머그를 배에 안고 손에 물감 — 몰입한 창작 포즈",
+      "subject_motion": "painting_micro_motion",
+      "prop_motion": "brush strokes on canvas",
+      "camera_motion": "handheld_drift",
+      "camera_motion_intensity": "low",
+      "camera_effect_local": "handheld_slight_wobble",
+      "motion_blur": false,
+      "intra_cut_rhythm": "steady",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [
+        "ui_motion"
+      ],
+      "vfx_intensity_local": "subtle",
+      "fact_check_flag": null,
+      "notes": "Scenes30-35 f640-855 (26.69-35.66s): warm artist atelier; painter + second painter (butterfly canvas); MERGE Bubble mug, BLUE BRICK 톤 턱 데님; caption '할 수 있는 만큼'.",
+      "visible_elements": {
+        "foreground": [
+          "painter at easel with brush",
+          "paint-stained blue ceramic mug of brushes"
+        ],
+        "midground": [
+          "second painter on a colorful butterfly canvas",
+          "easels and palettes"
+        ],
+        "background": [
+          "mustard-yellow curtains",
+          "finished flower canvases on green shelving",
+          "clip lamps"
+        ],
+        "lighting_env": [
+          "warm clip-lamp and window key",
+          "amber tungsten wrap"
+        ],
+        "atmosphere": [
+          "warm absorbed creative",
+          "faint dust in lamp light",
+          "no grain"
+        ]
+      },
+      "texture": {
+        "primary_subject": "fabric_cotton",
+        "secondary_objects": [
+          "paper",
+          "wood_raw",
+          "plastic_matte"
+        ],
+        "background_surface": "fabric_cotton",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "side_right",
+        "key_hardness": "soft",
+        "key_color_temp": "warm_3000K",
+        "fill_strength": "moderate",
+        "key_to_fill_ratio": "3:1",
+        "rim_light": true,
+        "practical_lights": [
+          "클립 작업등",
+          "머스타드 커튼 창광"
+        ],
+        "shadow_presence": "soft",
+        "overall_contrast": "mid_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#d9a23f",
+          "#2f7a55",
+          "#cc3b3b",
+          "#2f4bd0"
+        ],
+        "palette_role": {
+          "#d9a23f": "tungsten_amber_dominant",
+          "#2f7a55": "canvas_green_accent",
+          "#cc3b3b": "canvas_red_accent",
+          "#2f4bd0": "paint_mug_blue_accent"
+        },
+        "color_relationship": "triadic",
+        "temperature_balance": "warm_dominant",
+        "saturation_strategy": "vivid",
+        "contrast_type": "luminance_low",
+        "accent_color": "#cc3b3b",
+        "accent_ratio": "30_percent"
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A warm artist's-studio scene rendered at 1920x1080 pixels, 16:9 landscape, bathed in golden tungsten light: a young Korean woman in her mid-twenties stands at an easel painting a large vivid canvas, seen in a series of beats from a profile medium shot of her concentrating, to a close-up of her face in blue over-ear headphones, to a two-shot where a second woman paints a big colorful butterfly-like figure on an adjacent canvas, to a macro of an oil-pastel flower drawing in greens, reds and oranges. The room is a cozy creative atelier with mustard-yellow curtains, clip-on work lamps, finished canvases of expressive flowers leaning on green shelving, jars of brushes and paint-smeared surfaces. In one beat the woman wears a white long-sleeve smeared with paint and clutches a blue paint-stained ceramic mug full of brushes against her stomach with paint-covered hands; a product-callout tag in the brand's signature style is composited at lower-left — a white sans-serif brand name with an orange circular plus-sign badge and a recorded product name beneath, for example \"MERGE\" with \"Bubble mug\" naming the ceramic mug, or \"BLUE BRICK\" with \"톤 턱 데님\" naming her trousers; preserve any visible tag text verbatim. A thin white Korean subtitle caption near the lower-center carries the voiceover fragment, for example the recorded phrase \"할 수 있는 만큼\". Lighting is warm and enveloping: a key from clip lamps and the mustard-curtained window at roughly 3000K to 3200K wrapping the figures in amber, soft moderate fill keeping the colorful canvases readable, key-to-fill near 3:1, gentle rim from a lamp behind, soft shadows, an overall warm mid-key glow that makes the paint colors sing. Camera framing varies within the chapter from medium profile to close-up to macro, eye level, three-quarter to profile facing, bust to face scope, roughly 35mm to 85mm equivalents, shallow depth of field isolating the painter against blurred art. Composition is layered and painterly, the artist placed off-center among her canvases, the vivid artwork filling the background, warm negative space of curtain. Color palette: warm golden amber #d9a23f dominant from the lighting, with the explosively saturated canvas colors — emerald greens, hot reds, oranges, cobalt blues — as deliberate accents, the blue paint-mug a cool spot against the warmth; the relationship is a warm-amber base studded with vivid polychrome art accents, warm-dominant temperature, vivid saturation strategy, mid luminance contrast, the multicolor canvases collectively as a high-impact accent over 25 percent. Textures read as thick impasto and oil-pastel paint strokes, smeared cotton clothing, glazed ceramic mug, raw canvas and wood easel, soft knit and headphone foam; atmosphere is warm, absorbed, creative, faint dust in lamp light, no grain, clean digital with a cozy filmic grade. Post and signature look: clean 4K digital commercial cinematography with a warm tungsten studio grade and the brand's curation tags, an intimate creative-flow mood. Style anchor: Korean lifestyle brand film, warm artist's atelier, absorbed painter persona, tungsten amber chiaroscuro, vivid canvases, product-callout tags, heartfelt self-expression tone.\n The chapter sells the idea that a curated mug, the right denim and a warm room are the props of a life spent loving what you make, painting purely for the joy of it.",
+        "t2i_negative": "cool sterile light, daylight, real brand logos, watermark, empty walls, grain, minimal palette, outdoor",
+        "i2v_motion": "Handheld low drift in warm light; the painter makes brush strokes on the vivid canvas, glances, in another beat hugs the paint-stained blue mug of brushes to her stomach with paint-covered hands; a second painter works a colorful butterfly canvas; macro of an oil-pastel flower; product tags MERGE Bubble mug and BLUE BRICK 톤 턱 데님 track in; caption '할 수 있는 만큼' holds. 9.01s, steady absorbed rhythm.",
+        "i2v_params": {
+          "clip_duration_sec": 9.01,
+          "camera_move": "handheld_drift",
+          "subject_motion_level": "micro",
+          "signature_effect": "none",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; painters generic Korean women; canvases generic abstract art; product-callout text preserved verbatim"
+      }
+    },
+    {
+      "index": 8,
+      "duration": 6.72,
+      "framing": "MS",
+      "function": "narrative_vignette",
+      "subject_action": "lush flower greenhouse: a woman sketches a vivid flower on a tablet then cradles a wrapped bouquet among pink/peach blooms; floating UI shows her digital sketch with color swatches; product tag Mardi Mercredi 플라워 임브로이더리 스웨트 셔츠; caption '할 수 있는 만큼 나를 사랑해 줄 거예요'",
+      "layout_grid": "rule_of_thirds",
+      "subject_position": "left_third",
+      "subject_identity": "supporting_C",
+      "subject_relationship_to_protagonist": "main_character",
+      "mid_frame_path": "ADV-2026-042_frames/cut08_mid.png",
+      "subject_typo_layout": "typo_over_subject",
+      "typo_motion": "흰 한국어 캡션 하단 중앙; 우측에 떠 있는 디지털 스케치 UI 패널(컬러 스와치 점); 제품 태그 트랙인.",
+      "camera_angle": "eye_level",
+      "camera_facing": "three_quarter",
+      "shot_scope": "waist_up",
+      "gaze": "at_product",
+      "eye_contact_effect": null,
+      "props": [
+        "tablet and stylus",
+        "wrapped bouquet",
+        "beds of cut flowers"
+      ],
+      "prop_semantics": "꽃·태블릿 스케치가 '나를 사랑하는 창작·취향'을 시각화; 제품 태그가 Mardi Mercredi 스웨트셔츠 연결",
+      "color_palette": [
+        "#e9b9c4",
+        "#7aa86b",
+        "#f2f0ec",
+        "#2f5bd0"
+      ],
+      "color_intent": "파스텔 꽃밭 하이키에 디지털 스케치 색을 포인트로 — 청량·다정",
+      "pose_description": "여성이 꽃밭에서 태블릿에 스케치하거나 부케를 안고 미소 — 다정한 몰입 포즈",
+      "subject_motion": "sketching_and_holding",
+      "prop_motion": "stylus draws on tablet",
+      "camera_motion": "handheld_drift",
+      "camera_motion_intensity": "low",
+      "camera_effect_local": "handheld_slight_wobble",
+      "motion_blur": false,
+      "intra_cut_rhythm": "steady",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [
+        "ui_motion"
+      ],
+      "vfx_intensity_local": "moderate",
+      "fact_check_flag": null,
+      "notes": "Scenes36-38 f856-1016 (35.70-42.38s): flower greenhouse; florist-illustrator sketches on tablet, holds bouquet; Mardi Mercredi flower-embroidered sweatshirt; floating sketch UI; caption '할 수 있는 만큼 나를 사랑해 줄 거예요'. Theme line '나로 태어났으니까' begins.",
+      "visible_elements": {
+        "foreground": [
+          "woman in white sweatshirt with tablet/bouquet"
+        ],
+        "midground": [
+          "waist-high beds of roses, ranunculus, mixed flowers",
+          "floating digital-sketch UI panel"
+        ],
+        "background": [
+          "deep one-point greenhouse perspective",
+          "white-trussed glass roof"
+        ],
+        "lighting_env": [
+          "bright diffused greenhouse daylight",
+          "overhead sky softbox through glass"
+        ],
+        "atmosphere": [
+          "fresh bright fragrant",
+          "humid greenhouse glow",
+          "no grain"
+        ]
+      },
+      "texture": {
+        "primary_subject": "fabric_cotton",
+        "secondary_objects": [
+          "foliage",
+          "glass_clear"
+        ],
+        "background_surface": "foliage",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "top",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "strong",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": false,
+        "practical_lights": [
+          "유리지붕 천창광"
+        ],
+        "shadow_presence": "soft",
+        "overall_contrast": "hi_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#e9b9c4",
+          "#7aa86b",
+          "#f2f0ec",
+          "#2f5bd0"
+        ],
+        "palette_role": {
+          "#e9b9c4": "pastel_bloom_dominant",
+          "#7aa86b": "foliage_green",
+          "#f2f0ec": "sweatshirt_white",
+          "#2f5bd0": "sketch_blue_accent"
+        },
+        "color_relationship": "analogous",
+        "temperature_balance": "balanced",
+        "saturation_strategy": "vivid",
+        "contrast_type": "luminance_low",
+        "accent_color": "#2f5bd0",
+        "accent_ratio": "12_percent"
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A bright lush daytime scene rendered at 1920x1080 pixels, 16:9 landscape, inside a vast flower greenhouse packed with color: a young Korean woman in her mid-twenties with hair in a low ponytail stands among waist-high beds of roses, ranunculus and mixed cut flowers in pinks, peaches, yellows and reds, holding a tablet and stylus in one beat as she sketches a vivid flower illustration on screen, and cradling a wrapped bouquet against her chest in another. She wears a white sweatshirt with bold blue lettering and beaded jewelry, the florist-illustrator persona of this chapter. The greenhouse stretches in deep one-point perspective behind her, rows of blooms receding under a white-trussed glass roof. The brand's product-callout tags are composited beside her: a white sans-serif brand name with an orange circular plus-sign badge and a recorded product name beneath, for example \"Mardi Mercredi\" with \"플라워 임브로이더리 스웨트 셔츠\" naming her flower-embroidered sweatshirt; a small floating UI panel may also appear at right showing her colorful digital flower sketch with a row of color-swatch dots. Preserve all visible tag and caption text verbatim, including a thin white Korean subtitle near the lower-center carrying the voiceover fragment, for example the recorded phrase \"할 수 있는 만큼 나를 사랑해 줄 거예요\". Lighting is bright soft diffused greenhouse daylight from above and the sides at roughly 5500K to 6000K, an enormous overhead softbox of sky through glass, gentle fill bouncing off pale surfaces, key-to-fill near 2:1, no hard rim, soft open shadows, a clean hi-key luminous look that saturates the flowers. Camera framing is a clean medium shot at eye level, three-quarter facing on the woman, waist-up to environment scope, roughly 35mm to 50mm equivalent, shallow-to-moderate depth of field with creamy floral bokeh. Composition places the woman along a left third with the deep flower-row perspective and the floating sketch UI balancing the right, lush blooms filling foreground and background. Color palette: soft pastel pinks #e9b9c4, peaches and creams of the flowers dominant, fresh greens of stems and leaves, the white sweatshirt and the cool blue lettering, with the multicolored digital sketch as a saturated accent; the relationship is an analogous warm-pastel field with green and blue cool accents, balanced-bright temperature, vivid-pastel saturation strategy, mid luminance contrast, the digital-sketch colors as a concentrated accent under 12 percent. Textures read as delicate petal surfaces, soft brushed sweatshirt fleece, glossy tablet screen, fine beaded jewelry, damp greenhouse air on leaves; atmosphere is fresh, bright, fragrant, humid greenhouse glow, no grain, clean digital. Post and signature look: clean 4K digital commercial cinematography with a luminous fresh grade and the brand's curation tags plus a floating creative-app UI, an aspirational create-and-love-yourself mood. Style anchor: Korean lifestyle brand film, lush flower greenhouse, florist-illustrator persona, hi-key diffused daylight, pastel-bloom palette, product-callout tags and digital-sketch UI, tender self-affirming tone.\n The greenhouse beat embodies the campaign's emotional core — being born as yourself and loving yourself as much as you can — by showing a maker surrounded by the beauty she chooses and the tools the brand curates to support that life.",
+        "t2i_negative": "dark scene, dramatic shadows, real brand logos, watermark, sparse flowers, grain, outdoor field, second person",
+        "i2v_motion": "Handheld gentle drift; the woman draws on the tablet with the stylus (the floating sketch UI animates a flower with color swatches), then in a beat cradles a wrapped bouquet and smiles among the blooms; Mardi Mercredi 플라워 임브로이더리 스웨트 셔츠 tag tracks in; caption '할 수 있는 만큼 나를 사랑해 줄 거예요' holds. 6.72s, steady tender rhythm.",
+        "i2v_params": {
+          "clip_duration_sec": 6.72,
+          "camera_move": "handheld_drift",
+          "subject_motion_level": "micro",
+          "signature_effect": "none",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; florist generic Korean woman; product-callout text preserved verbatim; digital sketch generic"
+      }
+    },
+    {
+      "index": 9,
+      "duration": 4.0,
+      "framing": "MS",
+      "function": "wow_moment",
+      "subject_action": "energetic runner persona: man runs/stretches riverside, then a 360-degree little-planet projection curls the world into a globe with him at center throwing a peace sign; simulated social-media post UI (@alldaysmileboy, #긍정 파워로 #나만의 길); New Balance ML860 tag; VHS-player UI frame with caption '나로 태어났으니까'",
+      "layout_grid": "center",
+      "subject_position": "center",
+      "subject_identity": "supporting_D",
+      "subject_relationship_to_protagonist": "main_character",
+      "mid_frame_path": "ADV-2026-042_frames/cut09_mid.png",
+      "subject_typo_layout": "typo_over_subject",
+      "typo_motion": "소셜 UI 카드(유저명·해시태그·하트/댓글 바)와 VHS 플레이어 트랜스포트 UI 프레임이 화면을 둘러쌈; 흰 캡션 '나로 태어났으니까' 하단 중앙.",
+      "camera_angle": "overhead",
+      "camera_facing": "frontal",
+      "shot_scope": "environment",
+      "gaze": "to_camera",
+      "eye_contact_effect": "selfie_peace_sign",
+      "props": [
+        "selfie stick",
+        "running shoes",
+        "riverside bridge/railings"
+      ],
+      "prop_semantics": "360 셀카·소셜 UI가 '긍정 파워로 나만의 길'을 가는 러너의 SNS 자기표현을 시각화; New Balance 태그가 러닝화 연결",
+      "color_palette": [
+        "#b9c6cf",
+        "#e85d8a",
+        "#f2f2f2",
+        "#3a3f45"
+      ],
+      "color_intent": "뮤트 자연 톤에 마젠타-오렌지 소셜 UI 그래디언트 포인트로 경쾌·긍정",
+      "pose_description": "남성이 구체 투영 중앙 꼭대기에서 셀카봉을 들고 피스 사인하며 아래로 환하게 웃음 — 자기긍정 셀카 포즈",
+      "subject_motion": "running_then_selfie",
+      "prop_motion": "world sphere rotates, selfie stick held",
+      "camera_motion": "tiny_planet_360_rotate",
+      "camera_motion_intensity": "moderate",
+      "camera_effect_local": "tiny_planet_360_projection",
+      "motion_blur": false,
+      "intra_cut_rhythm": "steady",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [
+        "ui_motion",
+        "morph",
+        "color_pop"
+      ],
+      "vfx_intensity_local": "heavy",
+      "fact_check_flag": null,
+      "notes": "Scenes39-43 f1017-1112 (42.42-46.38s): runner riverside; 360 little-planet selfie hero beat with social-media UI (@alldaysmileboy, #긍정 파워로 #나만의 길); New Balance ML860 tag; retro VHS-player UI frame; caption '나로 태어났으니까'. WOW cut.",
+      "visible_elements": {
+        "foreground": [
+          "man at center of spherical little-planet holding selfie stick, peace sign"
+        ],
+        "midground": [
+          "warped circular cityscape of bridges and railings",
+          "simulated social-media post card (username, hashtags, like/comment bar)"
+        ],
+        "background": [
+          "pale grey-blue sky at sphere corners"
+        ],
+        "lighting_env": [
+          "flat bright overcast daylight"
+        ],
+        "atmosphere": [
+          "energetic upbeat",
+          "spherical-projection warp",
+          "no grain"
+        ]
+      },
+      "texture": {
+        "primary_subject": "fabric_nylon",
+        "secondary_objects": [
+          "metallic",
+          "plastic_glossy"
+        ],
+        "background_surface": "concrete",
+        "atmospheric": [
+          "raster_ui"
+        ]
+      },
+      "lighting": {
+        "key_direction": "top",
+        "key_hardness": "soft",
+        "key_color_temp": "cool_7000K",
+        "fill_strength": "strong",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "soft",
+        "overall_contrast": "mid_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#b9c6cf",
+          "#e85d8a",
+          "#f2f2f2",
+          "#3a3f45"
+        ],
+        "palette_role": {
+          "#b9c6cf": "sky_grey_blue_dominant",
+          "#e85d8a": "social_ui_magenta_accent",
+          "#f2f2f2": "ui_card_white",
+          "#3a3f45": "athletic_dark_anchor"
+        },
+        "color_relationship": "complementary",
+        "temperature_balance": "cool_dominant",
+        "saturation_strategy": "muted_with_pop",
+        "contrast_type": "luminance_low",
+        "accent_color": "#e85d8a",
+        "accent_ratio": "12_percent"
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A dynamic outdoor daytime frame rendered at 1920x1080 pixels, 16:9 landscape, mixing energetic running footage with a stylized social-media graphic motif: in the chapter a young Korean man in his late twenties runs and stretches along a riverside path and exercises by a bridge, and in the hero beat the frame becomes a striking 360-degree little-planet projection where the world curls into a circular globe — the man stands at the center top of a spherical warped cityscape of bridges, railings and pale sky, holding a selfie stick, throwing a peace sign and grinning down at the camera, the entire environment bent into a round planet around him. Composited over this is a simulated social-media post UI: a white rounded card frame with a username handle at top reading the recorded \"alldaysmileboy\", a heart, comment and share row at the bottom, a bookmark icon, and to the right two recorded hashtag captions in white reading \"#긍정 파워로\" and \"#나만의 길\". In adjacent beats a product-callout tag appears — a white sans-serif brand name with an orange plus-badge and a recorded product name, for example \"new balance\" with \"ML860\" naming his running shoes — and a retro VHS-player UI frame with transport buttons (rewind, pause, play, fast-forward) borders the image while a white Korean caption reads the recorded \"나로 태어났으니까\". Preserve all on-screen handles, hashtags, captions and tags verbatim. Lighting is flat bright overcast daylight at roughly 6000K to 6500K, soft and even with the open sky as key, minimal fill needed, key-to-fill near 2:1, no rim, soft shadows, a clean bright look suited to the graphic overlays. Camera framing for the little-planet is a 360-degree spherical projection at an effectively overhead-wrapped angle, frontal to the central figure, environment scope, with the signature circular distortion; running beats are handheld tracking medium and full-body shots at eye level. Composition for the hero beat is radial and symmetrical, the smiling man at the dead center top of the round planet, the social-UI card and hashtags framing him, lots of pale-sky negative space at the corners outside the sphere. Color palette: pale grey-blue sky #b9c6cf dominant, warm pavement and railing greys, the man's dark athletic clothing, with the social-UI gradient (a magenta-to-orange Instagram-like bar) #e85d8a and white card as bright graphic accents; the relationship is a muted natural base with a vivid social-media accent, cool-temperature dominant, muted-with-pop saturation, mid luminance contrast, the magenta UI as accent under 12 percent. Textures read as raster UI card edges, matte pavement and metal railings, technical running fabric, the smooth warp of the spherical projection; atmosphere is energetic, breezy, upbeat, a positive self-driven mood, no grain, clean digital with graphic compositing. Post and signature look: clean 4K digital commercial cinematography combining live action with a 360 little-planet effect, simulated social-media UI and a retro VHS-player frame — the brand film's playful graphic-overlay toolkit — an upbeat self-positive mood. Style anchor: Korean lifestyle brand film, 360 little-planet projection, simulated social-media post UI with hashtags, retro VHS-player frame, energetic runner persona, playful positive-energy tone.",
+        "t2i_negative": "flat non-warped frame, real brand logos, watermark, dark scene, grain, indoor, distorted face, extra people",
+        "i2v_motion": "Live running/stretching beats cut into the hero 360 little-planet: the spherical cityscape slowly rotates around the central grinning man as he holds the selfie stick and throws a peace sign; a simulated social-media post UI (username 'alldaysmileboy', hashtags '#긍정 파워로 #나만의 길', like/comment bar) frames him; a New Balance ML860 tag and a retro VHS-player UI frame appear; caption '나로 태어났으니까' holds. 4.0s, upbeat steady rhythm.",
+        "i2v_params": {
+          "clip_duration_sec": 4.0,
+          "camera_move": "tiny_planet_360_rotate",
+          "subject_motion_level": "micro",
+          "signature_effect": "tiny_planet_360",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; runner generic Korean man; social-UI username/hashtags and product-callout text preserved verbatim; UI graphics generic"
+      }
+    },
+    {
+      "index": 10,
+      "duration": 6.63,
+      "framing": "MS",
+      "function": "narrative_vignette",
+      "subject_action": "streetwear friends laugh outside a burger shop (orange 'STRESS BURGER' signage); intercut with a bedroom-musician woman singing into a mic by synths/piano; DAW waveform, '다 내꺼' sticker; product tags GRAMICCI 릴렉스드 캡, BIG UNION 피그먼트 스웨트 셔츠, audio-technica 스피커, SNOWMAN22 Stand",
+      "layout_grid": "rule_of_thirds",
+      "subject_position": "center",
+      "subject_identity": "supporting_E",
+      "subject_relationship_to_protagonist": "main_character",
+      "mid_frame_path": "ADV-2026-042_frames/cut10_mid.png",
+      "subject_typo_layout": "typo_over_subject",
+      "typo_motion": "흰 한국어 캡션 하단 중앙; '다 내꺼' 그래픽 스티커(오렌지·블루 디스플레이); DAW 파형 오버레이; 제품 태그들 트랙인.",
+      "camera_angle": "eye_level",
+      "camera_facing": "three_quarter",
+      "shot_scope": "bust",
+      "gaze": "off_camera",
+      "eye_contact_effect": null,
+      "props": [
+        "microphone",
+        "synthesizers and piano",
+        "burger-shop signage",
+        "DAW screen"
+      ],
+      "prop_semantics": "스트리트웨어·뮤직 장비가 '재미·몰입하는' 친구·뮤지션 라이프를 시각화; 제품 태그가 의류·오디오 큐레이션 연결",
+      "color_palette": [
+        "#d98a3c",
+        "#5a3a28",
+        "#2f6bd0",
+        "#e8c89a"
+      ],
+      "color_intent": "웜 사이니지·램프 베이스에 쿨 스크린·스티커 포인트로 친밀·자기표현",
+      "pose_description": "친구 세 명이 버거집 앞에서 웃음; 다른 컷에선 여성이 눈 감고 마이크에 몰입 — 즐거운 사교 + 몰입 포즈",
+      "subject_motion": "laughing_and_singing",
+      "prop_motion": "singing into mic, waveform scrolls",
+      "camera_motion": "handheld_drift",
+      "camera_motion_intensity": "low",
+      "camera_effect_local": "handheld_slight_wobble",
+      "motion_blur": false,
+      "intra_cut_rhythm": "steady",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [
+        "ui_motion",
+        "color_pop"
+      ],
+      "vfx_intensity_local": "moderate",
+      "fact_check_flag": null,
+      "notes": "Scenes44-51 f1113-1271 (46.42-53.01s): streetwear friends at burger shop (GRAMICCI cap, BIG UNION sweatshirt) intercut bedroom-musician woman singing (audio-technica speaker, SNOWMAN22 Stand, DAW waveform, '다 내꺼' sticker, piano).",
+      "visible_elements": {
+        "foreground": [
+          "three laughing friends (burger beat) / singing woman at mic (studio beat)"
+        ],
+        "midground": [
+          "synths, piano, lamp",
+          "DAW waveform screen",
+          "'다 내꺼' sticker"
+        ],
+        "background": [
+          "orange burger-shop signage",
+          "venetian-blind home-studio wall"
+        ],
+        "lighting_env": [
+          "warm signage and lamp practicals",
+          "dim studio key"
+        ],
+        "atmosphere": [
+          "warm sociable then absorbed",
+          "faint cafe/studio air",
+          "no grain"
+        ]
+      },
+      "texture": {
+        "primary_subject": "fabric_cotton",
+        "secondary_objects": [
+          "metallic",
+          "plastic_glossy",
+          "wood_polished"
+        ],
+        "background_surface": "flat_digital",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "side_left",
+        "key_hardness": "soft",
+        "key_color_temp": "warm_3000K",
+        "fill_strength": "minimal",
+        "key_to_fill_ratio": "4:1",
+        "rim_light": true,
+        "practical_lights": [
+          "버거집 오렌지 사이니지",
+          "스튜디오 램프"
+        ],
+        "shadow_presence": "deep",
+        "overall_contrast": "low_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#d98a3c",
+          "#5a3a28",
+          "#2f6bd0",
+          "#e8c89a"
+        ],
+        "palette_role": {
+          "#d98a3c": "warm_signage_lamp_dominant",
+          "#5a3a28": "warm_brown_shadow",
+          "#2f6bd0": "sticker_screen_blue_accent",
+          "#e8c89a": "warm_skin_highlight"
+        },
+        "color_relationship": "complementary",
+        "temperature_balance": "warm_dominant",
+        "saturation_strategy": "vivid",
+        "contrast_type": "luminance_high",
+        "accent_color": "#2f6bd0",
+        "accent_ratio": "18_percent"
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A warm urban scene rendered at 1920x1080 pixels, 16:9 landscape, intercutting a streetwear-friends moment with a bedroom-musician persona: in one beat three young Korean friends in their twenties sit close together laughing outside a burger shop whose orange signage reading a stylized \"STRESS BURGER\" glows behind them, the central man in a blue cap and tan vintage sweatshirt grinning while a woman in a white headband and a man in a navy cap smile in pale hoodies; product-callout tags are composited — a white sans-serif brand name with an orange plus-badge and recorded product name, for example \"GRAMICCI\" with \"릴렉스드 캡\" and \"BIG UNION\" with \"피그먼트 스웨트 셔츠\" naming their caps and sweatshirts. In intercut beats a young Korean woman with long dark hair sings into a microphone in a warm dim home studio lit by a soft lamp and venetian-blind light, eyes closed and absorbed, beside synthesizers and a piano shot in raking low angle; a DAW audio-waveform fills the screen in one beat, a sticker reading the recorded Korean \"다 내꺼\" in bold orange-and-blue display type appears in another, and more product tags name audio gear, for example \"audio-technica\" with \"USB 타입 다이내믹 스피커\" and an \"SNOWMAN22 Stand\" with an orange plus-badge. Preserve all visible tags, stickers and a thin white Korean subtitle near lower-center carrying the recorded voiceover fragment. Lighting alternates warm interior tones: the burger-shop beat lit by warm orange signage and soft daylight at roughly 3500K to 4500K, the studio beats lit by a single warm lamp key at roughly 2900K to 3200K with deep shadow, both leaning warm low-to-mid key, key-to-fill near 4:1, gentle rim from practicals, soft-to-deep shadows, an intimate cozy contrast. Camera framing varies from a medium three-shot of the friends at eye level to close-ups of the singer and raking low-angle macro of the piano keys, three-quarter to profile facing, bust to detail scope, roughly 35mm to 85mm equivalents, shallow depth of field. Composition is layered and warm, the friends grouped center against the glowing sign, the singer placed off-center in pools of lamp light, gear filling foregrounds. Color palette: warm amber and orange #d98a3c dominant from signage and lamps, deep warm-brown shadows, cool blue accents from the \"다 내꺼\" sticker and screen-glow, skin tones warm; the relationship is a warm-dominant base with cool screen-and-sticker accents, warm temperature, rich controlled saturation, mid-high luminance contrast, the orange signage and blue sticker as accents under 18 percent. Textures read as vintage washed sweatshirt cotton, glossy microphone and synth surfaces, brushed piano keys, warm wood, paper sticker, DAW screen raster; atmosphere is warm, sociable then absorbed, faint cafe and bedroom-studio air, no grain, clean digital with a warm filmic grade. Post and signature look: clean 4K digital commercial cinematography with warm interior grades, product-callout tags, a graphic sticker and a DAW-waveform overlay — the brand's lifestyle-curation toolkit — a heartfelt do-your-own-thing mood. Style anchor: Korean lifestyle brand film, streetwear-friends and bedroom-musician intercut, warm signage and lamp light, product-callout tags and graphic stickers, expressive maker-and-friends tone.",
+        "t2i_negative": "cool daylight, sterile, real brand logos, watermark, empty scene, grain, outdoor field",
+        "i2v_motion": "Warm intercut: three friends laugh and chat outside the glowing burger shop (GRAMICCI 릴렉스드 캡, BIG UNION 피그먼트 스웨트 셔츠 tags track in), cutting to the bedroom-musician woman singing eyes-closed into the mic, a DAW waveform scrolls, a '다 내꺼' sticker pops, raking low-angle piano keys, audio-technica and SNOWMAN22 Stand tags appear. 6.63s, steady warm rhythm.",
+        "i2v_params": {
+          "clip_duration_sec": 6.63,
+          "camera_move": "handheld_drift",
+          "subject_motion_level": "micro",
+          "signature_effect": "none",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; friends and musician generic Korean young adults; product-callout and sticker text preserved verbatim; signage generic"
+      }
+    },
+    {
+      "index": 11,
+      "duration": 5.26,
+      "framing": "MS",
+      "function": "emotional_climax",
+      "subject_action": "montage climax: glossy posters/stickers ('새로운 도전', '멋진 실수', 'THE LIFE YOU DREAMED IN LIFE'), a hand holds a backlit 35mm film-negative strip, women dance joyfully in warm light; kinetic master-tagline '당신2 9하던 ___ 삶' cycles swap-words (감각적인/여행같은/몰입하는/나를 사랑하는/멈추지 않는); captions '어떤 삶을 구하던' '깊이 행복해질 수 있도록'",
+      "layout_grid": "dynamic_symmetry",
+      "subject_position": "varies",
+      "subject_identity": "ensemble_mixed",
+      "subject_relationship_to_protagonist": "main_character",
+      "mid_frame_path": "ADV-2026-042_frames/cut11_mid.png",
+      "subject_typo_layout": "typo_over_subject",
+      "typo_motion": "키네틱 마스터 카피 '당신2 9하던 [스왑워드] 삶'이 화면 중앙 밴드에 풀폭으로 등장, 중간 단어가 브러시 스크립트 컬러로 인물별 교체; 포스터·필름스트립 캡션·흰 캡션 다수.",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "bust",
+      "gaze": "off_camera",
+      "eye_contact_effect": null,
+      "props": [
+        "printed posters and stickers",
+        "35mm film-negative strip",
+        "bright window"
+      ],
+      "prop_semantics": "포스터('새로운 도전','멋진 실수')·필름 네거티브가 '어떤 삶을 구하던 깊이 행복해지는' 정서적 클라이맥스를 시각화",
+      "color_palette": [
+        "#c98f4a",
+        "#d9913f",
+        "#cc3b3b",
+        "#2f6bd0"
+      ],
+      "color_intent": "웜 실내 베이스에 백라이트 필름과 폴리크롬 레터링 포인트로 고양·축하",
+      "pose_description": "여성들이 따뜻한 빛 속에서 팔을 들어 춤추거나 빙글 도는 환희 포즈; 손이 필름 스트립을 빛에 비춤",
+      "subject_motion": "dancing_and_spinning",
+      "prop_motion": "film strip lifted to light, posters static",
+      "camera_motion": "handheld_drift",
+      "camera_motion_intensity": "low",
+      "camera_effect_local": "handheld_slight_wobble",
+      "motion_blur": false,
+      "intra_cut_rhythm": "accelerating",
+      "transition_in": "cut",
+      "transition_out": "fade",
+      "vfx_in_shot": [
+        "ui_motion",
+        "color_pop"
+      ],
+      "vfx_intensity_local": "moderate",
+      "fact_check_flag": null,
+      "notes": "Scenes52-56 f1272-1397 (53.05-58.27s): climax montage; posters/stickers (새로운 도전/멋진 실수/THE LIFE YOU DREAMED IN LIFE), 35mm film-negative strip, joyful dancing; kinetic swap-word master tagline variants; captions '어떤 삶을 구하던'/'깊이 행복해질 수 있도록'. WOW cut.",
+      "visible_elements": {
+        "foreground": [
+          "glossy posters/stickers with colored lettering",
+          "hand holding backlit 35mm film-negative strip"
+        ],
+        "midground": [
+          "women dancing/spinning in warm-lit rooms"
+        ],
+        "background": [
+          "dark warm interior surfaces",
+          "bright backlit window"
+        ],
+        "lighting_env": [
+          "warm dim interior pools",
+          "bright backlit window through film strip"
+        ],
+        "atmosphere": [
+          "emotive celebratory climactic",
+          "warm dust in lamplight",
+          "no grain"
+        ]
+      },
+      "texture": {
+        "primary_subject": "paper",
+        "secondary_objects": [
+          "plastic_glossy",
+          "fabric_cotton",
+          "wood_polished"
+        ],
+        "background_surface": "wood_polished",
+        "atmospheric": [
+          "backlight_glow"
+        ]
+      },
+      "lighting": {
+        "key_direction": "back",
+        "key_hardness": "soft",
+        "key_color_temp": "warm_3000K",
+        "fill_strength": "minimal",
+        "key_to_fill_ratio": "4:1",
+        "rim_light": true,
+        "practical_lights": [
+          "실내 램프",
+          "백라이트 창"
+        ],
+        "shadow_presence": "deep",
+        "overall_contrast": "low_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#c98f4a",
+          "#d9913f",
+          "#cc3b3b",
+          "#2f6bd0"
+        ],
+        "palette_role": {
+          "#c98f4a": "warm_interior_dominant",
+          "#d9913f": "film_negative_amber_glow",
+          "#cc3b3b": "poster_red_accent",
+          "#2f6bd0": "poster_blue_accent"
+        },
+        "color_relationship": "split_complementary",
+        "temperature_balance": "warm_dominant",
+        "saturation_strategy": "vivid",
+        "contrast_type": "luminance_high",
+        "accent_color": "#cc3b3b",
+        "accent_ratio": "20_percent"
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A montage-climax frame rendered at 1920x1080 pixels, 16:9 landscape, weaving together poster-sticker graphics, a film-negative motif, an exuberant dancing-with-light beat and the campaign's kinetic tagline: in some beats the camera holds in warm dim light on glossy printed posters and stickers propped on a dark surface, their bold display lettering carrying recorded Korean phrases such as \"새로운 도전\", \"멋진 실수\" and a small English line \"THE LIFE YOU DREAMED IN LIFE\", the type set in playful overlapping red, blue, green and cream letterforms; in another beat a hand holds a strip of developed 35mm film negatives up to a bright window, the amber frames glowing translucent, with a thin white Korean caption reading the recorded \"어떤 삶을 구하던\"; in another a young woman in a dim home studio flings her arms up dancing in warm lamplight with the same caption, and a painter spins joyfully in her bright studio with the caption \"깊이 행복해질 수 있도록\". The signature kinetic master-tagline also appears full-width over live footage: bold white Hangul reading \"당신2 9하던\" with a handwritten-style colored middle word slotting in — variants seen include \"감각적인\", \"여행같은\", \"몰입하는\", \"나를 사랑하는\" and \"멈추지 않는\" — completed by white \"삶\" at the end, the changeable word rendered in a brush-script accent color. Preserve all poster, caption and tagline text verbatim. Lighting ranges from warm dim interior pools at roughly 3000K on the posters and dancers, to bright backlit window daylight at 5500K glowing through the film negatives, generally warm low-key with one bright backlit accent, key-to-fill near 4:1 indoors, glowing rim through the film strip, soft-to-deep shadows, an emotive contrast. Camera framing varies from a close detail shot of the posters and film strip at eye level to medium dancing shots, three-quarter to frontal facing, detail to waist-up scope, roughly 35mm to 85mm equivalents, shallow depth of field. Composition is rhythmic and varied, posters and film strip filling detail beats, dancers placed off-center with motion room, the kinetic tagline banded across frame centers. Color palette: warm amber interior tones #c98f4a and dark browns dominant in the poster beats, glowing translucent orange-amber in the film negatives #d9913f, bright white daylight, with the posters' multicolor lettering (red, blue, green, cream) and the brush-script tagline word as vivid accents; the relationship is a warm base with polychrome graphic accents, warm-dominant temperature, vivid saturation in the graphics, mid-high luminance contrast, the colored lettering as accents under 20 percent. Textures read as glossy printed poster stock, translucent film emulsion, warm fabric in motion, wood surfaces, clean kinetic type; atmosphere is emotive, celebratory, climactic, warm dust in lamplight, no grain on the live footage. Post and signature look: clean 4K digital commercial cinematography binding graphic poster-and-sticker inserts, a film-negative motif and the campaign's kinetic Hangul master-tagline with its swappable handwritten middle word — the emotional and conceptual climax of the brand film. Style anchor: Korean lifestyle brand film climax, poster and sticker graphics, 35mm film-negative motif, joyful dancing beats, kinetic swap-word master tagline, emotive aspirational tone.\n Across these climactic beats the film argues that any life you reach for can become a life of deep happiness, the swap-word tagline letting every viewer read their own desire into the same elegant sentence structure.",
+        "t2i_negative": "cool daylight flat, real brand logos, watermark, sterile, grain on live footage, single static subject, empty frame",
+        "i2v_motion": "Rhythmic accelerating montage: holds on glossy posters/stickers ('새로운 도전','멋진 실수','THE LIFE YOU DREAMED IN LIFE'), a hand lifts a backlit 35mm film-negative strip to the window (caption '어떤 삶을 구하던'), women fling their arms up dancing and spin in warm rooms (caption '깊이 행복해질 수 있도록'); the kinetic master tagline '당신2 9하던 [감각적인/여행같은/몰입하는/나를 사랑하는/멈추지 않는] 삶' cycles its swap-word in colored brush-script. 5.26s, accelerating emotive rhythm, fade out.",
+        "i2v_params": {
+          "clip_duration_sec": 5.26,
+          "camera_move": "handheld_drift",
+          "subject_motion_level": "dynamic",
+          "signature_effect": "none",
+          "pacing": "accelerating",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; dancers generic Korean women; poster/caption/tagline text preserved verbatim; posters generic graphics"
+      }
+    },
+    {
+      "index": 12,
+      "duration": 1.84,
+      "framing": "WS",
+      "function": "brand_cta",
+      "subject_action": "pure black end card; centered white Korean tagline '감도 깊은 취향 셀렉트샵' above the larger white wordmark '29CM'",
+      "layout_grid": "center",
+      "subject_position": "center",
+      "subject_identity": "none_environment",
+      "subject_relationship_to_protagonist": null,
+      "mid_frame_path": "ADV-2026-042_frames/cut12_mid.png",
+      "subject_typo_layout": "typo_only_no_person",
+      "typo_motion": "흰 태그라인 '감도 깊은 취향 셀렉트샵'과 워드마크 '29CM'가 중앙에 정적 페이드인, 전체 컷 유지.",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "environment",
+      "gaze": "none",
+      "eye_contact_effect": null,
+      "props": [],
+      "prop_semantics": null,
+      "color_palette": [
+        "#000000",
+        "#ffffff"
+      ],
+      "color_intent": "순흑 배경에 흰 텍스트만으로 절제·프리미엄 브랜드 각인",
+      "pose_description": "인물 없음; 태그라인+워드마크만 중앙 배치, 광활한 검은 여백으로 절제미",
+      "subject_motion": "static",
+      "prop_motion": "none",
+      "camera_motion": "locked_off",
+      "camera_motion_intensity": "none",
+      "camera_effect_local": "none",
+      "motion_blur": false,
+      "intra_cut_rhythm": "static",
+      "transition_in": "fade",
+      "transition_out": "cut",
+      "vfx_in_shot": [],
+      "vfx_intensity_local": "none",
+      "fact_check_flag": null,
+      "notes": "Scene57 f1398-1441 (58.31-60.10s): pure black brand end card. White '감도 깊은 취향 셀렉트샵' tagline above white wordmark '29CM'. VO resolves '당신이 구하던 삶, 여기 29cm에서'.",
+      "visible_elements": {
+        "foreground": [
+          "white '감도 깊은 취향 셀렉트샵' tagline",
+          "white '29CM' wordmark"
+        ],
+        "midground": [],
+        "background": [
+          "pure flat black field #000000"
+        ],
+        "lighting_env": [
+          "flat pure digital, no directional light"
+        ],
+        "atmosphere": [
+          "clean minimal digital, no grain, no texture"
+        ]
+      },
+      "texture": {
+        "primary_subject": "flat_2d_vector",
+        "secondary_objects": [],
+        "background_surface": "flat_digital",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "front",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "strong",
+        "key_to_fill_ratio": "1:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "none",
+        "overall_contrast": "high_contrast"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#000000",
+          "#ffffff"
+        ],
+        "palette_role": {
+          "#000000": "background_black_dominant",
+          "#ffffff": "text_white"
+        },
+        "color_relationship": "monochrome",
+        "temperature_balance": "balanced",
+        "saturation_strategy": "monochrome",
+        "contrast_type": "luminance_high",
+        "accent_color": "#ffffff",
+        "accent_ratio": "5_percent"
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A pure minimalist brand end-card frame rendered at full 1920x1080 pixels, 16:9 landscape aspect ratio, on a completely flat solid black background filling every pixel with uniform pure black (#000000), zero gradient, zero texture, zero grain, an absolute void of negative space that signals premium restraint. Centered precisely on the horizontal and vertical axis of the frame are exactly two lines of crisp white text. The upper line is a smaller Korean Hangul tagline set in a clean light-to-regular-weight sans-serif reading the recorded copy \"감도 깊은 취향 셀렉트샵\" (meaning a deeply-attuned, taste-driven select shop), rendered in pure white (#ffffff) at a modest size, letter-spaced and calm, sitting just above the vertical center. Directly below it, larger and bolder, is the brand wordmark in white uppercase Latin and numerals reading \"29CM\", set in a clean geometric sans-serif with generous tracking between the characters so the 2, 9, C and M read as distinct confident forms, occupying roughly 22 percent of the frame width and centered, the unmistakable logotype of the Korean lifestyle e-commerce select-shop. There are no other elements whatsoever — no product, no person, no icon, no decoration, no border, no gradient halo — only the two white text lines floating in vast black. The composition is rigorously symmetrical and centered, with enormous black negative space above (roughly 45 percent of frame height), below (roughly 45 percent), and on both sides (roughly 38 percent each), the emptiness amplifying the wordmark by contrast. Lighting is not photographic — it is flat pure digital, the white text self-luminous against absolute black with zero directional key, zero shadow, zero highlight or specular, an even hi-key-on-black render. Color palette: pure black #000000 dominant across approximately 96 percent of the total frame area, with pure white text (#ffffff) occupying roughly 4 percent; the relationship is an absolute monochrome black-and-white, cool-neutral temperature reading, fully desaturated, maximum luminance contrast between white type and black field, white as the sole accent. Textures read as zero texture of any kind — no film grain, no haze, no surface, no noise, no scanline, only clean flat digital vector type on flat black. The aesthetic is maximum minimalism, the deliberate reduction to a tagline and a wordmark on a black void communicating that the brand and its curated taste are sufficient, a confident premium sign-off that bookends the emotional montage with cool clean restraint. The black field also visually rhymes with the dark intimate night and studio beats earlier in the film, resolving the energetic multi-persona montage into a single calm brand statement. Post and signature look: ultra-minimal Korean commercial brand closer, clean 4K flat digital render, single tagline plus wordmark on pure black, light-then-bold sans-serif hierarchy, deep-black brand-identity field, pure-white type, zero decorative elements, zero motion blur, zero atmosphere, maximum luminance contrast, cool-neutral monochrome. Style anchor: ultra-minimal Korean lifestyle e-commerce brand end card, flat black field, centered Hangul tagline and Latin-numeral wordmark, premium restrained confident sign-off.\n The frame is the final beat of the advertisement, a held black card that lets the brand name be the last and only thing on screen.",
+        "t2i_negative": "gradient, texture, grain, noise, color, decorative elements, photographic elements, logo mark symbol, off-center text, serif font",
+        "i2v_motion": "Hold perfectly static; the white tagline '감도 깊은 취향 셀렉트샵' and the white wordmark '29CM' fade in centered and hold on pure black for the full duration; camera locked-off; no motion. 1.84s, static.",
+        "i2v_params": {
+          "clip_duration_sec": 1.84,
+          "camera_move": "locked_off",
+          "subject_motion_level": "still",
+          "signature_effect": "none",
+          "pacing": "static",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; wordmark generic geometric sans-serif type treatment; tagline preserved verbatim; wordmark text only, no logo symbol"
+      }
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": "ADV-2026-027",
+  "fps": 29.97,
+  "cuts": [
+    {
+      "cut": 1,
+      "start": 0.0,
+      "end": 4.34,
+      "mid_time": 2.17,
+      "src_frame": "f000066.jpg",
+      "file": "cut01_mid.png"
+    },
+    {
+      "cut": 2,
+      "start": 4.34,
+      "end": 39.21,
+      "mid_time": 21.775,
+      "src_frame": "f000654.jpg",
+      "file": "cut02_mid.png"
+    },
+    {
+      "cut": 3,
+      "start": 39.21,
+      "end": 54.79,
+      "mid_time": 47.0,
+      "src_frame": "f001410.jpg",
+      "file": "cut03_mid.png"
+    },
+    {
+      "cut": 4,
+      "start": 54.79,
+      "end": 59.56,
+      "mid_time": 57.175,
+      "src_frame": "f001715.jpg",
+      "file": "cut04_mid.png"
+    }
+  ]
+}

@@ -1,0 +1,908 @@
+{
+  "id": "ADV-2026-001",
+  "source_ref": {
+    "platform": "digital_video",
+    "title_or_campaign": "카카오뱅크 모임통장",
+    "brand": "카카오뱅크",
+    "product": "모임통장",
+    "model": null,
+    "year": 2018,
+    "production_note": "준법감시인 심의필 18-376 (2018.11.30 현재)",
+    "url": null
+  },
+  "category_primary": "finance.bank",
+  "category_tags": [
+    "핀테크",
+    "모바일뱅킹",
+    "공동계좌",
+    "친구·모임"
+  ],
+  "mood": [
+    "friendly",
+    "playful",
+    "warm",
+    "energetic"
+  ],
+  "target_demo": "20대 초~30대 초, 모임·소모임 참여 활발한 사회초년생·직장인",
+  "total_duration": 25.96,
+  "shot_count": 5,
+  "shot_count_corrected": 5,
+  "fps": 29.97,
+  "aspect_ratio": "16:9",
+  "hook_position": 0.0,
+  "cta_position": 16.05,
+  "narrative_arc": "브랜드 로고 등장(인식) → 실제 모임 장면(공감) → 앱 화면 노출(문제제시) → 제품 혜택 선언(솔루션) → 브랜드 마무리(신뢰)",
+  "narrative_structure": "linear_continuous",
+  "pacing_curve": "front_loaded",
+  "music_tempo_curve": "steady",
+  "wow_cut_index": [
+    3,
+    4
+  ],
+  "creative_device": "product_app_cutout_float + empathy_copy_hook",
+  "production_signature": {
+    "capture_style": "mixed",
+    "camera_signature": [
+      "handheld_shake",
+      "locked_off"
+    ],
+    "signature_note": "cut2 live-action 핸드헬드 촬영(바 환경, 네온 조명); cut3 핸드헬드 하프-실제 소품(폰 props); cut4/5 clean digital 3D 렌더+디지털 그래픽. 전역 wiggle 수치(mean_abs_shift_x=0.32, sign_flips=0.16)는 cut2 핸드헬드에 의한 것으로 판단됨—cut4는 수치상 locked_off. 순수 wiggle_3d 효과는 확인되지 않음.",
+    "color_grade": "brand_color_dominant",
+    "texture_fx": "clean_digital"
+  },
+  "global_layout": {
+    "grid_system": "split_screen",
+    "subject_placement_dominant": "left_third",
+    "subject_typo_relation": "typo_opposite_subject",
+    "negative_space_use": "generous",
+    "layout_note": "cut3~4: 화면을 좌(앱 UI/소품) 우(대형 카피) 로 분할. cut1/5: 중앙 집중. cut2: 와이드 앙상블 구도."
+  },
+  "recurring_motifs": [
+    "노란 UI 화면",
+    "모임 계좌 잔액",
+    "영수증 트랜잭션 리스트",
+    "음식·술자리 소품"
+  ],
+  "copywriting": {
+    "tagline_text": "멤버 누구나 실시간으로 확인할 수 있는\n카카오뱅크 모임통장",
+    "tagline_structure": "기능 설명 + 브랜드명",
+    "tagline_length_syllables": 26,
+    "tagline_position_sec": 19.0,
+    "cta_text": "카카오뱅크 모임통장",
+    "cta_text_structure": "브랜드명 + 제품명",
+    "cta_position_sec": 21.4,
+    "copy_tone": [
+      "친근",
+      "직접",
+      "정보제공"
+    ],
+    "copy_strategy": "empathy_to_solution",
+    "copy_lines_count": 4,
+    "lines": [
+      {
+        "position_sec": 0.03,
+        "text": "카카오뱅크 모임통장",
+        "function": "brand_hook",
+        "tone": "neutral",
+        "source": "caption"
+      },
+      {
+        "position_sec": 2.03,
+        "text": "친구끼리 모임통장",
+        "function": "product_intro",
+        "tone": "friendly",
+        "source": "caption"
+      },
+      {
+        "position_sec": 11.85,
+        "text": "사람들도 잔고를 알아야 하니까",
+        "function": "empathy_hook",
+        "tone": "empathetic",
+        "source": "caption"
+      },
+      {
+        "position_sec": 16.05,
+        "text": "회비가 얼마나 남았는지",
+        "function": "product_benefit",
+        "tone": "informational",
+        "source": "caption"
+      },
+      {
+        "position_sec": 18.0,
+        "text": "멤버 누구나 실시간으로 확인할 수 있는",
+        "function": "feature_cta",
+        "tone": "confident",
+        "source": "caption"
+      },
+      {
+        "position_sec": 21.4,
+        "text": "카카오뱅크 모임통장",
+        "function": "brand_cta",
+        "tone": "neutral",
+        "source": "caption"
+      }
+    ],
+    "captions": [
+      {
+        "position_sec": 16.05,
+        "text": "준법감시인 심의필 18-376 (2018.11.30 현재)",
+        "function": "legal_disclaimer"
+      },
+      {
+        "position_sec": 23.46,
+        "text": "자세한 내용은 카카오뱅크 모바일앱을 참고하세요.",
+        "function": "legal_cta"
+      }
+    ],
+    "narration_handling": "none"
+  },
+  "typography": {
+    "primary_font_class": "sans_serif_bold_rounded",
+    "secondary_font_class": "sans_serif_light",
+    "animation_style": [
+      "fade_in",
+      "slide",
+      "static"
+    ],
+    "subtitle_position_dominant": "center",
+    "tagline_position": "right_half",
+    "color_strategy": "white_on_dark_or_dark_on_light",
+    "appearance_count": 6,
+    "key_typography_moments_sec": [
+      0.0,
+      2.0,
+      11.85,
+      16.05,
+      18.0,
+      21.4
+    ],
+    "typo_motion_dominant": "fade_in"
+  },
+  "vfx": {
+    "primary_effects": [
+      "ui_motion",
+      "data_viz"
+    ],
+    "effect_intensity": "moderate",
+    "transition_style_dominant": "cut",
+    "vfx_event_count": 3,
+    "vfx_timing_array_sec": [
+      11.85,
+      16.05,
+      18.0
+    ],
+    "wow_vfx_index": [
+      4
+    ]
+  },
+  "audio": {
+    "has_audio": true,
+    "language": "ko",
+    "speech_coverage": null,
+    "bgm_likely": null,
+    "narration_lines": [
+      {
+        "start": 11.85,
+        "end": 15.0,
+        "text": "사람들도 잔고를 알아야 하니까",
+        "text_raw": "사람들도 잔고를 알아야 하니까",
+        "kind": "caption",
+        "source": "caption_inferred"
+      },
+      {
+        "start": 16.05,
+        "end": 19.0,
+        "text": "회비가 얼마나 남았는지",
+        "text_raw": "회비가 얼마나 남았는지",
+        "kind": "caption",
+        "source": "caption_inferred"
+      },
+      {
+        "start": 18.0,
+        "end": 21.4,
+        "text": "멤버 누구나 실시간으로 확인할 수 있는 카카오뱅크 모임통장",
+        "text_raw": "멤버 누구나 실시간으로 확인할 수 있는 카카오뱅크 모임통장",
+        "kind": "caption",
+        "source": "caption_inferred"
+      }
+    ],
+    "voice_vs_caption": "caption_only_inferred",
+    "narration_handling": "none",
+    "transcribed_by": "manual_from_captions",
+    "audio_note": "faster_whisper not available in sandbox. Narration inferred from on-screen captions. BGM and speech coverage unknown."
+  },
+  "frames_dir": "ADV-2026-001_frames",
+  "contact_sheet_path": "ADV-2026-001_frames/contact_sheet.png",
+  "shots": [
+    {
+      "index": 1,
+      "duration": 2.0,
+      "framing": "MS",
+      "function": "brand_hook",
+      "subject_action": "brand identity animation — yellow B-mark with Korean text animates in, mascot character peeks from inside mark; text transitions from full brand name to product tagline",
+      "layout_grid": "center",
+      "subject_position": "center",
+      "subject_identity": "none_environment",
+      "subject_relationship_to_protagonist": null,
+      "mid_frame_path": "ADV-2026-001_frames/cut01_mid.png",
+      "subject_typo_layout": "typo_only_no_person",
+      "typo_motion": "서비스명 '카카오뱅크 모임통장' 정지 → 상단 텍스트 분해/슬라이드 애니메이션 → 최종 '친구끼리 모임통장' 정착 (f1→f60 순차 변환)",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "environment",
+      "gaze": "none",
+      "eye_contact_effect": null,
+      "props": [],
+      "prop_semantics": null,
+      "color_palette": [
+        "#2e3650",
+        "#f0c820",
+        "#ffffff",
+        "#c08040"
+      ],
+      "color_intent": "브랜드 네이비를 배경 지배색으로, 브랜드 옐로우를 마크/강조색으로 사용한 CI 강화",
+      "pose_description": "인물 없음; 로고 마크가 화면 중앙에 정적 앵커로 기능, 우측 텍스트가 슬라이드 전환",
+      "subject_motion": "static",
+      "prop_motion": "none",
+      "camera_motion": "locked_off",
+      "camera_motion_intensity": "none",
+      "camera_effect_local": "none",
+      "motion_blur": false,
+      "intra_cut_rhythm": "static",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [
+        "ui_motion"
+      ],
+      "vfx_intensity_local": "subtle",
+      "fact_check_flag": null,
+      "notes": "Cut 1 (f1-f60, 0.00-2.00s): navy background #2e3650, yellow B-mark, mascot bear peeking. Text transitions from '카카오뱅크 모임통장' to '친구끼리 모임통장' via character shuffle animation.",
+      "visible_elements": {
+        "foreground": [
+          "yellow geometric brand B-mark",
+          "round bear mascot cartoon character"
+        ],
+        "midground": [
+          "white Korean text: '카카오뱅크 모임통장' transitioning to '친구끼리 모임통장'"
+        ],
+        "background": [
+          "flat navy-dark-blue field #2e3650"
+        ],
+        "lighting_env": [
+          "flat even ambient — clean digital render, zero directional light"
+        ],
+        "atmosphere": [
+          "clean minimal digital, no grain, no depth"
+        ]
+      },
+      "texture": {
+        "primary_subject": "flat_2d_vector",
+        "secondary_objects": [
+          "flat_2d_vector"
+        ],
+        "background_surface": "flat_digital",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "front",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "strong",
+        "key_to_fill_ratio": "1:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "none",
+        "overall_contrast": "hi_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#2e3650",
+          "#f0c820",
+          "#ffffff",
+          "#c08040"
+        ],
+        "palette_role": {
+          "#2e3650": "background_navy_dominant",
+          "#f0c820": "brand_yellow_mark",
+          "#ffffff": "text_white",
+          "#c08040": "mascot_brown_accent"
+        },
+        "color_relationship": "brand_dominant",
+        "temperature_balance": "cool_dominant",
+        "saturation_strategy": "muted_with_pop",
+        "contrast_type": "luminance_high",
+        "accent_color": "#f0c820",
+        "accent_ratio": "15_percent"
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A clean flat-digital brand identity animation frame rendered at 1920x1080 pixels, 16:9 landscape aspect ratio. The entire frame background is filled with a single flat deep navy-blue color (#2e3650) — no gradient, no texture, no grain, perfectly uniform dark blue-navy across the whole frame. At the horizontal and vertical center of the frame, shifted slightly left of dead-center (approximately at 40% of frame width), there is a bold geometric brand mark: a large capital letter 'B' rendered as a solid compact rounded-corner block shape in bright brand-yellow (#f0c820). The B-shape occupies approximately 12% of the total frame width and 28% of the frame height, making it a substantial anchor element in the composition. The B-shape has clean flat edges with slightly rounded corner treatment, and is rendered as pure flat yellow with zero shadow or 3D depth. Emerging from behind the lower-left corner of the yellow B-shape is a small cartoon mascot character — a simplified bear with round brown head (#c08040), small sleepy or curious eyes rendered in flat 2D vector style, visible only from the upper body upward. The bear's small brown paw is barely visible at the lower-left edge of the B-shape, as if the character is peeking or hiding behind the mark. The bear has no visible text or brand markings and is purely a playful mascot element. To the right of the yellow B-mark, occupying the right third of the frame (approximately 55-80% of frame width), are two lines of Korean Hangul text set in a bold rounded sans-serif typeface. The top line reads '카카오뱅크' and the second line reads '모임통장', both in solid white (#ffffff) on the navy background. The two text lines are left-aligned with each other and with the right edge of the B-mark, creating a cohesive logo grouping. The text is mid-animation in this start frame — the individual syllable characters appear partially formed or in transition, as if shuffling or sliding into their final positions (some characters show incomplete assembly). The font is a bold rounded geometric Hangul sans-serif with slightly playful, friendly character forms. Layout: the entire logo group (B-mark + bear + text) is centered in the frame both horizontally and vertically, with generous blank navy space above (approximately 35% of frame height), below (approximately 35% of frame height), and on both sides. The composition is purely symmetrical around the vertical axis with the logo group placed at the visual center. Color palette: navy background #2e3650 dominates approximately 75% of the total frame area; brand-yellow #f0c820 occupies approximately 13% (the B-mark); white typography #ffffff occupies approximately 9%; bear mascot brown #c08040 occupies approximately 3%. Color relationship: high-luminance-contrast brand-dominant composition, yellow accent on dark field. Texture: all elements are flat 2D digital vector, zero photographic texture, zero film grain, zero halation. Lighting: perfectly even flat ambient, zero directional key light, zero shadows, zero highlights or specular. The aesthetic is a Korean fintech mobile brand identity motion graphic — clean, modern, minimal, hi-key flat digital, playful mascot integrated into logo mark. Style anchor: clean Korean commercial digital brand reveal, 4K hi-key even brightness, flat vector illustration, bold rounded Hangul sans-serif typography, playful corporate-cute mascot brand identity, zero atmospheric effects.",
+        "t2i_negative": "photorealistic, 3D render, grain, noise, bokeh, real human faces, real logos, watermark, text errors, extra characters, dark shadows, gradient background",
+        "i2v_motion": "Starting from the static brand mark and text, animate a smooth character shuffle on the upper text line: individual Korean syllables slide and recompose from '카카오뱅크' to a new reading while '모임통장' holds steady below. The yellow B-mark stays fixed as anchor. The bear mascot peeks further out with a tiny wobble. Camera locked-off. 2.0s total, steady rhythm.",
+        "i2v_params": {
+          "clip_duration_sec": 2.0,
+          "camera_move": "locked_off",
+          "subject_motion_level": "micro",
+          "signature_effect": "none",
+          "pacing": "static",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful brand identity; mascot character generic cartoon bear type; text verbatim preserved; logo B-shape generic"
+      }
+    },
+    {
+      "index": 2,
+      "duration": 9.85,
+      "framing": "MS",
+      "function": "narrative_setup",
+      "subject_action": "four young Korean friends gathered around a round table in a neon-lit bar/bowling alley lounge; central male figure holds smartphone showing app screen; group reacts with excitement and laughter; group dynamic with arm gestures and pointing",
+      "layout_grid": "rule_of_thirds",
+      "subject_position": "center",
+      "subject_identity": "ensemble_friends",
+      "subject_relationship_to_protagonist": "main_character",
+      "mid_frame_path": "ADV-2026-001_frames/cut02_mid.png",
+      "subject_typo_layout": "typo_separate_zone",
+      "typo_motion": "화면 내 자막 없음; 인물 행동·표정이 서사를 전달",
+      "camera_angle": "eye_level",
+      "camera_facing": "three_quarter",
+      "shot_scope": "waist_up",
+      "gaze": "off_camera",
+      "eye_contact_effect": null,
+      "props": [
+        "smartphone",
+        "beer bottles",
+        "shot glasses",
+        "snack plate",
+        "round bar table"
+      ],
+      "prop_semantics": "모임 분위기 시각화 — 술자리 소품이 친구 모임 맥락을 전달; 스마트폰이 앱 사용 촉발",
+      "color_palette": [
+        "#1a1510",
+        "#c04020",
+        "#2060a0",
+        "#d0a030",
+        "#8060a0"
+      ],
+      "color_intent": "따뜻하고 어두운 네온 펍 조명으로 친밀한 야간 모임 분위기 연출; 빨간 트랙수트가 시선 앵커",
+      "pose_description": "중앙 인물: 흰 버킷햇+빨간 트랙수트, 스마트폰 양손으로 잡고 아래를 내려다봄. 왼쪽 인물: 안경+청 재킷, 손가락으로 폰 가리키며 웃음. 오른쪽 여성: 파란 스포티 탑+초커, 팔 들어 기뻐하는 제스처. 맨 오른쪽: 노란 비니, 손가락 제스처+웃음.",
+      "subject_motion": "micro_gestures_and_reactions",
+      "prop_motion": "phone held and tilted for group viewing",
+      "camera_motion": "handheld_drift",
+      "camera_motion_intensity": "low",
+      "camera_effect_local": "handheld_slight_wobble",
+      "motion_blur": false,
+      "intra_cut_rhythm": "steady",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [],
+      "vfx_intensity_local": "none",
+      "fact_check_flag": null,
+      "notes": "Cut 2 (f61-f355, 2.00-11.85s): live action bar/lounge. 4 friends. Camera transitions from wider group WS to tighter MS following central male protagonist. Neon practical lights throughout.",
+      "visible_elements": {
+        "foreground": [
+          "central male protagonist in white bucket hat and red tracksuit holding smartphone"
+        ],
+        "midground": [
+          "three supporting friends reacting — glasses+denim jacket male, blue sporty top+choker female, yellow beanie male",
+          "round bar table with beer bottles, shot glasses, snack plate"
+        ],
+        "background": [
+          "neon-lit bar interior — pink, teal, purple LED neon signs",
+          "bowling alley through glass partition",
+          "dark wood paneling",
+          "bokeh figures"
+        ],
+        "lighting_env": [
+          "warm amber bar ceiling practical lights",
+          "pink/purple LED neon sign background glow",
+          "cool teal bottle glow on table"
+        ],
+        "atmosphere": [
+          "slight atmospheric haze",
+          "warm-dark evening bar ambiance",
+          "energetic social gathering mood"
+        ]
+      },
+      "texture": {
+        "primary_subject": "fabric_cotton_tracksuit",
+        "secondary_objects": [
+          "glass_clear",
+          "fabric_denim",
+          "plastic_glossy"
+        ],
+        "background_surface": "wood_dark",
+        "atmospheric": [
+          "slight_haze",
+          "neon_glow_diffusion"
+        ]
+      },
+      "lighting": {
+        "key_direction": "45deg_above",
+        "key_hardness": "soft",
+        "key_color_temp": "warm_3000K",
+        "fill_strength": "minimal",
+        "key_to_fill_ratio": "4:1",
+        "rim_light": false,
+        "practical_lights": [
+          "바 천장 앰버 조명",
+          "배경 핑크·퍼플 네온 LED",
+          "테이블 위 청색 병 반사광"
+        ],
+        "shadow_presence": "soft",
+        "overall_contrast": "low_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#1a1510",
+          "#c04020",
+          "#2060a0",
+          "#d0a030",
+          "#8060a0"
+        ],
+        "palette_role": {
+          "#1a1510": "background_dark_dominant",
+          "#c04020": "protagonist_red_tracksuit",
+          "#2060a0": "cool_neon_teal_accent",
+          "#d0a030": "warm_amber_light",
+          "#8060a0": "background_neon_purple"
+        },
+        "color_relationship": "analogous",
+        "temperature_balance": "warm_dominant",
+        "saturation_strategy": "vivid",
+        "contrast_type": "luminance_low",
+        "accent_color": "#c04020",
+        "accent_ratio": "15_percent"
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A wide medium shot of four young Korean people in their mid-to-late twenties gathered around a small round bar-height table inside a dimly lit neon bar or bowling alley lounge. The scene is 1920x1080 pixels, 16:9 landscape. The four people are arranged in a semicircle around the table, filling the lower two-thirds of the frame. The central dominant figure is a Korean male in his mid-to-late 20s, standing at the center of the group: he wears a white fabric bucket hat and a red zip-up high-neck tracksuit with white side stripe detailing. This is the protagonist character — he holds a black smartphone in both hands, arms slightly bent at the elbows, looking down at the phone screen with a concentrated or slightly surprised expression, slowly beginning to tilt the screen to show the others. To his immediate left is a Korean male wearing wire-framed glasses and a washed light-blue denim jacket over a light-colored hoodie; he is pointing one or two fingers toward the phone screen and grinning broadly, showing teeth. To the protagonist's right is a Korean female in a color-blocked sporty crop top combining blue and a contrasting color, with a black choker necklace and visible hoop earrings; she has her arms raised or gesturing upward in a surprised-joyful reaction. At the far right of the group is another Korean male wearing a bright yellow beanie with a small brim, dressed in a dark tracksuit or zip-up jacket; he is pointing with one hand and smiling broadly. All four people are animated with natural social energy — laughter, pointing, leaning in. On the round wooden table in the foreground: two tall glass beer/beverage bottles (one with red label, one with blue label), three to four small shot glasses, and a shared plate of fried snack food. The bar interior environment behind them has dark wood-paneled walls with visible bokeh-blurred neon LED signage in pink, purple, and teal-green hues. Through a glass partition in the far background, a bowling alley lane area is visible with additional bokeh figures of other patrons. The ceiling lighting is warm amber-orange practical bar lights casting a top-down 45-degree warm key light at approximately 3000K color temperature. Crossfill from the background neon signs provides cool pink-purple ambient wrap light. The depth of field is shallow to moderate — the group is sharp, the background is distinctly bokeh. Color palette: very dark warm brown-black #1a1510 dominant background, red tracksuit #c04020 as subject anchor and attention focal point, cool teal-blue neon accent #2060a0, warm amber light #d0a030, purple background neon #8060a0, skin tones warm natural. Texture: smooth athletic polyester tracksuit fabric with visible side stripe seam, washed denim jacket texture, clear glass bottle condensation sheen, dark matte wood panel background, natural skin textures. Lighting: low-key warm key from above at 45°, minimal cool fill from neon background, key-to-fill ratio approximately 4:1, soft shadows, no rim light. Overall contrast: low-key warm. The framing is waist-up group shot, slightly elevated eye-level camera angle, subjects at three-quarter facing angle relative to protagonist. No text overlays, no captions, no graphics. Style anchor: Korean live-action commercial, warm low-key neon bar night atmosphere, 24-35mm equivalent lens look, shallow depth of field background bokeh, natural candid social energy, clean skin tone rendering, no heavy post color grade, 4K commercial production quality.",
+        "t2i_negative": "watermark, over-saturated, heavy vignette, blown highlights, extra limbs, distorted faces, cartoon, text overlays, outdoor scene, logo marks visible",
+        "i2v_motion": "Four friends around table with micro-gesture reactions; protagonist holds phone and angles it toward group, friends lean in and gesture. Organic natural social micro-motion: head tilts, pointing, spontaneous smiles. Camera drifts very slightly (handheld, low intensity). Warm neon practical lights steady, slight flicker from neon signs. 9.85s total, steady rhythm, no internal cut.",
+        "i2v_params": {
+          "clip_duration_sec": 9.85,
+          "camera_move": "handheld_drift",
+          "subject_motion_level": "micro",
+          "signature_effect": "none",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; subject identities generic Korean young adults; bottle labels blurred/generic"
+      }
+    },
+    {
+      "index": 3,
+      "duration": 4.2,
+      "framing": "MS",
+      "function": "product_demo",
+      "subject_action": "hand holds smartphone vertically showing mobile banking app group account with running balance 450원 and transaction history; large white Korean caption on right: '사람들도 잔고를 알아야 하니까'; app balance number does rapid countdown animation at cut start",
+      "layout_grid": "split_screen",
+      "subject_position": "left_third",
+      "subject_identity": "hand_prop",
+      "subject_relationship_to_protagonist": "supporting_character",
+      "mid_frame_path": "ADV-2026-001_frames/cut03_mid.png",
+      "subject_typo_layout": "typo_opposite_subject",
+      "typo_motion": "대형 흰 텍스트 '사람들도 / 잔고를 / 알아야 하니까' 화면 우측 정적 배치 (f356 즉시 등장). 앱 화면 내 잔액 숫자 카운팅 애니메이션 (f356~f380 빠르게 변화 → 450원 정착).",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "waist_up",
+      "gaze": "at_product",
+      "eye_contact_effect": null,
+      "props": [
+        "smartphone with banking app UI",
+        "bar background blurred"
+      ],
+      "prop_semantics": "앱 실제 UI 노출 → 잔액 실시간 확인 기능을 시각적으로 증명",
+      "color_palette": [
+        "#0a1015",
+        "#ffc800",
+        "#ffffff",
+        "#3399ff"
+      ],
+      "color_intent": "어두운 배경 위 앱의 브랜드 옐로우가 시선을 끌고 흰 텍스트가 읽힘성 확보",
+      "pose_description": "오른손이 스마트폰 하단을 감싸쥐고 화면이 정면을 향하도록 들어올림. 손목 일부만 보임. 배경은 블러된 바 환경.",
+      "subject_motion": "static",
+      "prop_motion": "app balance number counting animation on screen",
+      "camera_motion": "locked_off",
+      "camera_motion_intensity": "none",
+      "camera_effect_local": "none",
+      "motion_blur": false,
+      "intra_cut_rhythm": "steady",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [
+        "ui_motion"
+      ],
+      "vfx_intensity_local": "moderate",
+      "fact_check_flag": null,
+      "notes": "Cut 3 (f356-f481, 11.85-16.05s): hand holds phone showing '남남먹방🍔 모임', acct# 3333-00-1234567, balance 450원. Transactions: 볼링 펍 -119,550원, 연수 12월 회비 +30,000원, 이탈리아 파스타 -78,000원, 영서 감자탕 -75,000원, 지연이 12월 회비 +30,000원. Right caption '사람들도 잔고를 알아야 하니까'. f379: balance counting animation visible.",
+      "visible_elements": {
+        "foreground": [
+          "right hand holding black smartphone vertically"
+        ],
+        "midground": [
+          "mobile banking app UI — yellow header '남남먹방🍔 모임', '450원' balance, four member profile circles, white transaction list"
+        ],
+        "background": [
+          "blurred dark bar interior",
+          "bokeh blue bottle neon light",
+          "large bold white Korean text right half: '사람들도 / 잔고를 / 알아야 하니까'"
+        ],
+        "lighting_env": [
+          "cool-blue practical bar background light",
+          "phone screen yellow glow on hand"
+        ],
+        "atmosphere": [
+          "dark intimate bar atmosphere",
+          "phone screen as primary light source"
+        ]
+      },
+      "texture": {
+        "primary_subject": "skin_natural",
+        "secondary_objects": [
+          "glass_clear_phone_screen",
+          "plastic_glossy_phone_body"
+        ],
+        "background_surface": "bokeh_abstract",
+        "atmospheric": [
+          "neon_glow_diffusion"
+        ]
+      },
+      "lighting": {
+        "key_direction": "front",
+        "key_hardness": "soft",
+        "key_color_temp": "mixed",
+        "fill_strength": "minimal",
+        "key_to_fill_ratio": "8:1",
+        "rim_light": false,
+        "practical_lights": [
+          "스마트폰 화면(노란 UI)",
+          "배경 블루 네온"
+        ],
+        "shadow_presence": "deep",
+        "overall_contrast": "high_contrast"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#0a1015",
+          "#ffc800",
+          "#ffffff",
+          "#3399ff"
+        ],
+        "palette_role": {
+          "#0a1015": "background_dark_dominant",
+          "#ffc800": "app_ui_yellow_hero",
+          "#ffffff": "caption_text_and_ui_white",
+          "#3399ff": "transaction_highlight_blue"
+        },
+        "color_relationship": "complementary",
+        "temperature_balance": "cool_dominant",
+        "saturation_strategy": "vivid",
+        "contrast_type": "luminance_high",
+        "accent_color": "#ffc800",
+        "accent_ratio": "30_percent"
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A split-composition 16:9 landscape frame divided into two distinct zones by the visual elements. Left zone (approximately 0-50% of frame width, full vertical extent): a close-up view of a person's right hand holding a modern black smartphone vertically in portrait orientation, with the screen facing the viewer. The hand is positioned at a slight angle so the phone is slightly tilted (not perfectly vertical), and the hand wraps naturally around the lower portion of the phone body. The hand belongs to a person of average Korean skin tone, naturally lit in a dark environment. The phone is a current-model black-glass smartphone with visible notch or rounded-corner display. The phone screen displays a mobile banking app interface with a bright yellow (#ffc800) header section occupying the upper 45% of the phone display. At the very top of the yellow area: a group account title in dark Hangul sans-serif text: '남남먹방🍔 모임'. Below the title, a small gray account number: '3333-00-1234567'. Then a bold very large balance figure in black numerals centered on the yellow area: '450원'. Below the balance, a horizontal row of four small circular member profile photos (showing faces of four different young people). Below the yellow header, a white transaction list area with rows: date column (12.20, 12.20, 12.08, 12.02), merchant name column (볼링 펍, 연수 12월 회비, 이탈리아 파스타, 영서 감자탕), amount column (red text for debits: -119,550원, -78,000원, -75,000원; blue text for deposits: +30,000원). Running balance figures visible in lighter gray. Search icon and filter labels ('1개월 · 전체 · 최신') visible above list. The phone body is glossy black with rounded corners. The background behind the hand and phone is a very dark (#0a1015) blurred bar interior, with a soft bokeh blue-teal glow from a neon-lit bottle visible at the right edge of the background. Right zone (50-100% of frame width): pure very dark background (#0a1015 to near-black) with large bold white Korean text in a stacked three-line format, left-aligned within the zone, approximately vertically centered from 25% to 75% of frame height. The text reads: line one '사람들도' in very large heavy rounded sans-serif white (#ffffff), line two '잔고를' in the same large size and weight, line three '알아야 하니까' in the same weight but spanning slightly more characters. The font is a heavy Korean sans-serif with rounded strokes and bold weight, maximum ~150 character-height pixels. Color palette: very dark near-black #0a1015 dominant background (~40%), bright yellow #ffc800 app header (~25%), white typography and UI elements (#ffffff, ~20%), skin tone warm (#c08060, ~10%), blue-teal bokeh and transaction highlights (#3399ff, ~5%). Lighting: phone screen is the primary light source creating a warm yellow-white glow on the hand; background has cool blue-teal neon ambient practical lighting; high contrast, deep shadows in corners; key-to-fill ratio 8:1. Shadow presence: deep. Overall contrast: high. The aesthetic is a dark atmospheric product-demo split layout: Korean mobile banking app UI as hero on left, large empathy-copy typography on right. Style anchor: Korean commercial product demo, dark-background split composition, 4K digital, high luminance contrast.",
+        "t2i_negative": "extra hands, distorted screen, unreadable text, overly bright background, no bokeh, studio backdrop, western aesthetic, watermark",
+        "i2v_motion": "Hand holds phone steady (breathing-level only). On screen: rapid balance number countdown animation — numbers race from 23,964 down to smaller values then settle on 450원 (1.5s). After settling, screen is static. Right caption '사람들도 / 잔고를 / 알아야 하니까' holds as static overlay throughout. Camera locked-off. 4.20s total.",
+        "i2v_params": {
+          "clip_duration_sec": 4.2,
+          "camera_move": "locked_off",
+          "subject_motion_level": "still",
+          "signature_effect": "none",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; app UI text verbatim; hand identity generic; fictional demo account number shown as-is"
+      }
+    },
+    {
+      "index": 4,
+      "duration": 7.41,
+      "framing": "MS",
+      "function": "product_hero",
+      "subject_action": "clean white-background product mockup: smartphone in 3D tilted perspective showing full app screen; large bold Korean caption on right evolves: '회비가 얼마나 남았는지' → '멤버 누구나 실시간으로 확인할 수 있는 카카오뱅크 모임통장'; app slowly scrolls down revealing full transaction history",
+      "layout_grid": "split_screen",
+      "subject_position": "left_third",
+      "subject_identity": "none_environment",
+      "subject_relationship_to_protagonist": null,
+      "mid_frame_path": "ADV-2026-001_frames/cut04_mid.png",
+      "subject_typo_layout": "typo_opposite_subject",
+      "typo_motion": "우측 대형 텍스트: '회비가 / 얼마나 남았는지' 즉시 등장 (f482) → '멤버 누구나 / 실시간으로 / 확인할 수 있는' 추가 → '카카오뱅크 모임통장' 브랜드라인 추가 (f635~f645). 텍스트 슬라이드 인 또는 페이드 인 방식.",
+      "camera_angle": "eye_level",
+      "camera_facing": "three_quarter",
+      "shot_scope": "environment",
+      "gaze": "none",
+      "eye_contact_effect": null,
+      "props": [
+        "3D tilted smartphone mockup"
+      ],
+      "prop_semantics": "앱 UI를 3/4 앵글 틸트 렌더로 제시 → 제품의 깊이감과 세련미 강조; 화이트 배경으로 앱 기능에 집중",
+      "color_palette": [
+        "#f3f3f3",
+        "#ffc800",
+        "#333333",
+        "#3399ff",
+        "#ffffff"
+      ],
+      "color_intent": "화이트 배경으로 앱 UI 노란 컬러 강조, 짙은 회-검 텍스트로 읽힘성 극대화",
+      "pose_description": "인물 없음; 스마트폰이 약 15도 틸트된 자세로 화면 좌측 배치, 그림자가 바닥 방향으로 뻗음",
+      "subject_motion": "static",
+      "prop_motion": "app screen scrolls downward slowly",
+      "camera_motion": "locked_off",
+      "camera_motion_intensity": "none",
+      "camera_effect_local": "none",
+      "motion_blur": false,
+      "intra_cut_rhythm": "steady",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [
+        "ui_motion",
+        "data_viz"
+      ],
+      "vfx_intensity_local": "moderate",
+      "fact_check_flag": null,
+      "notes": "Cut 4 (f482-f703, 16.05-23.46s): clean white background, 3D tilted phone mockup left. App: '남남먹방🍔 모임', acct# 3333-00-1234567, balance 450원, 4 profiles. Transactions scroll. Right text evolves. Legal: '준법감시인 심의필 18-376 (2018.11.30 현재)'.",
+      "visible_elements": {
+        "foreground": [
+          "3D tilted smartphone mockup with yellow app UI header and balance '450원'"
+        ],
+        "midground": [
+          "clean white surface below phone with soft drop shadow"
+        ],
+        "background": [
+          "flat off-white background #f3f3f3 with subtle diagonal shadow plane",
+          "large bold dark Korean text right side: '회비가 / 얼마나 남았는지' then '멤버 누구나 / 실시간으로 / 확인할 수 있는 / 카카오뱅크 모임통장'"
+        ],
+        "lighting_env": [
+          "soft even studio diffused light from above-front"
+        ],
+        "atmosphere": [
+          "clean minimal product studio environment",
+          "no haze, no grain"
+        ]
+      },
+      "texture": {
+        "primary_subject": "glass_clear_phone_screen",
+        "secondary_objects": [
+          "plastic_glossy_phone_body"
+        ],
+        "background_surface": "flat_digital",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "45deg_above",
+        "key_hardness": "diffused",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "strong",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "soft",
+        "overall_contrast": "hi_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#f3f3f3",
+          "#ffc800",
+          "#333333",
+          "#3399ff",
+          "#ffffff"
+        ],
+        "palette_role": {
+          "#f3f3f3": "background_off_white_dominant",
+          "#ffc800": "app_ui_yellow_hero",
+          "#333333": "caption_text_dark",
+          "#3399ff": "transaction_deposit_highlight",
+          "#ffffff": "phone_screen_background"
+        },
+        "color_relationship": "brand_dominant",
+        "temperature_balance": "balanced",
+        "saturation_strategy": "muted_with_pop",
+        "contrast_type": "luminance_high",
+        "accent_color": "#ffc800",
+        "accent_ratio": "30_percent"
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A clean minimal product-mockup composition rendered at 1920x1080 pixels, 16:9 landscape format, against a flat off-white background (#f3f3f3). The left zone (0-55% of frame width, full height) features a modern black smartphone displayed in a three-quarter perspective view — the phone is rotated approximately 15-20 degrees clockwise along its vertical axis, with the screen face angled slightly toward the viewer's right, creating a three-dimensional product-display effect while the screen remains readable. The phone's physical body is a premium matte-black smartphone with rounded corners and a glossy OLED screen. The phone is positioned so its base sits at approximately 85% of frame height and its top extends to approximately 10% of frame height, making it tall and prominent. The phone casts a soft diffused drop shadow extending toward the lower-right on the white surface beneath it — the shadow has very soft edges indicating diffused studio lighting. The phone screen displays the group banking app interface: a bright yellow (#ffc800) header section at the top showing account name '남남먹방🍔 모임' in Hangul sans-serif, account number '3333-00-1234567' in small gray text, large bold black balance '450원' centered in the yellow area, and four circular member profile photos in a horizontal row (showing four different young Korean people). Below the yellow header, the white screen shows a transaction list with rows: 12.20 볼링 펍 -119,550원 (balance 450원), 12.20 연수 12월 회비 +30,000원 (blue, balance 30,000원), 12.08 이탈리아 파스타 -78,000원 (balance 100,000원), 12.02 영서 감자탕 -75,000원 (balance 178,000원), 12.01 지연이 12월 회비 +30,000원 (blue, balance 243,000원). The transaction amounts use red (#cc0000 equivalent) for debits and blue (#3399ff) for deposits. Search icon and filter bar ('1개월 · 전체 · 최신 ˅') visible above the list. The right zone (55-95% of frame width) contains large bold Korean typography in dark charcoal (#333333), left-aligned within the zone, stacked format. Primary text block (upper right): '회비가' on one line and '얼마나 남았는지' on the next line, in very large heavy rounded sans-serif, approximately equivalent to 100-120px. Below a vertical gap, secondary text appears later in the cut: '멤버 누구나' / '실시간으로' / '확인할 수 있는' in the same typeface, same size. Below that, a smaller product-name line: '카카오뱅크 모임통장' in slightly smaller bold sans-serif. At the very bottom-right corner of the frame, tiny legal disclaimer text in light gray: '준법감시인 심의필 18-376 (2018.11.30 현재)'. The background is a completely flat off-white field (#f3f3f3) with a very subtle diagonal shadow gradient coming from the phone's tilted perspective — slightly darker toward the lower-right corner. Color palette: off-white #f3f3f3 dominant background (~50%), app yellow #ffc800 hero element (~20%), dark charcoal typography #333333 (~15%), white phone screen background (#ffffff, ~10%), blue deposits text #3399ff (~5%). Lighting: soft even product-studio diffused light from 45° above-front, neutral 5500K color temperature, strong fill (key-to-fill 2:1), no rim light, soft shadow, hi-key overall contrast. Texture: glossy phone screen surface with visible UI, glossy phone body, flat digital background surface, no atmospheric texture. Style anchor: Korean commercial fintech product mockup, hi-key product photography aesthetic, clean white studio background, three-quarter perspective smartphone display, 4K digital, neutral daylight, minimal post-processing, no grain.",
+        "t2i_negative": "dark background, dramatic shadows, people, grain, film grain, extra phones, distorted perspective, blur, outdoor",
+        "i2v_motion": "Smartphone mockup holds perfectly still in 3D tilt position. On screen: slow downward scroll of transaction list — items move upward steadily revealing more rows. Right text '회비가 얼마나 남았는지' static for first ~3s, then '멤버 누구나 / 실시간으로 / 확인할 수 있는' fades/slides in, then '카카오뱅크 모임통장' appears as bottom line. Camera locked-off. 7.41s total, steady product-demo pacing.",
+        "i2v_params": {
+          "clip_duration_sec": 7.41,
+          "camera_move": "locked_off",
+          "subject_motion_level": "still",
+          "signature_effect": "none",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; app UI text verbatim; member profile photos generic; legal disclaimer verbatim"
+      }
+    },
+    {
+      "index": 5,
+      "duration": 2.5,
+      "framing": "MS",
+      "function": "brand_cta",
+      "subject_action": "clean dark navy background; brand wordmark 'kakaobank' centered in white; small legal caption at bottom center",
+      "layout_grid": "center",
+      "subject_position": "center",
+      "subject_identity": "none_environment",
+      "subject_relationship_to_protagonist": null,
+      "mid_frame_path": "ADV-2026-001_frames/cut05_mid.png",
+      "subject_typo_layout": "typo_only_no_person",
+      "typo_motion": "'kakaobank' 워드마크 정적 배치 (전체 컷 유지). 하단 캡션 '자세한 내용은 카카오뱅크 모바일앱을 참고하세요.' 정적.",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "environment",
+      "gaze": "none",
+      "eye_contact_effect": null,
+      "props": [],
+      "prop_semantics": null,
+      "color_palette": [
+        "#1e2644",
+        "#ffffff"
+      ],
+      "color_intent": "브랜드 네이비 배경에 흰 워드마크로 신뢰감·정제된 마무리",
+      "pose_description": "인물 없음; 로고타입 워드마크만 중앙 배치. 최소 구성으로 브랜드 각인.",
+      "subject_motion": "static",
+      "prop_motion": "none",
+      "camera_motion": "locked_off",
+      "camera_motion_intensity": "none",
+      "camera_effect_local": "none",
+      "motion_blur": false,
+      "intra_cut_rhythm": "static",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [],
+      "vfx_intensity_local": "none",
+      "fact_check_flag": null,
+      "notes": "Cut 5 (f704-f778, 23.46-25.96s): pure dark navy #1e2644. White wordmark 'kakaobank' (lowercase, kakao=light weight, bank=bold). Caption: '자세한 내용은 카카오뱅크 모바일앱을 참고하세요.'",
+      "visible_elements": {
+        "foreground": [
+          "white 'kakaobank' wordmark centered"
+        ],
+        "midground": [],
+        "background": [
+          "flat dark navy field #1e2644"
+        ],
+        "lighting_env": [
+          "flat even ambient — clean digital, no directional light"
+        ],
+        "atmosphere": [
+          "clean minimal digital, no grain, no texture"
+        ]
+      },
+      "texture": {
+        "primary_subject": "flat_2d_vector",
+        "secondary_objects": [],
+        "background_surface": "flat_digital",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "front",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "strong",
+        "key_to_fill_ratio": "1:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "none",
+        "overall_contrast": "hi_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#1e2644",
+          "#ffffff"
+        ],
+        "palette_role": {
+          "#1e2644": "background_navy_dominant",
+          "#ffffff": "wordmark_white"
+        },
+        "color_relationship": "monochrome",
+        "temperature_balance": "cool_dominant",
+        "saturation_strategy": "desaturated_with_pop",
+        "contrast_type": "luminance_high",
+        "accent_color": "#ffffff",
+        "accent_ratio": "5_percent"
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A minimalist typographic brand closer frame rendered at full 1920x1080 pixels, 16:9 landscape aspect ratio. The entire frame background is filled with a single flat deep navy-blue color (#1e2644) — a deeper and slightly more blue-shifted navy than the opening cut, with zero gradient, zero texture, zero grain, perfectly uniform across every pixel of the background. This is a pure flat-color digital frame. At the precise horizontal and vertical center of the frame, a brand wordmark in white lowercase Latin text is displayed: the word kakaobank. The word is rendered as a single unspaced continuous lowercase string with no hyphen, no space, no separator between the two component words. The typeface is a custom geometric humanist sans-serif with slightly rounded stroke endings — clean, contemporary, confident. The typographic treatment uses a dual-weight system within the single word: the kakao portion is set in a lighter regular-to-medium weight with slightly narrower character forms, while the bank portion is set in a heavier bold weight with slightly wider character forms. Despite the weight contrast, both portions flow as a continuous seamless typographic unit with uniform baseline and consistent x-height throughout. The color is pure white (#ffffff) with no drop shadow, no outline, no gradient, no glow, no inner shadow, no emboss. The wordmark is centered both horizontally and vertically on the frame, occupying approximately 32% of the total frame width and approximately 7% of the frame height — making it a substantial but restrained central element with generous navy space surrounding it in all directions. Above the wordmark: approximately 46% of frame height in empty navy. Below the wordmark: approximately 47% of frame height in empty navy. Left side: approximately 34% frame width in empty navy. Right side: approximately 34% frame width in empty navy. The generous surrounding empty space is intentional — the negative space amplifies the weight and presence of the wordmark by contrast. The only other element in the frame is a single line of small Korean caption text positioned at approximately 82% of frame height, placed at horizontal center of frame. This text reads in Korean Hangul: the sentence meaning detailed information can be referenced from the KakaoBank mobile app. This caption is set in a thin-light-weight Korean sans-serif, approximately 18-20 pixels equivalent character height at full 1920x1080 resolution, rendered in a light gray color in the range of #aaaaaa to #cccccc — clearly readable when the viewer is close but intentionally subordinate to the main wordmark. Color palette: navy #1e2644 dominates approximately 95% of total frame area; white wordmark (#ffffff) occupies approximately 4% of the frame; light gray caption occupies approximately 1% of the frame. Color relationship: monochrome navy-white with single gray sub-element caption. Temperature: cool dominant throughout entire frame. Saturation: desaturated near-monochrome composition. Contrast: high luminance contrast between white wordmark and dark navy background field. Texture: zero texture of any kind — zero film grain, zero atmospheric haze, zero surface texture, zero photographic noise, zero halftone, zero scanlines, zero visual artifact. All elements are pure flat digital vector renders. The aesthetic is maximum minimalism — a refined, trustworthy, premium Korean fintech brand closer that uses restraint as a signal of confidence. The deliberate reduction to a single typographic element on a pure flat field communicates that the brand itself is sufficient — no product imagery, no people, no icons, no decoration. The navy background creates a visual bookend with the opening cut, whose brand mark animation also used a deep navy field, creating structural visual symmetry across the full 25.96-second advertisement. The dual-weight wordmark construction — lighter kakao transitioning into heavier bank — subtly emphasizes the banking function while maintaining the friendly approachability of the kakao ecosystem branding. Style anchor: ultra-minimal Korean commercial brand closer, 4K clean digital flat render, single typographic wordmark on flat color background, lowercase humanist sans-serif, deep navy brand identity color #1e2644, pure white wordmark #ffffff, zero decorative elements, zero motion blur, zero atmospheric elements, zero grain, high luminance contrast, cool temperature dominant, generous negative space composition.",
+        "t2i_negative": "gradient, texture, grain, noise, decorative elements, photographic elements, illustrations, multiple colors, shadows, colored text, uppercase letters, serif font",
+        "i2v_motion": "Hold perfectly static throughout. The 'kakaobank' wordmark and small legal caption below are visible from the first frame and do not animate. Camera locked-off. No motion of any kind. Clean still hold for 2.50s, very slight fade to black in final 0.3s.",
+        "i2v_params": {
+          "clip_duration_sec": 2.5,
+          "camera_move": "locked_off",
+          "subject_motion_level": "still",
+          "signature_effect": "none",
+          "pacing": "static",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; wordmark generic sans-serif type treatment; caption verbatim preserved; wordmark only (no logo mark symbol)"
+      }
+    }
+  ],
+  "search_keywords": {
+    "industry": [
+      "finance"
+    ],
+    "product_category": [
+      "mobile_banking",
+      "group_account"
+    ],
+    "target_demo": [
+      "20s",
+      "early_career",
+      "office_worker",
+      "mz",
+      "family"
+    ],
+    "media_format": [
+      "digital_30s",
+      "shortform_landscape_30s"
+    ],
+    "tone": [
+      "friendly",
+      "warm_emotional",
+      "upbeat"
+    ],
+    "pacing": [
+      "front_loaded",
+      "steady"
+    ],
+    "technique": [
+      "product_app_cutout_float",
+      "empathy_copy_hook",
+      "direct_cta",
+      "splitscreen"
+    ],
+    "vfx_keywords": [
+      "ui_motion",
+      "data_viz",
+      "split_screen"
+    ],
+    "copy_strategy_keywords": [
+      "empathy_to_solution",
+      "feature_benefit_direct",
+      "number_emphasis",
+      "caption_led"
+    ],
+    "concept_derivation_pattern": [
+      "everyday_problem_metaphor_product_release"
+    ]
+  },
+  "inferred_creative_thinking": {
+    "insight": "모임 자금 관리 시 잔고 불투명성이 불신을 낳는다 — '내가 얼마 냈는지'보다 '지금 얼마 남았는지'가 더 큰 갈등 포인트",
+    "persona": "20대 초중반, 소모임·동아리·친구 모임에 정기적으로 참여하며 더치페이/회비 정산에 번거로움을 겪는 사람",
+    "moment": "술자리나 모임 중 회비 잔액을 확인하고 싶은데 누구 하나가 총무 역할을 독점하고 있는 상황",
+    "product_role": "모임 구성원 누구나 실시간으로 잔액과 내역을 볼 수 있는 공동 계좌 — 투명성이 핵심 기능",
+    "punchline": "사람들도 잔고를 알아야 하니까",
+    "differentiator": "단순 더치페이 앱이 아니라 모임 전용 통장 — 은행 계좌 수준의 투명성을 친구 사이에 제공",
+    "brand_fit_one_liner": "모바일 뱅킹이기 때문에 가능한 모임 자금 투명성",
+    "confidence": "inferred"
+  },
+  "inferred_brief": "20대 타깃에게 카카오뱅크 모임통장은 모임 구성원 모두가 실시간으로 잔액을 확인할 수 있는 투명한 공동 계좌임을 친근하고 직관적으로 알린다.",
+  "cross_pollination_tags": {
+    "adjacent": [
+      "insurance",
+      "telecom",
+      "subscription_membership"
+    ],
+    "distant": [
+      "food_delivery",
+      "social_app",
+      "ride_sharing"
+    ],
+    "contrast": [
+      "luxury_sedan",
+      "highend_fashion",
+      "premium_cosmetics"
+    ]
+  },
+  "concept_derivation_pattern": "everyday_problem_metaphor_product_release",
+  "confidence": "inferred",
+  "analyst_notes": "1. faster_whisper 미설치 — 음성 전사 불가, 화면 자막 기반 추정으로 대체. 2. wiggle 수치(mean_abs_shift_x=0.32, sign_flips=0.16)는 cut2 핸드헬드 촬영에 기인한 것으로 판단됨; 순수 wiggle_3d 효과는 육안 확인 결과 부재. 3. cut3 앱 화면 balance 카운팅 애니메이션 확인 (f379 diff=11.5). 4. 광고 제작연도 2018로 추정(준법감시인 심의필 2018.11.30).",
+  "verification": {
+    "frames_reviewed": "approx 60/778 native-res frames read (all cut boundaries + midpoints + key diff and text_delta spike frames) + 100% per-frame metrics coverage",
+    "audio_analyzed": false,
+    "hitrate_na": true,
+    "abstraction_checked": true
+  }
+}

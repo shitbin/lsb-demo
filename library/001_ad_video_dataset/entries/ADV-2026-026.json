@@ -1,0 +1,1582 @@
+{
+  "id": "ADV-2026-026",
+  "source_ref": {
+    "platform": "youtube_shorts_instagram_reels",
+    "title_or_campaign": "토스 숨은 서비스 10",
+    "brand": "토스 (Toss)",
+    "product": "fraud-account check before sending money (사기 계좌인지 확인하는 방법) inside the banking app",
+    "model": null,
+    "year": null,
+    "production_note": "Vertical 1080x1920 social shortform, series episode 10. Three-part structure: live-action presenter intro (employee carrying a parcel through a bright open-plan office) -> a single continuous handheld real-device in-app demo screen-captured by filming an iPhone in hand -> live-action presenter outro (unboxing). Numbered step badges (1-5) plus a torn-paper caption strip drive a step-by-step tutorial. Scene detector reported 8 segments but several are in-app screen transitions inside one continuous take (status-bar clock runs 10:46 -> 10:48 unbroken, same hand and background); true camera cuts are only intro->demo and demo->outro.",
+    "source_file": "토스 숨은 서비스 10.mp4",
+    "url": null
+  },
+  "category_primary": "finance.bank",
+  "category_tags": [
+    "모바일뱅킹",
+    "사기예방",
+    "안전송금",
+    "튜토리얼",
+    "직원추천 시리즈"
+  ],
+  "mood": [
+    "친근",
+    "안심",
+    "실용적",
+    "신뢰",
+    "차분"
+  ],
+  "target_demo": "20-30대 모바일뱅킹 사용자, 중고거래를 하는 사회초년생·직장인",
+  "total_duration": 58.28,
+  "shot_count": 8,
+  "shot_count_corrected": 8,
+  "fps": 29.97,
+  "aspect_ratio": "9:16",
+  "hook_position": 0.0,
+  "cta_position": 52.55,
+  "narrative_arc": "An employee-host opens with a hook caption promising a way to check a scam account, then walks us through a real-device demo: a secondhand-sneaker seller sends a bank account; the host copies it, opens the banking app, taps transfer, pastes the account, and the app flags it with a red warning ('suspected scam account, reported'); even after entering an amount and tapping send, a warning sheet blocks the transfer; the host closes by replying 'it's a scam' to the seller and signs off promising more hidden tips while unboxing a (legitimately bought) jacket.",
+  "narrative_structure": "linear_continuous",
+  "pacing_curve": "steady",
+  "music_tempo_curve": "steady",
+  "wow_cut_index": [
+    5
+  ],
+  "creative_device": "employee-host step-by-step real-device app demo with numbered torn-paper captions synced to voiceover, building to a red scam-warning payoff",
+  "production_signature": {
+    "capture_style": "live_action",
+    "camera_signature": [
+      "handheld_shake"
+    ],
+    "signature_note": "Two distinct camera modes. Live-action bookends are filmed with a smooth handheld follow/locked-medium on the host in a bright office. The long middle demo is a screen-capture-by-filming approach: a real iPhone held in one hand is shot by a second handheld camera, so the phone drifts with gentle natural handheld motion and the on-screen UI is the real app. No wiggle_3d / lenticular parallax. metrics wiggle hint (mean_abs_shift_x 0.15, sign_flips 0.30) is ordinary handheld jitter, not a deliberate 3D wiggle.",
+    "color_grade": "clean_bright_neutral",
+    "texture_fx": "clean_digital"
+  },
+  "global_layout": {
+    "grid_system": "center",
+    "subject_placement_dominant": "center",
+    "subject_typo_relation": "typo_separate_zone",
+    "negative_space_use": "generous",
+    "layout_note": "Whole piece is center-weighted vertical. Captions live in a dedicated lower zone: top headline brush-boxes only in the intro/outro, and a torn-paper caption strip pinned to the lower third throughout the demo, often paired with a blue numbered step badge to its upper-left. The phone (demo) or the host (bookends) occupies the central two-thirds; UI / face never competes with the caption zone."
+  },
+  "recurring_motifs": [
+    "blue numbered step badges",
+    "torn-paper white caption strip with blue keyword highlights",
+    "red scam-warning iconography (triangle + siren light)",
+    "cardboard parcel from a secondhand trade",
+    "Toss-blue accent color"
+  ],
+  "copywriting": {
+    "tagline_text": "사기꾼은 쓰지 말라고 하는 토스로 사기 계좌 확인하기",
+    "tagline_structure": "relative-clause hook + benefit ('the thing scammers tell you not to use' -> 'check a scam account with Toss')",
+    "tagline_length_syllables": 26,
+    "tagline_position_sec": 0.0,
+    "cta_text": "토스의 숨은 꿀기능 다시 찾아올게요!",
+    "cta_text_structure": "series sign-off promising a return ('Toss hidden honey-feature, I'll be back')",
+    "cta_position_sec": 52.55,
+    "copy_tone": [
+      "친근",
+      "안심",
+      "정보전달",
+      "구어체"
+    ],
+    "copy_strategy": "step_by_step_tutorial",
+    "copy_lines_count": 13,
+    "lines": [
+      {
+        "position_sec": 0.0,
+        "text": "사기꾼은 쓰지 말라고 하는 토스로 사기 계좌 확인하기",
+        "function": "hook_headline",
+        "tone": "teaser",
+        "source": "caption"
+      },
+      {
+        "position_sec": 0.18,
+        "text": "중고거래 할 때 사기 계좌인지 확인하는 방법, 지금 바로 알려드릴게요",
+        "function": "intro_promise",
+        "tone": "friendly",
+        "source": "voice"
+      },
+      {
+        "position_sec": 5.94,
+        "text": "판매자가 입금 계좌를 알려주면",
+        "function": "step1_caption",
+        "tone": "instructional",
+        "source": "both"
+      },
+      {
+        "position_sec": 8.0,
+        "text": "우선 계좌 번호를 복사하세요",
+        "function": "step1_caption",
+        "tone": "instructional",
+        "source": "both"
+      },
+      {
+        "position_sec": 10.78,
+        "text": "그다음 토스를 실행하고",
+        "function": "step2_caption",
+        "tone": "instructional",
+        "source": "both"
+      },
+      {
+        "position_sec": 13.5,
+        "text": "내 계좌 옆 송금 버튼을 눌러줍니다",
+        "function": "step2_caption",
+        "tone": "instructional",
+        "source": "both"
+      },
+      {
+        "position_sec": 16.05,
+        "text": "계좌 번호 입력을 누르고",
+        "function": "step3_caption",
+        "tone": "instructional",
+        "source": "both"
+      },
+      {
+        "position_sec": 18.5,
+        "text": "아까 복사해뒀던 판매자의 계좌 번호를 입력해주세요",
+        "function": "step3_caption",
+        "tone": "instructional",
+        "source": "both"
+      },
+      {
+        "position_sec": 23.0,
+        "text": "확인 버튼을 누르면",
+        "function": "step3_caption",
+        "tone": "instructional",
+        "source": "both"
+      },
+      {
+        "position_sec": 24.99,
+        "text": "입력한 계좌가 사기 계좌로 의심되면 이렇게 빨간 경고 아이콘이 뜹니다",
+        "function": "step4_payoff_caption",
+        "tone": "alerting",
+        "source": "both"
+      },
+      {
+        "position_sec": 29.7,
+        "text": "아이콘을 누르면 이 계좌가 사기에 이용된 계좌인지 확인할 수 있어요",
+        "function": "step4_detail_caption",
+        "tone": "instructional",
+        "source": "both"
+      },
+      {
+        "position_sec": 37.9,
+        "text": "실수로 금액을 입력하고 사기 의심 계좌라면 송금 전 이렇게 경고 알림을 띄워줍니다",
+        "function": "step5_caption",
+        "tone": "reassuring",
+        "source": "both"
+      },
+      {
+        "position_sec": 45.65,
+        "text": "등록되지 않은 사기 계좌로 범행을 시도할 수도 있으니 다양한 요소들을 반드시 꼼꼼히 확인하세요",
+        "function": "closing_advice_caption",
+        "tone": "cautionary",
+        "source": "both"
+      }
+    ],
+    "captions": [
+      {
+        "position_sec": 0.0,
+        "text": "사기꾼은 쓰지 말라고 하는 토스로 사기 계좌 확인하기",
+        "function": "hook_headline"
+      },
+      {
+        "position_sec": 0.5,
+        "text": "Toss Product Owner 박세진",
+        "function": "host_name_tag"
+      },
+      {
+        "position_sec": 5.94,
+        "text": "1 판매자가 입금 계좌를 알려주면",
+        "function": "step_caption"
+      },
+      {
+        "position_sec": 8.0,
+        "text": "1 우선 계좌 번호를 복사하세요",
+        "function": "step_caption"
+      },
+      {
+        "position_sec": 10.78,
+        "text": "2 그다음 토스를 실행하고",
+        "function": "step_caption"
+      },
+      {
+        "position_sec": 13.5,
+        "text": "2 내 계좌 옆 송금 버튼을 눌러줍니다",
+        "function": "step_caption"
+      },
+      {
+        "position_sec": 16.05,
+        "text": "3 계좌 번호 입력을 누르고",
+        "function": "step_caption"
+      },
+      {
+        "position_sec": 18.5,
+        "text": "3 아까 복사해뒀던 판매자의 계좌 번호를",
+        "function": "step_caption"
+      },
+      {
+        "position_sec": 21.5,
+        "text": "3 입력해주세요",
+        "function": "step_caption"
+      },
+      {
+        "position_sec": 23.0,
+        "text": "확인 버튼을 누르면",
+        "function": "step_caption"
+      },
+      {
+        "position_sec": 24.99,
+        "text": "입력한 계좌가 사기 계좌로 의심되면",
+        "function": "step_caption"
+      },
+      {
+        "position_sec": 27.5,
+        "text": "이렇게 빨간 경고 아이콘이 뜹니다",
+        "function": "step_caption"
+      },
+      {
+        "position_sec": 29.7,
+        "text": "4 아이콘을 누르면",
+        "function": "step_caption"
+      },
+      {
+        "position_sec": 31.5,
+        "text": "4 이 계좌가 사기에 이용된 계좌인지",
+        "function": "step_caption"
+      },
+      {
+        "position_sec": 34.5,
+        "text": "4 확인할 수 있어요",
+        "function": "step_caption"
+      },
+      {
+        "position_sec": 37.9,
+        "text": "5 실수로 금액을 입력하고",
+        "function": "step_caption"
+      },
+      {
+        "position_sec": 40.5,
+        "text": "5 사기 의심 계좌라면 송금 전",
+        "function": "step_caption"
+      },
+      {
+        "position_sec": 43.0,
+        "text": "5 이렇게 경고 알림을 띄워줍니다",
+        "function": "step_caption"
+      },
+      {
+        "position_sec": 45.65,
+        "text": "등록되지 않은 사기 계좌로",
+        "function": "closing_caption"
+      },
+      {
+        "position_sec": 48.0,
+        "text": "범행을 시도할 수도 있으니",
+        "function": "closing_caption"
+      },
+      {
+        "position_sec": 50.0,
+        "text": "다양한 요소들을 반드시 꼼꼼히 확인하세요",
+        "function": "closing_caption"
+      },
+      {
+        "position_sec": 52.55,
+        "text": "토스의 숨은 꿀기능 다시 찾아올게요!",
+        "function": "outro_signoff"
+      },
+      {
+        "position_sec": 6.0,
+        "text": "뉴발판매자 / 안녕하세요 거래 원합니다~ / N발란스 2002 빈티지 블랙 280사이즈입니다!! / 111123456789 / 큐브은행 홍길동 / 입금해주시면 바로 택배부칠게요",
+        "function": "in_app_message_content"
+      },
+      {
+        "position_sec": 25.5,
+        "text": "사기 의심 계좌예요 / 이 계좌번호는 신고가 들어온 계좌예요. / 계속하기 / 송금 취소",
+        "function": "in_app_warning_sheet"
+      }
+    ],
+    "narration_handling": "excerpt_only"
+  },
+  "typography": {
+    "primary_font_class": "rounded_sans_bold",
+    "secondary_font_class": "sans_regular_ui",
+    "animation_style": [
+      "pop",
+      "static",
+      "fade_in"
+    ],
+    "subtitle_position_dominant": "lower_third",
+    "tagline_position": "top",
+    "color_strategy": "white-and-near-black caption text with selective Toss-blue keyword highlighting, on torn-paper white strips; intro/outro headline reverse-out white on blue brush boxes with yellow circle emphasis on a key word",
+    "appearance_count": 23,
+    "key_typography_moments_sec": [
+      0.0,
+      5.94,
+      24.99,
+      37.9,
+      52.55
+    ],
+    "typo_motion_dominant": "pop"
+  },
+  "vfx": {
+    "primary_effects": [
+      "ui_motion",
+      "color_pop"
+    ],
+    "effect_intensity": "subtle",
+    "transition_style_dominant": "cut",
+    "vfx_event_count": 6,
+    "vfx_timing_array_sec": [
+      24.99,
+      29.7,
+      37.9,
+      43.0,
+      45.65,
+      52.55
+    ],
+    "wow_vfx_index": [
+      5
+    ]
+  },
+  "audio": {
+    "has_audio": true,
+    "language": "ko",
+    "speech_coverage": 0.857,
+    "bgm_likely": true,
+    "narration_lines": [
+      {
+        "start": 0.18,
+        "end": 5.3,
+        "text": "중고거래 할 때 사기 계좌인지 확인하는 방법, 지금 바로 알려드릴게요.",
+        "text_raw": "중곰을 풍컬해 할 때 사기 계좌인진 확인하는 방법, 지금 바로 알려드릴게요.",
+        "kind": "voiceover",
+        "source": "both"
+      },
+      {
+        "start": 6.3,
+        "end": 10.18,
+        "text": "판매자가 입금 계좌를 알려주면 우선 계좌 번호를 복사하세요.",
+        "text_raw": "판매자가 입금 계좌를 알려주면 우선 계좌 번호를 복사하세요.",
+        "kind": "voiceover",
+        "source": "both"
+      },
+      {
+        "start": 10.74,
+        "end": 15.3,
+        "text": "그다음 토스를 실행하고 내 계좌 옆 송금 버튼을 눌러줍니다.",
+        "text_raw": "그 다음 토스를 실행하고 내 계좌의 합성근 버튼을 눌러줍니다.",
+        "kind": "voiceover",
+        "source": "both"
+      },
+      {
+        "start": 15.62,
+        "end": 20.98,
+        "text": "계좌 번호 입력을 누르고 아까 복사해 넣었던 판매자의 계좌 번호를 입력해주세요.",
+        "text_raw": "계좌 번호 입력을 누르고 아까 복사에 넣었던 판매자의 계좌 번호를 입력해주세요.",
+        "kind": "voiceover",
+        "source": "both"
+      },
+      {
+        "start": 22.42,
+        "end": 28.82,
+        "text": "확인 버튼을 누르면 입력한 계좌가 사기 계좌로 의심되면 이렇게 빨간 경고 아이콘이 뜹니다.",
+        "text_raw": "확인 버튼을 누르면 입력한 계좌가 사기 계좌로 의심되면 이렇게 빨간 경고 아이콘이 뜹니다.",
+        "kind": "voiceover",
+        "source": "both"
+      },
+      {
+        "start": 29.7,
+        "end": 36.42,
+        "text": "아이콘을 누르면 (부정거래 탐지와) 경찰청 데이터를 통해 이 계좌가 사기에 이용된 계좌인지 확인할 수 있어요.",
+        "text_raw": "아이콘을 누르면 버치트와 경찰청 데이터를 통해 이 계좌가 사기의 이용된 계좌인지 확인할 수 있어요.",
+        "kind": "voiceover",
+        "source": "voice"
+      },
+      {
+        "start": 37.14,
+        "end": 44.02,
+        "text": "실수로 금액을 입력하고 보내기 버튼을 눌러도 사기 의심 계좌라면 송금 전 이렇게 경고 알림을 띄워줍니다.",
+        "text_raw": "실수로 금액을 입력하고 보내기 버튼을 눌러도 사기의 심 계좌라면 손금전 이렇게 경고할 힘을 림을 띄워줍니다.",
+        "kind": "voiceover",
+        "source": "both"
+      },
+      {
+        "start": 45.54,
+        "end": 51.38,
+        "text": "등록되지 않은 계좌로 범행을 시도할 수도 있으니 다양한 요소들을 반드시 꼼꼼하게 확인하세요.",
+        "text_raw": "등록되지 않은 계좌로 범행을 시도할 수도 있으니 다양한 요소들을 반대시 꼼꼼하게 확인하세요.",
+        "kind": "voiceover",
+        "source": "both"
+      },
+      {
+        "start": 52.02,
+        "end": 57.22,
+        "text": "토스 직원이 추천하는 토스의 숨은 꿀팁, 다음엔 더 다양한 꿀팁으로 돌아올게요.",
+        "text_raw": "토스 직원이 추천하는 토스의 숨은 꿀팁, 다음엔 더 다양한 꿀팁으로 돌아올게요.",
+        "kind": "voiceover",
+        "source": "both"
+      }
+    ],
+    "voice_vs_caption": "Near-perfect voice-caption sync: the torn-paper step captions paraphrase the voiceover almost verbatim. Whisper text_raw is heavily garbled (e.g. '중곰을 풍컬해', '합성근 버튼', '버치트와 경찰청') and was corrected against on-screen captions/UI. The only voice-only line is the data-source mention at ~30s ('police agency data') which is not shown on screen.",
+    "narration_handling": "excerpt_only",
+    "transcribed_by": "faster_whisper",
+    "audio_note": "faster-whisper base, ko, coverage 0.857. text_raw preserved but corrected; captions trusted over whisper per brief. Light background music likely present under the voiceover (not transcribable)."
+  },
+  "frames_dir": "ADV-2026-026_frames",
+  "contact_sheet_path": "ADV-2026-026_frames/contact_sheet.png",
+  "shots": [
+    {
+      "index": 1,
+      "duration": 5.94,
+      "framing": "MS",
+      "function": "intro_hook_host_intro",
+      "color_mood": "bright_clean_cool_neutral",
+      "subject_action": "A young Korean man in a light grey-blue hoodie and dark trousers walks through a bright open-plan office carrying a cardboard parcel, then sits at a low round table and looks down at the box / his phone",
+      "copy_overlay": "사기꾼은 쓰지 말라고 하는 / 토스로 사기 계좌 확인하기 | Toss Product Owner 박세진",
+      "subject_identity": "protagonist_main",
+      "subject_relationship_to_protagonist": "main_character",
+      "mid_frame_path": "ADV-2026-026_frames/cut01_mid.png",
+      "layout_grid": "center",
+      "subject_position": "right_of_center_then_center",
+      "subject_typo_layout": "headline brush-boxes pinned top, host name tag lower-center, host body fills right-center",
+      "typo_motion": "headline and name tag are present from the start as static reverse-out blocks; the key phrase '사기 계좌' carries a hand-drawn yellow ellipse highlight; no kinetic motion",
+      "camera_angle": "eye_level",
+      "camera_facing": "profile",
+      "shot_scope": "full_body",
+      "gaze": "off_camera",
+      "eye_contact_effect": "observational, documentary-like; host does not address camera directly here",
+      "props": [
+        "cardboard parcel box",
+        "low round cafe table",
+        "modular blue lounge sofa/ottomans"
+      ],
+      "prop_semantics": "the parcel is the secondhand-purchase McGuffin that motivates the whole scam-check scenario; the casual office lounge signals an authentic employee-creator setting",
+      "color_palette": [
+        "#e9ebec",
+        "#9fb7c0",
+        "#2f3a44",
+        "#c0392b"
+      ],
+      "color_intent": "bright hi-key office whites with a cool cast; the host's pale-blue hoodie sits near Toss-blue, while red ceiling ducts add an incidental warm accent",
+      "pose_description": "relaxed, purposeful stride then a natural seated lean; reads as an easygoing, trustworthy colleague rather than a polished actor",
+      "subject_motion": "walking left-to-right then sitting; continuous natural body motion",
+      "prop_motion": "the box swings slightly as he walks and is set down on the table",
+      "camera_motion": "handheld follow then settle to a near-static medium",
+      "camera_motion_intensity": "moderate",
+      "camera_effect_local": "none",
+      "motion_blur": "moderate during the walk, minimal once seated",
+      "intra_cut_rhythm": "steady",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [
+        "lower-third name tag",
+        "headline brush-box"
+      ],
+      "vfx_intensity_local": "subtle",
+      "fact_check_flag": "none",
+      "notes": "True opening camera cut. Establishes host identity (Toss Product Owner, name on screen) and the parcel premise.",
+      "visible_elements": {
+        "foreground": [
+          "host in light grey-blue hoodie",
+          "cardboard parcel box",
+          "low round black table"
+        ],
+        "midground": [
+          "blue modular lounge sofa and ottomans",
+          "black metal railing"
+        ],
+        "background": [
+          "bright white open-plan office",
+          "glass-walled meeting rooms",
+          "wall-mounted display",
+          "a seated coworker in the distance"
+        ],
+        "lighting_env": [
+          "overhead pendant and recessed ceiling lights",
+          "broad ambient daylight fill"
+        ],
+        "atmosphere": [
+          "clean airy office ambience",
+          "subtle red ceiling ductwork accents"
+        ]
+      },
+      "texture": {
+        "primary_subject": "fabric_cotton",
+        "secondary_objects": [
+          "cardboard",
+          "fabric_woven",
+          "metal_matte"
+        ],
+        "background_surface": "concrete",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "top",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "strong",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": false,
+        "practical_lights": [
+          "pendant lamps",
+          "recessed ceiling downlights"
+        ],
+        "shadow_presence": "soft",
+        "overall_contrast": "hi_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#e9ebec",
+          "#9fb7c0",
+          "#2f3a44",
+          "#c0392b"
+        ],
+        "palette_role": {
+          "#e9ebec": "background_dominant",
+          "#9fb7c0": "subject_garment_midtone",
+          "#2f3a44": "dark_anchor_trousers_railing",
+          "#c0392b": "incidental_warm_accent"
+        },
+        "color_relationship": "analogous",
+        "temperature_balance": "cool_dominant",
+        "saturation_strategy": "muted",
+        "contrast_type": "luminance_high",
+        "accent_color": "#c0392b",
+        "accent_ratio": "5_percent",
+        "brand_color_match": [
+          "host hoodie approximates Toss blue family"
+        ]
+      },
+      "style_prompt": "A relaxed Korean man in his late 20s in a pale grey-blue hoodie walks through a bright hi-key open-plan tech office carrying a cardboard parcel, eye-level medium handheld follow, cool neutral palette with white ceilings and red duct accents, clean 4K commercial documentary look, vertical 9:16",
+      "recreation_prompts": {
+        "t2i_start_frame": "A photorealistic vertical 9:16 frame of a relaxed Korean man in his late twenties, of East Asian Korean ethnicity with soft natural styling and a tidy dark side-swept fringe, seen in a medium full-body shot, walking left-to-right through a bright, modern open-plan technology office while carrying a medium kraft cardboard parcel box tucked under his right arm with reddish packing tape on its seams. He wears an oversized pale grey-blue cotton-fleece hoodie with subtle dark lettering across the chest, dark navy-black relaxed straight-leg trousers, and clean white low-top leather sneakers; his posture is easygoing and purposeful, weight shifting mid-stride, head turned slightly in profile, a faint natural half-smile, gaze off-camera toward where he is heading, reading as an authentic young Korean office worker and content creator rather than a polished fashion model. The set is a real-feeling Korean startup office on a mezzanine level: a wide hi-key white interior with an exposed industrial ceiling carrying painted white ducts and incidental red-painted sprinkler pipes, regular rows of recessed circular downlights and a few hanging dome pendant lamps, full-height glass-walled meeting rooms in the background with a wall-mounted flat display glowing faintly, a black powder-coated horizontal metal railing running along the mezzanine edge with a staircase descending behind it (small green-leaf and red-bauble garland wrapped on the rail posts), pale polished concrete-look flooring with a long warm wood-toned walkway strip, and soft modular lounge furniture in muted teal-blue tones — a low cube sofa and round ottomans — beside a small round black cafe pedestal table. A softly blurred coworker is visible seated far in the background near the glass rooms, giving lived-in documentary depth. Lighting is broad and soft: a top-dominant neutral 5500K key from the overhead ceiling fixtures with strong even ambient fill bouncing off the white surfaces (key-to-fill roughly 2:1), gentle soft contact shadows under the furniture and the man's sneakers, no hard rim or specular hot spots, an overall hi-key high-key luminance with deliberately low color saturation. The lens reads like a 35mm-equivalent handheld with moderate depth of field; the background is softly defocused while the subject stays sharp, with light directional motion blur on the swinging parcel and trailing arm suggesting genuine mid-stride movement. Composition is center-weighted vertical following rule-of-thirds, the man occupying the right-center two-thirds while the office and staircase recede to frame-left, generous negative space above for the headline. The color palette is cool-dominant and muted: a dominant off-white #e9ebec across walls and ceiling, the subject's pale blue-grey garment as the principal midtone #9fb7c0, dark value anchors in the trousers and metal railing #2f3a44, and a small incidental warm red accent #c0392b from the ceiling ducts and tape at roughly five percent of the frame, an analogous mostly-cool scheme with one warm punctuation. Textures read crisply: soft brushed cotton fleece on the hoodie, plain corrugated kraft cardboard on the box, matte powder-coated metal on the railing, woven upholstery fabric on the sofa and ottomans, smooth sealed concrete underfoot, and clear glass partitions; the atmosphere is clean, airy and quiet with no haze, smoke or film grain. Overlaid graphics, preserved verbatim as the on-screen copy: pinned to the top, a two-line reverse-out white headline set in a bold rounded sans-serif inside soft hand-painted blue brush-stroke boxes reading 사기꾼은 쓰지 말라고 하는 / 토스로 사기 계좌 확인하기, with the phrase 사기 계좌 ringed by a hand-drawn yellow ellipse for emphasis; in the lower-center, a small torn-paper white strip reads Toss Product Owner with the host name 박세진 in a blue rounded badge just beneath it. Overall finishing is a clean digital 4K commercial documentary look, hi-key, bright and natural, color-accurate, no heavy stylization or vignette. Korean office-commercial aesthetic, authentic employee-creator energy, vertical smartphone framing.",
+        "t2i_negative": "second person, distorted hands, extra fingers, deformed face, real brand logo marks, watermark, harsh low-key shadows, heavy film grain, oversaturated colors, motion smear over entire frame, text artifacts",
+        "i2v_motion": "The man walks at a natural pace left-to-right then begins to slow and sit; camera follows in a smooth handheld manner and settles to a near-static medium as he reaches the lounge; the parcel swings slightly with his stride; lighting and color stay constant; the top headline brush-boxes and the lower name tag remain static on screen; ~5.9s, steady rhythm, ends on a hard cut to a hand holding a phone. Light, documentary handheld feel.",
+        "i2v_params": {
+          "clip_duration_sec": 5.94,
+          "camera_move": "handheld_follow_then_settle",
+          "subject_motion_level": "walk",
+          "signature_effect": "none",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen copy preserved verbatim (per copywriting); host rendered as a generic young Korean man, no face-likeness; no real logo mark"
+      }
+    },
+    {
+      "index": 2,
+      "duration": 4.84,
+      "framing": "CU",
+      "function": "demo_step1_copy_account",
+      "color_mood": "neutral_warm_indoor",
+      "subject_action": "A hand holds an iPhone showing the Messages app; a secondhand-sneaker seller has sent a shoe photo plus a bank account; the user long-presses the account number and the iOS copy menu appears so it can be copied",
+      "copy_overlay": "1 판매자가 입금 계좌를 알려주면 -> 1 우선 계좌 번호를 복사하세요",
+      "subject_identity": "protagonist_main",
+      "subject_relationship_to_protagonist": "main_character",
+      "mid_frame_path": "ADV-2026-026_frames/cut02_mid.png",
+      "layout_grid": "center",
+      "subject_position": "center",
+      "subject_typo_layout": "phone centered, blue numbered '1' badge + torn-paper caption pinned lower",
+      "typo_motion": "step caption pops in as a static torn-paper strip; the badge number stays '1'; on the second beat the highlighted keyword switches to 복사/계좌 번호 in blue; no travel",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "environment",
+      "gaze": "at_product",
+      "eye_contact_effect": "viewer is positioned as the phone user, looking at the screen",
+      "props": [
+        "iPhone (real device)",
+        "blurred cardboard parcel in background"
+      ],
+      "prop_semantics": "the real phone and a genuine Messages thread make the tutorial feel like an over-the-shoulder real demo, not a mockup; the seller chat sets up the scam-check premise",
+      "color_palette": [
+        "#cfd3d6",
+        "#b9a48c",
+        "#34c759",
+        "#1c1c1e"
+      ],
+      "color_intent": "neutral iOS greys with a green sent-bubble pop and warm out-of-focus background; functional, screenshot-honest",
+      "pose_description": "steady one-handed phone hold with a second hand entering to tap; calm, deliberate demonstration",
+      "subject_motion": "minimal; a fingertip enters frame to long-press and the menu appears",
+      "prop_motion": "the phone drifts gently with handheld motion; UI changes as the copy menu opens",
+      "camera_motion": "handheld micro-drift",
+      "camera_motion_intensity": "subtle",
+      "camera_effect_local": "none",
+      "motion_blur": "minimal",
+      "intra_cut_rhythm": "steady",
+      "transition_in": "cut",
+      "transition_out": "soft_inapp_change",
+      "vfx_in_shot": [
+        "numbered step badge",
+        "torn-paper caption strip",
+        "keyword color highlight"
+      ],
+      "vfx_intensity_local": "subtle",
+      "fact_check_flag": "none",
+      "notes": "First demo segment; true camera cut from intro at ~5.94s. Status bar clock 10:46 LTE. Seller named 뉴발판매자; message: 'N발란스 2002 빈티지 블랙 280사이즈입니다!!' + account 111123456789 + 큐브은행 홍길동 + '입금해주시면 바로 택배부칠게요'. All bank/person names are fictional placeholders.",
+      "visible_elements": {
+        "foreground": [
+          "right hand holding a black iPhone",
+          "fingertip entering to tap"
+        ],
+        "midground": [
+          "the phone screen showing the Messages thread"
+        ],
+        "background": [
+          "blurred warm-toned room with an out-of-focus cardboard parcel and a red/orange element"
+        ],
+        "lighting_env": [
+          "soft indoor ambient daylight"
+        ],
+        "atmosphere": [
+          "shallow-depth bokeh, calm"
+        ]
+      },
+      "texture": {
+        "primary_subject": "glass_clear",
+        "secondary_objects": [
+          "skin_natural",
+          "metal_matte"
+        ],
+        "background_surface": "cardboard",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "front",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "moderate",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": false,
+        "practical_lights": [
+          "window daylight"
+        ],
+        "shadow_presence": "soft",
+        "overall_contrast": "mid_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#cfd3d6",
+          "#b9a48c",
+          "#34c759",
+          "#1c1c1e"
+        ],
+        "palette_role": {
+          "#cfd3d6": "screen_ui_dominant",
+          "#b9a48c": "background_warm_bokeh",
+          "#34c759": "sent_bubble_accent",
+          "#1c1c1e": "phone_body_dark_anchor"
+        },
+        "color_relationship": "split_complementary",
+        "temperature_balance": "balanced",
+        "saturation_strategy": "desaturated_with_pop",
+        "contrast_type": "hue_complementary",
+        "accent_color": "#34c759",
+        "accent_ratio": "5_percent",
+        "brand_color_match": []
+      },
+      "style_prompt": "Close vertical shot of a hand holding a black smartphone showing a messaging app with a secondhand-sneaker chat and a bank account number, iOS copy menu open, neutral greys with a green sent bubble, warm blurred room behind, real-device demo look, 9:16",
+      "recreation_prompts": {
+        "t2i_start_frame": "A photorealistic vertical 9:16 frame shot as an over-the-shoulder real-device demo of an East Asian Korean user: a right hand with natural lightly-lit skin holds a black flagship smartphone roughly centered in the frame, the glossy edge-to-edge display facing the viewer and tilted very slightly, with a soft warm out-of-focus room behind it. The room background is gently blurred to a shallow-depth bokeh in warm beige and grey tones, with an indistinct kraft cardboard parcel and a small red-orange taped element at the right edge, suggesting a desk just after a delivery in a casual indoor space. The phone screen, sharp and legible, shows a generic iOS-style Messages conversation rendered in true pixels: a top bar with a circular grey avatar placeholder bearing the single character 판, a contact name 뉴발판매자 with a small chevron, a blue back chevron at top-left and a video-call glyph at top-right; below, a centered timestamp line 문자 메시지 (오늘) 오전 10:34, a green outgoing iMessage-style chat bubble reading 안녕하세요 거래 원합니다~, then an incoming light-grey bubble containing a photo of a pair of dark navy vintage chunky running sneakers with a large side logo letterform, resting on a red cloth, followed by seller text 'N발란스 2002 빈티지 블랙 280사이즈입니다!!', a blue tappable underlined account number 111123456789, a line 큐브은행 홍길동, and 입금해주시면 바로 택배부칠게요, with a small grey typing-indicator dot bubble at the bottom and an iMessage compose field; the status bar reads 10:46 with full signal bars, an LTE indicator and a full battery glyph. A second fingertip enters from the right and long-presses the account number, so a rounded iOS context menu pops up over the thread listing the options 전화 걸기, 메시지 보내기, FaceTime, FaceTime 음성 통화, 연락처에 추가, and 복사 (copy), with a small detached preview chip of the number beneath it. Lighting is soft, frontal, neutral 5500K window daylight with moderate fill (about 2:1), gentle soft shadows around the gripping fingers, mid-key contrast; the device body reads as matte dark metal with a clear glossy glass screen catching a faint diffuse reflection, the hand skin natural with subtle knuckle highlights. The lens reads like a 50mm-equivalent slightly macro handheld with a shallow plane of focus; the phone is in crisp focus while the room melts to smooth circular bokeh. Composition is centered vertical with the phone occupying the central two-thirds, the gripping hand framing the lower-left, and the caption zone reserved clean at the bottom. The color palette is balanced and largely desaturated: dominant neutral UI greys #cfd3d6 across the chat background, a warm beige background bokeh #b9a48c, a single saturated green messaging accent #34c759 at roughly five percent of the frame, and a dark phone-body anchor #1c1c1e framing the screen; saturation is restrained except for the green bubble pop, with hue-complementary contrast between the warm room and the cool screen. Overlaid graphics preserved verbatim: pinned to the lower third, a small blue circular step badge with the numeral 1 sits to the upper-left of a torn-paper white caption strip with softly ragged edges; the caption text in bold rounded sans-serif reads 판매자가 입금 계좌를 / 알려주면 (and on a later beat 우선 계좌 번호를 / 복사하세요 with 복사 and 계좌 번호 highlighted in Toss blue). Overall a clean digital, color-accurate real-device capture look with faint authentic screen glare, vertical smartphone framing, Korean app-tutorial aesthetic, honest over-the-shoulder documentary feel.",
+        "t2i_negative": "real brand logo marks, distorted fingers, extra hands, deformed UI text, watermark, heavy grain, oversharpened halos, dark low-key room, duplicate phone",
+        "i2v_motion": "Hold the phone with gentle handheld micro-drift; a fingertip enters from the right and long-presses the account number so the iOS copy context menu animates open over the chat; no large camera move; lighting and background bokeh stay constant; the lower step badge stays '1' while the torn-paper caption swaps to the copy-instruction beat; ~4.8s, steady, ends on a soft in-app screen change. Calm, real-demo feel.",
+        "i2v_params": {
+          "clip_duration_sec": 4.84,
+          "camera_move": "handheld_micro_drift",
+          "subject_motion_level": "micro",
+          "signature_effect": "none",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; in-app message copy and account string preserved verbatim per copywriting; no real bank logo; hand generic"
+      }
+    },
+    {
+      "index": 3,
+      "duration": 5.27,
+      "framing": "CU",
+      "function": "demo_step2_open_app_tap_transfer",
+      "color_mood": "neutral_clean_indoor",
+      "subject_action": "The user returns to the home screen, opens the banking app, and on the app home (a list of linked bank accounts with balances) taps the transfer button next to their account, landing on the 'where to send money' picker",
+      "copy_overlay": "2 그다음 토스를 실행하고 -> 2 내 계좌 옆 송금 버튼을 눌러줍니다",
+      "subject_identity": "protagonist_main",
+      "subject_relationship_to_protagonist": "main_character",
+      "mid_frame_path": "ADV-2026-026_frames/cut03_mid.png",
+      "layout_grid": "center",
+      "subject_position": "center",
+      "subject_typo_layout": "phone centered, blue '2' badge + torn-paper caption lower, 송금 keyword in blue",
+      "typo_motion": "caption pops static; badge advances to '2'; keyword highlight (토스, 송금) in blue; no kinetic travel",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "environment",
+      "gaze": "at_product",
+      "eye_contact_effect": "first-person phone-user POV",
+      "props": [
+        "iPhone (real device)",
+        "home screen with single app icon",
+        "blurred parcel background"
+      ],
+      "prop_semantics": "isolating a single app icon on the home screen visually spotlights the brand app; the asset list demonstrates real multi-bank aggregation",
+      "color_palette": [
+        "#f1f2f4",
+        "#1f6feb",
+        "#f5a623",
+        "#2f3a44"
+      ],
+      "color_intent": "clean white app UI with Toss-blue and bank-brand color dots as functional accents",
+      "pose_description": "steady one-handed hold, second hand tapping; methodical",
+      "subject_motion": "minimal; tapping gestures, brief app-launch transition",
+      "prop_motion": "phone handheld drift; app opens (zoom transition), list scrolls slightly, screen pushes to the send picker",
+      "camera_motion": "handheld micro-drift",
+      "camera_motion_intensity": "subtle",
+      "camera_effect_local": "none",
+      "motion_blur": "moderate during the app-launch swipe",
+      "intra_cut_rhythm": "steady",
+      "transition_in": "soft_inapp_change",
+      "transition_out": "soft_inapp_change",
+      "vfx_in_shot": [
+        "numbered step badge",
+        "torn-paper caption strip",
+        "keyword color highlight"
+      ],
+      "vfx_intensity_local": "subtle",
+      "fact_check_flag": "none",
+      "notes": "Clock advances to 10:47 (same continuous take). App home shows fictional aggregated accounts: 우리우리 200,000원, 농협농협 200,000원, 기업기업 200,000원, 포인트·머니 1원. Send picker '어디로 돈을 보낼까요?' shows recent 홍길동 큐브 111123456789.",
+      "visible_elements": {
+        "foreground": [
+          "hand holding the phone",
+          "tapping fingertip"
+        ],
+        "midground": [
+          "app home screen with account list / send picker"
+        ],
+        "background": [
+          "warm blurred room with parcel"
+        ],
+        "lighting_env": [
+          "soft window daylight"
+        ],
+        "atmosphere": [
+          "shallow bokeh"
+        ]
+      },
+      "texture": {
+        "primary_subject": "glass_clear",
+        "secondary_objects": [
+          "skin_natural",
+          "metal_matte"
+        ],
+        "background_surface": "cardboard",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "front",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "moderate",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": false,
+        "practical_lights": [
+          "window daylight"
+        ],
+        "shadow_presence": "soft",
+        "overall_contrast": "mid_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#f1f2f4",
+          "#1f6feb",
+          "#f5a623",
+          "#2f3a44"
+        ],
+        "palette_role": {
+          "#f1f2f4": "screen_ui_dominant",
+          "#1f6feb": "brand_blue_accent",
+          "#f5a623": "bank_icon_accent",
+          "#2f3a44": "ui_text_dark_anchor"
+        },
+        "color_relationship": "complementary",
+        "temperature_balance": "balanced",
+        "saturation_strategy": "desaturated_with_pop",
+        "contrast_type": "hue_complementary",
+        "accent_color": "#1f6feb",
+        "accent_ratio": "10_percent",
+        "brand_color_match": [
+          "UI accent approximates Toss blue #1f6feb"
+        ]
+      },
+      "style_prompt": "Close vertical real-device shot: a hand opens a clean white mobile-banking app from a home screen and taps the transfer button beside an aggregated account list, Toss-blue accents and colored bank-icon dots, warm blurred room behind, app-tutorial look, 9:16",
+      "recreation_prompts": {
+        "t2i_start_frame": "A photorealistic vertical 9:16 over-the-shoulder real-device frame of an East Asian Korean user: a right hand with natural lightly-lit skin holds a black flagship smartphone centered in the frame, the glossy screen facing the viewer, with a warm softly-blurred indoor room behind in beige and grey bokeh and a hint of a kraft cardboard parcel with red tape at the right edge. The phone display is crisp, rendered in true pixels, and shows a generic clean Korean mobile-banking app home screen with a friendly minimal aesthetic: a small lowercase wordmark area at the top-left beside a little emoji-face icon and a bell notification glyph with a red dot, a rounded card row reading 토스뱅크 with a right chevron, then a large 자산 (assets) section header with a chevron listing several linked bank accounts, each with a small colored circular bank icon and a balance — 우리우리 200,000원, 농협농협 200,000원 with a small grey 송금 (transfer) pill button to its right, 기업기업 200,000원 with a 송금 button, and 포인트·머니 · 1개 1원 with the app's blue logo glyph — followed by the start of a 소비 (spending) section header and a bottom tab bar with home, benefits, pay, stocks and all-menu icons; the status bar reads 10:47 with full bars, LTE and a full battery. A second fingertip hovers and taps the 송금 transfer button beside one account. The aesthetic is a real screen captured by filming the device: a faint diffuse screen glare across the glass, true pixel rendering with no moire, the device body matte dark metal with a clear glossy glass front and thin uniform bezels. Lighting is soft frontal neutral 5500K window daylight with moderate fill (about 2:1), gentle soft shadows around the gripping fingers, mid-key contrast; the hand skin is natural with subtle highlights. The lens reads like a 50mm-equivalent handheld with shallow depth of field: the phone tack-sharp, the room melted to smooth bokeh. Composition is centered vertical, the phone in the central two-thirds, the gripping hand at the lower-left, the bottom reserved clean for captions. The color palette is balanced and mostly desaturated white UI #f1f2f4 with a Toss-blue accent #1f6feb on interactive elements (roughly ten percent of the screen area), a warm orange-yellow bank-icon accent #f5a623, and dark UI text anchors #2f3a44; saturation is restrained with a brand-blue pop, the contrast hue-complementary between the warm room and the cool screen. The frame may alternatively show the next screen, a send-recipient picker titled 어디로 돈을 보낼까요? with segmented tabs 계좌 / 연락처, a 계좌번호 입력 field with a small camera icon, a 내 계좌 +4개 row with helper text, and a 최근 보낸 계좌 (recent) entry showing a cube icon, 홍길동 and 큐브 111123456789 with a star — render whichever screen as the single legible focus. Overlaid graphics preserved verbatim: lower third, a blue circular step badge with the numeral 2 to the upper-left of a torn-paper white caption strip with ragged edges; bold rounded sans-serif caption reads 그다음 / 토스를 실행하고 (and on the next beat 내 계좌 옆 송금 버튼을 / 눌러줍니다 with 토스 and 송금 highlighted in Toss blue). Overall clean digital color-accurate real-device capture, vertical smartphone framing, Korean app-tutorial aesthetic, honest documentary over-the-shoulder feel.",
+        "t2i_negative": "real brand logo marks, distorted fingers, extra hands, garbled UI text, watermark, heavy grain, oversaturation, dark room, duplicate phone, warped screen edges",
+        "i2v_motion": "Gentle handheld drift on the phone; the home screen's single app launches with an iOS zoom-open transition (brief motion blur), the banking app home appears and scrolls a touch, a fingertip taps the 송금 transfer button, and the view pushes to the send-recipient picker; lighting/bokeh constant; lower badge advances to '2' and the torn-paper caption swaps beats; ~5.3s steady, ends on a soft in-app push. Real-demo handheld feel.",
+        "i2v_params": {
+          "clip_duration_sec": 5.27,
+          "camera_move": "handheld_micro_drift",
+          "subject_motion_level": "micro",
+          "signature_effect": "none",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen UI text and amounts preserved verbatim; brand-blue color kept but no real logo mark; hand generic"
+      }
+    },
+    {
+      "index": 4,
+      "duration": 8.94,
+      "framing": "CU",
+      "function": "demo_step3_paste_account_confirm",
+      "color_mood": "neutral_clean_indoor",
+      "subject_action": "On the 'which account to send to' screen the user taps the empty account-number field, pastes the previously copied account number, the bank auto-resolves to 큐브은행, and the user prepares to tap the blue 확인 (confirm) button",
+      "copy_overlay": "3 계좌 번호 입력을 누르고 -> 3 아까 복사해뒀던 판매자의 계좌 번호를 -> 3 입력해주세요 -> 확인 버튼을 누르면",
+      "subject_identity": "protagonist_main",
+      "subject_relationship_to_protagonist": "main_character",
+      "mid_frame_path": "ADV-2026-026_frames/cut04_mid.png",
+      "layout_grid": "center",
+      "subject_position": "center",
+      "subject_typo_layout": "phone centered with numeric keypad, '3' badge + torn-paper caption lower",
+      "typo_motion": "caption pops static across three sub-beats (badge stays '3'), then a no-badge beat '확인 버튼을 누르면'; keyword highlights 계좌 번호/확인 in blue; no travel",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "environment",
+      "gaze": "at_product",
+      "eye_contact_effect": "first-person phone-user POV",
+      "props": [
+        "iPhone (real device)",
+        "on-screen numeric keypad",
+        "blurred parcel background"
+      ],
+      "prop_semantics": "the paste-then-auto-resolve flow demonstrates the exact action a real user would take, making the safety feature feel effortless",
+      "color_palette": [
+        "#f3f4f6",
+        "#1f6feb",
+        "#2f3a44",
+        "#b9a48c"
+      ],
+      "color_intent": "white form UI with a strong Toss-blue 확인 action bar; functional clarity",
+      "pose_description": "steady hold with tapping; unhurried, instructional",
+      "subject_motion": "minimal; tap field, paste, tap confirm",
+      "prop_motion": "phone drift; paste tooltip appears, field fills with 111123456789, 은행 선택 resolves to 큐브은행, suggestion row appears, blue 확인 bar",
+      "camera_motion": "handheld micro-drift",
+      "camera_motion_intensity": "subtle",
+      "camera_effect_local": "none",
+      "motion_blur": "minimal",
+      "intra_cut_rhythm": "steady",
+      "transition_in": "soft_inapp_change",
+      "transition_out": "soft_inapp_change",
+      "vfx_in_shot": [
+        "numbered step badge",
+        "torn-paper caption strip",
+        "keyword color highlight"
+      ],
+      "vfx_intensity_local": "subtle",
+      "fact_check_flag": "none",
+      "notes": "Same continuous take, clock 10:47. Screen 어떤 계좌로 보낼까요? -> 계좌번호 입력 field -> paste menu (붙여넣기 / 자동 완성) -> 111123456789 + 큐브은행 + suggestion 홍길동 큐브은행 111123456789 입력 + blue 확인. Longest demo segment.",
+      "visible_elements": {
+        "foreground": [
+          "hand holding the phone",
+          "tapping fingertip"
+        ],
+        "midground": [
+          "account-entry screen with numeric keypad and blue confirm bar"
+        ],
+        "background": [
+          "warm blurred room with parcel"
+        ],
+        "lighting_env": [
+          "soft window daylight"
+        ],
+        "atmosphere": [
+          "shallow bokeh"
+        ]
+      },
+      "texture": {
+        "primary_subject": "glass_clear",
+        "secondary_objects": [
+          "skin_natural",
+          "metal_matte"
+        ],
+        "background_surface": "cardboard",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "front",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "moderate",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": false,
+        "practical_lights": [
+          "window daylight"
+        ],
+        "shadow_presence": "soft",
+        "overall_contrast": "mid_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#f3f4f6",
+          "#1f6feb",
+          "#2f3a44",
+          "#b9a48c"
+        ],
+        "palette_role": {
+          "#f3f4f6": "screen_ui_dominant",
+          "#1f6feb": "brand_blue_action_bar",
+          "#2f3a44": "ui_text_dark_anchor",
+          "#b9a48c": "background_warm_bokeh"
+        },
+        "color_relationship": "complementary",
+        "temperature_balance": "balanced",
+        "saturation_strategy": "desaturated_with_pop",
+        "contrast_type": "hue_complementary",
+        "accent_color": "#1f6feb",
+        "accent_ratio": "15_percent",
+        "brand_color_match": [
+          "confirm bar approximates Toss blue #1f6feb"
+        ]
+      },
+      "style_prompt": "Close vertical real-device shot: a hand pastes a copied bank account number into a clean white transfer form, bank auto-resolves, a bold blue confirm bar appears above the numeric keypad, warm blurred room behind, app-tutorial look, 9:16",
+      "recreation_prompts": {
+        "t2i_start_frame": "A photorealistic vertical 9:16 over-the-shoulder real-device frame of an East Asian Korean user: a right hand with natural lightly-lit skin holds a black flagship smartphone centered in the frame, the glossy screen toward the viewer, with a warm softly-blurred beige-grey indoor room behind in shallow circular bokeh and an indistinct kraft cardboard parcel with red tape at the edge. The crisp phone display, rendered in true pixels, shows a generic clean Korean mobile-banking account-entry screen with a friendly minimal layout: a blue back chevron at top-left, a bold title 어떤 계좌로 보낼까요?, a small label 계좌번호 입력 above an underlined input field with a blinking text cursor, a 은행 선택 (select bank) row with a down chevron, light-grey helper text 계좌번호를 입력하면 은행을 찾아드릴게요, and a full-width iOS-style numeric keypad (digits 1 through 9 with subletters, 0, and a delete key) occupying the lower half of the screen; the status bar reads 10:47 with full bars, LTE and a full battery. The frame can show the moment of pasting: a small iOS paste tooltip with options 붙여넣기 / 자동 완성 hovering above the field, or, preferred, the filled state where the field shows the account number 111123456789, the 은행 선택 row has resolved to 큐브은행, a light-grey rounded suggestion chip reads 홍길동 큐브은행 111123456789 입력, and a bold full-width solid Toss-blue confirmation bar reading 확인 sits just above the keypad — render the filled-and-confirm state as the single legible focus. The look is a real screen captured by filming the device, with a faint diffuse glare across the glass and true pixel rendering with no moire; the device body is matte dark metal with a clear glossy glass front and thin uniform bezels. Lighting is soft frontal neutral 5500K window daylight, moderate fill (about 2:1), gentle soft shadows around the gripping fingers, mid-key contrast; the hand skin natural with subtle highlights. The lens reads like a 50mm-equivalent handheld with shallow depth of field, the phone tack-sharp and the room melted to bokeh. Composition is centered vertical, the phone in the central two-thirds, the gripping hand at the lower-left, the bottom reserved clean for captions. Color palette balanced and mostly desaturated white UI #f3f4f6 with a strong Toss-blue action accent #1f6feb on the confirm bar (roughly fifteen percent of the screen), dark UI text anchors #2f3a44, and warm background bokeh #b9a48c; saturation restrained with a brand-blue pop, contrast hue-complementary between the warm room and the cool screen. Textures read as clear glossy glass on the screen, matte metal on the phone body, and natural skin on the hand. Overlaid graphics preserved verbatim: lower third, a blue circular step badge with the numeral 3 to the upper-left of a torn-paper white caption strip with ragged edges; bold rounded sans-serif caption text reads, across beats, 계좌 번호 입력을 / 누르고, then 아까 복사해뒀던 / 판매자의 계좌 번호를, then 입력해주세요, and finally a no-badge beat 확인 버튼을 누르면, with 계좌 번호 and 확인 highlighted in Toss blue. Overall clean digital color-accurate real-device capture, vertical smartphone framing, Korean app-tutorial aesthetic, honest over-the-shoulder documentary feel.",
+        "t2i_negative": "real brand logo marks, distorted fingers, extra hands, garbled UI text, watermark, heavy grain, oversaturation, dark room, duplicate phone, warped keypad",
+        "i2v_motion": "Gentle handheld drift; a fingertip taps the empty field, an iOS paste tooltip appears and the field fills with the account number, the bank field auto-resolves to 큐브은행, a suggestion chip and a bold blue 확인 bar slide in; the finger moves toward 확인; lighting/bokeh constant; lower badge stays '3' across sub-captions then a no-badge confirm beat; ~8.9s steady, ends on a soft in-app push. Calm real-demo feel.",
+        "i2v_params": {
+          "clip_duration_sec": 8.94,
+          "camera_move": "handheld_micro_drift",
+          "subject_motion_level": "micro",
+          "signature_effect": "none",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen UI text and account string preserved verbatim; brand-blue kept, no real logo; hand generic"
+      }
+    },
+    {
+      "index": 5,
+      "duration": 12.91,
+      "framing": "CU",
+      "function": "demo_step4_scam_warning_reveal",
+      "color_mood": "neutral_with_red_alert_pop",
+      "subject_action": "On the amount screen the app checks the account ('checking scam account...'), a red warning triangle appears beside the recipient, and tapping the triangle opens a bottom sheet with a red siren icon stating the account is a suspected/reported scam account, with continue / cancel buttons",
+      "copy_overlay": "입력한 계좌가 사기 계좌로 의심되면 -> 이렇게 빨간 경고 아이콘이 뜹니다 -> 4 아이콘을 누르면 -> 4 이 계좌가 사기에 이용된 계좌인지 -> 4 확인할 수 있어요",
+      "subject_identity": "protagonist_main",
+      "subject_relationship_to_protagonist": "main_character",
+      "mid_frame_path": "ADV-2026-026_frames/cut05_mid.png",
+      "layout_grid": "center",
+      "subject_position": "center",
+      "subject_typo_layout": "phone centered, captions lower; red warning UI is the visual focus; badge advances to '4'",
+      "typo_motion": "captions pop static across beats; keyword highlights 사기 계좌/경고 아이콘/사기 in blue; the red warning triangle and siren-icon sheet are UI animations, not typo",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "environment",
+      "gaze": "at_product",
+      "eye_contact_effect": "first-person POV; the red alert draws the eye to the screen center",
+      "props": [
+        "iPhone (real device)",
+        "amount numeric keypad",
+        "red warning bottom sheet"
+      ],
+      "prop_semantics": "the red triangle + siren-light icon is the emotional payoff of the whole tutorial: the safety net that stops a scam transfer",
+      "color_palette": [
+        "#f3f4f6",
+        "#e02424",
+        "#1f6feb",
+        "#2f3a44"
+      ],
+      "color_intent": "calm grey UI deliberately punctuated by an alarm red, the only saturated hue, signaling danger; blue cancel button reinforces brand safety",
+      "pose_description": "steady hold; a fingertip taps the warning triangle to reveal the sheet; deliberate reveal",
+      "subject_motion": "minimal; tapping the warning icon",
+      "prop_motion": "phone drift; '사기계좌 조회 중' loading -> red warning triangle appears next to recipient -> bottom sheet slides up with siren icon and buttons",
+      "camera_motion": "handheld micro-drift",
+      "camera_motion_intensity": "subtle",
+      "camera_effect_local": "none",
+      "motion_blur": "minimal",
+      "intra_cut_rhythm": "steady",
+      "transition_in": "soft_inapp_change",
+      "transition_out": "soft_inapp_change",
+      "vfx_in_shot": [
+        "red warning triangle reveal",
+        "siren-icon bottom sheet slide-up",
+        "numbered step badge",
+        "torn-paper caption strip",
+        "keyword color highlight"
+      ],
+      "vfx_intensity_local": "moderate",
+      "fact_check_flag": "none",
+      "notes": "WOW / payoff segment. Same continuous take, clock 10:47. 내 우리우리 계좌에서 잔액 200,000원 / 큐브은행으로 / 사기계좌 조회 중 -> 홍길동님에게 (red triangle) 큐브 111123456789. Bottom sheet: '사기 의심 계좌예요 / 이 계좌번호는 신고가 들어온 계좌예요.' + 계속하기 / 송금 취소. Voiceover here mentions police-agency data (not shown on screen).",
+      "visible_elements": {
+        "foreground": [
+          "hand holding the phone",
+          "tapping fingertip"
+        ],
+        "midground": [
+          "amount screen",
+          "red warning triangle",
+          "warning bottom sheet with red siren icon"
+        ],
+        "background": [
+          "warm blurred room with parcel"
+        ],
+        "lighting_env": [
+          "soft window daylight"
+        ],
+        "atmosphere": [
+          "shallow bokeh"
+        ]
+      },
+      "texture": {
+        "primary_subject": "glass_clear",
+        "secondary_objects": [
+          "skin_natural",
+          "metal_matte"
+        ],
+        "background_surface": "cardboard",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "front",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "moderate",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": false,
+        "practical_lights": [
+          "window daylight"
+        ],
+        "shadow_presence": "soft",
+        "overall_contrast": "mid_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#f3f4f6",
+          "#e02424",
+          "#1f6feb",
+          "#2f3a44"
+        ],
+        "palette_role": {
+          "#f3f4f6": "screen_ui_dominant",
+          "#e02424": "alarm_red_accent",
+          "#1f6feb": "brand_blue_button",
+          "#2f3a44": "ui_text_dark_anchor"
+        },
+        "color_relationship": "complementary",
+        "temperature_balance": "balanced",
+        "saturation_strategy": "desaturated_with_pop",
+        "contrast_type": "hue_complementary",
+        "accent_color": "#e02424",
+        "accent_ratio": "15_percent",
+        "brand_color_match": [
+          "cancel button approximates Toss blue #1f6feb"
+        ]
+      },
+      "style_prompt": "Close vertical real-device shot: a banking transfer screen flags a recipient with a red warning triangle, then a bottom sheet with a red siren icon warns of a suspected scam account; calm grey UI punctuated by alarm red, blue cancel button, warm blurred room behind, 9:16",
+      "recreation_prompts": {
+        "t2i_start_frame": "A photorealistic vertical 9:16 over-the-shoulder real-device frame of an East Asian Korean user: a right hand with natural lightly-lit skin holds a black flagship smartphone centered in the frame, the glossy screen toward the viewer, a warm softly-blurred beige-grey room behind in shallow circular bokeh with a kraft cardboard parcel and red tape at the edge. The crisp phone display, rendered in true pixels, shows a generic clean Korean mobile-banking transfer screen with a friendly minimal layout: a blue back chevron at top-left, a header 내 우리우리 계좌에서 with light-grey subtext 잔액 200,000원, a recipient line 홍길동님에게 with a small bright-red warning triangle directly next to 큐브 111123456789, a large prompt 얼마나 보낼까요? and a small rounded chip 잔액 · 200,000원 입력, with a numeric keypad (digits 1 through 9, 00, 0 and a back-arrow) filling the lower portion; the status bar reads 10:47 with full bars, LTE and a full battery. The defining feature is the alarm-red iconography: a small saturated-red warning triangle beside the recipient account, and — in the resolved beat — a rounded white bottom sheet slid up over the lower screen containing a flat-illustration red siren/alarm-light (a domed glossy red lamp on a dark base with little radiating red dots and a white exclamation mark), a bold heading 사기 의심 계좌예요, body text 이 계좌번호는 신고가 들어온 계좌예요., and two side-by-side buttons: a light pale-grey secondary 계속하기 on the left and a solid Toss-blue primary 송금 취소 on the right; a fingertip enters and taps the warning triangle. The look is a real screen filmed off the device, faint diffuse glare across the glass, true pixels with no moire, matte dark metal body with thin uniform bezels and glossy glass. Lighting is soft frontal neutral 5500K window daylight, moderate fill (about 2:1), gentle soft shadows around the gripping fingers, mid-key contrast; the hand skin natural with subtle highlights. The lens reads like a 50mm-equivalent handheld with shallow depth of field, the phone tack-sharp and the room melted to bokeh. Composition centered vertical, the phone in the central two-thirds, the gripping hand at the lower-left, the bottom reserved clean for captions. Color palette is deliberately calm and desaturated white-grey UI #f3f4f6 with a single saturated alarm-red accent #e02424 (the triangle and siren, roughly fifteen percent of the screen) as the only vivid hue, a Toss-blue button #1f6feb, and dark UI text anchors #2f3a44; contrast is hue-complementary, the red reading clearly as danger against the calm neutral field. Textures read as clear glossy glass, matte phone metal and natural skin. Overlaid graphics preserved verbatim: lower third, across beats, captions on a torn-paper white strip with ragged edges in bold rounded sans-serif read 입력한 계좌가 / 사기 계좌로 의심되면, then 이렇게 빨간 / 경고 아이콘이 뜹니다, then with a blue circular badge numeral 4: 아이콘을 누르면, 이 계좌가 / 사기에 이용된 계좌인지, and 확인할 수 있어요, with 사기 계좌, 경고 아이콘 and 사기 highlighted in Toss blue. Overall clean digital color-accurate real-device capture, vertical smartphone framing, Korean app-tutorial aesthetic; the red alert is the focal emotional payoff of the piece.",
+        "t2i_negative": "real brand logo marks, distorted fingers, extra hands, garbled UI text, watermark, heavy grain, oversaturated whole frame, dark room, duplicate phone, melted siren icon",
+        "i2v_motion": "Gentle handheld drift; the amount screen briefly shows a '사기계좌 조회 중' checking state, then a red warning triangle pops in beside the recipient; a fingertip taps the triangle and a bottom sheet slides up revealing the red siren icon, heading and the 계속하기 / 송금 취소 buttons; the red is the only saturated motion; lighting/bokeh constant; lower captions advance through beats and the badge becomes '4'; ~12.9s steady, ends on a soft in-app change. Calm reveal with an alarming red accent.",
+        "i2v_params": {
+          "clip_duration_sec": 12.91,
+          "camera_move": "handheld_micro_drift",
+          "subject_motion_level": "micro",
+          "signature_effect": "none",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen warning copy and account preserved verbatim; alarm-red and brand-blue kept, no real logo; hand generic"
+      }
+    },
+    {
+      "index": 6,
+      "duration": 7.75,
+      "framing": "CU",
+      "function": "demo_step5_amount_send_blocked",
+      "color_mood": "neutral_with_red_alert_pop",
+      "subject_action": "Demonstrating the fail-safe: the user enters an amount (100,000원), reaches the send-confirm screen, and on tapping send the same red scam-warning sheet re-appears to block the transfer",
+      "copy_overlay": "5 실수로 금액을 입력하고 -> 5 사기 의심 계좌라면 송금 전 -> 5 이렇게 경고 알림을 띄워줍니다",
+      "subject_identity": "protagonist_main",
+      "subject_relationship_to_protagonist": "main_character",
+      "mid_frame_path": "ADV-2026-026_frames/cut06_mid.png",
+      "layout_grid": "center",
+      "subject_position": "center",
+      "subject_typo_layout": "phone centered, '5' badge + torn-paper caption lower",
+      "typo_motion": "captions pop static across beats; keyword highlights 금액/송금 전/경고 알림 in blue; warning sheet is UI animation",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "environment",
+      "gaze": "at_product",
+      "eye_contact_effect": "first-person POV",
+      "props": [
+        "iPhone (real device)",
+        "amount keypad",
+        "send-confirm screen",
+        "warning bottom sheet"
+      ],
+      "prop_semantics": "re-triggering the warning at the final send step proves the protection catches you even if you ignore the first flag",
+      "color_palette": [
+        "#f3f4f6",
+        "#e02424",
+        "#1f6feb",
+        "#2f3a44"
+      ],
+      "color_intent": "same calm-grey-with-alarm-red logic; blue 보내기/송금 취소 buttons as the brand-safe action",
+      "pose_description": "steady hold; tapping amount keys and the send button; methodical",
+      "subject_motion": "minimal; typing amount, tapping 다음/보내기",
+      "prop_motion": "phone drift; amount fills to 100,000원/10만원, 다음 -> confirm screen 홍길동님에게 100,000원을 보낼까요? -> tap 보내기 -> red warning sheet re-appears",
+      "camera_motion": "handheld micro-drift",
+      "camera_motion_intensity": "subtle",
+      "camera_effect_local": "none",
+      "motion_blur": "minimal",
+      "intra_cut_rhythm": "steady",
+      "transition_in": "soft_inapp_change",
+      "transition_out": "soft_inapp_change",
+      "vfx_in_shot": [
+        "warning bottom sheet re-slide",
+        "numbered step badge",
+        "torn-paper caption strip",
+        "keyword color highlight"
+      ],
+      "vfx_intensity_local": "moderate",
+      "fact_check_flag": "none",
+      "notes": "Same continuous take, clock 10:47. Confirm screen details: 받는 분에게 표시 김토스, 출금 계좌 내 우리우리 계좌, 입금 계좌 (red triangle) 큐브 111123456789, blue 보내기, 평생 수수료 무료. Sheet identical to shot 5.",
+      "visible_elements": {
+        "foreground": [
+          "hand holding the phone",
+          "tapping fingertip"
+        ],
+        "midground": [
+          "amount keypad / send-confirm screen / warning sheet"
+        ],
+        "background": [
+          "warm blurred room with parcel"
+        ],
+        "lighting_env": [
+          "soft window daylight"
+        ],
+        "atmosphere": [
+          "shallow bokeh"
+        ]
+      },
+      "texture": {
+        "primary_subject": "glass_clear",
+        "secondary_objects": [
+          "skin_natural",
+          "metal_matte"
+        ],
+        "background_surface": "cardboard",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "front",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "moderate",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": false,
+        "practical_lights": [
+          "window daylight"
+        ],
+        "shadow_presence": "soft",
+        "overall_contrast": "mid_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#f3f4f6",
+          "#e02424",
+          "#1f6feb",
+          "#2f3a44"
+        ],
+        "palette_role": {
+          "#f3f4f6": "screen_ui_dominant",
+          "#e02424": "alarm_red_accent",
+          "#1f6feb": "brand_blue_button",
+          "#2f3a44": "ui_text_dark_anchor"
+        },
+        "color_relationship": "complementary",
+        "temperature_balance": "balanced",
+        "saturation_strategy": "desaturated_with_pop",
+        "contrast_type": "hue_complementary",
+        "accent_color": "#e02424",
+        "accent_ratio": "15_percent",
+        "brand_color_match": [
+          "send button approximates Toss blue #1f6feb"
+        ]
+      },
+      "style_prompt": "Close vertical real-device shot: user enters a transfer amount and taps send, but a red scam-warning sheet re-appears to block it; calm grey UI with alarm red and a blue send button, warm blurred room behind, 9:16",
+      "recreation_prompts": {
+        "t2i_start_frame": "A photorealistic vertical 9:16 over-the-shoulder real-device frame of an East Asian Korean user: a right hand with natural lightly-lit skin holds a black flagship smartphone centered, the glossy screen toward the viewer, a warm blurred beige-grey room behind in shallow circular bokeh with a kraft cardboard parcel and red tape at the edge. The crisp display, rendered in true pixels, shows a generic clean Korean mobile-banking amount-entry then send-confirm flow with a friendly minimal layout: first an amount screen with a blue back chevron at top-left, a header 내 우리우리 계좌에서 with light-grey subtext 잔액 200,000원, a recipient 홍길동님에게 with a small bright-red warning triangle, an entered amount in large bold type 100,000원 with subtext 10만원, a full-width blue 다음 bar and a numeric keypad below; then the send-confirm screen reading in large centered type 홍길동님에게 / 100,000원을 / 보낼까요? with light-grey detail rows 받는 분에게 표시 김토스, 출금 계좌 내 우리우리 계좌, and 입금 계좌 with a red warning triangle and 큐브 111123456789, a full-width solid Toss-blue 보내기 button near the bottom and small grey text 평생 수수료 무료 beneath it; the status bar reads 10:47 with full bars, LTE and a full battery. The defining beat: after tapping 보내기, the same red warning bottom sheet re-appears sliding up over the lower screen — a flat-illustration red siren/alarm-lamp (a domed glossy red lamp on a dark base with radiating red dots and a white exclamation), a bold heading 사기 의심 계좌예요, body 이 계좌번호는 신고가 들어온 계좌예요., and two side-by-side buttons 계속하기 (light pale-grey, left) and 송금 취소 (solid Toss blue, right). Render the send-confirm-with-sheet state as the single legible focus. The look is a real screen filmed off the device, faint diffuse glare across the glass, true pixels with no moire, matte dark metal body with thin uniform bezels and glossy glass. Lighting soft frontal neutral 5500K window daylight, moderate fill (about 2:1), gentle soft shadows around the gripping fingers, mid-key contrast; the hand skin natural with subtle highlights. The lens reads like a 50mm-equivalent handheld with shallow depth of field, the phone tack-sharp and the room melted to bokeh. Composition centered vertical, the phone in the central two-thirds, the gripping hand at the lower-left, the bottom reserved clean for captions. Color palette calm and desaturated white-grey UI #f3f4f6 with a single saturated alarm-red accent #e02424 (triangle and siren, about fifteen percent of the screen), a Toss-blue button #1f6feb, and dark text anchors #2f3a44; contrast hue-complementary, the red signaling danger against the calm neutral field. Textures read as clear glossy glass, matte phone metal and natural skin. Overlaid graphics preserved verbatim: lower third, a blue circular badge numeral 5 to the upper-left of a torn-paper white caption strip with ragged edges; bold rounded sans-serif caption across beats reads 실수로 금액을 / 입력하고, then 사기 의심 계좌라면 / 송금 전, then 이렇게 경고 알림을 / 띄워줍니다, with 금액, 송금 전 and 경고 알림 highlighted in Toss blue. Overall clean digital color-accurate real-device capture, vertical smartphone framing, Korean app-tutorial aesthetic, honest over-the-shoulder documentary feel.",
+        "t2i_negative": "real brand logo marks, distorted fingers, extra hands, garbled UI text, watermark, heavy grain, oversaturated whole frame, dark room, duplicate phone, melted siren icon",
+        "i2v_motion": "Gentle handheld drift; a fingertip types an amount that fills to 100,000원, taps 다음 to reach the send-confirm screen, then taps the blue 보내기 button, and the red warning bottom sheet slides back up to block the send; the red is the only saturated motion; lighting/bokeh constant; lower badge '5' across beats; ~7.8s steady, ends on a hard cut to a Messages screen. Calm with an alarm-red interrupt.",
+        "i2v_params": {
+          "clip_duration_sec": 7.75,
+          "camera_move": "handheld_micro_drift",
+          "subject_motion_level": "micro",
+          "signature_effect": "none",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen amounts, names and warning copy preserved verbatim; alarm-red and brand-blue kept, no real logo; hand generic"
+      }
+    },
+    {
+      "index": 7,
+      "duration": 6.9,
+      "framing": "CU",
+      "function": "demo_closing_reply_to_seller",
+      "color_mood": "neutral_warm_indoor",
+      "subject_action": "Back in Messages, the user types and sends a reply to the scam seller ('사기네요' = it's a scam) while the caption warns that unregistered scam accounts may not be flagged, so check everything carefully",
+      "copy_overlay": "등록되지 않은 사기 계좌로 -> 범행을 시도할 수도 있으니 -> 다양한 요소들을 반드시 꼼꼼히 확인하세요",
+      "subject_identity": "protagonist_main",
+      "subject_relationship_to_protagonist": "main_character",
+      "mid_frame_path": "ADV-2026-026_frames/cut07_mid.png",
+      "layout_grid": "center",
+      "subject_position": "center",
+      "subject_typo_layout": "phone centered with Korean keyboard, torn-paper caption lower (no number badge)",
+      "typo_motion": "captions pop static across beats; keyword highlight 꼼꼼히 in blue; no travel",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "environment",
+      "gaze": "at_product",
+      "eye_contact_effect": "first-person POV",
+      "props": [
+        "iPhone (real device)",
+        "on-screen Korean keyboard",
+        "blurred parcel background"
+      ],
+      "prop_semantics": "replying '사기네요' to the seller is a satisfying narrative button — the user calls out the scam — and the caution caption keeps the advice honest (the tool is not infallible)",
+      "color_palette": [
+        "#cfd3d6",
+        "#1f6feb",
+        "#b9a48c",
+        "#2f3a44"
+      ],
+      "color_intent": "neutral iOS greys with a blue sent-bubble / send arrow; warm room bokeh; honest closing tone",
+      "pose_description": "steady hold; fingertip typing on the keyboard; calm",
+      "subject_motion": "minimal; typing '사기네요' character by character then sending",
+      "prop_motion": "phone drift; keyboard taps, text composes 시->사기->사기네요, blue send arrow, message becomes 전송됨",
+      "camera_motion": "handheld micro-drift",
+      "camera_motion_intensity": "subtle",
+      "camera_effect_local": "none",
+      "motion_blur": "minimal",
+      "intra_cut_rhythm": "steady",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [
+        "torn-paper caption strip",
+        "keyword color highlight"
+      ],
+      "vfx_intensity_local": "subtle",
+      "fact_check_flag": "none",
+      "notes": "Same continuous take begins to close; clock advances to 10:48. The cut at ~49.4s (scenedetect) is in-app keyboard typing, not a camera cut. User sends '사기네요' (transcript-confirmed 전송됨).",
+      "visible_elements": {
+        "foreground": [
+          "hand holding the phone",
+          "typing fingertip"
+        ],
+        "midground": [
+          "Messages thread with Korean keyboard up, composing a reply"
+        ],
+        "background": [
+          "warm blurred room with parcel"
+        ],
+        "lighting_env": [
+          "soft window daylight"
+        ],
+        "atmosphere": [
+          "shallow bokeh"
+        ]
+      },
+      "texture": {
+        "primary_subject": "glass_clear",
+        "secondary_objects": [
+          "skin_natural",
+          "metal_matte"
+        ],
+        "background_surface": "cardboard",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "front",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "moderate",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": false,
+        "practical_lights": [
+          "window daylight"
+        ],
+        "shadow_presence": "soft",
+        "overall_contrast": "mid_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#cfd3d6",
+          "#1f6feb",
+          "#b9a48c",
+          "#2f3a44"
+        ],
+        "palette_role": {
+          "#cfd3d6": "screen_ui_dominant",
+          "#1f6feb": "sent_bubble_send_accent",
+          "#b9a48c": "background_warm_bokeh",
+          "#2f3a44": "ui_text_dark_anchor"
+        },
+        "color_relationship": "split_complementary",
+        "temperature_balance": "balanced",
+        "saturation_strategy": "desaturated_with_pop",
+        "contrast_type": "hue_complementary",
+        "accent_color": "#1f6feb",
+        "accent_ratio": "5_percent",
+        "brand_color_match": [
+          "send arrow/bubble blue approximates Toss/iOS blue"
+        ]
+      },
+      "style_prompt": "Close vertical real-device shot: a hand types '사기네요' on a Korean keyboard to reply to a scam seller in a messaging app, blue send accent, warm blurred room behind, honest closing-advice caption, 9:16",
+      "recreation_prompts": {
+        "t2i_start_frame": "A photorealistic vertical 9:16 over-the-shoulder real-device frame of an East Asian Korean user: a right hand with natural lightly-lit skin holds a black flagship smartphone centered, the glossy screen toward the viewer, a warm softly-blurred beige-grey room behind in shallow circular bokeh with a kraft cardboard parcel and red tape at the edge. The crisp display, rendered in true pixels, shows a generic iOS-style Messages thread with the same secondhand-sneaker seller (top bar showing a grey circular avatar with the character 판 and the contact name 뉴발판매자 with a small chevron, a blue back chevron at top-left and a video-call glyph at top-right): visible above the on-screen keyboard are the seller's incoming grey bubbles — a photo of dark navy vintage chunky sneakers with a large side logo letterform on a red cloth, the text 'N발란스 2002 빈티지 블랙 280사이즈입니다!!', a blue underlined account number 111123456789, a line 큐브은행 홍길동, and 입금해주시면 바로 택배부칠게요; a Korean iOS keyboard with consonant and vowel keys plus a 스페이스 spacebar, 123 and emoji keys and a return key fills the lower portion, and the compose field shows the user mid-typing 사기네요 (meaning 'it's a scam') with a blue circular up-arrow send button; in the resolved beat a blue outgoing iMessage bubble reading 사기네요 appears with small grey 전송됨 (delivered) text beneath it and an empty iMessage field; the status bar reads 10:48 with full bars, LTE and a full battery. The look is a real screen filmed off the device, faint diffuse glare across the glass, true pixels with no moire, matte dark metal body with thin uniform bezels and glossy glass. Lighting is soft frontal neutral 5500K window daylight, moderate fill (about 2:1), gentle soft shadows around the gripping fingers, mid-key contrast; the hand skin natural with subtle highlights. The lens reads like a 50mm-equivalent handheld with shallow depth of field, the phone tack-sharp and the room melted to bokeh. Composition centered vertical, the phone in the central two-thirds, the gripping hand at the lower-left, the bottom reserved clean for the caption. Color palette balanced and desaturated neutral UI grey #cfd3d6 with a small blue messaging accent #1f6feb (the sent bubble and the send arrow, roughly five percent of the frame), warm background bokeh #b9a48c, and dark UI text anchors #2f3a44; contrast hue-complementary between the warm room and the cool screen. Textures read as clear glossy glass on the screen, matte metal on the phone body, natural skin with fine detail on the hand, and soft blurred fabric and cardboard in the background; the atmosphere is calm and honest with no haze, smoke or film grain, just a faint ambient warmth from the room. The phone tilts a few degrees with the natural handheld hold, the thumb of the gripping hand visible at the lower-left corner of the device while the index finger of the other hand reaches in toward the keyboard, capturing a believable single-user texting gesture rather than a staged pose. Overlaid graphics preserved verbatim: lower third, a torn-paper white caption strip with ragged deckled edges in bold rounded sans-serif reads, across beats, 등록되지 않은 / 사기 계좌로, then 범행을 / 시도할 수도 있으니, then 다양한 요소들을 / 반드시 꼼꼼히 확인하세요, with the word 꼼꼼히 highlighted in Toss blue (no number badge appears in this closing segment, unlike the earlier numbered steps). Overall a clean digital color-accurate real-device capture, vertical smartphone framing, Korean app-tutorial aesthetic, sincere unhurried over-the-shoulder documentary feel that matches the rest of the demo.",
+        "t2i_negative": "real brand logo marks, distorted fingers, extra hands, garbled UI or keyboard text, watermark, heavy grain, oversaturation, dark room, duplicate phone",
+        "i2v_motion": "Gentle handheld drift; a fingertip taps the Korean keyboard composing 사기네요 character by character, then taps the blue send arrow and the message posts as an outgoing bubble marked 전송됨; lighting/bokeh constant; the lower torn-paper caption advances through the closing-advice beats; ~6.9s steady, ends on a hard cut to the live-action host. Calm, honest closing feel.",
+        "i2v_params": {
+          "clip_duration_sec": 6.9,
+          "camera_move": "handheld_micro_drift",
+          "subject_motion_level": "micro",
+          "signature_effect": "none",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; in-app message copy preserved verbatim; iOS/brand blue kept, no real logo; hand generic"
+      }
+    },
+    {
+      "index": 8,
+      "duration": 5.73,
+      "framing": "MS",
+      "function": "outro_host_signoff",
+      "color_mood": "bright_clean_cool_neutral",
+      "subject_action": "The host sits on the office sofa, opens the (legitimately received) parcel and pulls out a dark jacket, smiles to camera and makes a finger-heart gesture while a closing series sign-off caption appears",
+      "copy_overlay": "토스의 숨은 꿀기능 / 다시 찾아올게요!",
+      "subject_identity": "protagonist_main",
+      "subject_relationship_to_protagonist": "main_character",
+      "mid_frame_path": "ADV-2026-026_frames/cut08_mid.png",
+      "layout_grid": "center",
+      "subject_position": "right_of_center",
+      "subject_typo_layout": "host right-center, closing headline brush-boxes pinned center-left over the action",
+      "typo_motion": "closing headline present as static reverse-out blocks; key word 꿀기능 ringed with a hand-drawn yellow ellipse; no kinetic motion",
+      "camera_angle": "eye_level",
+      "camera_facing": "three_quarter",
+      "shot_scope": "full_body",
+      "gaze": "to_camera",
+      "eye_contact_effect": "warm direct address; host looks at camera and gives a finger-heart, sealing the friendly series tone",
+      "props": [
+        "cardboard parcel box",
+        "dark unboxed jacket/hoodie",
+        "low round table",
+        "blue lounge sofa"
+      ],
+      "prop_semantics": "the satisfying unboxing of a real purchased item provides a positive payoff that contrasts the scam scenario and rewards safe trading",
+      "color_palette": [
+        "#e9ebec",
+        "#9fb7c0",
+        "#2f3a44",
+        "#c0392b"
+      ],
+      "color_intent": "bright hi-key office whites, cool cast; the host's pale-blue hoodie near Toss-blue; closing brush-boxes in brand blue",
+      "pose_description": "seated, opening the box and holding up the garment, then a relaxed finger-heart to camera; approachable, sincere",
+      "subject_motion": "pulling the jacket from the box, lifting it, gesturing; continuous natural motion",
+      "prop_motion": "jacket lifted out of the box and held up; box flaps open",
+      "camera_motion": "near-static handheld medium",
+      "camera_motion_intensity": "subtle",
+      "camera_effect_local": "none",
+      "motion_blur": "minimal",
+      "intra_cut_rhythm": "steady",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [
+        "closing headline brush-box",
+        "yellow ellipse emphasis"
+      ],
+      "vfx_intensity_local": "subtle",
+      "fact_check_flag": "none",
+      "notes": "True closing camera cut from the demo at ~52.55s. Series sign-off; host finger-heart on the final frames. The unboxed jacket bears a small chest emblem (kept generic, not reproduced as a real logo).",
+      "visible_elements": {
+        "foreground": [
+          "host in pale grey-blue hoodie",
+          "dark jacket held up",
+          "open cardboard box",
+          "low round black table"
+        ],
+        "midground": [
+          "blue modular lounge sofa",
+          "black metal railing"
+        ],
+        "background": [
+          "bright white open-plan office",
+          "glass meeting rooms",
+          "a coworker in the distance"
+        ],
+        "lighting_env": [
+          "overhead pendant and recessed lights",
+          "broad ambient daylight fill"
+        ],
+        "atmosphere": [
+          "clean airy office ambience",
+          "incidental red ceiling ductwork"
+        ]
+      },
+      "texture": {
+        "primary_subject": "fabric_cotton",
+        "secondary_objects": [
+          "fabric_woven",
+          "cardboard",
+          "metal_matte"
+        ],
+        "background_surface": "concrete",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "top",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "strong",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": false,
+        "practical_lights": [
+          "pendant lamps",
+          "recessed ceiling downlights"
+        ],
+        "shadow_presence": "soft",
+        "overall_contrast": "hi_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#e9ebec",
+          "#9fb7c0",
+          "#2f3a44",
+          "#c0392b"
+        ],
+        "palette_role": {
+          "#e9ebec": "background_dominant",
+          "#9fb7c0": "subject_garment_midtone",
+          "#2f3a44": "dark_anchor_jacket_trousers",
+          "#c0392b": "incidental_warm_accent"
+        },
+        "color_relationship": "analogous",
+        "temperature_balance": "cool_dominant",
+        "saturation_strategy": "muted",
+        "contrast_type": "luminance_high",
+        "accent_color": "#c0392b",
+        "accent_ratio": "5_percent",
+        "brand_color_match": [
+          "host hoodie and closing brush-boxes approximate Toss blue"
+        ]
+      },
+      "style_prompt": "Medium vertical shot of a relaxed Korean man in a pale grey-blue hoodie on an office sofa unboxing and holding up a dark jacket, smiling to camera with a finger-heart, bright hi-key office, cool muted palette, clean 4K commercial look, 9:16",
+      "recreation_prompts": {
+        "t2i_start_frame": "A photorealistic vertical 9:16 frame of a relaxed Korean man in his late twenties, of East Asian Korean ethnicity with soft natural styling and a tidy dark side-swept fringe, seated on a modular teal-blue lounge cube sofa in a bright hi-key open-plan technology office, captured in a near-static medium handheld shot at eye level, three-quarter facing toward camera. He wears an oversized pale grey-blue cotton-fleece hoodie, dark navy-black relaxed straight-leg trousers and clean white low-top leather sneakers; he has just opened a kraft cardboard parcel with reddish tape on the low round black pedestal table beside him and is lifting out a dark charcoal jacket/hoodie, holding it up by the shoulders with both hands while smiling warmly at the camera; on the closing beat he makes a small finger-heart gesture near his cheek with one hand, reading as a sincere, friendly young Korean office worker and content creator. The set matches the opening shot exactly: a wide white interior on a mezzanine with an exposed industrial ceiling carrying painted white ducts and incidental red-painted sprinkler pipes, regular recessed circular downlights and a few hanging dome pendant lamps, full-height glass-walled meeting rooms behind, a black powder-coated metal mezzanine railing with small green-leaf and red-bauble garland on its posts, pale polished concrete-look flooring with a warm wood-toned walkway strip, and a softly blurred coworker far in the background for lived-in documentary depth. Lighting is broad and soft, top-dominant neutral 5500K key from the overhead ceiling fixtures with strong even ambient fill bouncing off the white surfaces (key-to-fill roughly 2:1), gentle soft contact shadows, no hard rim or specular hot spots, an overall hi-key high-key luminance with deliberately low color saturation. The lens reads like a 35mm-equivalent handheld with moderate depth of field: the host and the held garment tack-sharp while the office softly defocuses. Composition is center-weighted vertical following rule-of-thirds, the host in the right-center and the held jacket toward frame-center-left, with the caption headline overlapping the upper-center over generous negative space. The color palette is cool-dominant and muted: a dominant off-white #e9ebec across walls and ceiling, the pale blue-grey hoodie as the principal midtone #9fb7c0, dark value anchors in the held charcoal jacket and trousers #2f3a44, and a small incidental warm red accent #c0392b from the ceiling ducts at about five percent, an analogous mostly-cool scheme with one warm punctuation. Textures read crisply: soft brushed cotton fleece on the hoodie, woven cotton-nylon fabric on the held jacket (with a small generic embroidered chest emblem, not a real brand mark), corrugated kraft cardboard on the box, matte powder-coated metal on the railing, woven upholstery on the sofa, smooth sealed concrete underfoot, and clear glass partitions; the atmosphere is clean, airy and quiet with no haze, smoke or film grain. Overlaid graphics preserved verbatim: pinned to the upper-center, a two-line reverse-out white closing headline in bold rounded sans-serif inside soft hand-painted blue brush-stroke boxes reads 토스의 숨은 꿀기능 / 다시 찾아올게요!, with the word 꿀기능 ringed by a hand-drawn yellow ellipse for emphasis. Overall a clean digital 4K commercial documentary look, hi-key, bright and natural, color-accurate, no heavy stylization or vignette. Korean office-commercial aesthetic, authentic employee-creator warmth, vertical smartphone framing.",
+        "t2i_negative": "second person, distorted hands, extra fingers, deformed face, real brand logo marks, watermark, harsh low-key shadows, heavy grain, oversaturated colors, motion smear, text artifacts",
+        "i2v_motion": "The host lifts the dark jacket out of the box and holds it up, then turns slightly toward camera, smiles and forms a small finger-heart near his cheek; camera holds a near-static handheld medium with the faintest natural drift; lighting and color stay constant; the closing brush-box headline remains static on screen; ~5.7s, steady rhythm, ends the piece. Warm, sincere, documentary handheld feel.",
+        "i2v_params": {
+          "clip_duration_sec": 5.73,
+          "camera_move": "near_static_handheld",
+          "subject_motion_level": "dynamic",
+          "signature_effect": "none",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen closing copy preserved verbatim; host generic young Korean man, no face-likeness; jacket emblem generic, no real logo mark"
+      }
+    }
+  ],
+  "search_keywords": {
+    "industry": [
+      "finance",
+      "it_saas"
+    ],
+    "product_category": [
+      "mobile_banking",
+      "fraud_detection",
+      "account_safety"
+    ],
+    "target_demo": [
+      "20s",
+      "late20s_early30s",
+      "office_worker",
+      "mz"
+    ],
+    "media_format": [
+      "shortform_vertical_30s_plus"
+    ],
+    "tone": [
+      "friendly",
+      "calm_refined",
+      "empathetic_comforting"
+    ],
+    "pacing": [
+      "steady",
+      "front_loaded"
+    ],
+    "technique": [
+      "real_device_handheld_demo",
+      "screen_recording_demo",
+      "presenter_walk_intro",
+      "step_by_step_caption",
+      "ui_motion"
+    ],
+    "vfx_keywords": [
+      "ui_motion",
+      "color_pop",
+      "red_alert_reveal",
+      "numbered_step_badge"
+    ],
+    "copy_strategy_keywords": [
+      "step_by_step_tutorial",
+      "feature_benefit_direct",
+      "safety_assurance",
+      "voice_caption_sync",
+      "question_hook"
+    ],
+    "concept_derivation_pattern": [
+      "employee_recommends_hidden_feature",
+      "everyday_problem_metaphor_product_release"
+    ]
+  },
+  "inferred_creative_thinking": {
+    "insight": "Young users buy and sell a lot secondhand and quietly fear getting scammed on a bank transfer; they don't know their banking app can already check whether the recipient account has been reported as fraudulent.",
+    "persona": "A trustworthy in-house product owner / employee-creator who casually shows real hidden features of the app, peer-to-peer rather than ad-like.",
+    "moment": "The exact moment of a risky secondhand transfer — you've copied a stranger's account and are about to send money.",
+    "product_role": "The app is the quiet safety net: it cross-checks the account against fraud-report data and throws a red warning (and blocks the send) before you lose money.",
+    "punchline": "Even if you ignore the flag and hit send, it stops you — and you can reply '사기네요' to the scammer.",
+    "differentiator": "A real-device, real-UI, step-numbered demo of an actual lesser-known safety feature, narrated by a real employee, ending on a satisfying scam call-out.",
+    "brand_fit_one_liner": "Positions the brand as the bank that actively protects you from fraud, not just one that moves money.",
+    "confidence": "inferred"
+  },
+  "inferred_brief": "Make a friendly, credible short-form tutorial (in the ongoing 'Toss hidden services' employee series) that teaches users how to check whether a recipient bank account is a reported scam account before sending money, to drive trust and feature awareness.",
+  "concept_derivation_pattern": [
+    "employee_recommends_hidden_feature",
+    "everyday_problem_metaphor_product_release"
+  ],
+  "cross_pollination_tags": {
+    "adjacent": [
+      "insurance",
+      "it_saas",
+      "subscription_membership"
+    ],
+    "distant": [
+      "public_gov",
+      "healthcare_pharma",
+      "education"
+    ],
+    "contrast": [
+      "luxury",
+      "beverage_alcohol",
+      "fashion"
+    ]
+  },
+  "confidence": "inferred",
+  "analyst_notes": "Three-part format (live-action intro -> continuous in-app demo -> live-action outro). Decided shot_count_corrected = 8 by segmenting on the analytically meaningful numbered step-caption beats; only 3 of those boundaries are true camera cuts (0s intro, 5.94s intro->demo, 52.55s demo->outro). scenedetect reported 8 segments but split the demo at in-app screen transitions (24.96/29.10/43.58/45.61/49.42s) while merging steps 1-2 — its boundaries differ from these. Continuity confirmed by the iPhone status-bar clock running 10:46->10:47->10:48 unbroken with identical hand/background through the demo. No wiggle_3d: metrics wiggle hint is ordinary handheld jitter (verified on native frames). Whisper text_raw is badly garbled and was corrected against on-screen captions/UI per brief (e.g. '중곰을 풍컬'->'중고거래', '합성근 버튼'->'송금 버튼'); captions trusted as source of truth. All bank names (큐브은행), person names (홍길동, 김토스), the seller handle (뉴발판매자) and the account number 111123456789 are fictional placeholders shown in-app and preserved verbatim as copy. Brand name 토스/Toss kept only in source_ref and verbatim caption text; no real logo mark reproduced; host described generically.",
+  "verification": {
+    "frames_reviewed": "~70 frames visually read at native 1080x1920 via Read tool, selected from a 234-frame plan (all scenedetect+metrics boundaries +/-2, every diff>=8 / text-delta-spike frame, plus <=15-frame cadence). Covered the intro (f1,5,30,61,90,136,166,178), every demo step boundary and screen state (f179,180,181,211,256,301,323,324,351,406,451,496,541,586,631,661,676,706,736,749,766,826,873,889,931,991,1051,1096,1141,1201,1261,1305,1336,1367,1369,1381,1424,1456,1481,1483,1516,1561,1573,1574), and the outro (f1575,1576,1606,1651,1696,1741,1745). Every distinct caption (intro headline, all numbered step beats 1-5, closing advice, outro sign-off), every in-app screen/scroll/tap state, the seller message content, the red warning reveal and the send-block sheet were captured. Continuity verified via the on-screen clock. 100% per-frame metrics used to guide the dense read.",
+    "audio_analyzed": true,
+    "hitrate_na": true,
+    "abstraction_checked": true
+  }
+}

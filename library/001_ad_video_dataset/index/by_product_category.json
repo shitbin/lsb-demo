@@ -1,0 +1,359 @@
+{
+  "mobile_banking": [
+    "ADV-2026-001",
+    "ADV-2026-003",
+    "ADV-2026-004",
+    "ADV-2026-008",
+    "ADV-2026-015",
+    "ADV-2026-016",
+    "ADV-2026-025",
+    "ADV-2026-026",
+    "ADV-2026-027",
+    "ADV-2026-028",
+    "ADV-2026-033",
+    "ADV-2026-034",
+    "ADV-2026-035",
+    "ADV-2026-036",
+    "ADV-2026-037",
+    "ADV-2026-040"
+  ],
+  "group_account": [
+    "ADV-2026-001",
+    "ADV-2026-002",
+    "ADV-2026-003"
+  ],
+  "shared_account": [
+    "ADV-2026-002"
+  ],
+  "fintech_app": [
+    "ADV-2026-002",
+    "ADV-2026-005"
+  ],
+  "mobile_payment+money_transfer+fintech_app": [
+    "ADV-2026-006"
+  ],
+  "mobile_transfer": [
+    "ADV-2026-007"
+  ],
+  "fraud_detection": [
+    "ADV-2026-007",
+    "ADV-2026-026"
+  ],
+  "digital_banking": [
+    "ADV-2026-007"
+  ],
+  "digital_bank": [
+    "ADV-2026-008"
+  ],
+  "app_launch": [
+    "ADV-2026-008"
+  ],
+  "checking_account": [
+    "ADV-2026-008"
+  ],
+  "financial_literacy_book": [
+    "ADV-2026-009"
+  ],
+  "fashion_footwear_editorial": [
+    "ADV-2026-010"
+  ],
+  "super_app": [
+    "ADV-2026-011",
+    "ADV-2026-013",
+    "ADV-2026-014",
+    "ADV-2026-021",
+    "ADV-2026-022",
+    "ADV-2026-023",
+    "ADV-2026-024"
+  ],
+  "mini_app": [
+    "ADV-2026-011",
+    "ADV-2026-013",
+    "ADV-2026-014"
+  ],
+  "mobile_payment": [
+    "ADV-2026-011",
+    "ADV-2026-027"
+  ],
+  "super_app_mini_app": [
+    "ADV-2026-012"
+  ],
+  "mobile_platform": [
+    "ADV-2026-013"
+  ],
+  "app_store": [
+    "ADV-2026-013"
+  ],
+  "fintech_platform": [
+    "ADV-2026-014",
+    "ADV-2026-015"
+  ],
+  "app_marketplace": [
+    "ADV-2026-014"
+  ],
+  "money_transfer": [
+    "ADV-2026-015",
+    "ADV-2026-020"
+  ],
+  "credit_score": [
+    "ADV-2026-016",
+    "ADV-2026-017"
+  ],
+  "credit_management": [
+    "ADV-2026-017"
+  ],
+  "loan_eligibility": [
+    "ADV-2026-017"
+  ],
+  "personal_finance_app": [
+    "ADV-2026-017",
+    "ADV-2026-018",
+    "ADV-2026-019",
+    "ADV-2026-020",
+    "ADV-2026-025",
+    "ADV-2026-028"
+  ],
+  "atm_withdrawal": [
+    "ADV-2026-018"
+  ],
+  "cardless_cash": [
+    "ADV-2026-018"
+  ],
+  "convenience_store_atm": [
+    "ADV-2026-018"
+  ],
+  "government_subsidy": [
+    "ADV-2026-019"
+  ],
+  "benefits_finder": [
+    "ADV-2026-019"
+  ],
+  "public_benefits": [
+    "ADV-2026-019"
+  ],
+  "auto_transfer": [
+    "ADV-2026-020"
+  ],
+  "recurring_payment": [
+    "ADV-2026-020"
+  ],
+  "rent_payment": [
+    "ADV-2026-020"
+  ],
+  "civic_service": [
+    "ADV-2026-021"
+  ],
+  "document_issuance": [
+    "ADV-2026-021"
+  ],
+  "govtech": [
+    "ADV-2026-021"
+  ],
+  "electronic_certificate": [
+    "ADV-2026-021"
+  ],
+  "real_estate_price_tracking": [
+    "ADV-2026-022"
+  ],
+  "proptech": [
+    "ADV-2026-022",
+    "ADV-2026-024"
+  ],
+  "price_alert": [
+    "ADV-2026-022"
+  ],
+  "hidden_service": [
+    "ADV-2026-023"
+  ],
+  "public_bike_share": [
+    "ADV-2026-023"
+  ],
+  "mobility_rental": [
+    "ADV-2026-023"
+  ],
+  "insurance": [
+    "ADV-2026-024"
+  ],
+  "jeonse_guarantee": [
+    "ADV-2026-024"
+  ],
+  "lease_deposit_protection": [
+    "ADV-2026-024"
+  ],
+  "expense_management": [
+    "ADV-2026-025"
+  ],
+  "account_safety": [
+    "ADV-2026-026"
+  ],
+  "bill_split_dutchpay": [
+    "ADV-2026-027"
+  ],
+  "tax_settlement": [
+    "ADV-2026-028"
+  ],
+  "securities": [
+    "ADV-2026-029",
+    "ADV-2026-030"
+  ],
+  "stock_trading_app": [
+    "ADV-2026-029",
+    "ADV-2026-030"
+  ],
+  "investing_community": [
+    "ADV-2026-029"
+  ],
+  "investing_app": [
+    "ADV-2026-031"
+  ],
+  "stock_trading": [
+    "ADV-2026-031"
+  ],
+  "brand_film": [
+    "ADV-2026-031"
+  ],
+  "financial_services": [
+    "ADV-2026-031"
+  ],
+  "securities_investing_app": [
+    "ADV-2026-032"
+  ],
+  "biometric_payment": [
+    "ADV-2026-033",
+    "ADV-2026-034",
+    "ADV-2026-035",
+    "ADV-2026-036",
+    "ADV-2026-037"
+  ],
+  "payment": [
+    "ADV-2026-033",
+    "ADV-2026-034",
+    "ADV-2026-035",
+    "ADV-2026-036",
+    "ADV-2026-037"
+  ],
+  "credit_card": [
+    "ADV-2026-038"
+  ],
+  "design_card": [
+    "ADV-2026-038"
+  ],
+  "rewards_card": [
+    "ADV-2026-038"
+  ],
+  "card": [
+    "ADV-2026-039",
+    "ADV-2026-040",
+    "ADV-2026-041"
+  ],
+  "apparel": [
+    "ADV-2026-042",
+    "ADV-2026-043",
+    "ADV-2026-045",
+    "ADV-2026-061"
+  ],
+  "beauty_platform": [
+    "ADV-2026-042",
+    "ADV-2026-056"
+  ],
+  "fashion_lifestyle_platform": [
+    "ADV-2026-043"
+  ],
+  "cosmetics": [
+    "ADV-2026-045",
+    "ADV-2026-060"
+  ],
+  "delivery_app": [
+    "ADV-2026-046",
+    "ADV-2026-047"
+  ],
+  "pre_order_pickup": [
+    "ADV-2026-046"
+  ],
+  "mobile_ordering": [
+    "ADV-2026-046"
+  ],
+  "food_delivery_platform": [
+    "ADV-2026-047"
+  ],
+  "service_integration": [
+    "ADV-2026-047"
+  ],
+  "rtd_coffee": [
+    "ADV-2026-048",
+    "ADV-2026-049"
+  ],
+  "royal_coffee": [
+    "ADV-2026-048",
+    "ADV-2026-049"
+  ],
+  "specialty_coffee": [
+    "ADV-2026-048",
+    "ADV-2026-049"
+  ],
+  "instant_noodle": [
+    "ADV-2026-050"
+  ],
+  "spicy_noodle": [
+    "ADV-2026-050"
+  ],
+  "ev": [
+    "ADV-2026-051"
+  ],
+  "large_suv": [
+    "ADV-2026-051",
+    "ADV-2026-054"
+  ],
+  "salary_account": [
+    "ADV-2026-052"
+  ],
+  "bank_deposit_account": [
+    "ADV-2026-052"
+  ],
+  "pickup_truck": [
+    "ADV-2026-053"
+  ],
+  "hybrid_car": [
+    "ADV-2026-054"
+  ],
+  "suv_hybrid": [
+    "ADV-2026-054"
+  ],
+  "apartment_presale": [
+    "ADV-2026-055"
+  ],
+  "residential_complex": [
+    "ADV-2026-055"
+  ],
+  "same_day_delivery": [
+    "ADV-2026-056"
+  ],
+  "ecommerce": [
+    "ADV-2026-056"
+  ],
+  "running_shoes": [
+    "ADV-2026-057"
+  ],
+  "sportswear": [
+    "ADV-2026-057",
+    "ADV-2026-063"
+  ],
+  "department_store": [
+    "ADV-2026-058"
+  ],
+  "university": [
+    "ADV-2026-059"
+  ],
+  "aesthetic_device": [
+    "ADV-2026-060"
+  ],
+  "commerce_platform": [
+    "ADV-2026-061"
+  ],
+  "lifestyle_editorial": [
+    "ADV-2026-061"
+  ],
+  "ai_product": [
+    "ADV-2026-062"
+  ]
+}

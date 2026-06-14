@@ -1,0 +1,1021 @@
+{
+  "id": "ADV-2026-023",
+  "source_ref": {
+    "platform": "social_short_form",
+    "title_or_campaign": "토스 숨은 서비스 7 - 토스로 쉽게 따릉이 타기",
+    "brand": "토스 (Toss)",
+    "product": "토스 앱 / 숨은 서비스 - 따릉이 타기 (Toss app hidden service - Seoul public bike rental)",
+    "model": null,
+    "year": 2024,
+    "production_note": "creator_screen_recording_walkthrough_plus_live_action",
+    "url": null
+  },
+  "category_primary": "finance.fintech",
+  "category_tags": [
+    "fintech",
+    "super_app",
+    "hidden_service",
+    "public_bike_share",
+    "mobility",
+    "tutorial_walkthrough"
+  ],
+  "mood": [
+    "informative",
+    "friendly",
+    "relatable",
+    "helpful",
+    "everyday"
+  ],
+  "target_demo": "20s-30s mobile-native urban Korean adults, Toss app users curious about lesser-known in-app services and Seoul public-bike (Ttareungi) users",
+  "total_duration": 31.7,
+  "shot_count": 5,
+  "shot_count_corrected": 5,
+  "fps": 29.97,
+  "aspect_ratio": "9:16",
+  "hook_position": 0.0,
+  "cta_position": 29.4,
+  "narrative_arc": "how_to_demonstration_step_by_step_payoff",
+  "narrative_structure": "linear_tutorial_sequence",
+  "pacing_curve": "steady_instructional",
+  "music_tempo_curve": "calm_steady_light_bgm",
+  "wow_cut_index": 4,
+  "creative_device": [
+    "screen_ui_walkthrough",
+    "step_by_step_tutorial_captions",
+    "voiceover_narration_guide",
+    "real_world_payoff_demonstration",
+    "creator_signature_end_card"
+  ],
+  "production_signature": {
+    "capture_style": "vertical_social_tutorial_handheld_plus_screen_capture",
+    "camera_signature": [
+      "handheld_phone_held_in_frame",
+      "screen_recording_insert_continuous",
+      "macro_product_detail_qr",
+      "backward_tracking_walk_payoff"
+    ],
+    "signature_note": "Vertical 9:16 creator-style how-to: opens with live-action presenter at a Seoul Ttareungi bike station holding a labeled CONTENT card, hard-cuts to a single continuous in-hand phone screen-recording covering the full Toss app rental flow (전체 tab -> 따릉이 -> map -> 대여하기 -> 이용권 -> 결제 -> 완료), hard-cuts to a live-action macro of the bike lock QR being scanned by the phone, then a backward-tracking payoff of the presenter walking the unlocked Ttareungi down a sunny winter sidewalk, ending on a hand-stamped paper sticker end card 'Curator T / 토스를 발견하다'. Low intentional camera shake; bright natural daylight; clean Toss blue-and-white UI; bottom-center pill-style subtitle captions throughout.",
+    "color_grade": "bright_natural_daylight_clean_white_ui",
+    "texture_fx": "none_minimal"
+  },
+  "global_layout": {
+    "grid_system": "vertical_center_dominant_phone_in_hand",
+    "subject_placement_dominant": "center_phone_screen_fills_frame",
+    "subject_typo_relation": "subtitle_caption_pill_lower_center_over_footage",
+    "negative_space_use": "moderate_blurred_background_around_phone_heavy_on_end_card",
+    "layout_note": "Live-action shots place subject/phone center; the long middle section is a centered in-hand phone screen recording with the Toss UI filling most of the frame; every section carries a rounded grey translucent pill caption at lower-center; end card is a single small sticker centered on near-white paper with heavy negative space."
+  },
+  "recurring_motifs": [
+    "in_hand_smartphone_screen_recording",
+    "toss_blue_ui_accent",
+    "ttareungi_mint_green_public_bike",
+    "bike_station_kiosk_green_signage",
+    "lower_center_subtitle_pill",
+    "step_by_step_caption_guide"
+  ],
+  "copywriting": {
+    "tagline_text": "토스로 쉽게 따릉이 타기",
+    "tagline_structure": "brand_plus_easy_action_phrase",
+    "cta_text": "토스를 발견하다",
+    "copy_tone": [
+      "friendly",
+      "instructional",
+      "approachable",
+      "clear"
+    ],
+    "copy_strategy": "step_by_step_how_to_voiceover_mirrored_by_on_screen_subtitles_and_ui_text",
+    "lines": [
+      {
+        "text": "토스로 따릉이 빌릴 수 있대요. 제가 바로 빌려볼게요.",
+        "type": "narration_vo",
+        "time_sec": 0.0
+      },
+      {
+        "text": "전체 탭에서 따릉이를 선택해 주세요.",
+        "type": "narration_vo",
+        "time_sec": 5.0
+      },
+      {
+        "text": "지도를 통해 따릉이 대여소 위치를 확인할 수 있는데요.",
+        "type": "narration_vo",
+        "time_sec": 7.5
+      },
+      {
+        "text": "이제 대여하기를 눌러줍니다.",
+        "type": "narration_vo",
+        "time_sec": 11.2
+      },
+      {
+        "text": "내게 맞는 이용권을 선택하고",
+        "type": "narration_vo",
+        "time_sec": 13.8
+      },
+      {
+        "text": "토스에 등록된 결제 수단으로 결제까지 진행하면",
+        "type": "narration_vo",
+        "time_sec": 16.0
+      },
+      {
+        "text": "대여 준비가 모두 끝났어요.",
+        "type": "narration_vo",
+        "time_sec": 19.48
+      },
+      {
+        "text": "안장 뒤에 있는 QR 코드를 인식하면",
+        "type": "narration_vo",
+        "time_sec": 22.7
+      },
+      {
+        "text": "잠금이 풀리면서 따릉이를 이용하실 수 있어요.",
+        "type": "narration_vo",
+        "time_sec": 26.0
+      }
+    ],
+    "captions": [
+      {
+        "text": "CONTENT 토스로 쉽게 따릉이 타기 / SERVICE 토스 따릉이 타기 / YEAR 2024 / CATEGORY 부동산 공공서비스 송금 / PRODUCTION TEAM #team_공공프로덕트",
+        "source": "on_screen_content_card_overlay",
+        "time_sec": 2.0
+      },
+      {
+        "text": "'전체 탭'에서",
+        "source": "on_screen_subtitle",
+        "time_sec": 5.3
+      },
+      {
+        "text": "'따릉이'를 선택해주세요",
+        "source": "on_screen_subtitle",
+        "time_sec": 6.0
+      },
+      {
+        "text": "지도를 통해",
+        "source": "on_screen_subtitle",
+        "time_sec": 8.0
+      },
+      {
+        "text": "따릉이 정류소 위치를 확인할 수 있는데요",
+        "source": "on_screen_subtitle",
+        "time_sec": 9.0
+      },
+      {
+        "text": "이제 대여하기를 눌러줍니다",
+        "source": "on_screen_subtitle",
+        "time_sec": 11.3
+      },
+      {
+        "text": "이용권을 선택해주세요 / 1시간 2시간 / 기간 동안 1시간씩 계속 빌릴 수 있어요 / 1일 1,000원 / 7일 3,000원 / 30일 5,000원 / 180일 15,000원 / 365일 30,000원",
+        "source": "on_screen_phone_ui",
+        "time_sec": 13.7
+      },
+      {
+        "text": "내게 맞는 이용권을 선택하고",
+        "source": "on_screen_subtitle",
+        "time_sec": 14.7
+      },
+      {
+        "text": "1일권 · 1시간 / 1,000원 / 토스뱅크 체크카드 401* / 포인트 쓰기 -597P / 1,000원 결제하기 / 구매 내용에 동의하면 결제해주세요",
+        "source": "on_screen_phone_ui",
+        "time_sec": 16.7
+      },
+      {
+        "text": "토스에 등록된 결제 수단으로",
+        "source": "on_screen_subtitle",
+        "time_sec": 16.6
+      },
+      {
+        "text": "1일권을 구매했어요 / 1일동안 1시간씩 계속 빌릴 수 있어요 / 확인했어요 / 1,000원 결제 토스뱅크 체크카드 | 따릉이 (공공자전거) 지금",
+        "source": "on_screen_phone_ui",
+        "time_sec": 19.0
+      },
+      {
+        "text": "결제까지 진행하면",
+        "source": "on_screen_subtitle",
+        "time_sec": 18.5
+      },
+      {
+        "text": "대여할 준비가 모두 끝났어요",
+        "source": "on_screen_subtitle",
+        "time_sec": 20.5
+      },
+      {
+        "text": "안장 뒤에 있는 QR코드를",
+        "source": "on_screen_subtitle",
+        "time_sec": 22.7
+      },
+      {
+        "text": "QR코드는 안장 밑에 있어요 / 문자 코드 입력하기",
+        "source": "on_screen_phone_ui",
+        "time_sec": 24.2
+      },
+      {
+        "text": "인식하면",
+        "source": "on_screen_subtitle",
+        "time_sec": 24.5
+      },
+      {
+        "text": "잠금이 풀리면서",
+        "source": "on_screen_subtitle",
+        "time_sec": 26.2
+      },
+      {
+        "text": "따릉이를 이용하실 수 있어요",
+        "source": "on_screen_subtitle",
+        "time_sec": 27.0
+      },
+      {
+        "text": "Curator T / 토스를 발견하다",
+        "source": "end_card_sticker",
+        "time_sec": 30.0
+      }
+    ],
+    "narration_handling": "voiceover_narration_plus_mirrored_on_screen_subtitles_and_ui_text"
+  },
+  "typography": {
+    "primary_font_class": "geometric_sans_korean_rounded_plus_handstamp_accent",
+    "animation_style": [
+      "fade_in_hold",
+      "static_subtitle_swap",
+      "sticker_peel_settle_end_card"
+    ],
+    "subtitle_position_dominant": "lower_center_pill",
+    "color_strategy": "white_or_grey_text_in_translucent_pill_plus_blue_handstamp_brand",
+    "typo_motion_dominant": "fade_in_static_subtitle"
+  },
+  "vfx": {
+    "primary_effects": [
+      "screen_recording_insert",
+      "subtitle_caption_overlay",
+      "content_card_overlay",
+      "sticker_peel_animation"
+    ],
+    "effect_intensity": "low",
+    "transition_style_dominant": "hard_cut",
+    "vfx_event_count": 4
+  },
+  "audio": {
+    "has_audio": true,
+    "language": "ko",
+    "speech_coverage": 0.883,
+    "bgm_likely": true,
+    "narration_lines": [
+      {
+        "start": 0.0,
+        "end": 4.0,
+        "text": "토스로 따릉이 빌릴 수 있대요. 제가 바로 빌려볼게요.",
+        "text_raw": "토스로 다른 게 될 수 있대요. 제가 바로 빌려볼게요.",
+        "source": "whisper"
+      },
+      {
+        "start": 5.0,
+        "end": 7.5,
+        "text": "전체 탭에서 따릉이를 선택해 주세요.",
+        "text_raw": "전체 탭에서 다른 길을 선택해 주세요.",
+        "source": "whisper"
+      },
+      {
+        "start": 7.5,
+        "end": 11.2,
+        "text": "지도를 통해 따릉이 대여소 위치를 확인할 수 있는데요.",
+        "text_raw": "지도를 통해 다른 이 정류소 위치를 확인할 수 있는데요.",
+        "source": "whisper"
+      },
+      {
+        "start": 11.2,
+        "end": 13.8,
+        "text": "이제 대여하기를 눌러줍니다.",
+        "text_raw": "이제 대화기를 눌러줍니다.",
+        "source": "whisper"
+      },
+      {
+        "start": 13.8,
+        "end": 16.0,
+        "text": "내게 맞는 이용권을 선택하고",
+        "text_raw": "네게 맞는 이용권을 선택하고",
+        "source": "whisper"
+      },
+      {
+        "start": 16.0,
+        "end": 19.48,
+        "text": "토스에 등록된 결제 수단으로 결제까지 진행하면",
+        "text_raw": "토스에 등록된 결제 수단으로 결제까지 진행하면",
+        "source": "whisper"
+      },
+      {
+        "start": 19.48,
+        "end": 22.7,
+        "text": "대여 준비가 모두 끝났어요.",
+        "text_raw": "대화의 준비가 모두 끝났어요.",
+        "source": "whisper"
+      },
+      {
+        "start": 22.7,
+        "end": 26.0,
+        "text": "안장 뒤에 있는 QR 코드를 인식하면",
+        "text_raw": "안장 뒤에 있는 QR 코드를 인식하면",
+        "source": "whisper"
+      },
+      {
+        "start": 26.0,
+        "end": 29.0,
+        "text": "잠금이 풀리면서 따릉이를 이용하실 수 있어요.",
+        "text_raw": "잠금이 풀리면서 다른 길을 이용하실 수 있어요.",
+        "source": "whisper"
+      }
+    ],
+    "voice_vs_caption": "vo_mirrored_by_on_screen_subtitles_and_native_ui_text",
+    "transcribed_by": "faster_whisper_base",
+    "audio_note": "Korean instructional voiceover narration, speech_coverage 0.883; text_raw is uncorrected whisper (it mis-hears 따릉이 as 다른/다른 길 and 대여 as 대화), corrected against on-screen captions which mirror the VO; light BGM likely present underneath."
+  },
+  "frames_dir": "ADV-2026-023_frames",
+  "contact_sheet_path": "ADV-2026-023_frames/contact_sheet.png",
+  "search_keywords": {
+    "industry": [
+      "finance",
+      "fintech"
+    ],
+    "product_category": [
+      "super_app",
+      "hidden_service",
+      "public_bike_share",
+      "mobility_rental"
+    ],
+    "target_demo": [
+      "20s",
+      "30s",
+      "mobile_native",
+      "urban_korean"
+    ],
+    "media_format": [
+      "vertical_social_32s",
+      "tutorial_walkthrough",
+      "9x16_short_form"
+    ],
+    "tone": [
+      "informative",
+      "friendly",
+      "relatable",
+      "helpful"
+    ],
+    "pacing": [
+      "steady",
+      "instructional",
+      "even"
+    ],
+    "technique": [
+      "screen_ui_walkthrough",
+      "tutorial_demo",
+      "voiceover_guide",
+      "macro_product_detail",
+      "real_world_payoff"
+    ],
+    "vfx_keywords": [
+      "screen_recording",
+      "subtitle_overlay",
+      "content_card",
+      "sticker_peel"
+    ],
+    "copy_strategy_keywords": [
+      "step_by_step_howto",
+      "ui_text_mirror",
+      "feature_reveal",
+      "creator_signature"
+    ],
+    "concept_derivation_pattern": [
+      "hidden_feature_discovery",
+      "service_as_everyday_utility",
+      "tutorial_as_advertising"
+    ]
+  },
+  "inferred_creative_thinking": {
+    "insight": "Most people only know Toss for transfers and banking and have no idea it can rent a Seoul public Ttareungi bike, so the most persuasive ad is simply showing the full real flow end to end so it feels effortless and trustworthy",
+    "persona": "A curious mobile-native city dweller in their twenties or thirties who already keeps the Toss super-app on their home screen and loves discovering hidden time-saving features that consolidate errands into one app",
+    "moment": "Standing next to a public shared bike and realizing you do not need a separate Ttareungi app or T-money card because the app already in your pocket handles selection, payment and unlock in under a minute",
+    "product_role": "Toss positions itself as an all-in-one super-app whose hidden services quietly absorb everyday public-life tasks like renting a city bike, using payment credentials already registered in the app",
+    "punchline": "The bike you walk past every day can be unlocked with the finance app you already trust, no extra app, card or sign-up needed",
+    "differentiator": "A fintech that demonstrates breadth not by talking about money but by walking you through an unexpected public-mobility service hidden inside the same app, paid with the card already on file",
+    "brand_fit_one_liner": "A super-app that earns loyalty by quietly turning out to do one more useful everyday thing than you expected",
+    "confidence": "inferred"
+  },
+  "inferred_brief": "Create a vertical 32-second how-to short demonstrating Toss's lesser-known public-bike (Ttareungi) rental service by walking the viewer through the entire in-app flow as a continuous screen recording bookended by live-action of a presenter at a real Seoul bike station, with step-by-step voiceover mirrored by on-screen subtitles, a QR-unlock payoff and a creator signature end card.",
+  "cross_pollination_tags": {
+    "adjacent": [
+      "mobility_app_tutorial",
+      "public_transit_howto",
+      "super_app_feature_demo"
+    ],
+    "distant": [
+      "unboxing_walkthrough_video",
+      "lifestyle_vlog_errand"
+    ],
+    "contrast": [
+      "cinematic_brand_film",
+      "abstract_fintech_montage"
+    ]
+  },
+  "concept_derivation_pattern": "hidden_feature_discovery_then_end_to_end_screen_walkthrough_with_real_world_unlock_payoff",
+  "confidence": "inferred",
+  "analyst_notes": "5 shots from 4 confirmed hard cuts (scenedetect + metrics diff spikes at 4.404 [69.7], 22.289 [95.9], 26.193 [94.4], 29.396 [87.1]). The 4.40-22.29 segment is ONE continuous in-hand phone screen recording: captions and Toss UI screens change (전체 tab -> 따릉이 mode -> map -> 대여하기 -> 이용권 selector -> 결제 -> 1일권 구매 완료) but the live framing (hand holding phone over a Ttareungi front wheel, blurred sunny street bg) never cuts, so it is treated as a single shot per spec. Shot 3 (22.29-26.19) is a continuous live-action macro: the bike's black lock housing with white QR sticker numbered 57322 and a green release lever, with the phone brought in to scan; Toss scanner screen reads 'QR코드는 안장 밑에 있어요 / 문자 코드 입력하기'. Shot 4 (26.19-29.40) is a continuous backward-tracking payoff of the presenter walking the unlocked mint-green Ttareungi (basket reads 따릉이) down a tree-lined winter Seoul sidewalk past the station kiosk. Shot 5 (29.40-31.70) is a hand-stamped paper sticker end card reading 'Curator T' in blue with '토스를 발견하다' beneath it — this is the content creator's signature sign-off (a Toss-discovery series), not an official Toss corporate logo lockup. Whisper text_raw mis-hears 따릉이 as 다른/다른 길 throughout; corrected against on-screen subtitles which mirror the VO. Brand UI (Toss blue, 토스뱅크 체크카드, 토스증권, 토스페이) verified from native-res frames. No wiggle/parallax global effect (mean_abs_shift_x 0.25, low). Logo marks kept generic in image prompts; on-screen Korean caption and UI text preserved verbatim.",
+  "verification": {
+    "frames_reviewed": "93 native-res staged frames read in order + 100% per-frame metrics (diff/motion_zones/text/shift) cross-checked against scenedetect boundaries",
+    "audio_analyzed": true,
+    "hitrate_na": null,
+    "abstraction_checked": true
+  },
+  "shots": [
+    {
+      "index": 1,
+      "duration": 4.4,
+      "framing": "MS",
+      "function": "hook_establishing_presenter_intro",
+      "subject_action": "young Korean woman in a black puffer jacket stands at a Seoul Ttareungi public-bike station holding a smartphone, speaking to camera; a printed CONTENT title card overlay slides up over the lower frame",
+      "layout_grid": "rule_of_thirds_subject_left_kiosk_right",
+      "subject_position": "center_left",
+      "typo_motion": "card_overlay_slide_up_hold",
+      "camera_angle": "eye_level",
+      "camera_facing": "front_3/4",
+      "shot_scope": "medium_shot_waist_up",
+      "gaze": "to_camera_then_down_to_phone",
+      "props": [
+        "smartphone_in_hands",
+        "ttareungi_public_bike_handlebar_and_basket",
+        "bike_station_kiosk_green_signage",
+        "printed_content_title_card_overlay"
+      ],
+      "color_palette": [
+        "#9FB7C9",
+        "#2B2B2E",
+        "#C8783C",
+        "#3BA535",
+        "#E9E6DF"
+      ],
+      "color_intent": "bright_natural_daylight_with_green_station_accent",
+      "pose_description": "standing upright behind a parked shared bike, both hands cradling a phone at chest height, head lifted toward camera mid-sentence then tilting down to the screen, relaxed friendly expression",
+      "subject_motion": "slight_natural_sway_and_head_turn_talking",
+      "camera_motion": "near_static_subtle_handheld",
+      "camera_effect_local": "shallow_background_compression_daylight",
+      "intra_cut_rhythm": "calm_intro",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "mid_frame_path": "ADV-2026-023_frames/cut01_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "young_woman_in_black_puffer_jacket",
+          "smartphone_held_in_both_hands",
+          "ttareungi_bike_saddle_and_basket",
+          "printed_content_title_card_overlay"
+        ],
+        "midground": [
+          "parked_public_bike",
+          "bike_station_kiosk_with_green_circle_signage"
+        ],
+        "background": [
+          "bare_winter_roadside_tree",
+          "pale_blue_sky",
+          "distant_low_rise_buildings",
+          "utility_poles_and_wires"
+        ],
+        "lighting_env": [
+          "bright_overcast_to_clear_winter_daylight",
+          "soft_diffused_sun"
+        ],
+        "atmosphere": [
+          "calm_cold_clear_day",
+          "casual_everyday_street_setting"
+        ]
+      },
+      "texture": {
+        "primary_subject": "matte_nylon_puffer_jacket_quilting",
+        "secondary_objects": [
+          "glossy_phone_screen",
+          "painted_metal_kiosk_panel",
+          "bike_metal_frame_and_rubber_saddle"
+        ],
+        "background_surface": "rough_tree_bark_and_smooth_sky",
+        "atmospheric": [
+          "soft_daylight_haze"
+        ]
+      },
+      "lighting": {
+        "key_direction": "front_high_natural_sun",
+        "key_hardness": "soft_diffused",
+        "key_color_temp": "neutral_daylight_5600K",
+        "fill_strength": "medium_open_shade_skyfill",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": "subtle_hair_rim_from_sun",
+        "practical_lights": [
+          "none_natural_daylight_only"
+        ],
+        "shadow_presence": "soft_natural_ground_shadows",
+        "overall_contrast": "medium"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#9FB7C9",
+          "#2B2B2E",
+          "#C8783C",
+          "#3BA535",
+          "#E9E6DF"
+        ],
+        "palette_role": {
+          "#9FB7C9": "sky_and_cool_daylight_background",
+          "#2B2B2E": "black_puffer_jacket_subject",
+          "#C8783C": "warm_auburn_hair",
+          "#3BA535": "ttareungi_station_green_accent",
+          "#E9E6DF": "pavement_and_content_card_paper"
+        },
+        "color_relationship": "cool_daylight_base_with_green_and_warm_hair_accents",
+        "temperature_balance": "cool_neutral_dominant",
+        "saturation_strategy": "natural_medium_saturation",
+        "contrast_type": "medium_daylight",
+        "accent_color": "#3BA535",
+        "accent_ratio": 0.1
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A waist-up medium shot of a young East Asian woman in her mid to late twenties standing outdoors at a city public-bicycle docking station on a clear, cold late-winter day, photographed at eye level on a vertical 9:16 frame with her body placed slightly left of center and the docking kiosk occupying the right third. She has shoulder-length wavy auburn-brown hair with soft side-swept bangs and a light natural makeup look with a soft coral lip; her expression is friendly and conversational, mouth slightly open mid-sentence as she looks toward the camera, about to glance down. She wears an oversized matte black nylon puffer jacket with visible horizontal quilting and a high zipped collar over dark blue straight-leg jeans. She cradles a modern black smartphone in both hands at chest height. Directly in front of her is the handlebar, mint-green-accented front basket and black saddle of a parked municipal share bike. To the right stands a tall slim self-service rental kiosk: a white panel with a bold green graphic of two circles (one open green ring, one dark filled circle) and rows of small Korean instructional text and pictograms. Across the lower third of the frame a printed off-white paper title card overlay has slid up, carrying small label text reading exactly 'CONTENT 토스로 쉽게 따릉이 타기' as a heading inside a thin blue rounded outline, with a fine print row beneath reading 'SERVICE 토스 따릉이 타기   YEAR 2024   CATEGORY 부동산 공공서비스 송금   PRODUCTION TEAM #team_공공프로덕트'. Behind her is a bare-branched roadside tree, a pale desaturated blue winter sky, distant low-rise buildings, traffic signals and overhead utility wires, all gently softened by a moderate depth of field. Lighting is bright soft natural daylight, a high front sun acting as a diffused key around 5600K with open sky fill at roughly a 2:1 ratio, a subtle warm rim catching the hair, and soft natural shadows on the pavement. The colour palette runs cool daylight blue-grey (#9FB7C9) in the sky, deep near-black (#2B2B2E) in the jacket, warm auburn (#C8783C) in the hair, a public-bike-system green accent (#3BA535) on the kiosk, and warm paper off-white (#E9E6DF) on the pavement and overlay card. Surfaces read as matte quilted nylon, glossy phone glass, painted metal kiosk, rough tree bark and smooth sky. The overall feel is an authentic vertical Korean social how-to clip shot on a high-quality phone or mirrorless camera: natural medium-saturation grading, gentle daylight contrast, no heavy post-processing, no vignette, no lens distortion, the composition following Korean social-video norms with the subject on a rule-of-thirds line and breathing room toward her gaze. The atmosphere communicates a calm, slightly chilly clear midday on a quiet tree-lined city sidewalk in early spring or late winter, given the leafless tree and the layered puffer outfit. Style anchor: contemporary South Korean creator-style explainer realism, vertical mobile framing. Fidelity note: the individual is entirely generic with no likeness of any real person or celebrity intended or implied, and any brand symbols are rendered generically while the on-screen Korean caption text is preserved verbatim as described.",
+        "t2i_negative": "celebrity likeness, studio backdrop, dramatic cinematic lighting, heavy vignette, wide-angle distortion, oversaturated HDR, official brand logo mark, watermark, text artifacts",
+        "i2v_motion": "subject sways subtly and turns her head from camera down toward the phone while speaking, lips moving naturally; printed content title card slides up from lower edge and settles; near-static subtle handheld; light daylight; hard cut out at ~4.4s",
+        "i2v_params": {
+          "clip_duration_sec": 4.4,
+          "camera_move": "near_static_subtle_handheld",
+          "subject_motion_level": "low_talking_gesture",
+          "signature_effect": "content_card_overlay_slide",
+          "pacing": "calm",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen Korean caption text preserved verbatim; identity and brand logo kept generic"
+      }
+    },
+    {
+      "index": 2,
+      "duration": 17.89,
+      "framing": "ECU",
+      "function": "core_screen_ui_walkthrough_tutorial",
+      "subject_action": "continuous in-hand smartphone screen recording walking through the full Toss app Ttareungi rental flow: 전체 tab list, select 따릉이, station map, 대여하기, pass selection, payment with registered card, purchase complete",
+      "layout_grid": "screen_fill_center_vertical_phone_in_hand",
+      "subject_position": "center",
+      "typo_motion": "static_ui_text_plus_lower_center_subtitle_swap",
+      "camera_angle": "eye_level_slightly_down_on_phone",
+      "camera_facing": "phone_screen_to_camera",
+      "shot_scope": "close_up_phone_screen_filling_frame",
+      "gaze": "none_screen",
+      "props": [
+        "smartphone_screen_recording_toss_app_ui",
+        "holding_hand_and_thumb",
+        "blurred_ttareungi_front_wheel_background",
+        "lower_center_subtitle_caption_pill"
+      ],
+      "color_palette": [
+        "#FFFFFF",
+        "#2F6BFF",
+        "#1A1A1A",
+        "#8C8C8C",
+        "#7ED957"
+      ],
+      "color_intent": "clean_toss_blue_white_ui_with_neutral_grey_text",
+      "pose_description": "one hand holds the phone upright filling the frame, a thumb periodically taps the lower screen to advance the flow; the Toss app UI updates step by step on the bright white screen",
+      "subject_motion": "thumb_taps_and_screen_ui_transitions",
+      "camera_motion": "handheld_micro_hold_on_phone",
+      "camera_effect_local": "screen_glow_white_ui",
+      "intra_cut_rhythm": "steady_stepwise",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "mid_frame_path": "ADV-2026-023_frames/cut02_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "smartphone_with_toss_app_ui",
+          "holding_hand_and_thumb"
+        ],
+        "midground": [
+          "phone_body_black_bezel"
+        ],
+        "background": [
+          "blurred_ttareungi_front_wheel_and_green_tire",
+          "blurred_sunny_pavement_and_street"
+        ],
+        "lighting_env": [
+          "screen_self_lit_white_ui",
+          "bright_outdoor_daylight_ambient"
+        ],
+        "atmosphere": [
+          "digital_step_by_step_interaction",
+          "outdoor_handheld_demo"
+        ]
+      },
+      "texture": {
+        "primary_subject": "glossy_glass_touchscreen_flat_ui",
+        "secondary_objects": [
+          "matte_black_phone_bezel",
+          "skin_of_holding_hand"
+        ],
+        "background_surface": "blurred_bike_wheel_and_pavement",
+        "atmospheric": [
+          "screen_glow",
+          "daylight_bokeh"
+        ]
+      },
+      "lighting": {
+        "key_direction": "screen_self_emit_plus_front_daylight",
+        "key_hardness": "soft",
+        "key_color_temp": "cool_screen_6500K_over_neutral_daylight",
+        "fill_strength": "high_outdoor_ambient",
+        "key_to_fill_ratio": "1.5:1",
+        "rim_light": "none",
+        "practical_lights": [
+          "phone_screen"
+        ],
+        "shadow_presence": "minimal_on_screen",
+        "overall_contrast": "medium_high_on_white_ui"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#FFFFFF",
+          "#2F6BFF",
+          "#1A1A1A",
+          "#8C8C8C",
+          "#7ED957"
+        ],
+        "palette_role": {
+          "#FFFFFF": "toss_ui_white_background",
+          "#2F6BFF": "toss_blue_primary_button_and_accent",
+          "#1A1A1A": "ui_heading_and_body_text_dark",
+          "#8C8C8C": "ui_secondary_grey_text",
+          "#7ED957": "blurred_ttareungi_green_tire_background"
+        },
+        "color_relationship": "blue_on_white_digital_with_green_environment_accent",
+        "temperature_balance": "cool_neutral",
+        "saturation_strategy": "low_ui_neutral_with_punchy_blue_cta",
+        "contrast_type": "high_text_on_white",
+        "accent_color": "#2F6BFF",
+        "accent_ratio": 0.18
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "An extreme close-up vertical 9:16 frame of a modern black smartphone held upright in a single hand and filling most of the image, screen-recording a clean Korean fintech super-app user interface in bright white-and-blue, captured outdoors in daylight. The phone occupies the center with a thin black bezel; the holder's thumb rests near the lower screen as if mid-tap. The app screen shows a public-bike rental flow rendered in a friendly rounded Korean sans-serif. A representative state to depict: a light map view with a bold blue primary action button across the bottom reading exactly '대여하기' in white, a top segmented mode toggle with three pills reading '킥보드', '따릉이' (highlighted/selected) and '전기자전거', a small floating '내 위치' locator chip with a yellow arrow at the right, and clustered map labels of nearby places and a green availability badge reading '15대' with small Korean street and place names. The status bar reads a time around 12:39 with full signal and a 5G indicator. Across the lower-center of the frame sits a rounded translucent dark-grey subtitle pill containing white Korean caption text such as '이제 대여하기를 눌러줍니다'. Behind the phone, strongly defocused, are the front wheel of a municipal share bike with a green-accented tire and bright sunlit pavement, rendered as soft daylight bokeh. The screen is self-illuminated and cool around 6500K over warm neutral outdoor daylight fill, giving high legible contrast of dark text on the white interface. The colour palette is dominated by interface white (#FFFFFF), a vivid Toss-style primary blue (#2F6BFF) on the call-to-action button and accents, near-black heading and body text (#1A1A1A), secondary grey text (#8C8C8C) and a blurred public-bike green (#7ED957) in the background. Surfaces read as glossy flat glass touchscreen, matte black phone bezel, natural hand skin and soft out-of-focus street. The overall look is an authentic vertical Korean creator how-to screen-capture insert: crisp UI, no film grain, no vignette, no lens distortion, the phone centered and dominant with the real world reduced to gentle background blur. This is a screen-in-frame layout, so describe the on-screen interface as the primary content region (roughly the central 70 percent of the frame: the Toss rental UI with map, the highlighted '따릉이' mode pill, the blue '대여하기' button, the '내 위치' chip and the '15대' availability badge) with the surrounding ~30 percent being the black phone body and blurred sunny bike-and-pavement environment, and the lower-center grey subtitle pill reading '이제 대여하기를 눌러줍니다'. Additional production context: this single uninterrupted screen-recording insert is the spine of the whole how-to, so the interface must feel genuinely operated rather than mocked up, with the thumb landing on real tappable targets and the screen content scrolling and transitioning the way a live capture would, the white panels carrying faint compression and a hint of glass reflection, and the held phone drifting only a couple of pixels with natural micro-handheld breathing rather than locking perfectly still. The defocused background should keep just enough information to read as a sunny Seoul street beside a parked share bike — a soft green wheel arc, warm pavement, blurred passing light — without ever competing with the bright interface for attention, because the legibility of the small Korean UI text and the lower subtitle pill is the entire point of the shot. The grading stays honest and neutral so the Toss-style blue call-to-action reads as the single most saturated element in frame, anchoring the viewer's eye to each next step. Style anchor: contemporary South Korean mobile app-tutorial realism, vertical phone-in-hand framing. Fidelity note: the interface is a generic clean fintech UI with brand symbols rendered generically, no real person or celebrity likeness is present, and all on-screen Korean caption and interface text is preserved verbatim exactly as written.",
+        "t2i_negative": "official brand logo mark, watermark, film grain, heavy vignette, wide-angle distortion, oversaturated colors, garbled text, fake english ui, dramatic studio lighting",
+        "i2v_motion": "thumb taps the lower screen and the Toss UI advances step by step (list -> mode select -> map -> 대여하기 -> 이용권 selector -> 결제 -> 구매 완료); blue primary button shows a loading dot animation between steps; lower-center subtitle pill text swaps between steps; phone held with micro handheld float; ~17.9s; hard cut",
+        "i2v_params": {
+          "clip_duration_sec": 17.89,
+          "camera_move": "handheld_micro_hold",
+          "subject_motion_level": "thumb_taps_and_ui_transitions",
+          "signature_effect": "screen_recording_ui_walkthrough",
+          "pacing": "steady_stepwise",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen Korean UI and subtitle text preserved verbatim; interface and brand symbols kept generic"
+      }
+    },
+    {
+      "index": 3,
+      "duration": 3.9,
+      "framing": "ECU",
+      "function": "product_detail_qr_unlock_wow",
+      "subject_action": "live-action macro of the public bike's lock unit with its QR code sticker; the smartphone is brought into frame and held over the code, the Toss scanner screen recognizes it",
+      "layout_grid": "macro_diagonal_lock_left_phone_enters_right",
+      "subject_position": "center_left_lock_then_phone_overlay",
+      "typo_motion": "static_ui_text_plus_lower_center_subtitle",
+      "camera_angle": "high_angle_down_on_bike_lock",
+      "camera_facing": "down_toward_bike_fork_and_phone",
+      "shot_scope": "macro_close_up_of_lock_and_qr",
+      "gaze": "none",
+      "props": [
+        "bike_lock_black_housing",
+        "white_qr_code_sticker_numbered_57322",
+        "green_release_lever",
+        "smartphone_running_toss_qr_scanner",
+        "ttareungi_wheel_and_saddle"
+      ],
+      "color_palette": [
+        "#1C1C1C",
+        "#FFFFFF",
+        "#3DBE4A",
+        "#B7B7B2",
+        "#2F6BFF"
+      ],
+      "color_intent": "high_contrast_black_hardware_with_white_qr_and_green_lever",
+      "pose_description": "the black lock housing sits diagonally across the frame with a small printed white QR sticker; a hand then lowers the smartphone, screen toward the code, the device tilted to align its camera over the QR",
+      "subject_motion": "phone_enters_and_aligns_over_qr_code",
+      "camera_motion": "handheld_macro_reframe_following_phone",
+      "camera_effect_local": "shallow_macro_dof_screen_glow",
+      "intra_cut_rhythm": "deliberate_then_quick_recognize",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "mid_frame_path": "ADV-2026-023_frames/cut03_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "black_bike_lock_housing",
+          "white_qr_code_sticker_57322",
+          "green_release_lever",
+          "smartphone_with_toss_scanner_screen"
+        ],
+        "midground": [
+          "ttareungi_front_fork_and_frame"
+        ],
+        "background": [
+          "blurred_grey_pavement",
+          "blurred_bike_wheel_and_saddle"
+        ],
+        "lighting_env": [
+          "bright_outdoor_daylight",
+          "screen_self_lit"
+        ],
+        "atmosphere": [
+          "tactile_hardware_macro",
+          "moment_of_unlock_interaction"
+        ]
+      },
+      "texture": {
+        "primary_subject": "scuffed_matte_black_plastic_lock_housing",
+        "secondary_objects": [
+          "glossy_printed_qr_sticker",
+          "rubber_green_lever",
+          "glossy_phone_screen"
+        ],
+        "background_surface": "rough_concrete_pavement_blur",
+        "atmospheric": [
+          "macro_depth_falloff",
+          "screen_glow"
+        ]
+      },
+      "lighting": {
+        "key_direction": "top_natural_daylight",
+        "key_hardness": "medium_hard_direct_sun",
+        "key_color_temp": "neutral_daylight_5600K",
+        "fill_strength": "low_to_medium",
+        "key_to_fill_ratio": "3:1",
+        "rim_light": "specular_highlights_on_black_plastic",
+        "practical_lights": [
+          "phone_screen"
+        ],
+        "shadow_presence": "defined_hardware_shadows",
+        "overall_contrast": "high"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#1C1C1C",
+          "#FFFFFF",
+          "#3DBE4A",
+          "#B7B7B2",
+          "#2F6BFF"
+        ],
+        "palette_role": {
+          "#1C1C1C": "black_lock_housing_dominant",
+          "#FFFFFF": "white_qr_sticker_and_phone_ui",
+          "#3DBE4A": "green_release_lever_accent",
+          "#B7B7B2": "grey_pavement_background",
+          "#2F6BFF": "toss_blue_ui_accent_on_phone"
+        },
+        "color_relationship": "high_contrast_neutral_black_white_with_green_accent",
+        "temperature_balance": "neutral_daylight",
+        "saturation_strategy": "low_overall_with_pop_green_lever",
+        "contrast_type": "high",
+        "accent_color": "#3DBE4A",
+        "accent_ratio": 0.08
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A tight macro close-up, shot from a high angle looking down, of the locking unit on the front fork of a municipal share bicycle on grey concrete pavement in bright daylight, composed vertically 9:16. Dominating the frame on a diagonal is a scuffed matte black plastic lock housing, a chunky rounded box clipped around the bike's stem, its surface scratched and lightly reflective with specular daylight highlights. Centered on the housing is a small printed white label bearing a black QR code matrix with a short vertical serial number reading exactly '57322' stamped beside it. Below the housing, a bright grass-green rubber release lever protrudes from the black mechanism, and the dark bike frame tube and a softly blurred spoked wheel and black saddle recede out of focus behind. In the second beat of the layout, a modern black smartphone is lowered into frame from the upper right, screen facing the code, tilted so its rear camera aligns over the QR; the phone screen shows a Toss-style QR scanner interface — a darkened camera view with a bright central scan-frame bracket around the sticker, a heading in white Korean reading exactly 'QR코드는 안장 밑에 있어요' and a secondary tappable line reading exactly '문자 코드 입력하기' lower on the screen. Across the lower-center of the overall frame sits a rounded translucent grey subtitle pill with white Korean caption text reading exactly '인식하면'. Lighting is bright neutral natural daylight from above around 5600K acting as a medium-hard key at roughly 3:1, throwing defined small shadows from the hardware and glinting off the black plastic, with the phone screen adding cool self-emission. The colour palette is dominated by near-black lock plastic (#1C1C1C), clean white of the QR sticker and phone UI (#FFFFFF), a punchy public-bike green (#3DBE4A) on the lever, neutral grey pavement (#B7B7B2) and a Toss-style accent blue (#2F6BFF) within the phone interface. Surfaces read as scuffed matte black plastic, glossy printed sticker, soft rubber lever, glossy phone glass and rough out-of-focus concrete, with strong macro depth-of-field falloff. This is a screen-in-frame plus product-macro layout: describe the bike lock and QR sticker as the dominant left-and-center subject region, the entering smartphone with its scanner UI and the 'QR코드는 안장 밑에 있어요' / '문자 코드 입력하기' text occupying the right and overlapping center, and the lower-center grey subtitle pill reading '인식하면'. The overall feel is an authentic vertical Korean creator how-to macro insert: crisp tactile detail, natural medium-saturation grading, real daylight contrast, no film grain, no vignette, no lens distortion. Additional production context: this macro beat is the small wow moment of the tutorial, the instant the abstract on-screen flow connects to a physical object in the real world, so the hardware should look authentically used — scuffs, dust, fingerprints and faint scratches on the black housing, the sticker slightly weathered at its edges — rather than pristine product-shot clean. The incoming phone should not snap rigidly into place but arrive with a small human wobble as a real hand hunts for the right scanning distance, the rear camera bump catching a daylight glint, and the moment of recognition reading as a quick, satisfying beat rather than a long hold. Keep the green release lever as the one pop of saturated colour against the otherwise neutral black-white-grey hardware so the eye is guided to the mechanism, and let the background pavement and wheel melt into soft macro blur so the QR sticker and the phone screen are the only two sharp planes in the frame. Style anchor: contemporary South Korean explainer macro realism, vertical mobile framing. Fidelity note: no real person or celebrity likeness is present, any brand symbols on the phone are rendered generically, and all on-screen Korean caption and interface text including the serial number is preserved verbatim exactly as written.",
+        "t2i_negative": "official brand logo mark, watermark, readable scannable real qr payload, film grain, heavy vignette, wide-angle distortion, oversaturated colors, garbled text, studio lighting",
+        "i2v_motion": "the black lock with its white QR sticker holds in macro, then a hand lowers the smartphone from upper right and aligns its camera over the code; the on-screen scanner brackets the QR and recognizes it, screen briefly flashing toward the next view; handheld macro reframe follows the phone; lower-center subtitle pill reads '인식하면'; ~3.9s; hard cut",
+        "i2v_params": {
+          "clip_duration_sec": 3.9,
+          "camera_move": "handheld_macro_reframe",
+          "subject_motion_level": "phone_enters_and_aligns",
+          "signature_effect": "qr_scan_recognize_screen_glow",
+          "pacing": "deliberate_then_quick",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen Korean text and serial preserved verbatim; QR payload and brand symbols kept generic"
+      }
+    },
+    {
+      "index": 4,
+      "duration": 3.21,
+      "framing": "MS",
+      "function": "real_world_payoff_walking_unlocked_bike",
+      "subject_action": "the presenter walks the now-unlocked Ttareungi share bike toward camera down a sunny tree-lined Seoul sidewalk past the rental station, smiling",
+      "layout_grid": "centered_subject_walking_toward_camera_kiosk_right",
+      "subject_position": "center",
+      "typo_motion": "static_lower_center_subtitle",
+      "camera_angle": "eye_level",
+      "camera_facing": "front_subject_approaching",
+      "shot_scope": "medium_to_medium_full_walking",
+      "gaze": "down_to_bike_then_toward_camera",
+      "props": [
+        "unlocked_ttareungi_share_bike_with_basket",
+        "bike_station_kiosk_green_signage",
+        "tree_lined_sidewalk",
+        "lower_center_subtitle_caption_pill"
+      ],
+      "color_palette": [
+        "#A9C2D6",
+        "#2B2B2E",
+        "#C8783C",
+        "#5FB85A",
+        "#D8D2C6"
+      ],
+      "color_intent": "bright_sunny_winter_daylight_natural_with_green_bike_accent",
+      "pose_description": "walking forward at an easy pace while pushing the bike by its handlebars, weight shifting side to side, glancing down at the bike then lifting her gaze and smiling toward camera as she nears",
+      "subject_motion": "walking_forward_pushing_bike",
+      "camera_motion": "backward_tracking_dolly_retreating_with_subject",
+      "camera_effect_local": "shallow_dof_daylight_background_compression",
+      "intra_cut_rhythm": "smooth_forward_momentum",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "mid_frame_path": "ADV-2026-023_frames/cut04_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "young_woman_walking_pushing_bike",
+          "ttareungi_handlebar_and_front_basket"
+        ],
+        "midground": [
+          "unlocked_share_bike_full_body",
+          "bike_station_kiosk_with_green_signage"
+        ],
+        "background": [
+          "bare_winter_roadside_trees",
+          "sunlit_tiled_sidewalk",
+          "distant_buildings_and_street",
+          "bright_blue_sky"
+        ],
+        "lighting_env": [
+          "bright_direct_winter_sun",
+          "long_soft_shadows"
+        ],
+        "atmosphere": [
+          "cheerful_sunny_cold_day",
+          "successful_payoff_stroll"
+        ]
+      },
+      "texture": {
+        "primary_subject": "matte_nylon_puffer_jacket_and_denim",
+        "secondary_objects": [
+          "metal_bike_frame_and_basket_mesh",
+          "rubber_green_tires"
+        ],
+        "background_surface": "patterned_paving_tiles_and_tree_bark",
+        "atmospheric": [
+          "sunny_daylight_haze",
+          "soft_background_blur"
+        ]
+      },
+      "lighting": {
+        "key_direction": "front_high_direct_sun",
+        "key_hardness": "medium_direct_sunny",
+        "key_color_temp": "warm_neutral_daylight_5400K",
+        "fill_strength": "medium_sky_bounce",
+        "key_to_fill_ratio": "2.5:1",
+        "rim_light": "sun_rim_on_hair_and_shoulders",
+        "practical_lights": [
+          "none_natural_daylight_only"
+        ],
+        "shadow_presence": "long_soft_directional_shadows",
+        "overall_contrast": "medium_high_sunny"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#A9C2D6",
+          "#2B2B2E",
+          "#C8783C",
+          "#5FB85A",
+          "#D8D2C6"
+        ],
+        "palette_role": {
+          "#A9C2D6": "bright_winter_sky_background",
+          "#2B2B2E": "black_puffer_jacket_subject",
+          "#C8783C": "warm_auburn_hair",
+          "#5FB85A": "ttareungi_green_bike_accent",
+          "#D8D2C6": "sunlit_paving_and_warm_neutrals"
+        },
+        "color_relationship": "cool_sky_base_with_warm_hair_and_green_bike_accents",
+        "temperature_balance": "balanced_warm_cool_sunny",
+        "saturation_strategy": "natural_medium_with_lively_daylight",
+        "contrast_type": "medium_high_daylight",
+        "accent_color": "#5FB85A",
+        "accent_ratio": 0.1
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A medium shot, vertical 9:16, of a young East Asian woman in her mid to late twenties walking slowly toward the camera down a sunny tree-lined city sidewalk on a crisp clear late-winter day, pushing an unlocked municipal share bicycle by its handlebars. She is centered in the frame, her body filling roughly the central third, captured at eye level as a backward-tracking camera retreats ahead of her keeping her framed waist-up to nearly full as she approaches. She has shoulder-length wavy auburn-brown hair lit with a warm sun rim, soft natural makeup with a coral lip, and a relaxed cheerful expression, glancing down at the bike and then lifting her eyes toward the lens with a gentle smile. She wears an oversized matte black nylon puffer jacket with a high collar over dark blue straight-leg jeans and pale sneakers. In front of her, pushed along, is a mint-green-and-white city share bike with a front wire basket, a small label panel on the basket reading the Korean wordmark '따릉이', green-walled tires and a step-through frame. To the right of the path stands a tall slim white self-service rental kiosk topped with a green two-circle graphic and rows of small Korean text and pictograms. Lining the sidewalk are bare-branched roadside trees casting long soft shadows across patterned paving tiles, with distant low-rise buildings, parked cars, a yellow safety barrier and a bright pale-blue winter sky behind, all softly defocused with a shallow depth of field. Across the lower-center of the frame sits a rounded translucent grey subtitle pill containing white Korean caption text reading exactly '따릉이를 이용하실 수 있어요'. Lighting is bright direct winter sun as a medium-hard front-high key around 5400K with medium sky-bounce fill at roughly 2.5:1, a warm rim on her hair and shoulders, and long soft directional shadows. The colour palette runs cool bright sky blue-grey (#A9C2D6), deep near-black (#2B2B2E) in the jacket, warm auburn (#C8783C) in the hair, a lively public-bike green (#5FB85A) on the share bike, and warm sunlit paving neutrals (#D8D2C6). Surfaces read as matte quilted nylon and denim, metal bike frame and mesh basket, green rubber tires, patterned paving tiles and rough tree bark, with gentle daylight haze. The overall feel is an authentic vertical Korean social payoff shot: natural medium saturation, lively daylight contrast, no heavy post-processing, no vignette, no lens distortion, the subject centered with forward momentum toward the retreating camera following Korean social-video composition norms. The atmosphere communicates a happy, slightly chilly sunlit stroll on a quiet leaf-bare city sidewalk, the satisfying conclusion of having unlocked the bike. Additional production context: this is the emotional payoff of the whole piece, the proof that the in-app steps actually freed a real bike, so the performance should feel genuinely pleased but understated — a small natural smile, an easy unhurried gait, no theatrical mugging — and the backward-tracking camera should hold a steady comfortable distance, breathing only slightly, so the forward momentum of the approach does the work rather than any showy move. The sunlight should feel specifically like late-winter Seoul: low enough to throw long shadows across the patterned paving and to backlight the bare branches, cold-clear in the sky yet warm on the skin and hair, with the mint-green of the share bike reading as the cheerful spot of life moving through an otherwise muted leaf-bare streetscape. Keep the depth of field shallow enough that the rental kiosk, parked cars and distant buildings dissolve into a soft sunny wash, isolating the woman and the bike as the clear subject while still grounding the moment in a recognizably ordinary public sidewalk. Style anchor: contemporary South Korean creator-style explainer realism, vertical mobile framing. Fidelity note: the individual is entirely generic with no likeness of any real person or celebrity intended or implied, brand symbols are rendered generically, and the on-screen Korean caption text is preserved verbatim exactly as written.",
+        "t2i_negative": "celebrity likeness, studio backdrop, dramatic cinematic lighting, heavy vignette, wide-angle distortion, oversaturated HDR, official brand logo mark, watermark, motion smear artifacts",
+        "i2v_motion": "subject walks steadily forward pushing the share bike by the handlebars, body swaying naturally, glancing down then up toward the camera with a smile; camera tracks backward at matching pace keeping her centered while the kiosk and trees drift past; lower-center subtitle pill reads '따릉이를 이용하실 수 있어요'; ~3.2s; hard cut",
+        "i2v_params": {
+          "clip_duration_sec": 3.21,
+          "camera_move": "backward_tracking_dolly",
+          "subject_motion_level": "medium_walking_pushing_bike",
+          "signature_effect": "shallow_dof_daylight",
+          "pacing": "smooth_forward",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen Korean caption text preserved verbatim; identity and brand logo kept generic"
+      }
+    },
+    {
+      "index": 5,
+      "duration": 2.3,
+      "framing": "ECU",
+      "function": "creator_signature_end_card_cta",
+      "subject_action": "a hand-stamped paper sticker label animates onto a near-white textured paper background, reading the creator brand 'Curator T' in blue with '토스를 발견하다' beneath",
+      "layout_grid": "centered_small_sticker_heavy_negative_space",
+      "subject_position": "center",
+      "typo_motion": "sticker_peel_settle_then_hold",
+      "camera_angle": "flat_overhead_on_paper",
+      "camera_facing": "top_down_on_card",
+      "shot_scope": "graphic_end_card_extreme_close",
+      "gaze": "none",
+      "props": [
+        "hand_stamped_paper_sticker_label",
+        "textured_off_white_paper_background"
+      ],
+      "color_palette": [
+        "#F2F1ED",
+        "#2C46D8",
+        "#1E1E1E",
+        "#C9C7C0",
+        "#FFFFFF"
+      ],
+      "color_intent": "minimal_paper_white_with_blue_handstamp_brand",
+      "pose_description": "a small rounded-rectangle sticker peels and settles flat at center, slightly skewed, one corner lifting, carrying rough blue ink lettering and fine Korean text",
+      "subject_motion": "sticker_peels_down_and_settles",
+      "camera_motion": "locked_off",
+      "camera_effect_local": "subtle_paper_grain_handmade_look",
+      "intra_cut_rhythm": "settle_and_hold",
+      "transition_in": "cut",
+      "transition_out": "end",
+      "mid_frame_path": "ADV-2026-023_frames/cut05_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "hand_stamped_paper_sticker_label",
+          "blue_curator_t_lettering",
+          "korean_subtext_토스를_발견하다"
+        ],
+        "midground": [],
+        "background": [
+          "textured_off_white_paper_sheet"
+        ],
+        "lighting_env": [
+          "flat_even_soft_light"
+        ],
+        "atmosphere": [
+          "handmade_analog_minimal",
+          "brand_signature_close"
+        ]
+      },
+      "texture": {
+        "primary_subject": "matte_paper_sticker_with_ink_stamp_texture",
+        "secondary_objects": [
+          "peeling_sticker_corner"
+        ],
+        "background_surface": "fibrous_textured_off_white_paper",
+        "atmospheric": [
+          "subtle_paper_grain"
+        ]
+      },
+      "lighting": {
+        "key_direction": "flat_frontal_even",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "high_even",
+        "key_to_fill_ratio": "1.2:1",
+        "rim_light": "none",
+        "practical_lights": [
+          "none_even_soft_light"
+        ],
+        "shadow_presence": "very_soft_sticker_edge_shadow",
+        "overall_contrast": "low"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#F2F1ED",
+          "#2C46D8",
+          "#1E1E1E",
+          "#C9C7C0",
+          "#FFFFFF"
+        ],
+        "palette_role": {
+          "#F2F1ED": "off_white_paper_background_dominant",
+          "#2C46D8": "blue_handstamp_brand_lettering",
+          "#1E1E1E": "fine_black_korean_subtext",
+          "#C9C7C0": "sticker_grey_paper_body",
+          "#FFFFFF": "sticker_highlight_and_peel"
+        },
+        "color_relationship": "near_monochrome_paper_with_single_blue_accent",
+        "temperature_balance": "neutral",
+        "saturation_strategy": "very_low_with_one_saturated_blue",
+        "contrast_type": "low_soft",
+        "accent_color": "#2C46D8",
+        "accent_ratio": 0.12
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "An extreme close-up graphic end card, vertical 9:16, of a single small hand-stamped paper sticker label resting near the center of a large sheet of textured off-white fibrous paper, with generous empty negative space all around it. The sticker is a rounded-rectangle of slightly greyish paper, sitting a touch skewed and tilted on a diagonal with one corner peeling and lifting up, casting a very soft edge shadow as if freshly pressed down by hand. On the sticker, in a rough hand-stamped or hand-drawn blue ink with visible streaky brush-like texture and imperfect inking, is the wordmark reading exactly 'Curator T' in a bold condensed sans-serif. Directly beneath the wordmark, separated by a thin blue underline rule, is a small fine row of black Korean text reading exactly '토스를 발견하다'. The paper background shows a natural fibrous grain and faint speckle, evoking a handmade analog stamp print. Lighting is flat, soft and even, a frontal fill around 5500K at roughly a 1.2:1 ratio with almost no directional shadow beyond the gentle lift of the peeling sticker corner, keeping the whole image low-contrast and clean. The colour palette is near monochrome: a warm off-white paper field (#F2F1ED) dominating, a single saturated ink blue (#2C46D8) in the stamped wordmark and underline, fine near-black (#1E1E1E) in the small Korean subtext, a soft grey (#C9C7C0) in the sticker body and a bright white (#FFFFFF) highlight along the peeled corner. Surfaces read as matte fibrous paper, slightly glossy sticker face with ink-stamp irregularity, and a softly lifting paper edge, all with a subtle paper grain. This is a graphic card layout: describe the small skewed peeling sticker as the single central element occupying only the middle of the frame with heavy surrounding paper negative space, the blue 'Curator T' stamp as the dominant mark, the thin blue underline rule below it, and the fine black '토스를 발견하다' line beneath that. The overall feel is an authentic minimal handmade creator sign-off card: analog, tactile, low-contrast, no film grain beyond paper texture, no vignette, no lens distortion, no extra graphic chrome. Additional production context: this end card is the creator's recurring sign-off rather than a brand logo reveal, so the whole point is that it looks deliberately handmade and imperfect — the ink should be unevenly absorbed with skips and heavier pooled strokes, the sticker cut a little crooked, the placement casually off-axis, the peeling corner suggesting it was literally pressed onto the paper by hand a moment earlier. Avoid any vector-crisp perfection, gradient, drop-shadow chrome or glossy three-dimensional treatment; the charm lives entirely in the analog texture of stamped ink on fibrous stock under flat even light. The framing should breathe, leaving the small label adrift in a wide quiet field of warm off-white paper so the eye settles on the single blue mark and the fine Korean tagline beneath it, giving the clip a calm, tactile, signature-stamp closure. The animation is minimal and physical: the sticker drops in, settles with a tiny bounce, the lifted corner quivers once and then everything holds perfectly still for a beat before the clip ends, leaving the brandmark and tagline legible on screen. Treat the blue ink as the only saturated colour in an almost monochrome paper world, and let faint paper speckle and fiber be the only texture, with no photographic scene, no environmental background and no additional graphic elements intruding on the card. Style anchor: contemporary South Korean indie creator branding, handmade stamp aesthetic, vertical mobile framing. Fidelity note: this is a generic handmade paper sticker with no official corporate logo lockup intended, no real person or celebrity is present, and all lettering including 'Curator T' and the Korean line '토스를 발견하다' is preserved verbatim exactly as written.",
+        "t2i_negative": "official corporate logo lockup, vector clean logo, watermark, glossy 3d render, dramatic lighting, heavy vignette, wide-angle distortion, oversaturated colors, garbled text, photographic background scene",
+        "i2v_motion": "the small paper sticker peels and settles flat onto the paper at center with a slight bounce, one corner lifting and quivering subtly; the blue 'Curator T' stamp and '토스를 발견하다' line hold steady; camera locked off; gentle handmade settle then static hold to end at ~2.3s",
+        "i2v_params": {
+          "clip_duration_sec": 2.3,
+          "camera_move": "locked_off",
+          "subject_motion_level": "sticker_peel_settle",
+          "signature_effect": "handmade_paper_sticker_animation",
+          "pacing": "settle_and_hold",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; end-card lettering 'Curator T' and '토스를 발견하다' preserved verbatim; rendered as generic handmade sticker, no corporate logo lockup"
+      }
+    }
+  ]
+}

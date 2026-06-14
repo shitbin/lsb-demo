@@ -1,0 +1,735 @@
+{
+  "id": "ADV-2026-041",
+  "source_ref": {
+    "platform": "digital_video",
+    "title_or_campaign": "현대카드 — 카드의 방향을 바꾸다 (화면 돌리기 / rotated-frame 캠페인)",
+    "brand": "현대카드",
+    "product": "현대카드 (신용카드 브랜드 필름)",
+    "model": null,
+    "year": null,
+    "production_note": "TVCF.net 아카이브 워터마크가 우상단에 상시 노출됨(영상 콘텐츠 아님, 아카이브 출처 표식). 화면 하단 약관 고지 1줄은 해상도 한계로 판독 불가.",
+    "url": null
+  },
+  "category_primary": "finance.card",
+  "category_tags": [
+    "신용카드",
+    "브랜드필름",
+    "위트·태도광고",
+    "화면회전·메타개그"
+  ],
+  "mood": [
+    "playful",
+    "witty",
+    "bold",
+    "minimal"
+  ],
+  "target_demo": "20대 후반~30대, 트렌드·위트에 반응하는 젊은 카드 사용자 및 디자인·브랜드 태도에 민감한 MZ 소비자",
+  "total_duration": 15.05,
+  "shot_count": 3,
+  "shot_count_corrected": 4,
+  "fps": 29.97,
+  "aspect_ratio": "4:3",
+  "hook_position": 0.0,
+  "cta_position": 12.4,
+  "narrative_arc": "광고임을 자백하는 후크(인식) → '화면 돌려버리고 싶죠?' 공감·도발(긴장) → '현대카드가 돌아버린' 브랜드 자기지칭 펀치(반전) → '카드의 방향을 바꾸다 / Hyundai Card' 로고 마무리(브랜드 각인)",
+  "narrative_structure": "linear_continuous",
+  "pacing_curve": "steady",
+  "music_tempo_curve": "steady",
+  "wow_cut_index": [
+    3,
+    4
+  ],
+  "creative_device": "rotated_90deg_screen_meta_gag + brand_name_pun(돌다/돌아버리다) + sideways_tumbling_human",
+  "production_signature": {
+    "capture_style": "mixed",
+    "camera_signature": [
+      "locked_off"
+    ],
+    "signature_note": "전 컷이 단색 플랫 배경(핑크→블루→틸→오렌지) 위에 90도 회전(시계방향)된 모션 타이포를 얹은 그래픽 광고. 배경은 locked_off 단색 필드라 카메라 무빙 없음. 유일한 실사/촬영 요소는 우측에서 끊임없이 옆으로 회전·텀블링하는 검은 정장 인물의 누끼 합성으로, 이 인물의 좌우 위치 이동이 metrics mean_abs_shift_x=0.148·sign_flips=0.364로 잡힘(전역 wiggle_3d 효과 아님 — 누끼 인물의 프레임 내 이동에 기인). 순수 wiggle/parallax 효과는 육안 확인 결과 부재.",
+    "color_grade": "flat_saturated_color_field",
+    "texture_fx": "clean_digital"
+  },
+  "global_layout": {
+    "grid_system": "center",
+    "subject_placement_dominant": "center",
+    "subject_typo_relation": "typo_separate_zone",
+    "negative_space_use": "generous",
+    "layout_note": "화면 전체가 90도 회전된 레이아웃 — 모든 한글 카피가 세로로 시계방향 90도 돌아가 중앙~중앙우측에 1~2개 컬럼으로 적층 배치되고, 실사 인물(검은 정장)은 우측 가장자리에서 옆으로 회전하며 등장. 단색 배경이 화면 대부분(80%+)을 차지하는 극단적 여백. cut4는 회전된 'Hyundai Card' 로고 락업이 중앙에 정착."
+  },
+  "recurring_motifs": [
+    "90도 회전(시계방향)된 한글 모션 타이포",
+    "옆으로 회전·텀블링하는 검은 정장 인물",
+    "단색 풀블리드 컬러 필드(핑크/블루/틸/오렌지)",
+    "현대카드 브래킷 로고 락업"
+  ],
+  "copywriting": {
+    "tagline_text": "카드의 방향을 바꾸다",
+    "tagline_structure": "선언형 슬로건(방향=화면회전 더블미닝)",
+    "tagline_length_syllables": 10,
+    "tagline_position_sec": 12.4,
+    "cta_text": "Hyundai Card",
+    "cta_text_structure": "브랜드 로고타입(영문 워드마크 + 브래킷 마크)",
+    "cta_position_sec": 12.4,
+    "copy_tone": [
+      "위트",
+      "도발",
+      "자기지칭",
+      "직접"
+    ],
+    "copy_strategy": "self_aware_meta_then_brand_pun",
+    "copy_lines_count": 4,
+    "lines": [
+      {
+        "position_sec": 0.5,
+        "text": "지금이 광고,",
+        "function": "self_aware_hook",
+        "tone": "witty",
+        "source": "caption_inferred"
+      },
+      {
+        "position_sec": 3.9,
+        "text": "화면 돌려버리고 싶죠?",
+        "function": "provocation_empathy",
+        "tone": "provocative",
+        "source": "caption_inferred"
+      },
+      {
+        "position_sec": 5.2,
+        "text": "현대카드가 돌아버린 이",
+        "function": "brand_pun_reveal",
+        "tone": "witty",
+        "source": "caption_inferred"
+      },
+      {
+        "position_sec": 12.4,
+        "text": "카드의 방향을 바꾸다",
+        "function": "tagline_brand",
+        "tone": "confident",
+        "source": "caption_inferred"
+      }
+    ],
+    "captions": [
+      {
+        "position_sec": 9.91,
+        "text": "(화면 하단 약관 고지 1줄 — 해상도 한계로 판독 불가)",
+        "function": "legal_disclaimer"
+      }
+    ],
+    "narration_handling": "none"
+  },
+  "typography": {
+    "primary_font_class": "sans_serif_bold_rounded",
+    "secondary_font_class": "sans_serif_regular",
+    "animation_style": [
+      "fade_in",
+      "static"
+    ],
+    "subtitle_position_dominant": "center",
+    "tagline_position": "center",
+    "color_strategy": "white_on_saturated_color",
+    "appearance_count": 4,
+    "key_typography_moments_sec": [
+      0.5,
+      3.9,
+      5.2,
+      12.4
+    ],
+    "typo_motion_dominant": "rotated_90deg_static_with_fade"
+  },
+  "vfx": {
+    "primary_effects": [
+      "color_pop",
+      "matte_composite"
+    ],
+    "effect_intensity": "moderate",
+    "transition_style_dominant": "cut",
+    "vfx_event_count": 3,
+    "vfx_timing_array_sec": [
+      3.904,
+      5.239,
+      9.91
+    ],
+    "wow_vfx_index": [
+      3,
+      4
+    ]
+  },
+  "audio": {
+    "has_audio": true,
+    "language": "ko",
+    "speech_coverage": 0.0,
+    "bgm_likely": true,
+    "narration_lines": [
+      {
+        "start": 0.5,
+        "end": 3.9,
+        "text": "지금이 광고,",
+        "text_raw": "지금이 광고,",
+        "kind": "caption",
+        "source": "caption_inferred"
+      },
+      {
+        "start": 3.9,
+        "end": 5.2,
+        "text": "화면 돌려버리고 싶죠?",
+        "text_raw": "화면 돌려버리고 싶죠?",
+        "kind": "caption",
+        "source": "caption_inferred"
+      },
+      {
+        "start": 5.2,
+        "end": 9.9,
+        "text": "현대카드가 돌아버린 이",
+        "text_raw": "현대카드가 돌아버린 이",
+        "kind": "caption",
+        "source": "caption_inferred"
+      },
+      {
+        "start": 12.4,
+        "end": 14.88,
+        "text": "카드의 방향을 바꾸다",
+        "text_raw": "카드의 방향을 바꾸다",
+        "kind": "caption",
+        "source": "caption_inferred"
+      }
+    ],
+    "voice_vs_caption": "caption_only_inferred",
+    "narration_handling": "none",
+    "transcribed_by": "manual_from_captions",
+    "audio_note": "faster_whisper 'base' 실행 결과 speech segments 0개 — 음성 나레이션 없는 음악 주도 광고로 판단. 화면 자막(90도 회전 모션 타이포) 기반으로 나레이션 라인을 caption_inferred로 채움. BGM은 존재할 가능성 높음(bgm_likely=true)이나 전사 텍스트 없어 확정 불가."
+  },
+  "frames_dir": "ADV-2026-041_frames",
+  "contact_sheet_path": "ADV-2026-041_frames/contact_sheet.png",
+  "shots": [
+    {
+      "index": 1,
+      "duration": 3.9,
+      "framing": "environment",
+      "function": "self_aware_hook",
+      "subject_action": "flat hot-pink color field fills the entire frame; a single line of white Korean text rotated 90 degrees clockwise reads '지금이 광고,' stacked vertically at center; a small black-suited human figure appears at the right edge mid-frame and slowly tumbles/rotates sideways into view; persistent 'TVCF.net' archive watermark top-right",
+      "layout_grid": "center",
+      "subject_position": "center",
+      "subject_identity": "none_environment",
+      "subject_relationship_to_protagonist": null,
+      "mid_frame_path": "ADV-2026-041_frames/cut01_mid.png",
+      "subject_typo_layout": "typo_separate_zone",
+      "typo_motion": "흰색 한글 '지금이 광고,'가 90도 시계방향 회전된 채 중앙에 적층(세로 배치)으로 페이드 인 (f~15 등장 후 고정). 화면 전체가 회전된 레이아웃이라 정자세 읽기엔 머리/폰을 90도 돌려야 함 — 이 '돌려야 읽힘'이 카피 메시지와 연동된 핵심 모션 콘셉트.",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "environment",
+      "gaze": "none",
+      "eye_contact_effect": null,
+      "props": [],
+      "prop_semantics": null,
+      "color_palette": [
+        "#f94385",
+        "#ffffff",
+        "#1a1a1a"
+      ],
+      "color_intent": "채도 높은 핫핑크 단색 필드로 강한 그래픽 임팩트와 시선 강제 집중; 흰 타이포로 최대 가독 대비; 회전된 검은 인물 실루엣이 유일한 어두운 앵커",
+      "pose_description": "인물은 우측 가장자리에서 옆으로 누운(회전된) 자세로 작게 등장 — 화면이 90도 돌아간 세계관 안에서 '옆으로 서 있는' 사람으로 보임. 단색 배경엔 포즈 요소 없음.",
+      "subject_motion": "slow_tumble_entry",
+      "prop_motion": "none",
+      "camera_motion": "locked_off",
+      "camera_motion_intensity": "none",
+      "camera_effect_local": "none",
+      "motion_blur": false,
+      "intra_cut_rhythm": "steady",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [
+        "color_pop",
+        "matte_composite"
+      ],
+      "vfx_intensity_local": "subtle",
+      "fact_check_flag": null,
+      "notes": "Cut 1 (f1-117, 0.000-3.904s): flat hot-pink #f94385 field. Rotated-90deg white text '지금이 광고,' fades in at center (readable only when image rotated CCW). Small black-suited figure enters from right edge and slowly tumbles/rotates (f~55 onward). TVCF.net watermark is an archive artifact, not ad content.",
+      "visible_elements": {
+        "foreground": [
+          "white Korean text '지금이 광고,' rotated 90 degrees clockwise, stacked vertically at center"
+        ],
+        "midground": [
+          "small black-suited human figure at right edge, body rotated sideways, beginning to tumble"
+        ],
+        "background": [
+          "flat saturated hot-pink color field #f94385 filling the whole frame"
+        ],
+        "lighting_env": [
+          "flat even ambient — no directional light, pure graphic flat color"
+        ],
+        "atmosphere": [
+          "clean minimal digital, zero grain, zero depth, single flat plane"
+        ]
+      },
+      "texture": {
+        "primary_subject": "flat_digital",
+        "secondary_objects": [
+          "fabric_suit_matte"
+        ],
+        "background_surface": "flat_digital",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "front",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "strong",
+        "key_to_fill_ratio": "1:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "none",
+        "overall_contrast": "hi_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#f94385",
+          "#ffffff",
+          "#1a1a1a"
+        ],
+        "palette_role": {
+          "#f94385": "background_hotpink_dominant",
+          "#ffffff": "text_white",
+          "#1a1a1a": "human_figure_dark_anchor"
+        },
+        "color_relationship": "brand_dominant",
+        "temperature_balance": "warm_dominant",
+        "saturation_strategy": "vivid",
+        "contrast_type": "luminance_high",
+        "accent_color": "#ffffff",
+        "accent_ratio": "5_percent"
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A single flat saturated hot-pink color field rendered at 640x480 pixels in a 4:3 standard-definition aspect ratio, the entire frame filled edge to edge with a uniform vivid hot-pink magenta color (#f94385) — no gradient, no texture, no grain, perfectly uniform flat pink across every pixel, a pure graphic color plane with zero photographic depth. This is a deliberately ROTATED composition: the whole layout is turned 90 degrees clockwise so that a viewer reading normally would have to tilt their head or phone to the left to read it correctly. At the horizontal center of the frame, slightly left of dead-center (approximately 38-42% of frame width), a single line of bold white (#ffffff) Korean Hangul text is set rotated 90 degrees clockwise, so the characters stack vertically reading from bottom to top, occupying roughly the vertical middle third of the frame from about 38% to 62% of frame height; when mentally rotated upright the text reads '지금이 광고,' (meaning 'right now this is an ad,'). The typeface is a bold rounded geometric Hangul sans-serif, clean and contemporary, in pure white with no drop shadow, no outline, no glow. At the right edge of the frame, at approximately 82-90% of frame width and vertically centered around 45-52% of frame height, there is a very small dark human figure — a person in a black business suit, rendered as a clean matte cutout silhouette-like figure (not pure black silhouette, slight suit detail visible), positioned lying/leaning sideways because the entire frame world is rotated 90 degrees; the figure is small, occupying only about 6% of frame width and 12% of frame height, and reads as a man caught mid-tumble or sideways orientation. The figure casts no shadow on the flat pink field. In the upper-right corner of the frame, a small white watermark-style text 'TVCF.net' is present (an archive source mark, generic). Color palette: vivid hot-pink magenta #f94385 dominates approximately 92% of the total frame area; pure white typography #ffffff occupies approximately 4%; the dark suited figure (#1a1a1a near-black with subtle navy) occupies approximately 2%; the watermark white text ~2%. Color relationship: brand-dominant single-hue field with white luminance accent; temperature warm-dominant. Saturation strategy: maximally vivid flat saturated color. Contrast type: high luminance contrast between white text and saturated pink field. Lighting: perfectly even flat ambient illumination, zero directional key light, zero shadows, zero highlights, neutral 5500K, hi-key flat. Texture: all elements are flat digital — zero film grain, zero atmospheric haze, zero surface texture, the background is a pure flat color plane and the figure is a clean matte composite cutout. The aesthetic is a bold minimalist Korean commercial brand-attitude graphic frame that uses a deliberately rotated 90-degree layout as a self-aware visual gag — the viewer is meant to notice the frame is 'wrong way up' and want to rotate it. Style anchor: Korean commercial flat-color motion-graphic, SD 4:3 archive source, maximal hi-key saturated single-color field, bold rounded Hangul typography rotated 90 degrees clockwise, clean digital, witty brand-attitude advertising, generous negative space, single small composited human cutout, zero atmospheric effects, zero grain.",
+        "t2i_negative": "photorealistic depth, 3D render, gradient background, film grain, noise, bokeh, real brand logos, watermark errors, multiple figures, upright readable text, dark background, shadows, lens flare",
+        "i2v_motion": "Hold the flat hot-pink field perfectly static (locked-off camera). The rotated white text '지금이 광고,' fades in at center over the first ~0.5s then holds completely still. The small black-suited figure at the right edge slowly tumbles/rotates sideways — a gentle continuous sideways rotation as if the person is turning over in the rotated world — drifting slightly inward; breathing-level slow motion only, no large displacement. Background color steady. 3.9s total, steady rhythm, no internal cut, ends on a hard cut to a blue field.",
+        "i2v_params": {
+          "clip_duration_sec": 3.9,
+          "camera_move": "locked_off",
+          "subject_motion_level": "micro",
+          "signature_effect": "none",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; rotated-90deg layout and flat color field preserved; on-screen copy '지금이 광고,' preserved verbatim; human figure generic black-suited type (no identity); TVCF.net watermark is generic archive mark"
+      }
+    },
+    {
+      "index": 2,
+      "duration": 1.34,
+      "framing": "environment",
+      "function": "provocation_empathy",
+      "subject_action": "background hard-cuts to flat saturated blue; the rotated-90deg white Korean copy now shows two stacked lines '지금이 광고, / 화면 돌려버리고 싶죠?' at center; the black-suited human figure at the right edge is mid-cartwheel/tumble, body inverted and rotating; persistent TVCF.net watermark top-right",
+      "layout_grid": "center",
+      "subject_position": "center",
+      "subject_identity": "none_environment",
+      "subject_relationship_to_protagonist": null,
+      "mid_frame_path": "ADV-2026-041_frames/cut02_mid.png",
+      "subject_typo_layout": "typo_separate_zone",
+      "typo_motion": "컬러 필드가 핑크→블루로 하드컷되며 회전된 카피가 1줄에서 2줄로 확장: '지금이 광고,' 위에 '화면 돌려버리고 싶죠?'가 추가 적층(여전히 90도 시계방향 회전). 카피가 즉시 풀로 등장. 우측 인물은 프레임 간 비교 시 카트휠/텀블 회전이 가장 빠르게 진행(f133 diff 스파이크 = 인물 회전 피크).",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "environment",
+      "gaze": "none",
+      "eye_contact_effect": null,
+      "props": [],
+      "prop_semantics": null,
+      "color_palette": [
+        "#0b66bd",
+        "#ffffff",
+        "#15161e"
+      ],
+      "color_intent": "핑크에서 채도 높은 블루로 점프 — 컬러 필드 자체를 리듬 요소로 사용(컷마다 색 교체). 흰 타이포 고대비 유지; 회전된 인물의 어두운 톤이 유일 앵커",
+      "pose_description": "인물은 카트휠 중간 자세 — 몸이 거의 거꾸로(머리 아래/다리 위) 회전 중. 화면이 90도 돌아간 세계라 사람이 옆으로 구르는 듯 보임. 단색 배경엔 포즈 요소 없음.",
+      "subject_motion": "fast_cartwheel_rotation",
+      "prop_motion": "none",
+      "camera_motion": "locked_off",
+      "camera_motion_intensity": "none",
+      "camera_effect_local": "none",
+      "motion_blur": false,
+      "intra_cut_rhythm": "steady",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [
+        "color_pop",
+        "matte_composite"
+      ],
+      "vfx_intensity_local": "subtle",
+      "fact_check_flag": null,
+      "notes": "Cut 2 (f118-156, 3.904-5.239s): hard cut to flat blue #0b66bd. Second copy line '화면 돌려버리고 싶죠?' added below '지금이 광고,' (both rotated 90deg CW). Figure does its fastest cartwheel/tumble here (f133 diff=0.958 = figure rotation peak, NOT a cut — f132/f134 both blue). Shortest cut in the film.",
+      "visible_elements": {
+        "foreground": [
+          "white Korean text two lines '지금이 광고,' and '화면 돌려버리고 싶죠?' rotated 90 degrees clockwise, stacked at center"
+        ],
+        "midground": [
+          "black-suited human figure at right edge mid-cartwheel, body inverted and rotating"
+        ],
+        "background": [
+          "flat saturated blue color field #0b66bd filling the whole frame"
+        ],
+        "lighting_env": [
+          "flat even ambient — pure graphic flat color, no directional light"
+        ],
+        "atmosphere": [
+          "clean minimal digital, zero grain, single flat plane"
+        ]
+      },
+      "texture": {
+        "primary_subject": "flat_digital",
+        "secondary_objects": [
+          "fabric_suit_matte"
+        ],
+        "background_surface": "flat_digital",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "front",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "strong",
+        "key_to_fill_ratio": "1:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "none",
+        "overall_contrast": "hi_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#0b66bd",
+          "#ffffff",
+          "#15161e"
+        ],
+        "palette_role": {
+          "#0b66bd": "background_blue_dominant",
+          "#ffffff": "text_white",
+          "#15161e": "human_figure_dark_anchor"
+        },
+        "color_relationship": "brand_dominant",
+        "temperature_balance": "cool_dominant",
+        "saturation_strategy": "vivid",
+        "contrast_type": "luminance_high",
+        "accent_color": "#ffffff",
+        "accent_ratio": "8_percent"
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A single flat saturated blue color field rendered at 640x480 pixels in a 4:3 standard-definition aspect ratio, the entire frame filled edge to edge with a uniform vivid medium blue (#0b66bd) — no gradient, no texture, no grain, perfectly uniform flat blue across every pixel, a pure graphic color plane. This is a deliberately ROTATED composition turned 90 degrees clockwise: a normal viewer must tilt their head/phone left to read it. At the horizontal center of the frame, slightly left of center (approximately 36-44% of frame width), two stacked lines of bold white (#ffffff) Korean Hangul text are set rotated 90 degrees clockwise, the characters stacking vertically reading bottom-to-top; when mentally rotated upright the first line reads '지금이 광고,' and the second line directly beside/below it reads '화면 돌려버리고 싶죠?' (meaning 'right now this is an ad, — don't you want to flip the screen?'); together they occupy the vertical middle of the frame from about 28% to 72% of frame height across two adjacent vertical columns. The typeface is a bold rounded geometric Hangul sans-serif, clean and contemporary, in pure white with no drop shadow, no outline, no glow. At the right edge of the frame, at approximately 80-92% of frame width and vertically centered around 45-55% of frame height, there is a small dark human figure — a person in a black business suit, rendered as a clean matte cutout, caught mid-cartwheel with the body inverted (head lower, legs upper) and rotating, because the entire frame world is rotated 90 degrees; the figure is small, occupying about 7% of frame width and 14% of frame height, reading as a man tumbling/cartwheeling sideways. The figure casts no shadow on the flat blue field. In the upper-right corner a small white 'TVCF.net' archive watermark text is present (generic source mark). A faint thin magenta-pink sliver is visible along the very bottom edge of the frame (a hair of the previous pink field bleeding at the bottom border). Color palette: vivid medium blue #0b66bd dominates approximately 88% of the total frame area; pure white typography #ffffff occupies approximately 8%; the dark suited figure (#15161e near-black navy) occupies approximately 2%; watermark and pink sliver ~2%. Color relationship: brand-dominant single-hue field with white luminance accent; temperature cool-dominant. Saturation strategy: maximally vivid flat saturated color. Contrast type: high luminance contrast between white text and saturated blue field. Lighting: perfectly even flat ambient illumination, zero directional key light, zero shadows, zero highlights, neutral 5500K, hi-key flat. Texture: all elements flat digital — zero grain, zero haze, zero surface texture; background a pure flat color plane, figure a clean matte composite cutout. The aesthetic is a bold minimalist Korean commercial brand-attitude graphic frame continuing a deliberately rotated 90-degree layout gag, now with provocative self-aware copy directly asking the viewer if they want to flip the screen, while a tumbling human reinforces the rotated-world joke. Style anchor: Korean commercial flat-color motion-graphic, SD 4:3 archive source, maximal hi-key saturated single-color field, bold rounded Hangul typography rotated 90 degrees clockwise in two stacked columns, clean digital, witty provocative brand-attitude advertising, generous negative space, single small composited tumbling human cutout, zero atmospheric effects, zero grain.",
+        "t2i_negative": "photorealistic depth, 3D render, gradient background, film grain, noise, bokeh, real brand logos, watermark errors, multiple figures, upright readable text, dark background, shadows, lens flare",
+        "i2v_motion": "Hold the flat blue field perfectly static (locked-off camera). The two-line rotated white copy '지금이 광고, / 화면 돌려버리고 싶죠?' is fully present from the first frame and holds completely still. The black-suited figure at the right edge performs its fastest cartwheel/tumble — a continuous full sideways rotation of the body (head and legs swapping positions) as if rolling over in the rotated world. Background color steady. 1.34s total (the shortest, snappiest cut), steady-to-quick rhythm, no internal cut, ends on a hard cut to a teal-green field.",
+        "i2v_params": {
+          "clip_duration_sec": 1.34,
+          "camera_move": "locked_off",
+          "subject_motion_level": "dynamic",
+          "signature_effect": "none",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; rotated-90deg layout and flat blue field preserved; on-screen copy '지금이 광고,' and '화면 돌려버리고 싶죠?' preserved verbatim; human figure generic black-suited type (no identity); TVCF.net watermark generic"
+      }
+    },
+    {
+      "index": 3,
+      "duration": 4.67,
+      "framing": "environment",
+      "function": "brand_pun_reveal",
+      "subject_action": "background hard-cuts to flat saturated teal-green; the rotated copy '지금이 광고, / 화면 돌려버리고 싶죠?' holds at center-left and a SECOND rotated text column fades in to its right reading '현대카드가 / 돌아버린 이'; the black-suited human figure at the right edge continues its slow sideways cartwheel/rotation, drifting across; persistent TVCF.net watermark top-right",
+      "layout_grid": "center",
+      "subject_position": "center",
+      "subject_identity": "none_environment",
+      "subject_relationship_to_protagonist": null,
+      "mid_frame_path": "ADV-2026-041_frames/cut03_mid.png",
+      "subject_typo_layout": "typo_separate_zone",
+      "typo_motion": "컬러 필드가 블루→틸로 하드컷. 좌측 컬럼(지금이 광고,/화면 돌려버리고 싶죠?)은 유지되고, 우측에 두 번째 회전 컬럼 '현대카드가 / 돌아버린 이'가 페이드 인(f~200 등장). 브랜드명+펀치라인(돌다=회전↔돌아버리다=미치다 더블미닝)이 회전된 채 적층. 인물은 프레임을 가로질러 옆으로 회전·이동.",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "environment",
+      "gaze": "none",
+      "eye_contact_effect": null,
+      "props": [],
+      "prop_semantics": null,
+      "color_palette": [
+        "#099f8f",
+        "#ffffff",
+        "#101b1a"
+      ],
+      "color_intent": "블루에서 채도 높은 틸그린으로 색 교체로 리듬 유지; 흰 타이포 고대비; 회전된 검은 인물이 유일 앵커. 색이 컷마다 바뀌며 '돌아가는' 감각 강화",
+      "pose_description": "인물은 옆으로 팔을 뻗은 카트휠 자세에서 점차 거꾸로 회전 — 화면 90도 회전 세계 안에서 옆걸음·물구나무 같은 인상. 단색 배경엔 포즈 요소 없음.",
+      "subject_motion": "slow_sideways_cartwheel_drift",
+      "prop_motion": "none",
+      "camera_motion": "locked_off",
+      "camera_motion_intensity": "none",
+      "camera_effect_local": "none",
+      "motion_blur": false,
+      "intra_cut_rhythm": "steady",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [
+        "color_pop",
+        "matte_composite"
+      ],
+      "vfx_intensity_local": "moderate",
+      "fact_check_flag": null,
+      "notes": "Cut 3 (f157-297, 5.239-9.910s): hard cut to flat teal #099f8f. Left copy column persists; second rotated column '현대카드가 / 돌아버린 이' fades in at f~200 (right of first column). Brand-name pun: 돌다(turn/spin) <-> 돌아버리다(go crazy). Figure keeps slow sideways cartwheel across frame. Longest cut.",
+      "visible_elements": {
+        "foreground": [
+          "white Korean text left column '지금이 광고, / 화면 돌려버리고 싶죠?' rotated 90 degrees clockwise",
+          "white Korean text right column '현대카드가 / 돌아버린 이' rotated 90 degrees clockwise, fading in"
+        ],
+        "midground": [
+          "black-suited human figure at right edge in a sideways cartwheel pose, slowly rotating and drifting"
+        ],
+        "background": [
+          "flat saturated teal-green color field #099f8f filling the whole frame"
+        ],
+        "lighting_env": [
+          "flat even ambient — pure graphic flat color, no directional light"
+        ],
+        "atmosphere": [
+          "clean minimal digital, zero grain, single flat plane"
+        ]
+      },
+      "texture": {
+        "primary_subject": "flat_digital",
+        "secondary_objects": [
+          "fabric_suit_matte"
+        ],
+        "background_surface": "flat_digital",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "front",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "strong",
+        "key_to_fill_ratio": "1:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "none",
+        "overall_contrast": "hi_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#099f8f",
+          "#ffffff",
+          "#101b1a"
+        ],
+        "palette_role": {
+          "#099f8f": "background_teal_dominant",
+          "#ffffff": "text_white",
+          "#101b1a": "human_figure_dark_anchor"
+        },
+        "color_relationship": "brand_dominant",
+        "temperature_balance": "cool_dominant",
+        "saturation_strategy": "vivid",
+        "contrast_type": "luminance_high",
+        "accent_color": "#ffffff",
+        "accent_ratio": "12_percent"
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A single flat saturated teal-green color field rendered at 640x480 pixels in a 4:3 standard-definition aspect ratio, the entire frame filled edge to edge with a uniform vivid teal-green (#099f8f) — no gradient, no texture, no grain, perfectly uniform flat teal across every pixel, a pure graphic color plane. This is a deliberately ROTATED composition turned 90 degrees clockwise; a normal viewer must tilt their head/phone left to read it. The layout now has TWO vertical text columns of bold white (#ffffff) Korean Hangul, both rotated 90 degrees clockwise with characters stacking vertically reading bottom-to-top. The LEFT column, centered around 36-44% of frame width and spanning about 28% to 72% of frame height across two adjacent vertical lines, when mentally rotated upright reads '지금이 광고,' / '화면 돌려버리고 싶죠?' (meaning 'right now this is an ad, — don't you want to flip the screen?'). The RIGHT column, centered around 52-60% of frame width and spanning about 30% to 68% of frame height, when mentally rotated upright reads '현대카드가' / '돌아버린 이' (the brand name plus a pun meaning roughly 'the [ad] that Hyundai Card went wild/flipped over' — playing on the verb 돌다 to turn/spin versus 돌아버리다 to go crazy). The typeface is a bold rounded geometric Hangul sans-serif in pure white, no shadow, no outline, no glow. At the right edge of the frame, at approximately 80-94% of frame width and vertically centered around 38-55% of frame height, there is a small dark human figure — a person in a black business suit rendered as a clean matte cutout, in a sideways cartwheel pose with one arm extended, body rotating, because the entire frame world is rotated 90 degrees; the figure is small, occupying about 8% of frame width and 16% of frame height, reading as a man cartwheeling/rolling sideways across the frame. The figure casts no shadow on the flat teal field. In the upper-right corner a small white 'TVCF.net' archive watermark is present (generic source mark). A faint thin magenta-pink sliver is visible along the very bottom edge of the frame. Color palette: vivid teal-green #099f8f dominates approximately 84% of total frame area; pure white typography #ffffff occupies approximately 12%; the dark suited figure (#101b1a near-black) occupies approximately 2%; watermark and bottom sliver ~2%. Color relationship: brand-dominant single-hue field with white luminance accent; temperature cool-dominant. Saturation strategy: maximally vivid flat saturated color. Contrast type: high luminance contrast between white text and saturated teal field. Lighting: perfectly even flat ambient illumination, zero directional key light, zero shadows, zero highlights, neutral 5500K, hi-key flat. Texture: all elements flat digital — zero grain, zero haze, zero surface texture; background a pure flat color plane, figure a clean matte composite cutout. The aesthetic is a bold minimalist Korean commercial brand-attitude graphic frame continuing the deliberately rotated 90-degree layout gag, now delivering the brand-name pun reveal in a second text column while the tumbling human keeps the rotated-world joke alive. Style anchor: Korean commercial flat-color motion-graphic, SD 4:3 archive source, maximal hi-key saturated single-color field, bold rounded Hangul typography rotated 90 degrees clockwise in two side-by-side stacked columns, clean digital, witty brand-pun advertising, generous negative space, single small composited cartwheeling human cutout, zero atmospheric effects, zero grain.",
+        "t2i_negative": "photorealistic depth, 3D render, gradient background, film grain, noise, bokeh, real brand logos, watermark errors, multiple figures, upright readable text, dark background, shadows, lens flare",
+        "i2v_motion": "Hold the flat teal-green field perfectly static (locked-off camera). The left rotated copy column '지금이 광고, / 화면 돌려버리고 싶죠?' is present and holds still; the right rotated column '현대카드가 / 돌아버린 이' fades in over roughly the first third of the cut and then holds. The black-suited figure at the right edge continues a slow continuous sideways cartwheel rotation, drifting across the frame, body turning over as if rolling in the rotated world; breathing-level-to-moderate motion. Background color steady. 4.67s total (the longest cut), steady rhythm, no internal cut, ends on a hard cut to an orange field.",
+        "i2v_params": {
+          "clip_duration_sec": 4.67,
+          "camera_move": "locked_off",
+          "subject_motion_level": "micro",
+          "signature_effect": "none",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; rotated-90deg layout and flat teal field preserved; on-screen copy '지금이 광고,', '화면 돌려버리고 싶죠?', '현대카드가', '돌아버린 이' preserved verbatim; brand name '현대카드' appears in copy text (preserved as caption); human figure generic black-suited type; TVCF.net watermark generic"
+      }
+    },
+    {
+      "index": 4,
+      "duration": 4.97,
+      "framing": "environment",
+      "function": "tagline_brand",
+      "subject_action": "background hard-cuts to flat saturated orange; the two rotated copy columns hold briefly then fade out; a rotated-90deg brand lockup fades in at center — the tagline '카드의 방향을 바꾸다' above the 'Hyundai Card' wordmark inside its signature bracket frame; a faint single-line legal disclaimer (unreadable at this resolution) sits along the bottom; persistent TVCF.net watermark top-right",
+      "layout_grid": "center",
+      "subject_position": "center",
+      "subject_identity": "none_environment",
+      "subject_relationship_to_protagonist": null,
+      "mid_frame_path": "ADV-2026-041_frames/cut04_mid.png",
+      "subject_typo_layout": "typo_only_no_person",
+      "typo_motion": "컬러 필드가 틸→오렌지로 하드컷. 초반엔 이전 두 컬럼이 잠깐 보이다 페이드아웃되고, 중앙에 회전된 브랜드 락업 '카드의 방향을 바꾸다' + 'Hyundai Card'(브래킷 마크 포함)가 페이드 인(f~355 등장, f~373 정착). 슬로건+로고는 여전히 90도 회전 상태. 하단 약관 1줄은 페이드 인되나 판독 불가.",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "environment",
+      "gaze": "none",
+      "eye_contact_effect": null,
+      "props": [],
+      "prop_semantics": null,
+      "color_palette": [
+        "#fc9a2c",
+        "#ffffff",
+        "#fff4e0"
+      ],
+      "color_intent": "현대카드 시그니처에 가까운 따뜻한 오렌지 단색으로 브랜드 마무리; 흰/크림 타이포로 락업 가독. 마지막 색 교체로 컬러 시퀀스(핑크·블루·틸·오렌지) 완결",
+      "pose_description": "인물 없음(이전 컷에서 회전하던 인물은 프레임 밖으로 나감). 회전된 로고타입+슬로건이 중앙 정착해 브랜드 각인.",
+      "subject_motion": "static",
+      "prop_motion": "none",
+      "camera_motion": "locked_off",
+      "camera_motion_intensity": "none",
+      "camera_effect_local": "none",
+      "motion_blur": false,
+      "intra_cut_rhythm": "static",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [
+        "color_pop"
+      ],
+      "vfx_intensity_local": "subtle",
+      "fact_check_flag": null,
+      "notes": "Cut 4 (f298-446, 9.910-14.882s): hard cut to flat orange #fc9a2c. Two copy columns briefly visible then fade; rotated brand lockup '카드의 방향을 바꾸다' + 'Hyundai Card' (bracket mark) fades in (f~355-373) and holds. Bottom legal disclaimer line unreadable at SD. Closes the four-color sequence. Tagline pun: 방향(direction) ties to the screen-rotation gag.",
+      "visible_elements": {
+        "foreground": [
+          "white/cream Korean tagline '카드의 방향을 바꾸다' rotated 90 degrees clockwise at center",
+          "'Hyundai Card' wordmark with bracket-frame logo mark rotated 90 degrees clockwise, below the tagline"
+        ],
+        "midground": [
+          "(earlier in cut) the two fading rotated copy columns from the previous shot"
+        ],
+        "background": [
+          "flat saturated orange color field #fc9a2c filling the whole frame",
+          "faint single-line legal disclaimer text along the bottom edge (unreadable at SD)"
+        ],
+        "lighting_env": [
+          "flat even ambient — pure graphic flat color, no directional light"
+        ],
+        "atmosphere": [
+          "clean minimal digital, zero grain, single flat plane"
+        ]
+      },
+      "texture": {
+        "primary_subject": "flat_digital",
+        "secondary_objects": [],
+        "background_surface": "flat_digital",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "front",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "strong",
+        "key_to_fill_ratio": "1:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "none",
+        "overall_contrast": "hi_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#fc9a2c",
+          "#ffffff",
+          "#fff4e0"
+        ],
+        "palette_role": {
+          "#fc9a2c": "background_orange_dominant",
+          "#ffffff": "logo_wordmark_white",
+          "#fff4e0": "tagline_cream_white"
+        },
+        "color_relationship": "brand_dominant",
+        "temperature_balance": "warm_dominant",
+        "saturation_strategy": "vivid",
+        "contrast_type": "luminance_high",
+        "accent_color": "#ffffff",
+        "accent_ratio": "8_percent"
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A single flat saturated orange color field rendered at 640x480 pixels in a 4:3 standard-definition aspect ratio, the entire frame filled edge to edge with a uniform warm vivid orange (#fc9a2c) — no gradient, no texture, no grain, perfectly uniform flat orange across every pixel, a pure graphic color plane. This is a deliberately ROTATED composition turned 90 degrees clockwise; a normal viewer must tilt their head/phone left to read it. At the center of the frame, the brand closing lockup is set rotated 90 degrees clockwise as a single vertical group. When mentally rotated upright: an upper tagline line of bold white-to-cream (#fff4e0) Korean Hangul reads '카드의 방향을 바꾸다' (meaning 'change the direction of the card'), and directly below it the brand wordmark 'Hyundai Card' is set in a clean white (#ffffff) humanist sans-serif, enclosed by the brand's signature open bracket frame — a thin rounded-corner rectangular bracket outline (open on top and bottom, like two facing square brackets) drawn around the wordmark. On screen this whole lockup is rotated so it stacks vertically near the horizontal center of the frame (approximately 44-56% of frame width) spanning about 30% to 70% of frame height. The bracket-frame logo is a thin white line treatment, not a filled shape. The typeface for the wordmark is a contemporary geometric humanist sans-serif; the tagline is a bold rounded Hangul sans-serif. No drop shadow, no glow on either. Earlier in the shot two faint fading white rotated text columns may still be partly visible at left (carried from the previous cut) but they are fading toward invisible. Along the very bottom edge of the frame, a faint single line of small legal-disclaimer Korean text runs horizontally (left-to-right at the bottom in the rotated layout), too low-resolution to read, appearing as a faint lighter smudge band. In the upper-right corner a small white 'TVCF.net' archive watermark is present (generic source mark). A thin bright green sliver is visible along the very bottom border of the frame. Color palette: warm vivid orange #fc9a2c dominates approximately 90% of total frame area; pure white wordmark and bracket #ffffff occupy approximately 5%; cream-white tagline #fff4e0 occupies approximately 3%; watermark, faint legal line, and green sliver ~2%. Color relationship: brand-dominant single warm hue with white/cream luminance accent; temperature warm-dominant. Saturation strategy: maximally vivid flat saturated color. Contrast type: high luminance contrast between white lockup and saturated orange field. Lighting: perfectly even flat ambient illumination, zero directional key light, zero shadows, zero highlights, neutral 5500K, hi-key flat. Texture: all elements flat digital — zero grain, zero haze, zero surface texture; background a pure flat color plane, logo and text clean flat vector. The aesthetic is a bold minimalist Korean commercial brand closer that completes the deliberately rotated 90-degree layout gag — even the final logo lockup is rotated, paying off the tagline 'change the direction of the card' as a literal-visual pun on the rotated screen. Style anchor: Korean commercial flat-color motion-graphic brand closer, SD 4:3 archive source, maximal hi-key saturated single-color field, bold rounded Hangul tagline plus bracket-framed Latin wordmark rotated 90 degrees clockwise, clean digital flat vector, witty brand-attitude advertising, generous negative space, no human figure, zero atmospheric effects, zero grain.",
+        "t2i_negative": "photorealistic depth, 3D render, gradient background, film grain, noise, bokeh, watermark errors, human figures, upright readable logo, dark background, shadows, lens flare, multiple logos",
+        "i2v_motion": "Hold the flat orange field perfectly static (locked-off camera). At the start, the two carried-over rotated copy columns fade out over the first ~1.5s; then the rotated brand lockup — tagline '카드의 방향을 바꾸다' above the 'Hyundai Card' bracket-framed wordmark — fades in at center and holds completely still for the remainder. The faint bottom legal line fades in with the lockup. No human figure. Background color steady. 4.97s total, static-to-steady rhythm, no internal cut; the film ends here on the held rotated logo.",
+        "i2v_params": {
+          "clip_duration_sec": 4.97,
+          "camera_move": "locked_off",
+          "subject_motion_level": "still",
+          "signature_effect": "none",
+          "pacing": "static",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; rotated-90deg layout and flat orange field preserved; on-screen tagline '카드의 방향을 바꾸다' preserved verbatim; 'Hyundai Card' wordmark is a brand mark rendered generically (bracket-frame type treatment, not exact logo reproduction); legal disclaimer excerpt-only (unreadable); TVCF.net watermark generic"
+      }
+    }
+  ],
+  "search_keywords": {
+    "industry": [
+      "finance"
+    ],
+    "product_category": [
+      "card"
+    ],
+    "target_demo": [
+      "late20s_early30s",
+      "mz",
+      "active_consumers"
+    ],
+    "media_format": [
+      "tvc_15s",
+      "digital_30s"
+    ],
+    "tone": [
+      "punchy_humor",
+      "confident",
+      "clean_minimal"
+    ],
+    "pacing": [
+      "steady"
+    ],
+    "technique": [
+      "breaking_fourth_wall",
+      "kinetic_typo",
+      "color_shift",
+      "splitscreen"
+    ],
+    "vfx_keywords": [
+      "color_pop",
+      "matte_composite",
+      "clean_digital"
+    ],
+    "copy_strategy_keywords": [
+      "brand_name_pun",
+      "question_hook",
+      "double_wordplay",
+      "caption_led"
+    ],
+    "concept_derivation_pattern": [
+      "breaking_fourth_wall"
+    ]
+  },
+  "inferred_creative_thinking": {
+    "insight": "사람들은 광고를 '봐야 하는 방해물'로 인식하고 스킵하거나 화면을 돌려버린다 — 그 회피 충동 자체를 광고가 먼저 자백하고 놀이로 뒤집으면 주목을 산다",
+    "persona": "광고를 귀찮아하고 위트·태도에 반응하는 20대 후반~30대 카드 사용자",
+    "moment": "세로/가로가 어긋난 영상을 보며 '화면 돌려야 하나' 짜증나는 순간 — 광고가 일부러 90도 돌아가 있어 그 충동을 자극",
+    "product_role": "현대카드는 '방향(틀)을 바꾸는' 브랜드 — 회전된 화면이 곧 브랜드의 발상 전환을 시각화하는 장치",
+    "punchline": "현대카드가 돌아버린 이 (광고) — 카드의 방향을 바꾸다",
+    "differentiator": "정보·혜택 나열 대신 광고 포맷 자체(화면 방향)를 비틀어 브랜드 태도를 각인 — 동종 카드 광고와 정반대의 메타·위트 접근",
+    "brand_fit_one_liner": "관습을 비트는 디자인·발상 브랜드라서 광고 포맷마저 90도 돌려버릴 수 있다",
+    "confidence": "inferred"
+  },
+  "inferred_brief": "현대카드의 '관습을 깨는 발상 전환' 브랜드 태도를, 화면을 일부러 90도 돌린 메타·위트 모션그래픽으로 표현해 짧고 강하게 각인한다(혜택 나열 없이 태도만).",
+  "cross_pollination_tags": {
+    "adjacent": [
+      "insurance",
+      "telecom",
+      "it_saas"
+    ],
+    "distant": [
+      "content_ott",
+      "sports",
+      "fnb"
+    ],
+    "contrast": [
+      "luxury",
+      "construction_realestate",
+      "healthcare_pharma"
+    ]
+  },
+  "concept_derivation_pattern": "breaking_fourth_wall",
+  "confidence": "inferred",
+  "analyst_notes": "1. faster_whisper 'base' 실행 결과 speech 0개 — 음성 나레이션 없는 음악 주도 광고. 나레이션 라인은 화면 자막(회전 모션 타이포)에서 caption_inferred로 채움. 2. scenedetect는 3 scene만 검출(블루→틸 hue shift를 놓침); metrics가 f156/157 하드컷을 잡아 shot_count_corrected=4로 보정(컬러 필드: 핑크 f1-117 / 블루 f118-156 / 틸 f157-297 / 오렌지 f298-446). 3. 핵심 콘셉트=화면 전체를 90도 시계방향 회전시킨 메타 개그 — 모든 한글 카피가 세로 회전 배치라 판독 시 CCW 회전 크롭으로 확인. 4. 우측 검은 정장 인물은 끊임없이 옆으로 회전·텀블링하는 누끼 합성(전역 wiggle 아님; mean_abs_shift_x=0.148·sign_flips=0.364는 이 인물 이동에 기인, f133 diff=0.958은 인물 회전 피크이며 컷 아님). 5. 'Hyundai Card' 워드마크는 브래킷 마크 포함 로고로 generic 처리; 카피 텍스트 속 '현대카드'는 자막이라 원문 보존. 6. 우상단 'TVCF.net'은 아카이브 워터마크(광고 콘텐츠 아님). 7. 하단 약관 1줄은 SD 해상도 한계로 판독 불가(excerpt-only). 8. 제작연도 미상(영상 메타·자막에 없음).",
+  "verification": {
+    "frames_reviewed": "approx 55/446 native-res frames read (all 4 scene-color boundaries f117/118, f155/156/157, f296/297/298 with adjacent frames; midpoints; figure-motion samples; opening/closing) + CCW-rotated zoom crops of every Korean text column (pink/blue/teal/orange) + per-frame mean-RGB scan locking 4 scene boundaries + 100% per-frame metrics coverage",
+    "audio_analyzed": true,
+    "hitrate_na": true,
+    "abstraction_checked": true
+  }
+}

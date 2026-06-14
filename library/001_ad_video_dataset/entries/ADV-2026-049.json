@@ -1,0 +1,2165 @@
+{
+  "id": "ADV-2026-049",
+  "source_ref": {
+    "platform": "broadcast_online",
+    "title_or_campaign": "빙그레 왕실커피 스페셜티 - 빙그레우스의 왕실커피 (영화 예고편 패러디)",
+    "brand": "빙그레 (Binggrae)",
+    "product": "빙그레 왕실커피 스페셜티 (Royal Coffee Specialty) / a Café la 스페셜티",
+    "model": null,
+    "year": 2024,
+    "production_note": "mixed_media_3d_cg_animation_plus_live_action_film_trailer_parody",
+    "url": null
+  },
+  "category_primary": "fnb.coffee_rtd",
+  "category_tags": [
+    "fnb",
+    "coffee",
+    "ready_to_drink",
+    "royal_coffee",
+    "specialty_coffee",
+    "animated_brand_universe",
+    "film_trailer_parody"
+  ],
+  "mood": [
+    "epic",
+    "comedic",
+    "self_aware",
+    "triumphant",
+    "tongue_in_cheek",
+    "cinematic"
+  ],
+  "target_demo": "10s-30s Korean digital-native consumers familiar with the Binggrae character universe and movie-trailer tropes",
+  "total_duration": 19.087,
+  "shot_count": 15,
+  "shot_count_corrected": 15,
+  "fps": 23.976,
+  "aspect_ratio": "16:9",
+  "hook_position": 0.0,
+  "cta_position": 18.018,
+  "narrative_arc": "mock_epic_quest_then_product_reveal",
+  "narrative_structure": "cross_cutting_montage",
+  "pacing_curve": "accelerating",
+  "music_tempo_curve": "epic_trailer_build_to_climax",
+  "wow_cut_index": 12,
+  "creative_device": [
+    "movie_trailer_parody",
+    "animated_mascot_universe",
+    "mixed_media_2d_3d_live_action",
+    "fake_film_premiere_framing",
+    "comedic_retake_gag",
+    "celebrity_ensemble_cast_title_cards",
+    "product_hero_reveal",
+    "verbal_brand_pun_punchline"
+  ],
+  "production_signature": {
+    "capture_style": "3d_cg_animation_with_2d_cel_shaded_inserts_and_live_action_cutaways",
+    "camera_signature": [
+      "cinemascope_letterbox_2_39_1",
+      "dramatic_backlit_corridor_push_in",
+      "slow_hero_dolly",
+      "overhead_birdseye_celebration",
+      "trailer_style_text_card_inserts"
+    ],
+    "signature_note": "Mock blockbuster film-trailer aesthetic for a coffee brand: alternates cel-shaded 2D visual-novel close-ups, volumetric 3D-CG character cinematics, gold-on-black ember title cards, and live-action ensemble cutaways; persistent letterbox bars and persistent corner channel bug 'aCaféla 스페셜티'; warm tungsten/ember orange key against deep shadow; near-zero global camera wiggle (mean_abs_shift_x 0.482) — motion is deliberate CG camera moves, not handheld",
+    "color_grade": "warm_ember_orange_against_teal_shadow_cinematic_trailer_lut",
+    "texture_fx": "anime_cel_shading_plus_3d_subsurface_plus_floating_ember_particles_and_film_grain"
+  },
+  "global_layout": {
+    "grid_system": "centered_cinemascope_with_lower_third_caption_band",
+    "subject_placement_dominant": "center",
+    "subject_typo_relation": "centered_gold_trailer_titles_and_yellow_dialogue_subtitles_over_letterboxed_image",
+    "negative_space_use": "heavy_letterbox_bars_and_dark_negative_space_around_centered_subject_and_titles",
+    "layout_note": "Every frame is letterboxed to a ~2.39:1 cinemascope window inside the 16:9 raster; a small white channel-bug logo sits top-left throughout; spoken lines render as centered yellow Korean subtitles in the lower third; trailer copy renders as large centered gold/colored display type"
+  },
+  "recurring_motifs": [
+    "red_haired_prince_protagonist",
+    "coffee_bean_pattern_parasol",
+    "royal_military_regalia",
+    "white_barista_chef_uniform_red_necktie",
+    "floating_ember_particles",
+    "gold_trailer_title_typography",
+    "corner_channel_bug_logo",
+    "coffee_jars_beakers_and_beans",
+    "cheering_specialist_ensemble"
+  ],
+  "copywriting": {
+    "tagline_text": "대개봉하시오",
+    "tagline_structure": "archaic_royal_imperative_premiere_pun",
+    "cta_text": "대개봉하시오",
+    "copy_tone": [
+      "grandiose",
+      "archaic_courtly",
+      "comedic",
+      "self_aware",
+      "epic_trailer_voice"
+    ],
+    "copy_strategy": "frame_product_launch_as_blockbuster_film_premiere_with_mascot_hero_quest_then_pun_payoff",
+    "lines": [
+      {
+        "text": "내 데뷔작인데 그냥 지나칠 텐가?",
+        "type": "dialogue",
+        "time_sec": 0.0
+      },
+      {
+        "text": "끝까지 보고 빙그레 웃길 바라오!",
+        "type": "dialogue",
+        "time_sec": 2.12
+      },
+      {
+        "text": "왕실 커피의 그 맛과 향!",
+        "type": "dialogue",
+        "time_sec": 5.88
+      },
+      {
+        "text": "내가 반드시 재현하겠어!",
+        "type": "dialogue",
+        "time_sec": 7.68
+      },
+      {
+        "text": "다시! 다시!",
+        "type": "dialogue",
+        "time_sec": 11.16
+      },
+      {
+        "text": "왕실 커피는 꿈인 건가...",
+        "type": "dialogue",
+        "time_sec": 12.24
+      },
+      {
+        "text": "바로 이거야!",
+        "type": "dialogue",
+        "time_sec": 14.56
+      },
+      {
+        "text": "좋았어!",
+        "type": "dialogue",
+        "time_sec": 15.36
+      },
+      {
+        "text": "대개봉하시오",
+        "type": "tagline_cta_dialogue",
+        "time_sec": 18.08
+      }
+    ],
+    "captions": [
+      {
+        "text": "내 데뷔작인데 그냥 지나칠 텐가?",
+        "source": "lower_third_subtitle",
+        "time_sec": 0.0
+      },
+      {
+        "text": "끝까지 보고 빙그레 웃길 바라오!",
+        "source": "lower_third_subtitle",
+        "time_sec": 2.12
+      },
+      {
+        "text": "Presented by Binggrae",
+        "source": "trailer_title_card",
+        "time_sec": 3.96
+      },
+      {
+        "text": "잊혀진 왕실 커피를 되살리기 위해",
+        "source": "trailer_title_card_gold",
+        "time_sec": 4.42
+      },
+      {
+        "text": "왕실 커피의 그 맛과 향!",
+        "source": "lower_third_subtitle",
+        "time_sec": 5.88
+      },
+      {
+        "text": "내가 반드시 재현하겠어!",
+        "source": "lower_third_subtitle",
+        "time_sec": 7.68
+      },
+      {
+        "text": "빙그레우스와 스페셜리스트들이 뭉쳤다!",
+        "source": "trailer_title_card_gold",
+        "time_sec": 9.34
+      },
+      {
+        "text": "프레스토 / 추출 스페셜리스트",
+        "source": "live_action_panel_name_label",
+        "time_sec": 10.4
+      },
+      {
+        "text": "완다 / 원두 스페셜리스트",
+        "source": "live_action_panel_name_label",
+        "time_sec": 10.4
+      },
+      {
+        "text": "로스티노 / 로스팅 스페셜리스트",
+        "source": "live_action_panel_name_label",
+        "time_sec": 10.4
+      },
+      {
+        "text": "다시!",
+        "source": "lower_third_subtitle",
+        "time_sec": 11.18
+      },
+      {
+        "text": "왕실 커피는 꿈인 건가...",
+        "source": "lower_third_subtitle",
+        "time_sec": 12.24
+      },
+      {
+        "text": "바로 이거야!",
+        "source": "lower_third_subtitle",
+        "time_sec": 14.56
+      },
+      {
+        "text": "좋았어!",
+        "source": "lower_third_subtitle",
+        "time_sec": 15.36
+      },
+      {
+        "text": "스페셜티 / 빙그레우스의 왕실커피",
+        "source": "product_lockup_title",
+        "time_sec": 16.31
+      },
+      {
+        "text": "아카페라 스페셜티",
+        "source": "trailer_title_card_burst",
+        "time_sec": 17.14
+      },
+      {
+        "text": "대개봉하시오",
+        "source": "lower_third_subtitle_cta",
+        "time_sec": 18.08
+      },
+      {
+        "text": "aCaféla 스페셜티",
+        "source": "persistent_corner_channel_bug",
+        "time_sec": 0.0
+      }
+    ],
+    "narration_handling": "in_character_dialogue_subtitles_plus_trailer_title_cards_no_separate_vo"
+  },
+  "typography": {
+    "primary_font_class": "bold_gold_metallic_serif_trailer_display_plus_yellow_subtitle_sans",
+    "animation_style": [
+      "fade_in_center_hold",
+      "scale_up_burst_in",
+      "ember_glow_shimmer",
+      "static_hold_subtitle"
+    ],
+    "subtitle_position_dominant": "lower_third_center",
+    "color_strategy": "metallic_gold_titles_on_black_ember_bg_with_yellow_dialogue_subtitles_and_white_corner_bug",
+    "typo_motion_dominant": "fade_in_static_with_occasional_scale_burst"
+  },
+  "vfx": {
+    "primary_effects": [
+      "floating_ember_particle_field",
+      "cinemascope_letterbox",
+      "cel_shading_to_3d_render_style_switching",
+      "split_screen_triptych",
+      "trailer_title_card_compositing",
+      "volumetric_backlight_god_rays"
+    ],
+    "effect_intensity": "high",
+    "transition_style_dominant": "hard_cut_with_occasional_dissolve_to_ember_cards",
+    "vfx_event_count": 6
+  },
+  "audio": {
+    "has_audio": true,
+    "language": "ko",
+    "speech_coverage": 0.817,
+    "bgm_likely": true,
+    "narration_lines": [
+      {
+        "start": 0.0,
+        "end": 2.12,
+        "text": "내 데뷔작인데 그냥 지나칠 텐가?",
+        "source": "whisper_corrected"
+      },
+      {
+        "start": 2.12,
+        "end": 4.04,
+        "text": "끝까지 보고 빙그레 웃길 바라오!",
+        "source": "whisper_corrected_via_caption"
+      },
+      {
+        "start": 5.88,
+        "end": 7.68,
+        "text": "왕실 커피의 그 맛과 향!",
+        "source": "whisper_corrected_via_caption"
+      },
+      {
+        "start": 7.68,
+        "end": 9.52,
+        "text": "내가 반드시 재현하겠어!",
+        "source": "whisper_corrected_via_caption"
+      },
+      {
+        "start": 11.16,
+        "end": 12.24,
+        "text": "다시! 다시!",
+        "source": "whisper"
+      },
+      {
+        "start": 12.24,
+        "end": 14.56,
+        "text": "왕실 커피는 꿈인 건가...",
+        "source": "whisper_corrected_via_caption"
+      },
+      {
+        "start": 14.56,
+        "end": 15.36,
+        "text": "바로 이거야!",
+        "source": "whisper"
+      },
+      {
+        "start": 15.36,
+        "end": 16.32,
+        "text": "좋았어!",
+        "source": "whisper_corrected_via_caption"
+      },
+      {
+        "start": 18.08,
+        "end": 19.08,
+        "text": "대개봉하시오",
+        "source": "whisper"
+      }
+    ],
+    "voice_vs_caption": "in_character_dialogue_matches_on_screen_yellow_subtitles_exactly",
+    "transcribed_by": "faster_whisper_base",
+    "audio_note": "Corrections vs whisper text_raw: '빙그레 웃길 바라'->'빙그레 웃길 바라오!' (caption); '재원하겠어'->'재현하겠어' (caption, 'recreate'); '꿈건가?'->'왕실 커피는 꿈인 건가...' (caption); '죽었어!'->'좋았어!' (caption, 'alright!'); '빙그레 웃의 왕실 커피'->product lockup '빙그레우스의 왕실커피'. Epic orchestral trailer BGM present under dialogue."
+  },
+  "frames_dir": "ADV-2026-049_frames",
+  "contact_sheet_path": "ADV-2026-049_frames/contact_sheet.png",
+  "shots": [
+    {
+      "index": 1,
+      "duration": 2.085,
+      "framing": "CU",
+      "function": "hook_character_intro",
+      "subject_action": "stylized animated red-haired prince looks up with a sly smug grin under a parasol, speaking to camera",
+      "layout_grid": "center_cinemascope",
+      "subject_position": "center",
+      "typo_motion": "static_subtitle",
+      "camera_angle": "low_angle_then_eye_level",
+      "camera_facing": "front",
+      "shot_scope": "close_up_bust",
+      "gaze": "direct_to_camera",
+      "props": [
+        "coffee_bean_pattern_parasol",
+        "royal_high_collar_uniform"
+      ],
+      "color_palette": [
+        "#C0142A",
+        "#E8D8C0",
+        "#1A2230",
+        "#D9A23B",
+        "#9FB8C4"
+      ],
+      "color_intent": "warm_regal_red_against_soft_daylight",
+      "pose_description": "head tilted up and slightly back, chin lifted, lips curled in a confident smirk, parasol shaft crossing frame from lower right",
+      "subject_motion": "subtle_tilt_down_and_lips_moving_in_speech",
+      "camera_motion": "slow_tilt_down_settle",
+      "camera_effect_local": "cinemascope_letterbox_soft_bg_blur",
+      "intra_cut_rhythm": "slow_build",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "mid_frame_path": "ADV-2026-049_frames/cut01_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "prince_face_and_bust",
+          "parasol_canopy_edge"
+        ],
+        "midground": [
+          "high_collar_uniform_shoulders"
+        ],
+        "background": [
+          "soft_blurred_outdoor_daylight",
+          "pale_warm_bokeh"
+        ],
+        "lighting_env": [
+          "soft_overcast_daylight",
+          "warm_ambient_fill"
+        ],
+        "atmosphere": [
+          "calm_regal_introduction",
+          "intimate_close_up"
+        ]
+      },
+      "texture": {
+        "primary_subject": "cel_shaded_skin_and_glossy_red_hair",
+        "secondary_objects": [
+          "matte_parasol_fabric",
+          "gold_trimmed_collar"
+        ],
+        "background_surface": "soft_gaussian_bokeh",
+        "atmospheric": [
+          "gentle_diffuse_haze"
+        ]
+      },
+      "lighting": {
+        "key_direction": "front_top_soft",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_daylight_5500K",
+        "fill_strength": "high",
+        "key_to_fill_ratio": "1.5:1",
+        "rim_light": "subtle_edge_on_hair",
+        "practical_lights": [],
+        "shadow_presence": "minimal_soft_cel_shadow",
+        "overall_contrast": "low_medium"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#C0142A",
+          "#E8D8C0",
+          "#1A2230",
+          "#D9A23B",
+          "#9FB8C4"
+        ],
+        "palette_role": {
+          "#C0142A": "hair_crimson_dominant",
+          "#E8D8C0": "parasol_canopy_cream",
+          "#1A2230": "collar_dark_navy",
+          "#D9A23B": "gold_collar_trim_accent",
+          "#9FB8C4": "bg_daylight_cool"
+        },
+        "color_relationship": "warm_red_vs_cool_daylight_complementary",
+        "temperature_balance": "warm_subject_cool_background",
+        "saturation_strategy": "high_saturation_hero_red_low_sat_bg",
+        "contrast_type": "soft_anime_cel",
+        "accent_color": "#D9A23B",
+        "accent_ratio": 0.06
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A single anime-style cel-shaded illustration frame, letterboxed into a wide 2.39:1 cinemascope window with thick black bars top and bottom inside a 16:9 raster. The subject is a generic stylized animated prince-type male character in his early twenties, rendered in a glossy Korean visual-novel / mobile-game art style: vivid crimson-red layered hair (#C0142A) falling past the jaw with sharp glossy highlights, large expressive almond eyes with crimson irises, smooth porcelain cel-shaded skin with a single soft cheek shadow, and fine dark eyebrows arched in a confident, slightly arrogant expression. His head is tilted up and slightly back, chin lifted, and his lips are curled into a sly self-satisfied smirk, parted mid-speech. He wears an ornate royal high-collar military uniform: a stiff dark navy (#1A2230) standing collar edged with bright gold braid and metallic gold buttons (#D9A23B accent), a glimpse of a pale cream-white shirt or epaulette beneath. He holds, crossing the lower-right of the frame, the curved metal shaft and ribs of an open parasol whose cream canopy (#E8D8C0) is printed with a scattered pattern of stylized brown and tan coffee beans, the canopy occupying the top corners of the frame as a soft framing arc. Composition: the face is centered in the cinemascope window, occupying roughly the central third, with the parasol canopy creating an organic vignette top-left and the gold-trimmed shoulders anchoring the lower edge. Background is a softly blurred warm outdoor daylight environment reduced to pale cream and cool blue-grey bokeh (#9FB8C4), no readable detail, suggesting an open-air courtyard. Lighting setup: a soft front-top key at roughly 5500K neutral daylight with very high fill (about 1.5:1 key-to-fill) producing gentle low-contrast cel shading, a subtle cool rim catching the edge of the hair, and minimal soft shadow under the chin. Color palette is built on a high-saturation hero crimson against desaturated cool daylight, with the gold collar trim as a small warm accent at about six percent coverage. Textures: glossy painterly hair strands, matte parasol fabric, smooth gradient skin, and creamy gaussian background blur with no film grain in the rendered art itself but a faint cinematic letterbox grain overlay. Atmosphere: calm, regal, faintly comedic self-importance — the framing of a movie-trailer hero introduction. Post / signature look: persistent thin black cinemascope bars, a small white channel-bug logo in the top-left corner reading the brand sub-mark, and a centered yellow Korean dialogue subtitle in the lower third reading exactly '내 데뷔작인데 그냥 지나칠 텐가?'. Style anchor: contemporary Korean anime / visual-novel commercial illustration, 2024 brand-mascot universe, cel-shaded 2D, mock-epic film-trailer framing. Fidelity note: the character is a generic stylized animated prince archetype — no resemblance to any specific copyrighted character or real person is intended; any logo mark is generic; the on-screen Korean subtitle copy is preserved verbatim. Additional reproduction notes for the 2D cel-shaded register: the image must read as a single hand-illustration-style anime cel frame from a contemporary Korean mobile-game or visual-novel production, not a 3D render and not a photograph, with flat clean color fills broken by only one or two hard-edged shadow bands per surface, crisp ink-like linework on the eyes and hair silhouette, and bright specular hair highlights painted as solid shapes rather than soft gradients. Avoid photographic skin pores, avoid volumetric subsurface scattering, and avoid raytraced reflections; the parasol, collar and skin should all look painted by hand. The cinemascope letterbox is composited over the artwork with a faint uniform grain so the bars read as a film matte rather than as part of the drawing. The grade leans gently warm with high overall brightness and shallow black depth, characteristic of a friendly mascot-universe key visual rather than a gritty cinematic image. Keep the comedic, slightly theatrical 'movie-trailer hero introducing himself' energy alive in the expression and pose. All identities remain entirely generic and fictional with no resemblance to any real or copyrighted character, and any brand mark is rendered as a generic placeholder treatment.",
+        "t2i_negative": "live action, photorealistic human, 3d render, harsh shadows, busy detailed background, extra text overlays, watermark, distorted hands, realistic skin pores",
+        "i2v_motion": "camera slowly tilts down and settles from a low angle to eye level over ~2s; the prince's chin lowers slightly as his lips move through one line of dialogue; the parasol canopy sways a few pixels; soft background bokeh drifts; hard cut out at 2.085s",
+        "i2v_params": {
+          "clip_duration_sec": 2.085,
+          "camera_move": "slow_tilt_down",
+          "subject_motion_level": "low_talking_gesture",
+          "signature_effect": "cinemascope_letterbox_cel_shading",
+          "pacing": "slow",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen Korean subtitle preserved; character identity and logo generic"
+      }
+    },
+    {
+      "index": 2,
+      "duration": 1.877,
+      "framing": "CU",
+      "function": "hook_character_intro_continued",
+      "subject_action": "the same animated red-haired prince, framed slightly tighter and more level, delivers a confident invitation to watch to the end",
+      "layout_grid": "center_cinemascope",
+      "subject_position": "center",
+      "typo_motion": "static_subtitle",
+      "camera_angle": "eye_level",
+      "camera_facing": "front",
+      "shot_scope": "close_up_face",
+      "gaze": "direct_to_camera",
+      "props": [
+        "coffee_bean_pattern_parasol",
+        "royal_high_collar_uniform"
+      ],
+      "color_palette": [
+        "#C81530",
+        "#E9DAC2",
+        "#7FA0B0",
+        "#D9A23B",
+        "#F0C040"
+      ],
+      "color_intent": "warm_regal_red_confident_close",
+      "pose_description": "head level and facing forward, faint knowing smile, eyes half-lidded with confidence, parasol still overhead",
+      "subject_motion": "subtle_head_settle_and_lips_moving",
+      "camera_motion": "near_locked_slight_push",
+      "camera_effect_local": "cinemascope_letterbox_soft_bg_blur",
+      "intra_cut_rhythm": "steady",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "mid_frame_path": "ADV-2026-049_frames/cut02_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "prince_face",
+          "parasol_canopy_edge_top"
+        ],
+        "midground": [
+          "uniform_collar_and_shoulders"
+        ],
+        "background": [
+          "soft_warm_daylight_bokeh",
+          "hint_of_yellow_foliage_blur"
+        ],
+        "lighting_env": [
+          "soft_daylight",
+          "warm_ambient"
+        ],
+        "atmosphere": [
+          "confident_intimate_address"
+        ]
+      },
+      "texture": {
+        "primary_subject": "cel_shaded_skin_glossy_red_hair",
+        "secondary_objects": [
+          "gold_collar_trim",
+          "parasol_fabric"
+        ],
+        "background_surface": "soft_bokeh",
+        "atmospheric": [
+          "warm_diffuse_glow"
+        ]
+      },
+      "lighting": {
+        "key_direction": "front_soft",
+        "key_hardness": "soft",
+        "key_color_temp": "warm_neutral_5000K",
+        "fill_strength": "high",
+        "key_to_fill_ratio": "1.5:1",
+        "rim_light": "soft_warm_edge",
+        "practical_lights": [],
+        "shadow_presence": "minimal_cel_shadow",
+        "overall_contrast": "low_medium"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#C81530",
+          "#E9DAC2",
+          "#7FA0B0",
+          "#D9A23B",
+          "#F0C040"
+        ],
+        "palette_role": {
+          "#C81530": "hair_crimson_dominant",
+          "#E9DAC2": "parasol_cream",
+          "#7FA0B0": "bg_cool_daylight",
+          "#D9A23B": "gold_trim_accent",
+          "#F0C040": "subtitle_yellow_and_warm_bg"
+        },
+        "color_relationship": "warm_red_vs_cool_daylight_with_gold_accent",
+        "temperature_balance": "warm_subject_neutral_bg",
+        "saturation_strategy": "high_sat_hero_low_sat_bg",
+        "contrast_type": "soft_anime_cel",
+        "accent_color": "#F0C040",
+        "accent_ratio": 0.07
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A single anime cel-shaded illustration frame, letterboxed into a wide 2.39:1 cinemascope window with thick black bars inside a 16:9 raster, framed as a tighter, more level eye-line continuation of the previous hero introduction. The subject is the same generic stylized animated prince-type male character in his early twenties, rendered in glossy Korean visual-novel art style: vivid crimson-red layered hair (#C81530) with crisp specular highlights framing the face, large expressive almond eyes with crimson irises now half-lidded in cool confidence, smooth porcelain cel-shaded skin, and a faint knowing closed-lip smile parting slightly as he speaks. His head is level and faces the camera directly, more centered and closer than before so the face fills nearly half the cinemascope window. He wears the same ornate royal high-collar military uniform: a stiff dark standing collar edged with bright gold braid (#D9A23B) and metallic gold buttons over a pale cream shirt. The cream parasol canopy printed with scattered stylized coffee beans (#E9DAC2) arcs across the very top of the frame as a soft framing element. Composition centers the face on the vertical axis with the canopy capping the top edge and the gold collar grounding the bottom; the background dissolves into soft warm daylight bokeh with a faint suggestion of yellow autumn foliage and a cool blue sky tone (#7FA0B0), entirely out of focus. Lighting setup: a soft front key at roughly 5000K warm-neutral with very high fill (about 1.5:1) for gentle cel shading, a soft warm rim grazing the hair edge, and only minimal soft cel shadow on the neck, giving a flattering low-contrast portrait. Color palette: high-saturation hero crimson dominates, cream parasol and cool daylight recede, and warm gold collar trim plus a warm background glow read as accents at about seven percent. Textures: painterly glossy hair, matte fabric, smooth gradient skin, creamy out-of-focus background, with a faint cinematic grain only in the letterbox compositing. Atmosphere: confident, charismatic, faintly self-aggrandizing — a hero breaking the fourth wall to coax the viewer to keep watching. Post / signature look: persistent thin black cinemascope bars, a small white corner channel-bug logo top-left, and a centered yellow Korean dialogue subtitle in the lower third reading exactly '끝까지 보고 빙그레 웃길 바라오!'. Style anchor: contemporary Korean anime / visual-novel commercial illustration, 2024 brand-mascot universe, 2D cel-shaded, mock-epic movie-trailer tone. Fidelity note: the character is a generic stylized animated prince archetype with no resemblance to any specific copyrighted character or real individual; any brand mark is generic; the Korean subtitle copy is preserved verbatim and the pun on the brand name in the line is retained as on-screen text only. Additional reproduction notes for the 2D cel-shaded register: the image must read as a single hand-illustration-style anime cel frame from a contemporary Korean mobile-game or visual-novel production, not a 3D render and not a photograph, with flat clean color fills broken by only one or two hard-edged shadow bands per surface, crisp ink-like linework on the eyes and hair silhouette, and bright specular hair highlights painted as solid shapes rather than soft gradients. Avoid photographic skin pores, avoid volumetric subsurface scattering, and avoid raytraced reflections; the parasol, collar and skin should all look painted by hand. The cinemascope letterbox is composited over the artwork with a faint uniform grain so the bars read as a film matte rather than as part of the drawing. The grade leans gently warm with high overall brightness and shallow black depth, characteristic of a friendly mascot-universe key visual rather than a gritty cinematic image. Keep the comedic, slightly theatrical 'movie-trailer hero introducing himself' energy alive in the expression and pose. All identities remain entirely generic and fictional with no resemblance to any real or copyrighted character, and any brand mark is rendered as a generic placeholder treatment.",
+        "t2i_negative": "live action, photorealistic, 3d cgi, dramatic high contrast, detailed sharp background, multiple subjects, extra captions, watermark, malformed eyes",
+        "i2v_motion": "camera holds nearly locked with a very subtle slow push-in; the prince's head settles level and his lips move through one confident line; hair highlights shimmer slightly; warm bokeh drifts; hard cut at 1.877s",
+        "i2v_params": {
+          "clip_duration_sec": 1.877,
+          "camera_move": "subtle_push_in",
+          "subject_motion_level": "low_talking",
+          "signature_effect": "cinemascope_letterbox_cel_shading",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen Korean subtitle preserved; identity/logo generic"
+      }
+    },
+    {
+      "index": 3,
+      "duration": 0.458,
+      "framing": "EWS",
+      "function": "trailer_title_card_studio_presentation",
+      "subject_action": "no character; aerial city skyline establishing plate with white film-trailer presentation title fading over it",
+      "layout_grid": "center_title_over_landscape",
+      "subject_position": "center",
+      "typo_motion": "fade_in_center",
+      "camera_angle": "high_aerial",
+      "camera_facing": "landscape_horizon",
+      "shot_scope": "extreme_wide_cityscape",
+      "gaze": "none",
+      "props": [
+        "city_skyline",
+        "river",
+        "bridges"
+      ],
+      "color_palette": [
+        "#8FB8D8",
+        "#D8C8A8",
+        "#5A6E5A",
+        "#F2F2F0",
+        "#3A4A5A"
+      ],
+      "color_intent": "airy_cinematic_daylight_establishing",
+      "pose_description": "no figure; wide hazy daytime metropolitan vista beneath a broad cloud-streaked sky",
+      "subject_motion": "none_static_plate",
+      "camera_motion": "near_static_subtle_drift",
+      "camera_effect_local": "cinemascope_letterbox_atmospheric_haze",
+      "intra_cut_rhythm": "steady",
+      "transition_in": "cut",
+      "transition_out": "hard_cut_to_ember_card",
+      "mid_frame_path": "ADV-2026-049_frames/cut03_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "trailer_title_text"
+        ],
+        "midground": [
+          "dense_city_skyline",
+          "river_with_bridges"
+        ],
+        "background": [
+          "distant_mountains",
+          "broad_cloudy_sky"
+        ],
+        "lighting_env": [
+          "overcast_daylight",
+          "atmospheric_haze"
+        ],
+        "atmosphere": [
+          "epic_establishing_scale",
+          "hazy_metropolitan_calm"
+        ]
+      },
+      "texture": {
+        "primary_subject": "rendered_white_serif_title_text",
+        "secondary_objects": [
+          "building_facades",
+          "water_surface"
+        ],
+        "background_surface": "soft_cloud_gradient",
+        "atmospheric": [
+          "distance_haze_fog"
+        ]
+      },
+      "lighting": {
+        "key_direction": "overhead_diffuse_daylight",
+        "key_hardness": "soft",
+        "key_color_temp": "cool_daylight_6500K",
+        "fill_strength": "high",
+        "key_to_fill_ratio": "1.2:1",
+        "rim_light": "none",
+        "practical_lights": [],
+        "shadow_presence": "flat_atmospheric",
+        "overall_contrast": "low"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#8FB8D8",
+          "#D8C8A8",
+          "#5A6E5A",
+          "#F2F2F0",
+          "#3A4A5A"
+        ],
+        "palette_role": {
+          "#8FB8D8": "sky_blue_dominant",
+          "#D8C8A8": "hazy_city_warm_midtone",
+          "#5A6E5A": "river_green_grey",
+          "#F2F2F0": "title_text_white",
+          "#3A4A5A": "distant_buildings_shadow"
+        },
+        "color_relationship": "cool_blue_sky_over_warm_hazy_city",
+        "temperature_balance": "cool_dominant",
+        "saturation_strategy": "low_naturalistic_atmospheric",
+        "contrast_type": "low_flat",
+        "accent_color": "#F2F2F0",
+        "accent_ratio": 0.05
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A single live-action cinematic establishing plate, letterboxed into a wide 2.39:1 cinemascope window with thick black bars inside a 16:9 raster, presented as the opening 'studio presentation' card of a mock blockbuster film trailer. The image is an extreme-wide high aerial vista looking out over a vast modern East Asian metropolis on a hazy overcast day: a dense field of mid-rise and high-rise buildings recedes toward a broad horizon, a wide river curves through the middle distance crossed by several long bridges, and a soft range of low blue-grey mountains fades into atmospheric haze at the back. Above stretches a tall, expansive sky streaked with soft white and pale-grey clouds, occupying the upper half of the cinemascope window. Centered over the cityscape, in clean elegant white type, is two-line trailer presentation typography: a small upper line reading 'Presented by' and a large flowing script-serif logotype reading 'Binggrae' beneath it, both in pure white (#F2F2F0) with a faint soft glow, fading in and holding. Composition: the title group sits dead-center on the lower third of the sky just above the skyline, giving an airy, balanced, premium-trailer feel with generous negative space in the clouds. Color palette: a cool blue-dominant sky (#8FB8D8) over warm hazy city midtones (#D8C8A8), a muted green-grey river (#5A6E5A), and deep blue-grey building shadows (#3A4A5A), all naturalistic and low-saturation. Lighting: soft overhead diffuse daylight at roughly 6500K with very high fill and almost no hard shadow, giving a flat, hazy, atmospheric look typical of a long-lens aerial city shot through urban haze. Textures: soft cloud gradients, finely detailed but haze-softened building facades, a faintly rippled reflective river surface, and gentle distance fog dissolving the far skyline. Atmosphere: epic, expansive, calm — the establishing scale-setting beat of a movie trailer before the story begins. Post / signature look: thin black cinemascope bars, a small white corner channel-bug logo top-left, fine cinematic grain, naturalistic low-contrast color grade. Style anchor: contemporary Korean live-action commercial / film-trailer cinematography, long-lens aerial city plate, 2024 broadcast-online polish. Fidelity note: the city is a generic anonymous metropolitan skyline with no identifiable landmark reproduced as a trademark; the white 'Presented by Binggrae' trailer title is on-screen brand copy preserved verbatim as it physically appears in the frame; any logo mark is rendered generically. Additional reproduction notes for the live-action and graphic register: this beat must read as a frame from a high-production-value Korean broadcast-online commercial or its motion-graphic title system, made between 2022 and 2025, with naturalistic warm-to-neutral color grading, fine clean grain reminiscent of a full-frame cinema sensor, smooth large-aperture bokeh, and composition following Korean commercial norms with centered hero subjects and generous negative space. There is no heavy stylization, no neon, and no HDR tone-mapping. Where typography appears it is the trailer's own crisp beveled metallic display lettering or product lockup composited cleanly over the photographic plate; where product appears it is lit as an appetizing low-key hero with a warm rim and a soft grounding shadow. The persistent cinemascope letterbox and the small corner channel-bug logo are part of the composite. Keep the premium, climactic 'this is the real thing' feeling intact. All people are generic and fictional with no resemblance to any real person or celebrity, and any logo, label or landmark is rendered as a generic placeholder treatment rather than a precise trademark reproduction, while the on-screen brand copy that physically appears is preserved verbatim.",
+        "t2i_negative": "people, characters, cartoon, animation, neon night city, heavy color grade, lens flare overload, extra text blocks, watermark, tilted horizon",
+        "i2v_motion": "near-static aerial plate with a very slow gentle drift and faint cloud movement; the white 'Presented by Binggrae' title fades up and holds; subtle atmospheric haze shimmer; hard cut to a black ember title card at 0.458s into the next beat",
+        "i2v_params": {
+          "clip_duration_sec": 0.458,
+          "camera_move": "near_static_slow_drift",
+          "subject_motion_level": "none",
+          "signature_effect": "cinemascope_letterbox_title_fade",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; live-action city is generic, no trademarked landmark; trailer title copy preserved verbatim"
+      }
+    },
+    {
+      "index": 4,
+      "duration": 1.252,
+      "framing": "FULL_FRAME_TITLE",
+      "function": "trailer_premise_title_card",
+      "subject_action": "no character; gold premise line glows into focus over a dark drifting ember field",
+      "layout_grid": "center_title_on_black",
+      "subject_position": "center",
+      "typo_motion": "fade_in_focus_glow",
+      "camera_angle": "flat_graphic",
+      "camera_facing": "graphic_plane",
+      "shot_scope": "full_frame_typographic",
+      "gaze": "none",
+      "props": [
+        "floating_ember_particles"
+      ],
+      "color_palette": [
+        "#1A0A06",
+        "#D9A23B",
+        "#E8B84A",
+        "#7A2E10",
+        "#F5D080"
+      ],
+      "color_intent": "epic_warm_gold_on_dark_ember",
+      "pose_description": "no figure; a single centered gold Korean sentence sharpens from blur amid scattered orange embers",
+      "subject_motion": "none_text_focus_pull",
+      "camera_motion": "static",
+      "camera_effect_local": "ember_particle_field_focus_pull",
+      "intra_cut_rhythm": "slow_build",
+      "transition_in": "hard_cut_from_cityscape",
+      "transition_out": "cut",
+      "mid_frame_path": "ADV-2026-049_frames/cut04_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "gold_premise_title_text",
+          "floating_embers"
+        ],
+        "midground": [],
+        "background": [
+          "dark_brown_black_void"
+        ],
+        "lighting_env": [
+          "self_lit_text_glow",
+          "ember_point_lights"
+        ],
+        "atmosphere": [
+          "epic_anticipatory_darkness"
+        ]
+      },
+      "texture": {
+        "primary_subject": "metallic_gold_glowing_type",
+        "secondary_objects": [
+          "soft_ember_bokeh"
+        ],
+        "background_surface": "deep_matte_dark_gradient",
+        "atmospheric": [
+          "drifting_spark_particles"
+        ]
+      },
+      "lighting": {
+        "key_direction": "self_emissive",
+        "key_hardness": "soft_glow",
+        "key_color_temp": "warm_2200K_ember",
+        "fill_strength": "very_low",
+        "key_to_fill_ratio": "high_contrast",
+        "rim_light": "none",
+        "practical_lights": [
+          "floating_ember_points"
+        ],
+        "shadow_presence": "near_total_darkness_surround",
+        "overall_contrast": "very_high"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#1A0A06",
+          "#D9A23B",
+          "#E8B84A",
+          "#7A2E10",
+          "#F5D080"
+        ],
+        "palette_role": {
+          "#1A0A06": "background_dark_dominant",
+          "#D9A23B": "gold_text_core",
+          "#E8B84A": "gold_text_highlight",
+          "#7A2E10": "ember_warm_brown",
+          "#F5D080": "bright_spark_accent"
+        },
+        "color_relationship": "monochromatic_warm_gold_on_near_black",
+        "temperature_balance": "warm_dominant",
+        "saturation_strategy": "rich_warm_gold_against_desaturated_dark",
+        "contrast_type": "high_chiaroscuro",
+        "accent_color": "#F5D080",
+        "accent_ratio": 0.04
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A single full-frame typographic trailer title card, letterboxed into a wide 2.39:1 cinemascope window with thick black bars inside a 16:9 raster, designed as the dramatic premise card of a mock epic film trailer. The frame is almost entirely a deep near-black, dark-brown void (#1A0A06) filled with a sparse field of small drifting orange-gold ember particles and floating sparks of varying focus, some sharp pinpoints and some soft glowing bokeh blobs, scattered across the darkness like embers rising in still air. Centered horizontally on the middle band of the frame is a single line of large bold metallic-gold Korean display typography reading exactly '잊혀진 왕실 커피를 되살리기 위해', the characters rendered in a rich brushed-gold gradient from deep amber (#D9A23B) up to bright highlight gold (#E8B84A) with a faint warm glow and subtle beveled metallic sheen, as if catching firelight. The text is the only bright element and sits dead-center with generous dark negative space above and below, conveying gravity and anticipation. Color palette is essentially monochromatic warm: near-black background dominant, gold text mid, warm ember browns (#7A2E10) scattered, and a few brightest spark accents (#F5D080) at roughly four percent coverage. Lighting is entirely self-emissive: the gold text and the ember points are their own warm 2200K light sources against a void with almost no fill, producing a very high-contrast chiaroscuro. Textures: crisp beveled metallic gold letterforms, soft circular ember bokeh, and a deep matte dark gradient with the faintest warm vignette glow behind the text. Atmosphere: epic, solemn, anticipatory — the 'in a world...' premise beat of a trailer establishing the hero's impossible mission, here comically grand for a coffee story (the line translates as 'to revive the forgotten royal coffee'). Post / signature look: thin black cinemascope bars, a small white corner channel-bug logo top-left reading the brand sub-mark, fine grain, and a warm cinematic grade pushing everything toward amber and shadow. Style anchor: contemporary Korean film-trailer motion-graphics, gold-on-black ember title convention, 2024 broadcast-online polish, mock-epic comedic register. Fidelity note: this is a pure typographic graphic with no characters or people; the gold Korean premise line is on-screen copy preserved verbatim exactly as it appears; any brand mark is generic. Additional reproduction notes for the live-action and graphic register: this beat must read as a frame from a high-production-value Korean broadcast-online commercial or its motion-graphic title system, made between 2022 and 2025, with naturalistic warm-to-neutral color grading, fine clean grain reminiscent of a full-frame cinema sensor, smooth large-aperture bokeh, and composition following Korean commercial norms with centered hero subjects and generous negative space. There is no heavy stylization, no neon, and no HDR tone-mapping. Where typography appears it is the trailer's own crisp beveled metallic display lettering or product lockup composited cleanly over the photographic plate; where product appears it is lit as an appetizing low-key hero with a warm rim and a soft grounding shadow. The persistent cinemascope letterbox and the small corner channel-bug logo are part of the composite. Keep the premium, climactic 'this is the real thing' feeling intact. All people are generic and fictional with no resemblance to any real person or celebrity, and any logo, label or landmark is rendered as a generic placeholder treatment rather than a precise trademark reproduction, while the on-screen brand copy that physically appears is preserved verbatim.",
+        "t2i_negative": "people, faces, characters, photographic background scene, bright daylight, cool colors, sans-serif latin body text, watermark, cluttered layout, low contrast",
+        "i2v_motion": "static camera; the gold premise line pulls from soft blur into sharp focus and holds while floating embers drift slowly upward and twinkle in and out of focus; faint warm glow pulses behind the text; hard cut at 1.252s",
+        "i2v_params": {
+          "clip_duration_sec": 1.252,
+          "camera_move": "static",
+          "subject_motion_level": "none_text_focus_pull",
+          "signature_effect": "ember_particle_field_gold_glow",
+          "pacing": "slow",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; pure typographic card; gold Korean copy preserved verbatim; brand mark generic"
+      }
+    },
+    {
+      "index": 5,
+      "duration": 1.961,
+      "framing": "WS",
+      "function": "hero_entrance_reveal",
+      "subject_action": "the red-haired prince, now in full 3D-CG royal regalia, stands silhouetted in a backlit dark doorway and steps forward",
+      "layout_grid": "center_symmetrical_corridor",
+      "subject_position": "center",
+      "typo_motion": "static_subtitle",
+      "camera_angle": "eye_level_frontal",
+      "camera_facing": "front",
+      "shot_scope": "wide_full_figure",
+      "gaze": "forward_toward_camera",
+      "props": [
+        "red_royal_cape",
+        "military_dress_uniform",
+        "tall_crowned_helmet",
+        "ceremonial_sash"
+      ],
+      "color_palette": [
+        "#B81E2A",
+        "#1C242C",
+        "#9FB0B8",
+        "#C9A24A",
+        "#0A0E12"
+      ],
+      "color_intent": "dramatic_backlit_heroic_silhouette",
+      "pose_description": "standing tall and centered, shoulders squared, framed by a doorway of bright cold light behind him, beginning to step toward camera",
+      "subject_motion": "slow_walk_forward",
+      "camera_motion": "slow_push_in",
+      "camera_effect_local": "volumetric_backlight_god_rays_cinemascope",
+      "intra_cut_rhythm": "slow_build",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "mid_frame_path": "ADV-2026-049_frames/cut05_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "prince_full_figure_silhouette"
+        ],
+        "midground": [
+          "dark_doorway_frame"
+        ],
+        "background": [
+          "bright_cold_light_source_behind_door",
+          "dark_corridor_walls"
+        ],
+        "lighting_env": [
+          "strong_cold_backlight",
+          "deep_ambient_shadow"
+        ],
+        "atmosphere": [
+          "dramatic_heroic_reveal",
+          "smoky_backlit_haze"
+        ]
+      },
+      "texture": {
+        "primary_subject": "3d_rendered_fabric_and_metal_regalia",
+        "secondary_objects": [
+          "cape_velvet",
+          "polished_helmet"
+        ],
+        "background_surface": "matte_dark_walls",
+        "atmospheric": [
+          "volumetric_light_haze"
+        ]
+      },
+      "lighting": {
+        "key_direction": "hard_back_center",
+        "key_hardness": "hard",
+        "key_color_temp": "cool_6000K_backlight",
+        "fill_strength": "very_low",
+        "key_to_fill_ratio": "8:1",
+        "rim_light": "strong_full_body_rim",
+        "practical_lights": [
+          "bright_doorway_light"
+        ],
+        "shadow_presence": "deep_enveloping",
+        "overall_contrast": "very_high"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#B81E2A",
+          "#1C242C",
+          "#9FB0B8",
+          "#C9A24A",
+          "#0A0E12"
+        ],
+        "palette_role": {
+          "#B81E2A": "cape_red_accent",
+          "#1C242C": "uniform_dark_blue",
+          "#9FB0B8": "cold_backlight_glow",
+          "#C9A24A": "gold_trim_helmet_accent",
+          "#0A0E12": "shadow_void_dominant"
+        },
+        "color_relationship": "warm_red_subject_against_cold_backlight",
+        "temperature_balance": "cold_environment_warm_accent",
+        "saturation_strategy": "muted_dark_with_saturated_red_accent",
+        "contrast_type": "high_silhouette_chiaroscuro",
+        "accent_color": "#B81E2A",
+        "accent_ratio": 0.1
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A single 3D-CG cinematic frame, letterboxed into a wide 2.39:1 cinemascope window with thick black bars inside a 16:9 raster, staged as the dramatic hero-reveal shot of a mock epic film trailer. The subject is a generic stylized animated prince-type male character, the same red-haired hero now rendered in volumetric 3D CG rather than flat 2D, standing tall and centered at full length within a dark interior doorway. Behind him a tall rectangular opening blazes with cold bright light (#9FB0B8) that turns him into a powerful backlit near-silhouette, a strong cold rim outlining his entire body and catching the edges of his crimson hair. He wears elaborate royal military dress regalia: a long flowing deep-red cape (#B81E2A) draping from the shoulders, a dark navy-black military tunic (#1C242C) with gold braid and metallic gold trim (#C9A24A) across the chest, a diagonal ceremonial sash, pale breeches, and a tall ornate crowned helmet or shako topped with a small plume. His shoulders are squared and his posture is statuesque and commanding as he begins to step forward out of the light. Composition is strongly symmetrical: the glowing doorway frames him dead-center, dark corridor walls and deep shadow (#0A0E12) fill the surrounding frame, and faint smoky volumetric haze drifts through the backlight as soft god-rays. Lighting setup: a single hard cold backlight at roughly 6000K from the doorway behind, with almost no frontal fill (about 8:1 key-to-fill), producing a high-contrast heroic silhouette with a brilliant full-body rim and deep enveloping shadow on the front of the figure. Color palette: a dominant near-black shadow void, a cold blue-grey light core, a richly saturated red cape as the single warm accent at about ten percent, and gold trim sparkles. Textures: 3D-rendered velvet cape, brushed metal and braid on the uniform, a polished helmet, matte dark walls, and atmospheric light haze. Atmosphere: grand, theatrical, mock-heroic — the protagonist emerging like a fantasy general, comically over-scaled for a coffee commercial. Post / signature look: thin black cinemascope bars, a small white corner channel-bug logo top-left, cinematic grain, deep crushed shadows and a cool-warm split grade. A centered yellow Korean dialogue subtitle sits in the lower third reading exactly '왕실 커피의 그 맛과 향!'. Style anchor: contemporary Korean 3D-CG brand-mascot cinematic, mock blockbuster trailer lighting, 2024 production. Fidelity note: the character is a generic stylized animated prince archetype with no resemblance to any specific copyrighted character or real person; any logo mark is generic; the Korean subtitle copy is preserved verbatim. Additional reproduction notes for the 3D-CG register: the image must read as a stylized cinematic 3D render in the manner of a high-end Korean animated brand film, toon-leaning but volumetric, with rounded form-aware shading, soft subsurface in the skin, anisotropic glossy hair, physically based fabric and metal, and genuine optical depth-of-field bokeh, distinctly not flat 2D and not live-action photography. Lighting is fully scene-motivated by the practical sources described, whether doorway backlight, warm roastery pendants or lab lamps, producing believable falloff, contact shadows and atmospheric volumetric haze. The cinemascope letterbox and a fine film grain are composited on top for trailer credibility. The grade is a warm-amber-versus-cool-shadow cinematic look with crushed blacks and protected warm highlights. Keep the mock-epic blockbuster register in the staging, the camera height and the hero's theatrical posture, while the comedy lives entirely in how grand the treatment is for a humble coffee story. All character identities and regalia are generic and fictional with no resemblance to any real or copyrighted character, and any logo mark is a generic placeholder.",
+        "t2i_negative": "live action human, flat 2d cel shading, bright even lighting, daylight, cluttered background props, multiple figures, extra text, watermark, deformed proportions",
+        "i2v_motion": "camera slowly pushes in toward the doorway over ~2s while the backlit prince takes slow deliberate steps forward, his cape and the volumetric haze drifting; cold rim light intensifies as he advances; hard cut at 1.961s",
+        "i2v_params": {
+          "clip_duration_sec": 1.961,
+          "camera_move": "slow_push_in",
+          "subject_motion_level": "medium_walk_forward",
+          "signature_effect": "volumetric_backlight_silhouette",
+          "pacing": "slow_build",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen subtitle preserved; character identity and regalia generic, no trademarked design"
+      }
+    },
+    {
+      "index": 6,
+      "duration": 1.71,
+      "framing": "MCU",
+      "function": "hero_declaration",
+      "subject_action": "the 3D-CG red-haired prince in regalia faces camera and vows to recreate the royal coffee",
+      "layout_grid": "center_symmetrical",
+      "subject_position": "center",
+      "typo_motion": "static_subtitle",
+      "camera_angle": "eye_level_slight_low",
+      "camera_facing": "front",
+      "shot_scope": "medium_close_up_chest_up",
+      "gaze": "forward_determined",
+      "props": [
+        "military_dress_uniform",
+        "ceremonial_sash",
+        "gold_epaulettes"
+      ],
+      "color_palette": [
+        "#C01E2C",
+        "#1E2730",
+        "#A6B4BC",
+        "#C9A24A",
+        "#0C1014"
+      ],
+      "color_intent": "determined_heroic_warm_red_in_cool_gloom",
+      "pose_description": "chest-up frontal, chin level, eyes narrowed with resolve, shoulders broad, faint backlight still rimming the figure",
+      "subject_motion": "subtle_lean_forward_and_lips_moving",
+      "camera_motion": "near_locked_slow_push",
+      "camera_effect_local": "soft_backlight_rim_cinemascope",
+      "intra_cut_rhythm": "steady",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "mid_frame_path": "ADV-2026-049_frames/cut06_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "prince_chest_and_head"
+        ],
+        "midground": [
+          "uniform_detail_braid_sash"
+        ],
+        "background": [
+          "dim_corridor_glow",
+          "soft_backlight_haze"
+        ],
+        "lighting_env": [
+          "cool_backlight",
+          "low_warm_fill"
+        ],
+        "atmosphere": [
+          "resolute_dramatic_gloom"
+        ]
+      },
+      "texture": {
+        "primary_subject": "3d_skin_and_glossy_hair",
+        "secondary_objects": [
+          "gold_braid",
+          "uniform_fabric"
+        ],
+        "background_surface": "soft_dark_haze",
+        "atmospheric": [
+          "faint_volumetric_light"
+        ]
+      },
+      "lighting": {
+        "key_direction": "back_with_soft_front_fill",
+        "key_hardness": "medium",
+        "key_color_temp": "cool_5800K_back_warm_fill",
+        "fill_strength": "low_medium",
+        "key_to_fill_ratio": "4:1",
+        "rim_light": "strong_edge_rim",
+        "practical_lights": [
+          "corridor_backlight"
+        ],
+        "shadow_presence": "deep_on_front_planes",
+        "overall_contrast": "high"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#C01E2C",
+          "#1E2730",
+          "#A6B4BC",
+          "#C9A24A",
+          "#0C1014"
+        ],
+        "palette_role": {
+          "#C01E2C": "cape_collar_red_accent",
+          "#1E2730": "uniform_dark",
+          "#A6B4BC": "cool_rim_glow",
+          "#C9A24A": "gold_braid_accent",
+          "#0C1014": "shadow_dominant"
+        },
+        "color_relationship": "warm_red_accent_in_cool_dark",
+        "temperature_balance": "cool_dominant_warm_accent",
+        "saturation_strategy": "dark_muted_with_red_and_gold_pops",
+        "contrast_type": "high_chiaroscuro",
+        "accent_color": "#C01E2C",
+        "accent_ratio": 0.12
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A single 3D-CG cinematic frame, letterboxed into a wide 2.39:1 cinemascope window with thick black bars inside a 16:9 raster, staged as the hero's resolute close-up declaration in a mock epic film trailer. The subject is a generic stylized animated prince-type male character rendered in volumetric 3D CG, framed from the chest up, centered and facing the camera frontally at a slightly low heroic angle. He has crimson-red layered hair with soft 3D specular sheen, large determined eyes narrowed with resolve, smooth subsurface-shaded skin, and a set jaw, his lips moving as he speaks a vow. He wears the royal military dress uniform: a dark navy-black tunic (#1E2730) with gold braid and a diagonal ceremonial sash across the chest, gold epaulettes and a high red-trimmed collar (#C01E2C), the deep-red cape just visible at the shoulders. Composition centers his head and chest on the vertical axis with symmetrical framing; behind him a dim corridor recedes into soft cool backlight glow (#A6B4BC) and faint volumetric haze, keeping the background dark and shallow. Lighting setup: a cool backlight at roughly 5800K rims his hair and shoulders strongly while a low warm frontal fill (about 4:1) barely lifts the front planes of his face out of shadow, giving a moody high-contrast portrait with brilliant edge rim and deep shadow on the cheeks and chest. Color palette: dominant near-black shadow, cool rim glow, with saturated red collar/cape and gold braid as warm accents totaling around twelve percent. Textures: 3D-rendered skin with soft subsurface, glossy hair, brushed gold braid, matte uniform fabric, and a softly hazed dark backdrop. Atmosphere: intense, determined, theatrically heroic — the protagonist swearing to accomplish his quest, comically grand for a beverage. Post / signature look: thin black cinemascope bars, a small white corner channel-bug logo top-left, cinematic grain, crushed shadows, and a cool-warm split grade. A centered yellow Korean dialogue subtitle sits in the lower third reading exactly '내가 반드시 재현하겠어!'. Style anchor: contemporary Korean 3D-CG brand-mascot cinematic, mock blockbuster trailer register, 2024 production. Fidelity note: the character is a generic stylized animated prince archetype with no resemblance to any specific copyrighted character or real person; any logo mark is generic; the Korean subtitle copy is preserved verbatim (the line means 'I will definitely recreate it'). Additional reproduction notes for the 3D-CG register: the image must read as a stylized cinematic 3D render in the manner of a high-end Korean animated brand film, toon-leaning but volumetric, with rounded form-aware shading, soft subsurface in the skin, anisotropic glossy hair, physically based fabric and metal, and genuine optical depth-of-field bokeh, distinctly not flat 2D and not live-action photography. Lighting is fully scene-motivated by the practical sources described, whether doorway backlight, warm roastery pendants or lab lamps, producing believable falloff, contact shadows and atmospheric volumetric haze. The cinemascope letterbox and a fine film grain are composited on top for trailer credibility. The grade is a warm-amber-versus-cool-shadow cinematic look with crushed blacks and protected warm highlights. Keep the mock-epic blockbuster register in the staging, the camera height and the hero's theatrical posture, while the comedy lives entirely in how grand the treatment is for a humble coffee story. All character identities and regalia are generic and fictional with no resemblance to any real or copyrighted character, and any logo mark is a generic placeholder.",
+        "t2i_negative": "live action, flat 2d, bright flat lighting, daylight exterior, busy background, multiple people, latin body text, watermark, malformed face",
+        "i2v_motion": "camera holds with a subtle slow push-in; the prince leans slightly forward, eyes hardening, lips moving through one determined line; rim light flickers faintly with drifting haze; hard cut at 1.71s",
+        "i2v_params": {
+          "clip_duration_sec": 1.71,
+          "camera_move": "subtle_push_in",
+          "subject_motion_level": "low_talking_lean",
+          "signature_effect": "backlight_rim_cinemascope",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen subtitle preserved; identity/regalia generic"
+      }
+    },
+    {
+      "index": 7,
+      "duration": 0.667,
+      "framing": "FULL_FRAME_TITLE",
+      "function": "trailer_ensemble_announcement_card",
+      "subject_action": "no character; a gold ensemble-cast announcement line glows over the drifting ember field",
+      "layout_grid": "center_title_on_black",
+      "subject_position": "center",
+      "typo_motion": "fade_in_glow",
+      "camera_angle": "flat_graphic",
+      "camera_facing": "graphic_plane",
+      "shot_scope": "full_frame_typographic",
+      "gaze": "none",
+      "props": [
+        "floating_ember_particles"
+      ],
+      "color_palette": [
+        "#1A0A06",
+        "#D9A23B",
+        "#E8B84A",
+        "#7A2E10",
+        "#F5D080"
+      ],
+      "color_intent": "epic_warm_gold_on_dark_ember",
+      "pose_description": "no figure; a single centered gold Korean sentence holds amid scattered orange embers",
+      "subject_motion": "none_static_text",
+      "camera_motion": "static",
+      "camera_effect_local": "ember_particle_field",
+      "intra_cut_rhythm": "staccato",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "mid_frame_path": "ADV-2026-049_frames/cut07_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "gold_ensemble_title_text",
+          "floating_embers"
+        ],
+        "midground": [],
+        "background": [
+          "dark_brown_black_void"
+        ],
+        "lighting_env": [
+          "self_lit_text_glow",
+          "ember_point_lights"
+        ],
+        "atmosphere": [
+          "epic_anticipatory_darkness"
+        ]
+      },
+      "texture": {
+        "primary_subject": "metallic_gold_glowing_type",
+        "secondary_objects": [
+          "soft_ember_bokeh"
+        ],
+        "background_surface": "deep_matte_dark_gradient",
+        "atmospheric": [
+          "drifting_spark_particles"
+        ]
+      },
+      "lighting": {
+        "key_direction": "self_emissive",
+        "key_hardness": "soft_glow",
+        "key_color_temp": "warm_2200K_ember",
+        "fill_strength": "very_low",
+        "key_to_fill_ratio": "high_contrast",
+        "rim_light": "none",
+        "practical_lights": [
+          "floating_ember_points"
+        ],
+        "shadow_presence": "near_total_darkness_surround",
+        "overall_contrast": "very_high"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#1A0A06",
+          "#D9A23B",
+          "#E8B84A",
+          "#7A2E10",
+          "#F5D080"
+        ],
+        "palette_role": {
+          "#1A0A06": "background_dark_dominant",
+          "#D9A23B": "gold_text_core",
+          "#E8B84A": "gold_text_highlight",
+          "#7A2E10": "ember_warm_brown",
+          "#F5D080": "bright_spark_accent"
+        },
+        "color_relationship": "monochromatic_warm_gold_on_near_black",
+        "temperature_balance": "warm_dominant",
+        "saturation_strategy": "rich_warm_gold_against_desaturated_dark",
+        "contrast_type": "high_chiaroscuro",
+        "accent_color": "#F5D080",
+        "accent_ratio": 0.04
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A single full-frame typographic trailer title card, letterboxed into a wide 2.39:1 cinemascope window with thick black bars inside a 16:9 raster, designed as the ensemble-cast announcement beat of a mock epic film trailer. The frame is an almost entirely deep near-black, dark-brown void (#1A0A06) populated by a sparse field of drifting orange-gold ember particles and floating sparks at mixed focus depths, rising softly through the dark like the embers of a roaster. Centered horizontally on the middle band is a single line of large bold metallic-gold Korean display typography reading exactly '빙그레우스와 스페셜리스트들이 뭉쳤다!', the characters rendered in a brushed-gold gradient from deep amber (#D9A23B) to bright highlight gold (#E8B84A) with a warm glow and beveled metallic sheen as though catching firelight, set against the void with broad dark negative space above and below. The text is the only bright graphic element and reads as a triumphant cast-assembly announcement (it means 'Binggraeus and the specialists have united!'). Color palette is monochromatic warm: near-black dominant, gold text mid, scattered warm ember browns (#7A2E10), and a few brightest spark accents (#F5D080) at about four percent. Lighting is entirely self-emissive — the gold text and ember points are their own warm 2200K light sources against an unlit void with negligible fill, producing extreme chiaroscuro. Textures: crisp beveled metallic gold letterforms, soft circular ember bokeh, and a deep matte dark gradient with a faint warm vignette glow behind the text. Atmosphere: epic, building, comedic-grand — the trailer beat that name-drops the heroic ensemble. Post / signature look: thin black cinemascope bars, a small white corner channel-bug logo top-left, fine grain, and a warm amber-and-shadow cinematic grade. Style anchor: contemporary Korean film-trailer motion-graphics, gold-on-black ember title convention, 2024 broadcast-online polish, mock-epic comedic register. This is a brief staccato card held only two-thirds of a second between live-action cutaways. Fidelity note: a pure typographic graphic with no characters or people; the gold Korean announcement line is on-screen copy preserved verbatim; any brand mark is generic. Additional reproduction notes for the live-action and graphic register: this beat must read as a frame from a high-production-value Korean broadcast-online commercial or its motion-graphic title system, made between 2022 and 2025, with naturalistic warm-to-neutral color grading, fine clean grain reminiscent of a full-frame cinema sensor, smooth large-aperture bokeh, and composition following Korean commercial norms with centered hero subjects and generous negative space. There is no heavy stylization, no neon, and no HDR tone-mapping. Where typography appears it is the trailer's own crisp beveled metallic display lettering or product lockup composited cleanly over the photographic plate; where product appears it is lit as an appetizing low-key hero with a warm rim and a soft grounding shadow. The persistent cinemascope letterbox and the small corner channel-bug logo are part of the composite. Keep the premium, climactic 'this is the real thing' feeling intact. All people are generic and fictional with no resemblance to any real person or celebrity, and any logo, label or landmark is rendered as a generic placeholder treatment rather than a precise trademark reproduction, while the on-screen brand copy that physically appears is preserved verbatim.",
+        "t2i_negative": "people, faces, characters, photographic scene, daylight, cool palette, latin paragraph text, watermark, busy graphic clutter, low contrast",
+        "i2v_motion": "static camera; the gold announcement line glows in and holds briefly while embers drift upward and twinkle; faint warm pulse behind text; hard cut at 0.667s into the live-action ensemble panels",
+        "i2v_params": {
+          "clip_duration_sec": 0.667,
+          "camera_move": "static",
+          "subject_motion_level": "none_text_hold",
+          "signature_effect": "ember_particle_field_gold_glow",
+          "pacing": "staccato",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; pure typographic card; gold Korean copy preserved verbatim; brand mark generic"
+      }
+    },
+    {
+      "index": 8,
+      "duration": 1.168,
+      "framing": "WS",
+      "function": "ensemble_cast_introduction_live_action",
+      "subject_action": "three live-action specialist characters appear in a three-panel split, each with a name and role title burning in",
+      "layout_grid": "vertical_triptych_split_screen",
+      "subject_position": "three_panels_left_center_right",
+      "typo_motion": "scale_burst_in_per_panel",
+      "camera_angle": "eye_level_per_panel",
+      "camera_facing": "front_three_quarter",
+      "shot_scope": "three_simultaneous_close_ups",
+      "gaze": "varied_off_camera_and_to_camera",
+      "props": [
+        "barista_apron",
+        "casual_outerwear",
+        "split_screen_dividers"
+      ],
+      "color_palette": [
+        "#C9A24A",
+        "#7FBF6A",
+        "#2A2620",
+        "#D8CFC4",
+        "#E03C2A"
+      ],
+      "color_intent": "cinematic_desaturated_portraits_with_burning_name_titles",
+      "pose_description": "left panel a long-haired man smiling, center panel a woman with red lip half-smiling looking up, right panel a foreign man with mustache reacting with raised brow",
+      "subject_motion": "subtle_per_panel_micro_movement",
+      "camera_motion": "locked_per_panel",
+      "camera_effect_local": "split_screen_compositing_title_burst",
+      "intra_cut_rhythm": "staccato",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "mid_frame_path": "ADV-2026-049_frames/cut08_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "three_character_portraits",
+          "gold_green_name_titles"
+        ],
+        "midground": [
+          "panel_dividers"
+        ],
+        "background": [
+          "blurred_urban_and_interior_settings_per_panel"
+        ],
+        "lighting_env": [
+          "cinematic_portrait_lighting_per_panel",
+          "desaturated_grade"
+        ],
+        "atmosphere": [
+          "epic_cast_lineup_montage"
+        ]
+      },
+      "texture": {
+        "primary_subject": "photographic_skin_and_hair",
+        "secondary_objects": [
+          "fabric_apron_and_jackets",
+          "beveled_title_type"
+        ],
+        "background_surface": "soft_bokeh_per_panel",
+        "atmospheric": [
+          "cinematic_haze"
+        ]
+      },
+      "lighting": {
+        "key_direction": "side_front_per_panel",
+        "key_hardness": "medium",
+        "key_color_temp": "neutral_to_warm_per_panel",
+        "fill_strength": "low_medium",
+        "key_to_fill_ratio": "3:1",
+        "rim_light": "edge_rim_per_panel",
+        "practical_lights": [
+          "ambient_location_light"
+        ],
+        "shadow_presence": "moody_per_panel",
+        "overall_contrast": "medium_high"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#C9A24A",
+          "#7FBF6A",
+          "#2A2620",
+          "#D8CFC4",
+          "#E03C2A"
+        ],
+        "palette_role": {
+          "#C9A24A": "gold_name_title_left_right",
+          "#7FBF6A": "green_name_title_center",
+          "#2A2620": "dark_desaturated_bg",
+          "#D8CFC4": "skin_and_garment_midtone",
+          "#E03C2A": "red_lipstick_accent"
+        },
+        "color_relationship": "desaturated_portraits_with_saturated_title_color_pops",
+        "temperature_balance": "neutral_desaturated",
+        "saturation_strategy": "muted_film_grade_with_bright_title_accents",
+        "contrast_type": "medium_high_cinematic",
+        "accent_color": "#7FBF6A",
+        "accent_ratio": 0.1
+      },
+      "panel_layout": {
+        "type": "vertical_triptych",
+        "panels": [
+          {
+            "rect_pct": [
+              0,
+              0,
+              33.3,
+              100
+            ],
+            "size_ratio": 0.333,
+            "content": "live_action_long_haired_man_smiling_three_quarter",
+            "text_in_panel": "프레스토 / 추출 스페셜리스트",
+            "divider": "thin_vertical_seam"
+          },
+          {
+            "rect_pct": [
+              33.3,
+              0,
+              33.4,
+              100
+            ],
+            "size_ratio": 0.334,
+            "content": "live_action_woman_red_lip_half_smile_looking_up",
+            "text_in_panel": "완다 / 원두 스페셜리스트",
+            "divider": "thin_vertical_seam"
+          },
+          {
+            "rect_pct": [
+              66.7,
+              0,
+              33.3,
+              100
+            ],
+            "size_ratio": 0.333,
+            "content": "live_action_foreign_man_mustache_raised_brow_reaction",
+            "text_in_panel": "로스티노 / 로스팅 스페셜리스트",
+            "divider": "none_frame_edge"
+          }
+        ]
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A single live-action cinematic frame composited as a three-panel vertical split-screen triptych, letterboxed into a wide 2.39:1 cinemascope window with thin black bars inside a 16:9 raster, staged as the ensemble-cast lineup beat of a mock epic film trailer. The frame is divided by two thin vertical seams into three equal full-height portrait panels, each a separately shot cinematic close-up of a generic person introduced as a coffee 'specialist' character, all under a moody desaturated film grade. Left panel: a generic East Asian man in his thirties with long wavy dark hair past the shoulders and a light beard, wearing a textured cream knit sweater, smiling warmly at three-quarter angle against a soft pale urban bokeh; a large beveled gold (#C9A24A) Korean name title bursts up across his lower body reading exactly '프레스토' with a smaller subtitle '추출 스페셜리스트'. Center panel: a generic East Asian woman in her late twenties with straight dark hair, bold red lipstick (#E03C2A) and a half-smile, head tilted slightly up, wearing a light shirt under a brown apron strap, against a warm interior bokeh; a large beveled green (#7FBF6A) Korean name title reads exactly '완다' with a smaller subtitle '원두 스페셜리스트'. Right panel: a generic Western/Caucasian man in his thirties with short blond hair and a mustache, brow raised in a comic surprised reaction, wearing a checked shirt under a dark jacket against a cool concrete background; a large beveled gold Korean name title reads '로스티노' with a smaller subtitle '로스팅 스페셜리스트'. Composition: three centered head-and-shoulders portraits, one per panel, with the burning name titles occupying the lower third of each panel; the seams are clean thin dark lines. Lighting per panel is cinematic portrait style — a medium side-front key at about 3:1 with an edge rim and moody shadow, color-graded desaturated with neutral-to-warm balance. Color palette: muted dark backgrounds (#2A2620) and midtone skin/garments (#D8CFC4) under the desaturated grade, punctuated by saturated gold and green title type and a red-lip accent totaling about ten percent. Textures: photographic skin and hair, knit and woven fabrics, an apron strap, and crisp beveled metallic title lettering, all over soft per-panel bokeh and a faint cinematic haze. Atmosphere: a triumphant 'assemble the team' montage, comically applied to coffee artisans. Panel decomposition: render as three independent vertical thirds, left/center/right, each its own portrait and name title as specified, separated by thin vertical seams. Post / signature look: thin black cinemascope bars, a small white corner channel-bug logo top-left, fine grain, desaturated cinematic grade. Style anchor: contemporary Korean live-action commercial / film-trailer cast-card cinematography, 2024 broadcast-online polish. Fidelity note: all three people are generic and fictional with no resemblance to any real person or celebrity; the Korean name and role titles are on-screen character copy preserved verbatim; any brand mark is generic. Additional reproduction notes for the live-action and graphic register: this beat must read as a frame from a high-production-value Korean broadcast-online commercial or its motion-graphic title system, made between 2022 and 2025, with naturalistic warm-to-neutral color grading, fine clean grain reminiscent of a full-frame cinema sensor, smooth large-aperture bokeh, and composition following Korean commercial norms with centered hero subjects and generous negative space. There is no heavy stylization, no neon, and no HDR tone-mapping. Where typography appears it is the trailer's own crisp beveled metallic display lettering or product lockup composited cleanly over the photographic plate; where product appears it is lit as an appetizing low-key hero with a warm rim and a soft grounding shadow. The persistent cinemascope letterbox and the small corner channel-bug logo are part of the composite. Keep the premium, climactic 'this is the real thing' feeling intact. All people are generic and fictional with no resemblance to any real person or celebrity, and any logo, label or landmark is rendered as a generic placeholder treatment rather than a precise trademark reproduction, while the on-screen brand copy that physically appears is preserved verbatim.",
+        "t2i_negative": "single full-frame portrait, animation, cartoon, bright saturated grade, daylight flat lighting, latin paragraph text, watermark, deformed faces, merged panels",
+        "i2v_motion": "all three panels hold as a locked composite while each subject makes a tiny micro-movement (left man's smile widens, center woman's gaze shifts, right man's brow lifts); the three Korean name titles scale-burst into place one after another; hard cut at 1.168s",
+        "i2v_params": {
+          "clip_duration_sec": 1.168,
+          "camera_move": "locked_per_panel",
+          "subject_motion_level": "low_micro_per_panel",
+          "signature_effect": "split_screen_title_burst",
+          "pacing": "staccato",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; three-panel split decomposed; on-screen name/role copy preserved verbatim; all identities generic"
+      }
+    },
+    {
+      "index": 9,
+      "duration": 1.001,
+      "framing": "MS",
+      "function": "comedic_retake_gag",
+      "subject_action": "the 3D-CG prince, now in a white barista uniform, lunges repeatedly across a jar-lined counter trying again and again",
+      "layout_grid": "left_subject_right_jars",
+      "subject_position": "center_left",
+      "typo_motion": "static_subtitle",
+      "camera_angle": "eye_level",
+      "camera_facing": "three_quarter_left",
+      "shot_scope": "medium_to_wide_figure",
+      "gaze": "down_at_counter",
+      "props": [
+        "glass_coffee_jars",
+        "white_coffee_cups",
+        "long_lab_counter",
+        "white_barista_uniform_red_necktie"
+      ],
+      "color_palette": [
+        "#C81E2C",
+        "#F0EEE8",
+        "#7A4A20",
+        "#3A2E22",
+        "#E0A040"
+      ],
+      "color_intent": "warm_roastery_amber_with_white_uniform",
+      "pose_description": "leaning sharply forward across the counter, arm extended reaching, body in dynamic mid-lunge, frustrated expression",
+      "subject_motion": "repeated_lunging_reaching_gesture",
+      "camera_motion": "near_locked_slight_handheld_jitter",
+      "camera_effect_local": "shallow_dof_warm_bokeh_cinemascope",
+      "intra_cut_rhythm": "staccato",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "mid_frame_path": "ADV-2026-049_frames/cut09_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "prince_lunging_figure",
+          "glass_jars_row"
+        ],
+        "midground": [
+          "long_counter",
+          "white_cups"
+        ],
+        "background": [
+          "blurred_roastery_shelves",
+          "warm_pendant_lights"
+        ],
+        "lighting_env": [
+          "warm_tungsten_roastery",
+          "low_key_amber"
+        ],
+        "atmosphere": [
+          "busy_workshop_comedic_urgency"
+        ]
+      },
+      "texture": {
+        "primary_subject": "3d_white_uniform_fabric_and_glossy_hair",
+        "secondary_objects": [
+          "clear_glass_jars",
+          "ceramic_cups"
+        ],
+        "background_surface": "blurred_wood_and_brick",
+        "atmospheric": [
+          "warm_bokeh_glow"
+        ]
+      },
+      "lighting": {
+        "key_direction": "top_warm_practical",
+        "key_hardness": "medium_soft",
+        "key_color_temp": "warm_2800K",
+        "fill_strength": "low",
+        "key_to_fill_ratio": "4:1",
+        "rim_light": "warm_edge_from_pendants",
+        "practical_lights": [
+          "pendant_warm_lamps"
+        ],
+        "shadow_presence": "deep_warm_shadow",
+        "overall_contrast": "high"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#C81E2C",
+          "#F0EEE8",
+          "#7A4A20",
+          "#3A2E22",
+          "#E0A040"
+        ],
+        "palette_role": {
+          "#C81E2C": "necktie_red_accent",
+          "#F0EEE8": "white_uniform_dominant",
+          "#7A4A20": "coffee_brown_in_jars",
+          "#3A2E22": "dark_warm_bg",
+          "#E0A040": "warm_lamp_glow_accent"
+        },
+        "color_relationship": "warm_amber_environment_with_white_uniform_and_red_accent",
+        "temperature_balance": "warm_dominant",
+        "saturation_strategy": "warm_low_key_with_bright_white_and_red_pops",
+        "contrast_type": "high_warm_chiaroscuro",
+        "accent_color": "#C81E2C",
+        "accent_ratio": 0.07
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A single 3D-CG cinematic frame, letterboxed into a wide 2.39:1 cinemascope window with thick black bars inside a 16:9 raster, staged as a comedic 'try again' retake beat in a mock epic trailer. The subject is a generic stylized animated prince-type male character rendered in volumetric 3D CG, the same red-haired hero but now dressed as a barista artisan: a crisp double-breasted white chef/barista jacket (#F0EEE8) with gold buttons and a bright red necktie (#C81E2C), crimson hair pulled back. He is caught mid-action lunging sharply forward across a long counter, torso bent low and one arm thrown out reaching toward something, his face set in comic frustration, his pose dynamic and off-balance as if repeating an attempt over and over. The counter before him is lined with a receding row of clear glass jars and bottles filled with dark coffee liquid (#7A4A20) and a few white ceramic cups, catching warm rim highlights. Composition places the lunging figure on the center-left with the glass jars sweeping across the right and into the background, the diagonal of his reach driving energy across the frame. Behind him a roastery / coffee-workshop interior dissolves into warm shallow-DOF bokeh of wooden shelving, brick, and glowing warm pendant lamps (#E0A040). Lighting setup: warm practical top light at roughly 2800K from overhead pendants, low fill (about 4:1), warm edge rim on the white jacket and hair, and deep warm shadow filling the background — a moody amber low-key roastery look. Color palette: warm amber environment dominant, bright white uniform as the key value, coffee browns, and a saturated red necktie accent at about seven percent. Textures: 3D-rendered crisp white twill jacket, glossy hair, clear refractive glass jars, ceramic cups, and softly blurred wood and brick. Atmosphere: busy, comedic, urgent — the hero failing and retrying, the visual joke under the line 'again!'. Post / signature look: thin black cinemascope bars, a small white corner channel-bug logo top-left, cinematic grain, warm low-key grade. A centered yellow Korean dialogue subtitle sits in the lower third reading exactly '다시!'. Style anchor: contemporary Korean 3D-CG brand-mascot cinematic, warm artisan-roastery setting, mock blockbuster comedic register, 2024 production. Fidelity note: the character is a generic stylized animated prince/barista archetype with no resemblance to any specific copyrighted character or real person; any logo mark is generic; the Korean subtitle copy is preserved verbatim. Additional reproduction notes for the 3D-CG register: the image must read as a stylized cinematic 3D render in the manner of a high-end Korean animated brand film, toon-leaning but volumetric, with rounded form-aware shading, soft subsurface in the skin, anisotropic glossy hair, physically based fabric and metal, and genuine optical depth-of-field bokeh, distinctly not flat 2D and not live-action photography. Lighting is fully scene-motivated by the practical sources described, whether doorway backlight, warm roastery pendants or lab lamps, producing believable falloff, contact shadows and atmospheric volumetric haze. The cinemascope letterbox and a fine film grain are composited on top for trailer credibility. The grade is a warm-amber-versus-cool-shadow cinematic look with crushed blacks and protected warm highlights. Keep the mock-epic blockbuster register in the staging, the camera height and the hero's theatrical posture, while the comedy lives entirely in how grand the treatment is for a humble coffee story. All character identities and regalia are generic and fictional with no resemblance to any real or copyrighted character, and any logo mark is a generic placeholder.",
+        "t2i_negative": "live action human, flat 2d cel shading, cool daylight, clean studio white background, multiple distinct characters, latin text, watermark, deformed reaching arm",
+        "i2v_motion": "near-locked camera with faint handheld-style jitter; the prince lunges forward and reaches repeatedly across the jar-lined counter in fast comedic retake motion, jars and cups trembling slightly; warm bokeh shimmers; hard cut at 1.001s",
+        "i2v_params": {
+          "clip_duration_sec": 1.001,
+          "camera_move": "near_locked_jitter",
+          "subject_motion_level": "high_repeated_lunge",
+          "signature_effect": "warm_shallow_dof_cinemascope",
+          "pacing": "staccato",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; intra-cut repeated-lunge gag captured; on-screen subtitle preserved; identity/logo generic"
+      }
+    },
+    {
+      "index": 10,
+      "duration": 2.377,
+      "framing": "MS",
+      "function": "emotional_low_point_reflection",
+      "subject_action": "the 3D-CG prince stands at a lab bench of coffee beakers, hands clasped to his chin, eyes closed in doubt",
+      "layout_grid": "center_symmetrical_bench",
+      "subject_position": "center",
+      "typo_motion": "static_subtitle",
+      "camera_angle": "eye_level",
+      "camera_facing": "front",
+      "shot_scope": "medium_shot_waist_up",
+      "gaze": "downcast_eyes_closed",
+      "props": [
+        "glass_beakers_of_coffee",
+        "pour_over_drippers",
+        "lab_bench",
+        "white_barista_uniform_red_necktie"
+      ],
+      "color_palette": [
+        "#C61E2C",
+        "#EFEDE6",
+        "#6E4218",
+        "#2C211A",
+        "#D89838"
+      ],
+      "color_intent": "warm_pensive_amber_lab_introspection",
+      "pose_description": "standing upright and centered, both hands raised and fingers interlaced beneath the chin, eyes closed, head slightly bowed in contemplation",
+      "subject_motion": "near_still_subtle_breathing_and_lips",
+      "camera_motion": "very_slow_push_in",
+      "camera_effect_local": "shallow_dof_warm_bokeh_cinemascope",
+      "intra_cut_rhythm": "slow_build",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "mid_frame_path": "ADV-2026-049_frames/cut10_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "prince_clasped_hands_and_torso"
+        ],
+        "midground": [
+          "lab_bench_with_beakers_and_drippers"
+        ],
+        "background": [
+          "blurred_warm_roastery_lights",
+          "shelving"
+        ],
+        "lighting_env": [
+          "warm_tungsten_low_key",
+          "soft_practical_glow"
+        ],
+        "atmosphere": [
+          "pensive_quiet_doubt"
+        ]
+      },
+      "texture": {
+        "primary_subject": "3d_white_uniform_and_glossy_hair_and_skin",
+        "secondary_objects": [
+          "glass_beakers",
+          "metal_dripper_stands"
+        ],
+        "background_surface": "soft_warm_bokeh",
+        "atmospheric": [
+          "warm_haze_glow"
+        ]
+      },
+      "lighting": {
+        "key_direction": "soft_front_top",
+        "key_hardness": "soft",
+        "key_color_temp": "warm_3000K",
+        "fill_strength": "medium",
+        "key_to_fill_ratio": "3:1",
+        "rim_light": "soft_warm_edge",
+        "practical_lights": [
+          "roastery_warm_lamps"
+        ],
+        "shadow_presence": "soft_warm_shadow",
+        "overall_contrast": "medium_high"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#C61E2C",
+          "#EFEDE6",
+          "#6E4218",
+          "#2C211A",
+          "#D89838"
+        ],
+        "palette_role": {
+          "#C61E2C": "necktie_red_accent",
+          "#EFEDE6": "white_uniform_dominant",
+          "#6E4218": "coffee_brown_beakers",
+          "#2C211A": "dark_warm_bg",
+          "#D89838": "warm_lamp_glow_accent"
+        },
+        "color_relationship": "warm_amber_with_white_uniform_red_accent",
+        "temperature_balance": "warm_dominant",
+        "saturation_strategy": "warm_low_key_with_white_and_red_pops",
+        "contrast_type": "medium_high_warm",
+        "accent_color": "#C61E2C",
+        "accent_ratio": 0.07
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A single 3D-CG cinematic frame, letterboxed into a wide 2.39:1 cinemascope window with thick black bars inside a 16:9 raster, staged as the quiet emotional low-point beat of a mock epic trailer. The subject is a generic stylized animated prince-type male character rendered in volumetric 3D CG, the same red-haired hero dressed as a barista artisan in a crisp double-breasted white jacket (#EFEDE6) with gold buttons and a bright red necktie (#C61E2C), crimson hair tied back. He stands upright and perfectly centered behind a laboratory-style coffee bench, both hands raised and fingers interlaced just beneath his chin in a contemplative, almost prayerful gesture, eyes gently closed and head slightly bowed, his expression pensive and doubtful as he murmurs to himself. On the bench in front of him sits an array of glass beakers and flasks filled with dark coffee (#6E4218), pour-over drippers and metal stands, the apparatus of a coffee laboratory. Composition is calm and symmetrical: the figure centered on the vertical axis, the bench instruments arrayed across the lower third, and a warm out-of-focus roastery interior of glowing lamps and shelving (#D89838) filling the background in shallow depth of field. Lighting setup: a soft warm front-top key at roughly 3000K with medium fill (about 3:1), a soft warm edge rim on the white jacket and hair, and gentle warm shadow, creating an intimate reflective mood. Color palette: warm amber environment, bright white uniform as the dominant value, coffee browns on the bench, and a saturated red necktie accent at about seven percent. Textures: 3D-rendered crisp white twill, glossy hair, smooth subsurface skin, refractive glass beakers, and brushed metal stands over warm soft bokeh. Atmosphere: hushed, introspective, faintly melancholic — the hero questioning whether his dream is achievable, comically earnest for a coffee story. Post / signature look: thin black cinemascope bars, a small white corner channel-bug logo top-left, cinematic grain, warm low-key grade. A centered yellow Korean dialogue subtitle sits in the lower third reading exactly '왕실 커피는 꿈인 건가...'. Style anchor: contemporary Korean 3D-CG brand-mascot cinematic, warm coffee-lab setting, mock blockbuster emotional-beat register, 2024 production. Fidelity note: the character is a generic stylized animated prince/barista archetype with no resemblance to any specific copyrighted character or real person; any logo mark is generic; the Korean subtitle copy is preserved verbatim (the line means 'Is royal coffee just a dream...'). Additional reproduction notes for the 3D-CG register: the image must read as a stylized cinematic 3D render in the manner of a high-end Korean animated brand film, toon-leaning but volumetric, with rounded form-aware shading, soft subsurface in the skin, anisotropic glossy hair, physically based fabric and metal, and genuine optical depth-of-field bokeh, distinctly not flat 2D and not live-action photography. Lighting is fully scene-motivated by the practical sources described, whether doorway backlight, warm roastery pendants or lab lamps, producing believable falloff, contact shadows and atmospheric volumetric haze. The cinemascope letterbox and a fine film grain are composited on top for trailer credibility. The grade is a warm-amber-versus-cool-shadow cinematic look with crushed blacks and protected warm highlights. Keep the mock-epic blockbuster register in the staging, the camera height and the hero's theatrical posture, while the comedy lives entirely in how grand the treatment is for a humble coffee story. All character identities and regalia are generic and fictional with no resemblance to any real or copyrighted character, and any logo mark is a generic placeholder.",
+        "t2i_negative": "live action, flat 2d cel shading, cool clinical lab lighting, daylight, busy crowd, latin paragraph text, watermark, malformed interlaced hands",
+        "i2v_motion": "camera pushes in very slowly over ~2.4s; the prince holds his clasped-hand contemplative pose nearly still, eyes closed, with only subtle breathing and faint lip movement on a murmured line; warm bokeh and haze drift gently; hard cut at 2.377s",
+        "i2v_params": {
+          "clip_duration_sec": 2.377,
+          "camera_move": "very_slow_push_in",
+          "subject_motion_level": "very_low_contemplative",
+          "signature_effect": "warm_shallow_dof_cinemascope",
+          "pacing": "slow_build",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen subtitle preserved; identity/logo generic"
+      }
+    },
+    {
+      "index": 11,
+      "duration": 0.751,
+      "framing": "ECU",
+      "function": "breakthrough_eye_closeup",
+      "subject_action": "extreme close-up of the prince's face snapping back to 2D cel-shaded style as his eyes open with realization",
+      "layout_grid": "center_eye_macro",
+      "subject_position": "center",
+      "typo_motion": "static_subtitle",
+      "camera_angle": "eye_level_macro",
+      "camera_facing": "front_three_quarter",
+      "shot_scope": "extreme_close_up_eye_face",
+      "gaze": "eyes_opening_intense_forward",
+      "props": [],
+      "color_palette": [
+        "#C81E2C",
+        "#E94B58",
+        "#F0D0C0",
+        "#7A2E2E",
+        "#2A1818"
+      ],
+      "color_intent": "intense_saturated_crimson_realization",
+      "pose_description": "face filling frame, one eye prominent, crimson iris catching light, brow tensing as eyes snap open with sudden insight",
+      "subject_motion": "eyes_widen_open_micro",
+      "camera_motion": "near_locked",
+      "camera_effect_local": "cel_shaded_style_switch_warm_bokeh",
+      "intra_cut_rhythm": "staccato",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "mid_frame_path": "ADV-2026-049_frames/cut11_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "prince_eye_and_cheek_macro"
+        ],
+        "midground": [
+          "strands_of_red_hair"
+        ],
+        "background": [
+          "warm_blurred_bokeh"
+        ],
+        "lighting_env": [
+          "warm_soft_glow"
+        ],
+        "atmosphere": [
+          "charged_breakthrough_moment"
+        ]
+      },
+      "texture": {
+        "primary_subject": "cel_shaded_skin_and_glossy_iris",
+        "secondary_objects": [
+          "glossy_hair_strands"
+        ],
+        "background_surface": "soft_warm_bokeh",
+        "atmospheric": [
+          "warm_glow_haze"
+        ]
+      },
+      "lighting": {
+        "key_direction": "front_soft",
+        "key_hardness": "soft",
+        "key_color_temp": "warm_3200K",
+        "fill_strength": "medium",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": "soft_warm_hair_edge",
+        "practical_lights": [],
+        "shadow_presence": "soft_cel_shadow",
+        "overall_contrast": "medium"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#C81E2C",
+          "#E94B58",
+          "#F0D0C0",
+          "#7A2E2E",
+          "#2A1818"
+        ],
+        "palette_role": {
+          "#C81E2C": "hair_crimson_dominant",
+          "#E94B58": "iris_bright_crimson_accent",
+          "#F0D0C0": "skin_warm_highlight",
+          "#7A2E2E": "hair_shadow",
+          "#2A1818": "bg_dark_warm"
+        },
+        "color_relationship": "monochromatic_warm_crimson",
+        "temperature_balance": "warm_dominant",
+        "saturation_strategy": "high_saturation_crimson_focus",
+        "contrast_type": "medium_anime_cel",
+        "accent_color": "#E94B58",
+        "accent_ratio": 0.12
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A single anime cel-shaded illustration frame, letterboxed into a wide 2.39:1 cinemascope window with thick black bars inside a 16:9 raster, staged as the breakthrough 'eureka' macro close-up of a mock epic trailer, deliberately snapping the render style back from 3D to flat 2D cel-shading for impact. The subject is a generic stylized animated prince-type male character, the same red-haired hero, his face rendered in extreme close-up so that a single large almond eye with a vivid glossy crimson iris (#E94B58) dominates the frame, surrounded by smooth warm cel-shaded skin (#F0D0C0), a sharp dark eyebrow, and sweeping glossy crimson hair strands (#C81E2C) crossing the edges. His eye is in the act of snapping wide open with sudden realization, the brow tensing, a bright specular catchlight in the iris. Composition is a tight macro: the eye sits just off-center with hair framing the top and side and the cheek filling the lower area, an intimate charged crop. The background is reduced to soft warm out-of-focus bokeh in dark warm tones (#2A1818). Lighting setup: a soft warm front key at roughly 3200K with medium fill (about 2:1), a soft warm rim along the hair edge, and gentle cel shadow, keeping the focus entirely on the gleaming eye. Color palette is essentially monochromatic warm crimson — dominant hair red, a brighter saturated iris accent at about twelve percent, warm skin highlight, hair shadow, and dark warm background. Textures: glossy painterly hair, smooth gradient skin, and a wet specular iris, with creamy warm bokeh behind. Atmosphere: electric, decisive — the instant the hero realizes the answer. Post / signature look: thin black cinemascope bars, a small white corner channel-bug logo top-left, faint letterbox grain, warm grade. A centered yellow Korean dialogue subtitle sits in the lower third reading exactly '바로 이거야!'. Style anchor: contemporary Korean anime / visual-novel commercial illustration, dramatic cel-shaded macro, mock-epic trailer register, 2024 brand-mascot universe. Fidelity note: the character is a generic stylized animated prince archetype with no resemblance to any specific copyrighted character or real person; any logo mark is generic; the Korean subtitle copy is preserved verbatim (the line means 'This is it!'). Additional reproduction notes for the 2D cel-shaded register: the image must read as a single hand-illustration-style anime cel frame from a contemporary Korean mobile-game or visual-novel production, not a 3D render and not a photograph, with flat clean color fills broken by only one or two hard-edged shadow bands per surface, crisp ink-like linework on the eyes and hair silhouette, and bright specular hair highlights painted as solid shapes rather than soft gradients. Avoid photographic skin pores, avoid volumetric subsurface scattering, and avoid raytraced reflections; the parasol, collar and skin should all look painted by hand. The cinemascope letterbox is composited over the artwork with a faint uniform grain so the bars read as a film matte rather than as part of the drawing. The grade leans gently warm with high overall brightness and shallow black depth, characteristic of a friendly mascot-universe key visual rather than a gritty cinematic image. Keep the comedic, slightly theatrical 'movie-trailer hero introducing himself' energy alive in the expression and pose. All identities remain entirely generic and fictional with no resemblance to any real or copyrighted character, and any brand mark is rendered as a generic placeholder treatment.",
+        "t2i_negative": "live action eye, photorealistic, 3d render, cool colors, full wide shot, multiple eyes misplaced, latin text, watermark, blurry low detail iris",
+        "i2v_motion": "near-locked macro; the crimson eye snaps from nearly closed to wide open with a sharp catchlight flare as the brow tenses on a triumphant exclaimed line; hair strands shift a few pixels; hard cut at 0.751s",
+        "i2v_params": {
+          "clip_duration_sec": 0.751,
+          "camera_move": "near_locked",
+          "subject_motion_level": "low_eye_open_snap",
+          "signature_effect": "cel_shaded_macro_style_switch",
+          "pacing": "staccato",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen subtitle preserved; identity/logo generic; deliberate 2D style switch noted"
+      }
+    },
+    {
+      "index": 12,
+      "duration": 1.001,
+      "framing": "MS",
+      "function": "triumphant_payoff_celebration",
+      "subject_action": "the 3D-CG prince in white uniform holds up a metal cup of coffee in victory as a crowd of specialists cheers around him",
+      "layout_grid": "center_subject_flanked_crowd",
+      "subject_position": "center",
+      "typo_motion": "static_subtitle",
+      "camera_angle": "eye_level",
+      "camera_facing": "front",
+      "shot_scope": "medium_shot_waist_up_with_crowd",
+      "gaze": "up_at_raised_cup_then_outward",
+      "props": [
+        "raised_metal_cup",
+        "white_barista_uniform_red_necktie",
+        "cheering_crowd_of_staff"
+      ],
+      "color_palette": [
+        "#C81E2C",
+        "#EFEAE0",
+        "#8A5A28",
+        "#2E2418",
+        "#E2A848"
+      ],
+      "color_intent": "warm_joyous_victory_amber",
+      "pose_description": "standing center, one hand triumphantly raising a metal cup, the other fist clenched in victory, beaming, surrounded by applauding figures",
+      "subject_motion": "raises_cup_and_celebrates",
+      "camera_motion": "near_locked_slight_handheld",
+      "camera_effect_local": "warm_bokeh_cinemascope_celebratory",
+      "intra_cut_rhythm": "accelerating",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "mid_frame_path": "ADV-2026-049_frames/cut12_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "prince_with_raised_cup"
+        ],
+        "midground": [
+          "cheering_staff_left_and_right"
+        ],
+        "background": [
+          "warm_roastery_interior",
+          "glowing_lamps"
+        ],
+        "lighting_env": [
+          "warm_tungsten_celebratory",
+          "soft_practical_glow"
+        ],
+        "atmosphere": [
+          "jubilant_warm_crowd_energy"
+        ]
+      },
+      "texture": {
+        "primary_subject": "3d_white_uniform_and_glossy_hair",
+        "secondary_objects": [
+          "metal_cup",
+          "crowd_clothing"
+        ],
+        "background_surface": "warm_blurred_interior",
+        "atmospheric": [
+          "warm_glow_haze"
+        ]
+      },
+      "lighting": {
+        "key_direction": "soft_front_top",
+        "key_hardness": "soft",
+        "key_color_temp": "warm_3000K",
+        "fill_strength": "medium",
+        "key_to_fill_ratio": "2.5:1",
+        "rim_light": "warm_edge_rim",
+        "practical_lights": [
+          "roastery_warm_lamps"
+        ],
+        "shadow_presence": "soft_warm_shadow",
+        "overall_contrast": "medium_high"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#C81E2C",
+          "#EFEAE0",
+          "#8A5A28",
+          "#2E2418",
+          "#E2A848"
+        ],
+        "palette_role": {
+          "#C81E2C": "necktie_red_accent",
+          "#EFEAE0": "white_uniform_dominant",
+          "#8A5A28": "wood_and_crowd_warm_midtone",
+          "#2E2418": "dark_warm_bg",
+          "#E2A848": "warm_lamp_glow_accent"
+        },
+        "color_relationship": "warm_amber_celebration_with_white_uniform_red_accent",
+        "temperature_balance": "warm_dominant",
+        "saturation_strategy": "warm_with_bright_white_and_red_pops",
+        "contrast_type": "medium_high_warm",
+        "accent_color": "#C81E2C",
+        "accent_ratio": 0.08
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A single 3D-CG cinematic frame, letterboxed into a wide 2.39:1 cinemascope window with thick black bars inside a 16:9 raster, staged as the triumphant payoff celebration of a mock epic trailer. The subject is a generic stylized animated prince-type male character rendered in volumetric 3D CG, the same red-haired hero in a crisp double-breasted white barista jacket (#EFEAE0) with gold buttons and a bright red necktie (#C81E2C), crimson hair tied back, standing dead-center and beaming with joy. He raises a shining metal cup of coffee high in one hand while clenching his other fist in victory. Flanking him on both sides, slightly out of focus, a small crowd of generic coworkers and specialists in aprons and casual roastery wear cheer and applaud with raised arms and open-mouthed laughter, their motion blurred with excitement. Composition centers the hero with the raised cup near the top-center as the focal apex, the cheering figures arranged symmetrically left and right in the midground, and a warm roastery interior of glowing lamps and wooden fixtures (#E2A848) dissolving into shallow-DOF bokeh behind. Lighting setup: a soft warm front-top key at roughly 3000K with medium fill (about 2.5:1), a warm edge rim on the white jacket and the metal cup, and soft warm shadow, giving a jubilant golden glow. Color palette: warm amber celebration dominant, bright white uniform as the key value, warm wood and crowd midtones, and a saturated red necktie accent at about eight percent. Textures: 3D-rendered crisp white twill, glossy hair, a reflective metal cup, varied crowd fabrics, all over warm soft bokeh and glow haze. Atmosphere: jubilant, warm, communal — the hero's success celebrated by his team, the emotional high of the trailer. Post / signature look: thin black cinemascope bars, a small white corner channel-bug logo top-left, cinematic grain, warm grade. A centered yellow Korean dialogue subtitle sits in the lower third reading exactly '좋았어!'. Style anchor: contemporary Korean 3D-CG brand-mascot cinematic, warm celebratory roastery crowd scene, mock blockbuster climax register, 2024 production. Fidelity note: the central character is a generic stylized animated prince/barista archetype and the surrounding crowd are generic fictional figures with no resemblance to any real person or celebrity; any logo mark is generic; the Korean subtitle copy is preserved verbatim (the line means 'Alright!' / 'Yes!'). Additional reproduction notes for the 3D-CG register: the image must read as a stylized cinematic 3D render in the manner of a high-end Korean animated brand film, toon-leaning but volumetric, with rounded form-aware shading, soft subsurface in the skin, anisotropic glossy hair, physically based fabric and metal, and genuine optical depth-of-field bokeh, distinctly not flat 2D and not live-action photography. Lighting is fully scene-motivated by the practical sources described, whether doorway backlight, warm roastery pendants or lab lamps, producing believable falloff, contact shadows and atmospheric volumetric haze. The cinemascope letterbox and a fine film grain are composited on top for trailer credibility. The grade is a warm-amber-versus-cool-shadow cinematic look with crushed blacks and protected warm highlights. Keep the mock-epic blockbuster register in the staging, the camera height and the hero's theatrical posture, while the comedy lives entirely in how grand the treatment is for a humble coffee story. All character identities and regalia are generic and fictional with no resemblance to any real or copyrighted character, and any logo mark is a generic placeholder.",
+        "t2i_negative": "live action, flat 2d cel shading, cold lighting, empty room no crowd, daylight exterior, latin text, watermark, deformed raised arm, duplicated face",
+        "i2v_motion": "near-locked camera with slight celebratory handheld bob; the prince thrusts the metal cup upward and pumps his fist while the flanking crowd cheers, claps and bounces; warm bokeh and glow shimmer; hard cut at 1.001s",
+        "i2v_params": {
+          "clip_duration_sec": 1.001,
+          "camera_move": "near_locked_handheld_bob",
+          "subject_motion_level": "high_celebration",
+          "signature_effect": "warm_shallow_dof_cinemascope",
+          "pacing": "accelerating",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen subtitle preserved; all identities generic"
+      }
+    },
+    {
+      "index": 13,
+      "duration": 0.834,
+      "framing": "WS",
+      "function": "product_hero_reveal",
+      "subject_action": "no character; six product packages stand in a row on a wood counter beneath the brand lockup",
+      "layout_grid": "center_product_row_under_logo",
+      "subject_position": "center",
+      "typo_motion": "static_logo_lockup",
+      "camera_angle": "slight_low_product_eye_level",
+      "camera_facing": "front",
+      "shot_scope": "wide_product_group",
+      "gaze": "none",
+      "props": [
+        "three_glass_bottles",
+        "three_cups",
+        "wood_counter",
+        "brand_logo_lockup_with_palm_wreath"
+      ],
+      "color_palette": [
+        "#7FBF5A",
+        "#E8C84A",
+        "#3A2A1E",
+        "#C8762A",
+        "#1A120C"
+      ],
+      "color_intent": "warm_premium_product_showcase_with_tropical_green_accent",
+      "pose_description": "no figure; six dark coffee packages aligned in a gentle arc, three tall bottles left and three cups right, lit warmly on a wooden surface",
+      "subject_motion": "none_static_product",
+      "camera_motion": "near_static_subtle_settle",
+      "camera_effect_local": "shallow_dof_warm_product_bokeh_cinemascope",
+      "intra_cut_rhythm": "steady",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "mid_frame_path": "ADV-2026-049_frames/cut13_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "row_of_six_product_packages"
+        ],
+        "midground": [
+          "wood_counter_surface"
+        ],
+        "background": [
+          "warm_dark_blurred_interior",
+          "soft_lamp_glow"
+        ],
+        "lighting_env": [
+          "warm_directional_product_light",
+          "low_key_amber"
+        ],
+        "atmosphere": [
+          "premium_warm_showcase"
+        ]
+      },
+      "texture": {
+        "primary_subject": "glass_bottle_and_cup_packaging",
+        "secondary_objects": [
+          "wood_grain_counter",
+          "logo_foliage_graphic"
+        ],
+        "background_surface": "warm_dark_bokeh",
+        "atmospheric": [
+          "soft_warm_glow"
+        ]
+      },
+      "lighting": {
+        "key_direction": "soft_front_top_product",
+        "key_hardness": "soft",
+        "key_color_temp": "warm_3000K",
+        "fill_strength": "low_medium",
+        "key_to_fill_ratio": "3:1",
+        "rim_light": "warm_edge_on_bottles",
+        "practical_lights": [
+          "warm_background_lamps"
+        ],
+        "shadow_presence": "soft_grounding_shadow",
+        "overall_contrast": "medium_high"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#7FBF5A",
+          "#E8C84A",
+          "#3A2A1E",
+          "#C8762A",
+          "#1A120C"
+        ],
+        "palette_role": {
+          "#7FBF5A": "logo_palm_wreath_green_accent",
+          "#E8C84A": "logo_gold_lettering_accent",
+          "#3A2A1E": "product_dark_packaging",
+          "#C8762A": "warm_label_orange",
+          "#1A120C": "background_dark_dominant"
+        },
+        "color_relationship": "warm_dark_products_with_green_and_gold_logo_accents",
+        "temperature_balance": "warm_dominant_green_accent",
+        "saturation_strategy": "rich_warm_low_key_with_saturated_logo_pops",
+        "contrast_type": "medium_high_warm",
+        "accent_color": "#7FBF5A",
+        "accent_ratio": 0.06
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A single live-action / product-render cinematic frame, letterboxed into a wide 2.39:1 cinemascope window with thick black bars inside a 16:9 raster, staged as the product hero reveal of a mock epic trailer. The frame is a warm, premium, low-key product showcase: across the center of a richly grained dark wooden counter stands a row of six dark-toned ready-to-drink coffee packages arranged in a gentle arc, three tall slim glass bottles with dark coffee and warm-toned labels on the left and three cylindrical cups with matching dark labels on the right, each catching a warm directional rim highlight along its edge. Above the products, centered, sits a polished brand logo lockup: large bold Korean lettering reading exactly '스페셜티' in gold/cream framed by a stylized tropical palm-leaf and foliage wreath in fresh green (#7FBF5A) with a small upper script reading 'a Café la', and beneath the lockup a smaller subtitle line reading exactly '빙그레우스의 왕실커피'. Composition centers the symmetrical product row in the lower-middle of the frame with the logo lockup occupying the upper-middle, generous warm negative space around them. Background is a warm dark out-of-focus interior with soft glowing lamps (#1A120C base) in shallow depth of field. Lighting setup: a soft warm front-top product key at roughly 3000K with low-medium fill (about 3:1), warm edge rim defining the bottle silhouettes, and a soft grounding shadow under each package on the wood, giving an appetizing premium glow. Color palette: warm dark packaging dominant against a near-black warm background, with saturated green palm-wreath and gold logo lettering as bright accents totaling around six to ten percent, plus warm orange label tones (#C8762A). Textures: refractive glass bottles, smooth cup surfaces, printed labels, rich wood grain, and crisp logo graphics over warm bokeh. Atmosphere: premium, inviting, climactic — the trailer finally revealing the actual product line. Post / signature look: thin black cinemascope bars, a small white corner channel-bug logo top-left, cinematic grain, warm low-key grade. Style anchor: contemporary Korean live-action product cinematography, warm low-key beverage hero shot, 2024 broadcast-online polish. Fidelity note: the products are generic dark RTD coffee bottles and cups; the on-screen brand logo lockup and subtitle copy ('스페셜티', 'a Café la', '빙그레우스의 왕실커피') are reproduced only as the on-screen brand copy that physically appears, rendered as generic typographic treatment rather than a precise trademark mark; no real person appears. Additional reproduction notes for the live-action and graphic register: this beat must read as a frame from a high-production-value Korean broadcast-online commercial or its motion-graphic title system, made between 2022 and 2025, with naturalistic warm-to-neutral color grading, fine clean grain reminiscent of a full-frame cinema sensor, smooth large-aperture bokeh, and composition following Korean commercial norms with centered hero subjects and generous negative space. There is no heavy stylization, no neon, and no HDR tone-mapping. Where typography appears it is the trailer's own crisp beveled metallic display lettering or product lockup composited cleanly over the photographic plate; where product appears it is lit as an appetizing low-key hero with a warm rim and a soft grounding shadow. The persistent cinemascope letterbox and the small corner channel-bug logo are part of the composite. Keep the premium, climactic 'this is the real thing' feeling intact. All people are generic and fictional with no resemblance to any real person or celebrity, and any logo, label or landmark is rendered as a generic placeholder treatment rather than a precise trademark reproduction, while the on-screen brand copy that physically appears is preserved verbatim.",
+        "t2i_negative": "people, faces, characters, cool daylight, white seamless studio, cluttered props, latin paragraph text, watermark, floating distorted bottles, harsh specular blowout",
+        "i2v_motion": "near-static product plate with a subtle settle/breath and faint rack of warm highlights across the bottles; the logo lockup holds; soft background glow shimmers; hard cut at 0.834s",
+        "i2v_params": {
+          "clip_duration_sec": 0.834,
+          "camera_move": "near_static_settle",
+          "subject_motion_level": "none_product",
+          "signature_effect": "warm_product_bokeh_cinemascope",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; products generic; on-screen brand lockup copy preserved as it appears; logo treatment generic"
+      }
+    },
+    {
+      "index": 14,
+      "duration": 0.876,
+      "framing": "WS",
+      "function": "overhead_celebration_title_burst",
+      "subject_action": "top-down view of the prince amid a cheering circle of staff as a large brand title bursts across the center",
+      "layout_grid": "center_birdseye_with_title_overlay",
+      "subject_position": "center",
+      "typo_motion": "scale_burst_in",
+      "camera_angle": "top_down_birdseye",
+      "camera_facing": "overhead",
+      "shot_scope": "wide_overhead_group",
+      "gaze": "upward_toward_camera",
+      "props": [
+        "scattered_coffee_beans",
+        "white_barista_uniform",
+        "cheering_circle_of_staff",
+        "brand_title_overlay"
+      ],
+      "color_palette": [
+        "#C81E2C",
+        "#E03C20",
+        "#6E4A24",
+        "#2A1E14",
+        "#E8E2D8"
+      ],
+      "color_intent": "warm_epic_overhead_celebration_with_red_title",
+      "pose_description": "seen from directly above, the white-clad prince stands at the center of a ring of upward-looking staff, arms raised, coffee beans scattered on the floor around them",
+      "subject_motion": "celebratory_arms_and_crowd_motion",
+      "camera_motion": "slow_overhead_rise",
+      "camera_effect_local": "birdseye_title_burst_cinemascope",
+      "intra_cut_rhythm": "accelerating",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "mid_frame_path": "ADV-2026-049_frames/cut14_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "large_brand_title_text"
+        ],
+        "midground": [
+          "prince_at_center_arms_raised",
+          "ring_of_staff"
+        ],
+        "background": [
+          "wood_floor_with_scattered_beans",
+          "warm_dark_edges"
+        ],
+        "lighting_env": [
+          "warm_top_light",
+          "low_key_amber_edges"
+        ],
+        "atmosphere": [
+          "epic_communal_triumph"
+        ]
+      },
+      "texture": {
+        "primary_subject": "3d_white_uniform_and_figures_from_above",
+        "secondary_objects": [
+          "scattered_beans",
+          "beveled_title_type"
+        ],
+        "background_surface": "warm_wood_floor",
+        "atmospheric": [
+          "warm_glow_vignette"
+        ]
+      },
+      "lighting": {
+        "key_direction": "top_down_warm",
+        "key_hardness": "medium",
+        "key_color_temp": "warm_3000K",
+        "fill_strength": "low",
+        "key_to_fill_ratio": "4:1",
+        "rim_light": "warm_edge",
+        "practical_lights": [
+          "overhead_warm_lamps"
+        ],
+        "shadow_presence": "radial_warm_shadow",
+        "overall_contrast": "high"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#C81E2C",
+          "#E03C20",
+          "#6E4A24",
+          "#2A1E14",
+          "#E8E2D8"
+        ],
+        "palette_role": {
+          "#C81E2C": "title_red_core",
+          "#E03C20": "title_red_glow_accent",
+          "#6E4A24": "wood_floor_warm",
+          "#2A1E14": "dark_warm_edges",
+          "#E8E2D8": "white_uniform_highlight"
+        },
+        "color_relationship": "warm_amber_floor_with_saturated_red_title_and_white_pops",
+        "temperature_balance": "warm_dominant",
+        "saturation_strategy": "warm_low_key_with_bold_red_title_burst",
+        "contrast_type": "high_warm",
+        "accent_color": "#E03C20",
+        "accent_ratio": 0.14
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A single 3D-CG cinematic frame, letterboxed into a wide 2.39:1 cinemascope window with thick black bars inside a 16:9 raster, staged as the epic overhead celebration title-burst that climaxes a mock blockbuster trailer. The camera looks straight down in a bird's-eye top-down view onto a warm wooden roastery floor. At the exact center stands the generic stylized animated prince-type male character rendered in 3D CG, in his white barista jacket, arms thrown upward in triumph and face tilted up toward the camera; arranged in a rough ring around him, also seen from above, a circle of generic coworkers and specialists look up and cheer with raised arms. Scattered across the warm wooden floor (#6E4A24) all around the group are loose roasted coffee beans, catching warm highlights. Bursting across the center of the frame, overlapping the figures, is a large bold beveled red Korean display title reading exactly '아카페라 스페셜티' with a fiery red core (#C81E2C) and a brighter red-orange glow edge (#E03C20), scaling in dramatically. Composition is radial and symmetrical: the hero and title at the bullseye center, the ring of upward-looking figures around them, and warm dark vignetted edges (#2A1E14) framing the circle. Lighting setup: a warm top-down key at roughly 3000K with low fill (about 4:1), warm edge rim on the white uniforms and scattered beans, and radial warm shadow, giving an epic golden overhead glow. Color palette: warm amber wooden floor dominant, white uniform highlights, dark warm vignette, and a bold saturated red title burst as the dominant graphic accent at about fourteen percent. Textures: 3D-rendered white twill and figures foreshortened from above, individual scattered coffee beans, warm wood grain, and crisp beveled glowing title lettering. Atmosphere: euphoric, grand, communal — the trailer's final group-triumph money shot. Post / signature look: thin black cinemascope bars, a small white corner channel-bug logo top-left, cinematic grain, warm grade. Style anchor: contemporary Korean 3D-CG brand-mascot cinematic, epic overhead celebration with motion-graphic title, mock blockbuster climax register, 2024 production. Fidelity note: the central character is a generic stylized animated prince/barista archetype and the ring of figures are generic fictional people with no resemblance to any real person or celebrity; the red Korean title is on-screen brand copy preserved verbatim ('acafela Specialty'); any logo mark is generic. Additional reproduction notes for the 3D-CG register: the image must read as a stylized cinematic 3D render in the manner of a high-end Korean animated brand film, toon-leaning but volumetric, with rounded form-aware shading, soft subsurface in the skin, anisotropic glossy hair, physically based fabric and metal, and genuine optical depth-of-field bokeh, distinctly not flat 2D and not live-action photography. Lighting is fully scene-motivated by the practical sources described, whether doorway backlight, warm roastery pendants or lab lamps, producing believable falloff, contact shadows and atmospheric volumetric haze. The cinemascope letterbox and a fine film grain are composited on top for trailer credibility. The grade is a warm-amber-versus-cool-shadow cinematic look with crushed blacks and protected warm highlights. Keep the mock-epic blockbuster register in the staging, the camera height and the hero's theatrical posture, while the comedy lives entirely in how grand the treatment is for a humble coffee story. All character identities and regalia are generic and fictional with no resemblance to any real or copyrighted character, and any logo mark is a generic placeholder.",
+        "t2i_negative": "live action, flat 2d cel shading, eye-level frontal angle, cold lighting, empty floor, latin paragraph text, watermark, distorted foreshortening, duplicated hero",
+        "i2v_motion": "camera slowly rises straight up from the overhead group while the central prince and the ringed crowd cheer with raised arms and the scattered beans settle; the large red Korean title scale-bursts into the center; warm glow pulses; hard cut at 0.876s",
+        "i2v_params": {
+          "clip_duration_sec": 0.876,
+          "camera_move": "slow_overhead_rise",
+          "subject_motion_level": "high_group_celebration",
+          "signature_effect": "birdseye_title_burst_cinemascope",
+          "pacing": "accelerating",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen red brand title preserved verbatim; all identities generic"
+      }
+    },
+    {
+      "index": 15,
+      "duration": 1.069,
+      "framing": "CU",
+      "function": "product_in_hand_cta_close",
+      "subject_action": "live-action hands hold and turn a dark glass bottle of the coffee product as the closing royal-imperative tagline reads",
+      "layout_grid": "right_product_left_text",
+      "subject_position": "center_right",
+      "typo_motion": "static_subtitle",
+      "camera_angle": "eye_level_product",
+      "camera_facing": "front",
+      "shot_scope": "close_up_hands_and_bottle",
+      "gaze": "none",
+      "props": [
+        "dark_glass_coffee_bottle",
+        "human_hands",
+        "twist_cap"
+      ],
+      "color_palette": [
+        "#C8762A",
+        "#E8B84A",
+        "#2A1C12",
+        "#D8CFC4",
+        "#7A4A20"
+      ],
+      "color_intent": "warm_intimate_product_in_hand_close",
+      "pose_description": "two hands hold a dark glass bottle upright near center-right, fingers twisting the cap, the warm-labeled bottle catching glints",
+      "subject_motion": "hands_twist_and_present_bottle",
+      "camera_motion": "near_locked_slight_handheld",
+      "camera_effect_local": "shallow_dof_warm_bokeh_cinemascope",
+      "intra_cut_rhythm": "steady",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "mid_frame_path": "ADV-2026-049_frames/cut15_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "hands_holding_bottle"
+        ],
+        "midground": [
+          "bottle_label"
+        ],
+        "background": [
+          "warm_dark_blurred_interior",
+          "soft_lamp_glow"
+        ],
+        "lighting_env": [
+          "warm_directional_light",
+          "low_key_amber"
+        ],
+        "atmosphere": [
+          "intimate_warm_product_close"
+        ]
+      },
+      "texture": {
+        "primary_subject": "glass_bottle_and_printed_label",
+        "secondary_objects": [
+          "human_hand_skin",
+          "metal_twist_cap"
+        ],
+        "background_surface": "warm_dark_bokeh",
+        "atmospheric": [
+          "soft_warm_glow"
+        ]
+      },
+      "lighting": {
+        "key_direction": "soft_front_side",
+        "key_hardness": "soft",
+        "key_color_temp": "warm_3000K",
+        "fill_strength": "low_medium",
+        "key_to_fill_ratio": "3:1",
+        "rim_light": "warm_edge_on_bottle",
+        "practical_lights": [
+          "warm_background_lamps"
+        ],
+        "shadow_presence": "soft_warm_shadow",
+        "overall_contrast": "medium_high"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#C8762A",
+          "#E8B84A",
+          "#2A1C12",
+          "#D8CFC4",
+          "#7A4A20"
+        ],
+        "palette_role": {
+          "#C8762A": "label_warm_orange_accent",
+          "#E8B84A": "label_gold_lettering_accent",
+          "#2A1C12": "background_dark_dominant",
+          "#D8CFC4": "hand_skin_midtone",
+          "#7A4A20": "bottle_coffee_brown"
+        },
+        "color_relationship": "warm_amber_with_gold_label_accents",
+        "temperature_balance": "warm_dominant",
+        "saturation_strategy": "warm_low_key_with_gold_label_pops",
+        "contrast_type": "medium_high_warm",
+        "accent_color": "#E8B84A",
+        "accent_ratio": 0.08
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A single live-action cinematic frame, letterboxed into a wide 2.39:1 cinemascope window with thick black bars inside a 16:9 raster, staged as the intimate closing call-to-action of a mock epic trailer. The frame is a warm low-key close-up of a pair of generic human hands holding a dark glass ready-to-drink coffee bottle upright near the center-right of the frame, the fingers of one hand gripping the body while the other twists the metal cap as if about to open or present it. The bottle is dark amber-brown glass filled with coffee (#7A4A20), wearing a warm-toned label with gold and orange lettering (#E8B84A and #C8762A) reading the product name '스페셜티' and 'COFFEE'; the glass and cap catch warm directional glints. Composition places the bottle and hands on the right-center with the warm dark background falling away to the left, leaving negative space for the lower-third subtitle. Background is a warm dark out-of-focus interior with soft glowing lamps (#2A1C12 base) in shallow depth of field. Lighting setup: a soft warm front-side key at roughly 3000K with low-medium fill (about 3:1), a warm edge rim defining the bottle silhouette and the knuckles, and soft warm shadow, giving an inviting tactile glow. Color palette: warm dark background dominant, warm skin midtone on the hands, coffee-brown glass, and saturated gold and orange label lettering as accents totaling about eight percent. Textures: refractive dark glass, a printed paper or film label, realistic hand skin with fine detail, and a brushed metal cap, all over warm soft bokeh. Atmosphere: intimate, warm, conclusive — the product placed literally in the consumer's hands as the trailer signs off. Post / signature look: thin black cinemascope bars, a small white corner channel-bug logo top-left, fine cinematic grain, warm low-key grade. A centered yellow Korean dialogue subtitle sits in the lower third reading exactly '대개봉하시오', the archaic royal-imperative closing tagline punning on a film 'grand premiere'. Style anchor: contemporary Korean live-action product-in-hand cinematography, warm intimate beverage close, 2024 broadcast-online polish. Fidelity note: the hands are generic and unidentifiable and the bottle is a generic dark RTD coffee bottle; the on-screen label name ('스페셜티 COFFEE') and the yellow subtitle tagline ('대개봉하시오') are preserved verbatim as the on-screen brand copy that physically appears; any logo or label mark is rendered generically with no precise trademark reproduction. Additional reproduction notes for the live-action and graphic register: this beat must read as a frame from a high-production-value Korean broadcast-online commercial or its motion-graphic title system, made between 2022 and 2025, with naturalistic warm-to-neutral color grading, fine clean grain reminiscent of a full-frame cinema sensor, smooth large-aperture bokeh, and composition following Korean commercial norms with centered hero subjects and generous negative space. There is no heavy stylization, no neon, and no HDR tone-mapping. Where typography appears it is the trailer's own crisp beveled metallic display lettering or product lockup composited cleanly over the photographic plate; where product appears it is lit as an appetizing low-key hero with a warm rim and a soft grounding shadow. The persistent cinemascope letterbox and the small corner channel-bug logo are part of the composite. Keep the premium, climactic 'this is the real thing' feeling intact. All people are generic and fictional with no resemblance to any real person or celebrity, and any logo, label or landmark is rendered as a generic placeholder treatment rather than a precise trademark reproduction, while the on-screen brand copy that physically appears is preserved verbatim.",
+        "t2i_negative": "full body person, face, cool daylight, white studio, multiple bottles, latin paragraph text, watermark, distorted hands, extra fingers, harsh glass blowout",
+        "i2v_motion": "near-locked camera with faint handheld settle; the two hands hold the dark bottle and the fingers twist the cap a partial turn while subtly presenting it toward camera; warm glints travel across the glass; the closing subtitle holds; gentle fade/cut to black at 1.069s ending the spot",
+        "i2v_params": {
+          "clip_duration_sec": 1.069,
+          "camera_move": "near_locked_settle",
+          "subject_motion_level": "low_hands_twisting_presenting",
+          "signature_effect": "warm_shallow_dof_cinemascope",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen label and tagline copy preserved verbatim; hands and product generic"
+      }
+    }
+  ],
+  "search_keywords": {
+    "industry": [
+      "fnb",
+      "beverage",
+      "coffee"
+    ],
+    "product_category": [
+      "rtd_coffee",
+      "royal_coffee",
+      "specialty_coffee"
+    ],
+    "target_demo": [
+      "gen_z",
+      "millennials",
+      "korean_digital_native"
+    ],
+    "media_format": [
+      "broadcast_online",
+      "short_film_ad",
+      "vertical_friendly_16_9"
+    ],
+    "tone": [
+      "comedic",
+      "epic",
+      "self_aware",
+      "tongue_in_cheek"
+    ],
+    "pacing": [
+      "accelerating",
+      "trailer_montage"
+    ],
+    "technique": [
+      "mixed_media",
+      "3d_cg_animation",
+      "cel_shaded_2d",
+      "live_action_cutaway",
+      "split_screen"
+    ],
+    "vfx_keywords": [
+      "ember_particles",
+      "cinemascope_letterbox",
+      "gold_title_card",
+      "volumetric_backlight",
+      "style_switching"
+    ],
+    "copy_strategy_keywords": [
+      "film_trailer_parody",
+      "brand_pun",
+      "mascot_hero_quest",
+      "royal_imperative_cta"
+    ],
+    "concept_derivation_pattern": [
+      "format_genre_transplant",
+      "mascot_universe_extension"
+    ]
+  },
+  "inferred_creative_thinking": {
+    "insight": "A new specialty coffee launch is a non-event to scroll-weary viewers; but a movie-premiere trailer is something people instinctively watch to the end. Borrowing the grammar of an epic film trailer turns a product launch into appointment viewing and makes the brand's existing animated mascot universe feel like a cinematic IP.",
+    "persona": "Young Korean digital natives already amused by the brand's 'Binggrae kingdom' character world and fluent in movie-trailer and webtoon/anime tropes, who reward self-aware, over-the-top brand humor with shares.",
+    "moment": "The scroll-stopping hook of a charismatic animated prince breaking the fourth wall to dare you not to skip his 'debut film', followed by a full mock-trailer arc (mission, ensemble, struggle, breakthrough, triumph) compressed into 19 seconds.",
+    "product_role": "The specialty coffee line is reframed as the legendary 'royal coffee' the hero quests to recreate; the product reveal is staged as the film's release, so the product literally is the movie being premiered.",
+    "punchline": "The archaic royal command '대개봉하시오' ('let it be grandly premiered') puns the film-premiere frame onto the product launch and pays off the brand-name gag ('빙그레 웃길 바라오' — 'hope you smile/Binggrae').",
+    "differentiator": "Mixed-media bravado — flat 2D visual-novel cel close-ups, volumetric 3D-CG hero cinematics, gold-on-black ember trailer cards, and live-action celebrity-style cast triptychs all stitched into one fake blockbuster, anchored by a consistent mascot and persistent channel-bug branding.",
+    "brand_fit_one_liner": "Extends Binggrae's beloved animated 'royal' mascot universe into a comedic blockbuster-trailer launch that makes a coffee feel like a cultural premiere.",
+    "confidence": "inferred"
+  },
+  "inferred_brief": "Launch Binggrae's new 'Royal Coffee Specialty' (a Café la 스페셜티) RTD line to young Korean consumers by leveraging the brand's established animated mascot kingdom. Make a sub-20-second hero film that stops the scroll and earns full watch-through. Solution: parody an epic blockbuster movie trailer in which the red-haired prince mascot embarks on a mock-heroic quest to recreate the legendary lost 'royal coffee', assembling a team of 'specialists', struggling, breaking through, and triumphing — then 'premiere' the product itself. Use deliberate mixed media (2D cel-shaded close-ups, 3D-CG cinematics, gold ember trailer title cards, live-action cast cutaways and product shots), persistent cinemascope letterboxing and a channel-bug logo for film-credibility, in-character Korean dialogue subtitles, and close on the punning royal-command tagline '대개봉하시오'. Keep humor self-aware and shareable; keep brand/product names only in copy and lockups.",
+  "cross_pollination_tags": {
+    "adjacent": [
+      "rtd_tea",
+      "dessert_snack",
+      "ice_cream",
+      "convenience_store_beverage"
+    ],
+    "distant": [
+      "mobile_game_launch",
+      "streaming_series_trailer",
+      "theatrical_film_marketing",
+      "webtoon_ip"
+    ],
+    "contrast": [
+      "minimalist_product_demo",
+      "sober_documentary_ad",
+      "live_action_slice_of_life"
+    ]
+  },
+  "concept_derivation_pattern": "format_genre_transplant_blockbuster_trailer_onto_product_launch_via_owned_mascot_universe",
+  "confidence": "inferred",
+  "analyst_notes": "Mixed-media mock-blockbuster-trailer ad for Binggrae's specialty RTD coffee. CONFIRMED CG/animated (not live-action) for the hero: alternates flat 2D cel-shaded visual-novel close-ups (cuts 1,2,11) and volumetric 3D-CG cinematics (cuts 5,6,9,10,12,14) of a generic red-haired prince mascot; live-action only for the cast triptych (cut 8), the aerial city plate (cut 3), the product shots (cut 13) and the in-hand bottle close (cut 15). Whole spot is letterboxed ~2.39:1 with a persistent white top-left channel-bug logo ('aCaféla 스페셜티'). Cut count corrected 14->15: scenedetect merged two distinct full-frame title beats into its scene 3 (cityscape 'Presented by Binggrae' + gold ember card '잊혀진 왕실 커피를 되살리기 위해'); a hard cut at frame 106 (4.42s, diff 111, hist 0.71) confirmed the split. The metrics spike at ~11.68s inside cut 9 is intra-cut repeated-lunge gag motion ('다시! 다시!'), not a cut; the sustained moderate diffs at 11.7-12.1s are the same gag action — kept as one shot. Global camera wiggle is negligible (mean_abs_shift_x 0.482); apparent movement is deliberate CG camera moves (push-ins, overhead rise). Audio corrected vs whisper text_raw using on-screen subtitles: '재원하겠어'->'재현하겠어' (recreate), '꿈건가'->'왕실 커피는 꿈인 건가', '죽었어'->'좋았어' (alright), '빙그레 웃길 바라'->'...바라오!', product line '빙그레 웃의 왕실 커피'->'빙그레우스의 왕실커피'. Copyright-safe: hero described as generic stylized animated prince; cast described generically; logo/landmark/label treatments generic; brand/product names retained only in source_ref and copywriting/captions.",
+  "verification": {
+    "frames_reviewed": "39/456 native-res frames Read across all 15 finalized cuts (every boundary f(n-1)/f(n) for the 13 detector cuts plus the discovered cut at 4.42s, plus start/mid/end and the ~11.68s intra-cut gag and ~4.42s spike frames, plus lower-third caption reads) + 100% per-frame metrics.json (diff/hist_corr/shift/text_delta) + scenedetect CSV + 3 generated mid-frames spot-checked",
+    "cut_source": "scenedetect 14 cuts cross-checked against metrics spikes and native frames; corrected to 15 (split detector scene 3 into cityscape title + ember title at hard cut frame 106/4.42s)",
+    "style_determination": "Confirmed mixed-media CG/animated hero (2D cel-shaded + 3D-CG) with live-action inserts by reading native frames at cuts 1-2 (flat cel), 5-6-9-10-12-14 (3D CG), 8 (live-action triptych), 3/13/15 (live-action plate/product)",
+    "audio_cross_check": "whisper raw cross-checked against on-screen yellow subtitles; 5 lines corrected, raw retained in audio_note"
+  }
+}

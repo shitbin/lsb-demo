@@ -1,0 +1,3233 @@
+{
+  "id": "ADV-2026-050",
+  "source_ref": {
+    "platform": "digital_video",
+    "title_or_campaign": "불타오르게 위대하게 (BULDAK WILL RETURN)",
+    "brand": "삼양식품 / 삼양 불닭 (Samyang Buldak)",
+    "product": "불닭볶음면 (Buldak spicy stir-fried instant noodle)",
+    "model": "호치 (Hochi) 캐릭터; 노래·전소연",
+    "year": 2024,
+    "production_note": "스튜디오좋(Studio Joh) 제작 추정 애니메이션 브랜드 필름. 음원 보컬 크레딧 '노래·전소연' 화면 표기. 제품 포장 표기 '제조원·삼양식품(주) 강원도 원주시 우산로 177' 확인.",
+    "url": "https://www.youtube.com/watch?v=rGC35Q_PJ0s"
+  },
+  "category_primary": "fnb.instant_noodle",
+  "category_tags": [
+    "라면",
+    "불닭볶음면",
+    "스파이시 누들",
+    "브랜드 캐릭터",
+    "호치",
+    "애니메이션 광고",
+    "K-pop 뮤직필름",
+    "글로벌 캠페인"
+  ],
+  "mood": [
+    "bold",
+    "energetic",
+    "spicy",
+    "operatic",
+    "defiant",
+    "triumphant",
+    "stylish"
+  ],
+  "target_demo": "10대 후반~30대 초 MZ세대, K-pop·애니메이션·매운맛 챌린지 친화 글로벌 소비자",
+  "total_duration": 128.546,
+  "shot_count": 37,
+  "shot_count_corrected": 21,
+  "fps": 30.0,
+  "aspect_ratio": "16:9",
+  "hook_position": 0.0,
+  "cta_position": 117.2,
+  "narrative_arc": "불닭 캐릭터 호치의 극적 등장(인식) → 불·번개를 뚫는 다이브와 영문 훅으로 '맵기=불' 선언(에너지) → 디바 드라마·네온도시 추격으로 갈등 고조(긴장) → 불꽃 콘서트 클라이맥스에서 피닉스 아이돌로 군림(절정) → 검은 카드 카피 '지금 평범해진 삼양라면도 / 평범하게 위대하게'로 메시지 전환(주제) → 화이트 스튜디오 제품·캐릭터 클린 제시(해방) → 'BULDAK WILL RETURN' 사인오프(예고)",
+  "narrative_structure": "cross_cutting_montage",
+  "pacing_curve": "front_loaded",
+  "music_tempo_curve": "fluctuate",
+  "wow_cut_index": [
+    12,
+    9,
+    2
+  ],
+  "creative_device": "anthropomorphism_character + kpop_anthem_musicfilm + fire_phoenix_metaphor + ordinary_to_great_copy_turn",
+  "production_signature": {
+    "capture_style": "3d_cg",
+    "camera_signature": [
+      "dolly_heavy",
+      "handheld_shake",
+      "locked_off"
+    ],
+    "signature_note": "전편 셀셰이드 2D/3D 하이브리드 애니메이션(실사 아님). 전반부(0~117s)는 불꽃 콘서트·런웨이 세계관의 다이내믹 카메라(다이브/스피드터널/whip-pan/푸시인)로 역동적이며, 후반부(85~117s) 화이트 스튜디오는 locked-off 클린 제품 연출. 전역 wiggle 수치(mean_abs_shift_x=1.38, sign_flips_ratio=0.218)는 빠른 컷·격렬한 인-샷 모션·스피드라인 연출에 기인한 것으로 판단되며 순수 wiggle_3d(렌티큘러 시점떨림) 효과는 아님.",
+    "color_grade": "brand_color_dominant",
+    "texture_fx": "clean_digital"
+  },
+  "global_layout": {
+    "grid_system": "dynamic_symmetry",
+    "subject_placement_dominant": "center",
+    "subject_typo_relation": "alternating",
+    "negative_space_use": "asymmetric",
+    "layout_note": "전반부 컷은 화면 가득 채운 다이내믹 중앙 구도(불·캐릭터); 카피 카드는 검은/흰 여백 위 대형 타이포(typo_only); 후반 스튜디오는 인물 대 타이포 좌우 분할. 사운드 자막(가사)은 lower-center 카라오케 핑크 자막으로 일관."
+  },
+  "recurring_motifs": [
+    "불꽃/화염",
+    "불닭 캐릭터 호치(닭 아이돌)",
+    "빨강 브랜드 컬러",
+    "네온 도시",
+    "붉은 매운 소스",
+    "스포트라이트 무대",
+    "화이트 스튜디오 클린 제품",
+    "핑크 가사 자막"
+  ],
+  "copywriting": {
+    "tagline_text": "평범하게 위대하게",
+    "tagline_structure": "대조 슬로건(평범 vs 위대)",
+    "tagline_length_syllables": 8,
+    "tagline_position_sec": 91.97,
+    "cta_text": "🌶 BULDAK WILL RETURN 🌶",
+    "cta_text_structure": "브랜드명 + 예고 영문",
+    "cta_position_sec": 117.2,
+    "copy_tone": [
+      "당당",
+      "도발",
+      "감성",
+      "선언"
+    ],
+    "copy_strategy": "superiority_declaration",
+    "copy_lines_count": 22,
+    "lines": [
+      {
+        "position_sec": 2.8,
+        "text": "불닭",
+        "function": "brand_logo",
+        "tone": "bold",
+        "source": "caption"
+      },
+      {
+        "position_sec": 3.83,
+        "text": "I'm on fire, Set on fire",
+        "function": "hook_lyric",
+        "tone": "defiant",
+        "source": "both"
+      },
+      {
+        "position_sec": 6.83,
+        "text": "Bring it on, Mess it up, I'm on fire",
+        "function": "hook_lyric",
+        "tone": "defiant",
+        "source": "both"
+      },
+      {
+        "position_sec": 15.6,
+        "text": "안녕 난 불닭",
+        "function": "character_intro_lyric",
+        "tone": "confident",
+        "source": "both"
+      },
+      {
+        "position_sec": 17.5,
+        "text": "안녕 난 불타",
+        "function": "character_intro_lyric",
+        "tone": "confident",
+        "source": "both"
+      },
+      {
+        "position_sec": 19.6,
+        "text": "네 길을 막는 건 다 불타",
+        "function": "lyric",
+        "tone": "defiant",
+        "source": "both"
+      },
+      {
+        "position_sec": 22.2,
+        "text": "그게 스승의 조언일지라도",
+        "function": "lyric",
+        "tone": "defiant",
+        "source": "both"
+      },
+      {
+        "position_sec": 24.9,
+        "text": "'라면은 가장 편안한 식사라고'",
+        "function": "quote_lyric",
+        "tone": "narrative",
+        "source": "both"
+      },
+      {
+        "position_sec": 27.4,
+        "text": "날 삼시 세끼에 가두지 말아줄래",
+        "function": "lyric",
+        "tone": "defiant",
+        "source": "both"
+      },
+      {
+        "position_sec": 37.0,
+        "text": "세상이 원하면 내가 해",
+        "function": "lyric",
+        "tone": "confident",
+        "source": "both"
+      },
+      {
+        "position_sec": 41.1,
+        "text": "Fill me with passion of life",
+        "function": "lyric",
+        "tone": "anthemic",
+        "source": "both"
+      },
+      {
+        "position_sec": 48.3,
+        "text": "\"I'm a phoenix\"",
+        "function": "lyric",
+        "tone": "anthemic",
+        "source": "both"
+      },
+      {
+        "position_sec": 54.8,
+        "text": "올가미는 다 불타 (불타)",
+        "function": "lyric",
+        "tone": "defiant",
+        "source": "both"
+      },
+      {
+        "position_sec": 57.0,
+        "text": "세상의 기준도 (불타)",
+        "function": "lyric",
+        "tone": "defiant",
+        "source": "both"
+      },
+      {
+        "position_sec": 69.8,
+        "text": "매번 새롭게 불타올라",
+        "function": "lyric",
+        "tone": "anthemic",
+        "source": "both"
+      },
+      {
+        "position_sec": 72.7,
+        "text": "기억해봐",
+        "function": "message_hook",
+        "tone": "declarative",
+        "source": "caption"
+      },
+      {
+        "position_sec": 74.1,
+        "text": "지금 평범해진 삼양라면도",
+        "function": "brand_message",
+        "tone": "declarative",
+        "source": "caption"
+      },
+      {
+        "position_sec": 81.97,
+        "text": "불닭",
+        "function": "brand_logo",
+        "tone": "bold",
+        "source": "caption"
+      },
+      {
+        "position_sec": 85.57,
+        "text": "최초엔 얼마나 새로웠는지",
+        "function": "brand_message",
+        "tone": "reflective",
+        "source": "caption"
+      },
+      {
+        "position_sec": 91.97,
+        "text": "평범하게 위대하게",
+        "function": "tagline",
+        "tone": "declarative",
+        "source": "caption"
+      },
+      {
+        "position_sec": 95.3,
+        "text": "나도 다른 맛으로 그저 날아가는 거야 Fly",
+        "function": "lyric",
+        "tone": "anthemic",
+        "source": "both"
+      },
+      {
+        "position_sec": 105.2,
+        "text": "변화를 쟁취해",
+        "function": "lyric",
+        "tone": "empowered",
+        "source": "both"
+      },
+      {
+        "position_sec": 107.4,
+        "text": "한계를 뛰어넘고",
+        "function": "lyric",
+        "tone": "empowered",
+        "source": "both"
+      }
+    ],
+    "captions": [
+      {
+        "position_sec": 3.83,
+        "text": "노래·전소연",
+        "function": "music_credit"
+      },
+      {
+        "position_sec": 95.3,
+        "text": "삼양라면 SINCE 1963",
+        "function": "brand_heritage"
+      },
+      {
+        "position_sec": 33.0,
+        "text": "4가지 치즈 불닭볶음면",
+        "function": "product_name_diegetic"
+      },
+      {
+        "position_sec": 33.0,
+        "text": "Cheddar / 까망베르치즈 / 모짜렐라치즈",
+        "function": "flavor_variant_diegetic"
+      },
+      {
+        "position_sec": 27.4,
+        "text": "포장재질·폴리에틸렌(내면), 제조원·삼양식품(주) 강원도 원주시 우산로 177",
+        "function": "package_legal_diegetic"
+      },
+      {
+        "position_sec": 117.2,
+        "text": "🌶 BULDAK WILL RETURN 🌶",
+        "function": "sign_off"
+      }
+    ],
+    "narration_handling": "excerpt_only"
+  },
+  "typography": {
+    "primary_font_class": "sans_serif_bold_display",
+    "secondary_font_class": "sans_serif_rounded",
+    "animation_style": [
+      "pop",
+      "kinetic",
+      "fade_in",
+      "static"
+    ],
+    "subtitle_position_dominant": "lower_third",
+    "tagline_position": "center",
+    "color_strategy": "magenta_pink_karaoke_lyrics_plus_red_white_message_cards",
+    "appearance_count": 29,
+    "key_typography_moments_sec": [
+      2.8,
+      3.83,
+      15.6,
+      37.0,
+      72.7,
+      74.1,
+      81.97,
+      85.57,
+      91.97,
+      117.2
+    ],
+    "typo_motion_dominant": "pop"
+  },
+  "vfx": {
+    "primary_effects": [
+      "particle",
+      "light_leak",
+      "color_pop",
+      "3d_render",
+      "ui_motion"
+    ],
+    "effect_intensity": "extreme",
+    "transition_style_dominant": "cut",
+    "vfx_event_count": 21,
+    "vfx_timing_array_sec": [
+      2.8,
+      3.9,
+      8.03,
+      13.03,
+      35.9,
+      41.17,
+      52.83,
+      59.37,
+      69.3,
+      79.43,
+      85.57,
+      117.2
+    ],
+    "wow_vfx_index": [
+      12,
+      9,
+      3
+    ]
+  },
+  "audio": {
+    "has_audio": true,
+    "language": "ko",
+    "speech_coverage": 0.608,
+    "bgm_likely": true,
+    "narration_lines": [
+      {
+        "start": 3.28,
+        "end": 5.28,
+        "text": "I'm on fire, Set on fire",
+        "text_raw": "I'm a fire, said off fire",
+        "kind": "song_lyric",
+        "source": "both"
+      },
+      {
+        "start": 5.28,
+        "end": 6.76,
+        "text": "Oh do you know I'm missing out",
+        "text_raw": "odu you know I'm missing out",
+        "kind": "song_lyric",
+        "source": "voice"
+      },
+      {
+        "start": 6.76,
+        "end": 9.02,
+        "text": "I'm on fire, I'm on fire, Set on fire",
+        "text_raw": "I'm a fire, I'm a fire, said off fire",
+        "kind": "song_lyric",
+        "source": "both"
+      },
+      {
+        "start": 14.08,
+        "end": 16.8,
+        "text": "안녕 난 불닭 (I'm number Buldak)",
+        "text_raw": "I'm no one brdie!",
+        "kind": "song_lyric",
+        "source": "both"
+      },
+      {
+        "start": 35.36,
+        "end": 37.86,
+        "text": "세상이 원하면 내가 해",
+        "text_raw": "세상이 원하는 내가 아쉬워",
+        "kind": "song_lyric",
+        "source": "both"
+      },
+      {
+        "start": 48.0,
+        "end": 50.0,
+        "text": "\"I'm a phoenix\"",
+        "text_raw": "The phoenix is giving me hope",
+        "kind": "song_lyric",
+        "source": "both"
+      },
+      {
+        "start": 79.23,
+        "end": 82.23,
+        "text": "불타오르게 위대하게",
+        "text_raw": "불타오르게 위대하게",
+        "kind": "song_lyric",
+        "source": "both"
+      }
+    ],
+    "voice_vs_caption": "both_song_lyric",
+    "narration_handling": "excerpt_only",
+    "transcribed_by": "faster_whisper",
+    "audio_note": "faster-whisper base 전사 15세그먼트(speech_coverage 0.608). 음원은 보컬 송(노래·전소연)+BGM 기반 K-pop 스타일 앤섬으로, 나레이션이 아닌 가창. Whisper 영문/한국어 혼동 다수(예: 'I'm number Buldak'->'I'm no one brdie!', '세상이 원하면 내가 해'->'세상이 원하는 내가 아쉬워')를 화면 핑크 가사 자막과 대조해 보정. text_raw는 무보정 Whisper, text는 자막 대조 보정본."
+  },
+  "frames_dir": "ADV-2026-050_frames",
+  "contact_sheet_path": "ADV-2026-050_frames/contact_sheet.png",
+  "shots": [
+    {
+      "index": 1,
+      "duration": 2.8,
+      "framing": "MS",
+      "function": "brand_hook",
+      "subject_action": "anthropomorphic rooster idol mascot (hochi_mascot) stands at the front of a dark red-lit runway/stage while a row of tall dark silhouette ensemble figures line the receding catwalk behind; theatrical idol-debut entrance",
+      "layout_grid": "dynamic_symmetry",
+      "subject_position": "left_third",
+      "subject_identity": "protagonist_main",
+      "subject_relationship_to_protagonist": "main_character",
+      "mid_frame_path": "ADV-2026-050_frames/cut01_mid.png",
+      "subject_typo_layout": "typo_over_subject",
+      "typo_motion": "opening sung-lyric caption (magenta-pink, white edge) appears lower-center as the title song starts; karaoke-style line-in",
+      "camera_angle": "eye_level",
+      "camera_facing": "three_quarter",
+      "shot_scope": "waist_up",
+      "gaze": "off_camera",
+      "eye_contact_effect": null,
+      "props": [
+        "theatrical spotlights",
+        "glossy runway floor"
+      ],
+      "prop_semantics": "catwalk + spotlight stage establishes a fashion-show/concert world where the mascot debuts as a star",
+      "color_palette": [
+        "#0c0608",
+        "#c81f1f",
+        "#e23b2b",
+        "#ff7a2a",
+        "#f4f1ec"
+      ],
+      "color_intent": "deep black ground with saturated brand-red spotlights ties stage drama to the spicy brand color; warm rim separates the silhouettes",
+      "pose_description": "mascot stands confident and front-facing in the left third; behind, dark figures pose in profile/three-quarter as a backing ensemble along the runway diagonal",
+      "subject_motion": "micro_gestures",
+      "prop_motion": "spotlight flicker",
+      "camera_motion": "slow_push_in",
+      "camera_motion_intensity": "low",
+      "camera_effect_local": "none",
+      "motion_blur": false,
+      "intra_cut_rhythm": "steady",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [
+        "light_leak"
+      ],
+      "vfx_intensity_local": "moderate",
+      "fact_check_flag": null,
+      "notes": "Cut1 (f1-84, 0.00-2.80s): dark red runway; hochi_mascot front-left + dark silhouette ensemble. Volumetric red spotlights, haze. Opening lyric caption.",
+      "visible_elements": {
+        "foreground": [
+          "white-feathered rooster idol mascot in stage jacket (left)"
+        ],
+        "midground": [
+          "row of 3-5 tall dark silhouette ensemble figures along the catwalk"
+        ],
+        "background": [
+          "dark theatrical stage with receding runway perspective",
+          "red spotlight haze"
+        ],
+        "lighting_env": [
+          "hard red/white spotlights from upper-back",
+          "volumetric god-ray shafts"
+        ],
+        "atmosphere": [
+          "red atmospheric haze",
+          "floating embers",
+          "deep shadow"
+        ]
+      },
+      "texture": {
+        "primary_subject": "cel_shaded_anime_skin_feather",
+        "secondary_objects": [
+          "matte_black_silhouette"
+        ],
+        "background_surface": "glossy_dark_stage",
+        "atmospheric": [
+          "haze",
+          "halation_glow"
+        ]
+      },
+      "lighting": {
+        "key_direction": "back",
+        "key_hardness": "hard",
+        "key_color_temp": "colored_neon",
+        "fill_strength": "minimal",
+        "key_to_fill_ratio": "silhouette",
+        "rim_light": true,
+        "practical_lights": [
+          "무대 스포트라이트(레드/화이트)"
+        ],
+        "shadow_presence": "deep",
+        "overall_contrast": "low_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#0c0608",
+          "#c81f1f",
+          "#e23b2b",
+          "#ff7a2a",
+          "#f4f1ec"
+        ],
+        "palette_role": {
+          "#0c0608": "background_black_dominant",
+          "#c81f1f": "stage_red_dominant",
+          "#e23b2b": "red_secondary",
+          "#ff7a2a": "warm_rim_accent",
+          "#f4f1ec": "mascot_white_accent"
+        },
+        "color_relationship": "brand_dominant",
+        "temperature_balance": "warm_dominant",
+        "saturation_strategy": "vivid",
+        "contrast_type": "luminance_high",
+        "accent_color": "#ff7a2a",
+        "accent_ratio": "15_percent"
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A cinematic fully-animated 2D-and-3D-hybrid anime music-film opening frame rendered at full 1920x1080 pixels, 16:9 landscape aspect ratio. The setting is a dark, theatrical fashion-show runway or concert stage lit almost entirely in deep crimson red and black, with strong hard directional spotlights stabbing down from the upper-back and a vanishing-point catwalk receding diagonally toward the upper background of the frame. In the left foreground, framed roughly waist-up at a three-quarter facing angle, stands the protagonist of the film: an anthropomorphic rooster idol mascot character, character ID hochi_mascot. This stylized chicken-human hybrid has a clean smooth white feathered face and chest plumage, a bright lemon-yellow beak, a vivid red heart-shaped wattle hanging just below the beak, large confident almond-shaped anime eyes with sharp lashes, and a dramatic swept-back pompadour mane that is flame-yellow and crimson-red at the front crest and deep teal-green at the back, wearing a structured varsity-style stage jacket with bold color blocking. To the right side and staggered behind into the depth of the catwalk, a row of three to five tall slender humanoid silhouette figures stand in profile and three-quarter-back as an ensemble backing chorus, rendered as near-solid-black cut-out shapes with only a faint red and orange rim light tracing the contours of their shoulders, hair and limbs, their faces deliberately unreadable and featureless. The composition is asymmetric: the mascot is anchored on the left third as the focal hero while the silhouette ensemble is staggered along the receding right diagonal, creating classic deep one-point runway perspective. The floor is a glossy dark reflective surface catching long vertical red specular reflections of the figures and the overhead lights. Lighting is theatrical and low-key: a hard backlight key from forty-five degrees upper-back creating crisp rim separation on every figure, almost no frontal fill so the bodies read as silhouettes against a smoky red atmospheric haze, deep crushed black shadows across the foreground, and an overall colored-neon stage temperature dominated by saturated red with warm orange edges. The mood is bold, defiant, operatic and glamorous, fusing K-pop concert-stage drama with high-fashion couture-runway attitude. Atmospheric volumetric haze and faint floating embers drift through the cone-shaped spotlight beams, producing visible god-ray light shafts. Color palette: black #0c0608 dominant covering roughly fifty-five percent of the frame, saturated stage-red #c81f1f and #e23b2b together about thirty percent, warm rim-light orange #ff7a2a as accent about eight percent, white mascot face and chest #f4f1ec accent about seven percent. The color relationship is brand-red-dominant with a warm orange rim accent; the temperature balance is warm-dominant; the saturation strategy is vivid with deep crushed blacks; the contrast type is high luminance contrast between the rim-lit edges and the black voids. Texture reads as smooth cel-shaded anime surfaces with soft painterly gradient shading on the mascot, matte flat black silhouette fills with gentle halation glow blooming around each spotlight source, and a faint film-like grain laid over the entire frame. The overall look is a premium animated Korean food-and-beverage brand film using a fashion-show staging device as its world; the mascot is the lead character making a dramatic catwalk entrance. A small Korean caption in bold red-outlined white kinetic karaoke-style type appears overlaid near lower-center, reading the recorded on-screen sung-lyric line as the title song opens, treated in magenta-pink fill with a white edge. Style anchor: cinematic Korean animated commercial, theatrical runway low-key red-spotlight staging, cel-shaded anime hybrid character design, volumetric haze and god rays, bold operatic idol-debut mood, 4K clean animation render with light film grain.",
+        "t2i_negative": "photorealistic, live-action, real human faces, real brand logos/marks, watermark, blown highlights, flat lighting, daylight, low detail, text errors",
+        "i2v_motion": "Hochi_mascot holds a confident entrance pose with breathing-level micro-motion as the dark ensemble shifts subtly behind; spotlights flicker and haze drifts; camera does a slow gentle push-in down the runway; embers float; opening sung-lyric caption fades/tracks in at lower-center (finalized in post). ~2.8s, steady, no cut.",
+        "i2v_params": {
+          "clip_duration_sec": 2.8,
+          "camera_move": "push_in",
+          "subject_motion_level": "micro",
+          "signature_effect": "none",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; mascot is a generic anthropomorphic rooster idol type; ensemble are anonymous silhouettes; on-screen lyric preserved verbatim"
+      }
+    },
+    {
+      "index": 2,
+      "duration": 1.1,
+      "framing": "WS",
+      "function": "brand_logo_flash",
+      "subject_action": "brand wordmark flashes on a dark perspective stage as the rooster mascot dives head-first toward the camera; hard-cut title-flash plus launch",
+      "layout_grid": "center",
+      "subject_position": "center",
+      "subject_identity": "protagonist_main",
+      "subject_relationship_to_protagonist": "main_character",
+      "mid_frame_path": "ADV-2026-050_frames/cut02_mid.png",
+      "subject_typo_layout": "typo_over_subject",
+      "typo_motion": "large red brand wordmark '불닭' (white keyline + flame icon) hits center-right as a single-frame title flash; quick pop",
+      "camera_angle": "low_angle",
+      "camera_facing": "frontal",
+      "shot_scope": "environment",
+      "gaze": "none",
+      "eye_contact_effect": null,
+      "props": [
+        "brand wordmark graphic",
+        "dark grid stage floor"
+      ],
+      "prop_semantics": "brand-name flash stamps identity at the music drop; the dive launches the protagonist into the world",
+      "color_palette": [
+        "#1a1426",
+        "#d81f1f",
+        "#f2efe9",
+        "#ff7e30",
+        "#2e2350"
+      ],
+      "color_intent": "saturated red brand graphic punches against a cool dark perspective ground for a high-impact drop beat",
+      "pose_description": "mascot foreshortened, diving head-and-arms first toward viewer; small but motion-charged",
+      "subject_motion": "dynamic",
+      "prop_motion": "none",
+      "camera_motion": "locked_off",
+      "camera_motion_intensity": "low",
+      "camera_effect_local": "dutch_tilt",
+      "motion_blur": true,
+      "intra_cut_rhythm": "accelerating",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [
+        "color_pop"
+      ],
+      "vfx_intensity_local": "heavy",
+      "fact_check_flag": null,
+      "notes": "Cut2 (f85-117, 2.80-3.90s): '불닭' red wordmark flash + hochi diving. hist_corr<0 hard cut at 2.80. Dutch-tilt, motion blur.",
+      "visible_elements": {
+        "foreground": [
+          "large red '불닭' brand wordmark with white keyline + flame icon"
+        ],
+        "midground": [
+          "diving rooster mascot (foreshortened, upper-center)"
+        ],
+        "background": [
+          "dark diagonal grid stage in deep perspective"
+        ],
+        "lighting_env": [
+          "warm key glancing on mascot",
+          "cool dark ambient"
+        ],
+        "atmosphere": [
+          "motion-blur smear",
+          "glow bloom on wordmark"
+        ]
+      },
+      "texture": {
+        "primary_subject": "flat_vector_logotype",
+        "secondary_objects": [
+          "cel_shaded_anime_skin_feather"
+        ],
+        "background_surface": "matte_grid",
+        "atmospheric": [
+          "motion_blur",
+          "halation_glow"
+        ]
+      },
+      "lighting": {
+        "key_direction": "45deg_side",
+        "key_hardness": "hard",
+        "key_color_temp": "mixed",
+        "fill_strength": "minimal",
+        "key_to_fill_ratio": "8:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "deep",
+        "overall_contrast": "high_contrast"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#1a1426",
+          "#d81f1f",
+          "#f2efe9",
+          "#ff7e30",
+          "#2e2350"
+        ],
+        "palette_role": {
+          "#1a1426": "background_dark_dominant",
+          "#d81f1f": "brand_red_wordmark",
+          "#f2efe9": "keyline_white",
+          "#ff7e30": "warm_highlight",
+          "#2e2350": "cool_violet_shadow"
+        },
+        "color_relationship": "brand_dominant",
+        "temperature_balance": "split_warm_cool",
+        "saturation_strategy": "vivid",
+        "contrast_type": "luminance_high",
+        "accent_color": "#d81f1f",
+        "accent_ratio": "30_percent"
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A high-energy animated hard-cut transition frame at full 1920x1080 pixels, 16:9 landscape aspect ratio, captured at the exact instant a bold brand logotype flashes onto the screen while the rooster idol mascot simultaneously launches into a downward dive toward the camera. The dominant graphic event is a large red Korean brand-name wordmark set in thick rounded heavy display lettering with a clean white keyline outline, positioned center to center-right and treated as a punchy single-frame title flash that fills roughly the central third of the frame; it is rendered as flat fully-saturated brand-red #d81f1f fill with a crisp continuous white #ffffff border and a tiny stylized cartoon flame icon perched as a diacritic accent above the characters. Surrounding and behind the wordmark, the background is a dark diagonal grid floor or stage surface tilting steeply into deep one-point perspective, painted in cool dark-purple and charcoal tones and crossed by a few warm red light streaks and motion lines. In the upper-center region, the anthropomorphic rooster mascot, character ID hochi_mascot, is seen in a dynamic strongly-foreshortened pose, diving head-and-arms-first straight toward the viewer; the body is relatively small in frame but charged with momentum, the white feathered face and yellow beak catching a warm key highlight, the flame-red-and-teal pompadour streaming backward with the speed, and the arms thrown back like a swimmer plunging off a board. The framing is a wide environment shot with aggressive vanishing-point perspective; the virtual camera is placed low and angled up toward the diving figure and is dutch-tilted a few degrees off-axis for kinetic instability and unease. Lighting is low-key with a hard warm key glancing off the mascot from the upper-left, a cool dark ambient fill elsewhere, deep black shadows, and a colored stage temperature that mixes warm red highlights against cool purple shadow. The mood is explosive, defiant and adrenal, a launch beat synced precisely to a heavy music drop. The atmosphere includes faint directional motion-blur smearing on the diving figure and a soft glow bloom radiating from the red wordmark. Color palette: dark charcoal-purple #1a1426 dominant background about forty-five percent of frame, brand-red #d81f1f for the wordmark and light streaks about thirty percent, white keyline and mascot face #f2efe9 about twelve percent, warm orange highlight #ff7e30 about eight percent, and cool violet shadow #2e2350 about five percent. The color relationship is brand-red-dominant against a cool dark ground; the temperature balance is split warm-cool; saturation is vivid; contrast is high luminance. Texture: flat crisp hard-edged vector logotype, cel-shaded mascot with directional motion smear, matte grid floor, soft additive glow halation around the title, and a subtle grain over all. This is a combined brand-flash and hero-launch composite typical of a fast-paced animated idol music film for a Korean spicy instant-noodle brand; the on-screen logotype is a recorded brand graphic preserved verbatim and the mascot is the diving protagonist. Style anchor: kinetic Korean animated commercial title flash, dutch-tilt plunging hero shot, saturated red brand graphic on a dark perspective stage, music-video drop energy, 4K render with motion blur and light bloom.",
+        "t2i_negative": "photorealistic, real brand logos beyond the preserved wordmark, watermark, clean static, no motion blur, daylight, low detail",
+        "i2v_motion": "The red '불닭' brand wordmark pops on hard with a quick scale/glow flash while hochi_mascot dives head-first toward camera with motion-blur streak; dutch-tilted frame, fast accelerating energy; ends on a hard cut. ~1.1s, accelerating, no internal cut. Brand wordmark preserved verbatim, finalized in post.",
+        "i2v_params": {
+          "clip_duration_sec": 1.1,
+          "camera_move": "locked_off",
+          "subject_motion_level": "dynamic",
+          "signature_effect": "none",
+          "pacing": "accelerating",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; brand wordmark '불닭' preserved verbatim as recorded graphic; mascot generic rooster idol type"
+      }
+    },
+    {
+      "index": 3,
+      "duration": 4.13,
+      "framing": "MLS",
+      "function": "energy_montage",
+      "subject_action": "rooster mascot dives and plunges through erupting fire and lightning during the English-language musical hook; phoenix-energy montage",
+      "layout_grid": "center",
+      "subject_position": "center",
+      "subject_identity": "protagonist_main",
+      "subject_relationship_to_protagonist": "main_character",
+      "mid_frame_path": "ADV-2026-050_frames/cut03_mid.png",
+      "subject_typo_layout": "typo_over_subject",
+      "typo_motion": "English sung-lyric captions (e.g. 'I'm on fire, Set on fire' / 'Bring it on, Mess it up') appear lower-center, karaoke pop; '노래·전소연' credit upper-right",
+      "camera_angle": "dutch",
+      "camera_facing": "frontal",
+      "shot_scope": "environment",
+      "gaze": "off_camera",
+      "eye_contact_effect": null,
+      "props": [
+        "2D flame sheets",
+        "lightning bolts",
+        "embers"
+      ],
+      "prop_semantics": "fire+lightning visualize the brand's signature spiciness and the song's 'on fire' hook",
+      "color_palette": [
+        "#ff6a14",
+        "#ffae2e",
+        "#c4170f",
+        "#bfe2ff",
+        "#120703"
+      ],
+      "color_intent": "maximal saturated fire palette with electric-blue accents conveys explosive heat and energy",
+      "pose_description": "mascot falls in an arched free-dive, limbs spread, wrapped in fire rim light",
+      "subject_motion": "dynamic",
+      "prop_motion": "flames+lightning surge",
+      "camera_motion": "handheld_drift",
+      "camera_motion_intensity": "high",
+      "camera_effect_local": "dutch_tilt",
+      "motion_blur": true,
+      "intra_cut_rhythm": "chaotic",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [
+        "particle",
+        "light_leak",
+        "color_pop"
+      ],
+      "vfx_intensity_local": "extreme",
+      "fact_check_flag": null,
+      "notes": "Cut3 (f118-241, 3.90-8.03s): grouped rapid montage of fire/lightning dive. Sustained high diff. English hook lyrics + 전소연 credit. Multiple sub-cuts grouped semantically.",
+      "visible_elements": {
+        "foreground": [
+          "rooster mascot free-diving through flame"
+        ],
+        "midground": [
+          "sheets of orange-yellow flame",
+          "jagged electric-blue lightning"
+        ],
+        "background": [
+          "burning void, red-to-white-hot gradient"
+        ],
+        "lighting_env": [
+          "intense warm fire key",
+          "electric-blue lightning accents"
+        ],
+        "atmosphere": [
+          "dense flame licks",
+          "embers",
+          "smoke",
+          "heavy motion blur",
+          "bloom"
+        ]
+      },
+      "texture": {
+        "primary_subject": "cel_shaded_anime_skin_feather",
+        "secondary_objects": [
+          "hand_drawn_2d_flame",
+          "vector_lightning"
+        ],
+        "background_surface": "painterly_fire_gradient",
+        "atmospheric": [
+          "embers",
+          "smoke",
+          "halation_glow",
+          "motion_blur"
+        ]
+      },
+      "lighting": {
+        "key_direction": "front",
+        "key_hardness": "hard",
+        "key_color_temp": "colored_neon",
+        "fill_strength": "none",
+        "key_to_fill_ratio": "silhouette",
+        "rim_light": true,
+        "practical_lights": [
+          "불꽃 코어 발광",
+          "번개 아크"
+        ],
+        "shadow_presence": "deep",
+        "overall_contrast": "high_contrast"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#ff6a14",
+          "#ffae2e",
+          "#c4170f",
+          "#bfe2ff",
+          "#120703"
+        ],
+        "palette_role": {
+          "#ff6a14": "fire_orange_dominant",
+          "#ffae2e": "fire_yellow",
+          "#c4170f": "deep_red",
+          "#bfe2ff": "electric_blue_accent",
+          "#120703": "shadow_black"
+        },
+        "color_relationship": "complementary",
+        "temperature_balance": "warm_dominant",
+        "saturation_strategy": "vivid",
+        "contrast_type": "luminance_high",
+        "accent_color": "#bfe2ff",
+        "accent_ratio": "15_percent"
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A dynamic animated montage key-frame at full 1920x1080 pixels, 16:9 landscape aspect ratio, depicting the rooster idol mascot diving and plunging through a roaring storm of fire and lightning during the explosive musical hook of the song. The anthropomorphic mascot, character ID hochi_mascot, fills the central-upper region of the frame in a falling, free-diving pose, the body arched and the limbs spread wide, the white feathered face and yellow beak and flame-red-and-teal swept pompadour catching brilliant warm key light, dressed in a fitted stage outfit with red and dark color detailing. Around the figure, sheets of orange-yellow flame and jagged white-blue electric arcs erupt across the entire frame, with crackling lightning bolts radiating outward from behind the character and bright embers flying in every direction. The background is a chaotic burning void built from layered fire gradients ranging from deep blood-red at the outer edges to white-hot yellow at the central core, strongly suggesting the character is plummeting through an inferno or being struck by surging energy. The framing is a wide-to-medium environment shot, the virtual camera tilted and placed slightly low, with the diving figure foreshortened toward the viewer to maximize the sense of vertical plummeting downward motion. Lighting is extreme high-contrast: an intense warm key emanating from the fiery core wraps the mascot in an orange-gold rim, cool electric-blue accents spike from the lightning bolts, deep black shadow pockets sit between the flames, and a colored fire temperature dominates the whole scene. The mood is ecstatic, violent and triumphant, a phoenix-rising surge of energy synced to an English-language pop hook about being set on fire. The atmosphere is dense with curling flame licks, drifting ember particles, smoke wisps, lens-flare bloom and heavy directional motion blur conveying high speed. Color palette: fire-orange #ff6a14 and #ffae2e together dominant about fifty percent of frame, deep red #c4170f about twenty percent, electric blue-white #bfe2ff lightning accent about twelve percent, white-hot core #fff4cf about ten percent, and near-black shadow #120703 about eight percent. The color relationship is a warm-dominant fire palette with a cool electric-blue accent; the temperature balance is warm-dominant; the saturation strategy is maximal vivid; the contrast type is high luminance with additive bloom. Texture: cel-shaded mascot combined with hand-drawn 2D flame and lightning effects layered over the figure, glowing additive highlights, soft halation, motion-blur streaks, and faint grain. A recorded English sung-lyric subtitle in magenta-pink fill with a white edge sits near lower-center of the frame. This is the explosive emotional-peak montage of an animated Korean spicy instant-noodle brand anthem, in which the mascot is the airborne protagonist breaking free. Style anchor: cinematic anime fire-and-lightning action montage, plunging hero shot, maximal saturated fire palette with electric accents, heavy bloom and motion blur, Korean music-film aesthetic, 4K animation render.\n Additional craft detail: the fire is rendered in distinct stacked layers of cel-painted flame shapes with hard highlight rims and darker inner cores, giving a graphic illustrated quality rather than photorealistic simulation; the lightning forks are drawn as crisp white-cyan vector bolts with soft glow bloom and brief afterimage trails; small floating embers are scattered as bright orange dots with motion streaks reading the downward fall direction; and the mascot's outfit fabric and feathers show subtle wind-pressure deformation consistent with rapid descent. The negative space is almost entirely consumed by effects, leaving no calm area, which reinforces the overwhelming sensory intensity of the music drop.",
+        "t2i_negative": "photorealistic, calm composition, daylight, real human faces, real brand logos, watermark, low saturation, clean no-effects, text errors",
+        "i2v_motion": "Hochi_mascot plummets through erupting 2D fire and forking lightning; flames surge and embers stream upward as the figure falls; dutch-tilted handheld camera shakes with high intensity; heavy motion blur and bloom; English hook lyric captions pop in at lower-center (finalized in post). ~4.1s, chaotic accelerating montage feel, multiple internal beats.",
+        "i2v_params": {
+          "clip_duration_sec": 4.13,
+          "camera_move": "handheld_drift",
+          "subject_motion_level": "dynamic",
+          "signature_effect": "none",
+          "pacing": "accelerating",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; mascot generic rooster idol type; English sung-lyric captions and 전소연 credit preserved verbatim; fire/lightning are craft effects"
+      }
+    },
+    {
+      "index": 4,
+      "duration": 5.0,
+      "framing": "WS",
+      "function": "energy_montage",
+      "subject_action": "a lone dark figure races forward through a neon-lit night-city speed tunnel; rushing one-point-perspective corridor of light trails",
+      "layout_grid": "center",
+      "subject_position": "center",
+      "subject_identity": "supporting_A",
+      "subject_relationship_to_protagonist": "supporting_character",
+      "mid_frame_path": "ADV-2026-050_frames/cut04_mid.png",
+      "subject_typo_layout": "typo_over_subject",
+      "typo_motion": "sung-lyric caption holds lower-center; karaoke style",
+      "camera_angle": "eye_level",
+      "camera_facing": "back",
+      "shot_scope": "environment",
+      "gaze": "none",
+      "eye_contact_effect": null,
+      "props": [
+        "neon city facades",
+        "light trails"
+      ],
+      "prop_semantics": "neon speed tunnel conveys breaking through the ordinary world at velocity",
+      "color_palette": [
+        "#0b0e1c",
+        "#ff2f8e",
+        "#25d6d0",
+        "#ffb13a",
+        "#06070d"
+      ],
+      "color_intent": "split-complementary neon (magenta vs teal) with amber accents builds a propulsive nocturnal-city mood",
+      "pose_description": "dark_runner sprints away from camera down the luminous canyon, small against towering city",
+      "subject_motion": "dynamic",
+      "prop_motion": "light streaks rush past",
+      "camera_motion": "dolly_in",
+      "camera_motion_intensity": "high",
+      "camera_effect_local": "speed_lines",
+      "motion_blur": true,
+      "intra_cut_rhythm": "accelerating",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [
+        "light_leak",
+        "color_pop"
+      ],
+      "vfx_intensity_local": "heavy",
+      "fact_check_flag": null,
+      "notes": "Cut4 (f242-391, 8.03-13.03s): neon-city speed tunnel, dark_runner. Strong forward push, motion-blurred light trails.",
+      "visible_elements": {
+        "foreground": [
+          "streaking neon light trails"
+        ],
+        "midground": [
+          "lone dark runner figure (rear)"
+        ],
+        "background": [
+          "towering neon skyscraper facades converging to vanishing point"
+        ],
+        "lighting_env": [
+          "immersive neon wrap (magenta/teal/blue/amber)"
+        ],
+        "atmosphere": [
+          "radial + linear motion blur",
+          "neon bloom",
+          "haze"
+        ]
+      },
+      "texture": {
+        "primary_subject": "cel_shaded_silhouette",
+        "secondary_objects": [
+          "smeared_light_trails"
+        ],
+        "background_surface": "flat_illustrated_neon_facade",
+        "atmospheric": [
+          "motion_blur",
+          "halation_glow",
+          "haze"
+        ]
+      },
+      "lighting": {
+        "key_direction": "front",
+        "key_hardness": "soft",
+        "key_color_temp": "colored_neon",
+        "fill_strength": "minimal",
+        "key_to_fill_ratio": "4:1",
+        "rim_light": true,
+        "practical_lights": [
+          "네온 사인",
+          "빌딩 창문 조명"
+        ],
+        "shadow_presence": "deep",
+        "overall_contrast": "low_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#0b0e1c",
+          "#ff2f8e",
+          "#25d6d0",
+          "#ffb13a",
+          "#06070d"
+        ],
+        "palette_role": {
+          "#0b0e1c": "background_blue_black_dominant",
+          "#ff2f8e": "neon_magenta",
+          "#25d6d0": "neon_teal",
+          "#ffb13a": "warm_amber_accent",
+          "#06070d": "silhouette_black"
+        },
+        "color_relationship": "split_complementary",
+        "temperature_balance": "cool_dominant",
+        "saturation_strategy": "vivid",
+        "contrast_type": "luminance_high",
+        "accent_color": "#ffb13a",
+        "accent_ratio": "15_percent"
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "An animated speed-tunnel chase key-frame at full 1920x1080 pixels, 16:9 landscape aspect ratio, depicting a lone dark figure racing forward through a neon-lit nocturnal city rendered as a rushing perspective corridor. The frame is built around an aggressive one-point vanishing perspective: tall illuminated skyscraper facades, neon signage strips and glowing window grids streak inward from the four corners toward a bright vanishing point near the center, the verticals converging and smearing into long motion-blurred light trails that convey extreme forward velocity. In the lower-center-to-mid region, a slender humanoid character, character ID dark_runner, is seen from behind or three-quarter-back, sprinting or gliding away from the viewer down the luminous canyon, rendered largely as a dark silhouette with cool rim light from the surrounding neon catching the edges of the hair, shoulders and trailing limbs. The character is small relative to the towering environment, emphasizing solitude and momentum. The buildings carry saturated neon accents in magenta-pink, electric teal-cyan, deep blue and warm amber, with countless tiny window lights smeared into horizontal and diagonal streaks by the camera push. The framing is a wide environment shot, the virtual camera positioned at mid-height and rushing forward on the central axis, possibly with a slight handheld wobble or dutch tilt that destabilizes the verticals. Lighting is colored-neon low-key: no single key, instead an immersive wrap of saturated practical neon from the cityscape itself, deep blue-black shadows in the figure and corners, cool temperature dominant with warm amber accents punctuating. The mood is urgent, propulsive, cinematic, a nocturnal pursuit beat in the music. The atmosphere is heavy with speed: radial and linear motion blur across nearly the whole frame, glowing bloom on every light source, faint atmospheric haze tinting the deep background, and possibly thin rain-streak or particle hints. Color palette: deep blue-black #0b0e1c dominant about forty percent, neon magenta #ff2f8e about eighteen percent, electric teal-cyan #25d6d0 about eighteen percent, warm amber #ffb13a about fourteen percent, and silhouette black #06070d about ten percent. The color relationship is split-complementary neon, magenta against teal with amber accent; the temperature balance is cool-dominant with warm punctuation; the saturation strategy is vivid neon; the contrast type is high luminance between glowing signage and dark voids. Texture: flat illustrated building facades, smeared light-trail streaks, glossy wet-look reflections on an implied street, additive neon glow, motion-blur smearing, and subtle grain. A recorded Korean or English sung-lyric subtitle in magenta-pink with white edge sits near lower-center. This is a propulsive nocturnal-city chase passage from an animated Korean spicy instant-noodle brand anthem, conveying the protagonist breaking through the ordinary world at speed. Style anchor: cinematic anime neon-city speed tunnel, one-point perspective rush, split-complementary neon palette, heavy motion blur and bloom, Korean music-film aesthetic, 4K animation render.\n Additional craft and layout detail for faithful recreation: the cityscape is constructed as several parallax depth layers of building blocks, the nearest layer streaking past almost completely blurred while the distant layer near the vanishing point stays comparatively crisp, which sells the depth and the speed simultaneously; the neon signage carries small illegible glyph shapes and logo-like marks treated generically as colored light rather than readable text; thin specular highlights run along implied wet pavement at the bottom of the canyon, doubling the neon as reflections; a faint vignette darkens the extreme corners to funnel the eye toward the bright center; and the dark runner figure leaves a brief ghosting afterimage trail consistent with the forward dash. The entire frame is biased toward motion and direction, with virtually every element either streaking or glowing, so that even as a still it reads as a single arrested instant of high-velocity travel through a luminous urban tunnel.",
+        "t2i_negative": "photorealistic, daylight, static framing, real human faces, real brand logos, watermark, low saturation, no motion blur",
+        "i2v_motion": "Camera rushes forward on the central axis through the neon canyon as the dark_runner sprints away; building light trails streak inward and smear with heavy motion blur; neon bloom pulses; sung-lyric caption holds lower-center (finalized in post). ~5.0s, accelerating, no cut.",
+        "i2v_params": {
+          "clip_duration_sec": 5.0,
+          "camera_move": "push_in",
+          "subject_motion_level": "dynamic",
+          "signature_effect": "none",
+          "pacing": "accelerating",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; runner is a generic dark figure; neon signage abstracted to colored light; any caption preserved verbatim"
+      }
+    },
+    {
+      "index": 5,
+      "duration": 3.67,
+      "framing": "ECU",
+      "function": "emotional_peak",
+      "subject_action": "extreme close-up of a glamorous anime diva's fierce face wreathed in fire during a vocal peak",
+      "layout_grid": "center",
+      "subject_position": "center",
+      "subject_identity": "supporting_B",
+      "subject_relationship_to_protagonist": "supporting_character",
+      "mid_frame_path": "ADV-2026-050_frames/cut05_mid.png",
+      "subject_typo_layout": "typo_over_subject",
+      "typo_motion": "sung-lyric caption appears lower-center if present; karaoke pop",
+      "camera_angle": "eye_level",
+      "camera_facing": "three_quarter",
+      "shot_scope": "face_only",
+      "gaze": "off_camera",
+      "eye_contact_effect": null,
+      "props": [
+        "2D flame"
+      ],
+      "prop_semantics": "fire halo dramatizes the passionate vocal peak and the brand's heat",
+      "color_palette": [
+        "#ff6f1e",
+        "#ff9a2c",
+        "#c01810",
+        "#f6ddc4",
+        "#2c3a52"
+      ],
+      "color_intent": "warm chiaroscuro fire light models the face for operatic intensity",
+      "pose_description": "diva_figure face fills frame, eyes narrowed fierce, lips parted mid-song; hair whips with red/teal streaks",
+      "subject_motion": "micro_gestures",
+      "prop_motion": "flames curl around face",
+      "camera_motion": "slow_push_in",
+      "camera_motion_intensity": "low",
+      "camera_effect_local": "none",
+      "motion_blur": false,
+      "intra_cut_rhythm": "steady",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [
+        "particle",
+        "light_leak"
+      ],
+      "vfx_intensity_local": "moderate",
+      "fact_check_flag": null,
+      "notes": "Cut5 (f392-501, 13.03-16.70s): ECU diva face framed by fire, fierce gaze. Warm chiaroscuro.",
+      "visible_elements": {
+        "foreground": [
+          "flame licks passing in front of lower face"
+        ],
+        "midground": [
+          "diva_figure face (ECU), fierce expression"
+        ],
+        "background": [
+          "rising orange-red flame halo"
+        ],
+        "lighting_env": [
+          "flame-orange key wrapping the face",
+          "cool shadow-blue accent"
+        ],
+        "atmosphere": [
+          "embers",
+          "heat shimmer",
+          "halation"
+        ]
+      },
+      "texture": {
+        "primary_subject": "cel_shaded_anime_skin",
+        "secondary_objects": [
+          "hand_drawn_2d_flame"
+        ],
+        "background_surface": "painterly_fire",
+        "atmospheric": [
+          "embers",
+          "heat_shimmer",
+          "halation_glow"
+        ]
+      },
+      "lighting": {
+        "key_direction": "side_left",
+        "key_hardness": "hard",
+        "key_color_temp": "colored_neon",
+        "fill_strength": "minimal",
+        "key_to_fill_ratio": "8:1",
+        "rim_light": true,
+        "practical_lights": [
+          "둘러싼 불꽃 발광"
+        ],
+        "shadow_presence": "deep",
+        "overall_contrast": "high_contrast"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#ff6f1e",
+          "#ff9a2c",
+          "#c01810",
+          "#f6ddc4",
+          "#2c3a52"
+        ],
+        "palette_role": {
+          "#ff6f1e": "fire_orange_dominant",
+          "#ff9a2c": "fire_yellow",
+          "#c01810": "deep_red",
+          "#f6ddc4": "warm_skin",
+          "#2c3a52": "cool_shadow_accent"
+        },
+        "color_relationship": "complementary",
+        "temperature_balance": "warm_dominant",
+        "saturation_strategy": "vivid",
+        "contrast_type": "luminance_high",
+        "accent_color": "#2c3a52",
+        "accent_ratio": "5_percent"
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A dramatic animated extreme-close-up key-frame at full 1920x1080 pixels, 16:9 landscape aspect ratio, depicting the intense face of a glamorous anime diva character wreathed in fire. The frame is dominated by a tight close-up of a stylized female-coded anime character, character ID diva_figure, her face filling much of the frame at a slight three-quarter angle, eyes narrowed in fierce determination or defiant ecstasy, lips parted as if mid-song or mid-cry. She has large striking anime eyes with bold lashes, sharp brows, smooth pale cel-shaded skin with warm fire-reflected highlights along the cheekbone and jaw, and long flowing dark hair with red-and-teal streaks whipping around the face. Around and behind her, sheets of orange-red flame rise and curl, framing the face in a burning halo and casting flickering warm light across her features; some flame licks pass in the foreground, partially overlapping the lower face. The framing is an extreme close-up to big-close-up, the virtual camera placed near eye level and pushed in tight, possibly with a slight dutch tilt for drama. Lighting is high-contrast warm: a strong flame-orange key from the surrounding fire wrapping the face in golden highlight, deep shadow on the unlit side, a faint cool blue accent in the shadow core, and saturated fire temperature overall. The mood is operatic, passionate, fierce, a peak emotional vocal moment. The atmosphere is dense with flame, ember sparks, heat shimmer, soft halation bloom on the brightest fire, and a faint grain. Color palette: fire-orange #ff6f1e and #ff9a2c dominant about forty-five percent, deep red #c01810 about twenty percent, pale warm skin #f6ddc4 about eighteen percent, dark hair #2a1f2c about twelve percent, and cool shadow-blue #2c3a52 accent about five percent. The color relationship is warm-dominant fire-and-skin with a cool shadow accent; the temperature balance is strongly warm-dominant; the saturation strategy is vivid; the contrast type is high luminance with chiaroscuro modeling on the face. Texture: smooth cel-shaded skin with painterly gradient blush, hand-drawn 2D flame layered in front and behind, glossy lip and eye highlights, soft halation, faint grain. If a sung-lyric subtitle is present it sits in magenta-pink with white edge near lower-center, preserved as recorded on-screen text. This is a passionate vocal-peak close-up from an animated Korean spicy instant-noodle brand anthem, intensifying the emotional stakes of the performance. Style anchor: cinematic anime fire-framed dramatic close-up, chiaroscuro warm key, vivid fire palette, operatic idol mood, soft bloom and grain, Korean music-film aesthetic, 4K animation render.\n Additional craft and layout detail for faithful recreation: the flames are drawn as distinct cel-painted tongues with bright yellow-white inner cores and darker orange-red outer edges, layered both in front of and behind the face to create wrapping depth; the reflected firelight is painted as warm rolling gradients across the skin with crisp specular catchlights in the eyes and on the lower lip; individual strands of hair are separated and lit with rim highlights where they cross the flame; tiny ember dots float upward through the frame leaving short motion streaks; and a subtle heat-shimmer warp distorts the air at the edges of the fire. The face occupies the strong central focal zone with the burning halo forming a natural vignette of warm light and dark, leaving almost no cool calm negative space, which concentrates all attention on the singer's fierce expression at the emotional climax of the vocal line.",
+        "t2i_negative": "photorealistic, live-action, real celebrity face likeness, real brand logos, watermark, flat lighting, daylight, low detail",
+        "i2v_motion": "The diva_figure holds a fierce mid-song expression with breathing-level micro-motion (lips part, brow tightens) as flames curl in front of and behind the face; warm key flickers; camera pushes in slowly; embers rise; any sung-lyric caption holds lower-center. ~3.7s, steady, no cut.",
+        "i2v_params": {
+          "clip_duration_sec": 3.67,
+          "camera_move": "push_in",
+          "subject_motion_level": "micro",
+          "signature_effect": "none",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; diva is a generic anime character type (no real-person face likeness); any caption preserved verbatim; fire is a craft effect"
+      }
+    },
+    {
+      "index": 6,
+      "duration": 4.27,
+      "framing": "MS",
+      "function": "narrative_pivot",
+      "subject_action": "two anime figures in a charged dramatic embrace/confrontation amid red light, intercut with an elegant hand reaching as flame curls from the fingertips",
+      "layout_grid": "center",
+      "subject_position": "center",
+      "subject_identity": "supporting_ensemble",
+      "subject_relationship_to_protagonist": "supporting_character",
+      "mid_frame_path": "ADV-2026-050_frames/cut06_mid.png",
+      "subject_typo_layout": "typo_over_subject",
+      "typo_motion": "Korean sung-lyric caption '‘라면은 가장 편안한 식사라고’' appears lower-center (quoted line); karaoke pop",
+      "camera_angle": "eye_level",
+      "camera_facing": "profile",
+      "shot_scope": "waist_up",
+      "gaze": "off_camera",
+      "eye_contact_effect": null,
+      "props": [
+        "2D flame ribbon"
+      ],
+      "prop_semantics": "dramatic embrace + flame-hand raise the narrative conflict/tension before the chorus",
+      "color_palette": [
+        "#c41c1c",
+        "#e2452c",
+        "#ff8a2e",
+        "#f3d9c2",
+        "#2f8f86"
+      ],
+      "color_intent": "red-dominant warm light with teal hair-streak accent dramatizes intimacy and tension",
+      "pose_description": "diva_figure and antagonist_dark locked close in profile/three-quarter; in an inserted beat an elegant hand reaches across a fiery field",
+      "subject_motion": "micro_gestures",
+      "prop_motion": "flame ribbon curls from fingertips",
+      "camera_motion": "locked_off",
+      "camera_motion_intensity": "low",
+      "camera_effect_local": "none",
+      "motion_blur": false,
+      "intra_cut_rhythm": "steady",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [
+        "light_leak",
+        "particle"
+      ],
+      "vfx_intensity_local": "moderate",
+      "fact_check_flag": null,
+      "notes": "Cut6 (f502-629, 16.70-20.97s): dramatic two-character embrace/conflict + reaching flame-hand insert. Caption: '라면은 가장 편안한 식사라고'.",
+      "visible_elements": {
+        "foreground": [
+          "reaching hand with curling flame (insert beat)"
+        ],
+        "midground": [
+          "two anime figures in close dramatic pose"
+        ],
+        "background": [
+          "abstract red/crimson light with soft vertical streaks"
+        ],
+        "lighting_env": [
+          "soft warm red ambient key",
+          "teal rim accents"
+        ],
+        "atmosphere": [
+          "soft glow",
+          "faint haze",
+          "embers"
+        ]
+      },
+      "texture": {
+        "primary_subject": "cel_shaded_anime_skin",
+        "secondary_objects": [
+          "hand_drawn_2d_flame"
+        ],
+        "background_surface": "painterly_red_gradient",
+        "atmospheric": [
+          "halation_glow",
+          "haze"
+        ]
+      },
+      "lighting": {
+        "key_direction": "front",
+        "key_hardness": "soft",
+        "key_color_temp": "colored_neon",
+        "fill_strength": "minimal",
+        "key_to_fill_ratio": "4:1",
+        "rim_light": true,
+        "practical_lights": [
+          "붉은 무대광"
+        ],
+        "shadow_presence": "soft",
+        "overall_contrast": "low_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#c41c1c",
+          "#e2452c",
+          "#ff8a2e",
+          "#f3d9c2",
+          "#2f8f86"
+        ],
+        "palette_role": {
+          "#c41c1c": "crimson_dominant",
+          "#e2452c": "red_secondary",
+          "#ff8a2e": "warm_orange_flame",
+          "#f3d9c2": "warm_skin",
+          "#2f8f86": "teal_accent"
+        },
+        "color_relationship": "complementary",
+        "temperature_balance": "warm_dominant",
+        "saturation_strategy": "vivid",
+        "contrast_type": "luminance_high",
+        "accent_color": "#2f8f86",
+        "accent_ratio": "5_percent"
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A theatrical animated two-character dramatic key-frame at full 1920x1080 pixels, 16:9 landscape aspect ratio, depicting an intense embrace-or-confrontation beat between two stylized anime figures amid swirling red light, intercut with a striking image of a reaching hand and curling flame. In the primary composition, two characters, character ID diva_figure and a second character ID antagonist_dark, are locked close together in a charged dramatic pose, faces near one another in profile and three-quarter, one leaning over or pulling the other, conveying tension, longing or struggle; both have flowing hair with red-and-teal streaks, sharp anime features and stylish dark stage outfits, rendered in smooth cel shading. Surrounding them, the environment dissolves into abstract red and crimson light with soft vertical streaks and warm glow, keeping focus on the figures. In an adjacent or overlaid beat that this frame may capture, a single elegant hand reaches across the frame against a fiery orange-red field with a ribbon of flame curling from the fingertips, a graphic gesture of grasping power. The framing alternates between a medium two-shot and an inserted close detail of the hand; the virtual camera is near eye level with a slight tilt, intimate and tight. Lighting is warm low-key and romantic-dramatic: a soft warm key from the ambient red glow wrapping both figures, gentle rim separation, deep shadow around the edges, saturated red temperature overall. The mood is operatic, emotional, charged with conflict and intimacy, a narrative turning beat. The atmosphere carries soft glow bloom, faint haze, drifting embers near the flame insert, and a faint grain. Color palette: crimson-red #c41c1c and #e2452c dominant about fifty percent, warm orange flame #ff8a2e about eighteen percent, pale skin #f3d9c2 about sixteen percent, dark hair and clothing #241a26 about eleven percent, and teal hair-streak accent #2f8f86 about five percent. The color relationship is red-dominant warm with a small teal complementary accent; the temperature balance is warm-dominant; the saturation strategy is vivid; the contrast type is high luminance with soft chiaroscuro. Texture: smooth cel-shaded skin and hair, painterly red light gradients, hand-drawn flame ribbon, glossy highlights, soft halation, faint grain. A recorded Korean sung-lyric subtitle in magenta-pink with white edge sits near lower-center, preserved verbatim as on-screen text. This is a dramatic narrative pivot in an animated Korean spicy instant-noodle brand anthem, raising the emotional and thematic conflict before the chorus. Style anchor: cinematic anime romantic-dramatic two-shot with flame-hand insert, warm red chiaroscuro key, vivid crimson palette, operatic mood, soft bloom and grain, Korean music-film aesthetic, 4K animation render.\n Additional craft and layout detail for faithful recreation: the two figures are composed in a tight interlocking diagonal that leads the eye from one face to the other, their silhouettes overlapping so the viewer reads intimacy and tension at once; the red environmental light is painted as soft vertical streaks and bokeh-like glows rather than any literal location, abstracting the set into pure mood; the inserted reaching-hand beat is framed against a flatter fiery field with the curling flame ribbon drawn as a hand-painted 2D element trailing soft glow; rim lights in cool teal trace the hair streaks to separate the figures from the warm ground; and faint embers and a soft halation bloom sit over the brightest red areas. The composition deliberately withholds a wide establishing context, keeping the frame claustrophobically close on the relationship to maximize dramatic charge before the song opens into its anthemic chorus section.",
+        "t2i_negative": "photorealistic, real-person face likeness, real brand logos, watermark, flat daylight, low detail, deformed hands",
+        "i2v_motion": "The two figures hold a charged close pose with breathing-level micro-motion, one leaning toward the other; in the inserted beat an elegant hand reaches across the fiery field as a flame ribbon curls and trails from the fingertips; soft red glow pulses; camera locked-off; Korean caption '라면은 가장 편안한 식사라고' holds lower-center (finalized in post). ~4.3s, steady.",
+        "i2v_params": {
+          "clip_duration_sec": 4.27,
+          "camera_move": "locked_off",
+          "subject_motion_level": "micro",
+          "signature_effect": "none",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; figures generic anime types; on-screen quoted caption preserved verbatim; flame is a craft effect"
+      }
+    },
+    {
+      "index": 7,
+      "duration": 5.23,
+      "framing": "MLS",
+      "function": "conflict_action",
+      "subject_action": "a dark stylish figure swings a whip of fire on a neon-night street-stage, intercut with the rooster mascot seen at a distance in the same neon world",
+      "layout_grid": "dynamic_symmetry",
+      "subject_position": "center",
+      "subject_identity": "antagonist_dark",
+      "subject_relationship_to_protagonist": "supporting_character",
+      "mid_frame_path": "ADV-2026-050_frames/cut07_mid.png",
+      "subject_typo_layout": "typo_over_subject",
+      "typo_motion": "Korean sung-lyric caption holds lower-center; karaoke pop",
+      "camera_angle": "eye_level",
+      "camera_facing": "three_quarter",
+      "shot_scope": "waist_up",
+      "gaze": "off_camera",
+      "eye_contact_effect": null,
+      "props": [
+        "fire whip",
+        "neon city facades"
+      ],
+      "prop_semantics": "fire whip dramatizes the antagonistic struggle the protagonist must overcome",
+      "color_palette": [
+        "#0a0e1e",
+        "#ff7a1e",
+        "#ff2f8e",
+        "#25d6d0",
+        "#06070d"
+      ],
+      "color_intent": "hot fire accent against split-complementary neon builds a fierce confrontation",
+      "pose_description": "antagonist_dark lunges swinging a glowing fire-whip arc; hochi_mascot appears small/luminous in the same neon street",
+      "subject_motion": "dynamic",
+      "prop_motion": "fire whip arcs across frame",
+      "camera_motion": "whip_pan",
+      "camera_motion_intensity": "high",
+      "camera_effect_local": "dutch_tilt",
+      "motion_blur": true,
+      "intra_cut_rhythm": "accelerating",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [
+        "light_leak",
+        "particle",
+        "color_pop"
+      ],
+      "vfx_intensity_local": "heavy",
+      "fact_check_flag": null,
+      "notes": "Cut7 (f630-786, 20.97-26.20s): neon-night intercut, antagonist_dark with fire whip + distant hochi. Whip-pan energy.",
+      "visible_elements": {
+        "foreground": [
+          "glowing fire-whip arc"
+        ],
+        "midground": [
+          "dark figure lunging (antagonist_dark)",
+          "distant luminous mascot"
+        ],
+        "background": [
+          "saturated neon city at night, steep perspective"
+        ],
+        "lighting_env": [
+          "hot additive fire-whip glow",
+          "cool neon wrap"
+        ],
+        "atmosphere": [
+          "motion blur on whip",
+          "neon bloom",
+          "embers",
+          "haze"
+        ]
+      },
+      "texture": {
+        "primary_subject": "cel_shaded_silhouette",
+        "secondary_objects": [
+          "hand_drawn_2d_fire"
+        ],
+        "background_surface": "flat_illustrated_neon_facade",
+        "atmospheric": [
+          "motion_blur",
+          "halation_glow",
+          "haze"
+        ]
+      },
+      "lighting": {
+        "key_direction": "side_right",
+        "key_hardness": "hard",
+        "key_color_temp": "colored_neon",
+        "fill_strength": "minimal",
+        "key_to_fill_ratio": "8:1",
+        "rim_light": true,
+        "practical_lights": [
+          "불채찍 발광",
+          "네온 사인"
+        ],
+        "shadow_presence": "deep",
+        "overall_contrast": "low_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#0a0e1e",
+          "#ff7a1e",
+          "#ff2f8e",
+          "#25d6d0",
+          "#06070d"
+        ],
+        "palette_role": {
+          "#0a0e1e": "background_blue_black_dominant",
+          "#ff7a1e": "fire_whip_accent",
+          "#ff2f8e": "neon_magenta",
+          "#25d6d0": "neon_teal",
+          "#06070d": "silhouette_black"
+        },
+        "color_relationship": "split_complementary",
+        "temperature_balance": "split_warm_cool",
+        "saturation_strategy": "vivid",
+        "contrast_type": "luminance_high",
+        "accent_color": "#ff7a1e",
+        "accent_ratio": "15_percent"
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "An animated neon-night intercut key-frame at full 1920x1080 pixels, 16:9 landscape aspect ratio, depicting a dark stylish figure wielding a whip of fire against a dense neon-city backdrop, intercut with the rooster idol mascot seen at a distance on the same nocturnal stage-street. In the primary composition, a slender humanoid character, character ID antagonist_dark, stands or lunges in dynamic action, swinging a glowing rope or whip of orange-red fire that arcs across the frame in a bright burning curve; the figure is rendered largely as a dark cel-shaded silhouette with cool neon rim light edging the hair, shoulders and outstretched arm, dressed in a fitted dark stage outfit. The background is a saturated neon city at night: tall building facades, signage strips and window grids glowing in magenta-pink, electric teal-cyan and deep blue, arranged in a steep perspective that gives depth to the street-stage. In the intercut beat that this frame may also represent, the rooster mascot, character ID hochi_mascot, appears smaller within the same neon environment, a flash of white-feathered face and flame-teal pompadour against the dark. The framing is a medium-to-wide environment action shot, the virtual camera at mid-height with a slight dutch tilt and quick implied motion. Lighting is colored-neon low-key with a hot additive glow from the fire whip acting as a moving warm key, deep blue-black shadows, cool neon wrap from the city, and a warm-against-cool temperature split. The mood is fierce, kinetic, antagonistic, a confrontation beat in the narrative. The atmosphere carries motion blur on the whip arc, glowing bloom on every light, drifting embers near the flame, faint haze in the deep background, and subtle grain. Color palette: deep blue-black #0a0e1e dominant about thirty-eight percent, fire-orange #ff7a1e whip and glow about twenty percent, neon magenta #ff2f8e about sixteen percent, electric teal-cyan #25d6d0 about sixteen percent, and silhouette black #06070d about ten percent. The color relationship is warm fire accent against split-complementary neon; the temperature balance is split warm-cool; the saturation strategy is vivid neon; the contrast type is high luminance between glowing elements and dark voids. Texture: flat illustrated neon facades, hand-drawn 2D fire whip with additive glow, cel-shaded silhouette figure, smeared light reflections, motion blur, soft halation, faint grain. A recorded Korean sung-lyric subtitle in magenta-pink with white edge sits near lower-center, preserved verbatim. This is a confrontational nocturnal-stage passage from an animated Korean spicy instant-noodle brand anthem, dramatizing the struggle the protagonist must overcome. Additional craft detail for faithful recreation: the fire whip is drawn as a continuous tapering ribbon with bright yellow-white core and orange edge, trailing a soft afterglow and scattered sparks along its length; the neon city is layered in parallax depth with the nearest signage partly blurred; thin specular reflections double the neon on an implied wet ground; a soft vignette frames the corners; and the intercut mascot insert is kept small and luminous so the two characters read as opposing forces within one continuous neon world. Style anchor: cinematic anime neon-night action intercut, fire-whip motion, split-complementary neon palette, heavy bloom and motion blur, Korean music-film aesthetic, 4K animation render.",
+        "t2i_negative": "photorealistic, daylight, real-person face, real brand logos, watermark, static framing, low saturation, no motion blur",
+        "i2v_motion": "Antagonist_dark lunges and swings a glowing fire-whip that arcs across the frame trailing sparks; whip-pan camera with dutch tilt and motion blur; neon city streaks behind; the distant hochi_mascot flashes luminous; Korean sung-lyric caption holds lower-center. ~5.2s, accelerating, no cut.",
+        "i2v_params": {
+          "clip_duration_sec": 5.23,
+          "camera_move": "pan_R",
+          "subject_motion_level": "dynamic",
+          "signature_effect": "none",
+          "pacing": "accelerating",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; figures generic; neon abstracted; caption preserved verbatim; fire whip is a craft effect"
+      }
+    },
+    {
+      "index": 8,
+      "duration": 6.83,
+      "framing": "MCU",
+      "function": "character_intro",
+      "subject_action": "rooster idol mascot performs in a charismatic close framing on a neon night stage; a self-introduction lyric appears and red foil noodle packaging is woven into the world",
+      "layout_grid": "center",
+      "subject_position": "center",
+      "subject_identity": "protagonist_main",
+      "subject_relationship_to_protagonist": "main_character",
+      "mid_frame_path": "ADV-2026-050_frames/cut08_mid.png",
+      "subject_typo_layout": "typo_over_subject",
+      "typo_motion": "Korean sung-lyric captions ('안녕 난 불닭' / '안녕 난 불타' / '네 길을 막는 건 다 불타') pop lower-center in sequence; karaoke style",
+      "camera_angle": "eye_level",
+      "camera_facing": "three_quarter",
+      "shot_scope": "bust",
+      "gaze": "to_camera",
+      "eye_contact_effect": "direct_address",
+      "props": [
+        "red foil noodle wrapper",
+        "neon stage backdrop"
+      ],
+      "prop_semantics": "product packaging seeded into the idol's world; direct-address introduces the brand persona",
+      "color_palette": [
+        "#0c1024",
+        "#ff9a3a",
+        "#ff3a92",
+        "#2bd0c8",
+        "#f4f1ec"
+      ],
+      "color_intent": "warm-key subject against split-complementary neon makes the mascot a charismatic star",
+      "pose_description": "hochi_mascot bust-up, confident charismatic look to camera; pompadour rim-lit against neon",
+      "subject_motion": "micro_gestures",
+      "prop_motion": "packaging glints in scene",
+      "camera_motion": "handheld_drift",
+      "camera_motion_intensity": "low",
+      "camera_effect_local": "none",
+      "motion_blur": false,
+      "intra_cut_rhythm": "steady",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [
+        "light_leak"
+      ],
+      "vfx_intensity_local": "moderate",
+      "fact_check_flag": null,
+      "notes": "Cut8 (f787-991, 26.20-33.03s): hochi MCU on neon stage, direct address. Lyrics '안녕 난 불닭/불타...'; red foil wrapper seeded.",
+      "visible_elements": {
+        "foreground": [
+          "rooster mascot bust-up, to-camera"
+        ],
+        "midground": [
+          "red foil noodle wrapper glimpsed in scene"
+        ],
+        "background": [
+          "neon-night stage/cityscape bokeh (magenta/teal/amber)"
+        ],
+        "lighting_env": [
+          "warm key on face",
+          "cool neon wrap behind"
+        ],
+        "atmosphere": [
+          "soft bokeh glow",
+          "light particles",
+          "halation"
+        ]
+      },
+      "texture": {
+        "primary_subject": "cel_shaded_anime_skin_feather",
+        "secondary_objects": [
+          "glossy_foil_wrapper"
+        ],
+        "background_surface": "bokeh_neon",
+        "atmospheric": [
+          "halation_glow"
+        ]
+      },
+      "lighting": {
+        "key_direction": "45deg_side",
+        "key_hardness": "soft",
+        "key_color_temp": "mixed",
+        "fill_strength": "moderate",
+        "key_to_fill_ratio": "4:1",
+        "rim_light": true,
+        "practical_lights": [
+          "네온 무대광"
+        ],
+        "shadow_presence": "soft",
+        "overall_contrast": "low_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#0c1024",
+          "#ff9a3a",
+          "#ff3a92",
+          "#2bd0c8",
+          "#f4f1ec"
+        ],
+        "palette_role": {
+          "#0c1024": "background_neon_night_dominant",
+          "#ff9a3a": "warm_key_orange",
+          "#ff3a92": "neon_magenta",
+          "#2bd0c8": "neon_teal",
+          "#f4f1ec": "mascot_white"
+        },
+        "color_relationship": "split_complementary",
+        "temperature_balance": "split_warm_cool",
+        "saturation_strategy": "vivid",
+        "contrast_type": "luminance_high",
+        "accent_color": "#ff3a92",
+        "accent_ratio": "15_percent"
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "An animated idol close-up key-frame at full 1920x1080 pixels, 16:9 landscape aspect ratio, depicting the rooster idol mascot performing in a glamorous close framing on a neon-lit night stage, at a beat where a recorded Korean sung-lyric self-introduction appears and product packaging is woven into the scene. The anthropomorphic mascot, character ID hochi_mascot, is framed roughly bust-up to medium, facing the camera at a three-quarter angle with a confident charismatic expression: clean white feathered face, bright lemon-yellow beak, red heart-shaped wattle, large sharp anime eyes, and the signature dramatic pompadour mane that is flame-yellow and crimson-red at the front crest and deep teal-green at the back. The mascot wears a structured stage jacket with bold color blocking and a small chest emblem. The background is a saturated neon night cityscape or concert backdrop with magenta, teal and warm signage lights bokeh-blurred behind, plus glowing strips and a hint of crowd or stage architecture. Within the scene, stylized noodle-product packaging elements appear as part of the world: a glimpse of a red foil noodle wrapper or product graphic with small printed Korean text, treated as recorded on-screen product detail. The framing is a medium close-up, the virtual camera near eye level pushed in, with a slight handheld energy. Lighting is colored-neon low-key with a warm key catching the mascot's face and a cool neon wrap from behind, deep shadows, rim separation on the pompadour, and a warm-against-cool temperature split. The mood is charismatic, defiant, star-making, an idol-introduction beat. The atmosphere has soft bokeh glow, drifting light particles, gentle halation and faint grain. Color palette: deep neon-night blue-black #0c1024 dominant about thirty-five percent, warm key orange #ff9a3a on the face about eighteen percent, neon magenta #ff3a92 about sixteen percent, teal-cyan #2bd0c8 about sixteen percent, white mascot face #f4f1ec about fifteen percent. The color relationship is warm-key subject against split-complementary neon ground; the temperature balance is split warm-cool; the saturation strategy is vivid; the contrast type is high luminance. Texture: smooth cel-shaded mascot with painterly shading, glossy eye and beak highlights, bokeh neon background, red foil product wrapper with fine print, soft halation, faint grain. A recorded Korean sung-lyric subtitle in magenta-pink with white edge sits near lower-center, preserved verbatim as on-screen text. This is the charismatic idol-introduction close-up of an animated Korean spicy instant-noodle brand anthem, presenting the mascot as the confident star while seeding the product. Additional craft detail for faithful recreation: the pompadour is rendered with separated lit strands and rim highlights against the dark; the chest emblem reads as a small brand graphic preserved as recorded; the background neon is layered in soft bokeh circles of varying size; a faint vignette frames the corners; and the product wrapper is integrated naturally into the lower or side of the frame rather than as an overlay. Style anchor: cinematic anime idol close-up on neon stage, warm-key charismatic subject, split-complementary neon palette, soft bokeh and bloom, Korean music-film aesthetic, 4K animation render.\n The lighting on the white feathers shows subtle colored neon spill in the shadow areas, so the otherwise white plumage picks up faint magenta and teal tints that tie the character into the surrounding stage environment and prevent it from looking flatly white.",
+        "t2i_negative": "photorealistic, real-person face, real brand logos beyond preserved packaging text, watermark, daylight, flat lighting, low detail",
+        "i2v_motion": "Hochi_mascot performs to camera with charismatic micro-motion (slight head tilts, confident look) on the neon stage; bokeh neon glimmers behind; red foil wrapper glints in scene; Korean self-intro lyric captions pop lower-center in sequence (finalized in post). ~6.8s, steady, no cut.",
+        "i2v_params": {
+          "clip_duration_sec": 6.83,
+          "camera_move": "locked_off",
+          "subject_motion_level": "micro",
+          "signature_effect": "none",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; mascot generic rooster idol type; packaging + lyric captions preserved verbatim as recorded"
+      }
+    },
+    {
+      "index": 9,
+      "duration": 8.14,
+      "framing": "WS",
+      "function": "performance_climax",
+      "subject_action": "rooster idol mascot stands as a triumphant pop star center-stage on a flaming concert stage with a roaring silhouetted crowd and floating flavor-variant signs",
+      "layout_grid": "center",
+      "subject_position": "center",
+      "subject_identity": "protagonist_main",
+      "subject_relationship_to_protagonist": "main_character",
+      "mid_frame_path": "ADV-2026-050_frames/cut09_mid.png",
+      "subject_typo_layout": "typo_separate_zone",
+      "typo_motion": "English sung-lyric caption ('Fill me with passion of life') holds lower-center; floating flavor signs (Cheddar / 까망베르치즈 / 모짜렐라치즈) + '4가지 치즈 불닭볶음면' product sign are diegetic graphics",
+      "camera_angle": "low_angle",
+      "camera_facing": "frontal",
+      "shot_scope": "full_body",
+      "gaze": "to_camera",
+      "eye_contact_effect": "direct_address",
+      "props": [
+        "flame rope-light garlands",
+        "floating flavor signs",
+        "brand chest box",
+        "product sign"
+      ],
+      "prop_semantics": "concert spectacle + diegetic flavor signage names product variants while crowning the mascot a beloved star",
+      "color_palette": [
+        "#ff8a1e",
+        "#ffb347",
+        "#2a0e08",
+        "#ffd21f",
+        "#d81f1f"
+      ],
+      "color_intent": "warm-amber fire stage with red brand accent creates an anthemic, euphoric chorus climax",
+      "pose_description": "hochi_mascot full-body hero stance center-stage in yellow varsity jacket (red 'Buldak' chest box), arms beginning to spread; crowd silhouettes raise arms",
+      "subject_motion": "micro_gestures",
+      "prop_motion": "flames flicker, crowd sways, signs hover",
+      "camera_motion": "slow_push_in",
+      "camera_motion_intensity": "low",
+      "camera_effect_local": "none",
+      "motion_blur": false,
+      "intra_cut_rhythm": "steady",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [
+        "light_leak",
+        "particle",
+        "color_pop"
+      ],
+      "vfx_intensity_local": "heavy",
+      "fact_check_flag": null,
+      "notes": "Cut9 (f992-1235, 33.03-41.17s): concert-climax wide; hochi center in yellow 'Buldak' jacket; flame garlands; floating cheese-variant signs; '4가지 치즈 불닭볶음면' sign. Caption 'Fill me with passion of life'.",
+      "visible_elements": {
+        "foreground": [
+          "flame rope-light garlands across stage front"
+        ],
+        "midground": [
+          "rooster mascot hero stance (yellow jacket, red chest box)",
+          "floating flavor sign plaques"
+        ],
+        "background": [
+          "vast dark silhouetted concert crowd, raised arms",
+          "warm fire/spotlight glow"
+        ],
+        "lighting_env": [
+          "hot orange fire + spotlight key",
+          "deep crowd shadow"
+        ],
+        "atmosphere": [
+          "fire glow",
+          "embers",
+          "haze",
+          "spotlight god rays",
+          "bloom"
+        ]
+      },
+      "texture": {
+        "primary_subject": "cel_shaded_anime_skin_feather",
+        "secondary_objects": [
+          "glossy_jacket",
+          "printed_signage_plaque"
+        ],
+        "background_surface": "painterly_crowd_fire",
+        "atmospheric": [
+          "embers",
+          "haze",
+          "halation_glow"
+        ]
+      },
+      "lighting": {
+        "key_direction": "45deg_above",
+        "key_hardness": "hard",
+        "key_color_temp": "warm_3000K",
+        "fill_strength": "minimal",
+        "key_to_fill_ratio": "4:1",
+        "rim_light": true,
+        "practical_lights": [
+          "무대 불꽃",
+          "스포트라이트",
+          "불빛 화환"
+        ],
+        "shadow_presence": "deep",
+        "overall_contrast": "high_contrast"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#ff8a1e",
+          "#ffb347",
+          "#2a0e08",
+          "#ffd21f",
+          "#d81f1f"
+        ],
+        "palette_role": {
+          "#ff8a1e": "fire_amber_dominant",
+          "#ffb347": "amber_secondary",
+          "#2a0e08": "crowd_shadow",
+          "#ffd21f": "mascot_yellow_jacket",
+          "#d81f1f": "red_brand_box_accent"
+        },
+        "color_relationship": "brand_dominant",
+        "temperature_balance": "warm_dominant",
+        "saturation_strategy": "vivid",
+        "contrast_type": "luminance_high",
+        "accent_color": "#d81f1f",
+        "accent_ratio": "5_percent"
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A grand animated stage-performance key-frame at full 1920x1080 pixels, 16:9 landscape aspect ratio, depicting the rooster idol mascot standing as a triumphant pop star at the center of a flaming concert stage with a roaring crowd, surrounded by floating product-flavor signage. The anthropomorphic mascot, character ID hochi_mascot, stands center-frame in a full-body to medium-full hero stance, arms relaxed or beginning to spread, facing the camera with star confidence: white feathered face and chest, lemon-yellow beak, red heart-shaped wattle, flame-and-teal pompadour, wearing a bright yellow varsity-style stage jacket with a prominent red rectangular chest box bearing the brand name in white lettering, layered over a fishnet or mesh undershirt and matching yellow trousers, with red-and-white boots. Behind and around the mascot, a vast dark concert crowd is rendered as a sea of silhouetted heads and raised arms, lit by warm orange fire and stage light, with rope-light garlands of flame strung in glowing curves across the foreground stage edge. Floating in the air around the figure are several rounded sign plaques in warm orange and tan, each carrying a flavor name in Korean, Japanese and Chinese script plus an English word such as the cheddar flavor label, and a larger product sign reading the four-cheese stir-fried noodle product name, all preserved as recorded on-screen text. The framing is a wide environment stage shot, the virtual camera at a slightly low hero angle pushing toward the star. Lighting is warm theatrical: hot orange fire and spotlight key from the stage wrapping the figure in golden light, deep crowd shadow, rim separation, saturated warm temperature. The mood is anthemic, triumphant, euphoric, the chorus climax of a concert. The atmosphere is full of fire glow, embers, haze, spotlight god rays, bloom and faint grain. Color palette: warm orange-amber #ff8a1e and #ffb347 dominant about forty-five percent, deep red-black crowd #2a0e08 about twenty-five percent, mascot yellow jacket #ffd21f about sixteen percent, white face and signage #f4efe6 about ten percent, red brand box #d81f1f accent about four percent. The color relationship is warm-amber-dominant with a red brand accent; the temperature balance is strongly warm-dominant; the saturation strategy is vivid; the contrast type is high luminance with chiaroscuro between the lit star and dark crowd. Texture: smooth cel-shaded mascot, painterly fire and crowd, glossy jacket and boots, printed signage plaques, soft halation, faint grain. A recorded English sung-lyric subtitle in magenta-pink with white edge sits near lower-center, preserved verbatim. This is the anthemic concert-climax of an animated Korean spicy instant-noodle brand film, presenting the mascot as the beloved star and naming product variants in the world itself. Additional craft detail for faithful recreation: the flame garlands across the stage front are drawn as glowing dotted rope-light curves; the crowd is layered in depth from sharp silhouettes near the stage to soft bokeh in the distance; the floating flavor signs are tilted at slightly different angles like hovering cards; the chest brand box and the four-cheese product sign are kept legible as recorded brand graphics; and warm spotlight cones rake down through the haze. Style anchor: cinematic anime concert-climax wide shot, warm-amber fire stage, hero-angle idol, legible product signage, bloom and god rays, Korean music-film aesthetic, 4K animation render.",
+        "t2i_negative": "photorealistic, daylight, real-person face, real brand logos beyond preserved signage, watermark, empty stage, low saturation",
+        "i2v_motion": "Hochi_mascot holds a triumphant hero stance and begins to spread arms with idol micro-motion; the crowd sways and raises arms; flame garlands flicker; floating flavor signs hover with slight bob; warm spotlight god rays rake through haze; camera slow push-in at a low hero angle; English caption holds lower-center (finalized in post). ~8.1s, steady, no cut.",
+        "i2v_params": {
+          "clip_duration_sec": 8.14,
+          "camera_move": "push_in",
+          "subject_motion_level": "micro",
+          "signature_effect": "none",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; mascot generic rooster idol type; crowd anonymous silhouettes; chest box + flavor signs + caption preserved verbatim as recorded brand graphics"
+      }
+    },
+    {
+      "index": 10,
+      "duration": 11.66,
+      "framing": "grid",
+      "function": "transition_montage",
+      "subject_action": "shock-cut montage: an inverted black-and-white radial speed-line fall, a dark runner dashing through neon, and a glistening red chili-sauce splash, unified by the phoenix lyric",
+      "layout_grid": "center",
+      "subject_position": "center",
+      "subject_identity": "mixed_montage",
+      "subject_relationship_to_protagonist": "supporting_character",
+      "mid_frame_path": "ADV-2026-050_frames/cut10_mid.png",
+      "subject_typo_layout": "typo_over_subject",
+      "typo_motion": "English sung-lyric captions ('I'm a phoenix' / '올가미는 다 불타 (불타)' / '세상의 기준도 (불타)') pop lower-center across the montage",
+      "camera_angle": "dutch",
+      "camera_facing": "frontal",
+      "shot_scope": "environment",
+      "gaze": "none",
+      "eye_contact_effect": null,
+      "props": [
+        "ink-like speed lines",
+        "neon city",
+        "red chili sauce"
+      ],
+      "prop_semantics": "inverted speed-lines + sauce splash bridge the dark struggle into rebirth and link to the red spicy product",
+      "color_palette": [
+        "#0a0a0a",
+        "#f2f2f2",
+        "#ff2f8e",
+        "#b81410",
+        "#ffd9a0"
+      ],
+      "color_intent": "extreme contrast swing from inverted high-key monochrome to vivid neon and red builds a transformative shock-cut",
+      "pose_description": "dark_runner free-falls amid a radial black speed-line burst on a near-white field (inverted); intercut neon dash and glossy red sauce arc",
+      "subject_motion": "dynamic",
+      "prop_motion": "sauce splashes, speed-lines burst",
+      "camera_motion": "whip_pan",
+      "camera_motion_intensity": "high",
+      "camera_effect_local": "speed_lines",
+      "motion_blur": true,
+      "intra_cut_rhythm": "chaotic",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [
+        "glitch",
+        "color_pop",
+        "particle"
+      ],
+      "vfx_intensity_local": "extreme",
+      "fact_check_flag": null,
+      "notes": "Cut10 (f1236-1585, 41.17-52.83s): grouped shock-cut montage — inverted B&W speed-line fall (f1078-style recurs), neon dash, glossy red sauce splash. diff>180 hard cuts. Caption 'I'm a phoenix'.",
+      "visible_elements": {
+        "foreground": [
+          "radial black speed-line burst (inverted)",
+          "glossy red sauce arc"
+        ],
+        "midground": [
+          "small free-falling figure (inverted beat)",
+          "dark runner in neon dash"
+        ],
+        "background": [
+          "near-white field (inverted) / neon city / deep-red field"
+        ],
+        "lighting_env": [
+          "blown high-key (inverted beat)",
+          "neon low-key (city beat)",
+          "warm sheen (sauce beat)"
+        ],
+        "atmosphere": [
+          "ink-splatter particles",
+          "neon bloom",
+          "glossy liquid reflections",
+          "motion blur"
+        ]
+      },
+      "texture": {
+        "primary_subject": "ink_splatter_speed_lines",
+        "secondary_objects": [
+          "glossy_liquid_sauce",
+          "cel_shaded_silhouette"
+        ],
+        "background_surface": "high_key_white_or_neon",
+        "atmospheric": [
+          "motion_blur",
+          "halation_glow"
+        ]
+      },
+      "lighting": {
+        "key_direction": "top",
+        "key_hardness": "hard",
+        "key_color_temp": "mixed",
+        "fill_strength": "strong",
+        "key_to_fill_ratio": "1:1",
+        "rim_light": false,
+        "practical_lights": [
+          "네온 사인"
+        ],
+        "shadow_presence": "minimal",
+        "overall_contrast": "high_contrast"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#0a0a0a",
+          "#f2f2f2",
+          "#ff2f8e",
+          "#b81410",
+          "#ffd9a0"
+        ],
+        "palette_role": {
+          "#0a0a0a": "inverted_black",
+          "#f2f2f2": "high_key_white",
+          "#ff2f8e": "neon_magenta",
+          "#b81410": "chili_red",
+          "#ffd9a0": "warm_specular_highlight"
+        },
+        "color_relationship": "split_complementary",
+        "temperature_balance": "split_warm_cool",
+        "saturation_strategy": "desaturated_with_pop",
+        "contrast_type": "luminance_high",
+        "accent_color": "#b81410",
+        "accent_ratio": "30_percent"
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A high-contrast animated intercut montage key-frame at full 1920x1080 pixels, 16:9 landscape aspect ratio, combining three rapid beats: an inverted black-and-white speed-line fall, a dark figure dashing through neon, and a splash of glistening red sauce, unified by a phoenix-rebirth lyric moment. The signature beat this frame may capture is a near-monochrome image in which a falling humanoid character, character ID dark_runner, is centered in a violent radial burst of black ink-like speed lines exploding outward against a stark near-white field, the figure small and free-falling with limbs spread, rendered in inverted high-contrast where blacks and whites are flipped for a shock cut; jagged dark streaks and scattered debris radiate from the center vanishing point. In an adjacent beat, the dark runner sprints through a saturated neon city corridor with magenta and teal light trails, and in a third beat a thick pour or splash of glossy deep-red chili sauce arcs and ripples across the frame catching specular highlights, evoking the spicy product. The framing alternates between a centered radial-burst wide shot and tight inserts; the virtual camera is dynamic with implied whip motion between cuts. Lighting ranges from the flat blown high-key of the inverted speed-line beat to the colored-neon low-key of the city beat to the warm directional sheen on the red sauce; overall the sequence swings between extremes. The mood is shocking, transformative, triumphant, a phoenix-rising turning point. The atmosphere carries heavy motion blur, ink-splatter particles, neon bloom, glossy liquid reflections and faint grain. Color palette across the montage: inverted black #0a0a0a and white #f2f2f2 dominant in the speed beat about forty percent combined, neon magenta #ff2f8e and teal #25d6d0 about twenty-five percent in the city beat, deep chili-red #b81410 and #e23a1c about twenty-five percent in the sauce beat, warm specular highlight #ffd9a0 about ten percent. The color relationship shifts from monochrome to split-complementary neon to red-dominant; the temperature balance is mixed across beats; the saturation strategy is high-key monochrome punctuated by vivid color; the contrast type is extreme luminance contrast. Texture: ink-splatter speed lines, glossy liquid sauce with viscous ripples and specular sheen, cel-shaded figure, neon smears, soft bloom, faint grain. A recorded English sung-lyric subtitle reading the phoenix line in magenta-pink with white edge sits near lower-center, preserved verbatim. This is a shock-cut transformation montage from an animated Korean spicy instant-noodle brand anthem, bridging the dark struggle into rebirth while linking the imagery to the red chili product. Additional craft detail for faithful recreation: the inverted speed-line beat uses crisp radiating black strokes of varying thickness on a paper-white ground with a slightly off-center vanishing point and a tiny silhouetted figure for scale; the sauce beat renders the liquid as a glossy translucent red mass with bright rim highlights and small flying droplets frozen in motion; and the three beats are unified by a relentless centrifugal energy. Style anchor: experimental anime shock-cut montage, inverted high-key speed lines plus neon dash plus glossy red sauce, extreme contrast, motion blur and bloom, Korean music-film aesthetic, 4K animation render.",
+        "t2i_negative": "photorealistic, calm steady framing, daylight, real-person face, real brand logos, watermark, low contrast, no motion",
+        "i2v_motion": "Rapid shock-cut montage: a figure free-falls as black ink speed-lines explode radially on an inverted white field; whip-cut to a dark runner dashing through neon; whip-cut to a glossy red chili-sauce arc splashing with flying droplets and bright specular; extreme contrast swings; heavy motion blur; English caption 'I'm a phoenix' and Korean lyric lines pop lower-center (finalized in post). ~11.7s, chaotic accelerating montage, multiple internal cuts.",
+        "i2v_params": {
+          "clip_duration_sec": 11.66,
+          "camera_move": "whip_pan",
+          "subject_motion_level": "dynamic",
+          "signature_effect": "none",
+          "pacing": "accelerating",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; figures generic; sauce is a craft product visual; captions preserved verbatim; multi-beat montage grouped as one semantic shot"
+      }
+    },
+    {
+      "index": 11,
+      "duration": 6.54,
+      "framing": "EWS",
+      "function": "spectacle",
+      "subject_action": "a colossal pillar of fire erupts on a vast dark stage against a glittering neon night skyline; the rooster mascot appears as a fire-winged silhouette",
+      "layout_grid": "center",
+      "subject_position": "center",
+      "subject_identity": "protagonist_main",
+      "subject_relationship_to_protagonist": "main_character",
+      "mid_frame_path": "ADV-2026-050_frames/cut11_mid.png",
+      "subject_typo_layout": "typo_separate_zone",
+      "typo_motion": "sung-lyric caption holds lower-center if present; karaoke style",
+      "camera_angle": "low_angle",
+      "camera_facing": "frontal",
+      "shot_scope": "environment",
+      "gaze": "none",
+      "eye_contact_effect": null,
+      "props": [
+        "fire pillar",
+        "fire wings",
+        "neon skyline"
+      ],
+      "prop_semantics": "towering fire pillar + fire wings visualize the protagonist as a phoenix igniting the city",
+      "color_palette": [
+        "#ff7a14",
+        "#ffb43a",
+        "#181434",
+        "#ff3a92",
+        "#26c8d0"
+      ],
+      "color_intent": "warm fire against cool neon skyline creates a monumental split-complementary spectacle",
+      "pose_description": "hochi_mascot backlit silhouette with vast spreading fire-wings; colossal vertical flame column near center",
+      "subject_motion": "micro_gestures",
+      "prop_motion": "fire pillar surges upward, wings flare",
+      "camera_motion": "pull_back",
+      "camera_motion_intensity": "moderate",
+      "camera_effect_local": "none",
+      "motion_blur": false,
+      "intra_cut_rhythm": "steady",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [
+        "particle",
+        "light_leak",
+        "color_pop"
+      ],
+      "vfx_intensity_local": "heavy",
+      "fact_check_flag": null,
+      "notes": "Cut11 (f1586-1781, 52.83-59.37s): epic fire-pillar over neon skyline + fire-winged hochi silhouette. hist_corr=-0.53 hard cut at 52.83.",
+      "visible_elements": {
+        "foreground": [
+          "base of colossal fire pillar",
+          "glossy stage floor reflections"
+        ],
+        "midground": [
+          "fire-winged mascot silhouette"
+        ],
+        "background": [
+          "panoramic neon city skyline, dark purple night sky"
+        ],
+        "lighting_env": [
+          "intense warm fire-pillar key",
+          "cool neon city glow"
+        ],
+        "atmosphere": [
+          "rising embers",
+          "smoke",
+          "city haze",
+          "heavy bloom"
+        ]
+      },
+      "texture": {
+        "primary_subject": "hand_drawn_2d_fire",
+        "secondary_objects": [
+          "cel_shaded_silhouette",
+          "illustrated_skyline"
+        ],
+        "background_surface": "layered_parallax_skyline",
+        "atmospheric": [
+          "embers",
+          "smoke",
+          "halation_glow"
+        ]
+      },
+      "lighting": {
+        "key_direction": "bottom",
+        "key_hardness": "hard",
+        "key_color_temp": "colored_neon",
+        "fill_strength": "minimal",
+        "key_to_fill_ratio": "8:1",
+        "rim_light": true,
+        "practical_lights": [
+          "불기둥 발광",
+          "도시 네온"
+        ],
+        "shadow_presence": "deep",
+        "overall_contrast": "high_contrast"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#ff7a14",
+          "#ffb43a",
+          "#181434",
+          "#ff3a92",
+          "#26c8d0"
+        ],
+        "palette_role": {
+          "#ff7a14": "fire_orange_dominant",
+          "#ffb43a": "fire_amber",
+          "#181434": "night_purple_blue",
+          "#ff3a92": "neon_magenta_city",
+          "#26c8d0": "neon_teal_city"
+        },
+        "color_relationship": "split_complementary",
+        "temperature_balance": "split_warm_cool",
+        "saturation_strategy": "vivid",
+        "contrast_type": "luminance_high",
+        "accent_color": "#ff7a14",
+        "accent_ratio": "30_percent"
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A spectacular animated stage-spectacle key-frame at full 1920x1080 pixels, 16:9 landscape aspect ratio, depicting a towering pillar of fire erupting on a vast dark stage set against a glittering night-city skyline, with the rooster idol mascot present as a fire-winged silhouette. The dominant element is a colossal vertical column of orange-yellow flame and light shooting upward from the stage floor near center-frame, its base flaring wide and its top streaking toward the upper edge, surrounded by sparks and embers. The stage is a broad dark platform; behind it a panoramic city skyline of illuminated skyscrapers glows in cool blue, magenta and teal, layered into deep atmospheric distance with a dark purple night sky above. In or near the fire pillar, the rooster mascot, character ID hochi_mascot, appears as a backlit silhouette with great spreading fire-wing shapes arcing behind the body, the wings drawn as radiant feathered flame, the figure small relative to the towering spectacle. The framing is an epic wide environment shot, the virtual camera low and pulled back to encompass the scale, slightly tilted up. Lighting is dramatic split: an intense warm key blasting from the fire pillar lighting the foreground in orange, against the cool blue-magenta neon glow of the distant skyline, deep shadows between, saturated split temperature. The mood is awe-struck, monumental, triumphant, a grand spectacle beat. The atmosphere is rich with rising embers, smoke, atmospheric haze over the city, heavy bloom on the fire core, and faint grain. Color palette: fire-orange #ff7a14 and #ffb43a dominant about forty percent, deep purple-blue night #181434 about twenty-five percent, neon magenta-city #ff3a92 about fifteen percent, teal-city #26c8d0 about twelve percent, ember and highlight #fff0c4 about eight percent. The color relationship is warm fire against cool neon city, a split-complementary spectacle; the temperature balance is split warm-cool; the saturation strategy is vivid; the contrast type is high luminance with a bright fire core against dark surroundings. Texture: hand-drawn 2D fire pillar and fire wings with additive glow, illustrated layered skyline, cel-shaded silhouette, soft halation, faint grain. If a recorded sung-lyric subtitle is present it sits in magenta-pink with white edge near lower-center, preserved verbatim. This is a monumental spectacle beat from an animated Korean spicy instant-noodle brand anthem, visualizing the protagonist as a phoenix igniting the skyline. Additional craft detail for faithful recreation: the fire pillar is built from stacked flame layers with a white-hot center and orange-red edges, narrowing and accelerating upward; the fire wings behind the mascot are drawn as radiating feather-flame shapes with glowing tips; the skyline is rendered in three parallax depth bands of decreasing detail and brightness; embers drift upward as bright dots with short trails; and a soft vignette frames the corners to focus the towering central column. Style anchor: cinematic anime stage-spectacle wide shot, towering fire pillar and fire wings over neon skyline, split warm-cool palette, heavy bloom and embers, Korean music-film aesthetic, 4K animation render.\n The reflection of the fire pillar and the city lights shimmers faintly on the glossy dark stage floor in the immediate foreground, extending the spectacle downward and grounding the towering column in a believable performance space.",
+        "t2i_negative": "photorealistic, daylight, real-person face, real brand logos, watermark, small flames, low saturation, flat lighting",
+        "i2v_motion": "A colossal fire pillar surges upward from the stage floor, narrowing and accelerating toward the top, as the fire-winged mascot silhouette flares its wings; embers stream up; the neon skyline glows behind; camera pulls back to reveal the scale; any caption holds lower-center. ~6.5s, steady, no cut.",
+        "i2v_params": {
+          "clip_duration_sec": 6.54,
+          "camera_move": "pull_back",
+          "subject_motion_level": "micro",
+          "signature_effect": "none",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; mascot silhouette generic; skyline abstracted; fire is a craft effect; any caption preserved verbatim"
+      }
+    },
+    {
+      "index": 12,
+      "duration": 9.93,
+      "framing": "MLS",
+      "function": "performance_climax",
+      "subject_action": "rooster idol mascot crowned and fire-winged at the peak of the chorus, arms spread in a triumphant messianic pose on a dark flame-drenched stage",
+      "layout_grid": "center",
+      "subject_position": "center",
+      "subject_identity": "protagonist_main",
+      "subject_relationship_to_protagonist": "main_character",
+      "mid_frame_path": "ADV-2026-050_frames/cut12_mid.png",
+      "subject_typo_layout": "typo_over_subject",
+      "typo_motion": "Korean sung-lyric captions ('올가미는 다 불타 (불타)' / '그따위 올가미 다 불타' / '매번 새롭게 불타올라') pop lower-center across the build",
+      "camera_angle": "low_angle",
+      "camera_facing": "frontal",
+      "shot_scope": "full_body",
+      "gaze": "off_camera",
+      "eye_contact_effect": null,
+      "props": [
+        "fire wings",
+        "flame crown",
+        "flame field"
+      ],
+      "prop_semantics": "crown + spreading fire-wings crown the mascot as a phoenix idol at the song's apex",
+      "color_palette": [
+        "#ff7218",
+        "#ffa838",
+        "#c0160e",
+        "#f4f0e7",
+        "#ffd54a"
+      ],
+      "color_intent": "warm-dominant fire with gold crown accent creates a transcendent anthem apex",
+      "pose_description": "hochi_mascot arms thrown wide in cross/embrace pose, head back ecstatic; huge fire-wings arc behind; flame crown above pompadour",
+      "subject_motion": "micro_gestures",
+      "prop_motion": "fire wings flare, embers stream, flame field surges",
+      "camera_motion": "slow_push_in",
+      "camera_motion_intensity": "low",
+      "camera_effect_local": "none",
+      "motion_blur": false,
+      "intra_cut_rhythm": "steady",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [
+        "particle",
+        "light_leak",
+        "color_pop"
+      ],
+      "vfx_intensity_local": "extreme",
+      "fact_check_flag": null,
+      "notes": "Cut12 (f1782-2079, 59.37-69.30s): anthem-apex; crowned fire-winged hochi, arms spread. Iconic wow image. Captions '올가미는 다 불타...'. Also the inverted-fall beat (f1078-style) recurs near here.",
+      "visible_elements": {
+        "foreground": [
+          "spread arms of the mascot"
+        ],
+        "midground": [
+          "crowned mascot with vast fire-wings"
+        ],
+        "background": [
+          "dark stage / burning red-orange flame void",
+          "hint of distant neon"
+        ],
+        "lighting_env": [
+          "blazing orange fire key",
+          "deep back shadow"
+        ],
+        "atmosphere": [
+          "streaming embers",
+          "heat shimmer",
+          "strong bloom"
+        ]
+      },
+      "texture": {
+        "primary_subject": "cel_shaded_anime_skin_feather",
+        "secondary_objects": [
+          "hand_drawn_2d_fire_wings",
+          "glossy_crown"
+        ],
+        "background_surface": "painterly_flame_field",
+        "atmospheric": [
+          "embers",
+          "heat_shimmer",
+          "halation_glow"
+        ]
+      },
+      "lighting": {
+        "key_direction": "front",
+        "key_hardness": "hard",
+        "key_color_temp": "colored_neon",
+        "fill_strength": "minimal",
+        "key_to_fill_ratio": "8:1",
+        "rim_light": true,
+        "practical_lights": [
+          "둘러싼 불꽃 발광"
+        ],
+        "shadow_presence": "deep",
+        "overall_contrast": "high_contrast"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#ff7218",
+          "#ffa838",
+          "#c0160e",
+          "#f4f0e7",
+          "#ffd54a"
+        ],
+        "palette_role": {
+          "#ff7218": "fire_orange_dominant",
+          "#ffa838": "fire_amber",
+          "#c0160e": "deep_red",
+          "#f4f0e7": "mascot_white",
+          "#ffd54a": "gold_crown_accent"
+        },
+        "color_relationship": "brand_dominant",
+        "temperature_balance": "warm_dominant",
+        "saturation_strategy": "vivid",
+        "contrast_type": "luminance_high",
+        "accent_color": "#ffd54a",
+        "accent_ratio": "5_percent"
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A climactic animated diva-anthem key-frame at full 1920x1080 pixels, 16:9 landscape aspect ratio, depicting the rooster idol mascot crowned and fire-winged at the peak of the chorus, arms spread in a messianic triumphant pose on a dark stage drenched in flame. The anthropomorphic mascot, character ID hochi_mascot, is framed medium-full to full-body near center, arms thrown wide in a cross or embrace gesture, head slightly back in ecstatic performance, the white feathered face, yellow beak, red heart-shaped wattle and flame-and-teal pompadour fully visible, wearing the dark-and-red stage outfit; a spiky golden or fiery crown sits above the pompadour in some beats. Enormous spreading wings of orange-red flame arc out behind the body, drawn as radiant feathered fire filling much of the frame, with embers streaming off the tips. The background is a dark stage and burning void with deep red and orange flame fields and a hint of distant neon city. The framing is a heroic medium-full shot, the virtual camera at a slightly low worshipful angle pushing toward the figure. Lighting is high-contrast warm: a blazing orange key from the surrounding fire wrapping the figure in golden rim, deep shadow behind, saturated fire temperature. The mood is anthemic, triumphant, transcendent, the emotional apex of the song. The atmosphere is dense with flame, streaming embers, heat shimmer, strong bloom on the fire and faint grain. Color palette: fire-orange #ff7218 and #ffa838 dominant about fifty percent, deep red #c0160e about twenty percent, white mascot face and feathers #f4f0e7 about fourteen percent, dark outfit #221826 about ten percent, golden crown highlight #ffd54a accent about six percent. The color relationship is warm-dominant fire with a gold accent; the temperature balance is strongly warm-dominant; the saturation strategy is vivid; the contrast type is high luminance with chiaroscuro. Texture: smooth cel-shaded mascot, hand-drawn 2D fire wings and flame field with additive glow, glossy crown, soft halation, faint grain. A recorded Korean sung-lyric subtitle in magenta-pink with white edge sits near lower-center, preserved verbatim as on-screen text. This is the transcendent anthem apex of an animated Korean spicy instant-noodle brand film, crowning the mascot as a phoenix idol at the song's climax. Additional craft detail for faithful recreation: the fire wings are symmetrically composed behind the spread arms so the silhouette reads as a winged figure of fire; the crown is drawn as jagged flame-gold points catching highlight; the spread-arm pose is centered for maximal iconic symmetry; embers stream diagonally off the wing tips; and the deep background stays dark and smoky so the glowing figure dominates. Style anchor: cinematic anime anthem-apex hero shot, crowned fire-winged idol, warm-dominant fire palette with gold accent, heavy bloom and embers, Korean music-film aesthetic, 4K animation render.\n The flame field around the figure is painted in receding warm gradients that darken toward the frame edges, forming a natural circular vignette of fire that frames the crowned idol; small flecks of bright spark dot the air throughout, and a soft halation halo glows around the brightest crown and wing tips. The pose, the crown and the burning wings together compose a single unmistakable iconic silhouette intended to be the most memorable image of the entire film, the visual signature of the spicy-noodle phoenix idol at full power.",
+        "t2i_negative": "photorealistic, daylight, real-person face, real brand logos, watermark, asymmetric clutter, low saturation, flat lighting",
+        "i2v_motion": "Hochi_mascot holds the crowned arms-spread apex pose with breathing-level micro-motion as the huge fire-wings flare and embers stream off the tips; flame field surges; warm key flickers; camera slow push-in at a worshipful low angle; Korean anthem lyric captions pop lower-center (finalized in post). ~9.9s, steady, no cut.",
+        "i2v_params": {
+          "clip_duration_sec": 9.93,
+          "camera_move": "push_in",
+          "subject_motion_level": "micro",
+          "signature_effect": "none",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; mascot generic rooster idol type; fire wings/crown are craft effects; lyric captions preserved verbatim"
+      }
+    },
+    {
+      "index": 13,
+      "duration": 3.43,
+      "framing": "MS",
+      "function": "product_hero",
+      "subject_action": "a flaming bowl/bucket of the spicy noodle product is elevated as a hero relic over a glowing red field with a silhouetted crowd",
+      "layout_grid": "center",
+      "subject_position": "center",
+      "subject_identity": "none_environment",
+      "subject_relationship_to_protagonist": null,
+      "mid_frame_path": "ADV-2026-050_frames/cut13_mid.png",
+      "subject_typo_layout": "typo_separate_zone",
+      "typo_motion": "sung-lyric caption may hold lower-center; product packaging text is diegetic",
+      "camera_angle": "low_angle",
+      "camera_facing": "frontal",
+      "shot_scope": "environment",
+      "gaze": "at_product",
+      "eye_contact_effect": null,
+      "props": [
+        "flaming noodle bucket/bowl",
+        "red-black product packaging"
+      ],
+      "prop_semantics": "burning product as relic fuses concert spectacle with the actual spicy noodle product",
+      "color_palette": [
+        "#c1140e",
+        "#e2391c",
+        "#ff8a1e",
+        "#9a0f0a",
+        "#ffd21f"
+      ],
+      "color_intent": "red-dominant warm field with fire accent worships the product as the source of the heat",
+      "pose_description": "cylindrical product bucket centered on a pedestal, tall flame plume rising from its top; crowd silhouettes below",
+      "subject_motion": "static",
+      "prop_motion": "flame plume rises from product top",
+      "camera_motion": "slow_push_in",
+      "camera_motion_intensity": "low",
+      "camera_effect_local": "none",
+      "motion_blur": false,
+      "intra_cut_rhythm": "steady",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [
+        "particle",
+        "light_leak"
+      ],
+      "vfx_intensity_local": "heavy",
+      "fact_check_flag": null,
+      "notes": "Cut13 (f2080-2182, 69.30-72.73s): flaming product bucket hero over red field + crowd silhouettes. Product packaging visible.",
+      "visible_elements": {
+        "foreground": [
+          "flaming noodle product bucket/bowl on pedestal"
+        ],
+        "midground": [
+          "silhouetted crowd of raised arms (lower edge)"
+        ],
+        "background": [
+          "deep glowing red field"
+        ],
+        "lighting_env": [
+          "hot flame key from above the product",
+          "deep red ambient"
+        ],
+        "atmosphere": [
+          "fire glow",
+          "embers",
+          "haze",
+          "bloom"
+        ]
+      },
+      "texture": {
+        "primary_subject": "glossy_printed_packaging",
+        "secondary_objects": [
+          "hand_drawn_2d_flame"
+        ],
+        "background_surface": "glowing_red_field",
+        "atmospheric": [
+          "embers",
+          "haze",
+          "halation_glow"
+        ]
+      },
+      "lighting": {
+        "key_direction": "top",
+        "key_hardness": "hard",
+        "key_color_temp": "warm_3000K",
+        "fill_strength": "minimal",
+        "key_to_fill_ratio": "8:1",
+        "rim_light": true,
+        "practical_lights": [
+          "제품 위 불꽃"
+        ],
+        "shadow_presence": "deep",
+        "overall_contrast": "high_contrast"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#c1140e",
+          "#e2391c",
+          "#ff8a1e",
+          "#9a0f0a",
+          "#ffd21f"
+        ],
+        "palette_role": {
+          "#c1140e": "glowing_red_dominant",
+          "#e2391c": "red_secondary",
+          "#ff8a1e": "fire_orange_accent",
+          "#9a0f0a": "packaging_dark_red",
+          "#ffd21f": "packaging_yellow_graphic"
+        },
+        "color_relationship": "brand_dominant",
+        "temperature_balance": "warm_dominant",
+        "saturation_strategy": "vivid",
+        "contrast_type": "luminance_high",
+        "accent_color": "#ff8a1e",
+        "accent_ratio": "15_percent"
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "An animated product-hero key-frame at full 1920x1080 pixels, 16:9 landscape aspect ratio, depicting a flaming bowl-and-bucket of the spicy noodle product elevated as a sacred hero object over a glowing red field with a silhouetted crowd. The dominant element is the product itself, presented near center as a cylindrical bucket-style noodle container or bowl wrapped in red-and-black brand packaging with white and yellow graphics and small printed Korean text, crowned by a tall plume of orange-yellow flame rising from its open top as if the noodles are ablaze with spice. The product sits on or floats above a stage or pedestal, lit like a relic. The background is a deep red glowing field with a dark silhouetted crowd of raised arms along the lower edge, and faint warm haze. The framing is a medium product-hero shot, the virtual camera at a slightly low reverent angle centered on the burning product. Lighting is dramatic warm: a hot flame key from the rising fire illuminating the package from above, warm rim, deep red ambient, saturated warm temperature. The mood is reverent, hyped, mouth-watering, a product-worship beat. The atmosphere has fire glow, embers, haze, bloom on the flame and faint grain. Color palette: deep glowing red #c1140e and #e2391c dominant about forty-five percent, fire-orange #ff8a1e flame about twenty-two percent, product red-black packaging #9a0f0a and #1a1216 about eighteen percent, white and yellow graphics #f4efe6 and #ffd21f about ten percent, ember highlight #ffe1a8 about five percent. The color relationship is red-dominant warm with fire accent; the temperature balance is strongly warm-dominant; the saturation strategy is vivid; the contrast type is high luminance with the bright burning product against the dark crowd. Texture: glossy printed foil-and-paper packaging with fine print, hand-drawn 2D flame plume with additive glow, silhouetted crowd, soft halation, faint grain. A recorded Korean sung-lyric subtitle in magenta-pink with white edge may sit near lower-center, preserved verbatim. This is the product-worship hero beat of an animated Korean spicy instant-noodle brand anthem, fusing the concert spectacle with the actual product on fire. Additional craft detail for faithful recreation: the flame plume rises from the product top in stacked tongues with a white-hot core and orange edges; the package label and brand graphics are kept legible as recorded brand art rather than abstracted; the crowd along the bottom is a low silhouetted band of heads and arms backlit in red; a soft vignette darkens the corners to spotlight the burning product; and gentle reflections of the fire glow on the package surface sell its glossy material. Style anchor: cinematic anime product-hero shot, burning noodle product as relic over a red crowd field, red-dominant warm palette with fire accent, bloom and embers, Korean music-film aesthetic, 4K animation render.\n The composition is deliberately altar-like and symmetrical, centering the burning product as the single object of attention with the worshipping crowd below and the rising flame above, so that even without text the frame communicates that this product is the source of the heat and the focus of the whole spectacle. Small floating embers and faint smoke curls drift upward around the package, and the deep-red background glow pulses outward from behind the product to halo it.",
+        "t2i_negative": "photorealistic packshot, daylight, real competing brand logos, watermark, no flame, low saturation, cluttered background",
+        "i2v_motion": "The flaming noodle product holds center on its pedestal as a tall flame plume rises and flickers from its top; embers drift up; the red field pulses behind; the crowd silhouette sways at the bottom; camera slow push-in at a reverent low angle; any caption holds lower-center. ~3.4s, steady, no cut.",
+        "i2v_params": {
+          "clip_duration_sec": 3.43,
+          "camera_move": "push_in",
+          "subject_motion_level": "still",
+          "signature_effect": "none",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; product packaging preserved verbatim as recorded brand art; crowd anonymous; flame is a craft effect"
+      }
+    },
+    {
+      "index": 14,
+      "duration": 5.74,
+      "framing": "grid",
+      "function": "brand_message",
+      "subject_action": "bold black message-cards deliver the campaign thesis copy in large kinetic Korean type: '기억해봐' then '지금 평범해진 삼양라면도'",
+      "layout_grid": "center",
+      "subject_position": "left_third",
+      "subject_identity": "none_environment",
+      "subject_relationship_to_protagonist": null,
+      "mid_frame_path": "ADV-2026-050_frames/cut14_mid.png",
+      "subject_typo_layout": "typo_only_no_person",
+      "typo_motion": "'기억해봐' (red) appears center on black, then expands to white-and-red stacked copy '지금 평범해진 / 삼양라면도'; bold kinetic type-in with a small mascot/product figure at right",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "environment",
+      "gaze": "none",
+      "eye_contact_effect": null,
+      "props": [
+        "kinetic typography",
+        "small mascot/product element"
+      ],
+      "prop_semantics": "message-card slows the rhythm to land the campaign thesis (even an ordinary noodle...)",
+      "color_palette": [
+        "#060406",
+        "#e02218",
+        "#f4f1ec",
+        "#ff8a2e"
+      ],
+      "color_intent": "red-and-white type on deep black for maximal legibility and declarative weight",
+      "pose_description": "no figure dominant; large Hangul copy left/center, small mascot or product silhouette balances the right third",
+      "subject_motion": "static",
+      "prop_motion": "type animates in",
+      "camera_motion": "locked_off",
+      "camera_motion_intensity": "none",
+      "camera_effect_local": "none",
+      "motion_blur": false,
+      "intra_cut_rhythm": "static",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [
+        "ui_motion"
+      ],
+      "vfx_intensity_local": "subtle",
+      "fact_check_flag": null,
+      "notes": "Cut14 (f2183-2354, 72.73-78.47s): black message-cards. '기억해봐' -> '지금 평범해진 삼양라면도'. diff>119 hard cuts. Small mascot/product at side.",
+      "visible_elements": {
+        "foreground": [
+          "large bold Korean message type"
+        ],
+        "midground": [
+          "small mascot or product silhouette (right side)"
+        ],
+        "background": [
+          "near-pure black field"
+        ],
+        "lighting_env": [
+          "self-illuminated graphic type"
+        ],
+        "atmosphere": [
+          "faint glow on strokes",
+          "faint residual embers",
+          "faint grain"
+        ]
+      },
+      "texture": {
+        "primary_subject": "flat_vector_lettering",
+        "secondary_objects": [
+          "cel_shaded_silhouette"
+        ],
+        "background_surface": "flat_black",
+        "atmospheric": [
+          "halation_glow"
+        ]
+      },
+      "lighting": {
+        "key_direction": "front",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "none",
+        "key_to_fill_ratio": "silhouette",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "none",
+        "overall_contrast": "high_contrast"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#060406",
+          "#e02218",
+          "#f4f1ec",
+          "#ff8a2e"
+        ],
+        "palette_role": {
+          "#060406": "background_black_dominant",
+          "#e02218": "brand_red_type",
+          "#f4f1ec": "white_type",
+          "#ff8a2e": "ember_accent"
+        },
+        "color_relationship": "brand_dominant",
+        "temperature_balance": "balanced",
+        "saturation_strategy": "desaturated_with_pop",
+        "contrast_type": "luminance_high",
+        "accent_color": "#e02218",
+        "accent_ratio": "15_percent"
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A bold typographic message-card key-frame at full 1920x1080 pixels, 16:9 landscape aspect ratio, on a near-pure-black background, carrying the central brand-message copy of the film in large kinetic Korean lettering. The frame is dominated by negative black space with one or two lines of heavy display Hangul type centered or center-left. In the first beat the screen reads the recorded copy line meaning remember, set in large bold rounded red-to-crimson sans-serif lettering glowing slightly against the black. In the evolving beat the message expands to the recorded multi-line copy stating that even the now-ordinary Samyang ramen, rendered in large bold white-and-red Hangul stacked over two lines at center-left, with a small stylized mascot figure or product element placed to the right side of the frame for balance. The lettering is thick, confident and slightly condensed, with crisp clean edges and a faint outer glow; some characters may animate in. The framing is a flat graphic title card; there is no spatial depth, only the type on black. Lighting is not photographic but graphic: the type appears self-illuminated against the void, with subtle glow halation around the brightest strokes. The mood is declarative, serious-yet-defiant, the thesis statement of the brand anthem. The atmosphere is minimal: pure black field, faint glow, maybe a few drifting embers carried over from the fire sequence, and a faint grain. Color palette: near-black #060406 dominant about eighty percent of frame, brand-red #e02218 type about ten percent, white type #f4f1ec about eight percent, faint ember-orange #ff8a2e accent about two percent. The color relationship is high-contrast red-and-white on black, brand-dominant; the temperature balance is neutral-to-warm; the saturation strategy is desaturated black field with vivid type pop; the contrast type is extreme luminance contrast between glowing type and black void. Texture: crisp flat vector lettering with soft glow, otherwise featureless black, faint grain. The on-screen Korean copy is preserved verbatim as recorded brand text in the prompt. This is the central message-card of an animated Korean spicy instant-noodle brand film, delivering the campaign thesis that even an ordinary noodle can become extraordinary. Additional craft detail for faithful recreation: the type is set with generous black margins so the words read instantly; the line breaks follow the recorded copy; a small mascot or product silhouette anchored to one side keeps the asymmetric balance; the glow around the strokes is subtle rather than neon; and the transition from the short first line to the longer expanded line is implied by the type composition. Style anchor: bold Korean kinetic-typography brand message card, red-and-white Hangul on black, self-illuminated glowing type, minimal graphic layout, faint grain, 4K render, copy preserved verbatim.\n Further compositional notes: the small accompanying mascot figure on the right is drawn at modest scale as the white-feathered flame-pompadour rooster character ID hochi_mascot in a relaxed standing or floating pose, lit faintly so as not to compete with the headline; the headline occupies roughly the left two-thirds while the figure sits in the right third, a stable asymmetric balance; the type weight is heavy enough that the counters of the Hangul characters stay open and legible at the reduced brightness; and a single thin baseline of empty space separates the stacked lines. The card is designed as a clear narrative breath between high-energy musical sequences, slowing the rhythm so the verbal message lands with full weight before the film accelerates again. The grain and faint residual embers tie this graphic interlude back to the burning world of the rest of the film, so the message-card never feels disconnected from the anthem surrounding it.",
+        "t2i_negative": "photorealistic, busy background, gradient background, real brand logos, watermark, illegible type, low contrast",
+        "i2v_motion": "On black, the red line '기억해봐' types/pops in center, then the message expands to bold stacked '지금 평범해진 / 삼양라면도' in white-and-red as a small mascot or product silhouette holds at the right; subtle kinetic type animation, faint glow; camera locked-off. ~5.7s, static-to-subtle. Copy preserved verbatim.",
+        "i2v_params": {
+          "clip_duration_sec": 5.74,
+          "camera_move": "locked_off",
+          "subject_motion_level": "still",
+          "signature_effect": "none",
+          "pacing": "static",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen Korean copy preserved verbatim; small accompanying mascot/product generic"
+      }
+    },
+    {
+      "index": 15,
+      "duration": 3.5,
+      "framing": "ECU",
+      "function": "transformation_beat",
+      "subject_action": "glowing red eyes emerge from deep darkness and an elegant red-lit hand reaches across the frame; ominous seductive transformation beat",
+      "layout_grid": "center",
+      "subject_position": "center",
+      "subject_identity": "antagonist_dark",
+      "subject_relationship_to_protagonist": "supporting_character",
+      "mid_frame_path": "ADV-2026-050_frames/cut15_mid.png",
+      "subject_typo_layout": "typo_over_subject",
+      "typo_motion": "sung-lyric caption may hold lower-center; karaoke style",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "face_only",
+      "gaze": "to_camera",
+      "eye_contact_effect": "direct_address",
+      "props": [
+        "glowing eyes",
+        "reaching hand",
+        "2D flame"
+      ],
+      "prop_semantics": "glowing eyes + reaching hand dramatize the seductive danger/transformation",
+      "color_palette": [
+        "#050305",
+        "#e21810",
+        "#ff2a1c",
+        "#c85a48",
+        "#8a1410"
+      ],
+      "color_intent": "red-on-black extreme low-key uses darkness itself for menace and mystery",
+      "pose_description": "partial anime face emerges from black, defined by two glowing crimson eyes; inserted beat: elegant hand reaches across a blood-red field",
+      "subject_motion": "micro_gestures",
+      "prop_motion": "eyes glow up, hand reaches, flame curls",
+      "camera_motion": "slow_push_in",
+      "camera_motion_intensity": "low",
+      "camera_effect_local": "none",
+      "motion_blur": false,
+      "intra_cut_rhythm": "steady",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [
+        "light_leak"
+      ],
+      "vfx_intensity_local": "moderate",
+      "fact_check_flag": null,
+      "notes": "Cut15 (f2355-2459, 78.47-81.97s): red glowing eyes in black + red reaching hand. diff>84 hard cut. Ominous transformation.",
+      "visible_elements": {
+        "foreground": [
+          "reaching red-lit hand (insert beat)"
+        ],
+        "midground": [
+          "partial anime face, two glowing crimson eyes"
+        ],
+        "background": [
+          "deep near-black void / blood-red field"
+        ],
+        "lighting_env": [
+          "red self-glow from eyes",
+          "directional red wash on hand"
+        ],
+        "atmosphere": [
+          "faint red glow",
+          "wisp of haze",
+          "faint grain"
+        ]
+      },
+      "texture": {
+        "primary_subject": "cel_shaded_anime_skin",
+        "secondary_objects": [
+          "glossy_glowing_eyes"
+        ],
+        "background_surface": "flat_black",
+        "atmospheric": [
+          "halation_glow",
+          "haze"
+        ]
+      },
+      "lighting": {
+        "key_direction": "front",
+        "key_hardness": "soft",
+        "key_color_temp": "colored_neon",
+        "fill_strength": "none",
+        "key_to_fill_ratio": "silhouette",
+        "rim_light": true,
+        "practical_lights": [
+          "눈 발광",
+          "붉은 글로우"
+        ],
+        "shadow_presence": "deep",
+        "overall_contrast": "high_contrast"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#050305",
+          "#e21810",
+          "#ff2a1c",
+          "#c85a48",
+          "#8a1410"
+        ],
+        "palette_role": {
+          "#050305": "background_black_dominant",
+          "#e21810": "glowing_crimson",
+          "#ff2a1c": "red_glow_bright",
+          "#c85a48": "warm_red_lit_skin",
+          "#8a1410": "rim_red"
+        },
+        "color_relationship": "brand_dominant",
+        "temperature_balance": "warm_dominant",
+        "saturation_strategy": "desaturated_with_pop",
+        "contrast_type": "luminance_high",
+        "accent_color": "#e21810",
+        "accent_ratio": "15_percent"
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A tense animated transformation key-frame at full 1920x1080 pixels, 16:9 landscape aspect ratio, depicting a pair of glowing red eyes emerging from deep darkness and an elegant red-lit hand reaching across the frame, a menacing yet seductive transformation beat. In the primary composition the frame is almost entirely black, with a stylized anime face barely emerging from shadow at center, defined chiefly by two intensely glowing crimson-red eyes and a faint red rim tracing the cheekbone, brow and flowing hair; the rest of the features dissolve into the void, giving an ominous half-seen presence, character ID antagonist_dark. In the adjacent or overlaid beat, a graceful hand and forearm reach diagonally across a deep blood-red field, the skin lit in warm red, fingers extended as if to grasp or summon, with a faint glow along the contours. The framing alternates between a tight near-black close-up of the glowing eyes and a medium insert of the reaching hand; the virtual camera is close and intimate, slightly tilted. Lighting is extreme low-key: almost no fill, only red self-glow from the eyes and a directional red wash on the hand, deep crushed blacks everywhere else, saturated red temperature. The mood is ominous, seductive, transformative, a dark turning beat before the resolution. The atmosphere is near-empty black with faint red glow, a wisp of haze and a faint grain. Color palette: near-black #050305 dominant about seventy percent, glowing crimson #e21810 and #ff2a1c about eighteen percent, warm red-lit skin #c85a48 about eight percent, faint rim-red #8a1410 about four percent. The color relationship is red-on-black, brand-dominant and ominous; the temperature balance is warm-dominant within a black field; the saturation strategy is desaturated void with vivid red pop; the contrast type is extreme luminance contrast. Texture: smooth cel-shaded partial face, glossy glowing eyes, warm-lit hand, otherwise featureless black, soft halation on the eyes, faint grain. If a recorded sung-lyric subtitle is present it sits in magenta-pink with white edge near lower-center, preserved verbatim. This is a dark transformation beat in an animated Korean spicy instant-noodle brand anthem, dramatizing the seductive danger the protagonist confronts or becomes. Additional craft detail for faithful recreation: the two glowing eyes are the brightest points in the frame and carry a soft bloom halo; the partial face is suggested with minimal rim strokes rather than full rendering; the reaching hand is drawn with elegant tapering fingers and a warm red gradient along the skin; the black field is kept genuinely deep with only the faintest tonal variation; and the composition relies on extreme restraint, using darkness itself as the dominant design element to maximize menace and mystery. Style anchor: cinematic anime ominous transformation close-up, glowing red eyes and reaching hand on black, red-on-black palette, extreme low-key with soft bloom, Korean music-film aesthetic, 4K animation render.\n The pacing of this beat is a held breath of darkness immediately after the bright product spectacle, a deliberate tonal contrast that resets the eye and builds anticipation; the only motion implied is the slow emergence of the eyes and the slow reach of the hand, both rendered with smooth gradual glow ramps rather than any sharp action, which heightens the seductive, slow-burn menace before the film turns toward its clean resolution.",
+        "t2i_negative": "photorealistic, bright fill, daylight, real-person face, real brand logos, watermark, low contrast, flat lighting",
+        "i2v_motion": "From deep black, two crimson eyes slowly glow up with a soft bloom as a partial face emerges; in the inserted beat an elegant hand reaches across the blood-red field with a curling flame; slow glow ramps rather than sharp action; camera slow push-in; any caption holds lower-center. ~3.5s, steady, no cut.",
+        "i2v_params": {
+          "clip_duration_sec": 3.5,
+          "camera_move": "push_in",
+          "subject_motion_level": "micro",
+          "signature_effect": "none",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; figure generic anime type; any caption preserved verbatim; glow is a craft effect"
+      }
+    },
+    {
+      "index": 16,
+      "duration": 3.6,
+      "framing": "WS",
+      "function": "brand_logo_reveal",
+      "subject_action": "large red brand wordmark on black, transitioning toward a clean white-studio reintroduction of the mascot hanging inverted",
+      "layout_grid": "center",
+      "subject_position": "center",
+      "subject_identity": "protagonist_main",
+      "subject_relationship_to_protagonist": "main_character",
+      "mid_frame_path": "ADV-2026-050_frames/cut16_mid.png",
+      "subject_typo_layout": "typo_only_no_person",
+      "typo_motion": "large red '불닭' wordmark (white keyline, flame icon) stamps center on black, then background flips to clean white as the mascot tumbles in inverted",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "full_body",
+      "gaze": "none",
+      "eye_contact_effect": null,
+      "props": [
+        "brand wordmark",
+        "clean white studio void"
+      ],
+      "prop_semantics": "brand stamp + clean white intro pivots from dark spectacle into the product-resolution section",
+      "color_palette": [
+        "#060406",
+        "#f3f3f3",
+        "#d81f1f",
+        "#f4f1ec",
+        "#ffd21f"
+      ],
+      "color_intent": "bold brand-red on high-contrast black-and-white grounds marks the tonal turn to clean product clarity",
+      "pose_description": "logo card centered; then hochi_mascot hangs/tumbles upside-down into the bright white void, playful",
+      "subject_motion": "dynamic",
+      "prop_motion": "background flips black->white",
+      "camera_motion": "locked_off",
+      "camera_motion_intensity": "low",
+      "camera_effect_local": "none",
+      "motion_blur": false,
+      "intra_cut_rhythm": "steady",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [
+        "color_pop",
+        "ui_motion"
+      ],
+      "vfx_intensity_local": "moderate",
+      "fact_check_flag": null,
+      "notes": "Cut16 (f2460-2567, 81.97-85.57s): big red '불닭' logo on black -> flip to white studio, hochi inverted. diff=251 hard cut at 85.57.",
+      "visible_elements": {
+        "foreground": [
+          "large red '불닭' wordmark (logo beat) / inverted mascot (studio beat)"
+        ],
+        "midground": [
+          "clean white studio void (studio beat)"
+        ],
+        "background": [
+          "pure black (logo beat) / off-white (studio beat)"
+        ],
+        "lighting_env": [
+          "graphic self-illumination (logo)",
+          "bright high-key product light (studio)"
+        ],
+        "atmosphere": [
+          "faint glow on logo",
+          "clean no-haze (studio)",
+          "faint grain"
+        ]
+      },
+      "texture": {
+        "primary_subject": "flat_vector_logotype",
+        "secondary_objects": [
+          "cel_shaded_anime_skin_feather"
+        ],
+        "background_surface": "flat_black_then_clean_white",
+        "atmospheric": [
+          "halation_glow"
+        ]
+      },
+      "lighting": {
+        "key_direction": "front",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "strong",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "minimal",
+        "overall_contrast": "high_contrast"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#060406",
+          "#f3f3f3",
+          "#d81f1f",
+          "#f4f1ec",
+          "#ffd21f"
+        ],
+        "palette_role": {
+          "#060406": "black_ground_logo",
+          "#f3f3f3": "white_ground_studio",
+          "#d81f1f": "brand_red_wordmark",
+          "#f4f1ec": "keyline_white_mascot",
+          "#ffd21f": "mascot_yellow_accent"
+        },
+        "color_relationship": "brand_dominant",
+        "temperature_balance": "balanced",
+        "saturation_strategy": "desaturated_with_pop",
+        "contrast_type": "luminance_high",
+        "accent_color": "#d81f1f",
+        "accent_ratio": "15_percent"
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A bold logo-reveal key-frame at full 1920x1080 pixels, 16:9 landscape aspect ratio, presenting the large brand wordmark in red with a white keyline centered on black, transitioning toward a clean white-studio introduction of the mascot hanging inverted. The dominant element in the first beat is the brand-name Hangul wordmark set very large at center-frame in thick rounded display lettering, rendered as saturated red #d81f1f fill with a crisp bold white #ffffff outline keyline and a small stylized flame icon accent, glowing slightly against a pure black field, treated as a punchy brand stamp. In the transitioning beat the background flips toward a bright clean off-white studio void and the rooster mascot, character ID hochi_mascot, appears hanging or tumbling upside-down into frame, the white-feathered face, yellow beak, red heart wattle and flame-and-teal pompadour clearly visible, wearing the stage outfit, body relaxed and playful in the inversion. The framing moves from a flat centered logo card to a medium full-body figure in clean space; the virtual camera is straight-on with minimal tilt. Lighting in the logo beat is graphic self-illumination on black; in the white-studio beat it is bright high-key even product lighting with soft fill and almost no shadow, neutral daylight temperature. The mood shifts from bold brand punctuation to clean, confident, playful product clarity. The atmosphere is minimal: pure black then clean white, faint glow on the logo, no haze, faint grain. Color palette across the beats: black #060406 and white #f3f3f3 as the two dominant grounds together about sixty percent, brand-red #d81f1f about twenty percent, white keyline and mascot face #f4f1ec about twelve percent, yellow beak and pompadour accents #ffd21f about eight percent. The color relationship is brand-red on high-contrast black-and-white grounds; the temperature balance is neutral; the saturation strategy is bold pop on minimal grounds; the contrast type is extreme luminance contrast. Texture: crisp flat vector logotype with soft glow, smooth cel-shaded mascot, flat clean studio ground, faint grain. The on-screen brand wordmark is preserved verbatim as recorded brand art. This is the pivot from the dark spectacle into the clean product-resolution section of an animated Korean spicy instant-noodle brand film, stamping the brand and reintroducing the mascot in a bright studio world. Additional craft detail for faithful recreation: the logo is centered with generous black margins and its white keyline reads crisply against the void; the flame diacritic sits above the characters; the inverted mascot is drawn with hair and clothing hanging downward consistent with the upside-down orientation; the white studio ground is a soft seamless gradient with the faintest floor shadow under the figure; and the transition between the two beats is a clean graphic flip rather than a dissolve. Style anchor: bold Korean brand logo reveal plus high-key white-studio mascot intro, red wordmark on black, clean product lighting, minimal grounds, faint grain, 4K render, brand art preserved verbatim.\n The shift from the saturated burning world of the preceding acts to this stark clean white studio is the single most important tonal turn in the film, signalling that the fantasy anthem has delivered the brand and now the product itself can be shown plainly and confidently; the playful inverted entrance of the mascot keeps the energy light and charismatic even as the palette empties out, bridging the operatic first half and the minimalist product half with a single witty acrobatic gesture.",
+        "t2i_negative": "photorealistic, busy background, real competing logos, watermark, dark studio, harsh shadows, low contrast",
+        "i2v_motion": "The red '불닭' wordmark stamps on black with a quick glow, then the ground flips to a clean bright white studio as hochi_mascot tumbles in upside-down with playful micro-motion; camera locked-off; clean graphic flip rather than dissolve. ~3.6s, steady. Brand wordmark preserved verbatim.",
+        "i2v_params": {
+          "clip_duration_sec": 3.6,
+          "camera_move": "locked_off",
+          "subject_motion_level": "dynamic",
+          "signature_effect": "none",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; '불닭' wordmark preserved verbatim as recorded brand art; mascot generic rooster idol type"
+      }
+    },
+    {
+      "index": 17,
+      "duration": 6.4,
+      "framing": "MS",
+      "function": "tagline_payoff",
+      "subject_action": "clean white-studio cards pair large bold Korean tagline copy with the mascot posing: '최초엔 얼마나 새로웠는지' then the core slogan '평범하게 위대하게'",
+      "layout_grid": "split_screen",
+      "subject_position": "varies",
+      "subject_identity": "protagonist_main",
+      "subject_relationship_to_protagonist": "main_character",
+      "mid_frame_path": "ADV-2026-050_frames/cut17_mid.png",
+      "subject_typo_layout": "typo_opposite_subject",
+      "typo_motion": "large blue-grey/red '최초엔 / 얼마나 새로웠는지' at one side, then the bold blue slogan '평범하게 / 위대하게' at center-right; mascot poses (incl. inverted) opposite the type",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "full_body",
+      "gaze": "off_camera",
+      "eye_contact_effect": null,
+      "props": [
+        "bold tagline typography",
+        "clean white studio"
+      ],
+      "prop_semantics": "clean tagline payoff lands the campaign slogan after the operatic spectacle",
+      "color_palette": [
+        "#f3f3f3",
+        "#e6e8ec",
+        "#2a4ad8",
+        "#e0241a",
+        "#ffd21f"
+      ],
+      "color_intent": "bold blue-and-red type pop on neutral white delivers the slogan with confident clarity",
+      "pose_description": "mascot poses full-body (sometimes inverted) on one side; large Hangul slogan opposite; modern poster balance",
+      "subject_motion": "micro_gestures",
+      "prop_motion": "type slides/pops in",
+      "camera_motion": "locked_off",
+      "camera_motion_intensity": "low",
+      "camera_effect_local": "none",
+      "motion_blur": false,
+      "intra_cut_rhythm": "steady",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [
+        "ui_motion"
+      ],
+      "vfx_intensity_local": "subtle",
+      "fact_check_flag": null,
+      "notes": "Cut17 (f2568-2759, 85.57-91.97s): white-studio tagline cards. '최초엔 얼마나 새로웠는지' -> '평범하게 위대하게'. Mascot posing.",
+      "visible_elements": {
+        "foreground": [
+          "large bold Korean tagline type"
+        ],
+        "midground": [
+          "mascot posing full-body (incl. inverted)"
+        ],
+        "background": [
+          "seamless bright off-white/pale-grey studio"
+        ],
+        "lighting_env": [
+          "soft diffused high-key from above-front",
+          "strong fill"
+        ],
+        "atmosphere": [
+          "airy clean void",
+          "faint contact shadow",
+          "negligible grain"
+        ]
+      },
+      "texture": {
+        "primary_subject": "flat_vector_lettering",
+        "secondary_objects": [
+          "cel_shaded_anime_skin_feather"
+        ],
+        "background_surface": "seamless_studio_white",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "45deg_above",
+        "key_hardness": "diffused",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "strong",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "soft",
+        "overall_contrast": "hi_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#f3f3f3",
+          "#e6e8ec",
+          "#2a4ad8",
+          "#e0241a",
+          "#ffd21f"
+        ],
+        "palette_role": {
+          "#f3f3f3": "background_white_dominant",
+          "#e6e8ec": "pale_grey_secondary",
+          "#2a4ad8": "blue_type",
+          "#e0241a": "red_type_accent",
+          "#ffd21f": "mascot_yellow_accent"
+        },
+        "color_relationship": "complementary",
+        "temperature_balance": "balanced",
+        "saturation_strategy": "muted_with_pop",
+        "contrast_type": "luminance_high",
+        "accent_color": "#2a4ad8",
+        "accent_ratio": "15_percent"
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A clean white-studio typographic-and-character key-frame at full 1920x1080 pixels, 16:9 landscape aspect ratio, combining large bold Korean copy with the rooster mascot posing in a bright minimalist void, delivering the campaign tagline beats. The background is a seamless bright off-white to pale-grey studio cyclorama with soft even lighting and the faintest floor shadow. In one beat, large bold Hangul copy is set at center-left reading the recorded line about how novel it was at first, stacked over two lines in heavy blue-grey-and-red display lettering, with the mascot, character ID hochi_mascot, standing or posing at right in full body wearing the stage outfit. In the climactic tagline beat, the screen reads the recorded core slogan meaning plainly great or ordinarily great, set very large in bold blue Hangul over two lines at center-right, while the mascot may appear inverted or in a dynamic pose at left. The lettering is confident, clean and modern with crisp edges. The framing is a graphic layout shot with the figure and type sharing the clean space; the virtual camera is straight-on at eye level. Lighting is bright high-key: soft diffused key from above-front, strong fill, almost no shadow, neutral daylight temperature, an airy product-photography feel. The mood is clean, confident, uplifting, the resolution and thesis-payoff of the brand anthem. The atmosphere is minimal and airy: bright white void, no haze, no grain or only the faintest. Color palette: off-white #f3f3f3 and pale-grey #e6e8ec dominant about sixty-five percent, bold blue type #2a4ad8 about fourteen percent, red type and accents #e0241a about ten percent, mascot colors white #f4f1ec yellow #ffd21f red #d81f1f and teal #1f6f66 together about eleven percent. The color relationship is blue-and-red type pop on a neutral white ground, clean and graphic; the temperature balance is neutral-cool; the saturation strategy is muted ground with vivid type and character pop; the contrast type is high luminance with crisp type against white. Texture: flat clean vector lettering, smooth cel-shaded mascot, seamless studio ground, negligible grain. The on-screen Korean copy is preserved verbatim as recorded brand text. This is the clean tagline-payoff section of an animated Korean spicy instant-noodle brand film, landing the campaign slogan in a bright confident product world after the operatic spectacle. Additional craft detail for faithful recreation: the type and the figure are balanced asymmetrically across the frame with generous white margins; the slogan lettering is the largest type in the film, set in a strong blue for contrast against the warm fire palette of earlier acts; the mascot poses are clean and graphic against the void; a soft contact shadow grounds the figure; and the overall layout feels like a modern poster, deliberately stripped down to let the words and the character read instantly. Style anchor: clean Korean high-key studio tagline layout, bold blue-and-red Hangul with posing mascot on white, airy product lighting, minimal graphic composition, 4K render, copy preserved verbatim.\n The contrast between this bright minimalist resolution and the saturated burning spectacle of the first two-thirds is the deliberate payoff of the film's structure: the operatic fantasy earns attention, and then the clean studio delivers the plain product truth, so the slogan about being ordinarily great reads as the literal thesis of the whole campaign. The mascot's confident relaxed posing in the empty white space communicates that the star no longer needs the fire and the crowd to be compelling, mirroring the message that even an ordinary noodle, plainly presented, is already great.",
+        "t2i_negative": "photorealistic, dark background, busy clutter, real competing logos, watermark, illegible type, low contrast",
+        "i2v_motion": "On clean white, the line '최초엔 / 얼마나 새로웠는지' pops/slides in opposite the posing mascot, then resolves to the bold blue slogan '평범하게 / 위대하게'; the mascot holds confident poses (sometimes inverted) with micro-motion; camera locked-off; airy high-key. ~6.4s, steady. Copy preserved verbatim.",
+        "i2v_params": {
+          "clip_duration_sec": 6.4,
+          "camera_move": "locked_off",
+          "subject_motion_level": "micro",
+          "signature_effect": "none",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen Korean tagline preserved verbatim; mascot generic rooster idol type"
+      }
+    },
+    {
+      "index": 18,
+      "duration": 8.86,
+      "framing": "MS",
+      "function": "product_demo",
+      "subject_action": "white-studio product demo: the mascot presents a stylized red squeeze-bottle of the spicy sauce and poses full-body in fashion stances, sometimes beside a second figure",
+      "layout_grid": "center",
+      "subject_position": "center",
+      "subject_identity": "protagonist_main",
+      "subject_relationship_to_protagonist": "main_character",
+      "mid_frame_path": "ADV-2026-050_frames/cut18_mid.png",
+      "subject_typo_layout": "typo_separate_zone",
+      "typo_motion": "Korean sung-lyric caption ('내가 다른 모습으로 달라가는 것처럼' / '나도 다른 맛으로 그저 날아가는 거야 Fly') holds lower-center; product label text is diegetic",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "waist_up",
+      "gaze": "at_product",
+      "eye_contact_effect": null,
+      "props": [
+        "red squeeze-bottle/tube of sauce",
+        "stage couture",
+        "second mannequin figure"
+      ],
+      "prop_semantics": "sauce bottle presented as a fashion accessory reframes the product as covetable design",
+      "color_palette": [
+        "#f3f3f3",
+        "#d81f1f",
+        "#ffd21f",
+        "#1f6f66",
+        "#1a1216"
+      ],
+      "color_intent": "glossy product-red pop on neutral white with green-teal costume accents, fashion-editorial product clarity",
+      "pose_description": "hochi_mascot holds/presents the glossy red sauce bottle like an accessory; full-body fashion stances; a second white-and-green-outfit figure sometimes behind",
+      "subject_motion": "micro_gestures",
+      "prop_motion": "bottle held/presented, slight sauce-trail accent",
+      "camera_motion": "locked_off",
+      "camera_motion_intensity": "low",
+      "camera_effect_local": "none",
+      "motion_blur": false,
+      "intra_cut_rhythm": "steady",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [
+        "ui_motion"
+      ],
+      "vfx_intensity_local": "subtle",
+      "fact_check_flag": null,
+      "notes": "Cut18 (f2760-3025, 91.97-100.83s): white-studio product demo; mascot holds glossy red sauce squeeze-bottle; fashion full-body; second figure. Caption '나도 다른 맛으로 그저 날아가는 거야 Fly'.",
+      "visible_elements": {
+        "foreground": [
+          "glossy red squeeze-bottle of sauce held by mascot"
+        ],
+        "midground": [
+          "mascot full-body in stage couture",
+          "second white-and-green-outfit figure"
+        ],
+        "background": [
+          "seamless bright off-white studio"
+        ],
+        "lighting_env": [
+          "soft diffused high-key",
+          "strong fill",
+          "glossy specular on bottle"
+        ],
+        "atmosphere": [
+          "airy clean void",
+          "faint contact shadow",
+          "negligible grain"
+        ]
+      },
+      "texture": {
+        "primary_subject": "glossy_plastic_bottle",
+        "secondary_objects": [
+          "cel_shaded_anime_skin_feather",
+          "fabric_couture"
+        ],
+        "background_surface": "seamless_studio_white",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "45deg_above",
+        "key_hardness": "diffused",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "strong",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "soft",
+        "overall_contrast": "hi_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#f3f3f3",
+          "#d81f1f",
+          "#ffd21f",
+          "#1f6f66",
+          "#1a1216"
+        ],
+        "palette_role": {
+          "#f3f3f3": "background_white_dominant",
+          "#d81f1f": "product_red_hero",
+          "#ffd21f": "costume_yellow_accent",
+          "#1f6f66": "costume_teal_accent",
+          "#1a1216": "label_dark"
+        },
+        "color_relationship": "brand_dominant",
+        "temperature_balance": "balanced",
+        "saturation_strategy": "muted_with_pop",
+        "contrast_type": "luminance_high",
+        "accent_color": "#d81f1f",
+        "accent_ratio": "15_percent"
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A clean white-studio product-demonstration key-frame at full 1920x1080 pixels, 16:9 landscape aspect ratio, depicting the rooster mascot presenting a stylized squeeze-bottle of the spicy sauce and posing in full-body fashion stances within a bright minimalist void. In a hero beat, a large stylized red squeeze-bottle or tube of the chili sauce is held in or near the mascot's hand at center-frame, the bottle rendered in glossy brand-red with white-and-black label graphics and small printed Korean text, presented like a fashion accessory; the mascot, character ID hochi_mascot, holds or gestures toward it with idol confidence. In adjacent beats the mascot poses full-body in stylish stage couture, sometimes alongside a second mannequin-like figure in a contrasting white-and-green outfit, on the bright seamless studio ground. The framing ranges from a medium product hero close on the bottle to full-body fashion shots; the virtual camera is straight-on at eye level. Lighting is bright high-key product lighting: soft diffused key from above-front, strong fill, minimal soft contact shadow, neutral daylight temperature, glossy specular highlights on the bottle. The mood is clean, confident, stylish, a fashion-meets-product presentation beat. The atmosphere is airy and minimal: bright white void, no haze, negligible grain. Color palette: off-white #f3f3f3 dominant about fifty-five percent, glossy product-red #d81f1f about eighteen percent, mascot yellow and red outfit accents #ffd21f and #c81f1f about fourteen percent, teal and green outfit accents #1f6f66 and #3fae5a about eight percent, white-and-black label graphics #f4f1ec and #1a1216 about five percent. The color relationship is product-red pop on neutral white with secondary green-teal accents; the temperature balance is neutral; the saturation strategy is muted ground with vivid product and costume pop; the contrast type is high luminance. Texture: glossy plastic squeeze-bottle with bright specular and fine label print, smooth cel-shaded mascot, fabric stage couture, seamless studio ground, negligible grain. A recorded Korean sung-lyric subtitle in magenta-pink with white edge sits near lower-center, preserved verbatim. This is the stylish product-demonstration section of an animated Korean spicy instant-noodle brand film, presenting the sauce and the mascot as fashion-grade objects of desire in a clean studio. Additional craft detail for faithful recreation: the squeeze-bottle is the glossiest object in the frame with crisp white specular streaks selling its plastic material; the label graphics are kept legible as recorded brand art; the full-body poses are confident runway-style stances against the void; a soft contact shadow grounds each figure; and the second contrasting-outfit figure, when present, is staged slightly behind to keep the mascot as the focal hero. Style anchor: clean Korean high-key studio product-and-fashion presentation, glossy red sauce bottle with posing mascot on white, airy product lighting, minimal composition, 4K render, brand art and copy preserved verbatim.\n The presentation language borrows directly from high-fashion editorial and sneaker-drop photography rather than conventional food advertising: the product is treated as a covetable design object, held and modelled like a luxury accessory, which reframes a cheap convenience-store noodle sauce as something aspirational. The empty white studio strips away all narrative and lets the glossy red of the package and the bold colours of the mascot's couture carry the entire image, and the slight downward yellow sauce-trail or motion accents seen in this section visually rhyme with the fire of the earlier acts, so the clean product world still quietly references the spicy heat at the heart of the brand.",
+        "t2i_negative": "photorealistic, dark background, real competing logos, watermark, harsh shadows, dull product, low contrast",
+        "i2v_motion": "Hochi_mascot presents the glossy red sauce squeeze-bottle like a fashion accessory with confident micro-motion, then strikes full-body runway poses; a second white-and-green-outfit figure poses behind; a faint yellow sauce-trail accents the floor; camera locked-off, airy high-key; Korean caption holds lower-center (finalized in post). ~8.9s, steady, no cut.",
+        "i2v_params": {
+          "clip_duration_sec": 8.86,
+          "camera_move": "locked_off",
+          "subject_motion_level": "micro",
+          "signature_effect": "none",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; mascot generic rooster idol type; product label + caption preserved verbatim as recorded"
+      }
+    },
+    {
+      "index": 19,
+      "duration": 6.6,
+      "framing": "MCU",
+      "function": "product_demo",
+      "subject_action": "white-studio character study: the mascot in a crisp confident close-up and full-body walks, with empowerment-lyric captions",
+      "layout_grid": "center",
+      "subject_position": "center",
+      "subject_identity": "protagonist_main",
+      "subject_relationship_to_protagonist": "main_character",
+      "mid_frame_path": "ADV-2026-050_frames/cut19_mid.png",
+      "subject_typo_layout": "typo_separate_zone",
+      "typo_motion": "Korean sung-lyric captions ('변화를 쟁취해' / '한계를 뛰어넘고') hold lower-center; '삼양라면 SINCE 1963' wordmark appears diegetically",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "bust",
+      "gaze": "to_camera",
+      "eye_contact_effect": "direct_address",
+      "props": [
+        "yellow sauce-trail floor accent",
+        "SINCE 1963 wordmark",
+        "second figure"
+      ],
+      "prop_semantics": "clean mascot presentation makes the character the brand asset; sauce-trail callbacks the heat; heritage wordmark adds trust",
+      "color_palette": [
+        "#f3f3f3",
+        "#f4f1ec",
+        "#ffd21f",
+        "#d81f1f",
+        "#1f6f66"
+      ],
+      "color_intent": "character colors pop on neutral white; faint neon spill keeps the white mascot legible",
+      "pose_description": "hochi_mascot bust-up calm self-assured to camera; full-body confident runway walks; yellow sauce-trail curves on floor",
+      "subject_motion": "walk",
+      "prop_motion": "sauce-trail curves behind walk",
+      "camera_motion": "pan_L",
+      "camera_motion_intensity": "low",
+      "camera_effect_local": "none",
+      "motion_blur": false,
+      "intra_cut_rhythm": "steady",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [
+        "ui_motion"
+      ],
+      "vfx_intensity_local": "subtle",
+      "fact_check_flag": null,
+      "notes": "Cut19 (f3026-3079, 100.83-102.63s core; grouped to 107.43 w/ walk beats): white-studio hochi CU + full-body walk. Captions '변화를 쟁취해'/'한계를 뛰어넘고'. 'SINCE 1963' wordmark.",
+      "visible_elements": {
+        "foreground": [
+          "mascot bust-up to-camera / full-body walk"
+        ],
+        "midground": [
+          "yellow sauce-trail floor accent",
+          "occasional second figure"
+        ],
+        "background": [
+          "seamless bright off-white studio",
+          "'삼양라면 SINCE 1963' wordmark"
+        ],
+        "lighting_env": [
+          "soft diffused high-key",
+          "strong fill",
+          "faint colored neon spill in white-feather shadows"
+        ],
+        "atmosphere": [
+          "airy clean void",
+          "faint contact shadow",
+          "negligible grain"
+        ]
+      },
+      "texture": {
+        "primary_subject": "cel_shaded_anime_skin_feather",
+        "secondary_objects": [
+          "glossy_sauce_trail",
+          "fabric_mesh_outfit"
+        ],
+        "background_surface": "seamless_studio_white",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "45deg_above",
+        "key_hardness": "diffused",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "strong",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "soft",
+        "overall_contrast": "hi_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#f3f3f3",
+          "#f4f1ec",
+          "#ffd21f",
+          "#d81f1f",
+          "#1f6f66"
+        ],
+        "palette_role": {
+          "#f3f3f3": "background_white_dominant",
+          "#f4f1ec": "mascot_white",
+          "#ffd21f": "flame_pompadour_yellow",
+          "#d81f1f": "flame_pompadour_red",
+          "#1f6f66": "teal_pompadour_outfit"
+        },
+        "color_relationship": "brand_dominant",
+        "temperature_balance": "balanced",
+        "saturation_strategy": "muted_with_pop",
+        "contrast_type": "luminance_high",
+        "accent_color": "#ffd21f",
+        "accent_ratio": "15_percent"
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A clean white-studio character key-frame at full 1920x1080 pixels, 16:9 landscape aspect ratio, depicting the rooster mascot in a crisp confident close-up and in full-body walking poses across a bright minimalist void, carrying empowerment-lyric captions. In the close-up beat, the mascot, character ID hochi_mascot, is framed bust-up to medium facing the camera with a calm self-assured expression, every design detail sharply readable in the even light: smooth white feathered face and chest, lemon-yellow beak, red heart-shaped wattle, large composed anime eyes, and the dramatic flame-yellow-and-crimson front crest with deep teal-green back pompadour, wearing the dark-and-red stage outfit with mesh and feather details at the collar. In full-body beats the mascot strides or poses confidently in the white space, sometimes with red-and-white boots and a trailing yellow sauce-line accent on the floor, occasionally alongside another stylish figure. The framing alternates between a clean medium close-up and full-body runway stances; the virtual camera is straight-on at eye level. Lighting is bright high-key product lighting: soft diffused key from above-front, strong fill, minimal soft contact shadow, neutral daylight temperature, with faint colored neon spill in the white-feather shadows. The mood is clean, empowered, confident, the uplifting payoff section. The atmosphere is airy and minimal: bright white void, no haze, negligible grain. Color palette: off-white #f3f3f3 dominant about sixty percent, white mascot face and feathers #f4f1ec about fourteen percent, flame pompadour yellow-red #ffd21f and #d81f1f about twelve percent, teal pompadour and outfit #1f6f66 about eight percent, yellow sauce-trail accent #ffd21f about six percent. The color relationship is character colors pop on a neutral white ground; the temperature balance is neutral; the saturation strategy is muted ground with vivid character pop; the contrast type is high luminance with crisp character edges against white. Texture: smooth cel-shaded mascot with glossy beak and eye highlights, fabric-and-mesh outfit, seamless studio ground, glossy yellow sauce trail, negligible grain. A recorded Korean sung-lyric subtitle in magenta-pink with white edge sits near lower-center, preserved verbatim. This is the empowered clean-resolution section of an animated Korean spicy instant-noodle brand film, presenting the mascot star plainly and confidently as the lyrics speak of seizing change and surpassing limits. Additional craft detail for faithful recreation: the close-up renders the pompadour as cleanly separated lit strands of yellow, red and teal against the bright ground; the full-body walks are confident runway gaits with a slight forward lean; the yellow sauce-trail on the floor curves behind the figure as a graphic accent and a callback to the spicy product; a soft contact shadow grounds the figure; and the white-on-white risk is managed by the faint colored spill and crisp outlines that keep the white character legible against the white void. Style anchor: clean Korean high-key studio character study, confident mascot close-up and runway walk on white, airy product lighting, minimal composition with yellow sauce-trail accent, 4K render, copy preserved verbatim.\n This stretch of the film deliberately lets the audience study the mascot at rest, after the overwhelming fire spectacle, so that the character design itself becomes the product's brand asset; the calm confident expression and the clean runway poses read as the resolved, self-possessed version of the same star who was burning and screaming through the operatic first half. The recurring yellow sauce-line motif on the otherwise pristine floor is the only chromatic intrusion into the white void, a quiet but insistent reminder of the spicy product that ties the minimalist resolution back to the fiery anthem.",
+        "t2i_negative": "photorealistic, dark background, real competing logos, watermark, harsh shadows, white-on-white unreadable, low contrast",
+        "i2v_motion": "Hochi_mascot holds a calm confident look to camera then strides forward in a confident runway walk; a yellow sauce-trail curves on the floor behind; faint neon spill tints the white feathers; camera slow pan; Korean empowerment captions and 'SINCE 1963' wordmark hold (finalized in post). ~6.6s, steady, no cut.",
+        "i2v_params": {
+          "clip_duration_sec": 6.6,
+          "camera_move": "pan_L",
+          "subject_motion_level": "walk",
+          "signature_effect": "none",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; mascot generic rooster idol type; captions + heritage wordmark preserved verbatim as recorded"
+      }
+    },
+    {
+      "index": 20,
+      "duration": 9.77,
+      "framing": "MS",
+      "function": "product_reprise",
+      "subject_action": "dark-stage reprise: a final solo spotlight hero pose of the mascot, intercut with an extreme glossy macro of red sauce/lips that pulls back",
+      "layout_grid": "center",
+      "subject_position": "center",
+      "subject_identity": "protagonist_main",
+      "subject_relationship_to_protagonist": "main_character",
+      "mid_frame_path": "ADV-2026-050_frames/cut20_mid.png",
+      "subject_typo_layout": "typo_over_subject",
+      "typo_motion": "Korean sung-lyric caption may hold lower-center; karaoke style",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "waist_up",
+      "gaze": "to_camera",
+      "eye_contact_effect": "direct_address",
+      "props": [
+        "spotlight",
+        "glossy red sauce/lips macro",
+        "brand chest emblem"
+      ],
+      "prop_semantics": "final solo hero pose + sensual sauce macro compress character and product into a closing flourish",
+      "color_palette": [
+        "#0a0608",
+        "#3a0e0c",
+        "#ff9a3a",
+        "#c8160e",
+        "#ffe0b0"
+      ],
+      "color_intent": "warm spotlight and glossy red on dark ground for a confident, appetizing final flourish",
+      "pose_description": "hochi_mascot solo spotlight hero pose on dark stage; intercut extreme macro of glistening red sauce/lips pulling back",
+      "subject_motion": "micro_gestures",
+      "prop_motion": "sauce surface ripples/specular travels",
+      "camera_motion": "pull_back",
+      "camera_motion_intensity": "moderate",
+      "camera_effect_local": "none",
+      "motion_blur": false,
+      "intra_cut_rhythm": "steady",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [
+        "light_leak"
+      ],
+      "vfx_intensity_local": "moderate",
+      "fact_check_flag": null,
+      "notes": "Cut20 (f3080-3516, 102.63-117.20s): dark-stage solo hero reprise + glossy red sauce/lips macro pull-back (f3370 dark hero, f3516 yellow macro). diff=199 hard cut at 117.20.",
+      "visible_elements": {
+        "foreground": [
+          "glossy red sauce/lips macro surface (insert)"
+        ],
+        "midground": [
+          "mascot solo spotlight hero pose"
+        ],
+        "background": [
+          "dark stage with faint neon hints"
+        ],
+        "lighting_env": [
+          "warm spotlight key (hero)",
+          "glancing warm key on glossy surface (macro)"
+        ],
+        "atmosphere": [
+          "faint haze",
+          "spotlight glow",
+          "glossy reflections",
+          "soft bloom"
+        ]
+      },
+      "texture": {
+        "primary_subject": "cel_shaded_anime_skin_feather",
+        "secondary_objects": [
+          "glossy_wet_sauce_surface"
+        ],
+        "background_surface": "dark_stage",
+        "atmospheric": [
+          "haze",
+          "halation_glow"
+        ]
+      },
+      "lighting": {
+        "key_direction": "45deg_above",
+        "key_hardness": "hard",
+        "key_color_temp": "warm_3000K",
+        "fill_strength": "minimal",
+        "key_to_fill_ratio": "8:1",
+        "rim_light": true,
+        "practical_lights": [
+          "스포트라이트"
+        ],
+        "shadow_presence": "deep",
+        "overall_contrast": "high_contrast"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#0a0608",
+          "#3a0e0c",
+          "#ff9a3a",
+          "#c8160e",
+          "#ffe0b0"
+        ],
+        "palette_role": {
+          "#0a0608": "shadow_black_dominant",
+          "#3a0e0c": "dark_red",
+          "#ff9a3a": "warm_spotlight",
+          "#c8160e": "glossy_chili_red",
+          "#ffe0b0": "specular_highlight"
+        },
+        "color_relationship": "brand_dominant",
+        "temperature_balance": "warm_dominant",
+        "saturation_strategy": "vivid",
+        "contrast_type": "luminance_high",
+        "accent_color": "#ff9a3a",
+        "accent_ratio": "15_percent"
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A dramatic animated reprise key-frame at full 1920x1080 pixels, 16:9 landscape aspect ratio, returning to a dark stage for a final solo hero pose of the rooster mascot, intercut with an extreme macro of glistening spicy sauce or lips that pulls back to reveal the product world. In the hero beat, the mascot, character ID hochi_mascot, stands alone on a dark stage in a confident final pose, lit by a focused spotlight, the white-feathered face, flame-and-teal pompadour and dark-red stage outfit catching warm key light against a deep shadowy background with faint neon hints, a chest brand emblem visible. In the macro beat, an extreme close-up shows a glossy expanse of deep-red chili sauce or glistening lips with a bright specular sheen, abstract and sensual, which then pulls back; the surface is smooth, wet and reflective. The framing alternates between a medium-full spotlight hero shot and an extreme macro detail; the virtual camera moves from tight macro to a pulling-back reveal, near eye level with slight tilt. Lighting in the hero beat is theatrical low-key with a warm spotlight key and deep surrounding shadow; in the macro beat it is a glancing warm key raking across the glossy red surface to catch specular highlights. The mood is confident, sensual, climactic-resolution, a final flourish before the sign-off. The atmosphere has faint haze and spotlight glow in the hero beat, glossy reflections in the macro beat, soft bloom and faint grain. Color palette: deep shadow black #0a0608 and dark red #3a0e0c dominant about forty-five percent, warm spotlight orange #ff9a3a about eighteen percent, glossy chili-red #c8160e and #e23a1c about twenty percent, white mascot face #f4f1ec about ten percent, specular highlight #ffe0b0 about seven percent. The color relationship is warm-spotlight-and-red on dark ground, brand-dominant; the temperature balance is warm-dominant; the saturation strategy is vivid red with deep blacks; the contrast type is high luminance chiaroscuro. Texture: smooth cel-shaded mascot, glossy wet sauce or lip surface with crisp specular, dark stage, soft halation, faint grain. A recorded Korean sung-lyric subtitle in magenta-pink with white edge may sit near lower-center, preserved verbatim. This is the final dramatic flourish of an animated Korean spicy instant-noodle brand film, reuniting the confident mascot star with a sensual macro of the spicy product before the closing card. Additional craft detail for faithful recreation: the spotlight in the hero beat forms a tight pool of warm light on the figure with rapid falloff into black; the macro surface is rendered with viscous glossy ripples and bright moving specular streaks to read as appetizing heat; the pull-back is implied by the framing tightening on the surface; a soft vignette frames both beats; and the chest emblem on the outfit is kept as a recorded brand graphic. Style anchor: cinematic anime dark-stage solo hero reprise plus glossy red macro, warm chiaroscuro spotlight, vivid red palette, soft bloom and grain, Korean music-film aesthetic, 4K animation render.\n Returning to darkness after the bright studio section gives the film a satisfying bookend, echoing the dark theatrical staging of the opening and reminding the viewer that the spicy phoenix world is the brand's true home; the sensual glossy macro of the red sauce is the most direct appetite-appeal image in the entire film, deliberately held just before the sign-off so the last sensory impression is the heat and shine of the product itself. The interplay of the confident lone mascot and the abstract burning-red surface compresses the whole campaign, character and product, into a final two-beat flourish.",
+        "t2i_negative": "photorealistic, daylight, real-person face, real competing logos, watermark, flat lighting, dull surface, low contrast",
+        "i2v_motion": "Hochi_mascot holds a confident solo spotlight hero pose with breathing-level micro-motion on the dark stage; intercut, an extreme macro of glistening red sauce/lips shows viscous glossy ripples and a traveling specular highlight, then the camera pulls back; soft bloom; any caption holds lower-center. ~9.8s, steady, no cut.",
+        "i2v_params": {
+          "clip_duration_sec": 9.77,
+          "camera_move": "pull_back",
+          "subject_motion_level": "micro",
+          "signature_effect": "none",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; mascot generic rooster idol type; sauce macro is a craft product visual; any caption preserved verbatim"
+      }
+    },
+    {
+      "index": 21,
+      "duration": 11.35,
+      "framing": "grid",
+      "function": "brand_cta",
+      "subject_action": "closing title card on pure black: a single centered line of small letter-spaced text reading the franchise sign-off, flanked by tiny flame icons",
+      "layout_grid": "center",
+      "subject_position": "center",
+      "subject_identity": "none_environment",
+      "subject_relationship_to_protagonist": null,
+      "mid_frame_path": "ADV-2026-050_frames/cut21_mid.png",
+      "subject_typo_layout": "typo_only_no_person",
+      "typo_motion": "'🌶 BULDAK WILL RETURN 🌶' sign-off line holds center, brand name in glowing red, 'WILL RETURN' in letter-spaced white; tiny flame icons flank; subtle fade",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "environment",
+      "gaze": "none",
+      "eye_contact_effect": null,
+      "props": [
+        "closing title text",
+        "flame icons"
+      ],
+      "prop_semantics": "restrained premium sign-off teases the brand's return",
+      "color_palette": [
+        "#050505",
+        "#f2f2f2",
+        "#e0241a",
+        "#ff8a2e"
+      ],
+      "color_intent": "red-and-white text on deep black for a restrained, confident franchise sign-off",
+      "pose_description": "no figure; single slim central text band over vast black negative space",
+      "subject_motion": "static",
+      "prop_motion": "subtle fade",
+      "camera_motion": "locked_off",
+      "camera_motion_intensity": "none",
+      "camera_effect_local": "none",
+      "motion_blur": false,
+      "intra_cut_rhythm": "static",
+      "transition_in": "cut",
+      "transition_out": "fade",
+      "vfx_in_shot": [
+        "ui_motion"
+      ],
+      "vfx_intensity_local": "subtle",
+      "fact_check_flag": null,
+      "notes": "Cut21 (f3517-3854, 117.20-128.55s): black outro card '🌶 BULDAK WILL RETURN 🌶'. End title, holds with subtle fade.",
+      "visible_elements": {
+        "foreground": [
+          "small letter-spaced sign-off text + flanking flame icons"
+        ],
+        "midground": [],
+        "background": [
+          "pure near-black field"
+        ],
+        "lighting_env": [
+          "self-illuminated graphic text"
+        ],
+        "atmosphere": [
+          "faint glow on text",
+          "faint residual ember",
+          "faint grain"
+        ]
+      },
+      "texture": {
+        "primary_subject": "flat_small_lettering",
+        "secondary_objects": [
+          "vector_flame_icon"
+        ],
+        "background_surface": "flat_black",
+        "atmospheric": [
+          "halation_glow"
+        ]
+      },
+      "lighting": {
+        "key_direction": "front",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "none",
+        "key_to_fill_ratio": "silhouette",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "none",
+        "overall_contrast": "high_contrast"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#050505",
+          "#f2f2f2",
+          "#e0241a",
+          "#ff8a2e"
+        ],
+        "palette_role": {
+          "#050505": "background_black_dominant",
+          "#f2f2f2": "white_text",
+          "#e0241a": "brand_red_text",
+          "#ff8a2e": "flame_icon_accent"
+        },
+        "color_relationship": "brand_dominant",
+        "temperature_balance": "balanced",
+        "saturation_strategy": "desaturated_with_pop",
+        "contrast_type": "luminance_high",
+        "accent_color": "#e0241a",
+        "accent_ratio": "5_percent"
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A minimal animated closing-title key-frame at full 1920x1080 pixels, 16:9 landscape aspect ratio, presenting the film's sign-off line in a single centered row of small text flanked by tiny flame icons on a pure black field. The entire background is flat near-pure black with no texture or gradient, perfectly uniform across the frame. At the exact vertical and horizontal center sits a single horizontal line of restrained English title text reading the recorded sign-off, in which the brand name is set in a small red glowing condensed sans-serif and the following words will return are set in clean white letter-spaced sans-serif, the whole line tracked out widely for a refined cinematic end-card feel. Flanking the line on the left and right ends are two tiny stylized cartoon flame icons in red-and-orange, small enough to read as punctuation accents rather than illustration. The text occupies only a slim central band, roughly the middle fifth of the frame width, leaving vast black negative space above, below and to the sides. The framing is a flat graphic title card with no spatial depth. Lighting is graphic self-illumination: the small text and flame icons glow faintly against the void with a soft halation, while the rest of the frame remains black. The mood is restrained, confident, teasing, a premium franchise sign-off promising the brand will be back. The atmosphere is minimal and dark: pure black field, faint glow on the text, perhaps the faintest residual ember, and a faint grain. Color palette: near-black #050505 dominant about ninety-two percent of frame, white text #f2f2f2 about four percent, brand-red text and flame icons #e0241a about three percent, faint ember-orange #ff8a2e accent about one percent. The color relationship is red-and-white text on black, brand-dominant and minimal; the temperature balance is neutral-to-warm; the saturation strategy is a desaturated black field with a small vivid red accent; the contrast type is extreme luminance contrast between the faintly glowing text and the black void. Texture: crisp small flat lettering with soft glow, tiny vector flame icons, otherwise featureless deep black, faint grain. The on-screen sign-off line is preserved verbatim as recorded brand text. This is the closing title card of an animated Korean spicy instant-noodle brand film, signing off with a teasing promise of the brand's return in a restrained premium graphic treatment. Additional craft detail for faithful recreation: the wide letter-spacing and small type size convey understated confidence rather than loud branding; the two flame icons sit symmetrically at the ends of the line as the only decorative elements; the brand-name portion glows slightly warmer and redder than the white words to draw the eye; the surrounding black is kept genuinely deep and empty so the eye rests entirely on the central line; and the card holds steady, possibly with a slow fade, as the film ends. Style anchor: minimal cinematic franchise sign-off card, small letter-spaced red-and-white title with flame icons on black, self-illuminated glowing text, vast negative space, faint grain, 4K render, sign-off preserved verbatim.\n This restrained sign-off is the deliberate inverse of the explosive opening: where the film began with a saturated burning runway and a screaming idol, it ends on near-total darkness and a single quiet promise, a confident tonal whisper that trusts the audience to remember the spectacle they just watched and to anticipate its return.",
+        "t2i_negative": "photorealistic, busy background, gradient background, real competing logos, watermark, large loud type, low contrast",
+        "i2v_motion": "On pure black, the sign-off line '🌶 BULDAK WILL RETURN 🌶' holds steady at center with a faint glow, brand name in red and 'WILL RETURN' letter-spaced white, tiny flame icons flanking; camera locked-off; a slow fade ends the film. ~11.4s, static. Sign-off preserved verbatim.",
+        "i2v_params": {
+          "clip_duration_sec": 11.35,
+          "camera_move": "locked_off",
+          "subject_motion_level": "still",
+          "signature_effect": "none",
+          "pacing": "static",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen sign-off text preserved verbatim as recorded brand art"
+      }
+    }
+  ],
+  "search_keywords": {
+    "industry": [
+      "fnb"
+    ],
+    "product_category": [
+      "instant_noodle",
+      "spicy_noodle"
+    ],
+    "target_demo": [
+      "mz",
+      "teens",
+      "20s",
+      "active_consumers"
+    ],
+    "media_format": [
+      "youtube_60s_plus",
+      "sns_viral",
+      "product_hero_film"
+    ],
+    "tone": [
+      "bold",
+      "energetic",
+      "dynamic_powerful",
+      "cinematic"
+    ],
+    "pacing": [
+      "front_loaded",
+      "accelerating"
+    ],
+    "technique": [
+      "anthropomorphism_character",
+      "kinetic_typo",
+      "color_shift",
+      "product_solo_hero",
+      "world_builder",
+      "silhouette_teaser"
+    ],
+    "vfx_keywords": [
+      "particle",
+      "color_pop",
+      "3d_render",
+      "kinetic_typo"
+    ],
+    "copy_strategy_keywords": [
+      "superiority_declaration",
+      "brand_name_pun",
+      "building_climax",
+      "caption_led"
+    ],
+    "concept_derivation_pattern": [
+      "giant_character_world_builder"
+    ]
+  },
+  "inferred_creative_thinking": {
+    "insight": "불닭볶음면은 글로벌 메가히트로 '평범한 일상 라면'이 되어버렸다 — 매운맛 챌린지의 충격적 새로움이 익숙함으로 희석되는 위기에서, 브랜드는 다시 '평범을 거부하고 불타오르는' 정체성을 선언해야 한다.",
+    "persona": "K-pop·애니·매운맛 챌린지를 즐기는 글로벌 MZ; 자극과 개성, 한계를 넘는 서사에 반응하는 세대",
+    "moment": "불닭이 너무 흔해져 '그냥 라면'처럼 소비될 때 — 최초의 충격과 정체성을 다시 각인시키고 싶은 순간",
+    "product_role": "평범함을 거부하고 매번 새롭게 불타오르는 '불(火)'의 화신 — 제품=캐릭터 호치가 곧 매운맛의 화력",
+    "punchline": "평범하게 위대하게 (지금 평범해진 삼양라면도)",
+    "differentiator": "식품 광고를 K-pop 뮤직비디오·애니메이션 세계관(피닉스 아이돌)으로 전환해 '맵기'를 불·반항·성장의 메타포로 격상",
+    "brand_fit_one_liner": "불닭이기 때문에 가능한 '불타오르는 위대함' — 매운맛을 캐릭터 IP와 음악으로 브랜딩",
+    "confidence": "inferred"
+  },
+  "inferred_brief": "글로벌 메가히트로 일상화된 불닭볶음면을 K-pop 애니메이션 뮤직필름과 캐릭터 호치로 재점화하여, '평범해진 지금도 평범하게 위대하다'는 브랜드 정체성을 MZ·글로벌 팬덤에 각인시킨다.",
+  "cross_pollination_tags": {
+    "adjacent": [
+      "beverage_alcohol",
+      "snack",
+      "qsr_fastfood"
+    ],
+    "distant": [
+      "content_ott",
+      "music_label",
+      "mobile_game"
+    ],
+    "contrast": [
+      "luxury",
+      "insurance",
+      "home_appliance"
+    ]
+  },
+  "concept_derivation_pattern": "giant_character_world_builder",
+  "confidence": "inferred",
+  "analyst_notes": "1) 전편 셀셰이드 2D/3D 하이브리드 애니메이션(스튜디오좋 추정), 라이브액션 없음. 2) shot_count=37은 scenedetect/metrics 검출 원시 컷; 빠른 뮤직비디오 몽타주를 의미 단위로 묶어 shot_count_corrected=21(=len(shots)). 3) wiggle 수치(mean_abs_shift_x=1.38)는 다이브/스피드터널/whip-pan/스피드라인 등 격렬한 인-샷·카메라 모션 기인이며 렌티큘러 wiggle_3d 아님(육안 확인). 4) 오디오는 나레이션이 아닌 보컬 송(노래·전소연)+BGM; Whisper base 전사(speech_coverage 0.608)를 화면 핑크 가사 자막과 대조 보정. 5) 화면 카피 다수 verbatim 보존; 제품 포장 표기·치즈 변종 사인·SINCE 1963·BULDAK WILL RETURN 모두 diegetic 원문. 6) 핑크 lower-center 자막은 노래 가사(sung), 검은/흰 카드 대형 타이포는 브랜드 메시지. 7) wow컷: cut12(피닉스 아이돌 절정), cut9(콘서트 클라이맥스), cut2(브랜드 다이브).",
+  "verification": {
+    "frames_reviewed": "~150/3854 native-res JPEG read: all 37 scenedetect boundaries (triplet-verified at strongest hard cuts), every semantic-shot midframe, all on-screen caption/lyric changes (lower-third crops + zoom), big-text message cards (불닭/기억해봐/지금 평범해진 삼양라면도/평범하게 위대하게/최초엔.../BULDAK WILL RETURN), character+product detail frames (Hochi CU, product box, sauce bottle, white-studio), + 100% per-frame metrics coverage (diff/hist_corr/text_delta/wiggle)",
+    "audio_analyzed": true,
+    "hitrate_na": true,
+    "abstraction_checked": true
+  }
+}

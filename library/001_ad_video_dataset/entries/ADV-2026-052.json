@@ -1,0 +1,2159 @@
+{
+  "id": "ADV-2026-052",
+  "schema_version": "0.4++ (_2606141200 upgrade: full-schema rebuild from old sparse entry — frames_dir/contact_sheet/mid_frame_path + per-shot recreation_prompts + 114 native-res staged frames re-read in order + 100% per-frame metrics; old verified globals preserved, cut list re-derived to 13 real shots)",
+  "source_ref": {
+    "platform": "사용자 제공 mp4",
+    "title_or_campaign": "우월한 월급통장",
+    "brand": "우리은행",
+    "product": "우월한 월급 통장 (입출금 통장)",
+    "model": "장원영",
+    "year": 2025,
+    "production_note": "생성형 AI로 제작된 광고 (엔딩 '본 영상은 생성형 AI로 제작되었습니다' 고지 카드). 시각 시그니처는 Nishika식 4렌즈 위글 3D(좌우 미세 시점 떨림 패럴럭스)를 모사. 셀럽 패션필름 후크 + 3D 풍선타이포(금리 3.1%) + 필름스트립/분할화면 제품 몽타주 + 청유형 CTA.",
+    "url": "(미기입 — 사용자 다운로드 파일)"
+  },
+  "category_primary": "finance.bank",
+  "category_tags": [
+    "은행",
+    "월급통장",
+    "셀럽모델",
+    "숏폼",
+    "AI제작광고",
+    "위글3D",
+    "풍선타이포"
+  ],
+  "mood": [
+    "밝음",
+    "경쾌",
+    "팝",
+    "친근",
+    "레트로테크"
+  ],
+  "target_demo": "20-30 사회초년생·직장인 (월급통장 개설/갈아타기 대상)",
+  "total_duration": 23.72,
+  "shot_count": 13,
+  "shot_count_corrected": 13,
+  "fps": 29.928,
+  "aspect_ratio": "16:9",
+  "hook_position": 0.5,
+  "cta_position": 20.0,
+  "narrative_arc": "셀럽 후크(정장·정물 구도, '원영이처럼 우월한 월급 통장') → 라이트블루 슈트 유리계단 워킹으로 금리 강조('금리가' + 최고 연 3.1% 캡션) → 남성 모델·클래식카 컷으로 '금리가 우월하니까' 회수 → 스튜디오 정적 포즈에서 '우월~ 좋은데?' 후렴 + 3.1% 3D 풍선타이포 부풀어오름(와우) → 필름스트립 사진 몽타주(혜택 비주얼) → 별도 인물 일상컷(블루 테이블·정리함, '혜택도 우월하니까', 수수료 면제 캡션) → 두 번째 '우월~ 좋은데?' 후렴 → 분할화면 제품/소품 그리드 몽타주(폰·커피·클로버 티켓·청소기, 와우) → 플라워 카우치 회수컷('우리가 원하던 우월한 월급 통장') → 우리은행 로고+AI고지 카드 → 통장 들고 윙크하는 CTA컷('우리로 월급받자') → 장문 약관 카드",
+  "narrative_structure": "montage_refrain_loop",
+  "pacing_curve": "front_loaded",
+  "music_tempo_curve": "ramp_up",
+  "wow_cut_index": [
+    4,
+    9
+  ],
+  "creative_device": "제품명의 '우월'을 음성·자막에서 후렴처럼 반복 변주('우월~ 좋은데?', 2회)로 각인하고, 금리 3.1%를 부풀어 오르는 3D 풍선타이포로 장난스럽게 시각화하며, 전 컷에 Nishika식 위글 3D(좌우 미세 시점 떨림)를 깔아 입체감을 주고, 필름스트립·3x3 분할화면으로 혜택을 빠르게 몽타주한다. 브랜드명 '우리'는 청유형 CTA('우리로 월급받자')로 언어유희.",
+  "production_signature": {
+    "capture_style": "ai_generated",
+    "camera_signature": [
+      "wiggle_3d",
+      "parallax"
+    ],
+    "signature_note": "전 컷에 Nishika식 위글 3D(좌우 미세 시점 떨림)가 깔림. 카메라는 대체로 고정인데 시점만 좌우로 흔들려 입체감을 줌 — 정적 포즈 컷도 배경/피사체 가장자리가 좌우로 어긋남(예: cut1 f1 vs f21에서 주황 화병·테이블·인물 가장자리 좌우 이동, cut7 정리함 컷 f300 vs f324에서 박스/인물 좌우 어긋남으로 시각 확인). 정물·인물 컷에서 가장 두드러지고, 분할화면·로고/약관 카드 구간에서는 약함.",
+    "color_grade": "brand_color_dominant",
+    "color_grade_note": "우리은행 브랜드 블루 지배 + 화이트/옐로/주황(보색) 포인트, 하이키. 인물컷은 라이트블루 환경광, 일상컷(테이블)만 딥 블루 톤다운.",
+    "texture_fx": "clean_digital"
+  },
+  "global_layout": {
+    "grid_system": "rule_of_thirds",
+    "subject_placement_dominant": "center",
+    "subject_typo_relation": "typo_opposite_subject",
+    "negative_space_use": "generous",
+    "layout_note": "인물은 주로 중앙, 타이포(슬로건)는 우측 1/3에 흰/블루 3D 입체 글자 또는 컬러박스로 분리 배치. 후렴('우월~ 좋은데?')은 인물 양옆(좌:'우월' 블루 풍선박스, 우:'좋은데?' 화이트)으로 갈라 배치. 몽타주 구간만 필름스트립/3x3 split로 그리드 전환. CTA·회수컷은 좌측 1/3 블루 타이포.",
+    "panel_layouts_present": true
+  },
+  "recurring_motifs": [
+    "'우월' 블루 풍선박스 타이포(스파클)",
+    "브랜드 블루 배경",
+    "클로버/원형 마크(우리은행 로고 모티프)",
+    "주황 포인트(화병·코트·머그·고무장갑)",
+    "위글 3D 시점떨림",
+    "3D 풍선 숫자(금리 3.1%)"
+  ],
+  "copywriting": {
+    "tagline_text": "원영이처럼 우월한 월급 통장",
+    "tagline_structure": "셀럽 이름 직접 인용('원영이처럼') + 핵심 형용사 겸 제품명 펀('우월한') + 제품명 후행('월급 통장')",
+    "tagline_length_syllables": 13,
+    "tagline_position_sec": 0.5,
+    "cta_text": "우리로 월급받자",
+    "cta_text_structure": "브랜드명 펀('우리') + 권유형 청유('-자') / 화면 자막은 '우리로 월급받자', 음성은 '우리로 월급 합쳐'로 변주",
+    "cta_position_sec": 20.0,
+    "copy_tone": [
+      "직설적",
+      "유머",
+      "감성호소",
+      "정보전달"
+    ],
+    "copy_strategy": "제품명의 '우월'을 음성 후렴('우월~ 좋은데?')으로 2회 반복 각인 + 브랜드명 '우리'를 청유형 CTA('우리로 월급받자')로 언어유희. 금리(최고 연 3.1%)·수수료 면제는 하단 캡션으로 분리 고지. 회수 라인 '우리가 원하던 우월한 월급 통장'으로 욕구를 브랜드로 수렴.",
+    "copy_lines_count": 7,
+    "lines": [
+      {
+        "position_sec": 0.5,
+        "text": "원영이처럼 우월한 월급 통장",
+        "function": "후크/슬로건",
+        "tone": "직설적",
+        "source": "both"
+      },
+      {
+        "position_sec": 3.3,
+        "text": "금리가 우월하니까",
+        "function": "베네핏(금리)",
+        "tone": "직설적",
+        "source": "both"
+      },
+      {
+        "position_sec": 5.5,
+        "text": "우월~ 좋은데?",
+        "function": "후렴/공감",
+        "tone": "유머",
+        "source": "both"
+      },
+      {
+        "position_sec": 10.5,
+        "text": "혜택도 우월하니까",
+        "function": "베네핏(혜택)",
+        "tone": "직설적",
+        "source": "both"
+      },
+      {
+        "position_sec": 12.3,
+        "text": "우월~ 좋은데?",
+        "function": "후렴 반복/공감",
+        "tone": "유머",
+        "source": "both"
+      },
+      {
+        "position_sec": 16.0,
+        "text": "우리가 원하던 우월한 월급 통장",
+        "function": "정리/회수",
+        "tone": "감성호소",
+        "source": "both"
+      },
+      {
+        "position_sec": 20.0,
+        "text": "우리로 월급받자",
+        "function": "CTA/청유",
+        "tone": "유머",
+        "source": "both"
+      }
+    ],
+    "captions": [
+      {
+        "position_sec": 3.3,
+        "text": "최고 연 3.1% (한도 2백만 원, 기본 연 0.1%, 세전)",
+        "function": "금리 고지(하단)"
+      },
+      {
+        "position_sec": 9.2,
+        "text": "수수료 면제 혜택 제공",
+        "function": "혜택 고지(하단)"
+      },
+      {
+        "position_sec": 17.8,
+        "text": "본 영상은 생성형 AI로 제작되었습니다",
+        "function": "AI 제작 고지(로고 카드)"
+      },
+      {
+        "position_sec": 21.7,
+        "text": "상품명: 우월한 월급 통장 / 금리: 최저 연 0.1% ~ 최고 연 3.1% (최대한도 200만원까지) / 기본금리: 연 0.1% / 우대금리 최대 연 3.0%p (전월 우대조건 충족 시) … (장문 약관)",
+        "function": "약관 고지(엔딩 카드, excerpt_only)"
+      }
+    ],
+    "narration_handling": "excerpt_only",
+    "narration_note": "엔딩 장문 약관 카드(약 2초)는 통째 저장하지 않고 요지만 excerpt. 핵심 카피·캡션은 화면 자막 그대로 verbatim 보존."
+  },
+  "typography": {
+    "primary_font_class": "산세리프 굵은체(라운드, 3D 입체/풍선)",
+    "secondary_font_class": "산세리프 세체",
+    "animation_style": [
+      "pop",
+      "scale_in",
+      "kinetic",
+      "slide",
+      "inflate"
+    ],
+    "subtitle_position_dominant": "right_third",
+    "tagline_position": "right_third / left_third(회수·CTA), 핵심어 블루 풍선박스",
+    "color_strategy": "고대비(브랜드 블루+화이트, 핵심어 '우월'은 블루 풍선박스+스파클, 금리 숫자는 보라→블루 3D 풍선)",
+    "appearance_count": 12,
+    "key_typography_moments_sec": [
+      0.5,
+      3.3,
+      5.5,
+      6.0,
+      12.3,
+      16.0,
+      20.0
+    ],
+    "typo_motion_dominant": "우측/좌측 1/3에서 pop+scale로 등장, 핵심어 '우월'은 블루 풍선박스로 강조하며 살짝 바운스. 금리 숫자 '3.1%'는 풍선처럼 부풀어 오르며(inflate) 보라→블루 색전환."
+  },
+  "vfx": {
+    "primary_effects": [
+      "wiggle_3d",
+      "color_pop",
+      "3d_render",
+      "split_screen",
+      "ui_motion"
+    ],
+    "effect_intensity": "moderate",
+    "transition_style_dominant": "hard_cut",
+    "vfx_event_count": 13,
+    "vfx_timing_array_sec": [
+      0.7,
+      3.3,
+      3.8,
+      6.0,
+      7.3,
+      9.0,
+      11.2,
+      13.2,
+      14.0,
+      16.4,
+      17.7,
+      19.7,
+      21.7
+    ],
+    "wow_vfx_index": [
+      4,
+      9
+    ],
+    "notable_vfx_note": "전 컷 위글 3D가 베이스. cut4(4.75~7.28s)의 '3.1%' 3D 풍선타이포 부풀림+색전환(보라→블루)과 cut9(13.20~15.20s)의 3x3+ 분할화면 제품 몽타주(클로버 티켓·청소기·커피·폰)가 임팩트 핵심. 트랜지션은 대부분 하드컷(diff 스파이크 f91/f115/f143/f219/f271/f300/f336/f396/f456/f532/f591/f650)."
+  },
+  "audio": {
+    "has_audio": true,
+    "language": "ko",
+    "speech_coverage": 0.901,
+    "bgm_likely": true,
+    "narration_lines": [
+      {
+        "start": 0.0,
+        "end": 2.88,
+        "text": "원영이처럼 우월한 월급 통장",
+        "text_raw": "원영이처럼 우와란 월급통장",
+        "kind": "narration"
+      },
+      {
+        "start": 2.88,
+        "end": 4.68,
+        "text": "금리가 우월하니까 우월!",
+        "text_raw": "금리가 우와라니까 우와랄!",
+        "kind": "narration"
+      },
+      {
+        "start": 4.68,
+        "end": 6.62,
+        "text": "우월~ 좋은데?",
+        "text_raw": "우와랄! 좋은데?",
+        "kind": "narration"
+      },
+      {
+        "start": 6.62,
+        "end": 11.0,
+        "text": "혜택도 우월하니까",
+        "text_raw": "해택도 우와라니까",
+        "kind": "narration"
+      },
+      {
+        "start": 11.0,
+        "end": 12.84,
+        "text": "우월~ 좋은데?",
+        "text_raw": "우와랄! 좋은데?",
+        "kind": "narration"
+      },
+      {
+        "start": 12.84,
+        "end": 17.95,
+        "text": "그래서 우리가 원하던 우월한 월급 통장",
+        "text_raw": "그래서 우리가 원하던 우와란 월급통장",
+        "kind": "narration"
+      },
+      {
+        "start": 17.95,
+        "end": 19.15,
+        "text": "우리은행!",
+        "text_raw": "우리 은행!",
+        "kind": "narration"
+      },
+      {
+        "start": 19.15,
+        "end": 21.47,
+        "text": "우리로 월급 합쳐!",
+        "text_raw": "우리로 월급 합쳐!",
+        "kind": "narration"
+      }
+    ],
+    "voice_vs_caption": "음성 나레이션과 화면 자막이 핵심 카피('원영이처럼 우월한 월급 통장','금리가 우월하니까','우월~ 좋은데?','혜택도 우월하니까','우리가 원하던 우월한 월급 통장')에서 거의 일치(both). 단 마무리 CTA는 음성이 '우리로 월급 합쳐!'인데 화면 자막은 '우리로 월급받자'로 표기가 다름 — 양쪽 모두 기록. 금리·수수료·AI고지·약관은 자막(캡션) 전용.",
+    "narration_handling": "excerpt_only",
+    "transcribed_by": "faster_whisper",
+    "audio_note": "faster-whisper(base) 전사. 짧은 어휘 오인식 보정: '우와란/우와라니까/우와랄'→'우월한/우월하니까/우월~'(브랜드가 제품명을 '우월'로 표기, whisper가 '우와랄'로 오청), 화면 자막과 대조해 보정. CTA는 음성('합쳐')과 자막('월급받자')이 달라 둘 다 보존. speech_coverage 0.901."
+  },
+  "frames_dir": "ADV-2026-052_frames",
+  "contact_sheet_path": "ADV-2026-052_frames/contact_sheet.png",
+  "shots": [
+    {
+      "index": 1,
+      "duration": 3.01,
+      "start_frame": 1,
+      "end_frame": 90,
+      "mid_frame_path": "ADV-2026-001_frames/cut01_mid.png",
+      "framing": "MS",
+      "function": "후크/컨셉 제시",
+      "color_mood": "warm_on_blue",
+      "subject_identity": "protagonist_woman",
+      "subject_relationship_to_protagonist": "main_character",
+      "subject_action": "20대 초중반 여성이 네이비 정장+화이트 셔츠 차림으로 흰 테이블에 앉아 한 손으로 턱을 괴고 카메라를 여유롭게 응시한다. 좌측엔 주황 화병에 노란 튤립, 우측 1/3에 슬로건 타이포가 pop으로 등장한다.",
+      "copy_overlay": "원영이처럼 / 우월한 / 월급 통장",
+      "layout_grid": "rule_of_thirds_center",
+      "subject_position": "center",
+      "subject_typo_layout": "인물 중앙, 타이포 우측 1/3(블루 입체 글자, '우월'은 블루 컬러박스로 강조)",
+      "typo_motion": "우측에서 pop+scale 등장, '우월' 글자가 블루 박스로 하이라이트되며 살짝 바운스",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "waist_up",
+      "gaze": "to_camera",
+      "eye_contact_effect": "정면 응시로 여유·우월감",
+      "subject_motion": "정지포즈(미세 호흡)",
+      "prop_motion": "none",
+      "camera_motion": "정지",
+      "camera_motion_intensity": "none",
+      "camera_effect_local": "wiggle_3d(좌우 시점 떨림, 중간 강도 — f1 vs f21에서 화병·테이블·인물 가장자리 좌우 이동)",
+      "intra_cut_rhythm": "static",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [
+        "wiggle_3d",
+        "color_pop"
+      ],
+      "vfx_intensity_local": "subtle",
+      "fact_check_flag": false,
+      "notes": "후크 컷. 인물은 정적이지만 위글 3D로 입체 떨림. 슬로건 '원영이처럼 우월한 월급 통장' verbatim. 주황 화병=블루 배경의 보색 포인트.",
+      "color_palette": [
+        "#6cc1de",
+        "#22344a",
+        "#e8852f",
+        "#f0e7d8"
+      ],
+      "props": [
+        "노란 튤립 화병(주황 화병)",
+        "흰 테이블"
+      ],
+      "prop_semantics": "봄꽃=신선·새 시작, 주황 화병이 라이트블루 배경의 보색 포인트로 시선 유도. 네이비 정장=단정·우월감.",
+      "color_intent": "라이트블루 벽+네이비 정장의 차분함에 주황 화병 1점으로 시선을 끌고, 우측 블루 타이포로 브랜드 컬러 연결",
+      "pose_description": "한 손으로 턱을 괴고 카메라를 응시하는 여유로운 포즈 — 우월감·자신감 인상",
+      "visible_elements": {
+        "foreground": [
+          "여성 인물(네이비 정장)",
+          "노란 튤립 화병",
+          "흰 테이블"
+        ],
+        "midground": [
+          "블루 입체 슬로건 타이포 그래픽"
+        ],
+        "background": [
+          "라이트블루 벽(브랜드 블루 환경)"
+        ],
+        "lighting_env": [
+          "소프트 스튜디오 키 라이트(하이키)"
+        ],
+        "atmosphere": [
+          "위글3D 미세 시점 떨림 패럴럭스"
+        ]
+      },
+      "texture": {
+        "primary_subject": "skin_makeup",
+        "secondary_objects": [
+          "fabric_wool",
+          "ceramic_glossy",
+          "flora_soft"
+        ],
+        "background_surface": "matte",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "front",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "strong",
+        "key_to_fill_ratio": "1:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "minimal",
+        "overall_contrast": "hi_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#6cc1de",
+          "#22344a",
+          "#e8852f",
+          "#f0e7d8"
+        ],
+        "palette_role": {
+          "#22344a": "subject_dark_anchor",
+          "#f0e7d8": "background_or_highlight",
+          "#6cc1de": "cool_midtone",
+          "#e8852f": "warm_accent"
+        },
+        "color_relationship": "complementary",
+        "temperature_balance": "cool_dominant",
+        "saturation_strategy": "vivid",
+        "contrast_type": "luminance_high",
+        "accent_color": "#e8852f",
+        "accent_ratio": "15_percent",
+        "brand_color_match": [
+          "우리은행 브랜드 블루 (#0067AC 계열, 근사 매칭)"
+        ]
+      },
+      "panel_layout": null,
+      "recreation_prompts": {
+        "t2i_start_frame": "A bright, clean studio commercial portrait in a true 16:9 landscape frame of a Korean woman in her early-to-mid twenties with polished idol-style hair and makeup — long straight dark-brown hair parted center, soft natural glam, small hoop and ear-cuff earrings, a confident calm expression — seated at a white table, resting her right cheek lightly on the back of her hand with elbow on the table, gazing directly into the lens with a poised, faintly superior air; she is NOT a likeness of any specific real person, only a generic polished-idol type. Wardrobe: a tailored dark navy single-breasted blazer over a crisp white collared shirt with a slim gold pendant, sleeves with white cuffs showing, premium matte wool texture. Location and background: a minimalist studio set with a flat light-blue wall (brand-blue environment) and a slim pale console table to the left holding a glossy orange round vase of yellow tulips; generous negative space of pale blue around her. Foreground props: the white tabletop in the lower frame and the orange tulip vase at left as the single warm complementary accent. Lighting setup: soft even high-key studio key from the front with strong fill, key-to-fill near 1:1, minimal shadow, a clean beauty-light look, neutral ~5500K. Lens, framing and angle: an 85mm-equivalent medium shot, eye-level and frontal, shallow-to-moderate depth of field so she and the vase are crisp and the wall is a smooth gradient; she sits center, the slogan typography occupying the right third. Composition and grid: rule-of-thirds with the subject centered-to-slightly-left and a vertical stack of Korean caption text on the right third, reproduced verbatim as a flat composited graphic in bold rounded blue sans-serif: '원영이처럼' (smaller, top), '우월한' (large, with the word '우월' set inside a solid blue highlight box), '월급 통장' (below) — preserve this caption text exactly. Color palette and strategy: cool-dominant brand-blue field #6cc1de with a deep navy subject anchor #22344a, a warm orange accent #e8852f on the vase (~15 percent), and a soft cream highlight #f0e7d8; vivid, high luminance contrast, the orange as the only warm pop against blue. Texture and surfaces: natural skin with fine makeup sheen, matte wool blazer, glossy ceramic vase, soft tulip petals, matte wall. Atmosphere: polished, aspirational, springy-fresh, with a subtle wiggle-3D parallax depth between the woman, the vase and the wall (a faint left-right viewpoint oscillation as if shot on a 4-lens lenticular Nishika rig). Post and signature look: clean hi-key digital commercial render, brand-blue-dominant grade, crisp edges, the signature subtle lenticular wiggle giving quiet dimensionality to an otherwise static pose. Style anchor and nationality: contemporary Korean bank brand-film key-visual, AI-generated celebrity-fashion-film aesthetic, glossy and upbeat, wide 16:9. Additional reconstruction detail: keep the orange vase fully saturated as the lone warm note so the eye travels vase → face → blue caption; render the caption as a post-composited motion-graphic, never hand-painted into the scene, with the '우월' highlight box and the rest of the slogan in flat brand blue; let the woman's pose read as relaxed dominance (chin supported, brow level, lips softly closed), and treat the whole image as the opening hook frame of a fast-cut pop commercial, so the lighting is flattering and shadowless and the background is an even brand-blue sweep that will later host kinetic typography.",
+        "t2i_negative": "real celebrity likeness, named idol face, brand logo mark, watermark, harsh directional shadows, low-key moody lighting, desaturated, cluttered background, garbled korean text, deformed hands, extra fingers, vertical crop",
+        "i2v_motion": "Hold the poised seated portrait nearly static with breathing-level micro-motion; apply the signature wiggle-3D parallax — a subtle continuous left-right viewpoint oscillation so the orange vase, the woman and the blue wall shift on slightly different planes (lenticular depth); the right-third caption '원영이처럼 / 우월한 / 월급 통장' pops on with a quick scale-in and the '우월' highlight box bounces lightly; no camera travel, no cut within; ~3s; ends on a hard cut to the next beat.",
+        "i2v_params": {
+          "clip_duration_sec": 3.0,
+          "camera_move": "locked_with_wiggle3d_parallax",
+          "subject_motion_level": "micro",
+          "signature_effect": "wiggle_3d_parallax_plus_typo_pop",
+          "pacing": "static_hook",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; celebrity abstracted to polished-idol type (no real-person likeness); slogan caption preserved verbatim; brand logo absent in this beat; wiggle-3D signature + brand-blue palette preserved"
+      }
+    },
+    {
+      "index": 2,
+      "duration": 0.57,
+      "start_frame": 91,
+      "end_frame": 106,
+      "mid_frame_path": "ADV-2026-001_frames/cut02_mid.png",
+      "framing": "FS",
+      "function": "베네핏(금리) 전개 — 워킹컷",
+      "color_mood": "bright_blue",
+      "subject_identity": "protagonist_woman",
+      "subject_relationship_to_protagonist": "main_character",
+      "subject_action": "라이트블루 슈트의 여성이 유리 천장·유리 난간 계단을 정면으로 걸어 내려오며, 한 손에 폰, 다른 팔엔 파란 폴더와 주황 코트를 걸치고 카메라를 본다. 우측에 '금리가' 타이포가 등장.",
+      "copy_overlay": "금리가",
+      "layout_grid": "rule_of_thirds_center",
+      "subject_position": "center",
+      "subject_typo_layout": "인물 중앙, '금리가' 우측 1/3(화이트 3D 입체 글자)",
+      "typo_motion": "우측 화이트 3D 글자 slide+pop 등장",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "full_body",
+      "gaze": "to_camera",
+      "eye_contact_effect": "정면 워킹으로 당당함·자립감",
+      "subject_motion": "계단을 정면으로 걸어 내려오는 워킹(전신)",
+      "prop_motion": "폰·폴더·코트를 든 채 이동",
+      "camera_motion": "정지(피사체 접근)",
+      "camera_motion_intensity": "subtle",
+      "camera_effect_local": "wiggle_3d(약, 유리 난간 가장자리 좌우 미세 이동)",
+      "intra_cut_rhythm": "steady",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [
+        "wiggle_3d",
+        "3d_render"
+      ],
+      "vfx_intensity_local": "subtle",
+      "fact_check_flag": false,
+      "notes": "라이트블루 슈트 전신 워킹 컷. 하단 금리 캡션 '최고 연 3.1% (한도 2백만 원, 기본 연 0.1%, 세전)' 시작. '금리가'는 다음 컷에서 '우월하니까'로 이어짐.",
+      "color_palette": [
+        "#9cc6e4",
+        "#7fa9c8",
+        "#e6f0f4",
+        "#e08a5a"
+      ],
+      "props": [
+        "스마트폰",
+        "파란 폴더",
+        "주황 코트",
+        "유리 계단·난간"
+      ],
+      "prop_semantics": "폰·폴더=직장인 일상/모바일 금융, 주황 코트=블루톤의 보색 활력, 유리 계단=개방·상승(금리 상승 은유)",
+      "color_intent": "라이트블루 슈트+유리 계단의 하이키 블루 통일 + 주황 코트 보색 1점, 우측 '금리가' 화이트 입체 타이포",
+      "pose_description": "폰을 들고 코트를 팔에 걸친 채 계단을 정면으로 걸어 내려오는 당당한 워킹 — 활동적·자립적",
+      "visible_elements": {
+        "foreground": [
+          "여성 인물(라이트블루 슈트)",
+          "스마트폰",
+          "파란 폴더",
+          "주황 코트"
+        ],
+        "midground": [
+          "유리 난간·금속 핸드레일",
+          "'금리가' 화이트 3D 타이포"
+        ],
+        "background": [
+          "유리 천장·하늘(하이키 블루)",
+          "계단"
+        ],
+        "lighting_env": [
+          "자연광 유사 하이키(유리 천장 채광)"
+        ],
+        "atmosphere": [
+          "위글3D 미세 시점 떨림 패럴럭스",
+          "밝은 개방감"
+        ]
+      },
+      "texture": {
+        "primary_subject": "skin_makeup",
+        "secondary_objects": [
+          "fabric_suit",
+          "glass_clear",
+          "metal_brushed"
+        ],
+        "background_surface": "glass_glossy",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "front",
+        "key_hardness": "soft",
+        "key_color_temp": "cool_6500K",
+        "fill_strength": "strong",
+        "key_to_fill_ratio": "1:1",
+        "rim_light": true,
+        "practical_lights": [],
+        "shadow_presence": "minimal",
+        "overall_contrast": "hi_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#9cc6e4",
+          "#7fa9c8",
+          "#e6f0f4",
+          "#e08a5a"
+        ],
+        "palette_role": {
+          "#7fa9c8": "subject_cool_anchor",
+          "#e6f0f4": "background_or_highlight",
+          "#9cc6e4": "cool_midtone",
+          "#e08a5a": "warm_accent"
+        },
+        "color_relationship": "complementary",
+        "temperature_balance": "cool_dominant",
+        "saturation_strategy": "muted",
+        "contrast_type": "luminance_high",
+        "accent_color": "#e08a5a",
+        "accent_ratio": "10_percent",
+        "brand_color_match": [
+          "우리은행 브랜드 블루 (#0067AC 계열, 근사 매칭)"
+        ]
+      },
+      "panel_layout": null,
+      "recreation_prompts": {
+        "t2i_start_frame": "A bright, airy full-body commercial shot in 16:9 landscape of a Korean woman in her early-to-mid twenties with polished idol-style hair and makeup (long dark-brown hair, soft glam, confident calm expression — a generic polished-idol type, NOT any real person), walking straight toward the camera as she descends a wide modern staircase under a glass canopy; she wears a powder-light-blue tailored suit (relaxed blazer over matching trousers and a pale top), holding a light-blue smartphone in her right hand while a blue folder and a folded soft-orange coat are draped over her left forearm. Location and background: a sunlit contemporary atrium with a glass-and-steel ceiling, glass balustrades with brushed-metal handrails flanking the stairs, pale blue sky beyond — a high-key, open, optimistic environment. Foreground props: the phone, the blue folder and the orange coat she carries. Lighting setup: soft high-key daylight from the glass roof, frontal and even with strong fill (key-to-fill near 1:1), a gentle rim from the bright surroundings, minimal shadow, cool ~6500K. Lens, framing and angle: a 35mm-equivalent full-body shot, eye-level and frontal, moderate depth of field; she walks centered down the symmetrical stair perspective. Composition and grid: strong central one-point perspective of the staircase with the subject on the centerline, and a caption on the right third — reproduced verbatim as a flat composited motion-graphic in clean white 3D-style sans-serif: '금리가'. Also reproduce, along the very bottom of the frame, a thin white legal caption verbatim: '최고 연 3.1% (한도 2백만 원, 기본 연 0.1%, 세전)'. Color palette and strategy: cool-dominant, powder-blue suit #7fa9c8 and pale highlight #e6f0f4 against light-blue midtones #9cc6e4, with the folded orange coat #e08a5a as a single warm complementary accent (~10 percent); muted, clean, luminance-driven contrast. Texture and surfaces: natural skin and makeup, smooth suiting fabric, clear glossy glass, brushed metal rails. Atmosphere: fresh, corporate-optimistic, with a subtle wiggle-3D parallax (a faint left-right viewpoint oscillation so the glass rails and ceiling shift slightly against the figure — lenticular Nishika depth). Post and signature look: clean hi-key digital render, brand-blue-leaning grade, the signature subtle lenticular wiggle. Style anchor and nationality: contemporary Korean bank brand-film, AI-generated polished commercial, wide 16:9. Additional reconstruction detail: this is a brief walking beat in a fast-cut sequence, so freeze a mid-stride moment with her weight forward and gaze to camera; keep the orange coat as the only warm element so it reads instantly against the all-blue glass world; render both captions ('금리가' on the right third, the rate-disclosure strip along the bottom) as post-composited graphics preserved exactly, never as part of the physical set; let the staircase's converging glass lines lead the eye to her face, and keep the overall feeling bright, premium and self-assured, the visual setup for the spoken line 'the interest rate is superior' that the next cut completes. Stage the moment of descent so that her leading foot is mid-step on a tread, weight committed forward, shoulders square to the lens, conveying brisk capable momentum rather than a posed stand; let the powder-blue suit catch a cool sheen along the lapels and the white cuffs peek crisply, and let the glass balustrades throw soft pale reflections that reinforce the sense of a sunlit corporate atrium. The blue smartphone in her right hand reads as a small modern-banking cue, the blue folder and folded orange coat balanced on the left forearm; keep all three props legible but secondary to her face. The bottom rate-disclosure strip must sit as a thin, unobtrusive white line so the legal text is present without competing with the hero, and the right-third word '금리가' should land cleanly in the upper-right negative space where the converging glass lines frame it; overall this is a fleeting, energetic transitional beat in a fast-cut commercial, premium, fresh and forward-moving.",
+        "t2i_negative": "real celebrity likeness, brand logo mark, watermark, harsh shadows, low-key lighting, desaturated, motion smear over whole frame, garbled korean caption, deformed hands, extra fingers, vertical crop",
+        "i2v_motion": "She walks a few steps straight down toward camera at a calm confident pace, coat and folder steady on her arm, phone in hand; apply the signature wiggle-3D parallax so the glass balustrades and ceiling oscillate subtly left-right against her; the white 3D word '금리가' slides/pops onto the right third while the bottom rate-disclosure caption holds; near-static camera with slight subject approach; ~0.6s quick beat; hard cut out.",
+        "i2v_params": {
+          "clip_duration_sec": 0.6,
+          "camera_move": "static_subject_approach_with_wiggle3d",
+          "subject_motion_level": "walking",
+          "signature_effect": "wiggle_3d_parallax_plus_typo_slide",
+          "pacing": "steady_fast_cut",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; celebrity abstracted to polished-idol type; '금리가' + rate-disclosure captions preserved verbatim; brand logo absent; wiggle-3D + brand-blue preserved"
+      }
+    },
+    {
+      "index": 3,
+      "duration": 1.17,
+      "start_frame": 115,
+      "end_frame": 141,
+      "mid_frame_path": "ADV-2026-001_frames/cut03_mid.png",
+      "framing": "MS",
+      "function": "베네핏(금리) 회수 — 남성 모델·클래식카 컷",
+      "color_mood": "teal_premium",
+      "subject_identity": "secondary_man",
+      "subject_relationship_to_protagonist": "secondary_cast",
+      "subject_action": "네이비 블레이저+코랄 셔츠의 남성 모델이 청록(틸) 클래식 자동차 옆에 기대 하이앵글로 카메라를 응시한다. 우측에 '금리가 우월하니까' 타이포가 완성된다.",
+      "copy_overlay": "금리가 / 우월하니까",
+      "layout_grid": "rule_of_thirds_left",
+      "subject_position": "center",
+      "subject_typo_layout": "인물 중앙/좌, 타이포 우측 1/3(화이트 3D, '우월'은 블루 컬러박스)",
+      "typo_motion": "'우월' 블루 박스가 pop으로 들어오며 '금리가 ~ 하니까' 완성",
+      "camera_angle": "high_angle",
+      "camera_facing": "frontal",
+      "shot_scope": "bust",
+      "gaze": "to_camera",
+      "eye_contact_effect": "하이앵글 응시로 프리미엄·시크함",
+      "subject_motion": "정지포즈(미세 호흡)",
+      "prop_motion": "none",
+      "camera_motion": "정지",
+      "camera_motion_intensity": "subtle",
+      "camera_effect_local": "wiggle_3d(중, 차체 가장자리·반사 좌우 이동)",
+      "intra_cut_rhythm": "static",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [
+        "wiggle_3d",
+        "3d_render",
+        "color_pop"
+      ],
+      "vfx_intensity_local": "moderate",
+      "fact_check_flag": false,
+      "notes": "남성 모델+빈티지 카 컷(별도 출연자). 청록 쿨톤 프리미엄 무드가 위글3D 레트로카메라 컨셉과 호응. 캡션 '금리가 우월하니까' 완성, 하단 금리 고지 유지. scenedetect 3.58~4.21/4.21~4.75 두 경계는 '우월' 박스 애니메이션+위글에 의한 것이라 단일 컷으로 병합.",
+      "color_palette": [
+        "#4fb9b6",
+        "#1f3550",
+        "#d8744a",
+        "#2f9fe0"
+      ],
+      "props": [
+        "청록 클래식 자동차(빈티지 카)"
+      ],
+      "prop_semantics": "빈티지 카=레트로·프리미엄 무드(위글 3D 4렌즈 카메라 컨셉과 호응), 청록=차분한 고급감",
+      "color_intent": "청록 차체+딥네이비 슈트의 쿨톤에 코랄 셔츠 보색 1점, 우측 '우월' 블루 박스로 브랜드 컬러 연결",
+      "pose_description": "차에 기대 하이앵글로 카메라를 응시하는 시크한 정적 포즈",
+      "visible_elements": {
+        "foreground": [
+          "남성 모델(네이비 블레이저·코랄 셔츠)"
+        ],
+        "midground": [
+          "청록 클래식 자동차",
+          "'금리가 우월하니까' 화이트/블루 타이포"
+        ],
+        "background": [
+          "블루 톤 배경(노출된 청록·블루)"
+        ],
+        "lighting_env": [
+          "소프트 키 라이트(하이키, 쿨톤)"
+        ],
+        "atmosphere": [
+          "위글3D 미세 시점 떨림 패럴럭스",
+          "레트로 프리미엄"
+        ]
+      },
+      "texture": {
+        "primary_subject": "skin_makeup",
+        "secondary_objects": [
+          "metal_automotive_glossy",
+          "fabric_suit",
+          "fabric_satin"
+        ],
+        "background_surface": "matte",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "top_front",
+        "key_hardness": "soft",
+        "key_color_temp": "cool_6000K",
+        "fill_strength": "moderate",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "soft",
+        "overall_contrast": "mid_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#4fb9b6",
+          "#1f3550",
+          "#d8744a",
+          "#2f9fe0"
+        ],
+        "palette_role": {
+          "#1f3550": "subject_dark_anchor",
+          "#4fb9b6": "background_or_highlight",
+          "#2f9fe0": "cool_midtone",
+          "#d8744a": "warm_accent"
+        },
+        "color_relationship": "complementary",
+        "temperature_balance": "cool_dominant",
+        "saturation_strategy": "vivid",
+        "contrast_type": "saturation_high",
+        "accent_color": "#d8744a",
+        "accent_ratio": "15_percent",
+        "brand_color_match": [
+          "우리은행 브랜드 블루 (#0067AC 계열, 근사 매칭)"
+        ]
+      },
+      "panel_layout": null,
+      "recreation_prompts": {
+        "t2i_start_frame": "A premium high-angle commercial portrait in 16:9 landscape of a Korean man in his mid-twenties with tousled dark hair and clean idol-style grooming (a generic handsome-model type, confident neutral expression, NOT any real person), leaning against a vintage classic car as he looks up into the camera from a slight overhead angle. Wardrobe: a dark navy blazer over an open-collar coral-orange satin shirt, sleek and editorial. The car is a glossy teal-turquoise 1960s-style classic sedan with chrome trim, a side mirror and a whitewall-ish wheel, filling the left and right background; the man sits centered between the open door and the body. Location and background: a stylized studio-like setting bathed in cool teal-and-blue light, the car's painted metal and the floor reading as saturated turquoise, giving a retro-premium mood that rhymes with the film's Nishika 4-lens wiggle-3D concept. Foreground: the man's upper body (bust framing) and the car's door edge. Lighting setup: soft top-front key around 6000K with moderate fill (key-to-fill near 2:1), gentle shadows, a cool mid-key grade that flatters skin while keeping the turquoise rich. Lens, framing and angle: a 50mm-equivalent bust shot from a high angle looking down, frontal facing, shallow-to-moderate depth of field so the man is sharp and the car softly glossy. Composition and grid: subject centered-to-left with the caption on the right third — reproduced verbatim as a flat composited motion-graphic in white 3D-style sans-serif reading '금리가' (upper) and '하니까' (lower) with the word '우월' set inside a solid blue highlight box between them, so the full line reads '금리가 우월하니까'; preserve this caption exactly. Keep a thin white rate-disclosure caption along the bottom verbatim: '최고 연 3.1% (한도 2백만 원, 기본 연 0.1%, 세전)'. Color palette and strategy: cool-dominant, vivid turquoise car #4fb9b6 and bright blue midtone #2f9fe0 against a deep navy blazer anchor #1f3550, with the coral shirt #d8744a as the single warm complementary accent (~15 percent); saturation-driven high contrast, the coral popping against teal. Texture and surfaces: natural skin and grooming, glossy automotive metal and chrome, matte navy wool, sheeny coral satin. Atmosphere: editorial, retro-premium, with a subtle wiggle-3D parallax (a faint left-right viewpoint oscillation so the car body, chrome reflections and the man shift on slightly different planes — lenticular Nishika depth). Post and signature look: clean saturated digital render, brand-blue/teal grade, the signature subtle lenticular wiggle giving the static pose dimensionality. Style anchor and nationality: contemporary Korean bank brand-film featuring a male model beat, AI-generated polished commercial, wide 16:9. Additional reconstruction detail: this short cut completes the spoken benefit 'because the interest rate is superior', so the mood is cool confidence rather than warmth; keep the coral shirt as the lone warm accent so it reads against the turquoise instantly, render the caption (with the blue '우월' box) and the bottom rate strip as post-composited graphics preserved exactly, and treat the wiggle-3D as the connective signature linking this male-model car cut to the surrounding studio shots; the high angle and the gleaming vintage car should feel like a stylish fashion-film inset dropped into the bank spot, premium and a little playful.",
+        "t2i_negative": "real celebrity likeness, real car brand badge, brand logo mark, watermark, harsh shadows, washed-out teal, desaturated, garbled korean caption, deformed hands, extra fingers, vertical crop",
+        "i2v_motion": "Hold the high-angle bust on the man against the teal classic car nearly static, breathing-level micro-motion only; apply the signature wiggle-3D parallax so the car body, chrome and figure oscillate subtly left-right (lenticular depth); the '우월' blue box pops in to complete '금리가 우월하니까' on the right third while the bottom rate caption holds; no camera travel; ~1.2s; hard cut out.",
+        "i2v_params": {
+          "clip_duration_sec": 1.2,
+          "camera_move": "locked_high_angle_with_wiggle3d",
+          "subject_motion_level": "micro",
+          "signature_effect": "wiggle_3d_parallax_plus_typo_box_pop",
+          "pacing": "static_fast_cut",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; male model abstracted to generic type; car brand-mark-free; caption + rate strip verbatim; brand logo absent; wiggle-3D + teal/brand-blue preserved"
+      }
+    },
+    {
+      "index": 4,
+      "duration": 2.53,
+      "start_frame": 143,
+      "end_frame": 218,
+      "mid_frame_path": "ADV-2026-001_frames/cut04_mid.png",
+      "framing": "MS",
+      "function": "후렴 + 수치 강조(3D 풍선타이포) — 와우컷",
+      "color_mood": "bright_blue",
+      "subject_identity": "protagonist_woman",
+      "subject_relationship_to_protagonist": "main_character",
+      "subject_action": "여성이 회색 베스트+블루 칼라 셔츠 차림으로 화이트+블루 배경 앞에서 손으로 작은 소품을 입가에 들고 응시한다. 곧 '3.1%' 3D 풍선 숫자가 전경에서 부풀어 오르며 보라→블루로 색이 바뀌고, 양옆에 '우월'/'좋은데?' 후렴 타이포가 등장한다.",
+      "copy_overlay": "우월 / 3.1% / 좋은데?",
+      "layout_grid": "center",
+      "subject_position": "center",
+      "subject_typo_layout": "인물 중앙, 좌:'우월'(블루 풍선박스+스파클), 우:'좋은데?'(화이트), 전경에 3D 풍선 '3.1%'가 인물을 가림",
+      "typo_motion": "좌우 후렴 텍스트 pop, 중앙 3D 풍선 숫자가 부풀어 오르며(inflate) 보라→블루 색전환, 상단에 곡선 금리 캡션",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "waist_up",
+      "gaze": "to_camera",
+      "eye_contact_effect": "정면 응시 + 장난스러운 소품 포즈로 친근·공감",
+      "subject_motion": "정지포즈에서 미세 제스처(소품 들기)",
+      "prop_motion": "작은 소품(막대사탕/파티 호루라기류)을 입가로",
+      "camera_motion": "정지",
+      "camera_motion_intensity": "subtle",
+      "camera_effect_local": "wiggle_3d(약) + 3D 풍선 그래픽 모션",
+      "intra_cut_rhythm": "steady",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [
+        "3d_render",
+        "color_pop",
+        "wiggle_3d"
+      ],
+      "vfx_intensity_local": "heavy",
+      "fact_check_flag": true,
+      "notes": "★와우컷. 첫 '우월~ 좋은데?' 후렴 + 금리 3.1%를 3D 풍선타이포로 시각화(부풀어 오르며 보라→블루). fact_check: 풍선 숫자 '3.1%'=하단/상단 금리 캡션과 일치. 인물보다 수치가 주역.",
+      "color_palette": [
+        "#39a9ec",
+        "#5b53c4",
+        "#e9e6ef",
+        "#7e7aa0"
+      ],
+      "props": [
+        "3D 풍선 타이포(3.1%)",
+        "작은 소품(막대사탕/파티 호루라기)",
+        "회색 베스트"
+      ],
+      "prop_semantics": "풍선 숫자=금리 3.1%를 장난스럽게 시각화(부풀어 오르는=혜택이 커짐). 입가의 소품=귀엽고 캐주얼한 공감 무드.",
+      "color_intent": "보라→블루 풍선이 브랜드 블루 배경에서 도드라짐, 양옆 '우월'/'좋은데?' 텍스트로 후렴 리듬",
+      "pose_description": "정적 포즈로 풍선 타이포 뒤에 위치, 소품을 입가에 — 인물보다 수치가 주역",
+      "visible_elements": {
+        "foreground": [
+          "3D 풍선 타이포 '3.1%'",
+          "여성 인물(회색 베스트)",
+          "입가의 작은 소품"
+        ],
+        "midground": [
+          "'우월' 블루 풍선박스 + '좋은데?' 화이트 타이포",
+          "상단 곡선 금리 캡션"
+        ],
+        "background": [
+          "화이트+브랜드 블루 그래픽 배경(원형/클로버 곡선)"
+        ],
+        "lighting_env": [
+          "소프트 스튜디오 키 라이트(하이키)"
+        ],
+        "atmosphere": [
+          "위글3D 미세 시점 떨림 패럴럭스"
+        ]
+      },
+      "texture": {
+        "primary_subject": "skin_makeup",
+        "secondary_objects": [
+          "balloon_glossy_3d",
+          "fabric_wool",
+          "plastic_glossy"
+        ],
+        "background_surface": "matte",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "front",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "strong",
+        "key_to_fill_ratio": "1:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "minimal",
+        "overall_contrast": "hi_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#39a9ec",
+          "#5b53c4",
+          "#e9e6ef",
+          "#7e7aa0"
+        ],
+        "palette_role": {
+          "#5b53c4": "accent_balloon_purple",
+          "#e9e6ef": "background_or_highlight",
+          "#39a9ec": "cool_midtone",
+          "#7e7aa0": "neutral_midtone"
+        },
+        "color_relationship": "brand_dominant",
+        "temperature_balance": "cool_dominant",
+        "saturation_strategy": "vivid",
+        "contrast_type": "luminance_high",
+        "accent_color": "#5b53c4",
+        "accent_ratio": "25_percent",
+        "brand_color_match": [
+          "우리은행 브랜드 블루 (#0067AC 계열, 근사 매칭)"
+        ]
+      },
+      "panel_layout": null,
+      "recreation_prompts": {
+        "t2i_start_frame": "A playful high-key studio commercial frame in 16:9 landscape of a Korean woman in her early-to-mid twenties with polished idol-style hair and makeup (long dark hair half-tied with a small cream bow, soft glam, a charming confident expression — a generic polished-idol type, NOT any real person), standing centered against a graphic white-and-brand-blue background with a large rounded blue shape (a clover-like curve) behind her; she holds a small candy-striped party prop near her lips in a cute, casual gesture, eyes to camera. Dominating the foreground is a big glossy 3D inflatable balloon-style numeral reading '3.1%', rendered like shiny twisted balloon-art letters mid-inflation, its color shifting from purple toward bright brand-blue, partially covering her face and torso so the NUMBER, not the person, is the hero. Wardrobe: a soft grey wool vest over a light-blue collared shirt. Flanking captions, reproduced verbatim as flat composited motion-graphics: on the left the word '우월' set inside a bold blue highlight balloon-box with small yellow sparkle stars, on the right '좋은데?' in clean white sans-serif — together the refrain '우월~ 좋은데?'; and curving across the upper-left a small purple legal caption verbatim '최고 연 3.1% (한도 2백만 원, 기본 연 0.1%, 세전)'. Lighting setup: soft even high-key studio key from the front with strong fill, key-to-fill near 1:1, minimal shadow, neutral ~5500K, glossy speculars on the balloon numeral. Lens, framing and angle: an 85mm-equivalent waist-up shot, eye-level and frontal, shallow-to-moderate depth of field, the balloon numeral crisp and reflective in front. Composition and grid: centered subject with the refrain text split left/right and the 3D number occupying the central foreground. Color palette and strategy: brand-blue-dominant, with the balloon shifting purple #5b53c4 to blue #39a9ec (accent ~25 percent), a pale highlight #e9e6ef and neutral midtone #7e7aa0; vivid, high luminance contrast, the colour-shifting balloon as the visual event. Texture and surfaces: natural skin and makeup, glossy reflective 3D balloon rubber, soft wool vest, glossy candy prop, matte background. Atmosphere: upbeat, kitschy-cute, retro-tech, with a subtle wiggle-3D parallax (a faint left-right viewpoint oscillation between the woman, the balloon and the background — lenticular Nishika depth). Post and signature look: clean hi-key digital render with a colour-pop on the inflating balloon, brand-blue grade, the signature subtle lenticular wiggle. Style anchor and nationality: contemporary Korean bank brand-film hero beat, AI-generated polished commercial, wide 16:9. Additional reconstruction detail: this is a wow moment built on the refrain '우월~ 좋은데?' and the playful visualization of the 3.1% rate, so stage it so the giant glossy balloon '3.1%' is clearly the protagonist of the frame, inflating and colour-shifting purple→blue while the woman peeks behind it; render every caption ('우월' in its sparkly blue balloon-box at left, '좋은데?' white at right, the curved rate-disclosure at upper-left) as post-composited graphics preserved exactly; keep the lighting shadowless and bright so the balloon's reflections read as candy-glossy, and let the whole image feel like a joyful pop-collage celebrating the headline interest number. Make the balloon-art numerals read unmistakably as twisted inflatable balloon letters — rounded, segmented, glossy with bright window-shaped speculars and soft pinch points where the balloon is tied — so '3.1%' looks tactile and squeezable rather than a flat font; let the purple-to-blue gradient travel across the numerals as they swell. Keep her small candy-striped prop and half-tied cream bow as charming youthful cues, her one visible eye peeking past the balloon to hold a flicker of human connection, and stage the left '우월' balloon-box with its yellow sparkle stars and the right white '좋은데?' so the refrain frames the number symmetrically; the curved purple rate caption at upper-left should hug the top edge in a gentle arc, present but light. The background clover-curve in brand blue and white should stay clean and graphic so nothing competes with the inflating numeral, the overall read being playful, confident and a touch kitsch — the rate itself turned into a party balloon.",
+        "t2i_negative": "real celebrity likeness, brand logo mark, watermark, harsh shadows, low-key, dull matte numerals, desaturated, garbled korean text, wrong percentage, deformed hands, extra fingers, vertical crop",
+        "i2v_motion": "Hold the woman nearly static behind the foreground graphics with breathing-level micro-motion and a small cute lift of the candy prop; the giant glossy 3D balloon numeral '3.1%' inflates upward and shifts color from purple to bright brand-blue (the key event); the refrain captions pop on — '우월' in its sparkly blue balloon-box at left, '좋은데?' white at right — while the curved rate caption holds at upper-left; apply a subtle wiggle-3D parallax between subject, balloon and background; no camera travel; ~2.5s; hard cut out.",
+        "i2v_params": {
+          "clip_duration_sec": 2.5,
+          "camera_move": "locked_with_wiggle3d",
+          "subject_motion_level": "micro",
+          "signature_effect": "balloon_inflate_color_shift_plus_refrain_typo",
+          "pacing": "steady_wow",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; celebrity abstracted to polished-idol type; refrain + rate captions verbatim; 3.1% balloon-numeral is the hero; brand logo absent; wiggle-3D + brand-blue preserved"
+      }
+    },
+    {
+      "index": 5,
+      "duration": 1.74,
+      "start_frame": 219,
+      "end_frame": 270,
+      "mid_frame_path": "ADV-2026-001_frames/cut05_mid.png",
+      "framing": "MS",
+      "function": "필름스트립 사진 몽타주(혜택 비주얼)",
+      "color_mood": "bright_blue",
+      "subject_identity": "protagonist_woman",
+      "subject_relationship_to_protagonist": "main_character",
+      "subject_action": "여성의 캐주얼 룩 정지 사진들(확성기 든 포즈, 턱 괴고 미소, 노란 막대사탕 무는 포즈)이 네이비 필름스트립 프레임 안에 담겨 좌→우로 슬라이드하며 배열된다.",
+      "copy_overlay": null,
+      "layout_grid": "split(필름스트립 3프레임)",
+      "subject_position": "center+side",
+      "subject_typo_layout": "필름스트립 프레임 안 사진들, 타이포 없음(그래픽 합성 구간)",
+      "typo_motion": "필름스트립 프레임이 좌→우로 슬라이드 인",
+      "camera_angle": "eye_level",
+      "camera_facing": "three_quarter",
+      "shot_scope": "waist_up",
+      "gaze": "off_camera",
+      "eye_contact_effect": "사진 속 캐주얼 포즈로 친근·콘텐츠 느낌",
+      "subject_motion": "정지포즈(사진들) — 프레임만 이동",
+      "prop_motion": "none(사진 내부 정지)",
+      "camera_motion": "그래픽 슬라이드",
+      "camera_motion_intensity": "moderate",
+      "camera_effect_local": "none(2D 그래픽 합성 구간)",
+      "intra_cut_rhythm": "steady",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [
+        "ui_motion",
+        "split_screen"
+      ],
+      "vfx_intensity_local": "moderate",
+      "fact_check_flag": false,
+      "notes": "필름스트립(영화 필름) 프레임에 캐주얼 정지 사진 3컷을 배열·슬라이드. 확성기=홍보/알림, 막대사탕=달콤한 혜택. 작은 클로버/스월 마크(우리은행 로고 모티프)가 프레임 가장자리에 살짝.",
+      "color_palette": [
+        "#2540a8",
+        "#7fa6c6",
+        "#eef2f4",
+        "#e8d33a"
+      ],
+      "props": [
+        "확성기",
+        "노란 막대사탕(롤리팝)",
+        "필름스트립 프레임",
+        "블루 카디건/데님"
+      ],
+      "prop_semantics": "확성기=홍보·알림, 롤리팝=달콤함/혜택, 필름스트립=콘텐츠 모음. 캐주얼 소품으로 친근함과 다채로운 혜택을 암시.",
+      "color_intent": "라이트블루 배경에 네이비 필름스트립 프레임의 강한 대비, 노란 사탕 1점으로 포인트",
+      "pose_description": "소품을 든 캐주얼 정적 포즈 사진들을 필름스트립으로 배열(좌→우 슬라이드)",
+      "visible_elements": {
+        "foreground": [
+          "네이비 필름스트립 프레임",
+          "여성 인물 사진(확성기/미소/막대사탕)"
+        ],
+        "midground": [
+          "확성기",
+          "노란 막대사탕",
+          "작은 클로버/스월 마크"
+        ],
+        "background": [
+          "라이트블루 + 화이트 곡선 배경"
+        ],
+        "lighting_env": [
+          "소프트 스튜디오 키 라이트(하이키, 사진 내부)"
+        ],
+        "atmosphere": [
+          "그래픽 슬라이드 모션",
+          "콘텐츠/앨범 무드"
+        ]
+      },
+      "texture": {
+        "primary_subject": "skin_makeup",
+        "secondary_objects": [
+          "fabric_cotton",
+          "plastic_glossy",
+          "paper_print"
+        ],
+        "background_surface": "matte",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "front",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "strong",
+        "key_to_fill_ratio": "1:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "minimal",
+        "overall_contrast": "hi_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#2540a8",
+          "#7fa6c6",
+          "#eef2f4",
+          "#e8d33a"
+        ],
+        "palette_role": {
+          "#2540a8": "frame_dark_anchor",
+          "#eef2f4": "background_or_highlight",
+          "#7fa6c6": "cool_midtone",
+          "#e8d33a": "warm_accent"
+        },
+        "color_relationship": "complementary",
+        "temperature_balance": "cool_dominant",
+        "saturation_strategy": "vivid",
+        "contrast_type": "luminance_high",
+        "accent_color": "#e8d33a",
+        "accent_ratio": "10_percent",
+        "brand_color_match": [
+          "우리은행 브랜드 블루 (#0067AC 계열, 근사 매칭)"
+        ]
+      },
+      "panel_layout": {
+        "type": "filmstrip",
+        "orientation": "horizontal_slide",
+        "panel_count": 3,
+        "panels": [
+          {
+            "position": "left ~0-30% width, slides in from left",
+            "content": "여성이 확성기를 든 캐주얼 전신 포즈(블루 카디건+데님)",
+            "text": null
+          },
+          {
+            "position": "center ~30-70% width, hero frame",
+            "content": "여성이 턱을 괴고 미소짓는 클로즈업(화이트 셔츠+블루 베스트)",
+            "text": null
+          },
+          {
+            "position": "right ~70-100% width, slides in from right",
+            "content": "여성이 노란 막대사탕을 무는 포즈(화이트 셔츠)",
+            "text": null
+          }
+        ],
+        "divider_style": "navy-blue perforated film-strip borders with sprocket holes",
+        "note": "각 패널은 영화 필름 한 칸처럼 천공(sprocket) 테두리를 가진 네이비 프레임, 좌→우로 슬라이드 인. 작은 클로버/스월 마크가 프레임 가장자리에 1점.",
+        "is_multi_panel": true
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A graphic film-strip montage frame in 16:9 landscape on a light-blue-and-white studio background, composed of three navy-blue movie-film frames (each with perforated sprocket-hole borders like a strip of cinema film) arranged horizontally and sliding left-to-right, each holding a casual studio photo of the same Korean woman in her early-to-mid twenties with polished idol-style hair and makeup (a generic polished-idol type, NOT any real person). Panel decomposition: the LEFT film frame (about the left third, sliding in from the left edge) holds a full-body casual photo of her holding a black megaphone up beside her head, wearing a blue cardigan over a white shirt and denim, smiling; the CENTER film frame (the hero, roughly the middle 40 percent) holds a clean close-up of her resting her cheek on her hand with a soft smile, in a white shirt and powder-blue vest; the RIGHT film frame (about the right third, sliding in from the right edge) holds a photo of her playfully holding a round yellow lollipop to her lips, in a white shirt. A tiny clover/swirl brand-motif mark sits subtly at the edge of one frame. There is NO caption text in this beat — it is a pure graphic/photo-collage transition. Lighting setup inside the photos: soft even high-key studio key with strong fill, key-to-fill near 1:1, minimal shadow, neutral ~5500K, bright and clean. Lens, framing and angle: the underlying photos read as 85mm-equivalent waist-up to full-body studio portraits, eye-level, three-quarter facing; the composite itself is a flat 2D motion-graphic. Composition and grid: a horizontal triptych of film frames overlapping slightly, leading the eye left-to-right. Color palette and strategy: cool-dominant, deep navy film frames #2540a8 against a pale blue-white field #eef2f4 and light-blue midtone #7fa6c6, with the yellow lollipop #e8d33a as the single warm accent (~10 percent); vivid, high luminance contrast. Texture and surfaces: natural skin and makeup, soft cotton knit and denim, glossy lollipop and megaphone plastic, slight printed-photo paper texture, matte background. Atmosphere: upbeat, content-album, friendly, with a gentle graphic slide motion (no lenticular wiggle here since it is a composited graphic beat). Post and signature look: clean digital composite, brand-blue grade, crisp film-strip edges. Style anchor and nationality: contemporary Korean bank brand-film montage beat, AI-generated polished commercial, wide 16:9. Additional reconstruction detail: stage this as three cinema-film frames sliding into place to suggest a reel of lifestyle moments (megaphone = announcing the benefit, lollipop = the sweetness of the perk, the cheek-smile = warmth), keeping the casual photos bright and friendly; the navy sprocket-bordered frames must read clearly as movie film against the light-blue world, the lone yellow lollipop providing the warm pop; render the tiny clover/swirl brand-motif generically rather than as a real trademark; this beat carries the spoken 'the benefits are superior too' as a quick visual flourish, so prioritize a clean, rhythmic left-to-right slide of the three framed photos with no on-screen words. Render each film frame as a deep-navy rectangle with evenly spaced rounded sprocket perforations down both long edges, the inner photo bright and high-key, the frames overlapping by a sliver so they read as a connected reel rather than three separate stickers; give them a faint drop of dimensional depth (a soft edge shadow) so the strip feels like it is sliding over the light-blue background. In the left frame her casual blue-cardigan-over-white-shirt look with the black megaphone reads as upbeat announcement; the center hero frame's cheek-rest smile reads as warmth; the right frame's yellow lollipop reads as a sweet little reward — three quick lifestyle notes of the same polished-idol-type woman. Keep the light-blue-and-white background with its soft clover-curve clean behind the strip, the only saturated warm note the yellow lollipop, and treat the entire composite as a snappy 2D motion-graphic transition between the refrain and the lifestyle cuts, friendly and content-album in feel, with crisp navy frames marching left to right and absolutely no caption text in frame.",
+        "t2i_negative": "real celebrity likeness, real brand logo, watermark, on-screen caption text, harsh shadows, desaturated, broken film perforations, deformed hands, extra fingers, vertical crop, cluttered overlap",
+        "i2v_motion": "Three navy film-strip frames slide in left-to-right and settle, each revealing a casual photo of the woman (megaphone pose, cheek-smile close-up, lollipop pose); a gentle staggered slide-in cadence, the center hero frame landing last; flat 2D graphic motion with soft overshoot, no lenticular wiggle, no caption text; ~1.7s; hard cut out.",
+        "i2v_params": {
+          "clip_duration_sec": 1.7,
+          "camera_move": "graphic_horizontal_slide",
+          "subject_motion_level": "still_photos",
+          "signature_effect": "filmstrip_slide_montage",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; celebrity abstracted to polished-idol type; no on-screen text in this beat; clover brand-motif generic; filmstrip split-panel layout preserved"
+      }
+    },
+    {
+      "index": 6,
+      "duration": 0.97,
+      "start_frame": 271,
+      "end_frame": 299,
+      "mid_frame_path": "ADV-2026-001_frames/cut06_mid.png",
+      "framing": "MS",
+      "function": "혜택 환기(일상컷 #1)",
+      "color_mood": "deep_blue",
+      "subject_identity": "lifestyle_woman_a",
+      "subject_relationship_to_protagonist": "lifestyle_cast",
+      "subject_action": "별도의 여성(붉은빛 갈색 머리, 라이트블루 니트)이 딥블루 톤 공간의 테이블에 앉아 턱을 괴고 폰을 내려다보며 미소짓는다. 테이블엔 주황 커피잔·블루 노트·카드. 우측에 '혜택도' 타이포가 등장.",
+      "copy_overlay": "혜택도",
+      "layout_grid": "rule_of_thirds_left",
+      "subject_position": "left",
+      "subject_typo_layout": "인물 좌, '혜택도' 우측 1/3(화이트 굵은 글자)",
+      "typo_motion": "우측 화이트 글자 slide+pop 등장(모션블러로 들어옴)",
+      "camera_angle": "eye_level",
+      "camera_facing": "three_quarter",
+      "shot_scope": "waist_up",
+      "gaze": "off_camera",
+      "eye_contact_effect": "폰을 내려다보며 미소 — 편안·만족 인상",
+      "subject_motion": "미세제스처(폰 보며 미소)",
+      "prop_motion": "폰을 든 채 정지",
+      "camera_motion": "정지",
+      "camera_motion_intensity": "subtle",
+      "camera_effect_local": "wiggle_3d(약)",
+      "intra_cut_rhythm": "static",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [
+        "ui_motion",
+        "wiggle_3d"
+      ],
+      "vfx_intensity_local": "moderate",
+      "fact_check_flag": false,
+      "notes": "셀럽이 아닌 별도 인물 라이프스타일 컷 #1. 딥블루 톤다운 공간(정보 전달). 하단 캡션 '수수료 면제 혜택 제공' 시작. '혜택도'는 다음 컷에서 '우월하니까'로 이어짐.",
+      "color_palette": [
+        "#1f73b8",
+        "#2f97cf",
+        "#9fc7dc",
+        "#e0a36a"
+      ],
+      "props": [
+        "스마트폰",
+        "주황 커피잔",
+        "블루 노트",
+        "카드"
+      ],
+      "prop_semantics": "폰=모바일뱅킹 혜택 확인, 주황 커피잔=딥블루 공간의 보색 온기, 노트·카드=상품/일상 연결",
+      "color_intent": "딥블루로 톤다운한 일상 공간에 주황 커피잔 1점 보색, 우측 '혜택도' 화이트 타이포로 정보 전달감",
+      "pose_description": "테이블에 팔을 얹고 턱을 괸 채 폰을 내려다보며 미소 — 편안·신뢰(별도 인물)",
+      "visible_elements": {
+        "foreground": [
+          "여성 인물(라이트블루 니트)",
+          "스마트폰",
+          "주황 커피잔"
+        ],
+        "midground": [
+          "블루 노트",
+          "카드",
+          "'혜택도' 화이트 타이포"
+        ],
+        "background": [
+          "딥블루 벽·선반(톤다운)"
+        ],
+        "lighting_env": [
+          "소프트 키 라이트(딥블루 환경광)"
+        ],
+        "atmosphere": [
+          "위글3D 미세 시점 떨림 패럴럭스",
+          "차분한 정보 톤"
+        ]
+      },
+      "texture": {
+        "primary_subject": "skin_makeup",
+        "secondary_objects": [
+          "fabric_knit",
+          "ceramic_matte",
+          "paper_print"
+        ],
+        "background_surface": "matte",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "front_left",
+        "key_hardness": "soft",
+        "key_color_temp": "cool_6500K",
+        "fill_strength": "moderate",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "soft",
+        "overall_contrast": "mid_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#1f73b8",
+          "#2f97cf",
+          "#9fc7dc",
+          "#e0a36a"
+        ],
+        "palette_role": {
+          "#1f73b8": "subject_dark_anchor",
+          "#9fc7dc": "background_or_highlight",
+          "#2f97cf": "cool_midtone",
+          "#e0a36a": "warm_accent"
+        },
+        "color_relationship": "complementary",
+        "temperature_balance": "cool_dominant",
+        "saturation_strategy": "muted",
+        "contrast_type": "luminance_low",
+        "accent_color": "#e0a36a",
+        "accent_ratio": "10_percent",
+        "brand_color_match": [
+          "우리은행 브랜드 블루 (#0067AC 계열, 근사 매칭)"
+        ]
+      },
+      "panel_layout": null,
+      "recreation_prompts": {
+        "t2i_start_frame": "A calm, deep-blue-toned lifestyle commercial frame in 16:9 landscape of a different Korean woman in her mid-twenties (a separate lifestyle cast member, NOT the main idol type and NOT any real person — reddish-brown hair loosely tied up, natural makeup, a gentle satisfied smile) seated at a table in a moody blue interior, resting her chin on one hand and looking down at a light-blue smartphone she holds, clearly enjoying something on screen. Wardrobe: a soft powder-blue knit sweater. Foreground props on the table: an orange ceramic coffee cup on a saucer at left, a blue notebook and a small card/coupon at right. Location and background: a stylized home/cafe corner washed in saturated deep blue light, a shelf with a couple of blurred objects upper-left, the whole space tonally blue and intimate (a deliberate tone-down from the bright studio cuts, signaling an informational benefit beat). Lighting setup: soft front-left key around 6500K with moderate fill (key-to-fill near 2:1), gentle shadows, an overall cool mid-key, the blue ambience strong. Lens, framing and angle: a 50mm-equivalent waist-up shot, eye-level, three-quarter facing, shallow depth of field keeping her and the table sharp. Composition and grid: she sits on the left third looking down-right at her phone, with a caption on the right third — reproduced verbatim as a flat composited motion-graphic in bold white sans-serif reading '혜택도'; and a thin white legal caption along the bottom verbatim '수수료 면제 혜택 제공'. Color palette and strategy: cool-dominant deep blue, subject/shadow anchor #1f73b8, light-blue highlight #9fc7dc and blue midtone #2f97cf, with the orange coffee cup #e0a36a as the single warm complementary accent (~10 percent); muted, low luminance contrast, intimate. Texture and surfaces: natural skin and makeup, soft knit sweater, matte ceramic cup, printed card and notebook, matte walls. Atmosphere: cozy, content, quietly satisfied, with a subtle wiggle-3D parallax (a faint left-right viewpoint oscillation between the woman, the cup and the background — lenticular Nishika depth). Post and signature look: cool deep-blue digital grade, the signature subtle lenticular wiggle, clean. Style anchor and nationality: contemporary Korean bank brand-film lifestyle beat, AI-generated polished commercial, wide 16:9. Additional reconstruction detail: this everyday cut uses a separate woman (not the celebrity type) to broaden relatability and carry the spoken 'the benefits are superior too', so keep the mood calm and trusting rather than glossy-pop; bathe the room in saturated blue and let the orange coffee cup be the only warm note so the eye rests on her contented downward smile at the phone; render the '혜택도' caption on the right third and the bottom fee-waiver caption as post-composited graphics preserved exactly; this is a short, soft, informational beat that sets up the next cut completing '혜택도 우월하니까', so the lighting is gentle, the contrast low, and the overall feeling is of someone quietly pleased while checking a banking perk on their phone. Let the deep-blue ambience wrap the whole frame — blue on the walls, the recessed shelf, the tabletop and even the cool side of her face — so the single orange coffee cup at the lower-left reads as a small pocket of warmth and humanity; keep her reddish-brown up-do slightly loose with a few stray strands for naturalism, her smile soft and inward rather than performed to camera. The light-blue knit should show a gentle woolly texture catching the cool key, the blue notebook and small card on the table reading as everyday objects tied to the product. Position the white '혜택도' caption cleanly in the right-third upper area where the blue wall is emptiest, and hold the bottom fee-waiver line thin and unobtrusive; the entire cut should feel like a calm, trustworthy slice of real life — a person comfortable at home or in a cafe, quietly satisfied by a no-fee banking benefit — deliberately tonally distinct from the bright glossy idol cuts so the informational benefit lands with sincerity.",
+        "t2i_negative": "real celebrity likeness, brand logo mark, watermark, harsh shadows, bright high-key (this beat is deliberately deep-blue), oversaturated orange, garbled korean caption, deformed hands, extra fingers, vertical crop",
+        "i2v_motion": "Hold the cozy deep-blue beat nearly static, a soft satisfied smile and tiny head settle as she looks at her phone; apply a subtle wiggle-3D parallax between woman, coffee cup and background; the white word '혜택도' slides/pops onto the right third (entering with light motion blur) while the bottom fee-waiver caption holds; no camera travel; ~1s; hard cut out.",
+        "i2v_params": {
+          "clip_duration_sec": 1.0,
+          "camera_move": "locked_with_wiggle3d",
+          "subject_motion_level": "micro",
+          "signature_effect": "wiggle_3d_parallax_plus_typo_slide",
+          "pacing": "static_soft",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; separate lifestyle woman abstracted (no real-person likeness); '혜택도' + fee-waiver captions verbatim; brand logo absent; wiggle-3D + deep-blue/brand-blue preserved"
+      }
+    },
+    {
+      "index": 7,
+      "duration": 1.2,
+      "start_frame": 300,
+      "end_frame": 335,
+      "mid_frame_path": "ADV-2026-001_frames/cut07_mid.png",
+      "framing": "MS",
+      "function": "혜택 환기(일상컷 #2) — 정리·정돈",
+      "color_mood": "bright_blue_clean",
+      "subject_identity": "lifestyle_woman_b",
+      "subject_relationship_to_protagonist": "lifestyle_cast",
+      "subject_action": "또 다른 여성(긴 웨이브 머리, 블루 리브드 티셔츠)이 밝은 바닥에 앉아, 청소·생활용품이 담긴 파란 정리 박스들 사이에서 어깨너머로 카메라를 보며 미소짓고 폰을 든다. 바닥엔 'CLEANING' 티켓.",
+      "copy_overlay": "혜택도 / 우월 / 하니까",
+      "layout_grid": "rule_of_thirds_left",
+      "subject_position": "left",
+      "subject_typo_layout": "인물 좌, 우측 1/3 '혜택도'(화이트)/'하니까'(화이트), 그 사이 '우월'(블루 박스)",
+      "typo_motion": "우측 '혜택도/하니까' 등장 + '우월' 블루 박스 pop으로 '혜택도 우월하니까' 완성",
+      "camera_angle": "high_angle",
+      "camera_facing": "three_quarter",
+      "shot_scope": "waist_up",
+      "gaze": "to_camera",
+      "eye_contact_effect": "어깨너머 응시로 친근·자족감",
+      "subject_motion": "미세제스처(폰 들고 어깨너머 응시)",
+      "prop_motion": "폰을 든 채 정지",
+      "camera_motion": "정지",
+      "camera_motion_intensity": "subtle",
+      "camera_effect_local": "wiggle_3d(중 — f300 vs f324에서 박스·인물 가장자리 좌우 어긋남)",
+      "intra_cut_rhythm": "static",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [
+        "wiggle_3d",
+        "ui_motion",
+        "color_pop"
+      ],
+      "vfx_intensity_local": "moderate",
+      "fact_check_flag": false,
+      "notes": "별도 인물 라이프스타일 컷 #2(정리·정돈으로 혜택이 삶을 정돈함). 파란 정리 박스+청소용품, 바닥 'CLEANING' 티켓. 하단 '수수료 면제 혜택 제공' 유지. 위글3D 가장 잘 보이는 구간 중 하나.",
+      "color_palette": [
+        "#2f74c4",
+        "#86a8d6",
+        "#eef1f2",
+        "#e6a256"
+      ],
+      "props": [
+        "파란 정리 박스 여러 개",
+        "스프레이·브러시·유리병(청소·생활용품)",
+        "스마트폰",
+        "CLEANING 티켓",
+        "주황 노트"
+      ],
+      "prop_semantics": "정리 박스·청소용품=일상 정돈/관리(혜택으로 삶이 정돈됨), 폰·티켓=상품/혜택 연결. 주황 노트=블루 톤의 보색 1점.",
+      "color_intent": "밝은 화이트 바닥+블루 정리 박스의 클린한 통일감에 주황 노트 1점 보색, 우측 '혜택도 우월하니까' 타이포",
+      "pose_description": "바닥에 앉아 어깨너머로 카메라를 보며 폰을 든 친근한 정적 포즈(별도 인물)",
+      "visible_elements": {
+        "foreground": [
+          "여성 인물(블루 리브드 티)",
+          "파란 정리 박스",
+          "스마트폰",
+          "CLEANING 티켓"
+        ],
+        "midground": [
+          "청소·생활용품(스프레이·브러시·유리병)",
+          "주황 노트",
+          "'혜택도/우월/하니까' 타이포"
+        ],
+        "background": [
+          "밝은 베이지/화이트 바닥·러그"
+        ],
+        "lighting_env": [
+          "소프트 톱 라이트(밝은 하이키)"
+        ],
+        "atmosphere": [
+          "위글3D 미세 시점 떨림 패럴럭스",
+          "클린·정돈"
+        ]
+      },
+      "texture": {
+        "primary_subject": "skin_makeup",
+        "secondary_objects": [
+          "fabric_ribbed",
+          "cardboard_matte",
+          "plastic_glossy",
+          "glass_clear"
+        ],
+        "background_surface": "rug_soft",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "top_front",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "strong",
+        "key_to_fill_ratio": "1:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "soft",
+        "overall_contrast": "hi_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#2f74c4",
+          "#86a8d6",
+          "#eef1f2",
+          "#e6a256"
+        ],
+        "palette_role": {
+          "#2f74c4": "subject_anchor_blue",
+          "#eef1f2": "background_or_highlight",
+          "#86a8d6": "cool_midtone",
+          "#e6a256": "warm_accent"
+        },
+        "color_relationship": "complementary",
+        "temperature_balance": "cool_dominant",
+        "saturation_strategy": "muted",
+        "contrast_type": "luminance_high",
+        "accent_color": "#e6a256",
+        "accent_ratio": "10_percent",
+        "brand_color_match": [
+          "우리은행 브랜드 블루 (#0067AC 계열, 근사 매칭)"
+        ]
+      },
+      "panel_layout": null,
+      "recreation_prompts": {
+        "t2i_start_frame": "A clean, bright commercial frame in 16:9 landscape shot from a slight high angle of yet another Korean woman in her mid-twenties (a second separate lifestyle cast member, NOT the celebrity type and NOT any real person — long dark wavy hair, natural makeup, a warm friendly smile) sitting on a soft pale rug on a bright floor amid several blue organizer boxes filled with home-and-cleaning items; she turns to look back over her shoulder toward the camera, holding a smartphone, mid home-tidying. Foreground props: open blue organizer boxes holding white spray bottles, a wooden brush, glass jars and bottles; a small white 'CLEANING' ticket/coupon and an orange notebook on the floor. Location and background: a bright, airy home interior with a pale beige floor and textured light rug, the blue boxes and white supplies giving a tidy, organized, fresh feel. Lighting setup: soft top-front high-key key around 5500K with strong fill (key-to-fill near 1:1), gentle soft shadows, bright and clean. Lens, framing and angle: a 50mm-equivalent waist-up shot from a slight overhead angle, three-quarter facing as she looks back, shallow-to-moderate depth of field. Composition and grid: she sits on the left third looking back-right, with captions on the right third — reproduced verbatim as flat composited motion-graphics in bold white sans-serif reading '혜택도' (upper) and '하니까' (lower) with the word '우월' set inside a solid blue highlight box between them, forming '혜택도 우월하니까'; and a thin white legal caption along the bottom verbatim '수수료 면제 혜택 제공'. Color palette and strategy: cool-dominant, blue boxes/subject anchor #2f74c4, light-blue midtone #86a8d6 and pale highlight #eef1f2, with the orange notebook #e6a256 as the single warm complementary accent (~10 percent); muted, high luminance contrast, clean. Texture and surfaces: natural skin and makeup, ribbed cotton tee, matte cardboard boxes, glossy plastic bottles, clear glass jars, soft rug. Atmosphere: tidy, satisfied, homey, with a clearly visible wiggle-3D parallax (a left-right viewpoint oscillation so the blue boxes and the woman shift on slightly different planes — this beat shows the lenticular Nishika depth strongly). Post and signature look: bright clean digital render, brand-blue grade, the signature lenticular wiggle. Style anchor and nationality: contemporary Korean bank brand-film lifestyle beat, AI-generated polished commercial, wide 16:9. Additional reconstruction detail: this second everyday cut again uses a separate woman to widen relatability and carry 'the benefits are superior too', framing the perk as a tidy, organized life; surround her with blue organizer boxes of cleaning supplies and let the small orange notebook be the only warm note against the blue-and-white cleanliness; render the captions ('혜택도', the blue '우월' box, '하니까' on the right third, plus the bottom fee-waiver strip) as post-composited graphics preserved exactly, and emphasize the wiggle-3D so the boxes visibly oscillate against her over-the-shoulder smile; keep the floor bright and the whole frame feeling fresh, capable and pleasant, the visual of someone whose life is in order thanks to a no-fee benefit. Compose the slight overhead angle so we look down past her shoulder onto the arrangement of open blue boxes, each neatly holding spray bottles, a wooden-handled brush and clear glass jars, the soft pale rug giving a cozy domestic floor; let her long dark waves fall naturally as she twists back toward the lens with an easy, genuine smile. The blue boxes should read in a couple of tonal blues to add depth, the white supplies crisp, and the small orange notebook tucked at the left the single warm accent against all that blue-and-white order. Place the right-third caption stack ('혜택도' above, '하니까' below, the blue '우월' box between) where the bright floor is emptiest so it stays legible, and keep the bottom fee-waiver line thin; emphasize the lenticular wiggle so the boxes and the woman visibly separate in depth and shimmy left-right, reinforcing the spot's signature even in a calm lifestyle beat, the overall impression being capable, tidy and quietly proud.",
+        "t2i_negative": "real celebrity likeness, brand logo mark, watermark, real cleaning-product branding, harsh shadows, dim lighting, desaturated, garbled korean caption, deformed hands, extra fingers, vertical crop",
+        "i2v_motion": "Hold the bright tidy beat nearly static, a warm over-the-shoulder smile and tiny settle; apply a clearly visible wiggle-3D parallax so the blue organizer boxes oscillate left-right against the woman (lenticular depth); the right-third captions build — '혜택도' and '하니까' arrive and the blue '우월' box pops in to complete '혜택도 우월하니까' — while the bottom fee-waiver caption holds; no camera travel; ~1.2s; hard cut out.",
+        "i2v_params": {
+          "clip_duration_sec": 1.2,
+          "camera_move": "locked_high_angle_with_wiggle3d",
+          "subject_motion_level": "micro",
+          "signature_effect": "wiggle_3d_parallax_plus_refrain_typo",
+          "pacing": "static_soft",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; second lifestyle woman abstracted (no real-person likeness); '혜택도 우월하니까' + fee-waiver captions verbatim; product/brand marks generic; wiggle-3D + brand-blue preserved"
+      }
+    },
+    {
+      "index": 8,
+      "duration": 2.01,
+      "start_frame": 336,
+      "end_frame": 395,
+      "mid_frame_path": "ADV-2026-001_frames/cut08_mid.png",
+      "framing": "MS",
+      "function": "후렴 반복 — '우월~ 좋은데?' #2",
+      "color_mood": "bright_blue",
+      "subject_identity": "protagonist_woman",
+      "subject_relationship_to_protagonist": "main_character",
+      "subject_action": "회색 베스트+블루 칼라 셔츠의 여성이 화이트+블루 배경 앞에서 두 손을 가슴께로 모아 손가락을 살짝 펴는 귀여운 제스처를 하며 미소짓는다. 좌:'우월', 우:'좋은데?' 후렴 타이포가 다시 등장한다.",
+      "copy_overlay": "우월 / 좋은데?",
+      "layout_grid": "center",
+      "subject_position": "center",
+      "subject_typo_layout": "인물 중앙, 좌:'우월'(블루 풍선박스+스파클), 우:'좋은데?'(화이트)",
+      "typo_motion": "좌우 후렴 텍스트가 pop/blur-in으로 다시 등장",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "waist_up",
+      "gaze": "to_camera",
+      "eye_contact_effect": "정면 응시 + 손 제스처로 친근·공감",
+      "subject_motion": "미세제스처(두 손을 가슴께로 모음)",
+      "prop_motion": "none",
+      "camera_motion": "정지",
+      "camera_motion_intensity": "subtle",
+      "camera_effect_local": "wiggle_3d(약)",
+      "intra_cut_rhythm": "steady",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [
+        "wiggle_3d",
+        "color_pop"
+      ],
+      "vfx_intensity_local": "moderate",
+      "fact_check_flag": false,
+      "notes": "두 번째 '우월~ 좋은데?' 후렴 컷(cut4와 동일 인물·세트, 풍선 숫자는 없음). 손을 모으는 귀여운 제스처. 후렴 반복으로 각인 강화.",
+      "color_palette": [
+        "#39a6ea",
+        "#2a3f86",
+        "#e9e6ef",
+        "#8c8398"
+      ],
+      "props": [
+        "회색 베스트",
+        "블루 칼라 셔츠"
+      ],
+      "prop_semantics": "소품 없는 순수 표정·제스처 컷 — 후렴의 리듬과 공감에 집중",
+      "color_intent": "브랜드 블루 배경 + 좌'우월' 블루 박스/우'좋은데?' 화이트의 후렴 대칭 배치",
+      "pose_description": "두 손을 가슴께로 모으고 손가락을 살짝 펴 미소짓는 귀여운 정적 포즈",
+      "visible_elements": {
+        "foreground": [
+          "여성 인물(회색 베스트)"
+        ],
+        "midground": [
+          "'우월' 블루 풍선박스 + '좋은데?' 화이트 타이포"
+        ],
+        "background": [
+          "화이트+브랜드 블루 그래픽 배경(원형/클로버 곡선)"
+        ],
+        "lighting_env": [
+          "소프트 스튜디오 키 라이트(하이키)"
+        ],
+        "atmosphere": [
+          "위글3D 미세 시점 떨림 패럴럭스"
+        ]
+      },
+      "texture": {
+        "primary_subject": "skin_makeup",
+        "secondary_objects": [
+          "fabric_wool",
+          "fabric_satin"
+        ],
+        "background_surface": "matte",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "front",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "strong",
+        "key_to_fill_ratio": "1:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "minimal",
+        "overall_contrast": "hi_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#39a6ea",
+          "#2a3f86",
+          "#e9e6ef",
+          "#8c8398"
+        ],
+        "palette_role": {
+          "#2a3f86": "typo_box_blue",
+          "#e9e6ef": "background_or_highlight",
+          "#39a6ea": "cool_midtone",
+          "#8c8398": "neutral_midtone"
+        },
+        "color_relationship": "brand_dominant",
+        "temperature_balance": "cool_dominant",
+        "saturation_strategy": "muted",
+        "contrast_type": "luminance_high",
+        "accent_color": "#39a6ea",
+        "accent_ratio": "15_percent",
+        "brand_color_match": [
+          "우리은행 브랜드 블루 (#0067AC 계열, 근사 매칭)"
+        ]
+      },
+      "panel_layout": null,
+      "recreation_prompts": {
+        "t2i_start_frame": "A bright, playful high-key studio commercial frame in 16:9 landscape of a Korean woman in her early-to-mid twenties with polished idol-style hair and makeup (long dark hair half-tied with a small cream bow, soft glam, a sweet confident smile — a generic polished-idol type, NOT any real person), standing centered against the same graphic white-and-brand-blue background with a large rounded blue clover-like curve behind her; she brings both hands up to her chest and lightly spreads her fingers in a cute, endearing gesture, looking right into the lens. Wardrobe: a soft grey wool vest over a light-blue collared shirt. Flanking captions, reproduced verbatim as flat composited motion-graphics: on the left the word '우월' set inside a bold blue highlight balloon-box with small yellow sparkle stars, on the right '좋은데?' in clean white sans-serif — together the refrain '우월~ 좋은데?' returning for its second occurrence. No 3D balloon numeral this time — the frame is the woman and the refrain text. Lighting setup: soft even high-key studio key from the front with strong fill, key-to-fill near 1:1, minimal shadow, neutral ~5500K, flattering and bright. Lens, framing and angle: an 85mm-equivalent waist-up shot, eye-level and frontal, shallow-to-moderate depth of field, the woman crisp against the smooth graphic background. Composition and grid: centered subject with the refrain split left/right, generous bright negative space. Color palette and strategy: brand-blue-dominant, blue caption box #2a3f86 and bright blue midtone #39a6ea against a pale highlight #e9e6ef and neutral midtone #8c8398; muted, high luminance contrast. Texture and surfaces: natural skin and makeup, soft wool vest, sheeny shirt satin, matte background. Atmosphere: upbeat, kitschy-cute, friendly, with a subtle wiggle-3D parallax (a faint left-right viewpoint oscillation between the woman and the graphic background — lenticular Nishika depth). Post and signature look: clean hi-key digital render, brand-blue grade, the signature subtle lenticular wiggle. Style anchor and nationality: contemporary Korean bank brand-film refrain beat, AI-generated polished commercial, wide 16:9. Additional reconstruction detail: this beat repeats the catchy refrain '우월~ 좋은데?' to drive memorability, so the staging mirrors the earlier refrain cut but with a fresh cute gesture (hands gathered at the chest, fingers lightly fanned) and no balloon numeral; render the captions ('우월' in its sparkly blue balloon-box at left, '좋은데?' white at right) as post-composited graphics preserved exactly; keep the lighting shadowless and bright and the background an even brand-blue-and-white graphic sweep with the clover-like curve, so the woman's warm, slightly playful expression carries the hook; this is a rhythmic call-back that resets the refrain before the fast split-screen montage that follows. Keep the staging almost identical to the first refrain so the audience registers the repetition as a deliberate hook — same grey wool vest over light-blue collar, same cream bow half-tying the dark hair, same bright clover-curve brand-blue-and-white background — but freshen the performance with a gentle, endearing gesture: both hands gathered near the collarbone, fingertips lightly fanned as if presenting a small delight, chin a touch down, eyes warm to camera. Render the skin with soft natural glam and a faint dewy sheen under the even high-key key, the wool vest matte and the collar satin-sheeny, and let the background stay an uncluttered graphic sweep so the eye rests on her face and the two refrain captions. Place '우월' at the left inside its bold blue balloon-box with little yellow sparkle stars and '좋은데?' at the right in clean white, balanced across her so the catchphrase reads instantly; keep generous bright negative space top and sides. Apply the signature wiggle-3D as a faint left-right viewpoint oscillation that gives the otherwise static portrait a breath of lenticular dimensionality. The whole beat should feel light, charming and a little kitsch — a deliberate second hit of the same earworm refrain — bright, shadowless and friendly, a quick reset of the spot's signature phrase before the kinetic product-grid montage takes over.",
+        "t2i_negative": "real celebrity likeness, brand logo mark, watermark, harsh shadows, low-key, desaturated, garbled korean text, deformed hands, extra fingers, vertical crop",
+        "i2v_motion": "Hold the woman nearly static with a cute lift of both hands to the chest and a warm smile; apply a subtle wiggle-3D parallax between subject and graphic background; the refrain captions re-enter — '우월' in its sparkly blue balloon-box at left, '좋은데?' white at right (a quick pop/blur-in); no camera travel; ~2s; hard cut out.",
+        "i2v_params": {
+          "clip_duration_sec": 2.0,
+          "camera_move": "locked_with_wiggle3d",
+          "subject_motion_level": "micro",
+          "signature_effect": "refrain_typo_pop",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; celebrity abstracted to polished-idol type; refrain caption verbatim; brand logo absent; wiggle-3D + brand-blue preserved"
+      }
+    },
+    {
+      "index": 9,
+      "duration": 2.0,
+      "start_frame": 396,
+      "end_frame": 455,
+      "mid_frame_path": "ADV-2026-001_frames/cut09_mid.png",
+      "framing": "그리드",
+      "function": "분할화면 제품/소품 몽타주 — 와우컷",
+      "color_mood": "bright_blue",
+      "subject_identity": "mixed_grid",
+      "subject_relationship_to_protagonist": "main_character_plus_products",
+      "subject_action": "다수의 분할 셀(3x3에 가까운 그리드)이 빠르게 채워진다 — 폰을 든 손, 파티 호루라기/사탕을 문 인물, 'COFFEE' 머그를 든 손(블루 네일), 앱 화면을 든 인물, 데님 차림으로 앉은 인물, 블루 클로버 'LUCKY' 티켓을 든 손, 턱 괸 인물, 주황 고무장갑이 무선청소기를 쥔 손. 좌'우월'/우'좋은데?' 타이포가 그리드 위에 얹힌다.",
+      "copy_overlay": "우월 / 좋은데?",
+      "layout_grid": "split_grid_3x3",
+      "subject_position": "varies(그리드 셀)",
+      "subject_typo_layout": "그리드 위 좌'우월'(블루 박스), 우'좋은데?'(화이트) 포인트 타이포",
+      "typo_motion": "셀이 차례로 채워지며 좌우 후렴 텍스트가 pop",
+      "camera_angle": "mixed(eye_level+overhead, 셀별)",
+      "camera_facing": "frontal",
+      "shot_scope": "환경(그리드 셀)",
+      "gaze": "mixed(to_camera/at_product)",
+      "eye_contact_effect": "셀별 제품·표정 컷의 빠른 콜라주로 다채로운 혜택감",
+      "subject_motion": "정지포즈(셀별 사진/제품)",
+      "prop_motion": "제품 핸들링(폰·머그·티켓·청소기 들기)",
+      "camera_motion": "컷몽타주(그리드 조립)",
+      "camera_motion_intensity": "fast",
+      "camera_effect_local": "부분 wiggle(셀별, 약)",
+      "intra_cut_rhythm": "accelerating",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [
+        "split_screen",
+        "color_pop",
+        "ui_motion"
+      ],
+      "vfx_intensity_local": "heavy",
+      "fact_check_flag": true,
+      "notes": "★와우컷. 3x3에 가까운 분할화면으로 제품·소품·인물 컷을 빠르게 조립. 블루 클로버 'LUCKY' 티켓=우리은행 로고 모티프. 주황 고무장갑+무선청소기, 'COFFEE' 머그(블루 네일) 등 일상 오브젝트로 '내 일상의 혜택' 다양성 표현.",
+      "color_palette": [
+        "#2f8fd6",
+        "#1f3f86",
+        "#eef0f1",
+        "#e08a4a"
+      ],
+      "props": [
+        "스마트폰(로즈골드)",
+        "파티 호루라기/막대사탕",
+        "'COFFEE' 주황 머그(블루 네일)",
+        "앱 화면 폰",
+        "데님 룩",
+        "블루 클로버 'LUCKY' 티켓",
+        "주황 고무장갑+무선청소기"
+      ],
+      "prop_semantics": "일상 오브젝트=혜택의 생활 밀착, 블루 클로버 티켓=우리은행 로고/행운 모티프, 손이 제품을 다루는 클로즈업=‘내 일상의 혜택’. 주황(머그·고무장갑)=블루 그리드의 보색 포인트.",
+      "color_intent": "셀마다 브랜드 블루를 통일 배경으로 깔고 제품 색(주황·로즈골드)을 포인트로, 좌'우월' 블루 박스/우'좋은데?' 화이트",
+      "pose_description": "셀별 손/제품 핸들링·표정의 정적 컷 모음(혼합 앵글, 빠른 조립)",
+      "visible_elements": {
+        "foreground": [
+          "분할 그리드 셀(제품·손·인물)",
+          "스마트폰",
+          "'COFFEE' 머그",
+          "블루 클로버 티켓",
+          "무선청소기"
+        ],
+        "midground": [
+          "'우월' 블루 박스 + '좋은데?' 화이트 타이포"
+        ],
+        "background": [
+          "셀별 브랜드 블루/화이트 배경"
+        ],
+        "lighting_env": [
+          "소프트 스튜디오 키 라이트(하이키, 셀별)"
+        ],
+        "atmosphere": [
+          "빠른 컷 조립 에너지",
+          "부분 위글3D"
+        ]
+      },
+      "texture": {
+        "primary_subject": "plastic_glossy",
+        "secondary_objects": [
+          "ceramic_matte",
+          "rubber_glove",
+          "metal_appliance",
+          "paper_ticket",
+          "fabric_denim"
+        ],
+        "background_surface": "matte",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "front",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "strong",
+        "key_to_fill_ratio": "1:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "minimal",
+        "overall_contrast": "hi_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#2f8fd6",
+          "#1f3f86",
+          "#eef0f1",
+          "#e08a4a"
+        ],
+        "palette_role": {
+          "#1f3f86": "grid_anchor_blue",
+          "#eef0f1": "background_or_highlight",
+          "#2f8fd6": "cool_midtone",
+          "#e08a4a": "warm_accent"
+        },
+        "color_relationship": "complementary",
+        "temperature_balance": "cool_dominant",
+        "saturation_strategy": "vivid",
+        "contrast_type": "luminance_high",
+        "accent_color": "#e08a4a",
+        "accent_ratio": "15_percent",
+        "brand_color_match": [
+          "우리은행 브랜드 블루 (#0067AC 계열, 근사 매칭)"
+        ]
+      },
+      "panel_layout": {
+        "type": "grid_split_screen",
+        "orientation": "near_3x3",
+        "panel_count": 8,
+        "panels": [
+          {
+            "position": "top-left",
+            "content": "로즈골드 스마트폰을 든 손 클로즈업",
+            "text": null
+          },
+          {
+            "position": "top-center-left",
+            "content": "여성이 파티 호루라기/캔디스틱을 입에 문 포즈(회색 베스트·블루 칼라)",
+            "text": null
+          },
+          {
+            "position": "top-center-right",
+            "content": "주황 'COFFEE' 머그를 쥔 손(블루 네일)",
+            "text": "COFFEE"
+          },
+          {
+            "position": "top-right",
+            "content": "여성이 앱 화면을 띄운 폰을 든 전신(회색 원피스)",
+            "text": null
+          },
+          {
+            "position": "bottom-left",
+            "content": "여성이 데님+블루 카디건으로 바닥에 앉은 컷",
+            "text": null
+          },
+          {
+            "position": "bottom-center-left",
+            "content": "블루 4잎 클로버가 그려진 'LUCKY' 티켓을 쥔 손(블루 네일)",
+            "text": "LUCKY"
+          },
+          {
+            "position": "bottom-center-right",
+            "content": "여성이 턱을 괴고 응시하는 클로즈업(블루 베스트)",
+            "text": null
+          },
+          {
+            "position": "bottom-right",
+            "content": "주황 고무장갑을 낀 손이 무선 청소기를 쥔 컷",
+            "text": null
+          }
+        ],
+        "divider_style": "thin white gutters between near-equal rectangular cells; left '우월' blue box + right '좋은데?' white caption overlaid across the grid",
+        "note": "셀이 빠르게 차례로 채워지며 3x3에 가까운 그리드를 형성. 셀별 배경은 브랜드 블루/화이트 통일, 'COFFEE' 머그·'LUCKY' 클로버 티켓 등 일부 셀에 영문 캡션이 프린트로 등장.",
+        "is_multi_panel": true
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A fast, energetic split-screen grid montage frame in 16:9 landscape, a near-3x3 mosaic of small rectangular cells separated by thin white gutters, each cell on a unified brand-blue or white background, rapidly assembling lifestyle and product cutaways featuring a Korean woman in her early-to-mid twenties with polished idol-style hair and makeup (a generic polished-idol type, NOT any real person) plus everyday objects. Panel decomposition (positions approximate): TOP-LEFT a close-up of a hand holding a rose-gold smartphone; TOP-CENTER-LEFT the woman holding a candy-striped party prop to her lips (grey vest, blue collar); TOP-CENTER-RIGHT a hand with blue nail polish gripping a matte orange mug printed 'COFFEE'; TOP-RIGHT the woman in a grey dress holding up a smartphone showing a simple app screen; BOTTOM-LEFT the woman sitting cross-legged in denim and a blue cardigan and white sneakers; BOTTOM-CENTER-LEFT a hand with blue nails holding a white-and-blue ticket printed 'LUCKY' with a blue four-leaf-clover graphic (the brand's clover/luck motif); BOTTOM-CENTER-RIGHT a close-up of the woman resting her cheek on her hand in a blue vest; BOTTOM-RIGHT a hand in an orange rubber glove gripping a cordless stick vacuum. Across the whole grid, reproduced verbatim as flat composited motion-graphics, the refrain: '우월' at the left inside a bold blue highlight box and '좋은데?' at the right in white. Lighting setup: soft even high-key studio key per cell around 5500K with strong fill, key-to-fill near 1:1, minimal shadow, bright and clean throughout. Lens, framing and angle: cells mix eye-level product close-ups and slightly overhead grips; the composite is a flat 2D motion-graphic mosaic. Composition and grid: a near-3x3 matrix filling left-to-right/top-to-bottom in quick succession, the refrain text laid over it. Color palette and strategy: cool-dominant, deep navy grid anchor #1f3f86 and bright blue midtone #2f8fd6 against pale highlight #eef0f1, with orange product accents #e08a4a (the COFFEE mug, the rubber glove) ~15 percent as the warm complement; vivid, high luminance contrast. Texture and surfaces: glossy phone and plastic, matte ceramic mug, rubber glove, brushed metal vacuum, printed paper ticket, denim, natural skin. Atmosphere: kinetic, abundant, pop-collage, with only mild per-cell wiggle (the energy here is the fast assembly rather than strong lenticular parallax). Post and signature look: clean digital composite, brand-blue grade, crisp white gutters, color-pop on the orange accents. Style anchor and nationality: contemporary Korean bank brand-film wow montage, AI-generated polished commercial, wide 16:9. Additional reconstruction detail: this is the second wow beat, a rapid product/lifestyle grid that visualizes the breadth of everyday benefits, so stage the near-3x3 cells snapping into place one after another, each on unified brand blue with a single hero object or pose; the printed words 'COFFEE' and 'LUCKY' (on the clover ticket) and the refrain '우월 / 좋은데?' overlay must be preserved exactly as composited graphics; render the blue four-leaf-clover on the LUCKY ticket as the brand's generic luck/clover motif rather than a real trademark, keep the two orange objects (mug, glove) as the warm pops against the blue grid, and prioritize a punchy, rhythmic assembly that feels like a montage of 'benefits in my everyday life'.",
+        "t2i_negative": "real celebrity likeness, real product/brand logos, real trademark clover mark, watermark, harsh shadows, muddy gutters, desaturated, garbled korean or english text, deformed hands, extra fingers, vertical crop",
+        "i2v_motion": "Near-3x3 grid cells snap into place in quick staggered succession — phone-in-hand, party-prop pose, 'COFFEE' mug, app-screen pose, denim sit, blue-clover 'LUCKY' ticket, cheek-pose, rubber-glove vacuum — building to a full mosaic; each cell mostly still with mild per-cell wiggle; the refrain overlay pops on (left '우월' blue box, right '좋은데?' white); accelerating cut-montage energy; ~2s; hard cut out.",
+        "i2v_params": {
+          "clip_duration_sec": 2.0,
+          "camera_move": "grid_assembly_cut_montage",
+          "subject_motion_level": "still_cells",
+          "signature_effect": "split_screen_assembly_plus_refrain_typo",
+          "pacing": "accelerating_wow",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; celebrity abstracted to polished-idol type; 'COFFEE'/'LUCKY' + refrain captions verbatim; clover/product/brand marks generic; split-screen grid layout preserved"
+      }
+    },
+    {
+      "index": 10,
+      "duration": 2.54,
+      "start_frame": 456,
+      "end_frame": 531,
+      "mid_frame_path": "ADV-2026-001_frames/cut10_mid.png",
+      "framing": "MS",
+      "function": "정리/회수 — 플라워 카우치 컷",
+      "color_mood": "soft_pastel_blue",
+      "subject_identity": "protagonist_woman",
+      "subject_relationship_to_protagonist": "main_character",
+      "subject_action": "여성(블루 카디건 위 화이트 셔츠, 데님)이 흰 꽃 쿠션이 달린 파스텔 블루 플라워 카우치에 앉아 화이트 폰을 보다가 턱을 괴고 카메라 쪽으로 부드럽게 미소짓는다. 좌측에 회수 슬로건이 등장.",
+      "copy_overlay": "우리가 원하던 / 우월한 월급 통장",
+      "layout_grid": "rule_of_thirds_left",
+      "subject_position": "center",
+      "subject_typo_layout": "인물 중앙/우, 좌측 1/3 회수 슬로건(블루, '우월'은 블루 박스)",
+      "typo_motion": "좌측 슬로건 '우리가 원하던 / 우월한 월급 통장' fade+scale로 회수, '우월' 박스 강조",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "waist_up",
+      "gaze": "to_camera",
+      "eye_contact_effect": "부드러운 정면 미소로 마무리 신뢰·만족",
+      "subject_motion": "미세제스처(폰 보다 턱 괴기)",
+      "prop_motion": "화이트 폰을 든 채 정지",
+      "camera_motion": "정지",
+      "camera_motion_intensity": "subtle",
+      "camera_effect_local": "wiggle_3d(약)",
+      "intra_cut_rhythm": "steady",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [
+        "wiggle_3d",
+        "color_pop"
+      ],
+      "vfx_intensity_local": "moderate",
+      "fact_check_flag": false,
+      "notes": "회수 컷. 나레이션 '그래서 우리가 원하던 우월한 월급 통장'을 화면 자막 '우리가 원하던 / 우월한 월급 통장'으로 회수. 파스텔 블루 플라워 카우치+화이트 데이지 쿠션이 부드러운 마무리 무드. 셀럽 메인 인물.",
+      "color_palette": [
+        "#bcd0e6",
+        "#2a52d8",
+        "#f2f4f7",
+        "#e8b85a"
+      ],
+      "props": [
+        "화이트 스마트폰",
+        "파스텔 블루 플라워 카우치",
+        "화이트 데이지 쿠션"
+      ],
+      "prop_semantics": "플라워 카우치·데이지 쿠션=편안·만족의 보상감(원하던 걸 얻은 휴식), 폰=상품/모바일 연결. 노란 꽃술=블루의 보색 포인트.",
+      "color_intent": "파스텔 라이트블루+화이트의 부드러운 톤에 노란 꽃술 1점, 좌측 진한 블루 회수 슬로건으로 브랜드 수렴",
+      "pose_description": "플라워 카우치에 앉아 폰을 보다 턱을 괴고 카메라로 부드럽게 미소 — 만족·신뢰",
+      "visible_elements": {
+        "foreground": [
+          "여성 인물(블루 카디건·데님)",
+          "화이트 스마트폰"
+        ],
+        "midground": [
+          "파스텔 블루 플라워 카우치",
+          "화이트 데이지 쿠션",
+          "회수 슬로건 타이포"
+        ],
+        "background": [
+          "밝은 라이트그레이/블루 배경"
+        ],
+        "lighting_env": [
+          "소프트 키 라이트(밝은 하이키)"
+        ],
+        "atmosphere": [
+          "위글3D 미세 시점 떨림 패럴럭스",
+          "부드러운 휴식감"
+        ]
+      },
+      "texture": {
+        "primary_subject": "skin_makeup",
+        "secondary_objects": [
+          "fabric_cotton",
+          "fabric_denim",
+          "fabric_plush"
+        ],
+        "background_surface": "matte",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "front",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "strong",
+        "key_to_fill_ratio": "1:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "minimal",
+        "overall_contrast": "hi_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#bcd0e6",
+          "#2a52d8",
+          "#f2f4f7",
+          "#e8b85a"
+        ],
+        "palette_role": {
+          "#2a52d8": "typo_brand_blue",
+          "#f2f4f7": "background_or_highlight",
+          "#bcd0e6": "cool_midtone",
+          "#e8b85a": "warm_accent"
+        },
+        "color_relationship": "brand_dominant",
+        "temperature_balance": "cool_dominant",
+        "saturation_strategy": "muted",
+        "contrast_type": "luminance_high",
+        "accent_color": "#2a52d8",
+        "accent_ratio": "15_percent",
+        "brand_color_match": [
+          "우리은행 브랜드 블루 (#0067AC 계열, 근사 매칭)"
+        ]
+      },
+      "panel_layout": null,
+      "recreation_prompts": {
+        "t2i_start_frame": "A soft, pastel commercial frame in 16:9 landscape of a Korean woman in her early-to-mid twenties with polished idol-style hair and makeup (long dark hair, soft glam, a warm satisfied smile — a generic polished-idol type, NOT any real person) sitting nestled in a plush pastel-light-blue flower-shaped couch with white daisy cushions (each daisy with a fuzzy yellow center), holding a white smartphone and just lifting her chin onto her hand as she smiles gently toward the camera, a moment of contented resolution. Wardrobe: a white collared shirt with a blue cardigan draped over the shoulders, blue denim jeans. Location and background: a clean, bright studio with a pale grey-blue seamless backdrop, the powdery blue petal-couch and white daisy pillows filling the lower frame, soft and comforting. Lighting setup: soft even high-key key around 5500K with strong fill, key-to-fill near 1:1, minimal shadow, neutral and flattering. Lens, framing and angle: an 85mm-equivalent waist-up shot, eye-level and frontal, shallow-to-moderate depth of field, the woman crisp and the couch softly textured. Composition and grid: she sits centered-to-right with a recall slogan on the left third — reproduced verbatim as a flat composited motion-graphic in bold brand-blue sans-serif reading '우리가 원하던' (upper) and '우월한 월급 통장' (lower) with the word '우월' set inside a solid blue highlight box; preserve this caption exactly. Color palette and strategy: cool-dominant pastel, light-blue couch midtone #bcd0e6 and pale highlight #f2f4f7 with a saturated brand-blue typography accent #2a52d8 (~15 percent) and the small warm yellow daisy centers #e8b85a as the warm note; muted, high luminance contrast, gentle. Texture and surfaces: natural skin and makeup, soft cotton shirt and knit cardigan, denim, plush petal-couch and fuzzy daisy pillows, matte backdrop. Atmosphere: comforting, satisfied, resolved, with a subtle wiggle-3D parallax (a faint left-right viewpoint oscillation between the woman, the couch and the backdrop — lenticular Nishika depth). Post and signature look: clean soft hi-key digital render, brand-blue grade, the signature subtle lenticular wiggle. Style anchor and nationality: contemporary Korean bank brand-film resolution beat, AI-generated polished commercial, wide 16:9. Additional reconstruction detail: this recall cut lands the narration 'so, the superior salary account we wanted', converging the whole spot's desire onto the product, so the mood is soft and rewarding rather than punchy — nest her in the pastel flower couch as a cozy 'I got what I wanted' image; render the left-third recall slogan (with the blue '우월' box) as a post-composited graphic preserved exactly; keep the warm yellow daisy centers as the only warm accents against the all-blue softness, the lighting bright and shadowless, and her gentle to-camera smile as the emotional close before the brand logo card. Build the flower-couch as oversized plush petals in a powdery dusty blue that cradle her, with several white daisy pillows whose fuzzy chenille yellow centers dot the lower frame; let her sink into it casually, knees up, one hand holding the white phone and the other lifting to support her chin in a relaxed, just-finished-scrolling pose. The white shirt should read crisp under the soft key, the draped blue cardigan loose and cozy, the denim a muted mid-blue so the whole palette stays gently cool. Set the left-third recall slogan in confident brand blue — '우리가 원하던' above, '우월한 월급 통장' below with the '우월' highlight box — placed where the pale backdrop is emptiest so it reads cleanly without crowding her. Apply the subtle wiggle-3D so she and the petal-couch separate slightly in depth with a faint left-right shimmer, and let the overall mood be soft, warm and resolved: the satisfied exhale of having found exactly the account you wanted, a tender, reassuring image that hands off naturally into the clean brand sign-off.",
+        "t2i_negative": "real celebrity likeness, brand logo mark, watermark, harsh shadows, low-key, desaturated, garbled korean caption, deformed hands, extra fingers, vertical crop",
+        "i2v_motion": "Hold the soft resolution beat nearly static, a gentle settle of the chin onto the hand and a warm to-camera smile; apply a subtle wiggle-3D parallax between woman, flower-couch and backdrop; the left-third recall slogan fades/scales in — '우리가 원하던 / 우월한 월급 통장' with the '우월' blue box emphasized; no camera travel; ~2.5s; hard cut out to the brand logo card.",
+        "i2v_params": {
+          "clip_duration_sec": 2.5,
+          "camera_move": "locked_with_wiggle3d",
+          "subject_motion_level": "micro",
+          "signature_effect": "recall_slogan_fade_plus_wiggle3d",
+          "pacing": "steady_soft",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; celebrity abstracted to polished-idol type; recall slogan verbatim; brand logo absent (it appears on the next card); wiggle-3D + pastel brand-blue preserved"
+      }
+    },
+    {
+      "index": 11,
+      "duration": 1.97,
+      "start_frame": 532,
+      "end_frame": 590,
+      "mid_frame_path": "ADV-2026-001_frames/cut11_mid.png",
+      "framing": "WS",
+      "function": "엔딩 — 브랜드 로고 + AI 제작 고지 카드",
+      "color_mood": "clean_white",
+      "subject_identity": "none_logo_card",
+      "subject_relationship_to_protagonist": "brand_lockup",
+      "subject_action": "화이트 배경에 우리은행 브랜드 로고 록업이 페이드 인된다 — '우리나라 [원형 클로버/선라이즈 마크] 우리은행' (블루). 하단 회색 작은 글씨로 AI 제작 고지가 표시된다.",
+      "copy_overlay": "우리나라 [로고마크] 우리은행 / 본 영상은 생성형 AI로 제작되었습니다",
+      "layout_grid": "center",
+      "subject_position": "center",
+      "subject_typo_layout": "로고 록업 중앙, AI 고지 하단 중앙(회색 세체)",
+      "typo_motion": "로고 fade in, 하단 고지 텍스트 표시",
+      "camera_angle": "eye_level",
+      "camera_facing": "none",
+      "shot_scope": "none(로고 카드)",
+      "gaze": "none",
+      "eye_contact_effect": "해당 없음(그래픽 카드)",
+      "subject_motion": "none",
+      "prop_motion": "none",
+      "camera_motion": "정지",
+      "camera_motion_intensity": "none",
+      "camera_effect_local": "none",
+      "intra_cut_rhythm": "static",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [],
+      "vfx_intensity_local": "none",
+      "fact_check_flag": false,
+      "notes": "브랜드 로고 록업 카드. 로고는 '우리나라 [원형 마크] 우리은행'. 하단 'AI 제작' 고지 verbatim. 클린 화이트 마무리. 시각 묘사는 로고 마크를 generic 처리, 워드마크/고지 텍스트는 보존.",
+      "color_palette": [
+        "#0f73b6",
+        "#1a8fc8",
+        "#b8b8b8",
+        "#fdfdfd"
+      ],
+      "props": [
+        "우리은행 로고 록업(원형 클로버/선라이즈 마크)"
+      ],
+      "prop_semantics": "로고 록업=브랜드 각인 마무리, AI 고지=생성형 AI 제작 표기 의무",
+      "color_intent": "순수 화이트 배경에 블루 로고 1점(클린 마무리), 하단 회색 고지는 저시인성으로 정보만",
+      "pose_description": null,
+      "visible_elements": {
+        "foreground": [
+          "우리은행 로고 록업(블루)"
+        ],
+        "midground": [
+          "AI 제작 고지 텍스트(하단 회색)"
+        ],
+        "background": [
+          "순수 화이트 배경"
+        ],
+        "lighting_env": [
+          "균일 플랫 라이팅(그래픽)"
+        ],
+        "atmosphere": []
+      },
+      "texture": {
+        "primary_subject": "vector_flat",
+        "secondary_objects": [
+          "vector_flat"
+        ],
+        "background_surface": "matte",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "flat",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "strong",
+        "key_to_fill_ratio": "1:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "none",
+        "overall_contrast": "hi_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#0f73b6",
+          "#1a8fc8",
+          "#b8b8b8",
+          "#fdfdfd"
+        ],
+        "palette_role": {
+          "#0f73b6": "brand_logo_blue",
+          "#fdfdfd": "background_or_highlight",
+          "#1a8fc8": "cool_midtone",
+          "#b8b8b8": "neutral_caption_grey"
+        },
+        "color_relationship": "brand_dominant",
+        "temperature_balance": "cool_dominant",
+        "saturation_strategy": "monochrome_blue",
+        "contrast_type": "luminance_high",
+        "accent_color": "#0f73b6",
+        "accent_ratio": "5_percent",
+        "brand_color_match": [
+          "우리은행 브랜드 블루 (#0067AC 계열, 근사 매칭)"
+        ]
+      },
+      "panel_layout": null,
+      "recreation_prompts": {
+        "t2i_start_frame": "A minimalist brand end-card in a clean 16:9 landscape frame on a pure white background: centered, a Korean bank's brand lockup fades in — a small circular logo mark (a generic blue rounded sunrise/clover-style emblem, rendered generically rather than as a real trademark file) flanked by Korean wordmark text reproduced verbatim, '우리나라' to the left of the mark and '우리은행' to the right, all in brand blue; and along the lower-center, in small light-grey sans-serif, a legal caption reproduced verbatim: '본 영상은 생성형 AI로 제작되었습니다'. Lighting setup: flat even graphic lighting, no shadow, neutral, a pristine white field. Lens, framing and angle: not a photographic shot but a flat vector-clean end-card, eye-level/centered. Composition and grid: the logo lockup sits on the horizontal centerline with generous white negative space all around, the AI-disclosure caption resting near the bottom. Color palette and strategy: a near-monochrome brand-blue scheme — logo blue #0f73b6 and a lighter blue #1a8fc8 against a pure white field #fdfdfd, with the disclaimer in neutral grey #b8b8b8; the blue logo is the only accent (~5 percent) on white; crisp high luminance contrast. Texture and surfaces: flat vector graphics, no real-world texture, matte white. Atmosphere: calm, clean, trustworthy, corporate-final, with no wiggle or motion effect — this is a still graphic card. Post and signature look: pristine vector-clean digital finish, brand-blue on white, the calm closing beat of the spot. Style anchor and nationality: contemporary Korean bank brand-film end-card, AI-generated polished commercial, wide 16:9. Additional reconstruction detail: this is the brand sign-off card, so strip everything to essentials — a centered blue logo lockup on pure white with the Korean wordmark preserved exactly ('우리나라 [generic circular mark] 우리은행') and the mandatory generative-AI disclosure caption '본 영상은 생성형 AI로 제작되었습니다' in small grey at the bottom; render the logo mark generically (a simple blue rounded emblem) rather than copying a real trademark, keep the field perfectly white and shadowless, and let the card read as a quiet, confident corporate close after the playful montage; there are no human figures and no other graphics, just the lockup and the legal line, the brand blue providing the single point of color on an otherwise empty white frame. Treat the lockup as the calm exhale after a fast, busy montage: center it on the horizontal midline with wide, deliberate white margins on every side so the eye settles instantly on the blue mark and wordmark; render the circular emblem as a simple, generic rounded blue badge — a soft sunrise-over-water or stylized clover suggestion — clearly NOT a real corporate trademark file, paired with the Korean wordmark text exactly as written, '우리나라' set to the left of the emblem and '우리은행' to its right, all in a clean even brand blue with crisp anti-aliased edges. Keep the white field absolutely pure and shadowless, no gradient, no texture, no vignette, so it reads as a pristine broadcast end-card. Place the mandatory generative-AI disclosure '본 영상은 생성형 AI로 제작되었습니다' in small, low-contrast neutral grey centered near the lower edge, legible but quiet, never competing with the lockup. The proportion of blue ink to white space should stay tiny — perhaps five percent — so the card feels confident and minimal rather than busy. There is no motion, no wiggle, no parallax here; it is a held still graphic, the trustworthy corporate close of a playful spot, the single restrained blue mark on emptiness providing closure and brand recall before the legal terms card that follows, and every element rendered generically so no real trademark asset is reproduced while the wordmark text and disclosure line remain exact.",
+        "t2i_negative": "real trademark logo file, photographic scene, human figures, watermark, colored background, harsh shadows, garbled korean text, extra graphics, vertical crop",
+        "i2v_motion": "Hold the white end-card static; the brand logo lockup ('우리나라 [generic mark] 우리은행' in blue) fades in centered and holds at full opacity; the small grey AI-disclosure line '본 영상은 생성형 AI로 제작되었습니다' sits at the bottom; no camera move, no wiggle; ~2s; hard cut out.",
+        "i2v_params": {
+          "clip_duration_sec": 2.0,
+          "camera_move": "locked_static",
+          "subject_motion_level": "still",
+          "signature_effect": "logo_fade_in",
+          "pacing": "static",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; brand wordmark + AI-disclosure caption preserved verbatim; logo mark rendered generically (not a real trademark file); no people; clean white brand-blue card"
+      }
+    },
+    {
+      "index": 12,
+      "duration": 1.98,
+      "start_frame": 591,
+      "end_frame": 649,
+      "mid_frame_path": "ADV-2026-001_frames/cut12_mid.png",
+      "framing": "MCU",
+      "function": "CTA — 통장 들고 윙크",
+      "color_mood": "clean_white",
+      "subject_identity": "protagonist_woman",
+      "subject_relationship_to_protagonist": "main_character",
+      "subject_action": "여성(블루 베스트/화이트 셔츠)이 밝은 화이트 배경 앞에서 파란 우리은행 통장(표지에 '우리은행' 로고)을 얼굴 앞에 들어 한쪽 눈을 윙크하며 미소짓는다. 좌측에 CTA 슬로건이 등장.",
+      "copy_overlay": "우리로 / 월급받자",
+      "layout_grid": "rule_of_thirds_left",
+      "subject_position": "center",
+      "subject_typo_layout": "인물 중앙, 좌측 1/3 CTA 슬로건(블루, '월'은 블루 박스)",
+      "typo_motion": "좌측 '우리로 / 월급받자' pop, '월' 글자 블루 박스 강조",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "face_only",
+      "gaze": "to_camera",
+      "eye_contact_effect": "윙크+미소로 친근·권유의 마무리",
+      "subject_motion": "미세제스처(통장 들고 윙크)",
+      "prop_motion": "파란 통장을 얼굴 앞으로 들어올림",
+      "camera_motion": "정지",
+      "camera_motion_intensity": "subtle",
+      "camera_effect_local": "wiggle_3d(약)",
+      "intra_cut_rhythm": "static",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [
+        "wiggle_3d",
+        "color_pop"
+      ],
+      "vfx_intensity_local": "subtle",
+      "fact_check_flag": true,
+      "notes": "★CTA 컷. 화면 자막 CTA는 '우리로 월급받자'(음성은 '우리로 월급 합쳐!'로 변주 — 둘 다 보존). 파란 통장 표지에 '우리은행' 로고+원형 마크. 윙크로 친근하게 행동 유도. 통장=상품 실체.",
+      "color_palette": [
+        "#2a52d8",
+        "#1a5ca8",
+        "#f4f3f1",
+        "#3aa0e0"
+      ],
+      "props": [
+        "파란 우리은행 통장(표지 로고)",
+        "블루 베스트/화이트 셔츠"
+      ],
+      "prop_semantics": "파란 통장=상품(월급 통장)의 실체적 상징, 윙크=친근한 권유. 통장 표지의 로고/마크는 브랜드 각인.",
+      "color_intent": "화이트 배경에 파란 통장 1점으로 시선 집중, 좌측 진한 블루 CTA 슬로건으로 행동 유도",
+      "pose_description": "파란 통장을 얼굴 앞에 들고 한쪽 눈을 윙크하며 미소 — 친근한 권유",
+      "visible_elements": {
+        "foreground": [
+          "여성 인물(블루 베스트)",
+          "파란 우리은행 통장"
+        ],
+        "midground": [
+          "CTA 슬로건 타이포"
+        ],
+        "background": [
+          "밝은 화이트/아이보리 배경"
+        ],
+        "lighting_env": [
+          "소프트 키 라이트(밝은 하이키)"
+        ],
+        "atmosphere": [
+          "위글3D 미세 시점 떨림 패럴럭스"
+        ]
+      },
+      "texture": {
+        "primary_subject": "skin_makeup",
+        "secondary_objects": [
+          "leather_textured",
+          "fabric_cotton"
+        ],
+        "background_surface": "matte",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "front",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "strong",
+        "key_to_fill_ratio": "1:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "minimal",
+        "overall_contrast": "hi_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#2a52d8",
+          "#1a5ca8",
+          "#f4f3f1",
+          "#3aa0e0"
+        ],
+        "palette_role": {
+          "#1a5ca8": "passbook_blue_anchor",
+          "#f4f3f1": "background_or_highlight",
+          "#3aa0e0": "cool_midtone",
+          "#2a52d8": "typo_brand_blue"
+        },
+        "color_relationship": "brand_dominant",
+        "temperature_balance": "cool_dominant",
+        "saturation_strategy": "vivid",
+        "contrast_type": "luminance_high",
+        "accent_color": "#2a52d8",
+        "accent_ratio": "20_percent",
+        "brand_color_match": [
+          "우리은행 브랜드 블루 (#0067AC 계열, 근사 매칭)"
+        ]
+      },
+      "panel_layout": null,
+      "recreation_prompts": {
+        "t2i_start_frame": "A bright, clean medium-close-up call-to-action frame in 16:9 landscape of a Korean woman in her early-to-mid twenties with polished idol-style hair and makeup (long dark wavy hair, soft glam, a playful warm expression — a generic polished-idol type, NOT any real person) holding a blue bank passbook (통장) up in front of the lower half of her face with both hands and giving a single-eye wink with a smile to the camera. The passbook is a textured royal-blue booklet whose cover carries a small Korean bank wordmark '우리은행' beside a generic circular blue emblem (rendered generically, not a real trademark), plus a tiny embossed monogram near the lower edge. Wardrobe: a white collared shirt with a blue cardigan/vest over the shoulder. Location and background: a clean bright studio with a soft ivory-white seamless backdrop, the saturated blue passbook the single strong color object. Lighting setup: soft even high-key key around 5500K with strong fill, key-to-fill near 1:1, minimal shadow, flattering and bright. Lens, framing and angle: an 85mm-equivalent medium-close-up (face area), eye-level and frontal, shallow depth of field on her eyes and the passbook. Composition and grid: she is centered with the passbook held at chest/face height, and a CTA slogan on the left third — reproduced verbatim as a flat composited motion-graphic in bold brand-blue sans-serif reading '우리로' (upper) and '월급받자' (lower) with the syllable '월' set inside a solid blue highlight box; preserve this caption exactly. Color palette and strategy: cool-dominant, royal-blue passbook anchor #1a5ca8 and bright blue midtone #3aa0e0 against an ivory-white field #f4f3f1, with the saturated brand-blue typography #2a52d8 as the accent (~20 percent); vivid, high luminance contrast, the blue passbook commanding the eye on white. Texture and surfaces: natural skin and makeup, textured leatherette passbook cover, soft cotton shirt and knit. Atmosphere: friendly, inviting, a wink-and-smile close, with a subtle wiggle-3D parallax (a faint left-right viewpoint oscillation between the woman, the passbook and the backdrop — lenticular Nishika depth). Post and signature look: clean hi-key digital render, brand-blue grade, the signature subtle lenticular wiggle. Style anchor and nationality: contemporary Korean bank brand-film CTA beat, AI-generated polished commercial, wide 16:9. Additional reconstruction detail: this is the call-to-action, so the energy is warm and persuasive — stage her peeking over the blue passbook with a charming one-eyed wink, the booklet (the actual product, the salary account) as the hero object on clean white; render the cover wordmark '우리은행' and the circular emblem generically (no real trademark file) while preserving the wordmark text, and reproduce the left-third CTA slogan '우리로 / 월급받자' with the blue '월' box exactly as composited; keep the passbook the lone saturated blue on ivory so it pulls the eye, the lighting bright and shadowless, and her wink as the inviting final human beat before the legal terms card. Frame it tight on her face and the raised booklet so the wink reads clearly — one eye softly closed, the other bright and smiling, brows relaxed, the booklet covering nose and mouth so the eyes carry all the charm; let a few strands of her long dark waves fall around the booklet for naturalism. Render the passbook cover in a rich textured royal blue with a subtle linen-like grain, the small Korean wordmark '우리은행' and the generic circular blue emblem sitting near the upper area and a tiny embossed monogram near the lower edge, all kept generic rather than as a real trademark file. Place the left-third CTA '우리로 / 월급받자' in bold brand blue with the '월' syllable in its highlight box where the ivory backdrop is emptiest, so the call to action is unmistakable, and apply the subtle wiggle-3D so the booklet and the woman separate slightly in depth with a faint left-right shimmer; the overall beat should feel warm, playful and persuasive, a friendly wink that invites the viewer to get their salary paid through this account, the saturated blue passbook anchoring the product right before the legal close.",
+        "t2i_negative": "real celebrity likeness, real trademark logo file, watermark, harsh shadows, low-key, desaturated, garbled korean caption, wrong cta wording, deformed hands, extra fingers, vertical crop",
+        "i2v_motion": "Hold the CTA close-up nearly static, a charming single-eye wink and warm smile as she lifts the blue passbook in front of her face; apply a subtle wiggle-3D parallax between woman, passbook and backdrop; the left-third CTA slogan pops on — '우리로 / 월급받자' with the '월' blue box emphasized; no camera travel; ~2s; hard cut out to the legal terms card.",
+        "i2v_params": {
+          "clip_duration_sec": 2.0,
+          "camera_move": "locked_with_wiggle3d",
+          "subject_motion_level": "micro",
+          "signature_effect": "cta_slogan_pop_plus_wink",
+          "pacing": "static_cta",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; celebrity abstracted to polished-idol type; CTA slogan '우리로 월급받자' + passbook wordmark preserved verbatim; logo/emblem generic; wiggle-3D + brand-blue preserved"
+      }
+    },
+    {
+      "index": 13,
+      "duration": 2.03,
+      "start_frame": 650,
+      "end_frame": 710,
+      "mid_frame_path": "ADV-2026-001_frames/cut13_mid.png",
+      "framing": "WS",
+      "function": "엔딩 — 장문 약관 고지 카드",
+      "color_mood": "clean_white",
+      "subject_identity": "none_legal_card",
+      "subject_relationship_to_protagonist": "legal_disclosure",
+      "subject_action": "화이트 배경에 좌측 정렬된 장문의 약관·고지 텍스트 카드가 표시된다 — 상품명/금리/우대금리/수수료 면제 조건/준법감시인 심의필 등(작은 회색 글씨). 끝까지 정지 유지.",
+      "copy_overlay": "상품명: 우월한 월급 통장 / 금리 최저 연 0.1% ~ 최고 연 3.1% (최대한도 200만원까지) / 우대금리 최대 연 3.0%p / 수수료 면제 조건 … (장문)",
+      "layout_grid": "left_text_block",
+      "subject_position": "none",
+      "subject_typo_layout": "좌측 정렬 다단 약관 텍스트(작은 회색 세체), 하단 심의필 표기",
+      "typo_motion": "정지(텍스트 카드, 모션 없음)",
+      "camera_angle": "eye_level",
+      "camera_facing": "none",
+      "shot_scope": "none(약관 카드)",
+      "gaze": "none",
+      "eye_contact_effect": "해당 없음(텍스트 카드)",
+      "subject_motion": "none",
+      "prop_motion": "none",
+      "camera_motion": "정지",
+      "camera_motion_intensity": "none",
+      "camera_effect_local": "none",
+      "intra_cut_rhythm": "static",
+      "transition_in": "cut",
+      "transition_out": "hold_to_end",
+      "vfx_in_shot": [],
+      "vfx_intensity_local": "none",
+      "fact_check_flag": false,
+      "notes": "장문 약관 고지 카드(excerpt_only). 상품명 '우월한 월급 통장', 금리 0.1%~3.1%(최대 200만원), 우대금리 최대 3.0%p, 수수료 면제 조건, 준법감시인/은행연합회 심의필 등. 끝까지 정지. 통째 저장 안 함.",
+      "color_palette": [
+        "#5a5a5a",
+        "#7a7a7a",
+        "#fbfbfb",
+        "#9a9a9a"
+      ],
+      "props": [
+        "장문 약관 텍스트 카드"
+      ],
+      "prop_semantics": "약관 카드=법적 고지 의무(금리·우대·수수료·심의필) 표기",
+      "color_intent": "순수 화이트 배경 + 저채도 회색 텍스트로 정보 전달만(시각적 임팩트 최소)",
+      "pose_description": null,
+      "visible_elements": {
+        "foreground": [
+          "좌측 정렬 약관 텍스트(회색)"
+        ],
+        "midground": [],
+        "background": [
+          "순수 화이트 배경"
+        ],
+        "lighting_env": [
+          "균일 플랫 라이팅(그래픽)"
+        ],
+        "atmosphere": []
+      },
+      "texture": {
+        "primary_subject": "vector_text",
+        "secondary_objects": [],
+        "background_surface": "matte",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "flat",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "strong",
+        "key_to_fill_ratio": "1:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "none",
+        "overall_contrast": "low_key_text"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#5a5a5a",
+          "#7a7a7a",
+          "#fbfbfb",
+          "#9a9a9a"
+        ],
+        "palette_role": {
+          "#5a5a5a": "text_dark",
+          "#fbfbfb": "background_or_highlight",
+          "#7a7a7a": "text_midtone",
+          "#9a9a9a": "text_light"
+        },
+        "color_relationship": "monochrome",
+        "temperature_balance": "neutral",
+        "saturation_strategy": "monochrome",
+        "contrast_type": "luminance_low",
+        "accent_color": "#5a5a5a",
+        "accent_ratio": "5_percent",
+        "brand_color_match": []
+      },
+      "panel_layout": null,
+      "recreation_prompts": {
+        "t2i_start_frame": "A plain legal-disclosure end-card in a clean 16:9 landscape frame on a pure white background, filled with a left-aligned multi-line block of small grey Korean terms-and-conditions text — the kind of fine print that closes a financial commercial. Reproduce the gist verbatim where legible (excerpt only, not the entire block): a product line '상품명: 우월한 월급 통장', enrollment '가입 대상: 실명의 개인(1인 1계좌)', interest '금리: 최저 연 0.1% ~ 최고 연 3.1% (최대한도 200만원까지)', basic rate '기본금리: 연 0.1%', preferential rate '우대금리 최대 연 3.0%p (전월 우대조건 충족 시)', plus fee-waiver conditions, an interest-payment clause, and at the very bottom two compliance review stamps in the form '준법감시인 심의필 …' and '은행연합회 심의필 …'. Lighting setup: flat even graphic lighting, no shadow, neutral, a pristine white field. Lens, framing and angle: not a photographic shot but a flat vector-clean legal card, eye-level/static. Composition and grid: a dense left-aligned paragraph block occupying most of the frame with the compliance stamps at the bottom, generous white margins. Color palette and strategy: a strict monochrome grey-on-white scheme — dark grey text #5a5a5a, midtone grey #7a7a7a and light grey #9a9a9a on a pure white field #fbfbfb, no color accent (the grey text is ~5 percent ink coverage); low luminance contrast, purely informational. Texture and surfaces: flat vector text, no real-world texture, matte white. Atmosphere: neutral, legal, quiet, with no motion effect — a still terms card held to the final frame of the spot. Post and signature look: pristine vector-clean digital finish, grey on white, the legal close of the commercial. Style anchor and nationality: contemporary Korean bank brand-film terms-and-conditions card, AI-generated polished commercial, wide 16:9. Additional reconstruction detail: this is the mandatory fine-print card that ends the spot, so render it as a dense, left-aligned block of small grey Korean legal text on pure white, preserving the key legible lines verbatim (product name '우월한 월급 통장', the 0.1%~3.1% rate with the 2,000,000 KRW cap, the up-to-3.0%p preferential rate, fee-waiver conditions) and the bottom compliance-review stamps, while treating the remainder as excerpt-only rather than transcribing every clause; keep the field perfectly white and shadowless, the text purely grey with no brand color, and hold the card static to the very last frame — there are no human figures, no logo, and no motion, just the legally-required disclosure resting quietly as the film ends. Lay the text out as a tidy left-aligned column beginning near the upper-left and running down most of the frame, each clause prefixed by a small circular bullet, the type small and even with comfortable line spacing so the block reads as authentic financial fine print rather than decorative text; vary the grey weight subtly so headings like the product name and rate sit a touch darker than the supporting clauses. Preserve the legible key lines verbatim where they appear — the product name '우월한 월급 통장', the enrollment condition, the interest range '최저 연 0.1% ~ 최고 연 3.1% (최대한도 200만원까지)', the basic rate, the up-to '연 3.0%p' preferential rate and its qualifying conditions, the fee-waiver clauses, and the bottom compliance-review stamps formatted as '준법감시인 심의필 …' and '은행연합회 심의필 …' with their date ranges — while treating the dense remainder as excerpt-only rather than reproducing every word. Keep the right portion of the frame relatively open white so the column does not feel cramped, render no icons, no logo and no color anywhere, and hold the entire card perfectly still with zero animation or parallax all the way to the closing frame; the effect is a quiet, neutral, obligatory legal sign-off — pure grey informational text on clean white — that simply rests on screen as the commercial ends.",
+        "t2i_negative": "photographic scene, human figures, brand logo, color accents, watermark, harsh shadows, motion graphics, garbled or invented legal numbers, vertical crop",
+        "i2v_motion": "Hold the white legal terms card completely static to the end of the spot; the dense left-aligned grey fine print (product name, 0.1%~3.1% rate with 2M KRW cap, preferential rate, fee-waiver conditions, compliance stamps) sits unchanged; no camera move, no wiggle, no animation; ~2s; holds to the final frame.",
+        "i2v_params": {
+          "clip_duration_sec": 2.0,
+          "camera_move": "locked_static",
+          "subject_motion_level": "still",
+          "signature_effect": "legal_card_hold_to_end",
+          "pacing": "static",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; legal terms preserved as excerpt-only verbatim where legible (product name + rate + preferential + fee-waiver + compliance stamps); no people, no logo, monochrome grey-on-white card"
+      }
+    }
+  ],
+  "search_keywords": {
+    "industry": [
+      "finance"
+    ],
+    "product_category": [
+      "salary_account",
+      "bank_deposit_account"
+    ],
+    "target_demo": [
+      "late20s_early30s",
+      "early_career",
+      "office_worker",
+      "mz"
+    ],
+    "media_format": [
+      "shortform_landscape_24s"
+    ],
+    "tone": [
+      "punchy_humor",
+      "friendly",
+      "kitsch",
+      "upbeat_pop"
+    ],
+    "pacing": [
+      "front_loaded",
+      "ramp_up",
+      "fast_cut"
+    ],
+    "technique": [
+      "celeb_hook",
+      "balloon_typo_3d",
+      "filmstrip_collage",
+      "splitscreen_grid",
+      "wiggle_3d"
+    ],
+    "vfx_keywords": [
+      "wiggle_3d",
+      "color_pop",
+      "3d_render",
+      "split_screen",
+      "ui_motion",
+      "balloon_inflate"
+    ],
+    "copy_strategy_keywords": [
+      "product_name_pun",
+      "refrain_repetition",
+      "model_name_drop",
+      "question_hook",
+      "brand_name_pun_cta"
+    ],
+    "concept_derivation_pattern": [
+      "celeb_fashionfilm",
+      "product_name_pun_refrain"
+    ]
+  },
+  "inferred_creative_thinking": {
+    "confidence": "inferred",
+    "insight": "20~30대 사회초년생은 월급통장 갈아타기를 무겁게 여기지만, 셀럽·경쾌한 BGM·유머 후렴이 결합하면 가벼운 결심으로 바뀐다",
+    "persona": "20~30대 사회초년생·직장인(월급통장 개설/갈아타기 대상)",
+    "moment": "월급 갈아탈 통장을 고민하는 어느 출퇴근길·일상",
+    "product_role": "장원영처럼 '우월한' 월급 통장 — 셀럽급 자존감을 일상의 금융 혜택으로",
+    "punchline": "우월~ 좋은데?",
+    "differentiator": "셀럽 패션필름 + 위트 후렴('우월~ 좋은데?') + 위글 3D + 3D 풍선타이포(3.1%) + 분할화면 몽타주의 결합",
+    "brand_fit_one_liner": "우리은행은 친근한 시중은행, MZ 타깃 서브 캠페인에 셀럽·AI제작·키치팝 톤이 자연스러움",
+    "insight_one_liner": "20~30대 사회초년생은 월급통장 갈아타기를 무겁게 여기지만, 셀럽·BGM·유머가 결합하면 가벼운 결심으로 바뀐다",
+    "persona_one_liner": "20~30대 사회초년생·직장인",
+    "moment_one_liner": "월급 갈아탈 통장을 고민하는 어느 출퇴근길",
+    "product_role_one_liner": "장원영처럼 '우월한' 월급 통장 — 셀럽급 자존감을 일상에",
+    "punchline_one_liner": "우월~ 좋은데?",
+    "differentiator_one_liner": "셀럽 + 위트 후렴 + 위글 3D + 3D 풍선타이포의 결합"
+  },
+  "inferred_brief": "MZ 사회초년생·직장인을 타깃으로, 월급통장 개설/갈아타기를 가볍게 결심하게 셀럽(장원영)을 활용한 약 24초 가로 숏폼. 톤은 펀치·유머·친근·키치팝. 핵심 셀링포인트는 최고 연 3.1% 금리와 수수료 면제. 제품명 '우월'을 후렴으로 각인하고, 위글 3D·3D 풍선타이포·분할화면으로 시각 임팩트를 준다.",
+  "cross_pollination_tags": {
+    "adjacent": [
+      "insurance",
+      "telecom",
+      "subscription_membership"
+    ],
+    "distant": [
+      "fashion_beauty_keyvisual",
+      "fnb",
+      "home_living"
+    ],
+    "contrast": [
+      "industrial_b2b",
+      "luxury_automotive",
+      "public_service_ad"
+    ]
+  },
+  "concept_derivation_pattern": "celeb_fashionfilm + product_name_pun_refrain: 셀럽 패션필름 후크에 제품명('우월')을 음성·자막 후렴으로 반복 변주하고, 금리 수치를 3D 풍선타이포로 시각화 + 전 컷 위글 3D + 필름스트립/분할화면 몽타주로 혜택을 빠르게 나열, 청유형 브랜드명 펀 CTA로 수렴.",
+  "confidence": "inferred",
+  "analyst_notes": "(1) [업그레이드] 구버전 sparse 엔트리(recreation_prompts·mid frames·여러 필드 부재, 12컷·21.47s·30fps·9:16 오기록 흔적)를 전체 스키마로 재작성. 인간 검증된 전역값(카피 verbatim, 위글3D 시그니처, 나레이션, 무드, 타깃, 모티프)은 보존하고, 컷 구조는 114개 native-res 스테이징 프레임을 순서대로 재판독해 실제 13컷으로 재도출. (2) 정확 사실 갱신: total_duration 23.72s, fps 29.928, 1280x720→16:9, has_audio(710프레임). category_primary는 'IT.fintech'→'finance.bank'로 정정(우리은행 월급통장). (3) 컷 경계는 readguide diff 스파이크로 교차검증한 하드컷 12개(f91/f115/f143/f219/f271/f300/f336/f396/f456/f532/f591/f650) → 13컷. scenedetect 16개 매크로씬 중 (a)남성+클래식카(3.58~4.75)는 '우월'박스 애니메이션+위글로 2분할됐으나 단일 컷, (b)정리함 일상컷(9.99~11.19)·카우치 회수컷(15.20~17.74)도 캡션 변화로 분할됐으나 각 단일 컷이라 병합. (4) [핵심] 전 컷 Nishika식 위글 3D(좌우 미세 시점 떨림)를 프레임 비교로 시각 확인 — cut1(f1 vs f21 화병·테이블·인물 가장자리 이동), cut7 정리함(f300 vs f324 박스 어긋남)에서 가장 뚜렷. (5) [정정] 6~10초 구간을 구버전은 '의상 색 댄스'로 오독했으나, 실제는 정적 포즈 + 3.1% 3D 풍선타이포 부풀림·색전환(보라→블루). (6) [핵심 수정] 엔드카드 CTA 화면 자막은 '우리로 월급받자'(구버전 '우리로 월급 갈아타자'는 오기) — 음성('우리로 월급 합쳐!')과 자막이 달라 둘 다 보존. 슬로건은 '원영이처럼 우월한 월급 통장', 회수는 '우리가 원하던 우월한 월급 통장'. (7) 풍선/분할/필름스트립 패널 컷에 panel_layout 채움(cut5 필름스트립 3패널, cut9 near-3x3 8패널). (8) 추상화: 시각 묘사에서 모델 실명 제거('폴리시드 아이돌 타입'/'남성 모델'/'별도 인물 a·b'), 실명은 source_ref.model에만. 로고/클로버/제품 마크는 generic, 화면 카피·워드마크·금리·CTA는 verbatim 보존. 장문 약관 excerpt_only. (9) Whisper(base) 나레이션 8라인을 화면 자막과 대조 보정('우와란/우와라니까/우와랄'→'우월…'). speech_coverage 0.901, bgm 동반. (10) 이 광고 자체가 생성형 AI 제작물 + 위글 3D 모사라 LSB 워크플로 직접 레퍼런스로 가치 높음.",
+  "verification": {
+    "frames_reviewed": "114 native-res staged frames read in order + 100% per-frame metrics (710 frames). Cut boundaries cross-checked against readguide diff spikes; 13 real shots derived.",
+    "audio_analyzed": true,
+    "audio_note": "faster-whisper(base) 전사 8라인을 화면 자막과 대조 보정. CTA 음성('우리로 월급 합쳐')과 자막('우리로 월급받자') 불일치 → 둘 다 기록. speech_coverage 0.901.",
+    "hitrate_na": null,
+    "abstraction_checked": true,
+    "abstraction_note": "시각 묘사에 모델 실명 제거(장원영→'폴리시드 아이돌 타입', 남성 모델·별도 인물은 generic). 실명은 source_ref.model에만. 브랜드/제품/클로버 로고 마크는 generic, 화면 카피·워드마크·금리·CTA('우리로 월급받자')는 verbatim 보존. 장문 약관 excerpt_only.",
+    "recreation_prompts_note": "13/13 컷 모두 t2i_start_frame(≥500단어, 12파트 위브) + t2i_negative + i2v_motion + i2v_params + fidelity_note. 분할/필름스트립 컷(cut5·cut9)은 패널 분해 파트 추가 + panel_layout 채움. 위글3D 시그니처를 i2v_motion에 반영.",
+    "upgrade_note": "구버전 ADV-2026-001.json(57KB, 12컷, sparse) 대비 전체 스키마 재작성: top-level narrative_structure/concept_derivation_pattern/confidence/frames_dir/contact_sheet_path 추가, 컷별 mid_frame_path + recreation_prompts 추가, 사실값(duration 23.72/fps 29.928/16:9/category finance.bank) 정정, 컷 구조 12→13 재도출. 보존: 카피 verbatim, 위글3D 시그니처, 나레이션, 무드/타깃/모티프/creative_device, search_keywords(영문), inferred_creative_thinking.",
+    "v04pp_fields": "visible_elements(5층)·texture·lighting(9서브)·color_analysis(8서브) + recreation_prompts + frames_dir/contact_sheet/mid_frame_path 전 컷 채움; panel_layout은 분할/필름스트립 컷에 채움."
+  }
+}

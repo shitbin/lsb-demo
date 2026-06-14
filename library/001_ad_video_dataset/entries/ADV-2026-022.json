@@ -1,0 +1,1740 @@
+{
+  "id": "ADV-2026-022",
+  "source_ref": {
+    "platform": "social_short_vertical",
+    "title_or_campaign": "토스 숨은 서비스 6 - 아파트 부동산 시세 알림",
+    "brand": "토스 (Toss)",
+    "product": "토스 부동산 시세 알림 (Toss real-estate price tracking & alerts)",
+    "model": null,
+    "year": 2024,
+    "production_note": "screen_recording_tutorial_with_live_action_presenter_bookends",
+    "url": null
+  },
+  "category_primary": "finance.fintech",
+  "category_tags": [
+    "fintech",
+    "super_app",
+    "hidden_service",
+    "real_estate",
+    "proptech",
+    "price_tracking",
+    "push_notification",
+    "apartment_market_price"
+  ],
+  "mood": [
+    "informative",
+    "friendly",
+    "relatable",
+    "reassuring",
+    "practical"
+  ],
+  "target_demo": "20s-40s mobile-native Korean adults interested in apartment prices, prospective buyers and homeowners tracking market timing",
+  "total_duration": 40.94,
+  "shot_count": 11,
+  "shot_count_corrected": 11,
+  "fps": 29.97,
+  "aspect_ratio": "9:16",
+  "hook_position": 0.0,
+  "cta_position": 39.41,
+  "narrative_arc": "problem_solution_payoff",
+  "narrative_structure": "live_action_hook_then_screen_recording_tutorial_then_payoff",
+  "pacing_curve": "steady_instructional",
+  "music_tempo_curve": "calm_steady_under_voiceover",
+  "wow_cut_index": 8,
+  "creative_device": [
+    "everyday_relatable_pain_point_hook",
+    "torn_paper_content_title_card",
+    "screen_recording_step_by_step_walkthrough",
+    "push_notification_payoff_reveal",
+    "branded_sketch_sticker_outro"
+  ],
+  "production_signature": {
+    "capture_style": "hybrid_live_action_plus_screen_recording",
+    "camera_signature": [
+      "warm_intimate_ECU_presenter",
+      "locked_overhead_tabletop_phone",
+      "macro_push_in_on_notification",
+      "clean_negative_space_title_cards"
+    ],
+    "signature_note": "Opens and re-anchors with warm tungsten-lit live-action presenter ECU/medium (auburn hair, coral V-neck), then long locked overhead screen-recording of a phone flat on a brown leather desk for the UI walkthrough; bottom-centered pill captions mirror the voiceover; very low global motion (mean_abs_shift_x 0.198) outside hard UI/camera cuts; ends on a clean off-white paper title card with a hand-drawn blue sketch sticker.",
+    "color_grade": "warm_living_room_intro_then_neutral_clean_screen_ui",
+    "texture_fx": "subtle_paper_grain_on_title_cards"
+  },
+  "global_layout": {
+    "grid_system": "centered_phone_with_lower_third_caption",
+    "subject_placement_dominant": "center",
+    "subject_typo_relation": "caption_pill_below_phone_and_title_card_above_presenter",
+    "negative_space_use": "generous_around_tabletop_phone_and_outro_card",
+    "layout_note": "Live-action bookend shots place the presenter center with a torn-paper CONTENT title card floating top; the long instructional core is a vertically centered phone screen on a leather surface with a black/grey rounded pill caption pinned to the lower third; the outro is near-full negative space with a small centered sketch sticker."
+  },
+  "recurring_motifs": [
+    "toss_blue_house_price_pins",
+    "apartment_price_trend_line_chart",
+    "bottom_centered_caption_pill",
+    "toss_push_notification",
+    "coral_red_v_neck_sweater_presenter",
+    "won_currency_eok_manwon_figures"
+  ],
+  "copywriting": {
+    "tagline_text": "찜해 둔 아파트, 토스로 시세 알림 받기",
+    "tagline_structure": "noun_phrase_benefit_promise",
+    "cta_text": "Curator T 토스를 발견하다",
+    "copy_tone": [
+      "friendly",
+      "instructional",
+      "relatable",
+      "clear"
+    ],
+    "copy_strategy": "pain_point_hook_then_numbered_how_to_then_payoff_alert",
+    "lines": [
+      {
+        "text": "매매 타이밍 놓치고 있는 아파트, 매번 시세 검색하기 귀찮다면",
+        "type": "narration_vo",
+        "time_sec": 0.0
+      },
+      {
+        "text": "토스에서 시세 알림까지 받아볼 수 있대요.",
+        "type": "narration_vo",
+        "time_sec": 4.66
+      },
+      {
+        "text": "전체 탭에서 부동산 시세를 검색해 주세요.",
+        "type": "narration_vo",
+        "time_sec": 7.9
+      },
+      {
+        "text": "시세를 확인할 부동산 주소와 면적을 선택하고",
+        "type": "narration_vo",
+        "time_sec": 11.5
+      },
+      {
+        "text": "만약 보유 중인 부동산이라면 내가 샀던 가격도 입력할 수 있어요.",
+        "type": "narration_vo",
+        "time_sec": 15.18
+      },
+      {
+        "text": "부동산 등록을 완료하면 내가 관심 있는 아파트의 거래 추이를 확인할 수 있고",
+        "type": "narration_vo",
+        "time_sec": 20.78
+      },
+      {
+        "text": "전세와 월세, 주변 아파트의 시세까지 같이 볼 수 있어요.",
+        "type": "narration_vo",
+        "time_sec": 26.28
+      },
+      {
+        "text": "새로운 거래가 이루어지면 토스 알림을 통해 거래 내역과 시세를 바로 확인할 수 있습니다.",
+        "type": "narration_vo",
+        "time_sec": 31.32
+      }
+    ],
+    "captions": [
+      {
+        "text": "매매 타이밍",
+        "source": "on_screen_word_overlay",
+        "time_sec": 1.0
+      },
+      {
+        "text": "놓치고 있는",
+        "source": "on_screen_word_overlay",
+        "time_sec": 1.3
+      },
+      {
+        "text": "아파트",
+        "source": "on_screen_word_overlay",
+        "time_sec": 1.7
+      },
+      {
+        "text": "시세 검색하기",
+        "source": "on_screen_word_overlay",
+        "time_sec": 3.3
+      },
+      {
+        "text": "귀찮다면?",
+        "source": "on_screen_word_overlay",
+        "time_sec": 4.0
+      },
+      {
+        "text": "찜해 둔 아파트 토스로 시세 알림 받기",
+        "source": "title_card_content",
+        "time_sec": 4.8
+      },
+      {
+        "text": "SERVICE 부동산 시세 알림 / YEAR 2024 / CATEGORY 부동산 / 공공서비스 / 송금 / PRODUCTION TEAM #team_homeloan",
+        "source": "title_card_metadata",
+        "time_sec": 5.0
+      },
+      {
+        "text": "'전체 탭'에서",
+        "source": "on_screen_caption_pill",
+        "time_sec": 8.7
+      },
+      {
+        "text": "'부동산 시세'를 검색해주세요",
+        "source": "on_screen_caption_pill",
+        "time_sec": 9.0
+      },
+      {
+        "text": "시세를 확인할 부동산 주소와",
+        "source": "on_screen_caption_pill",
+        "time_sec": 12.8
+      },
+      {
+        "text": "면적을 선택하고",
+        "source": "on_screen_caption_pill",
+        "time_sec": 13.6
+      },
+      {
+        "text": "만약 보유 중인 부동산이라면",
+        "source": "on_screen_caption_pill",
+        "time_sec": 15.3
+      },
+      {
+        "text": "내가 샀던 가격도",
+        "source": "on_screen_caption_pill",
+        "time_sec": 17.5
+      },
+      {
+        "text": "입력할 수 있어요",
+        "source": "on_screen_caption_pill",
+        "time_sec": 18.7
+      },
+      {
+        "text": "부동산 등록을 완료하면",
+        "source": "on_screen_caption_pill",
+        "time_sec": 21.3
+      },
+      {
+        "text": "내가 관심 있는 아파트의",
+        "source": "on_screen_caption_pill",
+        "time_sec": 22.7
+      },
+      {
+        "text": "거래 추이를 확인할 수 있고",
+        "source": "on_screen_caption_pill",
+        "time_sec": 24.0
+      },
+      {
+        "text": "전세와 월세",
+        "source": "on_screen_caption_pill",
+        "time_sec": 26.7
+      },
+      {
+        "text": "주변 아파트의 시세까지",
+        "source": "on_screen_caption_pill",
+        "time_sec": 28.4
+      },
+      {
+        "text": "같이 볼 수 있어요",
+        "source": "on_screen_caption_pill",
+        "time_sec": 30.0
+      },
+      {
+        "text": "새로운 거래가 이루어지면",
+        "source": "on_screen_caption_pill",
+        "time_sec": 31.5
+      },
+      {
+        "text": "토스 알림을 통해",
+        "source": "on_screen_caption_pill",
+        "time_sec": 32.7
+      },
+      {
+        "text": "거래 내역과 시세를 바로 확인할 수 있습니다",
+        "source": "on_screen_caption_pill",
+        "time_sec": 33.3
+      },
+      {
+        "text": "내 부동산에 새로운 거래가 감지됐어요",
+        "source": "on_screen_push_notification",
+        "time_sec": 33.2
+      },
+      {
+        "text": "Curator T 토스를 발견하다",
+        "source": "title_card_brand_outro",
+        "time_sec": 39.41
+      }
+    ],
+    "narration_handling": "single_female_voiceover_with_mirrored_caption_pills"
+  },
+  "typography": {
+    "primary_font_class": "geometric_sans_korean_rounded",
+    "animation_style": [
+      "word_by_word_fade_in",
+      "caption_pill_swap",
+      "static_hold",
+      "sticker_pop_scale"
+    ],
+    "subtitle_position_dominant": "lower_third_center",
+    "color_strategy": "white_word_overlay_on_footage_then_white_on_dark_pill_then_blue_sketch_on_paper",
+    "typo_motion_dominant": "fade_in_static_caption_swap"
+  },
+  "vfx": {
+    "primary_effects": [
+      "screen_ui_recording",
+      "caption_pill_overlay",
+      "torn_paper_title_card",
+      "macro_push_in",
+      "sketch_sticker_pop"
+    ],
+    "effect_intensity": "low",
+    "transition_style_dominant": "hard_cut",
+    "vfx_event_count": 5
+  },
+  "audio": {
+    "has_audio": true,
+    "language": "ko",
+    "speech_coverage": 0.906,
+    "bgm_likely": true,
+    "narration_lines": [
+      {
+        "start": 0.0,
+        "end": 4.66,
+        "text": "매매 타이밍 놓치고 있는 아파트, 매번 시세 검색하기 귀찮다면",
+        "text_raw": "매매 타이밍 놀이고 있는 아파트, 매번 시세 검색하게 귀찮다면",
+        "source": "whisper"
+      },
+      {
+        "start": 4.66,
+        "end": 7.9,
+        "text": "토스에서 시세 알림까지 받아볼 수 있대요.",
+        "text_raw": "토스에서 시세알림까지 받아볼 수 있대요.",
+        "source": "whisper"
+      },
+      {
+        "start": 7.9,
+        "end": 11.5,
+        "text": "전체 탭에서 부동산 시세를 검색해 주세요.",
+        "text_raw": "전체텝에서 부동산 시세를 검색해 주세요.",
+        "source": "whisper"
+      },
+      {
+        "start": 11.5,
+        "end": 15.18,
+        "text": "시세를 확인할 부동산 주소와 면적을 선택하고",
+        "text_raw": "시세를 확인할 부동산 주서와 면적을 선택하고",
+        "source": "whisper"
+      },
+      {
+        "start": 15.18,
+        "end": 20.78,
+        "text": "만약 보유 중인 부동산이라면 내가 샀던 가격도 입력할 수 있어요.",
+        "text_raw": "만약 보유중인 부동산이라면 내가 샀던 가격도 입력할 수 있어요.",
+        "source": "whisper"
+      },
+      {
+        "start": 20.78,
+        "end": 26.28,
+        "text": "부동산 등록을 완료하면 내가 관심 있는 아파트의 거래 추이를 확인할 수 있고",
+        "text_raw": "부동산 등록을 완료하면 내가 관심 있는 아파트에 거래 추위를 확인할 수 있고",
+        "source": "whisper"
+      },
+      {
+        "start": 26.28,
+        "end": 31.32,
+        "text": "전세와 월세, 주변 아파트의 시세까지 같이 볼 수 있어요.",
+        "text_raw": "전세와 월세 주변 아파트의 시세까지 같이 볼 수 있어요.",
+        "source": "whisper"
+      },
+      {
+        "start": 31.32,
+        "end": 37.08,
+        "text": "새로운 거래가 이루어지면 토스 알림을 통해 거래 내역과 시세를 바로 확인할 수 있습니다.",
+        "text_raw": "새로운 거래가 이루어지면 토스 알림을 통해 거래 내역과 시세를 바로 확인할 수 있습니다.",
+        "source": "whisper"
+      }
+    ],
+    "voice_vs_caption": "voiceover_mirrored_by_on_screen_caption_pills_plus_in_app_ui_text",
+    "transcribed_by": "faster_whisper_base",
+    "audio_note": "Single calm female Korean voiceover; text_raw is uncorrected whisper, corrected against on-screen caption pills which mirror the VO. Likely soft BGM bed; whisper speech_coverage 0.906."
+  },
+  "frames_dir": "ADV-2026-022_frames",
+  "contact_sheet_path": "ADV-2026-022_frames/contact_sheet.png",
+  "search_keywords": {
+    "industry": [
+      "finance",
+      "fintech"
+    ],
+    "product_category": [
+      "super_app",
+      "real_estate_price_tracking",
+      "proptech",
+      "price_alert"
+    ],
+    "target_demo": [
+      "20s",
+      "30s",
+      "40s",
+      "mobile_native",
+      "korean",
+      "prospective_homebuyer",
+      "homeowner"
+    ],
+    "media_format": [
+      "vertical_short_41s",
+      "screen_ui_walkthrough",
+      "tutorial_demo"
+    ],
+    "tone": [
+      "informative",
+      "friendly",
+      "relatable",
+      "reassuring"
+    ],
+    "pacing": [
+      "steady",
+      "instructional",
+      "even"
+    ],
+    "technique": [
+      "screen_ui_walkthrough",
+      "tutorial_demo",
+      "live_action_bookend",
+      "overhead_tabletop_phone",
+      "push_notification_payoff",
+      "caption_pill_voiceover_sync"
+    ],
+    "vfx_keywords": [
+      "screen_recording",
+      "caption_pill",
+      "torn_paper_card",
+      "macro_push_in",
+      "sketch_sticker_pop"
+    ],
+    "copy_strategy_keywords": [
+      "pain_point_hook",
+      "step_by_step_how_to",
+      "benefit_payoff",
+      "alert_reveal"
+    ],
+    "concept_derivation_pattern": [
+      "hidden_feature_explainer",
+      "pain_point_then_product_walkthrough",
+      "notification_as_payoff"
+    ]
+  },
+  "inferred_creative_thinking": {
+    "insight": "People who are watching for the right moment to buy or sell an apartment get tired of manually re-searching the market price over and over, and they fear missing a price move while they are not looking",
+    "persona": "A Korean adult in their late 20s to 40s who has a specific apartment in mind (to buy, sell, or that they already own) and wants to track its real transaction-based price without doing repeated manual lookups",
+    "moment": "The recurring chore-and-anxiety of opening a property app to re-check a price you already looked up last week, never sure if a new deal just changed the market",
+    "product_role": "Toss turns its everyday finance super-app into a passive real-estate watchtower: register the apartment once, then it surfaces trend, 전세/월세 and nearby prices, and pushes an alert the instant a new transaction is recorded",
+    "punchline": "Register it once and let Toss tap you on the shoulder the moment the price actually moves, instead of you checking forever",
+    "differentiator": "The market-price tracking lives inside the same fintech super-app the user already opens daily, and the push notification on a real new transaction is the unique payoff that a static property-search app does not give",
+    "brand_fit_one_liner": "A fintech that keeps earning daily trust by quietly absorbing yet another tedious life-admin task — here, watching the housing market for you",
+    "confidence": "inferred"
+  },
+  "inferred_brief": "Create a ~41-second vertical hidden-service explainer showing how Toss lets users register an apartment and passively receive real-estate market-price trends and push alerts, opening with a relatable 'tired of re-searching prices' live-action hook, walking through the in-app steps via overhead screen recording with voiceover-synced caption pills, and paying off with a Toss push notification, closed by the 'Curator T — discover Toss' brand sticker.",
+  "cross_pollination_tags": {
+    "adjacent": [
+      "real_estate_app_walkthrough",
+      "stock_price_alert_ad",
+      "personal_finance_tracker_demo",
+      "proptech_explainer"
+    ],
+    "distant": [
+      "cooking_recipe_step_overlay_video",
+      "unboxing_tutorial_short",
+      "language_app_lesson_walkthrough"
+    ],
+    "contrast": [
+      "cinematic_emotional_brand_film",
+      "celebrity_spokesperson_tvc",
+      "abstract_motion_graphics_fintech_ad"
+    ]
+  },
+  "concept_derivation_pattern": "pain_point_dramatization_then_screen_recording_how_to_then_push_notification_payoff_with_branded_sticker_outro",
+  "confidence": "inferred",
+  "analyst_notes": "11 shots from 12 scenedetect macro-scenes; the long phone screen-recording (11.38-26.09, scene 7) is one continuous locked overhead tabletop take treated as cut06, with the 26.09 전세/월세 content boundary opened as cut07. Hard camera cuts confirmed at frames 53, 95, 144, 234, 944, 997, 1080, 1182 (diff spikes 52-134). Two live-action bookends (presenter ECU hook cut01, presenter medium title-card cut04) and an outro paper title card (cut11 'Curator T / 토스를 발견하다'). Captions are word-by-word overlays in the live-action/early UI section and bottom-centered grey/black pill captions during the tabletop walkthrough; both mirror the single female VO. Service = Toss 부동산 시세 알림 (apartment market-price tracking + push alert). On-screen demo property anonymized as '행복마을 ...' 경기도 화성시 기산동, 전용 84.91㎡ (33평), 매매 시세 3억 8,000만원. Global motion very low (mean_abs_shift_x 0.198); no wiggle/parallax signature. BGM assumed present, not confirmed.",
+  "verification": {
+    "frames_reviewed": "119 native-res staged frames read in order (f000001-f001224) + 100% per-frame metrics from readguide; cut boundaries cross-checked against scenedetect macro-scenes and diff spikes",
+    "audio_analyzed": true,
+    "hitrate_na": null,
+    "abstraction_checked": true
+  },
+  "shots": [
+    {
+      "index": 1,
+      "duration": 1.735,
+      "framing": "ECU",
+      "function": "hook_pain_point",
+      "subject_action": "young Korean woman gazes down at her phone with a slightly tired, pensive look, fingertip near her lips; on-screen word 매매 타이밍 fades in",
+      "layout_grid": "rule_of_thirds_face_upper_center",
+      "subject_position": "center",
+      "typo_motion": "word_fade_in_center",
+      "camera_angle": "eye_level",
+      "camera_facing": "3/4_front",
+      "shot_scope": "extreme_close_up_face",
+      "gaze": "down_at_phone",
+      "props": [
+        "black_smartphone_held_low",
+        "warm_table_lamp"
+      ],
+      "color_palette": [
+        "#C9622E",
+        "#E8744F",
+        "#3A1F14",
+        "#F0C9A8",
+        "#8A3A22"
+      ],
+      "color_intent": "warm_amber_intimate_living_room",
+      "pose_description": "head tilted slightly down toward a phone held at chest height, index finger raised near the lower lip in a thinking gesture, soft contemplative expression",
+      "subject_motion": "subtle_head_and_hand_micro_movement",
+      "camera_motion": "static_locked_minimal_breath",
+      "camera_effect_local": "shallow_dof_warm_bokeh",
+      "intra_cut_rhythm": "slow",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "mid_frame_path": "ADV-2026-022_frames/cut01_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "young_woman_face_ecu",
+          "black_smartphone_lower_frame",
+          "raised_index_finger"
+        ],
+        "midground": [
+          "coral_red_v_neck_knit_shoulder"
+        ],
+        "background": [
+          "warm_blurred_living_room",
+          "glowing_table_lamp_left",
+          "dark_wood_shelf_bokeh"
+        ],
+        "lighting_env": [
+          "warm_tungsten_practical_lamp",
+          "soft_ambient_interior"
+        ],
+        "atmosphere": [
+          "cozy_evening_warmth",
+          "intimate_contemplative_mood"
+        ]
+      },
+      "texture": {
+        "primary_subject": "smooth_natural_skin_warm_sheen",
+        "secondary_objects": [
+          "matte_black_phone_back",
+          "soft_knit_sweater_weave"
+        ],
+        "background_surface": "blurred_warm_interior_bokeh",
+        "atmospheric": [
+          "amber_glow_halation",
+          "soft_lamp_bloom"
+        ]
+      },
+      "lighting": {
+        "key_direction": "front_left_practical",
+        "key_hardness": "soft",
+        "key_color_temp": "warm_2900K",
+        "fill_strength": "low_medium",
+        "key_to_fill_ratio": "3:1",
+        "rim_light": "warm_hair_rim_from_lamp",
+        "practical_lights": [
+          "table_lamp_left",
+          "ambient_room_glow"
+        ],
+        "shadow_presence": "soft_warm_falloff",
+        "overall_contrast": "medium"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#C9622E",
+          "#E8744F",
+          "#3A1F14",
+          "#F0C9A8",
+          "#8A3A22"
+        ],
+        "palette_role": {
+          "#C9622E": "auburn_hair_dominant",
+          "#E8744F": "coral_red_sweater",
+          "#3A1F14": "dark_warm_background",
+          "#F0C9A8": "warm_skin_highlight",
+          "#8A3A22": "shadow_warm_brown"
+        },
+        "color_relationship": "analogous_warm_amber",
+        "temperature_balance": "warm_dominant",
+        "saturation_strategy": "rich_warm_medium_high",
+        "contrast_type": "soft_warm",
+        "accent_color": "#E8744F",
+        "accent_ratio": 0.22
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "An extreme close-up portrait of a Korean woman in her late twenties to early thirties, framed from just above the eyebrows to the collarbone and placed with her face in the upper-center third of a vertical 9:16 frame, gazing downward and slightly to the right at a phone held low. Her expression is gently tired and contemplative, lips softly parted, with a raised index finger hovering near her lower lip in a thinking gesture. Her hair is shoulder-length and dyed a warm auburn-ginger with soft side-swept bangs that catch the light. She wears a coral-red, fine-gauge V-neck knit sweater, the soft yarn weave just visible at the shoulder and neckline, with a thin delicate gold necklace. She holds a matte black modern smartphone low in the bottom of the frame, only its upper edge and her fingers visible. Wardrobe and material: soft brushed knitwear in saturated coral-red, smooth natural skin with a light warm sheen and minimal dewy makeup, a slim gold chain. Location and background: a cozy domestic living room at night, thrown completely out of focus, with a glowing warm table lamp on the left edge blooming into a soft amber orb and a dark wooden shelf dissolving into round bokeh on the right. Foreground and props: the black phone held at chest height, the woman's own raised hand. Lighting setup: a single soft warm practical key from the front-left at roughly 2900K tungsten, a gentle warm hair rim from the lamp, low-medium fill at about a 3:1 ratio, soft warm shadow falloff and medium overall contrast, motivated entirely by in-room practical sources. Lens, framing and angle: an 85mm-equivalent portrait lens at a shallow aperture around f/1.8 shot at eye level, extreme close-up scope with very shallow depth of field so only the eyes, nose and lips are critically sharp. Composition and grid: rule-of-thirds with the eyes on the upper third line, breathing room in the gaze direction, the phone anchoring the lower frame. Color palette and strategy with HEX: auburn hair dominant (#C9622E), coral-red sweater accent (#E8744F) at roughly twenty percent of frame, dark warm background (#3A1F14), warm skin highlight (#F0C9A8) and warm brown shadow (#8A3A22), an analogous warm amber scheme that is rich but naturalistic. Texture and surfaces: smooth natural skin with a warm sheen, soft knit weave, matte black phone, blurred warm interior. Atmosphere: a cozy late-evening warmth, intimate and quiet, the feeling of someone alone with a small worry on their phone. Post and signature look: warm naturalistic color grade leaning amber, gentle lamp bloom and soft halation, subtle fine grain, no text overlays baked in beyond the described scene, no heavy vignette or HDR. The single Korean caption word that appears over this frame is '매매 타이밍' rendered in white rounded geometric sans-serif near the lower-center; preserve this exact Korean text. Style anchor and nationality: a frame from a high-production-value Korean social-commerce explainer, Korean commercial realism with desaturated-to-warm mid-tones, an authentic relatable domestic mood rather than a glossy studio look; the person's identity is entirely generic with no resemblance to any real individual or celebrity, and any brand marks are omitted or generic.",
+        "t2i_negative": "text overlay beyond described caption, logos, brand marks, harsh cool lighting, studio backdrop, wide-angle distortion, oversharpened skin, HDR, heavy vignette, extra fingers",
+        "i2v_motion": "very subtle: the woman's head dips a few degrees and her raised finger shifts slightly near her lips, hair micro-sways; camera holds a locked ECU with only a faint breathing drift; the Korean word '매매 타이밍' fades in at lower-center over ~0.4s; hard cut out near 1.7s",
+        "i2v_params": {
+          "clip_duration_sec": 1.735,
+          "camera_move": "locked_static",
+          "subject_motion_level": "low_contemplative",
+          "signature_effect": "warm_shallow_dof_bokeh",
+          "pacing": "slow",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen caption word preserved verbatim; identity and any logo generic"
+      }
+    },
+    {
+      "index": 2,
+      "duration": 1.401,
+      "framing": "CU",
+      "function": "problem_context_screen_reveal",
+      "subject_action": "a hand holds a phone showing a Toss real-estate map dense with blue apartment price pins; on-screen word 아파트 holds over the screen",
+      "layout_grid": "screen_fill_angled_handheld",
+      "subject_position": "center_phone_screen",
+      "typo_motion": "word_static_hold",
+      "camera_angle": "high_angle_over_hand",
+      "camera_facing": "phone_screen_angled",
+      "shot_scope": "close_up_phone_screen",
+      "gaze": "none",
+      "props": [
+        "smartphone_with_toss_map_ui",
+        "holding_hand"
+      ],
+      "color_palette": [
+        "#5B6CE0",
+        "#F4F5FB",
+        "#2A2F45",
+        "#C7723E",
+        "#9AA6C8"
+      ],
+      "color_intent": "toss_blue_pins_on_clean_map",
+      "pose_description": "one hand grips the phone at a slight angle in warm interior light, thumb near the lower screen as the map of price-pin markers is shown",
+      "subject_motion": "slight_handheld_sway",
+      "camera_motion": "handheld_micro_drift",
+      "camera_effect_local": "screen_glow_shallow_dof_bg",
+      "intra_cut_rhythm": "medium",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "mid_frame_path": "ADV-2026-022_frames/cut02_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "smartphone_screen_real_estate_map",
+          "blue_house_price_pins",
+          "holding_fingers"
+        ],
+        "midground": [
+          "phone_body_dark_bezel"
+        ],
+        "background": [
+          "warm_blurred_wood_interior"
+        ],
+        "lighting_env": [
+          "screen_self_lit",
+          "warm_ambient_room"
+        ],
+        "atmosphere": [
+          "digital_map_density",
+          "warm_handheld_intimacy"
+        ]
+      },
+      "texture": {
+        "primary_subject": "glossy_glass_touchscreen",
+        "secondary_objects": [
+          "matte_phone_bezel"
+        ],
+        "background_surface": "warm_blurred_wood",
+        "atmospheric": [
+          "screen_glow",
+          "soft_warm_bokeh"
+        ]
+      },
+      "lighting": {
+        "key_direction": "screen_self_emit_plus_ambient",
+        "key_hardness": "soft",
+        "key_color_temp": "mixed_cool_screen_warm_room",
+        "fill_strength": "medium",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": "none",
+        "practical_lights": [
+          "phone_screen",
+          "room_lamp"
+        ],
+        "shadow_presence": "soft",
+        "overall_contrast": "medium"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#5B6CE0",
+          "#F4F5FB",
+          "#2A2F45",
+          "#C7723E",
+          "#9AA6C8"
+        ],
+        "palette_role": {
+          "#5B6CE0": "toss_blue_price_pins",
+          "#F4F5FB": "map_light_background",
+          "#2A2F45": "pin_text_and_ui_dark",
+          "#C7723E": "warm_interior_spill",
+          "#9AA6C8": "muted_map_road_grey"
+        },
+        "color_relationship": "blue_accent_on_neutral_with_warm_spill",
+        "temperature_balance": "neutral_cool_screen_warm_surround",
+        "saturation_strategy": "saturated_blue_pins_low_neutral_map",
+        "contrast_type": "medium_screen",
+        "accent_color": "#5B6CE0",
+        "accent_ratio": 0.4
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A close-up of a modern black smartphone held at a slight angle in one hand, the glowing screen filling most of a vertical 9:16 frame and showing a real-estate map application densely populated with blue, house-shaped price-marker pins. Subject and pose abstracted: a single hand grips the phone, fingers wrapped around the lower-left edge and a thumb resting near the bottom of the glass, the device tilted so the top recedes slightly. Wardrobe and material: only the hand and a hint of a sleeve are visible; the phone is matte black with a thin dark bezel and a glossy glass touchscreen. Location and background: a warm domestic interior thrown far out of focus behind the device, with soft wood-toned bokeh and a gentle warm glow, the same cozy room as the opening shot. Foreground and props: the phone screen itself is the hero — a stylized neighborhood map in light neutral tones with pale grey roads and faint green park blocks, overlaid with many rounded house-shaped blue pins each carrying a small white price label in Korean won notation such as figures ending in 억 (hundreds-of-millions); a vertical stack of small white rounded toggle chips runs down the right side reading 지도, 주변, 거리, 정책, 숨김. Lighting setup: the screen self-illuminates the fingers in a cool light around 6500K while warm ambient room light around 3000K spills onto the phone body and hand, soft key with medium fill at about 2:1 and gentle shadows. Lens, framing and angle: a macro-to-normal lens at a shallow aperture, shot from a high angle looking down over the hand, close-up scope with the screen critically sharp and the background melting into bokeh. Composition and grid: the screen fills the frame at a handheld diagonal, pins clustered through the center and lower portion. Color palette and strategy with HEX: saturated Toss-style blue pins (#5B6CE0) reading as the dominant accent at roughly forty percent of the screen, light map background (#F4F5FB), dark UI text on pins (#2A2F45), warm interior spill (#C7723E) and muted map-road grey (#9AA6C8); the strategy is a single saturated blue accent floating on a low-saturation neutral map with a warm surrounding glow. Texture and surfaces: glossy reflective glass with faint ceiling reflection, matte phone bezel, warm blurred wood behind. Atmosphere: the dense, slightly overwhelming feeling of a map covered in prices, intimate and handheld. Post and signature look: clean naturalistic grade, mild screen glow and soft warm bokeh, subtle grain, no added graphic chrome beyond the in-screen UI. On-screen caption: the single Korean word '아파트' appears in white rounded sans-serif over the center of the frame — preserve this exact Korean text, and preserve the in-app chip labels 지도, 주변, 거리, 정책, 숨김 as written. Style anchor and nationality: a frame from a Korean fintech super-app explainer, Korean UI realism, authentic over-the-shoulder phone capture rather than a clean render; the app is generic in styling with no real brand logo mark reproduced, and the hand's owner is an entirely generic individual with no real-person likeness.",
+        "t2i_negative": "real brand logo mark, watermark, glamour studio lighting, cartoon flattening, distorted hand, illegible smeared text, extra fingers, harsh reflections obscuring the map",
+        "i2v_motion": "the held phone sways gently with natural handheld micro-motion while the map sits static; a faint reflection slides across the glass; the Korean word '아파트' holds steady over the screen; hard cut out near 1.4s",
+        "i2v_params": {
+          "clip_duration_sec": 1.401,
+          "camera_move": "handheld_micro_drift",
+          "subject_motion_level": "low_hold",
+          "signature_effect": "screen_glow",
+          "pacing": "medium",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen Korean caption and UI chip text preserved; app styling and identity generic"
+      }
+    },
+    {
+      "index": 3,
+      "duration": 1.635,
+      "framing": "CU",
+      "function": "problem_context_price_chart",
+      "subject_action": "the phone shows a property price-trend screen with a line chart and a date tooltip; a thumb drags along the curve; on-screen words 시세 검색하기 then 귀찮다면? appear",
+      "layout_grid": "screen_fill_angled_handheld",
+      "subject_position": "center_phone_screen",
+      "typo_motion": "word_fade_in_swap",
+      "camera_angle": "high_angle_over_hand",
+      "camera_facing": "phone_screen_angled",
+      "shot_scope": "close_up_phone_screen",
+      "gaze": "none",
+      "props": [
+        "smartphone_with_price_chart_ui",
+        "dragging_thumb"
+      ],
+      "color_palette": [
+        "#5B53D6",
+        "#F6F6FA",
+        "#E8584A",
+        "#2B2F45",
+        "#C98A66"
+      ],
+      "color_intent": "indigo_trend_line_with_red_peak_marker",
+      "pose_description": "thumb sweeps left-to-right along an indigo price-trend curve, dragging a vertical scrubber that updates a dated average-price tooltip",
+      "subject_motion": "thumb_drag_along_chart",
+      "camera_motion": "handheld_micro_drift",
+      "camera_effect_local": "screen_glow_shallow_dof_bg",
+      "intra_cut_rhythm": "medium",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "mid_frame_path": "ADV-2026-022_frames/cut03_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "smartphone_price_trend_chart",
+          "indigo_line_graph",
+          "dragging_thumb"
+        ],
+        "midground": [
+          "phone_body_edge"
+        ],
+        "background": [
+          "warm_blurred_interior"
+        ],
+        "lighting_env": [
+          "screen_self_lit",
+          "warm_ambient_room"
+        ],
+        "atmosphere": [
+          "data_chart_focus",
+          "warm_handheld_intimacy"
+        ]
+      },
+      "texture": {
+        "primary_subject": "glossy_glass_touchscreen",
+        "secondary_objects": [
+          "thumb_skin"
+        ],
+        "background_surface": "warm_blurred_interior",
+        "atmospheric": [
+          "screen_glow",
+          "soft_warm_bokeh"
+        ]
+      },
+      "lighting": {
+        "key_direction": "screen_self_emit_plus_ambient",
+        "key_hardness": "soft",
+        "key_color_temp": "mixed_cool_screen_warm_room",
+        "fill_strength": "medium",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": "none",
+        "practical_lights": [
+          "phone_screen",
+          "room_lamp"
+        ],
+        "shadow_presence": "soft",
+        "overall_contrast": "medium"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#5B53D6",
+          "#F6F6FA",
+          "#E8584A",
+          "#2B2F45",
+          "#C98A66"
+        ],
+        "palette_role": {
+          "#5B53D6": "indigo_trend_line",
+          "#F6F6FA": "screen_white_background",
+          "#E8584A": "red_peak_marker_choego",
+          "#2B2F45": "chart_text_dark",
+          "#C98A66": "warm_interior_spill"
+        },
+        "color_relationship": "indigo_red_complementary_accents_on_white",
+        "temperature_balance": "cool_screen_warm_surround",
+        "saturation_strategy": "saturated_indigo_and_red_on_neutral",
+        "contrast_type": "medium_screen",
+        "accent_color": "#5B53D6",
+        "accent_ratio": 0.3
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A close-up of a black smartphone held at a slight diagonal in one hand, its glowing screen filling most of a vertical 9:16 frame and showing a real-estate price-history detail screen. Subject and pose abstracted: a thumb reaches in from the lower portion and drags along a line chart, pulling a thin vertical scrubber that updates a floating tooltip. Wardrobe and material: only the thumb and a hint of hand are visible; the phone is matte black with a glossy glass screen. Location and background: the same warm domestic interior fully defocused behind the device, soft warm bokeh and a gentle glow. Foreground and props: the hero is the screen UI — at the top, two pill tabs labeled 매매 (selected, filled) and 전월세; beneath them a heading line reading 최근 실거래 기준 1개월 평균 with a large price figure '3억 8,200' in indigo; a row of period toggles 최근 3년, 전체 기간, 매매/전세; then a line chart with a smooth indigo price curve rising from about 4억 to a rounded peak near 5억 and dipping at the right; a small red dot labeled 최고 marks the peak; a dark tooltip badge floats over the curve reading a month-stamped average such as '2022.11 평균 5억 300 (0건)'; the thumb drags a vertical reference line across the plot. Lighting setup: the screen self-illuminates the thumb in cool ~6500K light while warm ~3000K room light spills onto the phone body, soft key, medium fill at about 2:1, gentle shadows. Lens, framing and angle: macro-to-normal lens at a shallow aperture, shot from a high angle over the hand, close-up scope, screen text critically sharp, background melting to bokeh. Composition and grid: screen fills the frame at a handheld diagonal, the chart occupying the lower-center. Color palette and strategy with HEX: saturated indigo trend line (#5B53D6) as the dominant accent at roughly thirty percent, screen white (#F6F6FA), a red peak marker (#E8584A) as a small complementary pop, dark chart text (#2B2F45) and warm interior spill (#C98A66); the strategy pairs an indigo line and a small red peak marker against a clean white data screen with a warm surrounding glow. Texture and surfaces: glossy reflective glass, thumb skin, warm blurred interior. Atmosphere: the slightly tedious feeling of scrubbing through a price chart, intimate and handheld. Post and signature look: clean naturalistic grade, mild screen glow and warm bokeh, subtle grain, no added chrome beyond the in-screen UI. On-screen captions: two Korean words appear in sequence over the lower portion of this shot, first '시세 검색하기' then '귀찮다면?', both in white rounded sans-serif — preserve these exact Korean texts, and preserve the in-app labels 매매, 전월세, 최근 실거래 기준 1개월 평균, 3억 8,200, 최근 3년, 전체 기간, 매매/전세, 최고, and the tooltip '2022.11 평균 5억 300 (0건)' as written. Style anchor and nationality: a frame from a Korean fintech super-app explainer, authentic over-the-shoulder phone capture, Korean UI realism; the app is generic with no real brand logo mark, and the hand's owner is an entirely generic person with no real-person likeness.",
+        "t2i_negative": "real brand logo mark, watermark, glamour lighting, cartoon flattening, distorted thumb, smeared illegible numbers, extra fingers, harsh glare hiding the chart",
+        "i2v_motion": "the thumb sweeps left-to-right along the indigo curve, the vertical scrubber and the dated tooltip update as it moves, the phone sways with gentle handheld motion; Korean words '시세 검색하기' then '귀찮다면?' fade in and swap over the lower frame; hard cut out near 1.6s",
+        "i2v_params": {
+          "clip_duration_sec": 1.635,
+          "camera_move": "handheld_micro_drift",
+          "subject_motion_level": "low_thumb_drag",
+          "signature_effect": "screen_glow",
+          "pacing": "medium",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen Korean captions and UI/number text preserved; app styling and identity generic"
+      }
+    },
+    {
+      "index": 4,
+      "duration": 3.003,
+      "framing": "MS",
+      "function": "title_card_setup_presenter",
+      "subject_action": "the same woman sits at a desk holding her phone, speaking warmly to camera; a torn-paper CONTENT title card floats above her reading 찜해 둔 아파트 / 토스로 시세 알림 받기",
+      "layout_grid": "centered_subject_card_above",
+      "subject_position": "center",
+      "typo_motion": "title_card_static_hold",
+      "camera_angle": "eye_level",
+      "camera_facing": "front",
+      "shot_scope": "medium_shot_waist_up",
+      "gaze": "to_camera",
+      "props": [
+        "black_smartphone_in_hands",
+        "desk",
+        "bookshelf",
+        "desk_lamp",
+        "torn_paper_title_card"
+      ],
+      "color_palette": [
+        "#D2643A",
+        "#7A4B2E",
+        "#2A1C12",
+        "#EFD9C2",
+        "#2D5FA8"
+      ],
+      "color_intent": "warm_study_with_blue_ink_title",
+      "pose_description": "seated upright at a desk, both hands cradling the phone at chest height, head facing camera, mouth mid-sentence with a friendly engaged expression",
+      "subject_motion": "natural_talking_head_gestures",
+      "camera_motion": "static_locked",
+      "camera_effect_local": "shallow_dof_warm_bokeh_bg",
+      "intra_cut_rhythm": "medium",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "mid_frame_path": "ADV-2026-022_frames/cut04_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "presenter_waist_up",
+          "black_smartphone_in_hands"
+        ],
+        "midground": [
+          "wooden_desk_edge",
+          "notebook_and_pen"
+        ],
+        "background": [
+          "warm_wooden_bookshelf",
+          "desk_lamp_left",
+          "decorative_objects_blurred"
+        ],
+        "lighting_env": [
+          "warm_tungsten_interior",
+          "soft_key_on_face"
+        ],
+        "atmosphere": [
+          "cozy_home_study",
+          "friendly_explainer_mood"
+        ]
+      },
+      "texture": {
+        "primary_subject": "smooth_natural_skin",
+        "secondary_objects": [
+          "soft_coral_knit_sweater",
+          "matte_black_phone",
+          "torn_paper_fiber_edge"
+        ],
+        "background_surface": "warm_wooden_shelving_bokeh",
+        "atmospheric": [
+          "soft_warm_bloom"
+        ]
+      },
+      "lighting": {
+        "key_direction": "front_left_soft",
+        "key_hardness": "soft",
+        "key_color_temp": "warm_3200K",
+        "fill_strength": "medium",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": "soft_warm_hair_rim",
+        "practical_lights": [
+          "desk_lamp_left",
+          "ambient_room"
+        ],
+        "shadow_presence": "soft",
+        "overall_contrast": "medium_low"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#D2643A",
+          "#7A4B2E",
+          "#2A1C12",
+          "#EFD9C2",
+          "#2D5FA8"
+        ],
+        "palette_role": {
+          "#D2643A": "coral_sweater_and_hair_warm",
+          "#7A4B2E": "wooden_bookshelf_midtone",
+          "#2A1C12": "warm_dark_shadow",
+          "#EFD9C2": "warm_skin_and_paper_card",
+          "#2D5FA8": "blue_ink_title_accent"
+        },
+        "color_relationship": "warm_dominant_with_blue_ink_accent",
+        "temperature_balance": "warm_dominant",
+        "saturation_strategy": "warm_medium_with_single_blue_pop",
+        "contrast_type": "soft_warm",
+        "accent_color": "#2D5FA8",
+        "accent_ratio": 0.12
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A medium waist-up shot of a Korean woman in her late twenties to early thirties seated at a desk in a warm home study, centered in a vertical 9:16 frame and speaking directly to camera with a friendly, engaged expression, mouth caught mid-sentence. Subject and pose abstracted: she sits upright, both hands cradling a matte black smartphone at chest height, shoulders relaxed, head facing forward. Wardrobe and material: the same coral-red fine-gauge V-neck knit sweater with a thin gold necklace, shoulder-length warm auburn-ginger hair with soft bangs, smooth natural skin with light makeup. Location and background: a cozy home study with a warm wooden bookshelf filling the background in soft focus, a desk lamp glowing on the left, a few blurred decorative objects on the shelves, and a wooden desk edge with a notebook and pen in the lower foreground. Foreground and props: the black phone held in both hands, the desk and stationery. Title-card region: floating above her head is a torn-edged off-white paper card, slightly skewed, printed like an index card with a thin blue rule border; its small label reads CONTENT, its bold Korean headline reads on two lines '찜해 둔 아파트' and '토스로 시세 알림 받기', and along the bottom run small hand-written field labels SERVICE 부동산 시세 알림, YEAR 2024, CATEGORY 부동산 / 공공서비스 / 송금, PRODUCTION TEAM #team_homeloan. Lighting setup: a soft warm key from the front-left around 3200K, medium fill at about 2:1, a soft warm hair rim from the lamp, gentle soft shadows and medium-low contrast, motivated by the desk lamp and ambient room light. Lens, framing and angle: an 85mm-equivalent lens at a shallow aperture around f/2, eye level, medium scope with the subject sharp and the bookshelf melting into warm bokeh. Composition and grid: the subject centered with the torn-paper card occupying the upper third as a clean graphic anchor. Color palette and strategy with HEX: warm coral sweater and auburn hair (#D2643A), wooden bookshelf midtone (#7A4B2E), warm dark shadow (#2A1C12), warm skin and paper card (#EFD9C2) and a single blue ink title accent (#2D5FA8) at roughly twelve percent; the strategy is a warm-dominant study palette punctuated by the cool blue card text. Texture and surfaces: smooth skin, soft knit weave, matte phone, the fibrous torn edge and slight paper grain of the card, warm wooden shelving. Atmosphere: an inviting, trustworthy home-explainer mood, like a friend about to show you a tip. Post and signature look: warm naturalistic grade, gentle bloom, subtle film grain, the paper card carrying a faint print texture. On-screen text: preserve verbatim the Korean title card text '찜해 둔 아파트', '토스로 시세 알림 받기', and the field labels CONTENT, SERVICE 부동산 시세 알림, YEAR 2024, CATEGORY 부동산 / 공공서비스 / 송금, PRODUCTION TEAM #team_homeloan. Style anchor and nationality: a frame from a Korean social-commerce hidden-service explainer, Korean commercial realism with warm domestic tones; the presenter is an entirely generic individual with no real-person or celebrity likeness, and any brand mark is generic or omitted. Additional production context: the framing is vertical and built for a phone feed, so the presenter sits a little lower in the frame to leave clean upper space for the floating title card, and the depth of field is shallow enough that the bookshelf reads only as warm color and soft shape rather than legible objects. The mood the image should communicate is approachable expertise: a relatable everyday person who has found a useful trick and is about to share it, not a polished studio host, so her posture is slightly informal, her gesture with the phone is natural and unstaged, and the warm practical lamp light gives the whole scene the lived-in quality of a real home study in the evening rather than a lit set. The torn-paper title card should feel like a handmade index-card label pinned over the footage, with a faint analog print texture and a slightly imperfect skew, reinforcing the friendly do-it-yourself tone of the whole piece while keeping the bold Korean headline and the small field labels perfectly crisp and readable against the warm background.",
+        "t2i_negative": "real brand logo mark, watermark, cool clinical lighting, green-screen studio, distorted hands, illegible card text, extra fingers, oversharpened skin, HDR",
+        "i2v_motion": "the woman speaks with small natural talking-head motions, slight head tilts and hand shifts on the phone; the torn-paper title card holds steady above her with only the faintest settle; camera stays locked; hard cut out near 3.0s",
+        "i2v_params": {
+          "clip_duration_sec": 3.003,
+          "camera_move": "locked_static",
+          "subject_motion_level": "low_medium_talking",
+          "signature_effect": "warm_shallow_dof_bokeh",
+          "pacing": "medium",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; all on-screen Korean title-card text preserved verbatim; identity and brand marks generic"
+      }
+    },
+    {
+      "index": 5,
+      "duration": 3.604,
+      "framing": "CU",
+      "function": "step1_search_service",
+      "subject_action": "overhead view of a phone flat on a brown leather desk showing a Toss search with 부동산 typed and a 서비스 result list; a finger taps 부동산 시세; caption pills read '전체 탭'에서 then '부동산 시세'를 검색해주세요",
+      "layout_grid": "centered_phone_lower_third_caption",
+      "subject_position": "center",
+      "typo_motion": "caption_pill_swap",
+      "camera_angle": "top_down_overhead",
+      "camera_facing": "screen_flat_up",
+      "shot_scope": "close_up_full_phone",
+      "gaze": "none",
+      "props": [
+        "smartphone_flat_on_desk",
+        "brown_leather_surface",
+        "tapping_finger"
+      ],
+      "color_palette": [
+        "#FFFFFF",
+        "#3A3A3C",
+        "#2F6BFF",
+        "#5A4636",
+        "#9BA0A6"
+      ],
+      "color_intent": "clean_white_search_ui_on_leather",
+      "pose_description": "a single index finger reaches in to tap the 부동산 시세 service row on a white search-results screen, the phone lying flat and centered",
+      "subject_motion": "finger_tap_then_retract",
+      "camera_motion": "static_locked_overhead",
+      "camera_effect_local": "even_flat_lighting",
+      "intra_cut_rhythm": "medium",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "mid_frame_path": "ADV-2026-022_frames/cut05_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "smartphone_search_screen",
+          "korean_keyboard",
+          "tapping_index_finger"
+        ],
+        "midground": [
+          "phone_body_on_desk"
+        ],
+        "background": [
+          "brown_leather_desk_surface",
+          "yellow_object_edge_top_left"
+        ],
+        "lighting_env": [
+          "soft_even_overhead_diffuse",
+          "screen_self_lit"
+        ],
+        "atmosphere": [
+          "clean_tabletop_demo",
+          "neutral_instructional"
+        ]
+      },
+      "texture": {
+        "primary_subject": "glossy_glass_touchscreen",
+        "secondary_objects": [
+          "matte_phone_frame",
+          "finger_skin"
+        ],
+        "background_surface": "pebbled_brown_leather",
+        "atmospheric": [
+          "soft_even_sheen"
+        ]
+      },
+      "lighting": {
+        "key_direction": "overhead_diffuse",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_5000K",
+        "fill_strength": "high_even",
+        "key_to_fill_ratio": "1.5:1",
+        "rim_light": "none",
+        "practical_lights": [
+          "soft_overhead_diffusion",
+          "phone_screen"
+        ],
+        "shadow_presence": "soft_contact_shadow",
+        "overall_contrast": "low"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#FFFFFF",
+          "#3A3A3C",
+          "#2F6BFF",
+          "#5A4636",
+          "#9BA0A6"
+        ],
+        "palette_role": {
+          "#FFFFFF": "search_screen_white",
+          "#3A3A3C": "ui_text_dark",
+          "#2F6BFF": "toss_blue_highlight_keyword",
+          "#5A4636": "brown_leather_surround",
+          "#9BA0A6": "keyboard_grey"
+        },
+        "color_relationship": "blue_accent_on_white_with_brown_surround",
+        "temperature_balance": "neutral_screen_warm_surround",
+        "saturation_strategy": "low_neutral_ui_single_blue_accent",
+        "contrast_type": "low_clean",
+        "accent_color": "#2F6BFF",
+        "accent_ratio": 0.12
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A top-down overhead close-up of a black smartphone lying flat and centered on a pebbled brown leather desk, the bright screen filling most of a vertical 9:16 frame and showing a finance super-app search interface. Subject and pose abstracted: a single index finger reaches in from the lower-right to tap a row in the results list, the phone held perfectly flat. Wardrobe and material: only the finger and a hint of hand are visible; the phone is matte black, the desk is rich brown grained leather. Location and background: the leather surface fills the surround with a soft even sheen, with a small out-of-focus yellow object intruding at the very top-left edge of frame. Foreground and props: the hero is the screen — at the top a search field with a magnifier icon containing the typed Korean word 부동산 and a circular clear-X and a 취소 button; a 추천 키워드 label above a row of grey suggestion chips reading 내 집 시세 조회, 부동산 시세 알림, 부동...; a 서비스 section listing rows: a house icon with 부동산 시세 (the word 부동산 highlighted blue), 내 부동산 추가하기 with subtitle 부동산 시세, 주택담보대출 찾기, and 투자로 돈 불리기; the lower third of the screen shows a Korean Hangul keyboard with light keys and a blue 검색 key; the status bar reads 11:50 and 5G. Lighting setup: soft even overhead diffusion at a neutral ~5000K with high even fill at about 1.5:1, only a soft contact shadow under the phone, low overall contrast for a clean documentary tabletop look, plus the screen's own light. Lens, framing and angle: a normal lens at a moderate aperture shot straight down from directly overhead, close-up scope with the entire phone and its on-screen text crisply legible. Composition and grid: the phone centered vertically with generous leather margin, and a caption region pinned to the lower third. Color palette and strategy with HEX: search-screen white (#FFFFFF), dark UI text (#3A3A3C), a single Toss-style blue highlight on the matched keyword (#2F6BFF) at roughly twelve percent, brown leather surround (#5A4636) and keyboard grey (#9BA0A6); the strategy is a clean low-saturation white UI with one blue accent over a warm brown surround. Texture and surfaces: glossy glass screen, matte phone frame, finger skin, pebbled leather grain. Atmosphere: a calm, neutral instructional tabletop demo. Post and signature look: clean even grade, minimal grain, no added chrome beyond the in-screen UI and the caption pill. On-screen captions: a grey-black rounded pill caption sits in the lower third and swaps between two Korean lines across this shot, first '전체 탭'에서 then '부동산 시세'를 검색해주세요, in white sans-serif — preserve these exact Korean texts, and preserve all in-app text 부동산, 취소, 추천 키워드, 내 집 시세 조회, 부동산 시세 알림, 부동산 시세, 내 부동산 추가하기, 주택담보대출 찾기, 투자로 돈 불리기, 검색 as written. Style anchor and nationality: a frame from a Korean fintech super-app explainer, authentic overhead phone-on-desk screen capture, Korean UI realism; the app is generic with no real brand logo mark reproduced, and the hand's owner is an entirely generic individual with no real-person likeness.",
+        "t2i_negative": "real brand logo mark, watermark, dramatic side lighting, tilted phone, distorted finger, smeared illegible UI text, extra fingers, color cast on leather",
+        "i2v_motion": "an index finger enters from lower-right, taps the 부동산 시세 result row and retracts; the screen transitions toward the next registration step; the lower-third pill caption swaps from '전체 탭'에서 to '부동산 시세'를 검색해주세요; camera stays locked overhead; hard cut out near 3.6s",
+        "i2v_params": {
+          "clip_duration_sec": 3.604,
+          "camera_move": "locked_overhead",
+          "subject_motion_level": "low_finger_tap",
+          "signature_effect": "flat_even_screen",
+          "pacing": "medium",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen Korean caption pills and all UI text preserved verbatim; app styling and identity generic"
+      }
+    },
+    {
+      "index": 6,
+      "duration": 14.715,
+      "framing": "CU",
+      "function": "step2_register_property_walkthrough",
+      "subject_action": "one continuous overhead screen-recording: registering an apartment by name and area, optionally entering purchase price, completing registration, and viewing the 매매/전세 transaction-trend charts; caption pills step through the how-to lines",
+      "layout_grid": "centered_phone_lower_third_caption",
+      "subject_position": "center",
+      "typo_motion": "caption_pill_swap_sequence",
+      "camera_angle": "top_down_overhead",
+      "camera_facing": "screen_flat_up",
+      "shot_scope": "close_up_full_phone",
+      "gaze": "none",
+      "props": [
+        "smartphone_flat_on_desk",
+        "brown_leather_surface",
+        "typing_and_tapping_finger"
+      ],
+      "color_palette": [
+        "#FFFFFF",
+        "#2F6BFF",
+        "#3A3A3C",
+        "#5A4636",
+        "#4E8CF0"
+      ],
+      "color_intent": "clean_white_registration_ui_with_blue_actions",
+      "pose_description": "a finger types an apartment name into an address field, selects an area option from a sheet, dismisses a price modal, then drags along the 매매 trend chart, the phone lying flat and centered throughout",
+      "subject_motion": "finger_typing_selecting_scrolling",
+      "camera_motion": "static_locked_overhead",
+      "camera_effect_local": "even_flat_lighting",
+      "intra_cut_rhythm": "steady",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "mid_frame_path": "ADV-2026-022_frames/cut06_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "smartphone_registration_screens",
+          "input_fields_and_buttons",
+          "typing_finger"
+        ],
+        "midground": [
+          "phone_body_on_desk"
+        ],
+        "background": [
+          "brown_leather_desk_surface",
+          "yellow_object_edge_top_left"
+        ],
+        "lighting_env": [
+          "soft_even_overhead_diffuse",
+          "screen_self_lit"
+        ],
+        "atmosphere": [
+          "clean_tabletop_demo",
+          "neutral_instructional"
+        ]
+      },
+      "texture": {
+        "primary_subject": "glossy_glass_touchscreen",
+        "secondary_objects": [
+          "matte_phone_frame",
+          "finger_skin"
+        ],
+        "background_surface": "pebbled_brown_leather",
+        "atmospheric": [
+          "soft_even_sheen"
+        ]
+      },
+      "lighting": {
+        "key_direction": "overhead_diffuse",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_5000K",
+        "fill_strength": "high_even",
+        "key_to_fill_ratio": "1.5:1",
+        "rim_light": "none",
+        "practical_lights": [
+          "soft_overhead_diffusion",
+          "phone_screen"
+        ],
+        "shadow_presence": "soft_contact_shadow",
+        "overall_contrast": "low"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#FFFFFF",
+          "#2F6BFF",
+          "#3A3A3C",
+          "#5A4636",
+          "#4E8CF0"
+        ],
+        "palette_role": {
+          "#FFFFFF": "registration_screen_white",
+          "#2F6BFF": "blue_primary_button_register",
+          "#3A3A3C": "ui_text_dark",
+          "#5A4636": "brown_leather_surround",
+          "#4E8CF0": "blue_link_and_chart_accent"
+        },
+        "color_relationship": "blue_actions_on_white_with_brown_surround",
+        "temperature_balance": "neutral_screen_warm_surround",
+        "saturation_strategy": "low_neutral_ui_with_blue_action_accents",
+        "contrast_type": "low_clean",
+        "accent_color": "#2F6BFF",
+        "accent_ratio": 0.15
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A top-down overhead close-up of a black smartphone lying flat and centered on a pebbled brown leather desk, its bright white screen filling most of a vertical 9:16 frame, captured as one continuous screen-recording of a real-estate registration flow. Subject and pose abstracted: a single finger types, selects and scrolls across a sequence of clean white app screens, the phone held perfectly flat. Wardrobe and material: only the finger and a hint of hand are visible; matte black phone, rich brown grained leather desk. Location and background: the leather fills the surround with a soft even sheen and a small out-of-focus yellow object at the top-left edge. Foreground and props as a multi-step screen sequence: first a registration screen headed 관심있는 부동산을 등록해보세요 with subtitle 부동산을 등록하면 시세/실거래가를 확인할 수 있어요 and a field labeled 주소 또는 건물 이름 with placeholder 역삼동 롯데캐슬, where the finger types Korean characters building 참누리 and an autocomplete list of full addresses appears; then a property detail screen showing 행복마을... 경기도 화성시 기산동, a blue area selector chip 전용 84.91㎡, 최근 시세 with a large figure such as 3억 8,000만원, 매매/전세/월세 tabs, a 구입 시 가격 ___만원 field, and a blue 등록 button; a 면적 선택 sheet listing 전용 59.91㎡ (24평), 전용 84.91㎡ (33평), 전용 119.45㎡ (45평), 잘 모르겠어요 (제일 작은 면적 선택); a modal reading 금액이 아직 입력되지 않았어요. 나중에 입력할까요? with 이어하기 and a red 나중에 하기 button; and finally a registered-property view with 아파트 | 매매 | 전용 84.91㎡ (33평), 최근 시세 3억 8,000만원, 내 구입가 입력하기, a 최근 실거래 blue line chart and dated rows like 2024년 1월 19일 3억 8,500만원 11층 84.91㎡, 국토교통부 제공, plus a green toast 부동산 등록을 완료했어요. Lighting setup: soft even overhead diffusion at neutral ~5000K, high even fill at about 1.5:1, only a soft contact shadow, low contrast for a clean documentary tabletop look, plus screen light. Lens, framing and angle: a normal lens at a moderate aperture shot straight down from overhead, close-up scope with all on-screen text crisply legible. Composition and grid: the phone centered with generous leather margin and a caption pill pinned to the lower third. Color palette and strategy with HEX: registration white (#FFFFFF), a blue primary 등록 button (#2F6BFF) at roughly fifteen percent, dark UI text (#3A3A3C), brown leather surround (#5A4636) and a blue link/chart accent (#4E8CF0); the strategy is a clean low-saturation white UI with blue action accents over a warm brown surround. Texture and surfaces: glossy glass, matte frame, finger skin, pebbled leather. Atmosphere: a calm, methodical step-by-step demo. Post and signature look: clean even grade, minimal grain, no chrome beyond the in-screen UI and caption pill. On-screen captions: a grey-black rounded pill in the lower third steps through Korean lines across this long shot — '시세를 확인할 부동산 주소와', '면적을 선택하고', '만약 보유 중인 부동산이라면', '내가 샀던 가격도', '입력할 수 있어요', '부동산 등록을 완료하면', '내가 관심 있는 아파트의', '거래 추이를 확인할 수 있고' — preserve these exact Korean texts, and preserve all in-app text including 관심있는 부동산을 등록해보세요, 주소 또는 건물 이름, 면적 선택, 전용 84.91㎡ (33평), 최근 시세, 3억 8,000만원, 매매, 전세, 월세, 등록, 금액이 아직 입력되지 않았어요. 나중에 입력할까요?, 이어하기, 나중에 하기, 최근 실거래, 국토교통부 제공, 부동산 등록을 완료했어요 as written. Style anchor and nationality: a frame from a Korean fintech super-app explainer, authentic overhead phone-on-desk screen capture, Korean UI realism; the app is generic with no real brand logo mark, the demo property is anonymized, and the hand's owner is an entirely generic individual with no real-person likeness.",
+        "t2i_negative": "real brand logo mark, watermark, dramatic lighting, tilted phone, distorted finger, smeared illegible UI text, real personal address, extra fingers, color cast on leather",
+        "i2v_motion": "continuous: the finger types Korean characters into the address field and an autocomplete list expands, taps a property and an area-selection sheet slides up, dismisses a red-buttoned price modal, then the registered view loads with a green completion toast and the finger drags along the 매매 trend chart; the lower-third pill caption advances through the Korean how-to lines in sync with the voiceover; camera stays locked overhead for the whole ~14.7s; hard cut out at the end",
+        "i2v_params": {
+          "clip_duration_sec": 14.715,
+          "camera_move": "locked_overhead",
+          "subject_motion_level": "medium_typing_scrolling",
+          "signature_effect": "flat_even_screen",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; long continuous screen-recording; all on-screen Korean caption pills and UI text preserved verbatim; app styling and identity generic, demo property anonymized"
+      }
+    },
+    {
+      "index": 7,
+      "duration": 5.372,
+      "framing": "CU",
+      "function": "step3_jeonse_wolse_and_nearby_prices",
+      "subject_action": "overhead screen-recording continues: switching to 전세 then 월세 tabs and scrolling to 주변 부동산 시세 with area toggles and neighbor listings; caption pills read 전세와 월세, 주변 아파트의 시세까지, 같이 볼 수 있어요",
+      "layout_grid": "centered_phone_lower_third_caption",
+      "subject_position": "center",
+      "typo_motion": "caption_pill_swap",
+      "camera_angle": "top_down_overhead",
+      "camera_facing": "screen_flat_up",
+      "shot_scope": "close_up_full_phone",
+      "gaze": "none",
+      "props": [
+        "smartphone_flat_on_desk",
+        "brown_leather_surface",
+        "tapping_finger"
+      ],
+      "color_palette": [
+        "#FFFFFF",
+        "#4E8CF0",
+        "#3A3A3C",
+        "#5A4636",
+        "#2F6BFF"
+      ],
+      "color_intent": "clean_white_charts_blue_lines_on_leather",
+      "pose_description": "a finger taps the 전세 then 월세 tabs and scrolls the page, revealing rate charts and a nearby-prices block, the phone lying flat and centered",
+      "subject_motion": "finger_tap_tabs_and_scroll",
+      "camera_motion": "static_locked_overhead",
+      "camera_effect_local": "even_flat_lighting",
+      "intra_cut_rhythm": "steady",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "mid_frame_path": "ADV-2026-022_frames/cut07_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "smartphone_rate_charts",
+          "jeonse_wolse_tabs",
+          "tapping_finger"
+        ],
+        "midground": [
+          "phone_body_on_desk"
+        ],
+        "background": [
+          "brown_leather_desk_surface",
+          "yellow_object_edge_top_left"
+        ],
+        "lighting_env": [
+          "soft_even_overhead_diffuse",
+          "screen_self_lit"
+        ],
+        "atmosphere": [
+          "clean_tabletop_demo",
+          "neutral_instructional"
+        ]
+      },
+      "texture": {
+        "primary_subject": "glossy_glass_touchscreen",
+        "secondary_objects": [
+          "matte_phone_frame",
+          "finger_skin"
+        ],
+        "background_surface": "pebbled_brown_leather",
+        "atmospheric": [
+          "soft_even_sheen"
+        ]
+      },
+      "lighting": {
+        "key_direction": "overhead_diffuse",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_5000K",
+        "fill_strength": "high_even",
+        "key_to_fill_ratio": "1.5:1",
+        "rim_light": "none",
+        "practical_lights": [
+          "soft_overhead_diffusion",
+          "phone_screen"
+        ],
+        "shadow_presence": "soft_contact_shadow",
+        "overall_contrast": "low"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#FFFFFF",
+          "#4E8CF0",
+          "#3A3A3C",
+          "#5A4636",
+          "#2F6BFF"
+        ],
+        "palette_role": {
+          "#FFFFFF": "chart_screen_white",
+          "#4E8CF0": "blue_trend_line_chart",
+          "#3A3A3C": "ui_text_dark",
+          "#5A4636": "brown_leather_surround",
+          "#2F6BFF": "active_tab_underline_blue"
+        },
+        "color_relationship": "blue_chart_on_white_with_brown_surround",
+        "temperature_balance": "neutral_screen_warm_surround",
+        "saturation_strategy": "low_neutral_ui_with_blue_chart_accent",
+        "contrast_type": "low_clean",
+        "accent_color": "#4E8CF0",
+        "accent_ratio": 0.18
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A top-down overhead close-up of a black smartphone lying flat and centered on a pebbled brown leather desk, its bright white screen filling most of a vertical 9:16 frame, continuing a screen-recording of a real-estate detail page. Subject and pose abstracted: a finger taps tabs and scrolls, the phone held perfectly flat. Wardrobe and material: only the finger and a hint of hand are visible; matte black phone, rich brown grained leather. Location and background: the leather fills the surround with a soft even sheen and a small out-of-focus yellow object at the top-left edge. Foreground and props as a screen sequence: three tabs 매매 / 전세 / 월세 with the active one underlined, beneath them a line such as 전용 84.91㎡ (33평) | 최근 시세 and a price figure (for 전세 about 2억 7,000만원, for 월세 about 2,000만원 · 114만원); a 최근 실거래 heading over a blue line chart with axis labels in 억/만원 and a 국토교통부 제공 note; dated transaction rows like 2024년 2월 7일 2억 7,000만원 12층 84.91㎡; then a scrolled-down 주변 부동산 시세 block with area toggle chips 기산동 / 화성시 / 경기도, a note 전용 84.91㎡ (33평) 기준 · KB부동산 제공, neighbor rows showing values like 2,000만원 / 105만원 and 2,000만원 / 115만원, and an 오늘의 부동산 팁 card. Lighting setup: soft even overhead diffusion at neutral ~5000K, high even fill at about 1.5:1, only a soft contact shadow, low contrast for a clean tabletop look, plus screen light. Lens, framing and angle: a normal lens at a moderate aperture shot straight down from overhead, close-up scope with all on-screen text crisply legible. Composition and grid: the phone centered with leather margin and a caption pill pinned to the lower third. Color palette and strategy with HEX: chart white (#FFFFFF), a blue trend line (#4E8CF0) at roughly eighteen percent, dark UI text (#3A3A3C), brown leather surround (#5A4636) and an active-tab underline blue (#2F6BFF); the strategy is a clean low-saturation white UI with blue chart accents over a warm brown surround. Texture and surfaces: glossy glass, matte frame, finger skin, pebbled leather. Atmosphere: a calm, methodical comparison demo. Post and signature look: clean even grade, minimal grain, no chrome beyond the in-screen UI and caption pill. On-screen captions: a grey-black rounded pill in the lower third swaps among Korean lines '전세와 월세', '주변 아파트의 시세까지', '같이 볼 수 있어요' — preserve these exact Korean texts, and preserve all in-app text 매매, 전세, 월세, 전용 84.91㎡ (33평), 최근 시세, 2억 7,000만원, 2,000만원 · 114만원, 최근 실거래, 국토교통부 제공, 주변 부동산 시세, 기산동, 화성시, 경기도, KB부동산 제공, 오늘의 부동산 팁 as written. Style anchor and nationality: a frame from a Korean fintech super-app explainer, authentic overhead phone-on-desk screen capture, Korean UI realism; the app is generic with no real brand logo mark, the demo property is anonymized, and the hand's owner is an entirely generic individual with no real-person likeness. Additional production context: this shot is the comparison beat of the walkthrough, so the visual emphasis is on how effortlessly the same registered apartment can be viewed across the three deal types, and the rate charts for 전세 and 월세 should read as slightly noisier, lower-amplitude line plots than the smoother 매매 sale-price curve, distinguishing the data at a glance. The overhead framing stays perfectly square to the phone so the screen never keystones, the contact shadow under the device is soft and even, and the brown leather grain remains visible but unobtrusive at the margins to keep all attention on the white screen. The neighbor-prices block lower on the page should feel like a natural continuation of the same scroll rather than a separate screen, with the small area-toggle chips and the per-listing rent figures kept crisp and legible, while the bottom-pinned grey caption pill remains the only graphic overlay added on top of the otherwise pure screen-recording, preserving the clean instructional documentary feel of the whole sequence.",
+        "t2i_negative": "real brand logo mark, watermark, dramatic lighting, tilted phone, distorted finger, smeared illegible numbers, extra fingers, color cast on leather",
+        "i2v_motion": "the finger taps the 전세 tab then the 월세 tab, the chart and price figures swap, then the page scrolls down to reveal the 주변 부동산 시세 block with area toggles; the lower-third pill caption swaps through '전세와 월세', '주변 아파트의 시세까지', '같이 볼 수 있어요'; camera stays locked overhead; hard cut out near 5.4s",
+        "i2v_params": {
+          "clip_duration_sec": 5.372,
+          "camera_move": "locked_overhead",
+          "subject_motion_level": "low_medium_tap_scroll",
+          "signature_effect": "flat_even_screen",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen Korean caption pills and all UI text preserved verbatim; app styling and identity generic, demo property anonymized"
+      }
+    },
+    {
+      "index": 8,
+      "duration": 1.768,
+      "framing": "CU",
+      "function": "payoff_setup_push_notification_lockscreen",
+      "subject_action": "the same phone now lies dark on the desk then its lockscreen wakes showing a Toss push notification banner; caption pill reads 새로운 거래가 이루어지면",
+      "layout_grid": "centered_phone_lower_third_caption",
+      "subject_position": "center",
+      "typo_motion": "caption_pill_static",
+      "camera_angle": "top_down_overhead",
+      "camera_facing": "screen_flat_up",
+      "shot_scope": "close_up_full_phone",
+      "gaze": "none",
+      "props": [
+        "smartphone_lockscreen_flat",
+        "brown_leather_surface"
+      ],
+      "color_palette": [
+        "#9EC9E8",
+        "#1A1C20",
+        "#E8EEF2",
+        "#5A4636",
+        "#3A7BD5"
+      ],
+      "color_intent": "blue_lockscreen_wallpaper_with_notification",
+      "pose_description": "the phone lies flat and untouched, its blue abstract lockscreen lit with the time and a notification banner sliding in at the bottom",
+      "subject_motion": "notification_banner_appears",
+      "camera_motion": "static_locked_overhead",
+      "camera_effect_local": "even_flat_lighting",
+      "intra_cut_rhythm": "slow",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "mid_frame_path": "ADV-2026-022_frames/cut08_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "smartphone_lockscreen",
+          "toss_push_notification_banner"
+        ],
+        "midground": [
+          "phone_body_on_desk"
+        ],
+        "background": [
+          "brown_leather_desk_surface",
+          "yellow_object_edge_top_left"
+        ],
+        "lighting_env": [
+          "soft_even_overhead_diffuse",
+          "screen_self_lit_blue"
+        ],
+        "atmosphere": [
+          "quiet_waiting_moment",
+          "neutral_instructional"
+        ]
+      },
+      "texture": {
+        "primary_subject": "glossy_glass_touchscreen",
+        "secondary_objects": [
+          "matte_phone_frame"
+        ],
+        "background_surface": "pebbled_brown_leather",
+        "atmospheric": [
+          "soft_even_sheen"
+        ]
+      },
+      "lighting": {
+        "key_direction": "overhead_diffuse",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_5000K",
+        "fill_strength": "high_even",
+        "key_to_fill_ratio": "1.5:1",
+        "rim_light": "none",
+        "practical_lights": [
+          "soft_overhead_diffusion",
+          "phone_screen_blue"
+        ],
+        "shadow_presence": "soft_contact_shadow",
+        "overall_contrast": "low"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#9EC9E8",
+          "#1A1C20",
+          "#E8EEF2",
+          "#5A4636",
+          "#3A7BD5"
+        ],
+        "palette_role": {
+          "#9EC9E8": "blue_lockscreen_wallpaper",
+          "#1A1C20": "dark_phone_and_text",
+          "#E8EEF2": "notification_banner_light",
+          "#5A4636": "brown_leather_surround",
+          "#3A7BD5": "toss_notification_icon_blue"
+        },
+        "color_relationship": "cool_blue_screen_on_warm_brown_surround",
+        "temperature_balance": "cool_screen_warm_surround",
+        "saturation_strategy": "soft_cool_screen_low_neutral",
+        "contrast_type": "low_medium",
+        "accent_color": "#3A7BD5",
+        "accent_ratio": 0.1
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A top-down overhead close-up of a black smartphone lying flat and centered on a pebbled brown leather desk, filling a vertical 9:16 frame, its lockscreen waking from dark. Subject and pose abstracted: the phone is untouched and flat, no finger present, the screen glowing with a soft blue abstract wallpaper. Wardrobe and material: no hands; matte black phone, rich brown grained leather desk. Location and background: the leather fills the surround with a soft even sheen and a small out-of-focus yellow object at the top-left edge. Foreground and props: the hero is the lockscreen — a status bar reading LG U+, a mute icon, a lock glyph and 5G; a large clock showing 11:51 with the date line 2월 23일 금요일 above it; the wallpaper is a flowing pale-blue abstract gradient; near the bottom a notification stack appears, the top banner being a Toss app notification showing a small rounded app icon, the title 토스 and 1 알림, with a second collapsed line beneath; small flashlight and camera lock controls sit at the very bottom corners. Lighting setup: soft even overhead diffusion at neutral ~5000K with high even fill at about 1.5:1, only a soft contact shadow, low-medium contrast for a clean tabletop look, plus the cool blue screen glow. Lens, framing and angle: a normal lens at a moderate aperture shot straight down from overhead, close-up scope with the lockscreen text crisply legible. Composition and grid: the phone centered with leather margin, the notification at the lower portion of the screen and a caption pill pinned to the lower third of the video frame. Color palette and strategy with HEX: pale blue lockscreen wallpaper (#9EC9E8), dark phone and text (#1A1C20), light notification banner (#E8EEF2), brown leather surround (#5A4636) and a Toss-style blue notification icon (#3A7BD5) at roughly ten percent; the strategy is a soft cool blue screen floating on a warm brown surround. Texture and surfaces: glossy glass, matte frame, pebbled leather. Atmosphere: a quiet waiting beat, the phone resting until it lights up on its own. Post and signature look: clean even grade, minimal grain, gentle screen bloom, no chrome beyond the in-screen UI and caption pill. On-screen caption: a grey-black rounded pill in the lower third reads the Korean line '새로운 거래가 이루어지면' in white sans-serif — preserve this exact Korean text, and preserve the lockscreen text 2월 23일 금요일, 11:51, 토스, 1 알림, LG U+, 5G as written. Style anchor and nationality: a frame from a Korean fintech super-app explainer, authentic overhead phone-on-desk capture, Korean UI realism; the notification app icon is generic with no real brand logo mark reproduced, the obscured details are anonymized, and no real-person likeness appears. Additional production context: this is the quiet pivot from instruction to payoff, so the staging deliberately removes the hand and lets the device sit alone on the desk, communicating that the user no longer has to do anything — the app reaches out to them. The transition from a fully dark screen to the lit blue lockscreen should feel like a real phone waking to a fresh alert, with the wallpaper's soft cyan-to-pale-blue gradient giving a calm, cool counterpoint to the warm brown leather and to the warm domestic tones of the live-action bookends. The notification banner should sit with the natural translucency and rounded-rectangle styling of a modern smartphone lockscreen card, its small app icon and the title row crisp, the timestamp 지금 legible, and the whole composition kept calm and uncluttered with generous blue negative space above the alert. The only added graphic over the screen-recording is the single bottom-pinned grey caption pill, preserving the clean documentary look while the lower third carries the synced Korean voiceover line.",
+        "t2i_negative": "real brand logo mark, watermark, dramatic lighting, tilted phone, visible hands, smeared illegible text, real phone number shown, color cast on leather",
+        "i2v_motion": "the dark phone screen wakes to the blue lockscreen and a Toss notification banner slides up from the bottom of the screen and settles; the phone stays flat and untouched; the lower-third pill caption '새로운 거래가 이루어지면' holds; camera stays locked overhead; hard cut out near 1.8s",
+        "i2v_params": {
+          "clip_duration_sec": 1.768,
+          "camera_move": "locked_overhead",
+          "subject_motion_level": "very_low_notification_only",
+          "signature_effect": "flat_even_screen",
+          "pacing": "slow",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen Korean caption and lockscreen text preserved verbatim; notification icon and any identity generic, sensitive details anonymized"
+      }
+    },
+    {
+      "index": 9,
+      "duration": 2.77,
+      "framing": "ECU",
+      "function": "payoff_notification_detail",
+      "subject_action": "macro push toward the lockscreen so the Toss notification fills the lower frame, reading 내 부동산에 새로운 거래가 감지됐어요; caption pills read 토스 알림을 통해 then 거래 내역과 시세를 바로 확인할 수 있습니다",
+      "layout_grid": "notification_banner_fill_lower_caption",
+      "subject_position": "center_notification",
+      "typo_motion": "caption_pill_swap",
+      "camera_angle": "top_down_overhead_pushed_in",
+      "camera_facing": "screen_flat_up",
+      "shot_scope": "extreme_close_up_notification",
+      "gaze": "none",
+      "props": [
+        "smartphone_notification_macro",
+        "brown_leather_surface"
+      ],
+      "color_palette": [
+        "#A9D1EC",
+        "#1A1C20",
+        "#EEF3F7",
+        "#5A4636",
+        "#3A7BD5"
+      ],
+      "color_intent": "blue_notification_macro_on_leather",
+      "pose_description": "the notification banner is shown large and centered low in frame, its two lines of Korean text readable, the wallpaper softly blue above",
+      "subject_motion": "notification_text_settles_macro_hold",
+      "camera_motion": "slow_macro_push_in",
+      "camera_effect_local": "even_flat_lighting_shallow_macro",
+      "intra_cut_rhythm": "slow",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "mid_frame_path": "ADV-2026-022_frames/cut09_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "toss_notification_banner_macro",
+          "two_line_korean_alert_text",
+          "app_icon"
+        ],
+        "midground": [
+          "blue_lockscreen_wallpaper"
+        ],
+        "background": [
+          "brown_leather_desk_surface"
+        ],
+        "lighting_env": [
+          "soft_even_overhead_diffuse",
+          "screen_self_lit_blue"
+        ],
+        "atmosphere": [
+          "payoff_focus_on_alert",
+          "neutral_instructional"
+        ]
+      },
+      "texture": {
+        "primary_subject": "glossy_glass_touchscreen",
+        "secondary_objects": [
+          "notification_card_surface"
+        ],
+        "background_surface": "pebbled_brown_leather",
+        "atmospheric": [
+          "soft_blue_screen_glow"
+        ]
+      },
+      "lighting": {
+        "key_direction": "overhead_diffuse",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_5000K",
+        "fill_strength": "high_even",
+        "key_to_fill_ratio": "1.5:1",
+        "rim_light": "none",
+        "practical_lights": [
+          "soft_overhead_diffusion",
+          "phone_screen_blue"
+        ],
+        "shadow_presence": "soft_contact_shadow",
+        "overall_contrast": "low"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#A9D1EC",
+          "#1A1C20",
+          "#EEF3F7",
+          "#5A4636",
+          "#3A7BD5"
+        ],
+        "palette_role": {
+          "#A9D1EC": "blue_lockscreen_wallpaper",
+          "#1A1C20": "dark_notification_text",
+          "#EEF3F7": "notification_card_light",
+          "#5A4636": "brown_leather_surround",
+          "#3A7BD5": "toss_icon_blue"
+        },
+        "color_relationship": "cool_blue_screen_on_warm_brown_surround",
+        "temperature_balance": "cool_screen_warm_surround",
+        "saturation_strategy": "soft_cool_screen_low_neutral",
+        "contrast_type": "low_medium",
+        "accent_color": "#3A7BD5",
+        "accent_ratio": 0.1
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "An extreme close-up, shot straight down from overhead, pushing in on the lower portion of a black smartphone's blue lockscreen as it lies flat on a pebbled brown leather desk, filling a vertical 9:16 frame. Subject and pose abstracted: no hands; the camera is closer than before so a single push notification card dominates the lower half of the frame while a soft pale-blue abstract wallpaper fills the space above. Wardrobe and material: matte black phone edge, light notification card, rich brown grained leather visible at the margins. Location and background: the leather surround and the blue wallpaper, all clean and softly lit. Foreground and props: the hero is the macro notification banner — a small rounded Toss app icon on the left, a bold title line beginning 행복마을 with the rest of the building name anonymized and blurred, a timestamp 지금, and beneath it two lines of body text reading 내 부동산에 새로운 거래가 감지됐어요; lower on the screen a hint 위로 쓸어올려서 열기 and small flashlight and camera controls. Lighting setup: soft even overhead diffusion at neutral ~5000K with high even fill at about 1.5:1, only a soft contact shadow, low-medium contrast, plus the cool blue screen glow. Lens, framing and angle: a macro-capable lens at a moderate aperture shot straight down from directly overhead and pushed in, extreme close-up scope with the notification text critically sharp and a shallow macro falloff at the frame edges. Composition and grid: the notification card anchored across the lower-center, the blue wallpaper as calm negative space above, and a caption pill pinned to the lower third of the video frame. Color palette and strategy with HEX: pale blue lockscreen wallpaper (#A9D1EC), dark notification text (#1A1C20), light notification card (#EEF3F7), brown leather surround (#5A4636) and a Toss-style blue icon (#3A7BD5) at roughly ten percent; the strategy is a soft cool blue macro screen on a warm brown surround. Texture and surfaces: glossy glass, smooth notification card, pebbled leather. Atmosphere: the satisfying payoff beat where the promised alert is delivered and readable. Post and signature look: clean even grade, minimal grain, gentle blue screen bloom, no chrome beyond the in-screen UI and caption pill. On-screen captions: a grey-black rounded pill in the lower third swaps between the Korean lines '토스 알림을 통해' and '거래 내역과 시세를 바로 확인할 수 있습니다' in white sans-serif — preserve these exact Korean texts, and preserve the notification text 행복마을, 지금, 내 부동산에 새로운 거래가 감지됐어요, 위로 쓸어올려서 열기 as written, keeping the building-name remainder anonymized. Style anchor and nationality: a frame from a Korean fintech super-app explainer, authentic overhead macro phone capture, Korean UI realism; the notification app icon is generic with no real brand logo mark reproduced, sensitive details anonymized, and no real-person likeness appears. Additional production context: this macro push-in is the emotional resolution of the piece, so the framing tightens specifically to make the two-line Korean alert body the single most readable element on screen, rewarding the viewer with the concrete proof that the promised tracking actually fires on a real new transaction. The shallow macro depth of field should let the notification card sit crisp while the surrounding blue wallpaper and the brown leather edges soften slightly, focusing the eye. The cool blue of the screen continues to contrast with the warm leather to keep the product moment visually distinct from the warm human bookends. The card should retain authentic lockscreen styling — a translucent rounded rectangle, a small rounded app icon, a bold building-name title with its remainder gently blurred for privacy, and the body line set in a clean Korean sans-serif — and the only added overlay is the single grey caption pill in the lower third, which swaps the two synced voiceover lines while everything else remains a pure, unembellished screen capture.",
+        "t2i_negative": "real brand logo mark, watermark, dramatic lighting, visible hands, fully legible private address, smeared text, color cast on leather, oversharpened halos",
+        "i2v_motion": "the camera holds a slow macro push-in on the notification as its two lines of Korean text settle and become fully readable; the phone stays flat and untouched; the lower-third pill caption swaps from '토스 알림을 통해' to '거래 내역과 시세를 바로 확인할 수 있습니다'; hard cut out near 2.8s",
+        "i2v_params": {
+          "clip_duration_sec": 2.77,
+          "camera_move": "slow_macro_push_in",
+          "subject_motion_level": "very_low_text_settle",
+          "signature_effect": "macro_shallow_screen",
+          "pacing": "slow",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen Korean caption pills and notification text preserved verbatim; app icon and identity generic, building name anonymized"
+      }
+    },
+    {
+      "index": 10,
+      "duration": 3.403,
+      "framing": "CU",
+      "function": "recap_registered_property_detail",
+      "subject_action": "cut back to the overhead tabletop property-detail page with the 매매 trend chart and recent transaction rows, finger lightly indicating the chart; the payoff caption 거래 내역과 시세를 바로 확인할 수 있습니다 continues",
+      "layout_grid": "centered_phone_lower_third_caption",
+      "subject_position": "center",
+      "typo_motion": "caption_pill_static",
+      "camera_angle": "top_down_overhead",
+      "camera_facing": "screen_flat_up",
+      "shot_scope": "close_up_full_phone",
+      "gaze": "none",
+      "props": [
+        "smartphone_flat_on_desk",
+        "brown_leather_surface",
+        "indicating_finger"
+      ],
+      "color_palette": [
+        "#FFFFFF",
+        "#4E8CF0",
+        "#3A3A3C",
+        "#5A4636",
+        "#2F6BFF"
+      ],
+      "color_intent": "clean_white_detail_blue_chart_on_leather",
+      "pose_description": "a finger hovers and lightly traces the rising 매매 trend curve on the registered-property detail page, the phone lying flat and centered",
+      "subject_motion": "finger_indicates_chart",
+      "camera_motion": "static_locked_overhead",
+      "camera_effect_local": "even_flat_lighting",
+      "intra_cut_rhythm": "medium",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "mid_frame_path": "ADV-2026-022_frames/cut10_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "smartphone_property_detail",
+          "blue_trend_line_chart",
+          "transaction_rows",
+          "indicating_finger"
+        ],
+        "midground": [
+          "phone_body_on_desk"
+        ],
+        "background": [
+          "brown_leather_desk_surface",
+          "yellow_object_edge_top_left"
+        ],
+        "lighting_env": [
+          "soft_even_overhead_diffuse",
+          "screen_self_lit"
+        ],
+        "atmosphere": [
+          "clean_tabletop_demo",
+          "reassuring_summary"
+        ]
+      },
+      "texture": {
+        "primary_subject": "glossy_glass_touchscreen",
+        "secondary_objects": [
+          "matte_phone_frame",
+          "finger_skin"
+        ],
+        "background_surface": "pebbled_brown_leather",
+        "atmospheric": [
+          "soft_even_sheen"
+        ]
+      },
+      "lighting": {
+        "key_direction": "overhead_diffuse",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_5000K",
+        "fill_strength": "high_even",
+        "key_to_fill_ratio": "1.5:1",
+        "rim_light": "none",
+        "practical_lights": [
+          "soft_overhead_diffusion",
+          "phone_screen"
+        ],
+        "shadow_presence": "soft_contact_shadow",
+        "overall_contrast": "low"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#FFFFFF",
+          "#4E8CF0",
+          "#3A3A3C",
+          "#5A4636",
+          "#2F6BFF"
+        ],
+        "palette_role": {
+          "#FFFFFF": "detail_screen_white",
+          "#4E8CF0": "blue_trend_line_chart",
+          "#3A3A3C": "ui_text_dark",
+          "#5A4636": "brown_leather_surround",
+          "#2F6BFF": "blue_link_input_price"
+        },
+        "color_relationship": "blue_chart_on_white_with_brown_surround",
+        "temperature_balance": "neutral_screen_warm_surround",
+        "saturation_strategy": "low_neutral_ui_with_blue_chart_accent",
+        "contrast_type": "low_clean",
+        "accent_color": "#4E8CF0",
+        "accent_ratio": 0.18
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A top-down overhead close-up of a black smartphone lying flat and centered on a pebbled brown leather desk, its bright white screen filling most of a vertical 9:16 frame, returning to the registered-property detail page. Subject and pose abstracted: a finger hovers near the screen and lightly traces a rising line chart, the phone held perfectly flat. Wardrobe and material: only the finger and a hint of hand are visible; matte black phone, rich brown grained leather. Location and background: the leather fills the surround with a soft even sheen and a small out-of-focus yellow object at the top-left edge. Foreground and props: the hero is the screen — a title line beginning 행복마을 with the building-name remainder anonymized and blurred, a subline 아파트 | 매매 | 전용 84.91㎡ (33평), a 최근 시세 row with the figure 3억 8,000만원, a 내 구입가 입력하기 link, a helper line 최근 시세와 얼마나 차이나는지 비교할 수 있어요, the 매매 / 전세 / 월세 tabs with 매매 active, a 최근 실거래 heading, a blue line chart rising from about 2억 through 3억 to a rounded plateau near 5억 with axis labels in 억, a 계약일 / 국토교통부 제공 row, and dated transaction rows such as 2024년 1월 19일 3억 8,500만원 11층 84.91㎡, 2024년 1월 10일 3억 8,500만원 6층 84.91㎡, 2024년 1월 5일 3억 8,500만원 10층 84.91㎡; the status bar reads 11:50 and a 관리 button sits top-right. Lighting setup: soft even overhead diffusion at neutral ~5000K, high even fill at about 1.5:1, only a soft contact shadow, low contrast for a clean tabletop look, plus screen light. Lens, framing and angle: a normal lens at a moderate aperture shot straight down from overhead, close-up scope with all on-screen text crisply legible. Composition and grid: the phone centered with leather margin and a caption pill pinned to the lower third. Color palette and strategy with HEX: detail white (#FFFFFF), a blue trend line (#4E8CF0) at roughly eighteen percent, dark UI text (#3A3A3C), brown leather surround (#5A4636) and a blue link/price accent (#2F6BFF); the strategy is a clean low-saturation white UI with blue chart accents over a warm brown surround. Texture and surfaces: glossy glass, matte frame, finger skin, pebbled leather. Atmosphere: a calm, reassuring summary beat that closes the how-to loop. Post and signature look: clean even grade, minimal grain, no chrome beyond the in-screen UI and caption pill. On-screen caption: a grey-black rounded pill in the lower third reads the Korean line '거래 내역과 시세를 바로 확인할 수 있습니다' in white sans-serif — preserve this exact Korean text, and preserve all in-app text 행복마을, 아파트 | 매매 | 전용 84.91㎡ (33평), 최근 시세, 3억 8,000만원, 내 구입가, 입력하기, 최근 시세와 얼마나 차이나는지 비교할 수 있어요, 매매, 전세, 월세, 최근 실거래, 계약일, 국토교통부 제공, 2024년 1월 19일 3억 8,500만원, 관리 as written, keeping the building-name remainder anonymized. Style anchor and nationality: a frame from a Korean fintech super-app explainer, authentic overhead phone-on-desk screen capture, Korean UI realism; the app is generic with no real brand logo mark, the demo property is anonymized, and the hand's owner is an entirely generic individual with no real-person likeness.",
+        "t2i_negative": "real brand logo mark, watermark, dramatic lighting, tilted phone, distorted finger, smeared illegible numbers, fully legible private address, extra fingers, color cast on leather",
+        "i2v_motion": "the finger lightly traces along the rising 매매 trend curve and the transaction rows sit below; the phone stays flat; the lower-third pill caption '거래 내역과 시세를 바로 확인할 수 있습니다' holds; camera stays locked overhead; hard cut out near 3.4s",
+        "i2v_params": {
+          "clip_duration_sec": 3.403,
+          "camera_move": "locked_overhead",
+          "subject_motion_level": "low_finger_indicate",
+          "signature_effect": "flat_even_screen",
+          "pacing": "medium",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen Korean caption and all UI text preserved verbatim; app styling and identity generic, demo property anonymized"
+      }
+    },
+    {
+      "index": 11,
+      "duration": 1.534,
+      "framing": "MS",
+      "function": "brand_outro_title_card",
+      "subject_action": "on a clean off-white paper background a small torn-label sticker animates up and scales into center reading Curator T with the underline 토스를 발견하다",
+      "layout_grid": "centered_sticker_negative_space",
+      "subject_position": "center",
+      "typo_motion": "sticker_pop_scale_settle",
+      "camera_angle": "flat_on_graphic",
+      "camera_facing": "flat_graphic",
+      "shot_scope": "graphic_card",
+      "gaze": "none",
+      "props": [
+        "paper_label_sticker"
+      ],
+      "color_palette": [
+        "#F4F3EF",
+        "#2C4CE0",
+        "#1C1C1C",
+        "#D9D7D0",
+        "#3A57E8"
+      ],
+      "color_intent": "blue_sketch_brand_on_clean_paper",
+      "pose_description": "no human subject; a rectangular paper sticker with a hand-drawn blue wordmark rises and settles centered on a paper backdrop",
+      "subject_motion": "sticker_scales_up_and_settles",
+      "camera_motion": "static_locked",
+      "camera_effect_local": "flat_clean_paper_grain",
+      "intra_cut_rhythm": "slow",
+      "transition_in": "cut",
+      "transition_out": "end",
+      "mid_frame_path": "ADV-2026-022_frames/cut11_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "paper_label_sticker",
+          "blue_sketch_wordmark"
+        ],
+        "midground": [],
+        "background": [
+          "off_white_paper_texture"
+        ],
+        "lighting_env": [
+          "flat_even_soft_light"
+        ],
+        "atmosphere": [
+          "clean_minimal_brand_signoff"
+        ]
+      },
+      "texture": {
+        "primary_subject": "matte_paper_sticker_with_ink",
+        "secondary_objects": [
+          "torn_label_edge"
+        ],
+        "background_surface": "fine_paper_grain",
+        "atmospheric": [
+          "soft_even_light"
+        ]
+      },
+      "lighting": {
+        "key_direction": "flat_frontal_even",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "high_even",
+        "key_to_fill_ratio": "1:1",
+        "rim_light": "none",
+        "practical_lights": [
+          "diffuse_softbox_even"
+        ],
+        "shadow_presence": "minimal_soft_sticker_shadow",
+        "overall_contrast": "low"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#F4F3EF",
+          "#2C4CE0",
+          "#1C1C1C",
+          "#D9D7D0",
+          "#3A57E8"
+        ],
+        "palette_role": {
+          "#F4F3EF": "off_white_paper_background",
+          "#2C4CE0": "blue_sketch_wordmark",
+          "#1C1C1C": "small_dark_subtext",
+          "#D9D7D0": "sticker_grey_paper",
+          "#3A57E8": "blue_underline_accent"
+        },
+        "color_relationship": "single_blue_accent_on_neutral_paper",
+        "temperature_balance": "neutral",
+        "saturation_strategy": "muted_paper_with_one_saturated_blue",
+        "contrast_type": "low_clean",
+        "accent_color": "#2C4CE0",
+        "accent_ratio": 0.15
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A clean end-card graphic filling a vertical 9:16 frame: a small rectangular paper label sticker resting at the center of a softly textured off-white paper background, as a minimal brand sign-off. Subject and pose abstracted: there is no human subject; the hero is a single torn-edged paper sticker, slightly rounded at the corners, lying flat and centered with a faint soft drop shadow. Wardrobe and material: not applicable; the sticker is matte greyish paper printed with ink, the backdrop is fine-grained off-white paper. Location and background: pure clean studio-paper space, generous empty margin all around the small centered sticker. Foreground and props: the sticker carries a hand-drawn, sketch-style blue wordmark reading 'Curator T' in a slightly rough double-stroke marker style, with a thin blue underline rule beneath it and a small subtext line 토스를 발견하다 in black; one corner of the label is gently peeling. Lighting setup: flat frontal even soft light at a neutral ~5500K with a 1:1 key-to-fill ratio, only a minimal soft shadow under the sticker, low overall contrast for a clean graphic look, motivated by an even softbox. Lens, framing and angle: a normal lens at a moderate aperture shot flat-on to the graphic, the card scope with the sticker and its text critically sharp. Composition and grid: the small sticker centered within abundant negative space, the empty paper acting as calm breathing room. Color palette and strategy with HEX: off-white paper background (#F4F3EF), a single saturated blue sketch wordmark (#2C4CE0) at roughly fifteen percent, small dark subtext (#1C1C1C), grey sticker paper (#D9D7D0) and a blue underline accent (#3A57E8); the strategy is one saturated blue accent on a muted neutral paper field. Texture and surfaces: matte paper sticker with visible ink stroke texture, a torn fibrous label edge, fine paper grain across the background. Atmosphere: a calm, confident, minimal brand sign-off. Post and signature look: clean even grade, subtle paper grain, a faint soft sticker shadow, no extra chrome. On-screen text: preserve verbatim the wordmark 'Curator T' and the Korean subtext '토스를 발견하다'. Style anchor and nationality: a frame from a Korean social-commerce explainer outro, a hand-crafted analog sticker aesthetic on paper; this is a generic channel-style sign-off card with no real corporate brand logo mark reproduced, and no human likeness is present. Additional production context: this closing card is intentionally the visual opposite of the dense, information-rich screens that precede it — where the walkthrough was busy with charts, prices and captions, the outro is mostly empty paper, giving the viewer a calm, confident breath at the end and letting the small blue wordmark land as the single memorable mark. The hand-drawn double-stroke marker styling of the wordmark should feel personal and crafted, as if written by hand on a label and stuck onto a notebook, reinforcing the friendly, do-it-yourself curator tone of the whole piece rather than a slick corporate logo animation. The paper background should carry a believable fibrous grain and an extremely subtle, almost imperceptible warm-neutral tint so it reads as real paper under soft even light rather than a flat digital white, and the sticker should cast only the faintest soft contact shadow to sell its physical presence without breaking the clean, minimal feel. The peeling corner of the label adds a small handmade imperfection that gives the otherwise still card a touch of tactile life. Color discipline is strict here: the saturated blue of the wordmark and its thin underline rule are the only chromatic notes, everything else held in muted neutral paper tones, so the brand color carries all of the visual weight. The composition keeps the sticker comfortably centered with wide, even negative space on all sides so the card reads cleanly even at small phone size, and the small black Korean subtext below the wordmark stays crisp and legible. The overall feeling the frame should communicate is a quiet, trustworthy sign-off — the considerate end of a helpful how-to — and the typography, paper texture, restrained palette and generous emptiness should all work together to leave a calm, premium-yet-approachable final impression, the kind of understated outro that a thoughtful Korean explainer channel would use to close a tip.",
+        "t2i_negative": "real brand logo mark, corporate logotype, watermark, photographic depth, busy background, gradients, drop-shadow heavy 3D, glossy plastic, human figure",
+        "i2v_motion": "from a near-empty paper frame the small label sticker rises from below and scales up to settle centered, the peeling corner giving a slight handmade wobble as it lands, then holds still; camera stays locked; the clip ends on the held card near 1.5s",
+        "i2v_params": {
+          "clip_duration_sec": 1.534,
+          "camera_move": "locked_static",
+          "subject_motion_level": "low_sticker_pop",
+          "signature_effect": "paper_sticker_pop",
+          "pacing": "slow",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; outro wordmark and Korean subtext preserved verbatim; treated as a generic channel sign-off card with no real corporate logo mark"
+      }
+    }
+  ]
+}

@@ -1,0 +1,1170 @@
+{
+  "id": "ADV-2026-027",
+  "source_ref": {
+    "platform": "youtube_shorts_or_instagram_reels",
+    "title_or_campaign": "토스 숨은 서비스 11",
+    "brand": "토스 (Toss)",
+    "product": "더치페이 (Dutch Pay / split-the-bill)",
+    "model": null,
+    "year": null,
+    "production_note": "Vertical 9:16 social tutorial. Live-action presenter intro/outro bookending a handheld real-device in-app screen demo. Recurring series format ('토스 숨은 서비스' episode 11). Presenter credited on-screen as 'Toss UX Writer 구슬'. Feature name verified from on-screen captions as 더치페이 (NOT 더페이/THE PAY); whisper text_raw garbled it as 덮이페이.",
+    "source_file": "토스 숨은 서비스 11.mp4",
+    "url": null
+  },
+  "category_primary": "finance.bank",
+  "category_tags": [
+    "핀테크",
+    "모바일뱅킹",
+    "송금·정산",
+    "더치페이",
+    "앱 사용법 튜토리얼",
+    "숏폼 세로"
+  ],
+  "mood": [
+    "friendly",
+    "clean",
+    "practical",
+    "upbeat-calm",
+    "trustworthy"
+  ],
+  "target_demo": "MZ office workers and early-career adults in their 20s-early 30s who split bills with friends",
+  "total_duration": 59.56,
+  "shot_count": 5,
+  "shot_count_corrected": 4,
+  "fps": 29.97,
+  "aspect_ratio": "9:16",
+  "hook_position": 0.4,
+  "cta_position": 54.79,
+  "narrative_arc": "A friendly Toss UX-writer presenter opens with a benefit promise (protect both your wallet and your friendships), then a continuous handheld real-device demo walks step-by-step through two ways to split a bill: method one builds a new split from scratch (search the feature, enter the total, pick friends incl. manual add, adjust each share, auto-notify Toss users and share a link via KakaoTalk), method two starts directly from a spending-history transaction so the exact paid amount is reused. A live-action outro signs off the recurring tip series.",
+  "narrative_structure": "linear_continuous",
+  "pacing_curve": "steady",
+  "music_tempo_curve": "steady",
+  "wow_cut_index": [],
+  "creative_device": "presenter-bookended step-by-step in-app screen tutorial with numbered caption badges synced to voiceover",
+  "production_signature": {
+    "capture_style": "live_action",
+    "camera_signature": [
+      "handheld_shake"
+    ],
+    "signature_note": "Two live-action bookends shot handheld with shallow depth; the central body is a handheld real-device take where the phone screen is the subject, held in the left hand against a warm out-of-focus interior. Continuous status-bar clock (1:16-1:18) across the method-1 demo proves a single real-device take; method 2 is a separate take (clock jumps to 1:21). No 3D wiggle/parallax signature; motion is natural hand sway plus on-screen UI transitions. Metrics flagged high mean_abs_shift_x but visual check shows ordinary handheld drift, not lenticular wiggle.",
+    "color_grade": "warm",
+    "texture_fx": "clean_digital"
+  },
+  "global_layout": {
+    "grid_system": "center",
+    "subject_placement_dominant": "center",
+    "subject_typo_relation": "typo_separate_zone",
+    "negative_space_use": "generous",
+    "layout_note": "Phone (or presenter) is centered; instructional captions sit in a fixed lower-third zone as hand-torn white brush-stroke boxes, each preceded by a small blue circular step-number badge (1-5). Bookend title/outro captions are blue brush-stroke boxes in the upper third with a hand-drawn yellow ellipse circling the key term. Name-tag chip ('Toss UX Writer / 구슬') sits at lower-center over the presenter in the intro."
+  },
+  "recurring_motifs": [
+    "white hand-torn brush-stroke caption box",
+    "blue circular numbered step badge",
+    "blue brush-stroke title box with hand-drawn yellow circle highlight",
+    "Toss-blue accent on emphasized words",
+    "1/N split icon"
+  ],
+  "copywriting": {
+    "tagline_text": "지갑도 우정도 지키는\n토스 더치페이 사용법",
+    "tagline_structure": "benefit_promise + topic ('how to use Toss Dutch Pay that protects both wallet and friendship')",
+    "tagline_length_syllables": 21,
+    "tagline_position_sec": 0.4,
+    "cta_text": "토스의 숨은 꿀기능\n다시 찾아올게요!",
+    "cta_text_structure": "series sign-off ('Toss hidden honey-feature, I'll be back again!')",
+    "cta_position_sec": 54.79,
+    "copy_tone": [
+      "friendly",
+      "instructional",
+      "playful",
+      "reassuring"
+    ],
+    "copy_strategy": "step_by_step_tutorial with voice-caption sync and feature-benefit framing",
+    "copy_lines_count": 19,
+    "lines": [
+      {
+        "position_sec": 0.0,
+        "text": "톡보다 쉬운 토스로 더치페이하는 거 지금 바로 알려드릴게요",
+        "function": "hook_promise",
+        "tone": "friendly",
+        "source": "voice"
+      },
+      {
+        "position_sec": 4.56,
+        "text": "먼저 토스를 켜고 우측 하단에 전체 탭을 선택해주세요",
+        "function": "step_instruction",
+        "tone": "instructional",
+        "source": "both"
+      },
+      {
+        "position_sec": 8.96,
+        "text": "검색 버튼을 눌러 더치페이를 검색합니다",
+        "function": "step_instruction",
+        "tone": "instructional",
+        "source": "both"
+      },
+      {
+        "position_sec": 13.2,
+        "text": "새 더치페이를 만들고 나눌 금액을 입력해주세요",
+        "function": "step_instruction",
+        "tone": "instructional",
+        "source": "both"
+      },
+      {
+        "position_sec": 17.96,
+        "text": "비용을 나눌 친구들을 선택해 줍니다",
+        "function": "step_instruction",
+        "tone": "instructional",
+        "source": "both"
+      },
+      {
+        "position_sec": 20.48,
+        "text": "연락처가 없다면 수동으로 친구를 추가할 수 있어요",
+        "function": "step_instruction",
+        "tone": "instructional",
+        "source": "both"
+      },
+      {
+        "position_sec": 25.04,
+        "text": "비용 배분까지 마치면 연락처가 있는 친구들에게 자동으로 토스 알림이 갑니다",
+        "function": "step_instruction",
+        "tone": "instructional",
+        "source": "both"
+      },
+      {
+        "position_sec": 30.72,
+        "text": "링크 공유하기를 누르고 카카오톡을 선택해 주세요",
+        "function": "step_instruction",
+        "tone": "instructional",
+        "source": "both"
+      },
+      {
+        "position_sec": 34.44,
+        "text": "공유할 단톡방을 선택하면",
+        "function": "step_instruction",
+        "tone": "instructional",
+        "source": "both"
+      },
+      {
+        "position_sec": 36.84,
+        "text": "더치페이 끝!",
+        "function": "step_payoff",
+        "tone": "playful",
+        "source": "both"
+      },
+      {
+        "position_sec": 39.2,
+        "text": "소비내역에서 바로 더치페이를 할 수도 있는데요",
+        "function": "section_transition",
+        "tone": "friendly",
+        "source": "both"
+      },
+      {
+        "position_sec": 42.48,
+        "text": "소비내역 하단에 더치페이를 누르고",
+        "function": "step_instruction",
+        "tone": "instructional",
+        "source": "both"
+      },
+      {
+        "position_sec": 45.12,
+        "text": "계산할 소비내역을 선택한 뒤",
+        "function": "step_instruction",
+        "tone": "instructional",
+        "source": "both"
+      },
+      {
+        "position_sec": 47.44,
+        "text": "더치페이할 친구들을 선택하면",
+        "function": "step_instruction",
+        "tone": "instructional",
+        "source": "both"
+      },
+      {
+        "position_sec": 49.68,
+        "text": "계산한 금액 그대로 더치페이를 요청할 수 있어요",
+        "function": "step_payoff",
+        "tone": "instructional",
+        "source": "both"
+      },
+      {
+        "position_sec": 53.68,
+        "text": "토스의 숨은 꿀팁!",
+        "function": "series_signoff",
+        "tone": "playful",
+        "source": "voice"
+      },
+      {
+        "position_sec": 55.04,
+        "text": "다음엔 더 다양한 꿀팁으로 돌아올게요",
+        "function": "series_signoff",
+        "tone": "friendly",
+        "source": "voice"
+      }
+    ],
+    "captions": [
+      {
+        "position_sec": 0.4,
+        "text": "지갑도 우정도 지키는\n토스 더치페이 사용법",
+        "function": "title_benefit"
+      },
+      {
+        "position_sec": 0.4,
+        "text": "Toss UX Writer\n구슬",
+        "function": "presenter_name_tag"
+      },
+      {
+        "position_sec": 4.56,
+        "text": "먼저 토스를 켜고",
+        "function": "step_badge_1"
+      },
+      {
+        "position_sec": 5.6,
+        "text": "우측 하단에\n전체 탭을 선택해주세요",
+        "function": "step_badge_1"
+      },
+      {
+        "position_sec": 8.96,
+        "text": "검색 버튼을 눌러\n더치페이를 검색합니다",
+        "function": "step_badge_1"
+      },
+      {
+        "position_sec": 13.2,
+        "text": "새 더치페이를\n만들고",
+        "function": "step_badge_2"
+      },
+      {
+        "position_sec": 15.0,
+        "text": "나눌 금액을\n입력해주세요",
+        "function": "step_badge_2"
+      },
+      {
+        "position_sec": 17.96,
+        "text": "비용을 나눌 친구들을\n선택해줍니다",
+        "function": "step_badge_3"
+      },
+      {
+        "position_sec": 20.48,
+        "text": "연락처가 없다면",
+        "function": "step_badge_3"
+      },
+      {
+        "position_sec": 22.0,
+        "text": "수동으로 친구를\n추가할 수 있어요",
+        "function": "step_badge_3"
+      },
+      {
+        "position_sec": 25.04,
+        "text": "연락처가 있는\n친구들에게",
+        "function": "step_badge_4"
+      },
+      {
+        "position_sec": 28.28,
+        "text": "자동으로\n토스 알림이 갑니다",
+        "function": "step_badge_4"
+      },
+      {
+        "position_sec": 30.72,
+        "text": "링크 공유하기를\n누르고",
+        "function": "step_badge_5"
+      },
+      {
+        "position_sec": 32.5,
+        "text": "카카오톡을\n선택해주세요",
+        "function": "step_badge_5"
+      },
+      {
+        "position_sec": 34.44,
+        "text": "공유할 단톡방을\n선택하면",
+        "function": "step_badge_5"
+      },
+      {
+        "position_sec": 36.84,
+        "text": "더치페이 끝!",
+        "function": "step_badge_5_payoff"
+      },
+      {
+        "position_sec": 39.2,
+        "text": "소비내역에서",
+        "function": "section_transition"
+      },
+      {
+        "position_sec": 40.5,
+        "text": "바로 더치페이를\n할 수도 있는데요",
+        "function": "section_transition"
+      },
+      {
+        "position_sec": 42.48,
+        "text": "소비내역 하단에\n더치페이를 누르고",
+        "function": "step_badge_1_m2"
+      },
+      {
+        "position_sec": 45.12,
+        "text": "계산할 소비내역을\n선택한 뒤",
+        "function": "step_badge_2_m2"
+      },
+      {
+        "position_sec": 47.44,
+        "text": "더치페이 할 친구들을\n선택하면",
+        "function": "step_badge_3_m2"
+      },
+      {
+        "position_sec": 49.68,
+        "text": "계산한 금액 그대로\n더치페이를 요청할 수 있어요",
+        "function": "step_badge_3_m2_payoff"
+      },
+      {
+        "position_sec": 54.79,
+        "text": "토스의 숨은 꿀기능\n다시 찾아올게요!",
+        "function": "outro_series_signoff"
+      }
+    ],
+    "narration_handling": "excerpt_only"
+  },
+  "typography": {
+    "primary_font_class": "rounded_sans_bold_korean",
+    "secondary_font_class": "geometric_sans_latin",
+    "animation_style": [
+      "pop",
+      "fade_in"
+    ],
+    "subtitle_position_dominant": "lower_third",
+    "tagline_position": "upper_third",
+    "color_strategy": "white text on hand-torn white brush box with Toss-blue keyword emphasis; bookend title/outro use white text on blue brush box with hand-drawn yellow circle highlight on the key term",
+    "appearance_count": 23,
+    "key_typography_moments_sec": [
+      0.4,
+      4.56,
+      13.2,
+      17.96,
+      25.04,
+      30.72,
+      36.84,
+      39.2,
+      49.68,
+      54.79
+    ],
+    "typo_motion_dominant": "pop_in_caption_swap"
+  },
+  "vfx": {
+    "primary_effects": [
+      "ui_motion"
+    ],
+    "effect_intensity": "subtle",
+    "transition_style_dominant": "cut",
+    "vfx_event_count": 3,
+    "vfx_timing_array_sec": [
+      4.34,
+      39.21,
+      54.79
+    ],
+    "wow_vfx_index": []
+  },
+  "audio": {
+    "has_audio": true,
+    "language": "ko",
+    "speech_coverage": 0.773,
+    "bgm_likely": true,
+    "narration_lines": [
+      {
+        "start": 0.0,
+        "end": 3.66,
+        "text": "톡보다 쉬운 토스로 더치페이하는 거 지금 바로 알려드릴게요",
+        "text_raw": "톡보다시윤 토스를 덮이페이안 거 지금 바로 알려드릴게요.",
+        "kind": "voiceover",
+        "source": "voice"
+      },
+      {
+        "start": 4.56,
+        "end": 8.44,
+        "text": "먼저 토스를 켜고 우측 하단에 전체 탭을 선택해주세요",
+        "text_raw": "먼저 토스를 켜고 우측하단에 전체 대블 선택해주세요.",
+        "kind": "voiceover",
+        "source": "both"
+      },
+      {
+        "start": 8.96,
+        "end": 11.8,
+        "text": "검색 버튼을 눌러 더치페이를 검색합니다",
+        "text_raw": "검색 버튼을 둘러 덮이페이를 검색합니다.",
+        "kind": "voiceover",
+        "source": "both"
+      },
+      {
+        "start": 13.2,
+        "end": 16.56,
+        "text": "새 더치페이를 만들고 나눌 금액을 입력해주세요",
+        "text_raw": "새 덮이페이를 만들고 나눌 금액을 입력해주세요.",
+        "kind": "voiceover",
+        "source": "both"
+      },
+      {
+        "start": 17.96,
+        "end": 20.04,
+        "text": "비용을 나눌 친구들을 선택해 줍니다",
+        "text_raw": "비용을 나눌 친구들을 선택해 줍니다.",
+        "kind": "voiceover",
+        "source": "both"
+      },
+      {
+        "start": 20.48,
+        "end": 23.76,
+        "text": "연락처가 없다면 수동으로 친구를 추가할 수 있어요",
+        "text_raw": "연락처가 없다면 수동으로 친구를 추가할 수 있어요.",
+        "kind": "voiceover",
+        "source": "both"
+      },
+      {
+        "start": 25.04,
+        "end": 30.12,
+        "text": "비용 배분까지 마치면 연락처가 있는 친구들에게 자동으로 토스 알림이 갑니다",
+        "text_raw": "비용 배분까지 맞지면 연락처가 있는 친구들에게 자동으로 토스 알림이 갑니다.",
+        "kind": "voiceover",
+        "source": "both"
+      },
+      {
+        "start": 30.72,
+        "end": 33.96,
+        "text": "링크 공유하기를 누르고 카카오톡을 선택해 주세요",
+        "text_raw": "링크 공유하기를 누르고 카카옥도를 선택해 주세요.",
+        "kind": "voiceover",
+        "source": "both"
+      },
+      {
+        "start": 34.44,
+        "end": 36.12,
+        "text": "공유할 단톡방을 선택하면",
+        "text_raw": "공유할 단톡방을 선택하면",
+        "kind": "voiceover",
+        "source": "both"
+      },
+      {
+        "start": 36.84,
+        "end": 37.92,
+        "text": "더치페이 끝!",
+        "text_raw": "덮이페이 끝!",
+        "kind": "voiceover",
+        "source": "both"
+      },
+      {
+        "start": 39.2,
+        "end": 42.08,
+        "text": "소비내역에서 바로 더치페이를 할 수도 있는데요",
+        "text_raw": "소비내역에서 바로 덮이페이를 할 수도 있는데요.",
+        "kind": "voiceover",
+        "source": "both"
+      },
+      {
+        "start": 42.48,
+        "end": 44.8,
+        "text": "소비내역 하단에 더치페이를 누르고",
+        "text_raw": "소비내역 하단에 덮이페이를 누르고",
+        "kind": "voiceover",
+        "source": "both"
+      },
+      {
+        "start": 45.12,
+        "end": 47.12,
+        "text": "계산할 소비내역을 선택한 뒤",
+        "text_raw": "계산할 소비내역을 선택한 뒤",
+        "kind": "voiceover",
+        "source": "both"
+      },
+      {
+        "start": 47.44,
+        "end": 49.44,
+        "text": "더치페이할 친구들을 선택하면",
+        "text_raw": "덮이페이할 친구들을 선택하면",
+        "kind": "voiceover",
+        "source": "both"
+      },
+      {
+        "start": 49.68,
+        "end": 52.76,
+        "text": "계산한 비용 그대로 더치페이를 요청할 수 있어요",
+        "text_raw": "계산한 비용 그대로 덮이페이를 요청할 수 있어요.",
+        "kind": "voiceover",
+        "source": "both"
+      },
+      {
+        "start": 53.68,
+        "end": 54.92,
+        "text": "토스의 숨은 꿀팁!",
+        "text_raw": "토스의 스물글 팁!",
+        "kind": "voiceover",
+        "source": "voice"
+      },
+      {
+        "start": 55.04,
+        "end": 57.36,
+        "text": "다음엔 더 다양한 꿀팁으로 돌아올게요",
+        "text_raw": "다음엔 더 다양한 꿀팁으로 돌아올게요.",
+        "kind": "voiceover",
+        "source": "voice"
+      }
+    ],
+    "voice_vs_caption": "Voiceover and on-screen captions are tightly synced and near-identical in the demo body; captions chunk each VO line into two short lower-third boxes with a numbered badge. Outro caption ('숨은 꿀기능 다시 찾아올게요') paraphrases the VO ('숨은 꿀팁 다음엔 더 다양한 꿀팁으로 돌아올게요'). Whisper text_raw garbled the feature name as '덮이페이/더페이'; captions confirm the true name is '더치페이' (Dutch Pay), corrected in text fields.",
+    "narration_handling": "excerpt_only",
+    "transcribed_by": "faster_whisper",
+    "audio_note": "faster-whisper ko, base model, speech_coverage 0.773, 17 lines. text_raw preserved verbatim (uncorrected); 'text' fields corrected against on-screen captions. Soft background music likely under the calm VO (bgm_likely set true by inference, not separated)."
+  },
+  "frames_dir": "ADV-2026-027_frames",
+  "contact_sheet_path": "ADV-2026-027_frames/contact_sheet.png",
+  "shots": [
+    {
+      "index": 1,
+      "duration": 4.34,
+      "framing": "MS",
+      "function": "intro_hook_presenter",
+      "color_mood": "warm festive interior, soft golden under-step glow with red-green Christmas accents",
+      "subject_action": "A young woman, the on-screen-credited Toss UX writer, sits on a warm wood LED-lit step bench in a softly decorated office lounge; she looks down at her phone with a calm, friendly smile while the camera slowly pushes in from a wide framing toward a medium-close framing.",
+      "copy_overlay": "지갑도 우정도 지키는\n토스 더치페이 사용법  /  Toss UX Writer\n구슬",
+      "subject_identity": "protagonist_main",
+      "subject_relationship_to_protagonist": "main_character",
+      "mid_frame_path": "ADV-2026-027_frames/cut01_mid.png",
+      "layout_grid": "center",
+      "subject_position": "center",
+      "subject_typo_layout": "title brush box upper-third, name-tag chip lower-center over subject, subject centered below title",
+      "typo_motion": "Title blue brush box with hand-drawn yellow ellipse around '더치페이' pops/fades in around 0.4s and holds; white 'Toss UX Writer' chip plus blue '구슬' chip pop in at lower-center.",
+      "camera_angle": "eye_level",
+      "camera_facing": "three_quarter",
+      "shot_scope": "waist_up",
+      "gaze": "down",
+      "eye_contact_effect": "none; gaze on phone creates an approachable, candid feel",
+      "props": [
+        "smartphone",
+        "crossbody bag with leather strap",
+        "small white round side table",
+        "Christmas tree",
+        "wrapped gift sacks",
+        "decorative garland"
+      ],
+      "prop_semantics": "Phone foreshadows the app demo to come; Christmas decor sets a warm, casual seasonal mood that softens a finance how-to; crossbody bag reads as everyday MZ styling.",
+      "color_palette": [
+        "#caa37a",
+        "#1c1c1c",
+        "#e0c8a0",
+        "#b13b33",
+        "#3a3a3a"
+      ],
+      "color_intent": "warm wood/amber dominant with deep black wardrobe anchor and festive red-green accents; Toss-blue appears only in the caption graphics for brand recall",
+      "pose_description": "Relaxed seated posture, both hands on the phone, slight forward lean and gentle smile — confident but unpolished, like a colleague casually demonstrating a tip.",
+      "subject_motion": "micro; small natural head and hand movement, no large gesture",
+      "prop_motion": "phone held steady",
+      "camera_motion": "slow push_in",
+      "camera_motion_intensity": "moderate",
+      "camera_effect_local": "none",
+      "motion_blur": "minimal",
+      "intra_cut_rhythm": "steady",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [
+        "title caption pop_in",
+        "name-tag chip pop_in"
+      ],
+      "vfx_intensity_local": "subtle",
+      "fact_check_flag": "feature name verified from caption as 더치페이",
+      "notes": "Establishes presenter, benefit promise, and series identity. Push-in is a continuous real camera move, not a cut.",
+      "visible_elements": {
+        "foreground": [
+          "seated young woman in long black coat over orange knit",
+          "smartphone in both hands",
+          "brown leather crossbody strap across torso"
+        ],
+        "midground": [
+          "warm wood tiered step bench with recessed LED strip",
+          "white round pedestal side table at left",
+          "wrapped patterned gift sacks"
+        ],
+        "background": [
+          "decorated Christmas tree with red and gold ornaments",
+          "pale neutral office wall",
+          "frosted-glass partitions"
+        ],
+        "lighting_env": [
+          "warm under-step LED light strip",
+          "soft ambient ceiling light",
+          "diffused window/fill light"
+        ],
+        "atmosphere": [
+          "cozy seasonal warmth",
+          "soft golden glow near floor",
+          "no haze"
+        ]
+      },
+      "texture": {
+        "primary_subject": "fabric_wool",
+        "secondary_objects": [
+          "glass_clear",
+          "wood_polished",
+          "plastic_glossy"
+        ],
+        "background_surface": "foliage",
+        "atmospheric": [
+          "soft_warm_glow"
+        ]
+      },
+      "lighting": {
+        "key_direction": "front",
+        "key_hardness": "soft",
+        "key_color_temp": "warm_3000K",
+        "fill_strength": "moderate",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": false,
+        "practical_lights": [
+          "계단 밑 LED 띠조명",
+          "크리스마스 트리 장식 조명",
+          "천장 다운라이트"
+        ],
+        "shadow_presence": "soft",
+        "overall_contrast": "mid_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#caa37a",
+          "#1c1c1c",
+          "#e0c8a0",
+          "#b13b33",
+          "#3a7a4a"
+        ],
+        "palette_role": {
+          "#caa37a": "warm_wood_background_dominant",
+          "#1c1c1c": "subject_dark_anchor",
+          "#e0c8a0": "amber_highlight",
+          "#b13b33": "festive_red_accent",
+          "#3a7a4a": "festive_green_accent"
+        },
+        "color_relationship": "analogous",
+        "temperature_balance": "warm_dominant",
+        "saturation_strategy": "muted_with_pop",
+        "contrast_type": "luminance_high",
+        "accent_color": "#b13b33",
+        "accent_ratio": "15_percent",
+        "brand_color_match": [
+          "Toss-blue #3182f6 appears only in caption graphics, not the scene"
+        ]
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A candid vertical 9:16 lifestyle commercial still of a Korean woman in her mid-20s seated on a low tiered wooden step-bench inside a softly decorated modern office lounge during the Christmas season; she is framed waist-up, centered, leaning slightly forward and looking down at a white smartphone held in both hands with a calm, warm, natural smile; she wears a long structured black wool coat over a bright orange ribbed knit top, with a thin brown leather crossbody bag strap crossing her torso, minimal jewelry, soft natural makeup, shoulder-length auburn-brown hair with wispy bangs; she is a real-talent-type, not any specific celebrity, with an approachable colleague-next-door presence. The set is a clean Korean fintech office lounge: warm honey-toned wood steps with a recessed warm LED light strip glowing softly along the floor edge, a small white round pedestal side table at the left edge of frame, pale neutral walls and frosted-glass partitions behind. Festive decor frames the background: a decorated Christmas tree with red and gold baubles, patterned wrapped gift sacks resting at the base, and a green garland with red and gold ornaments draped along the top of the frame. Lighting is warm and soft: a diffused frontal key around 3000K, moderate fill (key-to-fill roughly 2:1), gentle soft shadows, no hard rim, an overall mid-key warm glow with the under-step LED as a warm practical and the tree lights as small bokeh points. Shot at eye level, three-quarter facing, with a roughly 35mm-equivalent look and shallow-to-moderate depth of field that keeps the woman sharp while the tree and partitions fall softly out of focus. Composition is centered with generous negative space; the recorded on-screen title copy appears in the upper third inside a hand-painted Toss-blue brush-stroke box reading, in two lines of bold rounded Korean sans-serif white lettering, “지갑도 우정도 지키는 / 토스 더치페이 사용법” with a hand-drawn yellow ellipse circling the word “더치페이” (finalized in post but preserved here for fidelity); below her, a small lower-center name-tag treatment shows a white torn-paper chip with blue text “Toss UX Writer” above a solid Toss-blue chip with white text “구슬”. The palette is warm-dominant and muted with festive pops: honey wood (#caa37a) dominant, deep black coat (#1c1c1c) as the dark anchor, amber highlight (#e0c8a0), festive red (#b13b33) and green (#3a7a4a) accents at roughly fifteen percent of frame, with Toss-blue confined to the caption graphics. Surfaces read as soft wool coat, glossy phone, polished wood, clear glass partitions and foliage of the tree; the atmosphere is cozy seasonal warmth with a soft golden glow near the floor and no haze. The overall look is a clean digital 4K vertical social-tutorial aesthetic, natural and unglossy, true to a Korean fintech brand's friendly explainer style, Korean studio commercial realism. Additional craft notes for faithful reproduction: render her as a genuine Korean office worker in her mid-20s, warm and unposed, the kind of relatable in-house staff member a brand would feature as a guide rather than a model; her expression should read as quietly amused and friendly, eyes softly lowered to the phone, lips in a gentle closed smile, with no direct camera contact so the moment feels overheard and authentic. Treat the wardrobe carefully: the long black coat should have a visible matte wool weave and structured shoulders, worn open over the saturated orange knit whose ribbed texture catches a little of the warm light, and the leather crossbody strap should show a slightly glossy tan finish. The wooden steps she sits on are wide horizontal planks in a honey oak tone with a clear satin finish, and the recessed LED strip should read as a clean continuous warm line, not individual dots; let its bounce light warmly graze the floor and the underside of the step lip. Keep the depth of field shallow enough that the Christmas tree's ornaments melt into soft circular bokeh and the wrapped gift sacks read as soft red-and-cream patterned shapes rather than sharp detail. Exposure is bright and even with protected highlights on the white side table and no clipped whites; white balance leans warm but skin stays natural and healthy, not orange. Frame her with comfortable headroom and the title brush box floating clearly in the empty upper third so text and subject never overlap. The mood is inviting, seasonal, and trustworthy, the polished-but-human tone of a top Korean fintech's social-first content team. Korean lifestyle commercial photography, photoreal, 9:16 vertical.",
+        "t2i_negative": "second person, extra hands, distorted fingers, deformed face, real brand logo marks, watermark, harsh shadows, low-key lighting, heavy film grain, oversaturation, plastic skin, motion blur on face, text gibberish",
+        "i2v_motion": "Hold the seated pose with breathing-level micro-motion only; the woman keeps a soft smile and small natural head and hand sway while looking at her phone, no large gesture; camera performs a slow continuous push-in from a slightly wider framing toward a medium-close framing over the shot, handheld but smooth; the upper-third title brush box with the yellow-circled “더치페이” settles in early and the lower-center name-tag chips pop in; warm lighting and bokeh tree lights stay steady; ~4.3s, steady rhythm, ends on a clean cut to the in-app demo.",
+        "i2v_params": {
+          "clip_duration_sec": 4.34,
+          "camera_move": "push_in",
+          "subject_motion_level": "micro",
+          "signature_effect": "none",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen copy preserved verbatim (per copywriting); presenter face-likeness generic, no real logo mark"
+      }
+    },
+    {
+      "index": 2,
+      "duration": 34.87,
+      "framing": "CU",
+      "function": "demo_method1_screen_walkthrough",
+      "color_mood": "neutral bright app UI on warm bokeh background; Toss-blue accents",
+      "subject_action": "A left hand holds an iPhone vertically against a warm out-of-focus interior while the other hand taps and scrolls; the screen is the subject. The continuous take walks method one of Dutch Pay: open Toss, go to the 전체 (All) tab, search '더치' to find 더치페이, create a 새 더치페이, type the total (80,000원), pick friends from contacts and manually add a number-less friend, adjust each person's share, reach the completion screen ('토스로 알림을 보냈어요'), tap 링크 공유하기, choose 카카오톡, pick an open-chat room, and post the settlement link card so the split is done.",
+      "copy_overlay": "numbered step captions 1→5 (먼저 토스를 켜고 / 검색 버튼을 눌러 더치페이를 검색합니다 / 새 더치페이를 만들고 / 나눌 금액을 입력해주세요 / 비용을 나눌 친구들을 선택해줍니다 / 연락처가 없다면 / 수동으로 친구를 추가할 수 있어요 / 연락처가 있는 친구들에게 / 자동으로 토스 알림이 갑니다 / 링크 공유하기를 누르고 / 카카오톡을 선택해주세요 / 공유할 단톡방을 선택하면 / 더치페이 끝!)",
+      "subject_identity": "protagonist_main",
+      "subject_relationship_to_protagonist": "main_character",
+      "mid_frame_path": "ADV-2026-027_frames/cut02_mid.png",
+      "layout_grid": "center",
+      "subject_position": "center",
+      "subject_typo_layout": "phone centered, captions in fixed lower-third white brush box with blue number badge to its left",
+      "typo_motion": "Each instruction caption pops into the lower-third box in sync with the VO and is swapped for the next as the on-screen action advances; the blue circular step-number badge increments 1→2→3→4→5.",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "environment",
+      "gaze": "none",
+      "eye_contact_effect": "none; the device screen is the focal subject",
+      "props": [
+        "smartphone (iPhone, screen-recording demo)",
+        "manicured hand"
+      ],
+      "prop_semantics": "The real device in-hand reads as authentic and reproducible ('you can do exactly this'), the core trust device of the tutorial format.",
+      "color_palette": [
+        "#f4f3f1",
+        "#3182f6",
+        "#1c1c1c",
+        "#caa07a",
+        "#e9e8e6"
+      ],
+      "color_intent": "clean near-white app UI with Toss-blue as the action/accent color; warm brown bokeh background ties it to the bookends",
+      "pose_description": "One-handed grip with the thumb/forefinger of the other hand tapping precisely; relaxed, unhurried demonstration pacing.",
+      "subject_motion": "micro hand sway plus deliberate taps and scrolls",
+      "prop_motion": "phone drifts slightly with natural handheld sway; on-screen UI advances screen-to-screen",
+      "camera_motion": "handheld drift",
+      "camera_motion_intensity": "subtle",
+      "camera_effect_local": "none",
+      "motion_blur": "light on fast finger taps",
+      "intra_cut_rhythm": "steady",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [
+        "caption pop/swap",
+        "number badge increment"
+      ],
+      "vfx_intensity_local": "subtle",
+      "fact_check_flag": "scenedetect split this take at 33.03s and metrics at 36.24s; visual check (continuous status-bar clock 1:16→1:18, same hand and background) confirms these are soft in-app screen changes, NOT camera cuts — merged into one shot",
+      "notes": "Longest shot; one continuous handheld real-device take covering the entire method-1 flow including the KakaoTalk share. Illustrative requester name in the shared message reads '김창선님'; example split values: 80,000원 across 4 people (20,000 each, then edited to 20k/20k/30k/10k). KakaoTalk link cards show toss.im short URLs (값 vary per re-share).",
+      "visible_elements": {
+        "foreground": [
+          "left hand gripping a black-framed iPhone",
+          "right index finger tapping the screen",
+          "bright app UI screens (home, All tab, search, Dutch Pay create, amount pad, friend select, distribution, completion, share sheet, KakaoTalk chat)"
+        ],
+        "midground": [
+          "forearm in a red knit sleeve at lower right"
+        ],
+        "background": [
+          "warm brown out-of-focus interior bokeh"
+        ],
+        "lighting_env": [
+          "soft ambient indoor light",
+          "phone screen self-illumination"
+        ],
+        "atmosphere": [
+          "clean",
+          "shallow-DOF creamy bokeh",
+          "no haze"
+        ]
+      },
+      "texture": {
+        "primary_subject": "glass_clear",
+        "secondary_objects": [
+          "skin_natural",
+          "metallic"
+        ],
+        "background_surface": "atmospheric_haze",
+        "atmospheric": [
+          "soft_bokeh"
+        ]
+      },
+      "lighting": {
+        "key_direction": "front",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "moderate",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": false,
+        "practical_lights": [
+          "휴대폰 화면 발광",
+          "실내 천장 확산광"
+        ],
+        "shadow_presence": "soft",
+        "overall_contrast": "mid_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#f4f3f1",
+          "#3182f6",
+          "#1c1c1c",
+          "#caa07a",
+          "#e9e8e6"
+        ],
+        "palette_role": {
+          "#f4f3f1": "app_ui_background_dominant",
+          "#3182f6": "brand_blue_action_accent",
+          "#1c1c1c": "ui_text_dark",
+          "#caa07a": "warm_bokeh_background",
+          "#e9e8e6": "ui_card_neutral"
+        },
+        "color_relationship": "brand_dominant",
+        "temperature_balance": "split_warm_cool",
+        "saturation_strategy": "desaturated_with_pop",
+        "contrast_type": "luminance_high",
+        "accent_color": "#3182f6",
+        "accent_ratio": "15_percent",
+        "brand_color_match": [
+          "Toss-blue #3182f6 on primary buttons and emphasized caption words"
+        ]
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A vertical 9:16 handheld real-device demonstration still: a Korean woman's left hand, with neat nude manicured nails and a thin red knit sleeve at the lower-right edge, holds a modern black-framed smartphone upright and centered in the frame while her other index finger reaches in to tap the screen; the phone screen is the clear subject and is sharply in focus, showing a clean near-white Korean fintech banking app interface mid-task in a bill-splitting flow — for example the app's 'All' menu listing service shortcuts with a recent-items row, or the Dutch Pay creation flow with a friend-selection list of placeholder contacts and a blue primary action button at the bottom; the iOS status bar reads about 1:17 with LTE and a near-full battery. The background is a warm brown, heavily out-of-focus indoor space rendered as soft creamy bokeh so nothing competes with the screen; lighting is soft and neutral around 5500K, a diffused frontal key with moderate fill (roughly 2:1), gentle soft shadows under the hand, no hard rim, plus subtle screen self-illumination on the fingertips. The shot is at eye level, frontal to the phone, with a roughly 50mm-equivalent macro-ish look and shallow depth of field that throws the warm room into smooth blur. Composition centers the device with generous negative space around it; the recorded on-screen instructional caption sits in a fixed lower-third zone as a hand-torn white brush-stroke box containing bold rounded Korean sans-serif text with the key words emphasized in Toss-blue, preceded to its left by a small solid blue circle holding a white step number (1 through 5) — for instance “검색 버튼을 눌러 / 더치페이를 검색합니다” or “비용을 나눌 친구들을 / 선택해줍니다” (Korean app text and captions are typically finalized in post but preserved here for fidelity). The palette is brand-dominant and largely desaturated with a pop: near-white UI (#f4f3f1) dominant, Toss-blue (#3182f6) as the action and accent color on buttons and emphasized words at roughly fifteen percent, dark UI text (#1c1c1c), neutral card grey (#e9e8e6), and a warm brown bokeh (#caa07a) bridging to the live-action bookends. Surfaces read as clear glossy glass screen, natural skin, and a hint of metallic phone edge; the atmosphere is clean with smooth shallow-DOF bokeh and no haze. The overall look is an authentic clean digital 4K vertical screen-recording-style demonstration, true to a Korean fintech brand's friendly step-by-step explainer, Korean studio realism, unglossy and trustworthy. Additional craft notes for faithful reproduction: this is the central instructional body of the video and the phone screen must be the unambiguous hero — keep it crisp, evenly lit, glare-free, and large in the frame, occupying roughly the central sixty percent of the vertical composition, held just off perfectly vertical with a natural human tilt. The hand belongs to a Korean woman in her mid-20s; render the fingers anatomically correct with short nude-toned manicured nails, a believable relaxed grip on the lower-left of the device, and the second hand entering from the bottom to tap with a single extended index finger, fingertip pressed near a button or list row. Let the screen's own glow spill faintly onto the fingertips and the dark phone bezel, and add a thin specular highlight along the glossy glass edge to sell the material. The warm brown background should be a completely defocused interior — soft amber and taupe gradients, perhaps a faint window or lamp as a blurred bright patch — with absolutely no readable objects competing with the UI. Keep the app rendering clean and modern: generous white space, dark legible Korean text, soft grey cards, rounded blue primary buttons, and small friendly service icons, consistent with a leading Korean fintech super-app's minimalist design language. Exposure favors the screen with the room slightly darker around it, white balance neutral on the UI while the bokeh stays warm, creating the gentle temperature split that visually separates app from environment. The feeling is calm, capable, and reassuring, like a trusted friend quietly showing you exactly which buttons to press. Korean fintech tutorial photography, photoreal, 9:16 vertical.",
+        "t2i_negative": "two phones, distorted fingers, extra hands, deformed UI, unreadable garbled glyphs as art, real brand logo marks, watermark, harsh shadows, low-key, heavy grain, oversaturation, plastic skin, blurred screen",
+        "i2v_motion": "Keep the phone centered with natural one-handed handheld sway while the free index finger makes a series of precise taps and short scrolls that advance the bright app UI screen-to-screen through the bill-split flow (open app → All tab → search field → create new split → number-pad amount entry → friend selection with check toggles → per-person amount edits → completion screen → share sheet → KakaoTalk open-chat where a settlement link card posts); lower-third white brush-box captions pop in and swap in sync, with the blue step-number badge incrementing 1→5; light motion blur on the fastest taps; background bokeh and soft neutral lighting stay steady; ~34.9s of steady, unhurried tutorial rhythm in one continuous take, ending on a clean cut to the second method.",
+        "i2v_params": {
+          "clip_duration_sec": 34.87,
+          "camera_move": "handheld_drift",
+          "subject_motion_level": "micro",
+          "signature_effect": "none",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen app text and captions preserved verbatim where shown (per copywriting), illustrative names/values kept; no real logo mark; hand only, no face"
+      }
+    },
+    {
+      "index": 3,
+      "duration": 15.58,
+      "framing": "CU",
+      "function": "demo_method2_screen_walkthrough",
+      "color_mood": "neutral bright app UI on warm bokeh background; Toss-blue accents",
+      "subject_action": "Same handheld real-device framing (separate take — status-bar clock now 1:21). The hand demonstrates method two: open a spending-history (소비내역) month view, open a transaction detail, tap 더치페이 하기 at the bottom, multi-select the spending items to split (e.g. 40,000원 + 80,000원 = 120,000원), pick friends, and reach the distribution screen that auto-fills the exact paid amount (총 120,000원을 4명이 나눕니다, 30,000원 each) before requesting, then the completion screen begins to appear.",
+      "copy_overlay": "transition + numbered captions (소비내역에서 / 바로 더치페이를 할 수도 있는데요 / 소비내역 하단에 더치페이를 누르고 / 계산할 소비내역을 선택한 뒤 / 더치페이 할 친구들을 선택하면 / 계산한 금액 그대로 더치페이를 요청할 수 있어요)",
+      "subject_identity": "protagonist_main",
+      "subject_relationship_to_protagonist": "main_character",
+      "mid_frame_path": "ADV-2026-027_frames/cut03_mid.png",
+      "layout_grid": "center",
+      "subject_position": "center",
+      "subject_typo_layout": "phone centered, captions in fixed lower-third white brush box; transition captions appear without a number badge, then numbered badges restart 1→3 for the second method",
+      "typo_motion": "A no-badge transition caption ('소비내역에서' / '바로 더치페이를 할 수도 있는데요') bridges into the method, then the blue number badge restarts at 1 and counts to 3 with caption swaps synced to the VO.",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "environment",
+      "gaze": "none",
+      "eye_contact_effect": "none; device screen is the focal subject",
+      "props": [
+        "smartphone (iPhone, screen-recording demo)",
+        "manicured hand"
+      ],
+      "prop_semantics": "Reinforces the real-device authenticity; the spending-history entry point shows the feature is reachable from everyday transactions.",
+      "color_palette": [
+        "#f4f3f1",
+        "#3182f6",
+        "#1c1c1c",
+        "#caa07a",
+        "#e9e8e6"
+      ],
+      "color_intent": "same clean near-white UI with Toss-blue action accent and warm bokeh background as shot 2 for visual continuity",
+      "pose_description": "Same relaxed one-handed grip with precise taps; calm demonstrative pacing.",
+      "subject_motion": "micro hand sway plus deliberate taps and scrolls",
+      "prop_motion": "phone drifts slightly; on-screen UI advances screen-to-screen",
+      "camera_motion": "handheld drift",
+      "camera_motion_intensity": "subtle",
+      "camera_effect_local": "none",
+      "motion_blur": "light on fast finger taps",
+      "intra_cut_rhythm": "steady",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [
+        "caption pop/swap",
+        "number badge restart 1→3"
+      ],
+      "vfx_intensity_local": "subtle",
+      "fact_check_flag": "real camera cut from shot 2 at 39.21s confirmed by status-bar clock jump 1:18→1:21 and a fresh starting screen — separate take",
+      "notes": "Key differentiator vs method 1: starting from a real spending-history transaction reuses the exact paid amount ('계산한 금액 그대로'). Example: two items (토스생맥주 40,000 + 토스흑돼지 80,000) = 120,000원 split 4 ways at 30,000 each.",
+      "visible_elements": {
+        "foreground": [
+          "left hand gripping a black-framed iPhone",
+          "right index finger tapping the screen",
+          "bright app UI screens (spending-history calendar/list, transaction detail, multi-select split picker, friend select, distribution, completion)"
+        ],
+        "midground": [
+          "forearm in a red knit sleeve at lower right"
+        ],
+        "background": [
+          "warm brown out-of-focus interior bokeh"
+        ],
+        "lighting_env": [
+          "soft ambient indoor light",
+          "phone screen self-illumination"
+        ],
+        "atmosphere": [
+          "clean",
+          "shallow-DOF creamy bokeh",
+          "no haze"
+        ]
+      },
+      "texture": {
+        "primary_subject": "glass_clear",
+        "secondary_objects": [
+          "skin_natural",
+          "metallic"
+        ],
+        "background_surface": "atmospheric_haze",
+        "atmospheric": [
+          "soft_bokeh"
+        ]
+      },
+      "lighting": {
+        "key_direction": "front",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "moderate",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": false,
+        "practical_lights": [
+          "휴대폰 화면 발광",
+          "실내 천장 확산광"
+        ],
+        "shadow_presence": "soft",
+        "overall_contrast": "mid_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#f4f3f1",
+          "#3182f6",
+          "#1c1c1c",
+          "#caa07a",
+          "#e9e8e6"
+        ],
+        "palette_role": {
+          "#f4f3f1": "app_ui_background_dominant",
+          "#3182f6": "brand_blue_action_accent",
+          "#1c1c1c": "ui_text_dark",
+          "#caa07a": "warm_bokeh_background",
+          "#e9e8e6": "ui_card_neutral"
+        },
+        "color_relationship": "brand_dominant",
+        "temperature_balance": "split_warm_cool",
+        "saturation_strategy": "desaturated_with_pop",
+        "contrast_type": "luminance_high",
+        "accent_color": "#3182f6",
+        "accent_ratio": "15_percent",
+        "brand_color_match": [
+          "Toss-blue #3182f6 on primary buttons and emphasized caption words"
+        ]
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A vertical 9:16 handheld real-device demonstration still matching the previous demo's look: a Korean woman's left hand with neat nude manicured nails and a thin red knit sleeve at the lower-right edge holds a modern black-framed smartphone upright and centered while her other index finger taps the screen; the sharply focused screen shows a clean near-white Korean fintech banking app spending-history view — a month tab with a horizontal weekday calendar strip and a scrollable list of transaction rows (small color icons, item names, and minus/plus amounts), or a transaction detail page with category, memo and toggle rows and a bottom action button, or a multi-select 'choose what to split' sheet with check toggles and a blue total-amount Dutch Pay button; the iOS status bar reads about 1:21 with LTE and near-full battery. The background is a warm brown, heavily out-of-focus indoor space rendered as soft creamy bokeh; lighting is soft and neutral around 5500K, a diffused frontal key with moderate fill (about 2:1), gentle soft shadows under the hand, no hard rim, plus subtle screen self-illumination on the fingertips. The shot is at eye level, frontal to the phone, roughly 50mm-equivalent with shallow depth of field. Composition centers the device with generous negative space; the recorded on-screen caption sits in the fixed lower-third zone as a hand-torn white brush-stroke box of bold rounded Korean sans-serif text with key words in Toss-blue — a transition line without a number badge such as “소비내역에서 / 바로 더치페이를 할 수도 있는데요” then numbered steps such as “계산할 소비내역을 / 선택한 뒤” and “계산한 금액 그대로 / 더치페이를 요청할 수 있어요”, with a small solid blue circle holding the white step number to the left (Korean app text and captions finalized in post but preserved for fidelity). The palette is brand-dominant and largely desaturated with a pop: near-white UI (#f4f3f1) dominant, Toss-blue (#3182f6) accent on buttons and emphasized words at about fifteen percent, dark UI text (#1c1c1c), neutral card grey (#e9e8e6), and warm brown bokeh (#caa07a) tying to the bookends. Surfaces read as clear glossy glass screen, natural skin and a hint of metallic phone edge; the atmosphere is clean with smooth shallow-DOF bokeh and no haze. The overall look is an authentic clean digital 4K vertical screen-recording-style demonstration true to a Korean fintech brand's friendly step-by-step explainer, Korean studio realism, unglossy and trustworthy. Additional craft notes for faithful reproduction: keep visual continuity with the first demonstration shot so the two read as the same person, same device, same room — identical Korean mid-20s hand with short nude manicure, identical black-framed phone, identical warm amber bokeh — only the on-screen content and the status-bar time (now around 1:21) differ, signaling a separate take of the second method. The screen remains the unambiguous hero, sharp and evenly lit, filling the central portion of the vertical frame, held with a natural human tilt while the free index finger reaches in from below to tap a list row or the blue bottom button. Render the spending-history UI convincingly: a compact horizontal weekday calendar strip with a highlighted current day, then a vertical feed of transaction rows each pairing a small rounded colored category icon with a Korean merchant-style label and a bold amount (minus for spend, plus for cashback), plus a prominent blue full-width action button anchored at the bottom on the multi-select sheet. Let the screen glow graze the fingertips and a thin specular line ride the glossy glass edge. Keep the background a fully defocused warm interior with no readable competing objects, exposure biased to the screen with the room slightly darker, neutral white balance on the UI against the warm bokeh for a gentle temperature split. The emotional tone is calm, efficient and reassuring, the feeling of a capable friend showing the genuinely faster shortcut. Korean fintech tutorial photography, photoreal, 9:16 vertical.",
+        "t2i_negative": "two phones, distorted fingers, extra hands, deformed UI, garbled glyphs as art, real brand logo marks, watermark, harsh shadows, low-key, heavy grain, oversaturation, plastic skin, blurred screen",
+        "i2v_motion": "Keep the phone centered with natural handheld sway while the free index finger taps and scrolls to advance the bright app UI through the spending-history flow (month calendar/list → transaction detail → tap the bottom Dutch Pay action → multi-select spending items with check toggles → friend selection → distribution screen that auto-fills the exact paid total split evenly → completion screen begins to slide in); a no-badge transition caption bridges in first, then lower-third white brush-box captions pop and swap with the blue step badge restarting 1→3; light motion blur on fast taps; background bokeh and soft neutral light steady; ~15.6s steady tutorial rhythm in one take, ending on a clean cut to the live-action outro.",
+        "i2v_params": {
+          "clip_duration_sec": 15.58,
+          "camera_move": "handheld_drift",
+          "subject_motion_level": "micro",
+          "signature_effect": "none",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen app text and captions preserved verbatim where shown (per copywriting), illustrative values kept; no real logo mark; hand only, no face"
+      }
+    },
+    {
+      "index": 4,
+      "duration": 4.77,
+      "framing": "MS",
+      "function": "outro_series_signoff",
+      "color_mood": "cooler office corridor with warm strip-light accents, slightly moody",
+      "subject_action": "Hard cut back to the same presenter in a Toss office: she stands in profile at a pantry/cafe counter picking up a coffee cup with a smile, then turns and walks away from the camera down a glass-walled corridor; the camera follows handheld.",
+      "copy_overlay": "토스의 숨은 꿀기능\n다시 찾아올게요!",
+      "subject_identity": "protagonist_main",
+      "subject_relationship_to_protagonist": "main_character",
+      "mid_frame_path": "ADV-2026-027_frames/cut04_mid.png",
+      "layout_grid": "center",
+      "subject_position": "center",
+      "subject_typo_layout": "outro brush box in mid/upper-third over the corridor; subject centered, walking away",
+      "typo_motion": "Blue brush-stroke outro box with a hand-drawn yellow ellipse around '꿀기능' pops/fades in and holds as she walks away.",
+      "camera_angle": "eye_level",
+      "camera_facing": "profile",
+      "shot_scope": "full_body",
+      "gaze": "off_camera",
+      "eye_contact_effect": "none; candid lifestyle close-out",
+      "props": [
+        "paper coffee cup",
+        "brown leather crossbody bag with gold clasp",
+        "pantry counter with cups/dispensers"
+      ],
+      "prop_semantics": "Coffee-run + walking away signals a relaxed everyday wrap, reinforcing the casual, human series tone after a utilitarian how-to.",
+      "color_palette": [
+        "#cfc7bb",
+        "#1c1c1c",
+        "#8a6a4a",
+        "#d9b34a",
+        "#2a2a2a"
+      ],
+      "color_intent": "cooler neutral corridor with warm strip-light and amber bag accents; Toss-blue + yellow highlight only in the caption graphic",
+      "pose_description": "Natural mid-stride profile then back view walking away, relaxed shoulders, slight smile — a candid, friendly exit.",
+      "subject_motion": "walk; picks up cup, turns, walks away from camera",
+      "prop_motion": "coffee cup lifted; crossbody bag sways with stride",
+      "camera_motion": "handheld follow",
+      "camera_motion_intensity": "moderate",
+      "camera_effect_local": "none",
+      "motion_blur": "moderate on background during walk",
+      "intra_cut_rhythm": "steady",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [
+        "outro caption pop_in with yellow circle highlight"
+      ],
+      "vfx_intensity_local": "subtle",
+      "fact_check_flag": "real camera cut from shot 3 at 54.79s confirmed (location/lighting change)",
+      "notes": "Series sign-off bookend mirroring the intro's blue-box + yellow-circle caption treatment. Last frame ~59.5s.",
+      "visible_elements": {
+        "foreground": [
+          "young woman in long black coat",
+          "paper coffee cup in hand",
+          "brown leather crossbody bag with gold clasp"
+        ],
+        "midground": [
+          "white pantry/cafe counter with paper cups and dispensers",
+          "glass-walled meeting rooms"
+        ],
+        "background": [
+          "office corridor with polished concrete floor",
+          "numbered glass partitions",
+          "small plant",
+          "warm signage glow"
+        ],
+        "lighting_env": [
+          "overhead linear strip lights",
+          "warm Edison-bulb pendant lights",
+          "ambient corridor light"
+        ],
+        "atmosphere": [
+          "slightly moody cool corridor",
+          "warm pools of light",
+          "subtle reflections on floor"
+        ]
+      },
+      "texture": {
+        "primary_subject": "fabric_wool",
+        "secondary_objects": [
+          "leather",
+          "paper",
+          "glass_clear"
+        ],
+        "background_surface": "concrete",
+        "atmospheric": [
+          "soft_reflections"
+        ]
+      },
+      "lighting": {
+        "key_direction": "top",
+        "key_hardness": "soft",
+        "key_color_temp": "mixed",
+        "fill_strength": "minimal",
+        "key_to_fill_ratio": "4:1",
+        "rim_light": true,
+        "practical_lights": [
+          "천장 라인 조명",
+          "에디슨 전구 펜던트",
+          "복도 간접광"
+        ],
+        "shadow_presence": "soft",
+        "overall_contrast": "mid_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#cfc7bb",
+          "#1c1c1c",
+          "#8a6a4a",
+          "#d9b34a",
+          "#2a2a2a"
+        ],
+        "palette_role": {
+          "#cfc7bb": "corridor_neutral_dominant",
+          "#1c1c1c": "subject_dark_anchor",
+          "#8a6a4a": "leather_bag_warm_accent",
+          "#d9b34a": "warm_pendant_light_accent",
+          "#2a2a2a": "ceiling_shadow"
+        },
+        "color_relationship": "analogous",
+        "temperature_balance": "split_warm_cool",
+        "saturation_strategy": "muted_with_pop",
+        "contrast_type": "temperature_split",
+        "accent_color": "#d9b34a",
+        "accent_ratio": "5_percent",
+        "brand_color_match": [
+          "Toss-blue #3182f6 + yellow highlight appear only in the outro caption graphic"
+        ]
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A candid vertical 9:16 lifestyle commercial still of a Korean woman in her mid-20s inside a modern Korean fintech office, shown standing in profile at a white pantry/cafe counter as she lifts a paper coffee cup with a soft natural smile, about to turn and walk away down a glass-walled corridor; she wears the same long structured black wool coat over an orange knit, with a small brown leather crossbody bag with a gold clasp resting at her hip, shoulder-length auburn-brown hair; she is a real-talent-type rather than any specific celebrity, with a relaxed, friendly presence. The environment is an open office interior: a clean white counter holding stacked paper cups and beverage dispensers at the left, glass-partitioned meeting rooms (some bearing small numbered/etched labels) along the corridor, a polished concrete floor with soft reflections, a small plant and a faint warm signage glow deeper in. Lighting is moody and mixed: cool overhead linear strip lights as the main top key with minimal fill (roughly 4:1), warm Edison-bulb pendant lights as amber practicals creating a temperature split, a subtle rim separating her dark coat from the background, and soft shadows. The shot is at eye level, profile-to-back as she begins to move, with a roughly 35mm-equivalent handheld look and shallow-to-moderate depth of field. Composition centers her with the corridor receding behind; the recorded on-screen outro copy appears in the mid-to-upper third inside a hand-painted Toss-blue brush-stroke box reading, in two lines of bold rounded Korean sans-serif white lettering, “토스의 숨은 꿀기능 / 다시 찾아올게요!” with a hand-drawn yellow ellipse circling the word “꿀기능” (finalized in post but preserved here for fidelity). The palette is a muted split of cool neutral corridor (#cfc7bb) dominant against a deep black coat (#1c1c1c) anchor, with warm leather-brown (#8a6a4a) and warm pendant-amber (#d9b34a) accents at roughly five percent and dark ceiling shadow (#2a2a2a); Toss-blue and the yellow highlight live only in the caption graphic. Surfaces read as soft wool coat, smooth leather bag, paper cup, clear glass partitions and matte polished concrete; the atmosphere is a slightly moody cool corridor punctuated by warm pools of light with subtle floor reflections and no haze. The overall look is a clean digital 4K vertical social-tutorial outro aesthetic, natural and candid, true to a Korean fintech brand's friendly explainer series, Korean studio realism. Additional craft notes for faithful reproduction: this is the bookend sign-off, so render the same Korean woman in her mid-20s from the intro for continuity — same auburn-brown shoulder-length hair, same long black wool coat, same warm relatable presence — now captured candidly in an everyday office moment rather than posed. Her body language should read as a natural mid-action beat: weight shifting as she lifts the takeaway coffee cup, a soft genuine smile, then beginning to pivot so the camera catches her three-quarter-to-back as she steps away, the long coat swinging slightly and the small brown leather crossbody bag with its gold turn-lock clasp swaying at her hip. The corridor should feel like a real modern Korean tech-company floor: glass-walled meeting rooms with thin metal frames and faint etched room labels, a smooth polished concrete floor returning soft elongated reflections of the overhead lights, exposed dark ceiling services overhead, and a few warm Edison-style pendant bulbs hanging as glowing amber points among the cooler linear ceiling fixtures. Keep the contrast moody but controlled — her dark coat separated from the dim corridor by a subtle cool rim along her shoulders and hair, midtones preserved on her skin, and no blown highlights on the white counter or the pendant bulbs. Let depth of field gently soften the far end of the corridor while she stays the clear focal point. Exposure is slightly darker and cooler than the warm intro to feel like a different time of day, with the warm practicals as the only hot accents. The emotional tone is friendly, easygoing, and a little cinematic, a warm see-you-next-time wrap for a recurring tips series. Korean lifestyle commercial photography, photoreal, 9:16 vertical.",
+        "t2i_negative": "second person facing camera, extra hands, distorted fingers, deformed face, real brand logo marks, watermark, blown highlights, heavy grain, oversaturation, plastic skin, harsh face shadows, text gibberish",
+        "i2v_motion": "She lifts the paper coffee cup with a small smile, then turns and walks away from the camera down the glass-walled corridor with a natural unhurried stride, her crossbody bag swaying gently; the camera follows handheld with a soft drift, keeping her centered as the background pulls past with moderate motion blur; the mid/upper-third blue outro brush box with the yellow-circled “꿀기능” pops in early and holds; mixed cool-and-warm lighting stays steady; ~4.8s, steady rhythm, ends the video on the walk-away.",
+        "i2v_params": {
+          "clip_duration_sec": 4.77,
+          "camera_move": "handheld_follow",
+          "subject_motion_level": "walk",
+          "signature_effect": "none",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen copy preserved verbatim (per copywriting); presenter face-likeness generic, no real logo mark"
+      }
+    }
+  ],
+  "search_keywords": {
+    "industry": [
+      "finance",
+      "it_saas"
+    ],
+    "product_category": [
+      "mobile_banking",
+      "mobile_payment",
+      "bill_split_dutchpay"
+    ],
+    "target_demo": [
+      "20s",
+      "late20s_early30s",
+      "office_worker",
+      "mz"
+    ],
+    "media_format": [
+      "shortform_vertical_30s_plus"
+    ],
+    "tone": [
+      "friendly",
+      "clean_minimal",
+      "upbeat"
+    ],
+    "pacing": [
+      "steady"
+    ],
+    "technique": [
+      "screen_recording_demo",
+      "presenter_walk_intro",
+      "ui_motion",
+      "step_by_step_caption",
+      "real_device_handheld_demo"
+    ],
+    "vfx_keywords": [
+      "ui_motion",
+      "caption_badge",
+      "brush_stroke_caption",
+      "handheld"
+    ],
+    "copy_strategy_keywords": [
+      "feature_benefit_direct",
+      "step_by_step_tutorial",
+      "voice_caption_sync"
+    ],
+    "concept_derivation_pattern": [
+      "presenter_bookended_app_tutorial",
+      "series_omnibus"
+    ]
+  },
+  "inferred_creative_thinking": {
+    "insight": "Splitting a bill with friends is socially awkward and the chasing-for-money afterwards strains friendships; people don't realize the bank app they already use can do it cleanly, even for friends who don't use the app.",
+    "persona": "A relatable in-house UX writer as the guide, lowering the barrier so the brand feels like a helpful friend rather than a faceless bank.",
+    "moment": "Right after a group meal/drinks when someone has to collect everyone's share.",
+    "product_role": "Hero utility: Dutch Pay turns an awkward money-collection chore into two-tap requests, auto-notifications to app users, and a shareable link for non-users — protecting both wallet and friendship.",
+    "punchline": "지갑도 우정도 지키는 더치페이 — 더치페이 끝!",
+    "differentiator": "Shows two entry points, especially splitting straight from a real spending-history transaction so the exact paid amount is reused with no manual typing.",
+    "brand_fit_one_liner": "Reinforces Toss as the simplest everyday-money super-app via a friendly 'hidden feature' tip series.",
+    "confidence": "inferred"
+  },
+  "inferred_brief": "Make a short vertical social tutorial for the '토스 숨은 서비스' series that teaches users two ways to use Toss Dutch Pay (split-the-bill) clearly and warmly, positioning Toss as the easy everyday-money app that protects friendships.",
+  "cross_pollination_tags": {
+    "adjacent": [
+      "insurance",
+      "telecom",
+      "subscription_membership",
+      "it_saas"
+    ],
+    "distant": [
+      "food_delivery",
+      "travel_tourism",
+      "retail"
+    ],
+    "contrast": [
+      "luxury",
+      "automotive",
+      "beauty"
+    ]
+  },
+  "concept_derivation_pattern": [
+    "presenter_bookended_app_tutorial",
+    "everyday_problem_metaphor_product_release"
+  ],
+  "confidence": "inferred",
+  "analyst_notes": "Feature name conclusively verified from on-screen captions as '더치페이' (Dutch Pay / split-the-bill), NOT '더페이/THE PAY' — whisper text_raw garbled it as '덮이페이'. The title caption circles '더치페이' in yellow; the app menu item, search result, and all screens read '더치페이'; the function (나눌 금액, 비용을 나눌 친구들, 계산한 금액 그대로 요청) is bill-splitting. Cut analysis: scenedetect reported 5 scenes (boundaries 4.34, 33.03, 39.21, 54.79) and metrics added 36.24; per-frame visual check shows the 33.03 and 36.24 boundaries are soft in-app screen changes inside ONE continuous handheld take (status-bar clock continuous 1:16→1:18, identical hand/background), so they are NOT camera cuts. True camera cuts are at 4.34 (intro→demo), 39.21 (method 1→method 2, clock jumps 1:18→1:21 = new take), and 54.79 (demo→outro). shot_count_corrected = 4. metrics diff channel was saturated (median ~1.96, ~95% of frames >=0.5) so it was unusable as a cut selector; cadence + boundary + caption-settle sampling used instead. No 3D wiggle (metrics wiggle hint not confirmed visually — ordinary handheld drift). Illustrative in-app names (박토스/이토스/정토스/최토스, 김창선) and amounts are demo placeholders. Presenter credited '구슬, Toss UX Writer'.",
+  "verification": {
+    "frames_reviewed": "~70 of 1783 frames visually read at native 1080x1920 (dense cadence ~1 every 12 frames across all 5 scene segments, plus all four real-cut boundary frames ±1/±2 and every caption-settle/app-screen state); 100% per-frame metrics consulted. diff channel saturated/unusable as selector (median ~1.96), so cadence+boundary+caption sampling used; every distinct caption and every distinct app screen captured. Audio: faster-whisper ko 0.773 coverage cross-checked and corrected against captions.",
+    "audio_analyzed": true,
+    "abstraction_checked": true
+  }
+}

@@ -1,0 +1,2307 @@
+{
+  "id": "ADV-2026-033",
+  "source_ref": {
+    "platform": "digital_video",
+    "title_or_campaign": "토스 페이스페이 (Toss Face Pay)",
+    "brand": "토스",
+    "product": "페이스페이",
+    "model": null,
+    "year": 2024,
+    "production_note": "토스(비바리퍼블리카) 페이스페이(FacePay) 얼굴 인식 결제 서비스 런칭 광고 #1",
+    "url": null
+  },
+  "category_primary": "finance.fintech",
+  "category_tags": [
+    "핀테크",
+    "간편결제",
+    "생체인증결제",
+    "얼굴인식결제",
+    "결제 진화사"
+  ],
+  "mood": [
+    "witty",
+    "clean_minimal",
+    "playful",
+    "confident",
+    "modern"
+  ],
+  "target_demo": "20~30대 모바일 결제에 익숙한 MZ 소비자 및 신규 결제수단에 호기심 있는 일반 대중",
+  "total_duration": 36.131,
+  "shot_count": 16,
+  "shot_count_corrected": 16,
+  "fps": 29.97,
+  "aspect_ratio": "16:9",
+  "hook_position": 0.5,
+  "cta_position": 30.85,
+  "narrative_arc": "인류 결제수단의 진화를 손바닥 위 오브제로 제시(인식: 돌화폐→엽전→지폐→카드→폰) → '결국 무얼 내느냐의 차이'라 규정하고 '진화가 아니라 변화였을 뿐'이라 반전(공감·재정의) → '그리고 마침내' 손에서 벗어나 사람의 얼굴이 등장(문제해결의 전환) → 다양한 얼굴이 스캔되어 바로 결제 완료(솔루션 실증) → '결제, 과거의 손아귀를 벗어나다' / '결제의 새얼굴' 선언 → FacePay·토스 브랜드 마무리(신뢰)",
+  "narrative_structure": "linear_continuous",
+  "pacing_curve": "slow_build",
+  "music_tempo_curve": "ramp_up",
+  "wow_cut_index": [
+    9,
+    10
+  ],
+  "creative_device": "payment_evolution_metaphor_sequence + hand_to_face_match_reveal (손에 내미는 결제수단의 진화사를 뒤집어 '얼굴' 자체가 결제수단이 되는 제품을 공개)",
+  "production_signature": {
+    "capture_style": "mixed",
+    "camera_signature": [
+      "locked_off"
+    ],
+    "signature_note": "전 구간 흰 배경 모션그래픽. 손/인물은 거친 펜선 손그림(doodle line-art) 합성, 결제 오브제(돌화폐·엽전·지폐·카드)는 실사 포토 컷아웃, 스마트폰/단말기는 클린 3D 렌더, 캡션은 토스 블루 산세리프 키네틱 타이포. 컷 사이 트랜지션은 대부분 오브제가 화면 하단에서 위로 솟아오르며 교체되는 수직 슬라이드/푸시(결제수단을 '손으로 내민다'는 은유) + 카메라가 인물을 폰 화면 안으로 끌어들이는 push형 전환. 하드컷은 거의 없음(metrics hist_corr 전 구간 ~1.0, 자동 컷검출 0~2개). 정적 카메라(locked_off), 순수 wiggle_3d 효과 부재.",
+    "color_grade": "high_key",
+    "texture_fx": "clean_digital"
+  },
+  "global_layout": {
+    "grid_system": "center",
+    "subject_placement_dominant": "center",
+    "subject_typo_relation": "alternating",
+    "negative_space_use": "generous",
+    "layout_note": "흰 배경 가운데 단일 오브제/인물 중앙 배치. 타이포는 (a) 오브제 컷에서는 화면 중앙~상단의 토스 블루 한 줄 캡션, (b) 텍스트 카드 컷에서는 중앙 단독 카피, (c) 얼굴 공개 컷에서는 인물 좌/우로 '얼굴로'/'결제할게요' 분리 배치(typo_separate_zone). 여백을 넉넉히 둔 미니멀 레이아웃.",
+    "subject_typo_relation_note": "오브제·인물 컷과 텍스트 카드 컷이 교대(alternating)하며 카피를 전달"
+  },
+  "recurring_motifs": [
+    "흰 배경 위 손그림 손바닥",
+    "손바닥에 올린 결제수단 오브제(돌화폐·엽전·지폐·카드·폰)",
+    "토스 블루 산세리프 캡션",
+    "FaceID식 파란 얼굴 스캔 링",
+    "스마일 얼굴 아이콘(페이스페이 심볼)"
+  ],
+  "copywriting": {
+    "tagline_text": "결제의 새얼굴\n페이스페이",
+    "tagline_structure": "재정의 선언(새얼굴=새 얼굴 + 새 시대) + 제품명",
+    "tagline_length_syllables": 12,
+    "tagline_position_sec": 29.23,
+    "cta_text": "페이스페이 / 토스",
+    "cta_text_structure": "제품명 + 브랜드명",
+    "cta_position_sec": 30.85,
+    "copy_tone": [
+      "witty",
+      "confident",
+      "declarative"
+    ],
+    "copy_strategy": "redefinition_pun",
+    "copy_lines_count": 11,
+    "lines": [
+      {
+        "position_sec": 1.94,
+        "text": "인류의 결제 방식은",
+        "function": "narrative_setup",
+        "tone": "narrative",
+        "source": "both"
+      },
+      {
+        "position_sec": 4.64,
+        "text": "결국, 무얼 내느냐의 차이",
+        "function": "thesis_statement",
+        "tone": "declarative",
+        "source": "both"
+      },
+      {
+        "position_sec": 8.48,
+        "text": "진화는 무슨",
+        "function": "twist_setup",
+        "tone": "witty",
+        "source": "both"
+      },
+      {
+        "position_sec": 11.62,
+        "text": "변화였을 뿐",
+        "function": "reframe",
+        "tone": "witty",
+        "source": "both"
+      },
+      {
+        "position_sec": 13.34,
+        "text": "결제 완료!",
+        "function": "ui_label",
+        "tone": "neutral",
+        "source": "caption"
+      },
+      {
+        "position_sec": 13.38,
+        "text": "그리고 마침내",
+        "function": "turn_hook",
+        "tone": "anticipatory",
+        "source": "both"
+      },
+      {
+        "position_sec": 16.72,
+        "text": "얼굴로",
+        "function": "punchline_left",
+        "tone": "confident",
+        "source": "both"
+      },
+      {
+        "position_sec": 16.72,
+        "text": "결제할게요",
+        "function": "punchline_right",
+        "tone": "confident",
+        "source": "both"
+      },
+      {
+        "position_sec": 23.46,
+        "text": "결제",
+        "function": "ui_label",
+        "tone": "neutral",
+        "source": "caption"
+      },
+      {
+        "position_sec": 25.42,
+        "text": "결제, 과거의 손아귀를 벗어나다",
+        "function": "reframe_payoff",
+        "tone": "declarative",
+        "source": "both"
+      },
+      {
+        "position_sec": 29.23,
+        "text": "결제의 새얼굴",
+        "function": "tagline",
+        "tone": "confident",
+        "source": "both"
+      }
+    ],
+    "captions": [
+      {
+        "position_sec": 13.34,
+        "text": "결제 완료!",
+        "function": "ui_success_label"
+      },
+      {
+        "position_sec": 23.46,
+        "text": "결제",
+        "function": "ui_action_label"
+      },
+      {
+        "position_sec": 25.46,
+        "text": "결제 완료!",
+        "function": "ui_success_label"
+      }
+    ],
+    "narration_handling": "none"
+  },
+  "typography": {
+    "primary_font_class": "sans_serif_bold_rounded",
+    "secondary_font_class": "sans_serif_bold",
+    "animation_style": [
+      "slide",
+      "fade_in",
+      "static",
+      "pop"
+    ],
+    "subtitle_position_dominant": "center",
+    "tagline_position": "center",
+    "color_strategy": "brand_blue_on_white",
+    "appearance_count": 11,
+    "key_typography_moments_sec": [
+      1.94,
+      4.64,
+      8.48,
+      11.62,
+      13.38,
+      16.72,
+      25.42,
+      29.23
+    ],
+    "typo_motion_dominant": "slide_up_reveal"
+  },
+  "vfx": {
+    "primary_effects": [
+      "ui_motion",
+      "morph",
+      "3d_render"
+    ],
+    "effect_intensity": "moderate",
+    "transition_style_dominant": "slide_push_vertical",
+    "vfx_event_count": 6,
+    "vfx_timing_array_sec": [
+      6.5,
+      13.34,
+      15.55,
+      20.4,
+      23.46,
+      29.23
+    ],
+    "wow_vfx_index": [
+      10
+    ]
+  },
+  "audio": {
+    "has_audio": true,
+    "language": "ko",
+    "speech_coverage": 0.597,
+    "bgm_likely": true,
+    "narration_lines": [
+      {
+        "start": 1.81,
+        "end": 5.61,
+        "text": "인류의 결제 방식은 결국,",
+        "text_raw": "1위의 결제방식은 결국,",
+        "kind": "voiceover",
+        "source": "both"
+      },
+      {
+        "start": 5.61,
+        "end": 7.31,
+        "text": "무얼 내느냐의 차이.",
+        "text_raw": "뭐 할 내는냐의 차이.",
+        "kind": "voiceover",
+        "source": "both"
+      },
+      {
+        "start": 8.55,
+        "end": 9.99,
+        "text": "진화는 무슨,",
+        "text_raw": "지나는 무슨,",
+        "kind": "voiceover",
+        "source": "both"
+      },
+      {
+        "start": 10.61,
+        "end": 12.11,
+        "text": "변화였을 뿐.",
+        "text_raw": "변화였을뿐.",
+        "kind": "voiceover",
+        "source": "both"
+      },
+      {
+        "start": 13.31,
+        "end": 14.71,
+        "text": "그리고 마침내.",
+        "text_raw": "그리고 마침내.",
+        "kind": "voiceover",
+        "source": "both"
+      },
+      {
+        "start": 16.38,
+        "end": 17.88,
+        "text": "얼굴로 결제할게요.",
+        "text_raw": "얼굴로 결제할게요.",
+        "kind": "voiceover",
+        "source": "both"
+      },
+      {
+        "start": 22.38,
+        "end": 27.68,
+        "text": "결제, 과거의 손아귀를",
+        "text_raw": "결제 과거의 소나기를",
+        "kind": "voiceover",
+        "source": "both"
+      },
+      {
+        "start": 27.68,
+        "end": 28.82,
+        "text": "벗어나다.",
+        "text_raw": "더선하다.",
+        "kind": "voiceover",
+        "source": "both"
+      },
+      {
+        "start": 29.32,
+        "end": 30.92,
+        "text": "결제의 새얼굴.",
+        "text_raw": "결제의 새 얼굴.",
+        "kind": "voiceover",
+        "source": "both"
+      },
+      {
+        "start": 32.02,
+        "end": 33.22,
+        "text": "페이스페이.",
+        "text_raw": "페이스페이.",
+        "kind": "voiceover",
+        "source": "both"
+      },
+      {
+        "start": 34.22,
+        "end": 35.22,
+        "text": "토스.",
+        "text_raw": "토스.",
+        "kind": "voiceover",
+        "source": "both"
+      }
+    ],
+    "voice_vs_caption": "voice_and_caption_synced",
+    "narration_handling": "full",
+    "transcribed_by": "faster_whisper",
+    "audio_note": "faster_whisper(base) 전사 성공(speech_coverage 0.597). text_raw는 원본 whisper 출력이며 화면 캡션과 대조해 보정: '1위의 결제방식은'→'인류의 결제 방식은', '뭐 할 내는냐'→'무얼 내느냐', '지나는 무슨'→'진화는 무슨', '결제 과거의 소나기를 더선하다'→'결제, 과거의 손아귀를 벗어나다'. 차분한 남성 성우 보이스오버가 화면 캡션과 거의 일치(voice≈caption). 잔잔한 BGM 동반 추정(bgm_likely true)."
+  },
+  "frames_dir": "ADV-2026-033_frames",
+  "contact_sheet_path": "ADV-2026-033_frames/contact_sheet.png",
+  "shots": [
+    {
+      "index": 1,
+      "duration": 1.9,
+      "framing": "MCU",
+      "function": "brand_hook",
+      "subject_action": "hand-drawn doodle palm (black ink line-art, open hand facing viewer) holds a real photographic round gray stone disc with a center hole (primitive stone money) resting on the palm; small doodled question-mark/swirl marks float near the wrist on left and right; the stone fades/settles in over the first ~0.4s",
+      "color_mood": "clean_minimal_bright",
+      "copy_overlay": "",
+      "layout_grid": "center",
+      "subject_position": "center",
+      "subject_identity": "doodle_hand_with_object",
+      "subject_relationship_to_protagonist": "extra_atmosphere",
+      "mid_frame_path": "ADV-2026-033_frames/cut01_mid.png",
+      "subject_typo_layout": "typo_only_no_person",
+      "typo_motion": "이 컷에는 캡션 없음(오프닝 비주얼 후크). 손바닥 위 돌화폐가 첫 ~0.4s에 페이드/세틀로 안착하고 좌우 작은 낙서형 물음표 곡선이 미세하게 흔들림",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "environment",
+      "gaze": "none",
+      "eye_contact_effect": null,
+      "props": [
+        "stone money disc (Rai-stone-like gray stone with center hole)",
+        "doodle question-mark swirls"
+      ],
+      "prop_semantics": "원시 화폐(돌화폐)를 결제 진화사의 출발점으로 제시 — '인류가 무엇을 주고받아 왔는가'의 첫 사례. 손바닥에 올려 '내미는 결제수단'이라는 은유를 연다",
+      "color_palette": [
+        "#fdfdfd",
+        "#1a1a1a",
+        "#8d8273",
+        "#b8aa97"
+      ],
+      "color_intent": "순백 배경 위 검은 펜선과 흙빛 돌의 단색 대비 — 미니멀 모션그래픽 톤, 오브제(돌)에 시선 집중",
+      "pose_description": "손그림 손바닥이 정면으로 펼쳐져 손가락을 위로 세운 채 중앙의 돌화폐를 받쳐 든 정적 포즈; 사람 얼굴/신체 없음, 손목 위로 환경 비어 있음",
+      "subject_motion": "static",
+      "prop_motion": "stone settles/fades in during first ~0.4s, then static",
+      "camera_motion": "locked_off",
+      "camera_motion_intensity": "none",
+      "camera_effect_local": "none",
+      "motion_blur": false,
+      "intra_cut_rhythm": "static",
+      "transition_in": "fade",
+      "transition_out": "slide_up",
+      "vfx_in_shot": [
+        "morph"
+      ],
+      "vfx_intensity_local": "subtle",
+      "fact_check_flag": null,
+      "notes": "Cut 1 (~f0-f56, 0.00-1.90s): 흰 배경, 검은 펜선 손그림 손바닥 + 실사 돌화폐(중앙 구멍). f0은 순백(콘텐츠 전), f15~f56 돌화폐 안착. 좌우 낙서형 물음표 곡선. 트랜지션 아웃: 다음 컷(엽전)이 하단에서 슬라이드 업.",
+      "visible_elements": {
+        "foreground": [
+          "black ink doodle line-art open palm/hand, fingers up",
+          "real photographic round gray stone disc with center hole resting on palm"
+        ],
+        "midground": [
+          "small doodled question-mark / comma swirls flanking the wrist (left and right)"
+        ],
+        "background": [
+          "flat pure-white field"
+        ],
+        "lighting_env": [
+          "flat even ambient — clean digital, no directional light; the photo stone carries its own soft top-light"
+        ],
+        "atmosphere": [
+          "clean minimal, no grain, no haze"
+        ]
+      },
+      "texture": {
+        "primary_subject": "stone_raw",
+        "secondary_objects": [
+          "ink_line_drawing"
+        ],
+        "background_surface": "flat_digital",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "front",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "strong",
+        "key_to_fill_ratio": "1:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "minimal",
+        "overall_contrast": "hi_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#fdfdfd",
+          "#1a1a1a",
+          "#8d8273",
+          "#b8aa97"
+        ],
+        "palette_role": {
+          "#fdfdfd": "background_white_dominant",
+          "#1a1a1a": "ink_line_art",
+          "#8d8273": "stone_midtone",
+          "#b8aa97": "stone_highlight"
+        },
+        "color_relationship": "monochrome",
+        "temperature_balance": "balanced",
+        "saturation_strategy": "desaturated_with_pop",
+        "contrast_type": "luminance_high",
+        "accent_color": "#8d8273",
+        "accent_ratio": "15_percent",
+        "brand_color_match": [
+          "이 컷은 브랜드 블루 미사용 — 도입부 중립 톤"
+        ]
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A clean minimalist mixed-media motion-graphic frame rendered at 1920x1080 pixels, 16:9 landscape orientation, on a completely flat pure-white background (#fdfdfd) with zero gradient, zero texture and zero grain — every background pixel an identical bright near-white. At the horizontal center of the frame, occupying roughly the lower-center and reaching up toward the vertical middle, is a hand-drawn doodle of a human hand: an open right palm seen from the front, fingers pointing upward and slightly spread apart, with a visible forearm descending toward the bottom edge and a simple rolled cuff at the wrist, all drawn in loose confident black ink line-art (#1a1a1a) with slightly wobbly, sketchy, slightly uneven contours and a few short interior hatch strokes suggesting palm creases, knuckle lines and skin folds. The line weight is medium-thick, hand-illustrated, deliberately imperfect and charming like a felt-tip marker doodle, with tiny open gaps where strokes meet. The hand spans roughly the central 28% of the frame width and rises from the bottom edge to about 45% of the frame height. Cradled on the center of the open palm is a single real photographic object — a round, thick disc of weathered gray-beige natural stone with a small roughly-square hole punched through its dead center, resembling ancient stone money (a Rai-stone / primitive-currency motif). The stone disc is about 16% of the frame width across, with matte raw mineral surface, subtle pitting, chips and tonal mottling, and a soft natural top-down light giving it gentle dimensional shading: a mid-gray #8d8273 body with lighter sandy #b8aa97 highlights along the top rim and darker crevice shadows around the hole and lower edge. The stone is a clean photo cut-out composited onto the doodle palm so it sits convincingly in the hand, casting a faint soft contact shadow on the white just beneath it. Flanking the wrist area, to the lower-left and lower-right of the forearm, are two tiny hand-drawn doodle marks — little curling question-mark-like swirls or comma shapes with small dots, in the same black ink, suggesting curiosity, puzzlement or a quiet 'what is this'. There is absolutely no caption text, no headline, no logo, no UI anywhere in the frame — this opening beat is purely visual. Composition: the hand-and-stone group is centered horizontally and sits in the vertical middle-to-lower third, with very generous empty white negative space above (roughly the top 30-40% of the frame is blank white) and wide blank margins on both left and right sides, creating an airy, minimal, almost gallery-like presentation that isolates the single object as a museum specimen. Color palette: pure white #fdfdfd dominates approximately 80% of the total frame area; black ink line-art #1a1a1a forms the hand outline and swirls (~8%); stone mid-gray #8d8273 and sandy highlight #b8aa97 occupy the central object (~12% combined). Color relationship: near-monochrome white-and-black with a single muted earthy stone accent. Temperature: balanced neutral, leaning slightly warm only in the stone. Saturation: heavily desaturated overall with a small earthy pop in the stone. Contrast: high luminance contrast between black ink and white field. Texture: the hand reads as flat marker ink line drawing on paper-white, the stone reads as raw matte mineral with natural micro-texture and grit, and the background is perfectly flat digital with no paper grain. Lighting: flat even ambient across the illustration with no directional studio key, while the photographic stone retains its own soft top-down natural light and a minimal contact shadow; overall contrast hi-key, shadow presence minimal, no rim light. The aesthetic is a Korean fintech explainer-style mixed-media motion graphic that combines a charming black-ink hand-drawn doodle hand with a single real photographic historical-money object on clean white — the deliberately simple opening beat of a 'history of how humanity has paid' montage, where each successive frame swaps the object in the same illustrated palm. Style anchor: clean 4K hi-key flat-white commercial motion graphic, loose felt-tip marker-doodle line-art hand, real photo-cutout stone-money object, generous minimal negative-space composition, no on-screen text, calm modern Korean digital advertising illustration aesthetic.",
+        "t2i_negative": "photoreal hand, realistic skin, color background, gradient, grain, noise, multiple objects, coins, banknotes, text, captions, logos, watermark, harsh shadows, low-key, cluttered composition",
+        "i2v_motion": "Open on a near-empty white frame; the doodle hand is already present and the photographic stone disc settles softly onto the palm over the first ~0.4 seconds (a gentle fade-and-place, no bounce). After it settles, hold almost completely static — only the tiny doodle question-mark swirls beside the wrist give a faint hand-drawn jitter. Camera locked-off, no move. At the very end (~last 0.2s) the entire composition begins to slide upward and off the top as the next object (strung old coins) starts pushing up from the bottom edge — set up that vertical slide-up handoff. ~1.9s total, static-to-gentle rhythm.",
+        "i2v_params": {
+          "clip_duration_sec": 1.9,
+          "camera_move": "locked_off",
+          "subject_motion_level": "still",
+          "signature_effect": "none",
+          "pacing": "static",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful mixed-media motion graphic; hand is generic doodle line-art, stone is generic primitive-currency type; no on-screen text in this cut; no brand logo"
+      }
+    },
+    {
+      "index": 2,
+      "duration": 2.74,
+      "framing": "MCU",
+      "function": "narrative_setup",
+      "subject_action": "doodle line-art hand (now with a traditional floral-patterned sleeve cuff) holds a real photographic cluster of old strung Asian copper coins (yeopjeon, square-holed cash on a cord); blue Korean caption '인류의 결제 방식은' appears centered upper-area",
+      "color_mood": "clean_minimal_bright",
+      "copy_overlay": "인류의 결제 방식은",
+      "layout_grid": "center",
+      "subject_position": "center",
+      "subject_identity": "doodle_hand_with_object",
+      "subject_relationship_to_protagonist": "extra_atmosphere",
+      "mid_frame_path": "ADV-2026-033_frames/cut02_mid.png",
+      "subject_typo_layout": "typo_above_subject",
+      "typo_motion": "토스 블루 캡션 '인류의 결제 방식은'이 화면 중앙 상단에 등장(슬라이드/페이드). 엽전 묶음은 하단에서 솟아 안착 후 정적. 보이스오버 동기.",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "environment",
+      "gaze": "none",
+      "eye_contact_effect": null,
+      "props": [
+        "strung old copper coins (yeopjeon, square-holed cash on a cord)",
+        "doodle hand with floral hanbok-style sleeve cuff"
+      ],
+      "prop_semantics": "엽전(전통 동전)을 결제 진화의 두 번째 단계로 제시; 꽃무늬 한복 소매로 전근대 한국의 화폐 시대를 함축. '인류의 결제 방식은' 카피의 첫 사례 이미지",
+      "color_palette": [
+        "#fdfdfd",
+        "#018cf9",
+        "#1a1a1a",
+        "#9a7b4a"
+      ],
+      "color_intent": "흰 배경 위 토스 블루 캡션이 브랜드 시그니처 컬러를 각인; 흙빛 동전과 블루 글자의 따뜻-차가움 대비",
+      "pose_description": "손그림 손바닥이 정면으로 펼쳐져 엽전 묶음을 받쳐 든 정적 포즈; 소매에 검은 꽃무늬 두 송이가 그려져 전통 의복 암시",
+      "subject_motion": "static",
+      "prop_motion": "coins slide up into palm and settle, then static",
+      "camera_motion": "locked_off",
+      "camera_motion_intensity": "none",
+      "camera_effect_local": "none",
+      "motion_blur": false,
+      "intra_cut_rhythm": "static",
+      "transition_in": "slide_up",
+      "transition_out": "slide_up",
+      "vfx_in_shot": [
+        "ui_motion"
+      ],
+      "vfx_intensity_local": "subtle",
+      "fact_check_flag": null,
+      "notes": "Cut 2 (~f57-f139, 1.90-4.64s): 흰 배경, 손그림 손(꽃무늬 소매)+실사 엽전 묶음(끈에 꿴 사각구멍 동전). 블루 캡션 '인류의 결제 방식은' 중앙 상단. f94~f139 정적 유지. 보이스오버 '인류의 결제 방식은 결국'.",
+      "visible_elements": {
+        "foreground": [
+          "black ink doodle open palm with floral-patterned traditional sleeve cuff",
+          "real photographic bundle of old strung copper coins (square-holed yeopjeon on a cord)"
+        ],
+        "midground": [
+          "blue Korean caption '인류의 결제 방식은' centered in upper-middle area"
+        ],
+        "background": [
+          "flat pure-white field"
+        ],
+        "lighting_env": [
+          "flat even ambient; photo coins carry soft natural top-light"
+        ],
+        "atmosphere": [
+          "clean minimal, no grain"
+        ]
+      },
+      "texture": {
+        "primary_subject": "metallic",
+        "secondary_objects": [
+          "ink_line_drawing",
+          "fabric_cotton"
+        ],
+        "background_surface": "flat_digital",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "front",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "strong",
+        "key_to_fill_ratio": "1:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "minimal",
+        "overall_contrast": "hi_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#fdfdfd",
+          "#018cf9",
+          "#1a1a1a",
+          "#9a7b4a"
+        ],
+        "palette_role": {
+          "#fdfdfd": "background_white_dominant",
+          "#018cf9": "brand_blue_caption",
+          "#1a1a1a": "ink_line_art",
+          "#9a7b4a": "copper_coin_midtone"
+        },
+        "color_relationship": "complementary",
+        "temperature_balance": "split_warm_cool",
+        "saturation_strategy": "desaturated_with_pop",
+        "accent_color": "#018cf9",
+        "accent_ratio": "5_percent",
+        "contrast_type": "temperature_split",
+        "brand_color_match": [
+          "토스 블루 캡션 #018cf9 (브랜드 컬러 토스블루 ~#0064ff 계열의 온스크린 렌더)"
+        ]
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A clean minimalist mixed-media motion-graphic frame rendered at 1920x1080 pixels, 16:9 landscape orientation, on a flat pure-white background (#fdfdfd) with no gradient, texture or grain — uniform bright near-white across every pixel. Centered in the lower-to-middle of the frame is a hand-drawn doodle of an open right palm seen frontally, fingers pointing up and slightly spread, the forearm descending toward the bottom edge, drawn in loose wobbly black ink line-art (#1a1a1a) with sketchy, slightly uneven contours and a few short interior crease strokes for the palm lines and knuckles — the same charming felt-tip marker-doodle style as a hand-illustrated explainer, with tiny gaps where strokes meet. The hand spans roughly the central 28-30% of the frame width and rises from the bottom edge to about 45% of frame height. Crucially, the wrist/forearm now wears a simple traditional sleeve cuff: a doodled rolled cuff band decorated with two small black ink flower-blossom motifs (five-petal blossoms) and a few small leaf strokes, suggesting a pre-modern Korean hanbok sleeve and signalling an older historical era. Resting in the open palm is a real photographic cluster of old Asian copper cash coins — round bronze-brown coins each with a small square hole punched in the center, several of them threaded together on a short fibrous knotted cord/string (a yeopjeon money-string motif). The coins overlap in a small loose stack about 18% of the frame width across, with warm aged-copper coloring (mid-tone #9a7b4a with darker brown patina recesses and brassy highlights along the rims), a matte slightly-oxidized metallic surface, and fine engraved Chinese-character inscriptions faintly visible on the faces; they are composited as a clean photo cut-out onto the doodle palm with a faint soft contact shadow beneath. Above the hand, centered horizontally in the upper-middle region of the frame (around 22-30% from the top), is a single line of bold Korean Hangul caption text reading exactly '인류의 결제 방식은', set in a heavy, slightly-rounded geometric sans-serif typeface in bright Toss-brand blue (#018cf9). The caption is crisp, evenly kerned, on one baseline, and is clearly the only typography in the frame. Composition: the hand-and-coins group is centered, with generous empty white negative space surrounding everything and the blue caption floating cleanly in the open space above the object; wide blank margins sit left and right. Color palette: pure white #fdfdfd dominant (~78% of the frame); black ink doodle line #1a1a1a (~8%); warm copper coin tones #9a7b4a and brassy highlights (~9%); Toss-brand-blue caption #018cf9 (~5% but high visual salience). Color relationship: complementary temperature split — a warm copper object set against cool brand-blue text on a neutral white field. Temperature: split warm-cool. Saturation: mostly desaturated white with a warm metallic pop in the coins and a saturated blue accent in the text. Contrast: high luminance contrast (black ink and blue text on white) plus a warm-cool temperature contrast. Texture: the doodle hand reads as flat marker-ink line drawing, the coins read as matte aged metal photo with engraving and patina, the cuff is simple ink-drawn fabric, and the background is perfectly flat digital. Lighting: flat even ambient across the illustration; the photographic coins retain their own soft natural top-light and a faint contact shadow; hi-key overall, minimal shadow, no rim light. The aesthetic is a Korean fintech 'history of payment' explainer beat — a charming black-ink doodle hand (now wearing a traditional sleeve) presenting a real photo of antique strung copper coins on clean white, captioned in brand blue, the second object in a montage that argues every era of money was just a difference in what you hand over. Style anchor: clean 4K hi-key white-background commercial motion graphic, loose felt-tip marker-doodle line-art hand, real photo-cutout antique strung coins, bold rounded Korean sans-serif brand-blue caption '인류의 결제 방식은', generous minimal negative-space composition, calm modern Korean digital advertising illustration aesthetic.",
+        "t2i_negative": "photoreal hand, realistic skin, colored background, gradient, grain, modern coins, banknotes, smartphone, multiple captions, english text, wrong korean text, logos, watermark, harsh shadows, low-key",
+        "i2v_motion": "The strung copper coins slide up from the bottom into the palm and settle (the previous stone object having slid off the top), arriving over the first ~0.4s. Simultaneously the blue Korean caption '인류의 결제 방식은' slides/fades into its position in the upper-middle. After settling, hold static — the coins and hand barely move (breathing-level doodle jitter only). Camera locked-off. A calm male voiceover speaks the line in sync. At the very end the whole frame begins sliding upward to hand off to the next beat (a text-only card). ~2.74s total, calm steady rhythm, no internal hard cut.",
+        "i2v_params": {
+          "clip_duration_sec": 2.74,
+          "camera_move": "locked_off",
+          "subject_motion_level": "still",
+          "signature_effect": "none",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful mixed-media; doodle hand generic, coins generic antique-cash type; on-screen caption '인류의 결제 방식은' preserved verbatim; no brand logo mark"
+      }
+    },
+    {
+      "index": 3,
+      "duration": 1.91,
+      "framing": "grid",
+      "function": "thesis_statement",
+      "subject_action": "text-only card on white: large bold blue Korean line '결국, 무얼 내느냐의 차이' centered; near the end the next object's fingertips begin rising from the bottom edge",
+      "color_mood": "clean_minimal_bright",
+      "copy_overlay": "결국, 무얼 내느냐의 차이",
+      "layout_grid": "center",
+      "subject_position": "center",
+      "subject_identity": "none_environment",
+      "subject_relationship_to_protagonist": null,
+      "mid_frame_path": "ADV-2026-033_frames/cut03_mid.png",
+      "subject_typo_layout": "typo_only_no_person",
+      "typo_motion": "단일 카피 '결국, 무얼 내느냐의 차이'가 중앙에 등장(슬라이드/페이드)해 유지. 컷 말미 하단에서 다음 오브제(지폐 든 손)의 손가락이 솟기 시작.",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "environment",
+      "gaze": "none",
+      "eye_contact_effect": null,
+      "props": [],
+      "prop_semantics": null,
+      "color_palette": [
+        "#fdfdfd",
+        "#018cf9"
+      ],
+      "color_intent": "흰 배경에 토스 블루 카피만 — 명제(thesis) 전달을 위한 극단적 미니멀 타이포 카드",
+      "pose_description": "인물/오브제 없음; 토스 블루 키네틱 타이포 한 줄이 화면 중앙을 채워 메시지를 단독 전달",
+      "subject_motion": "static",
+      "prop_motion": "none",
+      "camera_motion": "locked_off",
+      "camera_motion_intensity": "none",
+      "camera_effect_local": "none",
+      "motion_blur": false,
+      "intra_cut_rhythm": "static",
+      "transition_in": "slide_up",
+      "transition_out": "slide_up",
+      "vfx_in_shot": [
+        "ui_motion"
+      ],
+      "vfx_intensity_local": "subtle",
+      "fact_check_flag": null,
+      "notes": "Cut 3 (~f140-f196, 4.64-6.55s): 흰 배경 텍스트 카드 '결국, 무얼 내느냐의 차이'(토스 블루, 중앙). f141~f192 정적. f193~ 하단에서 다음 컷(지폐 든 손) 손가락 솟기 시작(슬라이드 업 트랜지션). 보이스오버 '무얼 내느냐의 차이'.",
+      "visible_elements": {
+        "foreground": [
+          "large bold blue Korean caption '결국, 무얼 내느냐의 차이' centered"
+        ],
+        "midground": [],
+        "background": [
+          "flat pure-white field"
+        ],
+        "lighting_env": [
+          "flat even ambient, no directional light"
+        ],
+        "atmosphere": [
+          "clean minimal, no grain"
+        ]
+      },
+      "texture": {
+        "primary_subject": "flat_2d_vector",
+        "secondary_objects": [],
+        "background_surface": "flat_digital",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "front",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "strong",
+        "key_to_fill_ratio": "1:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "none",
+        "overall_contrast": "hi_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#fdfdfd",
+          "#018cf9"
+        ],
+        "palette_role": {
+          "#fdfdfd": "background_white_dominant",
+          "#018cf9": "brand_blue_text"
+        },
+        "color_relationship": "monochrome",
+        "temperature_balance": "cool_dominant",
+        "saturation_strategy": "desaturated_with_pop",
+        "accent_color": "#018cf9",
+        "accent_ratio": "5_percent",
+        "contrast_type": "luminance_high",
+        "brand_color_match": [
+          "토스 블루 #018cf9"
+        ]
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A pure typographic title card rendered at 1920x1080 pixels, 16:9 landscape orientation, on a completely flat pure-white background (#fdfdfd) - no gradient, no texture, no grain, perfectly uniform bright near-white across every pixel of the frame. The only element is a single line of bold Korean Hangul caption text, horizontally centered and placed at roughly the vertical middle of the frame (around 48-55 percent from the top), reading exactly the phrase that means roughly 'in the end, a difference of what you hand over'. The text is set in a heavy, slightly-rounded geometric sans-serif typeface with confident even stroke weight, generous counters, and softly rounded terminals, rendered in bright Toss-brand blue (#018cf9). A comma sits after the first word on the baseline. The line is fairly long, spanning roughly the central 55-60 percent of the frame width, set on a single unwrapped baseline with comfortable, even letter spacing and consistent x-height across all the Hangul syllable blocks. There is no other object, no hand, no illustration, no photograph, no logo, no secondary text and no decorative rule - the composition is intentionally reduced to one confident blue sentence on white, a minimal kinetic-typography thesis card. Generous empty white negative space surrounds the text on all sides: roughly the top 45 percent and bottom 40 percent of the frame are blank white, and wide clean white margins sit to the left and right of the line, so the single sentence reads as a deliberate, declarative statement floating in space. Color palette: pure white #fdfdfd dominates approximately 94 percent of the total frame area; Toss-brand-blue text #018cf9 occupies roughly 6 percent but carries full visual salience as the lone colored element. Color relationship: monochrome white-and-blue, cool-dominant throughout. Temperature: cool. Saturation: a desaturated white field with one clean saturated blue text pop. Contrast: high luminance contrast between the saturated blue text and the bright white field, with crisp edge definition. Texture: the text is a clean flat digital vector with smooth anti-aliased edges and no bevel, drop shadow, outline or glow; the background is perfectly flat with no paper grain or vignette. Lighting: flat even ambient, no directional key light, no cast shadow, hi-key. This frame belongs to a continuous white-background motion-graphic ad whose visual system mixes three layers: charming black-ink hand-drawn doodle line-art, real photographic cut-out objects, and clean 3D-rendered devices, all set on the same flat white field and tied together by bright Toss-brand-blue kinetic typography; successive beats hand off with vertical slide/push transitions where objects rise from the bottom edge. The whole piece is locked-off with no camera shake and no wiggle-3D effect, keeping every composition calm, centered and minimal. The aesthetic is a Korean fintech kinetic-typography statement card - minimal, confident, a brand-blue sentence on clean white that frames the whole argument that every era of money was merely a difference in what you hand over. Style anchor: ultra-minimal 4K hi-key white title card, bold rounded Korean sans-serif in brand blue #018cf9, single centered thesis sentence, generous negative space, zero decoration, calm modern Korean digital advertising kinetic-typography aesthetic.",
+        "t2i_negative": "any illustration, hand, coins, object, photo, gradient, colored background, grain, noise, english text, wrong korean text, multiple lines, logos, watermark, shadows, serif font, decorative elements",
+        "i2v_motion": "The blue caption '결국, 무얼 내느냐의 차이' slides/fades up into its centered position as the previous object slides off the top, settling within ~0.4s, then holds static and crisp while a calm male voiceover reads it. Camera locked-off, no move. In the final ~0.3s, the next shot's content (the fingertips of a doodle hand holding a banknote) begins to rise from the bottom edge, initiating the upward slide handoff. ~1.91s total, static rhythm, no hard cut.",
+        "i2v_params": {
+          "clip_duration_sec": 1.91,
+          "camera_move": "locked_off",
+          "subject_motion_level": "still",
+          "signature_effect": "none",
+          "pacing": "static",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful kinetic-typography card; on-screen copy '결국, 무얼 내느냐의 차이' preserved verbatim; no logo"
+      }
+    },
+    {
+      "index": 4,
+      "duration": 1.93,
+      "framing": "MCU",
+      "function": "narrative_setup",
+      "subject_action": "doodle line-art hand (with a doodled wristwatch on the wrist) holds a real photographic Korean 1000-won banknote (천원, Yi Hwang scholar portrait) across the open palm; brief overlap with the previous caption sliding off",
+      "color_mood": "clean_minimal_bright",
+      "copy_overlay": "",
+      "layout_grid": "center",
+      "subject_position": "center",
+      "subject_identity": "doodle_hand_with_object",
+      "subject_relationship_to_protagonist": "extra_atmosphere",
+      "mid_frame_path": "ADV-2026-033_frames/cut04_mid.png",
+      "subject_typo_layout": "typo_only_no_person",
+      "typo_motion": "고유 캡션 없음(이전 컷 '결국...차이'가 컷 진입부에 위로 빠지며 잠시 겹침). 지폐 든 손이 하단에서 솟아 안착 후 정적.",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "environment",
+      "gaze": "none",
+      "eye_contact_effect": null,
+      "props": [
+        "Korean 1000-won banknote (scholar portrait, '천원' / '한국은행권')",
+        "doodle hand with doodled wristwatch"
+      ],
+      "prop_semantics": "지폐(현대 현금)를 결제 진화의 세 번째 단계로 제시; 손목시계 낙서로 근현대 일상화를 함축. '무얼 내느냐'의 또 다른 사례",
+      "color_palette": [
+        "#fdfdfd",
+        "#1a1a1a",
+        "#b9a9bf",
+        "#8f8f6e"
+      ],
+      "color_intent": "흰 배경 위 지폐의 보랏-회녹 파스텔 톤과 검은 펜선의 단색 대비 — 일관된 미니멀 톤 유지",
+      "pose_description": "손그림 손바닥이 정면으로 펼쳐져 가로 방향 천원권 지폐를 받쳐 든 정적 포즈; 손목에 사각 다이얼 손목시계가 그려짐",
+      "subject_motion": "static",
+      "prop_motion": "banknote slides up into palm and settles, then static",
+      "camera_motion": "locked_off",
+      "camera_motion_intensity": "none",
+      "camera_effect_local": "none",
+      "motion_blur": false,
+      "intra_cut_rhythm": "static",
+      "transition_in": "slide_up",
+      "transition_out": "slide_up",
+      "vfx_in_shot": [
+        "ui_motion"
+      ],
+      "vfx_intensity_local": "subtle",
+      "fact_check_flag": null,
+      "notes": "Cut 4 (~f197-f253, 6.55-8.48s): 흰 배경, 손그림 손(손목시계)+실사 천원권(퇴계 이황 초상, '천원'/'한국은행권' 1000). f197~f205 이전 캡션 '결국...차이'가 위로 빠지며 겹침. f206~ 정적. metrics 자동 컷 후보 f195~198 = 이 슬라이드 전환.",
+      "visible_elements": {
+        "foreground": [
+          "black ink doodle open palm with doodled square-dial wristwatch on the wrist",
+          "real photographic Korean 1000-won banknote held horizontally across the palm (scholar portrait, '천원', '한국은행권', numeral 1000)"
+        ],
+        "midground": [
+          "(brief) fading remnant of previous blue caption sliding up out of frame at cut entry"
+        ],
+        "background": [
+          "flat pure-white field"
+        ],
+        "lighting_env": [
+          "flat even ambient; banknote carries soft even scan-like light"
+        ],
+        "atmosphere": [
+          "clean minimal, no grain"
+        ]
+      },
+      "texture": {
+        "primary_subject": "paper",
+        "secondary_objects": [
+          "ink_line_drawing"
+        ],
+        "background_surface": "flat_digital",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "front",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "strong",
+        "key_to_fill_ratio": "1:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "minimal",
+        "overall_contrast": "hi_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#fdfdfd",
+          "#1a1a1a",
+          "#b9a9bf",
+          "#8f8f6e"
+        ],
+        "palette_role": {
+          "#fdfdfd": "background_white_dominant",
+          "#1a1a1a": "ink_line_art",
+          "#b9a9bf": "banknote_violet_tone",
+          "#8f8f6e": "banknote_olive_tone"
+        },
+        "color_relationship": "analogous",
+        "temperature_balance": "balanced",
+        "saturation_strategy": "desaturated_with_pop",
+        "accent_color": "#b9a9bf",
+        "accent_ratio": "15_percent",
+        "contrast_type": "luminance_high",
+        "brand_color_match": [
+          "이 컷은 브랜드 블루 미사용(오브제 컷)"
+        ]
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A clean minimalist mixed-media motion-graphic frame rendered at 1920x1080 pixels, 16:9 landscape orientation, on a flat pure-white background (#fdfdfd) with no gradient, texture or grain - uniform bright near-white across every pixel. Centered, occupying the lower-to-middle of the frame, is a hand-drawn doodle of an open right palm seen frontally, fingers pointing up and slightly spread, the forearm descending to the bottom edge, drawn in loose wobbly black ink line-art (#1a1a1a) with sketchy, slightly uneven contours and a few interior palm-crease and knuckle strokes - the same charming felt-tip marker-doodle style used throughout the campaign, with tiny gaps where lines meet. The hand spans roughly the central 28-30 percent of the frame width and rises from the bottom edge to about 45 percent of the frame height. On the wrist/forearm is a small doodled wristwatch: a simple ink-drawn square or rounded-square watch face with tiny hand marks and a strap band wrapping the wrist, signalling a modern everyday era. Lying across the open palm, held roughly horizontally, is a real photographic banknote - a Korean 1000-won note about 30 percent of the frame width across. The note shows the classic features of that denomination: a portrait of an old bearded Confucian scholar in a traditional robe and scholar's hat on the right side, the numeral 1000 printed in the corners, and legible Korean text including the words for 'thousand won' and 'Bank of Korea note' across the face, with fine engraved guilloche security patterns. The banknote's color scheme is the familiar soft palette of that bill - pale violet-mauve and muted olive-green pastel tones (violet #b9a9bf, olive #8f8f6e) with hints of warm beige paper; it is a clean photo cut-out composited onto the doodle palm with a faint soft contact shadow beneath, lit by soft even scan-like light so the printing reads crisply. Composition: the hand-and-banknote group is centered horizontally in the middle-to-lower portion of the frame, with generous empty white negative space above (the top 25-35 percent is blank white) and wide white margins to the sides; no ad caption is present in this beat, or only a faint remnant of the previous blue statement line lifting off the top edge at the very start, mid-transition. Color palette: pure white #fdfdfd dominant (~74 percent of the frame); black ink doodle line #1a1a1a (~8 percent); banknote violet #b9a9bf, olive #8f8f6e and other soft pastel print tones (~18 percent). Color relationship: analogous muted pastels of the banknote set against neutral white and black ink. Temperature: balanced, leaning slightly cool-neutral in the note's violet. Saturation: desaturated overall with a soft pastel pop in the banknote. Contrast: high luminance contrast between black ink and white, gentle low contrast within the note itself. Texture: the doodle hand reads as flat marker-ink line drawing, the banknote as smooth printed paper with fine engraving and a faint cotton-paper grain, the watch as simple ink-drawn metal and strap, and the background as perfectly flat digital. Lighting: flat even ambient across the illustration; the photographic banknote retains soft even light and a faint contact shadow; hi-key, minimal shadow, no rim light. This frame belongs to a continuous white-background motion-graphic ad whose visual system mixes three layers: charming black-ink hand-drawn doodle line-art, real photographic cut-out objects, and clean 3D-rendered devices, all set on the same flat white field and tied together by bright Toss-brand-blue kinetic typography; successive beats hand off with vertical slide/push transitions where objects rise from the bottom edge. The whole piece is locked-off with no camera shake and no wiggle-3D effect, keeping every composition calm, centered and minimal. Style anchor: clean 4K hi-key white-background commercial motion graphic, loose felt-tip marker-doodle line-art hand, real photo-cutout banknote, generous minimal negative-space composition, no brand-blue caption in this cut, calm modern Korean digital advertising illustration aesthetic.",
+        "t2i_negative": "photoreal hand, realistic skin, colored background, gradient, grain, coins, stone, smartphone, multiple banknotes, foreign currency, captions, english text, logos, watermark, harsh shadows, low-key",
+        "i2v_motion": "The 1000-won banknote slides up from the bottom into the palm and settles within ~0.4s as the previous blue caption finishes lifting off the top edge (brief overlap at the start). After settling, hold static — the hand and note barely move (faint doodle jitter). Camera locked-off. In the final ~0.3s the whole frame begins sliding upward to hand off to the next text-only card. ~1.93s total, static-to-steady rhythm, no hard cut.",
+        "i2v_params": {
+          "clip_duration_sec": 1.93,
+          "camera_move": "locked_off",
+          "subject_motion_level": "still",
+          "signature_effect": "none",
+          "pacing": "static",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful mixed-media; doodle hand generic, banknote is a real-currency type rendered for fidelity (denomination text as printed); no on-screen ad caption in this cut; no brand logo mark"
+      }
+    },
+    {
+      "index": 5,
+      "duration": 1.47,
+      "framing": "grid",
+      "function": "twist_setup",
+      "subject_action": "text-only card on white: large bold blue Korean line '진화는 무슨' centered",
+      "color_mood": "clean_minimal_bright",
+      "copy_overlay": "진화는 무슨",
+      "layout_grid": "center",
+      "subject_position": "center",
+      "subject_identity": "none_environment",
+      "subject_relationship_to_protagonist": null,
+      "mid_frame_path": "ADV-2026-033_frames/cut05_mid.png",
+      "subject_typo_layout": "typo_only_no_person",
+      "typo_motion": "단일 카피 '진화는 무슨'이 중앙 등장 후 유지. 컷 말미 다음 오브제(카드 든 손)가 하단에서 솟기 시작.",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "environment",
+      "gaze": "none",
+      "eye_contact_effect": null,
+      "props": [],
+      "prop_semantics": null,
+      "color_palette": [
+        "#fdfdfd",
+        "#018cf9"
+      ],
+      "color_intent": "흰 배경 위 토스 블루 단독 카피 — '진화는 무슨'으로 앞선 진화 서사를 비트는 반전 셋업",
+      "pose_description": "인물/오브제 없음; 토스 블루 키네틱 타이포 한 줄이 중앙을 채워 위트 있는 반전 메시지 전달",
+      "subject_motion": "static",
+      "prop_motion": "none",
+      "camera_motion": "locked_off",
+      "camera_motion_intensity": "none",
+      "camera_effect_local": "none",
+      "motion_blur": false,
+      "intra_cut_rhythm": "static",
+      "transition_in": "slide_up",
+      "transition_out": "slide_up",
+      "vfx_in_shot": [
+        "ui_motion"
+      ],
+      "vfx_intensity_local": "subtle",
+      "fact_check_flag": null,
+      "notes": "Cut 5 (~f254-f292, 8.48-9.95s): 흰 배경 텍스트 카드 '진화는 무슨'(토스 블루, 중앙). f255~f282 정적. 보이스오버 '진화는 무슨'. 컷 말미 다음 컷(블랙 카드 든 손) 솟기 시작.",
+      "visible_elements": {
+        "foreground": [
+          "large bold blue Korean caption '진화는 무슨' centered"
+        ],
+        "midground": [],
+        "background": [
+          "flat pure-white field"
+        ],
+        "lighting_env": [
+          "flat even ambient, no directional light"
+        ],
+        "atmosphere": [
+          "clean minimal, no grain"
+        ]
+      },
+      "texture": {
+        "primary_subject": "flat_2d_vector",
+        "secondary_objects": [],
+        "background_surface": "flat_digital",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "front",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "strong",
+        "key_to_fill_ratio": "1:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "none",
+        "overall_contrast": "hi_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#fdfdfd",
+          "#018cf9"
+        ],
+        "palette_role": {
+          "#fdfdfd": "background_white_dominant",
+          "#018cf9": "brand_blue_text"
+        },
+        "color_relationship": "monochrome",
+        "temperature_balance": "cool_dominant",
+        "saturation_strategy": "desaturated_with_pop",
+        "accent_color": "#018cf9",
+        "accent_ratio": "5_percent",
+        "contrast_type": "luminance_high",
+        "brand_color_match": [
+          "토스 블루 #018cf9"
+        ]
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A pure typographic title card rendered at 1920x1080 pixels, 16:9 landscape orientation, on a completely flat pure-white background (#fdfdfd) - no gradient, no texture, no grain, perfectly uniform bright near-white across every pixel. The only element is a single short line of bold Korean Hangul caption text, horizontally centered and placed at roughly the vertical middle of the frame (around 48-55 percent from the top), reading the short, cheeky two-word phrase that means roughly 'evolution? hardly'. The text is set in a heavy, slightly-rounded geometric sans-serif typeface with confident even stroke weight, generous counters and softly rounded terminals, rendered in bright Toss-brand blue (#018cf9), on a single unwrapped baseline with even letter spacing and consistent x-height across the Hangul syllable blocks. Being a short phrase, it spans only roughly the central 28-34 percent of the frame width, sitting compactly in the middle of the frame with very wide empty white margins on the left and right and large blank white areas above and below (the top 45 percent and bottom 45 percent are clean white). There is no other object, no hand, no illustration, no photograph, no logo, no secondary text and no decorative rule - the composition is reduced to a single witty blue phrase on white, a kinetic-typography twist beat that sarcastically undercuts the idea of evolution. Color palette: pure white #fdfdfd dominates approximately 95 percent of the total frame area; Toss-brand-blue text #018cf9 occupies roughly 5 percent with full visual salience as the lone colored element. Color relationship: monochrome white-and-blue, cool-dominant. Temperature: cool. Saturation: a desaturated white field with one clean saturated blue text pop. Contrast: high luminance contrast between the saturated blue text and the bright white field, crisp edges throughout. Texture: the text is a clean flat digital vector with smooth anti-aliased edges, no bevel, drop shadow, outline or glow; the background is perfectly flat with no paper grain or vignette. Lighting: flat even ambient, no directional key light, no cast shadow, hi-key. This frame belongs to a continuous white-background motion-graphic ad whose visual system mixes three layers: charming black-ink hand-drawn doodle line-art, real photographic cut-out objects, and clean 3D-rendered devices, all set on the same flat white field and tied together by bright Toss-brand-blue kinetic typography; successive beats hand off with vertical slide/push transitions where objects rise from the bottom edge. The whole piece is locked-off with no camera shake and no wiggle-3D effect, keeping every composition calm, centered and minimal. The aesthetic is a Korean fintech kinetic-typography card - a short, cheeky brand-blue phrase on clean white that pivots the narrative from 'evolution' toward 'mere change', setting up the product reveal that follows. Style anchor: ultra-minimal 4K hi-key white title card, bold rounded Korean sans-serif in brand blue #018cf9, single short centered twist phrase, generous negative space, zero decoration, calm modern Korean digital advertising kinetic-typography aesthetic. Production-fidelity note for recreating this card: the letterforms are a clean modern Korean Gothic / rounded-sans family with uniform stem thickness, large open apertures and gently rounded stroke endings, anti-aliased crisply against the white with no halo, no stroke outline and no underline; in the live ad the line is built with a brief kinetic reveal in which the words rise a few pixels and fade up from light to full brand-blue saturation over a fraction of a second, then hold perfectly still while a calm male voiceover speaks the line in sync, and at the very end of the beat the whole card slides upward off the top edge to hand off to the next composition (an illustrated object or another statement card). The single colored element keeps the eye fixed on the message; the wide blank margins on all four sides reinforce the deliberate, declarative pacing. The exact Korean wording on screen is preserved verbatim as recorded in the entry copywriting and is the only text in the frame.",
+        "t2i_negative": "any illustration, hand, object, photo, gradient, colored background, grain, noise, english text, wrong korean text, multiple lines, logos, watermark, shadows, serif font, decorative elements",
+        "i2v_motion": "The blue phrase '진화는 무슨' slides/fades up into its centered position as the previous banknote shot slides off the top, settling within ~0.35s, then holds static while a calm male voiceover delivers the cheeky line. Camera locked-off. In the final ~0.25s, the next shot's content (a doodle hand holding a black credit card) begins rising from the bottom edge for the upward slide handoff. ~1.47s total, static rhythm, no hard cut.",
+        "i2v_params": {
+          "clip_duration_sec": 1.47,
+          "camera_move": "locked_off",
+          "subject_motion_level": "still",
+          "signature_effect": "none",
+          "pacing": "static",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful kinetic-typography card; on-screen copy '진화는 무슨' preserved verbatim; no logo"
+      }
+    },
+    {
+      "index": 6,
+      "duration": 1.67,
+      "framing": "MCU",
+      "function": "narrative_setup",
+      "subject_action": "doodle line-art hand (with a hatched/knit textured sweater sleeve) holds a real photographic dark/black credit card showing 'Credit Card' and embossed name 'JEONGHYO LEE' across the open palm",
+      "color_mood": "clean_minimal_bright",
+      "copy_overlay": "",
+      "layout_grid": "center",
+      "subject_position": "center",
+      "subject_identity": "doodle_hand_with_object",
+      "subject_relationship_to_protagonist": "extra_atmosphere",
+      "mid_frame_path": "ADV-2026-033_frames/cut06_mid.png",
+      "subject_typo_layout": "typo_only_no_person",
+      "typo_motion": "고유 캡션 없음. 검은 신용카드 든 손이 하단에서 솟아 안착 후 정적. 카드 표면의 'Credit Card'/'JEONGHYO LEE'는 카드 소품 자체의 인쇄 텍스트.",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "environment",
+      "gaze": "none",
+      "eye_contact_effect": null,
+      "props": [
+        "dark/black credit card (label 'Credit Card', cardholder 'JEONGHYO LEE', chip, dual-circle mark)",
+        "doodle hand with knit/hatched sweater sleeve"
+      ],
+      "prop_semantics": "신용카드(플라스틱 결제)를 결제 진화의 네 번째 단계로 제시; 니트 소매로 현대 일상 함축. '무얼 내느냐'의 직전 단계(곧 폰으로 넘어감)",
+      "color_palette": [
+        "#fdfdfd",
+        "#1a1a1a",
+        "#2a2e3a",
+        "#c9a14a"
+      ],
+      "color_intent": "흰 배경 위 검은 카드의 다크 톤과 골드 칩 포인트 — 프리미엄 카드 느낌을 단색 톤에 더함",
+      "pose_description": "손그림 손바닥이 정면으로 펼쳐져 가로 방향 다크 신용카드를 받쳐 든 정적 포즈; 소매가 사선 해칭으로 니트 질감 표현",
+      "subject_motion": "static",
+      "prop_motion": "card slides up into palm and settles, then static",
+      "camera_motion": "locked_off",
+      "camera_motion_intensity": "none",
+      "camera_effect_local": "none",
+      "motion_blur": false,
+      "intra_cut_rhythm": "static",
+      "transition_in": "slide_up",
+      "transition_out": "slide_up",
+      "vfx_in_shot": [
+        "ui_motion"
+      ],
+      "vfx_intensity_local": "subtle",
+      "fact_check_flag": null,
+      "notes": "Cut 6 (~f293-f347, 9.95-11.62s): 흰 배경, 손그림 손(니트 소매)+실사 다크 신용카드('Credit Card', 'JEONGHYO LEE', 칩, 듀얼서클 마크). f299~f321 정적. 카드 인쇄 텍스트는 소품 자체. 보이스오버 공백(이 구간은 비음성).",
+      "visible_elements": {
+        "foreground": [
+          "black ink doodle open palm with diagonally-hatched knit sweater sleeve cuff",
+          "real photographic dark/near-black credit card held horizontally (white 'Credit Card' label top-left, embossed 'JEONGHYO LEE' name, small chip, abstract wavy guilloche, dual overlapping circle payment mark bottom-right)"
+        ],
+        "midground": [],
+        "background": [
+          "flat pure-white field"
+        ],
+        "lighting_env": [
+          "flat even ambient; card has subtle glossy specular sheen"
+        ],
+        "atmosphere": [
+          "clean minimal, no grain"
+        ]
+      },
+      "texture": {
+        "primary_subject": "plastic_glossy",
+        "secondary_objects": [
+          "ink_line_drawing",
+          "fabric_cotton"
+        ],
+        "background_surface": "flat_digital",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "front",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "strong",
+        "key_to_fill_ratio": "1:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "minimal",
+        "overall_contrast": "hi_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#fdfdfd",
+          "#1a1a1a",
+          "#2a2e3a",
+          "#c9a14a"
+        ],
+        "palette_role": {
+          "#fdfdfd": "background_white_dominant",
+          "#1a1a1a": "ink_line_art",
+          "#2a2e3a": "credit_card_dark_body",
+          "#c9a14a": "card_gold_chip_accent"
+        },
+        "color_relationship": "monochrome",
+        "temperature_balance": "cool_dominant",
+        "saturation_strategy": "desaturated_with_pop",
+        "accent_color": "#c9a14a",
+        "accent_ratio": "5_percent",
+        "contrast_type": "luminance_high",
+        "brand_color_match": [
+          "이 컷은 브랜드 블루 미사용(오브제 컷)"
+        ]
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A clean minimalist mixed-media motion-graphic frame rendered at 1920x1080 pixels, 16:9 landscape orientation, on a flat pure-white background (#fdfdfd) with no gradient, texture or grain - uniform bright near-white across every pixel. Centered in the lower-to-middle of the frame is a hand-drawn doodle of an open right palm seen frontally, fingers up and slightly spread, the forearm descending toward the bottom edge, drawn in loose wobbly black ink line-art (#1a1a1a) with sketchy, slightly uneven contours and palm-crease strokes - the consistent charming felt-tip marker-doodle style with tiny gaps where strokes meet. The hand spans roughly the central 28-30 percent of the frame width and rises from the bottom edge to about 45 percent of frame height. The wrist/forearm wears a sweater sleeve rendered with dense diagonal cross-hatch ink strokes to read as a knit-textured casual cuff, signalling a contemporary everyday wearer. Held across the open palm, roughly horizontal, is a real photographic premium credit card in a dark near-black charcoal color (#2a2e3a), about 30 percent of the frame width across. The card face shows the small white label text 'Credit Card' in the upper-left, an embossed/printed cardholder name 'JEONGHYO LEE' in the lower-left in a clean sans-serif, a small metallic gold EMV chip on the left side (#c9a14a accent) with its characteristic contact grid, a faint abstract wavy guilloche line pattern sweeping across the surface, and a small dual-overlapping-circle payment-network mark in the lower-right corner. The card has a glossy plastic surface with a subtle specular sheen and a faint reflection, composited as a clean photo cut-out on the doodle palm with a faint soft contact shadow beneath. Composition: the hand-and-card group is centered horizontally in the middle-to-lower portion of the frame, with generous empty white negative space above (the top 25-35 percent is blank white) and wide white margins on the sides; no ad caption appears in this beat. Color palette: pure white #fdfdfd dominant (~74 percent of the frame); black ink doodle line #1a1a1a (~8 percent); dark card body #2a2e3a (~14 percent); gold chip accent #c9a14a (~4 percent). Color relationship: near-monochrome dark-on-white with a small warm gold pop. Temperature: cool-dominant with a tiny warm chip accent. Saturation: desaturated with a small gold accent. Contrast: high luminance contrast between the dark card, black ink and the white field. Texture: the doodle hand reads as flat marker-ink line drawing, the knit sleeve as dense hatched ink, the card as glossy plastic photo with raised embossing, and the background as perfectly flat digital. Lighting: flat even ambient across the illustration; the photographic card retains a subtle glossy specular highlight and a faint contact shadow; hi-key, minimal shadow, no rim light. This frame belongs to a continuous white-background motion-graphic ad whose visual system mixes three layers: charming black-ink hand-drawn doodle line-art, real photographic cut-out objects, and clean 3D-rendered devices, all set on the same flat white field and tied together by bright Toss-brand-blue kinetic typography; successive beats hand off with vertical slide/push transitions where objects rise from the bottom edge. The whole piece is locked-off with no camera shake and no wiggle-3D effect, keeping every composition calm, centered and minimal. The aesthetic is a Korean fintech history-of-payment explainer beat - a black-ink doodle hand with a knit sleeve presenting a real photo of a modern dark credit card on clean white, the last physical object you hand over before the phone era. Style anchor: clean 4K hi-key white-background commercial motion graphic, loose felt-tip marker-doodle line-art hand, real photo-cutout dark premium credit card, generous minimal negative-space composition, no brand-blue caption in this cut, calm modern Korean digital advertising illustration aesthetic.",
+        "t2i_negative": "photoreal hand, realistic skin, colored background, gradient, grain, coins, banknote, smartphone, multiple cards, real bank logos, captions, wrong text, watermark, harsh shadows, low-key",
+        "i2v_motion": "The dark credit card slides up from the bottom into the palm and settles within ~0.4s (previous text card having slid off the top). After settling, hold static — hand and card barely move (faint doodle jitter), the card's glossy highlight stays steady. Camera locked-off. In the final ~0.3s the whole frame begins sliding upward to hand off to the next text-only card. ~1.67s total, static-to-steady rhythm, no hard cut.",
+        "i2v_params": {
+          "clip_duration_sec": 1.67,
+          "camera_move": "locked_off",
+          "subject_motion_level": "still",
+          "signature_effect": "none",
+          "pacing": "static",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful mixed-media; doodle hand generic, credit card a generic dark-card type (card-face label 'Credit Card' and fictitious cardholder name 'JEONGHYO LEE' preserved as shown); no real bank logo mark"
+      }
+    },
+    {
+      "index": 7,
+      "duration": 1.72,
+      "framing": "grid",
+      "function": "reframe",
+      "subject_action": "text-only card on white: large bold blue Korean line '변화였을 뿐' centered",
+      "color_mood": "clean_minimal_bright",
+      "copy_overlay": "변화였을 뿐",
+      "layout_grid": "center",
+      "subject_position": "center",
+      "subject_identity": "none_environment",
+      "subject_relationship_to_protagonist": null,
+      "mid_frame_path": "ADV-2026-033_frames/cut07_mid.png",
+      "subject_typo_layout": "typo_only_no_person",
+      "typo_motion": "단일 카피 '변화였을 뿐'이 중앙 등장 후 유지. '진화는 무슨'과 짝을 이루는 반전 결구. 컷 말미 다음 컷(폰 든 손) 솟기 시작.",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "environment",
+      "gaze": "none",
+      "eye_contact_effect": null,
+      "props": [],
+      "prop_semantics": null,
+      "color_palette": [
+        "#fdfdfd",
+        "#018cf9"
+      ],
+      "color_intent": "흰 배경 위 토스 블루 단독 카피 — '진화가 아니라 변화였을 뿐'이라는 재정의를 완성",
+      "pose_description": "인물/오브제 없음; 토스 블루 키네틱 타이포 한 줄이 중앙을 채워 재정의 결구 전달",
+      "subject_motion": "static",
+      "prop_motion": "none",
+      "camera_motion": "locked_off",
+      "camera_motion_intensity": "none",
+      "camera_effect_local": "none",
+      "motion_blur": false,
+      "intra_cut_rhythm": "static",
+      "transition_in": "slide_up",
+      "transition_out": "slide_up",
+      "vfx_in_shot": [
+        "ui_motion"
+      ],
+      "vfx_intensity_local": "subtle",
+      "fact_check_flag": null,
+      "notes": "Cut 7 (~f348-f399, 11.62-13.34s): 흰 배경 텍스트 카드 '변화였을 뿐'(토스 블루, 중앙). f361~f399 정적. 보이스오버 '변화였을 뿐'. 컷 말미 다음 컷(폰 든 손) 솟기 시작.",
+      "visible_elements": {
+        "foreground": [
+          "large bold blue Korean caption '변화였을 뿐' centered"
+        ],
+        "midground": [],
+        "background": [
+          "flat pure-white field"
+        ],
+        "lighting_env": [
+          "flat even ambient, no directional light"
+        ],
+        "atmosphere": [
+          "clean minimal, no grain"
+        ]
+      },
+      "texture": {
+        "primary_subject": "flat_2d_vector",
+        "secondary_objects": [],
+        "background_surface": "flat_digital",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "front",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "strong",
+        "key_to_fill_ratio": "1:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "none",
+        "overall_contrast": "hi_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#fdfdfd",
+          "#018cf9"
+        ],
+        "palette_role": {
+          "#fdfdfd": "background_white_dominant",
+          "#018cf9": "brand_blue_text"
+        },
+        "color_relationship": "monochrome",
+        "temperature_balance": "cool_dominant",
+        "saturation_strategy": "desaturated_with_pop",
+        "accent_color": "#018cf9",
+        "accent_ratio": "5_percent",
+        "contrast_type": "luminance_high",
+        "brand_color_match": [
+          "토스 블루 #018cf9"
+        ]
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A pure typographic title card rendered at 1920x1080 pixels, 16:9 landscape orientation, on a completely flat pure-white background (#fdfdfd) - no gradient, no texture, no grain, perfectly uniform bright near-white across every pixel. The only element is a single short line of bold Korean Hangul caption text, horizontally centered at roughly the vertical middle of the frame (around 48-55 percent from the top), reading the short phrase that completes the reframe and means roughly 'was merely a change'. The text is set in a heavy, slightly-rounded geometric sans-serif typeface with confident even stroke weight, generous counters and softly rounded terminals, rendered in bright Toss-brand blue (#018cf9), on a single unwrapped baseline with even letter spacing and consistent x-height across the Hangul syllable blocks. As a short phrase it spans only roughly the central 26-32 percent of the frame width, sitting compactly in the middle with very wide blank white margins left and right and large empty white areas above and below (the top 45 percent and bottom 45 percent are clean white). There is no other object, no hand, no illustration, no photograph, no logo or secondary text and no decorative rule - a single brand-blue phrase on white that, paired with the previous card, lands the witty reframe. Color palette: pure white #fdfdfd dominates approximately 95 percent of the total frame area; Toss-brand-blue text #018cf9 occupies roughly 5 percent with full visual salience. Color relationship: monochrome white-and-blue, cool-dominant. Temperature: cool. Saturation: a desaturated white field with one clean saturated blue text pop. Contrast: high luminance contrast between the blue text and the bright white field, crisp edges. Texture: the text is a clean flat digital vector with smooth anti-aliased edges, no bevel, drop shadow, outline or glow; the background is perfectly flat with no grain or vignette. Lighting: flat even ambient, no directional key light, no cast shadow, hi-key. This frame belongs to a continuous white-background motion-graphic ad whose visual system mixes three layers: charming black-ink hand-drawn doodle line-art, real photographic cut-out objects, and clean 3D-rendered devices, all set on the same flat white field and tied together by bright Toss-brand-blue kinetic typography; successive beats hand off with vertical slide/push transitions where objects rise from the bottom edge. The whole piece is locked-off with no camera shake and no wiggle-3D effect, keeping every composition calm, centered and minimal. The aesthetic is a Korean fintech kinetic-typography card - a short brand-blue phrase on clean white that completes the campaign's reframe that the so-called evolution was merely a change, and pivots toward the product payoff. Style anchor: ultra-minimal 4K hi-key white title card, bold rounded Korean sans-serif in brand blue #018cf9, single short centered reframe phrase, generous negative space, zero decoration, calm modern Korean digital advertising kinetic-typography aesthetic. Production-fidelity note for recreating this card: the letterforms are a clean modern Korean Gothic / rounded-sans family with uniform stem thickness, large open apertures and gently rounded stroke endings, anti-aliased crisply against the white with no halo, no stroke outline and no underline; in the live ad the line is built with a brief kinetic reveal in which the words rise a few pixels and fade up from light to full brand-blue saturation over a fraction of a second, then hold perfectly still while a calm male voiceover speaks the line in sync, and at the very end of the beat the whole card slides upward off the top edge to hand off to the next composition (an illustrated object or another statement card). The single colored element keeps the eye fixed on the message; the wide blank margins on all four sides reinforce the deliberate, declarative pacing. The exact Korean wording on screen is preserved verbatim as recorded in the entry copywriting and is the only text in the frame.",
+        "t2i_negative": "any illustration, hand, object, photo, gradient, colored background, grain, noise, english text, wrong korean text, multiple lines, logos, watermark, shadows, serif font, decorative elements",
+        "i2v_motion": "The blue phrase '변화였을 뿐' slides/fades up into its centered position as the previous credit-card shot slides off the top, settling within ~0.35s, then holds static while a calm male voiceover delivers it (completing the 'evolution? merely change' line). Camera locked-off. In the final ~0.25s, the next shot's content (a doodle hand holding a smartphone) begins rising from the bottom edge for the upward slide handoff. ~1.72s total, static rhythm, no hard cut.",
+        "i2v_params": {
+          "clip_duration_sec": 1.72,
+          "camera_move": "locked_off",
+          "subject_motion_level": "still",
+          "signature_effect": "none",
+          "pacing": "static",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful kinetic-typography card; on-screen copy '변화였을 뿐' preserved verbatim; no logo"
+      }
+    },
+    {
+      "index": 8,
+      "duration": 2.21,
+      "framing": "MCU",
+      "function": "product_demo",
+      "subject_action": "doodle line-art hand (knit sleeve) holds a clean 3D-rendered white smartphone; the phone screen shows a digital-wallet 'Credit Card' card at top, then a black circled checkmark and Korean label '결제 완료!' (payment complete) below — the card-payment-via-phone moment",
+      "color_mood": "clean_minimal_bright",
+      "copy_overlay": "결제 완료!",
+      "layout_grid": "center",
+      "subject_position": "center",
+      "subject_identity": "doodle_hand_with_object",
+      "subject_relationship_to_protagonist": "extra_atmosphere",
+      "mid_frame_path": "ADV-2026-033_frames/cut08_mid.png",
+      "subject_typo_layout": "typo_over_subject",
+      "typo_motion": "폰 화면 UI 모션 — 상단 'Credit Card' 카드 노출 후 하단에 검은 원형 체크마크와 '결제 완료!' 라벨이 팝업. 폰 든 손이 하단에서 솟아 안착.",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "environment",
+      "gaze": "none",
+      "eye_contact_effect": null,
+      "props": [
+        "clean white 3D-rendered smartphone (notch, side button)",
+        "in-phone digital wallet 'Credit Card' UI",
+        "black circled checkmark + '결제 완료!' label",
+        "doodle hand with knit sleeve"
+      ],
+      "prop_semantics": "스마트폰(앱·간편결제)을 결제 진화의 마지막 '손에 쥐는' 단계로 제시 — 카드의 디지털화. '결제 완료!'로 폰 결제의 완결을 실증하지만, 곧 '여전히 무언가를 손에 쥐어야 한다'는 한계로 연결",
+      "color_palette": [
+        "#fdfdfd",
+        "#1a1a1a",
+        "#2a2e3a",
+        "#e8c84a"
+      ],
+      "color_intent": "흰 배경/흰 폰 바디로 화면 UI에 시선 집중; 카드 다크톤·골드 칩이 작은 포인트, 검은 체크마크가 완료 신호",
+      "pose_description": "손그림 손바닥이 정면으로 펼쳐져 세로 방향 흰 스마트폰을 받쳐 든 정적 포즈; 폰이 손가락에 가려지지 않고 화면이 정면을 향함",
+      "subject_motion": "static",
+      "prop_motion": "phone slides up into palm and settles; on-screen checkmark + '결제 완료!' pop in",
+      "camera_motion": "locked_off",
+      "camera_motion_intensity": "none",
+      "camera_effect_local": "none",
+      "motion_blur": false,
+      "intra_cut_rhythm": "steady",
+      "transition_in": "slide_up",
+      "transition_out": "slide_up",
+      "vfx_in_shot": [
+        "ui_motion",
+        "3d_render"
+      ],
+      "vfx_intensity_local": "moderate",
+      "fact_check_flag": null,
+      "notes": "Cut 8 (~f400-f466, 13.34-15.55s): 흰 배경, 손그림 손(니트 소매)+클린 3D 흰 스마트폰. 화면 상단 'Credit Card'(JEONGHYO LEE) 디지털 지갑 카드, 하단 검은 원형 체크 + '결제 완료!'. f401~f466 정적. 보이스오버 공백. 컷 말미 다음 컷(소년 얼굴) 솟기 시작(f467 큰 shift).",
+      "visible_elements": {
+        "foreground": [
+          "black ink doodle open palm with knit sweater sleeve holding a vertical phone",
+          "clean white 3D-rendered smartphone with notch and side button"
+        ],
+        "midground": [
+          "phone screen: digital-wallet 'Credit Card' (dark card with 'JEONGHYO LEE', gold chip) in upper area",
+          "phone screen: black circled checkmark icon and Korean label '결제 완료!' in lower-center"
+        ],
+        "background": [
+          "flat pure-white field"
+        ],
+        "lighting_env": [
+          "flat even ambient; phone is clean 3D render with soft studio shading"
+        ],
+        "atmosphere": [
+          "clean minimal, no grain"
+        ]
+      },
+      "texture": {
+        "primary_subject": "plastic_matte",
+        "secondary_objects": [
+          "glass_clear_phone_screen",
+          "ink_line_drawing"
+        ],
+        "background_surface": "flat_digital",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "front",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "strong",
+        "key_to_fill_ratio": "1:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "minimal",
+        "overall_contrast": "hi_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#fdfdfd",
+          "#1a1a1a",
+          "#2a2e3a",
+          "#e8c84a"
+        ],
+        "palette_role": {
+          "#fdfdfd": "background_and_phone_white_dominant",
+          "#1a1a1a": "ink_line_art_and_checkmark",
+          "#2a2e3a": "wallet_card_dark",
+          "#e8c84a": "card_gold_chip_accent"
+        },
+        "color_relationship": "monochrome",
+        "temperature_balance": "balanced",
+        "saturation_strategy": "desaturated_with_pop",
+        "accent_color": "#e8c84a",
+        "accent_ratio": "5_percent",
+        "contrast_type": "luminance_high",
+        "brand_color_match": [
+          "이 컷은 브랜드 블루 미사용(흑백 UI 체크)"
+        ]
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A clean minimalist mixed-media motion-graphic frame rendered at 1920x1080 pixels, 16:9 landscape orientation, on a flat pure-white background (#fdfdfd) with no gradient, texture or grain - uniform bright near-white across every pixel. Centered, occupying the vertical middle of the frame, is a hand-drawn doodle of an open right palm seen frontally, fingers up and slightly spread, the forearm descending to the bottom edge, drawn in loose wobbly black ink line-art (#1a1a1a) with sketchy contours and palm-crease strokes; the wrist wears a diagonally cross-hatched knit sweater cuff, the same casual wearer as the card shot. Held upright in the palm is a clean 3D-rendered smartphone in glossy white with a small top notch/earpiece and a single side button - a modern minimal handset, screen facing the viewer, its white body almost merging with the white background except for soft pale-gray 3D edge shading that gives it dimension. The phone spans roughly the central 15-18 percent of the frame width and stands tall in the palm. On the phone's bright white screen, in the upper portion, is a digital-wallet card UI: a dark near-black charcoal credit card (#2a2e3a) showing a small 'Credit Card' label, the embossed name 'JEONGHYO LEE', a small gold EMV chip (#e8c84a) and a faint wavy guilloche pattern. Below the card, centered on the lower portion of the screen, is a bold black circled checkmark icon - a thin black ring enclosing a black check tick - and beneath it a Korean label in bold black sans-serif reading exactly the words for 'payment complete' with an exclamation mark. The screen background is clean white. Composition: the hand-and-phone group is centered horizontally in the vertical middle of the frame, with generous empty white negative space above (the top 15-20 percent is blank white) and on both sides; the forearm extends down to the bottom edge. Color palette: pure white #fdfdfd dominant for both background and phone body (~70 percent of the frame); black ink doodle line and checkmark/label #1a1a1a (~12 percent); dark wallet card #2a2e3a (~12 percent); gold chip accent #e8c84a (~3 percent). Color relationship: near-monochrome black-and-white with a tiny warm gold pop. Temperature: balanced cool-neutral. Saturation: desaturated with a small gold accent. Contrast: high luminance contrast, black ink and dark card on white. Texture: the doodle hand reads as flat marker-ink line drawing, the knit sleeve as hatched ink, the phone as a clean matte/glossy 3D render with a glassy screen, and the background as perfectly flat digital. Lighting: flat even ambient across the illustration; the 3D phone has soft studio shading and a faint contact shadow; hi-key, minimal shadow, no rim light. This frame belongs to a continuous white-background motion-graphic ad whose visual system mixes three layers: charming black-ink hand-drawn doodle line-art, real photographic cut-out objects, and clean 3D-rendered devices, all set on the same flat white field and tied together by bright Toss-brand-blue kinetic typography; successive beats hand off with vertical slide/push transitions where objects rise from the bottom edge. The whole piece is locked-off with no camera shake and no wiggle-3D effect, keeping every composition calm, centered and minimal. The aesthetic is a Korean fintech product-demo beat - a doodle hand presenting a clean 3D phone whose screen shows a card-in-wallet and a payment-complete success state, the digital-but-still-handheld payment step right before the face-payment reveal. Style anchor: clean 4K hi-key white-background commercial motion graphic, loose felt-tip marker-doodle line-art hand, clean white 3D smartphone, in-screen black checkmark UI with Korean payment-complete label, generous minimal negative-space composition, calm modern Korean digital advertising aesthetic.",
+        "t2i_negative": "photoreal hand, realistic skin, colored background, gradient, grain, coins, banknote, physical card outside phone, real bank/wallet logos, wrong korean text, english body text, watermark, harsh shadows, low-key, multiple phones",
+        "i2v_motion": "The white 3D phone slides up from the bottom into the palm and settles within ~0.4s (previous text card having slid off the top). On the screen the 'Credit Card' wallet card is shown, then a black circled checkmark and the label '결제 완료!' pop in with a small scale/fade. After that, hold steady — hand and phone barely move. Camera locked-off. In the final ~0.3s a dramatic upward slide begins as the next shot (a doodle boy's curly hair) rises fast from the bottom edge — the biggest vertical-push handoff of the ad. ~2.21s total, steady rhythm, no hard cut.",
+        "i2v_params": {
+          "clip_duration_sec": 2.21,
+          "camera_move": "locked_off",
+          "subject_motion_level": "still",
+          "signature_effect": "none",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful mixed-media; doodle hand generic, phone a generic clean 3D handset, in-app card generic (label 'Credit Card' + fictitious name preserved); UI label '결제 완료!' preserved verbatim; no real wallet/bank logo mark"
+      }
+    },
+    {
+      "index": 9,
+      "duration": 2.85,
+      "framing": "MCU",
+      "function": "reveal_punchline",
+      "subject_action": "a hand-drawn doodle boy (curly black hair, round eyes, ribbed crew-neck sweater) rises into the white frame and looks to camera with a small playful smile (tongue briefly out); blue Korean caption flanks him — '얼굴로' on the left, '결제할게요' on the right",
+      "color_mood": "clean_minimal_bright",
+      "copy_overlay": "얼굴로     결제할게요",
+      "layout_grid": "center",
+      "subject_position": "center",
+      "subject_identity": "doodle_character_boy",
+      "subject_relationship_to_protagonist": "main_character",
+      "mid_frame_path": "ADV-2026-033_frames/cut09_mid.png",
+      "subject_typo_layout": "typo_separate_zone",
+      "typo_motion": "인물(소년)이 하단에서 솟아 중앙 정착하며 눈을 뜨고 표정 변화(혀 내밀기→미소). 좌측 '얼굴로'·우측 '결제할게요' 토스 블루 캡션이 양옆에서 등장(분리 존). 보이스오버 '얼굴로 결제할게요' 동기.",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "bust",
+      "gaze": "to_camera",
+      "eye_contact_effect": "정면 응시로 '내가 곧 결제수단'임을 직접 선언; 친근한 표정이 위트를 전달",
+      "props": [],
+      "prop_semantics": null,
+      "color_palette": [
+        "#fdfdfd",
+        "#1a1a1a",
+        "#018cf9"
+      ],
+      "color_intent": "흰 배경 위 검은 펜선 인물 + 좌우 토스 블루 카피 — 인물(얼굴)과 브랜드 컬러 카피의 분리 존 레이아웃으로 '얼굴=결제수단' 메시지 강조",
+      "pose_description": "거친 펜선 손그림 소년의 흉상 정면 포즈; 곱슬머리, 큰 동그란 눈, 리브드 크루넥 스웨터. 처음 눈을 감고 솟아오른 뒤 눈을 뜨고 카메라를 보며 장난스런 미소(짧게 혀 내밈). 정적 포즈에 미세한 표정 변화만",
+      "subject_motion": "rises_in_then_micro_facial_expression",
+      "prop_motion": "none",
+      "camera_motion": "locked_off",
+      "camera_motion_intensity": "none",
+      "camera_effect_local": "none",
+      "motion_blur": false,
+      "intra_cut_rhythm": "steady",
+      "transition_in": "slide_up",
+      "transition_out": "camera_push_through",
+      "vfx_in_shot": [
+        "ui_motion"
+      ],
+      "vfx_intensity_local": "subtle",
+      "fact_check_flag": null,
+      "notes": "Cut 9 (~f467-f548, 15.55-18.40s): 흰 배경, 손그림 소년 흉상(곱슬머리, 리브드 크루넥). f467~ 머리부터 솟아오름(f467 shift_x 큰 값=수직 푸시 전환), f495 눈뜨고 혀 내밈, f510~ 미소. 좌 '얼굴로'/우 '결제할게요' 블루 캡션. 보이스오버 '얼굴로 결제할게요'. 와우 컷(펀치라인 비주얼).",
+      "visible_elements": {
+        "foreground": [
+          "hand-drawn doodle boy bust: messy curly black hair (dense ink scribble), round white eyes with dot pupils, small nose, expressive mouth, ribbed crew-neck sweater collar, plain body"
+        ],
+        "midground": [
+          "blue Korean caption '얼굴로' on the left side at mid-height",
+          "blue Korean caption '결제할게요' on the right side at mid-height"
+        ],
+        "background": [
+          "flat pure-white field"
+        ],
+        "lighting_env": [
+          "flat even ambient — pure ink-on-white, no rendered light"
+        ],
+        "atmosphere": [
+          "clean minimal, no grain"
+        ]
+      },
+      "texture": {
+        "primary_subject": "ink_line_drawing",
+        "secondary_objects": [],
+        "background_surface": "flat_digital",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "front",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "strong",
+        "key_to_fill_ratio": "1:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "none",
+        "overall_contrast": "hi_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#fdfdfd",
+          "#1a1a1a",
+          "#018cf9"
+        ],
+        "palette_role": {
+          "#fdfdfd": "background_white_dominant",
+          "#1a1a1a": "ink_line_art_character",
+          "#018cf9": "brand_blue_caption"
+        },
+        "color_relationship": "monochrome_plus_accent",
+        "temperature_balance": "cool_dominant",
+        "saturation_strategy": "desaturated_with_pop",
+        "accent_color": "#018cf9",
+        "accent_ratio": "5_percent",
+        "contrast_type": "luminance_high",
+        "brand_color_match": [
+          "토스 블루 #018cf9 (좌우 캡션)"
+        ]
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A clean minimalist motion-graphic frame rendered at 1920x1080 pixels, 16:9 landscape orientation, on a flat pure-white background (#fdfdfd) with no gradient, texture or grain - uniform bright near-white across every pixel. Centered in the frame is a hand-drawn doodle character - a young boy shown as a bust (head, neck and upper torso) - drawn entirely in loose, energetic black ink line-art (#1a1a1a) with a charming wobbly hand-illustrated quality and visible stroke texture. He has a big mop of messy curly black hair rendered as dense scribbled ink curls framing the top of his head, a round friendly face with two large circular eyes (white with small black dot pupils), gently arched eyebrows, a small simple nose, two little ears, and an expressive smiling mouth - in this frame a small playful open smile, lightly mischievous. He wears a ribbed crew-neck sweater indicated by a small band of short vertical hatch strokes at the collar and a plain rounded body outline below that fades toward the lower third of the frame. The character is centered horizontally and occupies roughly the central 35-45 percent of the frame width, with the top of his hair near the top quarter of the frame. Flanking him at roughly mid-height are two separate bold Korean Hangul captions in bright Toss-brand blue (#018cf9): on the LEFT side, in the left margin, the word meaning 'with the face'; on the RIGHT side, in the right margin, the words meaning 'I will pay'. Both are set in a heavy slightly-rounded sans-serif, positioned in the white space to the left and right of the boy's head and shoulders so the two phrases read across the character as 'with your face ... I'll pay'. Composition: a symmetrical center character with balanced left and right text zones, a typo-separate-zone layout, generous white negative space above the hair and below the torso, and the boy's gaze aimed straight at the viewer. Color palette: pure white #fdfdfd dominant (~85 percent of the frame); black ink line-art character #1a1a1a (~10 percent); Toss-brand-blue captions #018cf9 (~5 percent). Color relationship: monochrome ink-on-white with a brand-blue text accent. Temperature: cool-dominant. Saturation: desaturated with a saturated blue text pop. Contrast: high luminance contrast between black ink and the white field. Texture: the entire character is flat hand-drawn marker-ink line work on flat white with no rendered shading; the background is perfectly flat digital. Lighting: flat even ambient, no directional key light, no cast shadow, hi-key. This frame belongs to a continuous white-background motion-graphic ad whose visual system mixes three layers: charming black-ink hand-drawn doodle line-art, real photographic cut-out objects, and clean 3D-rendered devices, all set on the same flat white field and tied together by bright Toss-brand-blue kinetic typography; successive beats hand off with vertical slide/push transitions where objects rise from the bottom edge. The whole piece is locked-off with no camera shake and no wiggle-3D effect, keeping every composition calm, centered and minimal. The aesthetic is the Korean fintech punchline beat of the ad - a charming black-ink doodle boy looking straight at the viewer, flanked by brand-blue copy declaring that he will pay with his face, the human face now replacing every handheld object shown earlier in the montage. Style anchor: clean 4K hi-key white-background motion graphic, loose felt-tip marker-doodle line-art boy bust facing camera, bold rounded Korean sans-serif brand-blue captions left and right, symmetrical center composition, calm modern Korean digital advertising illustration aesthetic. Note: the boy is a generic illustrated character with no real-person or celebrity likeness.",
+        "t2i_negative": "photoreal face, realistic skin, real person, celebrity likeness, color illustration, shaded rendering, colored background, gradient, grain, hands, objects, phone, wrong korean text, english text, logos, watermark, harsh shadows, low-key",
+        "i2v_motion": "The doodle boy rises up into the white frame from the bottom (a fast vertical push, head first) and settles centered within ~0.5s, initially with eyes closed/calm; then he opens his big round eyes, briefly sticks his tongue out playfully, and settles into a warm to-camera smile — a sequence of small hand-drawn facial expression changes with light frame-to-frame line wobble (the line-art 'boils' slightly as in 2D animation). The left caption '얼굴로' and right caption '결제할게요' pop/slide into their side positions in brand blue, synced to a calm male voiceover saying 'with my face, I'll pay'. Camera locked-off but at the very end begins to push in toward his face to hand off into the phone-face-scan shot. ~2.85s total, steady playful rhythm, no hard cut.",
+        "i2v_params": {
+          "clip_duration_sec": 2.85,
+          "camera_move": "slow_push_in_at_end",
+          "subject_motion_level": "micro",
+          "signature_effect": "none",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; doodle boy is a generic illustrated character (no real-person/celebrity likeness); on-screen copy '얼굴로' and '결제할게요' preserved verbatim; no logo"
+      }
+    },
+    {
+      "index": 10,
+      "duration": 4.05,
+      "framing": "MCU",
+      "function": "product_hero",
+      "subject_action": "rapid montage inside a clean 3D white smartphone/terminal screen: a series of different hand-drawn doodle people (the curly-haired boy, a ponytail girl with a small pet dog, a striped-shirt boy with two friends, a beanie boy) each appear with a blue FaceID-style scanning arc/ring sweeping around their face — face recognition for payment, showing 'anyone can pay with their face'",
+      "color_mood": "clean_minimal_bright",
+      "copy_overlay": "",
+      "layout_grid": "center",
+      "subject_position": "center",
+      "subject_identity": "doodle_characters_multi_face",
+      "subject_relationship_to_protagonist": "supporting_character",
+      "mid_frame_path": "ADV-2026-033_frames/cut10_mid.png",
+      "subject_typo_layout": "typo_only_no_person",
+      "typo_motion": "고유 카피 없음(UI 그래픽 위주). 핵심은 파란 FaceID식 스캔 링이 각 인물 얼굴 주위를 휘감는 모션 + 인물이 빠르게 교체되는 몽타주.",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "bust",
+      "gaze": "to_camera",
+      "eye_contact_effect": "각 인물이 정면 응시하며 폰 카메라에 얼굴을 인식시키는 행위를 직접 보여줌",
+      "props": [
+        "clean white 3D smartphone/terminal frame",
+        "blue circular FaceID-style scanning arc/ring",
+        "small pet dog doodle (one panel)"
+      ],
+      "prop_semantics": "얼굴 인식 스캔 링 = 생체인증 결제의 핵심 UI. 다양한 인물(성별·헤어·복장 차이)을 빠르게 보여줘 '누구나 얼굴로 결제'를 실증",
+      "color_palette": [
+        "#fdfdfd",
+        "#1a1a1a",
+        "#018cf9",
+        "#eef0f2"
+      ],
+      "color_intent": "흰 폰/흰 배경 위 검은 펜선 인물 + 토스 블루 스캔 링 — 브랜드 컬러가 '인식 중' 신호로 기능",
+      "pose_description": "여러 손그림 인물의 정면 흉상 포즈가 폰 화면 안에서 연속 교체; 각 인물은 정적이되 얼굴 주위 블루 스캔 링이 호를 그리며 회전. 폰 자체는 locked_off",
+      "subject_motion": "rapid_character_swap_montage",
+      "prop_motion": "blue scan ring sweeps/rotates around each face",
+      "camera_motion": "locked_off",
+      "camera_motion_intensity": "none",
+      "camera_effect_local": "none",
+      "motion_blur": false,
+      "intra_cut_rhythm": "accelerating",
+      "transition_in": "camera_push_through",
+      "transition_out": "cut",
+      "vfx_in_shot": [
+        "ui_motion",
+        "3d_render"
+      ],
+      "vfx_intensity_local": "heavy",
+      "fact_check_flag": null,
+      "notes": "Cut 10 (~f549-f673, 18.40-22.45s): 클린 3D 흰 폰/단말기 화면 안에서 인물 몽타주(곱슬소년→포니테일 소녀+강아지→줄무늬 소년+친구 둘→비니 소년→곱슬소년 얼굴 블루원 완성). 각 얼굴 주위 파란 FaceID식 스캔 링. f597~f665 활성(metrics 빠른 diff 진동=인물 교체). 와우 컷(핵심 제품 비주얼). 끝에서 다음 컷(결제 단말 확인화면)으로.",
+      "visible_elements": {
+        "foreground": [
+          "clean white 3D smartphone/terminal device frame, screen facing viewer",
+          "hand-drawn doodle people bust portraits cycling on the screen (curly-hair boy; ponytail girl holding a small pet dog; striped-shirt boy with two friends behind; beanie boy in hoodie)"
+        ],
+        "midground": [
+          "bright blue FaceID-style circular scanning arc/ring sweeping around each face"
+        ],
+        "background": [
+          "flat pure-white field (and white phone screen)"
+        ],
+        "lighting_env": [
+          "flat even ambient; phone is clean 3D render with soft shading"
+        ],
+        "atmosphere": [
+          "clean minimal, no grain; energetic rapid-cycle feel"
+        ]
+      },
+      "texture": {
+        "primary_subject": "ink_line_drawing",
+        "secondary_objects": [
+          "plastic_matte",
+          "glass_clear_phone_screen"
+        ],
+        "background_surface": "flat_digital",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "front",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "strong",
+        "key_to_fill_ratio": "1:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "minimal",
+        "overall_contrast": "hi_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#fdfdfd",
+          "#1a1a1a",
+          "#018cf9",
+          "#eef0f2"
+        ],
+        "palette_role": {
+          "#fdfdfd": "background_and_screen_white_dominant",
+          "#1a1a1a": "ink_line_art_faces",
+          "#018cf9": "brand_blue_scan_ring",
+          "#eef0f2": "phone_body_light_gray_shading"
+        },
+        "color_relationship": "monochrome_plus_accent",
+        "temperature_balance": "cool_dominant",
+        "saturation_strategy": "desaturated_with_pop",
+        "accent_color": "#018cf9",
+        "accent_ratio": "5_percent",
+        "contrast_type": "luminance_high",
+        "brand_color_match": [
+          "토스 블루 #018cf9 (스캔 링)"
+        ]
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A clean minimalist motion-graphic frame rendered at 1920x1080 pixels, 16:9 landscape orientation, on a flat pure-white background (#fdfdfd) with no gradient, texture or grain - uniform bright near-white across every pixel. Centered in the frame is a clean 3D-rendered white smartphone, or compact white payment terminal, shown upright in portrait, its glossy white body almost merging with the white background but defined by soft pale-gray 3D edge shading (#eef0f2), with a small top earpiece slot and a rounded chin; the screen faces the viewer and is bright white. The phone occupies roughly the central 30-40 percent of the frame width and most of the vertical height. Filling the phone screen is a hand-drawn doodle person bust portrait in loose black ink line-art (#1a1a1a, matching the campaign's felt-tip marker-doodle style with visible stroke texture) - for this representative frame, a young boy with a big mop of curly scribbled black hair, large round eyes with dot pupils, a small smiling mouth and a striped or ribbed crew-neck sweater, looking straight ahead at the viewer. Sweeping around his face is a bright Toss-brand-blue (#018cf9) circular scanning arc - a thick rounded-cap partial ring, like a face-recognition or FaceID progress ring, curving from the upper-right around toward the lower-left of his head and indicating an active biometric face scan. Around and behind the phone is generous empty white negative space. This shot is a rapid montage that cycles several different doodle people through this same scan-on-phone composition: a ponytail girl hugging a small doodle pet dog; a striped-shirt boy flanked by two friends behind him; a boy in a knit beanie and hoodie - each appearing centered on the screen with the same blue scanning ring around their face, one after another. Color palette: pure white #fdfdfd dominant for background and phone screen (~78 percent of the frame); black ink doodle faces #1a1a1a (~12 percent); Toss-brand-blue scan ring #018cf9 (~5 percent); pale-gray phone shading #eef0f2 (~5 percent). Color relationship: monochrome ink-on-white with a brand-blue UI accent. Temperature: cool-dominant. Saturation: desaturated with a saturated blue ring pop. Contrast: high luminance contrast between black ink, the blue ring and the white field. Texture: the doodle faces read as flat marker-ink line drawing, the phone as a clean matte/glossy 3D render with a glassy screen, and the background as perfectly flat digital. Lighting: flat even ambient with soft 3D shading on the phone; hi-key, minimal shadow, no rim light. This frame belongs to a continuous white-background motion-graphic ad whose visual system mixes three layers: charming black-ink hand-drawn doodle line-art, real photographic cut-out objects, and clean 3D-rendered devices, all set on the same flat white field and tied together by bright Toss-brand-blue kinetic typography; successive beats hand off with vertical slide/push transitions where objects rise from the bottom edge. The whole piece is locked-off with no camera shake and no wiggle-3D effect, keeping every composition calm, centered and minimal. The aesthetic is the Korean fintech product-hero beat - different illustrated people one after another having their faces scanned by a clean white phone with a blue FaceID-style ring, proving that anyone can pay simply with their face. Style anchor: clean 4K hi-key white-background motion graphic, loose felt-tip marker-doodle line-art bust portraits on a white 3D smartphone screen, bright brand-blue circular face-scan ring, rapid multi-face montage, calm modern Korean digital advertising aesthetic. Note: all doodle people are generic illustrated characters with no real-person or celebrity likeness.",
+        "t2i_negative": "photoreal faces, realistic skin, real people, celebrity likeness, colored illustration, shaded rendering, colored background, gradient, grain, physical cards, coins, wrong korean text, english text, real brand logos, watermark, harsh shadows, low-key",
+        "i2v_motion": "Inside the clean white phone screen, a rapid montage cycles several doodle people one after another (curly-hair boy, then a ponytail girl hugging a small pet dog, then a striped-shirt boy with two friends, then a beanie boy), each appearing centered and facing forward. Around each face a bright blue FaceID-style scanning arc sweeps/rotates and nearly completes a circle (active biometric scan), then the next person snaps in. The line-art faces have light 2D 'boil' wobble. The phone itself stays locked-off and still; the energy comes from the fast face-swaps and the rotating blue ring (accelerating rhythm). Ends on a clean cut handoff to a payment-confirmation terminal screen. ~4.05s total, accelerating montage rhythm.",
+        "i2v_params": {
+          "clip_duration_sec": 4.05,
+          "camera_move": "locked_off",
+          "subject_motion_level": "dynamic",
+          "signature_effect": "none",
+          "pacing": "accelerating",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; all doodle people are generic illustrated characters (no real-person/celebrity likeness); blue face-scan ring is a generic biometric-UI motif; no on-screen ad copy; no real brand logo mark"
+      }
+    },
+    {
+      "index": 11,
+      "duration": 2.97,
+      "framing": "MCU",
+      "function": "product_demo",
+      "subject_action": "clean 3D white payment terminal (on a stand) centered on white; its screen shows a light-blue smiley face-scan icon with the Korean label '결제' (pay), then resolves to a blue gradient circled checkmark and the label '결제 완료!' (payment complete)",
+      "color_mood": "clean_minimal_bright",
+      "copy_overlay": "결제 / 결제 완료!",
+      "layout_grid": "center",
+      "subject_position": "center",
+      "subject_identity": "product_device",
+      "subject_relationship_to_protagonist": null,
+      "mid_frame_path": "ADV-2026-033_frames/cut11_mid.png",
+      "subject_typo_layout": "typo_over_subject",
+      "typo_motion": "단말 화면 UI 모션 — 연한 블루 스마일 얼굴 아이콘 + '결제' 라벨 → 블루 그라데이션 원형 체크마크 + '결제 완료!' 라벨로 전환. 단말은 정적.",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "environment",
+      "gaze": "none",
+      "eye_contact_effect": null,
+      "props": [
+        "clean white 3D face-pay terminal/kiosk device",
+        "light-blue smiley face-scan icon (Face Pay symbol)",
+        "blue gradient circled checkmark + '결제 완료!' label"
+      ],
+      "prop_semantics": "얼굴 결제 전용 단말기(키오스크)를 제품 실물로 제시; 스마일 얼굴 아이콘이 페이스페이 브랜드 심볼, 블루 체크가 결제 완료 확인. 매장 결제 시나리오 암시",
+      "color_palette": [
+        "#fdfdfd",
+        "#1a1a1a",
+        "#018cf9",
+        "#bcdcfb"
+      ],
+      "color_intent": "흰 단말/흰 배경 위 연블루 스마일 아이콘과 블루 체크 — 브랜드 컬러로 '얼굴 인식→완료' 흐름을 시각화",
+      "pose_description": "인물 없음; 클린 3D 흰색 얼굴결제 단말이 화면 중앙에 세로로 배치, 화면이 정면을 향함",
+      "subject_motion": "static",
+      "prop_motion": "on-screen icon transitions smiley scan -> checkmark",
+      "camera_motion": "locked_off",
+      "camera_motion_intensity": "none",
+      "camera_effect_local": "none",
+      "motion_blur": false,
+      "intra_cut_rhythm": "steady",
+      "transition_in": "cut",
+      "transition_out": "slide_up",
+      "vfx_in_shot": [
+        "ui_motion",
+        "3d_render"
+      ],
+      "vfx_intensity_local": "moderate",
+      "fact_check_flag": null,
+      "notes": "Cut 11 (~f674-f761, 22.45-25.42s): 클린 3D 흰 얼굴결제 단말(스탠드형). 화면 연블루 스마일 얼굴 아이콘+'결제'(f704경) → 블루 그라데이션 원형 체크+'결제 완료!'(f749경). f674~f761 정적. 보이스오버 공백(이 구간). 끝에서 텍스트 카드로 슬라이드.",
+      "visible_elements": {
+        "foreground": [
+          "clean white 3D payment terminal/kiosk with a vertical screen and a small stand/base, screen facing viewer"
+        ],
+        "midground": [
+          "screen state A: light-blue outline smiley face-scan icon (circle with two dot eyes + smile) and black/blue Korean label '결제'",
+          "screen state B: blue gradient circled white checkmark and bold black label '결제 완료!'"
+        ],
+        "background": [
+          "flat pure-white field"
+        ],
+        "lighting_env": [
+          "flat even ambient; terminal is clean 3D render with soft shading"
+        ],
+        "atmosphere": [
+          "clean minimal, no grain"
+        ]
+      },
+      "texture": {
+        "primary_subject": "plastic_matte",
+        "secondary_objects": [
+          "glass_clear_phone_screen"
+        ],
+        "background_surface": "flat_digital",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "front",
+        "key_hardness": "diffused",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "strong",
+        "key_to_fill_ratio": "1:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "minimal",
+        "overall_contrast": "hi_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#fdfdfd",
+          "#1a1a1a",
+          "#018cf9",
+          "#bcdcfb"
+        ],
+        "palette_role": {
+          "#fdfdfd": "background_and_terminal_white_dominant",
+          "#1a1a1a": "ui_text_dark",
+          "#018cf9": "brand_blue_checkmark",
+          "#bcdcfb": "light_blue_smiley_scan_icon"
+        },
+        "color_relationship": "monochrome_plus_accent",
+        "temperature_balance": "cool_dominant",
+        "saturation_strategy": "desaturated_with_pop",
+        "accent_color": "#018cf9",
+        "accent_ratio": "5_percent",
+        "contrast_type": "luminance_high",
+        "brand_color_match": [
+          "토스 블루 #018cf9 (체크마크), 연블루 #bcdcfb (스마일 스캔 아이콘)"
+        ]
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A clean minimalist product-render frame rendered at 1920x1080 pixels, 16:9 landscape orientation, on a flat pure-white background (#fdfdfd) with no gradient, texture or grain - uniform bright near-white across every pixel. Centered in the frame is a clean 3D-rendered white face-payment terminal - a compact kiosk-like device with a large vertical rectangular screen and a small angled base/stand, all in glossy white with soft pale-gray 3D edge shading so it reads dimensionally against the white. The terminal occupies roughly the central 28-36 percent of the frame width and most of the vertical height, with generous empty white space on the left and right. The screen faces the viewer and is bright white. On the screen is the face-payment UI: in the representative start state, a friendly light-blue (#bcdcfb) outline smiley-face icon - a thin rounded circle containing two small dot eyes and an upward smile curve, the Face Pay symbol - centered in the upper-middle of the screen, with a Korean label below it reading the single word for 'pay' in a clean bold sans-serif. Moments later this resolves into a second state: a blue gradient filled circle with a white checkmark and the bold black Korean label for 'payment complete' below it. Composition: the terminal sits centered and upright, flanked by wide blank white margins, presented like a clean product hero. Color palette: pure white #fdfdfd dominant for background and device (~80 percent of the frame); dark UI text #1a1a1a (~5 percent); Toss-brand-blue checkmark #018cf9 (~5 percent); light-blue smiley scan icon #bcdcfb (~5 percent); pale-gray device shading rounds out the rest. Color relationship: monochrome white with brand-blue UI accents. Temperature: cool-dominant. Saturation: desaturated with blue UI pops. Contrast: high luminance contrast between the blue and dark UI elements and the white screen and body. Texture: the terminal reads as a clean matte/glossy 3D render with a glassy screen, and the background is perfectly flat digital with no atmospheric texture. Lighting: soft diffused even studio light on the 3D device with a faint contact shadow beneath; hi-key, minimal shadow, no rim light. This frame belongs to a continuous white-background motion-graphic ad whose visual system mixes three layers: charming black-ink hand-drawn doodle line-art, real photographic cut-out objects, and clean 3D-rendered devices, all set on the same flat white field and tied together by bright Toss-brand-blue kinetic typography; successive beats hand off with vertical slide/push transitions where objects rise from the bottom edge. The whole piece is locked-off with no camera shake and no wiggle-3D effect, keeping every composition calm, centered and minimal. The aesthetic is the Korean fintech product-demo beat - a clean white face-payment terminal showing a friendly face-scan icon resolving to a payment-complete confirmation, presenting the in-store hardware for face payment. Style anchor: clean 4K hi-key white-background product render, white 3D face-pay terminal/kiosk on a stand, friendly light-blue smiley face-scan icon, blue checkmark success state, Korean UI labels for pay and payment-complete, generous minimal negative-space composition, calm modern Korean digital advertising aesthetic. Production-fidelity note for recreating this device frame: the white phone/terminal is a smooth matte-and-glossy 3D render with softly rounded corners, a thin bright screen bezel, a subtle ambient-occlusion contact shadow grounding it on the white, and gentle specular roll-off along its edges that separates the white body from the white background without any hard outline; the on-screen UI elements (icon, checkmark, label and any wallet card) sit on a clean white app canvas with comfortable padding and crisp anti-aliased edges, and the brand-blue accents are the only saturated color. In the live ad the device stays locked-off and perfectly still while only the on-screen UI animates with small scale-and-fade pops, keeping the beat calm and product-focused; the generous white margins on the left and right isolate the hardware as a clean hero object. Any Korean UI label is preserved verbatim as recorded in the entry copywriting.",
+        "t2i_negative": "photoreal hand, people, realistic skin, colored background, gradient background, grain, coins, banknote, physical card, real brand logos, wrong korean text, english body text, watermark, harsh shadows, low-key, cluttered scene",
+        "i2v_motion": "The clean white face-pay terminal sits centered and locked-off. On its screen the light-blue smiley face-scan icon and the label '결제' show first (active face-scan state), then transition with a small scale/fade into a blue gradient circled checkmark and the label '결제 완료!' (success). The device itself stays perfectly still. Camera locked-off. In the final ~0.3s the whole frame begins sliding upward to hand off to the next text-only card. ~2.97s total, steady product-demo rhythm.",
+        "i2v_params": {
+          "clip_duration_sec": 2.97,
+          "camera_move": "locked_off",
+          "subject_motion_level": "still",
+          "signature_effect": "none",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful product render; terminal is a generic white face-pay device type; smiley face-scan icon and blue checkmark are generic UI; on-screen labels '결제' and '결제 완료!' preserved verbatim; no real brand logo mark"
+      }
+    },
+    {
+      "index": 12,
+      "duration": 3.41,
+      "framing": "grid",
+      "function": "reframe_payoff",
+      "subject_action": "text-only card on white: two-line bold blue Korean copy '결제,' (line 1) / '과거의 손아귀를 벗어나다' (line 2), centered, fading/sliding in",
+      "color_mood": "clean_minimal_bright",
+      "copy_overlay": "결제,\n과거의 손아귀를 벗어나다",
+      "layout_grid": "center",
+      "subject_position": "center",
+      "subject_identity": "none_environment",
+      "subject_relationship_to_protagonist": null,
+      "mid_frame_path": "ADV-2026-033_frames/cut12_mid.png",
+      "subject_typo_layout": "typo_only_no_person",
+      "typo_motion": "2행 카피 '결제,' / '과거의 손아귀를 벗어나다'가 중앙에 페이드/슬라이드로 등장(첫 행 진한 블루, 둘째 행은 단어별로 차오름). 보이스오버 '결제, 과거의 손아귀를 벗어나다' 동기.",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "environment",
+      "gaze": "none",
+      "eye_contact_effect": null,
+      "props": [],
+      "prop_semantics": null,
+      "color_palette": [
+        "#fdfdfd",
+        "#018cf9",
+        "#9ecbfb"
+      ],
+      "color_intent": "흰 배경 위 토스 블루 2행 카피(단어별 명도차로 등장) — '손에 쥐던 과거에서 벗어남'이라는 페이오프 선언",
+      "pose_description": "인물/오브제 없음; 토스 블루 키네틱 타이포 2행이 중앙을 채워 카피 페이오프 전달. '손아귀(grip of the hand)'는 앞선 '손에 든 결제수단' 은유를 회수",
+      "subject_motion": "static",
+      "prop_motion": "none",
+      "camera_motion": "locked_off",
+      "camera_motion_intensity": "none",
+      "camera_effect_local": "none",
+      "motion_blur": false,
+      "intra_cut_rhythm": "static",
+      "transition_in": "slide_up",
+      "transition_out": "slide_up",
+      "vfx_in_shot": [
+        "ui_motion"
+      ],
+      "vfx_intensity_local": "subtle",
+      "fact_check_flag": null,
+      "notes": "Cut 12 (~f762-f863, 25.42-28.83s): 흰 배경 2행 텍스트 카드 '결제,' / '과거의 손아귀를 벗어나다'(토스 블루). f763경 페이드 인(단어별 명도차로 차오름), f813~f863 정적. 보이스오버 '결제, 과거의 손아귀를 벗어나다'. 끝에서 3D 단말 컷으로.",
+      "visible_elements": {
+        "foreground": [
+          "two-line bold blue Korean caption: line 1 '결제,' / line 2 '과거의 손아귀를 벗어나다', centered"
+        ],
+        "midground": [],
+        "background": [
+          "flat pure-white field"
+        ],
+        "lighting_env": [
+          "flat even ambient, no directional light"
+        ],
+        "atmosphere": [
+          "clean minimal, no grain"
+        ]
+      },
+      "texture": {
+        "primary_subject": "flat_2d_vector",
+        "secondary_objects": [],
+        "background_surface": "flat_digital",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "front",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "strong",
+        "key_to_fill_ratio": "1:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "none",
+        "overall_contrast": "hi_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#fdfdfd",
+          "#018cf9",
+          "#9ecbfb"
+        ],
+        "palette_role": {
+          "#fdfdfd": "background_white_dominant",
+          "#018cf9": "brand_blue_text_primary",
+          "#9ecbfb": "light_blue_text_during_reveal"
+        },
+        "color_relationship": "monochrome_plus_accent",
+        "temperature_balance": "cool_dominant",
+        "saturation_strategy": "desaturated_with_pop",
+        "accent_color": "#018cf9",
+        "accent_ratio": "10_percent",
+        "contrast_type": "luminance_high",
+        "brand_color_match": [
+          "토스 블루 #018cf9"
+        ]
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A pure typographic title card rendered at 1920x1080 pixels, 16:9 landscape orientation, on a completely flat pure-white background (#fdfdfd) - no gradient, no texture, no grain, perfectly uniform bright near-white across every pixel. The only content is a two-line bold Korean Hangul caption, horizontally centered and placed around the vertical middle of the frame (roughly 42-58 percent from the top). Line one is a short word with a trailing comma, sitting centered above; line two is longer, meaning roughly 'escapes the grip of the past', centered below line one. Both lines are set in a heavy, slightly-rounded geometric sans-serif typeface in bright Toss-brand blue (#018cf9) with even stroke weight and rounded terminals; during the animated reveal individual words appear in a lighter sky blue (#9ecbfb) before settling to full saturation, but the resting state is solid brand blue. The two lines are stacked with comfortable line spacing, the longer second line spanning roughly the central 50-58 percent of the frame width on a single baseline. There is no other object, no hand, no illustration, no photograph or logo - just the two blue sentences on white, a kinetic-typography payoff card. Generous empty white negative space surrounds the text: roughly the top 40 percent and bottom 38 percent of the frame are blank white, with wide white margins on the left and right. Color palette: pure white #fdfdfd dominates approximately 90 percent of the total frame area; Toss-brand-blue text #018cf9 and the transient light-blue #9ecbfb during reveal occupy roughly 10 percent with full salience. Color relationship: monochrome white-and-blue, cool-dominant. Temperature: cool. Saturation: a desaturated white field with saturated blue text. Contrast: high luminance contrast between the blue text and the bright white field, crisp edges. Texture: clean flat digital vector text with smooth anti-aliased edges and no bevel, drop shadow or glow; perfectly flat background. Lighting: flat even ambient, no directional key light, no cast shadow, hi-key. This frame belongs to a continuous white-background motion-graphic ad whose visual system mixes three layers: charming black-ink hand-drawn doodle line-art, real photographic cut-out objects, and clean 3D-rendered devices, all set on the same flat white field and tied together by bright Toss-brand-blue kinetic typography; successive beats hand off with vertical slide/push transitions where objects rise from the bottom edge. The whole piece is locked-off with no camera shake and no wiggle-3D effect, keeping every composition calm, centered and minimal. The aesthetic is a Korean fintech kinetic-typography payoff card - a confident two-line brand-blue declaration that payment escapes the grip of the past, recalling the earlier hand-held objects, the grip of the hand, now left behind. Style anchor: ultra-minimal 4K hi-key white title card, bold rounded Korean sans-serif in brand blue #018cf9, two centered lines, generous negative space, zero decoration, calm modern Korean digital advertising kinetic-typography aesthetic. Production-fidelity note for recreating this card: the letterforms are a clean modern Korean Gothic / rounded-sans family with uniform stem thickness, large open apertures and gently rounded stroke endings, anti-aliased crisply against the white with no halo, no stroke outline and no underline; in the live ad the line is built with a brief kinetic reveal in which the words rise a few pixels and fade up from light to full brand-blue saturation over a fraction of a second, then hold perfectly still while a calm male voiceover speaks the line in sync, and at the very end of the beat the whole card slides upward off the top edge to hand off to the next composition (an illustrated object or another statement card). The single colored element keeps the eye fixed on the message; the wide blank margins on all four sides reinforce the deliberate, declarative pacing. The exact Korean wording on screen is preserved verbatim as recorded in the entry copywriting and is the only text in the frame.",
+        "t2i_negative": "any illustration, hand, object, photo, gradient, colored background, grain, noise, english text, wrong korean text, single line, logos, watermark, shadows, serif font, decorative elements",
+        "i2v_motion": "As the previous terminal shot slides off the top, the two-line blue caption fades/slides up into its centered position; line one '결제,' settles first, then line two '과거의 손아귀를 벗어나다' fills in word by word (each word brightening from light blue to full brand blue), synced to a calm male voiceover. After the lines complete, hold static. Camera locked-off. In the final ~0.3s the whole frame begins sliding upward to hand off to the 3D terminal product shot. ~3.41s total, static-to-gentle rhythm, no hard cut.",
+        "i2v_params": {
+          "clip_duration_sec": 3.41,
+          "camera_move": "locked_off",
+          "subject_motion_level": "still",
+          "signature_effect": "none",
+          "pacing": "static",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful kinetic-typography card; on-screen copy '결제, 과거의 손아귀를 벗어나다' preserved verbatim; no logo"
+      }
+    },
+    {
+      "index": 13,
+      "duration": 2.02,
+      "framing": "MS",
+      "function": "tagline_reveal",
+      "subject_action": "clean 3D white face-pay terminal rotates from front to a slight three-quarter angle on its stand; its screen carries large bold blue Korean tagline '결제의' (line 1) / '새얼굴' (line 2), animating in word by word",
+      "color_mood": "clean_minimal_bright",
+      "copy_overlay": "결제의\n새얼굴",
+      "layout_grid": "center",
+      "subject_position": "center",
+      "subject_identity": "product_device",
+      "subject_relationship_to_protagonist": null,
+      "mid_frame_path": "ADV-2026-033_frames/cut13_mid.png",
+      "subject_typo_layout": "typo_over_subject",
+      "typo_motion": "단말 화면 위 '결제의'(f869경)→'결제의 / 새얼굴'(f899경) 토스 블루 2행 카피가 단어별로 차오름. 동시에 단말이 정면→¾ 회전. 보이스오버 '결제의 새얼굴' 동기.",
+      "camera_angle": "eye_level",
+      "camera_facing": "three_quarter",
+      "shot_scope": "environment",
+      "gaze": "none",
+      "eye_contact_effect": null,
+      "props": [
+        "clean white 3D face-pay terminal on a stand (rotating to 3/4 view)"
+      ],
+      "prop_semantics": "제품(얼굴결제 단말)을 ¾ 회전 렌더로 입체적으로 제시하며 태그라인을 화면에 얹어 '제품=결제의 새 얼굴' 등식 완성. '새얼굴'은 '새 얼굴(new face)'과 '새 시대'의 더블 의미 펀",
+      "color_palette": [
+        "#fdfdfd",
+        "#018cf9",
+        "#eef0f2"
+      ],
+      "color_intent": "흰 단말 위 토스 블루 태그라인 — 브랜드 컬러 카피로 제품 가치를 선언; 회전으로 입체감·세련미 강조",
+      "pose_description": "인물 없음; 클린 3D 흰 단말이 정면에서 우측으로 약 15~25도 회전하며 입체감 부여, 화면이 시청자 쪽을 향함",
+      "subject_motion": "static",
+      "prop_motion": "terminal rotates front-to-three-quarter; on-screen tagline builds word by word",
+      "camera_motion": "locked_off",
+      "camera_motion_intensity": "none",
+      "camera_effect_local": "none",
+      "motion_blur": false,
+      "intra_cut_rhythm": "steady",
+      "transition_in": "slide_up",
+      "transition_out": "cut",
+      "vfx_in_shot": [
+        "ui_motion",
+        "3d_render"
+      ],
+      "vfx_intensity_local": "moderate",
+      "fact_check_flag": null,
+      "notes": "Cut 13 (~f864-f924, 28.83-30.85s): 클린 3D 흰 단말이 정면→¾ 회전. 화면 '결제의'(f869) → '결제의 / 새얼굴'(f899~) 토스 블루 2행. f876~f924 회전·정착. 보이스오버 '결제의 새얼굴'. cta 시작 구간.",
+      "visible_elements": {
+        "foreground": [
+          "clean white 3D face-pay terminal/kiosk on a stand, rotating to a slight three-quarter angle"
+        ],
+        "midground": [
+          "on-screen bold blue Korean tagline: line 1 '결제의' / line 2 '새얼굴', building word by word"
+        ],
+        "background": [
+          "flat pure-white field"
+        ],
+        "lighting_env": [
+          "flat even ambient; terminal is clean 3D render with soft shading and faint contact shadow"
+        ],
+        "atmosphere": [
+          "clean minimal, no grain"
+        ]
+      },
+      "texture": {
+        "primary_subject": "plastic_matte",
+        "secondary_objects": [
+          "glass_clear_phone_screen"
+        ],
+        "background_surface": "flat_digital",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "45deg_above",
+        "key_hardness": "diffused",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "strong",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "soft",
+        "overall_contrast": "hi_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#fdfdfd",
+          "#018cf9",
+          "#eef0f2"
+        ],
+        "palette_role": {
+          "#fdfdfd": "background_and_terminal_white_dominant",
+          "#018cf9": "brand_blue_tagline",
+          "#eef0f2": "terminal_gray_shading"
+        },
+        "color_relationship": "monochrome_plus_accent",
+        "temperature_balance": "cool_dominant",
+        "saturation_strategy": "desaturated_with_pop",
+        "accent_color": "#018cf9",
+        "accent_ratio": "10_percent",
+        "contrast_type": "luminance_high",
+        "brand_color_match": [
+          "토스 블루 #018cf9 (태그라인)"
+        ]
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A clean minimalist product-render frame rendered at 1920x1080 pixels, 16:9 landscape orientation, on a flat pure-white background (#fdfdfd) with no gradient, texture or grain - uniform bright near-white across every pixel. Centered in the frame is a clean 3D-rendered white face-payment terminal - a compact kiosk-like device with a large vertical screen and a small angled base/stand - shown at a slight three-quarter angle, rotated roughly 15-25 degrees toward the viewer's left so its right edge and the depth of the body are visible, in glossy white with soft pale-gray 3D edge shading (#eef0f2) and a faint contact shadow on the white floor beneath it. The terminal occupies roughly the central 30-40 percent of the frame width and most of the vertical height, with generous empty white space on both sides. The screen faces the viewer enough to read clearly and is bright white. On the screen is a large bold Korean tagline in bright Toss-brand blue (#018cf9), stacked on two lines that together mean 'the new face of payment', in a heavy slightly-rounded sans-serif; during the animated build the words appear sequentially, but in this representative frame both lines are present and solid blue, filling much of the screen area. Composition: the terminal is centered and turned to a hero three-quarter angle, flanked by wide blank white margins, presented as a confident product reveal. Color palette: pure white #fdfdfd dominant for background and device (~80 percent of the frame); Toss-brand-blue tagline #018cf9 (~10 percent); pale-gray device shading #eef0f2 (~8 percent). Color relationship: monochrome white with a brand-blue text accent. Temperature: cool-dominant. Saturation: desaturated with a saturated blue text pop. Contrast: high luminance contrast between the blue tagline and the white screen and body. Texture: the terminal reads as a clean matte/glossy 3D render with a glassy screen, and the background is perfectly flat digital. Lighting: a soft diffused studio key from roughly 45 degrees above with strong fill, key-to-fill around 2 to 1, and a soft contact shadow under the rotated device; hi-key overall, no rim light. This frame belongs to a continuous white-background motion-graphic ad whose visual system mixes three layers: charming black-ink hand-drawn doodle line-art, real photographic cut-out objects, and clean 3D-rendered devices, all set on the same flat white field and tied together by bright Toss-brand-blue kinetic typography; successive beats hand off with vertical slide/push transitions where objects rise from the bottom edge. The whole piece is locked-off with no camera shake and no wiggle-3D effect, keeping every composition calm, centered and minimal. The aesthetic is the Korean fintech tagline-reveal beat - a clean white face-payment terminal turning to a three-quarter hero angle while its screen declares the product the new face of payment, a pun reading as both new face and new era. Style anchor: clean 4K hi-key white-background product render, white 3D face-pay terminal at a three-quarter hero angle on a stand, on-screen bold brand-blue Korean new-face-of-payment tagline, soft contact shadow, generous minimal negative-space composition, calm modern Korean digital advertising aesthetic. Production-fidelity note for recreating this device frame: the white phone/terminal is a smooth matte-and-glossy 3D render with softly rounded corners, a thin bright screen bezel, a subtle ambient-occlusion contact shadow grounding it on the white, and gentle specular roll-off along its edges that separates the white body from the white background without any hard outline; the on-screen UI elements (icon, checkmark, label and any wallet card) sit on a clean white app canvas with comfortable padding and crisp anti-aliased edges, and the brand-blue accents are the only saturated color. In the live ad the device stays locked-off and perfectly still while only the on-screen UI animates with small scale-and-fade pops, keeping the beat calm and product-focused; the generous white margins on the left and right isolate the hardware as a clean hero object. Any Korean UI label is preserved verbatim as recorded in the entry copywriting.",
+        "t2i_negative": "photoreal hand, people, realistic skin, colored background, gradient background, grain, coins, banknote, physical card, real brand logos, wrong korean text, english body text, watermark, harsh shadows, low-key, cluttered scene",
+        "i2v_motion": "As the previous text card slides off the top, the clean white face-pay terminal rises/settles and rotates smoothly from a flat front view to a slight three-quarter hero angle. On its screen the blue tagline builds word by word: '결제의' appears first, then '새얼굴' drops onto the second line, both settling to solid brand blue, synced to a calm male voiceover saying 'the new face of payment'. A soft contact shadow tracks the rotation. Camera locked-off (the motion is the object's own rotation). Ends on a clean cut to the Face Pay logo lockup. ~2.02s total, steady rhythm.",
+        "i2v_params": {
+          "clip_duration_sec": 2.02,
+          "camera_move": "locked_off",
+          "subject_motion_level": "still",
+          "signature_effect": "none",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful product render; terminal is a generic white face-pay device type; on-screen tagline '결제의 새얼굴' preserved verbatim; no real brand logo mark"
+      }
+    },
+    {
+      "index": 14,
+      "duration": 2.15,
+      "framing": "MS",
+      "function": "brand_logo",
+      "subject_action": "Face Pay brand logo lockup on white: a blue outline smiley-face icon (circle with two dot eyes and a smile) on the left and the word 'Pay' in blue sans-serif on the right, centered",
+      "color_mood": "clean_minimal_bright",
+      "copy_overlay": "Pay",
+      "layout_grid": "center",
+      "subject_position": "center",
+      "subject_identity": "brand_logo",
+      "subject_relationship_to_protagonist": null,
+      "mid_frame_path": "ADV-2026-033_frames/cut14_mid.png",
+      "subject_typo_layout": "typo_only_no_person",
+      "typo_motion": "스마일 얼굴 아이콘 + 'Pay' 워드마크가 중앙에 정적 배치(짧은 등장 후 유지). 큰 모션 없음.",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "environment",
+      "gaze": "none",
+      "eye_contact_effect": null,
+      "props": [
+        "Face Pay smiley face icon (blue circle outline + dot eyes + smile)",
+        "'Pay' wordmark (blue)"
+      ],
+      "prop_semantics": "페이스페이 브랜드 심볼(스마일 얼굴=얼굴 결제) + 'Pay' 워드마크로 제품 브랜드 각인",
+      "color_palette": [
+        "#fdfdfd",
+        "#018cf9",
+        "#2098fb"
+      ],
+      "color_intent": "흰 배경 위 토스 블루 로고 락업 — 브랜드 컬러 단독 구성으로 제품 아이덴티티 각인",
+      "pose_description": "인물 없음; 스마일 얼굴 아이콘과 'Pay' 워드마크가 좌우로 나란히 중앙 배치된 로고 락업",
+      "subject_motion": "static",
+      "prop_motion": "logo settles in, minimal",
+      "camera_motion": "locked_off",
+      "camera_motion_intensity": "none",
+      "camera_effect_local": "none",
+      "motion_blur": false,
+      "intra_cut_rhythm": "static",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [
+        "ui_motion"
+      ],
+      "vfx_intensity_local": "subtle",
+      "fact_check_flag": null,
+      "notes": "Cut 14 (~f925-f989, 30.85-33.00s): 흰 배경 페이스페이 로고 락업 — 좌 블루 스마일 얼굴 아이콘(원 윤곽+점 눈+미소), 우 'Pay' 워드마크(블루). f926~f989 정적. 보이스오버 '페이스페이'(f960경부터). cta.",
+      "visible_elements": {
+        "foreground": [
+          "blue outline smiley-face icon (thin rounded blue circle with two dot eyes and an upward smile)",
+          "blue 'Pay' wordmark in bold sans-serif to the right of the icon"
+        ],
+        "midground": [],
+        "background": [
+          "flat pure-white field"
+        ],
+        "lighting_env": [
+          "flat even ambient, no directional light"
+        ],
+        "atmosphere": [
+          "clean minimal, no grain"
+        ]
+      },
+      "texture": {
+        "primary_subject": "flat_2d_vector",
+        "secondary_objects": [],
+        "background_surface": "flat_digital",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "front",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "strong",
+        "key_to_fill_ratio": "1:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "none",
+        "overall_contrast": "hi_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#fdfdfd",
+          "#018cf9",
+          "#2098fb"
+        ],
+        "palette_role": {
+          "#fdfdfd": "background_white_dominant",
+          "#018cf9": "brand_blue_icon",
+          "#2098fb": "brand_blue_wordmark"
+        },
+        "color_relationship": "monochrome_plus_accent",
+        "temperature_balance": "cool_dominant",
+        "saturation_strategy": "desaturated_with_pop",
+        "accent_color": "#018cf9",
+        "accent_ratio": "5_percent",
+        "contrast_type": "luminance_high",
+        "brand_color_match": [
+          "토스/페이스페이 블루 #018cf9~#2098fb"
+        ]
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A minimalist brand-logo lockup frame rendered at 1920x1080 pixels, 16:9 landscape orientation, on a flat pure-white background (#fdfdfd) - no gradient, no texture, no grain, perfectly uniform bright near-white across every pixel. Centered horizontally and vertically is a two-part logo lockup in bright blue, sitting in the middle of the frame. On the LEFT is a friendly smiley-face icon: a thin rounded blue (#018cf9) circle outline enclosing two small solid blue dot eyes and an upward-curving blue smile line - a minimal, approachable face mark. Immediately to the RIGHT of the icon, baseline-aligned with it, is the word 'Pay' rendered in a bold humanist sans-serif in blue (#2098fb), with a capital P and lowercase a and y. The icon and the wordmark together form a compact horizontal lockup occupying roughly the central 22-30 percent of the frame width and a small band of its height, with very generous empty white negative space on all sides; the lockup is small and centered, surrounded by clean white. There is no other element, no Korean text, no terminal, no illustration and no decorative rule. The lockup is presented as a clean flat brand card, the bright minimal closing style of the whole ad. Color palette: pure white #fdfdfd dominates approximately 94 percent of the total frame area; the blue icon and wordmark #018cf9 to #2098fb occupy roughly 6 percent. Color relationship: monochrome white with a single brand-blue accent. Temperature: cool-dominant. Saturation: a desaturated white field with a saturated blue mark. Contrast: high luminance contrast between the blue lockup and the white field. Texture: a clean flat digital vector logo with crisp anti-aliased edges and no bevel, drop shadow or glow; perfectly flat background. Lighting: flat even ambient, no directional key light, no cast shadow, hi-key. This frame belongs to a continuous white-background motion-graphic ad whose visual system mixes three layers: charming black-ink hand-drawn doodle line-art, real photographic cut-out objects, and clean 3D-rendered devices, all set on the same flat white field and tied together by bright Toss-brand-blue kinetic typography; successive beats hand off with vertical slide/push transitions where objects rise from the bottom edge. The whole piece is locked-off with no camera shake and no wiggle-3D effect, keeping every composition calm, centered and minimal. The aesthetic is a Korean fintech brand-logo card - a small, friendly blue smiley-face plus 'Pay' lockup on clean white, the product wordmark for a face-payment service. Style anchor: ultra-minimal 4K hi-key white-background logo card, friendly blue smiley-face icon plus blue 'Pay' wordmark, centered compact lockup, generous negative space, zero decoration, calm modern Korean digital advertising brand-reveal aesthetic. Note: the smiley-face mark is reproduced as a generic friendly-face logo type, brand mark abstracted, product name text preserved. Production-fidelity note for recreating this brand card: the mark and lettering are clean flat (or softly glossy) vector art with crisp anti-aliased edges, perfectly centered with equal optical margins, and the bright blue is the only saturated hue against the white; in the live ad the lockup settles in with a small fade and then holds essentially static while a calm male voiceover names the brand. The very wide blank white space on every side keeps the lockup small, confident and uncluttered, matching the minimal house style of the whole spot. The brand symbol is abstracted to a generic friendly-mark type while the product or brand name text is preserved verbatim, and there is no other element, no Korean body copy and no decorative rule anywhere in the frame.",
+        "t2i_negative": "photoreal, people, hands, terminal, gradient, colored background, grain, noise, korean text, multiple logos, watermark, shadows, decorative elements, complex illustration",
+        "i2v_motion": "Cut in on white; the Face Pay smiley-face icon and the 'Pay' wordmark settle into the centered lockup with a small fade/scale (the icon's smile and eyes draw on quickly), then hold static. Camera locked-off, no move. A calm male voiceover says the product name. Ends on a clean cut to the full 'FacePay' wordmark. ~2.15s total, static rhythm.",
+        "i2v_params": {
+          "clip_duration_sec": 2.15,
+          "camera_move": "locked_off",
+          "subject_motion_level": "still",
+          "signature_effect": "none",
+          "pacing": "static",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful brand card; the smiley-face icon and 'Pay' wordmark are reproduced as a generic friendly-face logo type / wordmark (brand mark abstracted, product name text preserved); no other logo"
+      }
+    },
+    {
+      "index": 15,
+      "duration": 0.6,
+      "framing": "MS",
+      "function": "brand_logo",
+      "subject_action": "'FacePay' wordmark in two-tone blue sans-serif, centered on white (brief beat)",
+      "color_mood": "clean_minimal_bright",
+      "copy_overlay": "FacePay",
+      "layout_grid": "center",
+      "subject_position": "center",
+      "subject_identity": "brand_logo",
+      "subject_relationship_to_protagonist": null,
+      "mid_frame_path": "ADV-2026-033_frames/cut15_mid.png",
+      "subject_typo_layout": "typo_only_no_person",
+      "typo_motion": "'FacePay' 워드마크가 중앙에 짧게 등장·유지(0.6s 비트). 큰 모션 없음.",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "environment",
+      "gaze": "none",
+      "eye_contact_effect": null,
+      "props": [
+        "'FacePay' wordmark (two-tone blue)"
+      ],
+      "prop_semantics": "제품 풀 워드마크 'FacePay'로 브랜드명 확정 각인",
+      "color_palette": [
+        "#fdfdfd",
+        "#018cf9",
+        "#7fbcf9"
+      ],
+      "color_intent": "흰 배경 위 'Face'(연블루)+'Pay'(진블루) 투톤 워드마크 — 브랜드 컬러로 제품명 각인",
+      "pose_description": "인물 없음; 'FacePay' 워드마크가 중앙 단독 배치된 짧은 브랜드 비트",
+      "subject_motion": "static",
+      "prop_motion": "wordmark holds",
+      "camera_motion": "locked_off",
+      "camera_motion_intensity": "none",
+      "camera_effect_local": "none",
+      "motion_blur": false,
+      "intra_cut_rhythm": "static",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [],
+      "vfx_intensity_local": "none",
+      "fact_check_flag": null,
+      "notes": "Cut 15 (~f990-f1007, 33.00-33.60s): 흰 배경 'FacePay' 투톤 블루 워드마크('Face'=연블루, 'Pay'=진블루), 중앙. 짧은 0.6s 비트. 보이스오버 잔향.",
+      "visible_elements": {
+        "foreground": [
+          "'FacePay' wordmark, two-tone blue bold sans-serif, centered"
+        ],
+        "midground": [],
+        "background": [
+          "flat pure-white field"
+        ],
+        "lighting_env": [
+          "flat even ambient, no directional light"
+        ],
+        "atmosphere": [
+          "clean minimal, no grain"
+        ]
+      },
+      "texture": {
+        "primary_subject": "flat_2d_vector",
+        "secondary_objects": [],
+        "background_surface": "flat_digital",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "front",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "strong",
+        "key_to_fill_ratio": "1:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "none",
+        "overall_contrast": "hi_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#fdfdfd",
+          "#018cf9",
+          "#7fbcf9"
+        ],
+        "palette_role": {
+          "#fdfdfd": "background_white_dominant",
+          "#018cf9": "wordmark_pay_deep_blue",
+          "#7fbcf9": "wordmark_face_light_blue"
+        },
+        "color_relationship": "monochrome_plus_accent",
+        "temperature_balance": "cool_dominant",
+        "saturation_strategy": "desaturated_with_pop",
+        "accent_color": "#018cf9",
+        "accent_ratio": "5_percent",
+        "contrast_type": "luminance_high",
+        "brand_color_match": [
+          "페이스페이 투톤 블루 #7fbcf9 / #018cf9"
+        ]
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A minimalist brand-wordmark frame rendered at 1920x1080 pixels, 16:9 landscape orientation, on a flat pure-white background (#fdfdfd) - no gradient, no texture, no grain, perfectly uniform bright near-white across every pixel. The only element is the single Latin wordmark 'FacePay' set as one continuous unspaced word, horizontally and vertically centered in the frame. It is rendered in a bold humanist sans-serif and uses a two-tone blue treatment: the 'Face' portion in a lighter sky blue (#7fbcf9) and the 'Pay' portion in a deeper Toss blue (#018cf9), with a capital F and capital P and the rest lowercase, the two portions flowing together as one seamless typographic unit on a shared baseline with consistent x-height. The wordmark occupies roughly the central 24-32 percent of the frame width and a small band of height, surrounded by very generous empty white negative space on all sides. There is no icon, no Korean text, no other element and no decorative rule - just the clean two-tone-blue product name on white, a brief brand beat before the parent-company logo. Color palette: pure white #fdfdfd dominates approximately 93 percent of the total frame area; the two blue tones #7fbcf9 and #018cf9 occupy roughly 7 percent. Color relationship: monochrome white with a two-tone blue accent. Temperature: cool-dominant. Saturation: a desaturated white field with a saturated blue wordmark. Contrast: high luminance contrast between the blue wordmark and the white field. Texture: clean flat digital vector type with crisp anti-aliased edges and no bevel, drop shadow or glow; perfectly flat background. Lighting: flat even ambient, no directional key light, no cast shadow, hi-key. This frame belongs to a continuous white-background motion-graphic ad whose visual system mixes three layers: charming black-ink hand-drawn doodle line-art, real photographic cut-out objects, and clean 3D-rendered devices, all set on the same flat white field and tied together by bright Toss-brand-blue kinetic typography; successive beats hand off with vertical slide/push transitions where objects rise from the bottom edge. The whole piece is locked-off with no camera shake and no wiggle-3D effect, keeping every composition calm, centered and minimal. The aesthetic is a Korean fintech brand-wordmark card - a clean two-tone-blue 'FacePay' product name on white, the bright minimal house style carried into the brand close. Style anchor: ultra-minimal 4K hi-key white-background wordmark card, two-tone blue humanist sans-serif 'FacePay', centered, generous negative space, zero decoration, calm modern Korean digital advertising brand-reveal aesthetic. Note: the wordmark is reproduced as a generic two-tone wordmark, product name text preserved. Production-fidelity note for recreating this brand card: the mark and lettering are clean flat (or softly glossy) vector art with crisp anti-aliased edges, perfectly centered with equal optical margins, and the bright blue is the only saturated hue against the white; in the live ad the lockup settles in with a small fade and then holds essentially static while a calm male voiceover names the brand. The very wide blank white space on every side keeps the lockup small, confident and uncluttered, matching the minimal house style of the whole spot. The brand symbol is abstracted to a generic friendly-mark type while the product or brand name text is preserved verbatim, and there is no other element, no Korean body copy and no decorative rule anywhere in the frame.",
+        "t2i_negative": "photoreal, people, hands, terminal, icon, gradient, colored background, grain, noise, korean text, multiple words, watermark, shadows, decorative elements, serif font",
+        "i2v_motion": "Cut in on white; the two-tone blue 'FacePay' wordmark is centered and essentially static for this brief beat (a faint settle on entry, no large motion). Camera locked-off. ~0.6s total, static rhythm; ends on a clean cut to the Toss corporate logo.",
+        "i2v_params": {
+          "clip_duration_sec": 0.6,
+          "camera_move": "locked_off",
+          "subject_motion_level": "still",
+          "signature_effect": "none",
+          "pacing": "static",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful brand card; 'FacePay' reproduced as a generic two-tone wordmark (product name text preserved); no other logo mark"
+      }
+    },
+    {
+      "index": 16,
+      "duration": 2.53,
+      "framing": "MS",
+      "function": "brand_cta",
+      "subject_action": "Toss corporate logo on white: the blue gradient split-droplet/leaf symbol on the left and the lowercase 'toss' wordmark in dark charcoal on the right, centered; held to the end",
+      "color_mood": "clean_minimal_bright",
+      "copy_overlay": "toss",
+      "layout_grid": "center",
+      "subject_position": "center",
+      "subject_identity": "brand_logo",
+      "subject_relationship_to_protagonist": null,
+      "mid_frame_path": "ADV-2026-033_frames/cut16_mid.png",
+      "subject_typo_layout": "typo_only_no_person",
+      "typo_motion": "토스 로고(블루 그라데이션 심볼 + 'toss' 워드마크)가 중앙에 정적 배치, 컷 전체 유지(엔드카드). 큰 모션 없음.",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "environment",
+      "gaze": "none",
+      "eye_contact_effect": null,
+      "props": [
+        "Toss corporate symbol (blue gradient split-droplet/leaf mark)",
+        "'toss' lowercase wordmark (dark charcoal)"
+      ],
+      "prop_semantics": "토스 기업 로고로 신뢰감 있게 마무리; 제품(FacePay)이 토스의 서비스임을 각인하는 브랜드 엔드카드",
+      "color_palette": [
+        "#fdfdfd",
+        "#2e6cf3",
+        "#1f232e"
+      ],
+      "color_intent": "흰 배경 위 토스 블루 그라데이션 심볼 + 다크 차콜 워드마크 — 정제된 기업 브랜드 마무리, 신뢰감",
+      "pose_description": "인물 없음; 토스 심볼과 워드마크가 좌우로 나란히 중앙 배치된 엔드카드 로고 락업",
+      "subject_motion": "static",
+      "prop_motion": "none",
+      "camera_motion": "locked_off",
+      "camera_motion_intensity": "none",
+      "camera_effect_local": "none",
+      "motion_blur": false,
+      "intra_cut_rhythm": "static",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [],
+      "vfx_intensity_local": "none",
+      "fact_check_flag": null,
+      "notes": "Cut 16 (~f1008-f1080, 33.60-36.13s): 흰 배경 토스 기업 로고 — 좌 블루 그라데이션 split-droplet 심볼, 우 'toss' 워드마크(다크 차콜 #1f232e). f1008~f1080 정적(엔드카드, 끝까지 유지). 보이스오버 '토스'(f1026경).",
+      "visible_elements": {
+        "foreground": [
+          "Toss blue-gradient split-droplet/leaf symbol on the left",
+          "'toss' lowercase wordmark in dark charcoal (#1f232e) to the right"
+        ],
+        "midground": [],
+        "background": [
+          "flat pure-white field"
+        ],
+        "lighting_env": [
+          "flat even ambient, no directional light"
+        ],
+        "atmosphere": [
+          "clean minimal, no grain"
+        ]
+      },
+      "texture": {
+        "primary_subject": "flat_2d_vector",
+        "secondary_objects": [],
+        "background_surface": "flat_digital",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "front",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "strong",
+        "key_to_fill_ratio": "1:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "none",
+        "overall_contrast": "hi_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#fdfdfd",
+          "#2e6cf3",
+          "#1f232e"
+        ],
+        "palette_role": {
+          "#fdfdfd": "background_white_dominant",
+          "#2e6cf3": "toss_blue_gradient_symbol",
+          "#1f232e": "toss_wordmark_dark_charcoal"
+        },
+        "color_relationship": "brand_dominant",
+        "temperature_balance": "cool_dominant",
+        "saturation_strategy": "desaturated_with_pop",
+        "accent_color": "#2e6cf3",
+        "accent_ratio": "5_percent",
+        "contrast_type": "luminance_high",
+        "brand_color_match": [
+          "토스 블루 그라데이션 ~#2e6cf3(브랜드 블루 #0064ff 계열), 워드마크 차콜 #1f232e"
+        ]
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A minimalist corporate brand end-card rendered at 1920x1080 pixels, 16:9 landscape orientation, on a flat pure-white background (#fdfdfd) - no gradient, no texture, no grain, perfectly uniform bright near-white across every pixel. Centered horizontally and vertically is a two-part corporate logo lockup. On the LEFT is an abstract brand symbol: a smooth, glossy blue 3D-style mark made of two overlapping rounded droplet/leaf or comma shapes that fit together into a single rounded form, rendered with a rich blue gradient, mid-tone around #2e6cf3, deepening to a darker blue on one side and lightening to a brighter blue on the other, with a soft glossy highlight giving it gentle dimensionality. Immediately to the RIGHT of the symbol, baseline-aligned, is the lowercase wordmark 'toss' set in a clean rounded geometric sans-serif in dark near-black charcoal (#1f232e), the four letters flowing as one even unit with consistent x-height. The symbol and wordmark together form a compact horizontal lockup occupying roughly the central 26-34 percent of the frame width and a modest band of height, surrounded by very generous empty white negative space on all sides; the lockup sits small and centered in a clean white field. There is no other element, no Korean text, no product UI and no decorative rule. Color palette: pure white #fdfdfd dominates approximately 92 percent of the total frame area; the blue gradient symbol #2e6cf3 occupies roughly 4 percent and the dark charcoal wordmark #1f232e roughly 4 percent. Color relationship: brand-dominant, a single blue gradient symbol plus a dark wordmark on white. Temperature: cool-dominant. Saturation: a desaturated white field with a saturated blue symbol and a near-neutral dark wordmark. Contrast: high luminance contrast between the dark wordmark, the blue symbol and the white field. Texture: the wordmark is a clean flat vector with crisp edges; the symbol is a smooth glossy gradient mark with a soft highlight; the background is perfectly flat digital. Lighting: flat even ambient with a soft sheen on the symbol only; no cast shadow; hi-key. This frame belongs to a continuous white-background motion-graphic ad whose visual system mixes three layers: charming black-ink hand-drawn doodle line-art, real photographic cut-out objects, and clean 3D-rendered devices, all set on the same flat white field and tied together by bright Toss-brand-blue kinetic typography; successive beats hand off with vertical slide/push transitions where objects rise from the bottom edge. The whole piece is locked-off with no camera shake and no wiggle-3D effect, keeping every composition calm, centered and minimal. The aesthetic is a Korean fintech corporate end-card - the parent company's friendly blue gradient symbol and lowercase 'toss' wordmark on clean white, a calm, trustworthy closer that bookends the bright minimal style of the whole advertisement. Style anchor: ultra-minimal 4K hi-key white-background corporate logo end-card, glossy blue gradient split-droplet symbol plus lowercase dark-charcoal 'toss' wordmark, centered compact lockup, generous negative space, zero decoration, calm modern Korean digital advertising brand-close aesthetic. Note: the Toss symbol is reproduced as a generic blue gradient droplet-type mark and the wordmark as a generic lowercase wordmark, brand mark abstracted, brand name text preserved.",
+        "t2i_negative": "photoreal, people, hands, terminal, korean text, gradient background, grain, noise, multiple logos, watermark, shadows, decorative elements, serif font, wrong wordmark",
+        "i2v_motion": "Cut in on white; the Toss blue gradient symbol and lowercase 'toss' wordmark are centered and held essentially static for the full end-card (a faint settle/sheen shimmer on the symbol only). Camera locked-off, no move. A calm male voiceover says the brand name. Holds to the end of the film (no transition out). ~2.53s total, static rhythm.",
+        "i2v_params": {
+          "clip_duration_sec": 2.53,
+          "camera_move": "locked_off",
+          "subject_motion_level": "still",
+          "signature_effect": "none",
+          "pacing": "static",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful corporate end-card; Toss symbol reproduced as a generic blue gradient droplet-type mark and 'toss' as a generic lowercase wordmark (brand mark abstracted, brand name text preserved); no other logo"
+      }
+    }
+  ],
+  "search_keywords": {
+    "industry": [
+      "finance"
+    ],
+    "product_category": [
+      "biometric_payment",
+      "payment",
+      "mobile_banking"
+    ],
+    "target_demo": [
+      "20s",
+      "30s",
+      "mz",
+      "active_consumers"
+    ],
+    "media_format": [
+      "digital_30s",
+      "shortform_landscape_30s",
+      "product_hero_film"
+    ],
+    "tone": [
+      "witty",
+      "clean_minimal",
+      "confident"
+    ],
+    "pacing": [
+      "slow_build",
+      "ramp_up"
+    ],
+    "technique": [
+      "kinetic_typo",
+      "transformation",
+      "anaphora_copy",
+      "product_solo_hero",
+      "dissolve_montage"
+    ],
+    "vfx_keywords": [
+      "ui_motion",
+      "morph",
+      "3d_render"
+    ],
+    "copy_strategy_keywords": [
+      "double_wordplay",
+      "building_climax",
+      "voice_caption_sync",
+      "redefinition"
+    ],
+    "concept_derivation_pattern": [
+      "everyday_problem_metaphor_product_release",
+      "three_part_time_flow"
+    ]
+  },
+  "inferred_creative_thinking": {
+    "insight": "결제수단은 돌·동전·지폐·카드·폰으로 계속 '진화'해 온 듯 보이지만 본질은 매번 '무언가를 손에 쥐고 내미는' 행위의 반복일 뿐 — 진짜 혁신은 '손에 쥘 것이 사라지는' 것이다",
+    "persona": "20~30대, 간편결제·생체인증에 익숙하고 새 결제 경험에 거부감이 적은 모바일 네이티브 소비자",
+    "moment": "지갑·폰을 꺼내 카드/앱을 여는 매 결제 순간의 미세한 번거로움 — '또 뭔가를 꺼내 내밀어야 한다'는 무의식적 마찰",
+    "product_role": "얼굴 그 자체를 결제수단으로 만들어 '손에 쥐고 내미는 행위'를 제거하는 얼굴 인식 결제(페이스페이)",
+    "punchline": "얼굴로 결제할게요 / 결제의 새얼굴",
+    "differentiator": "카드·폰조차 필요 없이 등록된 얼굴만으로 결제 — 들고 다닐 매개물이 0이 되는 생체인증 결제",
+    "brand_fit_one_liner": "결제의 마찰을 끝까지 줄여 온 토스가 도달한 '내밀 것이 없는 결제'",
+    "confidence": "inferred"
+  },
+  "inferred_brief": "결제 수단의 진화사를 위트 있게 되짚어, 토스 페이스페이가 '손에 쥐고 내미는 결제'를 끝내고 얼굴만으로 결제하는 새 시대를 연다는 것을 미니멀한 손그림+모션그래픽으로 알린다.",
+  "cross_pollination_tags": {
+    "adjacent": [
+      "it_saas",
+      "telecom",
+      "insurance"
+    ],
+    "distant": [
+      "retail",
+      "travel_tourism",
+      "healthcare_pharma"
+    ],
+    "contrast": [
+      "luxury",
+      "automotive",
+      "beverage_alcohol"
+    ]
+  },
+  "concept_derivation_pattern": "everyday_problem_metaphor_product_release",
+  "confidence": "inferred",
+  "analyst_notes": "1. faster_whisper(base) 전사 성공(speech_coverage 0.597). text_raw를 화면 캡션과 대조해 보정: '1위의 결제방식은'→'인류의 결제 방식은', '뭐 할 내는냐'→'무얼 내느냐', '지나는 무슨'→'진화는 무슨', '결제 과거의 소나기를 더선하다'→'결제, 과거의 손아귀를 벗어나다', '결제의 새 얼굴'→'결제의 새얼굴'. 보이스오버≈화면 캡션(voice_and_caption_synced). 2. 전 구간 흰 배경 모션그래픽 — 하드컷 거의 없음(metrics hist_corr 전 구간 ~1.0, ContentDetector 임계 12~27/Adaptive 모두 0~2개 검출). 컷 분할은 '오브제/인물/텍스트 카드 등 distinct 컴포지션'을 단위로 16컷으로 수동 확정; 컷 사이 전환은 대부분 수직 슬라이드/푸시(오브제가 하단에서 솟아 교체)와 카메라 push-through(인물→폰 스캔). shot_count_corrected=16. 3. 결제수단 오브제(돌화폐·엽전·천원권·신용카드)는 실사 포토 컷아웃, 손/인물은 거친 펜선 손그림, 폰/단말은 클린 3D 렌더, 캡션은 토스 블루 키네틱 타이포의 혼합매체. 4. 와우 컷=cut9(얼굴 펀치라인 공개)·cut10(다양한 얼굴 FaceID식 스캔 몽타주). 5. 카드면 'JEONGHYO LEE'·'Credit Card'는 소품 인쇄 텍스트(가상 카드)라 그대로 기록. 6. 순수 wiggle_3d 효과 부재, locked_off. 7. 제작연도 미상 — 토스 페이스페이 서비스 런칭기(2024 추정)로 표기.",
+  "verification": {
+    "frames_reviewed": "approx 55/1081 native-res frames read in time order (all 16 cut composition holds + slide/push transition boundaries f6.4-6.55, f15.3-15.6, f20.2-22.4 montage, f23.3-23.6, f28.2-28.6 + caption-change/diff/text_delta spike frames + brand end-cards) + 100% per-frame metrics coverage (1081 frames)",
+    "audio_analyzed": true,
+    "hitrate_na": true,
+    "abstraction_checked": true
+  }
+}

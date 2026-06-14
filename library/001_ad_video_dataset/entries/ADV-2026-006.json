@@ -1,0 +1,566 @@
+{
+  "id": "ADV-2026-006",
+  "source_ref": {
+    "platform": "YouTube / broadcast",
+    "title_or_campaign": "토스 송금 자동인식 편",
+    "brand": "Toss (토스)",
+    "product": "토스 송금 기능 (계좌번호·금액 자동인식)",
+    "model": null,
+    "year": 2018,
+    "production_note": "2D flat illustration animation, monochrome cobalt-blue palette, halftone texture, Korean fintech anti-fraud / ease-of-use narrative",
+    "url": null
+  },
+  "category_primary": "finance.fintech",
+  "category_tags": [
+    "fintech",
+    "mobile_payment",
+    "money_transfer",
+    "anti_fraud",
+    "app_feature_demo"
+  ],
+  "mood": [
+    "reassuring",
+    "playful",
+    "empowering",
+    "witty"
+  ],
+  "target_demo": "20s–40s Korean smartphone users, frequent mobile remittance users, fraud-aware consumers",
+  "total_duration": 15.07,
+  "shot_count": 3,
+  "shot_count_corrected": 3,
+  "fps": 29.97,
+  "aspect_ratio": "16:9",
+  "hook_position": 0.0,
+  "cta_position": 12.45,
+  "narrative_arc": "problem → solution → tagline/branding",
+  "narrative_structure": "linear_continuous",
+  "pacing_curve": "steady",
+  "music_tempo_curve": "steady",
+  "wow_cut_index": 1,
+  "creative_device": [
+    "problem_scenario_hook",
+    "ui_demo",
+    "match_cut_tone",
+    "character_callback",
+    "tagline_reveal"
+  ],
+  "production_signature": {
+    "capture_style": "2D_animation",
+    "camera_signature": [
+      "locked_off",
+      "slow_zoom_in"
+    ],
+    "signature_note": "Flat illustration with bold cobalt-blue outlines on white; halftone dot texture on figures; animated walk cycle; speech bubble and UI element pop-in; character expression morphs within shot",
+    "color_grade": "monochrome_blue_on_white",
+    "texture_fx": "halftone_dots"
+  },
+  "global_layout": {
+    "grid_system": "asymmetric_right_anchor / center_anchor (outro)",
+    "subject_placement_dominant": "right_of_center (cuts 1–2) / left_of_center (cut 3)",
+    "subject_typo_relation": "text_left_subject_right (cuts 1–2); text_above_subject_below (cut 3)",
+    "negative_space_use": "heavy — large white background balances dense blue illustration",
+    "layout_note": "Generous negative space emphasizes fintech clarity brand value; bold sans-serif Korean typography contrasts with playful illustration style"
+  },
+  "recurring_motifs": [
+    "phone_screen_as_window",
+    "illustrated_hands",
+    "speech_bubble",
+    "checkmark_success",
+    "halftone_texture"
+  ],
+  "copywriting": {
+    "tagline_text": "송금, 또 한 번 쉬워졌다",
+    "tagline_structure": "noun_comma_verb_completed — short declarative, implies progression ('once again')",
+    "cta_text": "구글플레이, 앱스토어에서 Toss를 다운받으세요",
+    "copy_tone": [
+      "conversational",
+      "confident",
+      "empowering",
+      "concise"
+    ],
+    "copy_strategy": "problem_agitation_solution — phishing SMS hook activates anxiety, app feature resolves it, tagline delivers payoff",
+    "lines": [
+      "내가 돈 보내는데, 남의 계좌까지 왜 확인해야 하니?",
+      "문자를 복사하면 계좌·금액 자동인식!",
+      "보내면 끝!",
+      "송금, 또 한 번 쉬워졌다!",
+      "금융이 쉬워진다"
+    ],
+    "captions": [
+      "장미칼 3종세트 주문하셨죠? OO은행 1011-0101-1111011 으로 39,900원 입금해주세요. 오후 4:32",
+      "복사",
+      "보낼 금액: 39,900 / 받는 분: 홍세훈 OO은행 0101101011111011 / 받는 분 통장 표시: 임상현 3/7 / 보내기",
+      "송금, 또 한 번 쉬워졌다",
+      "금융이 쉬워진다",
+      "구글플레이, 앱스토어에서 Toss를 다운받으세요"
+    ],
+    "narration_handling": "voice_over_primary — male narrator matches character on screen; corrected whisper against captions"
+  },
+  "typography": {
+    "primary_font_class": "rounded_sans_serif_korean",
+    "animation_style": [
+      "fade_in",
+      "wipe_reveal_left_to_right"
+    ],
+    "subtitle_position_dominant": "upper_left",
+    "color_strategy": "cobalt_blue_on_white / white_on_cobalt_blue (phone screen)",
+    "typo_motion_dominant": "sequential_word_reveal"
+  },
+  "vfx": {
+    "primary_effects": [
+      "speech_bubble_pop_in",
+      "ui_element_slide_in",
+      "character_expression_morph",
+      "walk_cycle_animation",
+      "checkmark_draw_on",
+      "logo_fade_in"
+    ],
+    "effect_intensity": "medium",
+    "transition_style_dominant": "hard_cut",
+    "vfx_event_count": 8
+  },
+  "audio": {
+    "has_audio": true,
+    "language": "ko",
+    "speech_coverage": 0.946,
+    "bgm_likely": null,
+    "narration_lines": [
+      {
+        "start": 0.59,
+        "end": 4.35,
+        "text": "내가 돈 보내는데, 남의 계좌까지 왜 확인해야 하니?",
+        "source": "whisper_corrected"
+      },
+      {
+        "start": 4.35,
+        "end": 7.89,
+        "text": "문자를 복사하면 계좌·금액 자동인식!",
+        "source": "whisper_corrected"
+      },
+      {
+        "start": 7.89,
+        "end": 9.79,
+        "text": "보내면 끝!",
+        "source": "whisper_corrected"
+      },
+      {
+        "start": 9.79,
+        "end": 12.45,
+        "text": "송금, 또 한 번 쉬워졌다!",
+        "source": "whisper_corrected"
+      },
+      {
+        "start": 12.45,
+        "end": 14.85,
+        "text": "금융이 쉬워진다",
+        "source": "whisper_corrected"
+      }
+    ],
+    "voice_vs_caption": "voice_matches_caption",
+    "transcribed_by": "faster_whisper",
+    "audio_note": "Male VO; whisper raw corrected against on-screen captions; no BGM detected by tool (speech_coverage 94.6%)"
+  },
+  "frames_dir": "ADV-2026-006_frames",
+  "contact_sheet_path": "ADV-2026-006_frames/contact_sheet.png",
+  "shots": [
+    {
+      "index": 1,
+      "duration": 3.937,
+      "framing": "medium_close_up",
+      "function": "hook",
+      "subject_action": "illustrated male character holds phone upward while reading suspicious SMS, expression shifts from confused to alarmed as phishing message speech bubble appears",
+      "layout_grid": "subject_right_60pct_white_left_40pct",
+      "subject_position": "center_right",
+      "typo_motion": "speech_bubble_pop_in_from_left",
+      "camera_angle": "eye_level",
+      "camera_facing": "3/4_front",
+      "shot_scope": "medium_close_up",
+      "gaze": "downward_at_phone",
+      "props": [
+        "smartphone_outline",
+        "speech_bubble_with_text"
+      ],
+      "color_palette": [
+        "#FFFFFF",
+        "#4A6FA5",
+        "#3D5A8A"
+      ],
+      "color_intent": "cobalt_blue_establishes_brand_trust_while_white_negative_space_conveys_clarity",
+      "pose_description": "upper body visible, arm raised holding phone at chest level, head tilted slightly downward, shoulders slightly hunched suggesting uncertainty",
+      "subject_motion": "character_expression_morph_from_neutral_to_worried",
+      "camera_motion": "locked_off_with_subtle_push_in",
+      "camera_effect_local": "none",
+      "intra_cut_rhythm": "slow_build",
+      "transition_in": "hard_cut_from_black",
+      "transition_out": "hard_cut",
+      "mid_frame_path": "ADV-2026-006_frames/cut01_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "illustrated_male_figure_torso_up",
+          "raised_hand_holding_phone"
+        ],
+        "midground": [
+          "speech_bubble_overlay_with_phishing_message"
+        ],
+        "background": [
+          "pure_white"
+        ],
+        "lighting_env": [
+          "flat_ambient_illustration"
+        ],
+        "atmosphere": [
+          "anxious",
+          "suspicious"
+        ]
+      },
+      "texture": {
+        "primary_subject": "flat_vector_illustration_with_bold_outline",
+        "secondary_objects": [
+          "halftone_dot_pattern_on_clothing_and_torso"
+        ],
+        "background_surface": "pure_white_seamless",
+        "atmospheric": [
+          "graphic_clean"
+        ]
+      },
+      "lighting": {
+        "key_direction": "ambient_illustration",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_cool",
+        "fill_strength": "none",
+        "key_to_fill_ratio": "N/A",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "none",
+        "overall_contrast": "high_graphic"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#FFFFFF",
+          "#4A6FA5",
+          "#3D5A8A",
+          "#D0D9E8"
+        ],
+        "palette_role": {
+          "#FFFFFF": "background_dominant",
+          "#4A6FA5": "character_fill_primary",
+          "#3D5A8A": "outline_and_shadow",
+          "#D0D9E8": "halftone_dot_texture"
+        },
+        "color_relationship": "monochromatic",
+        "temperature_balance": "cool_dominant",
+        "saturation_strategy": "single_hue_desaturated_blue",
+        "contrast_type": "figure_ground_high",
+        "accent_color": "#3D5A8A",
+        "accent_ratio": 0.15
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A flat 2D illustrated Korean male character depicted from the chest upward, positioned in the right sixty percent of a wide 16:9 frame against a pure white seamless background. The character has a rounded, slightly boxy face with minimal facial features rendered entirely as bold cobalt-blue outlines on a white face surface — features include two small oval eyes represented by open ellipses, a flat horizontal nose bridge indicated by two short vertical strokes, and a downturned grimace mouth rendered as a thick curved stroke suggesting worry and mild alarm. Dark medium-length hair rendered in solid cobalt-blue sits flat atop the head with a clean silhouette. The ears are simple curved bracket shapes. The character wears a simple collared casual jacket illustrated with a flat fill of cobalt-blue and dense halftone dot shading in a muted periwinkle-blue on the collar, shoulder seam area, and lapels, giving the illusion of shadow without actual shading gradients. The character's right arm is raised toward mid-chest height, and the hand grips a rectangular smartphone outline with the screen facing the viewer — the phone body is drawn with bold cobalt-blue outlines and no screen content visible in this exact frame. The overall posture conveys a person reading a message with a combination of suspicion and unease — shoulders slightly raised and hunched inward, head tilted fractionally downward toward the phone. On the left side of the frame in the generous white negative space, a rounded-corner speech bubble with a bold cobalt-blue border contains three lines of Korean text in a clean rounded sans-serif typeface at approximately 18-20pt size in the same cobalt-blue color. The text reads verbatim: '장미칼 3종세트 주문하셨죠? OO은행 1011-0101-1111011 으로 39,900원 입금해주세요.' followed by a smaller timestamp '오후 4:32' positioned at the lower right of the bubble interior. The speech bubble tail points to the right, toward the character. The composition places the figure on the right half with the figure cropped just above the waist, and uses approximately forty percent of the frame as pure white negative space on the left for the text element. No drop shadow, no gradient, no decorative border on the overall frame. The halftone dot pattern appears on the character's jacket torso, collar, and the back of the hand — rendered as small evenly-spaced circular dots of a lighter blue-grey (#D0D9E8 range) over the cobalt-blue base. The color grade is strict monochrome: all elements — character, outline, speech bubble, typography, halftone dots — exist only in varying values of a single cobalt-blue hue family on pure white. No warm tones, no other accent colors, no red, no green. Illustration style: Korean commercial television animation, flat graphic design sensibility, bold consistent line weight approximately 3-4pt at full resolution, halftone texture evocative of offset print or comic book printing, Korean webtoon and graphic novel visual influence. The atmosphere is anxious and slightly comedic in tone — the visual language of concern and the absurdity of a suspicious payment request coexist. No photographic elements, no real human faces, no identifiable brand logos or trademarks visible on any device or clothing.",
+        "t2i_negative": "photography, realism, gradient, drop shadow, 3D render, colorful palette, red or green or yellow, serif font, realistic face",
+        "i2v_motion": "Camera locked with a slow gentle push-in toward the character's face over ~3.5 seconds. Character expression morphs from neutral curiosity to visible worry as a speech bubble pops in from the left edge with a subtle scale-from-zero animation. No camera shake. Transition out is a hard cut.",
+        "i2v_params": {
+          "clip_duration_sec": 3.9,
+          "camera_move": "slow_push_in",
+          "subject_motion_level": "low",
+          "signature_effect": "speech_bubble_pop_in",
+          "pacing": "slow_build",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen copy preserved; identity/logo generic"
+      }
+    },
+    {
+      "index": 2,
+      "duration": 6.707,
+      "framing": "extreme_close_up_phone",
+      "function": "demo",
+      "subject_action": "illustrated hand holds smartphone displaying phishing message, user taps copy button, app auto-recognizes account number and amount, transfer confirmation screen shown, checkmark success animation completes",
+      "layout_grid": "phone_centered_with_hands_framing_sides",
+      "subject_position": "center",
+      "typo_motion": "ui_elements_slide_in_fade_in",
+      "camera_angle": "slight_high_angle",
+      "camera_facing": "direct_front",
+      "shot_scope": "close_up",
+      "gaze": "at_phone_screen",
+      "props": [
+        "smartphone_full_body",
+        "illustrated_hands_left_and_right",
+        "message_bubble_on_screen",
+        "copy_button",
+        "transfer_ui",
+        "checkmark_icon",
+        "won_symbol"
+      ],
+      "color_palette": [
+        "#FFFFFF",
+        "#4A6FA5",
+        "#3D5A8A",
+        "#FFFFFF"
+      ],
+      "color_intent": "phone_screen_as_cobalt_filled_panel_contrasts_with_white_background_creating_screen_window_effect",
+      "pose_description": "two illustrated hands grip a vertically-oriented smartphone from both sides; phone occupies center-frame approximately 40% frame width; screen content animates through three UI states",
+      "subject_motion": "thumb_tap_gesture_then_scroll_down",
+      "camera_motion": "locked_off",
+      "camera_effect_local": "none",
+      "intra_cut_rhythm": "accelerating",
+      "transition_in": "hard_cut",
+      "transition_out": "hard_cut",
+      "mid_frame_path": "ADV-2026-006_frames/cut02_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "illustrated_hands_gripping_phone_sides"
+        ],
+        "midground": [
+          "smartphone_with_animated_screen_showing_copy_feature_and_transfer_ui"
+        ],
+        "background": [
+          "pure_white"
+        ],
+        "lighting_env": [
+          "flat_ambient_illustration"
+        ],
+        "atmosphere": [
+          "helpful",
+          "efficient",
+          "trustworthy"
+        ]
+      },
+      "texture": {
+        "primary_subject": "flat_vector_illustration_with_bold_outline",
+        "secondary_objects": [
+          "halftone_dots_on_hands_and_phone_body"
+        ],
+        "background_surface": "pure_white_seamless",
+        "atmospheric": [
+          "clean_tech"
+        ]
+      },
+      "lighting": {
+        "key_direction": "ambient_illustration",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_cool",
+        "fill_strength": "none",
+        "key_to_fill_ratio": "N/A",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "none",
+        "overall_contrast": "high_graphic"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#FFFFFF",
+          "#4A6FA5",
+          "#3D5A8A",
+          "#D0D9E8"
+        ],
+        "palette_role": {
+          "#FFFFFF": "background_and_phone_screen_text",
+          "#4A6FA5": "phone_screen_fill_and_character",
+          "#3D5A8A": "outline_and_detail",
+          "#D0D9E8": "halftone_dot_texture_on_hands"
+        },
+        "color_relationship": "monochromatic",
+        "temperature_balance": "cool_dominant",
+        "saturation_strategy": "single_hue_varied_value",
+        "contrast_type": "figure_ground_high",
+        "accent_color": "#FFFFFF",
+        "accent_ratio": 0.35
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A flat 2D illustrated extreme close-up of a vertically-oriented smartphone being held by two illustrated hands, rendered in Korean commercial animation style on a pure white 16:9 background with generous white negative space on left and right. The smartphone device occupies approximately forty percent of the frame width at center, displayed in portrait orientation. The phone body is illustrated with bold cobalt-blue outlines — a simple rounded rectangle representing the device chassis — and has a solid cobalt-blue fill on the screen surface. The phone screen displays white-on-cobalt UI elements from a Korean mobile fintech application in three distinct layers: at the top portion of the screen, a rounded speech-bubble chat message in white outline shows the phishing text verbatim: '장미칼 3종세트 주문하셨죠? OO은행 1011-0101-1111011 으로 39,900원 입금해주세요. 오후 4:32'; below that bubble a small rounded rectangular white button labeled in white Korean text '복사' (copy) points upward with a small arrow; below the copy button in the lower portion of the screen a payment transfer summary card is rendered with white labels and values showing: '보낼 금액' with value '39,900' in bold white, '받는 분' with name 'OO은행 0101101011111011' in white, and '받는 분 통장 표시' with a name in white — all in clean rounded sans-serif Korean typeface. At the very bottom of the phone screen, a bold italic wordmark in white letters centered horizontally identifies the app. The right and left sides of the frame show two illustrated human hands gripping the phone — the left hand shown from the back with fingers wrapped around the left phone edge, and the right hand shown from the side with thumb resting on the lower right corner of the screen, slightly overlapping the bezel. Both hands are rendered in the same flat illustration style with cobalt-blue outlines, minimal finger detail, and lighter cobalt halftone dot shading on the knuckle and finger crease areas. The fingernails are indicated with small arc strokes. The home button area at the bottom of the phone is a simple rounded rectangle. The overall composition is tightly centered with the phone screen as the narrative focus — every element directs the eye toward the on-screen content. The color scheme is strictly monochrome: all elements use only varying values of cobalt-blue (#4A6FA5 family) on white, with the phone screen interior being the darkest cobalt fill and the white typography providing maximum contrast. No gradient, no drop shadow, no photography, no real human hands, no real brand screenshots, no warm tones or accent colors. The phone chassis has a subtle bezel illustrated as a thin dark-cobalt rectangular border around the screen area, and the home button at the bottom is a small rounded rectangle outline centered below the screen. The white negative space on both sides of the phone is completely empty — no background details, no surface texture, no environmental cues — reinforcing the sense of a clean product demonstration isolated from any real-world context. The atmosphere is efficient, trustworthy, and hyper-focused — a product feature demonstration moment distilled into a single graphic frame designed to communicate function before beauty. Illustration style: Korean television commercial animation, flat design with bold consistent line weight, halftone dot texture on organic forms, zero photographic or photorealistic elements.",
+        "t2i_negative": "photography, realism, gradient, 3D render, colorful palette, serif body text, realistic hands",
+        "i2v_motion": "Camera locked. On-screen UI animates in three sequential states over ~6.7 seconds: first the phishing message is visible, then a copy button slides up from below, then the screen transitions to a transfer confirmation UI with account details appearing line by line, then the screen fills with a checkmark draw-on animation. Hands remain static gripping the phone. No camera movement. Hard cut out.",
+        "i2v_params": {
+          "clip_duration_sec": 6.7,
+          "camera_move": "locked_off",
+          "subject_motion_level": "low",
+          "signature_effect": "ui_element_sequential_reveal",
+          "pacing": "accelerating",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen copy preserved; identity/logo generic"
+      }
+    },
+    {
+      "index": 3,
+      "duration": 4.371,
+      "framing": "wide_shot",
+      "function": "tagline_cta",
+      "subject_action": "illustrated female character walks dog from left to right while checking phone, tagline text 'song-geum, tto han beon shwi-wo-jyeot-da' reveals word by word, then scene transitions to brand outro with illustrated male face profile from cut 1 as callback, centered brand logo and tagline, app store download badges at bottom right",
+      "layout_grid": "lower_left_character_upper_left_text_then_center_logo",
+      "subject_position": "lower_left_transitioning_to_center_logo",
+      "typo_motion": "word_by_word_reveal_left_to_right",
+      "camera_angle": "eye_level",
+      "camera_facing": "side_profile_then_direct_front",
+      "shot_scope": "wide_then_medium",
+      "gaze": "at_phone_then_forward",
+      "props": [
+        "smartphone",
+        "dog_leash",
+        "dachshund_dog",
+        "app_store_badge",
+        "google_play_badge"
+      ],
+      "color_palette": [
+        "#FFFFFF",
+        "#4A6FA5",
+        "#3D5A8A"
+      ],
+      "color_intent": "consistent_brand_monochrome_signals_resolution_and_confidence_after_problem_arc",
+      "pose_description": "slim female figure in profile walking right, wearing long coat, hair in ponytail, one arm raised holding phone, other arm holding leash; dachshund dog walks slightly ahead on leash",
+      "subject_motion": "walk_cycle_animation_rightward",
+      "camera_motion": "locked_off",
+      "camera_effect_local": "none",
+      "intra_cut_rhythm": "slow_build",
+      "transition_in": "hard_cut",
+      "transition_out": "hard_cut_to_black",
+      "mid_frame_path": "ADV-2026-006_frames/cut03_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "illustrated_female_figure_full_body",
+          "dachshund_dog_on_leash"
+        ],
+        "midground": [
+          "tagline_text_upper_area",
+          "brand_logo_centered",
+          "male_face_profile_left_edge_callback"
+        ],
+        "background": [
+          "pure_white"
+        ],
+        "lighting_env": [
+          "flat_ambient_illustration"
+        ],
+        "atmosphere": [
+          "carefree",
+          "resolved",
+          "brand_confident"
+        ]
+      },
+      "texture": {
+        "primary_subject": "flat_vector_illustration_bold_outline",
+        "secondary_objects": [
+          "halftone_dots_on_character_clothing"
+        ],
+        "background_surface": "pure_white_seamless",
+        "atmospheric": [
+          "airy_open"
+        ]
+      },
+      "lighting": {
+        "key_direction": "ambient_illustration",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_cool",
+        "fill_strength": "none",
+        "key_to_fill_ratio": "N/A",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "none",
+        "overall_contrast": "high_graphic"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#FFFFFF",
+          "#4A6FA5",
+          "#3D5A8A",
+          "#D0D9E8"
+        ],
+        "palette_role": {
+          "#FFFFFF": "background_dominant",
+          "#4A6FA5": "character_and_typography_fill",
+          "#3D5A8A": "outline_and_logo",
+          "#D0D9E8": "halftone_texture"
+        },
+        "color_relationship": "monochromatic",
+        "temperature_balance": "cool_dominant",
+        "saturation_strategy": "single_hue_multiple_values",
+        "contrast_type": "figure_ground_high",
+        "accent_color": "#3D5A8A",
+        "accent_ratio": 0.1
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A flat 2D illustrated wide shot rendered in Korean commercial television animation style on a pure white seamless 16:9 background with extensive negative space throughout. The composition is divided into two registers: in the lower left quadrant of the frame occupying roughly the bottom thirty-five percent vertically and left forty percent horizontally, a slim illustrated Korean female character is shown in complete full-body side profile, facing and walking toward the right edge of frame. She has dark hair pulled back into a low ponytail falling past shoulder level, rendered in solid cobalt-blue. She wears a long casual knee-length coat with a relaxed silhouette, trousers, and simple flat shoes — all illustrated in cobalt-blue flat fill with bold outlines and halftone dot shading on the coat folds, coat collar, and trouser creases using lighter blue-grey dots (#D0D9E8 range). Her posture is relaxed and casually confident — torso slightly forward with walking momentum. Her right arm is bent upward with the hand holding a small rectangular smartphone outline at approximately chest height, thumb positioned on the screen surface. Her left arm hangs slightly back holding a thin leash line that extends to a small dachshund dog walking one body-length ahead of her with a characteristic low-to-the-ground stride — the dog is rendered in solid darker cobalt-blue with bold outlines, short stubby legs, and an elongated body with floppy ears. In the upper left area of the frame, bold Korean rounded sans-serif typography in cobalt-blue reads the tagline on one line at approximately 48pt visual size: '송금, 또 한 번 쉬워졌다'. This text sits in the upper quarter of the frame with substantial white space above and below it. At the far left edge of the frame, cropped and partially outside the frame boundary, the profile of the illustrated male character from earlier in the narrative is visible — only the left side of his face, ear, hair silhouette, and shoulder are visible, acting as a visual callback that echoes the opening scene. The right-center area of the frame, roughly centered horizontally and slightly above center vertically, shows the brand identity lockup: a large circular speech-bubble icon approximately 180px diameter featuring a Korean won currency symbol (₩) in white on a solid cobalt-blue circle, with the rounded lower-left pointing tail of the speech bubble. Directly below the icon, the brand wordmark is set in bold italic cobalt-blue rounded sans-serif at approximately 60pt. Below the wordmark in a smaller weight, the sub-tagline '금융이 쉬워진다' appears in cobalt-blue at approximately 24pt. At the very bottom right corner of the frame, two small app store download badges are rendered in a simplified illustrative style — an Apple App Store badge and a Google Play badge — each at approximately 160x48px, accompanied by small Korean text to their right reading '구글플레이, 앱스토어에서 Toss를 다운받으세요' in cobalt-blue at approximately 14pt. The overall palette is strictly monochromatic cobalt-blue on white with no warm tones, no gradient, no drop shadow, and no photographic elements. The atmosphere is carefree, resolved, and brand-confident — the visual language of a woman going about her daily life frictionlessly, punctuated by the brand payoff. Illustration style: Korean flat design animation, consistent bold line weight, halftone texture on organic forms, zero photographic or photorealistic elements.",
+        "t2i_negative": "photography, realism, gradient, 3D render, warm colors, serif body text, cluttered composition",
+        "i2v_motion": "Camera locked. Female character and dog execute a walk cycle animation moving rightward for ~2.5 seconds. Korean tagline text reveals word by word from left to right over first 1.5 seconds. Then over the next 1.5 seconds the character settles, the male face profile slides in from left frame edge as a callback element, and the brand logo and sub-tagline fade in at center. App store badges fade in at bottom right. Scene ends with hard cut to black.",
+        "i2v_params": {
+          "clip_duration_sec": 4.4,
+          "camera_move": "locked_off",
+          "subject_motion_level": "medium",
+          "signature_effect": "walk_cycle_plus_sequential_text_reveal",
+          "pacing": "slow_build",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen copy preserved; identity/logo generic"
+      }
+    }
+  ],
+  "search_keywords": {
+    "industry": [
+      "finance"
+    ],
+    "product_category": [
+      "mobile_payment+money_transfer+fintech_app"
+    ],
+    "target_demo": [
+      "korean_millenial+gen_z+smartphone_user"
+    ],
+    "media_format": [
+      "15s_tvc+digital_pre_roll"
+    ],
+    "tone": [
+      "reassuring+witty+empowering"
+    ],
+    "pacing": [
+      "steady+accelerating_mid"
+    ],
+    "technique": [
+      "2d_illustration_animation+monochrome+halftone"
+    ],
+    "vfx_keywords": [
+      "ui_demo_animation+speech_bubble_pop+checkmark_draw_on+walk_cycle"
+    ],
+    "copy_strategy_keywords": [
+      "problem_agitation_solution+feature_demo+tagline_reveal"
+    ],
+    "concept_derivation_pattern": [
+      "everyday_pain_point_made_effortless"
+    ]
+  },
+  "inferred_creative_thinking": {
+    "insight": "People trust what they understand; a confusing bank transfer process is fertile ground for fraud — make the process so simple that scams become self-evident",
+    "persona": "Urban Korean smartphone user who has experienced or fears receiving phishing payment requests, values speed and clarity in financial apps",
+    "moment": "Receiving a suspicious-looking payment request SMS and wondering if it is legitimate",
+    "product_role": "Toss auto-recognizes account number and amount from copied text, removing the mental load and reducing fraud risk",
+    "punchline": "The very gesture of 'copy' that scammers exploit becomes the gesture that exposes them — the app shows the mismatch between the stated sender and the actual account owner",
+    "differentiator": "One-tap text copy → auto-fill + name verification: turns a friction point into a fraud-detection moment",
+    "brand_fit_one_liner": "Toss makes sending money as easy as copying a message, and smart enough to protect you while doing it",
+    "confidence": "inferred"
+  },
+  "inferred_brief": "Dramatize the new copy-to-transfer auto-recognition feature of the Toss app by showing a realistic phishing SMS scenario that is instantly resolved by the feature, closing with the tagline '송금, 또 한 번 쉬워졌다' to reinforce Toss's brand promise of simplifying finance.",
+  "cross_pollination_tags": {
+    "adjacent": [
+      "fintech_ux_demo_ad",
+      "fraud_awareness_campaign",
+      "mobile_banking_app_feature"
+    ],
+    "distant": [
+      "infographic_animation",
+      "public_service_announcement",
+      "webtoon_narrative"
+    ],
+    "contrast": [
+      "luxury_finance_ad",
+      "live_action_celebrity_endorsement",
+      "complex_product_explainer"
+    ]
+  },
+  "concept_derivation_pattern": "problem_scenario_hook_to_feature_demo_to_brand_payoff",
+  "confidence": "inferred",
+  "analyst_notes": "The ad is a textbook feature-demo narrative compressed into 15 seconds. The phishing SMS hook immediately creates tension and relatability. The 'copy' interaction as the solution pivot is elegant — it turns a universally-understood gesture into a product demo. The monochrome illustration style maintains visual simplicity throughout, preventing cognitive overload. Character callback in the outro (man's face at cut 3 edge) creates visual coherence. Tagline '송금, 또 한 번 쉬워졌다' implies a series of improvements ('once again'), reinforcing brand evolution narrative. Whisper transcription corrected against on-screen captions; specific phishing account number and recipient names preserved verbatim as they are fictitious placeholder data central to the ad's narrative.",
+  "verification": {
+    "frames_reviewed": "≈21/450 native-res + 100% metrics",
+    "audio_analyzed": "faster_whisper_base_ko_corrected",
+    "hitrate_na": null,
+    "abstraction_checked": true
+  }
+}

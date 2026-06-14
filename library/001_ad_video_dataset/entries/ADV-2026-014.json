@@ -1,0 +1,1132 @@
+{
+  "id": "ADV-2026-014",
+  "source_ref": {
+    "platform": "online_video_ad",
+    "title_or_campaign": "토스 미니앱 — 앱을 쓰는 새로운 방식 (Toss Mini-App super-app showcase)",
+    "brand": "Toss (Viva Republica)",
+    "product": "토스 미니앱 (Toss Mini-App: in-app third-party service marketplace inside the Toss super-app)",
+    "model": null,
+    "year": 2025,
+    "production_note": "Motion-graphics + app-UI montage; BGM-only, caption-led, no voiceover. Closing fineprint '*토스 미니앱 서비스는 만 19세 이상부터 이용할 수 있어요.' Year inferred as a recent (2024-2025) Toss mini-app launch campaign from UI style and product framing; not asserted from an on-screen date.",
+    "url": null
+  },
+  "category_primary": "finance.fintech_platform",
+  "category_tags": [
+    "핀테크",
+    "슈퍼앱",
+    "미니앱 마켓플레이스",
+    "앱 UI 데모",
+    "키네틱 타이포",
+    "모션그래픽"
+  ],
+  "mood": [
+    "clean",
+    "playful",
+    "energetic",
+    "modern",
+    "trustworthy"
+  ],
+  "target_demo": "10s-40s smartphone-first Koreans already using Toss; broad mass audience shown that a single finance app now also does mobility, real-estate, news, shopping, jobs and casual games",
+  "total_duration": 33.507,
+  "shot_count": 6,
+  "shot_count_corrected": 6,
+  "fps": 60,
+  "aspect_ratio": "16:9",
+  "hook_position": 0.0,
+  "cta_position": 27.617,
+  "narrative_arc": "Promise to proof to product-name resolution. It opens by claiming Toss can do hundreds of things (a kinetic title plus a slot-machine list of unexpected non-finance services), argues you need no extra installs because it is all in one Toss app, then floods the screen with real lifestyle imagery and a horizontal carousel of actual mini-app feature cards, escalates into a dense scrolling wall of service chips that pours into a single phone showing the mini-app store (everyday apps) and then a casual game, lands the thesis on a clean text card 앱을 쓰는 새로운 방식, and resolves on the product name 토스 미니앱 and the toss logo.",
+  "narrative_structure": "montage_accumulation",
+  "pacing_curve": "build_up",
+  "music_tempo_curve": "build_up",
+  "wow_cut_index": [
+    4
+  ],
+  "creative_device": "slot-machine service list + accumulating montage of real mini-app cards that physically pour into one phone, framed as 'everyday apps to games, one app'",
+  "production_signature": {
+    "capture_style": "graphics_only",
+    "camera_signature": [
+      "locked_off"
+    ],
+    "signature_note": "Entirely composited motion-graphics and app-UI: locked-off frame throughout with motion supplied by sliding/scrolling UI cards, a slot-machine vertical list, a converging photo collage, a horizontal feature-card carousel, a dense scrolling chip wall, a liquid-blue morph and 3D objects. metrics mean_abs_shift_x 1.23 with sign_flips_ratio 0.187 read as sliding-UI translation, not a handheld camera wiggle; edges do not oscillate left-right, so no wiggle_3d.",
+    "color_grade": "brand_color_dominant",
+    "texture_fx": "clean_digital"
+  },
+  "global_layout": {
+    "grid_system": "mixed",
+    "subject_placement_dominant": "center",
+    "subject_typo_relation": "typo_beside_subject",
+    "negative_space_use": "generous",
+    "layout_note": "Several registers: centered single-line title/text cards (cut1 open, cut5, cut6 name) on a light grey field; a fixed left phrase 토스에서 할 수 있는 paired with a right slot-machine vertical service list (cut1); a centered value-prop lockup 설치할 필요 없이 [icon] 토스 앱 하나로 (cut1 end); free-floating photo-collage and chip-wall scatter (cut2, cut4); a left-to-right scrolling carousel of mini-app cards (cut3); and a centered phone flanked by left/right captions 일상 앱부터 / 게임까지 (cut4). Closes on a centered logo lockup."
+  },
+  "recurring_motifs": [
+    "light grey #eef1f5 background",
+    "Toss-blue #1a56f0 accent",
+    "rounded-square app-icon tiles",
+    "3D Toss app icon (white tile, blue split-bean mark)",
+    "kinetic single-word color highlight",
+    "icon + label service rows",
+    "smartphone product frame"
+  ],
+  "copywriting": {
+    "tagline_text": "앱을 쓰는 새로운 방식",
+    "tagline_structure": "noun_phrase_claim (a new way + to use apps)",
+    "tagline_length_syllables": 10,
+    "tagline_position_sec": 27.617,
+    "cta_text": "토스 미니앱",
+    "cta_text_structure": "product_name_signoff",
+    "cta_position_sec": 27.617,
+    "copy_tone": [
+      "confident",
+      "playful",
+      "declarative"
+    ],
+    "copy_strategy": "Lead with surprise (a finance app doing 따릉이/뉴스/알바/게임), prove breadth by piling real service cards into one phone, then compress the whole idea into one claim 앱을 쓰는 새로운 방식 and brand it 토스 미니앱. Copy is entirely on-screen captions; there is no voiceover.",
+    "copy_lines_count": 11,
+    "lines": [
+      {
+        "position_sec": 1.8,
+        "text": "토스에서 할 수 있는 수백 가지 일들",
+        "function": "hook_headline_claim",
+        "tone": "confident",
+        "source": "caption"
+      },
+      {
+        "position_sec": 3.3,
+        "text": "토스에서 할 수 있는",
+        "function": "fixed_list_prefix",
+        "tone": "neutral",
+        "source": "caption"
+      },
+      {
+        "position_sec": 5.0,
+        "text": "인기 알바 찾기",
+        "function": "service_item_highlight",
+        "tone": "playful",
+        "source": "caption"
+      },
+      {
+        "position_sec": 6.6,
+        "text": "실시간 뉴스 보기",
+        "function": "service_item_highlight",
+        "tone": "playful",
+        "source": "caption"
+      },
+      {
+        "position_sec": 9.3,
+        "text": "설치할 필요 없이",
+        "function": "value_prop_left",
+        "tone": "reassuring",
+        "source": "caption"
+      },
+      {
+        "position_sec": 9.3,
+        "text": "토스 앱 하나로",
+        "function": "value_prop_right",
+        "tone": "confident",
+        "source": "caption"
+      },
+      {
+        "position_sec": 25.5,
+        "text": "일상 앱부터",
+        "function": "range_caption_left",
+        "tone": "neutral",
+        "source": "caption"
+      },
+      {
+        "position_sec": 25.5,
+        "text": "게임까지",
+        "function": "range_caption_right",
+        "tone": "playful",
+        "source": "caption"
+      },
+      {
+        "position_sec": 27.617,
+        "text": "앱을 쓰는 새로운 방식",
+        "function": "thesis_headline",
+        "tone": "confident",
+        "source": "caption"
+      },
+      {
+        "position_sec": 30.8,
+        "text": "토스 미니앱",
+        "function": "product_name_signoff",
+        "tone": "confident",
+        "source": "caption"
+      },
+      {
+        "position_sec": 33.0,
+        "text": "*토스 미니앱 서비스는 만 19세 이상부터 이용할 수 있어요.",
+        "function": "legal_fineprint",
+        "tone": "neutral",
+        "source": "caption"
+      }
+    ],
+    "captions": [
+      {
+        "position_sec": 5.0,
+        "text": "토스에서 할 수 있는 · 인기 알바 찾기 · 부동산 안전 거래 · 따릉이 타기 · 실시간 뉴스 보기 · 수영 기록하기 · 용달 예약하기 · 장학금 알림 받기 · 여행 코스 AI 추천",
+        "function": "slot_machine_service_list"
+      },
+      {
+        "position_sec": 13.5,
+        "text": "대여하기 · 총 수영 거리 1.0km · 총 수영 시간 1h 07m · だいじょうぶ [다이죠부] · 정답입니다 · 괜찮아요 · 즐거웠어요",
+        "function": "carousel_card_labels_a"
+      },
+      {
+        "position_sec": 14.5,
+        "text": "11월 28일, 금요일 · 11:58 KTX·서울역 · 2시간 37분 · 14:35 부산역 · ICN CEB 인천 세부 · 가는편 11월 30일(일) · 오는편 12월 3일(수) · 왕복 가격 244,950 50% · 항공사 티항공 · Animation Style · AI로 변환된 이미지 수: 716,836개 · 변환 시작",
+        "function": "carousel_card_labels_b"
+      },
+      {
+        "position_sec": 18.0,
+        "text": "웨이 렌터카 예약하기 · 택시 호출 택시 예약하기 · 점신 가까운 미래 행운 확인하기 · 뉴스보이 실시간 TOP 뉴스 · 지름알림 오늘의 초특가 상품 모아보기 · 카딩 가격 거품 뺀 리스·렌트 견적 · 워터 소트 퀘스트 같은 색의 물끼리 정렬하는 게임 · 깜자의 쿠킹타임 · 사과게임 빠르게 사과를 수집하는 게임 · 마이클 내 차 엔진오일 가격 보기 · 알바몬 가장 빨리 인기알바 찾기 · 디스팟 가격 낮추는 할인코드 찾기 · 팜픽 영양제 제대로 고르기 · 벽돌깨기 퀘스트 1억명이 인정한 국민 벽돌깨기 · 용사단 키우기 쉽고 빠른 수집형 방치형 RPG · 솔리테어 미션 흥미진진한 클래식 카드 게임 · 체스배틀 전략과 수 · 슬라이스 가장 빠른 디지털 명함 · 수리24 우리 집 수리 신청하기 · 자리톡 거주 후기 남기기 · 기차 예약 KTX·SRT 예약하기 · 머지푸르트 황금수박 만들기",
+        "function": "service_chip_wall_labels"
+      },
+      {
+        "position_sec": 26.0,
+        "text": "검색 · 전체·금융·게임·생활·이벤트 · 오늘의 발견 · 안전집사 보증금 걱정없는 안전한 집 구하기 · 추천 서비스 · 따릉이 대여 · 택시 호출 · 기차 예약 · 실시간 Top 뉴스 (뉴스보이) · 가장 빨리 인기 알바 찾기 (알바몬) · 내 집 가성비 체크하기 (안전집사) · 갖고 싶은 명품·패션 할인 받기",
+        "function": "miniapp_store_screen_labels"
+      },
+      {
+        "position_sec": 26.5,
+        "text": "12:45 · 수박게임 · 시작하기 · 신규·퍼즐·스포츠·RPG · 실시간 인기 게임 · 1 용사단 키우기 3.5만 명 플레이 중 · 2 머지푸르트 황금수박 만들기 · 3 체스배틀 전략과 수 싸움의 체스 대결 · 사과게임",
+        "function": "game_store_screen_labels"
+      }
+    ],
+    "narration_handling": "none_no_vo"
+  },
+  "typography": {
+    "primary_font_class": "bold_rounded_sans_korean",
+    "secondary_font_class": "regular_sans_korean",
+    "animation_style": [
+      "fade_in",
+      "slide",
+      "color_shift",
+      "static"
+    ],
+    "subtitle_position_dominant": "center",
+    "tagline_position": "center",
+    "color_strategy": "Charcoal/near-black headlines on light grey for the text cards; Toss-blue and per-beat accent highlights on single words (e.g. 지 일들 blue, 앱부터 violet, 게임 orange-pink gradient, 토스 blue, 미니 red); white type on imagery cards; grey for the list prefix and greyed service items, with one item bold/colored per beat.",
+    "appearance_count": 11,
+    "key_typography_moments_sec": [
+      1.8,
+      5.0,
+      9.3,
+      25.5,
+      27.617,
+      30.8
+    ],
+    "typo_motion_dominant": "slide_and_color_shift"
+  },
+  "vfx": {
+    "primary_effects": [
+      "ui_motion",
+      "kinetic_typo",
+      "3d_render",
+      "slot_machine_scroll",
+      "liquid_morph",
+      "color_pop"
+    ],
+    "effect_intensity": "high",
+    "transition_style_dominant": "slide",
+    "vfx_event_count": 6,
+    "vfx_timing_array_sec": [
+      0.0,
+      10.85,
+      12.317,
+      16.75,
+      27.617,
+      28.85
+    ],
+    "wow_vfx_index": [
+      4
+    ]
+  },
+  "audio": {
+    "has_audio": true,
+    "language": "ko",
+    "speech_coverage": 0.0,
+    "bgm_likely": true,
+    "narration_lines": [],
+    "voice_vs_caption": "caption_led_no_vo",
+    "narration_handling": "none_no_vo",
+    "transcribed_by": "faster_whisper",
+    "audio_note": "whisper base found 0 speech segments; BGM-only, copy is on-screen captions"
+  },
+  "frames_dir": "ADV-2026-014_frames",
+  "contact_sheet_path": "ADV-2026-014_frames/contact_sheet.png",
+  "shots": [
+    {
+      "index": 1,
+      "duration": 10.85,
+      "framing": "full_field_typo",
+      "function": "hook_claim_and_value_prop",
+      "subject_action": "From a blank light-grey field a centered headline 토스에서 할 수 있는 수백 가지 일들 fades in (with 지 일들 turning Toss-blue), then the layout splits into a fixed left phrase 토스에서 할 수 있는 beside a vertical slot-machine list of mini-app services (icon+label) that scrolls and bolds one service at a time (인기 알바 찾기, then 실시간 뉴스 보기, with greyed 부동산 안전 거래 / 따릉이 타기 / 수영 기록하기 / 용달 예약하기 / 장학금 알림 받기 / 여행 코스 AI 추천), and finally resolves into a centered value-prop lockup 설치할 필요 없이 [3D Toss app icon] 토스 앱 하나로 over a soft blue glow.",
+      "copy_overlay": "토스에서 할 수 있는 수백 가지 일들 -> 토스에서 할 수 있는 [인기 알바 찾기 / 실시간 뉴스 보기 ...] -> 설치할 필요 없이 [icon] 토스 앱 하나로",
+      "layout_grid": "split_screen",
+      "subject_position": "center_then_left_prefix_right_list",
+      "typo_motion": "headline fades in with a blue color highlight on the last word; list items scroll vertically (slot-machine) with the active item enlarging/bolding and color-keying its icon; value-prop words slide in to flank the centered app icon",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "graphic_field",
+      "gaze": "none",
+      "props": [
+        "mini-app service icon tiles",
+        "3D Toss app icon (white tile, blue split-bean mark)"
+      ],
+      "color_palette": [
+        "#eef1f5",
+        "#1a56f0",
+        "#2b2d31",
+        "#e8512f"
+      ],
+      "color_intent": "Quiet light-grey field keeps focus on type; Toss-blue keys the headline highlight, the active list item and the value-prop, while a soft blue radial glow blooms behind the app icon at the resolve.",
+      "pose_description": "No human; typographic and UI elements only.",
+      "subject_motion": "vertical slot-machine list scroll; words slide in; app icon settles with a glow",
+      "camera_motion": "locked_off",
+      "camera_effect_local": "soft_glow_bloom",
+      "intra_cut_rhythm": "build_up",
+      "transition_in": "open_on_blank",
+      "transition_out": "dissolve",
+      "mid_frame_path": "ADV-2026-014_frames/cut01_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "centered Korean headline 토스에서 할 수 있는 수백 가지 일들",
+          "fixed left phrase 토스에서 할 수 있는",
+          "active bold service label + icon"
+        ],
+        "midground": [
+          "greyed vertical list of other service labels with icons",
+          "3D Toss app icon tile (value-prop beat)"
+        ],
+        "background": [
+          "flat light-grey field (#eef1f5) shifting to a soft blue glow at the resolve"
+        ],
+        "lighting_env": [
+          "flat even digital fill",
+          "soft blue radial bloom behind the app icon"
+        ],
+        "atmosphere": [
+          "clean, minimal, no haze"
+        ]
+      },
+      "texture": {
+        "primary_subject": "flat_vector_type",
+        "secondary_objects": [
+          "plastic_glossy",
+          "flat_vector_type"
+        ],
+        "background_surface": "flat_color",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "front",
+        "key_hardness": "diffused",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "strong",
+        "key_to_fill_ratio": "1:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "none",
+        "overall_contrast": "hi_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#eef1f5",
+          "#1a56f0",
+          "#2b2d31",
+          "#e8512f"
+        ],
+        "palette_role": {
+          "#eef1f5": "background_dominant",
+          "#1a56f0": "brand_accent",
+          "#2b2d31": "text_anchor",
+          "#e8512f": "secondary_icon_accent"
+        },
+        "color_relationship": "brand_dominant",
+        "temperature_balance": "cool_dominant",
+        "saturation_strategy": "desaturated_with_pop",
+        "contrast_type": "luminance_high",
+        "accent_color": "#1a56f0",
+        "accent_ratio": "10_percent",
+        "brand_color_match": [
+          "highlight/app-icon blue ~#1a56f0 = Toss brand blue"
+        ]
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A clean Korean fintech motion-graphics key frame in a 16:9 landscape, captured at the slot-machine list beat of an opening sequence, set on a flat, softly luminous light cool-grey studio field in pale #eef1f5 with no photographic texture, the faintest top-to-bottom gradient and a barely-there vignette so the corners sit a hair darker than the bright center. There is no human subject anywhere in frame; every element is typographic or app-UI graphics. On the left third, vertically centered, sits a fixed charcoal Korean phrase 토스에서 할 수 있는 set in a heavy rounded sans-serif in near-black #2b2d31, reading as a sentence stem waiting to be completed. To its right runs a single vertical column, a slot-machine style list of mini-app service rows, each row a small rounded-square colorful app-icon tile followed by a Korean label in the same rounded sans-serif. One row near the vertical middle is the active item: its icon tile is fully saturated and its label is bold and color-keyed (for this still, a blue news tile beside 실시간 뉴스 보기), while the rows above and below it are dimmed to a soft light grey, partly cropped at the top and bottom edges to imply continuous scrolling, with legible greyed labels including 인기 알바 찾기, 부동산 안전 거래, 따릉이 타기, 수영 기록하기, 용달 예약하기, 장학금 알림 받기 and 여행 코스 AI 추천, each with its own simple flat icon. The right column is generously spaced with comfortable line gaps, and the whole composition is asymmetric but balanced, the left stem anchoring while the right list scrolls. Wide empty margins surround everything; negative space does real work, giving the single highlighted service room to breathe and signalling a calm, confident brand. Lighting is rendered as perfectly even digital fill with uniform luminance across the pale field, no hot spots, no cast shadows behind the type, the cleanest possible screen-native surface, with only the faint app-icon tiles carrying a hint of soft plastic specular sheen. The lens read is flat and orthographic, a straight-on 50mm-equivalent view sitting exactly on the picture plane at eye level with no perspective distortion and no depth. The color strategy is brand-dominant and desaturated-with-pop: a near-neutral cool-grey background and charcoal type hold almost all the frame, the cobalt Toss-blue #1a56f0 keys only the single active service for emphasis, and small multi-hued icon tiles (a warm coral-orange #e8512f among them) provide tiny controlled jewels of color, the blue reading as roughly ten percent of the frame area. Textures are clean flat vector type on flat color, smooth glossy plastic on the rounded icon tiles, and a smooth matte field behind, with no grain, paper fiber or noise of any kind. The atmosphere is bright, clinical and uncluttered, with no haze, particles, smoke or glow except where the design intends it. The post and signature look is crisp anti-aliased 4K commercial app-marketing minimalism, even letter spacing, gentle rounding on every glyph and tile, and a brand-forward, trustworthy finish. Style anchor: Korean fintech UI motion-graphics, a slot-machine service-list interstitial that lists everyday mini-app services beside a fixed sentence stem, hi-key light-grey studio, absolutely no people; this still is one held beat of an animated vertical scroll in which services cycle through the highlighted slot, immediately before the layout collapses into a centered value-prop lockup.",
+        "t2i_negative": "people, hands, faces, real bank or brand trademark marks, watermark, photographic background, harsh shadows, low-key lighting, grain, noise, heavy vignette, gradients with hot spots, 3d perspective distortion, lens flare, clutter",
+        "i2v_motion": "Hold the locked-off frame; animate the right column as a smooth vertical slot-machine scroll where service rows slide upward and the row landing in the center slot enlarges, bolds and color-keys its icon while neighbors dim, cycling through several services (인기 알바 찾기, 실시간 뉴스 보기 ...); the left phrase 토스에서 할 수 있는 stays perfectly still; gentle ease-in-ease-out per step; in the final beat the list collapses and a centered 3D Toss app icon settles in with a soft blue radial glow as the words 설치할 필요 없이 and 토스 앱 하나로 slide in to flank it; ~10.9s, building rhythm, ending on a soft dissolve.",
+        "i2v_params": {
+          "clip_duration_sec": 10.85,
+          "camera_move": "locked_off",
+          "subject_motion_level": "moderate",
+          "signature_effect": "slot_machine_scroll",
+          "pacing": "build_up",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; all on-screen Korean copy and service labels preserved verbatim; app-icon mark rendered generically (no real trademark); no people."
+      }
+    },
+    {
+      "index": 2,
+      "duration": 1.467,
+      "framing": "full_field_collage",
+      "function": "lifestyle_breadth_montage",
+      "subject_action": "A scatter of free-floating rounded-corner lifestyle photo cards (a man running on a track, a cyclist crossing a bridge with a city skyline, a train-window mountain view, an iced coffee in sunlight, a wooden chess board, apartment towers, a paper shopping bag) drifts on a light-grey field and converges/clusters toward the center, gathering the disparate 'hundreds of things' into one mass.",
+      "copy_overlay": "(no caption, imagery only)",
+      "layout_grid": "scatter_collage",
+      "subject_position": "distributed_converging_center",
+      "typo_motion": "none (no on-screen text this cut)",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "graphic_field",
+      "gaze": "none",
+      "props": [
+        "rounded-corner lifestyle photo cards (running, cycling, train window, iced coffee, chess, apartments, shopping bag)"
+      ],
+      "color_palette": [
+        "#eef1f5",
+        "#7a9bbf",
+        "#c08a5e",
+        "#3a3f45"
+      ],
+      "color_intent": "Muted, lightly desaturated photographic cards float on the same pale field so the imagery feels collected and calm rather than busy; cool sky tones and warm coffee/track tones give variety without clashing.",
+      "pose_description": "Human figures appear only small and incidental inside the photo cards (a runner, a cyclist seen from behind); no foreground human.",
+      "subject_motion": "photo cards translate and scale, drifting from spread positions toward a central cluster",
+      "camera_motion": "locked_off",
+      "camera_effect_local": "none",
+      "intra_cut_rhythm": "accelerando",
+      "transition_in": "dissolve",
+      "transition_out": "dissolve",
+      "mid_frame_path": "ADV-2026-014_frames/cut02_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "large central cyclist photo card",
+          "running photo card",
+          "iced-coffee photo card"
+        ],
+        "midground": [
+          "train-window card",
+          "apartment-towers card",
+          "chess-board card",
+          "shopping-bag card"
+        ],
+        "background": [
+          "flat light-grey field (#eef1f5)"
+        ],
+        "lighting_env": [
+          "flat even digital fill",
+          "each photo carries its own baked-in daylight"
+        ],
+        "atmosphere": [
+          "clean, airy, no overlay haze"
+        ]
+      },
+      "texture": {
+        "primary_subject": "photographic_print",
+        "secondary_objects": [
+          "photographic_print"
+        ],
+        "background_surface": "flat_color",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "front",
+        "key_hardness": "diffused",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "strong",
+        "key_to_fill_ratio": "1:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "soft",
+        "overall_contrast": "balanced"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#eef1f5",
+          "#7a9bbf",
+          "#c08a5e",
+          "#3a3f45"
+        ],
+        "palette_role": {
+          "#eef1f5": "background_dominant",
+          "#7a9bbf": "cool_sky_photo_tone",
+          "#c08a5e": "warm_photo_tone",
+          "#3a3f45": "photo_shadow_anchor"
+        },
+        "color_relationship": "analogous_muted",
+        "temperature_balance": "split_warm_cool",
+        "saturation_strategy": "muted",
+        "contrast_type": "value_soft",
+        "accent_color": "#7a9bbf",
+        "accent_ratio": "20_percent",
+        "brand_color_match": [
+          "no brand color foregrounded this cut; neutral lifestyle palette"
+        ]
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A clean motion-graphics collage key frame in a 16:9 landscape, set on a flat, softly luminous light cool-grey field in pale #eef1f5 with no texture and only the faintest gradient, on which several free-floating rounded-corner photographic cards are scattered like a drifting mood board. The cards are square-ish rectangles with generous corner radii and the very softest drop shadow lifting them off the pale ground, each filled with a muted, slightly desaturated lifestyle photograph. A large central card shows a cyclist seen from behind crossing a bridge with a hazy city skyline behind, captured with motion blur in the background to imply speed; upper-left a card shows a man running on a red running track in dark athletic kit, also motion-blurred; lower-left a card shows an iced coffee glass on a sunlit table with leaf shadows falling across it; below that a small card shows a wooden chess board mid-game on a red-and-cream checkered surface; upper-right a small card shows a cluster of tall white apartment towers against a pale sky; mid-right a card shows a green-toned train-cabin window framing a passing mountain-and-rail landscape; lower-right a larger card shows a white paper shopping bag with a red handle resting against a wall in raking light. The cards are distributed across the frame with airy gaps of pale grey between them, sitting at slightly different scales so the eye reads depth without any single card dominating, and the overall arrangement feels like a constellation of everyday moments about to gather together. There is no on-screen text and no brand mark anywhere in this still; human figures appear only small and incidental inside the running and cycling photos, never as a foreground subject. Lighting in the graphic layer is rendered as perfectly even digital fill with uniform luminance across the pale background and only the softest contact shadows under each card; the daylight inside each photograph is baked into the image, bright open sky on the cyclist and apartments, warm low sun on the coffee and shopping bag, so the cards carry their own internal light while the canvas stays flat and screen-native. The lens read for the graphic plane is flat and orthographic, straight-on at eye level with no perspective distortion, the cards lying on the picture plane. The color strategy is muted and analogous: the pale neutral field dominates, cool dusty blues from the skies and the train card balance warm caramel and terracotta tones from the coffee and track, and nothing is highly saturated, giving a calm editorial feel with the cool sky tone reading as roughly twenty percent of the frame. Textures are photographic print inside the cards, fabric, asphalt, glass, wood, paper, against a smooth matte vector field, with no grain or noise added on top. The atmosphere is airy, clean and unhurried, no overlay haze, smoke or particles, just floating imagery on light grey. The post and signature look is crisp 4K commercial motion-graphics compositing with soft rounded card masks, gentle ambient shadows and an uncluttered editorial finish. Style anchor: Korean fintech UI motion-graphics, a drifting lifestyle photo-collage interstitial that stands in for the hundreds of everyday things a super-app covers, hi-key light-grey studio, no foreground people; this still is an early spread state of an animated convergence in which the cards drift and scale toward a central cluster.",
+        "t2i_negative": "on-screen text, captions, brand logos, watermark, foreground human portrait, harsh shadows, heavy saturation, neon colors, grain, noise, dark background, clutter, perspective distortion",
+        "i2v_motion": "Hold the locked-off frame; animate the scattered rounded photo cards translating and gently scaling as they drift inward from their spread positions toward a central cluster, slightly accelerating, with their soft contact shadows tracking them; no text appears; light parallax between near and far cards; ~1.5s, accelerando rhythm, dissolving out as the cluster forms.",
+        "i2v_params": {
+          "clip_duration_sec": 1.467,
+          "camera_move": "locked_off",
+          "subject_motion_level": "moderate",
+          "signature_effect": "none",
+          "pacing": "accelerando",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; no on-screen copy this cut; lifestyle imagery abstracted (generic people/scenes, no real persons or brands)."
+      }
+    },
+    {
+      "index": 3,
+      "duration": 4.433,
+      "framing": "full_field_carousel",
+      "function": "miniapp_feature_card_carousel",
+      "subject_action": "A horizontal carousel of real mini-app feature cards (rounded squares) scrolls right-to-left across the light-grey field: a dark bike-rental map with a blue 대여하기 button, a white Japanese-learning feedback card だいじょうぶ [다이죠부] with 정답입니다 and choice buttons 괜찮아요 / 즐거웠어요, a blue swim-tracker card 총 수영 거리 1.0km / 총 수영 시간 1h 07m, a KTX train-ticket card (11월 28일 금요일, 11:58 KTX·서울역, 2시간 37분, 14:35 부산역), a game-character card, an Animation Style AI-image card (변환 시작 / AI로 변환된 이미지 수: 716,836개), and a flight-ticket card ICN to CEB 인천 세부 with dates and 왕복 가격 244,950 50% 티항공.",
+      "copy_overlay": "대여하기 · だいじょうぶ [다이죠부] · 총 수영 거리 1.0km / 총 수영 시간 1h 07m · KTX 11:58 14:35 · Animation Style 변환 시작 · ICN CEB 244,950 50%",
+      "layout_grid": "horizontal_carousel",
+      "subject_position": "row_of_cards_panning_left",
+      "typo_motion": "text rides inside each card as the whole row translates left; no independent type animation",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "graphic_field",
+      "gaze": "none",
+      "props": [
+        "mini-app feature cards (bike-rental map, language feedback, swim tracker, train ticket, game, AI image, flight ticket)"
+      ],
+      "color_palette": [
+        "#eef1f5",
+        "#1a56f0",
+        "#7fb0ff",
+        "#2b2d31"
+      ],
+      "color_intent": "Each card carries its own UI color (dark map, white sheet, sky-blue tracker, charcoal ticket) on the unifying pale field; Toss-blue recurs in buttons and the swim card to thread the brand through varied content.",
+      "pose_description": "No foreground human; a stylized game character and a person appear only inside card artwork.",
+      "subject_motion": "entire card row pans steadily leftward (carousel scroll), cards entering at right and exiting at left",
+      "camera_motion": "locked_off",
+      "camera_effect_local": "motion_blur_on_scroll",
+      "intra_cut_rhythm": "steady",
+      "transition_in": "dissolve",
+      "transition_out": "match_morph_to_chip_wall",
+      "mid_frame_path": "ADV-2026-014_frames/cut03_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "centered feature card (e.g. swim tracker or language feedback)",
+          "bike-rental map card with 대여하기 button"
+        ],
+        "midground": [
+          "KTX ticket card",
+          "flight-ticket card",
+          "Animation Style AI card",
+          "game-character card"
+        ],
+        "background": [
+          "flat light-grey field (#eef1f5)"
+        ],
+        "lighting_env": [
+          "flat even digital fill",
+          "self-lit UI cards"
+        ],
+        "atmosphere": [
+          "clean, no haze"
+        ]
+      },
+      "texture": {
+        "primary_subject": "flat_vector_ui",
+        "secondary_objects": [
+          "glass_clear",
+          "flat_vector_type"
+        ],
+        "background_surface": "flat_color",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "front",
+        "key_hardness": "diffused",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "strong",
+        "key_to_fill_ratio": "1:1",
+        "rim_light": false,
+        "practical_lights": [
+          "self-lit UI cards"
+        ],
+        "shadow_presence": "soft",
+        "overall_contrast": "hi_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#eef1f5",
+          "#1a56f0",
+          "#7fb0ff",
+          "#2b2d31"
+        ],
+        "palette_role": {
+          "#eef1f5": "background_dominant",
+          "#1a56f0": "brand_button_accent",
+          "#7fb0ff": "tracker_card_tone",
+          "#2b2d31": "ticket_card_anchor"
+        },
+        "color_relationship": "brand_dominant",
+        "temperature_balance": "cool_dominant",
+        "saturation_strategy": "desaturated_with_pop",
+        "contrast_type": "luminance_high",
+        "accent_color": "#1a56f0",
+        "accent_ratio": "15_percent",
+        "brand_color_match": [
+          "button/swim-card blue ~#1a56f0 = Toss brand blue"
+        ]
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A clean Korean fintech app-UI carousel key frame in a 16:9 landscape, set on a flat, softly luminous light cool-grey field in pale #eef1f5, showing a horizontal row of rounded-square mini-app feature cards spanning the frame as if mid-scroll, each card a self-illuminated app screen with a generous corner radius and a soft drop shadow. There is no foreground human; people appear only as illustration inside card artwork. Reading left to right across the row: a dark charcoal map card showing a stylised street grid with a red location pin and a full-width blue pill button labelled 대여하기 at the bottom (a bike-rental screen); next a clean white feedback card with a centered large Japanese phrase だいじょうぶ and a smaller bracketed Korean reading [다이죠부], a small green check with 정답입니다 above it, and two stacked light-grey choice buttons 괜찮아요 and 즐거웠어요 (a language-learning screen); next a sky-blue gradient card with white type reading 총 수영 거리 in a small label and a large 1.0 km below it, then 총 수영 시간 and a large 1h 07 m (a swim-tracker screen); next a white ticket card with 11월 28일, 금요일 at top, a large blue 11:58 with KTX·서울역, a 2시간 37분 duration with a small train glyph, and 14:35 with 부산역 (a KTX train-ticket screen); next a dark card with a glossy 3D game character; next a photographic card captioned Animation Style with small white text AI로 변환된 이미지 수: 716,836개 and a rounded 변환 시작 button; and a dark flight-ticket card reading ICN to CEB with 인천 and 세부 beneath, 가는편 11월 30일 (일), 오는편 12월 3일 (수), and 왕복 가격 244,950 with a green 50% chip beside 항공사 티항공. The cards sit on one horizontal baseline with even gaps, partly cropped at the left and right frame edges to imply a continuous scrolling strip, the central card fully visible and crisp while the outermost cards begin to leave the frame. Lighting is even digital fill across the pale field with the cards carrying their own self-illuminated UI brightness and only soft contact shadows grounding them; the canvas stays flat and screen-native with no hot spots. The lens read is flat and orthographic, straight-on at eye level with no perspective distortion, the card strip lying on the picture plane. The color strategy is brand-dominant and desaturated-with-pop: the neutral grey field and charcoal ticket/map cards keep the row calm while cobalt Toss-blue #1a56f0 recurs in the 대여하기 button and the sky-blue swim card to thread the brand through varied content, small green status chips and a warm game card adding minor accents, the blue reading as about fifteen percent of the frame. Textures are flat vector UI and clear glassy card surfaces over a smooth matte field, with crisp anti-aliased type and no grain. The atmosphere is clean and clinical, no haze, particles or smoke, just a bright strip of app cards on light grey. The post and signature look is crisp 4K commercial UI-demo compositing with rounded card masks, gentle ambient occlusion and screen-accurate contrast. For this multi-card carousel, decompose the frame into a left-to-right strip of discrete app-screen panels, each a distinct mini-app feature, sharing one baseline and one background so they read as a single scrolling product showcase. Style anchor: Korean fintech UI motion-graphics, a horizontal feature-card carousel of real mini-app screens (mobility, language, fitness, travel, games, AI), hi-key light-grey studio, no foreground people; this still is one mid-scroll state of a steady right-to-left pan in which cards enter at the right edge and exit at the left.",
+        "t2i_negative": "foreground human portrait, hands, real airline or brand trademark marks, watermark, photographic studio background, harsh shadows, low-key lighting, grain, noise, skewed perspective, lens flare, overlapping illegible cards, clutter",
+        "i2v_motion": "Hold the locked-off frame; translate the entire row of mini-app feature cards steadily right-to-left at a constant carousel speed, new cards entering from the right edge and old cards exiting left, with light horizontal motion blur on the fastest pan; text rides inside each card with no independent animation; the swim-tracker and ticket numbers stay static; ~4.4s, steady rhythm, morphing out as the cards dissolve into a scattered chip wall.",
+        "i2v_params": {
+          "clip_duration_sec": 4.433,
+          "camera_move": "locked_off",
+          "subject_motion_level": "moderate",
+          "signature_effect": "none",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; all on-screen card labels (Korean and the Japanese learning phrase) preserved verbatim; airline/app names kept as shown but rendered without real trademark marks; no foreground people.",
+        "panel_layout": {
+          "is_multi_panel": true,
+          "type": "horizontal_carousel",
+          "panel_count": 5,
+          "divider": "none (even gaps of pale grey between cards)",
+          "orientation": "row",
+          "panels": [
+            {
+              "id": 1,
+              "rect": "x -10-15%, y 22-78%",
+              "size_ratio": "~1/5 width",
+              "content": "Dark bike-rental map card with a red pin and a blue 대여하기 button (partly exiting left).",
+              "text_in_panel": "대여하기"
+            },
+            {
+              "id": 2,
+              "rect": "x 18-40%, y 22-78%",
+              "size_ratio": "~1/5 width",
+              "content": "White Japanese-learning feedback card.",
+              "text_in_panel": "だいじょうぶ [다이죠부] · 정답입니다 · 괜찮아요 · 즐거웠어요"
+            },
+            {
+              "id": 3,
+              "rect": "x 42-64%, y 22-78%",
+              "size_ratio": "~1/5 width",
+              "content": "Sky-blue swim-tracker card with distance and time stats.",
+              "text_in_panel": "총 수영 거리 1.0km · 총 수영 시간 1h 07m"
+            },
+            {
+              "id": 4,
+              "rect": "x 66-88%, y 22-78%",
+              "size_ratio": "~1/5 width",
+              "content": "White KTX train-ticket card with departure/arrival times.",
+              "text_in_panel": "11월 28일, 금요일 · 11:58 KTX·서울역 · 2시간 37분 · 14:35 부산역"
+            },
+            {
+              "id": 5,
+              "rect": "x 90-115%, y 22-78%",
+              "size_ratio": "~1/5 width",
+              "content": "Animation Style AI-image card and flight-ticket card entering from the right.",
+              "text_in_panel": "Animation Style · 변환 시작 · ICN CEB 244,950 50% 티항공"
+            }
+          ],
+          "layout_note": "A continuous right-to-left scrolling strip; at any instant ~4-5 cards are visible with the outermost two cropped at the frame edges."
+        }
+      }
+    },
+    {
+      "index": 4,
+      "duration": 10.867,
+      "framing": "full_field_then_product",
+      "function": "wow_accumulation_and_one_app_payoff",
+      "subject_action": "A dense, scrolling wall of mini-app service pill chips (icon + name + one-line description: 웨이, 택시 호출, 알바몬, 디스팟, 팜픽, 사과게임, 기차 예약, 뉴스보이, 마이클, 머지푸르트 and many more) drifts across the frame intermixed with floating glossy 3D objects (a speech bubble, an apple, a game controller, a green money cube, a money bag, a car, a house, a diamond); the swarm sweeps into an abstract blue liquid morph and pours into a single white smartphone at center, whose screen first shows the Toss mini-app store (search bar, 전체/금융/게임/생활/이벤트 tabs, 오늘의 발견 안전집사, 추천 서비스 list) under the left caption 일상 앱부터, then a casual game store/play screen (수박게임, 시작하기, 실시간 인기 게임 ranking) under the right caption 게임까지.",
+      "copy_overlay": "[service chip wall: 웨이 / 택시 호출 / 알바몬 / 디스팟 / 팜픽 / 기차 예약 ...] -> 일상 앱부터 [phone: mini-app store] ... 게임까지 [phone: 수박게임]",
+      "layout_grid": "scatter_then_center",
+      "subject_position": "scatter_converging_to_center_phone",
+      "typo_motion": "service chip labels ride their chips as the wall scrolls; the left/right captions 일상 앱부터 and 게임까지 fade in flanking the phone, 게임 keyed in an orange-pink gradient",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "graphic_field",
+      "gaze": "none",
+      "props": [
+        "mini-app service pill chips (icon+name+desc)",
+        "floating 3D objects (speech bubble, apple, game controller, money cube, money bag, car, house, diamond)",
+        "white smartphone product frame",
+        "in-phone mini-app store screen",
+        "in-phone casual-game screen"
+      ],
+      "color_palette": [
+        "#eef1f5",
+        "#1a56f0",
+        "#ff7a59",
+        "#34c759"
+      ],
+      "color_intent": "A busy multi-hued chip swarm (every category its own color) reads as abundance, then collapses into the brand-blue liquid and a clean white phone so the chaos resolves into one calm device; warm orange-pink keys the 게임 caption to signal the playful end of the range.",
+      "pose_description": "No human; glossy 3D objects and UI screens act as the subjects.",
+      "subject_motion": "chip wall and 3D objects scroll/drift, accelerate, dissolve into a blue liquid swirl, then resolve as a centered phone with animating screens",
+      "camera_motion": "locked_off",
+      "camera_effect_local": "liquid_morph_and_glow",
+      "intra_cut_rhythm": "build_up",
+      "transition_in": "match_morph_from_carousel",
+      "transition_out": "hard_cut",
+      "mid_frame_path": "ADV-2026-014_frames/cut04_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "named service pill chips (팜픽, 마이클, 디스팟, 슬라이스, 머지푸르트 ...)",
+          "glossy 3D objects (apple, game controller, speech bubble, green cube)",
+          "centered white smartphone"
+        ],
+        "midground": [
+          "colorful empty pill chips filling the wall",
+          "in-phone mini-app store and game screens",
+          "left caption 일상 앱부터 / right caption 게임까지"
+        ],
+        "background": [
+          "flat light-grey field shifting to a soft lilac-pink glow on the phone beat",
+          "abstract blue liquid swirl at the morph"
+        ],
+        "lighting_env": [
+          "flat even digital fill",
+          "soft radial glow behind the phone",
+          "self-lit phone screen"
+        ],
+        "atmosphere": [
+          "energetic, abundant, then calm; no haze"
+        ]
+      },
+      "texture": {
+        "primary_subject": "flat_vector_ui",
+        "secondary_objects": [
+          "plastic_glossy",
+          "glass_clear"
+        ],
+        "background_surface": "flat_color",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "front",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "strong",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": false,
+        "practical_lights": [
+          "phone screen self-illumination"
+        ],
+        "shadow_presence": "soft",
+        "overall_contrast": "hi_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#eef1f5",
+          "#1a56f0",
+          "#ff7a59",
+          "#34c759"
+        ],
+        "palette_role": {
+          "#eef1f5": "background_dominant",
+          "#1a56f0": "brand_resolve_accent",
+          "#ff7a59": "game_caption_warm_accent",
+          "#34c759": "status_chip_accent"
+        },
+        "color_relationship": "polychrome_to_brand",
+        "temperature_balance": "warm_cool_mixed",
+        "saturation_strategy": "vivid_then_resolved",
+        "contrast_type": "hue_multi",
+        "accent_color": "#1a56f0",
+        "accent_ratio": "20_percent",
+        "brand_color_match": [
+          "liquid/phone-glow blue ~#1a56f0 = Toss brand blue"
+        ]
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A high-energy Korean fintech motion-graphics key frame in a 16:9 landscape, captured at the dense accumulation beat, set on a flat light cool-grey field in pale #eef1f5 that is almost entirely covered by a scrolling wall of mini-app service chips and floating glossy 3D objects. There is no human anywhere; the subjects are UI chips and stylised 3D props. Across the frame, dozens of horizontal rounded pill chips drift at slightly different speeds: many are plain solid-color capsules (cobalt blue, soft sky-blue, coral orange, violet, mint, pale grey, near-white) reading as a colorful field of placeholders, while several are fully detailed service chips, each a white pill with a small colorful round app icon on the left and two lines of Korean text, a bold name and a light-grey one-line description. Legible detailed chips in this still include 팜픽 영양제 제대로 고르기 with a mint pill-bottle icon, 마이클 내 차 엔진오일 가격 보기 with a blue car-care icon, 디스팟 가격 낮추는 할인코드 찾기 with a blue discount-ticket icon, 슬라이스 가장 빠른 디지털 명함 with a black mark, and 머지푸르트 황금수박 만들기 with a watermelon icon. Interspersed among the chips float oversized glossy 3D objects rendered in soft studio plastic: a fat white chat speech-bubble with three dots, a shiny red apple with a green leaf, a white-and-grey game controller, and a chunky green cube, each catching a soft top highlight and casting a faint soft shadow, giving the flat chip field bursts of dimensional pop. The arrangement is deliberately busy and abundant, pills and objects packed across the whole frame with only slivers of pale grey showing between them, the eye unable to land on any single item, the visual argument being that there are hundreds of these. Lighting is even digital fill across the field with the 3D objects lit by a soft broad frontal key at a neutral temperature and a strong fill, carrying gentle specular highlights and soft contact shadows, while the flat chips stay screen-native and shadowless except for thin card shadows. The lens read is flat and orthographic, straight-on at eye level with no perspective distortion, everything on the picture plane. The color strategy is polychrome-heading-to-brand: at this beat the frame is intentionally multi-hued and saturated to read as variety and abundance, with cobalt Toss-blue #1a56f0 the most frequent capsule color so the brand still anchors the chaos, warm coral-orange #ff7a59 and mint-green #34c759 chips adding heat and freshness, the blue family reading as roughly twenty percent of the busy frame; the design implies that this entire swarm will shortly collapse into a single blue liquid and a clean white phone. Textures are flat vector UI on the chips and smooth glossy plastic and clear surfaces on the 3D objects, over a smooth matte field, with crisp anti-aliased type and no grain. The atmosphere is lively and dense but still clean, no haze or smoke, the energy coming from quantity and color rather than texture. The post and signature look is crisp 4K commercial motion-graphics with rounded masks, gentle ambient occlusion under the 3D objects and a bright, playful, brand-forward finish. For this multi-element beat, decompose the frame into a tiled wall of discrete service-chip panels plus a few foreground 3D-object focal panels, all sharing one background, so it reads as a single scrolling inventory of mini-app services. Style anchor: Korean fintech UI motion-graphics, a dense accumulating wall of mini-app service chips with playful 3D props, hi-key light-grey studio, no people; this still is the peak-density state just before the swarm sweeps into a blue liquid morph and pours into one centered smartphone.",
+        "t2i_negative": "people, hands, faces, real brand trademark marks, watermark, photographic background, harsh shadows, low-key lighting, grain, noise, muddy colors, empty frame, single object, perspective distortion, lens flare",
+        "i2v_motion": "Hold the locked-off frame; scroll the wall of service chips and floating 3D objects across the frame at mixed speeds with light parallax, accelerating into a swirling cobalt-blue liquid morph that swallows the chips; the liquid then resolves into a single centered white smartphone with a soft lilac glow behind it, its screen animating first to the Toss mini-app store (search bar, category tabs, 오늘의 발견 안전집사, 추천 서비스 list) as the left caption 일상 앱부터 fades in, then cross-fading to a casual-game screen (수박게임, 시작하기, 실시간 인기 게임 ranking) as the right caption 게임까지 fades in with 게임 keyed in an orange-pink gradient; ~10.9s, building rhythm, ending on a hard cut.",
+        "i2v_params": {
+          "clip_duration_sec": 10.867,
+          "camera_move": "locked_off",
+          "subject_motion_level": "high",
+          "signature_effect": "liquid_morph",
+          "pacing": "build_up",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; all on-screen service-chip labels, captions and in-phone screen labels preserved verbatim; app-icon marks and the Toss logo rendered generically; no people.",
+        "panel_layout": {
+          "is_multi_panel": true,
+          "type": "tiled_wall_plus_focal",
+          "panel_count": 6,
+          "divider": "none (chips float with small pale-grey gaps)",
+          "orientation": "scatter",
+          "panels": [
+            {
+              "id": 1,
+              "rect": "x 0-33%, y 40-62%",
+              "size_ratio": "chip",
+              "content": "Service chip 팜픽 with mint pill-bottle icon.",
+              "text_in_panel": "팜픽 · 영양제 제대로 고르기"
+            },
+            {
+              "id": 2,
+              "rect": "x 40-63%, y 40-62%",
+              "size_ratio": "chip",
+              "content": "Service chip 마이클 with blue car-care icon.",
+              "text_in_panel": "마이클 · 내 차 엔진오일 가격 보기"
+            },
+            {
+              "id": 3,
+              "rect": "x 72-100%, y 40-62%",
+              "size_ratio": "chip",
+              "content": "Service chip 디스팟 with blue discount-ticket icon.",
+              "text_in_panel": "디스팟 · 가격 낮추는 할인코드 찾기"
+            },
+            {
+              "id": 4,
+              "rect": "x 2-30%, y 74-95%",
+              "size_ratio": "chip",
+              "content": "Service chip 슬라이스 with black mark.",
+              "text_in_panel": "슬라이스 · 가장 빠른 디지털 명함"
+            },
+            {
+              "id": 5,
+              "rect": "x 72-100%, y 74-95%",
+              "size_ratio": "chip",
+              "content": "Service chip 머지푸르트 with watermelon icon.",
+              "text_in_panel": "머지푸르트 · 황금수박 만들기"
+            },
+            {
+              "id": 6,
+              "rect": "x 55-78%, y 45-72%",
+              "size_ratio": "focal_3d",
+              "content": "Glossy 3D game controller (focal object among the chips).",
+              "text_in_panel": ""
+            }
+          ],
+          "layout_note": "A scrolling tiled wall of mini-app chips with a few oversized glossy 3D objects as focal points; it collapses into a blue liquid and then a centered phone."
+        }
+      }
+    },
+    {
+      "index": 5,
+      "duration": 1.233,
+      "framing": "full_field_typo",
+      "function": "thesis_statement_card",
+      "subject_action": "A hard cut lands on a single centered line of near-black Korean type 앱을 쓰는 새로운 방식 on a flat light-grey field, stating the campaign thesis.",
+      "copy_overlay": "앱을 쓰는 새로운 방식",
+      "layout_grid": "center",
+      "subject_position": "center",
+      "typo_motion": "single centered line holds steady; the previous busy phone beat is cut away to a calm full-field statement",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "graphic_field",
+      "gaze": "none",
+      "props": [],
+      "color_palette": [
+        "#eef1f5",
+        "#2b2d31"
+      ],
+      "color_intent": "Maximum calm and clarity: one charcoal line on a light field so the thesis reads instantly after the dense montage.",
+      "pose_description": "No human; pure typographic statement.",
+      "subject_motion": "none (text holds)",
+      "camera_motion": "locked_off",
+      "camera_effect_local": "none",
+      "intra_cut_rhythm": "static",
+      "transition_in": "hard_cut",
+      "transition_out": "color_shift_morph",
+      "mid_frame_path": "ADV-2026-014_frames/cut05_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "centered Korean line 앱을 쓰는 새로운 방식"
+        ],
+        "midground": [],
+        "background": [
+          "flat light-grey field (#eef1f5)"
+        ],
+        "lighting_env": [
+          "flat even digital fill"
+        ],
+        "atmosphere": [
+          "calm, empty, no haze"
+        ]
+      },
+      "texture": {
+        "primary_subject": "flat_vector_type",
+        "secondary_objects": [],
+        "background_surface": "flat_color",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "front",
+        "key_hardness": "diffused",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "strong",
+        "key_to_fill_ratio": "1:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "none",
+        "overall_contrast": "hi_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#eef1f5",
+          "#2b2d31"
+        ],
+        "palette_role": {
+          "#eef1f5": "background_dominant",
+          "#2b2d31": "text_anchor"
+        },
+        "color_relationship": "monochrome",
+        "temperature_balance": "neutral",
+        "saturation_strategy": "monochrome",
+        "contrast_type": "luminance_high",
+        "accent_color": "#2b2d31",
+        "accent_ratio": "10_percent",
+        "brand_color_match": [
+          "no brand color this cut; neutral charcoal-on-grey"
+        ]
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A minimal, declarative full-screen typographic statement card in a 16:9 landscape, built around a single centered line of Korean type on a flat, softly luminous light cool-grey field in pale #eef1f5 with no texture, no gradient to speak of and no vignette, the emptiness doing the emotional work. Centered both horizontally and a touch above the true vertical middle sits one line reading 앱을 쓰는 새로운 방식 set in a heavy rounded Korean sans-serif in near-black charcoal #2b2d31, the glyphs evenly tracked and confidently weighted so the claim reads instantly and feels resolved. There is nothing else in the frame: no logo, no icon, no UI, no imagery, no people, no decorative shapes, only the single charcoal line and a wide breathing field of pale neutral above, below and to either side of it. Lighting is rendered as perfectly even digital fill with absolutely uniform luminance across the entire grey plane, no hot spots, no falloff toward the corners and no cast shadow behind the letters, keeping the surface clean and screen-native. The lens read is a straight-on flat composition with no perspective and no depth, the type sitting exactly on the picture plane at eye level. The color strategy is deliberately monochrome and neutral: one near-neutral light-grey background plus one charcoal for the text, a pure luminance contrast that is instantly legible and intentionally un-branded at this beat so the idea, not the color, lands; the charcoal type reads as roughly ten percent of the frame area. Texture is none in any photographic sense, smooth flat vector type on smooth flat color, the cleanest possible digital surface, no grain, no paper, no noise. Atmosphere is none: this is a graphic interstitial, not a photographic scene, so there is no haze, glow, dust or particle of any kind. The post and signature look is crisp, anti-aliased modern app-marketing minimalism, the kind of calm one-line thesis card that punctuates a Korean fintech montage right after its busiest beat to let the audience exhale and read the point. The single line is optically centered rather than mathematically centered, nudged a hair above the middle so the slightly larger empty lower half feels intentional and balanced, and the weight of the glyphs is heavy enough to hold presence on the pale field without shouting. The spacing across 앱을, 쓰는, 새로운 and 방식 gives the line a measured, confident cadence, as if the whole film has been compressed into one quiet claim. The composition is the simplest kind of all: a single horizontal line of text floating in a large rectangle of even pale grey, with no competing focal point, no secondary line, no kicker and no graphic furniture, the entire frame organised around the one centered claim and the calm field around it. The negative space is the real subject here, easily four-fifths of the frame is empty pale neutral, and that emptiness reads as confidence and editorial restraint rather than as a missing element, the kind of deliberate breath a Korean fintech edit takes so the audience can land on the idea before the brand name arrives. There is a quiet, almost silent quality to the composition, the held final-thought beat that follows the busiest montage in the film and precedes the product-name reveal, the charcoal glyphs sitting with even weight and even tracking so nothing about the line feels rushed or decorative. Nothing animates in this still; it is a deliberate held statement between a dense product montage that precedes it and the brand-name reveal that follows. Style anchor: Korean fintech UI motion-graphics, a calm centered one-line thesis card in charcoal on light grey, total simplicity, no imagery and no people; this still is the held state of the statement card just before its words begin shifting color and morphing toward the product-name reveal.",
+        "t2i_negative": "people, hands, logos, icons, imagery, ui chrome, gradients with hot spots, shadows behind text, textures, noise, multiple colors, clutter, photographic background, watermark",
+        "i2v_motion": "Open on a hard cut to the centered charcoal line 앱을 쓰는 새로운 방식 already in place on the flat grey field; hold it perfectly still and centered with no movement for most of the beat; at the very end the words begin a gentle color shift (toward warm pink-orange on part of the line) as a morph cue toward the next product-name card; locked-off camera, no zoom; ~1.2s, static rhythm.",
+        "i2v_params": {
+          "clip_duration_sec": 1.233,
+          "camera_move": "locked_off",
+          "subject_motion_level": "still",
+          "signature_effect": "none",
+          "pacing": "static",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; thesis copy preserved verbatim; no logo mark; no people."
+      }
+    },
+    {
+      "index": 6,
+      "duration": 4.657,
+      "framing": "full_field_typo_and_logo",
+      "function": "brand_name_reveal_and_signoff",
+      "subject_action": "The thesis words shift to a warm pink-orange gradient (새로운 방식) then a row of glossy 3D category objects (money bag, car, blue-roof house on the left; apple, game controller, blue diamond on the right) appears joined by a glowing horizontal blue beam; the frame resolves to a centered multi-color product-name title 토스 미니앱 (토스 in blue, 미 in red, 니앱 in charcoal) and finally to a centered toss logo lockup (3D split-bean mark + lowercase wordmark) on a light off-white field with bottom fineprint *토스 미니앱 서비스는 만 19세 이상부터 이용할 수 있어요.",
+      "copy_overlay": "새로운 방식 -> [3D objects + glowing line] -> 토스 미니앱 -> [toss logo] *토스 미니앱 서비스는 만 19세 이상부터 이용할 수 있어요.",
+      "layout_grid": "center",
+      "subject_position": "center",
+      "typo_motion": "kinetic color shift on 새로운 방식 (pink-orange gradient); product name 토스 미니앱 reveals with per-syllable color keys; logo lockup settles with a gentle fade",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "graphic_field",
+      "gaze": "none",
+      "props": [
+        "glossy 3D category objects (money bag, car, house, apple, game controller, diamond)",
+        "glowing horizontal blue connector beam",
+        "토스 미니앱 title",
+        "toss brand logo lockup"
+      ],
+      "color_palette": [
+        "#eceef1",
+        "#1a56f0",
+        "#ff7a59",
+        "#e23b54"
+      ],
+      "color_intent": "Warm pink-orange punctuates the thesis, the glowing blue beam links finance/life/play categories, then the palette resolves to brand-blue for the name and logo so the film lands on the trademark color.",
+      "pose_description": "No human; 3D category objects and the brand logo are the subjects.",
+      "subject_motion": "color-shifting type; 3D objects settle with a glowing connector; title and logo fade/settle",
+      "camera_motion": "locked_off",
+      "camera_effect_local": "glow_beam_and_fade",
+      "intra_cut_rhythm": "settle",
+      "transition_in": "color_shift_morph",
+      "transition_out": "end",
+      "mid_frame_path": "ADV-2026-014_frames/cut06_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "row of glossy 3D category objects",
+          "glowing horizontal blue beam",
+          "centered 토스 미니앱 title / toss logo lockup"
+        ],
+        "midground": [
+          "per-syllable colored title glyphs"
+        ],
+        "background": [
+          "light off-white field (#eceef1)"
+        ],
+        "lighting_env": [
+          "flat even digital fill",
+          "soft glow along the blue beam"
+        ],
+        "atmosphere": [
+          "clean, premium, no haze"
+        ]
+      },
+      "texture": {
+        "primary_subject": "flat_vector_type",
+        "secondary_objects": [
+          "plastic_glossy",
+          "crystal_glass"
+        ],
+        "background_surface": "flat_color",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "front",
+        "key_hardness": "diffused",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "strong",
+        "key_to_fill_ratio": "1:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "soft",
+        "overall_contrast": "hi_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#eceef1",
+          "#1a56f0",
+          "#ff7a59",
+          "#e23b54"
+        ],
+        "palette_role": {
+          "#eceef1": "background_dominant",
+          "#1a56f0": "brand_accent",
+          "#ff7a59": "kinetic_warm_accent",
+          "#e23b54": "title_syllable_accent"
+        },
+        "color_relationship": "brand_dominant_with_warm_accents",
+        "temperature_balance": "cool_dominant",
+        "saturation_strategy": "desaturated_with_pop",
+        "contrast_type": "hue_multi",
+        "accent_color": "#1a56f0",
+        "accent_ratio": "10_percent",
+        "brand_color_match": [
+          "logo/title blue ~#1a56f0 = Toss brand blue"
+        ]
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A minimal Korean fintech brand-reveal key frame in a 16:9 landscape, captured at the 3D-object connector beat just before the product-name card, set on a flat, soft, very light off-white field in pale #eceef1 with the faintest cool tint and an extremely subtle center bias, calm and premium and uncluttered. There is no human; the subjects are glossy 3D category objects and brand typography. Across the horizontal midline sit two small clusters of oversized glossy 3D objects rendered in soft studio plastic and glass, separated by a thin glowing horizontal blue light-beam that runs through the empty center of the frame like a connective thread. On the left cluster: a golden money bag marked with a Korean won symbol, a chunky dark-grey toy car, and a small house with a vivid blue roof and white walls, reading as finance, mobility and real-estate. On the right cluster: a shiny red apple with a green leaf, a white-and-grey game controller, and a faceted deep-blue crystal diamond, reading as lifestyle, play and rewards. Each object catches a soft top-left highlight and casts a faint soft contact shadow on the pale field, and the slim blue beam between the two clusters carries a gentle bloom, implying that all these different worlds are linked by one connecting layer. The composition is symmetrical and generously spaced, the two object clusters balanced left and right with a wide calm gap of pale neutral and the glowing line bridging them, plenty of empty field above and below so the arrangement feels confident and premium rather than crowded. Lighting is rendered as even digital fill across the off-white field with the 3D objects lit by a soft broad frontal key at a neutral temperature and strong fill, gentle specular highlights and soft contact shadows grounding them, plus the localized soft glow along the blue beam; the surface stays clean and screen-native with no hot spots elsewhere. The lens read is flat and orthographic, straight-on at eye level with no perspective distortion, the objects and beam sitting on the picture plane. The color strategy is brand-dominant with controlled warm accents: the pale neutral field holds most of the frame, cobalt Toss-blue #1a56f0 owns the connecting beam and the blue house roof and diamond so the brand color threads the composition, a warm coral-orange #ff7a59 and a crimson-red #e23b54 appear only as small jewels on the apple and the money bag, and the blue reads as roughly ten percent of the frame; the design implies the whole palette is about to resolve to brand blue for the name and logo. Textures are smooth glossy plastic on the bag, car, house and controller, faceted crystal glass on the diamond, and crisp flat vector type elsewhere, all over a smooth matte field with no grain. The atmosphere is calm, clean and premium, no haze, smoke or particles, just glossy objects, a glowing line and pale space. The post and signature look is crisp 4K commercial motion-graphics with gentle ambient occlusion under each object, a soft beam bloom and a restrained brand-forward finish. Style anchor: Korean fintech UI motion-graphics, a 3D category-object connector beat that bridges finance, life and play with a single glowing line on light off-white, total simplicity, no people; this still is the held state just before the objects give way to a centered multi-color product-name card 토스 미니앱 and then a centered toss logo lockup with a small bottom fineprint about an age requirement.",
+        "t2i_negative": "people, hands, faces, real trademark marks, watermark, photographic background, harsh shadows, low-key lighting, grain, noise, neon clutter, busy background, perspective distortion, lens flare, multiple logos",
+        "i2v_motion": "Hold the locked-off frame; carry in the warm pink-orange color shift on the thesis words, then settle the two clusters of glossy 3D category objects on the left and right with the thin blue connector beam glowing on between them; the objects ease into place with soft bounce; the frame then cross-fades to a centered product-name title 토스 미니앱 whose syllables key into blue, red and charcoal, and finally to a centered toss logo lockup (3D split-bean mark plus lowercase wordmark) that settles with a gentle fade and a hair of scale-up as a small bottom fineprint *토스 미니앱 서비스는 만 19세 이상부터 이용할 수 있어요. fades in; locked-off camera, no zoom; ~4.7s, settling rhythm, ending the film.",
+        "i2v_params": {
+          "clip_duration_sec": 4.657,
+          "camera_move": "locked_off",
+          "subject_motion_level": "moderate",
+          "signature_effect": "glow_beam",
+          "pacing": "settle",
+          "loopable": true
+        },
+        "fidelity_note": "craft-faithful; product name, title syllable colors and fineprint preserved verbatim; brand logo lockup rendered generically (no real trademark); 3D objects abstracted; no people."
+      }
+    }
+  ],
+  "search_keywords": {
+    "industry": [
+      "finance",
+      "it"
+    ],
+    "product_category": [
+      "mini_app",
+      "super_app",
+      "fintech_platform",
+      "app_marketplace"
+    ],
+    "target_demo": [
+      "mz",
+      "20s",
+      "30s",
+      "mass_audience",
+      "smartphone_first"
+    ],
+    "media_format": [
+      "online_video_ad",
+      "landscape_16x9",
+      "midform_33s"
+    ],
+    "tone": [
+      "clean_minimal",
+      "playful",
+      "energetic",
+      "modern",
+      "confident"
+    ],
+    "pacing": [
+      "build_up",
+      "accelerating"
+    ],
+    "technique": [
+      "app_ui_demo",
+      "slot_machine_list",
+      "kinetic_typo",
+      "ui_motion",
+      "mini_app_showcase",
+      "accumulation_montage",
+      "carousel_scroll",
+      "photo_collage",
+      "liquid_morph"
+    ],
+    "vfx_keywords": [
+      "ui_motion",
+      "kinetic_typo",
+      "3d_render",
+      "color_pop",
+      "slot_machine_scroll",
+      "liquid_morph",
+      "slide_transition"
+    ],
+    "copy_strategy_keywords": [
+      "surprise_reveal",
+      "breadth_demo",
+      "one_app_value_prop",
+      "product_name_signoff",
+      "caption_led"
+    ],
+    "concept_derivation_pattern": [
+      "accumulation_montage",
+      "metaphor_visual_sequence",
+      "feature_inventory"
+    ]
+  },
+  "inferred_creative_thinking": {
+    "insight": "People think of Toss as just a finance/banking app and have no idea it now hosts hundreds of unrelated everyday services and games, so the job is to expand the mental category of the brand.",
+    "persona": "An existing Toss user who opens it only to send money or check banking, unaware they could also rent a bike, book a train, read news, find a part-time job or play a casual game without installing anything new.",
+    "moment": "The beat where dozens of named service chips and lifestyle photos physically pour into one phone, making 'it's all already in here' feel literal rather than claimed.",
+    "product_role": "Toss positions its mini-app marketplace as a new operating layer — use any of these services inside the one Toss app, no separate downloads, no separate logins.",
+    "punchline": "Everyday apps to games, all without installing anything: that's the Toss mini-app, a new way to use apps.",
+    "differentiator": "Breadth and zero-install convenience of a super-app, dramatized by a slot-machine list and an accumulating card montage instead of a feature list.",
+    "brand_fit_one_liner": "Toss turns 'just a finance app' into 'the one app that quietly does everything', clean and playful.",
+    "confidence": "inferred"
+  },
+  "inferred_brief": "Reposition Toss from a finance app to a super-app by showcasing the breadth of its no-install mini-app marketplace — from everyday life services to casual games — and brand the experience as 토스 미니앱, 앱을 쓰는 새로운 방식.",
+  "cross_pollination_tags": {
+    "adjacent": [
+      "mobile_banking",
+      "ecommerce_marketplace",
+      "mobility_app",
+      "app_store"
+    ],
+    "distant": [
+      "automotive",
+      "travel_ota",
+      "casual_gaming",
+      "real_estate"
+    ],
+    "contrast": [
+      "luxury_fashion",
+      "fine_dining",
+      "heavy_machinery"
+    ]
+  },
+  "concept_derivation_pattern": [
+    "accumulation_montage",
+    "metaphor_visual_sequence",
+    "feature_inventory"
+  ],
+  "confidence": "inferred",
+  "analyst_notes": "33.5s Toss 미니앱 super-app showcase, BGM-only and caption-led (no voiceover; whisper found 0 speech segments). Pure motion-graphics + app-UI montage, locked-off with sliding/scrolling UI motion (no camera wiggle despite mean_abs_shift_x 1.23 — that is UI translation). 6 cuts: (1) hook title 토스에서 할 수 있는 수백 가지 일들 + slot-machine service list + value-prop 설치할 필요 없이 토스 앱 하나로; (2) converging photo collage of lifestyle imagery; (3) horizontal carousel of real mini-app feature cards (bike rental, swim tracker, Japanese learning, KTX/flight tickets, game, AI image); (4) WOW beat — dense scrolling chip wall of named services + floating 3D objects that morph through a blue liquid and pour into one phone showing the mini-app store (일상 앱부터) then a casual game (게임까지); (5) hard-cut thesis card 앱을 쓰는 새로운 방식 (this is the 27.62s cut the metrics hard-flagged); (6) kinetic color-typo + 3D-object connector montage to the product-name reveal 토스 미니앱 and the centered toss logo with fineprint 만 19세 이상. Service/card copy captured verbatim. Brand logo rendered generically in recreation prompts.",
+  "verification": {
+    "frames_reviewed": "2007 frames extracted native-res + 100% per-frame metrics (diff/hist/shift/motion-zones/text-delta); all 6 cut boundaries plus ~30 sampled frames (one every ~0.6-1.0s of cut length and at each text change) visually read at native 1920x1080; sliding-UI motion confirmed on adjacent frames (no wiggle), 27.62s hard cut confirmed at the 앱을 쓰는 새로운 방식 card.",
+    "audio_analyzed": true,
+    "hitrate_na": true,
+    "abstraction_checked": true
+  }
+}

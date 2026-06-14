@@ -1,0 +1,2407 @@
+{
+  "id": "ADV-2026-040",
+  "source_ref": {
+    "platform": "digital_video",
+    "title_or_campaign": "현대카드 DIVE Grand Open — Let's DIVE",
+    "brand": "현대카드",
+    "product": "현대카드 DIVE (라이프스타일 콘텐츠 앱)",
+    "model": null,
+    "year": 2023,
+    "production_note": "DIGITAL Hyundai Card / DIVE 앱 그랜드 오픈 디지털 필름. 플랫 일러스트 2D 애니메이션. App Store·Google Play 다운로드 CTA.",
+    "url": null
+  },
+  "category_primary": "finance.card",
+  "category_tags": [
+    "핀테크",
+    "라이프스타일앱",
+    "콘텐츠큐레이션",
+    "브랜드앱",
+    "MZ타깃"
+  ],
+  "mood": [
+    "hip",
+    "playful",
+    "trendy",
+    "energetic",
+    "pop_art"
+  ],
+  "target_demo": "20대~30대 초, 취향·트렌드 소비에 적극적인 MZ세대 힙스터·얼리어답터",
+  "total_duration": 46.3,
+  "shot_count": 17,
+  "shot_count_corrected": 17,
+  "fps": 12.0,
+  "aspect_ratio": "16:9",
+  "hook_position": 1.0,
+  "cta_position": 44.5,
+  "narrative_arc": "검은 화면 → 폰 속 DIVE 앱 터치(후크 '요즘 뭐가 힙하지?') → 폰 안으로 다이브하며 스타일링 동작 몽타주 → 'Let's DIVE' 타이틀 스트로브 → 다이버가 8개 라이프스타일 콘텐츠 카테고리(고메·인테리어·디자인·여행·스타일·뮤직·테크)를 차례로 다이빙 → 모두 노란 풀에 입수(페이오프 태그라인 '취향을 업데이트하는 힙스터들의 필수 앱') → 현대카드 DIVE 그랜드 오픈 + 스토어 다운로드 마무리",
+  "narrative_structure": "linear_continuous",
+  "pacing_curve": "front_loaded",
+  "music_tempo_curve": "steady",
+  "wow_cut_index": [
+    7,
+    8,
+    15
+  ],
+  "creative_device": "dive_metaphor_world_tour + flat_illustration_montage + kinetic_typo_strobe + hashtag_category_reveal",
+  "production_signature": {
+    "capture_style": "2d_animation",
+    "camera_signature": [
+      "locked_off",
+      "graphic_wipe"
+    ],
+    "signature_note": "전 컷이 플랫 벡터 라인아트 2D 애니메이션(실사·3D 없음). 검정 윤곽선 + 비비드 팝아트 컬러(핑크·옐로·퍼플·시안). metrics wiggle(mean_abs_shift_x=5.98, sign_flips=0.245)은 wiggle_3d가 아니라 (a)컷 간 그래픽 와이프/슬라이드 전환과 (b)다이버 캐릭터의 큰 수평 이동 모션에서 나온 값으로 육안 확인됨 — 순수 렌즈 wiggle/parallax는 부재. 컷 전환은 하드컷 + 수평 그래픽 와이프(한 씬이 옆에서 밀려들어옴) 혼합. 'Let's DIVE' 타이틀은 teal↔yellow↔white 색상 스트로브 애니메이션. fps 12.0은 실제 재생 레이트(저프레임 카툰 룩).",
+    "color_grade": "vivid_pop_flat",
+    "texture_fx": "clean_digital_flat_lineart"
+  },
+  "global_layout": {
+    "grid_system": "split_screen",
+    "subject_placement_dominant": "varies",
+    "subject_typo_relation": "typo_separate_zone",
+    "negative_space_use": "asymmetric",
+    "layout_note": "콘텐츠 카테고리 컷(8~14)은 좌측 메인 일러스트 씬 + 우측(또는 코너) 카테고리 라벨(다이아/사각 박스) + 중앙~좌측에 해시태그 말풍선/필 박스가 순차 등장하는 분할 구조. 타이틀·브랜드 컷(7·16·17)은 중앙 집중. 오프닝 폰 컷(2)은 우측 폰 + 좌측 카피."
+  },
+  "recurring_motifs": [
+    "핑크색 손·맨살 라인아트",
+    "다이빙하는 인물(다이버 실루엣)",
+    "수영모(스윔캡)와 고글",
+    "비비드 옐로 배경(=물/풀)",
+    "DIVE 앱 아이콘(퍼플-시안 그라데이션)",
+    "카테고리 라벨 박스 + 해시태그 필"
+  ],
+  "copywriting": {
+    "tagline_text": "취향을 업데이트하는\n힙스터들의 필수 앱",
+    "tagline_structure": "혜택·효익 설명 + 타깃 호명",
+    "tagline_length_syllables": 19,
+    "tagline_position_sec": 38.0,
+    "cta_text": "현대카드 DIVE Grand Open",
+    "cta_text_structure": "브랜드·제품명 + 오픈 고지",
+    "cta_position_sec": 42.5,
+    "copy_tone": [
+      "트렌디",
+      "위트",
+      "직접"
+    ],
+    "copy_strategy": "trend_curiosity_to_app_reveal",
+    "copy_lines_count": 6,
+    "lines": [
+      {
+        "position_sec": 1.0,
+        "text": "요즘 뭐가 힙하지?",
+        "function": "curiosity_hook",
+        "tone": "playful",
+        "source": "caption"
+      },
+      {
+        "position_sec": 6.83,
+        "text": "Let's DIVE",
+        "function": "brand_action_title",
+        "tone": "energetic",
+        "source": "caption"
+      },
+      {
+        "position_sec": 8.0,
+        "text": "COOKING · GOURMET",
+        "function": "category_label",
+        "tone": "neutral",
+        "source": "caption"
+      },
+      {
+        "position_sec": 38.0,
+        "text": "취향을 업데이트하는 힙스터들의 필수 앱",
+        "function": "tagline",
+        "tone": "confident",
+        "source": "caption"
+      },
+      {
+        "position_sec": 42.5,
+        "text": "현대카드 DIVE",
+        "function": "brand_cta",
+        "tone": "neutral",
+        "source": "caption"
+      },
+      {
+        "position_sec": 42.5,
+        "text": "Grand Open",
+        "function": "launch_announce",
+        "tone": "confident",
+        "source": "caption"
+      }
+    ],
+    "captions": [
+      {
+        "position_sec": 8.0,
+        "text": "#요즘 뜨는 맛집 / #고메위크 완전정복 / #청담 핫한 루프탑",
+        "function": "category_hashtags_gourmet"
+      },
+      {
+        "position_sec": 13.67,
+        "text": "#인테리어 추천도서 / #취향저격 소품샵 / #희귀 도서 찾기 (ARCHITECTURE · INTERIOR)",
+        "function": "category_hashtags_interior"
+      },
+      {
+        "position_sec": 17.42,
+        "text": "#라이브러리 무료입장 / #이태원 핫한 전시 예매 (DESIGN · ART)",
+        "function": "category_hashtags_design"
+      },
+      {
+        "position_sec": 23.5,
+        "text": "#가성비갑 여행법 / #스페셜토크 단독예매 / #호텔위크 예약꿀팁 (TRAVEL)",
+        "function": "category_hashtags_travel"
+      },
+      {
+        "position_sec": 24.92,
+        "text": "#넥스트 핫브랜드 / #직구 노하우 / #한정판 스니커즈 (STYLE)",
+        "function": "category_hashtags_style"
+      },
+      {
+        "position_sec": 28.33,
+        "text": "#소장각 플레이리스트 / #넥스트 슈퍼콘서트 / #한정판 바이닐 발매정보 (MUSIC)",
+        "function": "category_hashtags_music"
+      },
+      {
+        "position_sec": 31.33,
+        "text": "#힙스터 필수템 / #덕후들의 신상 토이 / #얼리어답터 지침서 (TECH)",
+        "function": "category_hashtags_tech"
+      },
+      {
+        "position_sec": 44.5,
+        "text": "DIGITAL Hyundai Card",
+        "function": "brand_signature"
+      }
+    ],
+    "narration_handling": "none"
+  },
+  "typography": {
+    "primary_font_class": "sans_serif_bold_geometric",
+    "secondary_font_class": "sans_serif_rounded",
+    "animation_style": [
+      "pop",
+      "color_strobe",
+      "slide",
+      "static"
+    ],
+    "subtitle_position_dominant": "floating",
+    "tagline_position": "center",
+    "color_strategy": "white_or_vivid_on_contrast",
+    "appearance_count": 14,
+    "key_typography_moments_sec": [
+      1.0,
+      6.83,
+      8.0,
+      13.67,
+      17.42,
+      23.5,
+      24.92,
+      28.33,
+      31.33,
+      38.0,
+      42.5,
+      44.5
+    ],
+    "typo_motion_dominant": "pop"
+  },
+  "vfx": {
+    "primary_effects": [
+      "color_pop",
+      "graphic_wipe",
+      "ui_motion"
+    ],
+    "effect_intensity": "moderate",
+    "transition_style_dominant": "cut",
+    "vfx_event_count": 8,
+    "vfx_timing_array_sec": [
+      6.83,
+      8.0,
+      13.67,
+      17.42,
+      23.5,
+      28.33,
+      31.33,
+      42.5
+    ],
+    "wow_vfx_index": [
+      7,
+      8
+    ]
+  },
+  "audio": {
+    "has_audio": true,
+    "language": "ko",
+    "speech_coverage": 0.0,
+    "bgm_likely": true,
+    "narration_lines": [
+      {
+        "start": 1.0,
+        "end": 6.8,
+        "text": "요즘 뭐가 힙하지?",
+        "text_raw": "요즘 뭐가 힙하지?",
+        "kind": "caption",
+        "source": "caption_inferred"
+      },
+      {
+        "start": 38.0,
+        "end": 42.5,
+        "text": "취향을 업데이트하는 힙스터들의 필수 앱",
+        "text_raw": "취향을 업데이트하는 힙스터들의 필수 앱",
+        "kind": "caption",
+        "source": "caption_inferred"
+      }
+    ],
+    "voice_vs_caption": "caption_only_inferred",
+    "narration_handling": "none",
+    "transcribed_by": "manual_from_captions",
+    "audio_note": "faster_whisper(base) 실행 결과 0 segments / speech_coverage 0.0 — 음성 나레이션 없음(뮤직비디오형, BGM 주도로 추정). narration_lines는 화면 자막에서 역추정(source: caption_inferred). 시각 분석은 전 프레임 판독으로 완수."
+  },
+  "frames_dir": "ADV-2026-040_frames",
+  "contact_sheet_path": "ADV-2026-040_frames/contact_sheet.png",
+  "shots": [
+    {
+      "index": 1,
+      "duration": 1.0,
+      "framing": "environment",
+      "function": "intro_fade",
+      "subject_action": "pure black opening frame holding before the first scene; a dark lead-in establishing the minimal pop-graphic tone",
+      "layout_grid": "center",
+      "subject_position": "center",
+      "subject_identity": "none_environment",
+      "subject_relationship_to_protagonist": null,
+      "mid_frame_path": "ADV-2026-040_frames/cut01_mid.png",
+      "subject_typo_layout": "typo_only_no_person",
+      "typo_motion": "텍스트 없음; 검은 화면 정지(f1~f12)",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "environment",
+      "gaze": "none",
+      "eye_contact_effect": null,
+      "props": [],
+      "prop_semantics": null,
+      "color_palette": [
+        "#000000"
+      ],
+      "color_intent": "검은 리드인으로 뒤따르는 비비드 팝 컬러의 대비를 극대화",
+      "pose_description": "피사체 없음; 완전한 검은 필드",
+      "subject_motion": "static",
+      "prop_motion": "none",
+      "camera_motion": "locked_off",
+      "camera_motion_intensity": "none",
+      "camera_effect_local": "none",
+      "motion_blur": false,
+      "intra_cut_rhythm": "static",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [],
+      "vfx_intensity_local": "none",
+      "fact_check_flag": null,
+      "notes": "Cut 1 (f1-f12, 0.00-1.00s): pure black. metrics diff~0 until f13 spike(84). Opening lead-in.",
+      "visible_elements": {
+        "foreground": [],
+        "midground": [],
+        "background": [
+          "flat pure black field #000000"
+        ],
+        "lighting_env": [
+          "no light — black frame"
+        ],
+        "atmosphere": [
+          "void black, no grain"
+        ]
+      },
+      "texture": {
+        "primary_subject": "flat_digital",
+        "secondary_objects": [],
+        "background_surface": "flat_digital",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "front",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "none",
+        "key_to_fill_ratio": "silhouette",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "none",
+        "overall_contrast": "low_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#000000"
+        ],
+        "palette_role": {
+          "#000000": "background_black_full"
+        },
+        "color_relationship": "monochrome",
+        "temperature_balance": "balanced",
+        "saturation_strategy": "monochrome",
+        "contrast_type": "luminance_low",
+        "accent_color": "#000000",
+        "accent_ratio": "100_percent"
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A completely black opening frame rendered at 1920x1080 pixels in a 16:9 landscape aspect ratio, used as the minimal lead-in title slate for a hip, youth-targeted Korean fintech-app motion graphic for a lifestyle content app. (1) There is no subject and no pose in this frame — it is pure environment, an empty held beat with the subject deliberately absent. (2) There is no wardrobe or material element of any kind. (3) The location reads as an abstract negative-space void rather than any built set; conceptually it is the dark threshold immediately before the viewer dives into the app's vivid illustrated world. (4) There is no foreground object and no prop — the prop list is empty and the entire 16:9 canvas is a single flat field. (5) Lighting is effectively nonexistent: the frame is a true black with no specular highlight, no ambient glow, no rim light, no practical light source, and no directional key; the key-to-fill reads as pure silhouette and the overall contrast is low-key, since the field is uniform. (6) The lens treatment is a locked-off, eye-level, frontal framing classified as an environment shot, with no camera move, no push, and no parallax. (7) The composition is dead-center and perfectly symmetrical by virtue of being empty — the subject position is center, the layout grid is center, and the negative space occupies one hundred percent of the frame. (8) The color palette and strategy are strictly monochrome: the entire frame is filled edge to edge with a single flat, pure, uniform black (hex #000000) occupying one hundred percent of the frame area as the full background black; there is no accent color, no secondary hue, and no gradient — the color relationship is monochrome, the temperature reads balanced and neutral, the saturation strategy is monochrome, and the contrast type is luminance-low. The narrative purpose of this absolute black is to set up maximum luminance contrast against the bright magenta, electric yellow, periwinkle purple and cyan pop-art color that explodes onto the screen in the very next scene; the black acts as a palette-cleanser. (9) Texture and surface across the whole frame are flat digital with zero surface detail — no vignette, no film grain, no noise, no halation, and no edge falloff whatsoever; every pixel is identical absolute black. (10) The atmosphere is a clean graphic void, weighty and minimal, holding a single quiet dramatic beat before the energetic montage begins. (11) The post and signature look follow the production signature of this film: capture style is 2D animation, the color grade is vivid-pop-flat, and the texture finish is clean-digital-flat-lineart; for this particular slate that signature manifests simply as an immaculately even flat black with no wiggle, no parallax, and no graphic wipe yet, since the strobe and wipe effects begin only in later cuts. (12) Style anchor: a minimalist Korean commercial cold-open slate — a flat digital black title card, pure negative-space lead-in, zero grain, zero gradient, high-end motion-graphic production in the clean modern register of contemporary Korean advertising. Reproduce this as an absolutely clean, uniform, flat black canvas at full HD resolution, holding still with no animation, serving as the dark threshold immediately before a vivid pop-illustration title sequence begins; the frame must contain nothing but black, and the black must be even and pure across the entire 16:9 canvas with no imperfections, no light leaks, no text, no logo, and no edge falloff of any kind.",
+        "t2i_negative": "any object, text, logo, gradient, vignette, grain, noise, light leak, color, person, glow, texture, watermark",
+        "i2v_motion": "Hold a pure flat black frame perfectly still for the full 1.0 second; no motion, no camera move, no fade variation. Camera locked-off. At the very end, hard cut into the next scene (the bright phone-and-DIVE-icon frame). No internal animation.",
+        "i2v_params": {
+          "clip_duration_sec": 1.0,
+          "camera_move": "locked_off",
+          "subject_motion_level": "still",
+          "signature_effect": "none",
+          "pacing": "static",
+          "loopable": true
+        },
+        "fidelity_note": "craft-faithful; pure black lead-in slate; no copy, no logo"
+      }
+    },
+    {
+      "index": 2,
+      "duration": 1.92,
+      "framing": "MS",
+      "function": "curiosity_hook",
+      "subject_action": "a flat line-art smartphone sits center-right on a dark charcoal field showing a white screen with the DIVE app icon and label; a bright pink illustrated hand enters from the right and taps the icon; left side carries the white Korean hook caption '요즘 뭐가 힙하지?'",
+      "layout_grid": "rule_of_thirds",
+      "subject_position": "right_third",
+      "subject_identity": "hand_prop",
+      "subject_relationship_to_protagonist": "main_character",
+      "mid_frame_path": "ADV-2026-040_frames/cut02_mid.png",
+      "subject_typo_layout": "typo_opposite_subject",
+      "typo_motion": "좌측 흰 카피 '요즘 뭐가 힙하지?' 정적 배치(f13 등장). 핑크 손이 우측에서 진입(f24~)해 앱 아이콘을 탭하면 아이콘이 살짝 확대/반응(f25~f35).",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "environment",
+      "gaze": "at_product",
+      "eye_contact_effect": null,
+      "props": [
+        "smartphone (flat line-art)",
+        "DIVE app icon",
+        "pink illustrated index finger"
+      ],
+      "prop_semantics": "폰+앱 아이콘 탭 = '지금 뭐가 힙한지' 궁금증을 해소하러 앱에 진입하는 행동을 의인화",
+      "color_palette": [
+        "#2b2b2b",
+        "#ffffff",
+        "#ff5fcf",
+        "#a83bd6",
+        "#2ec5e6"
+      ],
+      "color_intent": "어두운 차콜 배경 위 흰 폰 화면과 형광 핑크 손의 강한 대비로 시선 유도; 앱 아이콘 그라데이션이 브랜드 컬러 시그널",
+      "pose_description": "핑크 손이 검지를 펴 앱 아이콘을 누르는 제스처; 손목이 우측 프레임 밖에서 들어옴",
+      "subject_motion": "hand_enters_and_taps",
+      "prop_motion": "app icon press-react micro-scale",
+      "camera_motion": "locked_off",
+      "camera_motion_intensity": "none",
+      "camera_effect_local": "none",
+      "motion_blur": false,
+      "intra_cut_rhythm": "steady",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [
+        "ui_motion"
+      ],
+      "vfx_intensity_local": "subtle",
+      "fact_check_flag": null,
+      "notes": "Cut 2 (f13-f35, 1.00-2.92s): charcoal bg, flat line-art phone, white screen with DIVE icon (purple-cyan gradient, 'DIVE' inside) + label '현대카드 DIVE'. Pink hand taps icon. Left caption '요즘 뭐가 힙하지?'.",
+      "visible_elements": {
+        "foreground": [
+          "bright pink line-art hand with extended index finger tapping the screen",
+          "flat line-art smartphone with white screen"
+        ],
+        "midground": [
+          "DIVE app icon (purple-magenta to cyan gradient rounded square, white 'DIVE' wordmark inside)",
+          "small label text under icon '현대카드 DIVE'"
+        ],
+        "background": [
+          "flat dark charcoal field #2b2b2b",
+          "white Korean caption left third: '요즘 뭐가 힙하지?'"
+        ],
+        "lighting_env": [
+          "flat even ambient — no directional light (flat illustration)"
+        ],
+        "atmosphere": [
+          "clean minimal flat, no grain, no depth"
+        ]
+      },
+      "texture": {
+        "primary_subject": "flat_2d_vector",
+        "secondary_objects": [
+          "flat_2d_vector"
+        ],
+        "background_surface": "flat_digital",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "front",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "strong",
+        "key_to_fill_ratio": "1:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "minimal",
+        "overall_contrast": "mid_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#2b2b2b",
+          "#ffffff",
+          "#ff5fcf",
+          "#a83bd6",
+          "#2ec5e6"
+        ],
+        "palette_role": {
+          "#2b2b2b": "background_charcoal_dominant",
+          "#ffffff": "phone_screen_and_caption",
+          "#ff5fcf": "hand_pink_accent",
+          "#a83bd6": "app_icon_magenta",
+          "#2ec5e6": "app_icon_cyan"
+        },
+        "color_relationship": "complementary",
+        "temperature_balance": "split_warm_cool",
+        "saturation_strategy": "vivid",
+        "contrast_type": "luminance_high",
+        "accent_color": "#ff5fcf",
+        "accent_ratio": "15_percent"
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A flat 2D vector illustration frame at 1920x1080 pixels, 16:9 landscape, in a bold Korean pop-illustration commercial style with thick black outlines and vivid flat fills. The background is a uniform dark charcoal field (#2b2b2b) with no gradient or texture. Positioned in the right third of the frame, slightly above center, is a large smartphone drawn as clean flat line art: a rounded-rectangle black-outlined phone body with a top notch and side buttons, and a pure white screen filling most of the device. On the white screen, centered, sits a single app icon rendered as a rounded square with a smooth diagonal gradient running from magenta-purple (#a83bd6) at the upper area to bright cyan (#2ec5e6) at the lower area; inside the icon the white uppercase wordmark 'DIVE' is set in a bold geometric sans-serif, with a small white bracket-like shape beneath the letters suggesting an open mouth or a doorway. Directly below the phone-screen icon, small dark Korean-and-Latin label text reads '현대카드 DIVE' in a clean sans-serif. Entering from the right edge of the frame is a brightly saturated flamingo-pink (#ff5fcf) human hand drawn in the same flat black-outlined cartoon style, palm and fingers simplified, with the index finger extended forward to press the DIVE app icon on the screen; the wrist disappears off the right edge so only the hand and forearm are visible. In the left third of the frame, occupying roughly the vertical middle, is a two-or-three word white (#ffffff) Korean caption set in a bold rounded sans-serif reading '요즘 뭐가 힙하지?' (meaning 'what's hip these days?'), left-aligned and sized as a prominent hook headline at roughly 70-90 pixel cap height. The layout follows a rule-of-thirds split: bold question copy on the left, the phone-and-tapping-hand interaction on the right. Color palette: dark charcoal #2b2b2b dominant background (~55%), white phone screen and caption (#ffffff, ~20%), fluorescent pink hand (#ff5fcf, ~12%), app-icon magenta #a83bd6 and cyan #2ec5e6 (~8% combined), thin black outlines throughout. The color relationship is high-luminance complementary — warm pink hand against cool charcoal, with a bright white focal screen. Texture: every element is pure flat 2D vector with zero photographic detail, zero film grain, zero gradient on surfaces except the deliberate icon gradient; black ink outlines define all shapes. Lighting is flat and even — there is no directional key, no cast shadow except a possible faint flat drop under the phone, no rim light, no specular; this is a hand-drawn cartoon look, not a 3D render. The aesthetic is hip, youthful, trend-forward Korean app advertising — a flat illustrated fintech-lifestyle motion graphic with confident pop-art color blocking. Style anchor: Korean commercial flat-vector 2D animation, thick black linework, vivid pop palette, minimal charcoal stage, app-tap interaction, bold rounded Hangul hook typography, clean digital, no grain, no realism. Reproduce the phone in the right third, the pink tapping hand entering from the right, the gradient DIVE icon on a white screen, and the white Korean question headline on the left, all on a flat dark charcoal background.",
+        "t2i_negative": "photorealistic, 3D render, real hand photo, gradient background, grain, noise, real brand logo mark, watermark, multiple phones, distorted fingers, soft shading",
+        "i2v_motion": "Hold the phone and caption steady; the bright pink hand glides in from the right edge and the extended index finger presses the DIVE icon, which gives a small press-react scale-down then scale-back (UI tap feedback). The white question caption '요즘 뭐가 힙하지?' is static throughout. Camera locked-off, no parallax. ~1.9s, steady rhythm, ending on a hard cut as the camera will appear to dive into the phone screen next.",
+        "i2v_params": {
+          "clip_duration_sec": 1.92,
+          "camera_move": "locked_off",
+          "subject_motion_level": "micro",
+          "signature_effect": "none",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; hand generic pink cartoon; app icon generic gradient rounded-square type (no real trademark mark); on-screen copy preserved verbatim"
+      }
+    },
+    {
+      "index": 3,
+      "duration": 1.0,
+      "framing": "MCU",
+      "function": "transition_dive_in",
+      "subject_action": "the camera has dived into the phone screen — a full-frame flat illustration of a person from the neck down wearing a periwinkle-purple suit, white shirt and black tie, one pink hand adjusting the tie/buttoning the vest; the phone bezel is still faintly visible at the start and dissolves as we plunge in",
+      "layout_grid": "center",
+      "subject_position": "center",
+      "subject_identity": "protagonist_main",
+      "subject_relationship_to_protagonist": "main_character",
+      "mid_frame_path": "ADV-2026-040_frames/cut03_mid.png",
+      "subject_typo_layout": "typo_only_no_person",
+      "typo_motion": "텍스트 없음; 폰 베젤이 점차 사라지며 일러스트가 풀블리드로 확대(다이브 인 줌)",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "bust",
+      "gaze": "none",
+      "eye_contact_effect": null,
+      "props": [
+        "purple suit jacket",
+        "white dress shirt",
+        "black necktie",
+        "pink illustrated hand"
+      ],
+      "prop_semantics": "정장 차려입기 = '힙하게 꾸미기/준비하기'의 시각 메타포; 폰 속으로 들어가 스타일링 세계가 시작됨",
+      "color_palette": [
+        "#5b4ee5",
+        "#ffffff",
+        "#1a1a1a",
+        "#ff8fd6",
+        "#2b2b2b"
+      ],
+      "color_intent": "퍼플 슈트의 비비드 블록 컬러 + 흰 셔츠 + 검정 타이의 명료한 대비로 '단정하게 차려입는' 인상을 팝하게 표현",
+      "pose_description": "인물 상반신(목 아래)만; 한 손이 가슴 앞에서 타이를 매만지거나 베스트 단추를 채우는 자세",
+      "subject_motion": "hand_adjusts_tie",
+      "prop_motion": "tie/vest adjusted by hand",
+      "camera_motion": "push_in",
+      "camera_motion_intensity": "moderate",
+      "camera_effect_local": "dive_in_zoom",
+      "motion_blur": false,
+      "intra_cut_rhythm": "steady",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [
+        "ui_motion"
+      ],
+      "vfx_intensity_local": "moderate",
+      "fact_check_flag": null,
+      "notes": "Cut 3 (f36-f47, 2.92-3.92s): full-bleed flat illustration of purple-suited torso adjusting tie; phone bezel visible f36-39 then gone by f47 (dive-in zoom). Pink hand on chest.",
+      "visible_elements": {
+        "foreground": [
+          "pink line-art hand adjusting the tie knot / vest at chest",
+          "periwinkle-purple suit jacket lapels"
+        ],
+        "midground": [
+          "white dress shirt collar and black necktie",
+          "purple vest with buttons"
+        ],
+        "background": [
+          "fading black phone bezel at frame start (dissolves)",
+          "the illustrated suit fills the frame as camera dives in"
+        ],
+        "lighting_env": [
+          "flat even ambient — flat illustration, no directional light"
+        ],
+        "atmosphere": [
+          "clean flat pop, no grain"
+        ]
+      },
+      "texture": {
+        "primary_subject": "flat_2d_vector",
+        "secondary_objects": [
+          "flat_2d_vector"
+        ],
+        "background_surface": "flat_digital",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "front",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "strong",
+        "key_to_fill_ratio": "1:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "minimal",
+        "overall_contrast": "mid_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#5b4ee5",
+          "#ffffff",
+          "#1a1a1a",
+          "#ff8fd6",
+          "#2b2b2b"
+        ],
+        "palette_role": {
+          "#5b4ee5": "suit_purple_dominant",
+          "#ffffff": "shirt_white",
+          "#1a1a1a": "tie_black",
+          "#ff8fd6": "hand_pink_accent",
+          "#2b2b2b": "phone_bezel_dark"
+        },
+        "color_relationship": "complementary",
+        "temperature_balance": "split_warm_cool",
+        "saturation_strategy": "vivid",
+        "contrast_type": "luminance_high",
+        "accent_color": "#ff8fd6",
+        "accent_ratio": "15_percent"
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A full-frame flat 2D vector illustration at 1920x1080 pixels, 16:9 landscape, in a bold Korean pop-art commercial style with thick black outlines and vivid flat color fills, depicting the threshold moment of diving into a lifestyle app's curated world. (1) The subject is a person's torso seen from roughly the neck down to the mid-chest, centered and filling the frame as if the viewer has just plunged into a phone screen; the figure is faceless, cropped below the chin, in a bust-level scope so all focus lands on the act of dressing up, and one hand is raised to the chest mid-gesture. (2) Wardrobe and material: a periwinkle-purple (#5b4ee5) tailored suit jacket with crisp black-outlined lapels, worn over a bright white (#ffffff) dress shirt with a pointed collar and a solid black (#1a1a1a) necktie running down the center; beneath the open jacket a matching purple vest shows two small dark buttons, all rendered as flat unshaded blocks of color. (3) Location and set: there is no separate environment — at the very start of the beat a faint dark phone bezel (#2b2b2b) frames the edges, signalling that this image lives inside the phone from the previous scene, but it is dissolving as the composition pushes in, so the suited figure becomes full-bleed. (4) Foreground and props: one brightly saturated flamingo-pink (#ff8fd6) cartoon hand in the same flat black-outlined style is raised to the chest, fingers simplified and curled, adjusting the knot of the black tie or fastening the top vest button; props are the purple suit jacket, white dress shirt, black necktie and pink hand. (5) Lighting setup: flat and even with a soft frontal key at neutral 5500K, strong fill at a 1:1 key-to-fill ratio, no rim light, no practical lights, only minimal shadow presence, and a mid-key overall contrast — a hand-drawn cartoon look rather than a 3D render. (6) Lens, framing and camera angle: an eye-level, frontal, bust-scope framing with a moderate push-in (dive-in zoom) that scales the illustration up as the bezel dissolves. (7) Composition and grid: centered and symmetrical, the suit and tie forming a strong vertical axis down the middle of the frame, the pink hand serving as the warm focal accent; subject position center, layout grid center, with no caption text in this frame. (8) Color palette and strategy with hex values: periwinkle-purple suit #5b4ee5 dominant (~45%), white shirt #ffffff (~20%), black tie and outlines #1a1a1a (~15%), fluorescent pink hand #ff8fd6 (~12%), residual dark phone-bezel #2b2b2b at the edges (~8%); the color relationship is vivid complementary (warm pink against cool purple), temperature split warm-cool, saturation vivid, contrast type luminance-high driven by the white shirt and black tie, accent color #ff8fd6 at roughly 15 percent. (9) Texture and surfaces: pure flat 2D vector with thick black ink outlines, flat unshaded color fills, zero photographic texture, zero grain, zero gradient, zero 3D modeling. (10) Atmosphere: hip, stylish, getting-dressed-to-go-out energy, a clean flat pop mood with no grain, reading as a metaphor for grooming oneself to be trendy. (11) Post and signature look: per the production signature, capture style 2D animation, vivid-pop-flat color grade, clean-digital-flat-lineart finish; here the dive-in push and the dissolving bezel are the motion-graphic device, with no lens wiggle or parallax. (12) Style anchor: Korean commercial flat-vector 2D animation, thick black linework, vivid pop palette, centered symmetrical dressing-up vignette, clean digital, no grain, no realism, no 3D, in the contemporary Korean advertising register. Reproduce the purple-suited torso adjusting a black tie with a single pink cartoon hand, centered and full-bleed, with a faint dissolving dark phone bezel at the edges and no on-screen copy.",
+        "t2i_negative": "photorealistic, 3D render, visible face, real person, gradient shading, grain, noise, real logo, watermark, soft shadows, extra hands, distorted fingers",
+        "i2v_motion": "Begin with a faint dark phone bezel at the edges and the suited torso inside it; over the cut, push in / scale up so the bezel dissolves and the illustration fills the frame (dive-in zoom). The single pink hand finishes adjusting the tie/vest button with a small settling motion. No background. ~1.0s, steady-to-quick rhythm, hard cut out into the next dressing vignette.",
+        "i2v_params": {
+          "clip_duration_sec": 1.0,
+          "camera_move": "push_in",
+          "subject_motion_level": "micro",
+          "signature_effect": "none",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; faceless generic figure; flat cartoon hand; no on-screen copy this cut; no real brand mark"
+      }
+    },
+    {
+      "index": 4,
+      "duration": 0.5,
+      "framing": "CU",
+      "function": "styling_detail",
+      "subject_action": "tight flat-illustration close-up: a pink hand tucks a white pocket square into the breast pocket of the periwinkle-purple suit against a solid purple background — a quick stylish detail beat",
+      "layout_grid": "center",
+      "subject_position": "center",
+      "subject_identity": "protagonist_main",
+      "subject_relationship_to_protagonist": "main_character",
+      "mid_frame_path": "ADV-2026-040_frames/cut04_mid.png",
+      "subject_typo_layout": "typo_only_no_person",
+      "typo_motion": "텍스트 없음; 짧은 디테일 컷",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "bust",
+      "gaze": "none",
+      "eye_contact_effect": null,
+      "props": [
+        "white pocket square",
+        "purple suit breast pocket",
+        "pink illustrated hand"
+      ],
+      "prop_semantics": "포켓 스퀘어를 꽂는 디테일 = 취향을 완성하는 마무리 손길; 스타일링의 정점",
+      "color_palette": [
+        "#5b4ee5",
+        "#ffffff",
+        "#1a1a1a",
+        "#ff8fd6"
+      ],
+      "color_intent": "퍼플 단색 배경으로 디테일에 집중; 흰 포켓스퀘어가 포인트, 핑크 손이 동작 강조",
+      "pose_description": "핑크 손이 포켓스퀘어를 가슴 주머니에 꽂아 넣는 동작; 손가락이 천을 집음",
+      "subject_motion": "hand_tucks_pocket_square",
+      "prop_motion": "pocket square inserted into pocket",
+      "camera_motion": "locked_off",
+      "camera_motion_intensity": "none",
+      "camera_effect_local": "none",
+      "motion_blur": false,
+      "intra_cut_rhythm": "accelerating",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [],
+      "vfx_intensity_local": "none",
+      "fact_check_flag": null,
+      "notes": "Cut 4 (f48-f53, 3.92-4.42s): tight CU of pink hand tucking white pocket square into purple suit breast pocket on solid purple bg. Short (0.5s) detail beat.",
+      "visible_elements": {
+        "foreground": [
+          "pink line-art hand pinching and inserting a white pocket square"
+        ],
+        "midground": [
+          "periwinkle-purple suit jacket front with breast pocket",
+          "white shirt and black tie partially visible at center"
+        ],
+        "background": [
+          "solid periwinkle-purple field (the suit fills the frame)"
+        ],
+        "lighting_env": [
+          "flat even ambient — flat illustration"
+        ],
+        "atmosphere": [
+          "clean flat pop, no grain"
+        ]
+      },
+      "texture": {
+        "primary_subject": "flat_2d_vector",
+        "secondary_objects": [
+          "flat_2d_vector"
+        ],
+        "background_surface": "flat_digital",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "front",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "strong",
+        "key_to_fill_ratio": "1:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "minimal",
+        "overall_contrast": "mid_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#5b4ee5",
+          "#ffffff",
+          "#1a1a1a",
+          "#ff8fd6"
+        ],
+        "palette_role": {
+          "#5b4ee5": "suit_purple_dominant",
+          "#ffffff": "pocket_square_and_shirt_white",
+          "#1a1a1a": "tie_and_outline_black",
+          "#ff8fd6": "hand_pink_accent"
+        },
+        "color_relationship": "complementary",
+        "temperature_balance": "split_warm_cool",
+        "saturation_strategy": "vivid",
+        "contrast_type": "luminance_high",
+        "accent_color": "#ff8fd6",
+        "accent_ratio": "15_percent"
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A tight close-up flat 2D vector illustration at 1920x1080 pixels, 16:9 landscape, in a bold Korean pop-art commercial style with thick black outlines and vivid flat fills, isolating a single stylish finishing-touch gesture in a fast getting-dressed montage. (1) The subject is the front of a person's chest seen at close range; the framing is a bust-level close-up with the figure faceless, and the single recorded action is a pink hand tucking a pocket square into a breast pocket. (2) Wardrobe and material: a periwinkle-purple (#5b4ee5) tailored suit jacket fills almost the entire frame at chest level, the purple fabric a flat unshaded block of color with crisp black-outlined seams and lapel edges, plus a small white (#ffffff) folded pocket square and, at center, a sliver of white dress shirt and a black (#1a1a1a) necktie. (3) Location and set: there is no separate background environment — the purple suit itself fills the whole frame, so the field reads as a solid periwinkle-purple block, the close detail beat intentionally giving no room for surroundings. (4) Foreground and props: a brightly saturated flamingo-pink (#ff8fd6) cartoon hand, drawn in the same flat black-outlined style, pinches the small white pocket square between thumb and fingers and tucks it into the breast pocket at center-left of the jacket, a folded white triangular tip peeking out; the recorded props are the white pocket square, the purple suit breast pocket and the pink hand. (5) Lighting setup: flat and even with a soft frontal key at neutral 5500K, strong fill at a 1:1 ratio, no rim light, no practical lights, minimal shadow presence, mid-key overall contrast — flat cartoon, not 3D. (6) Lens, framing and camera angle: an eye-level, frontal, bust-scope macro framing, locked-off with no camera move, the rhythm accelerating to match the quick montage. (7) Composition and grid: centered, intimate and detail-focused, the breast pocket and the white square sitting just left of center as the single point of interest; subject position center, layout grid center, no caption text in this frame. (8) Color palette and strategy with hex values: periwinkle-purple suit #5b4ee5 strongly dominant (~70%), white pocket square and shirt sliver #ffffff (~12%), black tie and outlines #1a1a1a (~10%), fluorescent pink hand #ff8fd6 (~8%); the color relationship is vivid complementary — warm pink and white against cool purple — temperature split warm-cool, saturation vivid, contrast type luminance-high with the sharpest local contrast at the white pocket square, accent color #ff8fd6 at roughly 15 percent. (9) Texture and surfaces: pure flat 2D vector, thick black ink outlines, flat unshaded color, zero photographic texture, zero grain, zero gradient, zero 3D shading. (10) Atmosphere: crisp, tasteful, finishing-touch energy, a clean flat pop mood with no grain, reinforcing the theme of curating one's hip personal style. (11) Post and signature look: per the production signature — 2D animation capture, vivid-pop-flat color grade, clean-digital-flat-lineart finish; this quick beat carries no wiggle, no parallax and no graphic wipe, only a snappy accelerating hand motion. (12) Style anchor: Korean commercial flat-vector 2D animation, thick black linework, vivid pop palette, a centered macro detail of a pocket-square tuck, clean digital, no grain, no realism, no 3D, in the contemporary Korean advertising register. Reproduce a pink cartoon hand tucking a white pocket square into the breast pocket of a flat periwinkle-purple suit that fills the entire frame, with a glimpse of white shirt and black tie at center and no on-screen copy.",
+        "t2i_negative": "photorealistic, 3D render, fabric texture, gradient shading, grain, noise, visible face, real logo, watermark, soft shadows, distorted fingers",
+        "i2v_motion": "Hold the purple suit steady; the pink hand pushes the white pocket square down into the breast pocket with a quick decisive motion, then the fingers withdraw, leaving the folded white tip showing. Snappy, accelerating micro-motion to match the fast montage. Camera locked-off. ~0.5s, quick beat, hard cut out.",
+        "i2v_params": {
+          "clip_duration_sec": 0.5,
+          "camera_move": "locked_off",
+          "subject_motion_level": "micro",
+          "signature_effect": "none",
+          "pacing": "accelerating",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; flat cartoon hand; generic faceless figure; no on-screen copy; no real brand mark"
+      }
+    },
+    {
+      "index": 5,
+      "duration": 2.0,
+      "framing": "MS",
+      "function": "styling_montage",
+      "subject_action": "two bright pink hands stretch and shape a soft white object (revealed to be a swim cap / fabric) on a vivid yellow background; the gesture morphs from pulling a stretchy white form to fitting it over a head — a continuous styling-then-getting-ready beat",
+      "layout_grid": "center",
+      "subject_position": "center",
+      "subject_identity": "protagonist_main",
+      "subject_relationship_to_protagonist": "main_character",
+      "mid_frame_path": "ADV-2026-040_frames/cut05_mid.png",
+      "subject_typo_layout": "typo_only_no_person",
+      "typo_motion": "텍스트 없음; 손 동작이 서사 전달(흰 천/캡 늘리기 → 머리에 씌우기)",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "bust",
+      "gaze": "none",
+      "eye_contact_effect": null,
+      "props": [
+        "white stretchy fabric / swim cap",
+        "two pink illustrated hands",
+        "back of a head"
+      ],
+      "prop_semantics": "흰 스트레치 천을 늘려 머리에 씌우는 동작 = 스윔캡(다이빙 준비)으로 연결되는 시각 전환; '꾸미기→다이빙 준비'의 브릿지",
+      "color_palette": [
+        "#ffd400",
+        "#ffffff",
+        "#ff5fcf",
+        "#1a1a1a",
+        "#ff9fd9"
+      ],
+      "color_intent": "비비드 옐로 단색 배경(이후 '물/풀'을 암시하는 컬러)으로 강렬한 팝 대비; 흰 오브제와 핑크 손의 명료한 실루엣",
+      "pose_description": "양손이 흰 천/캡을 좌우로 팽팽히 늘리는 자세 → 머리(뒤통수) 위에 씌우는 자세로 이어짐",
+      "subject_motion": "two_hands_stretch_and_fit_cap",
+      "prop_motion": "white fabric stretched then pulled over head",
+      "camera_motion": "locked_off",
+      "camera_motion_intensity": "none",
+      "camera_effect_local": "none",
+      "motion_blur": false,
+      "intra_cut_rhythm": "steady",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [],
+      "vfx_intensity_local": "none",
+      "fact_check_flag": null,
+      "notes": "Cut 5 (f54-f77, 4.42-6.42s): vivid yellow bg. Two pink hands stretch a soft white form (f54-61), then fit it as a swim cap over the back of a head (f62-77). Bridges grooming to dive prep. metrics text_delta/shift high due to the morph motion.",
+      "visible_elements": {
+        "foreground": [
+          "two bright pink line-art hands gripping and stretching a white object",
+          "soft white stretchy fabric / swim cap"
+        ],
+        "midground": [
+          "back of a head being capped (later frames)",
+          "purple jacket cuffs at the wrists"
+        ],
+        "background": [
+          "solid vivid yellow field #ffd400"
+        ],
+        "lighting_env": [
+          "flat even ambient — flat illustration"
+        ],
+        "atmosphere": [
+          "clean flat pop, no grain"
+        ]
+      },
+      "texture": {
+        "primary_subject": "flat_2d_vector",
+        "secondary_objects": [
+          "flat_2d_vector"
+        ],
+        "background_surface": "flat_digital",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "front",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "strong",
+        "key_to_fill_ratio": "1:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "minimal",
+        "overall_contrast": "hi_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#ffd400",
+          "#ffffff",
+          "#ff5fcf",
+          "#1a1a1a",
+          "#ff9fd9"
+        ],
+        "palette_role": {
+          "#ffd400": "background_yellow_dominant",
+          "#ffffff": "white_cap_fabric",
+          "#ff5fcf": "hand_pink_accent",
+          "#1a1a1a": "outline_black",
+          "#ff9fd9": "head_skin_pink"
+        },
+        "color_relationship": "complementary",
+        "temperature_balance": "warm_dominant",
+        "saturation_strategy": "vivid",
+        "contrast_type": "luminance_high",
+        "accent_color": "#ff5fcf",
+        "accent_ratio": "30_percent"
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A flat 2D vector illustration at 1920x1080 pixels, 16:9 landscape, in a bold Korean pop-art commercial style with thick black outlines and vivid flat color fills, bridging the grooming montage to the upcoming dive. (1) The subject is the protagonist's two hands and the rounded top of a head; the recorded action is two pink hands stretching and shaping a soft white object that morphs from a stretchy white form being pulled taut into a swim cap being fitted over a head, in a continuous styling-then-getting-ready gesture, framed at bust scope. (2) Wardrobe and material: the object held is a soft white (#ffffff) stretchy fabric form reading like a swim cap, its surface marked with a few simple black contour lines suggesting elastic ridges; the hands' wrists show small purple (#5b4ee5) jacket cuffs with white edges, linking this figure to the suited person from the previous beats. (3) Location and set: the entire background is a single uniform vivid saturated yellow (#ffd400) field with no gradient or texture, which doubles as a stylized stand-in for water later in the film — there is no built environment, only the flat yellow stage. (4) Foreground and props: two brightly saturated flamingo-pink (#ff5fcf) cartoon hands reach in from the top of the frame and grip the white object between them; in the lower-center the rounded top of a head begins to appear, pink-skinned (#ff9fd9) with black-outlined ears, as the white cap is about to be fitted over it; recorded props are the white stretchy fabric and swim cap, the two pink hands and the back of a head. (5) Lighting setup: flat, even and hi-key with a soft frontal key at neutral 5500K, strong fill at a 1:1 ratio, no rim light, no practical lights, minimal shadow presence — flat illustration, not 3D. (6) Lens, framing and camera angle: an eye-level, frontal, bust-scope framing, locked-off with no camera move and no parallax. (7) Composition and grid: centered and symmetrical, the two pink hands mirrored left and right with the white object held between them as the bright focal element against the dominant yellow; subject position center, layout grid center, no caption text in this frame. (8) Color palette and strategy with hex values: vivid yellow #ffd400 strongly dominant background (~55%), fluorescent pink hands and head #ff5fcf and #ff9fd9 (~25%), white cap fabric #ffffff (~12%), black outlines #1a1a1a (~8%); the color relationship is bold complementary — warm pink and white against a saturated warm yellow — temperature warm-dominant, saturation vivid, contrast type luminance-high at the white object, accent color #ff5fcf at roughly 30 percent. (9) Texture and surfaces: pure flat 2D vector, thick black ink outlines, flat unshaded color, zero photographic texture, zero grain, zero gradient, zero 3D shading. (10) Atmosphere: energetic, playful, getting-ready-to-dive-in energy, a clean flat pop mood with no grain; conceptually this beat shapes a swim cap as the bridge between dressing up and the dive. (11) Post and signature look: per the production signature — 2D animation capture, vivid-pop-flat color grade, clean-digital-flat-lineart finish; the morph of the white form is the motion device, with no lens wiggle or parallax, on a steady flat yellow stage. (12) Style anchor: Korean commercial flat-vector 2D animation, thick black linework, vivid pop palette, a centered symmetrical two-hand styling gesture on a saturated yellow stage, clean digital, no grain, no realism, no 3D, in the contemporary Korean advertising register. Reproduce two pink cartoon hands stretching a white swim-cap-like form between them on a vivid yellow field, with the rounded top of a pink head appearing below and no on-screen copy.",
+        "t2i_negative": "photorealistic, 3D render, fabric texture, gradient background, grain, noise, real logo, watermark, soft shadows, distorted fingers, dark background",
+        "i2v_motion": "Two pink hands stretch the white cap outward taut, then bring it down and fit it over the rounded top of the head appearing below; a smooth continuous styling motion morphing from pulling to capping. Background vivid yellow stays flat and steady. Camera locked-off. ~2.0s, steady rhythm, hard cut out to the next quick capping vignette.",
+        "i2v_params": {
+          "clip_duration_sec": 2.0,
+          "camera_move": "locked_off",
+          "subject_motion_level": "micro",
+          "signature_effect": "none",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; flat cartoon hands; generic faceless head; no on-screen copy; no real brand mark"
+      }
+    },
+    {
+      "index": 6,
+      "duration": 0.41,
+      "framing": "MCU",
+      "function": "styling_montage",
+      "subject_action": "very short beat: two pink hands fit a smooth white swim cap onto a pink head against a teal-green background, both hands splayed out at the sides — the cap-fitting completes, color of the stage shifting from yellow to teal",
+      "layout_grid": "center",
+      "subject_position": "center",
+      "subject_identity": "protagonist_main",
+      "subject_relationship_to_protagonist": "main_character",
+      "mid_frame_path": "ADV-2026-040_frames/cut06_mid.png",
+      "subject_typo_layout": "typo_only_no_person",
+      "typo_motion": "텍스트 없음; 0.4초 짧은 컷",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "bust",
+      "gaze": "none",
+      "eye_contact_effect": null,
+      "props": [
+        "white swim cap",
+        "pink head",
+        "two pink illustrated hands"
+      ],
+      "prop_semantics": "스윔캡 착용 완료 = 다이빙 준비 끝; 무대 컬러를 옐로→틸로 바꿔 'Let's DIVE' 타이틀로 넘어가는 비트",
+      "color_palette": [
+        "#1bb39a",
+        "#ffffff",
+        "#ff5fcf",
+        "#1a1a1a"
+      ],
+      "color_intent": "틸 그린 단색 배경으로 컬러 전환 신호; 흰 캡과 핑크 손이 강한 실루엣",
+      "pose_description": "두 손이 좌우로 활짝 벌어진 채 흰 캡을 머리에 막 씌운 직후의 정지 포즈",
+      "subject_motion": "hands_splay_after_capping",
+      "prop_motion": "swim cap settled on head",
+      "camera_motion": "locked_off",
+      "camera_motion_intensity": "none",
+      "camera_effect_local": "none",
+      "motion_blur": false,
+      "intra_cut_rhythm": "accelerating",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [],
+      "vfx_intensity_local": "none",
+      "fact_check_flag": null,
+      "notes": "Cut 6 (f78-f82, 6.42-6.83s): teal-green bg, white swim cap fitted on pink head, two pink hands splayed at sides. Very short (0.4s). Color stage shifts yellow->teal heading into 'Let's DIVE' title.",
+      "visible_elements": {
+        "foreground": [
+          "two bright pink line-art hands splayed open at left and right",
+          "smooth white swim cap on a head"
+        ],
+        "midground": [
+          "pink-skinned head/neck under the cap"
+        ],
+        "background": [
+          "solid teal-green field #1bb39a"
+        ],
+        "lighting_env": [
+          "flat even ambient — flat illustration"
+        ],
+        "atmosphere": [
+          "clean flat pop, no grain"
+        ]
+      },
+      "texture": {
+        "primary_subject": "flat_2d_vector",
+        "secondary_objects": [
+          "flat_2d_vector"
+        ],
+        "background_surface": "flat_digital",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "front",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "strong",
+        "key_to_fill_ratio": "1:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "minimal",
+        "overall_contrast": "hi_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#1bb39a",
+          "#ffffff",
+          "#ff5fcf",
+          "#1a1a1a"
+        ],
+        "palette_role": {
+          "#1bb39a": "background_teal_dominant",
+          "#ffffff": "swim_cap_white",
+          "#ff5fcf": "hands_and_head_pink",
+          "#1a1a1a": "outline_black"
+        },
+        "color_relationship": "complementary",
+        "temperature_balance": "cool_dominant",
+        "saturation_strategy": "vivid",
+        "contrast_type": "luminance_high",
+        "accent_color": "#ff5fcf",
+        "accent_ratio": "30_percent"
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A flat 2D vector illustration at 1920x1080 pixels, 16:9 landscape, in a bold Korean pop-art commercial style with thick black outlines and vivid flat color fills, a snappy punctuation beat completing the swim-cap fitting. (1) The subject is the protagonist shown only as the rounded top of a head plus two hands; the recorded action is two pink hands splayed open at the sides immediately after pulling a white swim cap down over the head, a quick release pose at bust scope. (2) Wardrobe and material: the head wears a smooth white (#ffffff) swim cap drawn as a clean white dome with a few simple black contour lines suggesting its molded shape; beneath it the pink-skinned (#ff5fcf) forehead and neck and small black-outlined ears are visible. (3) Location and set: the entire background is a single uniform teal-green (#1bb39a) field with no gradient or texture, signalling a color-stage shift from the previous yellow scene as the film heads into the title — no built environment, just the flat teal stage. (4) Foreground and props: one brightly saturated flamingo-pink (#ff5fcf) cartoon hand appears at the left edge and another at the right edge, both splayed open with fingers spread as if releasing the cap; recorded props are the white swim cap, the pink head and the two pink hands. (5) Lighting setup: flat, even and hi-key with a soft frontal key at neutral 5500K, strong fill at a 1:1 ratio, no rim light, no practical lights, minimal shadow presence — flat illustration, not 3D. (6) Lens, framing and camera angle: an eye-level, frontal, bust-scope framing, locked-off with no camera move and no parallax. (7) Composition and grid: centered and roughly symmetrical, the capped head in the lower-middle with the two splayed hands mirrored at left and right; subject position center, layout grid center, no caption text in this frame. (8) Color palette and strategy with hex values: teal-green #1bb39a strongly dominant background (~55%), fluorescent pink hands and head skin #ff5fcf (~22%), white swim cap #ffffff (~15%), black outlines #1a1a1a (~8%); the color relationship is bold complementary — warm pink against cool teal-green — temperature cool-dominant, saturation vivid, contrast type luminance-high at the white cap, accent color #ff5fcf at roughly 30 percent. (9) Texture and surfaces: pure flat 2D vector, thick black ink outlines, flat unshaded color, zero photographic texture, zero grain, zero gradient, zero 3D shading. (10) Atmosphere: a snappy, energetic punctuation beat — the swim cap is on and the character is ready to dive — a clean flat pop mood with no grain. (11) Post and signature look: per the production signature — 2D animation capture, vivid-pop-flat color grade, clean-digital-flat-lineart finish; the stage-color jump from yellow to teal is itself part of the film's graphic device, here with no lens wiggle and no parallax, just a fast accelerating release. (12) Style anchor: Korean commercial flat-vector 2D animation, thick black linework, vivid pop palette, a centered symmetrical cap-fitting gesture on a saturated teal stage, clean digital, no grain, no realism, no 3D, in the contemporary Korean advertising register. Reproduce a white-swim-capped pink head centered in the lower frame with two splayed pink cartoon hands at the sides on a flat teal-green field, with no on-screen copy, designed to read as the last beat before the title card.",
+        "t2i_negative": "photorealistic, 3D render, fabric texture, gradient background, grain, noise, real logo, watermark, soft shadows, distorted fingers, dark background",
+        "i2v_motion": "The two pink hands finish pulling the white swim cap down over the head and splay open at the sides in a quick release; the cap settles. Teal background flat and steady. Fast snappy beat to match the accelerating montage. Camera locked-off. ~0.4s, accelerating, hard cut out into the 'Let's DIVE' title strobe.",
+        "i2v_params": {
+          "clip_duration_sec": 0.41,
+          "camera_move": "locked_off",
+          "subject_motion_level": "micro",
+          "signature_effect": "none",
+          "pacing": "accelerating",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; flat cartoon hands; generic faceless head; no on-screen copy; no real brand mark"
+      }
+    },
+    {
+      "index": 7,
+      "duration": 1.17,
+      "framing": "grid",
+      "function": "brand_action_title",
+      "subject_action": "full-screen kinetic typography title card on a black field reading 'Let's DIVE' in a chunky geometric display face; the fill color strobes/flickers between teal-green, electric yellow and white across the beat — the hook payoff title and stylistic wow moment",
+      "layout_grid": "center",
+      "subject_position": "center",
+      "subject_identity": "none_environment",
+      "subject_relationship_to_protagonist": null,
+      "mid_frame_path": "ADV-2026-040_frames/cut07_mid.png",
+      "subject_typo_layout": "typo_only_no_person",
+      "typo_motion": "'Let's' 상단 작게 + 'DIVE' 하단 대형. 글자 색이 teal(f83)→yellow(f90,f96)→white로 빠르게 스트로브 전환(컬러 플리커 애니메이션). 글자 형태는 정지, 색만 점멸.",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "environment",
+      "gaze": "none",
+      "eye_contact_effect": null,
+      "props": [],
+      "prop_semantics": null,
+      "color_palette": [
+        "#000000",
+        "#1bb39a",
+        "#ffd400",
+        "#ffffff"
+      ],
+      "color_intent": "검은 배경 위 비비드 컬러 타이포가 점멸하며 강렬한 클럽/네온 에너지; 컬러 스트로브가 '힙'한 무드의 핵심 시그니처",
+      "pose_description": "인물 없음; 대형 디스플레이 타이포가 화면을 가득 채움",
+      "subject_motion": "static",
+      "prop_motion": "none",
+      "camera_motion": "locked_off",
+      "camera_motion_intensity": "none",
+      "camera_effect_local": "color_strobe",
+      "motion_blur": false,
+      "intra_cut_rhythm": "accelerating",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [
+        "color_pop"
+      ],
+      "vfx_intensity_local": "heavy",
+      "fact_check_flag": null,
+      "notes": "Cut 7 (f83-f96, 6.83-8.00s): black bg, huge 'Let's DIVE' display type. Color strobes teal(f83/84)->yellow(f90/92/96 area)->white(f96). Wow/hook title. scenedetect split this into multiple 'scenes' (f85,90,92) due to color flicker — consolidated as one strobing title cut.",
+      "visible_elements": {
+        "foreground": [
+          "large display typography 'Let's DIVE' (Let's small top, DIVE large bottom)"
+        ],
+        "midground": [],
+        "background": [
+          "flat pure black field #000000"
+        ],
+        "lighting_env": [
+          "flat even ambient — flat title card"
+        ],
+        "atmosphere": [
+          "clean flat, color-strobing glow feel, no grain"
+        ]
+      },
+      "texture": {
+        "primary_subject": "flat_2d_vector",
+        "secondary_objects": [],
+        "background_surface": "flat_digital",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "front",
+        "key_hardness": "soft",
+        "key_color_temp": "colored_neon",
+        "fill_strength": "none",
+        "key_to_fill_ratio": "silhouette",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "none",
+        "overall_contrast": "high_contrast"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#000000",
+          "#1bb39a",
+          "#ffd400",
+          "#ffffff"
+        ],
+        "palette_role": {
+          "#000000": "background_black_dominant",
+          "#1bb39a": "type_teal_strobe_state",
+          "#ffd400": "type_yellow_strobe_state",
+          "#ffffff": "type_white_strobe_state"
+        },
+        "color_relationship": "triadic",
+        "temperature_balance": "split_warm_cool",
+        "saturation_strategy": "vivid",
+        "contrast_type": "luminance_high",
+        "accent_color": "#1bb39a",
+        "accent_ratio": "30_percent"
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A full-screen kinetic-typography title card at 1920x1080 pixels, 16:9 landscape, in a hip Korean motion-graphic style — the brand-action title and the stylistic wow moment of the film, the literal call to dive in. (1) The subject is type rather than a person: a two-part Latin display lockup filling most of the frame; there is no figure and no pose, only the bold wordmark, which holds its glyph shapes fixed. (2) Wardrobe and material: not applicable — the only material is the lettering itself, a chunky, geometric, rounded-corner sans-serif display typeface with thick strokes and slightly tech-retro letterforms. (3) Location and set: the entire background is a flat pure black (#000000) field with no gradient or texture, a neutral void that lets the type glow. (4) Foreground and props: the foreground is the wordmark — the word 'Let's' set smaller in the upper-left quadrant and the word 'DIVE' set very large below it spanning nearly the full width of the frame, with bold tall D, I, V, E glyphs; there are no other props, no icons and no decoration. (5) Lighting setup: the type reads as self-illuminated colored neon on black — the key color temperature is colored-neon, fill strength none, key-to-fill silhouette, no rim light, no practical lights, no shadow presence, and a high-contrast overall look, since bright saturated color sits on absolute black. (6) Lens, framing and camera angle: an eye-level, frontal, environment-scope framing, locked-off, with no camera move and no parallax; the only animated property is the fill color. (7) Composition and grid: dead-centered, the massive 'DIVE' anchoring the lower two-thirds and 'Let's' as a smaller tag above; subject position center, layout grid center. (8) Color palette and strategy with hex values: black #000000 dominant background (~70%), with the typography occupying roughly 30 percent and rapidly strobing its fill between saturated teal-green (#1bb39a), electric yellow (#ffd400) and pure white (#ffffff); in this captured state the lettering is filled teal #1bb39a, but the defining effect is that the fill flickers like a neon sign across the short beat. The color relationship is a vivid triadic strobe on black, temperature split warm-cool, saturation vivid, contrast type luminance-high, accent color #1bb39a at roughly 30 percent. (9) Texture and surfaces: pure flat 2D vector type with crisp edges, zero grain, zero gradient, zero bevel and zero 3D extrusion. (10) Atmosphere: energetic, club-bright, trend-forward — a neon pulse that signals the hook payoff. (11) Post and signature look: per the production signature — 2D animation capture, vivid-pop-flat color grade, clean-digital-flat-lineart finish — with the defining local effect being a color strobe (color_pop, heavy intensity): the glyphs stay fixed while the whole wordmark's fill cycles teal to yellow to white a few flips per second; no lens wiggle, no parallax. (12) Style anchor: Korean commercial kinetic-typography title, flat 2D vector display lettering, neon color-strobe on pure black, bold geometric rounded sans-serif, clean digital, no grain, no 3D. Reproduce the two-part 'Let's DIVE' lockup — small 'Let's' upper-left, huge 'DIVE' below — in saturated teal on a flat black field, designed to be color-strobed between teal, yellow and white in motion. Preserve the on-screen copy 'Let's DIVE' verbatim.",
+        "t2i_negative": "photorealistic, 3D extrusion, bevel, drop shadow, gradient background, grain, noise, real logo, watermark, serif font, image content, people",
+        "i2v_motion": "Hold the centered 'Let's DIVE' glyph shapes perfectly fixed while rapidly strobing/flickering the fill color of the entire wordmark between saturated teal-green, electric yellow and pure white in a fast pulsing rhythm (a few flips per second), like a neon sign. Black background stays flat. Camera locked-off, no movement of the letters. ~1.2s, accelerating energetic rhythm, hard cut out into the first content-category scene. Keep the text reading 'Let's DIVE' the whole time.",
+        "i2v_params": {
+          "clip_duration_sec": 1.17,
+          "camera_move": "locked_off",
+          "subject_motion_level": "still",
+          "signature_effect": "color_strobe",
+          "pacing": "accelerating",
+          "loopable": true
+        },
+        "fidelity_note": "craft-faithful; generic geometric display typeface; on-screen copy 'Let's DIVE' preserved verbatim; color-strobe is the signature effect; no real brand mark"
+      }
+    },
+    {
+      "index": 8,
+      "duration": 5.67,
+      "framing": "WS",
+      "function": "category_dive_gourmet",
+      "subject_action": "split-layout content scene: at left, people in athletic wear and swim fins stand at the edge of a black-grid-tiled pool deck while a figure dives headfirst into a vivid yellow 'pool'; the scene then becomes a purple space where a diver soars among pink donuts threaded on strings; a right-side panel labeled 'COOKING · GOURMET' shows a pink hand lifting noodles with chopsticks; white hashtag pills pop in one by one",
+      "layout_grid": "split_screen",
+      "subject_position": "left_third",
+      "subject_identity": "protagonist_main",
+      "subject_relationship_to_protagonist": "main_character",
+      "mid_frame_path": "ADV-2026-040_frames/cut08_mid.png",
+      "subject_typo_layout": "typo_separate_zone",
+      "typo_motion": "우측 'COOKING · GOURMET' 라벨 + 중앙에 해시태그 필 박스 순차 팝('#요즘 뜨는 맛집'→'#고메위크 완전정복'→'#청담 핫한 루프탑'). 다이버는 좌측에서 화면을 가로질러 다이빙 모션.",
+      "camera_angle": "eye_level",
+      "camera_facing": "three_quarter",
+      "shot_scope": "environment",
+      "gaze": "none",
+      "eye_contact_effect": null,
+      "props": [
+        "swim fins",
+        "black-grid pool deck",
+        "pink donuts on strings",
+        "noodles and chopsticks",
+        "swim caps and goggles"
+      ],
+      "prop_semantics": "다이빙=앱 콘텐츠로 '입수'하는 메타포; 도넛·면=고메/맛집 콘텐츠 상징; 해시태그=앱이 큐레이션하는 트렌드 키워드",
+      "color_palette": [
+        "#ffd400",
+        "#7b3ff2",
+        "#ff4f9d",
+        "#1a1a1a",
+        "#ffffff"
+      ],
+      "color_intent": "옐로(물)+퍼플(콘텐츠 공간)+핑크(도넛/맛)의 강렬한 팝 트라이어드; 카테고리별 컬러 무드 차별화의 첫 장",
+      "pose_description": "다이버가 양팔을 머리 위로 모으고 수면으로 입수하는 다이빙 포즈; 우측 손은 젓가락으로 면을 들어올림",
+      "subject_motion": "diver_plunges_across_frame",
+      "prop_motion": "donuts drift on strings; noodles lifted",
+      "camera_motion": "graphic_wipe",
+      "camera_motion_intensity": "moderate",
+      "camera_effect_local": "horizontal_scene_wipe",
+      "motion_blur": false,
+      "intra_cut_rhythm": "steady",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [
+        "ui_motion",
+        "graphic_wipe"
+      ],
+      "vfx_intensity_local": "moderate",
+      "fact_check_flag": null,
+      "notes": "Cut 8 (f97-f164, 8.00-13.67s): GOURMET. Opens on pool-deck dive (yellow water, fins, grid tiles), becomes purple space with diver + pink donuts on strings + right 'COOKING·GOURMET' panel (hand+noodles). Hashtag pills pop: '#요즘 뜨는 맛집','#고메위크 완전정복','#청담 핫한 루프탑'. Longest content cut.",
+      "visible_elements": {
+        "foreground": [
+          "headfirst diver in athletic wear plunging toward the yellow 'water'",
+          "pink hand lifting noodles with chopsticks (right panel)"
+        ],
+        "midground": [
+          "pink donuts threaded on diagonal strings",
+          "people standing on the pool deck with swim fins",
+          "white hashtag pill boxes: '#요즘 뜨는 맛집', '#고메위크 완전정복', '#청담 핫한 루프탑'"
+        ],
+        "background": [
+          "vivid yellow 'pool' water field",
+          "black-grid white tiled pool deck",
+          "solid purple content-space field (mid-cut)",
+          "white circle 'sun/moon' graphic",
+          "right-side panel label 'COOKING · GOURMET' in a white shape"
+        ],
+        "lighting_env": [
+          "flat even ambient — flat illustration"
+        ],
+        "atmosphere": [
+          "clean flat pop, splash line marks, no grain"
+        ]
+      },
+      "texture": {
+        "primary_subject": "flat_2d_vector",
+        "secondary_objects": [
+          "flat_2d_vector"
+        ],
+        "background_surface": "flat_digital",
+        "atmospheric": [
+          "splash_line_marks"
+        ]
+      },
+      "lighting": {
+        "key_direction": "front",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "strong",
+        "key_to_fill_ratio": "1:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "minimal",
+        "overall_contrast": "hi_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#ffd400",
+          "#7b3ff2",
+          "#ff4f9d",
+          "#1a1a1a",
+          "#ffffff"
+        ],
+        "palette_role": {
+          "#ffd400": "water_yellow_dominant",
+          "#7b3ff2": "content_space_purple",
+          "#ff4f9d": "donut_pink_accent",
+          "#1a1a1a": "outline_black",
+          "#ffffff": "tiles_and_hashtag_pills_white"
+        },
+        "color_relationship": "split_complementary",
+        "temperature_balance": "split_warm_cool",
+        "saturation_strategy": "vivid",
+        "contrast_type": "luminance_high",
+        "accent_color": "#ff4f9d",
+        "accent_ratio": "15_percent"
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A flat 2D vector illustration at 1920x1080 pixels, 16:9 landscape, in a bold Korean pop-art commercial style with thick black outlines and vivid flat color fills, composed as a split content scene — the first and longest of the lifestyle-category dives, themed gourmet. (1) The subject is the protagonist as a headfirst diver plunging across the frame into stylized water, arms pressed together overhead in a streamlined dive pose; in a paired action a pink hand at the right lifts a tangle of noodles upward with chopsticks, framed at environment scope. (2) Wardrobe and material: the central diver wears white shorts and a top; people on the deck wear athletic wear and bright swim fins in teal and pink, all flat-filled with black outlines. (3) Location and set: the lower two-thirds is a vivid saturated yellow (#ffd400) field functioning as a stylized swimming-pool surface with a few simple white splash marks and ripple lines, while the upper area shows a white pool deck tiled with a thin black grid; as the scene develops it becomes a solid purple (#7b3ff2) content-space field with a large white circle sun/moon graphic at upper right. (4) Foreground and props: a headfirst diver enters the yellow water with splash lines; bright pink (#ff4f9d) ring donuts are threaded onto diagonal taut strings; people stand on the pool deck with swim fins; a right-edge vertical panel labeled COOKING · GOURMET in a white bubble/diamond shape shows a pink hand lifting noodles with chopsticks; recorded props are swim fins, the black-grid pool deck, pink donuts on strings, noodles and chopsticks, and swim caps and goggles. (5) Lighting setup: flat, even and hi-key with a soft frontal key at neutral 5500K, strong fill at a 1:1 ratio, no rim light, no practical lights, minimal shadow presence — flat illustration, not 3D. (6) Lens, framing and camera angle: an eye-level, three-quarter-facing, environment-scope framing; a moderate horizontal graphic wipe carries the sub-scenes (locked-off otherwise, no parallax). (7) Composition and grid: a clear split-screen layout — the main diving illustration on the left and center, the category label and food vignette on the right, and white hashtag pills floating over the middle, appearing one by one; subject position left third. (8) Color palette and strategy with hex values: vivid yellow water #ffd400 dominant (~35%), purple content space #7b3ff2 (~25%), pink donuts and hand #ff4f9d accent (~15%), black grid and outlines #1a1a1a (~15%), white tiles and pills #ffffff (~10%); the color relationship is a vivid split-complementary pop scheme, temperature split warm-cool, saturation vivid, contrast type luminance-high, accent color #ff4f9d at roughly 15 percent. (9) Texture and surfaces: pure flat 2D vector, thick black ink outlines, flat unshaded color, simple white splash and ripple line marks, zero photographic texture, zero grain, zero 3D shading. (10) Atmosphere: playful, hip, trend-curating energy — diving into the app's gourmet content, with splash-line marks and no grain. (11) Post and signature look: per the production signature — 2D animation capture, vivid-pop-flat color grade, clean-digital-flat-lineart finish — with a horizontal scene wipe as the local device and the diver's large horizontal traverse driving the motion; no lens wiggle, no parallax. (12) Style anchor: Korean commercial flat-vector 2D animation, thick black linework, vivid pop palette, split content layout with diver plus category label plus hashtag pills, clean digital, no grain, no realism, no 3D. Preserve the on-screen Korean hashtag copy and the category label verbatim: the white hashtag pills read '#요즘 뜨는 맛집', '#고메위크 완전정복', '#청담 핫한 루프탑', and the panel label reads 'COOKING · GOURMET'. Reproduce the yellow-water pool dive transitioning to a purple space with a diver among pink donuts on strings, a right-side COOKING · GOURMET noodle vignette, and floating Korean hashtag pills.",
+        "t2i_negative": "photorealistic, 3D render, real food photo, gradient background, grain, noise, real brand logo, watermark, soft shadows, distorted anatomy",
+        "i2v_motion": "The headfirst diver plunges from the pool deck into the yellow water with a splash, then the scene wipes to the purple content space where a diver soars horizontally past pink donuts drifting on strings; on the right, a pink hand lifts noodles with chopsticks. Three white hashtag pills pop in sequentially over the middle ('#요즘 뜨는 맛집', then '#고메위크 완전정복', then '#청담 핫한 루프탑'). Horizontal graphic wipe between sub-scenes; flat backgrounds steady. Camera locked-off. ~5.7s, steady rhythm, hard cut out to the next category.",
+        "i2v_params": {
+          "clip_duration_sec": 5.67,
+          "camera_move": "graphic_wipe",
+          "subject_motion_level": "dynamic",
+          "signature_effect": "none",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; generic faceless figures; flat cartoon food; on-screen hashtag copy and category label preserved verbatim; no real brand mark"
+      }
+    },
+    {
+      "index": 9,
+      "duration": 3.75,
+      "framing": "WS",
+      "function": "category_dive_interior",
+      "subject_action": "interior-room content scene labeled 'ARCHITECTURE · INTERIOR': a stylish magenta-striped room with a periwinkle armchair sprouting a yellow flame graphic, an open laptop, a white coffee cup with a dolphin emerging from it, and a diver plunging into the dark laptop screen; white hashtag pills pop in",
+      "layout_grid": "split_screen",
+      "subject_position": "center",
+      "subject_identity": "protagonist_main",
+      "subject_relationship_to_protagonist": "main_character",
+      "mid_frame_path": "ADV-2026-040_frames/cut09_mid.png",
+      "subject_typo_layout": "typo_separate_zone",
+      "typo_motion": "우상단 'ARCHITECTURE · INTERIOR' 다이아 라벨 정적. 좌·중앙에 해시태그 필 순차 팝('#인테리어 추천도서'→'#취향저격 소품샵'→'#희귀 도서 찾기'). 다이버가 좌측 노트북 화면으로 다이빙.",
+      "camera_angle": "eye_level",
+      "camera_facing": "three_quarter",
+      "shot_scope": "environment",
+      "gaze": "none",
+      "eye_contact_effect": null,
+      "props": [
+        "periwinkle armchair",
+        "yellow flame graphic",
+        "open laptop",
+        "white coffee cup",
+        "dolphin",
+        "striped barrier pole"
+      ],
+      "prop_semantics": "인테리어 룸 소품(의자·노트북·커피)=인테리어/디자인 콘텐츠 상징; 노트북 화면으로 다이빙=콘텐츠 속으로 진입; 돌고래=위트 요소",
+      "color_palette": [
+        "#e0218a",
+        "#5b4ee5",
+        "#ffd400",
+        "#1a1a1a",
+        "#ffffff"
+      ],
+      "color_intent": "마젠타 줄무늬 벽+퍼플 의자+옐로 불꽃의 비비드 대비로 '핫한 인테리어' 무드를 팝하게 연출",
+      "pose_description": "다이버가 팔을 모으고 노트북 화면 안으로 입수하는 다이빙 포즈",
+      "subject_motion": "diver_plunges_into_laptop",
+      "prop_motion": "flame flickers; diver enters screen",
+      "camera_motion": "graphic_wipe",
+      "camera_motion_intensity": "moderate",
+      "camera_effect_local": "horizontal_scene_wipe",
+      "motion_blur": false,
+      "intra_cut_rhythm": "steady",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [
+        "ui_motion",
+        "graphic_wipe"
+      ],
+      "vfx_intensity_local": "moderate",
+      "fact_check_flag": null,
+      "notes": "Cut 9 (f165-f209, 13.67-17.42s): ARCHITECTURE·INTERIOR. Magenta striped room, periwinkle armchair w/ yellow flame, open laptop, white coffee cup w/ dolphin. Diver dives into laptop screen. Hashtags: '#인테리어 추천도서','#취향저격 소품샵','#희귀 도서 찾기'.",
+      "visible_elements": {
+        "foreground": [
+          "periwinkle-purple armchair with a yellow flame rising from it",
+          "diver plunging into the dark open laptop screen"
+        ],
+        "midground": [
+          "open laptop on the floor",
+          "white coffee cup on a saucer with a teal dolphin arcing out of it",
+          "yellow striped barrier pole at left",
+          "white hashtag pills: '#인테리어 추천도서', '#취향저격 소품샵', '#희귀 도서 찾기'"
+        ],
+        "background": [
+          "magenta-pink room with vertical darker-magenta stripe shading",
+          "white diamond label 'ARCHITECTURE · INTERIOR' upper right"
+        ],
+        "lighting_env": [
+          "flat even ambient — flat illustration"
+        ],
+        "atmosphere": [
+          "clean flat pop, no grain"
+        ]
+      },
+      "texture": {
+        "primary_subject": "flat_2d_vector",
+        "secondary_objects": [
+          "flat_2d_vector"
+        ],
+        "background_surface": "flat_digital",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "front",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "strong",
+        "key_to_fill_ratio": "1:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "minimal",
+        "overall_contrast": "mid_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#e0218a",
+          "#5b4ee5",
+          "#ffd400",
+          "#1a1a1a",
+          "#ffffff"
+        ],
+        "palette_role": {
+          "#e0218a": "room_magenta_dominant",
+          "#5b4ee5": "armchair_purple",
+          "#ffd400": "flame_yellow_accent",
+          "#1a1a1a": "laptop_and_outline_black",
+          "#ffffff": "cup_and_hashtag_white"
+        },
+        "color_relationship": "split_complementary",
+        "temperature_balance": "warm_dominant",
+        "saturation_strategy": "vivid",
+        "contrast_type": "luminance_high",
+        "accent_color": "#ffd400",
+        "accent_ratio": "15_percent"
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A flat 2D vector illustration at 1920x1080 pixels, 16:9 landscape, in a bold Korean pop-art commercial style with thick black outlines and vivid flat color fills, depicting a stylized interior room scene — the architecture and interior category dive. (1) The subject is the protagonist as a headfirst diver plunging into a dark open laptop screen, arms pressed together, as if diving into content; framed at environment scope. (2) Wardrobe and material: the diver wears athletic wear; the furniture and props are flat-filled with crisp black outlines, including a periwinkle-purple upholstered armchair and a white ceramic coffee cup. (3) Location and set: the room walls and floor are magenta-pink (#e0218a) with vertical bands of slightly darker magenta giving a striped or curtained look; in the upper-right corner a white diamond/angular label contains the words 'ARCHITECTURE · INTERIOR' in bold dark sans-serif. (4) Foreground and props: centered is a periwinkle-purple (#5b4ee5) wingback armchair from whose seat a bright yellow (#ffd400) cartoon flame rises as a playful 'hot' motif; to the left an open laptop sits low with its screen a dark near-black rectangle and a yellow-and-white striped barrier pole leaning across it, the diver plunging into the screen; to the right a white (#ffffff) coffee cup on a saucer has a teal-green dolphin whimsically arcing up out of it; recorded props are the periwinkle armchair, yellow flame graphic, open laptop, white coffee cup, dolphin and striped barrier pole. (5) Lighting setup: flat and even with a soft frontal key at neutral 5500K, strong fill at a 1:1 ratio, no rim light, no practical lights, minimal shadow presence, mid-key overall contrast — flat illustration, not 3D. (6) Lens, framing and camera angle: an eye-level, three-quarter-facing, environment-scope framing; a moderate horizontal graphic wipe carried this scene in (locked-off otherwise, no parallax). (7) Composition and grid: a split content scene — the furnished room fills the frame, the category label sits top-right, and white hashtag pills float over the left-center appearing one by one; subject position center. (8) Color palette and strategy with hex values: magenta room #e0218a dominant (~45%), periwinkle armchair #5b4ee5 (~18%), yellow flame and accents #ffd400 (~12%), black laptop and outlines #1a1a1a (~15%), white cup and pills #ffffff (~10%); the color relationship is a vivid split-complementary pop scheme, temperature warm-dominant, saturation vivid, contrast type luminance-high, accent color #ffd400 at roughly 15 percent. (9) Texture and surfaces: pure flat 2D vector, thick black ink outlines, flat unshaded color, zero photographic texture, zero grain, zero 3D shading. (10) Atmosphere: hip, design-savvy, trend-curating energy — diving into interior and architecture content, with no grain. (11) Post and signature look: per the production signature — 2D animation capture, vivid-pop-flat color grade, clean-digital-flat-lineart finish — with a horizontal scene wipe and the diver's plunge as the motion device, plus a flickering flame; no lens wiggle, no parallax. (12) Style anchor: Korean commercial flat-vector 2D animation, thick black linework, vivid pop palette, a stylized interior room with diver-into-laptop, category label and hashtag pills, clean digital, no grain, no realism, no 3D. Preserve the on-screen label and Korean hashtag copy verbatim: the upper-right label reads 'ARCHITECTURE · INTERIOR', and the white hashtag pills read '#인테리어 추천도서', '#취향저격 소품샵', '#희귀 도서 찾기'. Reproduce the magenta striped room with a flaming periwinkle armchair, a diver plunging into an open laptop, a white coffee cup with a dolphin, the ARCHITECTURE · INTERIOR label top-right, and floating Korean hashtag pills.",
+        "t2i_negative": "photorealistic, 3D render, real furniture photo, gradient background, grain, noise, real brand logo, watermark, soft shadows, distorted anatomy",
+        "i2v_motion": "The yellow flame on the armchair flickers; a diver plunges headfirst into the dark laptop screen; the dolphin arcs out of the coffee cup. Three white hashtag pills pop in sequentially over the left-center ('#인테리어 추천도서', then '#취향저격 소품샵', then '#희귀 도서 찾기'). Horizontal graphic wipe carried this scene in from the previous one; flat backgrounds steady. Camera locked-off. ~3.75s, steady rhythm, hard cut out to the next category.",
+        "i2v_params": {
+          "clip_duration_sec": 3.75,
+          "camera_move": "graphic_wipe",
+          "subject_motion_level": "dynamic",
+          "signature_effect": "none",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; generic faceless figure; flat cartoon props; on-screen label and hashtag copy preserved verbatim; no real brand mark"
+      }
+    },
+    {
+      "index": 10,
+      "duration": 6.08,
+      "framing": "WS",
+      "function": "category_dive_design",
+      "subject_action": "content scene labeled 'DESIGN · ART': a white field overlaid with a black wavy-grid / cracked-marble line texture and a square grid; a diver in a purple top soars horizontally with a cast reflection, beside a yellow starburst badge reading 'DESIGN · ART'; white hashtag pills pop in; the scene then begins a horizontal wipe into the next (travel) scene",
+      "layout_grid": "split_screen",
+      "subject_position": "right_third",
+      "subject_identity": "protagonist_main",
+      "subject_relationship_to_protagonist": "main_character",
+      "mid_frame_path": "ADV-2026-040_frames/cut10_mid.png",
+      "subject_typo_layout": "typo_separate_zone",
+      "typo_motion": "좌측 옐로 별모양 배지 'DESIGN · ART' 정적. 중앙 해시태그 필 순차 팝('#라이브러리 무료입장'→'#이태원 핫한 전시 예매'). 다이버가 우측에서 수평 비행, 컷 말미에 다음 씬이 옆에서 슬라이드 인.",
+      "camera_angle": "eye_level",
+      "camera_facing": "profile",
+      "shot_scope": "environment",
+      "gaze": "none",
+      "eye_contact_effect": null,
+      "props": [
+        "yellow starburst badge",
+        "wavy-grid / cracked-marble line pattern",
+        "square grid lines"
+      ],
+      "prop_semantics": "물결치는 그리드/대리석 라인=디자인·아트의 추상 패턴 상징; 별모양 배지=강조 라벨; 수평 다이버=콘텐츠 사이를 유영",
+      "color_palette": [
+        "#ffffff",
+        "#1a1a1a",
+        "#5b4ee5",
+        "#ffd400",
+        "#ff4f9d"
+      ],
+      "color_intent": "흰 바탕+검정 라인 패턴의 미니멀 모노 대비로 '디자인·아트'의 절제된 무드; 옐로 배지·핑크 인물이 포인트",
+      "pose_description": "다이버가 수평으로 팔을 뻗어 유영하듯 날아가는 포즈, 아래에 검은 반사 그림자",
+      "subject_motion": "diver_glides_horizontally",
+      "prop_motion": "grid pattern static; diver glides; next scene wipes in",
+      "camera_motion": "graphic_wipe",
+      "camera_motion_intensity": "moderate",
+      "camera_effect_local": "horizontal_scene_wipe",
+      "motion_blur": false,
+      "intra_cut_rhythm": "steady",
+      "transition_in": "cut",
+      "transition_out": "wipe",
+      "vfx_in_shot": [
+        "ui_motion",
+        "graphic_wipe"
+      ],
+      "vfx_intensity_local": "moderate",
+      "fact_check_flag": null,
+      "notes": "Cut 10 (f210-f282, 17.42-23.50s): DESIGN·ART. White field + black wavy-grid/cracked-marble texture + square grid. Purple-top diver glides horizontally with black reflection. Yellow starburst 'DESIGN·ART' badge left. Hashtags: '#라이브러리 무료입장','#이태원 핫한 전시 예매'. Ends with horizontal wipe into TRAVEL. Midframe f247 catches the wipe.",
+      "visible_elements": {
+        "foreground": [
+          "diver in a purple top gliding horizontally across the frame",
+          "black mirrored reflection beneath the diver"
+        ],
+        "midground": [
+          "yellow starburst/explosion badge reading 'DESIGN · ART' at lower left",
+          "white hashtag pills: '#라이브러리 무료입장', '#이태원 핫한 전시 예매'"
+        ],
+        "background": [
+          "white field with a black square grid",
+          "black wavy-line / cracked-marble texture filling the left portion",
+          "edge of the next (travel) scene sliding in at right in late frames"
+        ],
+        "lighting_env": [
+          "flat even ambient — flat illustration"
+        ],
+        "atmosphere": [
+          "clean flat pop, minimal mono pattern, no grain"
+        ]
+      },
+      "texture": {
+        "primary_subject": "flat_2d_vector",
+        "secondary_objects": [
+          "line_pattern_marble"
+        ],
+        "background_surface": "flat_digital",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "front",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "strong",
+        "key_to_fill_ratio": "1:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "minimal",
+        "overall_contrast": "hi_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#ffffff",
+          "#1a1a1a",
+          "#5b4ee5",
+          "#ffd400",
+          "#ff4f9d"
+        ],
+        "palette_role": {
+          "#ffffff": "background_white_dominant",
+          "#1a1a1a": "grid_and_marble_lines_black",
+          "#5b4ee5": "diver_purple",
+          "#ffd400": "starburst_badge_yellow",
+          "#ff4f9d": "diver_skin_pink_accent"
+        },
+        "color_relationship": "monochrome",
+        "temperature_balance": "balanced",
+        "saturation_strategy": "desaturated_with_pop",
+        "contrast_type": "luminance_high",
+        "accent_color": "#ffd400",
+        "accent_ratio": "15_percent"
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A flat 2D vector illustration at 1920x1080 pixels, 16:9 landscape, in a bold Korean pop-art commercial style with thick black outlines but in a deliberately minimal monochrome palette for this design-and-art beat. (1) The subject is the protagonist as a diver gliding horizontally with arms outstretched as if swimming through the air, shown in profile and doubled by a mirrored reflection; framed at environment scope. (2) Wardrobe and material: the diver wears a periwinkle-purple (#5b4ee5) top and shorts with pink skin, flat-filled with black outlines. (3) Location and set: the background is predominantly white (#ffffff); over the left half runs a dense black (#1a1a1a) wavy-line / cracked-marble line texture — organic squiggling contour lines like veined marble or topographic swirls — and across the rest of the frame a thin black square grid is overlaid on the white, giving a graph-paper or gallery feel. (4) Foreground and props: spanning the right two-thirds, the purple diver glides horizontally; beneath the diver is a solid black mirrored silhouette reflection that doubles the figure; at the lower-left corner is a bright yellow (#ffd400) jagged starburst/explosion badge containing the words 'DESIGN · ART' in bold black sans-serif; recorded props are the yellow starburst badge, the wavy-grid / cracked-marble line pattern and the square grid lines. (5) Lighting setup: flat, even and hi-key with a soft frontal key at neutral 5500K, strong fill at a 1:1 ratio, no rim light, no practical lights, minimal shadow presence — flat illustration, not 3D. (6) Lens, framing and camera angle: an eye-level, profile-facing, environment-scope framing; a moderate horizontal graphic wipe begins at the end as the next travel scene slides in from the right (locked-off otherwise, no parallax). (7) Composition and grid: a clean minimal split — organic black marble pattern on the left, gridded white space on the right with the gliding purple diver and its black reflection, the yellow badge anchoring the lower-left, and white hashtag pills over the upper-center appearing one by one; subject position right third. (8) Color palette and strategy with hex values: white #ffffff dominant background (~55%), black grid, marble lines and reflection #1a1a1a (~22%), periwinkle diver #5b4ee5 (~10%), yellow badge #ffd400 (~8%), pink diver skin #ff4f9d accent (~5%); the color relationship is essentially monochrome (white and black) with a small purple, yellow and pink pop, temperature balanced, saturation desaturated-with-pop, contrast type luminance-high (black on white), accent color #ffd400 at roughly 15 percent. (9) Texture and surfaces: pure flat 2D vector, thick black ink outlines, flat unshaded color, a hand-drawn wavy-line marble pattern, zero photographic texture, zero grain, zero 3D shading. (10) Atmosphere: refined, gallery-cool, design-literate — diving through design and art content, with a minimal mono pattern and no grain. (11) Post and signature look: per the production signature — 2D animation capture, vivid-pop-flat color grade, clean-digital-flat-lineart finish — with a horizontal scene wipe as the local device and the diver's horizontal glide driving the motion; no lens wiggle, no parallax. (12) Style anchor: Korean commercial flat-vector 2D animation, thick black linework, a minimal mono palette with pop accents, a gridded white field with marble pattern and a gliding purple diver plus black reflection, a starburst category badge and hashtag pills, clean digital, no grain, no realism, no 3D. Preserve the on-screen badge text and Korean hashtag copy verbatim: the lower-left badge reads 'DESIGN · ART', and the white hashtag pills read '#라이브러리 무료입장', '#이태원 핫한 전시 예매'. Reproduce the white gridded field with black marble swirl texture, a horizontal purple diver with a black mirror reflection, a yellow DESIGN · ART starburst badge at lower-left, and floating Korean hashtag pills.",
+        "t2i_negative": "photorealistic, 3D render, real marble photo, gradient background, grain, noise, real brand logo, watermark, soft shadows, distorted anatomy, heavy color",
+        "i2v_motion": "The diver glides horizontally across the white gridded field with its black reflection mirroring it below; the marble line pattern stays static. Two white hashtag pills pop in sequentially over the upper-center ('#라이브러리 무료입장', then '#이태원 핫한 전시 예매'). Toward the end of the beat, the next (travel) scene begins sliding in from the right as a horizontal graphic wipe. Camera locked-off. ~6.1s, steady rhythm, ends on the wipe handoff.",
+        "i2v_params": {
+          "clip_duration_sec": 6.08,
+          "camera_move": "graphic_wipe",
+          "subject_motion_level": "dynamic",
+          "signature_effect": "none",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; generic faceless figure; flat cartoon marble pattern; on-screen badge and hashtag copy preserved verbatim; no real brand mark"
+      }
+    },
+    {
+      "index": 11,
+      "duration": 1.42,
+      "framing": "WS",
+      "function": "category_dive_travel",
+      "subject_action": "content scene labeled 'TRAVEL': a vivid yellow sky over pink-red mountains with pink flamingos and tall potted plants; a diver wearing a green turtle-shell backpack soars through the air past a white sun; white hashtag pills pop in",
+      "layout_grid": "split_screen",
+      "subject_position": "right_third",
+      "subject_identity": "protagonist_main",
+      "subject_relationship_to_protagonist": "main_character",
+      "mid_frame_path": "ADV-2026-040_frames/cut11_mid.png",
+      "subject_typo_layout": "typo_separate_zone",
+      "typo_motion": "좌하단 흰 구름형 'TRAVEL' 라벨 정적. 중앙 해시태그 필 순차 팝('#가성비갑 여행법'→'#스페셜토크 단독예매'→'#호텔위크 예약꿀팁'). 다이버가 우측 상공을 가로질러 비행.",
+      "camera_angle": "eye_level",
+      "camera_facing": "three_quarter",
+      "shot_scope": "environment",
+      "gaze": "none",
+      "eye_contact_effect": null,
+      "props": [
+        "pink-red mountains",
+        "pink flamingos",
+        "potted plants",
+        "green turtle-shell backpack",
+        "white sun"
+      ],
+      "prop_semantics": "산·플라밍고·식물=여행/리조트 풍경 상징; 거북등 배낭=여행자(다이버); 해시태그=여행 콘텐츠 키워드",
+      "color_palette": [
+        "#ffd400",
+        "#ff4f9d",
+        "#1bb39a",
+        "#5b4ee5",
+        "#ffffff"
+      ],
+      "color_intent": "옐로 하늘+핑크 산+틸 디테일의 트로피컬 팝 팔레트로 여행지의 들뜬 무드",
+      "pose_description": "다이버가 거북등 배낭을 메고 팔다리를 뻗어 공중을 가로질러 날아가는 포즈",
+      "subject_motion": "diver_soars_through_sky",
+      "prop_motion": "diver flies across; flamingos static",
+      "camera_motion": "graphic_wipe",
+      "camera_motion_intensity": "moderate",
+      "camera_effect_local": "horizontal_scene_wipe",
+      "motion_blur": false,
+      "intra_cut_rhythm": "steady",
+      "transition_in": "wipe",
+      "transition_out": "cut",
+      "vfx_in_shot": [
+        "ui_motion",
+        "graphic_wipe"
+      ],
+      "vfx_intensity_local": "moderate",
+      "fact_check_flag": null,
+      "notes": "Cut 11 (f283-f299, 23.50-24.92s): TRAVEL. Yellow sky, pink-red mountains, pink flamingos, potted plants. Diver with green turtle-shell backpack soars past white sun. Hashtags: '#가성비갑 여행법','#스페셜토크 단독예매','#호텔위크 예약꿀팁'. Short beat (1.4s).",
+      "visible_elements": {
+        "foreground": [
+          "diver with a green turtle-shell backpack soaring through the air"
+        ],
+        "midground": [
+          "pink-red mountain range",
+          "pink flamingos at right",
+          "tall potted plants at left on a purple ledge",
+          "white hashtag pills: '#가성비갑 여행법', '#스페셜토크 단독예매', '#호텔위크 예약꿀팁'"
+        ],
+        "background": [
+          "vivid yellow sky with a white sun circle",
+          "white cloud-shape label 'TRAVEL' at lower left",
+          "white gridded wall section at left"
+        ],
+        "lighting_env": [
+          "flat even ambient — flat illustration"
+        ],
+        "atmosphere": [
+          "clean flat pop, no grain"
+        ]
+      },
+      "texture": {
+        "primary_subject": "flat_2d_vector",
+        "secondary_objects": [
+          "flat_2d_vector"
+        ],
+        "background_surface": "flat_digital",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "front",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "strong",
+        "key_to_fill_ratio": "1:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "minimal",
+        "overall_contrast": "hi_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#ffd400",
+          "#ff4f9d",
+          "#1bb39a",
+          "#5b4ee5",
+          "#ffffff"
+        ],
+        "palette_role": {
+          "#ffd400": "sky_yellow_dominant",
+          "#ff4f9d": "mountains_flamingo_pink",
+          "#1bb39a": "backpack_plants_teal",
+          "#5b4ee5": "ledge_purple",
+          "#ffffff": "sun_and_hashtag_white"
+        },
+        "color_relationship": "split_complementary",
+        "temperature_balance": "warm_dominant",
+        "saturation_strategy": "vivid",
+        "contrast_type": "luminance_high",
+        "accent_color": "#1bb39a",
+        "accent_ratio": "15_percent"
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A flat 2D vector illustration at 1920x1080 pixels, 16:9 landscape, in a bold Korean pop-art commercial style with thick black outlines and vivid flat color fills, depicting a stylized travel and resort scene — the travel category dive. (1) The subject is the protagonist as a diver soaring through the sky from the right with arms and legs outstretched, mid-leap; framed at environment scope. (2) Wardrobe and material: the diver wears athletic wear and a green-teal (#1bb39a) turtle-shell backpack, flat-filled with black outlines. (3) Location and set: the upper background is a vivid saturated yellow (#ffd400) sky with a large white (#ffffff) circle sun at upper center; the lower-right shows a range of pink-red (#ff4f9d) mountains drawn as flat black-outlined silhouettes with simple contour lines; at the left a white wall section with a thin black grid and two tall potted plants (teal-green leaves in pink pots) sit on a periwinkle-purple (#5b4ee5) ledge. (4) Foreground and props: the soaring diver with the green turtle-shell backpack crosses the frame; one or two pink flamingos stand at the right edge; in the lower-left corner a white cloud/bubble shape contains the word 'TRAVEL' in bold black sans-serif; recorded props are the pink-red mountains, pink flamingos, potted plants, green turtle-shell backpack and white sun. (5) Lighting setup: flat, even and hi-key with a soft frontal key at neutral 5500K, strong fill at a 1:1 ratio, no rim light, no practical lights, minimal shadow presence — flat illustration, not 3D. (6) Lens, framing and camera angle: an eye-level, three-quarter-facing, environment-scope framing; a moderate horizontal graphic wipe brought this scene in (locked-off otherwise, no parallax). (7) Composition and grid: a split travel postcard — the tropical mountain-and-flamingo landscape on the right, the plant and wall detail and category label on the left, and white hashtag pills over the center-left appearing one by one; subject position right third. (8) Color palette and strategy with hex values: yellow sky #ffd400 dominant (~40%), pink mountains and flamingo #ff4f9d (~20%), teal backpack and plants #1bb39a accent (~12%), purple ledge #5b4ee5 (~10%), white sun and pills #ffffff (~12%), black outlines; the color relationship is a vivid split-complementary tropical pop scheme, temperature warm-dominant, saturation vivid, contrast type luminance-high, accent color #1bb39a at roughly 15 percent. (9) Texture and surfaces: pure flat 2D vector, thick black ink outlines, flat unshaded color, zero photographic texture, zero grain, zero 3D shading. (10) Atmosphere: sunny, wanderlust, vacation-hype energy — diving into travel content, with no grain. (11) Post and signature look: per the production signature — 2D animation capture, vivid-pop-flat color grade, clean-digital-flat-lineart finish — with a horizontal scene wipe as the local device and the diver's soaring traverse driving the motion; no lens wiggle, no parallax. (12) Style anchor: Korean commercial flat-vector 2D animation, thick black linework, a vivid tropical pop palette, a yellow sky with pink mountains and flamingos, a diver with a turtle-shell backpack, a category label and hashtag pills, clean digital, no grain, no realism, no 3D. Preserve the on-screen label and Korean hashtag copy verbatim: the lower-left label reads 'TRAVEL', and the white hashtag pills read '#가성비갑 여행법', '#스페셜토크 단독예매', '#호텔위크 예약꿀팁'. Reproduce the yellow sky, pink-red mountains, flamingos, potted plants, a soaring diver with a green turtle-shell backpack, the TRAVEL label lower-left, and floating Korean hashtag pills.",
+        "t2i_negative": "photorealistic, 3D render, real landscape photo, gradient background, grain, noise, real brand logo, watermark, soft shadows, distorted anatomy",
+        "i2v_motion": "The diver with the turtle-shell backpack soars across the yellow sky past the white sun toward the pink mountains; flamingos and plants stay static. Three white hashtag pills pop in sequentially over the center-left ('#가성비갑 여행법', then '#스페셜토크 단독예매', then '#호텔위크 예약꿀팁'). A horizontal graphic wipe brought this scene in. Camera locked-off. ~1.4s, steady-quick rhythm, hard cut out to the next category.",
+        "i2v_params": {
+          "clip_duration_sec": 1.42,
+          "camera_move": "graphic_wipe",
+          "subject_motion_level": "dynamic",
+          "signature_effect": "none",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; generic faceless figure; flat cartoon landscape; on-screen label and hashtag copy preserved verbatim; no real brand mark"
+      }
+    },
+    {
+      "index": 12,
+      "duration": 3.41,
+      "framing": "WS",
+      "function": "category_dive_style",
+      "subject_action": "content scene labeled 'STYLE': a teal sky-and-clouds room with sneakers on a yellow stepped platform, a white dress shirt on a hanger, an open pink door, and a long-haired person reclining mid-air; white hashtag pills pop in",
+      "layout_grid": "split_screen",
+      "subject_position": "center",
+      "subject_identity": "protagonist_main",
+      "subject_relationship_to_protagonist": "main_character",
+      "mid_frame_path": "ADV-2026-040_frames/cut12_mid.png",
+      "subject_typo_layout": "typo_separate_zone",
+      "typo_motion": "좌하단 흰 'STYLE' 라벨 정적. 중앙 해시태그 필 순차 팝('#넥스트 핫브랜드'→'#직구 노하우'→'#한정판 스니커즈'). 인물이 공중에 비스듬히 누운 자세로 등장.",
+      "camera_angle": "eye_level",
+      "camera_facing": "three_quarter",
+      "shot_scope": "environment",
+      "gaze": "none",
+      "eye_contact_effect": null,
+      "props": [
+        "sneakers",
+        "yellow stepped platform",
+        "white dress shirt on hanger",
+        "pink door",
+        "pink ball"
+      ],
+      "prop_semantics": "스니커즈·셔츠=패션/스타일 콘텐츠 상징; 핑크 문=새 콘텐츠로의 입구; 계단 위 운동화=하이프 아이템",
+      "color_palette": [
+        "#1bb39a",
+        "#ffd400",
+        "#e0218a",
+        "#5b4ee5",
+        "#ffffff"
+      ],
+      "color_intent": "틸 하늘+옐로 계단+마젠타 문의 청량 팝 팔레트로 '스타일' 카테고리의 트렌디 무드",
+      "pose_description": "긴 금발 인물이 공중에 비스듬히 누워 한 손을 뻗은 릴랙스 포즈; 셔츠를 향해 손을 뻗음",
+      "subject_motion": "figure_reclines_midair",
+      "prop_motion": "figure drifts; shirt sways slightly",
+      "camera_motion": "graphic_wipe",
+      "camera_motion_intensity": "moderate",
+      "camera_effect_local": "horizontal_scene_wipe",
+      "motion_blur": false,
+      "intra_cut_rhythm": "steady",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [
+        "ui_motion"
+      ],
+      "vfx_intensity_local": "moderate",
+      "fact_check_flag": null,
+      "notes": "Cut 12 (f300-f340, 24.92-28.33s): STYLE. Teal sky/clouds room, sneakers on yellow stepped platform, white shirt on hanger, open pink door, pink ball. Long-haired figure reclining mid-air reaching toward shirt. Hashtags: '#넥스트 핫브랜드','#직구 노하우','#한정판 스니커즈'.",
+      "visible_elements": {
+        "foreground": [
+          "long blonde-haired person reclining mid-air, one arm reaching toward the shirt",
+          "white dress shirt on a black hanger"
+        ],
+        "midground": [
+          "purple sneakers on a yellow stepped platform/staircase at left",
+          "pink ball on the floor",
+          "white hashtag pills: '#넥스트 핫브랜드', '#직구 노하우', '#한정판 스니커즈'"
+        ],
+        "background": [
+          "teal-green wall with white clouds (sky-room)",
+          "open magenta-pink door at right",
+          "white cloud-shape label 'STYLE' at lower left"
+        ],
+        "lighting_env": [
+          "flat even ambient — flat illustration"
+        ],
+        "atmosphere": [
+          "clean flat pop, dreamy sky-room, no grain"
+        ]
+      },
+      "texture": {
+        "primary_subject": "flat_2d_vector",
+        "secondary_objects": [
+          "flat_2d_vector"
+        ],
+        "background_surface": "flat_digital",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "front",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "strong",
+        "key_to_fill_ratio": "1:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "minimal",
+        "overall_contrast": "hi_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#1bb39a",
+          "#ffd400",
+          "#e0218a",
+          "#5b4ee5",
+          "#ffffff"
+        ],
+        "palette_role": {
+          "#1bb39a": "sky_room_teal_dominant",
+          "#ffd400": "platform_yellow",
+          "#e0218a": "door_magenta_accent",
+          "#5b4ee5": "sneakers_purple",
+          "#ffffff": "clouds_shirt_hashtag_white"
+        },
+        "color_relationship": "split_complementary",
+        "temperature_balance": "cool_dominant",
+        "saturation_strategy": "vivid",
+        "contrast_type": "luminance_high",
+        "accent_color": "#e0218a",
+        "accent_ratio": "15_percent"
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A flat 2D vector illustration at 1920x1080 pixels, 16:9 landscape, in a bold Korean pop-art commercial style with thick black outlines and vivid flat color fills, depicting a dreamy stylized style and fashion room — the style category dive. (1) The subject is the protagonist as a long blonde-haired person reclining mid-air in a relaxed diagonal pose, one arm extended toward a hanging shirt; framed at environment scope, with the face kept generic. (2) Wardrobe and material: the figure wears a casual outfit; a white dress shirt hangs on a thin black hanger; periwinkle-purple sneakers are displayed; all flat-filled with black outlines. (3) Location and set: the walls are teal-green (#1bb39a) decorated with simple flat white (#ffffff) cloud shapes for a surreal sky-room feel; at the right is an open magenta-pink (#e0218a) door. (4) Foreground and props: at the left a bright yellow (#ffd400) stepped platform or staircase holds a pair of periwinkle-purple (#5b4ee5) sneakers displayed like museum pieces; center-right a white dress shirt hangs on a black hanger suspended in the air; the reclining long-haired figure drifts diagonally across the center; a small pink ball rests on the floor below; in the lower-left corner a white cloud/bubble shape contains the word 'STYLE' in bold black sans-serif; recorded props are the sneakers, yellow stepped platform, white dress shirt on hanger, pink door and pink ball. (5) Lighting setup: flat, even and hi-key with a soft frontal key at neutral 5500K, strong fill at a 1:1 ratio, no rim light, no practical lights, minimal shadow presence — flat illustration, not 3D. (6) Lens, framing and camera angle: an eye-level, three-quarter-facing, environment-scope framing; a moderate horizontal graphic wipe carries this scene (locked-off otherwise, no parallax). (7) Composition and grid: a split fashion scene — the sneaker display and platform on the left, the reclining figure and hanging shirt in the center, the open door on the right, the category label lower-left, and white hashtag pills over the center appearing one by one; subject position center. (8) Color palette and strategy with hex values: teal sky-room #1bb39a dominant (~45%), yellow platform #ffd400 (~15%), magenta door #e0218a accent (~10%), purple sneakers #5b4ee5 (~8%), white clouds, shirt and pills #ffffff (~18%), black outlines; the color relationship is a vivid split-complementary pop scheme, temperature cool-dominant, saturation vivid, contrast type luminance-high, accent color #e0218a at roughly 15 percent. (9) Texture and surfaces: pure flat 2D vector, thick black ink outlines, flat unshaded color, zero photographic texture, zero grain, zero 3D shading. (10) Atmosphere: dreamy, fashion-forward, hype-item energy — diving into style content, a dreamy sky-room with no grain. (11) Post and signature look: per the production signature — 2D animation capture, vivid-pop-flat color grade, clean-digital-flat-lineart finish — with a horizontal scene wipe as the local device and the figure's mid-air drift driving the motion; no lens wiggle, no parallax. (12) Style anchor: Korean commercial flat-vector 2D animation, thick black linework, a vivid pop palette, a surreal teal sky-room with sneakers on a yellow platform, a hanging shirt, a reclining figure, an open pink door, a category label and hashtag pills, clean digital, no grain, no realism, no 3D; keep the figure a generic character with no celebrity likeness. Preserve the on-screen label and Korean hashtag copy verbatim: the lower-left label reads 'STYLE', and the white hashtag pills read '#넥스트 핫브랜드', '#직구 노하우', '#한정판 스니커즈'. Reproduce the teal cloud-room with purple sneakers on a yellow staircase, a white shirt on a hanger, a long-haired reclining figure, an open magenta door, the STYLE label lower-left, and floating Korean hashtag pills.",
+        "t2i_negative": "photorealistic, 3D render, real clothing photo, gradient background, grain, noise, real brand logo, watermark, soft shadows, distorted anatomy",
+        "i2v_motion": "The long-haired figure drifts and reclines mid-air reaching toward the hanging shirt, which sways slightly. Three white hashtag pills pop in sequentially over the center ('#넥스트 핫브랜드', then '#직구 노하우', then '#한정판 스니커즈'). A horizontal graphic wipe carries this scene; flat backgrounds steady. Camera locked-off. ~3.4s, steady rhythm, hard cut out to the next category.",
+        "i2v_params": {
+          "clip_duration_sec": 3.41,
+          "camera_move": "graphic_wipe",
+          "subject_motion_level": "dynamic",
+          "signature_effect": "none",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; generic figure (no celebrity likeness); flat cartoon props; on-screen label and hashtag copy preserved verbatim; no real brand mark"
+      }
+    },
+    {
+      "index": 13,
+      "duration": 3.0,
+      "framing": "WS",
+      "function": "category_dive_music",
+      "subject_action": "content scene labeled 'MUSIC': a purple-and-yellow sunset over water with white sheets pegged on a clothesline, a red flying-V electric guitar, a yellow DJ turntable/mixer and a pink microphone; a diver soars among them; white hashtag pills pop in",
+      "layout_grid": "split_screen",
+      "subject_position": "center",
+      "subject_identity": "protagonist_main",
+      "subject_relationship_to_protagonist": "main_character",
+      "mid_frame_path": "ADV-2026-040_frames/cut13_mid.png",
+      "subject_typo_layout": "typo_separate_zone",
+      "typo_motion": "좌상단 흰 'MUSIC' 라벨 정적. 중앙 해시태그 필 순차 팝('#소장각 플레이리스트'→'#넥스트 슈퍼콘서트'→'#한정판 바이닐 발매정보'). 다이버가 악기들 사이를 가로질러 비행.",
+      "camera_angle": "eye_level",
+      "camera_facing": "three_quarter",
+      "shot_scope": "environment",
+      "gaze": "none",
+      "eye_contact_effect": null,
+      "props": [
+        "red flying-V electric guitar",
+        "yellow DJ turntable/mixer",
+        "pink microphone",
+        "white sheets on clothesline"
+      ],
+      "prop_semantics": "기타·턴테이블·마이크=음악 콘텐츠 상징; 빨랫줄에 널린 흰 천=초현실 무대; 다이버=음악 속으로 유영",
+      "color_palette": [
+        "#5b4ee5",
+        "#ffd400",
+        "#ff4f9d",
+        "#1a1a1a",
+        "#ffffff"
+      ],
+      "color_intent": "퍼플 바다+옐로 노을의 보색 무드로 음악의 감성적·몽환적 분위기; 빨강 기타가 강한 포인트",
+      "pose_description": "다이버가 팔다리를 뻗어 악기들 사이 공중을 가로질러 유영하는 포즈",
+      "subject_motion": "diver_swims_among_instruments",
+      "prop_motion": "diver glides; sheets flutter slightly",
+      "camera_motion": "graphic_wipe",
+      "camera_motion_intensity": "moderate",
+      "camera_effect_local": "horizontal_scene_wipe",
+      "motion_blur": false,
+      "intra_cut_rhythm": "steady",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [
+        "ui_motion"
+      ],
+      "vfx_intensity_local": "moderate",
+      "fact_check_flag": null,
+      "notes": "Cut 13 (f341-f376, 28.33-31.33s): MUSIC. Purple/yellow sunset over water, white sheets on clothesline, red flying-V guitar, yellow DJ turntable/mixer, pink mic. Diver soars among them. Hashtags: '#소장각 플레이리스트','#넥스트 슈퍼콘서트','#한정판 바이닐 발매정보'.",
+      "visible_elements": {
+        "foreground": [
+          "red flying-V electric guitar hanging at left",
+          "yellow DJ turntable/mixer at right",
+          "pink microphone at right"
+        ],
+        "midground": [
+          "diver soaring through the air among the instruments",
+          "white sheets pegged on a clothesline strung across the frame",
+          "white hashtag pills: '#소장각 플레이리스트', '#넥스트 슈퍼콘서트', '#한정판 바이닐 발매정보'"
+        ],
+        "background": [
+          "purple water/ground meeting a yellow sunset sky with a white sun",
+          "white square label 'MUSIC' at upper left"
+        ],
+        "lighting_env": [
+          "flat even ambient — flat illustration"
+        ],
+        "atmosphere": [
+          "clean flat pop, dreamy sunset, no grain"
+        ]
+      },
+      "texture": {
+        "primary_subject": "flat_2d_vector",
+        "secondary_objects": [
+          "flat_2d_vector"
+        ],
+        "background_surface": "flat_digital",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "front",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "strong",
+        "key_to_fill_ratio": "1:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "minimal",
+        "overall_contrast": "hi_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#5b4ee5",
+          "#ffd400",
+          "#ff4f9d",
+          "#1a1a1a",
+          "#ffffff"
+        ],
+        "palette_role": {
+          "#5b4ee5": "water_purple_dominant",
+          "#ffd400": "sunset_sky_yellow",
+          "#ff4f9d": "guitar_mic_pink_accent",
+          "#1a1a1a": "outline_black",
+          "#ffffff": "sheets_sun_hashtag_white"
+        },
+        "color_relationship": "complementary",
+        "temperature_balance": "split_warm_cool",
+        "saturation_strategy": "vivid",
+        "contrast_type": "luminance_high",
+        "accent_color": "#ff4f9d",
+        "accent_ratio": "15_percent"
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A flat 2D vector illustration at 1920x1080 pixels, 16:9 landscape, in a bold Korean pop-art commercial style with thick black outlines and vivid flat color fills, depicting a surreal music sunset scene — the music category dive. (1) The subject is the protagonist as a diver soaring through the center of the scene, arms and legs outstretched, swimming through the air among instruments; framed at environment scope. (2) Wardrobe and material: the diver wears athletic wear, flat-filled with black outlines; the instruments and sheets are likewise flat blocks of color with crisp outlines. (3) Location and set: the lower two-thirds is a periwinkle-purple (#5b4ee5) water/ground plane and the upper third is a vivid yellow (#ffd400) sunset sky with a large white (#ffffff) circle sun; strung horizontally across the frame is a clothesline with several white sheets pegged to it, fluttering. (4) Foreground and props: at the left hangs a bright red flying-V style electric guitar (crimson leaning into the pink family) drawn in flat black-outlined cartoon style; at the right sit a yellow DJ turntable/mixer with a pink record platter and a pink (#ff4f9d) microphone on a stand; the diver soars through the center; recorded props are the red flying-V electric guitar, the yellow DJ turntable/mixer, the pink microphone and the white sheets on the clothesline. (5) Lighting setup: flat, even and hi-key with a soft frontal key at neutral 5500K, strong fill at a 1:1 ratio, no rim light, no practical lights, minimal shadow presence — flat illustration, not 3D. (6) Lens, framing and camera angle: an eye-level, three-quarter-facing, environment-scope framing; a moderate horizontal graphic wipe carries this scene (locked-off otherwise, no parallax). (7) Composition and grid: a split music stage — the guitar on the left, the turntable and mic on the right, the sheets on a line across, the soaring diver in the center, the category label upper-left, and white hashtag pills over the center appearing one by one; subject position center. (8) Color palette and strategy with hex values: purple water #5b4ee5 dominant (~40%), yellow sunset sky #ffd400 (~20%), red and pink guitar and mic #ff4f9d accent (~15%), white sheets, sun and pills #ffffff (~15%), black outlines #1a1a1a (~10%); the color relationship is a vivid complementary pop scheme (purple versus yellow), temperature split warm-cool, saturation vivid, contrast type luminance-high, accent color #ff4f9d at roughly 15 percent. (9) Texture and surfaces: pure flat 2D vector, thick black ink outlines, flat unshaded color, zero photographic texture, zero grain, zero 3D shading. (10) Atmosphere: dreamy, sunset, music-festival energy — diving into music content, a dreamy sunset with no grain. (11) Post and signature look: per the production signature — 2D animation capture, vivid-pop-flat color grade, clean-digital-flat-lineart finish — with a horizontal scene wipe as the local device and the diver's soaring traverse driving the motion, plus slightly fluttering sheets and a spinning platter; no lens wiggle, no parallax. (12) Style anchor: Korean commercial flat-vector 2D animation, thick black linework, a vivid pop palette, a purple-and-yellow sunset stage with a flying-V guitar, a DJ turntable, a microphone, white sheets on a clothesline, a soaring diver, a category label and hashtag pills, clean digital, no grain, no realism, no 3D; render the instruments as generic types with no real brand mark. Preserve the on-screen label and Korean hashtag copy verbatim: the upper-left label reads 'MUSIC', and the white hashtag pills read '#소장각 플레이리스트', '#넥스트 슈퍼콘서트', '#한정판 바이닐 발매정보'. Reproduce the purple-water yellow-sunset scene with a red flying-V guitar at left, a yellow DJ turntable and pink mic at right, white sheets on a line, a soaring diver, the MUSIC label upper-left, and floating Korean hashtag pills.",
+        "t2i_negative": "photorealistic, 3D render, real instrument photo, gradient background, grain, noise, real brand logo, watermark, soft shadows, distorted anatomy",
+        "i2v_motion": "The diver soars across the sunset scene among the instruments; the white sheets flutter slightly on the line; the turntable platter spins a touch. Three white hashtag pills pop in sequentially over the center ('#소장각 플레이리스트', then '#넥스트 슈퍼콘서트', then '#한정판 바이닐 발매정보'). A horizontal graphic wipe carries this scene; flat backgrounds steady. Camera locked-off. ~3.0s, steady rhythm, hard cut out to the next category.",
+        "i2v_params": {
+          "clip_duration_sec": 3.0,
+          "camera_move": "graphic_wipe",
+          "subject_motion_level": "dynamic",
+          "signature_effect": "none",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; generic faceless figure; flat cartoon instruments (generic guitar/turntable type, no real brand mark); on-screen label and hashtag copy preserved verbatim"
+      }
+    },
+    {
+      "index": 14,
+      "duration": 4.34,
+      "framing": "WS",
+      "function": "category_dive_tech",
+      "subject_action": "content scene labeled 'TECH' on a vivid magenta field: a person posed as a quadcopter drone (arms as rotors), then a layout of gadgets — earbuds/AirPods, a smartwatch on a pile of yellow cables, and a reclining figure in a purple suit; white hashtag pills pop in",
+      "layout_grid": "split_screen",
+      "subject_position": "center",
+      "subject_identity": "protagonist_main",
+      "subject_relationship_to_protagonist": "main_character",
+      "mid_frame_path": "ADV-2026-040_frames/cut14_mid.png",
+      "subject_typo_layout": "typo_separate_zone",
+      "typo_motion": "우상단 흰 사각 'TECH' 라벨 정적. 좌·중앙 해시태그 필 순차 팝('#힙스터 필수템'→'#덕후들의 신상 토이'→'#얼리어답터 지침서'). 처음 드론 포즈 인물 → 가젯 레이아웃으로 전환.",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "environment",
+      "gaze": "none",
+      "eye_contact_effect": null,
+      "props": [
+        "quadcopter drone (person-as-drone)",
+        "wireless earbuds",
+        "smartwatch",
+        "yellow cables/wires",
+        "purple suit figure"
+      ],
+      "prop_semantics": "드론·이어버드·스마트워치=테크/가젯 콘텐츠 상징; 사람이 드론으로 의인화=위트; 해시태그=얼리어답터 키워드",
+      "color_palette": [
+        "#ee2a5b",
+        "#ffd400",
+        "#5b4ee5",
+        "#1a1a1a",
+        "#ffffff"
+      ],
+      "color_intent": "비비드 마젠타 단색 배경으로 테크의 강렬·하이프 무드; 옐로 케이블·퍼플 슈트가 포인트",
+      "pose_description": "처음 인물이 양팔을 벌려 드론 로터처럼 변신한 포즈 → 이후 퍼플 슈트 인물이 케이블 더미에 비스듬히 기댄 포즈",
+      "subject_motion": "person_as_drone_then_gadget_layout",
+      "prop_motion": "drone rotors spin; figure reclines",
+      "camera_motion": "graphic_wipe",
+      "camera_motion_intensity": "moderate",
+      "camera_effect_local": "horizontal_scene_wipe",
+      "motion_blur": false,
+      "intra_cut_rhythm": "steady",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [
+        "ui_motion"
+      ],
+      "vfx_intensity_local": "moderate",
+      "fact_check_flag": null,
+      "notes": "Cut 14 (f377-f428, 31.33-35.67s): TECH. Vivid magenta bg. Opens on a person posed as a quadcopter drone (arms=rotors), becomes gadget layout: earbuds, smartwatch on yellow cable pile, reclining purple-suit figure. Hashtags: '#힙스터 필수템','#덕후들의 신상 토이','#얼리어답터 지침서'.",
+      "visible_elements": {
+        "foreground": [
+          "person posed as a white quadcopter drone with four yellow-hubbed rotors (early frames)",
+          "wireless earbuds and a smartwatch (later frames)"
+        ],
+        "midground": [
+          "a pile of yellow cables/wires",
+          "a reclining figure in a purple suit at upper left",
+          "white hashtag pills: '#힙스터 필수템', '#덕후들의 신상 토이', '#얼리어답터 지침서'"
+        ],
+        "background": [
+          "vivid magenta-red field #ee2a5b",
+          "white square label 'TECH' at upper right"
+        ],
+        "lighting_env": [
+          "flat even ambient — flat illustration"
+        ],
+        "atmosphere": [
+          "clean flat pop, no grain"
+        ]
+      },
+      "texture": {
+        "primary_subject": "flat_2d_vector",
+        "secondary_objects": [
+          "flat_2d_vector"
+        ],
+        "background_surface": "flat_digital",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "front",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "strong",
+        "key_to_fill_ratio": "1:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "minimal",
+        "overall_contrast": "hi_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#ee2a5b",
+          "#ffd400",
+          "#5b4ee5",
+          "#1a1a1a",
+          "#ffffff"
+        ],
+        "palette_role": {
+          "#ee2a5b": "background_magenta_dominant",
+          "#ffd400": "cables_rotor_hubs_yellow",
+          "#5b4ee5": "suit_figure_purple",
+          "#1a1a1a": "outline_black",
+          "#ffffff": "drone_gadgets_hashtag_white"
+        },
+        "color_relationship": "split_complementary",
+        "temperature_balance": "warm_dominant",
+        "saturation_strategy": "vivid",
+        "contrast_type": "luminance_high",
+        "accent_color": "#ffd400",
+        "accent_ratio": "15_percent"
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A flat 2D vector illustration at 1920x1080 pixels, 16:9 landscape, in a bold Korean pop-art commercial style with thick black outlines and vivid flat color fills, depicting a tech and gadget scene on a vivid magenta-red field — the tech category dive. (1) The subject is the protagonist wittily posed as a white quadcopter drone in the opening composition, the human legs visible as the drone's landing struts, a person-as-machine sight gag; framed at environment scope. (2) Wardrobe and material: a second figure reclines in a periwinkle-purple (#5b4ee5) suit; the drone body, earbuds and smartwatch are white flat blocks with black outlines. (3) Location and set: the background is a vivid magenta-red (#ee2a5b) field with no gradient or texture; in the upper-right corner a white square label contains the word 'TECH' in bold black sans-serif. (4) Foreground and props: the person-as-drone has a white (#ffffff) drone body with four arms ending in yellow-hubbed (#ffd400) rotor propellers spinning; as the scene develops it becomes a gadget layout with a pair of white wireless earbuds and a black-and-white round-faced smartwatch resting on a tangled pile of yellow (#ffd400) cables sprawling across the lower frame, and a reclining figure in a periwinkle-purple suit lounging at the upper left; recorded props are the quadcopter drone (person-as-drone), wireless earbuds, smartwatch, yellow cables/wires and the purple-suit figure. (5) Lighting setup: flat, even and hi-key with a soft frontal key at neutral 5500K, strong fill at a 1:1 ratio, no rim light, no practical lights, minimal shadow presence — flat illustration, not 3D. (6) Lens, framing and camera angle: an eye-level, frontal, environment-scope framing; a moderate horizontal graphic wipe carries this scene (locked-off otherwise, no parallax). (7) Composition and grid: a split gadget showcase — the drone/person and gadgets centered, the purple-suited figure upper-left, the category label upper-right, and white hashtag pills over the left-center appearing one by one, all on a flat magenta field; subject position center. (8) Color palette and strategy with hex values: magenta-red #ee2a5b strongly dominant background (~50%), yellow cables and rotor hubs #ffd400 (~15%), purple suit figure #5b4ee5 (~10%), white drone, gadgets and pills #ffffff (~15%), black outlines #1a1a1a (~10%); the color relationship is a vivid split-complementary pop scheme, temperature warm-dominant, saturation vivid, contrast type luminance-high, accent color #ffd400 at roughly 15 percent. (9) Texture and surfaces: pure flat 2D vector, thick black ink outlines, flat unshaded color, zero photographic texture, zero grain, zero 3D shading. (10) Atmosphere: hyped, gadget-geek, early-adopter energy — diving into tech content, with no grain. (11) Post and signature look: per the production signature — 2D animation capture, vivid-pop-flat color grade, clean-digital-flat-lineart finish — with a horizontal scene wipe as the local device and the spinning rotors plus the reclining figure driving the motion; no lens wiggle, no parallax. (12) Style anchor: Korean commercial flat-vector 2D animation, thick black linework, a vivid magenta pop field, a person posed as a quadcopter drone, earbuds and a smartwatch on yellow cables, a reclining purple-suit figure, a category label and hashtag pills, clean digital, no grain, no realism, no 3D; render the gadgets as generic types with no real brand mark. Preserve the on-screen label and Korean hashtag copy verbatim: the upper-right label reads 'TECH', and the white hashtag pills read '#힙스터 필수템', '#덕후들의 신상 토이', '#얼리어답터 지침서'. Reproduce the magenta tech scene with a person-as-drone, wireless earbuds and a smartwatch on a yellow cable pile, a reclining purple-suit figure, the TECH label upper-right, and floating Korean hashtag pills.",
+        "t2i_negative": "photorealistic, 3D render, real gadget photo, gradient background, grain, noise, real brand logo, watermark, soft shadows, distorted anatomy",
+        "i2v_motion": "The person-as-drone hovers with its yellow rotors spinning, then the scene resolves to the gadget layout where the purple-suited figure reclines and the earbuds/smartwatch sit on the yellow cable pile. Three white hashtag pills pop in sequentially over the left-center ('#힙스터 필수템', then '#덕후들의 신상 토이', then '#얼리어답터 지침서'). A horizontal graphic wipe carries this scene; flat magenta field steady. Camera locked-off. ~4.3s, steady rhythm, hard cut out to the payoff scene.",
+        "i2v_params": {
+          "clip_duration_sec": 4.34,
+          "camera_move": "graphic_wipe",
+          "subject_motion_level": "dynamic",
+          "signature_effect": "none",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; generic faceless figures; flat cartoon gadgets (generic earbud/smartwatch/drone type, no real brand mark); on-screen label and hashtag copy preserved verbatim"
+      }
+    },
+    {
+      "index": 15,
+      "duration": 6.83,
+      "framing": "WS",
+      "function": "tagline_payoff",
+      "subject_action": "payoff scene on a vivid yellow 'water' field: many swimmers wearing white-and-pink swim caps and goggles bob at the surface, only their capped heads and eyes showing; the DIVE app icon sits at center early on; the white-bordered Korean tagline '취향을 업데이트하는 / 힙스터들의 필수 앱' appears centered",
+      "layout_grid": "center",
+      "subject_position": "center",
+      "subject_identity": "ensemble_swimmers",
+      "subject_relationship_to_protagonist": "main_character",
+      "mid_frame_path": "ADV-2026-040_frames/cut15_mid.png",
+      "subject_typo_layout": "typo_over_subject",
+      "typo_motion": "초반 DIVE 앱 아이콘이 중앙에 떠 있음. 수영모 쓴 머리들이 노란 수면에서 떠오름. 중앙에 흰 카피 '취향을 업데이트하는 / 힙스터들의 필수 앱'가 정착(태그라인).",
+      "camera_angle": "high_angle",
+      "camera_facing": "frontal",
+      "shot_scope": "environment",
+      "gaze": "to_camera",
+      "eye_contact_effect": "swimmers' goggled eyes peek above the waterline toward viewer",
+      "props": [
+        "white-and-pink swim caps",
+        "swim goggles",
+        "DIVE app icon"
+      ],
+      "prop_semantics": "모두가 수영모를 쓰고 노란 물(앱 세계)에 입수한 모습 = '다 같이 DIVE했다'; 앱 아이콘이 풀의 중심; 태그라인이 메시지 확정",
+      "color_palette": [
+        "#ffd400",
+        "#ff8fd6",
+        "#ffffff",
+        "#1a1a1a",
+        "#a83bd6"
+      ],
+      "color_intent": "비비드 옐로 수면 위 핑크·흰 수영모의 반복 패턴으로 경쾌한 '집단 입수' 무드; 검정 카피가 가독 앵커",
+      "pose_description": "여러 인물이 노란 수면에 머리만 내놓고 고글 너머로 위를 바라보는 포즈(물에 잠긴 채)",
+      "subject_motion": "swimmers_bob_at_surface",
+      "prop_motion": "ripple marks around heads; gentle bobbing",
+      "camera_motion": "locked_off",
+      "camera_motion_intensity": "none",
+      "camera_effect_local": "none",
+      "motion_blur": false,
+      "intra_cut_rhythm": "steady",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [
+        "ui_motion"
+      ],
+      "vfx_intensity_local": "subtle",
+      "fact_check_flag": null,
+      "notes": "Cut 15 (f429-f510, 35.67-42.50s): payoff. Vivid yellow 'water', swimmers in white/pink caps + goggles bobbing at surface. Early: DIVE app icon center + a hole/splash mark (diver entered). Tagline centers: '취향을 업데이트하는 / 힙스터들의 필수 앱' (f470). Longest cut; wow/payoff.",
+      "visible_elements": {
+        "foreground": [
+          "several swimmers in white-and-pink swim caps with goggled eyes peeking above the yellow waterline"
+        ],
+        "midground": [
+          "DIVE app icon (purple-cyan gradient) floating at center in early frames",
+          "ripple line marks around the bobbing heads"
+        ],
+        "background": [
+          "vivid yellow 'water' field filling the frame",
+          "centered white-outlined Korean tagline: '취향을 업데이트하는 / 힙스터들의 필수 앱'"
+        ],
+        "lighting_env": [
+          "flat even ambient — flat illustration"
+        ],
+        "atmosphere": [
+          "clean flat pop, white ripple line marks, no grain"
+        ]
+      },
+      "texture": {
+        "primary_subject": "flat_2d_vector",
+        "secondary_objects": [
+          "flat_2d_vector"
+        ],
+        "background_surface": "flat_digital",
+        "atmospheric": [
+          "ripple_line_marks"
+        ]
+      },
+      "lighting": {
+        "key_direction": "front",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "strong",
+        "key_to_fill_ratio": "1:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "minimal",
+        "overall_contrast": "hi_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#ffd400",
+          "#ff8fd6",
+          "#ffffff",
+          "#1a1a1a",
+          "#a83bd6"
+        ],
+        "palette_role": {
+          "#ffd400": "water_yellow_dominant",
+          "#ff8fd6": "swim_cap_face_pink",
+          "#ffffff": "cap_top_and_ripples_white",
+          "#1a1a1a": "outline_and_tagline_black",
+          "#a83bd6": "dive_icon_magenta"
+        },
+        "color_relationship": "complementary",
+        "temperature_balance": "warm_dominant",
+        "saturation_strategy": "vivid",
+        "contrast_type": "luminance_high",
+        "accent_color": "#ff8fd6",
+        "accent_ratio": "30_percent"
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A flat 2D vector illustration at 1920x1080 pixels, 16:9 landscape, in a bold Korean pop-art commercial style with thick black outlines and vivid flat color fills, serving as the payoff scene where everyone has dived in. (1) The subject is an ensemble of swimmers, each shown as just the top of a head bobbing at the surface of stylized water, their goggled eyes peeking just above the waterline and looking up toward the viewer; framed at environment scope from a high angle. (2) Wardrobe and material: each swimmer wears a white (#ffffff) swim cap over a pink (#ff8fd6) forehead and face, with a pair of dark goggles whose lenses peek above the surface; flat blocks of color with black outlines. (3) Location and set: the entire frame is a single vivid saturated yellow (#ffd400) field representing stylized water — a pool surface rendered as flat yellow with simple white (#ffffff) ripple line marks; there is no built environment, just the flat yellow water. (4) Foreground and props: several swim-capped heads at varying sizes and positions bob in the water; in earlier frames of this beat the DIVE app icon (a rounded square with a purple-magenta #a83bd6 to cyan gradient and a white 'DIVE' wordmark) floats at the center as the focal point; recorded props are the white-and-pink swim caps, swim goggles and the DIVE app icon. (5) Lighting setup: flat, even and hi-key with a soft frontal key at neutral 5500K, strong fill at a 1:1 ratio, no rim light, no practical lights, minimal shadow presence — flat illustration, not 3D. (6) Lens, framing and camera angle: a high-angle, frontal, environment-scope framing looking down at the surface, locked-off with no camera move and no parallax; the swimmers' goggled eyes peek up toward the viewer for an eye-contact effect. (7) Composition and grid: centered and even, the repeated capped heads forming a playful pattern across the yellow water, with the key Korean tagline anchored in the middle (typo over subject); subject position center. (8) Color palette and strategy with hex values: vivid yellow water #ffd400 strongly dominant (~60%), pink swim caps and faces #ff8fd6 (~18%), white cap tops and ripple marks #ffffff (~10%), black outlines and tagline #1a1a1a (~8%), magenta DIVE icon #a83bd6 (~4%); the color relationship is bold complementary — warm pink against saturated warm yellow with black text contrast — temperature warm-dominant, saturation vivid, contrast type luminance-high, accent color #ff8fd6 at roughly 30 percent. (9) Texture and surfaces: pure flat 2D vector, thick black ink outlines, flat unshaded color, simple white ripple line marks, zero photographic texture, zero grain, zero 3D shading. (10) Atmosphere: joyful, communal, everyone-dove-in-together energy — the payoff of the dive metaphor, with white ripple marks and no grain. (11) Post and signature look: per the production signature — 2D animation capture, vivid-pop-flat color grade, clean-digital-flat-lineart finish — with subtle bobbing as the motion and a settling tagline; no lens wiggle, no parallax, flat yellow water steady. (12) Style anchor: Korean commercial flat-vector 2D animation, thick black linework, a vivid yellow pop water field, repeated swim-capped heads with goggles peeking above the surface, a centered Korean tagline, clean digital, no grain, no realism, no 3D; keep faces generic and the DIVE icon a generic gradient rounded-square type with no real trademark mark. Preserve the on-screen Korean tagline verbatim, set centered in bold black (#1a1a1a) rounded sans-serif over the yellow on two lines: '취향을 업데이트하는' on the first line and '힙스터들의 필수 앱' on the second line. Reproduce the vivid yellow water full of bobbing swim-capped pink heads with goggled eyes above the waterline, an early centered DIVE app icon, and the centered two-line Korean tagline '취향을 업데이트하는 / 힙스터들의 필수 앱'.",
+        "t2i_negative": "photorealistic, 3D render, real pool photo, gradient background, grain, noise, real brand logo mark, watermark, soft shadows, distorted faces, dark water",
+        "i2v_motion": "The DIVE app icon floats at center early then the swimmers' capped heads gently bob up to the surface of the yellow water with small ripple marks spreading around each head; goggled eyes peek up toward the viewer. The centered Korean tagline '취향을 업데이트하는 / 힙스터들의 필수 앱' settles in over the scene. Subtle bobbing motion only; flat yellow water steady. Camera locked-off, high angle looking down at the surface. ~6.8s, steady rhythm, hard cut out to the brand card.",
+        "i2v_params": {
+          "clip_duration_sec": 6.83,
+          "camera_move": "locked_off",
+          "subject_motion_level": "micro",
+          "signature_effect": "none",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; generic faceless swimmers; flat cartoon caps; on-screen tagline preserved verbatim; DIVE icon generic gradient rounded-square type (no real trademark mark)"
+      }
+    },
+    {
+      "index": 16,
+      "duration": 2.0,
+      "framing": "MS",
+      "function": "brand_cta",
+      "subject_action": "brand card on a flat black field: the centered DIVE app icon (purple-magenta to cyan gradient with white 'DIVE') with the label '현대카드 DIVE' above it and 'Grand Open' below it",
+      "layout_grid": "center",
+      "subject_position": "center",
+      "subject_identity": "none_environment",
+      "subject_relationship_to_protagonist": null,
+      "mid_frame_path": "ADV-2026-040_frames/cut16_mid.png",
+      "subject_typo_layout": "typo_only_no_person",
+      "typo_motion": "상단 '현대카드 DIVE' + 중앙 앱 아이콘 + 하단 'Grand Open' 정적 배치(전 컷 유지)",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "environment",
+      "gaze": "none",
+      "eye_contact_effect": null,
+      "props": [
+        "DIVE app icon"
+      ],
+      "prop_semantics": "앱 아이콘 + 브랜드명 + Grand Open = 제품 출시 고지(CTA 도입)",
+      "color_palette": [
+        "#000000",
+        "#a83bd6",
+        "#2ec5e6",
+        "#ffffff"
+      ],
+      "color_intent": "검은 배경 위 그라데이션 앱 아이콘과 흰 텍스트로 프리미엄·디지털 마무리; 오프닝 폰 화면과 시각적 수미상관",
+      "pose_description": "인물 없음; 앱 아이콘과 브랜드 텍스트가 중앙 정렬로 단정하게 배치",
+      "subject_motion": "static",
+      "prop_motion": "none",
+      "camera_motion": "locked_off",
+      "camera_motion_intensity": "none",
+      "camera_effect_local": "none",
+      "motion_blur": false,
+      "intra_cut_rhythm": "static",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [],
+      "vfx_intensity_local": "none",
+      "fact_check_flag": null,
+      "notes": "Cut 16 (f511-f534, 42.50-44.50s): black bg, centered DIVE app icon (purple-cyan gradient, white 'DIVE'), label '현대카드 DIVE' above, 'Grand Open' below. Static brand card. Cut at f535 (vertical slide) to end card.",
+      "visible_elements": {
+        "foreground": [
+          "centered DIVE app icon (rounded square, purple-magenta to cyan gradient, white 'DIVE' wordmark, small white bracket shape)"
+        ],
+        "midground": [
+          "white label '현대카드 DIVE' above the icon",
+          "white text 'Grand Open' below the icon"
+        ],
+        "background": [
+          "flat pure black field #000000"
+        ],
+        "lighting_env": [
+          "flat even ambient — flat brand card"
+        ],
+        "atmosphere": [
+          "clean flat digital, no grain"
+        ]
+      },
+      "texture": {
+        "primary_subject": "flat_2d_vector",
+        "secondary_objects": [],
+        "background_surface": "flat_digital",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "front",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "strong",
+        "key_to_fill_ratio": "1:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "none",
+        "overall_contrast": "high_contrast"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#000000",
+          "#a83bd6",
+          "#2ec5e6",
+          "#ffffff"
+        ],
+        "palette_role": {
+          "#000000": "background_black_dominant",
+          "#a83bd6": "app_icon_magenta",
+          "#2ec5e6": "app_icon_cyan",
+          "#ffffff": "wordmark_and_text_white"
+        },
+        "color_relationship": "brand_dominant",
+        "temperature_balance": "cool_dominant",
+        "saturation_strategy": "vivid",
+        "contrast_type": "luminance_high",
+        "accent_color": "#2ec5e6",
+        "accent_ratio": "15_percent"
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A clean brand-card frame rendered at 1920x1080 pixels, 16:9 landscape, in a hip Korean motion-graphic style — the brand call-to-action card that visually bookends the opening phone scene. (1) The subject is the app icon and brand lockup rather than a person; there is no figure and no pose, the elements stacked and centered. (2) Wardrobe and material: not applicable — the only material is the rendered icon and clean sans-serif type. (3) Location and set: the entire background is a flat pure black (#000000) field with no gradient, texture or grain, a neutral premium void. (4) Foreground and props: at the exact center sits a single app icon rendered as a rounded square with a smooth diagonal gradient running from magenta-purple (#a83bd6) at the upper area to bright cyan (#2ec5e6) at the lower area; inside the icon a bold white (#ffffff) uppercase wordmark 'DIVE' is set in a geometric sans-serif with a small white bracket-like shape beneath the letters suggesting an open mouth or doorway; recorded prop is the DIVE app icon. (5) Lighting setup: the icon reads as flat self-illuminated color on black — a soft frontal key at neutral 5500K, strong fill at a 1:1 ratio, no rim light, no practical lights, no shadow presence, high-contrast overall, since bright color and white sit on absolute black. (6) Lens, framing and camera angle: an eye-level, frontal, environment-scope framing, locked-off with no camera move and no parallax. (7) Composition and grid: symmetrical and minimal — directly above the icon the white Korean-and-Latin label '현대카드 DIVE' is set in a clean sans-serif, and directly below the icon the white English phrase 'Grand Open' is centered in the same clean sans-serif; the three elements (label, icon, launch phrase) are stacked and centered vertically and horizontally with generous black negative space on all sides; subject position center, layout grid center. (8) Color palette and strategy with hex values: black #000000 strongly dominant (~85%), app-icon magenta #a83bd6 and cyan #2ec5e6 (~10% combined), white text and wordmark #ffffff (~5%); the color relationship is brand-dominant, temperature cool-dominant, saturation vivid, contrast type luminance-high (bright gradient and white on black), accent color #2ec5e6 at roughly 15 percent. (9) Texture and surfaces: pure flat 2D vector with crisp edges, the only gradient being the deliberate icon gradient, zero photographic texture, zero grain, zero bevel, zero 3D. (10) Atmosphere: confident, premium, digital-launch — clean flat digital with no grain. (11) Post and signature look: per the production signature — 2D animation capture, vivid-pop-flat color grade, clean-digital-flat-lineart finish — held perfectly static as a brand card with no internal animation, no wiggle, no parallax. (12) Style anchor: Korean commercial brand-card close, a flat 2D vector gradient app icon on pure black, a centered minimal lockup, clean digital, no grain, no 3D; render the DIVE icon as a generic gradient rounded-square type with no real trademark mark. Preserve the on-screen copy verbatim: '현대카드 DIVE' set above the icon and 'Grand Open' set below it. Reproduce the centered DIVE app icon with its magenta-to-cyan gradient, the '현대카드 DIVE' label above and 'Grand Open' below, on a flat black field with generous surrounding negative space.",
+        "t2i_negative": "photorealistic, 3D extrusion, bevel, drop shadow, gradient background, grain, noise, real brand logo mark, watermark, image content, people, decorative elements",
+        "i2v_motion": "Hold the brand card perfectly static: the centered DIVE app icon, the '현대카드 DIVE' label above and 'Grand Open' below do not animate. Black background steady. Camera locked-off, no motion. Clean still hold for ~2.0s, ending on a quick vertical slide handoff to the final download-badge end card. Keep the copy '현대카드 DIVE' and 'Grand Open' readable throughout.",
+        "i2v_params": {
+          "clip_duration_sec": 2.0,
+          "camera_move": "locked_off",
+          "subject_motion_level": "still",
+          "signature_effect": "none",
+          "pacing": "static",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; DIVE icon generic gradient rounded-square type (no real trademark mark); on-screen copy '현대카드 DIVE' and 'Grand Open' preserved verbatim"
+      }
+    },
+    {
+      "index": 17,
+      "duration": 1.75,
+      "framing": "MS",
+      "function": "brand_signature_cta",
+      "subject_action": "final end card on a flat black field: the white 'DIGITAL Hyundai Card' wordmark centered, with Google Play and Apple App Store download badges side by side below it",
+      "layout_grid": "center",
+      "subject_position": "center",
+      "subject_identity": "none_environment",
+      "subject_relationship_to_protagonist": null,
+      "mid_frame_path": "ADV-2026-040_frames/cut17_mid.png",
+      "subject_typo_layout": "typo_only_no_person",
+      "typo_motion": "'DIGITAL Hyundai Card' 워드마크 + 하단 Google Play / App Store 배지 정적 배치(슬라이드 인 후 정지)",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "environment",
+      "gaze": "none",
+      "eye_contact_effect": null,
+      "props": [
+        "Google Play download badge",
+        "Apple App Store download badge"
+      ],
+      "prop_semantics": "스토어 다운로드 배지 = 직접 행동 유도(앱 설치 CTA); DIGITAL Hyundai Card 시그니처로 브랜드 각인",
+      "color_palette": [
+        "#000000",
+        "#ffffff",
+        "#1a1a1a"
+      ],
+      "color_intent": "검은 배경에 흰 워드마크와 스토어 배지로 절제된 디지털 브랜드 마무리·행동유도",
+      "pose_description": "인물 없음; 워드마크와 두 개의 스토어 배지가 중앙 정렬",
+      "subject_motion": "static",
+      "prop_motion": "badges slide in then settle",
+      "camera_motion": "locked_off",
+      "camera_motion_intensity": "none",
+      "camera_effect_local": "none",
+      "motion_blur": false,
+      "intra_cut_rhythm": "static",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [],
+      "vfx_intensity_local": "none",
+      "fact_check_flag": null,
+      "notes": "Cut 17 (f535-f555, 44.50-46.25s): black bg, white 'DIGITAL Hyundai Card' wordmark center, Google Play + App Store download badges below. Vertical slide-in at f535 then static end card.",
+      "visible_elements": {
+        "foreground": [
+          "white 'DIGITAL Hyundai Card' wordmark (DIGITAL in a pixel-style face, 'Hyundai Card' in a rounded box)"
+        ],
+        "midground": [
+          "Google Play download badge (white pill)",
+          "Apple App Store download badge (white pill)"
+        ],
+        "background": [
+          "flat pure black field #000000"
+        ],
+        "lighting_env": [
+          "flat even ambient — flat end card"
+        ],
+        "atmosphere": [
+          "clean flat digital, no grain"
+        ]
+      },
+      "texture": {
+        "primary_subject": "flat_2d_vector",
+        "secondary_objects": [],
+        "background_surface": "flat_digital",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "front",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "strong",
+        "key_to_fill_ratio": "1:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "none",
+        "overall_contrast": "high_contrast"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#000000",
+          "#ffffff",
+          "#1a1a1a"
+        ],
+        "palette_role": {
+          "#000000": "background_black_dominant",
+          "#ffffff": "wordmark_and_badges_white",
+          "#1a1a1a": "badge_text_dark"
+        },
+        "color_relationship": "monochrome",
+        "temperature_balance": "balanced",
+        "saturation_strategy": "desaturated_with_pop",
+        "contrast_type": "luminance_high",
+        "accent_color": "#ffffff",
+        "accent_ratio": "15_percent"
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A minimalist end-card frame rendered at 1920x1080 pixels, 16:9 landscape, in a hip Korean motion-graphic style — the final brand-signature and download call-to-action that closes the film. (1) The subject is the brand wordmark and two app-store download badges rather than a person; there is no figure and no pose, the elements stacked and centered. (2) Wardrobe and material: not applicable — the only material is white flat-vector type and pill-shaped badges. (3) Location and set: the entire background is a flat pure black (#000000) field with no gradient, texture or grain, a neutral corporate-digital void. (4) Foreground and props: centered vertically and horizontally is a two-part white (#ffffff) brand-signature wordmark — the word 'DIGITAL' set in a blocky pixel/8-bit-style sans-serif on the left and 'Hyundai Card' set in a clean rounded sans-serif inside a white rounded-rectangle outline box on the right, joined as one horizontal lockup; below it, side by side and centered, are two app-store download badges drawn as white rounded pill shapes — on the left a 'GET IT ON Google Play' badge with the small triangular play-store glyph and on the right a 'Download on the App Store' badge with the small apple glyph; recorded props are the Google Play download badge and the Apple App Store download badge. (5) Lighting setup: the elements read as flat white on black — a soft frontal key at neutral 5500K, strong fill at a 1:1 ratio, no rim light, no practical lights, no shadow presence, high-contrast overall. (6) Lens, framing and camera angle: an eye-level, frontal, environment-scope framing, locked-off with no camera move and no parallax. (7) Composition and grid: symmetrical and minimal, the white elements floating on the black field with generous negative space all around, the wordmark above and the two badges below as a clean action-oriented brand close; subject position center, layout grid center. (8) Color palette and strategy with hex values: black #000000 strongly dominant (~88%), white wordmark and badges #ffffff (~10%), dark badge text #1a1a1a inside the white pills (~2%); the color relationship is essentially monochrome white-on-black, temperature balanced, saturation desaturated-with-pop, contrast type luminance-high, accent color #ffffff at roughly 15 percent. (9) Texture and surfaces: pure flat 2D vector with crisp edges, zero photographic texture, zero grain, zero bevel, zero 3D. (10) Atmosphere: clean, corporate-digital, direct call-to-action, with no grain. (11) Post and signature look: per the production signature — 2D animation capture, vivid-pop-flat color grade, clean-digital-flat-lineart finish — the wordmark and badges slide in vertically and settle, then hold perfectly static with no wiggle and no parallax. (12) Style anchor: Korean commercial end-card, a flat 2D vector white brand wordmark and app-store download badges on pure black, a centered minimal lockup, clean digital, no grain, no 3D; render the store glyphs and any proprietary logo marks generically. Preserve the on-screen wordmark text 'DIGITAL Hyundai Card' and the store-badge text verbatim while keeping the marks generic. Reproduce the centered 'DIGITAL Hyundai Card' wordmark with a Google Play badge and an App Store badge side by side below it on a flat black field with generous surrounding negative space.",
+        "t2i_negative": "photorealistic, 3D extrusion, bevel, drop shadow, gradient background, grain, noise, real proprietary logo mark, watermark, image content, people, colored background",
+        "i2v_motion": "The 'DIGITAL Hyundai Card' wordmark and the two download badges slide in vertically and settle, then hold perfectly static. Black background steady. Camera locked-off, no further motion. Clean still hold to the end of the film at ~1.75s. Keep the wordmark and badge text readable throughout.",
+        "i2v_params": {
+          "clip_duration_sec": 1.75,
+          "camera_move": "locked_off",
+          "subject_motion_level": "still",
+          "signature_effect": "none",
+          "pacing": "static",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; brand wordmark and store-badge text preserved verbatim; store glyphs and any proprietary logo marks rendered generically"
+      }
+    }
+  ],
+  "search_keywords": {
+    "industry": [
+      "finance"
+    ],
+    "product_category": [
+      "card",
+      "mobile_banking"
+    ],
+    "target_demo": [
+      "20s",
+      "30s",
+      "mz",
+      "active_consumers"
+    ],
+    "media_format": [
+      "digital_30s",
+      "youtube_60s_plus"
+    ],
+    "tone": [
+      "hip",
+      "retro",
+      "upbeat",
+      "playful"
+    ],
+    "pacing": [
+      "front_loaded",
+      "staccato"
+    ],
+    "technique": [
+      "kinetic_typo",
+      "color_shift",
+      "anthropomorphism_character",
+      "world_builder",
+      "transformation"
+    ],
+    "vfx_keywords": [
+      "color_pop",
+      "graphic_system",
+      "ui_motion",
+      "clean_digital"
+    ],
+    "copy_strategy_keywords": [
+      "question_hook",
+      "number_emphasis",
+      "caption_led",
+      "building_climax"
+    ],
+    "concept_derivation_pattern": [
+      "metaphor_visual_sequence"
+    ]
+  },
+  "inferred_creative_thinking": {
+    "insight": "MZ 소비자는 '요즘 뭐가 힙한지'를 끊임없이 탐색하지만 정보가 흩어져 있어 피곤하다 — 취향을 빠르게 업데이트할 큐레이션 채널을 원한다",
+    "persona": "20~30대 트렌드 민감층(힙스터·얼리어답터)으로, 맛집·인테리어·전시·여행·패션·음악·테크 등 라이프스타일 전 분야의 핫한 정보를 한곳에서 받고 싶어하는 사람",
+    "moment": "'요즘 뭐가 힙하지?' 하고 폰을 켜는 순간 — 트렌드 탐색의 출발점",
+    "product_role": "현대카드 DIVE 앱이 8개 라이프스타일 카테고리(고메·인테리어·디자인·여행·스타일·뮤직·테크)의 큐레이션 콘텐츠로 '취향 업데이트'를 한 번에 해결",
+    "punchline": "취향을 업데이트하는 힙스터들의 필수 앱",
+    "differentiator": "단순 카드 혜택이 아니라 라이프스타일 콘텐츠 큐레이션 플랫폼 — '카드사가 만든 취향 앱'이라는 포지셔닝",
+    "brand_fit_one_liner": "현대카드의 디자인·문화 자산을 'DIVE'라는 취향 큐레이션 앱으로 확장",
+    "confidence": "inferred"
+  },
+  "inferred_brief": "20~30대 트렌드 세터에게 현대카드 DIVE 앱이 맛집·인테리어·디자인·여행·스타일·음악·테크 등 힙한 라이프스타일 콘텐츠를 한곳에서 큐레이션해 '취향을 업데이트해 주는 필수 앱'임을, 비비드한 플랫 일러스트 다이빙 메타포로 그랜드 오픈에 맞춰 알린다.",
+  "cross_pollination_tags": {
+    "adjacent": [
+      "content_ott",
+      "it_saas",
+      "retail"
+    ],
+    "distant": [
+      "travel_tourism",
+      "fnb",
+      "fashion"
+    ],
+    "contrast": [
+      "luxury",
+      "automotive",
+      "insurance"
+    ]
+  },
+  "concept_derivation_pattern": "metaphor_visual_sequence",
+  "confidence": "inferred",
+  "analyst_notes": "1. 전 컷 플랫 벡터 2D 애니메이션(실사·3D 없음) — 두꺼운 검정 라인 + 비비드 팝 컬러(핑크/옐로/퍼플/시안/마젠타). capture_style=2d_animation. 2. faster_whisper(base) 0 segments / speech_coverage 0.0 → 음성 나레이션 없음(BGM 주도 추정); narration_lines는 화면 자막 역추정(source: caption_inferred). 3. metrics wiggle(mean_abs_shift_x=5.98, sign_flips=0.245)는 wiggle_3d가 아니라 컷 간 수평 그래픽 와이프 전환 + 다이버 캐릭터 대형 수평 이동에서 나온 값(육안 확인). 순수 렌즈 wiggle/parallax 부재. 4. 'Let's DIVE' 타이틀(cut7)은 teal↔yellow↔white 색상 스트로브 애니메이션 — scenedetect가 색변화를 별개 scene으로 오탐(f82/85/90/92)했으나 하나의 스트로브 컷으로 통합. 5. 콘텐츠 카테고리 8개 중 화면 라벨 7개 확인: COOKING·GOURMET, ARCHITECTURE·INTERIOR, DESIGN·ART, TRAVEL, STYLE, MUSIC, TECH. 6. fps 12.0은 실제 재생 레이트(저프레임 카툰 룩) — est_frames 555 전수 추출·판독. 7. 제작연도 2023 추정(DIVE 앱 리브랜딩·그랜드 오픈 시점 기반, 확정 불가). 8. cut10(DESIGN·ART) 중간프레임 f247은 다음 씬(TRAVEL) 수평 와이프 시작 구간에 걸림 — 전환 표현은 정확.",
+  "verification": {
+    "frames_reviewed": "approx 50/555 native-res frames visually read (all 17 cut boundaries f(n-1)/f(n)/f(n+1) + midpoints + every on-screen-text/hashtag change + 'Let's DIVE' color-strobe states + f535 end-card cut) + 100% per-frame metrics coverage (555/555 diff/text_delta/shift channels)",
+    "audio_analyzed": true,
+    "hitrate_na": true,
+    "abstraction_checked": true
+  }
+}

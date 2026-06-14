@@ -1,0 +1,102 @@
+{
+  "id": "ADV-2026-042",
+  "fps": 23.976,
+  "cuts": [
+    {
+      "cut": 1,
+      "start": 0.0,
+      "end": 3.128,
+      "mid_time": 1.564,
+      "src_frame": "f000038.png",
+      "file": "cut01_mid.png"
+    },
+    {
+      "cut": 2,
+      "start": 3.128,
+      "end": 6.632,
+      "mid_time": 4.88,
+      "src_frame": "f000118.png",
+      "file": "cut02_mid.png"
+    },
+    {
+      "cut": 3,
+      "start": 6.632,
+      "end": 9.051,
+      "mid_time": 7.841,
+      "src_frame": "f000189.png",
+      "file": "cut03_mid.png"
+    },
+    {
+      "cut": 4,
+      "start": 9.051,
+      "end": 15.015,
+      "mid_time": 12.033,
+      "src_frame": "f000290.png",
+      "file": "cut04_mid.png"
+    },
+    {
+      "cut": 5,
+      "start": 15.015,
+      "end": 21.48,
+      "mid_time": 18.248,
+      "src_frame": "f000439.png",
+      "file": "cut05_mid.png"
+    },
+    {
+      "cut": 6,
+      "start": 21.48,
+      "end": 26.652,
+      "mid_time": 24.066,
+      "src_frame": "f000578.png",
+      "file": "cut06_mid.png"
+    },
+    {
+      "cut": 7,
+      "start": 26.652,
+      "end": 35.661,
+      "mid_time": 31.157,
+      "src_frame": "f000748.png",
+      "file": "cut07_mid.png"
+    },
+    {
+      "cut": 8,
+      "start": 35.661,
+      "end": 42.376,
+      "mid_time": 39.019,
+      "src_frame": "f000937.png",
+      "file": "cut08_mid.png"
+    },
+    {
+      "cut": 9,
+      "start": 42.376,
+      "end": 46.38,
+      "mid_time": 44.378,
+      "src_frame": "f001065.png",
+      "file": "cut09_mid.png"
+    },
+    {
+      "cut": 10,
+      "start": 46.38,
+      "end": 53.011,
+      "mid_time": 49.696,
+      "src_frame": "f001192.png",
+      "file": "cut10_mid.png"
+    },
+    {
+      "cut": 11,
+      "start": 53.011,
+      "end": 58.267,
+      "mid_time": 55.639,
+      "src_frame": "f001335.png",
+      "file": "cut11_mid.png"
+    },
+    {
+      "cut": 12,
+      "start": 58.267,
+      "end": 60.102,
+      "mid_time": 59.184,
+      "src_frame": "f001420.png",
+      "file": "cut12_mid.png"
+    }
+  ]
+}

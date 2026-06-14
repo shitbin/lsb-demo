@@ -1,0 +1,2308 @@
+{
+  "id": "ADV-2026-024",
+  "source_ref": {
+    "platform": "social_short_form",
+    "title_or_campaign": "토스 숨은 서비스 8 - 전세 보증보험 가입 (전세보증금 반환보증)",
+    "brand": "토스 (Toss)",
+    "product": "토스 전세보증금 반환보증 가입 (Toss jeonse deposit-guarantee insurance enrollment)",
+    "model": null,
+    "year": 2024,
+    "production_note": "creator_tutorial_screen_recording_plus_talking_head",
+    "url": null
+  },
+  "category_primary": "finance.fintech",
+  "category_tags": [
+    "fintech",
+    "super_app",
+    "insurance",
+    "jeonse_guarantee",
+    "proptech",
+    "lease_deposit_protection",
+    "certificate_issuance",
+    "tutorial"
+  ],
+  "mood": [
+    "relatable",
+    "reassuring",
+    "informative",
+    "friendly",
+    "trustworthy"
+  ],
+  "target_demo": "20s-30s Korean renters (jeonse/lease tenants) who find guarantee-insurance paperwork stressful, mobile-native super-app users",
+  "total_duration": 59.95,
+  "shot_count": 15,
+  "shot_count_corrected": 15,
+  "fps": 29.97,
+  "aspect_ratio": "9:16",
+  "hook_position": 0.0,
+  "cta_position": 53.3,
+  "narrative_arc": "problem_solution_payoff",
+  "narrative_structure": "linear_tutorial_with_talking_head_bookends",
+  "pacing_curve": "fast_hook_then_steady_walkthrough_then_promo_close",
+  "music_tempo_curve": "light_upbeat_bgm_steady",
+  "wow_cut_index": 12,
+  "creative_device": [
+    "pain_point_dramatization_hook",
+    "presenter_explainer_with_paper_title_card",
+    "screen_recording_ui_walkthrough",
+    "talking_head_b_roll_intercut",
+    "promo_incentive_close",
+    "creator_channel_logo_end_card"
+  ],
+  "production_signature": {
+    "capture_style": "mixed_live_action_handheld_hook_plus_locked_overhead_screen_recording_plus_warm_talking_head",
+    "camera_signature": [
+      "handheld_pov_top_down_documents_hook",
+      "locked_overhead_phone_on_desk_screen_demo",
+      "eye_level_medium_talking_head_bookshelf_set",
+      "shallow_dof_warm_room_background"
+    ],
+    "signature_note": "Three production modes braided: (1) fast handheld POV live-action hook over a chaotic spread of Korean certificates with word-by-word white kinetic captions; (2) locked overhead screen recording of the Toss app on a dark leather desk with dark rounded subtitle pills; (3) warm naturalistic talking-head of a presenter in a coral sweater at a cluttered bookshelf desk. Low global camera motion (mean_abs_shift_x ~0.12) consistent with mostly static screen demo plus brief handheld hook.",
+    "color_grade": "warm_naturalistic_talking_head_plus_neutral_clean_app_white",
+    "texture_fx": "subtle_digital_clean_no_heavy_grain"
+  },
+  "global_layout": {
+    "grid_system": "centered_vertical_9x16_phone_dominant",
+    "subject_placement_dominant": "center_phone_or_center_presenter",
+    "subject_typo_relation": "caption_pills_lower_third_over_screen_demo_and_kinetic_word_captions_on_hook",
+    "negative_space_use": "generous_dark_desk_margins_around_centered_phone",
+    "layout_note": "Screen-demo shots center a single phone on a dark leather desk with even negative space and a dark rounded subtitle pill in the lower third; talking-head shots use rule-of-thirds with a hand-drawn paper 'CONTENT' title card floating top; hook shots fill frame with overhead documents and large white kinetic captions."
+  },
+  "recurring_motifs": [
+    "toss_app_ui_screens",
+    "dark_leather_desk_surface",
+    "lower_third_subtitle_pill",
+    "coral_orange_sweater_presenter",
+    "scattered_official_certificates",
+    "blue_primary_action_buttons",
+    "hug_guarantee_branding",
+    "rubber_duck_and_bookshelf_set_dressing"
+  ],
+  "copywriting": {
+    "tagline_text": "전세보증보험 토스로 더 쉽게 가입하기",
+    "tagline_structure": "service_name_plus_ease_promise",
+    "cta_text": "지금 가입하면 보증료 3% 할인에 토스 포인트 15,000원까지 지급해 줘요",
+    "copy_tone": [
+      "friendly",
+      "relatable",
+      "explanatory",
+      "encouraging"
+    ],
+    "copy_strategy": "dramatize_paperwork_pain_then_step_by_step_in_app_solution_then_incentive_close",
+    "lines": [
+      {
+        "text": "전세 보증보험 가입할 때 서류 준비 때문에 진짜 짜증나잖아요.",
+        "type": "narration_vo",
+        "time_sec": 0.0
+      },
+      {
+        "text": "토스 하나로 쉽고 빠르게 가입할 수 있대요.",
+        "type": "narration_vo",
+        "time_sec": 4.38
+      },
+      {
+        "text": "전세 탭에서 전세보증금 반환보증을 선택해 주세요.",
+        "type": "narration_vo",
+        "time_sec": 7.78
+      },
+      {
+        "text": "보증 내용을 확인하고 가입을 시작해 볼게요.",
+        "type": "narration_vo",
+        "time_sec": 11.68
+      },
+      {
+        "text": "가입할 주택의 유형, 주소를 입력해 주세요.",
+        "type": "narration_vo",
+        "time_sec": 15.16
+      },
+      {
+        "text": "계약 정보도 입력하고 나면 이렇게 예상 보증료를 확인할 수 있는데요.",
+        "type": "narration_vo",
+        "time_sec": 19.0
+      },
+      {
+        "text": "신청 내용을 꼼꼼하게 체크하고 확인을 누르면",
+        "type": "narration_vo",
+        "time_sec": 24.56
+      },
+      {
+        "text": "이제 서류 제출 단계만 남았습니다.",
+        "type": "narration_vo",
+        "time_sec": 27.88
+      },
+      {
+        "text": "이때 토스에서 각종 증명서들을 바로 발급받을 수 있대요.",
+        "type": "narration_vo",
+        "time_sec": 31.08
+      },
+      {
+        "text": "토스에서 발급하기를 선택하면 토스에서 서류를 발급받아 바로 사용할 수 있어요.",
+        "type": "narration_vo",
+        "time_sec": 35.64
+      },
+      {
+        "text": "나머지 서류도 모두 첨부해 주고 신청하기를 누르면 이제 가입 심사가 시작됩니다.",
+        "type": "narration_vo",
+        "time_sec": 42.52
+      },
+      {
+        "text": "보증료를 결제하면 보증보험 가입 끝.",
+        "type": "narration_vo",
+        "time_sec": 50.02
+      },
+      {
+        "text": "지금 가입하면 보증료 3% 할인에 토스 포인트 15,000원까지 지급해 줘요.",
+        "type": "narration_vo",
+        "time_sec": 53.32
+      }
+    ],
+    "captions": [
+      {
+        "text": "전세보증보험",
+        "source": "kinetic_word_caption_hook",
+        "time_sec": 0.5
+      },
+      {
+        "text": "가입할 때",
+        "source": "kinetic_word_caption_hook",
+        "time_sec": 1.3
+      },
+      {
+        "text": "서류 준비 때문에",
+        "source": "kinetic_word_caption_hook",
+        "time_sec": 2.4
+      },
+      {
+        "text": "진~짜증나잖아요?",
+        "source": "kinetic_word_caption_hook",
+        "time_sec": 3.5
+      },
+      {
+        "text": "전세보증보험 토스로 더 쉽게 가입하기",
+        "source": "paper_title_card",
+        "time_sec": 5.0
+      },
+      {
+        "text": "SERVICE 전세보증금 반환보증  YEAR 2024  CATEGORY 부동산 / 공공서비스 / 송금  PRODUCTION TEAM #team_공공프로젝트",
+        "source": "paper_title_card_meta",
+        "time_sec": 5.3
+      },
+      {
+        "text": "'전체 탭'에서",
+        "source": "subtitle_pill",
+        "time_sec": 13.3
+      },
+      {
+        "text": "'전세보증금 반환보증'을 선택해주세요",
+        "source": "subtitle_pill",
+        "time_sec": 16.7
+      },
+      {
+        "text": "전세보증금반환 보증보험  더 저렴한 곳이 있다면 보상해드려요  HUG의 보증보험 중 가장 저렴해요  보증료 3% 할인과  15,000원까지 드려요  가입하면 토스포인트로 적립  쉽게 가입하고 안전하게 지켜요  신청하기",
+        "source": "on_screen_app_ui",
+        "time_sec": 17.0
+      },
+      {
+        "text": "보증 내용을 확인하고  가입을 시작해볼게요",
+        "source": "subtitle_pill",
+        "time_sec": 20.5
+      },
+      {
+        "text": "가입할 주택의 유형  주소를 입력해주세요",
+        "source": "subtitle_pill",
+        "time_sec": 24.5
+      },
+      {
+        "text": "계약 정보도  입력하고 나면",
+        "source": "subtitle_pill",
+        "time_sec": 28.5
+      },
+      {
+        "text": "주택 가격 30,000만원 (3억원)  계약 시작일 2024.02.23",
+        "source": "on_screen_app_ui",
+        "time_sec": 29.5
+      },
+      {
+        "text": "이렇게 예상 보증료를  확인할 수 있는데요",
+        "source": "subtitle_pill",
+        "time_sec": 32.5
+      },
+      {
+        "text": "예상 보증료 399,230원  기본 보증료 412,405원  할인 금액 -13,175원  토스 기본 할인 -3%",
+        "source": "on_screen_app_ui",
+        "time_sec": 33.0
+      },
+      {
+        "text": "신청 내용을 꼼꼼하게  체크하고",
+        "source": "subtitle_pill",
+        "time_sec": 36.0
+      },
+      {
+        "text": "이제 서류 제출 단계만  남았습니다",
+        "source": "subtitle_pill",
+        "time_sec": 35.6
+      },
+      {
+        "text": "토스에서 각종 증명서들을  바로 발급받을 수 있대요",
+        "source": "subtitle_pill",
+        "time_sec": 37.9
+      },
+      {
+        "text": "'토스에서 발급하기'를  선택하면",
+        "source": "subtitle_pill",
+        "time_sec": 38.9
+      },
+      {
+        "text": "토스에서 서류를  발급받아",
+        "source": "subtitle_pill",
+        "time_sec": 41.0
+      },
+      {
+        "text": "바로 사용할 수 있어요",
+        "source": "subtitle_pill",
+        "time_sec": 42.3
+      },
+      {
+        "text": "나머지 서류도  모두 첨부해주고",
+        "source": "subtitle_pill",
+        "time_sec": 44.0
+      },
+      {
+        "text": "신청하기를 누르면",
+        "source": "subtitle_pill",
+        "time_sec": 45.5
+      },
+      {
+        "text": "이제 가입 심사가  시작됩니다",
+        "source": "subtitle_pill",
+        "time_sec": 47.0
+      },
+      {
+        "text": "보증료를 결제하면",
+        "source": "subtitle_pill",
+        "time_sec": 52.0
+      },
+      {
+        "text": "보증 보험 가입 끝!",
+        "source": "subtitle_pill",
+        "time_sec": 54.5
+      },
+      {
+        "text": "지금 가입하면",
+        "source": "subtitle_pill",
+        "time_sec": 55.0
+      },
+      {
+        "text": "보증료 3% 할인에",
+        "source": "subtitle_pill",
+        "time_sec": 56.5
+      },
+      {
+        "text": "토스 포인트 15,000원까지  지급해준대요",
+        "source": "subtitle_pill",
+        "time_sec": 57.5
+      },
+      {
+        "text": "Curator T  토스를 발견하다",
+        "source": "creator_logo_end_card",
+        "time_sec": 59.2
+      }
+    ],
+    "narration_handling": "single_female_voiceover_throughout_with_synced_caption_pills"
+  },
+  "typography": {
+    "primary_font_class": "geometric_sans_korean_rounded",
+    "animation_style": [
+      "word_by_word_pop_in_on_hook",
+      "static_subtitle_pill_hold",
+      "paper_title_card_settle"
+    ],
+    "subtitle_position_dominant": "lower_third_center",
+    "color_strategy": "white_kinetic_captions_on_hook_then_white_text_in_dark_rounded_pill",
+    "typo_motion_dominant": "kinetic_word_reveal_then_static_pill"
+  },
+  "vfx": {
+    "primary_effects": [
+      "kinetic_caption_text",
+      "subtitle_pill_overlay",
+      "screen_ui_recording",
+      "paper_title_card_composite"
+    ],
+    "effect_intensity": "low_to_medium",
+    "transition_style_dominant": "hard_cut",
+    "vfx_event_count": 4
+  },
+  "audio": {
+    "has_audio": true,
+    "language": "ko",
+    "speech_coverage": 0.979,
+    "bgm_likely": true,
+    "narration_lines": [
+      {
+        "start": 0.0,
+        "end": 4.38,
+        "text": "전세 보증보험 가입할 때 서류 준비 때문에 진짜 짜증나잖아요.",
+        "text_raw": "전세 보증보험 가입할 때 소료 준비 때문에 진짜 짜증나잖아요.",
+        "source": "whisper_corrected"
+      },
+      {
+        "start": 4.38,
+        "end": 7.78,
+        "text": "토스 하나로 쉽고 빠르게 가입할 수 있대요.",
+        "text_raw": "토스 하나로 쉽고 빠르게 가입할 수 있대요.",
+        "source": "whisper_corrected"
+      },
+      {
+        "start": 7.78,
+        "end": 11.68,
+        "text": "전세 탭에서 전세보증금 반환보증을 선택해 주세요.",
+        "text_raw": "전세 탭에서 전세 보증된 방안 보증을 선택해 주세요.",
+        "source": "whisper_corrected"
+      },
+      {
+        "start": 11.68,
+        "end": 15.16,
+        "text": "보증 내용을 확인하고 가입을 시작해 볼게요.",
+        "text_raw": "보증 내용을 확인하고 가입을 시작해 볼게요.",
+        "source": "whisper_corrected"
+      },
+      {
+        "start": 15.16,
+        "end": 19.0,
+        "text": "가입할 주택의 유형, 주소를 입력해 주세요.",
+        "text_raw": "가입할 주택의 유형, 주소를 입력해 주세요.",
+        "source": "whisper_corrected"
+      },
+      {
+        "start": 19.0,
+        "end": 24.56,
+        "text": "계약 정보도 입력하고 나면 이렇게 예상 보증료를 확인할 수 있는데요.",
+        "text_raw": "계약정보도 입력하거나 하면 이렇게 예상 보증률을 확인할 수 있는데요.",
+        "source": "whisper_corrected"
+      },
+      {
+        "start": 24.56,
+        "end": 27.88,
+        "text": "신청 내용을 꼼꼼하게 체크하고 확인을 누르면",
+        "text_raw": "신청 내용을 꼼꼼하게 체크하고 확인을 누르면",
+        "source": "whisper_corrected"
+      },
+      {
+        "start": 27.88,
+        "end": 31.08,
+        "text": "이제 서류 제출 단계만 남았습니다.",
+        "text_raw": "이제 소료 제출 단계만 남았습니다.",
+        "source": "whisper_corrected"
+      },
+      {
+        "start": 31.08,
+        "end": 35.64,
+        "text": "이때 토스에서 각종 증명서들을 바로 발급받을 수 있대요.",
+        "text_raw": "이때 토스에서 각종 증명서들을 바로 발급받을 수 있대요.",
+        "source": "whisper_corrected"
+      },
+      {
+        "start": 35.64,
+        "end": 42.52,
+        "text": "토스에서 발급하기를 선택하면 토스에서 서류를 발급받아 바로 사용할 수 있어요.",
+        "text_raw": "토스에서 발급하기를 선택하면 토스에서 소료를 발급받아 바로 사용할 수 있어요.",
+        "source": "whisper_corrected"
+      },
+      {
+        "start": 42.52,
+        "end": 50.02,
+        "text": "나머지 서류도 모두 첨부해 주고 신청하기를 누르면 이제 가입 심사가 시작됩니다.",
+        "text_raw": "나머지 소료도 모두 첨부해주고 신청하기를 누르면 이제 가입 심사가 시작됩니다.",
+        "source": "whisper_corrected"
+      },
+      {
+        "start": 50.02,
+        "end": 53.32,
+        "text": "보증료를 결제하면 보증보험 가입 끝.",
+        "text_raw": "보증률을 결제하면 보증보험 가입 끝.",
+        "source": "whisper_corrected"
+      },
+      {
+        "start": 53.32,
+        "end": 58.68,
+        "text": "지금 가입하면 보증료 3% 할인에 토스 포인트 15,000원까지 지급해 줘요.",
+        "text_raw": "지금 가입하면 보증률 3% 할인에 토스 포인트 15000원까지 지급해 주세요.",
+        "source": "whisper_corrected"
+      }
+    ],
+    "voice_vs_caption": "vo_drives_narration_caption_pills_mirror_vo_app_ui_text_verbatim_on_screen",
+    "transcribed_by": "faster_whisper_base_corrected_against_captions",
+    "audio_note": "Single female Korean voiceover across the whole clip; whisper speech_coverage 0.979; raw whisper repeatedly mis-heard 서류 as 소료 and 보증료 as 보증률 — corrected against on-screen captions/UI. Light upbeat BGM assumed present."
+  },
+  "frames_dir": "ADV-2026-024_frames",
+  "contact_sheet_path": "ADV-2026-024_frames/contact_sheet.png",
+  "search_keywords": {
+    "industry": [
+      "finance",
+      "fintech"
+    ],
+    "product_category": [
+      "super_app",
+      "insurance",
+      "jeonse_guarantee",
+      "lease_deposit_protection",
+      "proptech"
+    ],
+    "target_demo": [
+      "20s",
+      "30s",
+      "renters",
+      "jeonse_tenants",
+      "mobile_native",
+      "korean"
+    ],
+    "media_format": [
+      "vertical_9x16",
+      "short_form_60s",
+      "tutorial_explainer"
+    ],
+    "tone": [
+      "informative",
+      "friendly",
+      "relatable",
+      "reassuring"
+    ],
+    "pacing": [
+      "fast_hook",
+      "steady_walkthrough",
+      "promo_close"
+    ],
+    "technique": [
+      "screen_ui_walkthrough",
+      "tutorial_demo",
+      "talking_head_explainer",
+      "kinetic_caption_hook",
+      "b_roll_intercut"
+    ],
+    "vfx_keywords": [
+      "kinetic_text",
+      "subtitle_pill",
+      "screen_recording",
+      "paper_title_card"
+    ],
+    "copy_strategy_keywords": [
+      "pain_point_dramatization",
+      "step_by_step_demo",
+      "incentive_close",
+      "ui_text_verbatim"
+    ],
+    "concept_derivation_pattern": [
+      "paperwork_pain_then_in_app_one_stop_solution",
+      "service_walkthrough_with_promo_payoff"
+    ]
+  },
+  "inferred_creative_thinking": {
+    "insight": "The single most dreaded part of buying jeonse deposit-guarantee insurance is not the price but assembling a pile of government certificates (residence record, certified lease, deposit receipt, occupant confirmations) from multiple agencies — a chore renters openly hate.",
+    "persona": "A late-20s to 30s Korean tenant on a jeonse lease who wants to protect a large deposit but is intimidated by the bureaucratic document gauntlet and would rather do everything inside one trusted app.",
+    "moment": "The instant of dread when you realize enrolling means a scavenger hunt for paperwork — reframed into relief when Toss issues the required certificates for you inside the same flow.",
+    "product_role": "Toss collapses the whole enrollment AND the certificate-issuance errand into one in-app journey: pick the product, enter property/contract info, see an estimated premium, issue documents directly in Toss, attach, submit, pay — done.",
+    "punchline": "The paperwork that used to make you scream is now a few taps inside Toss, with a discount and points on top.",
+    "differentiator": "Unlike a generic insurance signup, Toss cross-pollinates its own certificate-issuance utility into the guarantee-insurance flow, removing the offline document-gathering friction entirely.",
+    "brand_fit_one_liner": "Toss earns trust by quietly deleting the most annoying step of a stressful financial task, not by talking about money.",
+    "confidence": "inferred"
+  },
+  "inferred_brief": "Create a ~60-second vertical creator-style explainer that dramatizes the paperwork pain of enrolling in jeonse deposit-guarantee insurance, then walks step-by-step through doing it entirely inside Toss — selecting 전세보증금 반환보증, entering property and contract details, viewing the estimated premium, issuing the required certificates directly in Toss, submitting for review, and paying — closing with a 3% premium discount and 15,000 Toss-point incentive.",
+  "cross_pollination_tags": {
+    "adjacent": [
+      "government_certificate_issuance_demo",
+      "insurance_signup_walkthrough",
+      "proptech_rental_protection_ad",
+      "banking_app_feature_tutorial"
+    ],
+    "distant": [
+      "cooking_recipe_step_by_step_reel",
+      "ikea_furniture_assembly_explainer",
+      "travel_visa_paperwork_guide"
+    ],
+    "contrast": [
+      "cinematic_emotional_brand_film",
+      "celebrity_endorsement_spot",
+      "abstract_motion_graphics_fintech_ad"
+    ]
+  },
+  "concept_derivation_pattern": "paperwork_pain_dramatization_then_one_stop_in_app_walkthrough_with_embedded_certificate_issuance_and_incentive_close",
+  "confidence": "inferred",
+  "analyst_notes": "15 cuts. scenedetect macro-scenes (0.87/1.64/2.57/4.44/5.31/7.31/16.92/24.06/31.73/35.50/54.39/56.02/58.76) cross-checked against per-frame diff spikes and 139 staged native-res frames. The 0-4.44 hook is 4 quick handheld POV live-action cuts over scattered certificates with word-by-word white kinetic captions (전세보증보험 / 가입할 때 / 서류 준비 때문에 / 진~짜증나잖아요?). 4.44-7.31 is a talking-head intro with a hand-drawn paper 'CONTENT' title card. 7.31-54.39 is a locked-overhead screen recording of the Toss app (one continuous physical setup) but is cut into UI-meaningful shots at the scenedetect boundaries (diff spikes at f508/722/952/1065/1631); the certificate-issuance long segment (38.80-54.39) is treated as one shot. Two talking-head B-roll inserts intercut the demo: 37.80-38.80 (presenter holding phone) and 56.02-58.76 (presenter outro showing 3 fingers for the 3% discount). Final 58.76-59.95 is a creator end card sticker reading 'Curator T / 토스를 발견하다' (channel logo, not a Toss brand mark). Note status-bar clock changes 11:41->11:46->8:30->8:34 inside the demo, indicating the screen capture was assembled from multiple sessions; framing stays locked so treated as continuous screen-rec shots. Promo/CTA ~53.3s (보증료 3% 할인 + 토스포인트 15,000원). Long-form 1795 frames. Raw whisper mis-transcribed 서류->소료 and 보증료->보증률 throughout; corrected against captions. BGM assumed but not confirmed.",
+  "verification": {
+    "frames_reviewed": "139 native-res staged frames read in ascending order + 100% per-frame metrics (motion/text/diff); long-form 1795f source; cut boundaries confirmed against scenedetect + diff spikes",
+    "audio_analyzed": true,
+    "hitrate_na": null,
+    "abstraction_checked": true
+  },
+  "shots": [
+    {
+      "index": 1,
+      "duration": 0.87,
+      "framing": "top_down_insert",
+      "function": "hook_problem_open",
+      "subject_action": "a hand holds a smartphone in camera mode high above a desk blanketed with scattered official documents, about to photograph them",
+      "layout_grid": "phone_upper_center_documents_fill",
+      "subject_position": "upper_center",
+      "typo_motion": "kinetic_word_pop_in",
+      "camera_angle": "high_angle_top_down",
+      "camera_facing": "pov_over_shoulder_down",
+      "shot_scope": "wide_insert_of_desk_and_hand",
+      "gaze": "none",
+      "props": [
+        "smartphone_in_camera_mode",
+        "scattered_korean_certificates",
+        "official_stamped_documents"
+      ],
+      "color_palette": [
+        "#EDE7DE",
+        "#C9B79C",
+        "#2B2622",
+        "#9FB4C8",
+        "#C46A6A"
+      ],
+      "color_intent": "warm_paper_neutral_with_red_stamp_accent",
+      "pose_description": "right hand grips the phone at a downward angle, thumb near the shutter, framing the documents below on screen",
+      "subject_motion": "handheld_micro_jitter_phone_settling",
+      "camera_motion": "handheld_pov_drift",
+      "camera_effect_local": "shallow_dof_documents_soft",
+      "intra_cut_rhythm": "snappy",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "mid_frame_path": "ADV-2026-024_frames/cut01_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "hand_holding_smartphone",
+          "smartphone_screen_showing_document_preview"
+        ],
+        "midground": [
+          "spread_of_white_a4_certificates",
+          "red_official_seal_stamps"
+        ],
+        "background": [
+          "more_overlapping_documents",
+          "warm_beige_desk_surface"
+        ],
+        "lighting_env": [
+          "soft_warm_indoor_overhead",
+          "diffuse_daylight_fill"
+        ],
+        "atmosphere": [
+          "cluttered_paperwork_overwhelm",
+          "everyday_home_realism"
+        ]
+      },
+      "texture": {
+        "primary_subject": "matte_metallic_phone_body_glossy_screen",
+        "secondary_objects": [
+          "thin_printed_paper_with_ink_grids"
+        ],
+        "background_surface": "overlapping_matte_paper_sheets",
+        "atmospheric": [
+          "soft_shallow_focus_falloff"
+        ]
+      },
+      "lighting": {
+        "key_direction": "top_front_soft",
+        "key_hardness": "soft",
+        "key_color_temp": "warm_4000K",
+        "fill_strength": "medium",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": "none",
+        "practical_lights": [
+          "room_ceiling_light",
+          "window_daylight"
+        ],
+        "shadow_presence": "soft_diffuse",
+        "overall_contrast": "medium_low"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#EDE7DE",
+          "#C9B79C",
+          "#2B2622",
+          "#9FB4C8",
+          "#C46A6A"
+        ],
+        "palette_role": {
+          "#EDE7DE": "dominant_paper_white",
+          "#C9B79C": "warm_paper_shadow",
+          "#2B2622": "phone_body_dark",
+          "#9FB4C8": "form_field_blue_tint",
+          "#C46A6A": "red_seal_stamp_accent"
+        },
+        "color_relationship": "warm_neutrals_with_red_and_cool_blue_accents",
+        "temperature_balance": "warm_dominant",
+        "saturation_strategy": "low_naturalistic_with_isolated_red_pop",
+        "contrast_type": "soft_low",
+        "accent_color": "#C46A6A",
+        "accent_ratio": 0.05
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A top-down point-of-view still photograph, shot in vertical 9:16 orientation, of a person's right hand holding a modern dark titanium smartphone in camera mode, the device raised in the upper-centre of the frame and angled slightly downward to photograph a desk completely blanketed with scattered Korean official paper documents below. The subject element is only the hand and forearm of a young East Asian adult in their late twenties, skin natural and lightly warm-toned, no jewellery, gripping the phone with the thumb resting near the on-screen shutter; on the phone's bright screen a live camera preview shows the same documents framed for a photo, with the iPhone-style camera chrome (mode selector, shutter ring, thumbnail) visible. Wardrobe and material: a plain warm knit sleeve hem peeks at the wrist; the phone is matte metallic with a glossy glass screen and a triple-lens module faintly visible. Location and background: an ordinary home or office desk surface in warm beige, entirely covered by overlapping A4 sheets — residence certificates, certified lease forms and insurance documents printed with fine grey tabular grids, faint blue form-field tints, and one or two bold red circular official seal stamps. Foreground and props: the hand and phone dominate the upper third; the midground is a dense collage of printed certificates and red seals; the lower frame fills with more paper receding into soft focus. Lighting setup: soft warm overhead practical light around 4000K mixed with diffuse window daylight, gentle 2:1 key-to-fill, soft diffuse shadows, no rim light, medium-low contrast — the motivated, slightly imperfect look of a real desk shot on a phone. Lens, framing and angle: a wide point-of-view insert from a high top-down angle as if looking over one's own shoulder, mild handheld feel, shallow depth of field so the documents fall gently out of focus toward the edges. Composition and grid: the smartphone occupies the upper-centre, the spread of paperwork fills the remaining frame edge-to-edge, conveying overwhelm through density rather than symmetry. Colour palette and strategy with HEX: dominant warm paper white (#EDE7DE) and warm paper shadow (#C9B79C), dark phone body (#2B2622), cool form-field blue tint (#9FB4C8), and an isolated red official seal accent (#C46A6A) covering only about five percent of the frame for a single pop of colour. Texture and surfaces: matte titanium phone with reflective glass, thin printed paper with ink grids and toner texture, overlapping matte sheets. Atmosphere: the specific feeling of paperwork overwhelm at the start of a bureaucratic task, everyday Korean home realism, late morning indoor light. Post and signature look: naturalistic colour grade in the warm-to-neutral range, no heavy grain, no vignette, no HDR — a believable phone-captured documentary frame rather than a polished studio image. Style anchor and nationality: contemporary Korean short-form creator b-roll aesthetic, authentic and relatable, documents and any text rendered as generic government-style forms with no real personal data; on-screen kinetic caption text reads exactly 전세보증보험 in bold white rounded Korean sans-serif popping in over the lower-centre of the frame. Identity of any individual is entirely generic, no likeness of a real person; brand logo marks are generic and only described UI chrome appears in scene.",
+        "t2i_negative": "face visible, celebrity likeness, brand logo marks, heavy grain, dramatic studio lighting, color tint, HDR, wide-angle distortion, readable personal data",
+        "i2v_motion": "handheld micro-jitter as the phone settles over the documents; subtle parallax on the paper spread; white kinetic caption 전세보증보험 pops in at lower-centre; ~0.9s; hard cut out",
+        "i2v_params": {
+          "clip_duration_sec": 0.87,
+          "camera_move": "handheld_pov_drift",
+          "subject_motion_level": "low_hand_settling",
+          "signature_effect": "kinetic_caption_pop",
+          "pacing": "fast",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen caption 전세보증보험 preserved verbatim; identity/logo generic; no readable personal data"
+      }
+    },
+    {
+      "index": 2,
+      "duration": 0.77,
+      "framing": "top_down_insert",
+      "function": "hook_problem_continue",
+      "subject_action": "the hand keeps the phone raised over the document spread as the camera preview shifts, mid-photographing the paperwork",
+      "layout_grid": "phone_upper_center_documents_fill",
+      "subject_position": "upper_center",
+      "typo_motion": "kinetic_word_pop_in",
+      "camera_angle": "high_angle_top_down",
+      "camera_facing": "pov_over_shoulder_down",
+      "shot_scope": "wide_insert_of_desk_and_hand",
+      "gaze": "none",
+      "props": [
+        "smartphone_in_camera_mode",
+        "scattered_korean_certificates",
+        "red_seal_documents"
+      ],
+      "color_palette": [
+        "#EDE7DE",
+        "#C9B79C",
+        "#2B2622",
+        "#9FB4C8",
+        "#C46A6A"
+      ],
+      "color_intent": "warm_paper_neutral_with_red_stamp_accent",
+      "pose_description": "right hand holds the phone steady at a downward tilt, repositioning slightly to frame a different sheet",
+      "subject_motion": "small_reframing_hand_move",
+      "camera_motion": "handheld_pov_drift",
+      "camera_effect_local": "shallow_dof_documents_soft",
+      "intra_cut_rhythm": "snappy",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "mid_frame_path": "ADV-2026-024_frames/cut02_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "hand_holding_smartphone",
+          "smartphone_screen_camera_preview"
+        ],
+        "midground": [
+          "overlapping_certificates",
+          "red_seal_stamps"
+        ],
+        "background": [
+          "warm_desk_surface",
+          "more_paper_sheets"
+        ],
+        "lighting_env": [
+          "soft_warm_overhead",
+          "diffuse_daylight"
+        ],
+        "atmosphere": [
+          "paperwork_overload",
+          "home_desk_realism"
+        ]
+      },
+      "texture": {
+        "primary_subject": "matte_phone_glossy_screen",
+        "secondary_objects": [
+          "printed_paper_ink_grids"
+        ],
+        "background_surface": "overlapping_matte_paper",
+        "atmospheric": [
+          "soft_focus_falloff"
+        ]
+      },
+      "lighting": {
+        "key_direction": "top_front_soft",
+        "key_hardness": "soft",
+        "key_color_temp": "warm_4000K",
+        "fill_strength": "medium",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": "none",
+        "practical_lights": [
+          "ceiling_light",
+          "window_daylight"
+        ],
+        "shadow_presence": "soft_diffuse",
+        "overall_contrast": "medium_low"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#EDE7DE",
+          "#C9B79C",
+          "#2B2622",
+          "#9FB4C8",
+          "#C46A6A"
+        ],
+        "palette_role": {
+          "#EDE7DE": "dominant_paper_white",
+          "#C9B79C": "warm_paper_shadow",
+          "#2B2622": "phone_body_dark",
+          "#9FB4C8": "form_field_blue_tint",
+          "#C46A6A": "red_seal_accent"
+        },
+        "color_relationship": "warm_neutrals_with_red_and_cool_blue_accents",
+        "temperature_balance": "warm_dominant",
+        "saturation_strategy": "low_naturalistic_with_isolated_red_pop",
+        "contrast_type": "soft_low",
+        "accent_color": "#C46A6A",
+        "accent_ratio": 0.05
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A continuation top-down point-of-view still photograph in vertical 9:16, of the same young East Asian adult's right hand and forearm holding a dark titanium smartphone in camera mode, raised in the upper-centre of the frame and tilted downward toward a desk fully covered with scattered Korean official paper documents. The subject is only the hand — natural warm-toned skin, plain warm knit sleeve at the wrist, no visible face, thumb hovering near the on-screen shutter — and the phone is repositioning slightly to frame a different sheet, so the live camera preview on the bright glass screen shows the paperwork drifting within the viewfinder along with the familiar iPhone-style camera chrome of mode selector, white shutter ring and thumbnail. Wardrobe and material: matte metallic phone body with glossy screen, triple-lens module faintly visible, soft knit sleeve hem. Location and background: an ordinary warm-beige home desk entirely blanketed by overlapping A4 certificates — residence records, certified lease forms, deposit and insurance documents printed with fine grey tabular grids and faint blue form-field tints, accented by one or two bold red circular official seal stamps. Foreground and props: hand and phone dominate the upper third; the midground is a dense collage of stamped certificates; the lower frame dissolves into more paper in soft focus. Lighting setup: soft warm overhead practical light around 4000K mixed with diffuse window daylight, gentle 2:1 key-to-fill, soft diffuse shadows, no rim light, medium-low contrast — a motivated real-desk look. Lens, framing and angle: a wide point-of-view insert from a high top-down angle as if glancing over one's own shoulder, light handheld feel, shallow depth of field with documents softening toward the edges. Composition and grid: the phone anchored upper-centre, the paperwork filling the frame edge to edge to communicate overload through sheer density rather than tidy symmetry. Colour palette and strategy with HEX: dominant warm paper white (#EDE7DE) and warm paper shadow (#C9B79C), dark phone body (#2B2622), cool form-field blue tint (#9FB4C8), and an isolated red seal accent (#C46A6A) occupying roughly five percent of the frame as a single colour pop. Texture and surfaces: matte titanium and reflective glass on the phone, thin printed paper with toner ink grids, overlapping matte sheets with subtle paper grain. Atmosphere: the everyday dread of staring down a pile of required paperwork, authentic Korean home realism in late-morning indoor light. Post and signature look: naturalistic warm-to-neutral grade, no heavy grain, no vignette, no HDR tone-mapping, a believable phone-captured documentary frame. Style anchor and nationality: contemporary Korean short-form creator b-roll aesthetic, relatable and unpolished, all documents rendered as generic government-style forms with no real personal data; the on-screen kinetic caption text reads exactly 가입할 때 in bold white rounded Korean sans-serif appearing over the lower-centre of the frame. Identity of any individual is entirely generic with no real likeness; brand logo marks are generic and only the described in-scene UI chrome appears. Additional production context: this is the second beat of a four-cut handheld hook, so the framing should feel almost identical to the previous shot with only a tiny reposition, preserving continuity of the chaotic document spread; the lighting is motivated entirely by practical room sources rather than any rig, giving the slightly uneven, lived-in quality contemporary Korean creators favour for relatable everyday scenarios; the colour rendering stays desaturated and true to the muted appearance of real printed certificates under warm indoor light, with the single red seal kept as the only saturated note so the eye reads overwhelm rather than decoration; the shallow depth of field and gentle handheld presence keep the frame feeling like an authentic phone capture rather than a staged advertisement graphic.",
+        "t2i_negative": "face visible, celebrity likeness, brand logo marks, heavy grain, studio lighting, color tint, HDR, distortion, readable personal data",
+        "i2v_motion": "hand makes a small reframing move over the documents; camera preview shifts; white kinetic caption 가입할 때 pops in lower-centre; ~0.8s; hard cut",
+        "i2v_params": {
+          "clip_duration_sec": 0.77,
+          "camera_move": "handheld_pov_drift",
+          "subject_motion_level": "low_reframing",
+          "signature_effect": "kinetic_caption_pop",
+          "pacing": "fast",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen caption 가입할 때 preserved verbatim; identity/logo generic; no readable personal data"
+      }
+    },
+    {
+      "index": 3,
+      "duration": 0.93,
+      "framing": "top_down_insert",
+      "function": "hook_problem_build",
+      "subject_action": "a closer top-down view of the phone over the document pile, the hand steadying the shot as captions stack up",
+      "layout_grid": "phone_center_documents_fill",
+      "subject_position": "center",
+      "typo_motion": "kinetic_word_pop_in",
+      "camera_angle": "high_angle_top_down",
+      "camera_facing": "pov_over_shoulder_down",
+      "shot_scope": "medium_insert_phone_and_papers",
+      "gaze": "none",
+      "props": [
+        "smartphone_in_camera_mode",
+        "stacked_certificates",
+        "red_seal_documents"
+      ],
+      "color_palette": [
+        "#EDE7DE",
+        "#C9B79C",
+        "#2B2622",
+        "#9FB4C8",
+        "#C46A6A"
+      ],
+      "color_intent": "warm_paper_neutral_with_red_stamp_accent",
+      "pose_description": "right hand cradles the phone low over the papers, holding a steadier frame closer to the desk",
+      "subject_motion": "slow_lower_toward_documents",
+      "camera_motion": "handheld_pov_drift",
+      "camera_effect_local": "shallow_dof_documents_soft",
+      "intra_cut_rhythm": "snappy",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "mid_frame_path": "ADV-2026-024_frames/cut03_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "hand_holding_smartphone",
+          "smartphone_camera_preview_document"
+        ],
+        "midground": [
+          "stacked_certificates",
+          "red_seal_stamps"
+        ],
+        "background": [
+          "warm_desk_surface",
+          "paper_sheets_in_soft_focus"
+        ],
+        "lighting_env": [
+          "soft_warm_overhead",
+          "diffuse_daylight"
+        ],
+        "atmosphere": [
+          "paperwork_overwhelm",
+          "home_desk_realism"
+        ]
+      },
+      "texture": {
+        "primary_subject": "matte_phone_glossy_screen",
+        "secondary_objects": [
+          "printed_paper_grids"
+        ],
+        "background_surface": "overlapping_matte_paper",
+        "atmospheric": [
+          "soft_focus_falloff"
+        ]
+      },
+      "lighting": {
+        "key_direction": "top_front_soft",
+        "key_hardness": "soft",
+        "key_color_temp": "warm_4000K",
+        "fill_strength": "medium",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": "none",
+        "practical_lights": [
+          "ceiling_light",
+          "window_daylight"
+        ],
+        "shadow_presence": "soft_diffuse",
+        "overall_contrast": "medium_low"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#EDE7DE",
+          "#C9B79C",
+          "#2B2622",
+          "#9FB4C8",
+          "#C46A6A"
+        ],
+        "palette_role": {
+          "#EDE7DE": "dominant_paper_white",
+          "#C9B79C": "warm_paper_shadow",
+          "#2B2622": "phone_body_dark",
+          "#9FB4C8": "form_field_blue_tint",
+          "#C46A6A": "red_seal_accent"
+        },
+        "color_relationship": "warm_neutrals_with_red_and_cool_blue_accents",
+        "temperature_balance": "warm_dominant",
+        "saturation_strategy": "low_naturalistic_with_isolated_red_pop",
+        "contrast_type": "soft_low",
+        "accent_color": "#C46A6A",
+        "accent_ratio": 0.05
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A closer top-down point-of-view still photograph in vertical 9:16, of the same young East Asian adult's right hand cradling a dark titanium smartphone in camera mode low over a desk that is completely covered with scattered Korean official certificates. The subject is only the hand and forearm — natural warm skin tone, a plain warm knit sleeve at the wrist, no face in frame — holding the phone in a steadier, nearer position so more of the paper detail fills the live camera preview on the glossy screen, the iPhone-style camera chrome of mode selector, white shutter ring and corner thumbnail clearly visible. Wardrobe and material: matte metallic phone with reflective glass and a faint triple-lens module, soft knit sleeve hem. Location and background: a warm-beige ordinary desk smothered in overlapping A4 sheets — residence records, certified lease contracts, deposit receipts and insurance forms printed with delicate grey tabular grids and pale blue form-field tints, punctuated by bold red circular official seal stamps. Foreground and props: the hand and phone fill the central frame at closer range; the midground is a tight collage of stamped certificates; the surrounding paper softens into shallow focus. Lighting setup: soft warm overhead practical light near 4000K mixed with diffuse window daylight, gentle 2:1 key-to-fill, soft diffuse shadows, no rim light, medium-low contrast, the motivated imperfect feel of a genuine desk photographed on a phone. Lens, framing and angle: a medium point-of-view insert from a high top-down angle as if looking over one's own shoulder while leaning in, mild handheld presence, shallow depth of field with the outer documents melting out of focus. Composition and grid: the phone centred over the densest cluster of paperwork, the frame packed edge to edge to express overwhelm through density rather than symmetry, with the eye drawn to the screen preview. Colour palette and strategy with HEX: dominant warm paper white (#EDE7DE) and warm paper shadow (#C9B79C), dark phone body (#2B2622), cool form-field blue tint (#9FB4C8), and an isolated red seal accent (#C46A6A) covering only around five percent of the frame as a single pop of colour. Texture and surfaces: matte titanium and glossy glass on the phone, thin toner-printed paper with grid lines, overlapping matte sheets carrying soft paper grain. Atmosphere: the mounting irritation of confronting a wall of bureaucratic documents, authentic Korean home realism under soft late-morning light. Post and signature look: naturalistic warm-to-neutral grade, no heavy grain, no vignette, no HDR, a believable phone-captured documentary frame rather than a stylised graphic. Style anchor and nationality: contemporary Korean short-form creator b-roll aesthetic, relatable and unglossy, all documents rendered as generic government-style forms with no real personal data; the on-screen kinetic caption text reads exactly 서류 준비 때문에 in bold white rounded Korean sans-serif stacking over the lower-centre of the frame. Identity of any individual is entirely generic with no real likeness; brand logo marks are generic and only the described in-scene UI chrome appears. Additional production context: this is the third beat of the four-cut handheld hook, framed slightly nearer the desk than the previous two so a few certificate rows and grid lines read more sharply on the screen preview, while the surrounding pile dissolves faster into bokeh; the lighting remains fully practical and unrigged for the docu-narrative feel Korean creators prefer, and the palette stays muted and accurate to real printed government paper, with the lone red seal as the single saturated accent; the composition continues to express overwhelm through sheer density rather than tidy arrangement, and the mild handheld drift and shallow focus keep it reading as a genuine phone-captured documentary frame rather than a polished commercial graphic.",
+        "t2i_negative": "face visible, celebrity likeness, brand logo marks, heavy grain, studio lighting, color tint, HDR, distortion, readable personal data",
+        "i2v_motion": "hand lowers the phone slightly toward the documents; gentle parallax on the paper; white kinetic caption 서류 준비 때문에 pops in lower-centre; ~0.9s; hard cut",
+        "i2v_params": {
+          "clip_duration_sec": 0.93,
+          "camera_move": "handheld_pov_drift",
+          "subject_motion_level": "low_lowering",
+          "signature_effect": "kinetic_caption_pop",
+          "pacing": "fast",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen caption 서류 준비 때문에 preserved verbatim; identity/logo generic; no readable personal data"
+      }
+    },
+    {
+      "index": 4,
+      "duration": 1.87,
+      "framing": "top_down_wide",
+      "function": "hook_problem_punchline",
+      "subject_action": "a wider overhead shot showing the coral-sleeved arm reaching across the document spread while the other hand photographs them, capping the pain-point hook",
+      "layout_grid": "diagonal_arm_phone_right_documents_fill",
+      "subject_position": "lower_left_arm_phone_right",
+      "typo_motion": "kinetic_word_pop_in",
+      "camera_angle": "high_angle_top_down",
+      "camera_facing": "pov_over_shoulder_down",
+      "shot_scope": "wide_overhead_desk_and_arms",
+      "gaze": "none",
+      "props": [
+        "smartphone_in_camera_mode",
+        "scattered_certificates",
+        "red_seal_documents"
+      ],
+      "color_palette": [
+        "#EDE7DE",
+        "#C9B79C",
+        "#D9603F",
+        "#9FB4C8",
+        "#2B2622"
+      ],
+      "color_intent": "warm_paper_neutral_with_coral_sleeve_accent",
+      "pose_description": "left forearm in a coral knit sleeve rests across the papers while the right hand holds the phone over the spread",
+      "subject_motion": "arm_settling_over_documents",
+      "camera_motion": "handheld_pov_drift",
+      "camera_effect_local": "shallow_dof_documents_soft",
+      "intra_cut_rhythm": "snappy",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "mid_frame_path": "ADV-2026-024_frames/cut04_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "coral_knit_sleeve_forearm",
+          "hand_holding_smartphone"
+        ],
+        "midground": [
+          "spread_of_certificates",
+          "red_seal_stamps"
+        ],
+        "background": [
+          "warm_desk_surface",
+          "overlapping_paper_sheets"
+        ],
+        "lighting_env": [
+          "soft_warm_overhead",
+          "diffuse_daylight"
+        ],
+        "atmosphere": [
+          "peak_paperwork_overwhelm",
+          "home_desk_realism"
+        ]
+      },
+      "texture": {
+        "primary_subject": "coral_ribbed_knit_fabric",
+        "secondary_objects": [
+          "matte_phone_glossy_screen",
+          "printed_paper_grids"
+        ],
+        "background_surface": "overlapping_matte_paper",
+        "atmospheric": [
+          "soft_focus_falloff"
+        ]
+      },
+      "lighting": {
+        "key_direction": "top_front_soft",
+        "key_hardness": "soft",
+        "key_color_temp": "warm_4000K",
+        "fill_strength": "medium",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": "none",
+        "practical_lights": [
+          "ceiling_light",
+          "window_daylight"
+        ],
+        "shadow_presence": "soft_diffuse",
+        "overall_contrast": "medium_low"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#EDE7DE",
+          "#C9B79C",
+          "#D9603F",
+          "#9FB4C8",
+          "#2B2622"
+        ],
+        "palette_role": {
+          "#EDE7DE": "dominant_paper_white",
+          "#C9B79C": "warm_paper_shadow",
+          "#D9603F": "coral_sleeve_accent",
+          "#9FB4C8": "form_field_blue_tint",
+          "#2B2622": "phone_body_dark"
+        },
+        "color_relationship": "warm_neutrals_with_coral_accent",
+        "temperature_balance": "warm_dominant",
+        "saturation_strategy": "low_naturalistic_with_coral_pop",
+        "contrast_type": "soft_low",
+        "accent_color": "#D9603F",
+        "accent_ratio": 0.12
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A wider top-down point-of-view still photograph in vertical 9:16, of a young East Asian adult seen only as two forearms over a desk completely covered with scattered Korean official certificates. In the lower-left of the frame a left forearm wearing a warm coral-orange ribbed knit sleeve rests diagonally across the paperwork, while toward the right a right hand holds a dark titanium smartphone in camera mode over the spread, its glossy screen showing a live camera preview of the documents with the iPhone-style camera chrome of mode selector, white shutter ring and corner thumbnail. No face appears; the subject is conveyed entirely through the coral-sleeved arm and the hand with the phone, skin natural and warm-toned. Wardrobe and material: a soft coral ribbed knit sweater sleeve with visible fabric texture, a matte metallic phone with reflective glass and a faint triple-lens module. Location and background: an ordinary warm-beige home desk smothered edge to edge in overlapping A4 sheets — residence records, certified lease contracts, deposit receipts and insurance forms printed with fine grey tabular grids and pale blue form-field tints, accented by a few bold red circular official seal stamps. Foreground and props: the coral forearm and the phone-holding hand dominate the lower and right portions of the frame; the midground is a dense collage of stamped certificates; the surrounding paper recedes into shallow focus. Lighting setup: soft warm overhead practical light near 4000K mixed with diffuse window daylight, gentle 2:1 key-to-fill, soft diffuse shadows, no rim light, medium-low contrast — the motivated, slightly imperfect look of a genuine desk photographed from above. Lens, framing and angle: a wide point-of-view insert from a high top-down angle as if looking down over one's own arms, light handheld presence, shallow depth of field so the outer documents soften. Composition and grid: a strong diagonal formed by the coral forearm leading toward the phone, the rest of the frame packed with paperwork to express peak overwhelm through density and the single warm coral accent. Colour palette and strategy with HEX: dominant warm paper white (#EDE7DE) and warm paper shadow (#C9B79C), a coral sleeve accent (#D9603F) occupying roughly twelve percent of the frame as the main colour pop, cool form-field blue tint (#9FB4C8), and dark phone body (#2B2622). Texture and surfaces: coral ribbed knit fabric, matte titanium and glossy glass on the phone, thin toner-printed paper with grid lines, overlapping matte sheets with soft paper grain. Atmosphere: the climactic exasperation of being buried in required documents, authentic Korean home realism in soft late-morning light. Post and signature look: naturalistic warm-to-neutral grade, no heavy grain, no vignette, no HDR, a believable phone-captured documentary frame. Style anchor and nationality: contemporary Korean short-form creator b-roll aesthetic, relatable and unpolished, all documents rendered as generic government-style forms with no real personal data; the on-screen kinetic caption text reads exactly 진~짜증나잖아요? in bold white rounded Korean sans-serif over the centre of the frame as the punchline. Identity of any individual is entirely generic with no real likeness; brand logo marks are generic and only the described in-scene UI chrome appears.",
+        "t2i_negative": "face visible, celebrity likeness, brand logo marks, heavy grain, studio lighting, color tint, HDR, distortion, readable personal data",
+        "i2v_motion": "coral-sleeved forearm settles across the documents while the other hand holds the phone steady; gentle handheld drift; white kinetic caption 진~짜증나잖아요? pops in over centre; ~1.9s; hard cut",
+        "i2v_params": {
+          "clip_duration_sec": 1.87,
+          "camera_move": "handheld_pov_drift",
+          "subject_motion_level": "low_arm_settling",
+          "signature_effect": "kinetic_caption_pop",
+          "pacing": "fast",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen caption 진~짜증나잖아요? preserved verbatim; identity/logo generic; no readable personal data"
+      }
+    },
+    {
+      "index": 5,
+      "duration": 2.87,
+      "framing": "MS",
+      "function": "presenter_intro_title_card",
+      "subject_action": "a presenter in a coral sweater sits at a cluttered bookshelf desk, gesturing with one finger raised as she introduces the topic; a hand-drawn paper title card floats at the top",
+      "layout_grid": "rule_of_thirds_center_presenter_title_top",
+      "subject_position": "center",
+      "typo_motion": "paper_title_card_settle",
+      "camera_angle": "eye_level",
+      "camera_facing": "front",
+      "shot_scope": "medium_shot_seated_presenter",
+      "gaze": "to_camera",
+      "props": [
+        "paper_content_title_card",
+        "desk_with_phone_and_laptop",
+        "bookshelf_with_props"
+      ],
+      "color_palette": [
+        "#D9603F",
+        "#7A4A2E",
+        "#3A6FB0",
+        "#E8E0D2",
+        "#2A2018"
+      ],
+      "color_intent": "warm_room_with_coral_subject_and_blue_card_accent",
+      "pose_description": "seated upright, both hands raised near chest, right index finger pointing up as she speaks to camera with a friendly expression",
+      "subject_motion": "talking_gesture_finger_raise",
+      "camera_motion": "locked_off_tripod",
+      "camera_effect_local": "shallow_dof_warm_bokeh_bg",
+      "intra_cut_rhythm": "medium",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "mid_frame_path": "ADV-2026-024_frames/cut05_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "seated_presenter_coral_sweater",
+          "desk_edge_with_phone"
+        ],
+        "midground": [
+          "paper_content_title_card",
+          "desk_props_pencils_notepad"
+        ],
+        "background": [
+          "wooden_bookshelf",
+          "rubber_duck_and_lamp_props"
+        ],
+        "lighting_env": [
+          "warm_key_light_left",
+          "soft_room_ambient"
+        ],
+        "atmosphere": [
+          "cozy_study_explainer",
+          "approachable_creator_set"
+        ]
+      },
+      "texture": {
+        "primary_subject": "soft_knit_coral_sweater_natural_skin",
+        "secondary_objects": [
+          "matte_paper_title_card",
+          "wood_shelf_grain"
+        ],
+        "background_surface": "warm_wooden_bookshelf",
+        "atmospheric": [
+          "soft_warm_bokeh"
+        ]
+      },
+      "lighting": {
+        "key_direction": "front_left",
+        "key_hardness": "soft",
+        "key_color_temp": "warm_3400K",
+        "fill_strength": "medium",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": "soft_hair_light",
+        "practical_lights": [
+          "desk_lamp_left",
+          "room_ambient"
+        ],
+        "shadow_presence": "soft",
+        "overall_contrast": "medium"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#D9603F",
+          "#7A4A2E",
+          "#3A6FB0",
+          "#E8E0D2",
+          "#2A2018"
+        ],
+        "palette_role": {
+          "#D9603F": "dominant_coral_sweater",
+          "#7A4A2E": "warm_wood_shelf",
+          "#3A6FB0": "title_card_blue_accent",
+          "#E8E0D2": "paper_card_and_wall",
+          "#2A2018": "shadow_dark"
+        },
+        "color_relationship": "warm_dominant_with_blue_accent",
+        "temperature_balance": "warm_dominant",
+        "saturation_strategy": "medium_with_coral_emphasis",
+        "contrast_type": "medium",
+        "accent_color": "#3A6FB0",
+        "accent_ratio": 0.12,
+        "brand_color_match": [
+          "#3A6FB0"
+        ]
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A warm naturalistic medium still photograph in vertical 9:16 of a young Korean woman in her late twenties seated at a cosy cluttered study desk, speaking directly to camera as a friendly explainer. She has shoulder-length wavy auburn-brown hair with soft bangs and light natural makeup, wearing a relaxed coral-orange V-neck knit sweater; she sits upright with both hands raised near her chest and her right index finger pointing upward in a 'one point' gesture, mouth slightly open mid-sentence, expression approachable and warm. Wardrobe and material: a soft coral ribbed knit sweater with visible fabric texture, a thin delicate necklace. Location and background: a warm wooden bookshelf filled with books, binders, a small desk lamp, a yellow rubber duck and assorted study props behind her, all rendered in shallow depth of field as soft warm bokeh; the desk in front holds a smartphone, a notepad, pencils and a laptop edge. Foreground and props: floating across the top of the frame is a hand-drawn paper 'title card' on off-white textured paper with a blue ruled border, reading in bold black rounded Korean sans-serif the headline 전세보증보험 토스로 더 쉽게 가입하기, with a small label CONTENT at top-left and a metadata row beneath reading SERVICE 전세보증금 반환보증, YEAR 2024, CATEGORY 부동산 / 공공서비스 / 송금, PRODUCTION TEAM #team_공공프로젝트 in fine hand-lettered text. Add a description of this composited card region as occupying the top third of the frame as a slightly tilted paper note. Lighting setup: a soft warm key light from front-left around 3400K with a gentle 2:1 key-to-fill, a soft hair rim light separating her from the background, soft shadows and medium contrast, the inviting glow of a desk-lamp-lit creator set. Lens, framing and angle: an eye-level medium shot on roughly a 35mm-equivalent lens at a moderate aperture, locked-off on a tripod, the subject centred on the rule-of-thirds with breathing room above for the title card, shallow depth of field keeping her sharp and the shelf soft. Composition and grid: presenter centred lower-middle, paper title card anchored top, warm symmetry balanced by the cool blue card border. Colour palette and strategy with HEX: dominant coral sweater (#D9603F), warm wood shelf (#7A4A2E), a cool title-card blue accent (#3A6FB0) covering about twelve percent of the frame, paper-and-wall off-white (#E8E0D2) and shadow dark (#2A2018); the coral subject pops against warm wood while the blue card border provides a single cool accent that also nods to a fintech brand colour. Texture and surfaces: soft knit coral fabric, natural skin, matte textured paper card, warm wood grain on the shelf. Atmosphere: a cosy, trustworthy study-room explainer mood, approachable and unintimidating. Post and signature look: warm naturalistic colour grade, gentle contrast, no heavy grain, no vignette, no HDR — a clean creator-video frame. Style anchor and nationality: contemporary Korean short-form creator talking-head aesthetic, friendly and informative; all on-screen Korean caption and title text preserved verbatim as written. Identity of the individual is entirely generic, described by type as a young Korean woman with no likeness of any real person or celebrity; brand logo marks are generic and only the described hand-drawn paper card text appears.",
+        "t2i_negative": "celebrity likeness, exact face replication, brand logo marks, cluttered text overlays beyond the described card, harsh studio lighting, cold color cast, HDR, wide-angle distortion",
+        "i2v_motion": "presenter speaks to camera with a light finger-raise gesture and small head movement; paper title card holds with a faint settle; locked-off framing; ~2.9s; hard cut",
+        "i2v_params": {
+          "clip_duration_sec": 2.87,
+          "camera_move": "locked_off",
+          "subject_motion_level": "low_talking_gesture",
+          "signature_effect": "paper_title_card",
+          "pacing": "medium",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; title card 전세보증보험 토스로 더 쉽게 가입하기 + metadata preserved verbatim; identity/logo generic"
+      }
+    },
+    {
+      "index": 6,
+      "duration": 9.61,
+      "framing": "top_down_phone_demo",
+      "function": "product_navigate_ui",
+      "subject_action": "locked overhead screen recording: the Toss app 'All' menu is shown on a phone lying on a dark desk, a finger scrolls and taps into the recent service list toward the jeonse guarantee product",
+      "layout_grid": "centered_phone_on_dark_desk",
+      "subject_position": "center",
+      "typo_motion": "static_subtitle_pill",
+      "camera_angle": "top_down",
+      "camera_facing": "screen_up",
+      "shot_scope": "phone_screen_fill",
+      "gaze": "none",
+      "props": [
+        "phone_on_dark_desk",
+        "finger_tapping_ui",
+        "toss_all_menu_screen"
+      ],
+      "color_palette": [
+        "#FFFFFF",
+        "#1A1A1A",
+        "#3A6FB0",
+        "#6B6660",
+        "#E6C84A"
+      ],
+      "color_intent": "clean_white_app_on_dark_desk",
+      "pose_description": "a single index finger enters from the bottom to scroll and tap the recent-services list",
+      "subject_motion": "finger_scroll_and_tap",
+      "camera_motion": "locked_off_overhead",
+      "camera_effect_local": "screen_self_lit",
+      "intra_cut_rhythm": "steady",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "mid_frame_path": "ADV-2026-024_frames/cut06_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "phone_with_toss_menu",
+          "finger_touch"
+        ],
+        "midground": [
+          "dark_leather_desk_surface"
+        ],
+        "background": [
+          "yellow_sticky_note_corner",
+          "desk_edge"
+        ],
+        "lighting_env": [
+          "screen_self_lit",
+          "soft_room_ambient"
+        ],
+        "atmosphere": [
+          "clean_digital_demo",
+          "calm_focused"
+        ]
+      },
+      "texture": {
+        "primary_subject": "glossy_glass_touchscreen",
+        "secondary_objects": [
+          "matte_phone_frame"
+        ],
+        "background_surface": "dark_pebbled_leather",
+        "atmospheric": [
+          "subtle_screen_glow"
+        ]
+      },
+      "lighting": {
+        "key_direction": "screen_self_emit_plus_top_ambient",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_6000K",
+        "fill_strength": "medium",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": "none",
+        "practical_lights": [
+          "phone_screen",
+          "room_ceiling"
+        ],
+        "shadow_presence": "soft_under_phone",
+        "overall_contrast": "medium"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#FFFFFF",
+          "#1A1A1A",
+          "#3A6FB0",
+          "#6B6660",
+          "#E6C84A"
+        ],
+        "palette_role": {
+          "#FFFFFF": "app_background_white",
+          "#1A1A1A": "ui_text_and_desk_dark",
+          "#3A6FB0": "toss_blue_icon_accent",
+          "#6B6660": "desk_leather_grey_brown",
+          "#E6C84A": "sticky_note_yellow_accent"
+        },
+        "color_relationship": "white_ui_on_dark_neutral_with_blue_accent",
+        "temperature_balance": "neutral",
+        "saturation_strategy": "low_clean_ui_with_blue_pop",
+        "contrast_type": "high_screen_on_dark",
+        "accent_color": "#3A6FB0",
+        "accent_ratio": 0.1,
+        "brand_color_match": [
+          "#3A6FB0"
+        ]
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A locked-off top-down still photograph in vertical 9:16 of a modern dark-framed smartphone lying flat on a dark pebbled leather desk, its bright screen filling most of the frame and displaying a clean white fintech super-app 'All services' menu in Korean. The scene's only human element is a single index finger entering from the lower frame to interact with the list. Wardrobe and material: only a fingertip and the matte dark phone frame with glossy glass are visible; no face or body. Location and background: an even, dark grey-brown leather desk surrounds the phone with generous negative space, a corner of a yellow sticky note peeking at the top-left edge. Foreground and props: the phone screen dominates; describe the on-screen UI as a white app screen with a bold title 전체 at the top-left, a search and gear icon at the top-right, a row of three shortcut tiles labelled 토스뱅크, 토스증권, 고객센터, then a list of rows reading 보안과 인증, 내 신용점수, 내 통신 요금, 진행 중인 이벤트, then a section header 최근 with rows 전세보증금 반환보증, 자동이체, 숨은 정부지원금 찾기, 증명서 발급하기, and a bottom tab bar with 홈, 혜택, 토스페이, 주식, 전체; a status bar shows 11:41 and a 5G indicator. The finger is mid-scroll near the recent list. Lighting setup: the screen self-illuminates at a neutral 6000K, combined with soft top room ambient, gentle 2:1 key-to-fill, a soft contact shadow beneath the phone, no rim light, medium contrast with the bright screen reading high against the dark desk. Lens, framing and angle: a straight top-down locked-off angle on roughly a 35mm-equivalent lens, the phone centred and parallel to the frame, shallow but sufficient depth so the screen text is crisp. Composition and grid: a single centred phone on a dark field, even margins, the eye led straight to the white UI; a dark rounded subtitle pill sits in the lower third. Colour palette and strategy with HEX: app background white (#FFFFFF), UI text and desk dark (#1A1A1A), a fintech blue icon and accent (#3A6FB0) on about ten percent of the frame, desk leather grey-brown (#6B6660) and a small sticky-note yellow accent (#E6C84A); the clean white UI with a single blue accent reads crisply on the neutral dark desk. Texture and surfaces: glossy glass touchscreen, matte phone frame, dark pebbled leather grain, paper sticky note. Atmosphere: a calm, clean, trustworthy digital walkthrough mood. Post and signature look: neutral clean grade, no grain, no vignette, no HDR, a believable screen-capture-on-desk frame. Style anchor and nationality: contemporary Korean fintech app screen-recording tutorial aesthetic; all on-screen Korean UI text preserved verbatim. The lower-third dark rounded caption pill reads exactly '전체 탭'에서 in white Korean text. Identity is not applicable as no person's face appears; brand logo marks are rendered generically as simple coloured tiles and the app is treated as a generic clean fintech interface with the described Korean labels. Additional production context: this is the first screen-recording beat of a long locked-overhead walkthrough, so the phone must sit perfectly flat and centred with consistent framing that will be held across many subsequent UI screens; the only motion is the finger scrolling and a slight content shift, and there is no camera move at all, reinforcing the calm tutorial register; the white interface should read cleanly and legibly against the dark leather, with the single fintech blue tile colour as the sole saturated accent and the small yellow sticky-note corner adding a touch of real-desk texture; the look should feel like an authentic phone screen capture composited onto a real desk rather than a synthetic mockup, with crisp on-screen Korean typography and no glare, reflections or distortion obscuring any of the menu labels.",
+        "t2i_negative": "face, body, celebrity, exact brand logo replication, heavy grain, color cast, glare obscuring text, HDR, wide-angle distortion",
+        "i2v_motion": "finger scrolls the recent-services list and taps 전세보증금 반환보증; subtle screen content shift; dark caption pill '전체 탭'에서 holds in lower third; locked-off; ~9.6s; hard cut",
+        "i2v_params": {
+          "clip_duration_sec": 9.61,
+          "camera_move": "locked_off",
+          "subject_motion_level": "low_finger_scroll_tap",
+          "signature_effect": "screen_ui_recording",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen UI labels and caption '전체 탭'에서 preserved verbatim; brand marks generic"
+      }
+    },
+    {
+      "index": 7,
+      "duration": 7.14,
+      "framing": "top_down_phone_demo",
+      "function": "product_detail_conditions",
+      "subject_action": "the jeonse guarantee product page opens and is scrolled through its benefits and eligibility conditions, then the enrollment question screen appears",
+      "layout_grid": "centered_phone_on_dark_desk",
+      "subject_position": "center",
+      "typo_motion": "static_subtitle_pill",
+      "camera_angle": "top_down",
+      "camera_facing": "screen_up",
+      "shot_scope": "phone_screen_fill",
+      "gaze": "none",
+      "props": [
+        "phone_on_dark_desk",
+        "finger_tapping_ui",
+        "product_detail_screen"
+      ],
+      "color_palette": [
+        "#FFFFFF",
+        "#1A1A1A",
+        "#3A8DDE",
+        "#6B6660",
+        "#1A1A1A"
+      ],
+      "color_intent": "clean_white_app_with_blue_cta",
+      "pose_description": "an index finger scrolls the product page and points at the benefit bullets and the blue action button",
+      "subject_motion": "finger_scroll_point",
+      "camera_motion": "locked_off_overhead",
+      "camera_effect_local": "screen_self_lit",
+      "intra_cut_rhythm": "steady",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "mid_frame_path": "ADV-2026-024_frames/cut07_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "phone_with_product_page",
+          "finger_touch"
+        ],
+        "midground": [
+          "dark_leather_desk_surface"
+        ],
+        "background": [
+          "yellow_sticky_note_corner",
+          "desk_edge"
+        ],
+        "lighting_env": [
+          "screen_self_lit",
+          "soft_room_ambient"
+        ],
+        "atmosphere": [
+          "clean_digital_demo",
+          "informative"
+        ]
+      },
+      "texture": {
+        "primary_subject": "glossy_glass_touchscreen",
+        "secondary_objects": [
+          "matte_phone_frame"
+        ],
+        "background_surface": "dark_pebbled_leather",
+        "atmospheric": [
+          "subtle_screen_glow"
+        ]
+      },
+      "lighting": {
+        "key_direction": "screen_self_emit_plus_top_ambient",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_6000K",
+        "fill_strength": "medium",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": "none",
+        "practical_lights": [
+          "phone_screen",
+          "room_ceiling"
+        ],
+        "shadow_presence": "soft_under_phone",
+        "overall_contrast": "medium"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#FFFFFF",
+          "#1A1A1A",
+          "#3A8DDE",
+          "#6B6660",
+          "#9FB4C8"
+        ],
+        "palette_role": {
+          "#FFFFFF": "app_background_white",
+          "#1A1A1A": "ui_text_dark",
+          "#3A8DDE": "blue_cta_button",
+          "#6B6660": "desk_leather",
+          "#9FB4C8": "secondary_icon_blue"
+        },
+        "color_relationship": "white_ui_with_blue_cta_on_dark_desk",
+        "temperature_balance": "neutral",
+        "saturation_strategy": "low_clean_with_blue_cta_pop",
+        "contrast_type": "high_screen_on_dark",
+        "accent_color": "#3A8DDE",
+        "accent_ratio": 0.12,
+        "brand_color_match": [
+          "#3A8DDE"
+        ]
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A locked-off top-down still photograph in vertical 9:16 of a dark-framed smartphone lying flat on a dark pebbled leather desk, its bright screen filling the frame and showing a clean white Korean fintech insurance product detail page. The only human element is a single index finger entering from the lower frame to scroll and point. Wardrobe and material: only a fingertip and the matte dark phone with glossy glass are visible; no face or body. Location and background: an even dark grey-brown leather desk surrounds the phone with generous negative space and a yellow sticky note corner at the top-left edge. Foreground and props: the phone screen dominates; describe the on-screen UI as a white product page with a small app icon, a category line 전세보증금반환 보증보험, a bold headline 더 저렴한 곳이 있다면 보상해드려요, a subhead HUG의 보증보험 중 가장 저렴해요, two numbered benefit rows reading 보증료 3% 할인과 and 15,000원까지 드려요 with a sub-line 가입하면 토스포인트로 적립, a closing line 쉽게 가입하고 안전하게 지켜요, and a full-width blue rounded button 신청하기 at the bottom; on scroll it reveals an eligibility section 아래 조건을 모두 만족하면 가입할 수 있어요 with bullet conditions about 아파트·다세대빌라·주거용 오피스텔, 명의, 전입신고 and 확정일자, and later an enrollment question screen 보증보험을 신청하는 집으로 전세대출을 받았나요? with 네 / 아니요 options. The finger points near the benefit bullets and the blue button. Lighting setup: the screen self-illuminates at neutral 6000K with soft top room ambient, gentle 2:1 key-to-fill, a soft contact shadow under the phone, no rim light, medium contrast with the white UI reading high against the dark desk. Lens, framing and angle: a straight top-down locked-off angle on roughly a 35mm-equivalent lens, the phone centred and parallel to the frame, depth sufficient for crisp screen text. Composition and grid: a single centred phone on a dark field with even margins, attention guided to the headline and blue button; a dark rounded subtitle pill sits in the lower third. Colour palette and strategy with HEX: app background white (#FFFFFF), UI text dark (#1A1A1A), a blue call-to-action button (#3A8DDE) on about twelve percent of the frame, desk leather grey-brown (#6B6660) and secondary icon blue (#9FB4C8); the clean white UI with a saturated blue CTA pops against the neutral dark desk. Texture and surfaces: glossy glass touchscreen, matte phone frame, dark pebbled leather grain, paper sticky note. Atmosphere: an informative, reassuring digital walkthrough mood. Post and signature look: neutral clean grade, no grain, no vignette, no HDR, a believable screen-capture-on-desk frame. Style anchor and nationality: contemporary Korean fintech app screen-recording tutorial aesthetic; all on-screen Korean UI text preserved verbatim. The lower-third dark rounded caption pill reads exactly '전세보증금 반환보증'을 선택해주세요 in white Korean text. Identity is not applicable as no face appears; brand logo marks are rendered generically and the app treated as a generic clean fintech interface with the described Korean labels. Additional production context: this beat continues the locked-overhead screen recording with the phone in the identical flat centred position, so framing and lighting must match the previous menu shot exactly for seamless continuity; the only movement is the finger scrolling the product page, with no camera move; the white product UI should read crisply against the dark leather desk, the saturated blue call-to-action button serving as the single strong colour accent while the small yellow sticky-note corner keeps the real-desk texture; the rendering should feel like a genuine phone screen capture composited onto an actual surface rather than a flat synthetic mockup, with legible Korean typography for the headline, benefit bullets and eligibility conditions and no glare, reflection or warp distorting the numbers or the button text.",
+        "t2i_negative": "face, body, celebrity, exact brand logo replication, heavy grain, color cast, glare obscuring text, HDR, distortion",
+        "i2v_motion": "finger scrolls the product page through benefits and eligibility, then the 네/아니요 question appears; dark caption pill '전세보증금 반환보증'을 선택해주세요 holds; locked-off; ~7.1s; hard cut",
+        "i2v_params": {
+          "clip_duration_sec": 7.14,
+          "camera_move": "locked_off",
+          "subject_motion_level": "low_finger_scroll",
+          "signature_effect": "screen_ui_recording",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen UI text and caption preserved verbatim; brand marks generic"
+      }
+    },
+    {
+      "index": 8,
+      "duration": 7.67,
+      "framing": "top_down_phone_demo",
+      "function": "form_input_property_contract",
+      "subject_action": "the user enters the property type, searches the address, types the dong/ho number, the deposit amount and the contract start date across a series of input screens",
+      "layout_grid": "centered_phone_on_dark_desk",
+      "subject_position": "center",
+      "typo_motion": "static_subtitle_pill",
+      "camera_angle": "top_down",
+      "camera_facing": "screen_up",
+      "shot_scope": "phone_screen_fill",
+      "gaze": "none",
+      "props": [
+        "phone_on_dark_desk",
+        "finger_typing_keypad",
+        "input_form_screens"
+      ],
+      "color_palette": [
+        "#FFFFFF",
+        "#1A1A1A",
+        "#3A8DDE",
+        "#6B6660",
+        "#9FB4C8"
+      ],
+      "color_intent": "clean_white_form_with_blue_progress",
+      "pose_description": "an index finger taps options and a numeric keypad to fill the form fields",
+      "subject_motion": "finger_tap_type",
+      "camera_motion": "locked_off_overhead",
+      "camera_effect_local": "screen_self_lit",
+      "intra_cut_rhythm": "steady",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "mid_frame_path": "ADV-2026-024_frames/cut08_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "phone_with_input_form",
+          "finger_on_keypad"
+        ],
+        "midground": [
+          "dark_leather_desk_surface"
+        ],
+        "background": [
+          "yellow_sticky_note_corner",
+          "desk_edge"
+        ],
+        "lighting_env": [
+          "screen_self_lit",
+          "soft_room_ambient"
+        ],
+        "atmosphere": [
+          "clean_digital_demo",
+          "task_focused"
+        ]
+      },
+      "texture": {
+        "primary_subject": "glossy_glass_touchscreen",
+        "secondary_objects": [
+          "matte_phone_frame"
+        ],
+        "background_surface": "dark_pebbled_leather",
+        "atmospheric": [
+          "subtle_screen_glow"
+        ]
+      },
+      "lighting": {
+        "key_direction": "screen_self_emit_plus_top_ambient",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_6000K",
+        "fill_strength": "medium",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": "none",
+        "practical_lights": [
+          "phone_screen",
+          "room_ceiling"
+        ],
+        "shadow_presence": "soft_under_phone",
+        "overall_contrast": "medium"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#FFFFFF",
+          "#1A1A1A",
+          "#3A8DDE",
+          "#6B6660",
+          "#9FB4C8"
+        ],
+        "palette_role": {
+          "#FFFFFF": "form_background_white",
+          "#1A1A1A": "input_text_dark",
+          "#3A8DDE": "blue_progress_and_next_button",
+          "#6B6660": "desk_leather",
+          "#9FB4C8": "keypad_field_tint"
+        },
+        "color_relationship": "white_form_with_blue_progress_on_dark_desk",
+        "temperature_balance": "neutral",
+        "saturation_strategy": "low_clean_with_blue_pop",
+        "contrast_type": "high_screen_on_dark",
+        "accent_color": "#3A8DDE",
+        "accent_ratio": 0.12,
+        "brand_color_match": [
+          "#3A8DDE"
+        ]
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A locked-off top-down still photograph in vertical 9:16 of a dark-framed smartphone lying flat on a dark pebbled leather desk, its bright screen filling the frame and showing a clean white Korean fintech multi-step input form with a blue progress bar near the top. The only human element is a single index finger entering from the lower frame to tap options and a numeric keypad. Wardrobe and material: only a fingertip and the matte dark phone with glossy glass are visible; no face or body. Location and background: an even dark grey-brown leather desk surrounds the phone with generous negative space and a yellow sticky note corner at the top-left edge. Foreground and props: the phone screen dominates; describe a sequence of on-screen form steps as a white app with a thin blue progress bar and a back chevron, including a house-type question 보증보험을 신청하는 주택 유형은 무엇인가요? with options 아파트, 오피스텔(주거용), 빌라·다세대·연립; an address search screen 보증보험을 신청할 주택을 검색해주세요 with a placeholder 주소 또는 아파트, 건물명 and a Korean keyboard; a unit-entry screen 주택의 동호수를 입력해주세요 showing 경기도 화성시 기산동 행복마을 with fields 113 동 and 503 호 over a numeric keypad with a blue 다음 button; a deposit-amount screen 보증 금액을 입력해주세요 최대 7억원까지만 가능해요 with 주택 가격 30,000 만원 (3억원); and a contract-date screen 계약 시작일을 입력해주세요 부동산 계약서 상 날짜와 일치해야해요 with 계약 시작일 2024. 02. 23 and a blue 다음 button. The finger is mid-tap on the keypad. Lighting setup: the screen self-illuminates at neutral 6000K with soft top room ambient, gentle 2:1 key-to-fill, a soft contact shadow under the phone, no rim light, medium contrast with the white UI reading high against the dark desk. Lens, framing and angle: a straight top-down locked-off angle on roughly a 35mm-equivalent lens, the phone centred and parallel, depth sufficient for crisp screen text and keypad digits. Composition and grid: a single centred phone on a dark field with even margins, the eye led to the active field and blue progress bar; a dark rounded subtitle pill sits in the lower third. Colour palette and strategy with HEX: form background white (#FFFFFF), input text dark (#1A1A1A), a blue progress and next button (#3A8DDE) on about twelve percent of the frame, desk leather grey-brown (#6B6660) and a pale keypad field tint (#9FB4C8); clean white with a single saturated blue against the neutral dark desk. Texture and surfaces: glossy glass touchscreen, matte phone frame, dark pebbled leather grain, paper sticky note. Atmosphere: a focused, methodical form-filling mood, calm and clear. Post and signature look: neutral clean grade, no grain, no vignette, no HDR, a believable screen-capture-on-desk frame. Style anchor and nationality: contemporary Korean fintech app screen-recording tutorial aesthetic; all on-screen Korean UI text and numbers preserved verbatim. The lower-third dark rounded caption pill reads exactly 가입할 주택의 유형 or, later in the cut, 주소를 입력해주세요 in white Korean text. Identity is not applicable as no face appears; brand logo marks are generic and the app is a generic clean fintech interface with the described Korean labels.",
+        "t2i_negative": "face, body, celebrity, exact brand logo replication, heavy grain, color cast, glare obscuring text, HDR, distortion, fabricated readable personal data",
+        "i2v_motion": "finger selects the house type, types the address, the 동/호 (113동 503호) and deposit (30,000만원), then the date screen appears; dark caption pill cycles 가입할 주택의 유형 then 주소를 입력해주세요; locked-off; ~7.7s; hard cut",
+        "i2v_params": {
+          "clip_duration_sec": 7.67,
+          "camera_move": "locked_off",
+          "subject_motion_level": "low_finger_type",
+          "signature_effect": "screen_ui_recording",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen UI text/numbers and captions preserved verbatim; brand marks generic"
+      }
+    },
+    {
+      "index": 9,
+      "duration": 3.77,
+      "framing": "top_down_phone_demo",
+      "function": "estimated_premium_reveal",
+      "subject_action": "the estimated premium summary appears, showing the discounted premium, base premium, discount amount and the Toss base discount line",
+      "layout_grid": "centered_phone_on_dark_desk",
+      "subject_position": "center",
+      "typo_motion": "static_subtitle_pill",
+      "camera_angle": "top_down",
+      "camera_facing": "screen_up",
+      "shot_scope": "phone_screen_fill",
+      "gaze": "none",
+      "props": [
+        "phone_on_dark_desk",
+        "premium_summary_screen"
+      ],
+      "color_palette": [
+        "#FFFFFF",
+        "#1A1A1A",
+        "#3A8DDE",
+        "#6B6660",
+        "#9FB4C8"
+      ],
+      "color_intent": "clean_white_summary_with_blue_figures",
+      "pose_description": "the phone rests still as the premium summary is displayed, no finger interaction",
+      "subject_motion": "static_screen_hold",
+      "camera_motion": "locked_off_overhead",
+      "camera_effect_local": "screen_self_lit",
+      "intra_cut_rhythm": "calm_hold",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "mid_frame_path": "ADV-2026-024_frames/cut09_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "phone_with_premium_summary"
+        ],
+        "midground": [
+          "dark_leather_desk_surface"
+        ],
+        "background": [
+          "yellow_sticky_note_corner",
+          "desk_edge"
+        ],
+        "lighting_env": [
+          "screen_self_lit",
+          "soft_room_ambient"
+        ],
+        "atmosphere": [
+          "clean_digital_demo",
+          "reassuring_value"
+        ]
+      },
+      "texture": {
+        "primary_subject": "glossy_glass_touchscreen",
+        "secondary_objects": [
+          "matte_phone_frame"
+        ],
+        "background_surface": "dark_pebbled_leather",
+        "atmospheric": [
+          "subtle_screen_glow"
+        ]
+      },
+      "lighting": {
+        "key_direction": "screen_self_emit_plus_top_ambient",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_6000K",
+        "fill_strength": "medium",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": "none",
+        "practical_lights": [
+          "phone_screen",
+          "room_ceiling"
+        ],
+        "shadow_presence": "soft_under_phone",
+        "overall_contrast": "medium"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#FFFFFF",
+          "#1A1A1A",
+          "#3A8DDE",
+          "#6B6660",
+          "#9FB4C8"
+        ],
+        "palette_role": {
+          "#FFFFFF": "summary_background_white",
+          "#1A1A1A": "figure_text_dark",
+          "#3A8DDE": "blue_discount_figures",
+          "#6B6660": "desk_leather",
+          "#9FB4C8": "progress_bar_blue"
+        },
+        "color_relationship": "white_summary_with_blue_numbers_on_dark_desk",
+        "temperature_balance": "neutral",
+        "saturation_strategy": "low_clean_with_blue_number_pop",
+        "contrast_type": "high_screen_on_dark",
+        "accent_color": "#3A8DDE",
+        "accent_ratio": 0.1,
+        "brand_color_match": [
+          "#3A8DDE"
+        ]
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A locked-off top-down still photograph in vertical 9:16 of a dark-framed smartphone lying flat on a dark pebbled leather desk, its bright screen filling the frame and showing a clean white Korean fintech estimated-premium summary, the phone resting still with no finger touching it. Wardrobe and material: only the matte dark phone with glossy glass is visible; no human, no face. Location and background: an even dark grey-brown leather desk surrounds the phone with generous negative space and a yellow sticky note corner at the top-left edge. Foreground and props: the phone screen dominates; describe the on-screen UI as a white summary page with a near-complete blue progress bar at top, a large heading 예상 보증료 with the figure 399,230원, then a breakdown list reading 기본 보증료 412,405원, 할인 금액 -13,175원, 토스 기본 할인 -3%, a fine-print note 입력한 정보를 바탕으로 예상 보증료를 계산했으며, 실제 보증료는 심사 후 확인이 가능해요, and a full-width blue button 입력 내역 보기 at the bottom; the blue figures and discount lines stand out. Lighting setup: the screen self-illuminates at neutral 6000K with soft top room ambient, gentle 2:1 key-to-fill, a soft contact shadow under the phone, no rim light, medium contrast with the white UI reading high against the dark desk. Lens, framing and angle: a straight top-down locked-off angle on roughly a 35mm-equivalent lens, the phone centred and parallel, depth sufficient for crisp figures. Composition and grid: a single centred phone on a dark field with even margins, attention pulled to the large premium figure and the blue discount lines; a dark rounded subtitle pill sits in the lower third. Colour palette and strategy with HEX: summary background white (#FFFFFF), figure text dark (#1A1A1A), blue discount figures and progress (#3A8DDE) on about ten percent of the frame, desk leather grey-brown (#6B6660) and pale progress-bar blue (#9FB4C8); clean white with crisp blue numbers against the neutral dark desk. Texture and surfaces: glossy glass touchscreen, matte phone frame, dark pebbled leather grain, paper sticky note. Atmosphere: a reassuring 'here is your price' value moment, calm and clear. Post and signature look: neutral clean grade, no grain, no vignette, no HDR, a believable screen-capture-on-desk frame. Style anchor and nationality: contemporary Korean fintech app screen-recording tutorial aesthetic; all on-screen Korean UI text and figures preserved verbatim. The lower-third dark rounded caption pill reads exactly 이렇게 예상 보증료를 확인할 수 있는데요 in white Korean text. Identity is not applicable as no face appears; brand logo marks are generic and the app is a generic clean fintech interface with the described Korean labels. Additional production context: this is a calm hold beat in the locked-overhead screen recording, so the phone stays in the same flat centred position with no finger and no camera move, letting the viewer rest on the headline figure; framing and lighting must match the surrounding screen shots exactly for continuity. The composition should let the large discounted premium number 399,230원 dominate the upper third of the screen, with the smaller breakdown rows reading clearly beneath it and the blue figures drawing the eye to the savings; the fine-print disclaimer line should be legible but quiet. The white summary must read crisply against the dark leather desk with the blue numbers as the single saturated accent and the small yellow sticky-note corner adding real-desk texture. The rendering should feel like a genuine phone screen capture composited onto an actual surface rather than a synthetic mockup, with no glare, reflection or warp distorting any of the figures, and the overall mood should communicate reassurance and transparency about the price rather than urgency. The near-complete blue progress bar at the top should subtly signal that the enrollment is almost finished, reinforcing momentum toward the document and payment steps that follow.",
+        "t2i_negative": "face, body, celebrity, exact brand logo replication, heavy grain, color cast, glare obscuring text, HDR, distortion, fabricated readable personal data",
+        "i2v_motion": "the premium summary holds on screen with the figures settling in; no finger; dark caption pill 이렇게 예상 보증료를 확인할 수 있는데요 holds; locked-off; ~3.8s; hard cut",
+        "i2v_params": {
+          "clip_duration_sec": 3.77,
+          "camera_move": "locked_off",
+          "subject_motion_level": "static_hold",
+          "signature_effect": "screen_ui_recording",
+          "pacing": "calm",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen figures and caption preserved verbatim; brand marks generic"
+      }
+    },
+    {
+      "index": 10,
+      "duration": 2.3,
+      "framing": "top_down_phone_demo",
+      "function": "review_then_document_step",
+      "subject_action": "the application review screen is checked and confirmed, then the document-submission screen appears listing the required certificates",
+      "layout_grid": "centered_phone_on_dark_desk",
+      "subject_position": "center",
+      "typo_motion": "static_subtitle_pill",
+      "camera_angle": "top_down",
+      "camera_facing": "screen_up",
+      "shot_scope": "phone_screen_fill",
+      "gaze": "none",
+      "props": [
+        "phone_on_dark_desk",
+        "review_screen",
+        "document_list_screen"
+      ],
+      "color_palette": [
+        "#FFFFFF",
+        "#1A1A1A",
+        "#3A8DDE",
+        "#6B6660",
+        "#9FB4C8"
+      ],
+      "color_intent": "clean_white_review_with_blue_confirm",
+      "pose_description": "a finger taps the blue confirm button moving from review into the document list",
+      "subject_motion": "finger_tap_confirm",
+      "camera_motion": "locked_off_overhead",
+      "camera_effect_local": "screen_self_lit",
+      "intra_cut_rhythm": "steady",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "mid_frame_path": "ADV-2026-024_frames/cut10_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "phone_with_review_screen",
+          "finger_touch"
+        ],
+        "midground": [
+          "dark_leather_desk_surface"
+        ],
+        "background": [
+          "yellow_sticky_note_corner",
+          "desk_edge"
+        ],
+        "lighting_env": [
+          "screen_self_lit",
+          "soft_room_ambient"
+        ],
+        "atmosphere": [
+          "clean_digital_demo",
+          "careful_review"
+        ]
+      },
+      "texture": {
+        "primary_subject": "glossy_glass_touchscreen",
+        "secondary_objects": [
+          "matte_phone_frame"
+        ],
+        "background_surface": "dark_pebbled_leather",
+        "atmospheric": [
+          "subtle_screen_glow"
+        ]
+      },
+      "lighting": {
+        "key_direction": "screen_self_emit_plus_top_ambient",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_6000K",
+        "fill_strength": "medium",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": "none",
+        "practical_lights": [
+          "phone_screen",
+          "room_ceiling"
+        ],
+        "shadow_presence": "soft_under_phone",
+        "overall_contrast": "medium"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#FFFFFF",
+          "#1A1A1A",
+          "#3A8DDE",
+          "#6B6660",
+          "#9FB4C8"
+        ],
+        "palette_role": {
+          "#FFFFFF": "review_background_white",
+          "#1A1A1A": "detail_text_dark",
+          "#3A8DDE": "blue_confirm_button",
+          "#6B6660": "desk_leather",
+          "#9FB4C8": "attach_chip_blue"
+        },
+        "color_relationship": "white_review_with_blue_confirm_on_dark_desk",
+        "temperature_balance": "neutral",
+        "saturation_strategy": "low_clean_with_blue_pop",
+        "contrast_type": "high_screen_on_dark",
+        "accent_color": "#3A8DDE",
+        "accent_ratio": 0.12,
+        "brand_color_match": [
+          "#3A8DDE"
+        ]
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A locked-off top-down still photograph in vertical 9:16 of a dark-framed smartphone lying flat on a dark pebbled leather desk, its bright screen filling the frame and showing a clean white Korean fintech application-review screen, with a single index finger entering from the lower frame to tap the confirm button. Wardrobe and material: only a fingertip and the matte dark phone with glossy glass are visible; no face or body. Location and background: an even dark grey-brown leather desk surrounds the phone with generous negative space and a yellow sticky note corner at the top-left edge. Foreground and props: the phone screen dominates; describe the on-screen UI as a white review page headed 신청 내용을 확인해주세요 with a subhead 아래 내용 확인 후 심사를 신청해주세요, a section 보증대상 listing 주소 경기도 화성시 기산동 (further address blurred), 주택유형 아파트, 전용면적 119.45㎡, 보증금 3억원, 계약기간 2024. 02. 23 ~ 2025. 02. 22, a row 보증대상 변경, and a full-width blue button 확인; the cut then transitions to a document-submission screen headed 서류를 제출해 주세요 with a D-5 badge, a line 2024-02-28 (수) 오후 11시 까지 제출해주세요, a row 토스 주민센터로 발급받기, and a 기본 서류 list of 확정일자부 임대차계약서, 보증금완납영수증, 주민등록등본, 전입세대확인서 (도로명), 전입세대확인서 (지번) each with a blue 첨부 chip, and a 제출하기 button. The finger is mid-tap on the blue 확인. Lighting setup: the screen self-illuminates at neutral 6000K with soft top room ambient, gentle 2:1 key-to-fill, a soft contact shadow under the phone, no rim light, medium contrast with the white UI reading high against the dark desk. Lens, framing and angle: a straight top-down locked-off angle on roughly a 35mm-equivalent lens, the phone centred and parallel, depth sufficient for crisp text. Composition and grid: a single centred phone on a dark field with even margins, attention led to the review details and the blue button; a dark rounded subtitle pill sits in the lower third. Colour palette and strategy with HEX: review background white (#FFFFFF), detail text dark (#1A1A1A), blue confirm button (#3A8DDE) on about twelve percent of the frame, desk leather grey-brown (#6B6660) and attach-chip blue (#9FB4C8); clean white with a single saturated blue against the neutral dark desk. Texture and surfaces: glossy glass touchscreen, matte phone frame, dark pebbled leather grain, paper sticky note. Atmosphere: a careful double-checking mood before submission, calm and methodical. Post and signature look: neutral clean grade, no grain, no vignette, no HDR, a believable screen-capture-on-desk frame. Style anchor and nationality: contemporary Korean fintech app screen-recording tutorial aesthetic; all on-screen Korean UI text and figures preserved verbatim. The lower-third dark rounded caption pill reads exactly 신청 내용을 꼼꼼하게 체크하고 then, on transition, 이제 서류 제출 단계만 남았습니다 in white Korean text. Identity is not applicable as no face appears; brand logo marks are generic and the app is a generic clean fintech interface with the described Korean labels. Additional production context: this beat continues the locked-overhead screen recording with the phone in the identical flat centred position, so framing and lighting must match the neighbouring screens exactly for seamless continuity; the only motion is a single finger tap on the blue 확인 button and the screen transition to the document list, with no camera move. The white review and document-list interfaces should read crisply against the dark leather desk, with the saturated blue button and the small blue attach chips as the only strong colour accents and the yellow sticky-note corner keeping the real-desk texture; any personal address detail beyond the district should appear lightly blurred exactly as in the source. The rendering should feel like a genuine phone screen capture composited onto a real surface rather than a synthetic mockup, with legible Korean typography across the review fields and the document names and no glare, reflection or warp distorting the text.",
+        "t2i_negative": "face, body, celebrity, exact brand logo replication, heavy grain, color cast, glare obscuring text, HDR, distortion, fabricated readable personal data",
+        "i2v_motion": "finger taps 확인 on the review screen, then the document-submission list appears; dark caption pill 신청 내용을 꼼꼼하게 체크하고 then 이제 서류 제출 단계만 남았습니다 holds; locked-off; ~2.3s; hard cut",
+        "i2v_params": {
+          "clip_duration_sec": 2.3,
+          "camera_move": "locked_off",
+          "subject_motion_level": "low_finger_tap",
+          "signature_effect": "screen_ui_recording",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen UI text and captions preserved verbatim; brand marks generic; further address digits blurred as in source"
+      }
+    },
+    {
+      "index": 11,
+      "duration": 1.0,
+      "framing": "MS",
+      "function": "presenter_b_roll_emphasis",
+      "subject_action": "a quick cut to the presenter holding the phone up in one hand and pointing at it with the other, emphasizing that certificates can be issued in Toss",
+      "layout_grid": "rule_of_thirds_center_presenter",
+      "subject_position": "center",
+      "typo_motion": "static_subtitle_pill",
+      "camera_angle": "eye_level",
+      "camera_facing": "front",
+      "shot_scope": "medium_shot_seated_presenter",
+      "gaze": "to_camera",
+      "props": [
+        "smartphone_in_hand",
+        "desk_with_props",
+        "bookshelf_background"
+      ],
+      "color_palette": [
+        "#D9603F",
+        "#7A4A2E",
+        "#2A2018",
+        "#E8E0D2",
+        "#C9A24A"
+      ],
+      "color_intent": "warm_room_with_coral_subject",
+      "pose_description": "holds the phone up in the left hand near the shoulder and points at it with the right index finger while speaking",
+      "subject_motion": "talking_point_at_phone",
+      "camera_motion": "locked_off_tripod",
+      "camera_effect_local": "shallow_dof_warm_bokeh_bg",
+      "intra_cut_rhythm": "snappy",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "mid_frame_path": "ADV-2026-024_frames/cut11_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "seated_presenter_coral_sweater",
+          "phone_held_in_hand"
+        ],
+        "midground": [
+          "desk_edge_with_props"
+        ],
+        "background": [
+          "wooden_bookshelf",
+          "microscope_and_duck_props"
+        ],
+        "lighting_env": [
+          "warm_key_light_left",
+          "soft_room_ambient"
+        ],
+        "atmosphere": [
+          "cozy_study_explainer",
+          "emphatic_point"
+        ]
+      },
+      "texture": {
+        "primary_subject": "soft_knit_coral_sweater_natural_skin",
+        "secondary_objects": [
+          "matte_phone_in_hand",
+          "wood_shelf_grain"
+        ],
+        "background_surface": "warm_wooden_bookshelf",
+        "atmospheric": [
+          "soft_warm_bokeh"
+        ]
+      },
+      "lighting": {
+        "key_direction": "front_left",
+        "key_hardness": "soft",
+        "key_color_temp": "warm_3400K",
+        "fill_strength": "medium",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": "soft_hair_light",
+        "practical_lights": [
+          "desk_lamp_left",
+          "room_ambient"
+        ],
+        "shadow_presence": "soft",
+        "overall_contrast": "medium"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#D9603F",
+          "#7A4A2E",
+          "#2A2018",
+          "#E8E0D2",
+          "#C9A24A"
+        ],
+        "palette_role": {
+          "#D9603F": "dominant_coral_sweater",
+          "#7A4A2E": "warm_wood_shelf",
+          "#2A2018": "shadow_dark",
+          "#E8E0D2": "wall_off_white",
+          "#C9A24A": "yellow_duck_prop_accent"
+        },
+        "color_relationship": "warm_dominant_with_yellow_accent",
+        "temperature_balance": "warm_dominant",
+        "saturation_strategy": "medium_with_coral_emphasis",
+        "contrast_type": "medium",
+        "accent_color": "#C9A24A",
+        "accent_ratio": 0.06
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A warm naturalistic medium still photograph in vertical 9:16 of a young Korean woman in her late twenties seated at a cosy cluttered study desk, captured in a quick emphatic beat as she holds a dark smartphone up in her left hand near her shoulder and points at it with her right index finger while speaking to camera. She has shoulder-length wavy auburn-brown hair with soft bangs and light natural makeup, wearing a relaxed coral-orange V-neck knit sweater, her expression lively and persuasive. Wardrobe and material: a soft coral ribbed knit sweater with visible texture, a thin delicate necklace; the phone is a matte dark device with a faint triple-lens module, screen facing away. Location and background: a warm wooden bookshelf filled with books, binders, a small microscope, a desk lamp and a yellow rubber duck behind her, rendered in shallow depth of field as soft warm bokeh; the desk in front holds a notepad, pencils, a magnifier and a laptop edge. Foreground and props: the presenter and the held phone occupy the central frame; her pointing gesture directs attention to the device. Lighting setup: a soft warm key from front-left around 3400K with a gentle 2:1 key-to-fill, a soft hair rim light separating her from the background, soft shadows and medium contrast, the inviting glow of a desk-lamp-lit creator set. Lens, framing and angle: an eye-level medium shot on roughly a 35mm-equivalent lens at a moderate aperture, locked-off on a tripod, the subject centred on the rule-of-thirds, shallow depth of field keeping her sharp and the shelf soft. Composition and grid: presenter centred, the raised phone and pointing finger forming a small triangle of attention on the left side, warm balance. Colour palette and strategy with HEX: dominant coral sweater (#D9603F), warm wood shelf (#7A4A2E), shadow dark (#2A2018), wall off-white (#E8E0D2) and a small yellow duck-prop accent (#C9A24A) on about six percent of the frame; the coral subject pops against warm wood with a tiny playful yellow accent. Texture and surfaces: soft knit coral fabric, natural skin, matte phone shell, warm wood grain. Atmosphere: a cosy, trustworthy study-room explainer mood with an emphatic 'look at this' energy. Post and signature look: warm naturalistic colour grade, gentle contrast, no heavy grain, no vignette, no HDR — a clean creator-video frame. Style anchor and nationality: contemporary Korean short-form creator talking-head aesthetic, friendly and informative; all on-screen Korean caption text preserved verbatim. The lower-third dark rounded caption pill reads exactly 토스에서 각종 증명서들을 in white Korean text. Identity of the individual is entirely generic, described by type as a young Korean woman with no likeness of any real person or celebrity; brand logo marks are generic and the phone screen faces away. Additional production context: this is a brief one-second talking-head insert that punctuates the long screen-recording walkthrough, so it should match the set, wardrobe and lighting of the earlier presenter intro exactly for continuity, with the same cosy bookshelf, desk lamp and props; the gesture energy is higher and more emphatic here to carry a single point. The lighting is motivated by the warm desk lamp at front-left and soft room ambient rather than any obvious studio rig, giving the inviting docu-creator quality Korean explainers favour; the colour grade stays warm and naturalistic with the coral sweater as the dominant note against soft wood bokeh and a small playful yellow duck accent. The shallow depth of field keeps the presenter sharp while the cluttered shelf melts softly behind her, and the framing respects Korean creator composition norms with the subject on the rule-of-thirds and a little breathing room above her head. The image should read as an authentic film still from a friendly explainer rather than a polished advertisement graphic, with no text overlays beyond the described caption pill and the phone screen kept turned away so no UI content is visible.",
+        "t2i_negative": "celebrity likeness, exact face replication, brand logo marks, harsh studio lighting, cold color cast, HDR, wide-angle distortion, readable screen content",
+        "i2v_motion": "presenter raises the phone and points at it with a quick talking gesture; locked-off framing; dark caption pill 토스에서 각종 증명서들을 holds; ~1.0s; hard cut",
+        "i2v_params": {
+          "clip_duration_sec": 1.0,
+          "camera_move": "locked_off",
+          "subject_motion_level": "low_point_gesture",
+          "signature_effect": "talking_head_b_roll",
+          "pacing": "fast",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; caption 토스에서 각종 증명서들을 preserved verbatim; identity/logo generic"
+      }
+    },
+    {
+      "index": 12,
+      "duration": 15.59,
+      "framing": "top_down_phone_demo",
+      "function": "issue_certificates_submit_review_wow",
+      "subject_action": "the core payoff: the user issues the required certificate inside Toss (선택 발급, PIN, Face ID), views the issued document, attaches all documents, taps submit, the review-started screen appears, then the premium payment screen",
+      "layout_grid": "centered_phone_on_dark_desk",
+      "subject_position": "center",
+      "typo_motion": "static_subtitle_pill",
+      "camera_angle": "top_down",
+      "camera_facing": "screen_up",
+      "shot_scope": "phone_screen_fill",
+      "gaze": "none",
+      "props": [
+        "phone_on_dark_desk",
+        "certificate_issuance_screens",
+        "face_id_prompt",
+        "payment_screen"
+      ],
+      "color_palette": [
+        "#FFFFFF",
+        "#1A1A1A",
+        "#3A8DDE",
+        "#2E7D5B",
+        "#6B6660"
+      ],
+      "color_intent": "clean_white_app_with_blue_cta_and_green_faceid",
+      "pose_description": "a finger taps 토스에서 발급하기, 발급하기 and 제출하기 across the issuance and submission flow, with a Face ID green ring appearing",
+      "subject_motion": "finger_tap_sequence",
+      "camera_motion": "locked_off_overhead",
+      "camera_effect_local": "screen_self_lit_plus_faceid_glow",
+      "intra_cut_rhythm": "steady_building",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "mid_frame_path": "ADV-2026-024_frames/cut12_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "phone_with_issuance_flow",
+          "finger_touch"
+        ],
+        "midground": [
+          "dark_leather_desk_surface"
+        ],
+        "background": [
+          "yellow_sticky_note_corner",
+          "desk_edge"
+        ],
+        "lighting_env": [
+          "screen_self_lit",
+          "faceid_green_glow",
+          "soft_room_ambient"
+        ],
+        "atmosphere": [
+          "clean_digital_demo",
+          "one_stop_payoff"
+        ]
+      },
+      "texture": {
+        "primary_subject": "glossy_glass_touchscreen",
+        "secondary_objects": [
+          "matte_phone_frame"
+        ],
+        "background_surface": "dark_pebbled_leather",
+        "atmospheric": [
+          "screen_glow",
+          "green_faceid_ring_glow"
+        ]
+      },
+      "lighting": {
+        "key_direction": "screen_self_emit_plus_top_ambient",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_6000K",
+        "fill_strength": "medium",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": "none",
+        "practical_lights": [
+          "phone_screen",
+          "faceid_indicator",
+          "room_ceiling"
+        ],
+        "shadow_presence": "soft_under_phone",
+        "overall_contrast": "medium"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#FFFFFF",
+          "#1A1A1A",
+          "#3A8DDE",
+          "#2E7D5B",
+          "#6B6660"
+        ],
+        "palette_role": {
+          "#FFFFFF": "app_background_white",
+          "#1A1A1A": "ui_text_dark",
+          "#3A8DDE": "blue_action_buttons",
+          "#2E7D5B": "faceid_green_ring",
+          "#6B6660": "desk_leather"
+        },
+        "color_relationship": "white_ui_with_blue_cta_and_green_confirm_on_dark_desk",
+        "temperature_balance": "neutral",
+        "saturation_strategy": "low_clean_with_blue_and_green_pops",
+        "contrast_type": "high_screen_on_dark",
+        "accent_color": "#3A8DDE",
+        "accent_ratio": 0.14,
+        "brand_color_match": [
+          "#3A8DDE"
+        ]
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A locked-off top-down still photograph in vertical 9:16 of a dark-framed smartphone lying flat on a dark pebbled leather desk, its bright screen filling the frame and showing a clean white Korean fintech certificate-issuance flow, with a single index finger entering from the lower frame to tap through it. Wardrobe and material: only a fingertip and the matte dark phone with glossy glass are visible; no face or body. Location and background: an even dark grey-brown leather desk surrounds the phone with generous negative space and a yellow sticky note corner at the top-left edge. Foreground and props: the phone screen dominates; describe this multi-screen flow as a white app: a document detail card 주민등록등본 with options 사진 첨부하기, 토스에서 발급하기, 정부24 무료·공인인증서 필요, 주민센터 400원·신분증 필요, 무인민원발급기 400원; a bottom sheet 증명서 발급 후 화면을 캡쳐하여 사진을 첨부해주세요 with a blue 발급하기 and a 닫기; an issuance screen 주민등록등본 발급 with 주민등록상 주소 서울특별시 구로구 and tabs 기본 발급 / 선택 발급; a passcode prompt 비밀번호를 눌러주세요 with a scrambled numeric pad; an iOS-style Face ID green ring then a green check at the top of the screen; an issued document viewer headed 주민등록등본 paging 1 / 2 with a blue 증명서 파일 내보내기; the document-submission list now showing each item with a grey 변경 chip instead of 첨부 and a blue 제출하기; a 보험을 신청했어요 screen 심사 결과는 영업일 5일 이내에 알림톡으로 알려드릴게요 with a blue water-drop mark and 신청내역 보기; and finally a payment screen 보증료를 결제해 주세요 오늘 밤 10시까지 보증료를 결제해 주세요 with 할인 및 예상 보증료 listing 예상 보증료 372,480원, 기본 보증료 384,000원, 할인 금액 -11,520원, 토스 기본 할인 -3%, and a blue 토스페이로 결제하기 button. The finger is mid-tap on a blue action button. Add a note that a brief green Face ID ring glows at the top-centre during authentication. Lighting setup: the screen self-illuminates at neutral 6000K with soft top room ambient and a momentary green glow from the Face ID ring, gentle 2:1 key-to-fill, a soft contact shadow under the phone, no rim light, medium contrast with the white UI reading high against the dark desk. Lens, framing and angle: a straight top-down locked-off angle on roughly a 35mm-equivalent lens, the phone centred and parallel, depth sufficient for crisp text across the many screens. Composition and grid: a single centred phone on a dark field with even margins, attention led to the active blue buttons and the green confirm; a dark rounded subtitle pill sits in the lower third. Colour palette and strategy with HEX: app background white (#FFFFFF), UI text dark (#1A1A1A), blue action buttons (#3A8DDE) on about fourteen percent of the frame, a Face ID green ring accent (#2E7D5B), and desk leather grey-brown (#6B6660); clean white with saturated blue actions and a brief green confirm against the neutral dark desk. Texture and surfaces: glossy glass touchscreen, matte phone frame, dark pebbled leather grain, paper sticky note. Atmosphere: the satisfying one-stop payoff of issuing the needed documents and submitting without leaving the app, calm but momentum-building. Post and signature look: neutral clean grade, no grain, no vignette, no HDR, a believable screen-capture-on-desk frame. Style anchor and nationality: contemporary Korean fintech app screen-recording tutorial aesthetic; all on-screen Korean UI text and figures preserved verbatim. The lower-third dark rounded caption pill cycles exactly '토스에서 발급하기'를 선택하면, then 토스에서 서류를 발급받아, then 바로 사용할 수 있어요, then 나머지 서류도 모두 첨부해주고, then 신청하기를 누르면, then 이제 가입 심사가 시작됩니다, then 보증료를 결제하면 in white Korean text. Identity is not applicable as no face appears; brand logo marks are generic and the app is a generic clean fintech interface with the described Korean labels.",
+        "t2i_negative": "face, body, celebrity, exact brand logo replication, heavy grain, color cast, glare obscuring text, HDR, distortion, fabricated readable personal data",
+        "i2v_motion": "finger taps 토스에서 발급하기 then 발급하기, enters the passcode, a green Face ID ring glows to a check, the issued document shows, all docs flip to 변경, finger taps 제출하기, the review-started screen and then the payment screen appear; dark caption pill cycles through the listed lines; locked-off; ~15.6s; hard cut",
+        "i2v_params": {
+          "clip_duration_sec": 15.59,
+          "camera_move": "locked_off",
+          "subject_motion_level": "low_finger_tap_sequence",
+          "signature_effect": "screen_ui_recording_with_faceid_glow",
+          "pacing": "steady_building",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen UI text/figures and all captions preserved verbatim; brand marks generic; personal address/numbers blurred as in source; status-bar clock varies across assembled captures"
+      }
+    },
+    {
+      "index": 13,
+      "duration": 1.63,
+      "framing": "top_down_phone_demo",
+      "function": "completion_confirmation",
+      "subject_action": "the guarantee-enrollment completion screen is shown with the issued guarantee certificate and the HUG mark, confirming the insurance is in place",
+      "layout_grid": "centered_phone_on_dark_desk",
+      "subject_position": "center",
+      "typo_motion": "static_subtitle_pill",
+      "camera_angle": "top_down",
+      "camera_facing": "screen_up",
+      "shot_scope": "phone_screen_fill",
+      "gaze": "none",
+      "props": [
+        "phone_on_dark_desk",
+        "completion_certificate_screen"
+      ],
+      "color_palette": [
+        "#FFFFFF",
+        "#1A1A1A",
+        "#3A8DDE",
+        "#6B6660",
+        "#A7C8E6"
+      ],
+      "color_intent": "clean_white_completion_with_blue_certificate",
+      "pose_description": "the phone rests still showing the completion certificate, no finger interaction",
+      "subject_motion": "static_screen_hold",
+      "camera_motion": "locked_off_overhead",
+      "camera_effect_local": "screen_self_lit",
+      "intra_cut_rhythm": "calm_hold",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "mid_frame_path": "ADV-2026-024_frames/cut13_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "phone_with_completion_screen"
+        ],
+        "midground": [
+          "dark_leather_desk_surface"
+        ],
+        "background": [
+          "yellow_sticky_note_corner",
+          "desk_edge"
+        ],
+        "lighting_env": [
+          "screen_self_lit",
+          "soft_room_ambient"
+        ],
+        "atmosphere": [
+          "clean_digital_demo",
+          "reassuring_completion"
+        ]
+      },
+      "texture": {
+        "primary_subject": "glossy_glass_touchscreen",
+        "secondary_objects": [
+          "matte_phone_frame"
+        ],
+        "background_surface": "dark_pebbled_leather",
+        "atmospheric": [
+          "subtle_screen_glow"
+        ]
+      },
+      "lighting": {
+        "key_direction": "screen_self_emit_plus_top_ambient",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_6000K",
+        "fill_strength": "medium",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": "none",
+        "practical_lights": [
+          "phone_screen",
+          "room_ceiling"
+        ],
+        "shadow_presence": "soft_under_phone",
+        "overall_contrast": "medium"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#FFFFFF",
+          "#1A1A1A",
+          "#3A8DDE",
+          "#6B6660",
+          "#A7C8E6"
+        ],
+        "palette_role": {
+          "#FFFFFF": "completion_background_white",
+          "#1A1A1A": "text_dark",
+          "#3A8DDE": "blue_certificate_accent",
+          "#6B6660": "desk_leather",
+          "#A7C8E6": "hug_watermark_blue"
+        },
+        "color_relationship": "white_completion_with_blue_certificate_on_dark_desk",
+        "temperature_balance": "neutral",
+        "saturation_strategy": "low_clean_with_soft_blue",
+        "contrast_type": "high_screen_on_dark",
+        "accent_color": "#3A8DDE",
+        "accent_ratio": 0.1,
+        "brand_color_match": [
+          "#3A8DDE"
+        ]
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A locked-off top-down still photograph in vertical 9:16 of a dark-framed smartphone lying flat on a dark pebbled leather desk, its bright screen filling the frame and showing a clean white Korean fintech guarantee-completion screen, the phone resting still with no finger touching it. Wardrobe and material: only the matte dark phone with glossy glass is visible; no human, no face. Location and background: an even dark grey-brown leather desk surrounds the phone with generous negative space and a yellow sticky note corner at the top-left edge. Foreground and props: the phone screen dominates; describe the on-screen UI as a white completion page with a small heading 보증 가입을 완료했어요 and a larger headline 내 전세 보증금을 안전하게 돌려받을 수 있어요, beneath which sits a soft pale-blue guarantee certificate card bearing a circular HUG seal watermark, a 392일 남음 badge, a title 전세보증금반환보증, and fine rows for 이름, 보증금 3억원, 보증기간 2024. 02. 20 ~ 2025. 03. 19, 보증번호 and 보증서번호 (personal values lightly blurred); a status bar shows a charging battery. Lighting setup: the screen self-illuminates at neutral 6000K with soft top room ambient, gentle 2:1 key-to-fill, a soft contact shadow under the phone, no rim light, medium contrast with the white UI reading high against the dark desk. Lens, framing and angle: a straight top-down locked-off angle on roughly a 35mm-equivalent lens, the phone centred and parallel, depth sufficient for crisp text. Composition and grid: a single centred phone on a dark field with even margins, attention pulled to the completion headline and the certificate card; a dark rounded subtitle pill sits in the lower third. Colour palette and strategy with HEX: completion background white (#FFFFFF), text dark (#1A1A1A), blue certificate accent (#3A8DDE) on about ten percent of the frame, desk leather grey-brown (#6B6660) and a soft HUG watermark blue (#A7C8E6); clean white with gentle blues against the neutral dark desk. Texture and surfaces: glossy glass touchscreen, matte phone frame, dark pebbled leather grain, paper sticky note. Atmosphere: a reassuring sense of completion and safety, the deposit now protected. Post and signature look: neutral clean grade, no grain, no vignette, no HDR, a believable screen-capture-on-desk frame. Style anchor and nationality: contemporary Korean fintech app screen-recording tutorial aesthetic; all on-screen Korean UI text preserved verbatim. The lower-third dark rounded caption pill reads exactly 보증 보험 가입 끝! in white Korean text. Identity is not applicable as no face appears; brand logo marks including the guarantee seal are rendered generically and the app is a generic clean fintech interface with the described Korean labels. Additional production context: this is a short calm payoff hold in the locked-overhead screen recording, so the phone stays flat and centred in the identical position with no finger and no camera move, letting the viewer rest on the completion message; framing and lighting must match the surrounding screen shots exactly for continuity. The composition should let the reassuring headline 내 전세 보증금을 안전하게 돌려받을 수 있어요 sit clearly above the certificate card, with the soft pale-blue guarantee certificate and its faint circular seal watermark reading as a calm trust cue rather than a loud graphic; the 392일 남음 badge and the row labels should be legible while any personal values stay lightly blurred as in the source. The white completion page must read crisply against the dark leather desk with the soft blues as the only colour accents and the small yellow sticky-note corner adding real-desk texture. The rendering should feel like a genuine phone screen capture composited onto an actual surface rather than a synthetic mockup, with no glare, reflection or warp distorting the text, and the overall mood should communicate relief and security at the successful completion of a stressful financial task.",
+        "t2i_negative": "face, body, celebrity, exact brand logo replication, heavy grain, color cast, glare obscuring text, HDR, distortion, fabricated readable personal data",
+        "i2v_motion": "the completion certificate screen holds, certificate card settling in; no finger; dark caption pill 보증 보험 가입 끝! then 지금 가입하면 holds; locked-off; ~1.6s; hard cut",
+        "i2v_params": {
+          "clip_duration_sec": 1.63,
+          "camera_move": "locked_off",
+          "subject_motion_level": "static_hold",
+          "signature_effect": "screen_ui_recording",
+          "pacing": "calm",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen text and caption preserved verbatim; brand/seal marks generic; personal values blurred as in source"
+      }
+    },
+    {
+      "index": 14,
+      "duration": 2.74,
+      "framing": "MS",
+      "function": "presenter_outro_incentive_cta",
+      "subject_action": "the presenter delivers the closing promo to camera, holding the phone and raising three fingers to underline the 3% discount and the Toss-point reward",
+      "layout_grid": "rule_of_thirds_center_presenter",
+      "subject_position": "center",
+      "typo_motion": "static_subtitle_pill",
+      "camera_angle": "eye_level",
+      "camera_facing": "front",
+      "shot_scope": "medium_shot_seated_presenter",
+      "gaze": "to_camera",
+      "props": [
+        "smartphone_in_hand",
+        "desk_with_props",
+        "bookshelf_background"
+      ],
+      "color_palette": [
+        "#D9603F",
+        "#7A4A2E",
+        "#2A2018",
+        "#E8E0D2",
+        "#3F3A6B"
+      ],
+      "color_intent": "warm_room_with_coral_subject_and_purple_desk_accent",
+      "pose_description": "holds the phone in the left hand and raises three fingers on the right hand near her face while speaking the closing offer",
+      "subject_motion": "talking_three_finger_gesture",
+      "camera_motion": "locked_off_tripod",
+      "camera_effect_local": "shallow_dof_warm_bokeh_bg",
+      "intra_cut_rhythm": "medium",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "mid_frame_path": "ADV-2026-024_frames/cut14_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "seated_presenter_coral_sweater",
+          "phone_held_in_hand"
+        ],
+        "midground": [
+          "purple_desk_mat_with_props"
+        ],
+        "background": [
+          "wooden_bookshelf",
+          "microscope_and_duck_props"
+        ],
+        "lighting_env": [
+          "warm_key_light_left",
+          "soft_room_ambient"
+        ],
+        "atmosphere": [
+          "cozy_study_explainer",
+          "upbeat_offer_close"
+        ]
+      },
+      "texture": {
+        "primary_subject": "soft_knit_coral_sweater_natural_skin",
+        "secondary_objects": [
+          "matte_phone_in_hand",
+          "purple_desk_mat"
+        ],
+        "background_surface": "warm_wooden_bookshelf",
+        "atmospheric": [
+          "soft_warm_bokeh"
+        ]
+      },
+      "lighting": {
+        "key_direction": "front_left",
+        "key_hardness": "soft",
+        "key_color_temp": "warm_3400K",
+        "fill_strength": "medium",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": "soft_hair_light",
+        "practical_lights": [
+          "desk_lamp_left",
+          "room_ambient"
+        ],
+        "shadow_presence": "soft",
+        "overall_contrast": "medium"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#D9603F",
+          "#7A4A2E",
+          "#2A2018",
+          "#E8E0D2",
+          "#3F3A6B"
+        ],
+        "palette_role": {
+          "#D9603F": "dominant_coral_sweater",
+          "#7A4A2E": "warm_wood_shelf",
+          "#2A2018": "shadow_dark",
+          "#E8E0D2": "wall_off_white",
+          "#3F3A6B": "purple_desk_mat_accent"
+        },
+        "color_relationship": "warm_dominant_with_purple_foreground_accent",
+        "temperature_balance": "warm_dominant",
+        "saturation_strategy": "medium_with_coral_emphasis",
+        "contrast_type": "medium",
+        "accent_color": "#3F3A6B",
+        "accent_ratio": 0.12
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A warm naturalistic medium still photograph in vertical 9:16 of a young Korean woman in her late twenties seated at a cosy cluttered study desk, delivering an upbeat closing promo to camera while holding a dark smartphone in her left hand and raising three fingers on her right hand near her face to underline a number. She has shoulder-length wavy auburn-brown hair with soft bangs and light natural makeup, wearing a relaxed coral-orange V-neck knit sweater, expression bright and encouraging. Wardrobe and material: a soft coral ribbed knit sweater with visible texture, a thin delicate necklace; the phone is a matte dark device, screen facing away. Location and background: a warm wooden bookshelf filled with books, binders, a small microscope, a desk lamp and a yellow rubber duck behind her, rendered in shallow depth of field as soft warm bokeh; in the foreground a deep purple desk mat holds a magnifier, a notepad and pencils, with a laptop edge. Foreground and props: the presenter centred with the held phone and the clear three-finger gesture as the focal point; the purple desk mat anchors the lower frame. Lighting setup: a soft warm key from front-left around 3400K with a gentle 2:1 key-to-fill, a soft hair rim light separating her from the background, soft shadows and medium contrast, the inviting glow of a desk-lamp-lit creator set. Lens, framing and angle: an eye-level medium shot on roughly a 35mm-equivalent lens at a moderate aperture, locked-off on a tripod, the subject centred on the rule-of-thirds, shallow depth of field keeping her sharp and the shelf soft. Composition and grid: presenter centred, the raised three fingers near her face drawing the eye, the warm palette grounded by the cool purple mat below. Colour palette and strategy with HEX: dominant coral sweater (#D9603F), warm wood shelf (#7A4A2E), shadow dark (#2A2018), wall off-white (#E8E0D2) and a purple desk-mat accent (#3F3A6B) on about twelve percent of the frame; the coral subject pops against warm wood while the purple foreground adds a cool counterweight. Texture and surfaces: soft knit coral fabric, natural skin, matte phone shell, felt-like purple mat, warm wood grain. Atmosphere: a cosy, trustworthy study-room explainer mood with an upbeat 'here is the deal' energy at the close. Post and signature look: warm naturalistic colour grade, gentle contrast, no heavy grain, no vignette, no HDR — a clean creator-video frame. Style anchor and nationality: contemporary Korean short-form creator talking-head aesthetic, friendly and persuasive; all on-screen Korean caption text preserved verbatim. The lower-third dark rounded caption pill reads exactly 보증료 3% 할인에 in white Korean text, transitioning to 토스 포인트 15,000원까지 지급해준대요. Identity of the individual is entirely generic, described by type as a young Korean woman with no likeness of any real person or celebrity; brand logo marks are generic and the phone screen faces away. Additional production context: this is the closing talking-head outro, so it should match the set, wardrobe and lighting of the earlier presenter shots exactly for continuity, with the same cosy bookshelf, desk lamp, microscope and duck props and the deep purple desk mat in the foreground; the energy is warm and upbeat to land the incentive. The lighting is motivated by the warm desk lamp at front-left and soft room ambient rather than an obvious studio rig, giving the inviting docu-creator quality Korean explainers favour, and the grade stays warm and naturalistic with the coral sweater dominant against soft wood bokeh while the purple mat adds a cool counterweight below. The shallow depth of field keeps the presenter and her clear three-finger gesture sharp while the cluttered shelf softens behind her, and the framing respects Korean creator composition norms with the subject on the rule-of-thirds. The image should read as an authentic film still from a friendly explainer's sign-off rather than a polished advertisement graphic, with no text overlays beyond the described caption pill and the phone screen kept turned away so no UI content is visible.",
+        "t2i_negative": "celebrity likeness, exact face replication, brand logo marks, harsh studio lighting, cold color cast, HDR, wide-angle distortion, readable screen content",
+        "i2v_motion": "presenter speaks the closing offer, raises three fingers and gestures with a friendly smile; locked-off framing; dark caption pill 보증료 3% 할인에 then 토스 포인트 15,000원까지 지급해준대요 holds; ~2.7s; hard cut",
+        "i2v_params": {
+          "clip_duration_sec": 2.74,
+          "camera_move": "locked_off",
+          "subject_motion_level": "low_three_finger_gesture",
+          "signature_effect": "talking_head_b_roll",
+          "pacing": "medium",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; captions 보증료 3% 할인에 / 토스 포인트 15,000원까지 지급해준대요 preserved verbatim; identity/logo generic"
+      }
+    },
+    {
+      "index": 15,
+      "duration": 1.19,
+      "framing": "MCU_insert",
+      "function": "creator_logo_end_card",
+      "subject_action": "a final end card: a small printed sticker reading the creator channel name lands on a clean white paper background as the clip closes",
+      "layout_grid": "centered_label_on_white",
+      "subject_position": "center",
+      "typo_motion": "label_settle",
+      "camera_angle": "top_down",
+      "camera_facing": "label_up",
+      "shot_scope": "macro_label_on_paper",
+      "gaze": "none",
+      "props": [
+        "printed_creator_sticker",
+        "white_paper_background"
+      ],
+      "color_palette": [
+        "#F4F2EE",
+        "#2A4FD0",
+        "#1A1A1A",
+        "#D8D4CC",
+        "#FFFFFF"
+      ],
+      "color_intent": "clean_white_paper_with_blue_logo_ink",
+      "pose_description": "no person; a small rectangular sticker rests slightly tilted on a white paper surface",
+      "subject_motion": "label_settling_into_place",
+      "camera_motion": "locked_off_overhead",
+      "camera_effect_local": "soft_paper_shadow",
+      "intra_cut_rhythm": "calm_hold",
+      "transition_in": "cut",
+      "transition_out": "fade_out",
+      "mid_frame_path": "ADV-2026-024_frames/cut15_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "printed_creator_sticker_label"
+        ],
+        "midground": [
+          "white_paper_surface"
+        ],
+        "background": [
+          "white_paper_surface"
+        ],
+        "lighting_env": [
+          "soft_even_top_light",
+          "diffuse_daylight"
+        ],
+        "atmosphere": [
+          "clean_minimal_end_card",
+          "calm_close"
+        ]
+      },
+      "texture": {
+        "primary_subject": "matte_sticker_label_paper",
+        "secondary_objects": [
+          "fibrous_white_paper"
+        ],
+        "background_surface": "textured_white_paper",
+        "atmospheric": [
+          "soft_contact_shadow"
+        ]
+      },
+      "lighting": {
+        "key_direction": "top_even",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "high",
+        "key_to_fill_ratio": "1.5:1",
+        "rim_light": "none",
+        "practical_lights": [
+          "soft_overhead_diffuse"
+        ],
+        "shadow_presence": "minimal_soft",
+        "overall_contrast": "low"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#F4F2EE",
+          "#2A4FD0",
+          "#1A1A1A",
+          "#D8D4CC",
+          "#FFFFFF"
+        ],
+        "palette_role": {
+          "#F4F2EE": "dominant_paper_white",
+          "#2A4FD0": "blue_logo_ink",
+          "#1A1A1A": "subtitle_text_dark",
+          "#D8D4CC": "paper_shadow",
+          "#FFFFFF": "sticker_highlight"
+        },
+        "color_relationship": "near_white_with_single_blue_logo_accent",
+        "temperature_balance": "neutral",
+        "saturation_strategy": "minimal_with_one_blue_pop",
+        "contrast_type": "low",
+        "accent_color": "#2A4FD0",
+        "accent_ratio": 0.08
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A clean minimal top-down still photograph in vertical 9:16 of a small printed sticker label resting, very slightly tilted, on a textured off-white paper background as a closing end card, with no person in frame. The subject is the label itself: a small rounded-corner rectangular sticker on matte paper printed with a bold sketch-style blue wordmark reading Curator T, underlined, with a fine Korean tagline beneath reading 토스를 발견하다 in small dark grey text. Wardrobe and material: not applicable; the only objects are the matte paper sticker and the fibrous white paper sheet it sits on. Location and background: a plain, evenly lit white paper surface fills the entire frame, generous empty space around the centred label. Foreground and props: the sticker sits centred, occupying roughly the middle fifth of the frame, casting a soft contact shadow on the paper. Lighting setup: soft even overhead diffuse light at a neutral 5500K with high fill at about a 1.5:1 ratio, minimal soft shadows, no rim light, low overall contrast — a clean flat-lay look. Lens, framing and angle: a macro-style top-down locked-off angle on roughly a 50mm-equivalent lens, the label centred and parallel to the frame, shallow depth so the wordmark is crisp while the surrounding paper texture stays soft. Composition and grid: a single small centred label on a large white field, dominated by negative space, the eye resting on the blue wordmark. Colour palette and strategy with HEX: dominant paper white (#F4F2EE), a single blue logo ink accent (#2A4FD0) on about eight percent of the frame, subtitle text dark (#1A1A1A), paper shadow (#D8D4CC) and sticker highlight (#FFFFFF); an almost monochrome near-white field with one blue accent. Texture and surfaces: matte sticker label, fibrous textured white paper, soft contact shadow. Atmosphere: a calm, minimal, slightly handcrafted sign-off, like a creator's signature sticker. Post and signature look: neutral clean grade, no grain, no vignette, no HDR, a believable macro flat-lay frame; the clip fades out at the end. Style anchor and nationality: contemporary Korean short-form creator end-card aesthetic, minimal and tactile; the on-screen text Curator T and 토스를 발견하다 preserved exactly as a generic creator channel mark, not a corporate brand logo. Identity is not applicable as no person appears; the wordmark is treated as a generic hand-drawn creator label. Additional production context: this is the final sign-off card of the clip, so the frame should feel intentionally quiet and minimal after the busy walkthrough, a single small sticker resting on a clean sheet of white paper with abundant negative space all around it; the look is a deliberate flat-lay, the camera locked directly overhead and parallel to the paper. The sticker's blue wordmark is drawn in a casual sketch or marker style with a slightly uneven hand-lettered quality, underlined by a thin rule, and the small Korean tagline below sits in a quiet dark grey weight; the label is tilted just a few degrees so it reads as a real physical sticker rather than a flat digital graphic, and it casts a soft contact shadow that grounds it on the textured paper. The lighting is even and soft from above at a neutral colour temperature with high fill, so there are almost no hard shadows and the paper grain stays delicate; the palette is essentially monochrome off-white with the single blue logo ink as the only saturated accent, keeping the eye on the channel name. The rendering should read as an authentic macro photograph of a printed sticker on paper rather than a synthetic title card, with crisp legible lettering and no additional text, graphics or UI chrome anywhere in the frame, and the shot gently fades to close the video on a calm, tactile, handcrafted note that signs off the creator's tutorial. The overall impression should be understated and trustworthy, echoing the friendly, practical tone of the whole explainer while clearly functioning as the channel's own end mark rather than any sponsoring brand's logo.",
+        "t2i_negative": "person, face, corporate brand logo replication, heavy grain, color cast, busy background, HDR, distortion, additional text",
+        "i2v_motion": "the small Curator T sticker settles slightly on the white paper as the clip closes; minimal motion; gentle fade-out; ~1.2s",
+        "i2v_params": {
+          "clip_duration_sec": 1.19,
+          "camera_move": "locked_off",
+          "subject_motion_level": "minimal_label_settle",
+          "signature_effect": "minimal_flat_lay_end_card",
+          "pacing": "calm",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; end-card text Curator T / 토스를 발견하다 preserved verbatim as a generic creator mark"
+      }
+    }
+  ]
+}

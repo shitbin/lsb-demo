@@ -1,0 +1,1103 @@
+{
+  "id": "ADV-2026-031",
+  "source_ref": {
+    "platform": "broadcast_online",
+    "title_or_campaign": "토스증권 브랜드 필름 — 달에 직접 가는 사람들 (대담하게, 집요하게)",
+    "brand": "토스증권 (Toss Securities)",
+    "product": "토스증권 주식·투자 서비스 (Toss Securities stock investing app)",
+    "model": null,
+    "year": 2024,
+    "production_note": "Cinematic ~32s anamorphic brand film with celebrity narration (내레이션 : 원빈 / Narration: Won Bin) credited on-screen. Pure VFX/CG long-take journey: opens on a crescent moon framed inside a telescope viewfinder HUD (corner brackets + crosshair reticle + readouts '1000mm / 20mm = X5', stepping to X10 then X20, and '0.0026 AU(astronomical unit, (1.58125 * 10-5))'), dissolves to a clean cinematic moon among drifting clouds, then a continuous accelerating dive THROUGH the clouds into space and down to the lunar surface, ending on a POV astronaut boot taking the first step into lunar dust. Hard-cuts to black kinetic typography that builds 토스, → 토스, 금융부터 바꾼다 → +모든 것을 바꿀 때까지, then hard-cut to a macro Apollo-style bootprint with kinetic copy 대담하게, → 대담하게, 집요하게, → toss logo lockup. Concept: while everyone fixates on the telescope (the tool), some aim to go to the moon directly.",
+    "url": null
+  },
+  "category_primary": "finance.securities",
+  "category_tags": [
+    "securities",
+    "stock_investing",
+    "fintech",
+    "brand_film",
+    "manifesto"
+  ],
+  "mood": [
+    "cinematic",
+    "epic",
+    "aspirational",
+    "bold",
+    "contemplative",
+    "awe"
+  ],
+  "target_demo": "Korean adults 20-40s, retail investors and digitally native users who want a more ambitious, no-nonsense investing brand",
+  "total_duration": 32.23,
+  "shot_count": 6,
+  "shot_count_corrected": 6,
+  "fps": 23.976,
+  "aspect_ratio": "16:9",
+  "hook_position": 0.0,
+  "cta_position": 31.0,
+  "narrative_arc": "telescope_viewfinder_moon → dissolve_to_clean_moon → continuous_dive_to_lunar_surface → astronaut_first_step → kinetic_copy_manifesto → bootprint_logo_lockup",
+  "narrative_structure": "linear_continuous_with_typographic_coda",
+  "pacing_curve": "slow_build_to_climax_then_typographic_resolve",
+  "music_tempo_curve": "ambient_swell_building_to_emotional_peak_at_landing",
+  "wow_cut_index": 4,
+  "creative_device": [
+    "tool_vs_goal_reframe",
+    "telescope_viewfinder_hud_motif",
+    "continuous_journey_long_take",
+    "moon_landing_homage",
+    "first_step_payoff",
+    "kinetic_typography_manifesto",
+    "celebrity_voiceover"
+  ],
+  "production_signature": {
+    "capture_style": "cg_vfx_cinematic_with_anamorphic_grade",
+    "camera_signature": [
+      "locked_telescope_pov_with_hud_overlay",
+      "slow_dolly_push_in",
+      "continuous_accelerating_space_dive",
+      "low_skimming_surface_flyover",
+      "top_down_pov_boot"
+    ],
+    "signature_note": "The spot is essentially one emotional continuous move from Earth-bound telescope view to standing on the moon, intercut at the end with black-screen kinetic typography. Strong anamorphic 2.35-style letterbox (which subtly breathes/widens across the dissolve), heavy atmospheric cloud volumetrics, photoreal lunar surface CG, lens-flare glow rim around the moon, and a clean white Toss sans-serif typographic system for the coda. Telescope HUD (corner registration brackets, crosshair reticle, focal-length/magnification + astronomical-unit readouts) is the recurring graphic motif of the open.",
+    "color_grade": "cool_desaturated_nightblue_to_neutral_lunar_grey_with_pure_black_type_cards",
+    "texture_fx": "volumetric_cloud_haze, anamorphic_letterbox, lens_glow_rim, fine_film_grain, photoreal_regolith_dust"
+  },
+  "global_layout": {
+    "grid_system": "centered_subject_cinematic_thirds",
+    "subject_placement_dominant": "center_frame_moon_then_center_lower_boot",
+    "subject_typo_relation": "type_appears_isolated_on_black_cards_then_centered_over_bootprint",
+    "negative_space_use": "vast_dark_sky_and_pure_black_dominate_giving_isolation_and_scale",
+    "layout_note": "Subject (moon / bootprint) sits centered or just right-of-center for most of the film. Telescope HUD frames the open with symmetric corner brackets and a central crosshair. Coda copy is centered, white, bold, on pure black, building line by line; final logo lockup is centered over the bootprint."
+  },
+  "recurring_motifs": [
+    "crescent_moon",
+    "telescope_viewfinder_hud",
+    "drifting_clouds",
+    "lunar_craters",
+    "astronaut_boot",
+    "bootprint_in_dust",
+    "white_centered_kinetic_type"
+  ],
+  "copywriting": {
+    "tagline_text": "토스, 금융부터 바꾼다",
+    "tagline_structure": "brand_name + domain('금융부터') + verb_declaration('바꾼다')",
+    "cta_text": "대담하게, 집요하게, 토스",
+    "copy_tone": [
+      "declarative",
+      "manifesto",
+      "ambitious",
+      "resolute"
+    ],
+    "copy_strategy": "narration_led_parable (telescope vs going to the moon) resolving into a black-card kinetic manifesto that builds the brand promise line by line, then a two-adverb rallying cry over the bootprint culminating in the logo",
+    "lines": [
+      {
+        "text": "내레이션 : 원빈",
+        "time_start": 0.0,
+        "time_end": 5.1,
+        "position": "lower_right"
+      },
+      {
+        "text": "1000mm / 20mm = X5",
+        "time_start": 0.0,
+        "time_end": 1.5,
+        "position": "lower_right"
+      },
+      {
+        "text": "1000mm / 10mm = X10",
+        "time_start": 1.5,
+        "time_end": 4.6,
+        "position": "lower_right"
+      },
+      {
+        "text": "1000mm / 5mm = X20",
+        "time_start": 4.6,
+        "time_end": 5.1,
+        "position": "lower_right"
+      },
+      {
+        "text": "0.0026 AU(astronomical unit, (1.58125 * 10-5))",
+        "time_start": 0.0,
+        "time_end": 5.1,
+        "position": "lower_right"
+      },
+      {
+        "text": "토스,",
+        "time_start": 23.32,
+        "time_end": 24.2,
+        "position": "center"
+      },
+      {
+        "text": "토스, 금융부터 바꾼다",
+        "time_start": 24.2,
+        "time_end": 26.5,
+        "position": "center"
+      },
+      {
+        "text": "토스, 금융부터 바꾼다\n모든 것을 바꿀 때까지",
+        "time_start": 26.5,
+        "time_end": 28.32,
+        "position": "center"
+      },
+      {
+        "text": "대담하게,",
+        "time_start": 28.32,
+        "time_end": 29.9,
+        "position": "center"
+      },
+      {
+        "text": "대담하게, 집요하게,",
+        "time_start": 29.9,
+        "time_end": 31.0,
+        "position": "center"
+      },
+      {
+        "text": "toss (logo)",
+        "time_start": 31.0,
+        "time_end": 32.23,
+        "position": "center"
+      }
+    ],
+    "captions": [
+      {
+        "text": "토스, 금융부터 바꾼다",
+        "source": "on_screen"
+      },
+      {
+        "text": "모든 것을 바꿀 때까지",
+        "source": "on_screen"
+      },
+      {
+        "text": "대담하게, 집요하게,",
+        "source": "on_screen"
+      },
+      {
+        "text": "내레이션 : 원빈",
+        "source": "on_screen"
+      }
+    ],
+    "narration_handling": "celebrity_voice_over_parable_resolving_into_on_screen_type"
+  },
+  "typography": {
+    "primary_font_class": "sans_serif_bold_white",
+    "animation_style": [
+      "line_by_line_build",
+      "fade_in",
+      "static_hold"
+    ],
+    "subtitle_position_dominant": "center",
+    "color_strategy": "white_type_on_pure_black_or_over_lunar_surface",
+    "typo_motion_dominant": "kinetic_build_on_black"
+  },
+  "vfx": {
+    "primary_effects": [
+      "telescope_hud_overlay",
+      "volumetric_clouds",
+      "space_dive_motion_streaks",
+      "photoreal_cg_lunar_surface",
+      "lens_glow_rim",
+      "anamorphic_letterbox"
+    ],
+    "effect_intensity": "high",
+    "transition_style_dominant": "dissolve_open_then_hard_cut_to_type",
+    "vfx_event_count": 6
+  },
+  "audio": {
+    "has_audio": true,
+    "language": "ko",
+    "speech_coverage": 0.945,
+    "bgm_likely": true,
+    "narration_lines": [
+      {
+        "start": 0.5,
+        "end": 2.5,
+        "text": "달을 더 자세히 보기 위해",
+        "text_raw": "다를 더 자세히 보기 위해",
+        "source": "whisper_corrected_by_analyst",
+        "kind": "voice_over"
+      },
+      {
+        "start": 2.5,
+        "end": 4.5,
+        "text": "모두가 망원경에만 집중할 때",
+        "text_raw": "모두가 망원경에만 집중할 때",
+        "source": "faster_whisper",
+        "kind": "voice_over"
+      },
+      {
+        "start": 4.5,
+        "end": 10.9,
+        "text": "달에 직접 가는 것을 목표로 한 사람들이 있었다",
+        "text_raw": "다래 직접 가는 것을 목표로한 사람들이 있었다",
+        "source": "whisper_corrected_by_analyst",
+        "kind": "voice_over"
+      },
+      {
+        "start": 10.9,
+        "end": 15.84,
+        "text": "위대한 성취는",
+        "text_raw": "위대한 성신은",
+        "source": "whisper_corrected_by_analyst",
+        "kind": "voice_over"
+      },
+      {
+        "start": 15.84,
+        "end": 24.95,
+        "text": "위대한 목표로부터 비롯된다",
+        "text_raw": "위대한 목표로부터 붙어박운다",
+        "source": "whisper_corrected_by_analyst",
+        "kind": "voice_over"
+      },
+      {
+        "start": 24.95,
+        "end": 27.95,
+        "text": "모든 것을 바꿀 때까지",
+        "text_raw": "모든 것을 바꿀 때까지",
+        "source": "whisper_corrected_by_caption",
+        "kind": "voice_over"
+      },
+      {
+        "start": 27.95,
+        "end": 30.95,
+        "text": "대담하게, 집요하게, 토스",
+        "text_raw": "대담하게, 지배하게, 도스",
+        "source": "whisper_corrected_by_caption",
+        "kind": "voice_over"
+      }
+    ],
+    "voice_vs_caption": "voice_leads_then_matches_caption_at_coda",
+    "transcribed_by": "faster_whisper",
+    "audio_note": "Single male celebrity narrator (credited on-screen as 내레이션 : 원빈 / Won Bin) over an ambient orchestral swell that peaks at the moon landing. Whisper raw segments had several mishears corrected by analyst from context and on-screen captions: '다를'→'달을', '다래'→'달에', '위대한 성신은'→'위대한 성취는', '위대한 목표로부터 붙어박운다'→'위대한 목표로부터 비롯된다', and the closing '대담하게, 지배하게, 도스'→'대담하게, 집요하게, 토스' (matching the on-screen kinetic copy 대담하게, 집요하게 and the Toss logo). The coda lines align with the on-screen type build."
+  },
+  "frames_dir": "ADV-2026-031_frames",
+  "contact_sheet_path": "ADV-2026-031_frames/contact_sheet.png",
+  "shots": [
+    {
+      "index": 1,
+      "duration": 5.756,
+      "framing": "wide",
+      "function": "establishing_hook",
+      "subject_action": "crescent_moon_observed_through_a_telescope_viewfinder_hud_as_thin_clouds_drift_and_the_magnification_steps_up",
+      "layout_grid": "centered_subject_with_symmetric_hud_brackets",
+      "subject_position": "center",
+      "typo_motion": "static_hud_readouts_and_credit",
+      "camera_angle": "eye_level_skyward",
+      "camera_facing": "looking_up_through_optic",
+      "shot_scope": "wide_sky",
+      "gaze": "none",
+      "props": [
+        "crescent_moon",
+        "telescope_viewfinder_brackets",
+        "crosshair_reticle",
+        "focal_length_magnification_readout",
+        "astronomical_unit_readout",
+        "narration_credit_text",
+        "thin_drifting_clouds"
+      ],
+      "color_palette": [
+        "#0A0E1A",
+        "#1A2540",
+        "#2B3A5C",
+        "#E8E2D0",
+        "#0B0B0B"
+      ],
+      "color_intent": "deep_cool_night_blue_with_warm_pale_moon_accent_inside_dark_optic_frame",
+      "pose_description": "A small warm crescent moon sits center frame against a dark blue cloud-streaked night sky, surrounded by a telescope HUD: thin L-shaped registration brackets in the four corners, a faint cross-mark grid, and a central crosshair reticle bracketing the moon. Lower-right readouts show focal-length/magnification (stepping 1000mm/20mm=X5 to X10 to X20) and an astronomical-unit line; a small caption credits the narrator. Heavy top/bottom letterbox bars.",
+      "subject_motion": "slow_cloud_drift_across_moon",
+      "camera_motion": "near_locked_slow_creep_push",
+      "camera_effect_local": "hud_overlay_and_magnification_step",
+      "intra_cut_rhythm": "slow",
+      "transition_in": "fade_from_black",
+      "transition_out": "dissolve",
+      "mid_frame_path": "ADV-2026-031_frames/cut01_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "telescope_hud_brackets",
+          "crosshair_reticle",
+          "letterbox_bars"
+        ],
+        "midground": [
+          "crescent_moon",
+          "hud_text_readouts"
+        ],
+        "background": [
+          "dark_blue_night_sky",
+          "thin_drifting_clouds",
+          "faint_stars"
+        ],
+        "lighting_env": [
+          "night_ambient_self_lit_moon"
+        ],
+        "atmosphere": [
+          "observational_curiosity",
+          "quiet_anticipation",
+          "scientific_distance"
+        ]
+      },
+      "texture": {
+        "primary_subject": "soft_glowing_crescent_moon",
+        "secondary_objects": [
+          "thin_film_hud_lines",
+          "monospace_readout_text"
+        ],
+        "background_surface": "hazy_volumetric_cloud",
+        "atmospheric": [
+          "night_haze",
+          "fine_grain",
+          "anamorphic_letterbox"
+        ]
+      },
+      "lighting": {
+        "key_direction": "self_emissive_moon_center",
+        "key_hardness": "soft",
+        "key_color_temp": "warm_pale_on_cool_field",
+        "fill_strength": "very_low",
+        "key_to_fill_ratio": "high_contrast",
+        "rim_light": "soft_glow_halo_around_moon",
+        "practical_lights": [
+          "moon",
+          "faint_stars"
+        ],
+        "shadow_presence": "deep_dark_field",
+        "overall_contrast": "high"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#0A0E1A",
+          "#1A2540",
+          "#2B3A5C",
+          "#E8E2D0",
+          "#0B0B0B"
+        ],
+        "palette_role": {
+          "#0A0E1A": "dominant_night_sky",
+          "#1A2540": "cloud_shadow_blue",
+          "#2B3A5C": "cloud_highlight_blue",
+          "#E8E2D0": "moon_warm_highlight",
+          "#0B0B0B": "letterbox_black"
+        },
+        "color_relationship": "cool_field_with_single_warm_accent",
+        "temperature_balance": "cool_dominant",
+        "saturation_strategy": "low_saturation_moody",
+        "contrast_type": "luminance_pop_subject_on_dark",
+        "accent_color": "#E8E2D0",
+        "accent_ratio": 0.04
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A wide cinematic night-sky photograph rendered in a deep cool palette, presented inside a telescope or long-lens viewfinder heads-up-display. The frame has a strong anamorphic letterbox with thick black bars on the top and bottom, leaving a wide 2.35-style image area. Centered in the frame, slightly above the middle, hangs a small warm crescent moon — only the thin right-hand sliver brightly lit in pale ivory and cream, the rest of the lunar disc faintly visible as cool earthshine grey. The moon glows softly with a faint halo of lens bloom around its bright crescent. Surrounding and framing the moon is a translucent technical HUD overlay drawn in thin pale-grey lines: four L-shaped registration corner brackets near the edges of the image area, a sparse grid of small plus-sign cross-marks at regular intervals, and a fine central crosshair reticle that loosely brackets the moon as if it is the target of observation. In the lower-right corner, small monospace technical readout text reads a focal-length and magnification value such as 1000mm / 10mm = X10 on one line and an astronomical-unit line reading 0.0026 AU(astronomical unit, (1.58125 * 10-5)) just beneath it, both in dim grey. Also in the lower-right, slightly larger soft white Korean text credits the narrator. The sky behind the moon is a deep midnight navy-blue, textured with layered thin wispy clouds rendered as soft volumetric haze in slightly lighter desaturated blue-grey tones, drifting horizontally; a scatter of very faint stars dots the darker regions. The overall grade is cool, desaturated and moody, with crushed near-black shadows in the corners and a gentle vignette, evoking the quiet patient act of stargazing through an instrument. Fine cinematic film grain overlays the entire image. The composition isolates the tiny moon in a vast dark field, emphasizing distance, smallness and the longing to see something far away more closely. The mood is contemplative, scientific, and quietly aspirational, the visual prelude to a journey. The HUD readouts and crosshair communicate that we are looking THROUGH a tool — a telescope — rather than at the moon directly, a deliberate framing device. The warm tone of the crescent contrasts against the uniformly cool blue field, drawing the eye immediately to the single point of light. There are no people, no ground, no horizon — only sky, clouds, moon and the technical overlay. The letterbox bars and registration marks give the image a precise, cinematic, observational character, like a frame grab from a high-end documentary or a premium brand film about ambition and exploration. The clouds partially veil and reveal the crescent, adding gentle motion and atmosphere. This is the opening hook image of a Korean securities brand film whose thesis is that while everyone fixates on the telescope, the truly ambitious aim to go to the moon itself. Render in photoreal CG with crisp HUD vector lines, soft atmospheric depth, and a premium cinematic grade. The crescent should occupy only a tiny fraction of the frame, perhaps two to three percent of the total area, reinforcing how far away and unreachable the goal feels at this opening moment. The corner registration brackets are thin, precise and slightly luminous, drawn in a cool pale grey that reads as a digital instrument overlay rather than a painted graphic. The central crosshair reticle is delicate, formed of short tick marks rather than full crossing lines, so it suggests targeting without obscuring the moon. The monospace readout text in the lower right is small and slightly soft, as if rendered by a real optical display, with the magnification value and the astronomical-unit line stacked closely together. The narrator credit text sits just below and to the right, larger and softer than the technical readouts, in a clean Korean sans-serif. The cloud layers have genuine depth separation: nearer wisps are darker and softer-edged and move with more parallax, while farther, thinner cloud veils catch slightly more of the faint ambient skyglow and drift more slowly. A subtle cool vignette darkens all four corners, concentrating attention on the centered moon and its reticle. The black letterbox bars are absolutely pure, framing the wide image with cinematic restraint. The entire composition should feel patient, premium, and quietly yearning, a single small light held at arm's length through an instrument, the prologue to a journey that will eventually close that distance entirely. Aspect ratio 16:9 with internal anamorphic letterbox.",
+        "t2i_negative": "daytime, bright sky, full moon, warm orange grade, busy foreground objects, people, logos other than specified, harsh saturation, lens dirt, color noise",
+        "i2v_motion": "Near-locked frame with a very slow, almost imperceptible push toward the moon. Thin clouds drift slowly left-to-right, occasionally veiling the crescent. The HUD magnification readout steps up over the shot (X5 to X10 to X20) with the crosshair holding on the moon. The shot ends by dissolving as the HUD overlay fades out and the clouds thicken.",
+        "i2v_params": {
+          "clip_duration_sec": 5.756,
+          "camera_move": "very_slow_push_in",
+          "subject_motion_level": "minimal_cloud_drift",
+          "signature_effect": "telescope_hud_overlay_with_magnification_step",
+          "pacing": "slow",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen copy and HUD readouts preserved verbatim; narrator credit generic; no real logo"
+      }
+    },
+    {
+      "index": 2,
+      "duration": 2.711,
+      "framing": "wide",
+      "function": "transition_reveal",
+      "subject_action": "the_hud_dissolves_away_revealing_the_same_crescent_moon_as_a_clean_cinematic_image_among_thick_drifting_clouds_as_a_slow_push_begins",
+      "layout_grid": "centered_subject_no_overlay",
+      "subject_position": "center",
+      "typo_motion": "none",
+      "camera_angle": "eye_level_skyward",
+      "camera_facing": "looking_up_at_sky",
+      "shot_scope": "wide_sky",
+      "gaze": "none",
+      "props": [
+        "crescent_moon",
+        "thick_drifting_clouds",
+        "faint_stars"
+      ],
+      "color_palette": [
+        "#0A0F1C",
+        "#1C2A44",
+        "#33415E",
+        "#E6DECB",
+        "#070707"
+      ],
+      "color_intent": "clean_cool_night_blue_with_warm_moon_now_free_of_technical_frame",
+      "pose_description": "The telescope HUD has dissolved away. The same warm crescent moon now sits center frame as a clean cinematic image, surrounded by thicker, more dramatic blue-grey clouds that part and reveal it. The letterbox is slightly wider than the opening. A faint sense of forward motion begins as the camera starts to push toward the moon.",
+      "subject_motion": "clouds_part_and_drift",
+      "camera_motion": "slow_dolly_push_in",
+      "camera_effect_local": "dissolve_in_lens_glow",
+      "intra_cut_rhythm": "slow",
+      "transition_in": "dissolve",
+      "transition_out": "match_continue_push",
+      "mid_frame_path": "ADV-2026-031_frames/cut02_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "letterbox_bars"
+        ],
+        "midground": [
+          "crescent_moon"
+        ],
+        "background": [
+          "dramatic_blue_grey_clouds",
+          "dark_night_sky",
+          "faint_stars"
+        ],
+        "lighting_env": [
+          "night_ambient_self_lit_moon"
+        ],
+        "atmosphere": [
+          "cinematic_calm",
+          "opening_outward",
+          "anticipation_of_motion"
+        ]
+      },
+      "texture": {
+        "primary_subject": "soft_glowing_crescent_moon",
+        "secondary_objects": [
+          "volumetric_cloud_layers"
+        ],
+        "background_surface": "hazy_cloud_field",
+        "atmospheric": [
+          "night_haze",
+          "lens_glow",
+          "fine_grain"
+        ]
+      },
+      "lighting": {
+        "key_direction": "self_emissive_moon_center",
+        "key_hardness": "soft",
+        "key_color_temp": "warm_pale_on_cool_field",
+        "fill_strength": "low",
+        "key_to_fill_ratio": "high_contrast",
+        "rim_light": "glow_halo_around_crescent",
+        "practical_lights": [
+          "moon",
+          "faint_stars"
+        ],
+        "shadow_presence": "deep_dark_clouds",
+        "overall_contrast": "medium_high"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#0A0F1C",
+          "#1C2A44",
+          "#33415E",
+          "#E6DECB",
+          "#070707"
+        ],
+        "palette_role": {
+          "#0A0F1C": "dominant_night_sky",
+          "#1C2A44": "cloud_shadow",
+          "#33415E": "cloud_midtone",
+          "#E6DECB": "moon_highlight",
+          "#070707": "letterbox_black"
+        },
+        "color_relationship": "cool_field_with_single_warm_accent",
+        "temperature_balance": "cool_dominant",
+        "saturation_strategy": "low_saturation_cinematic",
+        "contrast_type": "luminance_pop_subject_on_dark",
+        "accent_color": "#E6DECB",
+        "accent_ratio": 0.05
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A clean wide cinematic night-sky photograph with a strong anamorphic 2.35-style letterbox, no technical overlay or HUD present. Centered in the frame and slightly right of middle hangs a warm crescent moon, the bright sliver in pale ivory-cream with the rest of the disc faintly visible as cool grey earthshine, ringed by a soft halo of lens bloom. The moon is partially veiled and revealed by thick, dramatic layered clouds rendered as deep blue-grey volumetric haze that fills much of the frame, with a denser bank of cloud sweeping across the lower third. The sky behind is a deep midnight navy-blue with a scatter of faint stars in the clearer patches near the top. The grade is cool and desaturated with crushed shadows, a gentle vignette toward the corners, and fine cinematic film grain over the whole image. The mood is calm, cinematic and quietly expectant — the moment the observational instrument falls away and we simply behold the moon directly, the start of an imagined journey toward it. There are no people, no ground, no horizon, no text — only moon, clouds and dark sky. The clouds have soft, painterly, volumetric edges catching faint cool moonlight along their tops. The composition isolates the single warm point of the crescent against the vast cool field, emphasizing scale, distance and longing. This frame should feel like the second beat of a premium Korean securities brand film, immediately after a telescope viewfinder overlay has dissolved away, beginning a continuous push toward the moon. The warm crescent is the only point of warmth in an otherwise uniformly cool blue composition. The image carries an aspirational, awe-tinged stillness, with the faint suggestion of forward motion as if the viewer has begun, almost imperceptibly, to move toward the distant moon. Render in photoreal CG with soft atmospheric depth, layered drifting clouds, a delicate lens glow on the crescent, and a refined cinematic grade. The cloud layers should have depth separation, nearer clouds darker and softer, farther clouds catching slightly more of the cool ambient light. The overall effect is one of opening outward into a larger story. The crescent remains small but feels slightly closer and more present than in the opening telescope frame, as if the act of removing the instrument has already begun to collapse the distance. The bright sliver of the crescent shows faint surface texture along its terminator, a hint of crater shadow, even at this scale, rewarding a close look. The lens bloom around the crescent is soft and circular, blooming gently into the surrounding dark without harsh flare spikes. The denser cloud bank sweeping across the lower third of the frame is rendered with rich internal volume, its underside falling into near-black while its upper edges catch a thin rim of cool moonlight. Higher in the frame, the sky opens to clearer, darker navy where a faint dusting of stars becomes visible between cloud gaps. A gentle cinematic vignette and crushed shadows keep the corners dark and the eye centered. The grain is fine and filmic, unifying the cloud volumetrics and the moon into a single cohesive cinematic image. Everything in this beat should communicate stillness on the verge of motion, the held breath before a forward plunge, the second beat of a premium brand film building toward an awe-inspiring journey to the moon. Color stays resolutely cool and desaturated, the warm crescent the lone exception, so that the eventual neutral grey of the lunar surface will feel like a payoff of arrival. Aspect ratio 16:9 with internal anamorphic letterbox bars top and bottom.",
+        "t2i_negative": "hud overlay, crosshair, brackets, text, daytime, full moon, warm orange sky, people, logos, harsh saturation, sharp foreground objects",
+        "i2v_motion": "A slow steady dolly push toward the moon. Thick clouds part and drift, momentarily veiling and revealing the crescent, with subtle parallax between cloud layers. The lens glow on the crescent gently pulses. The shot flows continuously into the next beat as the push accelerates.",
+        "i2v_params": {
+          "clip_duration_sec": 2.711,
+          "camera_move": "slow_dolly_push_in",
+          "subject_motion_level": "cloud_drift_and_parallax",
+          "signature_effect": "lens_glow_and_volumetric_clouds",
+          "pacing": "slow",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; no on-screen copy in this beat; identity/logo generic"
+      }
+    },
+    {
+      "index": 3,
+      "duration": 12.933,
+      "framing": "wide_to_extreme_close",
+      "function": "journey_centerpiece_long_take",
+      "subject_action": "a_continuous_accelerating_flight_dives_through_the_clouds_into_black_space_toward_the_growing_moon_then_skims_low_and_fast_over_the_photoreal_lunar_surface_in_a_descent",
+      "layout_grid": "centered_subject_growing_to_full_frame_surface",
+      "subject_position": "center_then_fills_frame",
+      "typo_motion": "none",
+      "camera_angle": "forward_dive_then_top_down_flyover",
+      "camera_facing": "into_the_moon_then_down_at_surface",
+      "shot_scope": "space_to_surface",
+      "gaze": "none",
+      "props": [
+        "moon_sphere",
+        "lunar_craters",
+        "mountain_ridges",
+        "terminator_shadow_line",
+        "streaking_cloud_particles",
+        "regolith_dust"
+      ],
+      "color_palette": [
+        "#0A0F1C",
+        "#3A3A38",
+        "#8C8A82",
+        "#C9C6BC",
+        "#050505"
+      ],
+      "color_intent": "transition_from_cool_blue_cloud_dive_to_neutral_grey_photoreal_lunar_surface",
+      "pose_description": "One continuous accelerating move: the camera dives through streaking cloud layers into black space while the crescent moon grows from a small disc into a full detailed sphere with visible maria, craters and a stark terminator line; the move then drops to skim fast and low over the photoreal lunar surface, racing over crater rims, central peaks and ridges as if descending to land. No cuts; pure CG continuous journey.",
+      "subject_motion": "moon_grows_then_surface_rushes_past",
+      "camera_motion": "continuous_accelerating_dive_and_low_flyover",
+      "camera_effect_local": "motion_streaks_and_subtle_speed_blur",
+      "intra_cut_rhythm": "accelerating",
+      "transition_in": "match_continue_push",
+      "transition_out": "hard_cut",
+      "mid_frame_path": "ADV-2026-031_frames/cut03_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "streaking_cloud_particles",
+          "near_crater_rims",
+          "letterbox_bars"
+        ],
+        "midground": [
+          "growing_moon_sphere",
+          "lunar_craters_and_ridges"
+        ],
+        "background": [
+          "black_space",
+          "distant_lunar_terrain"
+        ],
+        "lighting_env": [
+          "hard_directional_sunlight_in_space"
+        ],
+        "atmosphere": [
+          "acceleration",
+          "awe",
+          "arrival",
+          "vast_scale"
+        ]
+      },
+      "texture": {
+        "primary_subject": "photoreal_lunar_regolith_and_craters",
+        "secondary_objects": [
+          "wispy_cloud_streaks",
+          "rocky_ridge_detail"
+        ],
+        "background_surface": "black_space_then_grey_terrain",
+        "atmospheric": [
+          "speed_streaks",
+          "fine_grain",
+          "subtle_motion_blur"
+        ]
+      },
+      "lighting": {
+        "key_direction": "low_raking_side_sun_on_surface",
+        "key_hardness": "hard",
+        "key_color_temp": "neutral_to_cool_white",
+        "fill_strength": "very_low",
+        "key_to_fill_ratio": "very_high_contrast",
+        "rim_light": "glow_rim_on_moon_limb_then_bright_crater_edges",
+        "practical_lights": [
+          "sun"
+        ],
+        "shadow_presence": "long_hard_crater_shadows",
+        "overall_contrast": "very_high"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#0A0F1C",
+          "#3A3A38",
+          "#8C8A82",
+          "#C9C6BC",
+          "#050505"
+        ],
+        "palette_role": {
+          "#0A0F1C": "early_cool_cloud_field",
+          "#3A3A38": "lunar_shadow_grey",
+          "#8C8A82": "lunar_midtone_regolith",
+          "#C9C6BC": "lunar_highlight_rim",
+          "#050505": "black_space_and_letterbox"
+        },
+        "color_relationship": "near_monochrome_grey_with_residual_cool_open",
+        "temperature_balance": "neutral",
+        "saturation_strategy": "very_low_saturation_documentary_realism",
+        "contrast_type": "hard_directional_relief",
+        "accent_color": "#C9C6BC",
+        "accent_ratio": 0.2
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A dynamic cinematic CG frame from the middle of a continuous flight toward and onto the moon, captured as a wide-to-close action moment with a strong anamorphic 2.35-style letterbox. In this representative beat, the camera is diving through the last veils of thin cloud into the blackness of space while a large, highly detailed photoreal moon dominates the frame, its bright sunlit hemisphere on the right showing intricate grey maria, ray craters and rugged highland texture, and a stark terminator line dividing it from the shadowed left hemisphere rendered in faint cool earthshine. A subtle glow rim traces the moon's bright limb. Faint streaks of motion — wispy cloud particles and fine speed lines — rush past toward the camera at the edges of the frame, conveying acceleration and forward dive. The sky around the moon is pure deep black space with a sparse scatter of tiny stars. As a panel of the same continuous move (to be decomposed in animation), the flight then drops to skim fast and low over the photoreal lunar surface: a top-down and oblique rush over enormous crater rims, terraced central peaks, boulder fields and ridge lines, the regolith rendered in neutral dusty greys with hard raking sunlight casting long black shadows that reveal every undulation of the terrain. The grade is desaturated and near-monochrome grey, documentary-realistic, with crushed black shadows, bright but not blown highlights on sunlit slopes, and fine cinematic film grain throughout. There are no people, no text, no spacecraft visible in this beat — only the moon, space and the rushing surface. The mood is one of awe, momentum and arrival, the emotional and visual climax build of the journey from a tiny telescope view to standing on the moon. The composition uses the centered growing sphere and then the surface filling the frame to communicate scale collapsing as the viewer closes the impossible distance. Render in high-fidelity photoreal CG: physically based lunar regolith shading, accurate hard sunlight and long crater shadows, subtle volumetric haze on the remaining cloud wisps, and a refined cinematic grade. The speed streaks and motion cues should imply rapid continuous travel rather than a static observation. The overall effect is breathtaking forward motion through space culminating in a low, fast descent over alien grey terrain. In the upper panel, the moon's sunlit hemisphere should reveal recognizable photoreal detail: broad dark basaltic maria, bright ejecta rays radiating from younger impact craters, and rugged cratered highlands, all rendered with physically accurate albedo and no atmospheric softening since there is no air. The terminator line is crisp and dramatic, the boundary where raking sunlight gives way to shadow, with crater rims along it casting exaggerated long shadows that emphasize the three-dimensional relief of the surface. In the lower panel, as the camera skims low and fast, individual landforms rush past with strong parallax: the terraced inner walls of a large crater, a cluster of central peaks catching the sun, boulder fields, scarps and rilles, the regolith showing fine powdery texture and subtle variations of grey from near-white sunlit slopes to charcoal shadowed hollows. Faint speed streaks and a touch of directional motion blur on the nearest terrain sell the velocity. The black of space is pure and deep with only a sparse scatter of pinpoint stars, no nebulae or colorful elements. The grade remains near-monochrome and documentary-realistic throughout, crushed blacks, controlled highlights, fine film grain, anamorphic letterbox. The emotional register climbs from awe to exhilaration to the hush of imminent arrival as the surface fills the frame. This is the visual and emotional centerpiece of the film, the impossible distance of the opening telescope shot finally and continuously collapsed into the tangible nearness of the ground, setting up the human payoff of the first footstep that follows. Panel layout: (1) upper/center — the growing detailed moon sphere against black space with motion streaks; (2) lower — the low fast flyover of crater-strewn lunar surface in hard raking light. Aspect ratio 16:9 with internal anamorphic letterbox bars.",
+        "t2i_negative": "people, astronauts in this beat, spacecraft, text, logos, colorful sky, atmosphere on the moon, warm grade, full daylight flat lighting, low detail surface, cartoonish",
+        "i2v_motion": "One continuous accelerating camera move: dive forward through thinning cloud streaks into black space as the moon grows from a small disc to a full sphere, then pitch down and drop into a fast low flyover skimming over crater rims and ridges as if descending to land. Speed streaks intensify through the dive and settle as the surface fills the frame. Hard crater shadows sweep past. Ends on a hard cut.",
+        "i2v_params": {
+          "clip_duration_sec": 12.933,
+          "camera_move": "continuous_accelerating_dive_then_low_flyover",
+          "subject_motion_level": "high_subject_scale_change_and_surface_rush",
+          "signature_effect": "space_dive_motion_streaks_and_photoreal_lunar_surface",
+          "pacing": "accelerating",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; continuous long-take decomposed into panels for i2v; no on-screen copy; identity/logo generic"
+      }
+    },
+    {
+      "index": 4,
+      "duration": 1.915,
+      "framing": "close_up",
+      "function": "payoff_first_step",
+      "subject_action": "a_top_down_pov_of_a_white_astronaut_boot_stepping_down_onto_the_lunar_dust_kicking_up_regolith_beside_existing_footprints",
+      "layout_grid": "boot_lower_center_pov_with_footprints_right",
+      "subject_position": "center_lower",
+      "typo_motion": "none",
+      "camera_angle": "top_down_pov",
+      "camera_facing": "looking_down_at_own_feet",
+      "shot_scope": "close_up",
+      "gaze": "none",
+      "props": [
+        "white_spacesuit_boot",
+        "ribbed_boot_sole",
+        "lunar_dust",
+        "scattered_rocks",
+        "existing_footprints"
+      ],
+      "color_palette": [
+        "#7E7C74",
+        "#A6A39A",
+        "#D7D4CB",
+        "#2C2B28",
+        "#F2EFE8"
+      ],
+      "color_intent": "neutral_grey_regolith_with_bright_white_boot_as_the_human_arrival",
+      "pose_description": "A first-person top-down view looking down at one's own white spacesuit boot as it presses and steps into the soft grey lunar dust, the corrugated sole pushing into the regolith and kicking up a small puff of dust. The lower leg of the white suit is visible at left casting a hard shadow. To the right, one or two clean footprints already mark the untouched surface among scattered small rocks.",
+      "subject_motion": "boot_steps_down_dust_kicks_up",
+      "camera_motion": "pov_settle_slight_bob",
+      "camera_effect_local": "dust_kick_particulate",
+      "intra_cut_rhythm": "medium",
+      "transition_in": "hard_cut",
+      "transition_out": "hard_cut",
+      "mid_frame_path": "ADV-2026-031_frames/cut04_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "white_boot",
+          "lower_suit_leg",
+          "kicked_dust"
+        ],
+        "midground": [
+          "lunar_dust_surface",
+          "small_rocks"
+        ],
+        "background": [
+          "existing_footprints",
+          "darker_surface_edge"
+        ],
+        "lighting_env": [
+          "hard_directional_sunlight"
+        ],
+        "atmosphere": [
+          "arrival",
+          "human_triumph",
+          "intimate_scale"
+        ]
+      },
+      "texture": {
+        "primary_subject": "white_quilted_spacesuit_boot",
+        "secondary_objects": [
+          "ribbed_rubber_sole",
+          "fine_regolith_dust",
+          "small_basalt_rocks"
+        ],
+        "background_surface": "powdery_lunar_regolith",
+        "atmospheric": [
+          "dust_particulate",
+          "fine_grain"
+        ]
+      },
+      "lighting": {
+        "key_direction": "hard_low_side_sun",
+        "key_hardness": "hard",
+        "key_color_temp": "neutral_white",
+        "fill_strength": "very_low",
+        "key_to_fill_ratio": "very_high_contrast",
+        "rim_light": "bright_edge_on_boot_top",
+        "practical_lights": [
+          "sun"
+        ],
+        "shadow_presence": "hard_black_boot_and_leg_shadow",
+        "overall_contrast": "very_high"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#7E7C74",
+          "#A6A39A",
+          "#D7D4CB",
+          "#2C2B28",
+          "#F2EFE8"
+        ],
+        "palette_role": {
+          "#7E7C74": "regolith_midtone",
+          "#A6A39A": "lit_dust",
+          "#D7D4CB": "bright_dust_highlight",
+          "#2C2B28": "hard_shadow",
+          "#F2EFE8": "white_boot"
+        },
+        "color_relationship": "monochrome_grey_with_bright_white_subject",
+        "temperature_balance": "neutral",
+        "saturation_strategy": "near_zero_saturation",
+        "contrast_type": "hard_directional_relief",
+        "accent_color": "#F2EFE8",
+        "accent_ratio": 0.18
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A first-person, top-down point-of-view cinematic CG photograph looking straight down at one's own feet on the surface of the moon, with a strong anamorphic 2.35-style letterbox. In the lower-center of the frame, a single white astronaut spacesuit boot presses down into the soft powdery grey lunar regolith; the boot is the classic bulbous quilted overshoe style with a thick corrugated ribbed rubber sole, rendered in worn off-white and pale grey fabric. The lower leg of the white pressure suit rises from the boot at the left side of the frame, its rounded white form catching hard sunlight on top and casting a sharp, hard-edged black shadow across the dust to the left. As the boot makes contact, a small soft puff of fine grey dust is kicked up and outward, hanging briefly with no air to disperse it. The surrounding lunar surface is a fine powdery regolith in neutral dusty greys, pocked with countless tiny pits and dotted with a few scattered small dark basalt rocks. To the right of the boot, one or two crisp, clean footprints already mark the otherwise untouched powder, each showing the distinct ribbed tread pattern pressed sharply into the dust, with small rocks nearby casting their own hard little shadows. The lighting is hard and strongly directional, a low raking sun creating brilliant highlights on the boot and surface ridges and deep black shadows, with almost no fill, giving the scene the stark high-contrast look of real lunar photography. The grade is desaturated and near-monochrome grey, documentary-realistic, with crushed blacks and bright but controlled highlights, and fine cinematic film grain over the whole image. There is no text in this beat. The mood is intimate and triumphant — the iconic, deeply human moment of taking the first step onto the moon after the long journey, scale collapsing from cosmic distance to the contact of a single foot with alien ground. The composition places the boot and its kicked dust as the clear focal point with the existing footprints providing narrative context that a journey has been completed and a place has been reached. Render in high-fidelity photoreal CG: physically based regolith shading, accurate hard sunlight and dust behavior in vacuum, realistic worn spacesuit fabric, and a refined cinematic grade matching the look of historical moon-landing imagery while remaining a generic, non-branded spacesuit. The boot and footprints should feel weighty and real, the dust fine and powdery. The overall effect is the emotional payoff of arrival and human achievement. The white spacesuit fabric should read as a real engineered material: a quilted, slightly soiled outer layer with visible seams and panel lines, scuffed pale grey at the contact points, catching a hard specular highlight along its sunlit top edge. The corrugated sole, as it presses down, displaces the powder outward in a small radial ridge, and the kicked dust rises in fine straight-line trajectories that fall back without billowing, the unmistakable signature of vacuum and low gravity rather than an Earthbound dust cloud. The regolith immediately around the contact compresses into a clean impression while the undisturbed powder a few centimeters away retains its delicate pocked micro-texture. The hard sunlight rakes from a low angle off to one side, so the boot, the lower leg and every rock and ridge throw long, crisp, utterly black shadows that exaggerate the relief and the sense of a real, harshly lit place. The existing footprints to the right are sharp and recent, their tread grooves deep and shadow-filled, telling the viewer that the journey has been completed and these are the first marks of a human presence. Color is essentially absent, a disciplined near-monochrome of greys and whites, so the eye reads texture, light and form rather than hue. Fine cinematic grain and a subtle vignette unify the frame. The emotional weight of this beat comes from its intimacy and restraint: after the vast cosmic dive, the entire story narrows to the simple, monumental fact of one foot touching the moon. Keep the suit and boot generic with no agency insignia or flag, and include no text in this beat. Aspect ratio 16:9 with internal anamorphic letterbox bars top and bottom.",
+        "t2i_negative": "earth gravity dust behavior, color saturation, blue sky, atmosphere, branded boot, faces, multiple people, text, soft flat lighting, low detail",
+        "i2v_motion": "From a hard cut, the boot descends and plants firmly into the dust, kicking up a soft slow puff of regolith that hangs and settles in the low gravity. The POV settles with a slight natural bob. Existing footprints hold steady to the right. Ends on a hard cut to a black type card.",
+        "i2v_params": {
+          "clip_duration_sec": 1.915,
+          "camera_move": "pov_settle_slight_bob",
+          "subject_motion_level": "boot_step_and_dust_kick",
+          "signature_effect": "low_gravity_dust_kick",
+          "pacing": "medium",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; generic spacesuit, no insignia; no on-screen copy in this beat; identity/logo generic"
+      }
+    },
+    {
+      "index": 5,
+      "duration": 5.005,
+      "framing": "graphic_card",
+      "function": "manifesto_copy_build",
+      "subject_action": "white_kinetic_korean_typography_builds_line_by_line_on_a_pure_black_screen",
+      "layout_grid": "centered_stacked_lines",
+      "subject_position": "center",
+      "typo_motion": "line_by_line_build_fade_in",
+      "camera_angle": "flat_on_card",
+      "camera_facing": "flat",
+      "shot_scope": "typographic_card",
+      "gaze": "none",
+      "props": [
+        "white_korean_headline_type",
+        "pure_black_background"
+      ],
+      "color_palette": [
+        "#000000",
+        "#FFFFFF",
+        "#EDEDED",
+        "#0A0A0A",
+        "#1A1A1A"
+      ],
+      "color_intent": "maximum_contrast_white_on_black_for_manifesto_clarity",
+      "pose_description": "On a pure black screen, bold white Korean sans-serif type appears centered and builds in stages: first the brand fragment '토스,', then completing to '토스, 금융부터 바꾼다', then a second line fades in beneath: '모든 것을 바꿀 때까지'. The type is clean, confident and held still after each build.",
+      "subject_motion": "type_fades_in_stepwise",
+      "camera_motion": "locked",
+      "camera_effect_local": "none",
+      "intra_cut_rhythm": "medium",
+      "transition_in": "hard_cut",
+      "transition_out": "hard_cut",
+      "mid_frame_path": "ADV-2026-031_frames/cut05_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "white_headline_type"
+        ],
+        "midground": [],
+        "background": [
+          "pure_black_field"
+        ],
+        "lighting_env": [
+          "flat_graphic_no_lighting"
+        ],
+        "atmosphere": [
+          "declarative",
+          "focused",
+          "manifesto"
+        ]
+      },
+      "texture": {
+        "primary_subject": "crisp_vector_type",
+        "secondary_objects": [],
+        "background_surface": "flat_black",
+        "atmospheric": [
+          "none"
+        ]
+      },
+      "lighting": {
+        "key_direction": "none_flat_graphic",
+        "key_hardness": "n_a",
+        "key_color_temp": "neutral",
+        "fill_strength": "n_a",
+        "key_to_fill_ratio": "n_a",
+        "rim_light": "none",
+        "practical_lights": [],
+        "shadow_presence": "none",
+        "overall_contrast": "maximum"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#000000",
+          "#FFFFFF",
+          "#EDEDED",
+          "#0A0A0A",
+          "#1A1A1A"
+        ],
+        "palette_role": {
+          "#000000": "dominant_background",
+          "#FFFFFF": "headline_type",
+          "#EDEDED": "type_antialias_edge",
+          "#0A0A0A": "near_black_fill",
+          "#1A1A1A": "subtle_variation"
+        },
+        "color_relationship": "pure_monochrome_max_contrast",
+        "temperature_balance": "neutral",
+        "saturation_strategy": "zero_saturation",
+        "contrast_type": "graphic_text_on_black",
+        "accent_color": "#FFFFFF",
+        "accent_ratio": 0.08
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A minimalist typographic title card rendered on a completely pure black full-frame background, with bold clean white Korean sans-serif headline type set centered in the frame. The composition is calm, confident and high-contrast, the only elements being the white text and the surrounding void of black. In this representative held state, two centered lines of text are stacked: the first line reads the brand manifesto headline in bold white Korean characters '토스, 금융부터 바꾼다', and a second line of equal weight fades in beneath it reading '모든 것을 바꿀 때까지'. The typeface is a modern geometric humanist sans-serif with even strokes and generous but tight letter-spacing, crisp and perfectly legible, with subtle anti-aliasing on the edges. The text is pure white at full brightness against the absolute black field, giving maximum contrast and a premium, declarative, manifesto-like quality. There are no other graphics, no logo yet, no decoration, no gradient, no texture — only the centered white type on black. The layout is balanced and centered both horizontally and vertically as a block, with comfortable line spacing between the two lines. The mood is resolute and brand-forward, the verbal climax of a cinematic journey, distilling the brand's ambition into plain confident words. Render as a clean motion-graphics title card: vector-sharp type, true black background suitable for an OLED-deep look, faint cinematic film grain optionally over the black to match the surrounding footage. The text should feel like the kind of bold black-card statement used in premium Korean brand films, where the visuals fall away and only the words remain. This card is part of a stepwise build: earlier it showed only the fragment '토스,' then completed to the first full line, then this second line was added. Preserve the Korean copy exactly as written. The overall effect is stark, focused and emotionally weighty, letting the preceding imagery resonate while the brand makes its declaration. Aspect ratio 16:9, full-frame black with centered white headline typography, no letterbox bars needed since the field is already black. Keep the type optically centered and the weight bold but not heavy, elegant and modern rather than aggressive. The first line and second line should share the same point size and weight so the statement reads as a single balanced block rather than a hierarchy, with the comma after the brand name giving a natural breath before the promise. Letterforms should be clean Korean Hangul syllable blocks with consistent stroke contrast, slightly condensed counters, and crisp terminals, the kind of refined corporate sans used in premium Korean fintech branding. The white should be a true neutral white with no tint, sitting at full luminance against an absolute black that has only the faintest, optional film grain to keep it from banding and to match the grain of the surrounding live footage. There must be no gradients, no glows, no drop shadows, no underlines, no decorative rules, and no logo in this state. The negative space around the text block is generous and symmetrical, framing the words in calm emptiness so that each word lands with deliberate weight. The vertical centering should be optically balanced, the two-line block sitting just at or slightly above the true center of the frame. The mood is confident, distilled and a little austere, the verbal climax that lets the preceding cosmic journey resonate in silence. This card is one held state within a stepwise kinetic build that began with the single fragment of the brand name and completed line by line; preserve the exact Korean wording and punctuation as written. The result should feel like a flagship brand manifesto title card, the kind that appears at the emotional peak of a high-end commercial when the imagery falls away and only the conviction of the words remains, simple, bold, and unmistakably premium.",
+        "t2i_negative": "photographic background, imagery, color, gradients, logos other than specified, serif fonts, decorative flourishes, off-white background, drop shadows, clutter",
+        "i2v_motion": "On a black field, type builds in stages with quick clean fades: '토스,' appears, completes to '토스, 금융부터 바꾼다', then a second line '모든 것을 바꿀 때까지' fades in beneath. Each state holds still and steady. Ends on a hard cut to the bootprint card.",
+        "i2v_params": {
+          "clip_duration_sec": 5.005,
+          "camera_move": "locked",
+          "subject_motion_level": "type_fade_build_only",
+          "signature_effect": "kinetic_typography_on_black",
+          "pacing": "medium",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen Korean copy preserved verbatim; brand wordmark generic"
+      }
+    },
+    {
+      "index": 6,
+      "duration": 3.91,
+      "framing": "close_up",
+      "function": "cta_logo_lockup",
+      "subject_action": "a_macro_apollo_style_bootprint_in_lunar_dust_holds_as_white_kinetic_copy_builds_and_resolves_into_the_toss_logo_lockup",
+      "layout_grid": "bootprint_center_with_centered_overlay_type_then_logo",
+      "subject_position": "center",
+      "typo_motion": "kinetic_copy_build_then_logo_reveal",
+      "camera_angle": "top_down",
+      "camera_facing": "down_at_surface",
+      "shot_scope": "close_up",
+      "gaze": "none",
+      "props": [
+        "deep_ribbed_bootprint",
+        "lunar_dust",
+        "scattered_rocks",
+        "white_kinetic_copy",
+        "toss_logo_lockup"
+      ],
+      "color_palette": [
+        "#6F6D66",
+        "#9C998F",
+        "#C8C5BC",
+        "#26251F",
+        "#FFFFFF"
+      ],
+      "color_intent": "neutral_grey_regolith_with_white_type_and_logo_for_brand_close",
+      "pose_description": "A top-down macro of a single deep, sharply pressed Apollo-style bootprint in fine grey lunar dust, the ribbed tread crisp and three-dimensional, with small rocks and a partial second print at the edges. Centered white kinetic copy builds over it — '대담하게,' then '대담하게, 집요하게,' — before resolving into the clean white Toss logo lockup (a filled circle next to a lowercase wordmark) centered over the print.",
+      "subject_motion": "subtle_slow_push_static_print",
+      "camera_motion": "very_slow_push_in",
+      "camera_effect_local": "none",
+      "intra_cut_rhythm": "slow",
+      "transition_in": "hard_cut",
+      "transition_out": "fade_to_black",
+      "mid_frame_path": "ADV-2026-031_frames/cut06_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "deep_bootprint_tread",
+          "white_type_and_logo"
+        ],
+        "midground": [
+          "lunar_dust_surface",
+          "small_rocks"
+        ],
+        "background": [
+          "darker_surface_edges"
+        ],
+        "lighting_env": [
+          "hard_directional_sunlight"
+        ],
+        "atmosphere": [
+          "legacy",
+          "resolve",
+          "brand_signature"
+        ]
+      },
+      "texture": {
+        "primary_subject": "deep_ribbed_bootprint_in_regolith",
+        "secondary_objects": [
+          "small_basalt_rocks",
+          "fine_dust"
+        ],
+        "background_surface": "powdery_lunar_regolith",
+        "atmospheric": [
+          "fine_grain"
+        ]
+      },
+      "lighting": {
+        "key_direction": "hard_low_side_sun",
+        "key_hardness": "hard",
+        "key_color_temp": "neutral_white",
+        "fill_strength": "very_low",
+        "key_to_fill_ratio": "very_high_contrast",
+        "rim_light": "bright_edges_on_tread_ridges",
+        "practical_lights": [
+          "sun"
+        ],
+        "shadow_presence": "deep_shadows_in_tread_grooves",
+        "overall_contrast": "very_high"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#6F6D66",
+          "#9C998F",
+          "#C8C5BC",
+          "#26251F",
+          "#FFFFFF"
+        ],
+        "palette_role": {
+          "#6F6D66": "regolith_midtone",
+          "#9C998F": "lit_dust",
+          "#C8C5BC": "bright_tread_ridge",
+          "#26251F": "tread_groove_shadow",
+          "#FFFFFF": "type_and_logo"
+        },
+        "color_relationship": "monochrome_grey_with_white_graphic_overlay",
+        "temperature_balance": "neutral",
+        "saturation_strategy": "near_zero_saturation",
+        "contrast_type": "hard_directional_relief_plus_graphic_text",
+        "accent_color": "#FFFFFF",
+        "accent_ratio": 0.12
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A top-down macro cinematic CG photograph of a single deep, crisply pressed astronaut bootprint in fine powdery grey lunar dust, with a strong anamorphic 2.35-style letterbox, serving as the closing brand frame. The bootprint is the iconic Apollo-style impression: a long oval sole pressed deep into the regolith, its distinctive horizontal ribbed tread pattern rendered in sharp three-dimensional relief, each ridge catching a bright highlight on top and each groove falling into deep black shadow under the hard, low, raking sunlight. The print sits centered in the frame, pushed cleanly into the otherwise undisturbed fine grey powder. Around the edges of the frame, scattered small dark basalt rocks and a partial second footprint provide context and texture, each casting its own hard little shadow. The surrounding surface is a fine, pocked, powdery regolith in neutral dusty greys. The lighting is hard and strongly directional with almost no fill, giving the stark high-contrast look of authentic lunar surface photography, crushed blacks and controlled bright highlights, with fine cinematic film grain over the whole image. Overlaid centered on top of the bootprint is clean white graphic content: in the build, bold white Korean kinetic copy reads first '대담하게,' and then '대담하게, 집요하게,' before resolving into the final brand logo lockup — a clean filled white circle beside a lowercase sans-serif wordmark, set centered over the print in pure white. The white type and logo contrast crisply against the grey dust. The mood is one of legacy, quiet resolve and brand signature, tying the human achievement of the first footprint to the brand's promise of bold, persistent ambition. The composition centers the print and the overlaid graphics for a clean, premium, conclusive brand lockup. Render in high-fidelity photoreal CG: physically based regolith shading, accurate hard sunlight and deep tread shadows, realistic fine dust, with crisp vector-sharp white type and logo composited cleanly on top. The bootprint should feel weighty, real and iconic. The overall effect is a confident, cinematic brand close that earns its emotional weight from the preceding journey. Preserve the Korean copy exactly. Keep the spacesuit/footprint generic and the wordmark generic. The bootprint itself should be the hero: a long oval impression with the classic horizontal ribbed Apollo tread, each parallel ridge pressed sharply into the fine grey powder so that the ridges catch crisp highlights and the grooves between them fall into deep, clean black shadow under the hard low sun. The depth of the print suggests real mass pressing into soft regolith, with a slight raised lip of displaced dust around its perimeter. The undisturbed powder surrounding the print retains its delicate pocked micro-texture, dotted with a few small dark basalt rocks and a partial second print near the frame edge, each casting its own hard little shadow that reinforces the strong single-source lighting. The grade is a disciplined near-monochrome of greys, crushed blacks and controlled highlights, with fine cinematic film grain and a subtle vignette unifying the frame. The white overlay graphics must be vector-crisp and perfectly legible against the grey: in the kinetic build the bold white Korean copy reads first the single adverb fragment, then the two-adverb phrase, before the brand logo lockup resolves cleanly centered over the print, a simple filled white circle set beside a lowercase sans-serif wordmark, balanced and generous in its spacing. The composition is centered and conclusive, tying the monumental human act of the first footprint to the brand's promise of bold, persistent ambition. The mood is one of legacy, quiet resolve and earned confidence, a cinematic brand close whose emotional weight is paid for by the long journey that preceded it. Everything should feel premium, restrained and iconic, the kind of final frame that lingers. Preserve the exact Korean copy and punctuation, keep the footprint and wordmark generic with no real insignia, and let the white type and logo float cleanly over the textured grey dust. Aspect ratio 16:9 with internal anamorphic letterbox bars top and bottom, white centered typography and logo over the centered bootprint.",
+        "t2i_negative": "color saturation, blue sky, atmosphere, branded insignia other than specified, faces, multiple distinct logos, serif fonts, soft flat lighting, low detail dust, cluttered overlay",
+        "i2v_motion": "From a hard cut, the macro bootprint holds with a very slow, almost imperceptible push in. White kinetic copy builds over it: '대담하게,' then '대담하게, 집요하게,', then the copy resolves and the Toss logo lockup fades in centered over the print. Holds, then a gentle fade to black at the very end.",
+        "i2v_params": {
+          "clip_duration_sec": 3.91,
+          "camera_move": "very_slow_push_in",
+          "subject_motion_level": "near_static_print_with_type_build",
+          "signature_effect": "kinetic_copy_resolving_to_logo_lockup",
+          "pacing": "slow",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen Korean copy preserved verbatim; bootprint and wordmark generic; no real logo asset"
+      }
+    }
+  ],
+  "search_keywords": {
+    "industry": [
+      "finance",
+      "securities",
+      "stock_investing",
+      "fintech",
+      "brokerage"
+    ],
+    "product_category": [
+      "investing_app",
+      "stock_trading",
+      "brand_film",
+      "financial_services"
+    ],
+    "target_demo": [
+      "retail_investors",
+      "young_adults",
+      "digitally_native",
+      "ambitious_savers"
+    ],
+    "media_format": [
+      "brand_film",
+      "cinematic_spot",
+      "anamorphic",
+      "vfx_cg",
+      "long_take"
+    ],
+    "tone": [
+      "epic",
+      "aspirational",
+      "bold",
+      "contemplative",
+      "manifesto"
+    ],
+    "pacing": [
+      "slow_build",
+      "accelerating",
+      "climactic_payoff",
+      "typographic_resolve"
+    ],
+    "technique": [
+      "continuous_journey",
+      "telescope_hud_overlay",
+      "space_dive",
+      "match_dissolve",
+      "kinetic_typography",
+      "pov_shot"
+    ],
+    "vfx_keywords": [
+      "volumetric_clouds",
+      "photoreal_moon",
+      "lunar_surface_cg",
+      "motion_streaks",
+      "lens_glow",
+      "letterbox"
+    ],
+    "copy_strategy_keywords": [
+      "parable",
+      "reframe_tool_vs_goal",
+      "manifesto_build",
+      "two_adverb_rallying_cry",
+      "brand_promise"
+    ],
+    "concept_derivation_pattern": [
+      "metaphor_journey",
+      "tool_vs_goal_reframe",
+      "moon_landing_homage",
+      "ambition_as_destination"
+    ]
+  },
+  "inferred_creative_thinking": {
+    "insight": "Most investing brands sell the tool (the app, the chart, the lens); the more powerful promise is the destination itself — actually getting there.",
+    "persona": "An ambitious retail investor who is tired of incremental, tool-obsessed messaging and is drawn to a brand that promises to fundamentally change the game.",
+    "moment": "The awe of watching a distant goal grow closer until you are standing on it — the felt difference between observing and arriving.",
+    "product_role": "Toss Securities is positioned as the vehicle that takes you to the goal directly, not just a better telescope to look at it.",
+    "punchline": "While everyone perfects the telescope, we go to the moon — boldly, persistently.",
+    "differentiator": "Reframes the entire category from tool-quality to destination-ambition, dramatized as a single cinematic journey from telescope view to first footstep.",
+    "brand_fit_one_liner": "Toss Securities as the relentless challenger that changes finance itself, not just the interface.",
+    "confidence": "inferred"
+  },
+  "inferred_brief": "Position Toss Securities as a boldly ambitious challenger by reframing investing from obsessing over the tool (the telescope) to reaching the destination itself (the moon), dramatized as one cinematic journey ending on the first footstep and a kinetic 'change finance, until everything changes' manifesto.",
+  "cross_pollination_tags": {
+    "adjacent": [
+      "brand_manifesto_film",
+      "telco_vision_ad",
+      "automotive_journey_spot",
+      "tech_launch_film"
+    ],
+    "distant": [
+      "space_documentary",
+      "sportswear_ambition_anthem",
+      "outdoor_exploration_brand",
+      "watch_precision_film"
+    ],
+    "contrast": [
+      "fast_cut_meme_ad",
+      "mascot_comedy_spot",
+      "ugc_testimonial_clip",
+      "price_promo_hard_sell"
+    ]
+  },
+  "concept_derivation_pattern": "metaphor_journey + tool_vs_goal_reframe + iconic_event_homage(moon_landing) resolving into kinetic_typographic_manifesto",
+  "confidence": "inferred",
+  "analyst_notes": "Long-take style confirmed: only one hard subject cut inside the journey is absent — shots 1->2 join by a dissolve (telescope HUD fades, clouds thicken) and shot 2->3 continue the same accelerating push, so 5.76s-21.4s reads as a single continuous CG move (dive through clouds to lunar surface) which I kept as one shot (shot 3) rather than splitting at the 8.47s scenedetect mark (that boundary is the cloud-clearing phase within the move). Real hard cuts: ~21.4s (flyover -> POV boot), ~23.32s (boot -> black type card), ~28.32s (type card -> bootprint). Corrected from raw detector (6 scenedetect scenes mis-split the continuous dive at 6.26s); final shot_count=6, shot_count_corrected=true. On-screen copy captured verbatim: HUD readouts (1000mm/20mm=X5 -> X10 -> X20; 0.0026 AU(astronomical unit, (1.58125 * 10-5))), narrator credit 내레이션 : 원빈, coda build 토스, -> 토스, 금융부터 바꾼다 -> +모든 것을 바꿀 때까지, then 대담하게, -> 대담하게, 집요하게, -> toss logo. Narration is by a single male celebrity VO (credited Won Bin); whisper mishears corrected against captions/context. People depicted only as a generic spacesuit boot (no face); logo treated generically. Toss brand blue (#3182F6) does not appear on-screen here — the film is a cool-night-blue to neutral-grey palette with white type on black.",
+  "verification": {
+    "frames_reviewed": "~66 frames visually read at native 1920x1080 spanning the full 0-32.23s with no multi-second content gap, plus multiple PIL crop-zooms of the lower-right HUD readouts (focal/magnification + AU line) and the narrator credit, and brightness sampling of upper/lower thirds to rule out hidden captions in the lunar-flyover span; cross-checked against 100% per-frame metrics.json, scenedetect scene starts, and caption/motion spike channels. Transition boundaries verified frame-by-frame: dissolve ~5.0-5.76s (f115/f128/f133/f138), continuous dive continuity (f145-f512), hard cut to boot ~21.4s (f510-f513), hard cut to type ~23.32s (f558-f560), hard cut to bootprint ~28.32s (f678-f685).",
+    "tools_used": [
+      "Read(native-res frames)",
+      "bash+PIL(crop-zoom)",
+      "metrics.json",
+      "scenedetect",
+      "faster_whisper(brief)"
+    ],
+    "limitations": "Exact sub-frame timing of each magnification step and type-build keyframe approximated to nearest ~0.1-0.2s; whisper narration corrected by analyst from on-screen captions and Korean context (raw segments had multiple mishears). Brand year inferred (~2024) from campaign style, not confirmed on-screen."
+  }
+}

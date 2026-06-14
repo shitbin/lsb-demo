@@ -1,0 +1,2466 @@
+{
+  "id": "ADV-2026-020",
+  "source_ref": {
+    "platform": "social/online video",
+    "title_or_campaign": "토스 숨은 서비스 4 — 월세 자동이체",
+    "brand": "Toss",
+    "product": "Toss 자동이체 (recurring transfer)",
+    "model": null,
+    "year": 2026,
+    "production_note": "Curator T series end card",
+    "url": null
+  },
+  "category_primary": "finance.fintech",
+  "category_tags": [
+    "fintech",
+    "auto_transfer",
+    "recurring_payment",
+    "rent_payment",
+    "app_walkthrough",
+    "feature_demo",
+    "mobile"
+  ],
+  "mood": [
+    "helpful",
+    "reassuring",
+    "clean",
+    "informational",
+    "lightly_upbeat"
+  ],
+  "target_demo": "20-40 Korean adults; mobile-first renters and young households who pay monthly rent and forget recurring payment dates",
+  "total_duration": 44.98,
+  "shot_count": 11,
+  "shot_count_corrected": 17,
+  "fps": 29.97,
+  "aspect_ratio": "9:16",
+  "hook_position": "0:2.803",
+  "cta_position": "39.606:42.609",
+  "narrative_arc": "Opens on a relatable pain point — forgetting to pay monthly rent (월세). A young adult's hand holds an iPhone showing an iMessage thread with the landlord ('집/집주인') nagging about the unpaid rent, the renter apologizing; large white centered captions frame the problem ('월세 내는 거 / 맨날 까먹는 / 당신!'). A young woman in a warm study then recommends the fix under a flat editorial CONTENT header bar ('월세 낼 때 진짜 편한 / 토스 자동이체') and holds up her phone. The ad becomes a step-by-step in-app walkthrough shot as a flat-lay phone-on-orange screen demo: search '자동이체' in the all-tab and run it, then build a '월세 자동이체' — pick the withdrawal account, set the transfer date and repeat schedule (매월 10일), set the monthly amount (500,000원), enter the recipient account, name the auto-transfer ('자취방 월세'), and finally confirm the whole record. The payoff is a push-in close-up of the completed auto-transfer list ('자취방 월세 / 매월 10일 500,000원', toggle on) with the line '월세 자동이체가 완성됐어요'. Two closing live-action beats reassure that the transfer now runs automatically every month and that the transfer fee is of course free. Series end card reveals 'Curator T / 토스를 발견하다'.",
+  "narrative_structure": "linear_continuous",
+  "pacing_curve": "steady",
+  "music_tempo_curve": "steady",
+  "wow_cut_index": 14,
+  "creative_device": [
+    "app_feature_walkthrough",
+    "problem_then_solution",
+    "voice_caption_sync",
+    "editorial_caption_bar",
+    "completion_reveal_payoff",
+    "series_end_card_signature"
+  ],
+  "production_signature": {
+    "capture_style": "mixed",
+    "camera_signature": [
+      "handheld_micro_on_interior_live_action",
+      "locked_off_flatlay_phone_on_orange",
+      "shallow_dof_warm_interior",
+      "screen_demo_ui_capture"
+    ],
+    "signature_note": "Two visual registers cut together: (1) warm shallow-DOF live-action interior shots of a Korean adult holding an iPhone (an iMessage rent-reminder thread, then a young woman at a warm desk recommending and demonstrating the feature) and (2) flat-lay top-down phone-on-vivid-orange screen-demo shots used for the multi-step auto-transfer setup walkthrough. The walkthrough segments carry hardcoded lower-third caption pills (dark rounded pill, bold white Korean text) synced to the voiceover; the live-action opening uses large centered white supers and a flat editorial 'CONTENT' header bar over the woman. The payoff is a push-in close-up of the flat-lay completed-transfer screen. The series end card is a distinctive pixel/CRT-styled label badge ('Curator T / 토스를 발견하다') with sketchy bitmap-edged blue text on a textured matte off-white paper field. Wiggle metric is moderate (mean_abs_shift_x 0.4043 / sign_flips 0.28) but confirmed visually as ordinary handheld micro on the live-action shots plus locked-off flat-lay; NOT stereoscopic parallax.",
+    "color_grade": "warm_tungsten_amber_for_interior_live_action; saturated_vivid_orange_seamless_for_flatlay_ui_demo; clean_white_app_ui; desaturated_textured_offwhite_for_endcard",
+    "texture_fx": "pixel_crt_sketchy_bitmap_text_on_endcard_label; otherwise_clean_digital"
+  },
+  "global_layout": {
+    "grid_system": "center-weighted vertical 9:16; phone device centered within frame for flat-lay UI-demo shots; subject placed center / center-right in live-action shots",
+    "subject_placement_dominant": "centered_phone_device for UI-demo shots; center single subject for live-action interior shots",
+    "subject_typo_relation": "large centered white supers float over the live-action iMessage opening; an editorial CONTENT header bar floats top over the woman; lower-third pill caption bars sit under the device on flat-lay UI shots; end card label badge centered",
+    "negative_space_use": "vivid orange surround acts as generous negative space framing the white phone in UI-demo shots; end card uses wide matte paper negative space around a small centered label badge",
+    "layout_note": "The orange flat-lay surround and the consistent lower-third caption pill create a repeatable demo template; the white phone screen carries all functional UI content while the caption pill carries the narration line synced to the voiceover"
+  },
+  "recurring_motifs": [
+    "lower_third_caption_pill",
+    "phone_on_orange_flatlay",
+    "blue_primary_action_button",
+    "imessage_rent_reminder",
+    "editorial_content_header_bar",
+    "pixel_crt_endcard_badge"
+  ],
+  "copywriting": {
+    "tagline_text": "Curator T / 토스를 발견하다",
+    "tagline_structure": "series_signature_endcard",
+    "cta_text": "이체 수수료는 당연히 무료인 거, 아시죠?",
+    "copy_tone": [
+      "helpful",
+      "plain_spoken",
+      "encouraging",
+      "instructional"
+    ],
+    "copy_strategy": "step_by_step_feature_walkthrough_with_payoff",
+    "lines": [
+      {
+        "position_sec": 0.5,
+        "text": "월세 내는 거",
+        "function": "hook_problem_setup",
+        "tone": "relatable",
+        "source": "both"
+      },
+      {
+        "position_sec": 1.0,
+        "text": "맨날 까먹는",
+        "function": "hook_problem_detail",
+        "tone": "relatable",
+        "source": "both"
+      },
+      {
+        "position_sec": 1.8,
+        "text": "당신!",
+        "function": "hook_subject",
+        "tone": "relatable",
+        "source": "both"
+      },
+      {
+        "position_sec": 3.0,
+        "text": "월세 낼 때 진짜 편한",
+        "function": "editorial_value_proposition",
+        "tone": "punchy",
+        "source": "caption"
+      },
+      {
+        "position_sec": 3.0,
+        "text": "토스 자동이체",
+        "function": "editorial_value_proposition",
+        "tone": "punchy",
+        "source": "caption"
+      },
+      {
+        "position_sec": 6.5,
+        "text": "'전체 탭'에서",
+        "function": "instruction_step",
+        "tone": "instructional",
+        "source": "both"
+      },
+      {
+        "position_sec": 8.0,
+        "text": "'자동이체'를 실행해주세요",
+        "function": "instruction_step",
+        "tone": "instructional",
+        "source": "both"
+      },
+      {
+        "position_sec": 10.0,
+        "text": "'월세 자동이체'를 만들어볼게요",
+        "function": "instruction_step",
+        "tone": "instructional",
+        "source": "both"
+      },
+      {
+        "position_sec": 13.0,
+        "text": "출금할 계좌를 선택하고",
+        "function": "instruction_step",
+        "tone": "instructional",
+        "source": "both"
+      },
+      {
+        "position_sec": 15.5,
+        "text": "이체 날짜와 반복 일정을",
+        "function": "instruction_step",
+        "tone": "instructional",
+        "source": "both"
+      },
+      {
+        "position_sec": 17.5,
+        "text": "세팅해주세요",
+        "function": "instruction_step",
+        "tone": "instructional",
+        "source": "both"
+      },
+      {
+        "position_sec": 19.5,
+        "text": "매달 보낼 금액을",
+        "function": "instruction_step",
+        "tone": "instructional",
+        "source": "both"
+      },
+      {
+        "position_sec": 20.5,
+        "text": "설정하고",
+        "function": "instruction_step",
+        "tone": "instructional",
+        "source": "both"
+      },
+      {
+        "position_sec": 22.5,
+        "text": "상대방 계좌도 입력해주세요",
+        "function": "instruction_step",
+        "tone": "instructional",
+        "source": "both"
+      },
+      {
+        "position_sec": 25.5,
+        "text": "이렇게 자동이체 이름도",
+        "function": "instruction_step",
+        "tone": "instructional",
+        "source": "both"
+      },
+      {
+        "position_sec": 26.8,
+        "text": "적어주고",
+        "function": "instruction_step",
+        "tone": "instructional",
+        "source": "both"
+      },
+      {
+        "position_sec": 28.5,
+        "text": "자동이체 내역을",
+        "function": "instruction_step",
+        "tone": "instructional",
+        "source": "both"
+      },
+      {
+        "position_sec": 30.0,
+        "text": "최종 확인하면",
+        "function": "instruction_step",
+        "tone": "instructional",
+        "source": "both"
+      },
+      {
+        "position_sec": 33.0,
+        "text": "월세 자동이체가",
+        "function": "payoff_result",
+        "tone": "delighted",
+        "source": "both"
+      },
+      {
+        "position_sec": 34.0,
+        "text": "완성됐어요",
+        "function": "payoff_result",
+        "tone": "delighted",
+        "source": "both"
+      },
+      {
+        "position_sec": 35.8,
+        "text": "이제 잊어버릴 일 없이",
+        "function": "reassurance",
+        "tone": "encouraging",
+        "source": "both"
+      },
+      {
+        "position_sec": 38.0,
+        "text": "계좌 이체가 진행되는데요",
+        "function": "reassurance",
+        "tone": "encouraging",
+        "source": "both"
+      },
+      {
+        "position_sec": 40.0,
+        "text": "이체 수수료는",
+        "function": "cta",
+        "tone": "encouraging",
+        "source": "both"
+      },
+      {
+        "position_sec": 41.0,
+        "text": "당연히 무료인 거",
+        "function": "cta",
+        "tone": "encouraging",
+        "source": "both"
+      },
+      {
+        "position_sec": 42.0,
+        "text": "아시죠?",
+        "function": "cta",
+        "tone": "playful",
+        "source": "both"
+      },
+      {
+        "position_sec": 43.5,
+        "text": "Curator T",
+        "function": "series_brand_signature",
+        "tone": "branded",
+        "source": "caption"
+      },
+      {
+        "position_sec": 43.5,
+        "text": "토스를 발견하다",
+        "function": "series_tagline",
+        "tone": "branded",
+        "source": "caption"
+      }
+    ],
+    "on_screen_ui_text_observed": [
+      "집 / 집주인 / 이번 달 월세 제때 꼭 납부 해주세요 / 네 죄송합니다 ㅠㅠ / 어제 월세가 안 들어왔네요. 확인부탁드립니다!",
+      "CONTENT / 월세 낼 때 진짜 편한 / 토스 자동이체 / SERVICE 자동이체 · YEAR 2024 · CATEGORY 부동산 / 공공서비스 / 송금 · PRODUCTION TEAM #team_transfer",
+      "자동이체 / 추천 키워드 자동이체 해지 · 자동이체 확인증 · 토스 / 서비스 자동이체 / 자동이체 확인증 (토스뱅크 > 설정 > 토스뱅크 고객센터 > 증명서 발급하기 > 예금) / 자동납부 (토스뱅크 > 상품 찾기) / 검색",
+      "자동이체 / 이체 수수료가 무료예요. / 휴일에도 당일 이체할 수 있어요. / 자동이체 추가하기",
+      "어느 계좌에서 보낼까요? / 출금 계좌 / 출금 계좌를 선택해주세요 / 토스뱅크 통장 출금 가능 금액 20,182,747 원 / 저축예금 잔액 17,080,594 원 / KDB Hi 비대면 입출금통장 잔액 0 원 / 저축예금 잔액 734 원",
+      "언제 보낼까요? / 오전 9시부터 이체가 시작돼요. 상황에 따라 오전 11시 이후가 될 수도 있어요. / 반복 / 1회 / 매월 · 매주 · 매일 / 매월 10일 / 선택",
+      "얼마를 보낼까요? / 금액 500,000 원 / 이체 주기·날짜 매월 10일 / 출금 계좌 토스뱅크 통장 / 다음",
+      "어떤 계좌로 보낼까요? / 계좌번호 입력 / 은행 선택 SC제일 · NH농협 · 키움 · 신한 · 신협 · 우리 · 씨티 · KB국민",
+      "마지막으로 / 자동이체 제목을 입력해주세요 / 입력하지 않으면 받는 분(계좌) 이름으로 등록돼요. / 자동이체 제목 자취방 월세 / 받는 분 / 확인",
+      "이다연님에게 매월 10일 500,000원씩 자동이체를 등록할게요 / 자동이체 제목 자취방 월세 / 금액 500,000 원 / 이체 주기·날짜 매월 10일 / 출금 계좌 토스뱅크 통장 / 추가 설정 / 다음 이체일 2024년 3월 10일 / 받는 분에게 표시 김창선 / 시작일 / 종료일 없음 / 이체 1일 전 미리 알림 / 추가하기",
+      "자동이체 / 전체 / 자취방 월세 / 매월 10일 500,000 원 / 이체내역"
+    ],
+    "narration_handling": "voiceover_synced_to_lower_third_caption_bars_and_centered_supers"
+  },
+  "typography": {
+    "primary_font_class": "Korean_sans_serif_bold_rounded",
+    "endcard_font_class": "pixel_bitmap_crt_sketchy_latin_plus_korean",
+    "animation_style": [
+      "cut_in_caption_swap",
+      "static_hold",
+      "sticker_peel_in_endcard"
+    ],
+    "subtitle_position_dominant": "lower_third_caption_pill",
+    "color_strategy": "white_text_on_dark_rounded_pill_for_demo_captions; large_white_centered_supers_over_live_action_opening; navy_blue_pixel_text_on_offwhite_label_for_endcard",
+    "typo_motion_dominant": "caption_swap_synced_to_vo"
+  },
+  "vfx": {
+    "primary_effects": [
+      "ui_screen_demo_capture",
+      "pixel_crt_sketchy_endcard_text",
+      "editorial_header_bar_overlay"
+    ],
+    "effect_intensity": "low_to_moderate",
+    "transition_style_dominant": "hard_cut",
+    "vfx_event_count": 2
+  },
+  "audio": {
+    "has_audio": true,
+    "language": "ko",
+    "speech_coverage": 0.958,
+    "bgm_likely": true,
+    "narration_lines": [
+      {
+        "start": 0.0,
+        "end": 6.08,
+        "text": "월세는 매번 까먹는 당신, 토스로 자동이체 등록해두면 진짜 편해요",
+        "source": "faster_whisper_tiny_caption_reconciled"
+      },
+      {
+        "start": 6.08,
+        "end": 9.36,
+        "text": "전체 탭에서 자동이체를 실행해주세요",
+        "source": "faster_whisper_tiny_caption_reconciled"
+      },
+      {
+        "start": 9.36,
+        "end": 12.32,
+        "text": "월세 자동이체를 만들어볼게요",
+        "source": "faster_whisper_tiny_caption_reconciled"
+      },
+      {
+        "start": 12.32,
+        "end": 14.88,
+        "text": "출금할 계좌를 선택하고",
+        "source": "faster_whisper_tiny_caption_reconciled"
+      },
+      {
+        "start": 14.88,
+        "end": 18.8,
+        "text": "이체 날짜와 반복 일정을 세팅해주세요",
+        "source": "faster_whisper_tiny_caption_reconciled"
+      },
+      {
+        "start": 18.8,
+        "end": 25.09,
+        "text": "매달 보낼 금액을 설정하고 상대방 계좌도 입력해주세요",
+        "source": "faster_whisper_tiny_caption_reconciled"
+      },
+      {
+        "start": 25.09,
+        "end": 27.57,
+        "text": "이렇게 자동이체 이름도 적어주고",
+        "source": "faster_whisper_tiny_caption_reconciled"
+      },
+      {
+        "start": 27.57,
+        "end": 31.57,
+        "text": "자동이체 내역을 최종 확인하면",
+        "source": "faster_whisper_tiny_caption_reconciled"
+      },
+      {
+        "start": 31.57,
+        "end": 35.41,
+        "text": "짠, 월세 자동이체가 완성됐어요",
+        "source": "faster_whisper_tiny_caption_reconciled"
+      },
+      {
+        "start": 35.41,
+        "end": 39.65,
+        "text": "이제 잊어버리고 살아도 매달 자동으로 계좌이체가 진행되는데요",
+        "source": "faster_whisper_tiny_caption_reconciled"
+      },
+      {
+        "start": 39.65,
+        "end": 43.09,
+        "text": "이체 수수료는 당연히 무료인 거, 아시죠?",
+        "source": "faster_whisper_tiny_caption_reconciled"
+      }
+    ],
+    "voice_vs_caption": "voiceover_largely_matches_onscreen_captions; captions are authoritative",
+    "transcribed_by": "faster_whisper",
+    "model": "tiny",
+    "audio_note": "faster_whisper tiny model output reconciled against authoritative on-screen Korean captions and UI: tiny mis-heard '자동이체' as '자동이 채' throughout, '계좌' as '계자', '전체 탭에서' as '전체퇴배서', '매달 보낼' as '매달 보내', and line 10 garbled ('이제 이저버리를 러프시 매달 자동으로 계자이 채가 진행이 되는데요') corrected against captions to '이제 잊어버리고 살아도 매달 자동으로 계좌이체가 진행되는데요'; final CTA reconciled to caption '이체 수수료는 당연히 무료인 거, 아시죠?'. speech_coverage 0.958 per audio.json; bgm_likely was null in audio.json, set true on judgement (light instrumental bed under VO)."
+  },
+  "frames_dir": "ADV-2026-020_frames",
+  "contact_sheet_path": "ADV-2026-020_frames/contact_sheet.png",
+  "shots": [
+    {
+      "index": 1,
+      "duration": 0.667,
+      "framing": "CU",
+      "function": "hook",
+      "subject_action": "a Korean adult's hand holds a black-cased iPhone in a warm interior; the screen shows an iMessage conversation with a contact named '집 / 집주인' (landlord) — an incoming grey bubble reads '이번 달 월세 제때 꼭 납부 해주세요' and the user's green reply reads '네 죄송합니다 ㅠㅠ'; a large white centered caption reads '월세 내는 거'",
+      "layout_grid": "center_dominant_device",
+      "subject_position": "center_dominant",
+      "typo_motion": "centered_super_hold",
+      "camera_angle": "high_angle_over_phone",
+      "camera_facing": "toward_phone_screen",
+      "shot_scope": "product_detail",
+      "gaze": "off_camera",
+      "props": [
+        "smartphone",
+        "hand",
+        "orange_surface"
+      ],
+      "color_palette": [
+        "#C96A2E",
+        "#E9E9EB",
+        "#5BD06A",
+        "#F2F2F2",
+        "#7A5230"
+      ],
+      "color_intent": "warm_amber_interior_bokeh; light_grey_imessage_ui; green_reply_bubble; large_white_caption",
+      "pose_description": "an adult hand cradles a black-cased iPhone tilted slightly, fingers along the left edge; the iMessage thread fills the screen with the keyboard docked at the bottom",
+      "subject_motion": "minimal_hand_drift",
+      "camera_motion": "handheld_micro",
+      "camera_effect_local": "shallow_dof_background_bokeh",
+      "intra_cut_rhythm": "static_hold_on_message_thread",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "mid_frame_path": "ADV-2026-020_frames/cut01_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "hand_holding_smartphone",
+          "imessage_conversation_bubbles",
+          "white_centered_caption_text"
+        ],
+        "midground": [
+          "phone_chassis_edges"
+        ],
+        "background": [
+          "blurred_warm_interior",
+          "amber_practical_light_bokeh",
+          "orange_surface_below"
+        ],
+        "lighting_env": [
+          "warm_tungsten_ambient",
+          "screen_self_illumination"
+        ],
+        "atmosphere": [
+          "intimate",
+          "mild_anxiety",
+          "domestic_daytime"
+        ]
+      },
+      "texture": {
+        "primary_subject": "glossy_glass_phone_screen",
+        "secondary_objects": [
+          "human_skin_hand",
+          "matte_phone_chassis"
+        ],
+        "background_surface": "blurred_undefined_interior",
+        "atmospheric": [
+          "soft_focus_bokeh"
+        ]
+      },
+      "lighting": {
+        "key_direction": "warm_ambient_upper_left",
+        "key_hardness": "soft",
+        "key_color_temp": "warm_tungsten_3000K",
+        "fill_strength": "medium",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": false,
+        "practical_lights": [
+          "warm_room_lamp_bokeh"
+        ],
+        "shadow_presence": "soft",
+        "overall_contrast": "medium_low"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#C96A2E",
+          "#E9E9EB",
+          "#5BD06A",
+          "#F2F2F2",
+          "#7A5230"
+        ],
+        "palette_role": {
+          "#C96A2E": "warm_amber_background_bokeh",
+          "#E9E9EB": "imessage_received_bubble_grey",
+          "#5BD06A": "imessage_sent_bubble_green",
+          "#F2F2F2": "white_caption_and_screen_highlight",
+          "#7A5230": "skin_and_shadow_warm_brown"
+        },
+        "color_relationship": "warm_dominant_with_green_ui_accent",
+        "temperature_balance": "warm",
+        "saturation_strategy": "desaturated_naturalistic_with_one_accent",
+        "contrast_type": "soft_with_high_contrast_white_caption",
+        "accent_color": "#5BD06A",
+        "accent_ratio": 0.08
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "Vertical 9:16 close-up photograph, shot from a high over-the-phone angle, of a Korean adult's hand cradling a modern black-cased large-screen smartphone tilted slightly in a warm domestic interior in daytime. The phone screen, occupying most of the frame, displays a clean light-toned mobile text-messaging conversation with a contact shown at the top as a circular grey avatar with the character '집' inside it and the label '집주인' (landlord) beneath, plus a small back chevron and unread badge at the upper left and a '문자 메시지 (오늘) 오전 10:51' timestamp centered below the header. The conversation shows an incoming light-grey rounded message bubble on the left reading in two lines '이번 달 월세 제때 꼭 납부 해주세요', and below it on the right a bright green outgoing reply bubble reading '네 죄송합니다 ㅠㅠ'. Below the thread is a message input row with a plus button and a '문자 메시지' placeholder field, and a light Korean QWERTY-style on-screen keyboard with a 스페이스 spacebar docked at the bottom. The hand holding the device shows natural Korean adult skin tone with fingertips visible along the left edge; the phone's matte black chassis catches a soft warm highlight. Superimposed over the lower-center of the entire frame is a large bold white Korean caption reading '월세 내는 거', set in a clean heavy rounded sans-serif with a faint soft shadow for legibility. The entire background beyond the phone dissolves into creamy warm amber and golden bokeh — indistinct shapes of practical room lamps and shelving in a cozy interior, with complete shallow depth-of-field separation; a sliver of a warm orange surface is just visible at the very bottom edge under the phone. Lighting is soft warm tungsten ambient from the upper left at roughly 3000K, medium fill, gentle soft shadows and overall medium-low contrast; the phone screen adds its own neutral self-illumination. Lens rendering: a fast prime at roughly 50 to 85mm full-frame equivalent at a wide aperture, giving a shallow plane of focus on the screen and very smooth background blur, plus a slight handheld intimacy. Composition centers the device with the green reply bubble drawing the eye and the white caption anchoring the lower third. Color palette and strategy: a warm-dominant naturalistic grade — amber background bokeh (#C96A2E), light grey received message bubble (#E9E9EB), a single saturated green sent bubble (#5BD06A) as the accent, bright white caption and screen highlights (#F2F2F2), and warm brown skin and shadow tones (#7A5230); saturation is restrained and realist except for the assertive white caption and the green bubble. Surfaces and texture: glossy reflective glass over the active screen, fine natural skin texture on the hand, a soft matte phone chassis, and an undefined soft-focus interior behind. Atmosphere: intimate and a little anxious, the private moment of someone being nagged about overdue rent by their landlord over text. Post and signature look: clean modern digital capture with a warm commercial color grade, no heavy grain, precise focus on the screen content, naturalistic skin. Style anchor: contemporary Korean fintech commercial photography in the premium app-walkthrough register, where a real-feeling personal device screen is framed with cinematic care to fuse a functional everyday message thread with an emotional, relatable money pain point; the on-screen Korean caption '월세 내는 거', the messaging strings '이번 달 월세 제때 꼭 납부 해주세요' and '네 죄송합니다 ㅠㅠ', and the contact label '집주인' must be preserved exactly. No celebrity likeness, no real brand logos or wordmarks on the device or in the UI — render the messaging interface as a generic, plausible mobile texting app.",
+        "t2i_negative": "english ui text, sharp fully-focused background, cold daylight, harsh shadows, visible brand logos, blurry unreadable message text, western app design",
+        "i2v_motion": "The hand holds the phone with gentle organic micro-drift; the iMessage thread is static; the white centered caption '월세 내는 거' holds; shallow depth of field holds on the screen; hard cut at ~0.7s.",
+        "i2v_params": {
+          "clip_duration_sec": 0.7,
+          "camera_move": "handheld_micro",
+          "subject_motion_level": "minimal",
+          "signature_effect": "none",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen Korean caption and message strings preserved; identity/logo generic"
+      }
+    },
+    {
+      "index": 2,
+      "duration": 2.136,
+      "framing": "CU",
+      "function": "hook",
+      "subject_action": "tighter handheld close-up on the same iMessage thread held in the hand; a second incoming landlord bubble appears reading '어제 월세가 안 들어왔네요. 확인부탁드립니다!'; large white centered captions read first '맨날 까먹는' then '당신!'",
+      "layout_grid": "center_dominant_device",
+      "subject_position": "center_dominant",
+      "typo_motion": "centered_super_swap",
+      "camera_angle": "high_angle_over_phone",
+      "camera_facing": "toward_phone_screen",
+      "shot_scope": "product_detail",
+      "gaze": "off_camera",
+      "props": [
+        "smartphone",
+        "hand"
+      ],
+      "color_palette": [
+        "#C96A2E",
+        "#E9E9EB",
+        "#5BD06A",
+        "#F2F2F2",
+        "#7A5230"
+      ],
+      "color_intent": "warm_amber_interior_bokeh; light_grey_imessage_ui; green_reply_bubble; large_white_caption",
+      "pose_description": "the hand holds the tilted phone closer to camera so the message bubbles fill more of the frame; the keyboard remains docked below",
+      "subject_motion": "new_message_bubble_appears_micro_hand_drift",
+      "camera_motion": "handheld_micro",
+      "camera_effect_local": "shallow_dof_background_bokeh",
+      "intra_cut_rhythm": "new_message_then_caption_swap",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "mid_frame_path": "ADV-2026-020_frames/cut02_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "imessage_conversation_bubbles",
+          "new_landlord_message_bubble",
+          "white_centered_caption_text"
+        ],
+        "midground": [
+          "phone_chassis_edges"
+        ],
+        "background": [
+          "blurred_warm_interior",
+          "docked_keyboard"
+        ],
+        "lighting_env": [
+          "warm_tungsten_ambient",
+          "screen_self_illumination"
+        ],
+        "atmosphere": [
+          "intimate",
+          "rising_pressure",
+          "domestic_daytime"
+        ]
+      },
+      "texture": {
+        "primary_subject": "glossy_glass_phone_screen",
+        "secondary_objects": [
+          "human_skin_hand",
+          "matte_phone_chassis"
+        ],
+        "background_surface": "blurred_undefined_interior",
+        "atmospheric": [
+          "soft_focus_bokeh"
+        ]
+      },
+      "lighting": {
+        "key_direction": "warm_ambient_upper_left",
+        "key_hardness": "soft",
+        "key_color_temp": "warm_tungsten_3000K",
+        "fill_strength": "medium",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": false,
+        "practical_lights": [
+          "warm_room_lamp_bokeh"
+        ],
+        "shadow_presence": "soft",
+        "overall_contrast": "medium_low"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#C96A2E",
+          "#E9E9EB",
+          "#5BD06A",
+          "#F2F2F2",
+          "#7A5230"
+        ],
+        "palette_role": {
+          "#C96A2E": "warm_amber_background_bokeh",
+          "#E9E9EB": "imessage_received_bubble_grey",
+          "#5BD06A": "imessage_sent_bubble_green",
+          "#F2F2F2": "white_caption_and_screen_highlight",
+          "#7A5230": "skin_and_shadow_warm_brown"
+        },
+        "color_relationship": "warm_dominant_with_green_ui_accent",
+        "temperature_balance": "warm",
+        "saturation_strategy": "desaturated_naturalistic_with_one_accent",
+        "contrast_type": "soft_with_high_contrast_white_caption",
+        "accent_color": "#5BD06A",
+        "accent_ratio": 0.07
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "Vertical 9:16 close-up photograph, high over-the-phone angle, of a Korean adult's hand holding a black-cased large-screen smartphone tilted toward camera in a warm domestic interior, framed slightly tighter than before so the messaging conversation dominates the frame. The screen shows the same clean light-toned text-messaging thread with the landlord contact '집주인': an earlier incoming grey bubble reads '이번 달 월세 제때 꼭 납부 해주세요', a green outgoing reply reads '네 죄송합니다 ㅠㅠ', and now a fresh second incoming grey bubble has appeared below reading in two lines '어제 월세가 안 들어왔네요. 확인부탁드립니다!', escalating the pressure. A light Korean QWERTY-style on-screen keyboard with a 스페이스 spacebar is docked at the bottom and a '문자 메시지' input field sits above it. Superimposed over the lower-center of the entire frame is a large bold white Korean caption; at this moment it reads '당신!' and a beat earlier this caption position held the word '맨날 까먹는', set in a clean heavy rounded sans-serif with a faint soft shadow. The hand shows natural Korean adult skin tone with fingertips along the left edge; the matte black chassis catches a soft warm highlight. The background beyond the phone dissolves into creamy warm amber and golden bokeh of an indistinct cozy interior with complete shallow depth-of-field separation. Lighting is soft warm tungsten ambient from the upper left at roughly 3000K, medium fill, gentle soft shadows and overall medium-low contrast; the screen self-illuminates neutrally. Lens rendering: a fast prime at roughly 50 to 85mm full-frame equivalent at a wide aperture, the plane of focus on the screen content, smooth background blur, a slight handheld intimacy. Composition centers the device with the newest grey message bubble as the focal point and the white caption anchoring the lower third. Color palette and strategy: a warm-dominant naturalistic grade — amber background bokeh (#C96A2E), light grey received bubbles (#E9E9EB), a single saturated green sent bubble (#5BD06A) as the accent, bright white caption and screen highlights (#F2F2F2), and warm brown skin and shadow tones (#7A5230); saturation restrained and realist except for the bright white caption and the green bubble. Surfaces and texture: glossy reflective glass over the active screen, fine natural skin texture, a soft matte phone chassis, an undefined soft-focus interior behind. Atmosphere: intimate with rising social pressure — the landlord has now noticed the rent did not arrive and is asking the renter to check. Post and signature look: clean modern digital capture with a warm commercial color grade, no heavy grain, precise focus on the screen content, naturalistic skin. Style anchor: contemporary Korean fintech commercial photography in the premium app-walkthrough register, framing a real-feeling personal message thread to dramatize a relatable money pain point before cutting to the product; the on-screen Korean caption '당신!' (and the prior '맨날 까먹는'), the messaging strings '이번 달 월세 제때 꼭 납부 해주세요', '네 죄송합니다 ㅠㅠ' and '어제 월세가 안 들어왔네요. 확인부탁드립니다!' must be preserved exactly. No celebrity likeness, no real brand logos or wordmarks — render the messaging interface as a generic, plausible mobile texting app.",
+        "t2i_negative": "english ui text, sharp fully-focused background, cold daylight, harsh shadows, visible brand logos, blurry unreadable message text, western app design",
+        "i2v_motion": "A second grey landlord message bubble animates into the thread from the bottom; the hand holds with gentle micro-drift; the white centered caption swaps from '맨날 까먹는' to '당신!'; shallow depth of field holds; hard cut at ~2.1s.",
+        "i2v_params": {
+          "clip_duration_sec": 2.1,
+          "camera_move": "handheld_micro",
+          "subject_motion_level": "minimal",
+          "signature_effect": "none",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen Korean caption and message strings preserved; identity/logo generic"
+      }
+    },
+    {
+      "index": 3,
+      "duration": 1.568,
+      "framing": "MCU",
+      "function": "value_proposition",
+      "subject_action": "a young Korean adult woman in a beige/khaki button-up shirt sits at a desk in a warm study (wooden bookshelf, desk lamp), looks toward camera with a light smile and a small hand gesture; a flat editorial 'CONTENT' header bar slides in across the top reading '월세 낼 때 진짜 편한 / 토스 자동이체' with small SERVICE / YEAR / CATEGORY / PRODUCTION TEAM metadata",
+      "layout_grid": "subject_lower_center_with_top_header_bar",
+      "subject_position": "center",
+      "typo_motion": "editorial_header_bar_slide_in",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "medium_portrait",
+      "gaze": "to_camera",
+      "props": [
+        "desk",
+        "bookshelf",
+        "desk_lamp",
+        "sticky_notes"
+      ],
+      "color_palette": [
+        "#9A8A6B",
+        "#7A4B2E",
+        "#E8B488",
+        "#F2F4F8",
+        "#2E50C0"
+      ],
+      "color_intent": "warm_study_bokeh; muted_khaki_shirt; soft_amber_key_on_skin; clean_white_editorial_header_with_blue_outline",
+      "pose_description": "the woman sits centered, one forearm resting on the orange desk, looking up toward the lens with an open friendly expression that resolves into a gentle smile",
+      "subject_motion": "light_conversational_gesture_then_settle",
+      "camera_motion": "handheld_micro",
+      "camera_effect_local": "shallow_dof_background",
+      "intra_cut_rhythm": "talking_beat_with_header_slide_in",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "mid_frame_path": "ADV-2026-020_frames/cut03_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "woman_at_desk",
+          "editorial_content_header_bar"
+        ],
+        "midground": [
+          "orange_desk_surface_with_sticky_notes"
+        ],
+        "background": [
+          "wooden_bookshelf",
+          "warm_desk_lamp",
+          "decorative_objects"
+        ],
+        "lighting_env": [
+          "warm_tungsten_ambient",
+          "soft_key_on_face"
+        ],
+        "atmosphere": [
+          "approachable",
+          "explanatory",
+          "cozy_evening"
+        ]
+      },
+      "texture": {
+        "primary_subject": "soft_cotton_shirt_and_skin",
+        "secondary_objects": [
+          "glossy_white_header_panel",
+          "wood_shelf"
+        ],
+        "background_surface": "wood_shelf_grain",
+        "atmospheric": [
+          "warm_soft_bokeh"
+        ]
+      },
+      "lighting": {
+        "key_direction": "soft_frontal_warm_from_left",
+        "key_hardness": "soft",
+        "key_color_temp": "warm_tungsten_3200K",
+        "fill_strength": "medium",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": false,
+        "practical_lights": [
+          "warm_desk_lamp"
+        ],
+        "shadow_presence": "soft",
+        "overall_contrast": "medium_low"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#9A8A6B",
+          "#7A4B2E",
+          "#E8B488",
+          "#F2F4F8",
+          "#2E50C0"
+        ],
+        "palette_role": {
+          "#9A8A6B": "subject_khaki_shirt",
+          "#7A4B2E": "warm_wood_background",
+          "#E8B488": "skin_warm_key",
+          "#F2F4F8": "white_editorial_header_panel",
+          "#2E50C0": "header_outline_and_accent_blue"
+        },
+        "color_relationship": "warm_naturalistic_with_clean_white_blue_overlay",
+        "temperature_balance": "warm_dominant",
+        "saturation_strategy": "desaturated_naturalistic",
+        "contrast_type": "soft_portrait_with_crisp_graphic_overlay",
+        "accent_color": "#2E50C0",
+        "accent_ratio": 0.18
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "Vertical 9:16 medium close-up portrait photograph, eye-level frontal framing, of a young Korean adult woman in her late twenties seated at a desk in a warm, cozy home study at evening. She wears a relaxed muted khaki-beige cotton button-up shirt; her shoulder-length warm-brown hair frames a softly lit face. She looks up and toward the lens with an open, friendly expression that resolves into a gentle smile, one forearm resting on a warm orange desk surface scattered with a few sticky notes, her body language relaxed as if introducing a useful tip. Behind her, softly out of focus, a wooden mid-century bookshelf holds books, files and small decorative objects, with a warm articulated desk lamp glowing at the left, all dissolved into warm brown and amber bokeh. Floating across the very top of the frame is a flat editorial graphic header bar rendered as a slightly off-white paper-textured rounded rectangle with a thin blue outline: a tiny label 'CONTENT' sits at its upper-left, then two lines of bold near-black Korean text read '월세 낼 때 진짜 편한' on the first line and '토스 자동이체' on the second; along the bottom edge of the panel a row of very small blue handwritten-style metadata labels reads 'SERVICE 자동이체', 'YEAR 2024', 'CATEGORY 부동산 / 공공서비스 / 송금', and 'PRODUCTION TEAM #team_transfer', giving the look of an editorial title card laid over live action. Lighting is soft warm tungsten ambient with a gentle frontal key from the left at roughly 3200K, medium fill, soft shadows, overall medium-low contrast. Lens rendering: a portrait prime at roughly 50 to 85mm full-frame equivalent at a wide aperture, the plane of focus on her face, the background blurred smoothly, with a slight natural handheld presence. Composition seats the subject in the lower-center of the frame with generous warm background, while the crisp white-and-blue editorial header bar anchors the top edge — a deliberate contrast of soft photographic warmth against a flat graphic overlay. Color palette and strategy: warm-dominant naturalistic grade — muted khaki shirt (#9A8A6B), warm wood background (#7A4B2E), warm skin key (#E8B488), clean white editorial panel (#F2F4F8), and a crisp accent blue (#2E50C0) in the panel outline and labels; saturation restrained and realist with the white-and-blue graphic providing crisp high-frequency contrast. Surfaces and texture: soft cotton shirt and natural skin, a glossy flat paper-textured graphic panel, and warm wood grain behind, all clean modern digital. Atmosphere: approachable and explanatory, a trusted peer framing the auto-transfer feature as the thing that makes paying rent genuinely easy. Post and signature look: warm commercial grade on the photography, perfectly flat crisp rendering on the graphic overlay, precise focus on the subject. Style anchor: contemporary Korean fintech social-video aesthetic that overlays magazine-style editorial title bars onto warm live-action portraiture; the on-screen Korean header text '월세 낼 때 진짜 편한' and '토스 자동이체' must be preserved exactly, along with the small English metadata labels 'CONTENT', 'SERVICE', 'YEAR', 'CATEGORY', 'PRODUCTION TEAM'. No celebrity likeness — render a generic Korean adult woman; no real brand logos. The production craft should read as premium Korean commercial work: a fast prime lens wide open for creamy separation, careful warm practical lighting that wraps the face softly, and a perfectly registered, anti-aliased flat graphic overlay that sits convincingly in the frame.",
+        "t2i_negative": "english body caption, cold light, sharp background, studio backdrop, harsh contrast, distorted header text, real brand logos",
+        "i2v_motion": "The woman speaks with a small natural gesture and resolves into a gentle smile; the editorial CONTENT header bar slides/settles in across the top and holds static; subtle handheld micro-drift on camera; hard cut at ~1.6s.",
+        "i2v_params": {
+          "clip_duration_sec": 1.6,
+          "camera_move": "handheld_micro",
+          "subject_motion_level": "low_natural",
+          "signature_effect": "none",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen Korean caption preserved; identity generic"
+      }
+    },
+    {
+      "index": 4,
+      "duration": 1.468,
+      "framing": "MCU",
+      "function": "value_proposition",
+      "subject_action": "the same woman now holds up a black smartphone toward camera in her left hand, smiling warmly; the phone screen shows a generic fintech app's auto-transfer setup screen (a heading, a field, a toggle and a blue button); the flat editorial 'CONTENT' header bar with '월세 낼 때 진짜 편한 / 토스 자동이체' holds at the top",
+      "layout_grid": "subject_center_with_raised_phone_and_top_header",
+      "subject_position": "center",
+      "typo_motion": "static_editorial_header_bar",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "medium_portrait",
+      "gaze": "to_camera",
+      "props": [
+        "smartphone",
+        "desk",
+        "bookshelf",
+        "desk_lamp"
+      ],
+      "color_palette": [
+        "#9A8A6B",
+        "#7A4B2E",
+        "#E8B488",
+        "#F2F4F8",
+        "#2E80F0"
+      ],
+      "color_intent": "warm_study_bokeh; muted_khaki_shirt; clean_white_app_screen_held_up; blue_button_accent; white_editorial_header",
+      "pose_description": "the woman raises a black smartphone screen-out beside her face in her left hand, smiling toward the lens; the app screen reads as a clean white panel with a blue action button at the bottom",
+      "subject_motion": "holds_phone_up_smiles_micro_motion",
+      "camera_motion": "handheld_micro",
+      "camera_effect_local": "shallow_dof_background",
+      "intra_cut_rhythm": "presenting_beat_holding_phone",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "mid_frame_path": "ADV-2026-020_frames/cut04_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "woman_holding_phone_up",
+          "white_app_screen_on_phone",
+          "editorial_content_header_bar"
+        ],
+        "midground": [
+          "orange_desk_surface"
+        ],
+        "background": [
+          "wooden_bookshelf",
+          "warm_desk_lamp"
+        ],
+        "lighting_env": [
+          "warm_tungsten_ambient",
+          "soft_key_on_face",
+          "screen_self_illumination"
+        ],
+        "atmosphere": [
+          "approachable",
+          "presenting",
+          "cozy_evening"
+        ]
+      },
+      "texture": {
+        "primary_subject": "soft_cotton_shirt_and_skin",
+        "secondary_objects": [
+          "glossy_phone_screen",
+          "glossy_white_header_panel"
+        ],
+        "background_surface": "wood_shelf_grain",
+        "atmospheric": [
+          "warm_soft_bokeh"
+        ]
+      },
+      "lighting": {
+        "key_direction": "soft_frontal_warm_from_left",
+        "key_hardness": "soft",
+        "key_color_temp": "warm_tungsten_3200K",
+        "fill_strength": "medium",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": false,
+        "practical_lights": [
+          "warm_desk_lamp"
+        ],
+        "shadow_presence": "soft",
+        "overall_contrast": "medium_low"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#9A8A6B",
+          "#7A4B2E",
+          "#E8B488",
+          "#F2F4F8",
+          "#2E80F0"
+        ],
+        "palette_role": {
+          "#9A8A6B": "subject_khaki_shirt",
+          "#7A4B2E": "warm_wood_background",
+          "#E8B488": "skin_warm_key",
+          "#F2F4F8": "white_app_screen_and_editorial_header",
+          "#2E80F0": "app_button_and_header_accent_blue"
+        },
+        "color_relationship": "warm_naturalistic_with_clean_white_blue_overlay",
+        "temperature_balance": "warm_dominant",
+        "saturation_strategy": "desaturated_naturalistic",
+        "contrast_type": "soft_portrait_with_crisp_graphic_overlay",
+        "accent_color": "#2E80F0",
+        "accent_ratio": 0.16
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "Vertical 9:16 medium close-up portrait photograph, eye-level frontal framing, of the same young Korean adult woman in her late twenties, wearing the same relaxed muted khaki-beige cotton button-up shirt, seated centered at a desk in a warm cozy home study at evening. She now raises a modern black smartphone screen-out beside her face in her left hand, presenting it to the lens, while smiling warmly with a friendly closed-mouth or lightly open smile. The phone's screen shows a generic Korean fintech application's recurring-transfer setup page on a clean white background: a bold Korean heading near the top, an information card and a labeled field beneath it, and a wide rounded primary action button in vivid blue anchored near the bottom of the screen — the precise micro text is small and partly turned but reads as a clean functional setup screen. Behind her, softly out of focus, the warm wooden bookshelf, a glowing warm desk lamp and a warm orange desk surface dissolve into amber bokeh. Floating across the very top of the frame is the same flat editorial graphic header bar: a slightly off-white paper-textured rounded rectangle with a thin blue outline, a tiny 'CONTENT' label at the upper-left, and two lines of bold near-black Korean text reading '월세 낼 때 진짜 편한' and '토스 자동이체', with a row of very small blue metadata labels along the bottom ('SERVICE 자동이체', 'YEAR 2024', 'CATEGORY 부동산 / 공공서비스 / 송금', 'PRODUCTION TEAM #team_transfer'). Lighting is soft warm tungsten ambient with a gentle frontal key from the left at roughly 3200K, medium fill, soft shadows, overall medium-low contrast; the raised phone screen adds a small neutral self-illumination near her face. Lens rendering: a portrait prime at roughly 50 to 85mm full-frame equivalent at a wide aperture, the plane of focus on her face and the raised phone, the background blurred smoothly, with a slight natural handheld presence. Composition seats the subject in the center with the raised phone beside her face on the left third and the crisp editorial header bar anchoring the top edge. Color palette and strategy: warm-dominant naturalistic grade — muted khaki shirt (#9A8A6B), warm wood background (#7A4B2E), warm skin key (#E8B488), clean white app screen and editorial panel (#F2F4F8), and an accent blue (#2E80F0) in the app button, header outline and labels; saturation restrained and realist with the white-and-blue graphics providing crisp contrast. Surfaces and texture: soft cotton shirt and natural skin, a glossy phone screen, a glossy flat paper-textured graphic panel, warm wood grain behind, all clean modern digital. Atmosphere: approachable and presenting, the trusted peer showing the very feature she is recommending. Post and signature look: warm commercial grade on the photography, perfectly flat crisp rendering on the graphic overlay, precise focus on the subject and screen. Style anchor: contemporary Korean fintech social-video aesthetic overlaying editorial title bars onto warm live-action portraiture as a presenter holds up a phone; the on-screen Korean header text '월세 낼 때 진짜 편한' and '토스 자동이체' must be preserved exactly, along with the small English metadata labels. No celebrity likeness — generic Korean adult woman; no real brand logos; render the app as a generic plausible Korean fintech interface.",
+        "t2i_negative": "english body caption, cold light, sharp background, studio backdrop, harsh contrast, distorted header text, real brand logos, blurry screen",
+        "i2v_motion": "The woman holds the phone up beside her face with a warm smile and a tiny natural sway; the editorial header bar holds static at the top; subtle handheld micro-drift; hard cut at ~1.5s.",
+        "i2v_params": {
+          "clip_duration_sec": 1.5,
+          "camera_move": "handheld_micro",
+          "subject_motion_level": "low_natural",
+          "signature_effect": "none",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen Korean caption preserved; identity generic"
+      }
+    },
+    {
+      "index": 5,
+      "duration": 3.47,
+      "framing": "MS",
+      "function": "product_demo",
+      "subject_action": "top-down flat-lay of an iPhone on a vivid orange surface; the app first shows an in-app search with '자동이체' typed and an autocomplete list (추천 키워드 자동이체 해지 / 자동이체 확인증 / 토스; 서비스: 자동이체 / 자동이체 확인증 / 자동납부) with a blue 검색 key, then the auto-transfer landing screen ('자동이체' heading, '이체 수수료가 무료예요.', '휴일에도 당일 이체할 수 있어요.', blue '자동이체 추가하기' button); the lower-third caption pill reads ''전체 탭'에서' then ''자동이체'를 실행해주세요'",
+      "layout_grid": "centered_device_on_field",
+      "subject_position": "center_dominant",
+      "typo_motion": "lower_third_caption_pill_swap",
+      "camera_angle": "top_down_flatlay",
+      "camera_facing": "perpendicular_to_screen",
+      "shot_scope": "product_detail",
+      "gaze": "none",
+      "props": [
+        "smartphone",
+        "orange_surface",
+        "notepad_edge",
+        "grey_paper_edge"
+      ],
+      "color_palette": [
+        "#E8731C",
+        "#FFFFFF",
+        "#2E80F0",
+        "#3A3A3A",
+        "#3A2410"
+      ],
+      "color_intent": "saturated_orange_field; clean_white_search_and_landing_ui; blue_link_and_button_accent; dark_caption_pill",
+      "pose_description": "the phone lies flat and centered on the orange surface, screen up, cycling from an in-app search state to the auto-transfer landing screen; no hand for most of the shot",
+      "subject_motion": "ui_search_then_navigate_to_landing",
+      "camera_motion": "locked_off",
+      "camera_effect_local": "flat_even_screen_capture",
+      "intra_cut_rhythm": "search_then_open_landing_with_caption_swaps",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "mid_frame_path": "ADV-2026-020_frames/cut05_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "phone_screen_search_then_landing_ui",
+          "blue_primary_button",
+          "lower_third_caption_pill"
+        ],
+        "midground": [
+          "phone_chassis_on_surface"
+        ],
+        "background": [
+          "vivid_orange_flat_surface",
+          "edge_of_notepad_and_grey_paper"
+        ],
+        "lighting_env": [
+          "even_soft_overhead",
+          "screen_self_illumination"
+        ],
+        "atmosphere": [
+          "clean_product_demo",
+          "instructional"
+        ]
+      },
+      "texture": {
+        "primary_subject": "glossy_phone_screen_flat",
+        "secondary_objects": [
+          "matte_phone_chassis"
+        ],
+        "background_surface": "smooth_matte_orange_paper",
+        "atmospheric": [
+          "clean_flat_graphic_field"
+        ]
+      },
+      "lighting": {
+        "key_direction": "even_overhead_diffuse",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_5000K",
+        "fill_strength": "high",
+        "key_to_fill_ratio": "1:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "minimal_soft_under_phone",
+        "overall_contrast": "medium"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#E8731C",
+          "#FFFFFF",
+          "#2E80F0",
+          "#3A3A3A",
+          "#3A2410"
+        ],
+        "palette_role": {
+          "#E8731C": "orange_background_field",
+          "#FFFFFF": "app_ui_background",
+          "#2E80F0": "ui_link_button_accent_blue",
+          "#3A3A3A": "ui_text_and_caption_pill",
+          "#3A2410": "soft_shadow_under_device"
+        },
+        "color_relationship": "complementary_orange_vs_blue",
+        "temperature_balance": "warm_field_cool_ui",
+        "saturation_strategy": "high_saturation_brand_field_functional_ui",
+        "contrast_type": "high_contrast_white_device_on_orange",
+        "accent_color": "#2E80F0",
+        "accent_ratio": 0.1
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "Vertical 9:16 top-down flat-lay product photograph of a modern large-screen smartphone lying screen-up and centered on a smooth, saturated vivid-orange flat paper surface, the orange filling the entire surround as a bold seamless field of negative space. The phone is shown straight-on, perpendicular to camera, its slim black chassis framing a bright white application screen. The screen displays a generic Korean fintech app's in-app search state: a status bar reading '12:00' with signal and 5G icons, a search field near the top containing the typed Korean query '자동이체' with a small clear (x) icon and a grey '취소' cancel label to its right; below it a section labelled '추천 키워드' with a row of suggestion chips reading '자동이체 해지', '자동이체 확인증' and a partial '토스'; beneath a small grey '서비스' label, a vertical results list shows '자동이체' rendered in blue link color with a small checkmark glyph, then '자동이체 확인증' with a small blue badge and grey breadcrumb sub-label '토스뱅크 > 설정 > 토스뱅크 고객센터 > 증명서 발급하기 > 예금', then '자동납부' with a grey sub-label '토스뱅크 > 상품 찾기'. The lower portion of the screen shows a light Korean QWERTY-style on-screen keyboard with a vivid blue '검색' (search) key at the lower right and 스페이스 spacebar. Superimposed across the lower third of the entire frame, sitting just below the phone, is a horizontally-centered dark charcoal rounded-rectangle caption pill containing bold white Korean text reading '전체 탭'에서 (with single quotes around 전체 탭). Lighting is even, soft, neutral overhead diffuse at roughly 5000K with high fill, producing only a minimal soft contact shadow beneath the phone and a clean flat look across the orange field; the screen self-illuminates clean white. Lens rendering: a flat, low-distortion top-down capture as if from a copy-stand, the screen perfectly legible edge to edge with a slight glossy sheen on the glass. Composition centers the device on the orange field with the caption pill anchoring the lower third, the whole image reading as a clean instructional product demo. Color palette and strategy: a high-saturation complementary scheme — vivid orange background field (#E8731C) set against the cool white app UI, a blue link and search-key accent (#2E80F0), near-black UI text and the dark caption pill (#3A3A3A), and a soft warm shadow under the device (#3A2410); the orange-versus-blue complementary tension gives the demo its punchy brand-forward look while the UI itself stays functional. Surfaces and texture: glossy flat phone glass, matte black chassis, a smooth matte orange paper backdrop, and slivers of a lined notepad and a grey paper edge peeking at the frame corners. Atmosphere: clean, bright, instructional product demonstration of searching a feature in the app's all-tab. Post and signature look: crisp clean digital, accurate UI colors, saturated but even orange, no grain. Style anchor: contemporary Korean fintech social-video UI-walkthrough aesthetic — a phone-on-colored-paper flat-lay with synced lower-third caption pills; preserve the on-screen Korean UI strings ('자동이체', '취소', '추천 키워드', '자동이체 해지', '자동이체 확인증', '서비스', '자동납부', '검색') and the caption '전체 탭'에서 exactly. Render the app as a generic plausible Korean fintech interface with no real brand logos or wordmarks; no celebrity likeness. The whole frame should feel like a crisp tabletop product demo shot on a copy stand under soft even light, the orange paper perfectly flat and uniform and the white phone screen razor sharp and legible, a deliberately simple brand-forward instructional look typical of Korean fintech how-to social videos.",
+        "t2i_negative": "english ui, perspective tilt, dark background, heavy drop shadow, cluttered desk props, real brand logos, blurry screen",
+        "i2v_motion": "The search results sit ready, then the screen navigates to the auto-transfer landing page (heading '자동이체' with benefit lines and a blue '자동이체 추가하기' button); the lower-third caption pill swaps from '전체 탭'에서 to '자동이체'를 실행해주세요; locked-off camera; hard cut at ~3.5s.",
+        "i2v_params": {
+          "clip_duration_sec": 3.5,
+          "camera_move": "locked_off",
+          "subject_motion_level": "low_ui_navigation",
+          "signature_effect": "none",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen Korean UI and captions preserved; identity/logo generic"
+      }
+    },
+    {
+      "index": 6,
+      "duration": 2.035,
+      "framing": "MCU",
+      "function": "instruction",
+      "subject_action": "live-action: the same woman at the warm desk holds a black smartphone in her left hand and speaks toward camera with a small explaining expression; a lower-third dark caption pill reads ''월세 자동이체'를 / 만들어볼게요'",
+      "layout_grid": "subject_center_with_lower_third_pill",
+      "subject_position": "center",
+      "typo_motion": "lower_third_caption_pill",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "medium_portrait",
+      "gaze": "to_camera",
+      "props": [
+        "smartphone",
+        "desk",
+        "bookshelf",
+        "desk_lamp",
+        "sticky_notes"
+      ],
+      "color_palette": [
+        "#9A8A6B",
+        "#7A4B2E",
+        "#E8B488",
+        "#3A3A3A",
+        "#D8C9B0"
+      ],
+      "color_intent": "warm_study_bokeh; muted_khaki_shirt; soft_amber_key_on_skin; dark_caption_pill",
+      "pose_description": "the woman sits centered holding a dark phone in her left hand near chest height, looking toward the lens mid-sentence with an open, instructive expression",
+      "subject_motion": "talking_beat_light_gesture",
+      "camera_motion": "handheld_micro",
+      "camera_effect_local": "shallow_dof_background",
+      "intra_cut_rhythm": "talking_beat_with_caption_hold",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "mid_frame_path": "ADV-2026-020_frames/cut06_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "woman_holding_phone",
+          "lower_third_caption_pill"
+        ],
+        "midground": [
+          "orange_desk_surface_with_sticky_notes"
+        ],
+        "background": [
+          "wooden_bookshelf",
+          "warm_desk_lamp",
+          "decorative_objects"
+        ],
+        "lighting_env": [
+          "warm_tungsten_ambient",
+          "soft_key_on_face"
+        ],
+        "atmosphere": [
+          "approachable",
+          "instructional",
+          "cozy_evening"
+        ]
+      },
+      "texture": {
+        "primary_subject": "soft_cotton_shirt_and_skin",
+        "secondary_objects": [
+          "matte_phone",
+          "wood_shelf"
+        ],
+        "background_surface": "wood_shelf_grain",
+        "atmospheric": [
+          "warm_soft_bokeh"
+        ]
+      },
+      "lighting": {
+        "key_direction": "soft_frontal_warm_from_left",
+        "key_hardness": "soft",
+        "key_color_temp": "warm_tungsten_3200K",
+        "fill_strength": "medium",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": false,
+        "practical_lights": [
+          "warm_desk_lamp"
+        ],
+        "shadow_presence": "soft",
+        "overall_contrast": "medium_low"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#9A8A6B",
+          "#7A4B2E",
+          "#E8B488",
+          "#3A3A3A",
+          "#D8C9B0"
+        ],
+        "palette_role": {
+          "#9A8A6B": "subject_khaki_shirt",
+          "#7A4B2E": "warm_wood_background",
+          "#E8B488": "skin_warm_key",
+          "#3A3A3A": "dark_caption_pill",
+          "#D8C9B0": "ambient_warm_neutral"
+        },
+        "color_relationship": "warm_naturalistic_with_neutral_caption",
+        "temperature_balance": "warm_dominant",
+        "saturation_strategy": "desaturated_naturalistic",
+        "contrast_type": "soft_portrait_with_dark_caption_pill",
+        "accent_color": "#3A3A3A",
+        "accent_ratio": 0.1
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "Vertical 9:16 medium close-up portrait photograph, eye-level frontal framing, of the same young Korean adult woman in her late twenties, wearing the same relaxed muted khaki-beige cotton button-up shirt, seated centered at a desk in a warm cozy home study at evening. She holds a modern dark smartphone in her left hand near chest height and looks toward the lens with an open, mid-sentence explaining expression, her body language friendly and instructive as if telling the viewer what they are about to do together. Behind her, softly out of focus, the warm wooden bookshelf, a glowing warm desk lamp, a few decorative objects and a warm orange desk surface scattered with sticky notes dissolve into amber bokeh. Superimposed across the lower portion of the frame is a horizontally-centered dark charcoal rounded-rectangle caption pill containing two lines of bold white Korean text reading '월세 자동이체'를 on the first line and 만들어볼게요 on the second (with single quotes around 월세 자동이체). Lighting is soft warm tungsten ambient with a gentle frontal key from the left at roughly 3200K, medium fill, soft shadows, overall medium-low contrast, giving a comfortable domestic glow. Lens rendering: a portrait prime at roughly 50 to 85mm full-frame equivalent at a wide aperture, the plane of focus on her face and hand while the background blurs smoothly, with a slight natural handheld presence. Composition seats the subject in the center of the frame with generous warm background and the dark caption pill anchoring the lower third. Color palette and strategy: warm-dominant naturalistic grade — muted khaki shirt (#9A8A6B), warm wood background (#7A4B2E), warm skin key (#E8B488), dark neutral caption pill (#3A3A3A), and warm neutral ambient (#D8C9B0); saturation restrained and realist with the white-on-dark caption pill as the high-contrast graphic element. Surfaces and texture: soft cotton shirt and fine natural skin texture, a matte phone, warm wood grain behind, all clean modern digital fidelity with no heavy grain. Atmosphere: approachable and instructional, the friendly presenter announcing she will now build a rent auto-transfer. Post and signature look: warm commercial color grade, precise focus on the subject, smooth bokeh separation, naturalistic skin tones. Style anchor: contemporary Korean fintech social-video aesthetic that grounds an app walkthrough in a relatable presenter with synced lower-third caption pills; the on-screen Korean caption text '월세 자동이체'를 and 만들어볼게요 must be preserved exactly. No celebrity likeness — render a generic Korean adult woman; no real brand logos anywhere. The production craft should read as premium Korean commercial work: a fast prime lens wide open for creamy subject-to-background separation, a soft key wrapped gently across her face from the warm desk lamp at frame-left so the practical light source is motivated within the scene, and a comfortable medium-low contrast grade that keeps shadow detail rich and warm. The desk dressing — a wooden cube bookshelf with books and files, a few sticky notes on the orange tabletop, a softly glowing articulated lamp — establishes a lived-in young-adult home study without cluttering the frame, every background element dissolved into amber bokeh so attention stays on the presenter's face and the caption pill. The caption pill itself is a crisp anti-aliased dark charcoal rounded rectangle with bold white Hangul, registered without jitter and sitting cleanly in the lower third, the only hard-edged graphic element against the soft photographic warmth. Her wardrobe, posture and easy direct-address delivery read as a trusted peer or creator talking straight to camera in the relatable explainer register that Korean fintech brands use to make a functional in-app task feel friendly and approachable, the whole frame quietly cinematic yet plainspoken.",
+        "t2i_negative": "english caption text, cold daylight, sharp background, studio seamless backdrop, harsh contrast, exaggerated expression, visible brand logos",
+        "i2v_motion": "The woman speaks with a small natural hand gesture on the phone and a light head movement; the lower-third caption pill holds '월세 자동이체'를 / 만들어볼게요; gentle handheld micro-drift; hard cut at ~2.0s.",
+        "i2v_params": {
+          "clip_duration_sec": 2.0,
+          "camera_move": "handheld_micro",
+          "subject_motion_level": "low_natural",
+          "signature_effect": "none",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen Korean caption preserved; identity generic"
+      }
+    },
+    {
+      "index": 7,
+      "duration": 1.401,
+      "framing": "MS",
+      "function": "product_demo",
+      "subject_action": "top-down flat-lay; the app shows the auto-transfer landing screen ('자동이체' heading, '이체 수수료가 무료예요.', '휴일에도 당일 이체할 수 있어요.', blue '자동이체 추가하기' button); a finger enters from below and taps the blue button, and the screen begins sliding to the next step; no caption pill (between narration lines)",
+      "layout_grid": "centered_device_on_field",
+      "subject_position": "center_dominant",
+      "typo_motion": "none",
+      "camera_angle": "top_down_flatlay",
+      "camera_facing": "perpendicular_to_screen",
+      "shot_scope": "product_detail",
+      "gaze": "none",
+      "props": [
+        "smartphone",
+        "finger",
+        "orange_surface"
+      ],
+      "color_palette": [
+        "#E8731C",
+        "#FFFFFF",
+        "#2E80F0",
+        "#5B6470",
+        "#3A2410"
+      ],
+      "color_intent": "saturated_orange_field; clean_white_landing_ui; blue_button_accent; grey_benefit_text",
+      "pose_description": "the phone lies flat and centered, screen up; a single index finger enters from the lower center to tap the blue '자동이체 추가하기' button",
+      "subject_motion": "finger_tap_then_screen_slide",
+      "camera_motion": "locked_off",
+      "camera_effect_local": "flat_even_screen_capture",
+      "intra_cut_rhythm": "tap_then_navigate",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "mid_frame_path": "ADV-2026-020_frames/cut07_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "phone_screen_landing_ui",
+          "finger_tapping_button",
+          "blue_primary_button"
+        ],
+        "midground": [
+          "phone_chassis_on_surface"
+        ],
+        "background": [
+          "vivid_orange_flat_surface"
+        ],
+        "lighting_env": [
+          "even_soft_overhead",
+          "screen_self_illumination"
+        ],
+        "atmosphere": [
+          "clean_product_demo",
+          "instructional",
+          "transition_beat"
+        ]
+      },
+      "texture": {
+        "primary_subject": "glossy_phone_screen_flat",
+        "secondary_objects": [
+          "matte_phone_chassis",
+          "human_finger"
+        ],
+        "background_surface": "smooth_matte_orange_paper",
+        "atmospheric": [
+          "clean_flat_graphic_field"
+        ]
+      },
+      "lighting": {
+        "key_direction": "even_overhead_diffuse",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_5000K",
+        "fill_strength": "high",
+        "key_to_fill_ratio": "1:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "minimal_soft_under_phone",
+        "overall_contrast": "medium"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#E8731C",
+          "#FFFFFF",
+          "#2E80F0",
+          "#5B6470",
+          "#3A2410"
+        ],
+        "palette_role": {
+          "#E8731C": "orange_background_field",
+          "#FFFFFF": "app_ui_background",
+          "#2E80F0": "primary_button_blue",
+          "#5B6470": "benefit_text_grey",
+          "#3A2410": "soft_shadow_under_device"
+        },
+        "color_relationship": "complementary_orange_vs_blue",
+        "temperature_balance": "warm_field_cool_ui",
+        "saturation_strategy": "high_saturation_brand_field_functional_ui",
+        "contrast_type": "high_contrast_white_device_on_orange",
+        "accent_color": "#2E80F0",
+        "accent_ratio": 0.12
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "Vertical 9:16 top-down flat-lay product photograph of a modern large-screen smartphone lying screen-up and centered on a smooth, saturated vivid-orange paper surface that fills the entire surround as bold negative space. The phone, shown straight-on with its slim black chassis, displays a generic Korean fintech app's auto-transfer landing screen on a clean white background. A status bar reads '12:00' with signal and 5G icons; a back chevron sits at the upper left and a small grey '이체내역' link at the upper right. A bold Korean heading reads '자동이체'. Below it, a soft light-grey rounded info card contains two benefit rows each with a small colorful icon: a sparkle icon beside '이체 수수료가 무료예요.' and a palm-tree icon beside '휴일에도 당일 이체할 수 있어요.'. The middle of the screen is calm white space. Anchored near the bottom of the screen is a wide rounded primary action button in vivid blue containing white Korean text reading '자동이체 추가하기'. A single Korean adult index finger enters the frame from the lower center and presses this blue button, the fingertip touching it. No caption pill is present at this moment (the shot falls between spoken lines). Lighting is even, soft, neutral overhead diffuse at roughly 5000K with high fill, producing only a minimal soft contact shadow beneath the phone and a clean flat look across the orange field; the screen self-illuminates clean white. Lens rendering: a flat, low-distortion copy-stand-style top-down capture, the screen perfectly legible edge to edge with a slight glossy sheen. Composition centers the device on the orange field with the blue button and the tapping fingertip as the focal point. Color palette and strategy: a high-saturation complementary scheme — vivid orange background field (#E8731C) against the cool white app UI, a vivid blue primary button (#2E80F0), secondary grey benefit text (#5B6470), and a soft warm shadow under the device (#3A2410); the orange-versus-blue tension drives the brand-forward demo look while the UI stays clean and functional. Surfaces and texture: glossy flat phone glass, matte black chassis, a smooth matte orange paper backdrop, and a natural human fingertip. Atmosphere: clean, bright, the user starting the flow by adding a new auto-transfer. Post and signature look: crisp clean digital, accurate UI colors, saturated even orange, no grain. Style anchor: contemporary Korean fintech social-video UI-walkthrough aesthetic — phone-on-colored-paper flat-lay; preserve the on-screen Korean strings ('자동이체', '이체 수수료가 무료예요.', '휴일에도 당일 이체할 수 있어요.', '자동이체 추가하기', '이체내역') exactly. Render the app as a generic plausible Korean fintech interface with no real brand logos or wordmarks; no celebrity likeness. The frame should read as a crisp tabletop product demo shot on a copy stand under soft even light, the orange paper perfectly flat and uniform, the white phone screen razor sharp and fully legible, the single fingertip on the blue button the only organic element, the visual grammar of a clean instructional how-to typical of contemporary Korean fintech social videos where every element on screen has a clear functional job and nothing decorative competes with the step being demonstrated.",
+        "t2i_negative": "english ui, perspective tilt, dark background, heavy shadow, cluttered props, real brand logos, blurry text, caption pill present",
+        "i2v_motion": "A finger taps the blue '자동이체 추가하기' button and the screen begins sliding left toward the next setup step; the screen is otherwise static; no caption pill; locked-off camera; hard cut at ~1.4s.",
+        "i2v_params": {
+          "clip_duration_sec": 1.4,
+          "camera_move": "locked_off",
+          "subject_motion_level": "low_ui_interaction",
+          "signature_effect": "none",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen Korean UI preserved; identity/logo generic"
+      }
+    },
+    {
+      "index": 8,
+      "duration": 1.502,
+      "framing": "MS",
+      "function": "product_demo",
+      "subject_action": "top-down flat-lay; the app shows the withdrawal-account step headed '어느 계좌에서 보낼까요?' with an '출금 계좌' field, and a bottom-sheet '출금 계좌를 선택해주세요' listing accounts (토스뱅크 통장 출금 가능 금액 20,182,747 원 / 저축예금 17,080,594 원 / KDB Hi 비대면 입출금통장 0 원 / 저축예금 734 원 …) with bank icons; a finger taps the first account; the lower-third caption pill reads '출금할 계좌를 선택하고'",
+      "layout_grid": "centered_device_on_field",
+      "subject_position": "center_dominant",
+      "typo_motion": "lower_third_caption_pill",
+      "camera_angle": "top_down_flatlay",
+      "camera_facing": "perpendicular_to_screen",
+      "shot_scope": "product_detail",
+      "gaze": "none",
+      "props": [
+        "smartphone",
+        "finger",
+        "orange_surface"
+      ],
+      "color_palette": [
+        "#E8731C",
+        "#FFFFFF",
+        "#2E80F0",
+        "#5B6470",
+        "#3A3A3A"
+      ],
+      "color_intent": "saturated_orange_field; clean_white_account_picker_bottom_sheet; blue_brand_icons; dark_caption_pill",
+      "pose_description": "the phone lies flat and centered, screen up, showing an account-selection bottom sheet; a single index finger enters from the lower right to tap the top account row",
+      "subject_motion": "finger_tap_account_row",
+      "camera_motion": "locked_off",
+      "camera_effect_local": "flat_even_screen_capture",
+      "intra_cut_rhythm": "account_list_then_tap",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "mid_frame_path": "ADV-2026-020_frames/cut08_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "phone_screen_account_picker_ui",
+          "finger_tapping",
+          "lower_third_caption_pill"
+        ],
+        "midground": [
+          "phone_chassis_on_surface"
+        ],
+        "background": [
+          "vivid_orange_flat_surface"
+        ],
+        "lighting_env": [
+          "even_soft_overhead",
+          "screen_self_illumination"
+        ],
+        "atmosphere": [
+          "clean_product_demo",
+          "instructional"
+        ]
+      },
+      "texture": {
+        "primary_subject": "glossy_phone_screen_flat",
+        "secondary_objects": [
+          "matte_phone_chassis",
+          "human_finger"
+        ],
+        "background_surface": "smooth_matte_orange_paper",
+        "atmospheric": [
+          "clean_flat_graphic_field"
+        ]
+      },
+      "lighting": {
+        "key_direction": "even_overhead_diffuse",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_5000K",
+        "fill_strength": "high",
+        "key_to_fill_ratio": "1:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "minimal_soft_under_phone",
+        "overall_contrast": "medium"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#E8731C",
+          "#FFFFFF",
+          "#2E80F0",
+          "#5B6470",
+          "#3A3A3A"
+        ],
+        "palette_role": {
+          "#E8731C": "orange_background_field",
+          "#FFFFFF": "app_ui_background_and_bottom_sheet",
+          "#2E80F0": "account_brand_icon_blue",
+          "#5B6470": "secondary_balance_text_grey",
+          "#3A3A3A": "headline_text_and_caption_pill"
+        },
+        "color_relationship": "complementary_orange_vs_blue",
+        "temperature_balance": "warm_field_cool_ui",
+        "saturation_strategy": "high_saturation_brand_field_functional_ui",
+        "contrast_type": "high_contrast_white_device_on_orange",
+        "accent_color": "#2E80F0",
+        "accent_ratio": 0.1
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "Vertical 9:16 top-down flat-lay product photograph of a modern large-screen smartphone lying screen-up and centered on a smooth, saturated vivid-orange paper surface that fills the entire surround as bold negative space. The phone, shown straight-on with its slim black chassis, displays a generic Korean fintech app's withdrawal-account selection step on a clean white background. A status bar reads '12:00'; a centered small header reads '자동이체 추가' with a back chevron at the upper left. A bold Korean heading reads '어느 계좌에서 보낼까요?' and beneath it a small grey label '출금 계좌' over a faint field. Sliding up from the bottom is a white rounded bottom-sheet titled in bold '출금 계좌를 선택해주세요', listing a vertical set of account rows each with a small colored circular bank icon: the first row '토스뱅크 통장' with a blue droplet-style icon and a grey sub-line '출금 가능 금액 20,182,747 원'; then '저축예금' with a teal wave icon and '잔액 17,080,594 원'; then 'KDB Hi 비대면 입출금통장(...)' with a dark-blue icon and '잔액 0 원'; then '저축예금' with a blue icon and '잔액 734 원'; and a further '저축예금' row beginning to appear at the bottom edge. A single Korean adult index finger enters from the lower right and presses the first account row. Superimposed across the lower third of the entire frame, sitting just below the phone, is a horizontally-centered dark charcoal rounded-rectangle caption pill with bold white Korean text reading '출금할 계좌를 선택하고'. Lighting is even, soft, neutral overhead diffuse at roughly 5000K with high fill, producing only a minimal soft contact shadow beneath the phone and a clean flat look across the orange field; the screen self-illuminates clean white. Lens rendering: a flat low-distortion copy-stand-style top-down capture, the screen legible edge to edge with a slight glossy sheen. Composition centers the device on the orange field with the account bottom-sheet and the tapping fingertip as the focal point and the caption pill anchoring the lower third. Color palette and strategy: a high-saturation complementary scheme — vivid orange background field (#E8731C) against the cool white app UI and bottom sheet, blue brand account icons (#2E80F0), secondary grey balance text (#5B6470), and near-black headline text and caption pill (#3A3A3A); the orange-versus-blue tension frames the picker while the list stays clean and functional. Surfaces and texture: glossy flat phone glass, matte black chassis, a smooth matte orange paper backdrop, and a natural human fingertip. Atmosphere: clean, bright, instructional — choosing which account the rent will be withdrawn from. Post and signature look: crisp clean digital, accurate UI colors, saturated even orange, no grain. Style anchor: contemporary Korean fintech social-video UI-walkthrough aesthetic — phone-on-colored-paper flat-lay with synced lower-third caption pills; preserve the on-screen Korean strings ('자동이체 추가', '어느 계좌에서 보낼까요?', '출금 계좌', '출금 계좌를 선택해주세요', '토스뱅크 통장', '출금 가능 금액 20,182,747 원', '저축예금', '잔액 17,080,594 원', 'KDB Hi 비대면 입출금통장', '잔액 0 원', '잔액 734 원') and the caption '출금할 계좌를 선택하고' exactly. Render the app and account names as a generic plausible Korean fintech interface with no real brand logos or wordmarks; no celebrity likeness. The frame should read as a clean tabletop product demo on a copy stand under soft even light, the orange paper flat and uniform and the white phone screen razor sharp, the single fingertip the only organic element and the caption pill a clean anti-aliased dark graphic with crisp white type.",
+        "t2i_negative": "english ui, perspective tilt, dark background, heavy shadow, cluttered props, real brand logos, blurry text",
+        "i2v_motion": "The account bottom-sheet sits ready; a finger taps the first account row ('토스뱅크 통장'); the screen is otherwise static; the lower-third caption pill holds '출금할 계좌를 선택하고'; locked-off camera; hard cut at ~1.5s.",
+        "i2v_params": {
+          "clip_duration_sec": 1.5,
+          "camera_move": "locked_off",
+          "subject_motion_level": "low_ui_interaction",
+          "signature_effect": "none",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen Korean UI and caption preserved; identity/logo generic"
+      }
+    },
+    {
+      "index": 9,
+      "duration": 3.57,
+      "framing": "MS",
+      "function": "product_demo",
+      "subject_action": "top-down flat-lay; the app shows the schedule step headed '언제 보낼까요?' with '오전 9시부터 이체가 시작돼요. 상황에 따라 오전 11시 이후가 될 수도 있어요.', a 반복/1회 toggle, and a spinning wheel picker (매월 · 매주 · 매일 × day numbers) settling on '매월 10일', with a blue '선택' button; a finger spins the day wheel and then taps 선택; the lower-third caption pill reads '이체 날짜와 반복 일정을' then '세팅해주세요'",
+      "layout_grid": "centered_device_on_field",
+      "subject_position": "center_dominant",
+      "typo_motion": "lower_third_caption_pill_swap",
+      "camera_angle": "top_down_flatlay",
+      "camera_facing": "perpendicular_to_screen",
+      "shot_scope": "product_detail",
+      "gaze": "none",
+      "props": [
+        "smartphone",
+        "finger",
+        "orange_surface"
+      ],
+      "color_palette": [
+        "#E8731C",
+        "#FFFFFF",
+        "#2E80F0",
+        "#5B6470",
+        "#3A3A3A"
+      ],
+      "color_intent": "saturated_orange_field; clean_white_schedule_picker_ui; blue_button_accent; dark_caption_pill",
+      "pose_description": "the phone lies flat and centered, screen up, showing a date/repeat picker; a single index finger spins the day wheel and then taps the blue 선택 button",
+      "subject_motion": "finger_spins_wheel_then_taps_select",
+      "camera_motion": "locked_off",
+      "camera_effect_local": "flat_even_screen_capture",
+      "intra_cut_rhythm": "wheel_spin_with_caption_swaps",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "mid_frame_path": "ADV-2026-020_frames/cut09_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "phone_screen_schedule_picker_ui",
+          "spinning_day_wheel",
+          "blue_select_button",
+          "lower_third_caption_pill"
+        ],
+        "midground": [
+          "phone_chassis_on_surface"
+        ],
+        "background": [
+          "vivid_orange_flat_surface"
+        ],
+        "lighting_env": [
+          "even_soft_overhead",
+          "screen_self_illumination"
+        ],
+        "atmosphere": [
+          "clean_product_demo",
+          "instructional"
+        ]
+      },
+      "texture": {
+        "primary_subject": "glossy_phone_screen_flat",
+        "secondary_objects": [
+          "matte_phone_chassis",
+          "human_finger"
+        ],
+        "background_surface": "smooth_matte_orange_paper",
+        "atmospheric": [
+          "clean_flat_graphic_field"
+        ]
+      },
+      "lighting": {
+        "key_direction": "even_overhead_diffuse",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_5000K",
+        "fill_strength": "high",
+        "key_to_fill_ratio": "1:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "minimal_soft_under_phone",
+        "overall_contrast": "medium"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#E8731C",
+          "#FFFFFF",
+          "#2E80F0",
+          "#5B6470",
+          "#3A3A3A"
+        ],
+        "palette_role": {
+          "#E8731C": "orange_background_field",
+          "#FFFFFF": "app_ui_background",
+          "#2E80F0": "select_button_blue",
+          "#5B6470": "picker_text_grey",
+          "#3A3A3A": "headline_text_and_caption_pill"
+        },
+        "color_relationship": "complementary_orange_vs_blue",
+        "temperature_balance": "warm_field_cool_ui",
+        "saturation_strategy": "high_saturation_brand_field_functional_ui",
+        "contrast_type": "high_contrast_white_device_on_orange",
+        "accent_color": "#2E80F0",
+        "accent_ratio": 0.1
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "Vertical 9:16 top-down flat-lay product photograph of a modern large-screen smartphone lying screen-up and centered on a smooth, saturated vivid-orange paper surface that fills the entire surround as bold negative space. The phone, shown straight-on with its slim black chassis, displays a generic Korean fintech app's transfer-schedule step on a clean white background. A status bar reads '12:01'; a centered header reads '자동이체 추가' with a back chevron at the upper left. A bold Korean heading reads '언제 보낼까요?' and beneath it two lighter grey lines read '오전 9시부터 이체가 시작돼요.' and '상황에 따라 오전 11시 이후가 될 수도 있어요.'. Below that is a segmented toggle with two pills, '반복' (selected, lighter) and '1회' (deselected). The lower half of the screen shows a two-column spinning wheel date picker: the left column lists '매월' (selected, bold, centered) with faint '매주' and '매일' above and below, and the right column lists day numbers with '10일' centered and bold and faint neighboring days ('7일', '8일', '9일', '11일', '12일', '13일') fading above and below in a typical iOS-style wheel selector with a soft highlighted central band. Anchored near the bottom is a wide rounded primary action button in vivid blue containing white Korean text reading '선택'. A single Korean adult index finger enters from the lower right and rests on the day wheel as if mid-spin. Superimposed across the lower third of the entire frame, sitting just below the phone, is a horizontally-centered dark charcoal rounded-rectangle caption pill with bold white Korean text; at this moment it reads '이체 날짜와 반복 일정을' (across the shot the pill also shows '세팅해주세요'). Lighting is even, soft, neutral overhead diffuse at roughly 5000K with high fill, producing only a minimal soft contact shadow beneath the phone and a clean flat look across the orange field; the screen self-illuminates clean white. Lens rendering: a flat low-distortion copy-stand-style top-down capture, the screen legible edge to edge with a slight glossy sheen. Composition centers the device on the orange field with the date wheel as the focal point and the caption pill anchoring the lower third. Color palette and strategy: a high-saturation complementary scheme — vivid orange background field (#E8731C) against the cool white app UI, a vivid blue select button (#2E80F0), grey picker and helper text (#5B6470), and near-black headline text and caption pill (#3A3A3A); the orange-versus-blue tension frames the picker while the wheel stays clean and functional. Surfaces and texture: glossy flat phone glass, matte black chassis, a smooth matte orange paper backdrop, and a natural human fingertip. Atmosphere: clean, bright, instructional — setting the monthly date and repeat schedule for the rent transfer. Post and signature look: crisp clean digital, accurate UI colors, saturated even orange, no grain. Style anchor: contemporary Korean fintech social-video UI-walkthrough aesthetic — phone-on-colored-paper flat-lay with synced lower-third caption pills; preserve the on-screen Korean strings ('자동이체 추가', '언제 보낼까요?', '오전 9시부터 이체가 시작돼요.', '상황에 따라 오전 11시 이후가 될 수도 있어요.', '반복', '1회', '매월', '매주', '매일', '10일', '선택') and the caption '이체 날짜와 반복 일정을' exactly. Render the app as a generic plausible Korean fintech interface with no real brand logos or wordmarks; no celebrity likeness. The frame should read as a clean tabletop product demo on a copy stand under soft even light, the orange paper flat and uniform and the white phone screen razor sharp, the day wheel rendered with realistic iOS-style soft motion blur on the off-center entries, the single fingertip the only organic element and the caption pill a clean anti-aliased dark graphic with crisp white type.",
+        "t2i_negative": "english ui, perspective tilt, dark background, heavy shadow, cluttered props, real brand logos, blurry headline text",
+        "i2v_motion": "The day wheel spins under the finger and settles on '10일' beside '매월'; then the finger taps the blue '선택' button; the lower-third caption pill swaps from '이체 날짜와 반복 일정을' to '세팅해주세요'; locked-off camera; hard cut at ~3.6s.",
+        "i2v_params": {
+          "clip_duration_sec": 3.6,
+          "camera_move": "locked_off",
+          "subject_motion_level": "low_ui_wheel_spin",
+          "signature_effect": "none",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen Korean UI and captions preserved; identity/logo generic"
+      }
+    },
+    {
+      "index": 10,
+      "duration": 3.537,
+      "framing": "MS",
+      "function": "product_demo",
+      "subject_action": "top-down flat-lay; the app shows the amount step headed '얼마를 보낼까요?' with a 금액 field counting up from 0원 to 500,000원, an 이체 주기·날짜 매월 10일 row, an 출금 계좌 토스뱅크 통장 row, a blue '다음' bar and a numeric keypad; a finger types on the keypad; the lower-third caption pill reads '매달 보낼 금액을' then '설정하고'",
+      "layout_grid": "centered_device_on_field",
+      "subject_position": "center_dominant",
+      "typo_motion": "lower_third_caption_pill_swap",
+      "camera_angle": "top_down_flatlay",
+      "camera_facing": "perpendicular_to_screen",
+      "shot_scope": "product_detail",
+      "gaze": "none",
+      "props": [
+        "smartphone",
+        "finger",
+        "orange_surface"
+      ],
+      "color_palette": [
+        "#E8731C",
+        "#FFFFFF",
+        "#2E80F0",
+        "#5B6470",
+        "#3A3A3A"
+      ],
+      "color_intent": "saturated_orange_field; clean_white_amount_entry_ui; blue_next_bar_accent; dark_caption_pill",
+      "pose_description": "the phone lies flat and centered, screen up, showing an amount-entry form with a numeric keypad; a single index finger taps keys to enter the amount",
+      "subject_motion": "finger_keypad_entry_amount_counts_up",
+      "camera_motion": "locked_off",
+      "camera_effect_local": "flat_even_screen_capture",
+      "intra_cut_rhythm": "keypad_entry_with_caption_swaps",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "mid_frame_path": "ADV-2026-020_frames/cut10_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "phone_screen_amount_entry_ui",
+          "numeric_keypad",
+          "blue_next_bar",
+          "lower_third_caption_pill"
+        ],
+        "midground": [
+          "phone_chassis_on_surface"
+        ],
+        "background": [
+          "vivid_orange_flat_surface"
+        ],
+        "lighting_env": [
+          "even_soft_overhead",
+          "screen_self_illumination"
+        ],
+        "atmosphere": [
+          "clean_product_demo",
+          "instructional"
+        ]
+      },
+      "texture": {
+        "primary_subject": "glossy_phone_screen_flat",
+        "secondary_objects": [
+          "matte_phone_chassis",
+          "human_finger"
+        ],
+        "background_surface": "smooth_matte_orange_paper",
+        "atmospheric": [
+          "clean_flat_graphic_field"
+        ]
+      },
+      "lighting": {
+        "key_direction": "even_overhead_diffuse",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_5000K",
+        "fill_strength": "high",
+        "key_to_fill_ratio": "1:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "minimal_soft_under_phone",
+        "overall_contrast": "medium"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#E8731C",
+          "#FFFFFF",
+          "#2E80F0",
+          "#5B6470",
+          "#3A3A3A"
+        ],
+        "palette_role": {
+          "#E8731C": "orange_background_field",
+          "#FFFFFF": "app_ui_background",
+          "#2E80F0": "next_bar_and_field_accent_blue",
+          "#5B6470": "secondary_label_text_grey",
+          "#3A3A3A": "headline_amount_text_and_caption_pill"
+        },
+        "color_relationship": "complementary_orange_vs_blue",
+        "temperature_balance": "warm_field_cool_ui",
+        "saturation_strategy": "high_saturation_brand_field_functional_ui",
+        "contrast_type": "high_contrast_white_device_on_orange",
+        "accent_color": "#2E80F0",
+        "accent_ratio": 0.1
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "Vertical 9:16 top-down flat-lay product photograph of a modern large-screen smartphone lying screen-up and centered on a smooth, saturated vivid-orange paper surface that fills the entire surround as bold negative space. The phone, shown straight-on with its slim black chassis, displays a generic Korean fintech app's transfer-amount entry step on a clean white background. A status bar reads '12:01'; a centered header reads '자동이체 추가' with a back chevron at the upper left. A bold Korean heading reads '얼마를 보낼까요?'. Below it, a small blue label '금액' sits over a large amount value field reading '500,000' aligned left with a '원' suffix and a small clear (x) icon at the right, underlined by a thin blue input line (mid count-up the field has shown smaller values like '5,000'). Beneath are two read-only summary rows: a grey label '이체 주기·날짜' over bold '매월 10일' with a small down chevron, and a grey label '출금 계좌' over bold '토스뱅크 통장' with a small down chevron. Spanning the screen above the keyboard is a wide vivid-blue bar button containing white Korean text reading '다음'. The lower portion shows a light numeric keypad with digits 1-9 (each with small Latin sub-letters like ABC, DEF), a 0, and a delete (x) key. A single Korean adult index finger rests on the keypad as if entering the amount. Superimposed across the lower third of the entire frame, sitting just below the phone, is a horizontally-centered dark charcoal rounded-rectangle caption pill with two lines of bold white Korean text; at this moment it reads '매달 보낼 금액을' on the first line and '설정하고' on the second. Lighting is even, soft, neutral overhead diffuse at roughly 5000K with high fill, producing only a minimal soft contact shadow beneath the phone and a clean flat look across the orange field; the screen self-illuminates clean white. Lens rendering: a flat low-distortion copy-stand-style top-down capture, the screen legible edge to edge with a slight glossy sheen. Composition centers the device on the orange field with the large amount value as the focal point and the caption pill anchoring the lower third. Color palette and strategy: a high-saturation complementary scheme — vivid orange background field (#E8731C) against the cool white app UI, a vivid blue next bar and input line (#2E80F0), secondary grey label text (#5B6470), and near-black amount and caption text (#3A3A3A); the orange-versus-blue tension drives the brand-forward demo look while the form stays clean and functional. Surfaces and texture: glossy flat phone glass, matte black chassis, a smooth matte orange paper backdrop, and a natural human fingertip. Atmosphere: clean, bright, instructional — entering the monthly rent amount of 500,000 won. Post and signature look: crisp clean digital, accurate UI colors, saturated even orange, no grain. Style anchor: contemporary Korean fintech social-video UI-walkthrough aesthetic — phone-on-colored-paper flat-lay with synced lower-third caption pills; preserve the on-screen Korean strings ('자동이체 추가', '얼마를 보낼까요?', '금액', '500,000', '원', '이체 주기·날짜', '매월 10일', '출금 계좌', '토스뱅크 통장', '다음') and the caption '매달 보낼 금액을' / '설정하고' exactly. Render the app as a generic plausible Korean fintech interface with no real brand logos or wordmarks; no celebrity likeness. The frame should read as a clean tabletop product demo on a copy stand under soft even light, the orange paper flat and uniform and the white phone screen razor sharp, the single fingertip the only organic element and the caption pill a clean anti-aliased dark graphic with crisp white type.",
+        "t2i_negative": "english ui, perspective tilt, dark background, heavy shadow, cluttered props, real brand logos, blurry numbers",
+        "i2v_motion": "A finger taps the keypad and the 금액 field counts up to '500,000'; the lower-third caption pill swaps from '매달 보낼 금액을' to '설정하고'; locked-off camera; hard cut at ~3.5s.",
+        "i2v_params": {
+          "clip_duration_sec": 3.5,
+          "camera_move": "locked_off",
+          "subject_motion_level": "low_ui_keypad_entry",
+          "signature_effect": "none",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen Korean UI and captions preserved; identity/logo generic"
+      }
+    },
+    {
+      "index": 11,
+      "duration": 2.602,
+      "framing": "MS",
+      "function": "product_demo",
+      "subject_action": "top-down flat-lay; the app shows the recipient step headed '어떤 계좌로 보낼까요?' with a '계좌번호 입력' field (partly blurred digits being typed), a '은행 선택' dropdown with rotating bank chips (SC제일 / NH농협 / 키움, then 신한 / 신협 / 우리, then 씨티 / 우리 / KB국민), and a numeric keypad; a finger types digits; the lower-third caption pill reads '상대방 계좌도 입력해주세요'",
+      "layout_grid": "centered_device_on_field",
+      "subject_position": "center_dominant",
+      "typo_motion": "lower_third_caption_pill",
+      "camera_angle": "top_down_flatlay",
+      "camera_facing": "perpendicular_to_screen",
+      "shot_scope": "product_detail",
+      "gaze": "none",
+      "props": [
+        "smartphone",
+        "finger",
+        "orange_surface"
+      ],
+      "color_palette": [
+        "#E8731C",
+        "#FFFFFF",
+        "#2E80F0",
+        "#5B6470",
+        "#3A3A3A"
+      ],
+      "color_intent": "saturated_orange_field; clean_white_recipient_entry_ui; multicolor_bank_chips; dark_caption_pill",
+      "pose_description": "the phone lies flat and centered, screen up, showing a recipient account-number entry form with bank chips; a single index finger taps the numeric keypad",
+      "subject_motion": "finger_keypad_entry_account_number",
+      "camera_motion": "locked_off",
+      "camera_effect_local": "flat_even_screen_capture",
+      "intra_cut_rhythm": "keypad_entry_with_rotating_bank_chips",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "mid_frame_path": "ADV-2026-020_frames/cut11_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "phone_screen_recipient_entry_ui",
+          "bank_selection_chips",
+          "numeric_keypad",
+          "lower_third_caption_pill"
+        ],
+        "midground": [
+          "phone_chassis_on_surface"
+        ],
+        "background": [
+          "vivid_orange_flat_surface"
+        ],
+        "lighting_env": [
+          "even_soft_overhead",
+          "screen_self_illumination"
+        ],
+        "atmosphere": [
+          "clean_product_demo",
+          "instructional"
+        ]
+      },
+      "texture": {
+        "primary_subject": "glossy_phone_screen_flat",
+        "secondary_objects": [
+          "matte_phone_chassis",
+          "human_finger"
+        ],
+        "background_surface": "smooth_matte_orange_paper",
+        "atmospheric": [
+          "clean_flat_graphic_field"
+        ]
+      },
+      "lighting": {
+        "key_direction": "even_overhead_diffuse",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_5000K",
+        "fill_strength": "high",
+        "key_to_fill_ratio": "1:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "minimal_soft_under_phone",
+        "overall_contrast": "medium"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#E8731C",
+          "#FFFFFF",
+          "#2E80F0",
+          "#5B6470",
+          "#3A3A3A"
+        ],
+        "palette_role": {
+          "#E8731C": "orange_background_field",
+          "#FFFFFF": "app_ui_background",
+          "#2E80F0": "input_line_and_chip_accent_blue",
+          "#5B6470": "label_and_chip_text_grey",
+          "#3A3A3A": "headline_text_and_caption_pill"
+        },
+        "color_relationship": "complementary_orange_vs_blue",
+        "temperature_balance": "warm_field_cool_ui",
+        "saturation_strategy": "high_saturation_brand_field_functional_ui",
+        "contrast_type": "high_contrast_white_device_on_orange",
+        "accent_color": "#2E80F0",
+        "accent_ratio": 0.1
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "Vertical 9:16 top-down flat-lay product photograph of a modern large-screen smartphone lying screen-up and centered on a smooth, saturated vivid-orange paper surface that fills the entire surround as bold negative space. The phone, shown straight-on with its slim black chassis, displays a generic Korean fintech app's recipient-account entry step on a clean white background. A status bar reads '12:01' with a back chevron at the upper left. A bold Korean heading reads '어떤 계좌로 보낼까요?'. Below it, a small blue label '계좌번호 입력' sits over an account-number field showing a few leading digits intentionally blurred/masked followed by freshly typed digits (for example a masked prefix then '3848') with a thin blue input underline and a clear (x) icon at the right. Beneath is a grey label-and-field '은행 선택' with a down chevron, and a horizontal row of small rounded bank-selection chips each with a tiny colored brand glyph and a Korean bank name — at this moment reading 'SC제일', 'NH농협' and '키움' (across the shot the chips rotate to show others such as '신한', '신협', '우리', '씨티', 'KB국민'). The lower portion of the screen shows a light numeric keypad with digits 1-9 (each with small Latin sub-letters), a 0, and a delete (x) key. A single Korean adult index finger rests on the keypad as if entering the account number. Superimposed across the lower third of the entire frame, sitting just below the phone, is a horizontally-centered dark charcoal rounded-rectangle caption pill with bold white Korean text reading '상대방 계좌도 입력해주세요'. Lighting is even, soft, neutral overhead diffuse at roughly 5000K with high fill, producing only a minimal soft contact shadow beneath the phone and a clean flat look across the orange field; the screen self-illuminates clean white. Lens rendering: a flat low-distortion copy-stand-style top-down capture, the screen legible edge to edge with a slight glossy sheen. Composition centers the device on the orange field with the account-number field and bank chips as the focal point and the caption pill anchoring the lower third. Color palette and strategy: a high-saturation complementary scheme — vivid orange background field (#E8731C) against the cool white app UI, a vivid blue input line and chip accents (#2E80F0), grey labels and chip text (#5B6470), and near-black headline text and caption pill (#3A3A3A); the orange-versus-blue tension drives the brand-forward demo look while the form stays clean and functional. Surfaces and texture: glossy flat phone glass, matte black chassis, a smooth matte orange paper backdrop, and a natural human fingertip. Atmosphere: clean, bright, instructional — entering the landlord's account number to receive the rent. Post and signature look: crisp clean digital, accurate UI colors, saturated even orange, no grain. Style anchor: contemporary Korean fintech social-video UI-walkthrough aesthetic — phone-on-colored-paper flat-lay with synced lower-third caption pills; preserve the on-screen Korean strings ('어떤 계좌로 보낼까요?', '계좌번호 입력', '은행 선택', 'SC제일', 'NH농협', '키움', '신한', '신협', '우리', '씨티', 'KB국민') and the caption '상대방 계좌도 입력해주세요' exactly, and keep the account-number digits partly masked. Render the app and bank names as a generic plausible Korean fintech interface with no real brand logos or wordmarks; no celebrity likeness. The frame should read as a clean tabletop product demo on a copy stand under soft even light, the orange paper flat and uniform and the white phone screen razor sharp, the single fingertip the only organic element and the caption pill a clean anti-aliased dark graphic with crisp white type.",
+        "t2i_negative": "english ui, perspective tilt, dark background, heavy shadow, cluttered props, real brand logos, fully legible private account number",
+        "i2v_motion": "A finger taps the keypad entering account digits while the '은행 선택' bank chips cycle through different bank names; the lower-third caption pill holds '상대방 계좌도 입력해주세요'; locked-off camera; hard cut at ~2.6s.",
+        "i2v_params": {
+          "clip_duration_sec": 2.6,
+          "camera_move": "locked_off",
+          "subject_motion_level": "low_ui_keypad_entry",
+          "signature_effect": "none",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen Korean UI and caption preserved; account number masked; identity/logo generic"
+      }
+    },
+    {
+      "index": 12,
+      "duration": 3.671,
+      "framing": "MS",
+      "function": "product_demo",
+      "subject_action": "top-down flat-lay; the app shows the naming step headed '마지막으로 / 자동이체 제목을 입력해주세요' with helper '입력하지 않으면 받는 분(계좌) 이름으로 등록돼요.', a '자동이체 제목' field being typed ('자취방' then '자취방 월세'), a 받는 분 row, a blue '확인' bar and a Korean keyboard; a finger types on the keyboard; the lower-third caption pill reads '이렇게 자동이체 이름도' then '적어주고'",
+      "layout_grid": "centered_device_on_field",
+      "subject_position": "center_dominant",
+      "typo_motion": "lower_third_caption_pill_swap",
+      "camera_angle": "top_down_flatlay",
+      "camera_facing": "perpendicular_to_screen",
+      "shot_scope": "product_detail",
+      "gaze": "none",
+      "props": [
+        "smartphone",
+        "finger",
+        "orange_surface"
+      ],
+      "color_palette": [
+        "#E8731C",
+        "#FFFFFF",
+        "#2E80F0",
+        "#5B6470",
+        "#3A3A3A"
+      ],
+      "color_intent": "saturated_orange_field; clean_white_naming_form_ui; blue_confirm_bar_accent; dark_caption_pill",
+      "pose_description": "the phone lies flat and centered, screen up, showing a title-entry form with a Korean keyboard; a single index finger taps keys to type the transfer name",
+      "subject_motion": "finger_keyboard_typing_title",
+      "camera_motion": "locked_off",
+      "camera_effect_local": "flat_even_screen_capture",
+      "intra_cut_rhythm": "typing_title_with_caption_swaps",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "mid_frame_path": "ADV-2026-020_frames/cut12_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "phone_screen_naming_form_ui",
+          "korean_keyboard",
+          "blue_confirm_bar",
+          "lower_third_caption_pill"
+        ],
+        "midground": [
+          "phone_chassis_on_surface"
+        ],
+        "background": [
+          "vivid_orange_flat_surface"
+        ],
+        "lighting_env": [
+          "even_soft_overhead",
+          "screen_self_illumination"
+        ],
+        "atmosphere": [
+          "clean_product_demo",
+          "instructional"
+        ]
+      },
+      "texture": {
+        "primary_subject": "glossy_phone_screen_flat",
+        "secondary_objects": [
+          "matte_phone_chassis",
+          "human_finger"
+        ],
+        "background_surface": "smooth_matte_orange_paper",
+        "atmospheric": [
+          "clean_flat_graphic_field"
+        ]
+      },
+      "lighting": {
+        "key_direction": "even_overhead_diffuse",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_5000K",
+        "fill_strength": "high",
+        "key_to_fill_ratio": "1:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "minimal_soft_under_phone",
+        "overall_contrast": "medium"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#E8731C",
+          "#FFFFFF",
+          "#2E80F0",
+          "#5B6470",
+          "#3A3A3A"
+        ],
+        "palette_role": {
+          "#E8731C": "orange_background_field",
+          "#FFFFFF": "app_ui_background",
+          "#2E80F0": "confirm_bar_and_field_accent_blue",
+          "#5B6470": "helper_and_label_text_grey",
+          "#3A3A3A": "headline_text_and_caption_pill"
+        },
+        "color_relationship": "complementary_orange_vs_blue",
+        "temperature_balance": "warm_field_cool_ui",
+        "saturation_strategy": "high_saturation_brand_field_functional_ui",
+        "contrast_type": "high_contrast_white_device_on_orange",
+        "accent_color": "#2E80F0",
+        "accent_ratio": 0.1
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "Vertical 9:16 top-down flat-lay product photograph of a modern large-screen smartphone lying screen-up and centered on a smooth, saturated vivid-orange paper surface that fills the entire surround as bold negative space. The phone, shown straight-on with its slim black chassis, displays a generic Korean fintech app's auto-transfer naming step on a clean white background. A status bar reads '12:01' with a back chevron at the upper left and a centered '자동이체 추가' header. A bold two-line Korean heading reads '마지막으로' then '자동이체 제목을 입력해주세요', with a lighter grey helper line beneath reading '입력하지 않으면 받는 분(계좌) 이름으로 등록돼요.'. Below that, a small blue label '자동이체 제목' sits over a text field; the field shows the freshly typed Korean text '자취방 월세' with a blinking caret and a clear (x) icon at the right, underlined by a thin blue input line, and a small grey placeholder hint '자동이체 제목을 입력해주세요' below. Further down a grey label '받는 분' begins a row that is partly hidden behind the keyboard. Spanning the screen above the keyboard is a wide vivid-blue bar button containing white Korean text reading '확인'. The lower portion shows a light Korean QWERTY-style on-screen keyboard with a 스페이스 spacebar and a return key. A single Korean adult index finger rests on the keyboard as if typing the title. Superimposed across the lower third of the entire frame, sitting just below the phone, is a horizontally-centered dark charcoal rounded-rectangle caption pill with bold white Korean text; at this moment it reads '이렇게 자동이체 이름도' (across the shot the pill also shows '적어주고'). Lighting is even, soft, neutral overhead diffuse at roughly 5000K with high fill, producing only a minimal soft contact shadow beneath the phone and a clean flat look across the orange field; the screen self-illuminates clean white. Lens rendering: a flat low-distortion copy-stand-style top-down capture, the screen legible edge to edge with a slight glossy sheen. Composition centers the device on the orange field with the title field as the focal point and the caption pill anchoring the lower third. Color palette and strategy: a high-saturation complementary scheme — vivid orange background field (#E8731C) against the cool white app UI, a vivid blue confirm bar and input line (#2E80F0), grey helper and label text (#5B6470), and near-black heading and caption text (#3A3A3A); the orange-versus-blue tension drives the brand-forward demo look while the form stays clean and functional. Surfaces and texture: glossy flat phone glass, matte black chassis, a smooth matte orange paper backdrop, and a natural human fingertip. Atmosphere: clean, bright, instructional — giving the auto-transfer a friendly nickname like '자취방 월세' (studio-apartment rent). Post and signature look: crisp clean digital, accurate UI colors, saturated even orange, no grain. Style anchor: contemporary Korean fintech social-video UI-walkthrough aesthetic — phone-on-colored-paper flat-lay with synced lower-third caption pills; preserve the on-screen Korean strings ('자동이체 추가', '마지막으로', '자동이체 제목을 입력해주세요', '입력하지 않으면 받는 분(계좌) 이름으로 등록돼요.', '자동이체 제목', '자취방 월세', '받는 분', '확인') and the caption '이렇게 자동이체 이름도' / '적어주고' exactly. Render the app as a generic plausible Korean fintech interface with no real brand logos or wordmarks; no celebrity likeness. The frame should read as a clean tabletop product demo on a copy stand under soft even light, the orange paper flat and uniform and the white phone screen razor sharp, the single fingertip the only organic element and the caption pill a clean anti-aliased dark graphic with crisp white type.",
+        "t2i_negative": "english ui, perspective tilt, dark background, heavy shadow, cluttered props, real brand logos, blurry title text",
+        "i2v_motion": "A finger types on the Korean keyboard and the title field fills in to read '자취방 월세'; the lower-third caption pill swaps from '이렇게 자동이체 이름도' to '적어주고'; locked-off camera; hard cut at ~3.7s.",
+        "i2v_params": {
+          "clip_duration_sec": 3.7,
+          "camera_move": "locked_off",
+          "subject_motion_level": "low_ui_keyboard_entry",
+          "signature_effect": "none",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen Korean UI and captions preserved; identity/logo generic"
+      }
+    },
+    {
+      "index": 13,
+      "duration": 4.738,
+      "framing": "MS",
+      "function": "product_demo",
+      "subject_action": "top-down flat-lay; the app shows the final confirmation review headed '이다연님에게 / 매월 10일 500,000원씩 / 자동이체를 등록할게요', listing 자동이체 제목 자취방 월세, 받는 분 (masked), 금액 500,000원, 이체 주기·날짜 매월 10일, 출금 계좌 토스뱅크 통장, then scrolls to 추가 설정 (다음 이체일 2024년 3월 10일, 받는 분에게 표시 김창선, 시작일, 종료일 없음, 이체 1일 전 미리 알림 toggle) and a blue '추가하기' button; a finger hovers/scrolls; the lower-third caption pill reads '자동이체 내역을' then '최종 확인하면'",
+      "layout_grid": "centered_device_on_field",
+      "subject_position": "center_dominant",
+      "typo_motion": "lower_third_caption_pill_swap",
+      "camera_angle": "top_down_flatlay",
+      "camera_facing": "perpendicular_to_screen",
+      "shot_scope": "product_detail",
+      "gaze": "none",
+      "props": [
+        "smartphone",
+        "finger",
+        "orange_surface"
+      ],
+      "color_palette": [
+        "#E8731C",
+        "#FFFFFF",
+        "#2E80F0",
+        "#5B6470",
+        "#3A3A3A"
+      ],
+      "color_intent": "saturated_orange_field; clean_white_confirmation_review_ui; blue_add_button_accent; dark_caption_pill",
+      "pose_description": "the phone lies flat and centered, screen up, showing a scrollable confirmation summary; a single index finger scrolls/hovers near the bottom add button",
+      "subject_motion": "ui_scroll_through_summary",
+      "camera_motion": "locked_off",
+      "camera_effect_local": "flat_even_screen_capture",
+      "intra_cut_rhythm": "scroll_review_with_caption_swaps",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "mid_frame_path": "ADV-2026-020_frames/cut13_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "phone_screen_confirmation_summary_ui",
+          "blue_add_button",
+          "lower_third_caption_pill"
+        ],
+        "midground": [
+          "phone_chassis_on_surface"
+        ],
+        "background": [
+          "vivid_orange_flat_surface"
+        ],
+        "lighting_env": [
+          "even_soft_overhead",
+          "screen_self_illumination"
+        ],
+        "atmosphere": [
+          "clean_product_demo",
+          "trust_building",
+          "conclusive"
+        ]
+      },
+      "texture": {
+        "primary_subject": "glossy_phone_screen_flat",
+        "secondary_objects": [
+          "matte_phone_chassis",
+          "human_finger"
+        ],
+        "background_surface": "smooth_matte_orange_paper",
+        "atmospheric": [
+          "clean_flat_graphic_field"
+        ]
+      },
+      "lighting": {
+        "key_direction": "even_overhead_diffuse",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_5000K",
+        "fill_strength": "high",
+        "key_to_fill_ratio": "1:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "minimal_soft_under_phone",
+        "overall_contrast": "medium"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#E8731C",
+          "#FFFFFF",
+          "#2E80F0",
+          "#5B6470",
+          "#3A3A3A"
+        ],
+        "palette_role": {
+          "#E8731C": "orange_background_field",
+          "#FFFFFF": "app_ui_background",
+          "#2E80F0": "add_button_and_toggle_accent_blue",
+          "#5B6470": "secondary_label_text_grey",
+          "#3A3A3A": "headline_summary_text_and_caption_pill"
+        },
+        "color_relationship": "complementary_orange_vs_blue",
+        "temperature_balance": "warm_field_cool_ui",
+        "saturation_strategy": "high_saturation_brand_field_functional_ui",
+        "contrast_type": "high_contrast_white_device_on_orange",
+        "accent_color": "#2E80F0",
+        "accent_ratio": 0.1
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "Vertical 9:16 top-down flat-lay product photograph of a modern large-screen smartphone lying screen-up and centered on a smooth, saturated vivid-orange paper surface that fills the entire surround as bold negative space. The phone, shown straight-on with its slim black chassis, displays a generic Korean fintech app's final auto-transfer confirmation review on a clean white background. A status bar reads '12:02' with a back chevron at the upper left and a centered '자동이체 추가' header. A bold three-line Korean summary headline reads '이다연님에게' then '매월 10일 500,000원씩' then '자동이체를 등록할게요'. Below it a stack of read-only summary rows each with a small grey label over a bold value: '자동이체 제목' over '자취방 월세'; '받는 분' over a deliberately masked/blurred recipient name with a down chevron; '금액' over '500,000' with a '원' suffix; '이체 주기·날짜' over '매월 10일' with a down chevron; '출금 계좌' over '토스뱅크 통장' with a down chevron. As the page scrolls a further section headed '추가 설정' (extra settings) reveals rows '다음 이체일' with grey value '2024년 3월 10일', '받는 분에게 표시' with grey value '김창선' and a chevron, '시작일' with a chevron, '종료일' with grey value '없음' and a chevron, and a row '이체 1일 전 미리 알림' with a blue toggle switched on. Anchored near the bottom of the screen is a wide rounded primary action button in vivid blue containing white Korean text reading '추가하기'. A single Korean adult index finger hovers near the lower rows as if scrolling and reviewing. Superimposed across the lower third of the entire frame, sitting just below the phone, is a horizontally-centered dark charcoal rounded-rectangle caption pill with bold white Korean text; at this moment it reads '자동이체 내역을' (across the shot the pill also shows '최종 확인하면'). Lighting is even, soft, neutral overhead diffuse at roughly 5000K with high fill, producing only a minimal soft contact shadow beneath the phone and a clean flat look across the orange field; the screen self-illuminates clean white. Lens rendering: a flat low-distortion copy-stand-style top-down capture, the screen legible edge to edge with a slight glossy sheen. Composition centers the device on the orange field with the bold summary headline as the focal point and the caption pill anchoring the lower third. Color palette and strategy: a high-saturation complementary scheme — vivid orange background field (#E8731C) against the cool white app UI, a vivid blue add button and alert toggle (#2E80F0), secondary grey label text (#5B6470), and near-black summary and caption text (#3A3A3A); the orange-versus-blue tension frames the review while the summary stays clean and functional. Surfaces and texture: glossy flat phone glass, matte black chassis, a smooth matte orange paper backdrop, and a natural human fingertip. Atmosphere: clean, bright, trust-building and conclusive — the final at-a-glance review before confirming the recurring rent transfer. Post and signature look: crisp clean digital, accurate UI colors, saturated even orange, no grain. Style anchor: contemporary Korean fintech social-video UI-walkthrough aesthetic — phone-on-colored-paper flat-lay with synced lower-third caption pills; preserve the on-screen Korean strings ('자동이체 추가', '이다연님에게', '매월 10일 500,000원씩', '자동이체를 등록할게요', '자동이체 제목', '자취방 월세', '받는 분', '금액', '500,000', '원', '이체 주기·날짜', '매월 10일', '출금 계좌', '토스뱅크 통장', '추가 설정', '다음 이체일', '2024년 3월 10일', '받는 분에게 표시', '김창선', '시작일', '종료일', '없음', '이체 1일 전 미리 알림', '추가하기') and the caption '자동이체 내역을' / '최종 확인하면' exactly, keeping the '받는 분' recipient name masked. Render the app as a generic plausible Korean fintech interface with no real brand logos or wordmarks; the on-screen names ('이다연', '김창선') are in-app demo placeholders; no celebrity likeness. The frame should read as a clean tabletop product demo on a copy stand under soft even light, the orange paper flat and uniform and the white phone screen razor sharp, the single fingertip the only organic element and the caption pill a clean anti-aliased dark graphic with crisp white type.",
+        "t2i_negative": "english ui, perspective tilt, dark background, heavy shadow, cluttered props, real brand logos, fully legible private recipient name",
+        "i2v_motion": "The confirmation summary scrolls gently from the bold headline down through the value rows to the '추가 설정' section and the blue '추가하기' button while a finger reviews; the lower-third caption pill swaps from '자동이체 내역을' to '최종 확인하면'; locked-off camera; hard cut at ~4.7s.",
+        "i2v_params": {
+          "clip_duration_sec": 4.7,
+          "camera_move": "locked_off",
+          "subject_motion_level": "low_ui_scroll",
+          "signature_effect": "none",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen Korean UI and captions preserved; demo names placeholders; identity/logo generic"
+      }
+    },
+    {
+      "index": 14,
+      "duration": 4.371,
+      "framing": "CU",
+      "function": "payoff_reveal",
+      "subject_action": "top-down flat-lay pushed in to a close-up; the app shows the completed auto-transfer list screen ('자동이체' heading, 전체 filter, a row '자취방 월세 / 매월 10일 500,000 원' with a blue toggle switched ON, and a blue '자동이체 추가하기' button); the lower-third caption pill reads '월세 자동이체가 / 완성됐어요' then '이제 잊어버릴 일 없이'",
+      "layout_grid": "centered_device_pushed_in",
+      "subject_position": "center_dominant",
+      "typo_motion": "lower_third_caption_pill_swap",
+      "camera_angle": "top_down_flatlay",
+      "camera_facing": "perpendicular_to_screen",
+      "shot_scope": "product_detail",
+      "gaze": "none",
+      "props": [
+        "smartphone",
+        "orange_surface"
+      ],
+      "color_palette": [
+        "#E8731C",
+        "#FFFFFF",
+        "#2E80F0",
+        "#5B6470",
+        "#3A3A3A"
+      ],
+      "color_intent": "saturated_orange_field; clean_white_completed_list_ui; blue_toggle_and_button_accent; dark_caption_pill",
+      "pose_description": "the phone fills most of the frame in a pushed-in top-down view, screen up, showing the saved auto-transfer with an ON toggle; no hand present",
+      "subject_motion": "static_completed_screen_settle",
+      "camera_motion": "locked_off_pushed_in",
+      "camera_effect_local": "flat_even_screen_capture_tight",
+      "intra_cut_rhythm": "completion_hold_with_caption_swaps",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "mid_frame_path": "ADV-2026-020_frames/cut14_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "phone_screen_completed_list_ui",
+          "blue_on_toggle",
+          "lower_third_caption_pill"
+        ],
+        "midground": [
+          "phone_chassis_on_surface"
+        ],
+        "background": [
+          "vivid_orange_flat_surface"
+        ],
+        "lighting_env": [
+          "even_soft_overhead",
+          "screen_self_illumination"
+        ],
+        "atmosphere": [
+          "rewarding",
+          "conclusive",
+          "clean_product_demo"
+        ]
+      },
+      "texture": {
+        "primary_subject": "glossy_phone_screen_flat",
+        "secondary_objects": [
+          "matte_phone_chassis"
+        ],
+        "background_surface": "smooth_matte_orange_paper",
+        "atmospheric": [
+          "clean_flat_graphic_field"
+        ]
+      },
+      "lighting": {
+        "key_direction": "even_overhead_diffuse",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_5000K",
+        "fill_strength": "high",
+        "key_to_fill_ratio": "1:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "minimal_soft_under_phone",
+        "overall_contrast": "medium"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#E8731C",
+          "#FFFFFF",
+          "#2E80F0",
+          "#5B6470",
+          "#3A3A3A"
+        ],
+        "palette_role": {
+          "#E8731C": "orange_background_field",
+          "#FFFFFF": "app_ui_background",
+          "#2E80F0": "on_toggle_and_button_blue",
+          "#5B6470": "secondary_detail_text_grey",
+          "#3A3A3A": "headline_text_and_caption_pill"
+        },
+        "color_relationship": "complementary_orange_vs_blue",
+        "temperature_balance": "warm_field_cool_ui",
+        "saturation_strategy": "high_saturation_brand_field_functional_ui",
+        "contrast_type": "high_contrast_white_device_on_orange",
+        "accent_color": "#2E80F0",
+        "accent_ratio": 0.12
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "Vertical 9:16 top-down flat-lay product photograph pushed in to a tight close-up of a modern large-screen smartphone lying screen-up on a smooth, saturated vivid-orange paper surface, the phone filling most of the frame with only a margin of orange around its edges as negative space. The phone, shown straight-on with its slim black chassis, displays a generic Korean fintech app's completed auto-transfer list screen on a clean white background — the payoff of the walkthrough. A status bar reads '12:02' with a back chevron at the upper left and a small grey '이체내역' link at the upper right. A bold Korean heading reads '자동이체'. Below it a small grey filter dropdown reads '전체' with a down chevron. Then a single saved auto-transfer row shows a bold title '자취방 월세' with a small right chevron, and a grey sub-line '매월 10일 | 500,000 원'; to the right of the row sits a pill toggle switch flipped ON in vivid blue with the knob to the right, signalling the transfer is active. The rest of the screen is calm white space. Anchored near the bottom is a wide rounded primary action button in vivid blue containing white Korean text reading '자동이체 추가하기'. Superimposed across the lower third of the entire frame, sitting just below the phone, is a horizontally-centered dark charcoal rounded-rectangle caption pill with two lines of bold white Korean text; at this moment it reads '월세 자동이체가' on the first line and '완성됐어요' on the second (across the shot the pill also shows '이제 잊어버릴 일 없이'). Lighting is even, soft, neutral overhead diffuse at roughly 5000K with high fill, producing only a minimal soft contact shadow beneath the phone and a clean flat look across the orange field; the screen self-illuminates clean white. Lens rendering: a flat low-distortion copy-stand-style top-down capture pushed in close, the screen razor sharp edge to edge with a slight glossy sheen. Composition fills the frame with the device, the saved row and its blue ON toggle as the clear focal point and the caption pill anchoring the lower third. Color palette and strategy: a high-saturation complementary scheme — vivid orange background field (#E8731C) against the cool white app UI, a vivid blue ON toggle and add button (#2E80F0) as the meaningful 'it is active now' cue, secondary grey detail text (#5B6470), and near-black headline text and caption pill (#3A3A3A); the orange-versus-blue tension frames the result while the single blue ON toggle carries the emotional message that the recurring rent transfer is now set and running. Surfaces and texture: glossy flat phone glass, matte black chassis, a smooth matte orange paper backdrop. Atmosphere: rewarding and conclusive, the satisfying confirmation that the rent auto-transfer is complete and switched on. Post and signature look: crisp clean digital, accurate UI colors, saturated even orange, no grain. Style anchor: contemporary Korean fintech social-video UI-walkthrough aesthetic — phone-on-colored-paper flat-lay pushed in for emphasis with synced lower-third caption pills; preserve the on-screen Korean strings ('자동이체', '전체', '자취방 월세', '매월 10일', '500,000 원', '자동이체 추가하기', '이체내역') and the caption '월세 자동이체가' / '완성됐어요' exactly. Render the app as a generic plausible Korean fintech interface with no real brand logos or wordmarks; no celebrity likeness. This is the emotional payoff beat, and the art direction earns it by pushing in tight on the single completed row and its bright blue active toggle while keeping everything else calm white space — the restrained, brand-forward instructional treatment typical of contemporary Korean fintech how-to social videos makes the simple 'transfer is set and on' state land as a genuine reward for following every step.",
+        "t2i_negative": "english ui, perspective tilt, dark background, heavy shadow, cluttered props, real brand logos, blurry text, off toggle",
+        "i2v_motion": "The completed auto-transfer screen holds steady in a tight pushed-in top-down view, the blue toggle reading ON; the lower-third caption pill swaps from '월세 자동이체가 / 완성됐어요' to '이제 잊어버릴 일 없이'; locked-off camera; hard cut at ~4.4s.",
+        "i2v_params": {
+          "clip_duration_sec": 4.4,
+          "camera_move": "locked_off",
+          "subject_motion_level": "minimal",
+          "signature_effect": "none",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen Korean UI and captions preserved; identity/logo generic"
+      }
+    },
+    {
+      "index": 15,
+      "duration": 2.869,
+      "framing": "MCU",
+      "function": "reassurance",
+      "subject_action": "live-action: the same woman at the warm desk holds a black smartphone in her left hand and speaks toward camera with a relaxed smile; a lower-third dark caption pill reads '이제 잊어버릴 일 없이' then '계좌 이체가 진행되는데요'",
+      "layout_grid": "subject_center_with_lower_third_pill",
+      "subject_position": "center",
+      "typo_motion": "lower_third_caption_pill_swap",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "medium_portrait",
+      "gaze": "to_camera",
+      "props": [
+        "smartphone",
+        "desk",
+        "bookshelf",
+        "desk_lamp",
+        "sticky_notes"
+      ],
+      "color_palette": [
+        "#9A8A6B",
+        "#7A4B2E",
+        "#E8B488",
+        "#3A3A3A",
+        "#D8C9B0"
+      ],
+      "color_intent": "warm_study_bokeh; muted_khaki_shirt; soft_amber_key_on_skin; dark_caption_pill",
+      "pose_description": "the woman sits centered holding a dark phone in her left hand near chest height, looking toward the lens with a calm reassuring smile",
+      "subject_motion": "talking_beat_relaxed_smile",
+      "camera_motion": "handheld_micro",
+      "camera_effect_local": "shallow_dof_background",
+      "intra_cut_rhythm": "talking_beat_with_caption_swap",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "mid_frame_path": "ADV-2026-020_frames/cut15_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "woman_holding_phone",
+          "lower_third_caption_pill"
+        ],
+        "midground": [
+          "orange_desk_surface_with_sticky_notes"
+        ],
+        "background": [
+          "wooden_bookshelf",
+          "warm_desk_lamp",
+          "decorative_objects"
+        ],
+        "lighting_env": [
+          "warm_tungsten_ambient",
+          "soft_key_on_face"
+        ],
+        "atmosphere": [
+          "reassuring",
+          "approachable",
+          "cozy_evening"
+        ]
+      },
+      "texture": {
+        "primary_subject": "soft_cotton_shirt_and_skin",
+        "secondary_objects": [
+          "matte_phone",
+          "wood_shelf"
+        ],
+        "background_surface": "wood_shelf_grain",
+        "atmospheric": [
+          "warm_soft_bokeh"
+        ]
+      },
+      "lighting": {
+        "key_direction": "soft_frontal_warm_from_left",
+        "key_hardness": "soft",
+        "key_color_temp": "warm_tungsten_3200K",
+        "fill_strength": "medium",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": false,
+        "practical_lights": [
+          "warm_desk_lamp"
+        ],
+        "shadow_presence": "soft",
+        "overall_contrast": "medium_low"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#9A8A6B",
+          "#7A4B2E",
+          "#E8B488",
+          "#3A3A3A",
+          "#D8C9B0"
+        ],
+        "palette_role": {
+          "#9A8A6B": "subject_khaki_shirt",
+          "#7A4B2E": "warm_wood_background",
+          "#E8B488": "skin_warm_key",
+          "#3A3A3A": "dark_caption_pill",
+          "#D8C9B0": "ambient_warm_neutral"
+        },
+        "color_relationship": "warm_naturalistic_with_neutral_caption",
+        "temperature_balance": "warm_dominant",
+        "saturation_strategy": "desaturated_naturalistic",
+        "contrast_type": "soft_portrait_with_dark_caption_pill",
+        "accent_color": "#3A3A3A",
+        "accent_ratio": 0.1
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "Vertical 9:16 medium close-up portrait photograph, eye-level frontal framing, of the same young Korean adult woman in her late twenties, wearing the same relaxed muted khaki-beige cotton button-up shirt, seated centered at a desk in a warm cozy home study at evening. She holds a modern dark smartphone in her left hand near chest height and looks toward the lens with a calm, reassuring closed-mouth or lightly open smile, her body language easy and confident as if telling the viewer the hard part is over. Behind her, softly out of focus, the warm wooden bookshelf, a glowing warm desk lamp, decorative objects and a warm orange desk surface with sticky notes dissolve into amber bokeh. Superimposed across the lower portion of the frame is a horizontally-centered dark charcoal rounded-rectangle caption pill containing bold white Korean text; at this moment it reads '이제 잊어버릴 일 없이' (across the shot the pill then shows '계좌 이체가 진행되는데요'). Lighting is soft warm tungsten ambient with a gentle frontal key from the left at roughly 3200K, medium fill, soft shadows, overall medium-low contrast, giving a comfortable domestic glow. Lens rendering: a portrait prime at roughly 50 to 85mm full-frame equivalent at a wide aperture, the plane of focus on her face and hand while the background blurs smoothly, with a slight natural handheld presence. Composition seats the subject in the center of the frame with generous warm background and the dark caption pill anchoring the lower third. Color palette and strategy: warm-dominant naturalistic grade — muted khaki shirt (#9A8A6B), warm wood background (#7A4B2E), warm skin key (#E8B488), dark neutral caption pill (#3A3A3A), and warm neutral ambient (#D8C9B0); saturation restrained and realist with the white-on-dark caption pill as the high-contrast graphic element. Surfaces and texture: soft cotton shirt and fine natural skin texture, a matte phone, warm wood grain behind, all clean modern digital fidelity with no heavy grain. Atmosphere: reassuring and approachable, the friendly presenter promising that from now on the rent transfer runs automatically every month with nothing to remember. Post and signature look: warm commercial color grade, precise focus on the subject, smooth bokeh separation, naturalistic skin tones. Style anchor: contemporary Korean fintech social-video aesthetic that grounds an app walkthrough in a relatable presenter with synced lower-third caption pills; the on-screen Korean caption text '이제 잊어버릴 일 없이' and '계좌 이체가 진행되는데요' must be preserved exactly. No celebrity likeness — render a generic Korean adult woman; no real brand logos anywhere. The production craft should read as premium Korean commercial work: a fast prime lens wide open for creamy subject-to-background separation, a soft key wrapped gently across her face from the warm desk lamp at frame-left so the practical light source is motivated within the scene, and a comfortable medium-low contrast grade that keeps shadow detail rich and warm. The desk dressing — a wooden cube bookshelf with books and files, a few sticky notes on the orange tabletop, a softly glowing articulated lamp — establishes a lived-in young-adult home study without cluttering the frame, every background element dissolved into amber bokeh so attention stays on the presenter's face and the caption pill. The caption pill itself is a crisp anti-aliased dark charcoal rounded rectangle with bold white Hangul, registered without jitter and sitting cleanly in the lower third, the only hard-edged graphic element against the soft photographic warmth. Her relaxed posture and easy, reassuring direct-address delivery read as a trusted peer or creator talking straight to camera in the relatable explainer register that Korean fintech brands use to close a functional how-to on an emotionally warm, confidence-building note, the whole frame quietly cinematic yet plainspoken.",
+        "t2i_negative": "english caption text, cold daylight, sharp background, studio seamless backdrop, harsh contrast, exaggerated expression, visible brand logos",
+        "i2v_motion": "The woman speaks with a calm reassuring smile and a tiny natural head movement; the lower-third caption pill swaps from '이제 잊어버릴 일 없이' to '계좌 이체가 진행되는데요'; gentle handheld micro-drift; hard cut at ~2.9s.",
+        "i2v_params": {
+          "clip_duration_sec": 2.9,
+          "camera_move": "handheld_micro",
+          "subject_motion_level": "low_natural",
+          "signature_effect": "none",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen Korean caption preserved; identity generic"
+      }
+    },
+    {
+      "index": 16,
+      "duration": 3.003,
+      "framing": "MCU",
+      "function": "cta",
+      "subject_action": "live-action: the same woman, framed a little closer, lifts a hand near her cheek and speaks with a playful smile, then points toward the lens; a lower-third dark caption pill reads '이체 수수료는 / 당연히 무료인 거' then '아시죠?'",
+      "layout_grid": "subject_center_with_lower_third_pill",
+      "subject_position": "center",
+      "typo_motion": "lower_third_caption_pill_swap",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "medium_portrait",
+      "gaze": "to_camera",
+      "props": [
+        "desk",
+        "bookshelf",
+        "desk_lamp"
+      ],
+      "color_palette": [
+        "#9A8A6B",
+        "#7A4B2E",
+        "#E8B488",
+        "#3A3A3A",
+        "#D8C9B0"
+      ],
+      "color_intent": "warm_study_bokeh; muted_khaki_shirt; soft_amber_key_on_skin; dark_caption_pill",
+      "pose_description": "the woman sits centered, raises one hand near her cheek then extends a pointing/thumb gesture toward the lens with a playful confident smile",
+      "subject_motion": "hand_gesture_then_point_playful",
+      "camera_motion": "handheld_micro",
+      "camera_effect_local": "shallow_dof_background",
+      "intra_cut_rhythm": "playful_talking_beat_with_caption_swap",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "mid_frame_path": "ADV-2026-020_frames/cut16_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "woman_gesturing",
+          "lower_third_caption_pill"
+        ],
+        "midground": [
+          "orange_desk_surface"
+        ],
+        "background": [
+          "wooden_bookshelf",
+          "warm_desk_lamp",
+          "decorative_objects"
+        ],
+        "lighting_env": [
+          "warm_tungsten_ambient",
+          "soft_key_on_face"
+        ],
+        "atmosphere": [
+          "playful",
+          "confident",
+          "cozy_evening"
+        ]
+      },
+      "texture": {
+        "primary_subject": "soft_cotton_shirt_and_skin",
+        "secondary_objects": [
+          "wood_shelf"
+        ],
+        "background_surface": "wood_shelf_grain",
+        "atmospheric": [
+          "warm_soft_bokeh"
+        ]
+      },
+      "lighting": {
+        "key_direction": "soft_frontal_warm_from_left",
+        "key_hardness": "soft",
+        "key_color_temp": "warm_tungsten_3200K",
+        "fill_strength": "medium",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": false,
+        "practical_lights": [
+          "warm_desk_lamp"
+        ],
+        "shadow_presence": "soft",
+        "overall_contrast": "medium_low"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#9A8A6B",
+          "#7A4B2E",
+          "#E8B488",
+          "#3A3A3A",
+          "#D8C9B0"
+        ],
+        "palette_role": {
+          "#9A8A6B": "subject_khaki_shirt",
+          "#7A4B2E": "warm_wood_background",
+          "#E8B488": "skin_warm_key",
+          "#3A3A3A": "dark_caption_pill",
+          "#D8C9B0": "ambient_warm_neutral"
+        },
+        "color_relationship": "warm_naturalistic_with_neutral_caption",
+        "temperature_balance": "warm_dominant",
+        "saturation_strategy": "desaturated_naturalistic",
+        "contrast_type": "soft_portrait_with_dark_caption_pill",
+        "accent_color": "#3A3A3A",
+        "accent_ratio": 0.1
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "Vertical 9:16 medium close-up portrait photograph, eye-level frontal framing, of the same young Korean adult woman in her late twenties, wearing the same relaxed muted khaki-beige cotton button-up shirt, seated centered at a desk in a warm cozy home study at evening, framed a little closer than the previous beats. She raises one hand near her cheek and speaks with a playful, knowing smile, her expression warm and confident; across the shot she extends the hand into a friendly pointing or thumb gesture toward the lens as if sharing an obvious good-news punchline. Behind her, softly out of focus, the warm wooden bookshelf, a glowing warm desk lamp, decorative objects and a warm orange desk surface dissolve into amber bokeh. Superimposed across the lower portion of the frame is a horizontally-centered dark charcoal rounded-rectangle caption pill containing bold white Korean text; at this moment it reads two lines '이체 수수료는' and '당연히 무료인 거' (at the end of the shot the pill shows a short '아시죠?'). Lighting is soft warm tungsten ambient with a gentle frontal key from the left at roughly 3200K, medium fill, soft shadows, overall medium-low contrast, giving a comfortable domestic glow. Lens rendering: a portrait prime at roughly 50 to 85mm full-frame equivalent at a wide aperture, the plane of focus on her face and gesturing hand while the background blurs smoothly, with a slight natural handheld presence. Composition seats the subject centered, slightly closer, with generous warm background and the dark caption pill anchoring the lower third. Color palette and strategy: warm-dominant naturalistic grade — muted khaki shirt (#9A8A6B), warm wood background (#7A4B2E), warm skin key (#E8B488), dark neutral caption pill (#3A3A3A), and warm neutral ambient (#D8C9B0); saturation restrained and realist with the white-on-dark caption pill as the high-contrast graphic element. Surfaces and texture: soft cotton shirt and fine natural skin texture, warm wood grain behind, all clean modern digital fidelity with no heavy grain. Atmosphere: playful and confident, the presenter delivering the closing reassurance that the transfer fee is of course free. Post and signature look: warm commercial color grade, precise focus on the subject, smooth bokeh separation, naturalistic skin tones. Style anchor: contemporary Korean fintech social-video aesthetic that closes an app walkthrough on a friendly presenter beat with synced lower-third caption pills; the on-screen Korean caption text '이체 수수료는', '당연히 무료인 거' and '아시죠?' must be preserved exactly. No celebrity likeness — render a generic Korean adult woman; no real brand logos anywhere. The production craft should read as premium Korean commercial work: a fast prime lens wide open for creamy subject-to-background separation, a soft key wrapped gently across her face from the warm desk lamp at frame-left so the practical light source is motivated within the scene, and a comfortable medium-low contrast grade that keeps shadow detail rich and warm. The desk dressing — a wooden cube bookshelf with books and files, a softly glowing articulated lamp, a warm orange tabletop — establishes a lived-in young-adult home study without cluttering the frame, every background element dissolved into amber bokeh so attention stays on the presenter's face, her gesturing hand and the caption pill. The caption pill itself is a crisp anti-aliased dark charcoal rounded rectangle with bold white Hangul, registered without jitter and sitting cleanly in the lower third, the only hard-edged graphic element against the soft photographic warmth. Her playful pointing gesture, knowing smile and slightly tighter framing read as a trusted peer or creator delivering a rhetorical good-news punchline straight to camera in the relatable explainer register that Korean fintech brands use to land a closing reassurance — here that the transfer fee is of course free — on a warm, confident, lightly humorous beat, the whole frame quietly cinematic yet plainspoken.",
+        "t2i_negative": "english caption text, cold daylight, sharp background, studio seamless backdrop, harsh contrast, exaggerated expression, visible brand logos",
+        "i2v_motion": "The woman gestures near her cheek and then points playfully toward the lens with a knowing smile; the lower-third caption pill swaps from '이체 수수료는 / 당연히 무료인 거' to '아시죠?'; gentle handheld micro-drift; hard cut at ~3.0s.",
+        "i2v_params": {
+          "clip_duration_sec": 3.0,
+          "camera_move": "handheld_micro",
+          "subject_motion_level": "low_natural",
+          "signature_effect": "none",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen Korean caption preserved; identity generic"
+      }
+    },
+    {
+      "index": 17,
+      "duration": 2.371,
+      "framing": "TITLE_CARD",
+      "function": "cta_endcard",
+      "subject_action": "series end card: a small light-grey rounded rectangle badge peels/slides into a textured off-white paper field and settles centered, bearing sketchy pixel/bitmap-edged blue text 'Curator T' over a thin blue underline with smaller black Korean text '토스를 발견하다' beneath",
+      "layout_grid": "center_badge_on_paper_field",
+      "subject_position": "center",
+      "typo_motion": "sticker_peel_in_then_static_hold",
+      "camera_angle": "flat_frontal",
+      "camera_facing": "frontal_flat",
+      "shot_scope": "typography_endcard",
+      "gaze": "none",
+      "props": [],
+      "color_palette": [
+        "#EFEDE7",
+        "#D8D5CD",
+        "#2E4BD6",
+        "#3A3A3A",
+        "#9A9690"
+      ],
+      "color_intent": "textured_offwhite_paper_field; light_grey_badge; sketchy_pixel_blue_wordmark",
+      "pose_description": "no subjects; a single small label badge graphic centered on a matte paper field, its 'Curator T' wordmark rendered with a sketchy pencil/pixel bitmap stroke in blue",
+      "subject_motion": "badge_peel_in_settle",
+      "camera_motion": "locked_off",
+      "camera_effect_local": "pixel_crt_sketchy_text",
+      "intra_cut_rhythm": "peel_in_then_hold",
+      "transition_in": "cut",
+      "transition_out": "end",
+      "mid_frame_path": "ADV-2026-020_frames/cut17_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "pixel_crt_label_badge",
+          "curator_t_wordmark",
+          "korean_tagline_text"
+        ],
+        "midground": [],
+        "background": [
+          "textured_offwhite_paper_field"
+        ],
+        "lighting_env": [
+          "flat_even"
+        ],
+        "atmosphere": [
+          "retro_digital",
+          "quiet_brand_signature",
+          "tactile_paper"
+        ]
+      },
+      "texture": {
+        "primary_subject": "sketchy_pixel_bitmap_text",
+        "secondary_objects": [
+          "light_grey_badge_panel"
+        ],
+        "background_surface": "matte_textured_paper",
+        "atmospheric": [
+          "subtle_paper_grain"
+        ]
+      },
+      "lighting": {
+        "key_direction": "flat_even_frontal",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral",
+        "fill_strength": "high",
+        "key_to_fill_ratio": "1:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "minimal_soft_under_badge",
+        "overall_contrast": "low_with_high_contrast_text"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#EFEDE7",
+          "#D8D5CD",
+          "#2E4BD6",
+          "#3A3A3A",
+          "#9A9690"
+        ],
+        "palette_role": {
+          "#EFEDE7": "paper_background_offwhite",
+          "#D8D5CD": "badge_panel_light_grey",
+          "#2E4BD6": "primary_pixel_wordmark_blue",
+          "#3A3A3A": "korean_tagline_dark_text",
+          "#9A9690": "paper_texture_shadow_grey"
+        },
+        "color_relationship": "near_monochrome_paper_with_blue_text_accent",
+        "temperature_balance": "neutral_cool_text_on_warm_neutral_paper",
+        "saturation_strategy": "low_saturation_ground_with_saturated_blue_text",
+        "contrast_type": "high_text_on_light_panel",
+        "accent_color": "#2E4BD6",
+        "accent_ratio": 0.14
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "Vertical 9:16 flat frontal graphic end card on a textured off-white matte paper field that fills the entire frame as warm-neutral negative space with a subtle visible paper grain and faint soft mottling, like a sheet of uncoated card stock. Centered in the frame sits a single small horizontal rounded-rectangle badge in a slightly darker light-grey tone than the paper, as if a printed label or sticker rests on the sheet, casting only the faintest soft contact shadow. On the badge, rendered in a deliberately retro sketchy pixel/bitmap style, is the bold Latin wordmark 'Curator T' in a saturated cobalt blue; the lettering carries a visible hand-sketched, slightly pixelated stroke texture with rough edges as if hatched with a pen or drawn on a low-resolution display. Directly beneath the wordmark runs a thin horizontal blue underline rule, and below that, in much smaller spaced characters, sits the Korean tagline '토스를 발견하다' in dark near-black ink. The badge is the only element on the otherwise empty paper field, giving the card a quiet, collectible, stamp-like feel. Lighting is flat and even and frontal with high fill, neutral temperature, no modelling shadows beyond a whisper of contact shadow under the badge, and an overall low scene contrast that throws the high-contrast saturated blue sketchy wordmark into relief against the pale ground. Lens rendering: a flat, straight-on graphic capture with no perspective and no depth of field, the paper texture crisp across the frame. Composition is centered and calm with wide margins of paper around the small badge. Color palette and strategy: a near-monochrome warm-neutral ground — off-white paper (#EFEDE7), light-grey badge panel (#D8D5CD), and paper-texture shadow grey (#9A9690) — punctuated by the single saturated cobalt-blue sketchy wordmark (#2E4BD6) and a dark near-black Korean tagline (#3A3A3A); the strategy is restraint and tactility, a low-saturation paper world with one vivid retro-digital blue accent. Surfaces and texture: a matte fibrous paper background, a slightly smoother light-grey label panel, and the sketchy pixel/bitmap wordmark with rough hatched edges as the signature texture. Atmosphere: a quiet, retro-digital brand signature with a tactile, almost analog-print sensibility — a deliberate contrast to the glossy app screens that preceded it. Post and signature look: intentional lo-fi sketchy pixel/bitmap rendering applied only to the badge wordmark, over a clean textured-paper plate. Style anchor: contemporary Korean brand series end-card design that pairs tactile paper texture with retro sketchy pixel typography as a recurring signature device; preserve the on-screen text exactly — the Latin wordmark 'Curator T' and the Korean tagline '토스를 발견하다'. No real corporate logo marks beyond this stylized series wordmark; no photographic subjects, no celebrity likeness. The card should feel intentionally hand-made and tactile despite being digital: imagine a small printed label resting on a sheet of recycled card stock, photographed flat and even, the paper's fibrous grain just visible, the label's edges soft, and the blue wordmark drawn with a deliberately rough sketched/pixelated stroke so it looks hand-rendered rather than vector-clean. This retro-digital flourish reads as a knowing, playful brand signature and stands in deliberate contrast to the crisp glossy app screens that came before it, signalling that this is the recurring sign-off of an ongoing series rather than a one-off endcard. Wide calm margins of empty paper surround the small centered badge, giving the close a quiet, collectible, almost stamp-like restraint.",
+        "t2i_negative": "photographic subjects, smooth vector text without sketchy texture, dark background, glossy 3d, busy decoration, english tagline, real corporate logo",
+        "i2v_motion": "The light-grey badge peels or slides in from a corner (a sticker corner lifting) and settles centered on the paper field; the sketchy pixel 'Curator T' wordmark and '토스를 발견하다' tagline hold with a faint settle; locked-off camera; clip ends at ~2.4s.",
+        "i2v_params": {
+          "clip_duration_sec": 2.4,
+          "camera_move": "locked_off",
+          "subject_motion_level": "low_graphic_settle",
+          "signature_effect": "none",
+          "pacing": "slow_deliberate",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen series wordmark and tagline preserved; no real corporate logo"
+      }
+    }
+  ],
+  "search_keywords": {
+    "industry": [
+      "finance",
+      "fintech"
+    ],
+    "product_category": [
+      "auto_transfer",
+      "recurring_payment",
+      "rent_payment",
+      "personal_finance_app",
+      "money_transfer"
+    ],
+    "target_demo": [
+      "korean_adults",
+      "20s_30s",
+      "mobile_users",
+      "renters",
+      "young_households"
+    ],
+    "media_format": [
+      "shortform_vertical_30s_plus",
+      "social_media",
+      "vertical_9x16"
+    ],
+    "tone": [
+      "helpful",
+      "reassuring",
+      "instructional",
+      "lightly_upbeat"
+    ],
+    "pacing": [
+      "steady",
+      "linear",
+      "narration_driven"
+    ],
+    "technique": [
+      "app_demo",
+      "ui_walkthrough",
+      "caption_led",
+      "flatlay_phone_on_color",
+      "crt_pixel_typo"
+    ],
+    "vfx_keywords": [
+      "ui_motion",
+      "screen_capture",
+      "editorial_header_overlay",
+      "pixel_crt_distortion"
+    ],
+    "copy_strategy_keywords": [
+      "voice_caption_sync",
+      "step_by_step_guide",
+      "problem_then_solution",
+      "completion_payoff"
+    ],
+    "concept_derivation_pattern": [
+      "app_feature_walkthrough",
+      "hidden_feature_reveal"
+    ]
+  },
+  "inferred_creative_thinking": {
+    "insight": "Renters routinely forget to pay their monthly rent on time and get awkward reminder texts from their landlord; few realize their finance app can fully automate a recurring rent transfer in one short setup flow, fee-free",
+    "persona": "A young Korean renter, mobile-first, who pays monthly rent manually and dreads forgetting the date or being nagged by the landlord",
+    "moment": "The cringe of a landlord text saying the rent did not arrive, immediately answered by a guided, effortless in-app setup that puts the monthly transfer on autopilot",
+    "product_role": "The auto-transfer feature is positioned as the easy fix that removes a recurring chore: search it in the all-tab, pick the account, set the date and repeat schedule, the amount, the recipient and a name, confirm, and it runs every month automatically — with no transfer fee",
+    "punchline": "짠, 월세 자동이체가 완성됐어요 — and 이체 수수료는 당연히 무료 — proof the chore is gone for good at no cost",
+    "differentiator": "End-to-end automation of a dreaded recurring payment inside the super-app, free of transfer fees, set up once in a short guided flow",
+    "brand_fit_one_liner": "Toss frames itself as the app that quietly automates your tedious recurring money tasks so you never have to remember them again",
+    "confidence": "inferred"
+  },
+  "inferred_brief": "Drive awareness of Toss's '자동이체' (recurring transfer) feature among young Korean renters by walking through, step by step, how to set up a monthly rent auto-transfer — search it in the all-tab, pick the withdrawal account, set the date and repeat schedule, the amount, the recipient account and a name, then confirm — so the rent is paid automatically every month, fee-free, with nothing to remember.",
+  "cross_pollination_tags": {
+    "adjacent": [
+      "banking_app_demo_ads",
+      "bill_payment_app_walkthroughs",
+      "super_app_feature_walkthroughs"
+    ],
+    "distant": [
+      "cooking_recipe_step_videos",
+      "saas_onboarding_tutorials",
+      "smart_home_automation_how_to"
+    ],
+    "contrast": [
+      "emotional_brand_film",
+      "celebrity_endorsement_spot",
+      "abstract_image_ad"
+    ]
+  },
+  "concept_derivation_pattern": "hidden_feature_walkthrough: surface a relatable money pain point (forgetting to pay monthly rent and getting nagged by the landlord), then resolve it with a synced voice-and-caption step-by-step in-app demo shot as a phone-on-color flat-lay, paying off on a pushed-in completed-transfer reveal and a fee-free reassurance, and signing with a recurring retro pixel/CRT series end card",
+  "confidence": "inferred",
+  "analyst_notes": "This entry is a screen-recording-style UI demo of a Korean fintech app's recurring-transfer (자동이체) setup for monthly rent, intercut with warm live-action interior shots: an opening iMessage rent-reminder thread held in the hand, then a young woman in a warm study who introduces, demonstrates and closes the spot. capture_style classified 'mixed' because the walkthrough shots (5, 7-14) are flat-lay phone-on-vivid-orange screen-demo footage distinct from the live-action shots (1-4, 6, 15-16) and the pixel/CRT end card (17). Ten scenedetect hard cuts (f20/84/131/175/279/340/970/1101/1187/1277) were cross-checked visually. The auto-detected single scene spanning f341-970 (~21s) on a constant orange background contains the whole multi-step setup and was split by SCREEN-STATE into shots 7-13 (landing+tap 추가하기 -> withdrawal-account picker -> date/repeat schedule -> amount entry/keypad -> recipient account entry -> name the transfer -> final confirmation review). The f970 hard cut is the push-in from the wide flat-lay to the tight close-up of the completed-transfer list (shot 14, the wow/payoff). Caption-only swaps within one continuous screen were kept as typo_motion (e.g. shot 5 search->landing, shot 9 date '세팅해주세요', shot 14 '완성됐어요'->'이제 잊어버릴 일 없이'). shot_count_corrected = 17. wow cut is shot 14 (월세 자동이체가 완성됐어요 completion reveal). wiggle metric is moderate (mean_abs_shift_x 0.4043 / sign_flips 0.28) but verified visually as ordinary handheld micro on the live-action beats plus locked-off flat-lay/end card — NOT stereoscopic parallax. Audio reconciled: faster_whisper tiny consistently mis-heard '자동이체' as '자동이 채', '계좌' as '계자', '전체 탭에서' as '전체퇴배서'; line 10 was badly garbled and corrected against captions to '이제 잊어버리고 살아도 매달 자동으로 계좌이체가 진행되는데요'; final CTA reconciled to caption '이체 수수료는 당연히 무료인 거, 아시죠?'. On-screen names ('이다연님', '김창선', the masked 받는 분) are in-app demo placeholders; the recipient account number is partly masked in the footage and kept masked in recreation prompts. Sibling files ADV-2026-017/018/019 (same series) and ADV-2026-021/022/023/024 (adjacent batches) were left untouched.",
+  "verification": {
+    "frames_reviewed": "~50/1346 visually read at native res, including all 10 scenedetect hard-cut boundaries (f20/21, 84/85, 131, 175/176, 279/280, 340/341, 970/971, 1101/1102, 1187/1188, 1277/1278), interior frames per shot, a representative frame for every distinct screen-state across the f341-970 setup span (landing/tap f341/360/384, account-picker f395/642-context, date/schedule f430/460/490/515/528, amount f545/575/610, recipient f650/685/714, name f725/765/810, final-confirm f860/899/970) with each caption captured verbatim, the f971-1101 completion close-up (f1020/1070/1101), the live-action close beats (f1102/1150/1188/1240/1277) and the end card (f1278/1315/1346); a metadata-row crop of the editorial header bar; 100% per-frame metrics (diff/hist/shift/text_delta) and cut_hints reviewed",
+    "audio_analyzed": true,
+    "hitrate_na": true,
+    "abstraction_checked": true
+  }
+}

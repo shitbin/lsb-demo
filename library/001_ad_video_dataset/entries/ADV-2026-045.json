@@ -1,0 +1,2348 @@
+{
+  "id": "ADV-2026-045",
+  "source_ref": {
+    "platform": "digital_video",
+    "title_or_campaign": "29edition 브랜드 필름 — '아름다운 실용' (머들 디퓨저 / Into the Cedarwood 미스트)",
+    "brand": "29CM",
+    "product": "29edition (29CM 라이프스타일 자체브랜드 — 홈 프래그런스: 머들 스톤 디퓨저, Into the Cedarwood 룸/패브릭 미스트, 캔들)",
+    "model": null,
+    "year": 2023,
+    "production_note": null,
+    "url": "https://www.youtube.com/watch?v=Ehjyrgj3Lqc"
+  },
+  "category_primary": "retail.commerce",
+  "category_tags": [
+    "셀렉트숍·라이프스타일 커머스",
+    "자체브랜드(PB)",
+    "홈 프래그런스",
+    "디퓨저·룸미스트",
+    "취향 큐레이션"
+  ],
+  "mood": [
+    "refined",
+    "calm",
+    "warm",
+    "sensorial",
+    "curated",
+    "premium"
+  ],
+  "target_demo": "20대 후반~30대, 취향·디자인에 민감하고 일상의 무드·웰니스에 투자하는 라이프스타일 소비자",
+  "total_duration": 30.21,
+  "shot_count": 17,
+  "shot_count_corrected": 17,
+  "fps": 23.976,
+  "aspect_ratio": "16:9",
+  "hook_position": 0.0,
+  "cta_position": 27.95,
+  "narrative_arc": "언박싱으로 자체브랜드 '29edition?'를 질문처럼 제시(인식) → 머들 스톤 디퓨저·Into the Cedarwood 미스트를 매거진형 콜라주·골든아워 정물·홈 웰니스 비네트로 펼침(감각·공감) → 시트러스+우드 향 노트를 정물로 시각 번역하고 사려 깊은 일상(글쓰기·휴식)에 제품을 놓음(설득) → 제품 패밀리 정물 + '29CM가 만든 라이프 스타일 브랜드' 선언(메시지) → 검은 화면 '29edition''→'29CM' 키네틱 타이포 모핑으로 모회사 리빌·브랜드 각인(신뢰)",
+  "narrative_structure": "linear_continuous",
+  "pacing_curve": "steady",
+  "music_tempo_curve": "steady",
+  "wow_cut_index": [
+    4,
+    17
+  ],
+  "creative_device": "editorial_collage_lifestyle_film + sub_brand_to_parent_typo_morph + scent_story_still_life",
+  "production_signature": {
+    "capture_style": "live_action",
+    "camera_signature": [
+      "locked_off",
+      "handheld_shake"
+    ],
+    "signature_note": "정제된 시네마틱 라이프스타일 촬영. 제품 정물·매크로는 대부분 locked_off(브리딩 수준), 인물 비네트(cut6)는 미세 핸드헬드 드리프트. 전역 wiggle 수치(mean_abs_shift_x=1.719, sign_flips_ratio=0.234)는 (a)정지 콜라주 프레임 안에서 사진 콘텐츠가 움직이고 (b)인물/매크로 컷의 부드러운 핸드헬드가 합산된 것으로, 인접 프레임(예: cut6 f200-201, cut3 정물) 확인 결과 렌티큘러 wiggle_3d(좌우 시점 떨림)는 부재. 멀티렌즈 3D 카메라 아님.",
+    "color_grade": "warm",
+    "texture_fx": "film_grain"
+  },
+  "global_layout": {
+    "grid_system": "split_screen",
+    "subject_placement_dominant": "center",
+    "subject_typo_relation": "typo_over_subject",
+    "negative_space_use": "generous",
+    "layout_note": "매거진형 에디토리얼 아트디렉션이 전역 시그니처: 풀블리드 따뜻한 제품/인물 컷과 크림-베이지 페이지 위 멀티패널 사진 콜라주(cut2/5/7), 1회 수평 split-screen(cut10)이 교차. 자막은 얇은 산세리프(한글 캡션)로 정물·인물 위에 절제되게 얹힘. 마무리만 검은 화면 중앙 타이포."
+  },
+  "recurring_motifs": [
+    "머들 스톤-케른 디퓨저(흰 세라믹+우드볼)",
+    "유목·드라이플라워·이끼·시더 가지",
+    "그레이 강돌·세이지 그린 표면",
+    "halved 라임·시트러스(향 노트)",
+    "frosted-cream 미스트 보틀(다크 그린캡)",
+    "매거진형 멀티패널 사진 콜라주",
+    "흰 미스트/수증기·물방울",
+    "크림-베이지 여백·얇은 한글 캡션",
+    "'29edition'' 세리프 → '29CM' 산세리프 타이포 모핑"
+  ],
+  "copywriting": {
+    "tagline_text": "아름다운 실용",
+    "tagline_structure": "형용사+명사 2어절 슬로건 (미감+실용성 결합)",
+    "tagline_length_syllables": 6,
+    "tagline_position_sec": 0.3,
+    "cta_text": "29CM가 만든 라이프 스타일 브랜드",
+    "cta_text_structure": "브랜드명(29CM)+제작주체 선언+카테고리(라이프 스타일 브랜드)",
+    "cta_position_sec": 25.27,
+    "copy_tone": [
+      "정제",
+      "감성",
+      "큐레이션"
+    ],
+    "copy_strategy": "brand_positioning_statement",
+    "copy_lines_count": 5,
+    "lines": [
+      {
+        "position_sec": 0.3,
+        "text": "아름다운 실용",
+        "function": "brand_tagline_hook",
+        "tone": "refined",
+        "source": "caption"
+      },
+      {
+        "position_sec": 0.5,
+        "text": "29edition?",
+        "function": "brand_name_intro",
+        "tone": "curious",
+        "source": "caption"
+      },
+      {
+        "position_sec": 3.8,
+        "text": "머들 : '돌 무더기'의 제주 방언",
+        "function": "product_naming_story",
+        "tone": "informational",
+        "source": "caption"
+      },
+      {
+        "position_sec": 18.98,
+        "text": "베르가못의 안녕",
+        "function": "scent_note",
+        "tone": "lyrical",
+        "source": "caption"
+      },
+      {
+        "position_sec": 25.27,
+        "text": "29CM가 만든 라이프 스타일 브랜드",
+        "function": "brand_positioning_cta",
+        "tone": "confident",
+        "source": "caption"
+      }
+    ],
+    "captions": [
+      {
+        "position_sec": 16.98,
+        "text": "吟唱 깊은 시더우드 / Into the Cedarwood",
+        "function": "product_line_name"
+      },
+      {
+        "position_sec": 27.95,
+        "text": "29edition'",
+        "function": "sub_brand_wordmark"
+      },
+      {
+        "position_sec": 28.5,
+        "text": "29CM",
+        "function": "parent_brand_wordmark"
+      }
+    ],
+    "narration_handling": "none"
+  },
+  "typography": {
+    "primary_font_class": "sans_serif_light",
+    "secondary_font_class": "serif_display",
+    "animation_style": [
+      "fade_in",
+      "morph",
+      "static"
+    ],
+    "subtitle_position_dominant": "center",
+    "tagline_position": "center",
+    "color_strategy": "dark_gray_on_light_or_white_on_black",
+    "appearance_count": 6,
+    "key_typography_moments_sec": [
+      0.3,
+      3.8,
+      16.98,
+      18.98,
+      25.27,
+      27.95
+    ],
+    "typo_motion_dominant": "fade_in"
+  },
+  "vfx": {
+    "primary_effects": [
+      "split_screen",
+      "morph"
+    ],
+    "effect_intensity": "subtle",
+    "transition_style_dominant": "cut",
+    "vfx_event_count": 4,
+    "vfx_timing_array_sec": [
+      1.79,
+      6.63,
+      15.27,
+      27.95
+    ],
+    "wow_vfx_index": [
+      17
+    ]
+  },
+  "audio": {
+    "has_audio": true,
+    "language": "ko",
+    "speech_coverage": 0.0,
+    "bgm_likely": true,
+    "narration_lines": [],
+    "voice_vs_caption": "caption_only_inferred",
+    "narration_handling": "none",
+    "transcribed_by": "faster_whisper",
+    "audio_note": "faster_whisper base 전사 결과 0 segments (speech_coverage=0.0) — 나레이션/대사 없음, 음악·앰비언스 주도 브랜드 필름. 모든 카피는 화면 자막(caption)으로만 전달되어 source:caption. BGM은 정제된 잔잔한 무드 음악으로 추정(bgm_likely=true). 스타일리쉬·과하지 않은 사운드."
+  },
+  "frames_dir": "ADV-2026-045_frames",
+  "contact_sheet_path": "ADV-2026-045_frames/contact_sheet.png",
+  "shots": [
+    {
+      "index": 1,
+      "duration": 1.79,
+      "framing": "CU",
+      "function": "brand_hook",
+      "subject_action": "two hands open a flat cream paperboard 'FRAGRANCE EDITION DIFFUSER' box on a wood floor, peeling a perforated scalloped tear-strip; printed wordmark '29edition?' on the lid; dark-gray Korean caption '아름다운 실용' fades in centered",
+      "layout_grid": "rule_of_thirds",
+      "subject_position": "left_third",
+      "subject_identity": "hands_only",
+      "subject_relationship_to_protagonist": "main_character",
+      "mid_frame_path": "ADV-2026-045_frames/cut01_mid.png",
+      "subject_typo_layout": "typo_over_subject",
+      "typo_motion": "박스 인쇄 텍스트 'FRAGRANCE EDITION / DIFFUSER'(좌상단)·'29edition?'(우측 플랩) 정지; 중앙 회색 한글 캡션 '아름다운 실용' 페이드 인 (f8~f43 점진 등장)",
+      "camera_angle": "high_angle",
+      "camera_facing": "frontal",
+      "shot_scope": "environment",
+      "gaze": "none",
+      "eye_contact_effect": null,
+      "props": [
+        "cream paperboard gift box",
+        "perforated tear-strip lid"
+      ],
+      "prop_semantics": "언박싱 = 제품을 작은 선물·의례로 제시; 박스 카피가 브랜드명·정체성 전달",
+      "color_palette": [
+        "#efe9df",
+        "#9a6b3f",
+        "#d8b79a",
+        "#3a3027"
+      ],
+      "color_intent": "아이보리 박스를 하이라이트로, 따뜻한 우드 바닥과 손을 보조색으로 — 정제된 따뜻한 촉각 톤",
+      "pose_description": "두 손이 하단·좌하단에서 진입해 perforated 띠를 눌러 뜯음; 손가락 약한 모션블러; 얼굴 없음",
+      "subject_motion": "hands_peeling_strip",
+      "prop_motion": "box lid lifting along tear-strip",
+      "camera_motion": "locked_off",
+      "camera_motion_intensity": "none",
+      "camera_effect_local": "none",
+      "motion_blur": true,
+      "intra_cut_rhythm": "steady",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [],
+      "vfx_intensity_local": "none",
+      "fact_check_flag": null,
+      "notes": "Cut 1 (f1-43, 0.00-1.79s): overhead unboxing of cream 'FRAGRANCE EDITION DIFFUSER' box, '29edition?' printed on lid flap, caption '아름다운 실용' fades in center. Warm hard side light, wood floor.",
+      "visible_elements": {
+        "foreground": [
+          "two hands peeling perforated box tear-strip",
+          "cream paperboard box lid"
+        ],
+        "midground": [
+          "box face printed 'FRAGRANCE EDITION / DIFFUSER' (top-left) and '29edition?' (right flap)"
+        ],
+        "background": [
+          "warm honey-oak wood parquet floor at right/lower edges",
+          "dark-gray caption '아름다운 실용' center"
+        ],
+        "lighting_env": [
+          "single warm directional light from upper area casting hard-edged box/hand shadow"
+        ],
+        "atmosphere": [
+          "intimate domestic, tactile, very fine grain, soft DOF falloff"
+        ]
+      },
+      "texture": {
+        "primary_subject": "paper",
+        "secondary_objects": [
+          "skin_natural"
+        ],
+        "background_surface": "wood_polished",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "45deg_above",
+        "key_hardness": "soft",
+        "key_color_temp": "warm_3000K",
+        "fill_strength": "minimal",
+        "key_to_fill_ratio": "4:1",
+        "rim_light": false,
+        "practical_lights": [
+          "따뜻한 실내 조명/창광"
+        ],
+        "shadow_presence": "soft",
+        "overall_contrast": "mid_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#efe9df",
+          "#9a6b3f",
+          "#d8b79a",
+          "#3a3027"
+        ],
+        "palette_role": {
+          "#efe9df": "box_cream_dominant",
+          "#9a6b3f": "wood_floor_warm",
+          "#d8b79a": "skin_tone",
+          "#3a3027": "printed_text_dark"
+        },
+        "color_relationship": "analogous",
+        "temperature_balance": "warm_dominant",
+        "saturation_strategy": "muted",
+        "contrast_type": "luminance_low",
+        "accent_color": "#3a3027",
+        "accent_ratio": "5_percent"
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A warm, intimate overhead close-up of two hands opening a flat cream-white rigid paperboard gift box that rests on a honey-toned wood parquet floor, rendered at 1920x1080 pixels in a 16:9 landscape aspect ratio. The box is a premium matte uncoated cardstock package in a soft off-white ivory tone (#efe9df), occupying roughly the left two-thirds of the frame at a gentle diagonal tilt; its lid is being lifted along a perforated scalloped tear-strip that runs as a wavy die-cut line across the box face, the small semicircular perforation notches clearly visible along the seam where the cardstock separates. Printed on the upper-left corner of the box face in tiny dark warm-gray refined capitals are two stacked lines reading FRAGRANCE EDITION over DIFFUSER, small and understated like a fine-stationery label. On the right flap of the lid, set in an elegant high-contrast serif typeface in dark brown-black, is the wordmark 29edition closed by a trailing apostrophe, reading 29edition' as a question-like brand signature. A pair of slender hands of a young East Asian person with natural unpainted short nails enters from the lower edge and lower-left of the frame, the fingertips pressing and peeling the tear-strip open, the fingers slightly motion-blurred from the gentle continuous pull. A soft, fairly hard-edged cast shadow of the hand and the box edge falls diagonally across the bright cream surface, indicating a single warm directional light source positioned high and to one side. The wood floor visible along the right and lower edges is a rich reddish honey oak with long plank grain catching a warm specular sheen, grounding the cream box in a domestic interior. The overall mood is tactile, quiet, slow, and inviting — the opening beat of an unboxing ritual that frames the product as a small everyday gift. Color palette: dominant ivory-cream box (#efe9df occupying roughly 55%), warm honey wood floor (#9a6b3f roughly 25%), soft warm skin tone (#d8b79a roughly 12%), dark text brown-black (#3a3027 roughly 3%), with warm amber shadow tones threaded through. Color relationship: warm-dominant analogous, low overall saturation, gentle creamy luminance contrast. Lighting: a single soft warm key at approximately 3000K from the upper-front-left producing soft-edged elongated shadows, minimal cool fill, a key-to-fill ratio of roughly 4:1, no rim light, and a warm low-key-to-mid-key contrast in which the bright cream box reads as the highlight zone. Textures: matte uncoated paperboard with a faint fibrous tooth, smooth natural skin, and polished warm wood grain with subtle reflections. A faint Korean overlay caption is beginning to resolve onto the scene; within the next instants a centered dark-gray Hangul caption reading 아름다운 실용 fades in across the box face, set in a clean thin sans-serif weight. Framing: top-down high-angle close-up, frontal-to-overhead camera facing, environment-to-object scope, gaze none because only hands and product appear with no face. Composition: rule-of-thirds with the box anchored to the left and lower portion of the frame and generous warm negative space holding the upper-right quadrant. Post and signature look: clean cinematic digital capture with gentle film-like warmth, very fine grain, soft natural depth of field keeping the near box edge and hands tack-sharp while the far corners fall softly out of focus, no heavy color grade beyond a warm white balance. Style anchor: premium Korean lifestyle-commerce brand-film opening, tactile unboxing macro, warm editorial product cinematography, 4K, shallow depth of field, intimate domestic daylight-and-lamp mood, refined minimal stationery typography preserved verbatim.",
+        "t2i_negative": "real brand logos as graphic marks, watermark, harsh blown highlights, oversaturated, cool blue cast, plastic shiny box, extra fingers, distorted hands, busy cluttered background, garish color",
+        "i2v_motion": "Hands gently peel the perforated tear-strip and lift the box lid with slow, deliberate micro-motion, fingers slightly motion-blurred from the pull; the centered Korean caption '아름다운 실용' softly fades in over the box face during the cut; camera locked-off; warm light steady. ~1.79s, steady gentle rhythm, ends on a clean cut.",
+        "i2v_params": {
+          "clip_duration_sec": 1.79,
+          "camera_move": "locked_off",
+          "subject_motion_level": "micro",
+          "signature_effect": "none",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; hands generic young adult; box copy '29edition?' / 'FRAGRANCE EDITION / DIFFUSER' and caption '아름다운 실용' preserved verbatim; no logo mark drawn as graphic symbol"
+      }
+    },
+    {
+      "index": 2,
+      "duration": 1.96,
+      "framing": "grid",
+      "function": "lifestyle_vignette",
+      "subject_action": "editorial two-panel collage on cream page: left panel overhead flat-lay of white ceramic diffuser puck among grey river stones and pine sprigs with a hand touching it; smaller right panel of a hand arranging hellebore flowers in a glass vase by a window",
+      "layout_grid": "split_screen",
+      "subject_position": "varies",
+      "subject_identity": "hands_only",
+      "subject_relationship_to_protagonist": "main_character",
+      "mid_frame_path": "ADV-2026-045_frames/cut02_mid.png",
+      "subject_typo_layout": "typo_separate_zone",
+      "typo_motion": "자막 없음; 두 사진 패널이 크림 페이지 위에 배치되는 에디토리얼 레이아웃 (우측 작은 패널이 한 박자 뒤 등장)",
+      "camera_angle": "overhead",
+      "camera_facing": "frontal",
+      "shot_scope": "environment",
+      "gaze": "none",
+      "eye_contact_effect": null,
+      "props": [
+        "white ceramic diffuser puck",
+        "grey river stones",
+        "pine/cypress sprigs",
+        "clear glass vase",
+        "hellebore flowers"
+      ],
+      "prop_semantics": "돌·물·식물 = 제품을 자연·웰니스 맥락에 배치; 큐레이션 라이프스타일 스프레드",
+      "color_palette": [
+        "#efe6d4",
+        "#9aa896",
+        "#9b9890",
+        "#5e7355"
+      ],
+      "color_intent": "따뜻한 크림 페이지가 차분한 세이지·그레이 사진을 프레이밍 — 자연 무드의 split warm-cool",
+      "pose_description": "좌패널: 손이 좌측에서 진입해 흰 디퓨저 퍽을 만짐; 우패널: 손이 헬레보어 줄기를 유리 화병에 꽂음; 얼굴 없음",
+      "subject_motion": "hands_arranging",
+      "prop_motion": "hand touches diffuser / arranges flowers",
+      "camera_motion": "locked_off",
+      "camera_motion_intensity": "none",
+      "camera_effect_local": "none",
+      "motion_blur": false,
+      "intra_cut_rhythm": "steady",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [
+        "split_screen"
+      ],
+      "vfx_intensity_local": "subtle",
+      "fact_check_flag": null,
+      "notes": "Cut 2 (f44-90, 1.79-3.75s): editorial collage on cream bg. Left vertical panel = overhead flatlay (white diffuser puck, grey stones, pine, hand). Right smaller panel appears (~f67) = hand arranging hellebore in glass vase by window.",
+      "visible_elements": {
+        "foreground": [
+          "large left photo panel: overhead flat-lay with white diffuser puck and hand"
+        ],
+        "midground": [
+          "smaller right photo panel: hand arranging hellebore in glass vase"
+        ],
+        "background": [
+          "flat warm cream-beige editorial page field #efe6d4 framing both panels"
+        ],
+        "lighting_env": [
+          "soft diffused overhead daylight in left panel",
+          "bright backlit window light in right panel"
+        ],
+        "atmosphere": [
+          "calm curated editorial, muted natural palette, fine grain"
+        ]
+      },
+      "texture": {
+        "primary_subject": "plastic_matte",
+        "secondary_objects": [
+          "stone",
+          "glass_clear",
+          "foliage"
+        ],
+        "background_surface": "paper",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "top",
+        "key_hardness": "diffused",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "strong",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": false,
+        "practical_lights": [
+          "창문 자연광"
+        ],
+        "shadow_presence": "soft",
+        "overall_contrast": "mid_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#efe6d4",
+          "#9aa896",
+          "#9b9890",
+          "#5e7355"
+        ],
+        "palette_role": {
+          "#efe6d4": "cream_page_dominant",
+          "#9aa896": "sage_surface",
+          "#9b9890": "stone_grey",
+          "#5e7355": "pine_green_accent"
+        },
+        "color_relationship": "split_complementary",
+        "temperature_balance": "split_warm_cool",
+        "saturation_strategy": "muted",
+        "contrast_type": "temperature_split",
+        "accent_color": "#5e7355",
+        "accent_ratio": "15_percent"
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A clean editorial magazine-style two-panel collage composition set on a flat warm cream-beige background (#efe6d4), rendered at 1920x1080 pixels in a 16:9 landscape aspect ratio, with generous negative space throughout. This frame is a designed layout, not a single photograph: a large upright rectangular photo panel occupies the left portion of the frame (roughly x 8-44%, y 12-90%) and a smaller upright rectangular photo panel sits at center-right (roughly x 60-84%, y 30-78%), both panels placed directly on the surrounding cream field with no visible borders or strokes, like two images arranged on a beige editorial magazine page. The LEFT and larger panel shows a soft top-down overhead flat-lay photographed on a muted sage-green surface: a small cylindrical white matte ceramic aroma-diffuser puck sits slightly off-center, surrounded by a deliberate arrangement of smooth rounded grey and lightly-speckled river pebbles in several sizes, along with two or three little sprigs of fresh green pine or cypress foliage tucked between the stones; a slender hand of a young East Asian person enters from the left edge of the panel to gently touch or reposition the white diffuser, the fingers relaxed and unhurried. The RIGHT and smaller panel shows a brighter window-lit vignette: a hand arranging slender stems of pale green hellebore flowers into a clear glass vase resting on a white sill, with soft diffuse daylight pouring from behind and a faint bright bokeh of the window. The two panels together read as a curated lifestyle spread that pairs the product with natural greenery and water. Color palette: warm cream page (#efe6d4 roughly 38%), cool sage-green surface (#9aa896 roughly 22%), grey speckled stone (#9b9890 roughly 15%), white ceramic and clear glass (#f2f0ea roughly 12%), muted pine green (#5e7355 roughly 8%), and warm natural skin tones. Color relationship: split warm-cool — the warm beige page frames cooler sage-green photographic content, kept at low saturation for a calm, muted, premium effect with green functioning as the natural accent at about 15%. Lighting inside the panels: soft diffused overhead daylight falls on the left flat-lay at a neutral roughly 5000K with gentle soft shadows pooling beneath the stones, while the right vignette is brighter and backlit by window light; the cream page surrounding the panels is evenly and flatly lit. Key direction top, key hardness diffused, fill strong, key-to-fill roughly 2:1, no rim light, shadows soft, overall mid-to-hi-key. Textures: matte glazed ceramic, smooth water-worn stone, soft needle foliage, clear glass, natural skin, and the smooth matte paper-like quality of the cream field. Framing of the layout: a flat graphic editorial plane, eye-level within each individual photo, object-and-hand scope, gaze none. Composition: an asymmetric two-rectangle editorial grid with wide cream margins, the larger left panel dominant and the smaller right panel acting as a quieter counter-beat across the page. There is no on-screen caption text in this shot. Post and signature look: clean digital capture with gentle film warmth, fine grain, naturalistic restrained color, and the whole collage treated as a designed page with crisp photo edges meeting the soft cream ground. Style anchor: Korean curated-commerce editorial lifestyle film, magazine flat-lay collage, muted natural palette, generous negative space, premium minimalist art direction, 4K clean digital rendering.",
+        "t2i_negative": "single full-bleed photo (must be two separate panels on cream), borders/frames around panels, watermark, oversaturated, harsh shadows, cluttered, text overlays, faces, real logo marks",
+        "i2v_motion": "Inside the left panel a hand gently touches/repositions the white diffuser puck among the stones; a beat into the cut the smaller right panel slides/fades onto the cream page showing a hand arranging hellebore stems in a glass vase; the cream editorial field holds static; camera locked-off. ~1.96s, steady rhythm, ends on a clean cut.",
+        "i2v_params": {
+          "clip_duration_sec": 1.96,
+          "camera_move": "locked_off",
+          "subject_motion_level": "micro",
+          "signature_effect": "none",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; hands generic; two-panel editorial collage layout preserved; no on-screen copy"
+      }
+    },
+    {
+      "index": 3,
+      "duration": 1.42,
+      "framing": "MCU",
+      "function": "product_intro",
+      "subject_action": "white ceramic stone-cairn diffuser with wood-ball cap stands on an oval birch tray on a warm walnut table in raking golden window light; blurred hellebore vase at left; white caption '머들 : 돌 무더기의 제주 방언' lower-right",
+      "layout_grid": "rule_of_thirds",
+      "subject_position": "center",
+      "subject_identity": "none_environment",
+      "subject_relationship_to_protagonist": null,
+      "mid_frame_path": "ADV-2026-045_frames/cut03_mid.png",
+      "subject_typo_layout": "typo_separate_zone",
+      "typo_motion": "흰색 한글 캡션 \"머들 : '돌 무더기'의 제주 방언\" 하단 우측 정적 배치 (컷 내내 유지)",
+      "camera_angle": "eye_level",
+      "camera_facing": "three_quarter",
+      "shot_scope": "environment",
+      "gaze": "none",
+      "eye_contact_effect": null,
+      "props": [
+        "white ceramic stone-cairn diffuser with wood cap",
+        "oval birch tray",
+        "glass vase with hellebore (blurred)"
+      ],
+      "prop_semantics": "돌탑(케른) 형태 = 제주 '머들' 전통을 홈 프래그런스 오브제로 재해석; 캡션이 제품 네이밍 스토리 전달",
+      "color_palette": [
+        "#6b4a2c",
+        "#cb9e6f",
+        "#f1ede4",
+        "#b48a55"
+      ],
+      "color_intent": "골든아워 측광으로 따뜻한 우드와 매트 화이트 세라믹 강조 — 정적·관조적 무드",
+      "pose_description": "인물 없음; 디퓨저가 화면 중앙우측 정적 앵커, 긴 따뜻한 그림자가 좌측 트레이로 뻗음",
+      "subject_motion": "static",
+      "prop_motion": "none",
+      "camera_motion": "locked_off",
+      "camera_motion_intensity": "subtle",
+      "camera_effect_local": "none",
+      "motion_blur": false,
+      "intra_cut_rhythm": "static",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [],
+      "vfx_intensity_local": "none",
+      "fact_check_flag": null,
+      "notes": "Cut 3 (f91-124, 3.75-5.17s): cairn-shaped white ceramic diffuser (wood ball cap) on oval birch tray, walnut table, raking warm window light + dappled shadow. Blurred hellebore vase left. Caption '머들 : 돌 무더기의 제주 방언' bottom-right.",
+      "visible_elements": {
+        "foreground": [
+          "soft-focus glass vase with pale hellebore at left"
+        ],
+        "midground": [
+          "white ceramic stone-cairn diffuser with wood-ball cap on oval birch tray"
+        ],
+        "background": [
+          "warm walnut tabletop falling to dim interior",
+          "white caption '머들 : 돌 무더기의 제주 방언' lower-right"
+        ],
+        "lighting_env": [
+          "low raking warm window light from right",
+          "dappled leaf-like shadows across tray"
+        ],
+        "atmosphere": [
+          "golden-hour, calm, gentle halation on sunlit tray edge, shallow DOF"
+        ]
+      },
+      "texture": {
+        "primary_subject": "plastic_matte",
+        "secondary_objects": [
+          "wood_polished",
+          "glass_clear"
+        ],
+        "background_surface": "wood_polished",
+        "atmospheric": [
+          "halation"
+        ]
+      },
+      "lighting": {
+        "key_direction": "side_right",
+        "key_hardness": "soft",
+        "key_color_temp": "warm_3000K",
+        "fill_strength": "minimal",
+        "key_to_fill_ratio": "4:1",
+        "rim_light": false,
+        "practical_lights": [
+          "창문 자연광(저녁)"
+        ],
+        "shadow_presence": "soft",
+        "overall_contrast": "low_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#6b4a2c",
+          "#cb9e6f",
+          "#f1ede4",
+          "#b48a55"
+        ],
+        "palette_role": {
+          "#6b4a2c": "walnut_wood_dominant",
+          "#cb9e6f": "sunlit_tray_highlight",
+          "#f1ede4": "ceramic_white_subject",
+          "#b48a55": "wood_cap_tan"
+        },
+        "color_relationship": "analogous",
+        "temperature_balance": "warm_dominant",
+        "saturation_strategy": "muted",
+        "contrast_type": "luminance_low",
+        "accent_color": "#f1ede4",
+        "accent_ratio": "18_percent"
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A warm cinematic medium close-up, rendered at 1920x1080 pixels in 16:9 landscape, of a sculptural white ceramic aroma diffuser shaped like a balanced stack of smooth rounded stones — a stylized stone cairn — topped with a small natural wood sphere cap, standing upright on an oval blond-birch serving tray that sits on a richly grained warm walnut wood table. The diffuser is matte off-white (#f1ede4) with three softly bulging stacked pebble segments tapering upward, the little raw-wood ball resting on top like a finishing stone; it is positioned center-right of the frame and casts a long soft warm shadow stretching to the left across the pale oval tray, where late-afternoon window light rakes in low and warm, throwing dappled leaf-like shadow patterns. To the left in the soft-focus foreground sits a clear glass vase holding pale hellebore flowers, slightly out of focus, with a small white hang-tag visible. The background is the dark warm walnut tabletop and a dim interior falling into shadow. A small white Hangul caption sits at the lower-right of the frame reading 머들 : '돌 무더기'의 제주 방언 (translating to: meodeul, the Jeju-dialect word for a pile of stones), set in a clean thin white sans-serif. The atmosphere is calm, golden-hour, contemplative, evoking a Jeju stone-stack tradition reimagined as a home fragrance object. Color palette: warm walnut wood (#6b4a2c roughly 40%), sunlit blond tray and warm highlight (#cB9e6f roughly 25%), matte white ceramic (#f1ede4 roughly 18%), raw wood cap tan (#b48a55 roughly 8%), and soft green from the blurred flowers (~5%). Color relationship: warm-dominant analogous, gentle saturation, rich amber low-key-to-mid-key contrast. Lighting: a strong warm low directional key at approximately 3000K entering from the right as raking late-day window light, producing long soft shadows and warm specular glow on the tray, minimal fill, a key-to-fill ratio near 4:1, no rim light, soft dappled shadow presence from foliage outside frame, overall warm low-key. Textures: matte glazed ceramic, smooth raw turned wood, satiny blond birch tray, deep walnut grain, clear glass, soft petals. Framing: medium close-up, eye-level to very slightly above, frontal-to-three-quarter camera facing, object scope with shallow environment, gaze none. Composition: the diffuser anchored center-right on the rule-of-thirds, the long shadow leading the eye left into the soft foreground vase, warm negative space upper area, caption tucked lower-right. Post and signature look: clean cinematic digital, warm filmic grade, fine grain, shallow depth of field with the diffuser tack-sharp and foreground and background softly bokeh, gentle halation in the brightest sunlit edge of the tray. Style anchor: premium Korean lifestyle-commerce brand film, golden-hour interior product cinematography, warm minimalist still-life, Jeju stone-cairn design narrative, 4K, shallow depth, refined thin white caption typography preserved verbatim.\n Additional fidelity detail: the three stacked pebble segments of the ceramic body graduate in size from a broad rounded base segment to a narrower middle and a small upper bulge, the seams between them gently dimpled like real balanced stones, and the matte glaze shows the faintest warm reflection of the window light along its right-facing curves while the left-facing surfaces sink into warm shadow; the raw wood sphere cap shows a single soft vertical grain seam and a warm tan tone that ties to the wood table beneath; the oval birch tray beneath has visible concentric ply edges and a satiny sheen where the low sun grazes it; the dappled shadow pattern across the tray suggests sheer curtain or foliage just outside the frame, reinforcing a real lived-in home rather than a sterile studio. The caption 머들 : '돌 무더기'의 제주 방언 sits unobtrusively at lower-right and should be preserved exactly as written, white, thin, and small, never overpowering the warm product imagery.",
+        "t2i_negative": "cool blue cast, flat even studio light, watermark, oversaturated, plastic shiny, extra objects, faces, real logo marks, harsh shadow, busy background",
+        "i2v_motion": "The cairn diffuser holds perfectly still; the warm raking sunlight and its long soft shadow stay steady with only the faintest light shimmer; the white caption \"머들 : '돌 무더기'의 제주 방언\" holds static at lower-right throughout; camera locked-off (breathing-level only). ~1.42s, static rhythm, ends on a clean cut.",
+        "i2v_params": {
+          "clip_duration_sec": 1.42,
+          "camera_move": "locked_off",
+          "subject_motion_level": "still",
+          "signature_effect": "none",
+          "pacing": "static",
+          "loopable": true
+        },
+        "fidelity_note": "craft-faithful; product generic ceramic cairn diffuser; caption \"머들 : '돌 무더기'의 제주 방언\" preserved verbatim"
+      }
+    },
+    {
+      "index": 4,
+      "duration": 1.46,
+      "framing": "CU",
+      "function": "product_hero",
+      "subject_action": "hero macro of the white ceramic cairn diffuser emitting a veil of cool white mist inside a miniature zen-garden diorama of grey stones, green moss and small evergreen sprigs on a dark reflective base",
+      "layout_grid": "center",
+      "subject_position": "center",
+      "subject_identity": "none_environment",
+      "subject_relationship_to_protagonist": null,
+      "mid_frame_path": "ADV-2026-045_frames/cut04_mid.png",
+      "subject_typo_layout": "typo_only_no_person",
+      "typo_motion": "자막 없음; 미스트가 디퓨저 하단에서 피어올라 전면으로 드리프트",
+      "camera_angle": "low_angle",
+      "camera_facing": "frontal",
+      "shot_scope": "face_only",
+      "gaze": "none",
+      "eye_contact_effect": null,
+      "props": [
+        "white ceramic cairn diffuser emitting mist",
+        "grey river stones",
+        "green moss",
+        "small evergreen sprigs",
+        "dark reflective base"
+      ],
+      "prop_semantics": "미스트 분무 = 초음파 디퓨저 기능 시각 증명; 미니 젠가든 = 자연·신선·웰빙 무드",
+      "color_palette": [
+        "#2a2620",
+        "#eceae2",
+        "#8f8d86",
+        "#4f6e3a"
+      ],
+      "color_intent": "따뜻한 어두운 배경 위 차가운 백색 미스트·세라믹을 글로우로 — high-contrast 무디 제품 라이팅, 그린 신선 액센트",
+      "pose_description": "인물 없음; 디퓨저 중앙 약간 낮게, 미스트가 베이스에서 대각선으로 피어오름",
+      "subject_motion": "static",
+      "prop_motion": "white aromatic mist rising and drifting forward",
+      "camera_motion": "locked_off",
+      "camera_motion_intensity": "subtle",
+      "camera_effect_local": "none",
+      "motion_blur": false,
+      "intra_cut_rhythm": "steady",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [],
+      "vfx_intensity_local": "none",
+      "fact_check_flag": null,
+      "notes": "Cut 4 (f125-159, 5.17-6.63s): hero macro, white cairn diffuser releasing low white mist, surrounded by grey stones, green moss, small evergreens on dark reflective surface. Backlit glowing vapor, deep shadow background.",
+      "visible_elements": {
+        "foreground": [
+          "low-lying white mist drifting toward camera, partly veiling frame"
+        ],
+        "midground": [
+          "white ceramic cairn diffuser with wood-ball cap emitting mist"
+        ],
+        "background": [
+          "grey river stones, green moss and small evergreen sprigs on dark reflective base",
+          "deep warm-charcoal shadow surround"
+        ],
+        "lighting_env": [
+          "soft directional key upper-front-left catching mist and white pebbles",
+          "deep shadow corners"
+        ],
+        "atmosphere": [
+          "fresh spa-like vapor haze, backlit glowing mist, very shallow DOF"
+        ]
+      },
+      "texture": {
+        "primary_subject": "plastic_matte",
+        "secondary_objects": [
+          "stone",
+          "foliage"
+        ],
+        "background_surface": "matte",
+        "atmospheric": [
+          "mist"
+        ]
+      },
+      "lighting": {
+        "key_direction": "45deg_side",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "moderate",
+        "key_to_fill_ratio": "4:1",
+        "rim_light": true,
+        "practical_lights": [],
+        "shadow_presence": "deep",
+        "overall_contrast": "high_contrast"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#2a2620",
+          "#eceae2",
+          "#8f8d86",
+          "#4f6e3a"
+        ],
+        "palette_role": {
+          "#2a2620": "shadow_background_dominant",
+          "#eceae2": "ceramic_and_mist_glow",
+          "#8f8d86": "stone_grey",
+          "#4f6e3a": "moss_evergreen_accent"
+        },
+        "color_relationship": "split_complementary",
+        "temperature_balance": "split_warm_cool",
+        "saturation_strategy": "muted_with_pop",
+        "contrast_type": "luminance_high",
+        "accent_color": "#4f6e3a",
+        "accent_ratio": "15_percent"
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A close-up hero product shot, rendered at 1920x1080 pixels in 16:9 landscape, of the white ceramic stone-cairn aroma diffuser actively emitting a soft veil of cool white aromatic mist, staged inside a tiny tabletop zen-garden diorama. The diffuser, a stack of three smooth bulging white pebble segments (#f0ece3) capped by a small natural wood ball, sits at center frame slightly low; from its base and around the lower pebbles a gentle low-lying fog of fine white ultrasonic mist curls and drifts outward and toward the camera, partly veiling the foreground in soft haze. Surrounding the diffuser is a miniature landscape: clusters of smooth grey speckled river stones to the left and right, tufts of vivid green moss and lichen, and several small upright sprigs of bright green juniper or cypress evergreen, all arranged on a dark reflective wet-looking surface that mirrors the pale forms. The background falls off into deep warm-neutral shadow, isolating the misty product in a pool of soft light. The mood is fresh, serene, spa-like, and slightly mysterious — a humidifying scent diffuser presented as a living micro-forest. Color palette: deep shadowed brown-charcoal background (#2a2620 roughly 35%), matte white ceramic and mist (#eceae2 roughly 28%), grey speckled stone (#8f8d86 roughly 14%), vivid moss-and-evergreen green (#4f6e3a roughly 13%), warm wood cap tan (~5%), with the mist reading as luminous near-white. Color relationship: cool-neutral subject against a warm-dark surround, split warm-cool, with saturated natural green as the freshness accent (~13%). Lighting: a soft directional key from the upper front-left at a neutral-to-cool roughly 5000K catching the mist and the white pebbles, modest fill, key-to-fill near 3:1, a faint rim catching the moss and stone edges, deep shadow presence in the background corners, overall high-contrast moody product lighting that makes the backlit mist glow. Textures: matte glazed ceramic, soft turbulent water-vapor mist, rough speckled stone, fuzzy green moss, fine evergreen needles, dark reflective wet base. Framing: close-up to macro, eye-level low and intimate, frontal camera facing, object scope, gaze none. Composition: centered product anchor with the mist breaking symmetry as it drifts diagonally, stones and greenery framing left and right like a natural proscenium, dark vignette focusing the eye. No on-screen caption text in this shot. Post and signature look: clean cinematic digital, slightly cool fresh grade with warm shadow undertone, fine grain, very shallow depth of field with the front mist and near pebbles sharp and the rear diorama softly bokeh, gentle glow where light passes through the vapor. Style anchor: premium Korean lifestyle-commerce hero macro, ultrasonic-diffuser mist demonstration, zen miniature-garden styling, fresh spa atmosphere, 4K, shallow depth, atmospheric backlit vapor.\n Additional fidelity detail: the white mist is fine and cool, hugging the base of the diffuser and pooling low across the dark reflective surface before lifting in slow soft tendrils that catch the key light and glow translucent; the moss reads in two or three vivid green clumps with tiny irregular texture, and the evergreen sprigs stand upright at slightly different heights to suggest a miniature forest skyline; the grey river stones are smooth and softly rounded, a few showing pale speckle and a faint wet sheen along their tops from the humid mist; the dark base mirrors the pale pebbles and mist as a soft inverted ghost, deepening the sense of a tiny still pond; the surrounding darkness is warm-neutral, not pure black, so the scene feels intimate and atmospheric rather than graphic. The overall impression is that the everyday humidifier-diffuser has been restaged as a calm breathing micro-landscape, emphasizing nature, freshness, and quiet wellbeing as the emotional core of the product.",
+        "t2i_negative": "bright flat background, no mist, heavy smoke, watermark, oversaturated, plastic shiny, faces, real logo marks, hard blown highlights, cartoon",
+        "i2v_motion": "The cairn diffuser holds still while a continuous soft veil of fine white mist curls up from its base and drifts forward and outward across the dark reflective surface, the backlit vapor glowing translucent; moss and evergreens steady; camera locked-off. ~1.46s, steady atmospheric rhythm, ends on a clean cut.",
+        "i2v_params": {
+          "clip_duration_sec": 1.46,
+          "camera_move": "locked_off",
+          "subject_motion_level": "still",
+          "signature_effect": "none",
+          "pacing": "steady",
+          "loopable": true
+        },
+        "fidelity_note": "craft-faithful; generic ceramic diffuser and miniature garden; no on-screen copy; no logo mark"
+      }
+    },
+    {
+      "index": 5,
+      "duration": 1.13,
+      "framing": "grid",
+      "function": "lifestyle_vignette",
+      "subject_action": "editorial two-panel diptych on cream page: left near-square panel a hand holds a frosted glass tumbler with a diffuser disc by a window; right near-square panel a moody close-up of a white sphere diffuser on dark reflective water",
+      "layout_grid": "split_screen",
+      "subject_position": "varies",
+      "subject_identity": "hands_only",
+      "subject_relationship_to_protagonist": "main_character",
+      "mid_frame_path": "ADV-2026-045_frames/cut05_mid.png",
+      "subject_typo_layout": "typo_separate_zone",
+      "typo_motion": "자막 없음; 두 정사각형 사진 패널이 크림 페이지 위에 좌우로 배치된 에디토리얼 다이프티크",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "environment",
+      "gaze": "none",
+      "eye_contact_effect": null,
+      "props": [
+        "frosted glass tumbler",
+        "white diffuser disc",
+        "white sphere diffuser",
+        "dark reflective water"
+      ],
+      "prop_semantics": "밝은 인핸드 모먼트 + 어두운 조형적 제품 스틸 = 촉각과 명상적 감각의 병치",
+      "color_palette": [
+        "#efe6d4",
+        "#b9b3a4",
+        "#1c2220",
+        "#5d6f6b"
+      ],
+      "color_intent": "따뜻한 크림 페이지가 차가운 무채색 사진 콘텐츠를 프레이밍 — 밝음/어둠 톤 대화",
+      "pose_description": "좌패널: 손이 frosted 텀블러를 듦; 우패널: 흰 구체가 검은 물 위에 반사; 얼굴 없음",
+      "subject_motion": "hand_holding",
+      "prop_motion": "subtle water ripple in right panel",
+      "camera_motion": "locked_off",
+      "camera_motion_intensity": "none",
+      "camera_effect_local": "none",
+      "motion_blur": false,
+      "intra_cut_rhythm": "steady",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [
+        "split_screen"
+      ],
+      "vfx_intensity_local": "subtle",
+      "fact_check_flag": null,
+      "notes": "Cut 5 (f160-186, 6.63-7.76s): editorial collage. Left near-square panel = hand holds frosted glass tumbler w/ diffuser disc by window (cool). Right near-square panel = white sphere on dark reflective water (moody teal-grey).",
+      "visible_elements": {
+        "foreground": [
+          "left photo panel: hand with frosted glass tumbler"
+        ],
+        "midground": [
+          "right photo panel: white sphere diffuser on dark reflective water"
+        ],
+        "background": [
+          "flat warm cream-beige editorial page field framing both panels"
+        ],
+        "lighting_env": [
+          "soft diffused window daylight in left panel",
+          "low-key directional skim on sphere in dark right panel"
+        ],
+        "atmosphere": [
+          "calm contemplative, bright vs dark tonal dialogue, fine grain"
+        ]
+      },
+      "texture": {
+        "primary_subject": "glass_frosted",
+        "secondary_objects": [
+          "plastic_matte",
+          "skin_natural"
+        ],
+        "background_surface": "paper",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "side",
+        "key_hardness": "soft",
+        "key_color_temp": "cool_7000K",
+        "fill_strength": "minimal",
+        "key_to_fill_ratio": "4:1",
+        "rim_light": false,
+        "practical_lights": [
+          "창문 자연광"
+        ],
+        "shadow_presence": "soft",
+        "overall_contrast": "mid_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#efe6d4",
+          "#b9b3a4",
+          "#1c2220",
+          "#5d6f6b"
+        ],
+        "palette_role": {
+          "#efe6d4": "cream_page_dominant",
+          "#b9b3a4": "cool_daylight_grey",
+          "#1c2220": "dark_water_panel",
+          "#5d6f6b": "teal_grey_accent"
+        },
+        "color_relationship": "split_complementary",
+        "temperature_balance": "split_warm_cool",
+        "saturation_strategy": "desaturated_with_pop",
+        "contrast_type": "temperature_split",
+        "accent_color": "#5d6f6b",
+        "accent_ratio": "15_percent"
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A clean editorial two-panel collage composition on a flat warm cream-beige background (#efe6d4), rendered at 1920x1080 pixels in 16:9 landscape, with wide negative space. This frame is a designed layout: a square-ish photo panel on the left (roughly x 8-42%, y 22-78%) and another square-ish photo panel on the right (roughly x 56-92%, y 18-82%), both placed directly on the cream field with no borders, like two images on an editorial page. The LEFT panel is a soft window-lit vignette in cool muted tones: a hand of a young East Asian person holds a heavy textured frosted glass tumbler that contains a small white diffuser puck or scented disc, the glass catching diffuse daylight, with a soft bokeh of bare winter trees through the window behind; a small dark electronic object sits beside the glass on the ledge. The RIGHT panel is a darker, moodier extreme close-up: a smooth white spherical or pebble-form diffuser rests on a near-black reflective water surface, its pale curved form half-lit and mirrored in the dark liquid, with subtle ripples and a cool teal-grey cast. Together the panels juxtapose a bright tactile in-hand moment with a dark, sculptural, almost meditative product still. Color palette: warm cream page (#efe6d4 roughly 34%), cool muted daylight greys and beiges in the left panel (#b9b3a4 roughly 22%), near-black reflective water (#1c2220 roughly 20%), soft white diffuser and glass (#e9e6dd roughly 14%), cool teal-grey accent (#5d6f6b roughly 10%). Color relationship: split warm-cool — warm beige page framing cool desaturated photographic content, low saturation, calm contemplative palette. Lighting inside panels: soft diffused window daylight in the left panel at a cool roughly 6000K with gentle shadow, and low-key directional light skimming the sphere in the right panel against deep shadow; cream page evenly lit. Key direction side-to-front, hardness soft, fill minimal in the dark panel and strong in the bright panel, key-to-fill ranging 2:1 to 6:1 across the two, no rim, shadows soft-to-deep, overall split mid-key and low-key. Textures: heavy frosted pebbled glass, smooth matte ceramic, dark reflective water, natural skin, smooth cream paper field. Framing of the layout: flat graphic editorial plane, eye-level within each photo, object-and-hand scope, gaze none. Composition: two near-square panels balanced left and right with the cream margin as breathing room, the bright left panel and dark right panel creating a tonal dialogue across the page. No on-screen caption text in this shot. Post and signature look: clean digital with gentle film grain, restrained naturalistic color, crisp panel edges against soft cream, the dark panel slightly richer in contrast. Style anchor: Korean curated-commerce editorial lifestyle film, magazine collage pairing of bright and dark product vignettes, muted sophisticated palette, generous negative space, premium minimalist art direction, 4K clean digital.\n Additional fidelity detail: the left panel's frosted glass tumbler has a heavy pebbled or hammered surface that diffuses the daylight into a soft milky glow, and the small white disc inside it sits at the bottom catching a faint warm rim; the winter-bare branches behind dissolve into a high pale bokeh that keeps the focus on the hand and glass; the small dark electronic device beside the glass is non-branded and softly out of focus. In the right panel, the white pebble-form diffuser meets its own clean reflection in the still dark water, the meniscus line crisp where the form touches the surface, and a couple of faint concentric ripples spread outward suggesting the object was just set down; the cool teal-grey tonality and deep shadow give this half a sculptural, almost museum-like stillness. The two panels are deliberately sized as near-squares to read as a balanced diptych, and the cream page between and around them is the unifying editorial ground that signals a curated, art-directed lifestyle spread rather than a casual snapshot.",
+        "t2i_negative": "single full-bleed photo, panel borders, watermark, oversaturated, harsh shadows, faces, text overlays, real logo marks, cluttered",
+        "i2v_motion": "In the left panel the hand holds the frosted tumbler with breathing-level stillness; in the right panel faint ripples spread on the dark water around the white sphere; the cream editorial field holds static; camera locked-off. ~1.13s, steady rhythm, ends on a clean cut.",
+        "i2v_params": {
+          "clip_duration_sec": 1.13,
+          "camera_move": "locked_off",
+          "subject_motion_level": "micro",
+          "signature_effect": "none",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; hand generic; two-panel diptych layout preserved; no on-screen copy"
+      }
+    },
+    {
+      "index": 6,
+      "duration": 1.5,
+      "framing": "ECU",
+      "function": "lifestyle_vignette",
+      "subject_action": "intimate extreme close-up of a young woman lying resting on plush white bedding seen from behind her head/shoulder, dark hair fanned, in a white linen shirt, warm backlit daylight glowing through hair strands; face turned away",
+      "layout_grid": "rule_of_thirds",
+      "subject_position": "right_third",
+      "subject_identity": "lifestyle_woman",
+      "subject_relationship_to_protagonist": "main_character",
+      "mid_frame_path": "ADV-2026-045_frames/cut06_mid.png",
+      "subject_typo_layout": "typo_only_no_person",
+      "typo_motion": "자막 없음; 인물 무드 vignette",
+      "camera_angle": "eye_level",
+      "camera_facing": "back",
+      "shot_scope": "face_only",
+      "gaze": "none",
+      "eye_contact_effect": null,
+      "props": [
+        "white linen shirt/robe",
+        "plush white bedding"
+      ],
+      "prop_semantics": "린넨·침구·휴식 = 향과 디퓨저 제품의 인간적 웰니스 카운터파트",
+      "color_palette": [
+        "#efe7da",
+        "#dcb79a",
+        "#2b211c",
+        "#d8a86f"
+      ],
+      "color_intent": "따뜻한 백색 린넨·침구를 하이키로 블룸, 머리카락에 백라이트 글로우 — 부드럽고 사적인 무드",
+      "pose_description": "여성이 백색 침구에 누워 머리·어깨를 카메라 쪽으로, 얼굴은 돌려 비식별; 손은 블러된 미드그라운드에 휴식",
+      "subject_motion": "near_static_resting",
+      "prop_motion": "none",
+      "camera_motion": "handheld_drift",
+      "camera_motion_intensity": "low",
+      "camera_effect_local": "handheld_slight_wobble",
+      "motion_blur": false,
+      "intra_cut_rhythm": "steady",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [],
+      "vfx_intensity_local": "none",
+      "fact_check_flag": null,
+      "notes": "Cut 6 (f187-222, 7.76-9.26s): ECU woman lying resting on white bedding, viewed from behind head/shoulder, white linen, warm backlit hair glow, face away. Airy hi-key warm. Gentle handheld drift.",
+      "visible_elements": {
+        "foreground": [
+          "white linen shirt collar/shoulder filling left side in creamy folds"
+        ],
+        "midground": [
+          "ear, nape and loose dark hair strands; soft blurred resting hand"
+        ],
+        "background": [
+          "bright soft white bedding blooming to near-white"
+        ],
+        "lighting_env": [
+          "warm daylight backlight from upper-right glowing through hair strands"
+        ],
+        "atmosphere": [
+          "airy hi-key, warm glow, gentle halation, very shallow DOF"
+        ]
+      },
+      "texture": {
+        "primary_subject": "fabric_cotton",
+        "secondary_objects": [
+          "hair",
+          "skin_natural"
+        ],
+        "background_surface": "fabric_cotton",
+        "atmospheric": [
+          "halation"
+        ]
+      },
+      "lighting": {
+        "key_direction": "back",
+        "key_hardness": "soft",
+        "key_color_temp": "warm_3000K",
+        "fill_strength": "strong",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": true,
+        "practical_lights": [
+          "창문 자연광"
+        ],
+        "shadow_presence": "minimal",
+        "overall_contrast": "hi_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#efe7da",
+          "#dcb79a",
+          "#2b211c",
+          "#d8a86f"
+        ],
+        "palette_role": {
+          "#efe7da": "linen_bedding_dominant",
+          "#dcb79a": "skin_tone",
+          "#2b211c": "dark_hair_anchor",
+          "#d8a86f": "warm_backlight_glow"
+        },
+        "color_relationship": "analogous",
+        "temperature_balance": "warm_dominant",
+        "saturation_strategy": "desaturated_with_pop",
+        "contrast_type": "luminance_low",
+        "accent_color": "#d8a86f",
+        "accent_ratio": "5_percent"
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A soft, intimate full-frame extreme close-up, rendered at 1920x1080 pixels in 16:9 landscape, of a young East Asian woman lying down and resting on a plush white bed or soft rug, photographed from close behind and above her head and shoulder so that her face is turned away and not identifiable. She has dark hair fanning across the soft white surface, and she wears a relaxed white linen shirt or robe whose loose collar and shoulder fill the left side of the frame in soft creamy folds. The framing crops tightly to her ear, the nape of her neck, a few loose strands of hair, and the soft bright bedding beyond; one of her hands rests softly in the blurred mid-ground. Warm, gentle daylight washes over the scene from the upper right, glowing through the loose strands of hair and giving her skin a soft warm highlight, with the white linen and bedding blooming into near-white in the brightest areas. The mood is calm, restful, sensorial, and private — a moment of at-home relaxation and wellbeing, the human counterpart to the fragrance products. Color palette: warm-white linen and bedding (#efe7da roughly 45%), soft warm skin tone (#dcb79a roughly 22%), dark brown-black hair (#2b211c roughly 20%), warm amber backlight glow (#d8a86f roughly 8%), with gentle neutral shadow. Color relationship: warm-dominant, very low saturation, soft high-key with warm glow. Lighting: a soft warm key at approximately 3200K from the upper-right acting as a gentle backlight-to-side light that rims the hair and lifts the skin, strong soft ambient fill from the bright bedding, key-to-fill near 2:1, a soft rim along the hair strands, minimal shadow presence, overall hi-key warm and airy. Textures: soft slubby linen weave, fine flyaway hair strands, smooth natural skin, plush soft bedding fabric. Framing: extreme close-up, low intimate eye-level near the pillow, three-quarter-from-behind camera facing, face-and-shoulder scope cropped, gaze none and face turned away for non-identifiability. Composition: the linen shoulder anchoring the left third, the ear and nape on the right-of-center, soft bright negative space filling the upper and right background, a quiet asymmetric intimate frame. No on-screen caption text in this shot. Post and signature look: clean cinematic digital with warm soft grade, fine grain, very shallow depth of field with the ear and near hair sharp and everything else melting into soft bokeh, gentle halation in the brightest backlit areas. Style anchor: premium Korean lifestyle-commerce brand film, intimate at-home wellness vignette, warm backlit soft-focus portraiture cropped for anonymity, airy hi-key domestic morning mood, 4K, very shallow depth of field.\n Additional fidelity detail: the loose linen collar shows a soft slubby weave with gentle wrinkles and a creamy warm-white tone that blooms toward pure white where the daylight is strongest; the woman's dark hair separates into fine individual strands at the crown and nape, several catching the warm backlight as glowing threads against the bright bedding; the visible skin of the ear and neck is rendered with soft natural texture and a warm healthy glow, no harsh detail, deliberately gentle. The blurred resting hand in the mid-ground reads as relaxed and open, reinforcing the sense of ease. The whole frame is kept tightly cropped and face-away so the moment feels universal and private rather than a portrait of a specific person, supporting the brand's sensorial wellbeing narrative where the human figure is a feeling rather than a celebrity. The atmosphere is unmistakably a slow weekend morning at home, the kind of restful self-care setting the fragrance and diffuser products are meant to inhabit.",
+        "t2i_negative": "identifiable face, frontal portrait, watermark, oversaturated, harsh shadows, cool blue cast, busy background, text overlays, real logo marks",
+        "i2v_motion": "The resting woman stays near-still with breathing-level motion only, a few hair strands catching the warm backlight; the camera drifts very slightly (low handheld); warm light steady. ~1.50s, steady gentle rhythm, ends on a clean cut.",
+        "i2v_params": {
+          "clip_duration_sec": 1.5,
+          "camera_move": "handheld_drift",
+          "subject_motion_level": "micro",
+          "signature_effect": "none",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; subject generic, face turned away for non-identifiability; no on-screen copy"
+      }
+    },
+    {
+      "index": 7,
+      "duration": 3.55,
+      "framing": "grid",
+      "function": "lifestyle_vignette",
+      "subject_action": "editorial collage: dominant right panel of a woman in a white shirt gathering her long dark hair up by a window; a smaller left panel appears showing the cairn diffuser on a stack of books",
+      "layout_grid": "split_screen",
+      "subject_position": "right_third",
+      "subject_identity": "lifestyle_woman",
+      "subject_relationship_to_protagonist": "main_character",
+      "mid_frame_path": "ADV-2026-045_frames/cut07_mid.png",
+      "subject_typo_layout": "typo_separate_zone",
+      "typo_motion": "자막 없음; 우측 큰 패널 먼저, 좌측 작은 제품 패널이 한 박자 뒤 슬라이드/페이드 등장",
+      "camera_angle": "eye_level",
+      "camera_facing": "back",
+      "shot_scope": "waist_up",
+      "gaze": "none",
+      "eye_contact_effect": null,
+      "props": [
+        "white shirt",
+        "cairn diffuser on book stack",
+        "magazines/books",
+        "side table"
+      ],
+      "prop_semantics": "일상 그루밍 모먼트 + 제품의 in-situ 배치 = 제품이 실제 생활 공간에 산다는 서사",
+      "color_palette": [
+        "#efe6d4",
+        "#ece4d6",
+        "#2c221d",
+        "#d9b497"
+      ],
+      "color_intent": "따뜻한 크림 페이지·밝은 창광으로 에어리 무드; 인물 루틴과 제품을 한 페이지에 큐레이션",
+      "pose_description": "우패널: 여성 뒤·3/4 각도, 두 손으로 긴 머리를 뒤로 모으는 제스처, 얼굴 비식별; 좌패널: 디퓨저가 잡지 더미 위 정적",
+      "subject_motion": "hands_gathering_hair",
+      "prop_motion": "left product panel slides/fades in",
+      "camera_motion": "locked_off",
+      "camera_motion_intensity": "subtle",
+      "camera_effect_local": "none",
+      "motion_blur": false,
+      "intra_cut_rhythm": "steady",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [
+        "split_screen"
+      ],
+      "vfx_intensity_local": "subtle",
+      "fact_check_flag": null,
+      "notes": "Cut 7 (f223-307, 9.26-12.80s, longest 3.55s): editorial collage. Right dominant panel = woman in white shirt gathering long hair up by window (face away). Smaller left panel (~f265) = cairn diffuser on stack of books/magazines on side table.",
+      "visible_elements": {
+        "foreground": [
+          "right photo panel: woman gathering long dark hair up, white shirt, window light"
+        ],
+        "midground": [
+          "smaller left photo panel: cairn diffuser on stack of magazines/books"
+        ],
+        "background": [
+          "flat warm cream-beige editorial page field framing both panels"
+        ],
+        "lighting_env": [
+          "soft bright window daylight from left in the figure panel",
+          "soft daylight in product panel"
+        ],
+        "atmosphere": [
+          "airy warm, calm everyday routine, fine grain"
+        ]
+      },
+      "texture": {
+        "primary_subject": "fabric_cotton",
+        "secondary_objects": [
+          "hair",
+          "skin_natural",
+          "plastic_matte"
+        ],
+        "background_surface": "paper",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "side_left",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "strong",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": true,
+        "practical_lights": [
+          "창문 자연광"
+        ],
+        "shadow_presence": "soft",
+        "overall_contrast": "hi_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#efe6d4",
+          "#ece4d6",
+          "#2c221d",
+          "#d9b497"
+        ],
+        "palette_role": {
+          "#efe6d4": "cream_page_dominant",
+          "#ece4d6": "white_shirt_window_light",
+          "#2c221d": "dark_hair_anchor",
+          "#d9b497": "skin_tone"
+        },
+        "color_relationship": "analogous",
+        "temperature_balance": "warm_dominant",
+        "saturation_strategy": "desaturated_with_pop",
+        "contrast_type": "luminance_low",
+        "accent_color": "#d9b497",
+        "accent_ratio": "15_percent"
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A clean editorial layout composition on a flat warm cream-beige background (#efe6d4), rendered at 1920x1080 pixels in 16:9 landscape, that resolves into two photo panels. A large upright photo panel occupies the right portion of the frame (roughly x 48-96%, y 8-94%) and a smaller upright photo panel sits at center-left (roughly x 8-34%, y 28-72%), both placed on the cream field with no borders like an editorial page; in the opening instant only the right panel is present and the small left panel slides or fades in a beat later. The RIGHT and dominant panel is a soft window-lit lifestyle vignette: a young East Asian woman seen from behind and three-quarter, wearing a loose white shirt, gathering her long dark hair up with both hands at the back of her neck in a relaxed everyday gesture, her face turned mostly away, bright soft daylight from a window at the left edge glowing on her shoulder and hair. The LEFT and smaller panel shows the white stone-cairn ceramic diffuser with its wood-ball cap standing on a stack of magazines or books on a pale side table, lit by soft daylight with a gentle shadow. Together the panels pair an unhurried personal grooming moment with the product quietly living in the same home. Color palette: warm cream page (#efe6d4 roughly 36%), warm-white shirt and bright window light (#ece4d6 roughly 24%), dark brown-black hair (#2c221d roughly 18%), warm skin (#d9b497 roughly 12%), muted stone-grey and pale table (#b6b1a6 roughly 10%). Color relationship: warm-dominant with soft cool daylight, low saturation, calm airy palette. Lighting inside panels: soft bright diffused window daylight in the right panel at roughly 5500K with a gentle wrap and minimal shadow, soft even daylight in the left product panel; cream page flat and even. Key direction side-left, hardness soft-diffused, fill strong, key-to-fill near 2:1, soft rim on the hair from the window, shadows soft, overall hi-key. Textures: loose cotton shirt weave, fine dark hair, smooth natural skin, matte ceramic diffuser, glossy magazine stack, soft cream paper field. Framing of the layout: flat graphic editorial plane, eye-level within each photo, waist-up scope on the figure and object scope on the product, gaze none with face turned away. Composition: a large right panel dominant with a smaller left panel as counter-beat, generous cream margins, the figure's gesture leading the eye and the product anchoring the opposite corner. No on-screen caption text in this shot. Post and signature look: clean cinematic digital with warm soft grade, fine grain, naturalistic restrained color, crisp panel edges against soft cream. Style anchor: Korean curated-commerce editorial lifestyle film, magazine collage pairing a human routine with the product in situ, warm airy palette, generous negative space, premium minimalist art direction, 4K clean digital.\n Additional fidelity detail: the right panel captures the everyday intimacy of gathering hair — the elbows lift gently, a few strands escape the grasp, and the loose white shirt drapes off one shoulder, all softly lit so the gesture feels candid rather than posed; the window light blooms at the left edge of that panel into a pale glow that haloes the silhouette. In the left product panel, the ceramic stone-cairn diffuser sits casually atop a short stack of glossy magazines, signalling that the object belongs to this person's real space, not a studio; its matte white body picks up a soft cool daylight highlight and throws a gentle shadow onto the table. The deliberate timing — the larger human panel present first, then the smaller product panel arriving — choreographs the viewer's eye from the lifestyle moment to the product, reinforcing the editorial storytelling rhythm of the brand film and the recurring two-panel collage motif that runs through the piece.",
+        "t2i_negative": "identifiable face, single full-bleed photo, panel borders, watermark, oversaturated, harsh shadows, text overlays, real logo marks, cluttered",
+        "i2v_motion": "In the right panel the woman gathers her long hair up with both hands in a relaxed natural gesture, a few strands escaping; a beat into the cut the smaller left panel fades/slides in showing the cairn diffuser on a stack of books; cream field static; camera locked-off. ~3.55s, steady rhythm, ends on a clean cut.",
+        "i2v_params": {
+          "clip_duration_sec": 3.55,
+          "camera_move": "locked_off",
+          "subject_motion_level": "micro",
+          "signature_effect": "none",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; subject generic, face turned away; two-panel collage layout preserved; no on-screen copy"
+      }
+    },
+    {
+      "index": 8,
+      "duration": 1.21,
+      "framing": "MS",
+      "function": "lifestyle_vignette",
+      "subject_action": "high-angle of a hand reaching for a slim cream cosmetic bottle (dark cap) on a cream knit blanket; open booklet with single-line body illustration top-left; coffee cup on a speckled-stone tray at right",
+      "layout_grid": "rule_of_thirds",
+      "subject_position": "right_third",
+      "subject_identity": "hands_only",
+      "subject_relationship_to_protagonist": "main_character",
+      "mid_frame_path": "ADV-2026-045_frames/cut08_mid.png",
+      "subject_typo_layout": "typo_only_no_person",
+      "typo_motion": "자막 없음; 코지 베드사이드 셀프케어 스틸",
+      "camera_angle": "high_angle",
+      "camera_facing": "frontal",
+      "shot_scope": "environment",
+      "gaze": "none",
+      "eye_contact_effect": null,
+      "props": [
+        "slim cream cosmetic bottle with dark cap",
+        "cream waffle-knit blanket",
+        "open illustrated booklet",
+        "coffee cup and saucer",
+        "speckled-stone tray"
+      ],
+      "prop_semantics": "침구·책·커피 = 느린 아침 셀프케어 루틴; 제품이 일상 의례에 자연스레 놓임",
+      "color_palette": [
+        "#e9e1d2",
+        "#d9b597",
+        "#23241f",
+        "#b98a6a"
+      ],
+      "color_intent": "크림 니트·침구를 지배색으로 따뜻한 미드/하이키 — 다크 캡이 유일한 딥 액센트",
+      "pose_description": "인물 없음(손만); 손이 우하단에서 진입해 옆으로 누운 cream 보틀을 잡으려 함",
+      "subject_motion": "hand_reaching",
+      "prop_motion": "hand grasps bottle",
+      "camera_motion": "locked_off",
+      "camera_motion_intensity": "subtle",
+      "camera_effect_local": "none",
+      "motion_blur": false,
+      "intra_cut_rhythm": "steady",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [],
+      "vfx_intensity_local": "none",
+      "fact_check_flag": null,
+      "notes": "Cut 8 (f308-336, 12.80-14.01s): high-angle cozy bedside — hand reaches for slim cream bottle (dark cap) on cream waffle-knit blanket; open booklet w/ single-line body illustration top-left; coffee cup on speckled-stone tray right.",
+      "visible_elements": {
+        "foreground": [
+          "hand reaching from lower-right for the slim cream bottle"
+        ],
+        "midground": [
+          "slim cream cosmetic bottle with dark green-black cap on cream knit blanket"
+        ],
+        "background": [
+          "open booklet with single-line body illustration top-left",
+          "round speckled-stone tray with coffee cup/saucer at right"
+        ],
+        "lighting_env": [
+          "soft warm broad daylight from upper area"
+        ],
+        "atmosphere": [
+          "cozy warm domestic morning, soft shadows in knit folds, shallow DOF"
+        ]
+      },
+      "texture": {
+        "primary_subject": "plastic_matte",
+        "secondary_objects": [
+          "fabric_cotton",
+          "skin_natural",
+          "paper"
+        ],
+        "background_surface": "fabric_cotton",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "top",
+        "key_hardness": "soft",
+        "key_color_temp": "warm_3000K",
+        "fill_strength": "strong",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": false,
+        "practical_lights": [
+          "창문 자연광"
+        ],
+        "shadow_presence": "soft",
+        "overall_contrast": "hi_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#e9e1d2",
+          "#d9b597",
+          "#23241f",
+          "#b98a6a"
+        ],
+        "palette_role": {
+          "#e9e1d2": "cream_knit_dominant",
+          "#d9b597": "skin_tone",
+          "#23241f": "bottle_cap_dark_accent",
+          "#b98a6a": "stone_tray_warm"
+        },
+        "color_relationship": "analogous",
+        "temperature_balance": "warm_dominant",
+        "saturation_strategy": "muted",
+        "contrast_type": "luminance_low",
+        "accent_color": "#23241f",
+        "accent_ratio": "5_percent"
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A warm, cozy full-frame medium shot, rendered at 1920x1080 pixels in 16:9 landscape, looking down at a softly rumpled cream knit blanket on a bed or sofa where a hand reaches in to pick up a slim cream-colored cosmetic bottle. The bottle is a tall slender frosted-cream spray or lotion bottle (#ece6da) with a dark green-black pump or cap, lying on its side on the chunky cream waffle-knit throw; a slender hand of a young East Asian person enters from the lower right and gently grasps the bottle. In the upper-left of the frame an open booklet or magazine lies face-up showing a minimal single-line illustration of a human body or figure in thin dark linework on cream paper. At the right edge sits a round speckled-stone or terrazzo tray holding a pale ceramic cup and saucer with a dark coffee inside. The whole scene is bathed in soft warm daylight and reads as a relaxed slow morning of self-care and reading in bed. Color palette: cream knit blanket and bedding (#e9e1d2 roughly 48%), warm skin tone (#d9b597 roughly 14%), frosted cream bottle (#ece6da roughly 12%), dark green-black cap and coffee (#23241f roughly 10%), warm speckled-stone tray and terracotta plate edge (#b98a6a roughly 8%). Color relationship: warm-dominant analogous, low saturation, soft creamy mid-to-hi-key. Lighting: a soft warm key at approximately 3500K from the upper area, broad and gentle, producing soft shadows in the knit folds, strong ambient fill from the bright bedding, key-to-fill near 2:1, no hard rim, soft shadow presence, overall warm hi-key. Textures: chunky waffle-knit cotton blanket, matte frosted plastic or glass bottle, smooth ceramic cup, natural skin, printed matte paper, speckled stone tray. Framing: medium shot, high-angle looking down, frontal-overhead camera facing, environment-and-object scope, gaze none with only the hand present. Composition: the bottle and reaching hand on the lower-center-left along the rule-of-thirds, the illustrated booklet upper-left, the coffee tray balancing the right edge, soft knit negative space filling the frame. No on-screen caption text in this shot. Post and signature look: clean cinematic digital with warm soft grade, fine grain, gentle shallow depth keeping the bottle and hand sharp and the corners softly falling off. Style anchor: premium Korean lifestyle-commerce brand film, cozy bedside self-care still-life, warm domestic morning mood, soft editorial product styling, 4K, shallow depth of field.\n Additional fidelity detail: the cream waffle-knit blanket dominates the frame with deep soft folds and a chunky tactile weave that catches the warm light along its ridges and sinks into gentle shadow in the valleys, giving the whole image a soft, touchable warmth; the slim bottle's frosted surface is semi-translucent with a faint warm glow and a small label band, its dark green-black pump reading as the single deep accent against all the cream. The open booklet's minimal body-line illustration is rendered in thin confident dark strokes on matte cream paper, a quietly artful detail that ties to the brand's design-literate, curated sensibility. The coffee cup and speckled-stone tray at the right edge complete the slow-morning scene with a small dark coffee surface catching a pinpoint highlight. The reaching hand is relaxed and unhurried, fingers curling naturally around the bottle, so the whole tableau communicates ease, ritual, and the gentle pleasure of a scented self-care routine at home.",
+        "t2i_negative": "cool blue cast, harsh shadows, watermark, oversaturated, faces, cluttered, text overlays, real logo marks, plastic shiny",
+        "i2v_motion": "The hand reaches in from the lower-right and gently grasps the slim cream bottle on the knit blanket; the booklet and coffee tray hold static; soft warm light steady; camera locked-off. ~1.21s, steady gentle rhythm, ends on a clean cut.",
+        "i2v_params": {
+          "clip_duration_sec": 1.21,
+          "camera_move": "locked_off",
+          "subject_motion_level": "micro",
+          "signature_effect": "none",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; hand generic; product label not legible here; no on-screen copy; no logo mark"
+      }
+    },
+    {
+      "index": 9,
+      "duration": 1.25,
+      "framing": "CU",
+      "function": "product_demo",
+      "subject_action": "soft-focus close-up of a hand holding the tall frosted-cream 29edition mist bottle (dark green-black pump) about to spray, against a blurred warm interior; small printed label '29edition / Into the Cedarwood' visible",
+      "layout_grid": "center",
+      "subject_position": "center",
+      "subject_identity": "hands_only",
+      "subject_relationship_to_protagonist": "main_character",
+      "mid_frame_path": "ADV-2026-045_frames/cut09_mid.png",
+      "subject_typo_layout": "typo_over_subject",
+      "typo_motion": "자막 없음; 제품 자체 인쇄 라벨 '29edition' / 'Into the Cedarwood' 정지",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "waist_up",
+      "gaze": "none",
+      "eye_contact_effect": null,
+      "props": [
+        "frosted-cream 29edition mist bottle with dark green-black pump"
+      ],
+      "prop_semantics": "분무 직전 손동작 = 룸/패브릭 미스트 사용 의례; 라벨이 제품 라인 'Into the Cedarwood' 전달",
+      "color_palette": [
+        "#ddd3c2",
+        "#e9e3d6",
+        "#dab598",
+        "#1f2a22"
+      ],
+      "color_intent": "밝은 따뜻한 배경 보케 위 frosted 보틀 — 다크 그린 캡이 단일 쿨 액센트, 소프트 하이키",
+      "pose_description": "손이 보틀 하단을 쥐고 검지로 펌프를 누르려는 포즈; 얼굴 없음; 배경 우드·벽 보케",
+      "subject_motion": "hand_about_to_pump",
+      "prop_motion": "finger depressing pump head",
+      "camera_motion": "locked_off",
+      "camera_motion_intensity": "subtle",
+      "camera_effect_local": "none",
+      "motion_blur": false,
+      "intra_cut_rhythm": "steady",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [],
+      "vfx_intensity_local": "none",
+      "fact_check_flag": null,
+      "notes": "Cut 9 (f337-366, 14.01-15.27s): CU hand holds frosted-cream 29edition spray bottle (dark green-black pump), poised to spray; soft warm bokeh of wood furniture/wall. Label '29edition / Into the Cedarwood' faintly visible.",
+      "visible_elements": {
+        "foreground": [
+          "hand gripping the frosted-cream mist bottle, finger on pump"
+        ],
+        "midground": [
+          "frosted-cream 29edition bottle with dark green-black pump cap; printed label 'Into the Cedarwood / 29edition'"
+        ],
+        "background": [
+          "soft warm bokeh of wood cabinet/shelf and bright pale wall; dark rectangular object out of focus"
+        ],
+        "lighting_env": [
+          "soft broad warm key from front/upper",
+          "strong ambient fill from bright background"
+        ],
+        "atmosphere": [
+          "soft hi-key warm, creamy bokeh, very shallow DOF"
+        ]
+      },
+      "texture": {
+        "primary_subject": "glass_frosted",
+        "secondary_objects": [
+          "plastic_glossy",
+          "skin_natural"
+        ],
+        "background_surface": "bokeh_abstract",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "front",
+        "key_hardness": "soft",
+        "key_color_temp": "warm_3000K",
+        "fill_strength": "strong",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": true,
+        "practical_lights": [
+          "따뜻한 실내광"
+        ],
+        "shadow_presence": "minimal",
+        "overall_contrast": "hi_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#ddd3c2",
+          "#e9e3d6",
+          "#dab598",
+          "#1f2a22"
+        ],
+        "palette_role": {
+          "#ddd3c2": "warm_wall_bokeh_dominant",
+          "#e9e3d6": "frosted_bottle",
+          "#dab598": "skin_tone",
+          "#1f2a22": "dark_cap_accent"
+        },
+        "color_relationship": "analogous",
+        "temperature_balance": "warm_dominant",
+        "saturation_strategy": "muted_with_pop",
+        "contrast_type": "luminance_low",
+        "accent_color": "#1f2a22",
+        "accent_ratio": "5_percent"
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A warm, soft-focus full-frame close-up, rendered at 1920x1080 pixels in 16:9 landscape, of a slender hand of a young East Asian person holding up a tall frosted-cream fragrance mist bottle and beginning to depress its dark green-black pump sprayer, set against a softly blurred warm domestic interior. The bottle is a slim cylindrical frosted-glass or frosted-plastic spray bottle in a creamy off-white tone (#e9e3d6) with a glossy dark forest-green pump cap; the hand grips the lower body of the bottle while the index finger rests on the pump head poised to spray. A small printed label is visible on the bottle reading, in fine print, the Korean and English product line text including Into the Cedarwood and the wordmark 29edition, kept small and elegant. Behind the bottle the background dissolves into a soft warm bokeh of a wood cabinet or shelf and a bright pale wall, with a dark rectangular object softly out of focus — a calm, lived-in home setting. The mood is gentle, sensorial, and anticipatory, capturing the small ritual of misting a room or fabric with fragrance. Color palette: bright warm-neutral wall and bokeh (#ddd3c2 roughly 38%), frosted cream bottle (#e9e3d6 roughly 22%), warm skin tone (#dab598 roughly 18%), dark green-black cap (#1f2a22 roughly 10%), warm honey wood bokeh (#9a6f44 roughly 8%). Color relationship: warm-dominant with a single cool-dark green accent, low saturation, soft hi-key. Lighting: a soft broad key at approximately 4000K from the front and upper area, gentle and flattering on the hand and bottle, strong ambient fill from the bright background, key-to-fill near 2:1, faint soft rim on the bottle shoulder, minimal shadow, overall hi-key warm. Textures: frosted semi-translucent bottle surface, glossy dark cap, smooth natural skin, soft out-of-focus wood and wall. Framing: close-up, eye-level, frontal-three-quarter camera facing, hand-and-product scope, gaze none with only the hand present. Composition: the bottle held center-to-right of frame held upright, the pumping finger near the top, soft warm negative space filling the left and background, shallow depth isolating the product. No on-screen caption overlay in this shot beyond the product's own printed label. Post and signature look: clean cinematic digital with warm soft grade, fine grain, very shallow depth of field with the bottle and fingers sharp and the room melting into creamy bokeh, gentle glow. Style anchor: premium Korean lifestyle-commerce brand film, fragrance-mist in-use close-up, warm soft domestic mood, refined product label typography preserved verbatim, 4K, very shallow depth of field.\n Additional fidelity detail: the frosted bottle is tall and slim with a softly satin semi-translucent surface that lets a faint blush of the warm interior glow through its body, and the dark forest-green pump cap reads as a small glossy deep-toned crown that is the single rich accent in an otherwise pale warm palette; the small printed label wraps the lower-middle of the bottle in fine sans-serif with the Korean scent name above a slim English line Into the Cedarwood and the 29edition wordmark beneath, all preserved verbatim though intentionally delicate. The hand holds the bottle with a natural relaxed grip, the wrist slightly angled so the pump faces up and away, conveying the gentle anticipation of a single soft spray. The background bokeh of warm wood furniture and a bright wall keeps every bit of attention on the product and the gesture, and the overall softness and warmth make the act of misting feel like a small, pleasurable daily ritual rather than a hard product demo, in keeping with the film's quiet sensorial tone.",
+        "t2i_negative": "cool blue cast, hard background, watermark, oversaturated, faces, extra fingers, real logo marks, plastic shiny, busy background",
+        "i2v_motion": "The hand holds the frosted mist bottle steady and the index finger begins to depress the dark pump head with a small deliberate motion (no spray plume needed); background bokeh steady; warm light steady; camera locked-off. ~1.25s, steady gentle rhythm, ends on a clean cut.",
+        "i2v_params": {
+          "clip_duration_sec": 1.25,
+          "camera_move": "locked_off",
+          "subject_motion_level": "micro",
+          "signature_effect": "none",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; hand generic; product label 'Into the Cedarwood / 29edition' preserved verbatim; no logo mark drawn as symbol"
+      }
+    },
+    {
+      "index": 10,
+      "duration": 1.71,
+      "framing": "grid",
+      "function": "product_demo",
+      "subject_action": "horizontal split-screen: top half a styled still-life of the 29edition Cedarwood bottle against driftwood with cypress and dried flowers; bottom half a hand reaching upward into a luminous misty white field",
+      "layout_grid": "split_screen",
+      "subject_position": "center",
+      "subject_identity": "hands_only",
+      "subject_relationship_to_protagonist": "main_character",
+      "mid_frame_path": "ADV-2026-045_frames/cut10_mid.png",
+      "subject_typo_layout": "typo_over_subject",
+      "typo_motion": "자막 없음; 수평 2분할 — 상단 제품 스틸, 하단 손 제스처; 제품 라벨 'Into the Cedarwood / 29edition' 정지",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "environment",
+      "gaze": "none",
+      "eye_contact_effect": null,
+      "props": [
+        "frosted-cream 29edition Cedarwood bottle",
+        "weathered driftwood",
+        "cypress sprigs",
+        "dried flowers",
+        "moss"
+      ],
+      "prop_semantics": "제품-인-자연 스틸 + 향기/빛을 만지는 인간 제스처 = 유형 제품과 무형 감각의 병치",
+      "color_palette": [
+        "#c3c5b6",
+        "#eae4d8",
+        "#b29a78",
+        "#ece9e2"
+      ],
+      "color_intent": "상하 split warm-cool — 상단 세이지 스틸, 하단 루미너스 화이트 — 신선·에어리 무드",
+      "pose_description": "상단: 보틀이 유목에 대각선으로 기댐; 하단: 한 손이 손가락 벌려 미스티 화이트 배경으로 위로 뻗음",
+      "subject_motion": "hand_reaching_up",
+      "prop_motion": "none",
+      "camera_motion": "locked_off",
+      "camera_motion_intensity": "none",
+      "camera_effect_local": "none",
+      "motion_blur": false,
+      "intra_cut_rhythm": "steady",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [
+        "split_screen"
+      ],
+      "vfx_intensity_local": "moderate",
+      "fact_check_flag": null,
+      "notes": "Cut 10 (f367-407, 15.27-16.98s): horizontal split-screen. Top half = 29edition Cedarwood bottle propped on driftwood w/ cypress, dried flowers, moss (sage ground). Bottom half = hand reaching up into luminous misty-white field. Thin white horizontal divider.",
+      "visible_elements": {
+        "foreground": [
+          "bottom half: open hand reaching upward, fingers spread"
+        ],
+        "midground": [
+          "top half: 29edition Cedarwood bottle on weathered driftwood with cypress and dried flowers"
+        ],
+        "background": [
+          "top: pale sage-grey still-life ground",
+          "bottom: luminous near-white misty field",
+          "thin white horizontal divider mid-frame"
+        ],
+        "lighting_env": [
+          "soft diffused daylight on top still-life",
+          "bright high-key diffuse light in bottom half"
+        ],
+        "atmosphere": [
+          "fresh airy, warm-cool split, hi-key luminous lower half"
+        ]
+      },
+      "texture": {
+        "primary_subject": "glass_frosted",
+        "secondary_objects": [
+          "wood_raw",
+          "foliage",
+          "skin_natural"
+        ],
+        "background_surface": "matte",
+        "atmospheric": [
+          "atmospheric_haze"
+        ]
+      },
+      "lighting": {
+        "key_direction": "front",
+        "key_hardness": "diffused",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "strong",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "soft",
+        "overall_contrast": "hi_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#c3c5b6",
+          "#eae4d8",
+          "#b29a78",
+          "#ece9e2"
+        ],
+        "palette_role": {
+          "#c3c5b6": "sage_ground_top",
+          "#eae4d8": "frosted_bottle",
+          "#b29a78": "driftwood_dried_flower",
+          "#ece9e2": "luminous_white_field_bottom"
+        },
+        "color_relationship": "split_complementary",
+        "temperature_balance": "split_warm_cool",
+        "saturation_strategy": "muted",
+        "contrast_type": "temperature_split",
+        "accent_color": "#5e7349",
+        "accent_ratio": "5_percent"
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A horizontally split-screen composition, rendered at 1920x1080 pixels in 16:9 landscape, divided into two stacked halves by a thin clean horizontal line across the middle of the frame. The TOP half (y 0-50%) shows a styled still-life: the tall frosted-cream 29edition fragrance mist bottle with its dark green-black cap lies propped at a gentle diagonal against a chunk of weathered driftwood, surrounded by sprigs of green cypress or juniper, dried beige flower clusters, and pale moss, all on a soft pale sage-grey ground; the bottle's printed label, including the line Into the Cedarwood and the wordmark 29edition, is readable along its side. The BOTTOM half (y 50-100%) shows a bright, airy scene: a single open hand of a young East Asian person reaches upward, fingers gently spread, against a luminous misty white-to-pale background, as if feeling the diffused fragrance or light. The thin horizontal divider between the halves is a crisp white-to-pale seam. Together the two halves pair the product-in-nature still-life above with a human, almost spiritual gesture of reaching into scented air below. Color palette: pale sage-grey still-life ground (#c3c5b6 roughly 30%), frosted cream bottle (#eae4d8 roughly 18%), driftwood and dried-flower tan (#b29a78 roughly 16%), luminous near-white misty field (#ece9e2 roughly 20%), warm skin (#d9b597 roughly 10%), evergreen green accent (#5e7349 roughly 6%). Color relationship: split warm-cool across the two halves, low saturation, soft natural palette with green accent. Lighting: soft diffused daylight on the top still-life at a neutral roughly 5200K with gentle shadow, and very bright high-key diffuse light in the bottom half blowing toward near-white; key direction front-top, hardness diffused, fill strong, key-to-fill near 2:1, no rim, shadows soft, overall hi-key. Textures: frosted bottle, rough weathered driftwood, papery dried flowers, soft moss, fine evergreen needles, smooth skin, luminous haze. Framing: split-screen graphic plane, eye-level within each half, object scope above and hand scope below, gaze none. Composition: a balanced upper/lower diptych with the product anchoring the top and the upward-reaching hand anchoring the bottom, the thin divider creating a clean editorial split. No on-screen caption text in this shot beyond the product's printed label. Post and signature look: clean cinematic digital, soft naturalistic grade, fine grain, the top half richer and the bottom half airy and luminous, crisp divider. Style anchor: premium Korean lifestyle-commerce brand film, split-screen pairing of product still-life and human gesture, fragrance-and-nature theme, fresh airy mood, 4K, soft natural light.\n Additional fidelity detail: in the top half the bottle leans against the driftwood at a relaxed angle so its label faces the camera, and the styling — dried beige blooms, pale moss, green cypress sprigs — visually narrates the fragrance's woody-botanical character, with the soft pale sage ground keeping the still-life calm and gallery-like; small soft shadows anchor the props to the surface. In the bottom half the lone hand rises into a luminous near-white haze with fingers gently parted, the skin softly lit and the background almost dissolving to white, so the gesture reads as reaching into or sensing fragranced air and light — an emotional, almost meditative beat. The thin crisp divider between the two halves makes the composition feel intentionally designed and editorial, reinforcing the brand's art-directed split-screen language, and the warm-cool tonal contrast across the seam gives the single frame a quiet dynamic tension between tangible product and intangible feeling.",
+        "t2i_negative": "single full-bleed image, no divider, watermark, oversaturated, harsh shadows, faces, real logo marks, cluttered",
+        "i2v_motion": "In the bottom half the open hand rises slowly into the luminous misty-white field, fingers gently parting as if sensing fragranced air; the top still-life holds perfectly static; the thin white divider holds; camera locked-off. ~1.71s, steady rhythm, ends on a clean cut.",
+        "i2v_params": {
+          "clip_duration_sec": 1.71,
+          "camera_move": "locked_off",
+          "subject_motion_level": "micro",
+          "signature_effect": "none",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; hand generic; split-screen layout preserved; product label 'Into the Cedarwood / 29edition' preserved verbatim; no logo mark"
+      }
+    },
+    {
+      "index": 11,
+      "duration": 1.21,
+      "framing": "ECU",
+      "function": "product_hero",
+      "subject_action": "tactile macro of the 29edition Cedarwood mist bottle lying on weathered driftwood with dried beige flowers and moss; large readable label 'Into the Cedarwood / 29edition'",
+      "layout_grid": "rule_of_thirds",
+      "subject_position": "center",
+      "subject_identity": "none_environment",
+      "subject_relationship_to_protagonist": null,
+      "mid_frame_path": "ADV-2026-045_frames/cut11_mid.png",
+      "subject_typo_layout": "typo_over_subject",
+      "typo_motion": "자막 없음; 제품 인쇄 라벨 '吟唱 깊은 시더우드 / Into the Cedarwood / 29edition' 정지·확대 가독",
+      "camera_angle": "eye_level",
+      "camera_facing": "three_quarter",
+      "shot_scope": "face_only",
+      "gaze": "none",
+      "eye_contact_effect": null,
+      "props": [
+        "frosted-cream 29edition Cedarwood bottle",
+        "weathered driftwood",
+        "dried beige flowers",
+        "moss",
+        "cypress needles"
+      ],
+      "prop_semantics": "유목·드라이플라워 매크로 = 향의 우디 캐릭터 시각화; 라벨 클로즈업으로 제품명 확정",
+      "color_palette": [
+        "#c4c6b7",
+        "#eae4d8",
+        "#9c8a6e",
+        "#c3ab86"
+      ],
+      "color_intent": "어시 뉴트럴 위 frosted 보틀과 다크 캡 — 아티장·우디 프리미엄 무드",
+      "pose_description": "인물 없음; 보틀이 좌하→우상 대각선으로 유목 위에 누움, 라벨 정면",
+      "subject_motion": "static",
+      "prop_motion": "none",
+      "camera_motion": "locked_off",
+      "camera_motion_intensity": "subtle",
+      "camera_effect_local": "none",
+      "motion_blur": false,
+      "intra_cut_rhythm": "static",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [],
+      "vfx_intensity_local": "none",
+      "fact_check_flag": null,
+      "notes": "Cut 11 (f408-436, 16.98-18.19s): macro of 29edition 'Into the Cedarwood' bottle on driftwood w/ dried flowers, moss. Label clearly readable (吟唱 깊은 시더우드 / Into the Cedarwood / 29edition). Diagonal composition.",
+      "visible_elements": {
+        "foreground": [
+          "dried beige flower clusters and moss at bottle base"
+        ],
+        "midground": [
+          "frosted-cream 29edition Cedarwood bottle lying diagonally; readable label"
+        ],
+        "background": [
+          "pale sage-grey ground falling to soft neutral",
+          "weathered driftwood under bottle"
+        ],
+        "lighting_env": [
+          "soft diffused daylight from upper front",
+          "faint sheen along top of bottle"
+        ],
+        "atmosphere": [
+          "calm earthy, very shallow DOF, gentle organic warmth"
+        ]
+      },
+      "texture": {
+        "primary_subject": "glass_frosted",
+        "secondary_objects": [
+          "wood_raw",
+          "foliage"
+        ],
+        "background_surface": "matte",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "45deg_above",
+        "key_hardness": "diffused",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "moderate",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "soft",
+        "overall_contrast": "mid_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#c4c6b7",
+          "#eae4d8",
+          "#9c8a6e",
+          "#c3ab86"
+        ],
+        "palette_role": {
+          "#c4c6b7": "sage_ground_dominant",
+          "#eae4d8": "frosted_bottle",
+          "#9c8a6e": "driftwood_grey_brown",
+          "#c3ab86": "dried_flower_tan"
+        },
+        "color_relationship": "analogous",
+        "temperature_balance": "balanced",
+        "saturation_strategy": "muted",
+        "contrast_type": "luminance_low",
+        "accent_color": "#202a22",
+        "accent_ratio": "5_percent"
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A tactile full-frame macro close-up, rendered at 1920x1080 pixels in 16:9 landscape, of the tall frosted-cream 29edition fragrance mist bottle lying on its side, resting against and atop a chunk of weathered grey-brown driftwood, surrounded by dried beige flower clusters and pale moss, on a soft pale sage-grey ground. The bottle dominates the frame at a strong diagonal from lower-left toward upper-right, its frosted off-white body (#eae4d8) filling much of the composition with the dark green-black pump cap at the upper end; its printed side label is large and readable, showing the fine Korean scent line, the slim English line Into the Cedarwood, and the wordmark 29edition near the base, all preserved verbatim in a delicate sans-serif. The weathered driftwood beneath shows cracked silvery-grey and warm-brown grain, and clusters of dried hydrangea-like beige blooms and soft greenish moss nestle around the bottle, with a few green cypress needles. The background falls to a soft pale neutral. The mood is artisanal, organic, and premium — the fragrance presented as a natural, woody, crafted object. Color palette: pale sage-grey ground (#c4c6b7 roughly 30%), frosted cream bottle (#eae4d8 roughly 30%), weathered driftwood grey-brown (#9c8a6e roughly 16%), dried-flower beige and tan (#c3ab86 roughly 12%), dark green-black cap (#202a22 roughly 7%), moss green (#6a7a4e roughly 5%). Color relationship: warm-neutral analogous with a cool dark accent, low saturation, calm earthy palette. Lighting: soft diffused daylight from the upper front at a neutral roughly 5200K, producing gentle soft shadows beneath the bottle and props, modest fill, key-to-fill near 2:1, a faint soft sheen along the top curve of the bottle, soft shadow presence, overall mid-to-hi-key natural light. Textures: frosted semi-translucent bottle surface, rough cracked driftwood grain, papery dried petals, soft fuzzy moss, fine evergreen needles, matte pale ground. Framing: macro close-up, eye-level low and intimate, three-quarter camera facing, object scope, gaze none. Composition: the bottle on a bold diagonal as the dominant anchor, organic props clustering at the lower-left base, soft negative space upper-right, a crafted still-life balance. The on-screen text in this shot is only the product's own printed label, preserved verbatim. Post and signature look: clean cinematic digital, soft naturalistic grade, fine grain, very shallow depth of field with the label and near bottle body tack-sharp and the props and background softly bokeh, gentle organic warmth. Style anchor: premium Korean lifestyle-commerce brand film, artisanal fragrance hero macro, driftwood-and-botanical natural styling, woody premium mood, 4K, very shallow depth of field, delicate label typography preserved verbatim.\n Additional fidelity detail: the frosted bottle surface is satin and lightly translucent so a soft warm-pale glow reads through its body, and the printed label is the sharpest element in the frame, its delicate type — the Korean scent name, the slim English Into the Cedarwood, and the 29edition wordmark near the base — rendered crisply and preserved exactly; the dark green-black pump cap at the upper end is the single deep accent against the earthy neutrals. The weathered driftwood shows weathered cracks, silvered ridges and warm-brown recesses that visually anchor the fragrance to a woodland, cedar-forest idea, while the dried beige blooms and soft moss add a papery, organic, slightly wild texture that signals natural craft over synthetic gloss. The strong diagonal of the reclining bottle gives the macro a dynamic line, and the soft falloff of the props into bokeh keeps the eye on the label and the bottle's shoulder, presenting the product as both a desirable object and a piece of natural still-life art consistent with the brand's curated sensibility.",
+        "t2i_negative": "cool blue cast, flat studio light, watermark, oversaturated, plastic shiny, faces, real logo marks, cluttered, hard shadow",
+        "i2v_motion": "The bottle holds perfectly still on the driftwood; soft daylight steady with a faint sheen on the bottle's top curve; dried flowers and moss steady; camera locked-off (breathing-level). ~1.21s, static rhythm, ends on a clean cut.",
+        "i2v_params": {
+          "clip_duration_sec": 1.21,
+          "camera_move": "locked_off",
+          "subject_motion_level": "still",
+          "signature_effect": "none",
+          "pacing": "static",
+          "loopable": true
+        },
+        "fidelity_note": "craft-faithful; product generic frosted bottle; label '吟唱 깊은 시더우드 / Into the Cedarwood / 29edition' preserved verbatim; no logo mark"
+      }
+    },
+    {
+      "index": 12,
+      "duration": 0.79,
+      "framing": "ECU",
+      "function": "insert_detail",
+      "subject_action": "extreme macro of a brushed-chrome nozzle with a single clear water droplet forming and falling against a soft pale grey-green background",
+      "layout_grid": "center",
+      "subject_position": "center",
+      "subject_identity": "none_environment",
+      "subject_relationship_to_protagonist": null,
+      "mid_frame_path": "ADV-2026-045_frames/cut12_mid.png",
+      "subject_typo_layout": "typo_only_no_person",
+      "typo_motion": "자막 없음; 물방울 매크로 인서트",
+      "camera_angle": "low_angle",
+      "camera_facing": "frontal",
+      "shot_scope": "face_only",
+      "gaze": "none",
+      "eye_contact_effect": null,
+      "props": [
+        "brushed-chrome nozzle/spout",
+        "clear water droplet"
+      ],
+      "prop_semantics": "물방울 = 순수·수분·신선의 촉각 메타포; 영상 리듬의 호흡 비트",
+      "color_palette": [
+        "#a9b1a6",
+        "#8f9499",
+        "#f4f6f3",
+        "#5e6661"
+      ],
+      "color_intent": "쿨 그레이-그린 니어 모노크롬에 크롬 뉴트럴 — 클린·프레시 미드키",
+      "pose_description": "인물 없음; 크롬 노즐이 상단 중앙에서 하강, 물방울이 끝에서 맺혀 떨어지려 함",
+      "subject_motion": "static",
+      "prop_motion": "water droplet forming and falling",
+      "camera_motion": "locked_off",
+      "camera_motion_intensity": "none",
+      "camera_effect_local": "none",
+      "motion_blur": false,
+      "intra_cut_rhythm": "steady",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [],
+      "vfx_intensity_local": "none",
+      "fact_check_flag": null,
+      "notes": "Cut 12 (f437-455, 18.19-18.98s, shortest 0.79s): extreme macro of brushed-chrome nozzle, single clear water droplet forming/falling, soft pale grey-green bg. Clean fresh tactile beat.",
+      "visible_elements": {
+        "foreground": [
+          "forming clear water droplet stretching at nozzle rim"
+        ],
+        "midground": [
+          "brushed-chrome cylindrical nozzle/spout descending from top center"
+        ],
+        "background": [
+          "smooth defocused muted cool grey-green gradient"
+        ],
+        "lighting_env": [
+          "soft broad front-upper key creating chrome gradients and droplet highlight"
+        ],
+        "atmosphere": [
+          "clean fresh, extremely shallow DOF, crisp specular highlight"
+        ]
+      },
+      "texture": {
+        "primary_subject": "chrome",
+        "secondary_objects": [
+          "glass_clear"
+        ],
+        "background_surface": "matte",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "front",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "moderate",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": true,
+        "practical_lights": [],
+        "shadow_presence": "minimal",
+        "overall_contrast": "mid_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#a9b1a6",
+          "#8f9499",
+          "#f4f6f3",
+          "#5e6661"
+        ],
+        "palette_role": {
+          "#a9b1a6": "grey_green_background_dominant",
+          "#8f9499": "chrome_metallic",
+          "#f4f6f3": "droplet_specular_white",
+          "#5e6661": "cool_shadow_grey"
+        },
+        "color_relationship": "monochrome",
+        "temperature_balance": "cool_dominant",
+        "saturation_strategy": "desaturated_with_pop",
+        "contrast_type": "luminance_low",
+        "accent_color": "#f4f6f3",
+        "accent_ratio": "5_percent"
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "An extreme macro close-up, rendered at 1920x1080 pixels in 16:9 landscape, of the brushed-chrome cylindrical spout or nozzle of a faucet or dispenser, from which a single clear water droplet is forming, swelling, and beginning to fall, against a soft out-of-focus pale grey-green background. The polished metallic nozzle hangs from the top center of the frame, its chrome surface showing soft vertical reflections and a cool metallic sheen with warm and cool highlights; at its rim a perfectly clear bead of water bulges and stretches, catching a tiny bright specular highlight and refracting an inverted ghost of the background, the droplet's surface tension stretching it into a teardrop just before release. A faint trace of an earlier thread of water may be visible below. The background is a smooth gradient of muted cool sage-grey, completely defocused, isolating the tactile droplet moment. The mood is clean, fresh, precise, and sensorial — a tactile metaphor for purity and moisture, a tiny pause beat in the film. Color palette: muted cool grey-green background (#a9b1a6 roughly 55%), brushed chrome metallic greys (#8f9499 roughly 22%), bright specular white on the droplet (#f4f6f3 roughly 10%), cool shadow grey (#5e6661 roughly 8%), faint warm reflection (~5%). Color relationship: cool-dominant near-monochrome with metallic neutrals, low saturation, clean mid-key. Lighting: a soft broad key from the front-upper at a cool-neutral roughly 5500K creating gentle gradients on the chrome and a crisp highlight on the water bead, soft fill, key-to-fill near 2:1, subtle rim on the droplet, minimal shadow, overall clean mid-key. Textures: polished reflective chrome metal, perfectly clear refractive water, smooth defocused background. Framing: extreme macro, eye-level to slightly low looking up at the nozzle, frontal camera facing, object-detail scope, gaze none. Composition: the nozzle descending from top-center with the droplet at the focal heart of the frame, generous soft negative space surrounding, a minimal centered composition. No on-screen caption text in this shot. Post and signature look: clean cinematic digital, cool fresh grade, fine grain, extremely shallow depth of field with only the droplet and nozzle tip sharp and everything else dissolved, crisp specular highlight. Style anchor: premium Korean lifestyle-commerce brand film, extreme water-droplet macro insert, clean fresh tactile beat, cool minimal palette, 4K, extreme shallow depth of field.\n Additional fidelity detail: the chrome nozzle is cylindrical and softly brushed, its reflective surface gathering elongated soft highlights and a faint mirrored sliver of the surroundings, so it reads unmistakably as cool polished metal; the forming droplet is the hero of the frame — perfectly clear, its rounded bulge stretched by surface tension into a luminous teardrop with a pin-sharp specular catchlight at its crown and a refracted, inverted miniature of the pale background visible within its curved body, conveying the clean tactile physics of a single drop about to fall. The defocused grey-green ground is smooth and gradientless enough to feel like clean studio air, removing any clutter so the moment is pure sensation. This brief macro acts as a palate-cleansing rhythmic beat between the warmer lifestyle and product scenes, its cool freshness and precision implying purity, hydration, and the careful, considered quality the brand wants associated with its objects.",
+        "t2i_negative": "warm cast, busy background, watermark, oversaturated, multiple droplets, splash, faces, text overlays, real logo marks",
+        "i2v_motion": "The chrome nozzle holds still while a single clear water droplet swells, stretches under surface tension, and detaches to fall, its specular highlight tracking; background stays soft and static; camera locked-off. ~0.79s, steady rhythm, ends on a clean cut.",
+        "i2v_params": {
+          "clip_duration_sec": 0.79,
+          "camera_move": "locked_off",
+          "subject_motion_level": "micro",
+          "signature_effect": "none",
+          "pacing": "steady",
+          "loopable": true
+        },
+        "fidelity_note": "craft-faithful; generic chrome nozzle and water; no on-screen copy; no logo mark"
+      }
+    },
+    {
+      "index": 13,
+      "duration": 2.54,
+      "framing": "MCU",
+      "function": "product_demo",
+      "subject_action": "still-life of an upright cream paper scent-card with cord propped on driftwood, surrounded by fresh green leaves and halved bright-green limes, on a pale sage ground; small printed Korean + English note 'Bergamot…'",
+      "layout_grid": "center",
+      "subject_position": "center",
+      "subject_identity": "none_environment",
+      "subject_relationship_to_protagonist": null,
+      "mid_frame_path": "ADV-2026-045_frames/cut13_mid.png",
+      "subject_typo_layout": "typo_over_subject",
+      "typo_motion": "자막 없음; 카드 인쇄 텍스트 '베르가못의 안녕 / Bergamot…' 정지(향 노트)",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "environment",
+      "gaze": "none",
+      "eye_contact_effect": null,
+      "props": [
+        "cream paper scent-card with cord",
+        "weathered driftwood",
+        "fresh green citrus leaves",
+        "halved limes"
+      ],
+      "prop_semantics": "시트러스+우드 정물 = 향 노트(베르가못·시더우드) 시각 번역; 카드가 향 스토리 텍스트 전달",
+      "color_palette": [
+        "#c5c7b6",
+        "#ece7da",
+        "#8aa53e",
+        "#9d8b6f"
+      ],
+      "color_intent": "프레시 그린 시트러스를 따뜻한 크림·유목 위에 — 클린 보태니컬 향 스토리텔링",
+      "pose_description": "인물 없음; 세로 카드가 중앙 앵커, 시트러스·우드 소품이 베이스에 대칭적으로 클러스터",
+      "subject_motion": "static",
+      "prop_motion": "none",
+      "camera_motion": "locked_off",
+      "camera_motion_intensity": "subtle",
+      "camera_effect_local": "none",
+      "motion_blur": false,
+      "intra_cut_rhythm": "static",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [],
+      "vfx_intensity_local": "none",
+      "fact_check_flag": null,
+      "notes": "Cut 13 (f456-516, 18.98-21.52s): still-life of cream paper scent-card (cord) on driftwood w/ green leaves + halved limes, pale sage ground. Card text '베르가못의 안녕 / Bergamot…' (fragrance top note).",
+      "visible_elements": {
+        "foreground": [
+          "fresh green leaves and halved bright-green limes at base"
+        ],
+        "midground": [
+          "upright cream paper scent-card with cord propped on driftwood; small printed note"
+        ],
+        "background": [
+          "clean pale sage-green ground",
+          "weathered driftwood behind card"
+        ],
+        "lighting_env": [
+          "soft diffused daylight from front-upper",
+          "faint sheen on wet lime flesh"
+        ],
+        "atmosphere": [
+          "fresh botanical, clean, shallow DOF"
+        ]
+      },
+      "texture": {
+        "primary_subject": "paper",
+        "secondary_objects": [
+          "foliage",
+          "wood_raw"
+        ],
+        "background_surface": "matte",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "45deg_above",
+        "key_hardness": "diffused",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "moderate",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "soft",
+        "overall_contrast": "mid_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#c5c7b6",
+          "#ece7da",
+          "#8aa53e",
+          "#9d8b6f"
+        ],
+        "palette_role": {
+          "#c5c7b6": "sage_ground_dominant",
+          "#ece7da": "cream_card",
+          "#8aa53e": "lime_green_accent",
+          "#9d8b6f": "driftwood_brown"
+        },
+        "color_relationship": "analogous",
+        "temperature_balance": "balanced",
+        "saturation_strategy": "muted_with_pop",
+        "contrast_type": "luminance_low",
+        "accent_color": "#8aa53e",
+        "accent_ratio": "15_percent"
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A clean still-life product composition, rendered at 1920x1080 pixels in 16:9 landscape, of an upright cream-white paper hang-tag or slim folded card standing at the center of the frame, propped against a piece of pale weathered driftwood, surrounded by fresh green leaves and bright halved limes, on a soft pale sage-green background. The tall narrow cream card (#ece7da) stands vertically center frame with a thin cord or string looping from its top, and bears small dark printed text including a Korean line and a slim English scent descriptor; it reads as a fragrance scent-card or ingredient tag. Behind and around it the driftwood arcs in warm silvery-brown, while several glossy fresh green citrus leaves and two or three halved limes — their vivid green rind and pale juicy interior facing the camera — are arranged at the base, with one whole and one cut lime catching soft light. The pale sage ground is clean and uncluttered. The mood is fresh, botanical, and editorial — a visual translation of the fragrance's citrus-and-wood notes. Color palette: pale sage-green ground (#c5c7b6 roughly 34%), cream card (#ece7da roughly 20%), vivid lime green (#8aa53e roughly 16%), driftwood silvery-brown (#9d8b6f roughly 14%), glossy leaf green (#4f6f3a roughly 10%), pale lime flesh (#dfe2c4 roughly 6%). Color relationship: fresh analogous greens against warm cream and driftwood, moderate saturation in the citrus accents, clean natural palette. Lighting: soft diffused daylight from the front-upper at a neutral roughly 5300K, gentle soft shadows beneath the props, modest fill, key-to-fill near 2:1, faint sheen on the wet lime flesh, soft shadow presence, overall mid-to-hi-key. Textures: matte paper card, smooth string, weathered driftwood grain, glossy citrus leaves, juicy cut-lime flesh and bumpy rind. Framing: still-life medium close-up, eye-level, frontal camera facing, object scope, gaze none. Composition: the vertical card as central anchor, citrus and wood props clustered symmetrically at the base, soft negative space upper area, a clean centered botanical still-life. The on-screen text is only the card's own small printed type, preserved verbatim. Post and signature look: clean cinematic digital, fresh naturalistic grade, fine grain, shallow depth of field with the card and front props sharp and the background soft, gentle freshness. Style anchor: premium Korean lifestyle-commerce brand film, scent-ingredient botanical still-life, citrus-and-wood fragrance storytelling, fresh clean mood, 4K, shallow depth of field, delicate card typography preserved verbatim.\n Additional fidelity detail: the tall cream scent-card stands a touch taller than the surrounding props so it reads clearly as the focal subject, its thin cord curling softly at the top and its small dark printed type — a Korean note line above a slim English scent descriptor — kept delicate and preserved verbatim; the card's matte paper has a faint warm tooth. The halved limes are the chromatic heart of the frame, their vivid rind and pale translucent flesh catching a soft wet highlight that makes the citrus feel fresh-cut and fragrant, directly cueing the fragrance's bergamot-and-citrus top notes, while the weathered driftwood and glossy green leaves cue the woody base. The composition is deliberately balanced and gallery-clean against the pale sage ground so the still-life reads as an art-directed scent-story diagram rather than a casual arrangement, reinforcing the brand's editorial, ingredient-led storytelling and its overall refined, natural, premium aesthetic.",
+        "t2i_negative": "cool blue cast, watermark, oversaturated, plastic shiny, faces, real logo marks, cluttered, hard shadow",
+        "i2v_motion": "The scent-card and props hold perfectly still; soft daylight steady with a faint sheen on the cut limes; the card's cord may sway a hair; camera locked-off (breathing-level). ~2.54s, static rhythm, ends on a clean cut.",
+        "i2v_params": {
+          "clip_duration_sec": 2.54,
+          "camera_move": "locked_off",
+          "subject_motion_level": "still",
+          "signature_effect": "none",
+          "pacing": "static",
+          "loopable": true
+        },
+        "fidelity_note": "craft-faithful; generic scent-card; printed note '베르가못의 안녕 / Bergamot…' preserved verbatim; no logo mark"
+      }
+    },
+    {
+      "index": 14,
+      "duration": 1.59,
+      "framing": "MS",
+      "function": "lifestyle_vignette",
+      "subject_action": "warm overhead of a walnut desk with a spiral notebook of handwritten Korean, a yellow pencil, a glass of water, a strawberry plate, and the cream 29edition scent-card",
+      "layout_grid": "rule_of_thirds",
+      "subject_position": "right_third",
+      "subject_identity": "none_environment",
+      "subject_relationship_to_protagonist": null,
+      "mid_frame_path": "ADV-2026-045_frames/cut14_mid.png",
+      "subject_typo_layout": "typo_over_subject",
+      "typo_motion": "자막 없음; 카드 인쇄 워드마크 '29edition' 정지",
+      "camera_angle": "overhead",
+      "camera_facing": "frontal",
+      "shot_scope": "environment",
+      "gaze": "none",
+      "eye_contact_effect": null,
+      "props": [
+        "spiral notebook with handwritten Korean",
+        "yellow pencil",
+        "glass of water",
+        "strawberry/blueberry plate",
+        "cream 29edition scent-card",
+        "navy notebook"
+      ],
+      "prop_semantics": "노트·연필·과일 = 사려 깊은 창작·일상 의례; 제품 카드가 그 생활에 놓임",
+      "color_palette": [
+        "#6f4d2e",
+        "#ece6d8",
+        "#cda86f",
+        "#2c4148"
+      ],
+      "color_intent": "따뜻한 월넛 데스크를 지배색으로 라킹 라이트 — 따뜻한 미드키, 소량 레드·틸 액센트",
+      "pose_description": "인물 없음; 노트·카드가 중앙우측, 물잔이 좌상, 과일 접시가 좌하 — 오버헤드 플랫레이",
+      "subject_motion": "static",
+      "prop_motion": "none",
+      "camera_motion": "locked_off",
+      "camera_motion_intensity": "subtle",
+      "camera_effect_local": "none",
+      "motion_blur": false,
+      "intra_cut_rhythm": "static",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [],
+      "vfx_intensity_local": "none",
+      "fact_check_flag": null,
+      "notes": "Cut 14 (f517-554, 21.52-23.11s): warm overhead walnut desk — spiral notebook w/ handwritten Korean, yellow pencil, glass of water, strawberry plate, cream 29edition scent-card. Raking warm side light.",
+      "visible_elements": {
+        "foreground": [
+          "cream 29edition scent-card with cord on the wood, printed wordmark"
+        ],
+        "midground": [
+          "open spiral notebook with handwritten Korean pencil lines; yellow pencil; navy notebook beneath"
+        ],
+        "background": [
+          "warm walnut wood desk",
+          "glass of water upper-left",
+          "wavy orange-white plate with strawberries/blueberry lower-left"
+        ],
+        "lighting_env": [
+          "warm directional raking light from left, soft elongated shadows, bright highlight on glass/pages"
+        ],
+        "atmosphere": [
+          "warm creative-desk, soft glow on highlights, moderate DOF"
+        ]
+      },
+      "texture": {
+        "primary_subject": "paper",
+        "secondary_objects": [
+          "wood_polished",
+          "glass_clear"
+        ],
+        "background_surface": "wood_polished",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "side_left",
+        "key_hardness": "soft",
+        "key_color_temp": "warm_3000K",
+        "fill_strength": "moderate",
+        "key_to_fill_ratio": "4:1",
+        "rim_light": false,
+        "practical_lights": [
+          "창문 자연광(저녁)"
+        ],
+        "shadow_presence": "soft",
+        "overall_contrast": "mid_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#6f4d2e",
+          "#ece6d8",
+          "#cda86f",
+          "#2c4148"
+        ],
+        "palette_role": {
+          "#6f4d2e": "walnut_wood_dominant",
+          "#ece6d8": "card_and_pages",
+          "#cda86f": "warm_light_glow",
+          "#2c4148": "navy_notebook_accent"
+        },
+        "color_relationship": "analogous",
+        "temperature_balance": "warm_dominant",
+        "saturation_strategy": "muted_with_pop",
+        "contrast_type": "luminance_low",
+        "accent_color": "#c1492f",
+        "accent_ratio": "5_percent"
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A warm overhead high-angle medium shot, rendered at 1920x1080 pixels in 16:9 landscape, looking down at a richly grained warm walnut wood desk arranged with creative-desk objects in a soft late-afternoon light. At center-right lies a slim cream-white paper hang-tag or folded sachet card with thin cord, printed with small dark type including the wordmark 29edition, resting on the wood. Above and left of it sits an open spiral-bound notebook with white lined pages showing rows of handwritten Korean text in pencil, a yellow wooden pencil lying diagonally across it; beneath that a dark teal or navy notebook cover. At the upper-left edge a clear glass of water catches the light, and at the lower-left a wavy-edged orange-and-white plate holds fresh strawberries and a blueberry. Warm directional light rakes across the desk from the left, throwing soft warm shadows and a bright glow on the glass and pages. The mood is creative, warm, and personal — a journaling and tasting moment that frames the brand as part of a thoughtful daily life. Color palette: warm walnut wood (#6f4d2e roughly 40%), cream card and white pages (#ece6d8 roughly 24%), warm honey light glow (#cda86f roughly 12%), dark teal-navy notebook (#2c4148 roughly 9%), red strawberry and orange plate (#c1492f roughly 9%), yellow pencil (#d9a93a roughly 6%). Color relationship: warm-dominant analogous with small red-orange and teal accents, moderate-low saturation, warm mid-key. Lighting: a warm directional key at approximately 3400K raking from the left as late-day light, producing soft elongated shadows and a bright highlight on the water glass and pages, modest fill, key-to-fill near 3:1, no hard rim, soft shadow presence, overall warm mid-key. Textures: deep walnut grain, smooth lined paper, glossy spiral wire, clear glass with water, juicy strawberry skin, glazed ceramic plate, painted wood pencil. Framing: medium shot, high-angle looking down, frontal-overhead camera facing, environment-and-object scope, gaze none with no figure visible. Composition: the notebook and card on the rule-of-thirds center-right, the water glass anchoring the upper-left, the fruit plate balancing the lower-left, warm wood negative space between, an overhead editorial desk flat-lay. The on-screen text is only the card's own small printed wordmark, preserved verbatim. Post and signature look: clean cinematic digital, warm filmic grade, fine grain, moderate depth of field with the desk surface largely sharp and edges softly falling off, gentle warmth and a touch of glow on the brightest highlights. Style anchor: premium Korean lifestyle-commerce brand film, warm creative-desk overhead flat-lay, journaling-and-fruit lifestyle styling, thoughtful daily-life mood, 4K, overhead editorial composition.\n Additional fidelity detail: the spiral notebook's lined page is filled with several rows of neat handwritten Korean pencil script, slightly soft from the raking light, suggesting private journaling or note-taking, and the yellow pencil lies diagonally as if just set down mid-thought; the cream 29edition card resting nearby ties the brand into this intimate creative ritual without any hard sell. The walnut desk grain runs warm and deep, catching the low side light along its ridges and giving the whole frame a cozy, lamplit-or-late-afternoon warmth. The clear glass of water at the upper-left glows where the light passes through it, and the small plate of strawberries and a blueberry adds a fresh, homey pop of red against the warm woods. The overhead vantage and the careful spacing of objects make the image feel like a styled lifestyle flat-lay from a design magazine, presenting the product as a natural companion to a considered, creative, sensory daily life rather than a mere commodity.",
+        "t2i_negative": "cool blue cast, harsh shadows, watermark, oversaturated, faces, cluttered, real logo marks, plastic shiny",
+        "i2v_motion": "All desk objects hold perfectly still; the warm raking light stays steady; camera locked-off (breathing-level). ~1.59s, static rhythm, ends on a clean cut.",
+        "i2v_params": {
+          "clip_duration_sec": 1.59,
+          "camera_move": "locked_off",
+          "subject_motion_level": "still",
+          "signature_effect": "none",
+          "pacing": "static",
+          "loopable": true
+        },
+        "fidelity_note": "craft-faithful; generic objects; card printed wordmark '29edition' preserved verbatim; no logo mark drawn as symbol"
+      }
+    },
+    {
+      "index": 15,
+      "duration": 2.17,
+      "framing": "CU",
+      "function": "lifestyle_vignette",
+      "subject_action": "intimate close-up of a hand writing rows of Korean text in pencil in an open spiral notebook on a warm walnut desk, warm side light",
+      "layout_grid": "rule_of_thirds",
+      "subject_position": "center",
+      "subject_identity": "hands_only",
+      "subject_relationship_to_protagonist": "main_character",
+      "mid_frame_path": "ADV-2026-045_frames/cut15_mid.png",
+      "subject_typo_layout": "typo_only_no_person",
+      "typo_motion": "자막 없음; 손글씨가 페이지에 한 줄씩 채워짐(인물 행위)",
+      "camera_angle": "high_angle",
+      "camera_facing": "frontal",
+      "shot_scope": "waist_up",
+      "gaze": "none",
+      "eye_contact_effect": null,
+      "props": [
+        "open spiral notebook",
+        "yellow pencil",
+        "navy notebook"
+      ],
+      "prop_semantics": "사적 글쓰기/성찰 = 브랜드를 사려 깊은 내면 생활과 연결",
+      "color_palette": [
+        "#ece7d8",
+        "#d9b597",
+        "#6c4a2c",
+        "#d6a836"
+      ],
+      "color_intent": "따뜻한 라인드 페이퍼를 글로우로, 옐로우 연필이 단일 액센트 — 따뜻한 미드/하이키",
+      "pose_description": "손이 우상단에서 진입, 옐로우 연필로 페이지에 글쓰기 중; 손목·전완 일부 보임; 얼굴 없음",
+      "subject_motion": "hand_writing",
+      "prop_motion": "pencil writing strokes on page",
+      "camera_motion": "locked_off",
+      "camera_motion_intensity": "subtle",
+      "camera_effect_local": "none",
+      "motion_blur": false,
+      "intra_cut_rhythm": "steady",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [],
+      "vfx_intensity_local": "none",
+      "fact_check_flag": null,
+      "notes": "Cut 15 (f555-606, 23.11-25.27s): CU hand writing rows of Korean pencil text in open spiral notebook, warm walnut desk, warm upper-left light, soft hand shadow on page.",
+      "visible_elements": {
+        "foreground": [
+          "hand holding yellow pencil writing on the lined page"
+        ],
+        "midground": [
+          "open spiral notebook with rows of handwritten Korean; metal spiral wire"
+        ],
+        "background": [
+          "darker notebook cover and warm walnut desk at edges"
+        ],
+        "lighting_env": [
+          "soft warm key from upper-left, soft hand shadow on page, glow on paper"
+        ],
+        "atmosphere": [
+          "warm desk-light, quiet focused, shallow DOF"
+        ]
+      },
+      "texture": {
+        "primary_subject": "paper",
+        "secondary_objects": [
+          "skin_natural",
+          "wood_polished"
+        ],
+        "background_surface": "wood_polished",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "side_left",
+        "key_hardness": "soft",
+        "key_color_temp": "warm_3000K",
+        "fill_strength": "moderate",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": false,
+        "practical_lights": [
+          "따뜻한 데스크/창광"
+        ],
+        "shadow_presence": "soft",
+        "overall_contrast": "mid_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#ece7d8",
+          "#d9b597",
+          "#6c4a2c",
+          "#d6a836"
+        ],
+        "palette_role": {
+          "#ece7d8": "lined_paper_dominant",
+          "#d9b597": "skin_tone",
+          "#6c4a2c": "walnut_wood",
+          "#d6a836": "yellow_pencil_accent"
+        },
+        "color_relationship": "analogous",
+        "temperature_balance": "warm_dominant",
+        "saturation_strategy": "muted_with_pop",
+        "contrast_type": "luminance_low",
+        "accent_color": "#d6a836",
+        "accent_ratio": "5_percent"
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A warm intimate close-up, rendered at 1920x1080 pixels in 16:9 landscape, of a hand of a young East Asian person writing rows of Korean text in pencil on the white lined page of an open spiral-bound notebook, on a warm walnut wood desk. The hand holds a yellow wooden pencil and rests on the page mid-stroke, the wrist and a portion of the forearm visible entering from the upper-right, fingers relaxed and natural with unpainted nails. The open notebook fills most of the frame at a slight angle, its white lined pages showing several lines of neat handwritten Hangul pencil script, the metal spiral wire glinting along the left binding; beneath it a darker notebook cover and the warm wood desk are visible at the edges. Soft warm light falls from the upper-left, glowing on the paper and casting a gentle soft shadow of the hand across the page. The mood is quiet, focused, and personal — a moment of private writing and reflection that anchors the brand in a thoughtful inner life. Color palette: white-to-cream lined paper (#ece7d8 roughly 42%), warm skin tone (#d9b597 roughly 20%), warm walnut wood (#6c4a2c roughly 16%), yellow pencil (#d6a836 roughly 8%), dark navy-teal notebook and graphite (#2b3b42 roughly 8%), soft warm shadow. Color relationship: warm-dominant analogous with a yellow pencil accent, low saturation, warm mid-to-hi-key. Lighting: a soft warm key at approximately 3400K from the upper-left, gentle and broad, producing a soft hand shadow on the page and a bright glow on the paper, modest fill, key-to-fill near 2:1, no hard rim, soft shadow presence, overall warm mid-key. Textures: smooth lined paper with faint tooth, natural skin, painted wood pencil, glossy spiral wire, deep wood grain. Framing: close-up, high-angle looking down at the page, frontal-overhead camera facing, hand-and-page scope, gaze none with no face shown. Composition: the open page filling the frame on a gentle diagonal, the writing hand entering from the upper-right along the rule-of-thirds, the spiral binding leading the eye, soft negative space at the lower corners. No on-screen caption text overlay in this shot beyond the handwritten page. Post and signature look: clean cinematic digital, warm filmic grade, fine grain, shallow depth of field with the pencil tip and writing hand sharp and the edges softly falling off, gentle warm glow on the paper. Style anchor: premium Korean lifestyle-commerce brand film, intimate journaling close-up, warm desk-light mood, thoughtful reflective tone, 4K, shallow depth of field.\n Additional fidelity detail: the lined notebook page shows multiple rows of small, neat handwritten Korean pencil script with natural variation in pressure and a faint graphite sheen, the most recent line trailing off under the pencil tip to convey active writing rather than a static prop; the yellow pencil is a simple unbranded hexagonal wood pencil held in a relaxed tripod grip. The metal spiral wire along the binding catches a few bright pinpoint highlights, and the warm side light gives the white paper a soft cream cast with a gentle hand shadow that grounds the gesture. The surrounding warm walnut desk and the dark notebook cover frame the bright page, focusing all attention on the act of writing. The overall feeling is contemplative and personal — a quiet creative ritual that the brand film associates with its products, suggesting that fragrance and a thoughtful home life go hand in hand and reinforcing the warm, sincere, lifestyle-led tone of the whole piece.",
+        "t2i_negative": "cool blue cast, harsh shadows, watermark, oversaturated, faces, real logo marks, extra fingers, cluttered",
+        "i2v_motion": "The hand writes steadily, the yellow pencil tracing rows of Korean text across the page with small natural motion, the most recent line extending under the tip; soft warm light steady; camera locked-off. ~2.17s, steady rhythm, ends on a clean cut.",
+        "i2v_params": {
+          "clip_duration_sec": 2.17,
+          "camera_move": "locked_off",
+          "subject_motion_level": "micro",
+          "signature_effect": "none",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; hand generic; handwritten content not transcribed; no on-screen copy; no logo mark"
+      }
+    },
+    {
+      "index": 16,
+      "duration": 2.67,
+      "framing": "WS",
+      "function": "brand_message",
+      "subject_action": "wide brand still-life of the full 29edition product family (cairn diffuser, Cedarwood bottle, black sphere, candlestick, flowers, stones, lime) on a cream ground; centered caption '29CM가 만든 라이프 스타일 브랜드'",
+      "layout_grid": "center",
+      "subject_position": "center",
+      "subject_identity": "none_environment",
+      "subject_relationship_to_protagonist": null,
+      "mid_frame_path": "ADV-2026-045_frames/cut16_mid.png",
+      "subject_typo_layout": "typo_over_subject",
+      "typo_motion": "중앙 회색 한글 캡션 '29CM가 만든 라이프 스타일 브랜드' 상단중앙 정적/페이드",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "environment",
+      "gaze": "none",
+      "eye_contact_effect": null,
+      "props": [
+        "white ceramic cairn diffuser",
+        "29edition Cedarwood bottle",
+        "black sphere object",
+        "candlestick with orange candle",
+        "white hellebore flowers",
+        "grey pebbles",
+        "halved lime",
+        "dried botanicals",
+        "blond-wood riser"
+      ],
+      "prop_semantics": "제품 패밀리 정물 = 큐레이션 라인 전체를 한 컷에 — 플랫폼이 '라이프스타일 브랜드'임을 선언",
+      "color_palette": [
+        "#ece4d4",
+        "#ede7da",
+        "#a98a5c",
+        "#262420"
+      ],
+      "color_intent": "따뜻한 크림 위 소프트 이븐 키, 그린·오렌지 소액센트와 다크 앵커 — 차분한 프리미엄",
+      "pose_description": "인물 없음; 케른 디퓨저가 중앙 하트, 보틀·구체 우측, 캔들·꽃 좌측, 소품이 전경으로 부채꼴",
+      "subject_motion": "static",
+      "prop_motion": "none",
+      "camera_motion": "locked_off",
+      "camera_motion_intensity": "subtle",
+      "camera_effect_local": "none",
+      "motion_blur": false,
+      "intra_cut_rhythm": "static",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [],
+      "vfx_intensity_local": "none",
+      "fact_check_flag": null,
+      "notes": "Cut 16 (f555... f607-670, 25.27-27.95s): wide brand still-life of full 29edition product family on cream ground (cairn diffuser center, Cedarwood bottle right, black sphere, candlestick+orange candle left, white flowers, stones, lime). Caption '29CM가 만든 라이프 스타일 브랜드' upper-center.",
+      "visible_elements": {
+        "foreground": [
+          "grey pebbles, halved lime, dried botanicals, coiled cord across cream ground"
+        ],
+        "midground": [
+          "cairn diffuser center, frosted Cedarwood bottle and black sphere right, candlestick+orange candle left, on blond-wood riser"
+        ],
+        "background": [
+          "flat warm cream-beige field with tall white hellebore stems arcing up behind",
+          "dark-gray caption '29CM가 만든 라이프 스타일 브랜드' upper-center"
+        ],
+        "lighting_env": [
+          "soft broad even key from front-upper (softbox), soft graded shadows"
+        ],
+        "atmosphere": [
+          "premium curated, gentle glow, moderate-to-shallow DOF"
+        ]
+      },
+      "texture": {
+        "primary_subject": "plastic_matte",
+        "secondary_objects": [
+          "glass_frosted",
+          "wood_raw",
+          "foliage",
+          "stone"
+        ],
+        "background_surface": "matte",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "45deg_above",
+        "key_hardness": "diffused",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "strong",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "soft",
+        "overall_contrast": "hi_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#ece4d4",
+          "#ede7da",
+          "#a98a5c",
+          "#262420"
+        ],
+        "palette_role": {
+          "#ece4d4": "cream_ground_dominant",
+          "#ede7da": "ceramic_and_bottle",
+          "#a98a5c": "wood_riser_candlestick",
+          "#262420": "black_sphere_dark_anchor"
+        },
+        "color_relationship": "analogous",
+        "temperature_balance": "warm_dominant",
+        "saturation_strategy": "muted_with_pop",
+        "contrast_type": "luminance_low",
+        "accent_color": "#d08a3a",
+        "accent_ratio": "5_percent"
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A wide, elegant brand still-life hero composition, rendered at 1920x1080 pixels in 16:9 landscape, of the full 29edition product family arranged as an editorial tableau on and around a low wooden riser against a soft warm cream-beige background (#ece4d4). Centered and slightly low in the frame is the white ceramic stone-cairn diffuser with its wood-ball cap; to its right stands the tall frosted-cream Into the Cedarwood fragrance mist bottle with a dark green-black cap; nearby sits a smooth dark charcoal-black spherical object or vessel. To the left a slim pale candlestick holder bears a soft orange taper candle, and a tall stem of white hellebore or anemone flowers with green leaves arcs up behind the group. Scattered across the cream ground are smooth grey river pebbles, a halved bright-green lime, pale dried botanicals, and a coil of natural cord, with a low blond-wood tray or plinth grounding the central objects. The arrangement is balanced, abundant yet refined — a curated family portrait of the brand's home-fragrance line. A centered dark-gray Hangul caption reads 29CM가 만든 라이프 스타일 브랜드 (a lifestyle brand created by 29CM), set in a clean thin sans-serif, sitting in the upper-middle negative space. The mood is premium, natural, and curated. Color palette: warm cream-beige ground (#ece4d4 roughly 40%), matte white ceramic and frosted bottle (#ede7da roughly 18%), warm wood riser and candlestick (#a98a5c roughly 12%), charcoal-black sphere and bottle cap (#262420 roughly 10%), white flowers and green leaves (#dfe3cf roughly 10%), warm orange candle and lime accents (#d08a3a roughly 6%), grey pebbles (~4%). Color relationship: warm-dominant analogous with small green and orange accents and a dark anchor, low saturation, calm premium palette. Lighting: a soft broad key from the front-upper at a warm-neutral roughly 4500K, gentle and even like a softbox, producing soft graded shadows beneath the objects, strong fill, key-to-fill near 2:1, no hard rim, soft shadow presence, overall hi-key warm. Textures: matte glazed ceramic, frosted bottle, smooth lacquered black sphere, raw wood, soft flower petals, smooth river stone, papery dried botanicals, natural cord. Framing: wide still-life, eye-level slightly above, frontal camera facing, full-arrangement environment scope, gaze none. Composition: a centered symmetrical-leaning tableau with the cairn diffuser as the heart, the bottle and sphere right, candle and flowers left, props fanning across the foreground, and the caption floating in the upper-center negative space. The caption 29CM가 만든 라이프 스타일 브랜드 is preserved verbatim. Post and signature look: clean cinematic digital, soft warm naturalistic grade, fine grain, moderate-to-shallow depth of field with the central products sharp and the rear flowers softly bokeh, gentle premium glow. Style anchor: premium Korean lifestyle-commerce brand film, full-line product family still-life, curated natural styling, premium editorial mood, 4K, soft even product light, thin sans-serif caption preserved verbatim.\n Additional fidelity detail: the tableau is styled like a high-end catalogue cover — the white stone-cairn diffuser reads as the signature hero at center, flanked by the frosted Cedarwood mist bottle and a sculptural matte-black sphere that adds a dark sophisticated counterpoint, while the slim candlestick with its soft orange taper and the arcing white blooms add height, asymmetry, and a touch of warmth and life. The scattered grey pebbles, halved lime, dried botanicals, and coiled cord across the foreground echo all the natural motifs introduced earlier in the film — stone, citrus, wood, dried flora — gathering the whole scent story into one frame. The soft even key light and warm cream ground give everything a premium, gallery-clean glow with gentle shadows, and the thin centered caption 29CM가 만든 라이프 스타일 브랜드 sits calmly in the upper negative space, attributing the curated line to its parent platform without crowding the imagery. The composition feels abundant yet disciplined, the visual thesis statement of the brand film.",
+        "t2i_negative": "cool blue cast, harsh shadows, watermark, oversaturated, faces, cluttered, real logo marks, plastic shiny",
+        "i2v_motion": "The full product still-life holds perfectly static; the centered caption '29CM가 만든 라이프 스타일 브랜드' softly fades/holds in the upper-center; soft even light steady; camera locked-off (breathing-level). ~2.67s, static rhythm, ends on a clean cut to the black closer.",
+        "i2v_params": {
+          "clip_duration_sec": 2.67,
+          "camera_move": "locked_off",
+          "subject_motion_level": "still",
+          "signature_effect": "none",
+          "pacing": "static",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; generic products; caption '29CM가 만든 라이프 스타일 브랜드' preserved verbatim; no logo mark"
+      }
+    },
+    {
+      "index": 17,
+      "duration": 2.17,
+      "framing": "MS",
+      "function": "brand_cta",
+      "subject_action": "black-screen brand closer: elegant serif '29edition'' wordmark with tagline '아름다운 실용' kinetically morphs into the light geometric sans '29CM' parent wordmark, centered on pure black",
+      "layout_grid": "center",
+      "subject_position": "center",
+      "subject_identity": "none_environment",
+      "subject_relationship_to_protagonist": null,
+      "mid_frame_path": "ADV-2026-045_frames/cut17_mid.png",
+      "subject_typo_layout": "typo_only_no_person",
+      "typo_motion": "f671: 검은 배경에 'ア름다운 실용'(회색 작게)+'29edition'(세리프 대형) 등장 → f676~f690 중앙 글자 dissolve/recompose 모핑 → f695~f722 '29CM'(라이트 지오메트릭 산세리프) 정착, 태그라인 페이드아웃",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "environment",
+      "gaze": "none",
+      "eye_contact_effect": null,
+      "props": [],
+      "prop_semantics": null,
+      "color_palette": [
+        "#000000",
+        "#ffffff",
+        "#7a7a7a"
+      ],
+      "color_intent": "퓨어 블랙 위 화이트 워드마크 — 극한 절제로 브랜드 확신; 모회사 리빌",
+      "pose_description": "인물 없음; 워드마크만 중앙. 'Aルム다운 실용'→'29edition'→'29CM' 키네틱 타이포 전환",
+      "subject_motion": "static",
+      "prop_motion": "none",
+      "camera_motion": "locked_off",
+      "camera_motion_intensity": "none",
+      "camera_effect_local": "none",
+      "motion_blur": true,
+      "intra_cut_rhythm": "steady",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [
+        "morph",
+        "ui_motion"
+      ],
+      "vfx_intensity_local": "moderate",
+      "fact_check_flag": null,
+      "notes": "Cut 17 (f671-722, 27.95-30.11s): black-screen brand closer. f671 cut from beige still-life to black holding '아름다운 실용' + '29edition'' serif lockup; f676-690 kinetic letterform morph; f695-722 settled '29CM' light geometric sans wordmark, centered on pure black. Tagline '아름다운 실용' fades. Final parent-brand reveal.",
+      "visible_elements": {
+        "foreground": [
+          "white wordmark centered: serif '29edition'' morphing into geometric sans '29CM'"
+        ],
+        "midground": [
+          "faint gray tagline '아름다운 실용' above the wordmark (fades)"
+        ],
+        "background": [
+          "pure flat black field #000000"
+        ],
+        "lighting_env": [
+          "flat digital graphic — no directional light"
+        ],
+        "atmosphere": [
+          "ultra-minimal flat black, zero grain, vast negative space"
+        ]
+      },
+      "texture": {
+        "primary_subject": "flat_2d_vector",
+        "secondary_objects": [],
+        "background_surface": "flat_digital",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "front",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "none",
+        "key_to_fill_ratio": "silhouette",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "none",
+        "overall_contrast": "high_contrast"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#000000",
+          "#ffffff",
+          "#7a7a7a"
+        ],
+        "palette_role": {
+          "#000000": "background_black_dominant",
+          "#ffffff": "wordmark_white",
+          "#7a7a7a": "tagline_gray_subordinate"
+        },
+        "color_relationship": "monochrome",
+        "temperature_balance": "balanced",
+        "saturation_strategy": "monochrome",
+        "contrast_type": "luminance_high",
+        "accent_color": "#ffffff",
+        "accent_ratio": "5_percent"
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A minimalist typographic brand-closer frame, rendered at full 1920x1080 pixels in 16:9 landscape, consisting of a centered white wordmark on a pure flat black background. The entire frame is filled edge to edge with solid pure black (#000000) — no gradient, no texture, no grain, no vignette, perfectly uniform across every pixel. At the exact horizontal and vertical center of the frame sits a brand wordmark in clean white. In this closing beat the wordmark is the parent-brand mark reading 29CM, set in a refined light-weight geometric sans-serif: the numerals 2 and 9 followed by the capital letters C and M, evenly spaced with generous open letter-spacing, the strokes thin and elegant with subtly rounded terminals, rendered in pure white (#ffffff) with no drop shadow, no outline, no glow, no gradient. The wordmark occupies roughly 16% of the frame width and about 6% of the frame height, a restrained central element surrounded by vast black negative space — roughly 47% of the frame height empty above and below, and roughly 42% of the frame width empty on each side. Just above the wordmark, faintly, a small thin gray Hangul tagline 아름다운 실용 may linger in the dimmest gray before fading. Earlier in this same shot the wordmark read 29edition' in an elegant high-contrast serif with a trailing apostrophe, and it kinetically morphs — the central letters dissolving and recomposing — from 29edition' into the final 29CM mark, a smooth letterform transformation that visually states the parent-brand reveal. The mood is confident, premium, and reductive, using extreme restraint as a signal of brand assurance. Color palette: pure black background (#000000 roughly 95%), white wordmark (#ffffff roughly 4%), faint gray lingering tagline (#7a7a7a roughly 1%). Color relationship: pure monochrome black-and-white, zero saturation, maximum luminance contrast. Lighting: not a lit scene but a flat digital graphic — even notional illumination, no directional light, no shadow, no highlight, hi-key-on-black graphic contrast. Textures: none whatsoever — zero grain, zero halation, zero scanline, zero artifact, pure flat vector-clean render. Framing: flat graphic plane, dead-center composition, full-screen typographic scope, gaze none. Composition: a single centered wordmark on a vast black field, perfectly symmetric, the negative space amplifying the mark's quiet authority and bookending the film. The on-screen text 29CM (and the preceding 29edition' and tagline 아름다운 실용) is preserved verbatim. Post and signature look: ultra-clean digital, flat black, no grade, no grain, a precise motion-graphic brand lockup. Style anchor: ultra-minimal Korean commercial brand closer, flat black title card, light geometric sans-serif wordmark, kinetic serif-to-sans letterform morph from product mark to parent mark, maximum negative space, zero decoration, 4K clean digital, typography preserved verbatim.\n Additional fidelity detail: the final settled 29CM wordmark is set in a thin, modern, slightly extended geometric sans-serif where the 2 has a flat-footed tail, the 9 a clean circular bowl, and the C and M are open and airy, all sharing a uniform thin stroke weight and a wide tracking that makes the four characters breathe across the center of the black field; the white is crisp pure white with razor-clean anti-aliased edges and absolutely no embellishment. During the morph beat earlier in the shot, the elegant high-contrast serif 29edition' — with its bracketed serifs, stressed strokes, and a small raised apostrophe — visibly transforms as the interior letters smear, dissolve, and recompose into the geometric 29CM, a deliberate typographic device that performs the brand relationship in motion: the product sub-brand resolving into its parent platform. The vast surrounding black is absolute and clean, free of any noise or gradient, so the eye rests entirely on the luminous mark. This closer mirrors the film's restrained editorial sensibility and provides a calm, premium, unmistakable sign-off, leaving the audience with the parent brand name as the final clean impression after a warm, sensorial product journey.",
+        "t2i_negative": "gradient, texture, grain, noise, colored text, multiple colors, decorative elements, photographic elements, serif on the final 29CM mark, watermark, drop shadow",
+        "i2v_motion": "Open on the elegant serif wordmark '29edition'' with the faint gray tagline '아름다운 실용' above on pure black; the interior letters then smear, dissolve, and recompose in a smooth kinetic letterform morph into the light geometric sans-serif '29CM', which settles dead-center; the tagline gently fades; camera locked-off; pure black holds. ~2.17s, steady rhythm, ends on a clean hold.",
+        "i2v_params": {
+          "clip_duration_sec": 2.17,
+          "camera_move": "locked_off",
+          "subject_motion_level": "still",
+          "signature_effect": "none",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; wordmarks generic type treatment (no logo symbol); on-screen text '29edition'', '아름다운 실용', '29CM' preserved verbatim"
+      }
+    }
+  ],
+  "search_keywords": {
+    "industry": [
+      "retail"
+    ],
+    "product_category": [
+      "cosmetics",
+      "apparel"
+    ],
+    "target_demo": [
+      "late20s_early30s",
+      "mz",
+      "premium_buyers",
+      "women"
+    ],
+    "media_format": [
+      "digital_30s",
+      "product_hero_film"
+    ],
+    "tone": [
+      "refined",
+      "calm_refined",
+      "premium",
+      "warm_emotional"
+    ],
+    "pacing": [
+      "steady",
+      "slow_build"
+    ],
+    "technique": [
+      "editorial_layout",
+      "object_closeup",
+      "kinetic_typo",
+      "splitscreen",
+      "product_solo_hero",
+      "morph"
+    ],
+    "vfx_keywords": [
+      "split_screen",
+      "morph",
+      "clean_digital"
+    ],
+    "copy_strategy_keywords": [
+      "brand_positioning_statement",
+      "product_naming_story",
+      "caption_led",
+      "visual_copy_proof"
+    ],
+    "concept_derivation_pattern": [
+      "detail_to_whole_reveal"
+    ]
+  },
+  "inferred_creative_thinking": {
+    "insight": "큐레이션 커머스의 다음 단계는 '무엇을 큐레이션하느냐'를 넘어 '우리가 직접 만든다' — 셀렉트숍이 자체 라이프스타일 브랜드를 내놓을 때, 신뢰는 제품 스펙이 아니라 미감·디테일·감각의 일관성에서 나온다",
+    "persona": "취향과 디자인에 민감한 20대 후반~30대; 집의 무드·향·웰니스에 기꺼이 투자하고, 제품의 출신(누가 만들었나)과 스토리(이름의 유래·향 노트)를 중시하는 라이프스타일 소비자",
+    "moment": "느린 주말 아침이나 저녁, 디퓨저를 켜고 룸 미스트를 뿌리며 집을 자기 취향대로 정돈하고 일기를 쓰는 사적 의례의 순간",
+    "product_role": "29CM의 자체 라이프스타일 브랜드 29edition의 홈 프래그런스 — 제주 방언에서 이름을 딴 '머들' 스톤 디퓨저와 'Into the Cedarwood' 우디 룸/패브릭 미스트가 일상의 무드를 빚는 감각 오브제로 기능",
+    "punchline": "29CM가 만든 라이프 스타일 브랜드 — 아름다운 실용",
+    "differentiator": "단순 셀렉트숍이 아니라 직접 만든 PB로 미감·실용을 증명; 향 노트·네이밍·정물·타이포까지 일관된 에디토리얼 아트디렉션으로 '취향의 큐레이터'에서 '취향의 창작자'로 포지셔닝 이동",
+    "brand_fit_one_liner": "취향 큐레이션 플랫폼이기에 가능한, 미감과 실용을 겸비한 자체 라이프스타일 브랜드",
+    "confidence": "inferred"
+  },
+  "inferred_brief": "취향 큐레이션 커머스 29CM가 직접 만든 자체 라이프스타일 브랜드 29edition(홈 프래그런스 라인)을, '아름다운 실용'이라는 슬로건 아래 매거진형 에디토리얼 비주얼·골든아워 정물·홈 웰니스 무드로 감각적으로 소개하고, 마무리에 29edition→29CM 타이포 모핑으로 '29CM가 만든 라이프스타일 브랜드'임을 각인한다.",
+  "cross_pollination_tags": {
+    "adjacent": [
+      "beauty",
+      "fashion",
+      "home_appliance"
+    ],
+    "distant": [
+      "fnb",
+      "travel_tourism",
+      "content_ott"
+    ],
+    "contrast": [
+      "finance",
+      "telecom",
+      "automotive"
+    ]
+  },
+  "concept_derivation_pattern": "detail_to_whole_reveal",
+  "confidence": "inferred",
+  "analyst_notes": "1. 영상은 29CM의 자체 라이프스타일 브랜드 '29edition' 브랜드 필름(링크_4선 #4, youtube Ehjyrgj3Lqc 추정). 제품: '머들'(제주 방언 '돌 무더기') 스톤-케른 세라믹 디퓨저 + 'Into the Cedarwood' 룸/패브릭 미스트(베르가못·시더우드 노트) + 캔들. 2. faster_whisper base 전사 0 segments — 나레이션 없음, 음악/앰비언스 주도. 모든 카피는 화면 자막. 3. 컷 분할: scenedetect detect-adaptive 17씬 × metrics 16 cut_candidates 정확 교차일치, 전 경계 diff 스파이크(48~148)로 하드컷 확정 → shot_count=shot_count_corrected=17, 보정 불필요. 4. cut17(f671-722)은 단일 컷 내부의 키네틱 타이포 모핑('29edition''→'29CM')으로, scenedetect가 f670/671에 베이지 정물→블랙 전환 경계를 잡았고 그 이후는 연속 타이포 애니메이션이라 하나의 컷으로 유지. 5. 레이아웃 시그니처: 풀블리드 따뜻한 컷과 크림 페이지 멀티패널 사진 콜라주(cut2/5/7) + 1회 수평 split(cut10) 교차 — 매거진형 에디토리얼 아트디렉션. 6. wiggle 수치(1.719/0.234)는 콜라주 내부 사진 모션+부드러운 핸드헬드 합산이며 렌티큘러 wiggle_3d 부재(인접 프레임 확인). 7. 제품 라벨·캡션 모두 native-res 크롭 확대로 verbatim 확인(아름다운 실용 / 29edition? / 머들:돌 무더기의 제주 방언 / 베르가못의 안녕 / Into the Cedarwood / 29CM가 만든 라이프 스타일 브랜드).",
+  "verification": {
+    "frames_reviewed": "approx 48/722 native-res frames read (all 17 scenedetect cut midpoints + every cut boundary triplet + endcard typo-morph sequence f668-722 + crop-zoom confirmation of all on-screen Korean/English copy and product labels: box copy, 머들 caption, bottle label 'Into the Cedarwood/29edition', scent-card 'Bergamot', '29CM가 만든...' caption) + 100% per-frame metrics coverage (722 frames) + scenedetect 17 scenes + faster_whisper transcription (0 segments)",
+    "audio_analyzed": true,
+    "hitrate_na": true,
+    "abstraction_checked": true
+  }
+}

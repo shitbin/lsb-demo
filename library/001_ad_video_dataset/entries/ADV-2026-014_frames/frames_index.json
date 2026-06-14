@@ -1,0 +1,47 @@
+{
+  "id": "ADV-2026-014",
+  "cuts": [
+    {
+      "cut": 1,
+      "start": 0.0,
+      "end": 10.85,
+      "mid_time": 5.425,
+      "file": "cut01_mid.png"
+    },
+    {
+      "cut": 2,
+      "start": 10.85,
+      "end": 12.317,
+      "mid_time": 11.584,
+      "file": "cut02_mid.png"
+    },
+    {
+      "cut": 3,
+      "start": 12.317,
+      "end": 16.75,
+      "mid_time": 14.534,
+      "file": "cut03_mid.png"
+    },
+    {
+      "cut": 4,
+      "start": 16.75,
+      "end": 27.617,
+      "mid_time": 22.184,
+      "file": "cut04_mid.png"
+    },
+    {
+      "cut": 5,
+      "start": 27.617,
+      "end": 28.85,
+      "mid_time": 28.233,
+      "file": "cut05_mid.png"
+    },
+    {
+      "cut": 6,
+      "start": 28.85,
+      "end": 33.507,
+      "mid_time": 31.178,
+      "file": "cut06_mid.png"
+    }
+  ]
+}

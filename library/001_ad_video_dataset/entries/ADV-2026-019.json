@@ -1,0 +1,1706 @@
+{
+  "id": "ADV-2026-019",
+  "source_ref": {
+    "platform": "social/online video",
+    "title_or_campaign": "토스 숨은 서비스 3 — 정부지원금 찾기",
+    "brand": "Toss",
+    "product": "Toss 정부지원금 찾기",
+    "model": null,
+    "year": 2026,
+    "production_note": "Curator T series end card",
+    "url": null
+  },
+  "category_primary": "finance.fintech",
+  "category_tags": [
+    "fintech",
+    "government_subsidy",
+    "app_walkthrough",
+    "feature_demo",
+    "mobile",
+    "benefits_finder"
+  ],
+  "mood": [
+    "helpful",
+    "reassuring",
+    "clean",
+    "informational",
+    "lightly_upbeat"
+  ],
+  "target_demo": "20-40 Korean adults; mobile-first users who want to find and claim government subsidies/benefits they are eligible for",
+  "total_duration": 40.87,
+  "shot_count": 11,
+  "shot_count_corrected": 11,
+  "fps": 29.97,
+  "aspect_ratio": "9:16",
+  "hook_position": "0:2.80",
+  "cta_position": "33.10:39.17",
+  "narrative_arc": "Opens on a relatable pain point — government subsidies are scattered across many separate official websites. A person scrolls through government portal pages on a laptop in a warm interior while large white centered captions name the problem ('이것저것 / 흩어져있는 / 정부지원금'). A young adult then holds up a phone to camera with a flat editorial 'CONTENT' header bar framing the feature as a hack to never miss government subsidies ('정부지원금 / 놓치지 않고 받는 꿀팁'). The ad becomes a step-by-step in-app walkthrough shot as a flat-lay phone-on-orange screen demo: search '지원금' in the all-tab, open the hidden-subsidy finder, see an eligible-subsidies overview, then answer a short input form (your district/address, family size, number of children, work/household situation), land on a personalized list of the subsidies you can receive at a glance (193 results across categories), open one to read the eligibility criteria, selection standard, support content and application period/method, then set an alert so you are notified when new subsidies appear — closing on the reminder that you can catch new ones without missing them. Series end card reveals the pixel/CRT 'Curator T / 토스를 발견하다' badge.",
+  "narrative_structure": "linear_continuous",
+  "pacing_curve": "steady",
+  "music_tempo_curve": "steady",
+  "wow_cut_index": 7,
+  "creative_device": [
+    "app_feature_walkthrough",
+    "problem_then_solution",
+    "voice_caption_sync",
+    "editorial_caption_bar",
+    "personalized_result_payoff",
+    "series_end_card_signature"
+  ],
+  "production_signature": {
+    "capture_style": "mixed",
+    "camera_signature": [
+      "handheld_micro_on_interior_live_action",
+      "locked_off_flatlay_phone_on_orange",
+      "shallow_dof_warm_interior",
+      "screen_demo_ui_capture"
+    ],
+    "signature_note": "Two visual registers cut together: (1) warm shallow-DOF live-action interior shots — first a high-angle handheld view of a laptop screen scrolling official government portal pages, then a young Korean adult holding up an iPhone to camera in a cozy study — and (2) flat-lay top-down phone-on-vivid-orange screen-demo shots used for the step-by-step UI walkthrough. The walkthrough segments carry hardcoded lower-third caption pills (dark brown semi-transparent rounded pill, bold white Korean text) synced to the voiceover, while the live-action opening uses large centered white captions and a flat editorial 'CONTENT' header bar. The UI-demo span alternates between a wide flat-lay (full phone small on orange) and a tight zoomed flat-lay (phone fills the frame) as different screens are read. The series end card is a distinctive pixel/CRT-distorted logo badge ('Curator T / 토스를 발견하다') with blue chromatic-aberration text on a textured matte off-white paper field. Wiggle metric is low (mean_abs_shift_x 0.1232) and confirmed visually: no stereoscopic parallax; interior shots are gentle handheld, flat-lay and end card are locked off.",
+    "color_grade": "warm_tungsten_amber_for_interior_live_action; saturated_vivid_orange_seamless_for_flatlay_ui_demo; clean_white_app_ui; desaturated_textured_offwhite_for_endcard",
+    "texture_fx": "pixel_crt_chromatic_aberration_on_endcard_logo; otherwise_clean_digital"
+  },
+  "global_layout": {
+    "grid_system": "center-weighted vertical 9:16; phone device centered within frame for flat-lay UI-demo shots; laptop screen fills a diagonal wedge and the single subject sits on a vertical third in live-action shots",
+    "subject_placement_dominant": "centered_phone_device for UI-demo shots; center-right single subject for live-action interior shots; diagonal laptop screen for the opening",
+    "subject_typo_relation": "large centered white captions float over live-action; lower-third pill caption bars sit under the device on flat-lay UI shots; editorial CONTENT header bar floats top over the live-action woman; end card logo badge centered",
+    "negative_space_use": "vivid orange surround acts as generous negative space framing the white phone in UI-demo shots; end card uses wide matte paper negative space around a small centered badge",
+    "layout_note": "The orange flat-lay surround and the consistent lower-third caption pill create a repeatable demo template; the white phone screen carries all functional UI content while the caption pill carries the narration line"
+  },
+  "recurring_motifs": [
+    "lower_third_caption_pill",
+    "phone_on_orange_flatlay",
+    "government_subsidy_list",
+    "blue_primary_action_button",
+    "tapping_finger_ui_interaction",
+    "pixel_crt_endcard_badge"
+  ],
+  "copywriting": {
+    "tagline_text": "Curator T / 토스를 발견하다",
+    "tagline_structure": "series_signature_endcard",
+    "cta_text": "알림 신청을 해두면 새로운 지원금이 올라올 때 놓치지 않고 챙길 수 있어요",
+    "copy_tone": [
+      "helpful",
+      "plain_spoken",
+      "encouraging",
+      "instructional"
+    ],
+    "copy_strategy": "step_by_step_feature_walkthrough_with_personalized_payoff",
+    "lines": [
+      {
+        "position_sec": 0.4,
+        "text": "이곳저곳",
+        "function": "hook_problem_setup",
+        "tone": "relatable",
+        "source": "both"
+      },
+      {
+        "position_sec": 1.5,
+        "text": "흩어져있는",
+        "function": "hook_problem_detail",
+        "tone": "relatable",
+        "source": "both"
+      },
+      {
+        "position_sec": 2.2,
+        "text": "정부지원금",
+        "function": "hook_subject",
+        "tone": "relatable",
+        "source": "both"
+      },
+      {
+        "position_sec": 3.0,
+        "text": "정부지원금 놓치지 않고 받는 꿀팁",
+        "function": "editorial_value_proposition",
+        "tone": "punchy",
+        "source": "caption"
+      },
+      {
+        "position_sec": 5.6,
+        "text": "'지원금'을 검색해보세요",
+        "function": "instruction_step",
+        "tone": "instructional",
+        "source": "both"
+      },
+      {
+        "position_sec": 9.7,
+        "text": "수많은 정부지원금 중에서",
+        "function": "feature_explanation",
+        "tone": "instructional",
+        "source": "both"
+      },
+      {
+        "position_sec": 11.5,
+        "text": "나에게 맞는 지원금을",
+        "function": "feature_explanation",
+        "tone": "instructional",
+        "source": "both"
+      },
+      {
+        "position_sec": 12.8,
+        "text": "찾을 수 있는데요",
+        "function": "feature_explanation",
+        "tone": "instructional",
+        "source": "both"
+      },
+      {
+        "position_sec": 14.0,
+        "text": "살고 있는 주소",
+        "function": "instruction_step",
+        "tone": "instructional",
+        "source": "both"
+      },
+      {
+        "position_sec": 15.7,
+        "text": "가족 형태",
+        "function": "instruction_step",
+        "tone": "instructional",
+        "source": "both"
+      },
+      {
+        "position_sec": 18.5,
+        "text": "근로 상황 등을 입력하면",
+        "function": "instruction_step",
+        "tone": "instructional",
+        "source": "both"
+      },
+      {
+        "position_sec": 21.5,
+        "text": "내가 받을 수 있는",
+        "function": "feature_explanation",
+        "tone": "instructional",
+        "source": "both"
+      },
+      {
+        "position_sec": 22.2,
+        "text": "정부지원금을",
+        "function": "feature_explanation",
+        "tone": "instructional",
+        "source": "both"
+      },
+      {
+        "position_sec": 24.0,
+        "text": "한눈에 확인할 수 있어요",
+        "function": "feature_explanation",
+        "tone": "instructional",
+        "source": "both"
+      },
+      {
+        "position_sec": 26.9,
+        "text": "지원 대상과 기준",
+        "function": "feature_explanation",
+        "tone": "instructional",
+        "source": "both"
+      },
+      {
+        "position_sec": 29.5,
+        "text": "신청 기간과 방법까지",
+        "function": "feature_explanation",
+        "tone": "instructional",
+        "source": "both"
+      },
+      {
+        "position_sec": 31.5,
+        "text": "꼼꼼히 확인할 수 있고",
+        "function": "feature_explanation",
+        "tone": "instructional",
+        "source": "both"
+      },
+      {
+        "position_sec": 33.5,
+        "text": "알림 신청을 해두면",
+        "function": "cta",
+        "tone": "encouraging",
+        "source": "both"
+      },
+      {
+        "position_sec": 35.6,
+        "text": "새로운 지원금이 올라올 때",
+        "function": "cta",
+        "tone": "encouraging",
+        "source": "both"
+      },
+      {
+        "position_sec": 37.5,
+        "text": "놓치지 않고 챙길 수 있어요",
+        "function": "cta",
+        "tone": "encouraging",
+        "source": "both"
+      },
+      {
+        "position_sec": 39.5,
+        "text": "Curator T",
+        "function": "series_brand_signature",
+        "tone": "branded",
+        "source": "caption"
+      },
+      {
+        "position_sec": 39.5,
+        "text": "토스를 발견하다",
+        "function": "series_tagline",
+        "tone": "branded",
+        "source": "caption"
+      }
+    ],
+    "on_screen_ui_text_observed": [
+      "국세청 / National Tax Service / 알림·소식 / 2023년 (laptop, NTS portal)",
+      "고용노동부 / 이누리집은 대한민국 공식 전자... / 민원 (laptop, government portal)",
+      "정부지원금 놓치지 않고 받는 꿀팁 / CONTENT / SERVICE 숨은정부지원금찾기 / YEAR 2024 / CATEGORY 부동산·공공서비스·송금 / PRODUCTION TEAM #team_금금프로덕트",
+      "지원금 / 취소 / 추천 키워드 / 정부 지원금 조회 / 토스 지원금 주고받기 / 서비스 / 사장님 정부지원금 찾기 / 숨은 정부지원금 찾기 / 증명서 발급하기 / 검색",
+      "김창선님이 받을 수 있는 정부지원금을 확인해보세요 / 최대 1년간 급여 지원 / 근로장려금 최대 150만원 / 청년희망키움통장 최대 538,000원 / 가정양육수당 월 10~20만원 / 청년내일채움공제 최대 900만원 / 내 지원금 확인하기",
+      "군·구 선택 / 강동구 / 강북구 / 강서구 / 관악구 / 광진구 / 구로구 / 금천구 / 노원구 / 도봉구",
+      "몇 명이 함께 사나요? / 방금 입력한 주소에 사는 가족 수를 알려주세요 / 1인 가구 / 2인 가구 ... 6인 가구",
+      "김창선님은 아이가 있나요? / 미성년자 기준으로 몇 명인지 알려주세요 / 없어요 / 1명 / 2명 / 3명 / 4명 이상",
+      "김창선님에게 해당되는 게 있다면 모두 선택해주세요 / 해당되는 게 없어요 / 임신·출산 / 장애인 / 다문화 가정 / 한부모 가정 / 조부모와 손자녀 가정 / 보훈 대상자 / 환자 / 결과 보기",
+      "받을 수 있는 지원금 0개 / 조건에 맞는 지원금이 없어요 / 다른 조건으로 다시 확인해보세요 / 다시 시도하기 / 모든 정부 지원금 보기",
+      "새로운 지원금이 올라오면 알려드릴까요? / 알림 받기 / 받을 수 있는 지원금 193개 / 주거 일자리 출산 교육 의료 농 / 신서천발전본부 주택용 전기요금 지원 / 채무조정 및 주택 매각 후 임차거주 지원 / 정부 지원금 모두 보기 / 이동",
+      "일자리 / 청년 일자리 매칭 및 인건비 지원 / 지역산업 맞춤형 일자리창출 서비스 / 해외취업정착지원금 / 심리안정지원 프로그램 / 출산 / 근로·자녀장려금 / 배우자 출산휴가 급여 / 육아기 근로시간 단축 급여 / 교육 / 지역보건교육 지원",
+      "배우자 출산휴가 급여 / 세부 정보에 따라 지원 대상이 아닐 수 있으니, 정확한 내용은 담당 기관에 확인해주세요 / 지원 대상 / 남녀고용평등법상 배우자 출산휴가를 부여받은 우선지원대상기업 소속 근로자 / 휴가가 끝난 날 이전에 피보험단위기간이 180일 이상 / 피보험자가 소속된 사업장이 우선지원대상기업인 경우 / 선정 기준 / 지원대상과 동일 / 지원 내용 / 이 지원금에 관심있어요",
+      "관심 지원금 / 전체보기 / 배우자 출산휴가 급여 / 현금 / 받을 수 있는 새로운 지원금이 올라오면 알려드릴까요? / [선택] 알림 신청서 / 등록하고 알림 받기 / 닫기 / 다시 하기"
+    ],
+    "narration_handling": "voiceover_synced_to_lower_third_caption_bars_and_centered_supers"
+  },
+  "typography": {
+    "primary_font_class": "Korean_sans_serif_bold_rounded",
+    "endcard_font_class": "pixel_bitmap_crt_distorted_latin_plus_korean",
+    "animation_style": [
+      "cut_in_caption_swap",
+      "static_hold",
+      "sticker_settle_in_endcard"
+    ],
+    "subtitle_position_dominant": "lower_third_caption_pill",
+    "color_strategy": "white_text_on_dark_brown_rounded_pill_for_demo_captions; large_white_centered_supers_over_live_action; navy_blue_pixel_text_on_offwhite_badge_for_endcard",
+    "typo_motion_dominant": "caption_swap_synced_to_vo"
+  },
+  "vfx": {
+    "primary_effects": [
+      "ui_screen_demo_capture",
+      "pixel_crt_chromatic_aberration_endcard",
+      "editorial_header_bar_overlay"
+    ],
+    "effect_intensity": "low",
+    "transition_style_dominant": "hard_cut",
+    "vfx_event_count": 1
+  },
+  "audio": {
+    "has_audio": true,
+    "language": "ko",
+    "speech_coverage": 0.939,
+    "bgm_likely": true,
+    "narration_lines": [
+      {
+        "start": 0.0,
+        "end": 5.44,
+        "text": "이것저것 흩어져 있는 정부지원금, 토스에서 한 번에 확인하세요",
+        "source": "faster_whisper_tiny_caption_reconciled"
+      },
+      {
+        "start": 5.44,
+        "end": 8.86,
+        "text": "토스 전체 탭에서 지원금을 검색해보세요",
+        "source": "faster_whisper_tiny_caption_reconciled"
+      },
+      {
+        "start": 8.86,
+        "end": 13.52,
+        "text": "수많은 정부지원금 중에서 나에게 맞는 지원금을 찾을 수 있는데요",
+        "source": "faster_whisper_tiny_caption_reconciled"
+      },
+      {
+        "start": 13.52,
+        "end": 20.94,
+        "text": "살고 있는 주소, 가족 형태, 근로상황 등을 입력하면",
+        "source": "faster_whisper_tiny_caption_reconciled"
+      },
+      {
+        "start": 20.94,
+        "end": 26.81,
+        "text": "내가 받을 수 있는 정부지원금을 한 눈에 확인할 수 있어요",
+        "source": "faster_whisper_tiny_caption_reconciled"
+      },
+      {
+        "start": 26.81,
+        "end": 33.25,
+        "text": "지원 대상과 기준, 신청기간과 방법까지 꼼꼼히 확인할 수 있고",
+        "source": "faster_whisper_tiny_caption_reconciled"
+      },
+      {
+        "start": 33.25,
+        "end": 38.37,
+        "text": "알림 신청을 해두면 새로운 지원금이 올라올 때 놓치지 않고 챙길 수 있어요",
+        "source": "faster_whisper_tiny_caption_reconciled"
+      }
+    ],
+    "voice_vs_caption": "voiceover_largely_matches_onscreen_captions; captions are authoritative",
+    "transcribed_by": "faster_whisper",
+    "model": "tiny",
+    "audio_note": "faster_whisper tiny model output reconciled against authoritative on-screen Korean captions/UI. tiny mis-heard '정부지원금' as '정소지원금' and '흩어져' as '특퓨저' in line 1 ('이것저것 특퓨저 있는 정소지원금 토스에서 한 번의 하긴 하세요' corrected from the centered supers '이곳저곳/흩어져있는/정부지원금' and the VO); '근로상황' as '글로상왕' in line 4; and the final clause mis-heard ('노치지 않고 생길 수 있어요') corrected to the authoritative on-screen caption pill '놓치지 않고 챙길 수 있어요'. speech_coverage 0.939 per audio.json; bgm_likely was null in audio.json and set true on judgement (light instrumental bed under VO)."
+  },
+  "frames_dir": "ADV-2026-019_frames",
+  "contact_sheet_path": "ADV-2026-019_frames/contact_sheet.png",
+  "shots": [
+    {
+      "index": 1,
+      "duration": 1.17,
+      "framing": "CU",
+      "function": "hook",
+      "subject_action": "a high over-the-shoulder handheld view of an open laptop in a warm interior; the screen shows an official Korean government tax-service portal page (a national emblem, the agency name in Korean, a blue '알림·소식' navigation bar and a purple promotional banner about a 2023 filing) while a large white centered caption reads first '이곳저곳' then '흩어져있는'",
+      "layout_grid": "diagonal_fill",
+      "subject_position": "center_dominant",
+      "typo_motion": "centered_super_swap",
+      "camera_angle": "high_angle_over_shoulder",
+      "camera_facing": "toward_laptop_screen",
+      "shot_scope": "product_detail",
+      "gaze": "off_camera",
+      "props": [
+        "laptop",
+        "hand"
+      ],
+      "color_palette": [
+        "#C9882E",
+        "#2E4FA8",
+        "#7E6FB0",
+        "#F2EEE6",
+        "#6E5230"
+      ],
+      "color_intent": "warm_amber_interior_bokeh; cool_blue_and_purple_government_ui; large_white_caption",
+      "pose_description": "a blurred hand and forearm rest in the lower-left foreground while the laptop screen, tilted on a strong diagonal, fills the upper-right of the frame; the browser chrome and a government portal page are legible across the bright panel",
+      "subject_motion": "micro_hand_and_screen_drift",
+      "camera_motion": "handheld_micro",
+      "camera_effect_local": "shallow_dof_background_bokeh",
+      "intra_cut_rhythm": "static_screen_read_with_caption_swap",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "mid_frame_path": "ADV-2026-019_frames/cut01_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "blurred_hand_and_forearm",
+          "white_centered_caption_text"
+        ],
+        "midground": [
+          "laptop_screen_government_portal",
+          "browser_chrome_tabs"
+        ],
+        "background": [
+          "blurred_warm_interior",
+          "amber_practical_light_bokeh"
+        ],
+        "lighting_env": [
+          "warm_tungsten_ambient",
+          "screen_self_illumination"
+        ],
+        "atmosphere": [
+          "intimate",
+          "everyday_research",
+          "domestic_evening"
+        ]
+      },
+      "texture": {
+        "primary_subject": "glossy_glass_laptop_screen",
+        "secondary_objects": [
+          "human_skin_hand",
+          "matte_laptop_chassis"
+        ],
+        "background_surface": "blurred_undefined_interior",
+        "atmospheric": [
+          "soft_focus_bokeh"
+        ]
+      },
+      "lighting": {
+        "key_direction": "warm_ambient_upper_left",
+        "key_hardness": "soft",
+        "key_color_temp": "warm_tungsten_3000K",
+        "fill_strength": "medium",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": false,
+        "practical_lights": [
+          "warm_room_lamp_bokeh"
+        ],
+        "shadow_presence": "soft",
+        "overall_contrast": "medium_low"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#C9882E",
+          "#2E4FA8",
+          "#7E6FB0",
+          "#F2EEE6",
+          "#6E5230"
+        ],
+        "palette_role": {
+          "#C9882E": "warm_amber_background_bokeh",
+          "#2E4FA8": "government_navbar_blue",
+          "#7E6FB0": "promotional_banner_purple",
+          "#F2EEE6": "white_caption_and_screen_highlight",
+          "#6E5230": "skin_and_shadow_warm_brown"
+        },
+        "color_relationship": "warm_dominant_with_cool_blue_purple_ui_accent",
+        "temperature_balance": "warm",
+        "saturation_strategy": "desaturated_naturalistic_with_screen_accents",
+        "contrast_type": "soft_with_high_contrast_white_caption",
+        "accent_color": "#2E4FA8",
+        "accent_ratio": 0.14
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "Vertical 9:16 close-up photograph, shot from a high over-the-shoulder angle, of an open modern laptop in a warm domestic interior at evening. The bright laptop screen, tilted on a strong diagonal and filling the upper-right two-thirds of the frame, displays a generic Korean government information-portal web page inside a browser window. Across the top sits ordinary browser chrome with two muted tabs and a slim address bar showing a short lowercase Korean government domain; a thin bookmark strip runs beneath. The page itself shows, in soft focus, a circular national-style emblem at the left, a bold Korean agency name in heavy black characters beside it, then a wide solid blue horizontal navigation band carrying large white Korean menu text, and below that the top of a tall purple promotional banner with a very large white year numeral and small white body lines, the kind of busy official-notice layout common to public-service sites. The hand and forearm of an unseen person rest blurred in the lower-left foreground, reading only as soft warm shapes, suggesting someone leaning in to read. Superimposed over the lower-center of the entire frame is a large bold white Korean caption that reads '흩어져있는', set in a clean heavy rounded sans-serif with a faint soft shadow for legibility against the image; a beat earlier the same caption position held the word '이곳저곳'. The entire background beyond the laptop dissolves into creamy warm amber and golden bokeh — indistinct shapes of practical room lamps and furniture in a cozy Korean room, with complete shallow depth-of-field separation. Lighting is soft warm tungsten ambient from the upper left at roughly 3000K, with medium fill, gentle soft shadows and an overall medium-low contrast; the laptop screen adds its own cool self-illumination that contrasts subtly with the warm room. Lens rendering: a fast prime at roughly 35 to 50mm full-frame equivalent at a wide aperture, giving a shallow plane of focus that lands on the screen content while the foreground hand and the room behind blur smoothly, plus a slight handheld intimacy. Composition follows a strong diagonal led by the laptop's tilted lid, the blue navigation band sitting as a horizontal anchor and the white caption holding the lower third. Color palette and strategy: a warm-dominant naturalistic grade — amber background bokeh (#C9882E), cool government navigation blue (#2E4FA8) and a softer promotional purple (#7E6FB0) on the screen, bright white caption and screen highlights (#F2EEE6), and warm brown skin and shadow tones (#6E5230); saturation is restrained and realist except for the assertive white caption and the saturated on-screen UI bands. Surfaces and texture: glossy reflective glass over the active screen, fine natural skin texture on the blurred hand, a soft matte laptop chassis, and an undefined soft-focus interior behind. Atmosphere: intimate and quietly busy, the private everyday moment of someone hunting across official websites for information that is scattered and hard to gather. Post and signature look: clean modern digital capture with a warm commercial color grade, no heavy grain, precise focus on the screen content. Style anchor: contemporary Korean fintech commercial photography in the premium app-walkthrough register, where a real-feeling device screen is framed with cinematic care to set up a relatable everyday pain point before cutting to the product demonstration; the on-screen Korean caption text '이곳저곳' and '흩어져있는' must be preserved exactly. No celebrity likeness, and although a plausible generic government-style page is shown, do not reproduce any real agency logo, emblem or wordmark precisely — render the portal as a generic, plausible public-service interface.",
+        "t2i_negative": "english ui text, sharp fully-focused background, cold daylight, harsh shadows, exact real government emblem reproduction, blurry unreadable caption, western web design",
+        "i2v_motion": "The laptop screen and the blurred foreground hand hold with gentle organic micro-drift as if someone is reading; the white centered caption swaps from '이곳저곳' to '흩어져있는'; shallow depth of field holds on the screen; hard cut at ~1.2s.",
+        "i2v_params": {
+          "clip_duration_sec": 1.2,
+          "camera_move": "handheld_micro",
+          "subject_motion_level": "minimal",
+          "signature_effect": "none",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen Korean caption preserved; government portal rendered generic, no real emblem/logo"
+      }
+    },
+    {
+      "index": 2,
+      "duration": 1.63,
+      "framing": "CU",
+      "function": "context",
+      "subject_action": "the same handheld laptop view scrolls to a second official Korean government portal page (a national emblem beside a Korean ministry name, a navy '민원' tab with a red underline, a partial dark-blue banner) over a black keyboard edge in the lower foreground; a large white centered caption reads '흩어져있는' then '정부지원금'",
+      "layout_grid": "diagonal_fill",
+      "subject_position": "center_dominant",
+      "typo_motion": "centered_super_swap",
+      "camera_angle": "high_angle_over_shoulder",
+      "camera_facing": "toward_laptop_screen",
+      "shot_scope": "product_detail",
+      "gaze": "off_camera",
+      "props": [
+        "laptop",
+        "keyboard"
+      ],
+      "color_palette": [
+        "#C99030",
+        "#23366E",
+        "#C0392F",
+        "#F2EEE6",
+        "#2A2A2E"
+      ],
+      "color_intent": "warm_amber_interior_bokeh; navy_government_ui_with_red_accent; large_white_caption",
+      "pose_description": "the laptop screen fills the upper-right of the frame showing a different ministry portal page, the dark laptop keyboard deck running across the lower-left foreground; no face visible",
+      "subject_motion": "micro_screen_drift",
+      "camera_motion": "handheld_micro",
+      "camera_effect_local": "shallow_dof_background",
+      "intra_cut_rhythm": "static_screen_read_with_caption_swap",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "mid_frame_path": "ADV-2026-019_frames/cut02_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "dark_laptop_keyboard_deck",
+          "white_centered_caption_text"
+        ],
+        "midground": [
+          "laptop_screen_ministry_portal"
+        ],
+        "background": [
+          "blurred_warm_interior",
+          "amber_light_bokeh"
+        ],
+        "lighting_env": [
+          "warm_tungsten_ambient",
+          "screen_self_illumination"
+        ],
+        "atmosphere": [
+          "intimate",
+          "everyday_research",
+          "domestic_evening"
+        ]
+      },
+      "texture": {
+        "primary_subject": "glossy_glass_laptop_screen",
+        "secondary_objects": [
+          "matte_keyboard_keys"
+        ],
+        "background_surface": "blurred_undefined_interior",
+        "atmospheric": [
+          "soft_focus_bokeh"
+        ]
+      },
+      "lighting": {
+        "key_direction": "warm_ambient_upper_left",
+        "key_hardness": "soft",
+        "key_color_temp": "warm_tungsten_3000K",
+        "fill_strength": "medium",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": false,
+        "practical_lights": [
+          "warm_room_lamp_bokeh"
+        ],
+        "shadow_presence": "soft",
+        "overall_contrast": "medium_low"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#C99030",
+          "#23366E",
+          "#C0392F",
+          "#F2EEE6",
+          "#2A2A2E"
+        ],
+        "palette_role": {
+          "#C99030": "warm_amber_background_bokeh",
+          "#23366E": "government_navy_ui",
+          "#C0392F": "menu_underline_red_accent",
+          "#F2EEE6": "white_caption_and_screen_highlight",
+          "#2A2A2E": "dark_keyboard_foreground"
+        },
+        "color_relationship": "warm_ground_with_navy_and_red_ui_accents",
+        "temperature_balance": "warm",
+        "saturation_strategy": "desaturated_naturalistic_with_screen_accents",
+        "contrast_type": "soft_with_high_contrast_white_caption",
+        "accent_color": "#C0392F",
+        "accent_ratio": 0.08
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "Vertical 9:16 close-up photograph, shot from a high over-the-shoulder angle, of an open modern laptop in a warm domestic interior at evening, the view now scrolled to a second generic Korean government ministry web page. The bright laptop screen, tilted on a diagonal, fills the upper-right portion of the frame; the dark matte keyboard deck of the laptop runs across the lower-left foreground in soft focus, a few key legends faintly visible. On the screen, in gentle focus, sits a circular national-style emblem at the left next to a bold Korean ministry name in heavy black characters; above them a thin dark navigation strip carries small browser bookmarks including faint English labels like a calendar and a video tool. Below the agency lockup a large light content area shows a rounded square app-style icon in deep navy at the left and, to its right, a Korean section label with a short red underline beneath it, in the manner of an official portal's civil-affairs menu, with more faint promotional brush-style Korean text trailing to the right edge. Superimposed over the center-left of the entire frame is a large bold white Korean caption that reads '정부지원금', set in a clean heavy rounded sans-serif with a faint soft shadow for legibility; a beat earlier the same caption position held the word '흩어져있는'. The background beyond the laptop dissolves into creamy warm amber and golden bokeh — indistinct shapes of a cozy room, with complete shallow depth-of-field separation. Lighting is soft warm tungsten ambient from the upper left at roughly 3000K, with medium fill, gentle soft shadows and an overall medium-low contrast; the laptop screen adds its own cool self-illumination. Lens rendering: a fast prime at roughly 35 to 50mm full-frame equivalent at a wide aperture, the plane of focus landing on the screen content while the foreground keyboard and the room behind blur smoothly, plus a slight handheld intimacy. Composition follows a diagonal led by the laptop lid, the navy app icon and red-underlined menu anchoring the mid-screen, and the white caption holding the center-left. Color palette and strategy: a warm-dominant naturalistic grade — amber background bokeh (#C99030), government navy UI (#23366E) with a small red menu-underline accent (#C0392F), bright white caption and screen highlights (#F2EEE6), and a dark keyboard foreground (#2A2A2E); saturation is restrained and realist except for the assertive white caption and the saturated navy UI. Surfaces and texture: glossy reflective glass over the active screen, matte plastic keyboard keys in the foreground, and an undefined soft-focus interior behind. Atmosphere: intimate and quietly busy, the continued everyday moment of hunting across multiple separate official websites for scattered subsidy information. Post and signature look: clean modern digital capture with a warm commercial color grade, no heavy grain, precise focus on the screen content. Style anchor: contemporary Korean fintech commercial photography in the premium app-walkthrough register, framing a real-feeling device screen to dramatize how scattered government-subsidy information is before the product demo; the on-screen Korean caption text '흩어져있는' and '정부지원금' must be preserved exactly. No celebrity likeness, and although a plausible generic government-style page is shown, do not reproduce any real agency logo, emblem or wordmark precisely — render the portal as a generic, plausible public-service interface.",
+        "t2i_negative": "english ui text, sharp fully-focused background, cold daylight, harsh shadows, exact real government emblem reproduction, blurry unreadable caption, western web design",
+        "i2v_motion": "The laptop page holds with a tiny scroll/settle and gentle handheld micro-drift; the white centered caption swaps from '흩어져있는' to '정부지원금'; shallow depth of field holds on the screen; hard cut at ~1.6s.",
+        "i2v_params": {
+          "clip_duration_sec": 1.6,
+          "camera_move": "handheld_micro",
+          "subject_motion_level": "minimal",
+          "signature_effect": "none",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen Korean caption preserved; government portal rendered generic, no real emblem/logo"
+      }
+    },
+    {
+      "index": 3,
+      "duration": 2.34,
+      "framing": "MCU",
+      "function": "value_proposition",
+      "subject_action": "a young Korean adult woman in a beige collared shirt sits in a warm cluttered study and holds up a dark iPhone to camera (the screen shows a subsidies dashboard with a short headline, a small list and a blue 'rounded primary' button) with a calm settling smile; a flat editorial 'CONTENT' header bar floats across the top reading '정부지원금 / 놓치지 않고 받는 꿀팁' with small SERVICE / YEAR / CATEGORY / PRODUCTION TEAM metadata",
+      "layout_grid": "subject_lower_center_with_top_header_bar",
+      "subject_position": "center_right",
+      "typo_motion": "static_editorial_header_bar",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "medium_portrait",
+      "gaze": "to_camera",
+      "props": [
+        "smartphone",
+        "bookshelf",
+        "desk_lamp",
+        "pen_holder",
+        "ceramic_objects"
+      ],
+      "color_palette": [
+        "#9C8A6A",
+        "#7A4B2E",
+        "#E8C49A",
+        "#F2F4F8",
+        "#2E50C0"
+      ],
+      "color_intent": "warm_study_bokeh; neutral_beige_shirt; clean_white_editorial_header_with_blue_outline",
+      "pose_description": "the woman sits centered-right, raising a dark phone toward the lens in her left hand near shoulder height while her right hand rests below, looking to camera with an open, gently smiling, recommending expression",
+      "subject_motion": "raise_phone_and_settle_to_smile",
+      "camera_motion": "handheld_micro",
+      "camera_effect_local": "shallow_dof_background",
+      "intra_cut_rhythm": "talking_beat_resolving_to_smile",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "mid_frame_path": "ADV-2026-019_frames/cut03_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "woman_holding_phone_to_camera",
+          "editorial_content_header_bar"
+        ],
+        "midground": [
+          "desk_with_pen_holder"
+        ],
+        "background": [
+          "wooden_bookshelf",
+          "warm_desk_lamp",
+          "decorative_objects"
+        ],
+        "lighting_env": [
+          "warm_tungsten_ambient",
+          "soft_key_on_face"
+        ],
+        "atmosphere": [
+          "approachable",
+          "explanatory",
+          "cozy_evening"
+        ]
+      },
+      "texture": {
+        "primary_subject": "soft_cotton_shirt_and_skin",
+        "secondary_objects": [
+          "matte_phone",
+          "glossy_white_header_panel"
+        ],
+        "background_surface": "wood_shelf_grain",
+        "atmospheric": [
+          "warm_soft_bokeh"
+        ]
+      },
+      "lighting": {
+        "key_direction": "soft_frontal_warm",
+        "key_hardness": "soft",
+        "key_color_temp": "warm_tungsten_3200K",
+        "fill_strength": "medium",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": false,
+        "practical_lights": [
+          "warm_desk_lamp"
+        ],
+        "shadow_presence": "soft",
+        "overall_contrast": "medium_low"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#9C8A6A",
+          "#7A4B2E",
+          "#E8C49A",
+          "#F2F4F8",
+          "#2E50C0"
+        ],
+        "palette_role": {
+          "#9C8A6A": "subject_beige_shirt",
+          "#7A4B2E": "warm_wood_background",
+          "#E8C49A": "skin_warm_key",
+          "#F2F4F8": "white_editorial_header_panel",
+          "#2E50C0": "header_outline_and_accent_blue"
+        },
+        "color_relationship": "warm_dominant_with_clean_white_blue_overlay",
+        "temperature_balance": "warm_dominant",
+        "saturation_strategy": "desaturated_naturalistic",
+        "contrast_type": "soft_portrait_with_crisp_graphic_overlay",
+        "accent_color": "#2E50C0",
+        "accent_ratio": 0.18
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "Vertical 9:16 medium close-up portrait photograph, eye-level frontal framing, of a young Korean adult woman in her late twenties seated in a warm, cozy and slightly cluttered home study at evening, wearing a relaxed beige-taupe collared cotton button-up shirt with the sleeve rolled. Her shoulder-length warm-brown hair frames a softly lit face. She holds a modern dark smartphone up toward the camera in her left hand near shoulder height, its screen facing the lens, and looks directly to camera with an open, friendly, gently smiling expression as if warmly recommending something she has found; her right hand rests lower out of the main focus. On the phone screen, in soft focus, is a clean light Korean fintech dashboard for a government-subsidy feature: a short multi-line grey headline near the top, a small vertical list of two or three rows each with a tiny round avatar icon, and a wide rounded primary action button in vivid blue with white Korean text anchored near the bottom. Behind her, softly out of focus, a wooden bookshelf packed with books and small decorative objects, a glowing warm desk lamp at the left, and a colourful pen holder at the lower-left dissolve into amber bokeh. Floating across the very top of the frame is a flat editorial graphic header bar: a clean white rounded rectangle with a thin blue outline, containing two lines of bold near-black Korean text reading '정부지원금' on the first line and '놓치지 않고 받는 꿀팁' on the second; a tiny label 'CONTENT' sits at the upper-left of the panel, and along the bottom edge of the panel a row of very small grey metadata labels reads in the manner of 'SERVICE', 'YEAR', 'CATEGORY', 'PRODUCTION TEAM' with small hand-written-style Korean values beneath, giving the look of an editorial title card laid over live action. Lighting is soft warm tungsten ambient with a gentle frontal key at roughly 3200K, medium fill, soft shadows, overall medium-low contrast, giving a comfortable domestic glow. Lens rendering: a portrait prime at roughly 50 to 85mm full-frame equivalent at a wide aperture, the plane of focus on her face while the background and the raised phone screen blur softly, with a slight natural handheld presence. Composition seats the subject in the center-right of the frame with generous warm background, while the crisp white editorial header bar anchors the top edge — a deliberate contrast of soft photographic warmth against a flat graphic overlay. Color palette and strategy: warm-dominant naturalistic grade — beige-taupe shirt (#9C8A6A), warm wood background (#7A4B2E), warm skin key (#E8C49A), clean white editorial panel (#F2F4F8), and a crisp accent blue (#2E50C0) in the panel outline, labels and the on-screen button; saturation restrained and realist with the white-and-blue graphic providing crisp high-frequency contrast. Surfaces and texture: soft cotton shirt and natural skin, a matte phone, a glossy flat white graphic panel, and warm wood grain behind, all clean modern digital. Atmosphere: approachable and explanatory, a trusted peer framing the feature as an effortless tip to never miss government subsidies. Post and signature look: warm commercial grade on the photography, perfectly flat crisp rendering on the graphic overlay, precise focus on the subject. Style anchor: contemporary Korean fintech social-video aesthetic that overlays magazine-style editorial title bars onto warm live-action portraiture; the on-screen Korean header text '정부지원금' and '놓치지 않고 받는 꿀팁' must be preserved exactly, along with the small English metadata labels 'CONTENT', 'SERVICE', 'YEAR', 'CATEGORY', 'PRODUCTION TEAM'. No celebrity likeness — render a generic Korean adult woman; no real brand logos anywhere, and render the on-screen app as a generic plausible Korean fintech interface. The production craft should read as premium Korean commercial work: a fast prime lens wide open for creamy separation, careful warm practical lighting that wraps the face softly, and a perfectly registered, anti-aliased flat graphic overlay that sits convincingly in the frame without a hint of jitter or perspective distortion.",
+        "t2i_negative": "english body caption, cold light, sharp background, studio backdrop, harsh contrast, distorted header text, real brand logos, exaggerated expression",
+        "i2v_motion": "The woman finishes raising the phone toward the lens and resolves into a gentle confident smile with tiny natural head motion; the white editorial header bar holds static at the top of frame; subtle handheld micro-drift; hard cut at ~2.3s.",
+        "i2v_params": {
+          "clip_duration_sec": 2.3,
+          "camera_move": "handheld_micro",
+          "subject_motion_level": "low_natural",
+          "signature_effect": "none",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen Korean header preserved; identity generic; app UI generic"
+      }
+    },
+    {
+      "index": 4,
+      "duration": 4.2,
+      "framing": "MS",
+      "function": "product_demo",
+      "subject_action": "top-down flat-lay of an iPhone lying on a vivid orange surface; the app shows an in-app search with '지원금' typed and a suggestion/results list (추천 키워드: 정부 지원금 조회 / 토스 지원금 주고받기; 서비스: 사장님 정부지원금 찾기 / 숨은 정부지원금 찾기 / 증명서 발급하기) above a Korean keyboard with a blue '검색' key; a lower-third dark caption pill reads \"'지원금'을 검색해보세요\"",
+      "layout_grid": "centered_device_on_field",
+      "subject_position": "center_dominant",
+      "typo_motion": "lower_third_caption_pill",
+      "camera_angle": "top_down_flatlay",
+      "camera_facing": "perpendicular_to_screen",
+      "shot_scope": "product_detail",
+      "gaze": "none",
+      "props": [
+        "smartphone",
+        "orange_surface",
+        "sticky_note",
+        "notebook_edge"
+      ],
+      "color_palette": [
+        "#E8731C",
+        "#FFFFFF",
+        "#2E6BF0",
+        "#5B6470",
+        "#3B2410"
+      ],
+      "color_intent": "saturated_orange_field; clean_white_app_search_ui; blue_link_and_search_key_accent; dark_caption_pill",
+      "pose_description": "the phone lies flat and centered on the orange surface, screen up, displaying an in-app search state with results and an on-screen keyboard; no hand present",
+      "subject_motion": "ui_search_results_static",
+      "camera_motion": "locked_off",
+      "camera_effect_local": "flat_even_screen_capture",
+      "intra_cut_rhythm": "search_state_hold",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "mid_frame_path": "ADV-2026-019_frames/cut04_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "phone_screen_search_ui",
+          "on_screen_keyboard",
+          "lower_third_caption_pill"
+        ],
+        "midground": [
+          "phone_chassis_on_surface"
+        ],
+        "background": [
+          "vivid_orange_flat_surface",
+          "edge_of_sticky_note_and_notebook"
+        ],
+        "lighting_env": [
+          "even_soft_overhead",
+          "screen_self_illumination"
+        ],
+        "atmosphere": [
+          "clean_product_demo",
+          "instructional"
+        ]
+      },
+      "texture": {
+        "primary_subject": "glossy_phone_screen_flat",
+        "secondary_objects": [
+          "matte_phone_chassis"
+        ],
+        "background_surface": "smooth_matte_orange_paper",
+        "atmospheric": [
+          "clean_flat_graphic_field"
+        ]
+      },
+      "lighting": {
+        "key_direction": "even_overhead_diffuse",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_5000K",
+        "fill_strength": "high",
+        "key_to_fill_ratio": "1:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "minimal_soft_under_phone",
+        "overall_contrast": "medium"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#E8731C",
+          "#FFFFFF",
+          "#2E6BF0",
+          "#5B6470",
+          "#3B2410"
+        ],
+        "palette_role": {
+          "#E8731C": "orange_background_field",
+          "#FFFFFF": "app_ui_background",
+          "#2E6BF0": "ui_link_and_search_key_blue",
+          "#5B6470": "secondary_ui_text_grey",
+          "#3B2410": "soft_shadow_under_device"
+        },
+        "color_relationship": "complementary_orange_vs_blue",
+        "temperature_balance": "warm_field_cool_ui",
+        "saturation_strategy": "high_saturation_brand_field_functional_ui",
+        "contrast_type": "high_contrast_white_device_on_orange",
+        "accent_color": "#2E6BF0",
+        "accent_ratio": 0.1
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "Vertical 9:16 top-down flat-lay product photograph of a modern large-screen smartphone lying screen-up and centered on a smooth, saturated vivid-orange flat paper surface, the orange filling the entire surround as a bold seamless field of negative space. The phone is shown straight-on, perpendicular to camera, its slim black chassis framing a bright white application screen. The screen displays a generic Korean fintech app's in-app search state: a search field near the top contains the typed Korean query '지원금' with a small circular clear button and a grey '취소' cancel label to its right. Below it a small grey section label '추천 키워드' precedes a row of two rounded suggestion chips reading '정부 지원금 조회' and '토스 지원금 주고받기'. Beneath another small grey label '서비스', a vertical results list shows, top to bottom, three tappable rows each led by a small magnifier/document icon: '사장님 정부지원금 찾기', then '숨은 정부지원금 찾기', then '증명서 발급하기', with the word '지원금' inside the first two rows tinted in blue link colour to echo the query. The lower portion of the screen shows a light Korean two-set on-screen keyboard with a prominent blue '검색' (search) key at the lower right and a '스페이스' space bar. Superimposed across the lower third of the entire frame, sitting just below the phone, is a horizontally-centered dark semi-transparent brown rounded-rectangle caption pill containing bold white Korean text reading \"'지원금'을 검색해보세요\". Lighting is even, soft, neutral overhead diffuse at roughly 5000K with high fill, producing only a minimal soft contact shadow beneath the phone and a clean flat look across the orange field; the screen self-illuminates with clean white. Lens rendering: a flat, low-distortion top-down capture as if from a copy-stand, the screen perfectly legible edge to edge with a slight glossy sheen on the glass. Composition centers the device on the orange field with the caption pill anchoring the lower third, the whole image reading as a clean instructional product demo. Color palette and strategy: a high-saturation complementary scheme — vivid orange background field (#E8731C) set against the cool white app UI, a blue link and search-key accent (#2E6BF0), secondary grey UI text (#5B6470), and a soft warm shadow under the device (#3B2410); the orange-versus-blue complementary tension gives the demo its punchy brand-forward look while the UI itself stays functional. Surfaces and texture: glossy flat phone glass, matte black chassis, a smooth matte orange paper backdrop; a sliver of a pale sticky note and a lined notebook edge peek at the frame corners. Atmosphere: clean, bright, instructional product demonstration. Post and signature look: crisp clean digital, accurate UI colors, saturated but even orange, no grain. Style anchor: contemporary Korean fintech social-video UI-walkthrough aesthetic — a phone-on-colored-paper flat-lay with synced lower-third caption pills; preserve the on-screen Korean UI strings ('지원금', '취소', '추천 키워드', '정부 지원금 조회', '토스 지원금 주고받기', '서비스', '사장님 정부지원금 찾기', '숨은 정부지원금 찾기', '증명서 발급하기', '검색', '스페이스') and the caption \"'지원금'을 검색해보세요\" exactly. Render the app as a generic plausible Korean fintech interface with no real brand logos or wordmarks; no celebrity likeness. The whole frame should feel like a crisp tabletop product demo shot on a copy stand under soft even light: the orange paper perfectly flat and uniform, the white phone screen razor sharp and legible, and the caption pill rendered as a clean anti-aliased graphic — a deliberately simple, brand-forward instructional look typical of Korean fintech how-to social videos.",
+        "t2i_negative": "english ui, perspective tilt, dark background, heavy drop shadow, cluttered desk props, real brand logos, blurry screen",
+        "i2v_motion": "The search results and keyboard sit ready and static (a faint cursor blink in the query field); the lower-third caption pill holds \"'지원금'을 검색해보세요\"; locked-off camera; hard cut at ~4.2s.",
+        "i2v_params": {
+          "clip_duration_sec": 4.2,
+          "camera_move": "locked_off",
+          "subject_motion_level": "minimal_ui",
+          "signature_effect": "none",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen Korean UI and caption preserved; logo generic"
+      }
+    },
+    {
+      "index": 5,
+      "duration": 3.91,
+      "framing": "MS",
+      "function": "product_demo",
+      "subject_action": "top-down flat-lay; the app shows the eligible-subsidies overview screen headed '김창선님이 받을 수 있는 정부지원금을 확인해보세요' with a vertical list of sample subsidies (최대 1년간 급여 지원 / 근로장려금 최대 150만원 / 청년희망키움통장 최대 538,000원 / 가정양육수당 월 10~20만원 / 청년내일채움공제 최대 900만원) and a blue primary button '내 지원금 확인하기'; the framing pushes in from a wide flat-lay to a tight one as the list scrolls; the lower-third caption pill cycles '수많은 정부지원금 중에서' then '나에게 맞는 지원금을' then '찾을 수 있는데요'",
+      "layout_grid": "centered_device_on_field",
+      "subject_position": "center_dominant",
+      "typo_motion": "lower_third_caption_pill_swap",
+      "camera_angle": "top_down_flatlay",
+      "camera_facing": "perpendicular_to_screen",
+      "shot_scope": "product_detail",
+      "gaze": "none",
+      "props": [
+        "smartphone",
+        "orange_surface",
+        "sticky_note",
+        "notebook_edge"
+      ],
+      "color_palette": [
+        "#E8731C",
+        "#FFFFFF",
+        "#46A6E8",
+        "#5B6470",
+        "#1A1A1A"
+      ],
+      "color_intent": "saturated_orange_field; clean_white_overview_ui; light_blue_primary_button; dark_caption_pill",
+      "pose_description": "the phone lies flat and centered, screen up, displaying a scrollable eligible-subsidies overview page; no hand present",
+      "subject_motion": "ui_scroll_through_overview",
+      "camera_motion": "slow_push_in",
+      "camera_effect_local": "flat_even_screen_capture",
+      "intra_cut_rhythm": "scroll_with_caption_swaps_synced_to_vo",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "mid_frame_path": "ADV-2026-019_frames/cut05_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "phone_screen_overview_ui",
+          "blue_primary_button",
+          "lower_third_caption_pill"
+        ],
+        "midground": [
+          "phone_chassis_on_surface"
+        ],
+        "background": [
+          "vivid_orange_flat_surface",
+          "edge_of_sticky_note_and_notebook"
+        ],
+        "lighting_env": [
+          "even_soft_overhead",
+          "screen_self_illumination"
+        ],
+        "atmosphere": [
+          "clean_product_demo",
+          "instructional",
+          "trust_building"
+        ]
+      },
+      "texture": {
+        "primary_subject": "glossy_phone_screen_flat",
+        "secondary_objects": [
+          "matte_phone_chassis"
+        ],
+        "background_surface": "smooth_matte_orange_paper",
+        "atmospheric": [
+          "clean_flat_graphic_field"
+        ]
+      },
+      "lighting": {
+        "key_direction": "even_overhead_diffuse",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_5000K",
+        "fill_strength": "high",
+        "key_to_fill_ratio": "1:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "minimal_soft_under_phone",
+        "overall_contrast": "medium"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#E8731C",
+          "#FFFFFF",
+          "#46A6E8",
+          "#5B6470",
+          "#1A1A1A"
+        ],
+        "palette_role": {
+          "#E8731C": "orange_background_field",
+          "#FFFFFF": "app_ui_background",
+          "#46A6E8": "primary_button_light_blue",
+          "#5B6470": "secondary_ui_text_grey",
+          "#1A1A1A": "headline_text_and_caption_pill"
+        },
+        "color_relationship": "complementary_orange_vs_blue",
+        "temperature_balance": "warm_field_cool_ui",
+        "saturation_strategy": "high_saturation_brand_field_functional_ui",
+        "contrast_type": "high_contrast_white_device_on_orange",
+        "accent_color": "#46A6E8",
+        "accent_ratio": 0.12
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "Vertical 9:16 top-down flat-lay product photograph of a modern large-screen smartphone lying screen-up and centered on a smooth, saturated vivid-orange paper surface that fills the entire surround as bold negative space. The phone, shown straight-on with its slim black chassis, displays a generic Korean fintech app's eligible-government-subsidy overview page on a clean light background. A small back chevron sits at the upper left and a faint grey '안내' (info) label at the upper right. Near the top a bold two-line Korean headline reads '김창선님이 받을 수 있는 정부지원금을 확인해보세요', using a generic placeholder personal name. Below the headline runs a vertical list of soft grey rounded rows, each pairing a small friendly icon with a subsidy name and a bold amount: a faint top row '최대 1년간 급여 지원', then a briefcase icon row '근로장려금 / 최대 150만원', a green clover icon row '청년희망키움통장 / 최대 538,000원', a baby-face icon row '가정양육수당 / 월 10~20만원', and a partially visible person-at-laptop icon row '청년내일채움공제 / 최대 900만원'. Anchored near the bottom of the screen is a wide rounded primary action button in light blue containing white Korean text reading '내 지원금 확인하기'. Superimposed across the lower third of the entire frame, sitting just below or over the lower edge of the phone, is a horizontally-centered dark semi-transparent brown rounded-rectangle caption pill with bold white Korean text; at this moment it reads '나에게 맞는 지원금을' (across the shot the pill also shows '수많은 정부지원금 중에서' and '찾을 수 있는데요'). Lighting is even, soft, neutral overhead diffuse at roughly 5000K with high fill, producing only a minimal soft contact shadow beneath the phone and a clean flat look across the orange field; the screen self-illuminates clean white. Lens rendering: a flat low-distortion copy-stand-style top-down capture, the screen legible edge to edge with a slight glossy sheen; the framing pushes in slightly across the shot. Composition centers the device on the orange field with the subsidy list as the focal point and the caption pill anchoring the lower third. Color palette and strategy: a high-saturation complementary scheme — vivid orange background field (#E8731C) against the cool white app UI, a light blue primary button (#46A6E8), secondary grey UI text (#5B6470), and near-black headline text and caption pill (#1A1A1A); the orange-versus-blue complementary contrast drives the brand-forward demo look while the UI stays clean and functional. Surfaces and texture: glossy flat phone glass, matte black chassis, a smooth matte orange paper backdrop; slivers of a pale sticky note and a lined notebook edge peek at the frame corners. Atmosphere: clean, bright, trust-building instructional demonstration that there are many subsidies to sift through. Post and signature look: crisp clean digital, accurate UI colors, saturated even orange, no grain. Style anchor: contemporary Korean fintech social-video UI-walkthrough aesthetic — phone-on-colored-paper flat-lay with synced lower-third caption pills; preserve the on-screen Korean strings ('김창선님이 받을 수 있는 정부지원금을 확인해보세요', '최대 1년간 급여 지원', '근로장려금', '최대 150만원', '청년희망키움통장', '최대 538,000원', '가정양육수당', '월 10~20만원', '청년내일채움공제', '최대 900만원', '내 지원금 확인하기') and the caption '나에게 맞는 지원금을' exactly. The placeholder name '김창선님' is an in-app demo placeholder. Render the app generically with no real brand logos; no celebrity likeness.",
+        "t2i_negative": "english ui, perspective tilt, dark background, heavy shadow, cluttered props, real brand logos, blurry text",
+        "i2v_motion": "The overview list scrolls gently as the framing pushes in slightly; the lower-third caption pill swaps in sync with the voiceover from '수많은 정부지원금 중에서' to '나에게 맞는 지원금을' to '찾을 수 있는데요'; near-locked camera with a slow push; hard cut at ~3.9s.",
+        "i2v_params": {
+          "clip_duration_sec": 3.9,
+          "camera_move": "slow_push_in",
+          "subject_motion_level": "low_ui_scroll",
+          "signature_effect": "none",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen Korean UI and captions preserved; logo generic"
+      }
+    },
+    {
+      "index": 6,
+      "duration": 9.54,
+      "framing": "MS",
+      "function": "product_demo",
+      "subject_action": "top-down flat-lay; a finger fills out a short eligibility input form across several screens — '군·구 선택' (district select list), '몇 명이 함께 사나요? / 방금 입력한 주소에 사는 가족 수를 알려주세요' (household size 1~6인 가구), '김창선님은 아이가 있나요? / 미성년자 기준으로 몇 명인지 알려주세요' (없어요/1~4명 이상), and '김창선님에게 해당되는 게 있다면 모두 선택해주세요' (해당 상황 multi-select + 결과 보기) — briefly hitting an empty state ('받을 수 있는 지원금 0개') then resolving to a results list ('받을 수 있는 지원금 193개' with category tabs); the lower-third caption pill cycles '살고 있는 주소' then '가족 형태' then '근로 상황 등을 입력하면' then '내가 받을 수 있는' then '정부지원금을'",
+      "layout_grid": "centered_device_on_field",
+      "subject_position": "center_dominant",
+      "typo_motion": "lower_third_caption_pill_swap",
+      "camera_angle": "top_down_flatlay",
+      "camera_facing": "perpendicular_to_screen",
+      "shot_scope": "product_detail",
+      "gaze": "none",
+      "props": [
+        "smartphone",
+        "finger",
+        "orange_surface",
+        "sticky_note"
+      ],
+      "color_palette": [
+        "#E8731C",
+        "#FFFFFF",
+        "#2E6BF0",
+        "#5B6470",
+        "#1A1A1A"
+      ],
+      "color_intent": "saturated_orange_field; clean_white_form_ui; blue_link_and_button_accent; dark_caption_pill",
+      "pose_description": "the phone lies flat and centered, screen up; a single index finger enters from the lower area to point at and tap list options as the form advances through several question screens",
+      "subject_motion": "finger_tap_through_form_screens",
+      "camera_motion": "locked_off",
+      "camera_effect_local": "flat_even_screen_capture",
+      "intra_cut_rhythm": "form_step_taps_with_caption_swaps",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "mid_frame_path": "ADV-2026-019_frames/cut06_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "phone_screen_input_form_ui",
+          "tapping_finger",
+          "lower_third_caption_pill"
+        ],
+        "midground": [
+          "phone_chassis_on_surface"
+        ],
+        "background": [
+          "vivid_orange_flat_surface",
+          "edge_of_sticky_note"
+        ],
+        "lighting_env": [
+          "even_soft_overhead",
+          "screen_self_illumination"
+        ],
+        "atmosphere": [
+          "clean_product_demo",
+          "instructional",
+          "guided_setup"
+        ]
+      },
+      "texture": {
+        "primary_subject": "glossy_phone_screen_flat",
+        "secondary_objects": [
+          "matte_phone_chassis",
+          "human_finger"
+        ],
+        "background_surface": "smooth_matte_orange_paper",
+        "atmospheric": [
+          "clean_flat_graphic_field"
+        ]
+      },
+      "lighting": {
+        "key_direction": "even_overhead_diffuse",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_5000K",
+        "fill_strength": "high",
+        "key_to_fill_ratio": "1:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "minimal_soft_under_phone",
+        "overall_contrast": "medium"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#E8731C",
+          "#FFFFFF",
+          "#2E6BF0",
+          "#5B6470",
+          "#1A1A1A"
+        ],
+        "palette_role": {
+          "#E8731C": "orange_background_field",
+          "#FFFFFF": "app_ui_background",
+          "#2E6BF0": "link_button_and_check_blue",
+          "#5B6470": "list_option_text_grey",
+          "#1A1A1A": "headline_text_and_caption_pill"
+        },
+        "color_relationship": "complementary_orange_vs_blue",
+        "temperature_balance": "warm_field_cool_ui",
+        "saturation_strategy": "high_saturation_brand_field_functional_ui",
+        "contrast_type": "high_contrast_white_device_on_orange",
+        "accent_color": "#2E6BF0",
+        "accent_ratio": 0.1
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "Vertical 9:16 top-down flat-lay product photograph of a modern large-screen smartphone lying screen-up and centered on a smooth, saturated vivid-orange paper surface that fills the entire surround as bold negative space. The phone, shown straight-on with its slim black chassis, displays a generic Korean fintech app's short eligibility-input form on a clean light background, and a single Korean adult index finger enters from the lower area pointing at a list option. A back chevron sits at the upper left. Near the top a bold Korean question headline reads '몇 명이 함께 사나요?' with a lighter grey sub-line beneath it reading '방금 입력한 주소에 사는 가족 수를 알려주세요'. Below, a vertical list of tappable rows each with a right-pointing chevron reads top to bottom '1인 가구', '2인 가구', and further partly hidden rows for larger households up to '6인 가구'; the fingertip rests near the '2인 가구' / third row. The rest of the screen is calm white space. This is one of several near-identical form screens in the sequence — others ask for the district ('군·구 선택' with a list of Korean district names like 강동구, 강북구, 강서구, 관악구, 광진구), the number of children ('김창선님은 아이가 있나요?' with options 없어요, 1명, 2명, 3명, 4명 이상), and a multi-select of household/work situations ('김창선님에게 해당되는 게 있다면 모두 선택해주세요' with rows such as 해당되는 게 없어요, 임신·출산, 장애인, 다문화 가정, 한부모 가정, 조부모와 손자녀 가정, 보훈 대상자, 환자 and a wide '결과 보기' button) — all on the same clean white form layout. Superimposed across the lower third of the entire frame, sitting just below the phone, is a horizontally-centered dark semi-transparent brown rounded-rectangle caption pill with bold white Korean text; at this moment it reads '가족 형태' (across the shot the pill also shows '살고 있는 주소', '근로 상황 등을 입력하면', '내가 받을 수 있는' and '정부지원금을'). Lighting is even, soft, neutral overhead diffuse at roughly 5000K with high fill, producing only a minimal soft contact shadow beneath the phone and a clean flat look across the orange field; the screen self-illuminates clean white. Lens rendering: a flat low-distortion copy-stand-style top-down capture, the screen legible edge to edge with a slight glossy sheen, the single fingertip the only organic element. Composition centers the device on the orange field with the question headline and option list as the focal point and the caption pill anchoring the lower third. Color palette and strategy: a high-saturation complementary scheme — vivid orange background field (#E8731C) against the cool white app UI, a blue link/button/check accent (#2E6BF0), grey list-option text (#5B6470), and near-black headline text and caption pill (#1A1A1A); the orange-versus-blue complementary contrast drives the brand-forward demo look while the form UI stays clean and functional. Surfaces and texture: glossy flat phone glass, matte black chassis, a smooth matte orange paper backdrop, and a natural human fingertip; a sliver of a pale sticky note peeks at the frame edge. Atmosphere: clean, bright, a guided step-by-step setup the user fills in. Post and signature look: crisp clean digital, accurate UI colors, saturated even orange, no grain. Style anchor: contemporary Korean fintech social-video UI-walkthrough aesthetic — phone-on-colored-paper flat-lay with synced lower-third caption pills and a tapping finger; preserve the on-screen Korean strings ('몇 명이 함께 사나요?', '방금 입력한 주소에 사는 가족 수를 알려주세요', '1인 가구', '2인 가구', '군·구 선택', '김창선님은 아이가 있나요?', '미성년자 기준으로 몇 명인지 알려주세요', '없어요', '결과 보기', '김창선님에게 해당되는 게 있다면 모두 선택해주세요') and the caption '가족 형태' exactly. The placeholder name '김창선님' is an in-app demo placeholder. Render the app generically with no real brand logos; no celebrity likeness. The frame should read as a clean tabletop product demo shot on a copy stand under soft even light, the orange paper perfectly flat and uniform, the white form screen razor sharp and fully legible, and the caption pill a clean anti-aliased dark graphic with crisp white type — the restrained, brand-forward instructional treatment characteristic of contemporary Korean fintech how-to social videos, where every element on screen has a clear functional job and nothing decorative competes with the step being demonstrated.",
+        "t2i_negative": "english ui, perspective tilt, dark background, heavy shadow, cluttered props, real brand logos, blurry text",
+        "i2v_motion": "A finger taps down the form options as the app advances through the district, household-size, children and situation question screens, briefly passing an empty-state then landing on a results count; the lower-third caption pill swaps in sync with the voiceover through '살고 있는 주소', '가족 형태', '근로 상황 등을 입력하면', '내가 받을 수 있는', '정부지원금을'; locked-off camera; hard cut at ~9.5s.",
+        "i2v_params": {
+          "clip_duration_sec": 9.5,
+          "camera_move": "locked_off",
+          "subject_motion_level": "low_ui_interaction",
+          "signature_effect": "none",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen Korean UI and captions preserved; identity/logo generic"
+      }
+    },
+    {
+      "index": 7,
+      "duration": 3.04,
+      "framing": "MS",
+      "function": "payoff_reveal",
+      "subject_action": "top-down flat-lay, pushed in close so the phone fills the frame; the app shows the personalized results screen — an '새로운 지원금이 올라오면 알려드릴까요? [알림 받기]' header card, then '받을 수 있는 지원금 193개' with horizontal category tabs (주거 일자리 출산 교육 의료 농…) and listed subsidies grouped by 주거/일자리 (신서천발전본부 주택용 전기요금 지원, 채무조정 및 주택 매각 후 임차거주 지원, 청년 일자리 매칭 및 인건비 지원, 지역산업 맞춤형 일자리창출 서비스, 해외취업정착지원금, 심리안정지원 프로그램) — and a sticky '정부 지원금 모두 보기 [이동]' bar that a finger taps; the lower-third caption pill reads '한눈에 확인할 수 있어요'",
+      "layout_grid": "centered_device_fills_frame",
+      "subject_position": "center_dominant",
+      "typo_motion": "lower_third_caption_pill",
+      "camera_angle": "top_down_flatlay",
+      "camera_facing": "perpendicular_to_screen",
+      "shot_scope": "product_detail",
+      "gaze": "none",
+      "props": [
+        "smartphone",
+        "finger",
+        "orange_surface"
+      ],
+      "color_palette": [
+        "#E8731C",
+        "#FFFFFF",
+        "#2E6BF0",
+        "#5B6470",
+        "#1A1A1A"
+      ],
+      "color_intent": "saturated_orange_field; clean_white_results_list; blue_alert_button_and_link; dark_caption_pill",
+      "pose_description": "the phone fills most of the frame on the orange surface, screen up; a finger taps the sticky bottom bar to view all subsidies as the list scrolls",
+      "subject_motion": "ui_scroll_and_finger_tap",
+      "camera_motion": "locked_off",
+      "camera_effect_local": "flat_even_screen_capture_tight",
+      "intra_cut_rhythm": "list_scroll_with_tap",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "mid_frame_path": "ADV-2026-019_frames/cut07_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "phone_screen_results_list_ui",
+          "blue_alert_button",
+          "sticky_view_all_bar",
+          "lower_third_caption_pill"
+        ],
+        "midground": [
+          "phone_chassis_filling_frame"
+        ],
+        "background": [
+          "vivid_orange_flat_surface_margins"
+        ],
+        "lighting_env": [
+          "even_soft_overhead",
+          "screen_self_illumination"
+        ],
+        "atmosphere": [
+          "clean_product_demo",
+          "rewarding",
+          "comprehensive_list"
+        ]
+      },
+      "texture": {
+        "primary_subject": "glossy_phone_screen_flat",
+        "secondary_objects": [
+          "matte_phone_chassis",
+          "human_finger"
+        ],
+        "background_surface": "smooth_matte_orange_paper",
+        "atmospheric": [
+          "clean_flat_graphic_field"
+        ]
+      },
+      "lighting": {
+        "key_direction": "even_overhead_diffuse",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_5000K",
+        "fill_strength": "high",
+        "key_to_fill_ratio": "1:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "minimal_soft_under_phone",
+        "overall_contrast": "medium"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#E8731C",
+          "#FFFFFF",
+          "#2E6BF0",
+          "#5B6470",
+          "#1A1A1A"
+        ],
+        "palette_role": {
+          "#E8731C": "orange_background_field",
+          "#FFFFFF": "app_ui_background",
+          "#2E6BF0": "alert_button_and_link_blue",
+          "#5B6470": "list_subtitle_text_grey",
+          "#1A1A1A": "list_title_text_and_caption_pill"
+        },
+        "color_relationship": "complementary_orange_vs_blue",
+        "temperature_balance": "warm_field_cool_ui",
+        "saturation_strategy": "high_saturation_brand_field_functional_ui",
+        "contrast_type": "high_contrast_white_device_on_orange",
+        "accent_color": "#2E6BF0",
+        "accent_ratio": 0.1
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "Vertical 9:16 top-down flat-lay product photograph of a modern large-screen smartphone, pushed in close so the white phone screen fills most of the frame with only thin margins of saturated vivid-orange paper showing at the corners. The phone is straight-on, perpendicular to camera. The screen displays a generic Korean fintech app's personalized government-subsidy results list on a clean light background. A back chevron sits at the upper left and a grey '다시 하기' (start over) label at the upper right. Near the top, a soft grey card carries a small yellow bell icon and three lines of Korean text reading '새로운 지원금이 올라오면 알려드릴까요?' beside a small solid blue rounded button with white text '알림 받기'. Below a thin divider, a bold Korean section title '받을 수 있는 지원금' sits with a grey count '193개' at its right. Under it runs a horizontal scrollable tab row of Korean category labels: '주거', '일자리', '출산', '교육', '의료', and a clipped '농…', with a short underline under the active '주거' tab. Beneath, a bold sub-header '주거' precedes two stacked list items, each a two-line Korean subsidy title with a small grey category word beneath and a faint outline star at the right: '신서천발전본부 주택용 전기요금 지원' (감면) and '채무조정 및 주택 매각 후 임차거주 지원' (감면); further down a '일자리' group begins with '청년 일자리 매칭 및 인건비 지원'. Across the very bottom a sticky light-grey bar reads '정부 지원금 모두 보기' with a small '이동' (go) button at its right, and a single Korean adult fingertip enters from below to tap it. Superimposed across the lower third of the entire frame is a horizontally-centered dark semi-transparent brown rounded-rectangle caption pill with bold white Korean text reading '한눈에 확인할 수 있어요'. Lighting is even, soft, neutral overhead diffuse at roughly 5000K with high fill, the screen self-illuminating clean white, only a whisper of contact shadow at the visible phone edges. Lens rendering: a flat low-distortion copy-stand-style top-down capture pushed in tight, the screen razor sharp and legible edge to edge with a slight glossy sheen. Composition fills the frame with the results list as the clear payoff focal point and the caption pill anchoring the lower third. Color palette and strategy: a high-saturation complementary scheme — thin vivid orange margins (#E8731C) framing the cool white app UI, a blue alert button and links (#2E6BF0), grey list subtitles (#5B6470), and near-black list titles and caption pill (#1A1A1A); the orange-versus-blue tension frames a dense, reassuring list of results. Surfaces and texture: glossy flat phone glass, matte black chassis just visible at the edges, a smooth matte orange paper backdrop, and a natural human fingertip. Atmosphere: rewarding and comprehensive — the satisfying reveal that the app found many subsidies tailored to the user. Post and signature look: crisp clean digital, accurate UI colors, saturated even orange, no grain. Style anchor: contemporary Korean fintech social-video UI-walkthrough aesthetic — phone-on-colored-paper flat-lay with synced lower-third caption pills; preserve the on-screen Korean strings ('새로운 지원금이 올라오면 알려드릴까요?', '알림 받기', '받을 수 있는 지원금', '193개', '주거', '일자리', '출산', '교육', '의료', '신서천발전본부 주택용 전기요금 지원', '채무조정 및 주택 매각 후 임차거주 지원', '청년 일자리 매칭 및 인건비 지원', '정부 지원금 모두 보기', '이동', '다시 하기') and the caption '한눈에 확인할 수 있어요' exactly. Render the app generically with no real brand logos; no celebrity likeness. This is the comprehension payoff of the walkthrough — a dense but tidy results list shown in close-up — so the art direction keeps the white screen pristine and legible, the category tabs and counts crisp, and the single tapping fingertip the only organic motion, the restrained brand-forward look typical of Korean fintech how-to social videos.",
+        "t2i_negative": "english ui, perspective tilt, dark background, heavy shadow, cluttered props, real brand logos, blurry text",
+        "i2v_motion": "The results list scrolls gently through the 주거 and 일자리 categories and a finger taps the sticky '정부 지원금 모두 보기 / 이동' bar; the lower-third caption pill holds '한눈에 확인할 수 있어요'; locked-off camera; hard cut at ~3.0s.",
+        "i2v_params": {
+          "clip_duration_sec": 3.0,
+          "camera_move": "locked_off",
+          "subject_motion_level": "low_ui_scroll",
+          "signature_effect": "none",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen Korean UI and caption preserved; logo generic"
+      }
+    },
+    {
+      "index": 8,
+      "duration": 2.73,
+      "framing": "MS",
+      "function": "product_demo",
+      "subject_action": "top-down flat-lay; the same results list continues scrolling through more categories (일자리: 지역산업 맞춤형 일자리창출 서비스, 해외취업정착지원금, 심리안정지원 프로그램; 출산: 근로·자녀장려금, 배우자 출산휴가 급여, 육아기 근로시간 단축 급여; 교육: 지역보건교육 지원) and a finger taps the '배우자 출산휴가 급여' row; the lower-third caption pill reads '지원 대상과 기준'",
+      "layout_grid": "centered_device_on_field",
+      "subject_position": "center_dominant",
+      "typo_motion": "lower_third_caption_pill",
+      "camera_angle": "top_down_flatlay",
+      "camera_facing": "perpendicular_to_screen",
+      "shot_scope": "product_detail",
+      "gaze": "none",
+      "props": [
+        "smartphone",
+        "finger",
+        "orange_surface"
+      ],
+      "color_palette": [
+        "#E8731C",
+        "#FFFFFF",
+        "#2E6BF0",
+        "#5B6470",
+        "#1A1A1A"
+      ],
+      "color_intent": "saturated_orange_field; clean_white_results_list; blue_link_accent; dark_caption_pill",
+      "pose_description": "the phone lies flat and centered, screen up; a finger taps a subsidy row in the scrolling category list to open its detail",
+      "subject_motion": "ui_scroll_and_finger_tap_row",
+      "camera_motion": "locked_off",
+      "camera_effect_local": "flat_even_screen_capture",
+      "intra_cut_rhythm": "list_scroll_then_open",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "mid_frame_path": "ADV-2026-019_frames/cut08_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "phone_screen_results_list_ui",
+          "tapping_finger",
+          "sticky_view_all_bar",
+          "lower_third_caption_pill"
+        ],
+        "midground": [
+          "phone_chassis_on_surface"
+        ],
+        "background": [
+          "vivid_orange_flat_surface",
+          "edge_of_notebook"
+        ],
+        "lighting_env": [
+          "even_soft_overhead",
+          "screen_self_illumination"
+        ],
+        "atmosphere": [
+          "clean_product_demo",
+          "instructional"
+        ]
+      },
+      "texture": {
+        "primary_subject": "glossy_phone_screen_flat",
+        "secondary_objects": [
+          "matte_phone_chassis",
+          "human_finger"
+        ],
+        "background_surface": "smooth_matte_orange_paper",
+        "atmospheric": [
+          "clean_flat_graphic_field"
+        ]
+      },
+      "lighting": {
+        "key_direction": "even_overhead_diffuse",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_5000K",
+        "fill_strength": "high",
+        "key_to_fill_ratio": "1:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "minimal_soft_under_phone",
+        "overall_contrast": "medium"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#E8731C",
+          "#FFFFFF",
+          "#2E6BF0",
+          "#5B6470",
+          "#1A1A1A"
+        ],
+        "palette_role": {
+          "#E8731C": "orange_background_field",
+          "#FFFFFF": "app_ui_background",
+          "#2E6BF0": "link_accent_blue",
+          "#5B6470": "list_subtitle_text_grey",
+          "#1A1A1A": "list_title_text_and_caption_pill"
+        },
+        "color_relationship": "complementary_orange_vs_blue",
+        "temperature_balance": "warm_field_cool_ui",
+        "saturation_strategy": "high_saturation_brand_field_functional_ui",
+        "contrast_type": "high_contrast_white_device_on_orange",
+        "accent_color": "#2E6BF0",
+        "accent_ratio": 0.08
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "Vertical 9:16 top-down flat-lay product photograph of a modern large-screen smartphone lying screen-up and centered on a smooth, saturated vivid-orange paper surface that fills the entire surround as bold negative space. The phone, shown straight-on with its slim black chassis, displays the continuation of a generic Korean fintech app's personalized government-subsidy results list on a clean light background. A back chevron sits at the upper left and a grey '다시 하기' label at the upper right. Below a horizontal category tab row ('주거', '일자리', '출산', '교육', '의료', clipped '농…') with the '일자리' tab active and underlined, the list scrolls to show grouped subsidies: an '일자리' group with two-line Korean titles each over a small grey category word and a faint outline star at the right — '지역산업 맞춤형 일자리창출 서비스' (일자리), '해외취업정착지원금' (일자리), '심리안정지원 프로그램' (일자리) — then a bold '출산' sub-header followed by '근로·자녀장려금' (현금), '배우자 출산휴가 급여' (현금), '육아기 근로시간 단축 급여' (현금), and the start of a '교육' group with '지역보건교육 지원' (교육, 의료). A single Korean adult fingertip enters from below and presses the '배우자 출산휴가 급여' row to open it. Across the very bottom a sticky light-grey '정부 지원금 모두 보기' bar with a small '이동' button is partly visible. Superimposed across the lower third of the entire frame, sitting just below the phone, is a horizontally-centered dark semi-transparent brown rounded-rectangle caption pill with bold white Korean text reading '지원 대상과 기준'. Lighting is even, soft, neutral overhead diffuse at roughly 5000K with high fill, producing only a minimal soft contact shadow beneath the phone and a clean flat look across the orange field; the screen self-illuminates clean white. Lens rendering: a flat low-distortion copy-stand-style top-down capture, the screen legible edge to edge with a slight glossy sheen, the single fingertip the only organic element. Composition centers the device on the orange field with the scrolling subsidy list as the focal point and the caption pill anchoring the lower third. Color palette and strategy: a high-saturation complementary scheme — vivid orange background field (#E8731C) against the cool white app UI, a blue link accent (#2E6BF0), grey list subtitles (#5B6470), and near-black list titles and caption pill (#1A1A1A); the orange-versus-blue complementary contrast drives the brand-forward demo look while the list UI stays clean and functional. Surfaces and texture: glossy flat phone glass, matte black chassis, a smooth matte orange paper backdrop, and a natural human fingertip; a sliver of a lined notebook edge peeks at the frame corner. Atmosphere: clean, bright, instructional — browsing the results and choosing one to inspect. Post and signature look: crisp clean digital, accurate UI colors, saturated even orange, no grain. Style anchor: contemporary Korean fintech social-video UI-walkthrough aesthetic — phone-on-colored-paper flat-lay with synced lower-third caption pills and a tapping finger; preserve the on-screen Korean strings ('주거', '일자리', '출산', '교육', '의료', '지역산업 맞춤형 일자리창출 서비스', '해외취업정착지원금', '심리안정지원 프로그램', '근로·자녀장려금', '배우자 출산휴가 급여', '육아기 근로시간 단축 급여', '지역보건교육 지원', '정부 지원금 모두 보기', '이동', '다시 하기') and the caption '지원 대상과 기준' exactly. Render the app generically with no real brand logos; no celebrity likeness. The frame should read as a clean tabletop product demo shot on a copy stand under soft even light, the orange paper perfectly flat and uniform, the white results screen razor sharp and fully legible, and the caption pill a clean anti-aliased dark graphic with crisp white type — the restrained, brand-forward instructional treatment characteristic of contemporary Korean fintech how-to social videos.",
+        "t2i_negative": "english ui, perspective tilt, dark background, heavy shadow, cluttered props, real brand logos, blurry text",
+        "i2v_motion": "The results list scrolls through the 일자리, 출산 and 교육 groups and a finger taps the '배우자 출산휴가 급여' row to open it; the lower-third caption pill holds '지원 대상과 기준'; locked-off camera; hard cut at ~2.7s.",
+        "i2v_params": {
+          "clip_duration_sec": 2.7,
+          "camera_move": "locked_off",
+          "subject_motion_level": "low_ui_interaction",
+          "signature_effect": "none",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen Korean UI and caption preserved; logo generic"
+      }
+    },
+    {
+      "index": 9,
+      "duration": 4.54,
+      "framing": "MS",
+      "function": "product_demo",
+      "subject_action": "top-down flat-lay that pushes in to a tight close-up; the app shows the subsidy DETAIL screen for '배우자 출산휴가 급여' with an info note ('세부 정보에 따라 지원 대상이 아닐 수 있으니, 정확한 내용은 담당 기관에 확인해주세요'), a '지원 대상' bullet list (남녀고용평등법상 배우자 출산휴가를 부여받은 우선지원대상기업 소속 근로자 / 휴가가 끝난 날 이전에 피보험단위기간이 180일 이상 / 피보험자가 소속된 사업장이 우선지원대상기업인 경우), a '선정 기준' (지원대상과 동일), a '지원 내용' section, and a blue primary button '이 지원금에 관심있어요'; a finger scrolls; the lower-third caption pill cycles '지원 대상과 기준' then '신청 기간과 방법까지' then '꼼꼼히 확인할 수 있고'",
+      "layout_grid": "centered_device_fills_frame",
+      "subject_position": "center_dominant",
+      "typo_motion": "lower_third_caption_pill_swap",
+      "camera_angle": "top_down_flatlay",
+      "camera_facing": "perpendicular_to_screen",
+      "shot_scope": "product_detail",
+      "gaze": "none",
+      "props": [
+        "smartphone",
+        "finger",
+        "orange_surface"
+      ],
+      "color_palette": [
+        "#E8731C",
+        "#FFFFFF",
+        "#46A6E8",
+        "#5B6470",
+        "#1A1A1A"
+      ],
+      "color_intent": "saturated_orange_field; clean_white_detail_text_ui; light_blue_interest_button; dark_caption_pill",
+      "pose_description": "the phone lies flat and fills the frame, screen up; a finger scrolls the dense detail text from 지원 대상 down to 지원 내용 above the blue button",
+      "subject_motion": "ui_scroll_detail_text",
+      "camera_motion": "slow_push_in",
+      "camera_effect_local": "flat_even_screen_capture_tight",
+      "intra_cut_rhythm": "detail_scroll_with_caption_swaps",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "mid_frame_path": "ADV-2026-019_frames/cut09_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "phone_screen_detail_text_ui",
+          "blue_interest_button",
+          "lower_third_caption_pill"
+        ],
+        "midground": [
+          "phone_chassis_filling_frame"
+        ],
+        "background": [
+          "vivid_orange_flat_surface_margins"
+        ],
+        "lighting_env": [
+          "even_soft_overhead",
+          "screen_self_illumination"
+        ],
+        "atmosphere": [
+          "clean_product_demo",
+          "informational",
+          "trust_building"
+        ]
+      },
+      "texture": {
+        "primary_subject": "glossy_phone_screen_flat",
+        "secondary_objects": [
+          "matte_phone_chassis",
+          "human_finger"
+        ],
+        "background_surface": "smooth_matte_orange_paper",
+        "atmospheric": [
+          "clean_flat_graphic_field"
+        ]
+      },
+      "lighting": {
+        "key_direction": "even_overhead_diffuse",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_5000K",
+        "fill_strength": "high",
+        "key_to_fill_ratio": "1:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "minimal_soft_under_phone",
+        "overall_contrast": "medium"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#E8731C",
+          "#FFFFFF",
+          "#46A6E8",
+          "#5B6470",
+          "#1A1A1A"
+        ],
+        "palette_role": {
+          "#E8731C": "orange_background_field",
+          "#FFFFFF": "app_ui_background",
+          "#46A6E8": "interest_button_light_blue",
+          "#5B6470": "body_text_grey",
+          "#1A1A1A": "section_header_text_and_caption_pill"
+        },
+        "color_relationship": "complementary_orange_vs_blue",
+        "temperature_balance": "warm_field_cool_ui",
+        "saturation_strategy": "high_saturation_brand_field_functional_ui",
+        "contrast_type": "high_contrast_white_device_on_orange",
+        "accent_color": "#46A6E8",
+        "accent_ratio": 0.1
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "Vertical 9:16 top-down flat-lay product photograph of a modern large-screen smartphone, pushed in close so the white phone screen fills most of the frame with only thin margins of saturated vivid-orange paper at the corners. The phone is straight-on, perpendicular to camera. The screen displays a generic Korean fintech app's subsidy detail page on a clean light background. A back chevron sits at the upper left and a grey '안내' label at the upper right. A bold Korean title '배우자 출산휴가 급여' sits near the top; beneath it a small circular info icon precedes a grey note reading '세부 정보에 따라 지원 대상이 아닐 수 있으니, 정확한 내용은 담당 기관에 확인해주세요'. A bold section header '지원 대상' introduces a bulleted list in grey Korean body text: '남녀고용평등법상 배우자 출산휴가를 부여받은 우선지원대상기업 소속 근로자', '휴가가 끝난 날 이전에 피보험단위기간이 180일 이상', and '피보험자가 소속된 사업장이 우선지원대상기업인 경우'. A further bold header '선정 기준' is followed by '지원대상과 동일', and a bold header '지원 내용' begins a nested list ('배우자 출산휴가' with sub-bullets such as '근로자가 배우자의 출산을 이유로 휴가를 청구하는 경우 10일(유급)의 휴가 부여', then '배우자 출산휴가 급여' with sub-bullets like '배우자 출산휴가를 사용한 우선지원대상기업 근로자에 한해 최초 5일분(23년 기준 상한…'). Anchored near the bottom is a wide rounded primary action button in light blue with white Korean text '이 지원금에 관심있어요'. A thin scrollbar shows on the right edge. Superimposed across the lower third of the entire frame is a horizontally-centered dark semi-transparent brown rounded-rectangle caption pill with bold white Korean text; at this moment it reads '꼼꼼히 확인할 수 있고' (across the shot the pill also shows '지원 대상과 기준' and '신청 기간과 방법까지'). Lighting is even, soft, neutral overhead diffuse at roughly 5000K with high fill, the screen self-illuminating clean white, only a whisper of contact shadow at the visible phone edges. Lens rendering: a flat low-distortion copy-stand-style top-down capture pushed in tight, the dense Korean body text razor sharp and legible with a slight glossy sheen; a fingertip may rest at the right edge mid-scroll. Composition fills the frame with the structured detail text as the focal point and the caption pill anchoring the lower third. Color palette and strategy: a high-saturation complementary scheme — thin vivid orange margins (#E8731C) framing the cool white app UI, a light blue interest button (#46A6E8), grey body text (#5B6470), and near-black section headers and caption pill (#1A1A1A); the orange-versus-blue tension frames a calm, information-dense detail page. Surfaces and texture: glossy flat phone glass, matte black chassis just visible at the edges, a smooth matte orange paper backdrop, and possibly a natural human fingertip at the edge. Atmosphere: clean, bright, trust-building — the careful reading of who qualifies and what the support is. Post and signature look: crisp clean digital, accurate UI colors, saturated even orange, no grain. Style anchor: contemporary Korean fintech social-video UI-walkthrough aesthetic — phone-on-colored-paper flat-lay with synced lower-third caption pills; preserve the on-screen Korean strings ('배우자 출산휴가 급여', '세부 정보에 따라 지원 대상이 아닐 수 있으니, 정확한 내용은 담당 기관에 확인해주세요', '지원 대상', '남녀고용평등법상 배우자 출산휴가를 부여받은 우선지원대상기업 소속 근로자', '휴가가 끝난 날 이전에 피보험단위기간이 180일 이상', '피보험자가 소속된 사업장이 우선지원대상기업인 경우', '선정 기준', '지원대상과 동일', '지원 내용', '이 지원금에 관심있어요') and the caption '꼼꼼히 확인할 수 있고' exactly. Render the app generically with no real brand logos; no celebrity likeness. This detail page is shown in tight close-up so the structured eligibility criteria, selection standard, support content and application detail read clearly; the art direction keeps the white screen pristine and the caption pill a clean anti-aliased dark graphic with crisp white type — the restrained, brand-forward instructional treatment characteristic of contemporary Korean fintech how-to social videos.",
+        "t2i_negative": "english ui, perspective tilt, dark background, heavy shadow, cluttered props, real brand logos, blurry text",
+        "i2v_motion": "The detail text scrolls slowly from the 지원 대상 list down through 선정 기준 to the 지원 내용 section as the framing pushes in; the lower-third caption pill swaps in sync with the voiceover from '지원 대상과 기준' to '신청 기간과 방법까지' to '꼼꼼히 확인할 수 있고'; near-locked camera with a slow push; hard cut at ~4.5s.",
+        "i2v_params": {
+          "clip_duration_sec": 4.5,
+          "camera_move": "slow_push_in",
+          "subject_motion_level": "low_ui_scroll",
+          "signature_effect": "none",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen Korean UI and captions preserved; logo generic"
+      }
+    },
+    {
+      "index": 10,
+      "duration": 6.07,
+      "framing": "MS",
+      "function": "cta",
+      "subject_action": "top-down flat-lay; the results screen now shows a '관심 지원금' section with '배우자 출산휴가 급여' starred in blue and the '받을 수 있는 지원금 193개' list below; a bottom-sheet slides up reading '받을 수 있는 새로운 지원금이 올라오면 알려드릴까요? / ✓ [선택] 알림 신청서 / 등록하고 알림 받기 / 닫기' to set an alert, then dismisses back to the list; the lower-third caption pill cycles '알림 신청을 해두면' then '새로운 지원금이 / 올라올 때' then '놓치지 않고 챙길 수 있어요'",
+      "layout_grid": "centered_device_on_field",
+      "subject_position": "center_dominant",
+      "typo_motion": "lower_third_caption_pill_swap",
+      "camera_angle": "top_down_flatlay",
+      "camera_facing": "perpendicular_to_screen",
+      "shot_scope": "product_detail",
+      "gaze": "none",
+      "props": [
+        "smartphone",
+        "orange_surface",
+        "notebook_edge"
+      ],
+      "color_palette": [
+        "#E8731C",
+        "#FFFFFF",
+        "#2E6BF0",
+        "#5B6470",
+        "#1A1A1A"
+      ],
+      "color_intent": "saturated_orange_field; clean_white_results_with_alert_sheet; blue_alert_button_and_star; dark_caption_pill",
+      "pose_description": "the phone lies flat and centered, screen up; an alert bottom-sheet rises over the dimmed results list then closes, the starred interest item visible at the top",
+      "subject_motion": "ui_bottom_sheet_rise_and_dismiss",
+      "camera_motion": "locked_off",
+      "camera_effect_local": "flat_even_screen_capture",
+      "intra_cut_rhythm": "sheet_rise_set_alert_dismiss_with_caption_swaps",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "mid_frame_path": "ADV-2026-019_frames/cut10_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "phone_screen_results_with_alert_sheet",
+          "blue_alert_button",
+          "starred_interest_item",
+          "lower_third_caption_pill"
+        ],
+        "midground": [
+          "phone_chassis_on_surface"
+        ],
+        "background": [
+          "vivid_orange_flat_surface",
+          "edge_of_notebook"
+        ],
+        "lighting_env": [
+          "even_soft_overhead",
+          "screen_self_illumination"
+        ],
+        "atmosphere": [
+          "clean_product_demo",
+          "reassuring",
+          "set_and_forget"
+        ]
+      },
+      "texture": {
+        "primary_subject": "glossy_phone_screen_flat",
+        "secondary_objects": [
+          "matte_phone_chassis"
+        ],
+        "background_surface": "smooth_matte_orange_paper",
+        "atmospheric": [
+          "clean_flat_graphic_field"
+        ]
+      },
+      "lighting": {
+        "key_direction": "even_overhead_diffuse",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_5000K",
+        "fill_strength": "high",
+        "key_to_fill_ratio": "1:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "minimal_soft_under_phone",
+        "overall_contrast": "medium"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#E8731C",
+          "#FFFFFF",
+          "#2E6BF0",
+          "#5B6470",
+          "#1A1A1A"
+        ],
+        "palette_role": {
+          "#E8731C": "orange_background_field",
+          "#FFFFFF": "app_ui_background",
+          "#2E6BF0": "alert_button_and_star_blue",
+          "#5B6470": "secondary_ui_text_grey",
+          "#1A1A1A": "title_text_and_caption_pill"
+        },
+        "color_relationship": "complementary_orange_vs_blue",
+        "temperature_balance": "warm_field_cool_ui",
+        "saturation_strategy": "high_saturation_brand_field_functional_ui",
+        "contrast_type": "high_contrast_white_device_on_orange",
+        "accent_color": "#2E6BF0",
+        "accent_ratio": 0.1
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "Vertical 9:16 top-down flat-lay product photograph of a modern large-screen smartphone lying screen-up and centered on a smooth, saturated vivid-orange paper surface that fills the entire surround as bold negative space. The phone, shown straight-on with its slim black chassis, displays a generic Korean fintech app's personalized subsidy results screen with an alert bottom-sheet rising over it. A back chevron sits at the upper left and a grey '다시 하기' label at the upper right. Near the top a soft grey notification card carries a small yellow bell icon, three lines of Korean text '새로운 지원금이 올라오면 알려드릴까요?' and a small solid blue button '알림 받기'. Below a thin divider, a bold Korean section header '관심 지원금' sits with a small grey '전체보기 >' link at its right; under it one saved item '배우자 출산휴가 급여' (현금) shows a solid blue filled star at its right, marking it as a favourite. Beneath, a bold header '받을 수 있는 지원금' with a grey count '193개' begins the category list. The lower half of the screen is dimmed and a white rounded bottom-sheet has slid up from the bottom edge: at its top, two lines of Korean text read '받을 수 있는 새로운 지원금이 올라오면 알려드릴까요?'; below, a row with a blue check icon reads '[선택] 알림 신청서' with a right chevron; then a wide light-blue rounded button '등록하고 알림 받기'; and a grey '닫기' (close) text link at the very bottom. Superimposed across the lower third of the entire frame, sitting just below the phone, is a horizontally-centered dark semi-transparent brown rounded-rectangle caption pill with bold white Korean text; at this moment it reads two lines '새로운 지원금이 / 올라올 때' (across the shot the pill also shows '알림 신청을 해두면' and '놓치지 않고 챙길 수 있어요'). Lighting is even, soft, neutral overhead diffuse at roughly 5000K with high fill, producing only a minimal soft contact shadow beneath the phone and a clean flat look across the orange field; the screen self-illuminates clean white with the dimmed area slightly darker. Lens rendering: a flat low-distortion copy-stand-style top-down capture, the screen legible edge to edge with a slight glossy sheen. Composition centers the device on the orange field with the rising alert sheet as the focal action and the caption pill anchoring the lower third. Color palette and strategy: a high-saturation complementary scheme — vivid orange background field (#E8731C) against the cool white app UI, a blue alert button and favourite star (#2E6BF0), grey secondary text (#5B6470), and near-black titles and caption pill (#1A1A1A); the orange-versus-blue tension frames the reassuring 'set an alert' moment. Surfaces and texture: glossy flat phone glass, matte black chassis, a smooth matte orange paper backdrop; a sliver of a lined notebook edge peeks at the frame corner. Atmosphere: clean, bright, reassuring — a simple set-and-forget alert so nothing is missed. Post and signature look: crisp clean digital, accurate UI colors, saturated even orange, no grain. Style anchor: contemporary Korean fintech social-video UI-walkthrough aesthetic — phone-on-colored-paper flat-lay with synced lower-third caption pills; preserve the on-screen Korean strings ('새로운 지원금이 올라오면 알려드릴까요?', '알림 받기', '관심 지원금', '전체보기', '배우자 출산휴가 급여', '현금', '받을 수 있는 지원금', '193개', '받을 수 있는 새로운 지원금이 올라오면 알려드릴까요?', '[선택] 알림 신청서', '등록하고 알림 받기', '닫기', '다시 하기') and the caption '새로운 지원금이 / 올라올 때' exactly. Render the app generically with no real brand logos; no celebrity likeness. This is the call-to-action beat — setting an alert — so the art direction keeps the white screen pristine, the rising bottom-sheet crisp and the blue filled star and button the only saturated accents, the caption pill a clean anti-aliased dark graphic with crisp white type, in the restrained brand-forward look typical of Korean fintech how-to social videos.",
+        "t2i_negative": "english ui, perspective tilt, dark background, heavy shadow, cluttered props, real brand logos, blurry text",
+        "i2v_motion": "An alert bottom-sheet slides up over the dimmed results list ('받을 수 있는 새로운 지원금이 올라오면 알려드릴까요? / [선택] 알림 신청서 / 등록하고 알림 받기 / 닫기'), holds, then dismisses back to the list with the blue-starred '배우자 출산휴가 급여' favourite at the top; the lower-third caption pill swaps in sync with the voiceover from '알림 신청을 해두면' to '새로운 지원금이 / 올라올 때' to '놓치지 않고 챙길 수 있어요'; locked-off camera; hard cut at ~6.1s.",
+        "i2v_params": {
+          "clip_duration_sec": 6.1,
+          "camera_move": "locked_off",
+          "subject_motion_level": "low_ui_sheet",
+          "signature_effect": "none",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen Korean UI and captions preserved; logo generic"
+      }
+    },
+    {
+      "index": 11,
+      "duration": 1.7,
+      "framing": "TITLE_CARD",
+      "function": "cta_endcard",
+      "subject_action": "series end card: a small light-grey rounded rectangle badge sits centered on a textured off-white paper field, bearing pixel/CRT-distorted blue text 'Curator T' over a thin blue underline with smaller pixel Korean text '토스를 발견하다' beneath",
+      "layout_grid": "center_badge_on_paper_field",
+      "subject_position": "center",
+      "typo_motion": "static_hold_with_chromatic_shimmer",
+      "camera_angle": "flat_frontal",
+      "camera_facing": "frontal_flat",
+      "shot_scope": "typography_endcard",
+      "gaze": "none",
+      "props": [],
+      "color_palette": [
+        "#EFEDE7",
+        "#D8D5CD",
+        "#2E4BD6",
+        "#5A8FE0",
+        "#9A9690"
+      ],
+      "color_intent": "textured_offwhite_paper_field; light_grey_badge; pixel_crt_blue_text_with_chromatic_fringe",
+      "pose_description": "no subjects; a single small badge graphic centered on a matte paper field, its text rendered with a retro pixel/CRT distortion and slight RGB color split",
+      "subject_motion": "badge_settle_micro",
+      "camera_motion": "locked_off",
+      "camera_effect_local": "pixel_crt_chromatic_aberration",
+      "intra_cut_rhythm": "static_hold",
+      "transition_in": "cut",
+      "transition_out": "end",
+      "mid_frame_path": "ADV-2026-019_frames/cut11_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "pixel_crt_badge",
+          "curator_t_text",
+          "korean_tagline_text"
+        ],
+        "midground": [],
+        "background": [
+          "textured_offwhite_paper_field"
+        ],
+        "lighting_env": [
+          "flat_even"
+        ],
+        "atmosphere": [
+          "retro_digital",
+          "quiet_brand_signature",
+          "tactile_paper"
+        ]
+      },
+      "texture": {
+        "primary_subject": "pixel_crt_distorted_text",
+        "secondary_objects": [
+          "light_grey_badge_panel"
+        ],
+        "background_surface": "matte_textured_paper",
+        "atmospheric": [
+          "subtle_paper_grain"
+        ]
+      },
+      "lighting": {
+        "key_direction": "flat_even_frontal",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral",
+        "fill_strength": "high",
+        "key_to_fill_ratio": "1:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "minimal_soft_under_badge",
+        "overall_contrast": "low_with_high_contrast_text"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#EFEDE7",
+          "#D8D5CD",
+          "#2E4BD6",
+          "#5A8FE0",
+          "#9A9690"
+        ],
+        "palette_role": {
+          "#EFEDE7": "paper_background_offwhite",
+          "#D8D5CD": "badge_panel_light_grey",
+          "#2E4BD6": "primary_pixel_text_blue",
+          "#5A8FE0": "chromatic_fringe_cyan_blue",
+          "#9A9690": "paper_texture_shadow_grey"
+        },
+        "color_relationship": "near_monochrome_paper_with_blue_text_accent",
+        "temperature_balance": "neutral_cool_text_on_warm_neutral_paper",
+        "saturation_strategy": "low_saturation_ground_with_saturated_blue_text",
+        "contrast_type": "high_text_on_light_panel",
+        "accent_color": "#2E4BD6",
+        "accent_ratio": 0.13
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "Vertical 9:16 flat frontal graphic end card on a textured off-white matte paper field that fills the entire frame as warm-neutral negative space with a subtle visible paper grain and faint soft mottling, like a sheet of uncoated card stock. Centered slightly below the middle of the frame sits a single small horizontal rounded-rectangle badge in a slightly darker light-grey tone than the paper, as if a printed label or sticker rests on the sheet, casting only the faintest soft contact shadow. On the badge, rendered in a deliberately retro pixel/CRT-distorted style, is the bold Latin wordmark 'Curator T' in a saturated cobalt blue; the lettering carries a visible bitmap/scanline texture and a slight RGB chromatic-aberration split so cyan-blue and faint red fringes edge the characters, evoking an old CRT monitor or low-resolution pixel display. Directly beneath the wordmark, between the letters, sits much smaller pixel-styled Korean tagline text reading '토스를 발견하다', and a thin horizontal blue underline rule runs along the bottom of the badge. The badge is the only element on the otherwise empty paper field, giving the card a quiet, collectible, stamp-like feel. Lighting is flat and even and frontal with high fill, neutral temperature, no modelling shadows beyond a whisper of contact shadow under the badge, and an overall low scene contrast that throws the high-contrast saturated blue pixel text into relief against the pale ground. Lens rendering: a flat, straight-on graphic capture with no perspective and no depth of field, the paper texture crisp across the frame. Composition is centered and calm with wide margins of paper around the small badge. Color palette and strategy: a near-monochrome warm-neutral ground — off-white paper (#EFEDE7), light-grey badge panel (#D8D5CD), and paper-texture shadow grey (#9A9690) — punctuated by the single saturated cobalt-blue pixel wordmark (#2E4BD6) with a cyan-blue chromatic fringe (#5A8FE0); the strategy is restraint and tactility, a low-saturation paper world with one vivid retro-digital blue accent. Surfaces and texture: a matte fibrous paper background, a slightly smoother light-grey label panel, and the pixelated CRT text with scanline and chromatic-split artifacts as the signature texture. Atmosphere: a quiet, retro-digital brand signature with a tactile, almost analog-print sensibility — a deliberate contrast to the glossy app screens that preceded it. Post and signature look: intentional lo-fi pixel/CRT distortion and RGB split applied only to the badge text, over a clean textured-paper plate. Style anchor: contemporary Korean brand series end-card design that pairs tactile paper texture with retro pixel/CRT typography as a recurring signature device; preserve the on-screen text exactly — the Latin wordmark 'Curator T' and the Korean tagline '토스를 발견하다'. No real corporate logo marks beyond this stylized series wordmark; no photographic subjects, no celebrity likeness. The card should feel intentionally hand-made and tactile despite being digital: imagine a small printed label resting on a sheet of recycled card stock, photographed flat and even, the paper's fibrous grain just visible, the label's edges soft. The pixel/CRT treatment on the text is the whole personality of the frame — visible square pixels, faint horizontal scanline banding, and a small registration offset between the blue and cyan channels so the wordmark looks like it is glowing on an old low-resolution display. This retro-digital flourish reads as a knowing, playful brand signature and stands in deliberate contrast to the crisp glossy app screens that came before it, signalling that this is the recurring sign-off of an ongoing series rather than a one-off endcard. Wide calm margins of empty paper surround the small centered badge, giving the close a quiet, collectible, almost stamp-like restraint. Style anchor reinforced: contemporary Korean brand series end-card design that fuses tactile analog paper texture with lo-fi pixel/CRT typography as a memorable repeatable device, prioritising character and recognisability over polish.",
+        "t2i_negative": "photographic subjects, smooth vector text without pixelation, dark background, glossy 3d, busy decoration, english tagline, real corporate logo",
+        "i2v_motion": "The light-grey badge holds centered on the paper field with a faint flickering chromatic-aberration shimmer on the pixel/CRT 'Curator T' wordmark and '토스를 발견하다' tagline; locked-off camera; clip ends at ~1.7s.",
+        "i2v_params": {
+          "clip_duration_sec": 1.7,
+          "camera_move": "locked_off",
+          "subject_motion_level": "low_graphic_settle",
+          "signature_effect": "pixel_crt_chromatic_aberration",
+          "pacing": "slow_deliberate",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen series wordmark and tagline preserved; no real corporate logo"
+      }
+    }
+  ],
+  "search_keywords": {
+    "industry": [
+      "finance",
+      "fintech"
+    ],
+    "product_category": [
+      "government_subsidy",
+      "benefits_finder",
+      "public_benefits",
+      "personal_finance_app"
+    ],
+    "target_demo": [
+      "korean_adults",
+      "20s_30s_40s",
+      "mobile_users",
+      "benefit_seekers"
+    ],
+    "media_format": [
+      "shortform_vertical_30s_plus",
+      "social_media",
+      "vertical_9x16"
+    ],
+    "tone": [
+      "helpful",
+      "reassuring",
+      "instructional",
+      "lightly_upbeat"
+    ],
+    "pacing": [
+      "steady",
+      "linear",
+      "narration_driven"
+    ],
+    "technique": [
+      "app_demo",
+      "ui_walkthrough",
+      "caption_led",
+      "flatlay_phone_on_color",
+      "crt_pixel_typo"
+    ],
+    "vfx_keywords": [
+      "ui_motion",
+      "screen_capture",
+      "editorial_header_overlay",
+      "pixel_crt_distortion"
+    ],
+    "copy_strategy_keywords": [
+      "voice_caption_sync",
+      "step_by_step_guide",
+      "problem_then_solution",
+      "personalized_result"
+    ],
+    "concept_derivation_pattern": [
+      "app_feature_walkthrough",
+      "hidden_feature_reveal"
+    ]
+  },
+  "inferred_creative_thinking": {
+    "insight": "Government subsidies and benefits in Korea are scattered across dozens of separate official sites, so many eligible people never find or claim the support they qualify for; few realize their everyday finance app can surface all of it in one place tailored to them",
+    "persona": "A mobile-first Korean adult who suspects they might qualify for some government benefit but finds the official portals fragmented, confusing and easy to give up on",
+    "moment": "The frustration of clicking around scattered government websites, immediately answered by a guided in-app finder that asks a few simple questions and returns a personalized at-a-glance list of subsidies, with an alert for new ones",
+    "product_role": "The subsidy-finder feature is positioned as a hidden one-stop tool inside the super-app: search '지원금', answer your address/family/work situation, and it consolidates the many government subsidies into a personalized list you can read in detail and subscribe to alerts for",
+    "punchline": "받을 수 있는 지원금 193개 — a personalized at-a-glance list that proves the app gathered everything scattered into one place",
+    "differentiator": "Consolidation plus personalization plus alerts: instead of hunting across many official sites, the app filters all subsidies to the ones you are eligible for, explains eligibility/criteria/period/method, and notifies you when new ones appear",
+    "brand_fit_one_liner": "Toss frames itself as the app that gathers scattered, bureaucratic financial information into one personalized, plain-language place",
+    "confidence": "inferred"
+  },
+  "inferred_brief": "Drive awareness of Toss's hidden government-subsidy finder among mobile-first Korean adults by walking through, step by step, how searching '지원금' in the all-tab and answering a few questions about your address, family and work situation returns a personalized at-a-glance list of the subsidies you qualify for, lets you read each one's eligibility/criteria/application period and method, and lets you set an alert so you never miss a new one.",
+  "cross_pollination_tags": {
+    "adjacent": [
+      "banking_app_demo_ads",
+      "tax_refund_finder_ads",
+      "super_app_feature_walkthroughs"
+    ],
+    "distant": [
+      "cooking_recipe_step_videos",
+      "saas_onboarding_tutorials",
+      "travel_booking_how_to"
+    ],
+    "contrast": [
+      "emotional_brand_film",
+      "celebrity_endorsement_spot",
+      "abstract_image_ad"
+    ]
+  },
+  "concept_derivation_pattern": "hidden_feature_walkthrough: surface a relatable bureaucratic pain point (government subsidies scattered across many official sites), then resolve it with a synced voice-and-caption step-by-step in-app demo shot as a phone-on-color flat-lay — search the all-tab, answer a short personalization form, reveal a tailored at-a-glance result list, read one subsidy's eligibility/criteria/period/method, and set an alert — signing with a recurring retro pixel/CRT series end card",
+  "confidence": "inferred",
+  "analyst_notes": "This entry is a screen-recording-style UI demo of a Korean fintech app's hidden government-subsidy finder, intercut with live-action openers that establish the pain point. capture_style classified 'mixed' because shots 4-10 are flat-lay phone-on-orange screen-demo footage (effectively screen captures of the app composited onto an orange flat-lay) distinct from the live-action laptop-screen and woman-with-phone shots (1-3). Ten scenedetect hard cuts (diff>40) at f35/84/154/280/397/683/774/856/992/1174 were cross-checked visually and used as shot boundaries. The longest demo spans were split by SCREEN-STATE: the f154-683 orange span is one constant orange background but contains genuinely distinct screens — search (shot 4) -> eligible-subsidies overview (shot 5) -> short input form across district/household-size/children/situation screens plus a brief empty-state then a results count (shot 6); the f683-855 close-up results span was split at the f774 hard cut into the results-list view-all tap (shot 7) and the category browse + open-a-row (shot 8); shot 9 (f856-991) is the chosen subsidy's detail page (eligibility/criteria/support content), and shot 10 (f992-1173) is the alert step (favourite star + alert bottom-sheet). An extra scenedetect cut at f1067 was NOT treated as a shot boundary — it is the alert bottom-sheet appearing/changing state within shot 10. The framing alternates between a wide flat-lay and a tight close-up within the same screen-states (shots 5 and 9 push in); these were kept as single shots. wow cut is shot 7, the personalized '받을 수 있는 지원금 193개' result reveal. wiggle is absent (mean_abs_shift_x 0.1232, sign_flips 0.24): live-action shots are gentle handheld, flat-lay and end card locked off; NOT wiggle_3d/parallax (verified visually). Audio reconciled: faster_whisper tiny mis-heard '정부지원금' as '정소지원금' and '흩어져' as '특퓨저' in line 1, '근로상황' as '글로상왕' in line 4, and the final clause ('노치지 않고 생길 수 있어요') corrected to the authoritative on-screen caption pill '놓치지 않고 챙길 수 있어요'. The placeholder name '김창선님' on the app screens is an in-app demo placeholder. The opening laptop screens show plausible generic government portal pages (NTS/MOEL/정부24-style) captured as real-world artifacts; abstracted to generic public-service interfaces in recreation prompts. Sibling entries ADV-2026-017 and ADV-2026-018 (same series) and ADV-2026-020 through ADV-2026-028 in this folder belong to other batches and were left untouched.",
+  "verification": {
+    "frames_reviewed": "~45/1223 visually read at native res, including all 10 hard-cut boundaries (f34/35, 83/84, 153/154, 279/280, 396/397, 682/683, 773/774, 855/856, 991/992, 1173/1174), interior frames per shot, and a representative frame for every distinct demo screen across the f154-1173 orange span (search f200; overview wide f280 + tight f340/f396; form district f420, household f470, children f520, situation f570, empty-state f620, results f660/f684; results close-up f730/f750; category browse f775/f810; detail f856/f920/f975/f991; alert sheet f1020/f1060/f1067/f1110/f1150) and the pixel/CRT end card (f1174/f1210); plus targeted crops for the editorial CONTENT header and metadata row; 100% per-frame metrics (diff/tdl/tdu/shift) and cut_hints reviewed",
+    "audio_analyzed": true,
+    "hitrate_na": true,
+    "abstraction_checked": true
+  }
+}

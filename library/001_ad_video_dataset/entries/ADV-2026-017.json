@@ -1,0 +1,1458 @@
+{
+  "id": "ADV-2026-017",
+  "source_ref": {
+    "platform": "social/online video",
+    "title_or_campaign": "토스 숨은 서비스 1 — 신용점수 올리기",
+    "brand": "Toss",
+    "product": "Toss 신용점수 올리기",
+    "model": null,
+    "year": 2026,
+    "production_note": "Curator T series end card",
+    "url": null
+  },
+  "category_primary": "finance.fintech",
+  "category_tags": [
+    "fintech",
+    "credit_score",
+    "app_walkthrough",
+    "feature_demo",
+    "mobile",
+    "money_management"
+  ],
+  "mood": [
+    "helpful",
+    "reassuring",
+    "clean",
+    "informational",
+    "lightly_upbeat"
+  ],
+  "target_demo": "20-40 Korean adults; mobile-first users concerned with loans, interest rates and personal credit score",
+  "total_duration": 35.806,
+  "shot_count": 7,
+  "shot_count_corrected": 9,
+  "fps": 29.97,
+  "aspect_ratio": "9:16",
+  "hook_position": "0:1.602",
+  "cta_position": "30.4:33.0",
+  "narrative_arc": "Opens on a relatable pain point — a personal credit score that falls one point short when applying for a loan. A young adult studies her score on her phone; an editorial caption bar frames the feature as a 'one-touch cheat key' to raise your credit score. The ad then becomes a step-by-step in-app walkthrough shot as a flat-lay phone-on-orange screen demo: search the feature in the all-tab, open '신용점수 올리기', read what it does (auto-submits score-raising documents and reports the result), tap the raise button, watch the app find and submit documents, and land on the payoff — a celebratory score reveal (KCB 945, +54점 / NICE 950) — closing with a reminder to always check before applying for a loan. Series end card reveals 'Curator T / 토스를 발견하다'.",
+  "narrative_structure": "linear_continuous",
+  "pacing_curve": "steady",
+  "music_tempo_curve": "steady",
+  "wow_cut_index": 8,
+  "creative_device": [
+    "app_feature_walkthrough",
+    "problem_then_solution",
+    "voice_caption_sync",
+    "editorial_caption_bar",
+    "number_reveal_payoff",
+    "series_end_card_signature"
+  ],
+  "production_signature": {
+    "capture_style": "mixed",
+    "camera_signature": [
+      "handheld_micro_on_interior_live_action",
+      "locked_off_flatlay_phone_on_orange",
+      "shallow_dof_warm_interior",
+      "screen_demo_ui_capture"
+    ],
+    "signature_note": "Two visual registers cut together: (1) warm shallow-DOF live-action interior shots of a Korean adult holding or studying an iPhone with the app on its screen, and (2) flat-lay top-down phone-on-vivid-orange screen-demo shots used for the step-by-step UI walkthrough. The walkthrough segments carry hardcoded lower-third caption bars (dark rounded pill, bold white Korean text) synced to the voiceover, while the live-action opening uses large centered white captions and a flat editorial 'CONTENT' header bar. The series end card is a distinctive pixel/CRT-distorted logo badge ('Curator T / 토스를 발견하다') with RGB chromatic-aberration text on a textured matte off-white paper field. Wiggle metric is low (mean_abs_shift_x 0.16) and confirmed visually: no stereoscopic parallax; interior shots are gentle handheld, flat-lay and end card are locked off.",
+    "color_grade": "warm_tungsten_amber_for_interior_live_action; saturated_vivid_orange_seamless_for_flatlay_ui_demo; clean_white_app_ui; desaturated_textured_offwhite_for_endcard",
+    "texture_fx": "pixel_crt_chromatic_aberration_on_endcard_logo; otherwise_clean_digital"
+  },
+  "global_layout": {
+    "grid_system": "center-weighted vertical 9:16; phone device centered within frame for flat-lay UI-demo shots; subject placed on a vertical third in live-action shots",
+    "subject_placement_dominant": "centered_phone_device for UI-demo shots; center-right single subject for live-action interior shots",
+    "subject_typo_relation": "large centered white captions float over live-action; lower-third pill caption bars sit under the device on flat-lay UI shots; editorial CONTENT header bar floats top over the live-action woman; end card logo badge centered",
+    "negative_space_use": "vivid orange surround acts as generous negative space framing the white phone in UI-demo shots; end card uses wide matte paper negative space around a small centered badge",
+    "layout_note": "The orange flat-lay surround and the consistent lower-third caption pill create a repeatable demo template; the white phone screen carries all functional UI content while the caption pill carries the narration line"
+  },
+  "recurring_motifs": [
+    "lower_third_caption_pill",
+    "phone_on_orange_flatlay",
+    "credit_score_number",
+    "blue_primary_action_button",
+    "score_rise_arrow",
+    "pixel_crt_endcard_badge"
+  ],
+  "copywriting": {
+    "tagline_text": "Curator T / 토스를 발견하다",
+    "tagline_structure": "series_signature_endcard",
+    "cta_text": "대출 조회할 때 잊지 말고 꼭 체크해보세요!",
+    "copy_tone": [
+      "helpful",
+      "plain_spoken",
+      "encouraging",
+      "instructional"
+    ],
+    "copy_strategy": "step_by_step_feature_walkthrough_with_payoff",
+    "lines": [
+      {
+        "position_sec": 0.93,
+        "text": "대출 앞에서",
+        "function": "hook_problem_setup",
+        "tone": "relatable",
+        "source": "both"
+      },
+      {
+        "position_sec": 1.6,
+        "text": "1점이 아쉬운",
+        "function": "hook_problem_detail",
+        "tone": "relatable",
+        "source": "both"
+      },
+      {
+        "position_sec": 2.5,
+        "text": "내 신용점수",
+        "function": "hook_subject",
+        "tone": "relatable",
+        "source": "both"
+      },
+      {
+        "position_sec": 4.0,
+        "text": "터치 한 번으로 신용점수 올리는 치트키",
+        "function": "editorial_value_proposition",
+        "tone": "punchy",
+        "source": "caption"
+      },
+      {
+        "position_sec": 7.26,
+        "text": "전체 탭에서",
+        "function": "instruction_step",
+        "tone": "instructional",
+        "source": "both"
+      },
+      {
+        "position_sec": 9.0,
+        "text": "'신용점수 올리기'를 선택해주세요",
+        "function": "instruction_step",
+        "tone": "instructional",
+        "source": "both"
+      },
+      {
+        "position_sec": 13.0,
+        "text": "자동으로 제출하고",
+        "function": "feature_explanation",
+        "tone": "instructional",
+        "source": "both"
+      },
+      {
+        "position_sec": 15.5,
+        "text": "그 결과를 확인할 수 있는데요",
+        "function": "feature_explanation",
+        "tone": "instructional",
+        "source": "both"
+      },
+      {
+        "position_sec": 17.5,
+        "text": "버튼을 눌러 '올리기'를 선택하면",
+        "function": "instruction_step",
+        "tone": "instructional",
+        "source": "both"
+      },
+      {
+        "position_sec": 20.0,
+        "text": "신용점수를 높일 수 있는",
+        "function": "feature_explanation",
+        "tone": "instructional",
+        "source": "both"
+      },
+      {
+        "position_sec": 21.5,
+        "text": "문서를 찾아",
+        "function": "feature_explanation",
+        "tone": "instructional",
+        "source": "both"
+      },
+      {
+        "position_sec": 23.0,
+        "text": "제출을 진행하게 됩니다",
+        "function": "feature_explanation",
+        "tone": "instructional",
+        "source": "both"
+      },
+      {
+        "position_sec": 25.3,
+        "text": "와!",
+        "function": "payoff_exclamation",
+        "tone": "delighted",
+        "source": "both"
+      },
+      {
+        "position_sec": 26.0,
+        "text": "신용점수가 올랐어요!",
+        "function": "payoff_result",
+        "tone": "delighted",
+        "source": "both"
+      },
+      {
+        "position_sec": 28.5,
+        "text": "대출 조회할 때 잊지 말고",
+        "function": "cta",
+        "tone": "encouraging",
+        "source": "both"
+      },
+      {
+        "position_sec": 30.4,
+        "text": "꼭 체크해보세요!",
+        "function": "cta",
+        "tone": "encouraging",
+        "source": "both"
+      },
+      {
+        "position_sec": 33.0,
+        "text": "Curator T",
+        "function": "series_brand_signature",
+        "tone": "branded",
+        "source": "caption"
+      },
+      {
+        "position_sec": 33.0,
+        "text": "토스를 발견하다",
+        "function": "series_tagline",
+        "tone": "branded",
+        "source": "caption"
+      }
+    ],
+    "on_screen_ui_text_observed": [
+      "64개 중 62개 금융사에 다녀왔어요",
+      "김창선님의 신용점수를 지금 바로 올려보세요",
+      "지금까지 3,156,445명 점수가 올라왔어요",
+      "신용점수가 높아지면 뭐가 좋아요? / 대출 금리가 낮아지고 / 대출 한도와 카드 한도가 높아져요",
+      "그럼 어떻게 점수를 높이나요? / 1 버튼 눌러서 올리기 버튼을 누르면 / 2 점수를 높일 문서를 자동으로 제출하고 / 3 결과를 즉시 알려드려요",
+      "버튼 눌러서 올리기",
+      "제출할 수 있는 문서를 찾고 있어요 / 국민연금 납부내역 / 건강보험 납부내역 / 소득금액증명서 / 통신비 납부내역 / 토스뱅크 예치금",
+      "축하해요!",
+      "김토오스님 점수가 올랐어요 / KCB 945점 54점 상승 / NICE 950점 변동없음 / 금리 낮아졌는지 확인하기 / 확인",
+      "신용, 내 신용점수, 신용관리 팁, 신용점수 올리기, KCB점수, NICE점수"
+    ],
+    "narration_handling": "voiceover_synced_to_lower_third_caption_bars_and_centered_supers"
+  },
+  "typography": {
+    "primary_font_class": "Korean_sans_serif_bold_rounded",
+    "endcard_font_class": "pixel_bitmap_crt_distorted_latin_plus_korean",
+    "animation_style": [
+      "cut_in_caption_swap",
+      "static_hold",
+      "sticker_peel_in_endcard"
+    ],
+    "subtitle_position_dominant": "lower_third_caption_pill",
+    "color_strategy": "white_text_on_dark_rounded_pill_for_demo_captions; large_white_centered_supers_over_live_action; navy_blue_pixel_text_on_offwhite_badge_for_endcard",
+    "typo_motion_dominant": "caption_swap_synced_to_vo"
+  },
+  "vfx": {
+    "primary_effects": [
+      "ui_screen_demo_capture",
+      "pixel_crt_chromatic_aberration_endcard",
+      "celebration_confetti_in_app_ui"
+    ],
+    "effect_intensity": "low_to_moderate",
+    "transition_style_dominant": "hard_cut",
+    "vfx_event_count": 2
+  },
+  "audio": {
+    "has_audio": true,
+    "language": "ko",
+    "speech_coverage": 0.881,
+    "bgm_likely": true,
+    "narration_lines": [
+      {
+        "start": 0.02,
+        "end": 3.44,
+        "text": "대출 앞에서 일점이 아쉬운 내 신용 점수",
+        "source": "faster_whisper_tiny_caption_reconciled"
+      },
+      {
+        "start": 3.44,
+        "end": 7.26,
+        "text": "버튼 한 번으로 신용 점수가 오를 수 있대요",
+        "source": "faster_whisper_tiny_caption_reconciled"
+      },
+      {
+        "start": 7.26,
+        "end": 11.0,
+        "text": "전체 탭에서 신용 점수 올리기를 선택해주세요",
+        "source": "faster_whisper_tiny_caption_reconciled"
+      },
+      {
+        "start": 11.0,
+        "end": 14.42,
+        "text": "신용 점수를 높일 수 있는 문서를 자동으로 제출하고",
+        "source": "faster_whisper_tiny_caption_reconciled"
+      },
+      {
+        "start": 14.42,
+        "end": 17.06,
+        "text": "그 결과를 확인할 수 있는데요",
+        "source": "faster_whisper_tiny_caption_reconciled"
+      },
+      {
+        "start": 17.06,
+        "end": 19.82,
+        "text": "버튼을 눌러 올리기를 선택하면",
+        "source": "faster_whisper_tiny_caption_reconciled"
+      },
+      {
+        "start": 19.82,
+        "end": 25.62,
+        "text": "신용 점수를 높일 수 있는 문서를 찾아 제출을 진행하게 됩니다",
+        "source": "faster_whisper_tiny_caption_reconciled"
+      },
+      {
+        "start": 25.62,
+        "end": 28.38,
+        "text": "와 신용 점수가 올랐어요",
+        "source": "faster_whisper_tiny_caption_reconciled"
+      },
+      {
+        "start": 28.38,
+        "end": 31.58,
+        "text": "대출 조회할 때 잊지 말고 꼭 체크해 주세요",
+        "source": "faster_whisper_tiny_caption_reconciled"
+      }
+    ],
+    "voice_vs_caption": "voiceover_largely_matches_onscreen_captions; captions are authoritative",
+    "transcribed_by": "faster_whisper",
+    "model": "tiny",
+    "audio_note": "faster_whisper tiny model output reconciled against authoritative on-screen Korean captions: tiny mis-heard '버튼 한 번' as '파티 한 번' (on-screen editorial bar reads '터치 한 번으로', VO reads '버튼 한 번으로'); '올랐어요' mis-heard as '올렸어요'; final CTA mis-heard ('대출 좋아요 때') corrected to on-screen caption '대출 조회할 때 잊지 말고 꼭 체크해보세요'. speech_coverage 0.881 per audio.json; BGM judged likely present (light instrumental bed under VO)."
+  },
+  "frames_dir": "ADV-2026-017_frames",
+  "contact_sheet_path": "ADV-2026-017_frames/contact_sheet.png",
+  "shots": [
+    {
+      "index": 1,
+      "duration": 1.602,
+      "framing": "CU",
+      "function": "hook",
+      "subject_action": "a Korean adult's hand holds an iPhone in a warm interior; the screen shows a personal credit-score dashboard whose central score number counts upward (mid-animation values 55, 58, 60); a large white centered caption reads first '대출 앞에서' then '1점이 아쉬운'",
+      "layout_grid": "diagonal_fill",
+      "subject_position": "center_dominant",
+      "typo_motion": "centered_super_swap",
+      "camera_angle": "high_angle_over_shoulder",
+      "camera_facing": "toward_phone_screen",
+      "shot_scope": "product_detail",
+      "gaze": "off_camera",
+      "props": [
+        "smartphone",
+        "hand"
+      ],
+      "color_palette": [
+        "#C9772E",
+        "#E8E2D8",
+        "#2E6BD6",
+        "#F4EFE7",
+        "#7A5230"
+      ],
+      "color_intent": "warm_amber_interior_bokeh; cool_blue_score_accent_on_light_app_ui; large_white_caption",
+      "pose_description": "an adult hand cradles a black-cased iPhone at a gentle diagonal; thumb at the lower bezel; the screen's circular score gauge and number dominate the upper-center of the device",
+      "subject_motion": "score_number_count_up_micro_hand_drift",
+      "camera_motion": "handheld_micro",
+      "camera_effect_local": "shallow_dof_background_bokeh",
+      "intra_cut_rhythm": "number_count_up_with_caption_swap",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "mid_frame_path": "ADV-2026-017_frames/cut01_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "hand_holding_smartphone",
+          "credit_score_gauge_and_number",
+          "white_centered_caption_text"
+        ],
+        "midground": [
+          "phone_chassis_edges"
+        ],
+        "background": [
+          "blurred_warm_interior",
+          "amber_practical_light_bokeh"
+        ],
+        "lighting_env": [
+          "warm_tungsten_ambient",
+          "screen_self_illumination"
+        ],
+        "atmosphere": [
+          "intimate",
+          "quiet_concern",
+          "domestic_evening"
+        ]
+      },
+      "texture": {
+        "primary_subject": "glossy_glass_phone_screen",
+        "secondary_objects": [
+          "human_skin_hand",
+          "matte_phone_chassis"
+        ],
+        "background_surface": "blurred_undefined_interior",
+        "atmospheric": [
+          "soft_focus_bokeh"
+        ]
+      },
+      "lighting": {
+        "key_direction": "warm_ambient_upper_left",
+        "key_hardness": "soft",
+        "key_color_temp": "warm_tungsten_3000K",
+        "fill_strength": "medium",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": false,
+        "practical_lights": [
+          "warm_room_lamp_bokeh"
+        ],
+        "shadow_presence": "soft",
+        "overall_contrast": "medium_low"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#C9772E",
+          "#E8E2D8",
+          "#2E6BD6",
+          "#F4EFE7",
+          "#7A5230"
+        ],
+        "palette_role": {
+          "#C9772E": "warm_amber_background_bokeh",
+          "#E8E2D8": "light_app_ui_background",
+          "#2E6BD6": "score_gauge_accent_blue",
+          "#F4EFE7": "white_caption_and_screen_highlight",
+          "#7A5230": "skin_and_shadow_warm_brown"
+        },
+        "color_relationship": "warm_dominant_with_cool_blue_accent",
+        "temperature_balance": "warm",
+        "saturation_strategy": "desaturated_naturalistic_with_one_accent",
+        "contrast_type": "soft_with_high_contrast_white_caption",
+        "accent_color": "#2E6BD6",
+        "accent_ratio": 0.12
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "Vertical 9:16 close-up photograph, shot from a high over-the-shoulder angle, of a Korean adult's hand cradling a modern black-cased large-screen smartphone at a gentle diagonal tilt in a warm domestic interior at evening. The phone screen, occupying the upper and central portion of the frame, displays a clean light-toned personal finance dashboard for a credit-score feature of a generic Korean fintet application. At the top of the screen a short line of small grey Korean text reads '64개 중 62개 금융사에 다녀왔어요'. Dominating the center of the screen is a large circular progress gauge rendered with a thin blue arc on a pale track, and inside the ring a very large numeral showing a credit score in the upper fifties to low sixties — captured here mid count-up animation at the value '58' in a heavy rounded sans-serif. Below the gauge, faint rows of list items with small icons and small percentage figures suggest a breakdown of contributing factors, softly out of focus. The hand holding the device shows natural Korean adult skin tone with the thumb resting near the lower bezel and the fingertips visible along the left edge; the phone's matte black chassis catches a soft warm highlight. Superimposed over the lower-center of the entire frame is a large bold white Korean caption that reads '1점이 아쉬운', set in a clean heavy rounded sans-serif with a faint soft shadow for legibility against the image; a beat earlier the same caption position held the words '대출 앞에서'. The entire background beyond the phone dissolves into creamy warm amber and golden bokeh — indistinct shapes of practical room lamps and furniture in a cozy Korean living room, with complete shallow depth-of-field separation. Lighting is soft warm tungsten ambient from the upper left at roughly 3000K, with medium fill, gentle soft shadows and an overall medium-low contrast; the phone screen adds its own cool self-illumination that contrasts subtly with the warm room. Lens rendering: a fast prime at roughly 50 to 85mm full-frame equivalent at a wide aperture, giving a shallow plane of focus on the screen and very smooth background blur, plus a slight handheld intimacy. Composition follows a strong diagonal led by the phone's tilt, the score number sitting on an upper-center focal point and the white caption anchoring the lower third. Color palette and strategy: a warm-dominant naturalistic grade — amber background bokeh (#C9772E), pale light app background (#E8E2D8), a single cool accent of gauge blue (#2E6BD6), bright white caption and screen highlights (#F4EFE7), and warm brown skin and shadow tones (#7A5230); saturation is restrained and realist except for the assertive white caption. Surfaces and texture: glossy reflective glass over the active screen, fine natural skin texture on the hand, a soft matte phone chassis, and an undefined soft-focus interior behind. Atmosphere: intimate, quietly concerned, the private moment of someone checking a number that matters to them on a calm evening. Post and signature look: clean modern digital capture with a warm commercial color grade, no heavy grain, precise focus on the screen content, naturalistic skin. Style anchor: contemporary Korean fintech commercial photography in the premium app-walkthrough register, where a real-feeling personal device screen is framed with cinematic care to fuse functional product information with an emotional, relatable everyday moment; the on-screen Korean caption text '대출 앞에서' and '1점이 아쉬운' must be preserved exactly. No celebrity likeness, no real brand logos or wordmarks on the device or in the UI — render the application as a generic, plausible Korean fintech interface.",
+        "t2i_negative": "english ui text, sharp fully-focused background, cold daylight, harsh shadows, visible brand logos, blurry unreadable score number, western app design",
+        "i2v_motion": "The circular gauge fills and the central score number counts upward from the mid-fifties toward sixty; the hand holds with gentle organic micro-drift; the white centered caption swaps from '대출 앞에서' to '1점이 아쉬운'; shallow depth of field holds on the screen; hard cut at ~1.6s.",
+        "i2v_params": {
+          "clip_duration_sec": 1.6,
+          "camera_move": "handheld_micro",
+          "subject_motion_level": "minimal",
+          "signature_effect": "none",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen Korean caption preserved; identity/logo generic"
+      }
+    },
+    {
+      "index": 2,
+      "duration": 1.801,
+      "framing": "MCU",
+      "function": "context",
+      "subject_action": "a young Korean adult woman in a light blue shirt sits at a desk in a warm study, looking down at the phone in her hand with her chin resting on her other hand, a mildly worried expression; a large white centered caption reads '1점이 아쉬운' then '내 신용점수'",
+      "layout_grid": "center_right_subject",
+      "subject_position": "center_right",
+      "typo_motion": "centered_super_swap",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "medium_portrait",
+      "gaze": "down_at_phone",
+      "props": [
+        "smartphone",
+        "desk",
+        "bookshelf",
+        "ceramic_objects"
+      ],
+      "color_palette": [
+        "#9DB0C4",
+        "#7A4B2E",
+        "#E8B488",
+        "#3A2A22",
+        "#D8C9B0"
+      ],
+      "color_intent": "warm_brown_study_bokeh; cool_blue_shirt; soft_amber_key_on_skin; white_caption",
+      "pose_description": "the woman sits angled slightly toward camera-left, holding the dark phone in her left hand near chest height while her right elbow props on the desk and her hand cradles her chin; brow faintly furrowed in concern",
+      "subject_motion": "minimal_natural_stillness",
+      "camera_motion": "handheld_micro",
+      "camera_effect_local": "shallow_dof_background",
+      "intra_cut_rhythm": "static_observational_with_caption_swap",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "mid_frame_path": "ADV-2026-017_frames/cut02_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "woman_holding_phone",
+          "chin_resting_hand",
+          "white_centered_caption_text"
+        ],
+        "midground": [
+          "desk_edge"
+        ],
+        "background": [
+          "wooden_bookshelf",
+          "ceramic_and_camera_objects",
+          "warm_blurred_room"
+        ],
+        "lighting_env": [
+          "warm_tungsten_ambient",
+          "soft_key_on_face"
+        ],
+        "atmosphere": [
+          "quiet_concern",
+          "thoughtful",
+          "cozy_evening"
+        ]
+      },
+      "texture": {
+        "primary_subject": "soft_cotton_shirt_and_skin",
+        "secondary_objects": [
+          "matte_phone",
+          "ceramic_vessels"
+        ],
+        "background_surface": "wood_shelf_grain",
+        "atmospheric": [
+          "warm_soft_bokeh"
+        ]
+      },
+      "lighting": {
+        "key_direction": "soft_frontal_warm_from_left",
+        "key_hardness": "soft",
+        "key_color_temp": "warm_tungsten_3200K",
+        "fill_strength": "medium",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": false,
+        "practical_lights": [
+          "warm_room_lamp"
+        ],
+        "shadow_presence": "soft",
+        "overall_contrast": "medium_low"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#9DB0C4",
+          "#7A4B2E",
+          "#E8B488",
+          "#3A2A22",
+          "#D8C9B0"
+        ],
+        "palette_role": {
+          "#9DB0C4": "subject_blue_shirt",
+          "#7A4B2E": "warm_wood_background",
+          "#E8B488": "skin_warm_key",
+          "#3A2A22": "dark_shadow_and_phone",
+          "#D8C9B0": "ambient_warm_neutral"
+        },
+        "color_relationship": "warm_cool_complementary",
+        "temperature_balance": "warm_dominant",
+        "saturation_strategy": "desaturated_naturalistic",
+        "contrast_type": "soft_portrait",
+        "accent_color": "#9DB0C4",
+        "accent_ratio": 0.25
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "Vertical 9:16 medium close-up portrait photograph, eye-level frontal framing, of a young Korean adult woman in her late twenties seated at a desk in a warm, cozy home study at evening. She wears a relaxed light powder-blue cotton button-up shirt; her shoulder-length warm-brown hair frames a softly lit face. She is angled slightly toward the left of frame, holding a modern dark smartphone in her left hand near chest height and looking downward at the screen, while her right elbow rests on the desk and her right hand cradles her chin and lower cheek in a thoughtful, mildly worried pose — brow faintly furrowed as if pondering a number she has just seen. The phone screen is turned away from camera and reads only as a dark rectangle at this angle. Behind her, softly out of focus, a wooden mid-century bookshelf holds a curated arrangement of small ceramic vessels, a retro camera, books and decorative objects, all dissolved into warm brown bokeh. Superimposed over the lower-center of the entire frame is a large bold white Korean caption reading '내 신용점수' in a clean heavy rounded sans-serif with a faint soft drop shadow for legibility; a beat earlier this caption position held the words '1점이 아쉬운'. Lighting is soft warm tungsten ambient, a gentle key falling from the left onto her face at roughly 3200K with medium fill, soft shadows and overall medium-low contrast, giving a comfortable domestic glow. The blue of her shirt provides a cool counterpoint to the warm room, a quiet complementary color relationship. Lens rendering: a portrait prime at roughly 50 to 85mm full-frame equivalent at a wide aperture, placing the plane of focus on her face and hand while the background blurs smoothly; a slight handheld intimacy is present but no exaggerated motion. Composition seats her on the right-center vertical third with the warm shelf filling the background and the white caption anchoring the lower third. Color palette and strategy: a warm-dominant naturalistic grade — powder-blue shirt (#9DB0C4) as the cool accent, warm wood background (#7A4B2E), warm skin key (#E8B488), dark shadow and phone (#3A2A22), and warm neutral ambient (#D8C9B0); saturation is restrained and realist with the bright white caption as the only high-contrast element. Surfaces and texture: soft cotton shirt and fine natural skin texture, a matte phone, smooth ceramic vessels and visible wood grain on the shelf behind, all rendered with clean modern digital fidelity and no heavy grain. Atmosphere: quietly thoughtful and a little concerned, the relatable beat of a young adult contemplating her personal credit score on a calm evening. Post and signature look: warm commercial color grade, precise focus on the subject, smooth bokeh separation, naturalistic skin tones. Style anchor: contemporary Korean lifestyle-commercial portraiture in a warm domestic register, the kind used in fintech app walkthroughs to ground a financial concept in a real, relatable person before cutting to the product demonstration; the on-screen Korean caption text '1점이 아쉬운' and '내 신용점수' must be preserved exactly. No celebrity likeness — render a generic Korean adult woman; no real brand logos anywhere.",
+        "t2i_negative": "english caption text, cold daylight, sharp background, studio seamless backdrop, harsh contrast, exaggerated expression, visible brand logos",
+        "i2v_motion": "The woman holds nearly still with natural breathing and a tiny gaze shift down to the phone; the centered white caption swaps from '1점이 아쉬운' to '내 신용점수'; gentle handheld micro-drift on camera; hard cut at ~1.8s.",
+        "i2v_params": {
+          "clip_duration_sec": 1.8,
+          "camera_move": "handheld_micro",
+          "subject_motion_level": "minimal",
+          "signature_effect": "none",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen Korean caption preserved; identity generic"
+      }
+    },
+    {
+      "index": 3,
+      "duration": 3.237,
+      "framing": "MCU",
+      "function": "value_proposition",
+      "subject_action": "the same young woman now looks up toward camera, lightly gesturing and speaking, then settles into a small confident smile; a flat editorial 'CONTENT' header bar floats across the top of frame reading '터치 한 번으로 / 신용점수 올리는 치트키' with small SERVICE / YEAR / CATEGORY / PRODUCTION TEAM metadata",
+      "layout_grid": "subject_lower_center_with_top_header_bar",
+      "subject_position": "center",
+      "typo_motion": "static_editorial_header_bar",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "medium_portrait",
+      "gaze": "to_camera",
+      "props": [
+        "smartphone",
+        "desk",
+        "bookshelf",
+        "desk_lamp",
+        "microscope_prop"
+      ],
+      "color_palette": [
+        "#8FA8C6",
+        "#7A4B2E",
+        "#E8B488",
+        "#F2F4F8",
+        "#2E50C0"
+      ],
+      "color_intent": "warm_study_bokeh; cool_blue_shirt; clean_white_editorial_header_with_blue_outline",
+      "pose_description": "the woman sits centered holding the dark phone in both hands at waist height, looking up and toward the lens with an open, explaining expression that resolves into a gentle closed-mouth smile",
+      "subject_motion": "light_conversational_gesture_then_settle",
+      "camera_motion": "handheld_micro",
+      "camera_effect_local": "shallow_dof_background",
+      "intra_cut_rhythm": "talking_beat_resolving_to_smile",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "mid_frame_path": "ADV-2026-017_frames/cut03_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "woman_holding_phone",
+          "editorial_content_header_bar"
+        ],
+        "midground": [
+          "desk_surface_with_objects"
+        ],
+        "background": [
+          "wooden_bookshelf",
+          "warm_desk_lamp",
+          "scientific_props"
+        ],
+        "lighting_env": [
+          "warm_tungsten_ambient",
+          "soft_key_on_face"
+        ],
+        "atmosphere": [
+          "approachable",
+          "explanatory",
+          "cozy_evening"
+        ]
+      },
+      "texture": {
+        "primary_subject": "soft_cotton_shirt_and_skin",
+        "secondary_objects": [
+          "matte_phone",
+          "glossy_white_header_panel"
+        ],
+        "background_surface": "wood_shelf_grain",
+        "atmospheric": [
+          "warm_soft_bokeh"
+        ]
+      },
+      "lighting": {
+        "key_direction": "soft_frontal_warm",
+        "key_hardness": "soft",
+        "key_color_temp": "warm_tungsten_3200K",
+        "fill_strength": "medium",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": false,
+        "practical_lights": [
+          "warm_desk_lamp"
+        ],
+        "shadow_presence": "soft",
+        "overall_contrast": "medium_low"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#8FA8C6",
+          "#7A4B2E",
+          "#E8B488",
+          "#F2F4F8",
+          "#2E50C0"
+        ],
+        "palette_role": {
+          "#8FA8C6": "subject_blue_shirt",
+          "#7A4B2E": "warm_wood_background",
+          "#E8B488": "skin_warm_key",
+          "#F2F4F8": "white_editorial_header_panel",
+          "#2E50C0": "header_outline_and_accent_blue"
+        },
+        "color_relationship": "warm_cool_complementary_with_clean_white_overlay",
+        "temperature_balance": "warm_dominant",
+        "saturation_strategy": "desaturated_naturalistic",
+        "contrast_type": "soft_portrait_with_crisp_graphic_overlay",
+        "accent_color": "#2E50C0",
+        "accent_ratio": 0.2
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "Vertical 9:16 medium close-up portrait photograph, eye-level frontal framing, of the same young Korean adult woman in her late twenties, wearing the same relaxed light powder-blue cotton button-up shirt, seated centered at a desk in a warm cozy home study at evening. She now looks up and toward the lens with an open, mid-sentence explaining expression, holding a modern dark smartphone in both hands at about waist height, her body language friendly and direct as if recommending something she likes; across the duration her expression resolves into a gentle, confident closed-mouth smile. Behind her, softly out of focus, the warm wooden bookshelf, a glowing warm desk lamp and a few studious props such as a small microscope dissolve into amber bokeh. Floating across the very top of the frame is a flat editorial graphic header bar: a clean white rounded rectangle with a thin blue outline, containing two lines of bold near-black Korean text reading '터치 한 번으로' on the first line and '신용점수 올리는 치트키' on the second; a tiny label 'CONTENT' sits at the upper-left of the panel, and along the bottom edge of the panel a row of very small grey metadata labels reads in the manner of 'SERVICE', 'YEAR', 'CATEGORY', 'PRODUCTION TEAM' with small values beneath, giving the look of an editorial title card laid over live action. Lighting is soft warm tungsten ambient with a gentle frontal key at roughly 3200K, medium fill, soft shadows, overall medium-low contrast. Lens rendering: a portrait prime at roughly 50 to 85mm full-frame equivalent at a wide aperture, the plane of focus on her face and hands, the background blurred smoothly, with a slight natural handheld presence. Composition seats the subject in the lower-center of the frame with generous warm background, while the crisp white editorial header bar anchors the top edge — a deliberate contrast of soft photographic warmth against a flat graphic overlay. Color palette and strategy: warm-dominant naturalistic grade — powder-blue shirt (#8FA8C6) as the cool accent, warm wood background (#7A4B2E), warm skin key (#E8B488), clean white editorial panel (#F2F4F8), and a crisp accent blue (#2E50C0) in the panel outline and labels; saturation restrained and realist with the white-and-blue graphic providing crisp high-frequency contrast. Surfaces and texture: soft cotton shirt and natural skin, a matte phone, a glossy flat white graphic panel, and warm wood grain behind, all clean modern digital. Atmosphere: approachable and explanatory, a trusted peer framing the feature as an effortless 'cheat key'. Post and signature look: warm commercial grade on the photography, perfectly flat crisp rendering on the graphic overlay, precise focus on the subject. Style anchor: contemporary Korean fintech social-video aesthetic that overlays magazine-style editorial title bars onto warm live-action portraiture; the on-screen Korean header text '터치 한 번으로' and '신용점수 올리는 치트키' must be preserved exactly, along with the small English metadata labels 'CONTENT', 'SERVICE', 'YEAR', 'CATEGORY', 'PRODUCTION TEAM'. No celebrity likeness — generic Korean adult woman; no real brand logos. The production craft should read as premium Korean commercial work: a fast prime lens wide open for creamy separation, careful warm practical lighting that wraps the face softly, and a perfectly registered, anti-aliased flat graphic overlay that sits convincingly in the frame without a hint of jitter or perspective distortion, the kind of polished editorial-meets-live-action treatment common to high-end Korean fintech social campaigns.",
+        "t2i_negative": "english body caption, cold light, sharp background, studio backdrop, harsh contrast, distorted header text, real brand logos",
+        "i2v_motion": "The woman speaks with a small natural hand gesture on the phone and resolves into a gentle smile; the white editorial header bar holds static at the top of frame; subtle handheld micro-drift; hard cut at ~3.2s.",
+        "i2v_params": {
+          "clip_duration_sec": 3.2,
+          "camera_move": "handheld_micro",
+          "subject_motion_level": "low_natural",
+          "signature_effect": "none",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen Korean caption preserved; identity generic"
+      }
+    },
+    {
+      "index": 4,
+      "duration": 2.369,
+      "framing": "MS",
+      "function": "product_demo",
+      "subject_action": "top-down flat-lay of an iPhone lying on a vivid orange surface; the app shows an in-app search with '신용' typed and an autocomplete list (내 신용점수 / 신용관리 팁 / 신용점수 올리기 / KCB점수 / NICE점수); a finger taps the '신용점수 올리기' row; a lower-third dark caption pill reads '전체 탭에서'",
+      "layout_grid": "centered_device_on_field",
+      "subject_position": "center_dominant",
+      "typo_motion": "lower_third_caption_pill",
+      "camera_angle": "top_down_flatlay",
+      "camera_facing": "perpendicular_to_screen",
+      "shot_scope": "product_detail",
+      "gaze": "none",
+      "props": [
+        "smartphone",
+        "finger",
+        "orange_surface",
+        "sticky_note"
+      ],
+      "color_palette": [
+        "#E8731C",
+        "#FFFFFF",
+        "#2E6BF0",
+        "#1A1A1A",
+        "#3A2410"
+      ],
+      "color_intent": "saturated_orange_field; clean_white_app_search_ui; blue_link_accent; dark_caption_pill",
+      "pose_description": "the phone lies flat and centered on the orange surface, screen up; a single index finger enters from the lower right to tap an autocomplete list row",
+      "subject_motion": "finger_tap_ui_interaction",
+      "camera_motion": "locked_off",
+      "camera_effect_local": "flat_even_screen_capture",
+      "intra_cut_rhythm": "search_then_tap",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "mid_frame_path": "ADV-2026-017_frames/cut04_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "phone_screen_search_ui",
+          "finger_tapping",
+          "lower_third_caption_pill"
+        ],
+        "midground": [
+          "phone_chassis_on_surface"
+        ],
+        "background": [
+          "vivid_orange_flat_surface",
+          "edge_of_pink_sticky_note"
+        ],
+        "lighting_env": [
+          "even_soft_overhead",
+          "screen_self_illumination"
+        ],
+        "atmosphere": [
+          "clean_product_demo",
+          "instructional"
+        ]
+      },
+      "texture": {
+        "primary_subject": "glossy_phone_screen_flat",
+        "secondary_objects": [
+          "matte_phone_chassis",
+          "human_finger"
+        ],
+        "background_surface": "smooth_matte_orange_paper",
+        "atmospheric": [
+          "clean_flat_graphic_field"
+        ]
+      },
+      "lighting": {
+        "key_direction": "even_overhead_diffuse",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_5000K",
+        "fill_strength": "high",
+        "key_to_fill_ratio": "1:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "minimal_soft_under_phone",
+        "overall_contrast": "medium"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#E8731C",
+          "#FFFFFF",
+          "#2E6BF0",
+          "#1A1A1A",
+          "#3A2410"
+        ],
+        "palette_role": {
+          "#E8731C": "orange_background_field",
+          "#FFFFFF": "app_ui_background",
+          "#2E6BF0": "ui_link_accent_blue",
+          "#1A1A1A": "ui_text_and_caption_pill",
+          "#3A2410": "soft_shadow_under_device"
+        },
+        "color_relationship": "complementary_orange_vs_blue",
+        "temperature_balance": "warm_field_cool_ui",
+        "saturation_strategy": "high_saturation_brand_field_functional_ui",
+        "contrast_type": "high_contrast_white_device_on_orange",
+        "accent_color": "#2E6BF0",
+        "accent_ratio": 0.1
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "Vertical 9:16 top-down flat-lay product photograph of a modern large-screen smartphone lying screen-up and centered on a smooth, saturated vivid-orange flat paper surface, the orange filling the entire surround as a bold seamless field of negative space. The phone is shown straight-on, perpendicular to camera, its slim black chassis framing a bright white application screen. The screen displays a generic Korean fintech app's in-app search state: a search field near the top contains the typed Korean query '신용' with a grey '취소' cancel label to its right; below it a row of suggestion chips reads '내 신용점수', '대출 상품 조회', '신용 등급'; beneath a small grey section label, a vertical autocomplete results list shows, top to bottom, '내 신용점수' (highlighted as a primary suggestion), then '신용관리 팁' with a small grey sub-label, then '신용점수 올리기' rendered in blue link color with a small sub-label, then 'KCB 점수', then 'NICE 점수', each as a tappable row. The lower portion of the screen shows a light Korean QWERTY-style on-screen keyboard with a blue '검색' (search) key. A single Korean adult index finger enters the frame from the lower right and presses the '신용점수 올리기' row, the fingertip touching that line. Superimposed across the lower third of the entire frame, sitting just below the phone, is a horizontally-centered dark charcoal rounded-rectangle caption pill containing bold white Korean text reading '전체 탭에서'. Lighting is even, soft, neutral overhead diffuse at roughly 5000K with high fill, producing only a minimal soft contact shadow beneath the phone and a clean flat look across the orange field; the screen self-illuminates with clean white. Lens rendering: a flat, low-distortion top-down capture as if from a copy-stand, the screen perfectly legible edge to edge with a slight glossy sheen on the glass. Composition centers the device on the orange field with the caption pill anchoring the lower third, the whole image reading as a clean instructional product demo. Color palette and strategy: a high-saturation complementary scheme — vivid orange background field (#E8731C) set against the cool white app UI, a blue link and action accent (#2E6BF0), near-black UI text and the dark caption pill (#1A1A1A), and a soft warm shadow under the device (#3A2410); the orange-versus-blue complementary tension gives the demo its punchy brand-forward look while the UI itself stays functional. Surfaces and texture: glossy flat phone glass, matte black chassis, a smooth matte orange paper backdrop, and a natural human fingertip; a sliver of a pink sticky note peeks at the frame edge. Atmosphere: clean, bright, instructional product demonstration. Post and signature look: crisp clean digital, accurate UI colors, saturated but even orange, no grain. Style anchor: contemporary Korean fintech social-video UI-walkthrough aesthetic — a phone-on-colored-paper flat-lay with synced lower-third caption pills; preserve the on-screen Korean UI strings ('신용', '내 신용점수', '신용관리 팁', '신용점수 올리기', 'KCB 점수', 'NICE 점수', '검색', '취소') and the caption '전체 탭에서' exactly. Render the app as a generic plausible Korean fintech interface with no real brand logos or wordmarks; no celebrity likeness. The whole frame should feel like a crisp tabletop product demo shot on a copy stand under soft even light: the orange paper perfectly flat and uniform, the white phone screen razor sharp and legible, the single fingertip the only organic element, and the caption pill rendered as a clean anti-aliased graphic — a deliberately simple, brand-forward instructional look typical of Korean fintech how-to social videos.",
+        "t2i_negative": "english ui, perspective tilt, dark background, heavy drop shadow, cluttered desk props, real brand logos, blurry screen",
+        "i2v_motion": "The search results sit ready; a finger taps the '신용점수 올리기' row; the screen is static otherwise; the lower-third caption pill holds '전체 탭에서'; locked-off camera; hard cut at ~2.4s.",
+        "i2v_params": {
+          "clip_duration_sec": 2.4,
+          "camera_move": "locked_off",
+          "subject_motion_level": "low_ui_interaction",
+          "signature_effect": "none",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen Korean UI and caption preserved; identity/logo generic"
+      }
+    },
+    {
+      "index": 5,
+      "duration": 8.242,
+      "framing": "MS",
+      "function": "product_demo",
+      "subject_action": "top-down flat-lay; the app now shows the '신용점수 올리기' explainer screen with a rocket illustration, headline '김창선님의 신용점수를 지금 바로 올려보세요', a '3,156,445명 점수가 올라왔어요' counter, a benefits block and a numbered 3-step list, with a blue primary button '버튼 눌러서 올리기'; the page scrolls and the lower-third caption pill cycles '신용점수 올리기를 선택해주세요' then '자동으로 제출하고' then '그 결과를 확인할 수 있는데요'",
+      "layout_grid": "centered_device_on_field",
+      "subject_position": "center_dominant",
+      "typo_motion": "lower_third_caption_pill_swap",
+      "camera_angle": "top_down_flatlay",
+      "camera_facing": "perpendicular_to_screen",
+      "shot_scope": "product_detail",
+      "gaze": "none",
+      "props": [
+        "smartphone",
+        "orange_surface",
+        "sticky_note",
+        "notebook_edge"
+      ],
+      "color_palette": [
+        "#E8731C",
+        "#FFFFFF",
+        "#2E6BF0",
+        "#5B6470",
+        "#1A1A1A"
+      ],
+      "color_intent": "saturated_orange_field; clean_white_explainer_ui; blue_button_and_link_accent; dark_caption_pill",
+      "pose_description": "the phone lies flat and centered, screen up, displaying a scrollable explainer page; no hand present for most of the shot",
+      "subject_motion": "ui_scroll_through_explainer",
+      "camera_motion": "locked_off",
+      "camera_effect_local": "flat_even_screen_capture",
+      "intra_cut_rhythm": "scroll_with_caption_swaps_synced_to_vo",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "mid_frame_path": "ADV-2026-017_frames/cut05_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "phone_screen_explainer_ui",
+          "blue_primary_button",
+          "lower_third_caption_pill"
+        ],
+        "midground": [
+          "phone_chassis_on_surface"
+        ],
+        "background": [
+          "vivid_orange_flat_surface",
+          "edge_of_sticky_note_and_notebook"
+        ],
+        "lighting_env": [
+          "even_soft_overhead",
+          "screen_self_illumination"
+        ],
+        "atmosphere": [
+          "clean_product_demo",
+          "instructional",
+          "trust_building"
+        ]
+      },
+      "texture": {
+        "primary_subject": "glossy_phone_screen_flat",
+        "secondary_objects": [
+          "matte_phone_chassis"
+        ],
+        "background_surface": "smooth_matte_orange_paper",
+        "atmospheric": [
+          "clean_flat_graphic_field"
+        ]
+      },
+      "lighting": {
+        "key_direction": "even_overhead_diffuse",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_5000K",
+        "fill_strength": "high",
+        "key_to_fill_ratio": "1:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "minimal_soft_under_phone",
+        "overall_contrast": "medium"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#E8731C",
+          "#FFFFFF",
+          "#2E6BF0",
+          "#5B6470",
+          "#1A1A1A"
+        ],
+        "palette_role": {
+          "#E8731C": "orange_background_field",
+          "#FFFFFF": "app_ui_background",
+          "#2E6BF0": "primary_button_and_link_blue",
+          "#5B6470": "secondary_ui_text_grey",
+          "#1A1A1A": "headline_text_and_caption_pill"
+        },
+        "color_relationship": "complementary_orange_vs_blue",
+        "temperature_balance": "warm_field_cool_ui",
+        "saturation_strategy": "high_saturation_brand_field_functional_ui",
+        "contrast_type": "high_contrast_white_device_on_orange",
+        "accent_color": "#2E6BF0",
+        "accent_ratio": 0.12
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "Vertical 9:16 top-down flat-lay product photograph of a modern large-screen smartphone lying screen-up and centered on a smooth, saturated vivid-orange paper surface that fills the entire surround as bold negative space. The phone, shown straight-on with its slim black chassis, displays a generic Korean fintech app's credit-score-raising explainer page on a clean white background. Near the top a bold two-line Korean headline reads '김창선님의 신용점수를 지금 바로 올려보세요'; just beneath it a lighter grey line reads '지금까지 3,156,445명 점수가 올라왔어요'. Centered below the headline is a friendly flat illustration of a small rocket ship in blue, red and white tones angled upward as if launching. Below the illustration, a section headed '신용점수가 높아지면 뭐가 좋아요?' lists two benefit rows each with a small icon: '대출 금리가 낮아지고' and '대출 한도와 카드 한도가 높아져요'. A further section headed '그럼 어떻게 점수를 높이나요?' presents a numbered three-step list: '1 버튼 눌러서 올리기 버튼을 누르면', '2 점수를 높일 문서를 자동으로 제출하고', '3 결과를 즉시 알려드려요'. Anchored near the bottom of the screen is a wide rounded primary action button in vivid blue containing white Korean text reading '버튼 눌러서 올리기'. Superimposed across the lower third of the entire frame, sitting just below the phone, is a horizontally-centered dark charcoal rounded-rectangle caption pill with bold white Korean text; at this moment it reads '자동으로 제출하고' (across the shot the pill also shows '신용점수 올리기를 선택해주세요' and '그 결과를 확인할 수 있는데요'). Lighting is even, soft, neutral overhead diffuse at roughly 5000K with high fill, producing only a minimal soft contact shadow beneath the phone and a clean flat look across the orange field; the screen self-illuminates clean white. Lens rendering: a flat low-distortion copy-stand-style top-down capture, the screen perfectly legible edge to edge with a slight glossy sheen. Composition centers the device on the orange field with the caption pill anchoring the lower third. Color palette and strategy: a high-saturation complementary scheme — vivid orange background field (#E8731C) against the cool white app UI, a vivid blue primary button and links (#2E6BF0), secondary grey UI text (#5B6470), and near-black headline text and caption pill (#1A1A1A); the orange-versus-blue complementary contrast drives the brand-forward demo look while the UI stays clean and functional. Surfaces and texture: glossy flat phone glass, matte black chassis, smooth matte orange paper backdrop; slivers of a pink sticky note and a notebook edge peek at the frame border. Atmosphere: clean, bright, trust-building instructional demonstration. Post and signature look: crisp clean digital, accurate UI colors, saturated even orange, no grain. Style anchor: contemporary Korean fintech social-video UI-walkthrough aesthetic — phone-on-colored-paper flat-lay with synced lower-third caption pills; preserve the on-screen Korean strings ('김창선님의 신용점수를 지금 바로 올려보세요', '지금까지 3,156,445명 점수가 올라왔어요', '신용점수가 높아지면 뭐가 좋아요?', '대출 금리가 낮아지고', '대출 한도와 카드 한도가 높아져요', '그럼 어떻게 점수를 높이나요?', '1 버튼 눌러서 올리기 버튼을 누르면', '2 점수를 높일 문서를 자동으로 제출하고', '3 결과를 즉시 알려드려요', '버튼 눌러서 올리기') and the caption '자동으로 제출하고' exactly. Render the app generically with no real brand logos; no celebrity likeness.",
+        "t2i_negative": "english ui, perspective tilt, dark background, heavy shadow, cluttered props, real brand logos, blurry text",
+        "i2v_motion": "The explainer page scrolls gently from the rocket headline down to the numbered 3-step list and blue button; the lower-third caption pill swaps in sync with the voiceover from '신용점수 올리기를 선택해주세요' to '자동으로 제출하고' to '그 결과를 확인할 수 있는데요'; locked-off camera; hard cut at ~8.2s.",
+        "i2v_params": {
+          "clip_duration_sec": 8.2,
+          "camera_move": "locked_off",
+          "subject_motion_level": "low_ui_scroll",
+          "signature_effect": "none",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen Korean UI and captions preserved; identity/logo generic"
+      }
+    },
+    {
+      "index": 6,
+      "duration": 7.107,
+      "framing": "MS",
+      "function": "product_demo",
+      "subject_action": "top-down flat-lay; the app shows a document-finding screen headed '제출할 수 있는 문서를 찾고 있어요' listing 국민연금 납부내역 / 건강보험 납부내역 / 소득금액증명서 / 통신비 납부내역 / 토스뱅크 예치금; a green checkmark appears beside the first item as documents are gathered; the lower-third caption pill cycles '버튼을 눌러 올리기를 선택하면' then '신용점수를 높일 수 있는' then '문서를 찾아' then '제출을 진행하게 됩니다'",
+      "layout_grid": "centered_device_on_field",
+      "subject_position": "center_dominant",
+      "typo_motion": "lower_third_caption_pill_swap",
+      "camera_angle": "top_down_flatlay",
+      "camera_facing": "perpendicular_to_screen",
+      "shot_scope": "product_detail",
+      "gaze": "none",
+      "props": [
+        "smartphone",
+        "orange_surface",
+        "sticky_note"
+      ],
+      "color_palette": [
+        "#E8731C",
+        "#FFFFFF",
+        "#22B07A",
+        "#5B6470",
+        "#1A1A1A"
+      ],
+      "color_intent": "saturated_orange_field; clean_white_document_list_ui; green_check_accent; dark_caption_pill",
+      "pose_description": "the phone lies flat and centered, screen up, showing a document list that progressively gains a green check on the first row",
+      "subject_motion": "ui_document_check_progress",
+      "camera_motion": "locked_off",
+      "camera_effect_local": "flat_even_screen_capture",
+      "intra_cut_rhythm": "checklist_progress_with_caption_swaps",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "mid_frame_path": "ADV-2026-017_frames/cut06_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "phone_screen_document_list_ui",
+          "green_checkmark",
+          "lower_third_caption_pill"
+        ],
+        "midground": [
+          "phone_chassis_on_surface"
+        ],
+        "background": [
+          "vivid_orange_flat_surface",
+          "edge_of_sticky_note"
+        ],
+        "lighting_env": [
+          "even_soft_overhead",
+          "screen_self_illumination"
+        ],
+        "atmosphere": [
+          "clean_product_demo",
+          "automated_process_in_progress"
+        ]
+      },
+      "texture": {
+        "primary_subject": "glossy_phone_screen_flat",
+        "secondary_objects": [
+          "matte_phone_chassis"
+        ],
+        "background_surface": "smooth_matte_orange_paper",
+        "atmospheric": [
+          "clean_flat_graphic_field"
+        ]
+      },
+      "lighting": {
+        "key_direction": "even_overhead_diffuse",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_5000K",
+        "fill_strength": "high",
+        "key_to_fill_ratio": "1:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "minimal_soft_under_phone",
+        "overall_contrast": "medium"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#E8731C",
+          "#FFFFFF",
+          "#22B07A",
+          "#5B6470",
+          "#1A1A1A"
+        ],
+        "palette_role": {
+          "#E8731C": "orange_background_field",
+          "#FFFFFF": "app_ui_background",
+          "#22B07A": "green_checkmark_accent",
+          "#5B6470": "list_item_text_grey",
+          "#1A1A1A": "headline_text_and_caption_pill"
+        },
+        "color_relationship": "warm_field_with_green_progress_accent",
+        "temperature_balance": "warm_field_cool_ui",
+        "saturation_strategy": "high_saturation_brand_field_functional_ui",
+        "contrast_type": "high_contrast_white_device_on_orange",
+        "accent_color": "#22B07A",
+        "accent_ratio": 0.08
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "Vertical 9:16 top-down flat-lay product photograph of a modern large-screen smartphone lying screen-up and centered on a smooth, saturated vivid-orange paper surface filling the entire surround as bold negative space. The phone, shown straight-on with its slim black chassis, displays a generic Korean fintech app's automated document-gathering screen on a clean white background. Near the top a bold two-line Korean headline reads '제출할 수 있는 문서를 찾고 있어요'. Below the headline runs a vertical list of document types, each on its own row in medium grey Korean text: '국민연금 납부내역', '건강보험 납부내역', '소득금액증명서', '통신비 납부내역', and '토스뱅크 예치금'. As the automated process runs, the first row '국민연금 납부내역' gains a small green checkmark icon at its right edge indicating that document has been found, while a second row shows a subtle in-progress indicator. The rest of the screen is calm white space, communicating a quiet automated search. Superimposed across the lower third of the entire frame, sitting just below the phone, is a horizontally-centered dark charcoal rounded-rectangle caption pill with bold white Korean text; at this moment it reads '문서를 찾아' (across the shot the pill also shows '버튼을 눌러 올리기를 선택하면', '신용점수를 높일 수 있는', and '제출을 진행하게 됩니다'). Lighting is even, soft, neutral overhead diffuse at roughly 5000K with high fill, producing only a minimal soft contact shadow beneath the phone and a clean flat look across the orange field; the screen self-illuminates clean white. Lens rendering: a flat low-distortion copy-stand-style top-down capture, the screen legible edge to edge with a slight glossy sheen. Composition centers the device on the orange field with the caption pill anchoring the lower third. Color palette and strategy: a high-saturation scheme — vivid orange background field (#E8731C) against the cool white app UI, a green progress checkmark accent (#22B07A), grey list text (#5B6470), and near-black headline text and caption pill (#1A1A1A); the warm orange field frames a clean functional white list whose only chromatic event is the reassuring green check. Surfaces and texture: glossy flat phone glass, matte black chassis, smooth matte orange paper backdrop; a sliver of a pink sticky note peeks at the frame border. Atmosphere: clean, bright, an automated process working on the user's behalf. Post and signature look: crisp clean digital, accurate UI colors, saturated even orange, no grain. Style anchor: contemporary Korean fintech social-video UI-walkthrough aesthetic — phone-on-colored-paper flat-lay with synced lower-third caption pills; preserve the on-screen Korean strings ('제출할 수 있는 문서를 찾고 있어요', '국민연금 납부내역', '건강보험 납부내역', '소득금액증명서', '통신비 납부내역', '토스뱅크 예치금') and the caption '문서를 찾아' exactly. Render the app generically with no real brand logos; no celebrity likeness. The frame should read as a clean tabletop product demo shot on a copy stand under soft even light: the orange paper perfectly flat and uniform, the white phone screen razor sharp and fully legible edge to edge, the document rows neatly stacked with comfortable line spacing, and the green checkmark the single small chromatic event in an otherwise calm white list. The caption pill is a clean anti-aliased dark graphic with crisp white type and gently rounded corners, registered without jitter. The composition deliberately keeps the device centered and the surrounding orange empty, so the eye is drawn first to the headline, then down the list of documents, then to the reassuring checkmark — the visual grammar of a trustworthy automated process. This restrained, brand-forward instructional treatment is characteristic of contemporary Korean fintech how-to social videos, where every element on screen has a clear functional job and nothing decorative competes with the step being demonstrated.",
+        "t2i_negative": "english ui, perspective tilt, dark background, heavy shadow, cluttered props, real brand logos, blurry text",
+        "i2v_motion": "The document list sits under the headline; a green checkmark animates in beside the first row as documents are found; the lower-third caption pill swaps in sync with the voiceover through '버튼을 눌러 올리기를 선택하면', '신용점수를 높일 수 있는', '문서를 찾아', '제출을 진행하게 됩니다'; locked-off camera; hard cut at ~7.1s.",
+        "i2v_params": {
+          "clip_duration_sec": 7.1,
+          "camera_move": "locked_off",
+          "subject_motion_level": "low_ui_progress",
+          "signature_effect": "none",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen Korean UI and captions preserved; identity/logo generic"
+      }
+    },
+    {
+      "index": 7,
+      "duration": 2.669,
+      "framing": "MS",
+      "function": "payoff_transition",
+      "subject_action": "top-down flat-lay; the app transitions from a brief white loading spinner to a celebratory success screen with a colorful confetti burst, a blue circular up-arrow icon and '축하해요!', then begins resolving to '김토오스님 점수가 올랐어요'; the lower-third caption pill reads '제출을 진행하게 됩니다' then a brief '와!' then '신용점수가 올랐어요!'",
+      "layout_grid": "centered_device_on_field",
+      "subject_position": "center_dominant",
+      "typo_motion": "lower_third_caption_pill_swap",
+      "camera_angle": "top_down_flatlay",
+      "camera_facing": "perpendicular_to_screen",
+      "shot_scope": "product_detail",
+      "gaze": "none",
+      "props": [
+        "smartphone",
+        "orange_surface",
+        "sticky_note"
+      ],
+      "color_palette": [
+        "#E8731C",
+        "#FFFFFF",
+        "#2E9BE8",
+        "#E36AA8",
+        "#1A1A1A"
+      ],
+      "color_intent": "saturated_orange_field; clean_white_success_ui; blue_arrow_icon; multicolor_confetti; dark_caption_pill",
+      "pose_description": "the phone lies flat and centered, screen up, showing a celebratory success state with confetti and an up-arrow badge",
+      "subject_motion": "confetti_celebration_animation",
+      "camera_motion": "locked_off",
+      "camera_effect_local": "flat_even_screen_capture",
+      "intra_cut_rhythm": "loading_to_celebration_burst",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "mid_frame_path": "ADV-2026-017_frames/cut07_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "phone_screen_success_ui",
+          "confetti_burst",
+          "blue_up_arrow_icon",
+          "lower_third_caption_pill"
+        ],
+        "midground": [
+          "phone_chassis_on_surface"
+        ],
+        "background": [
+          "vivid_orange_flat_surface",
+          "edge_of_sticky_note"
+        ],
+        "lighting_env": [
+          "even_soft_overhead",
+          "screen_self_illumination"
+        ],
+        "atmosphere": [
+          "celebratory",
+          "rewarding",
+          "clean_product_demo"
+        ]
+      },
+      "texture": {
+        "primary_subject": "glossy_phone_screen_flat",
+        "secondary_objects": [
+          "matte_phone_chassis"
+        ],
+        "background_surface": "smooth_matte_orange_paper",
+        "atmospheric": [
+          "clean_flat_graphic_field"
+        ]
+      },
+      "lighting": {
+        "key_direction": "even_overhead_diffuse",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_5000K",
+        "fill_strength": "high",
+        "key_to_fill_ratio": "1:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "minimal_soft_under_phone",
+        "overall_contrast": "medium"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#E8731C",
+          "#FFFFFF",
+          "#2E9BE8",
+          "#E36AA8",
+          "#1A1A1A"
+        ],
+        "palette_role": {
+          "#E8731C": "orange_background_field",
+          "#FFFFFF": "app_ui_background",
+          "#2E9BE8": "up_arrow_icon_blue",
+          "#E36AA8": "confetti_pink_multicolor",
+          "#1A1A1A": "success_text_and_caption_pill"
+        },
+        "color_relationship": "warm_field_with_celebratory_multicolor_accent",
+        "temperature_balance": "warm_field_cool_ui",
+        "saturation_strategy": "high_saturation_field_with_playful_accent_burst",
+        "contrast_type": "high_contrast_white_device_on_orange",
+        "accent_color": "#2E9BE8",
+        "accent_ratio": 0.12
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "Vertical 9:16 top-down flat-lay product photograph of a modern large-screen smartphone lying screen-up and centered on a smooth, saturated vivid-orange paper surface that fills the entire surround as bold negative space. The phone, shown straight-on with its slim black chassis, displays a generic Korean fintech app's celebratory success screen on a clean white background. At the center of the screen a circular blue badge contains a bold white upward-pointing arrow, signalling a positive 'score raised' result; around and above it a playful burst of small multicolored confetti shapes — pink, blue, lavender, yellow and orange droplet and petal forms — radiates outward in a celebratory animation. Centered beneath the badge a friendly Korean line reads '축하해요!'; as the screen resolves it begins to show '김토오스님 점수가 올랐어요'. The rest of the screen is calm white space, keeping focus on the celebratory icon and message. Superimposed across the lower third of the entire frame, sitting just below the phone, is a horizontally-centered dark charcoal rounded-rectangle caption pill with bold white Korean text; at this moment it reads '신용점수가 올랐어요!' (just before, the pill briefly read '와!' and earlier '제출을 진행하게 됩니다'). Lighting is even, soft, neutral overhead diffuse at roughly 5000K with high fill, producing only a minimal soft contact shadow beneath the phone and a clean flat look across the orange field; the screen self-illuminates clean white. Lens rendering: a flat low-distortion copy-stand-style top-down capture, the screen legible edge to edge with a slight glossy sheen. Composition centers the device on the orange field with the caption pill anchoring the lower third. Color palette and strategy: a high-saturation scheme — vivid orange background field (#E8731C) against the cool white app UI, a blue success-arrow icon (#2E9BE8), playful multicolored confetti with a pink lead (#E36AA8), and near-black success text and caption pill (#1A1A1A); the otherwise restrained UI erupts into a brief celebratory color burst that marks the emotional payoff of the walkthrough. Surfaces and texture: glossy flat phone glass, matte black chassis, smooth matte orange paper backdrop; a sliver of a pink sticky note peeks at the frame border. Atmosphere: celebratory, rewarding, the satisfying moment the automated process succeeds. Post and signature look: crisp clean digital, accurate UI colors, saturated even orange, no grain. Style anchor: contemporary Korean fintech social-video UI-walkthrough aesthetic — phone-on-colored-paper flat-lay with synced lower-third caption pills; preserve the on-screen Korean strings ('축하해요!', '김토오스님 점수가 올랐어요') and the caption '신용점수가 올랐어요!' exactly. Render the app generically with no real brand logos; no celebrity likeness. The frame should read as a clean tabletop product demo shot on a copy stand under soft even light: the orange paper perfectly flat and uniform, the white phone screen razor sharp, and the confetti rendered as crisp flat vector shapes scattered with a lively but controlled rhythm rather than a chaotic mess. The blue up-arrow badge sits as the clear central focal point, its bold white arrow reading instantly as a positive 'it went up' signal, while the confetti frames it without obscuring it. The caption pill is a clean anti-aliased dark graphic with crisp white type and gently rounded corners, holding the lower third. The composition keeps the device centered with the surrounding orange empty so the celebratory burst feels like a contained, joyful pop within an otherwise calm and confident demo. This is the single most emotionally upbeat beat of the spot, and the art direction earns it by withholding decoration everywhere else — the restrained, brand-forward instructional treatment typical of contemporary Korean fintech how-to social videos makes this short burst of color and motion land as a genuine reward for following the steps.",
+        "t2i_negative": "english ui, perspective tilt, dark background, heavy shadow, cluttered props, real brand logos, blurry text",
+        "i2v_motion": "A brief white loading spinner gives way to a confetti burst and the blue up-arrow badge with '축하해요!', then begins resolving toward '점수가 올랐어요'; the lower-third caption pill swaps '제출을 진행하게 됩니다' to a brief '와!' to '신용점수가 올랐어요!'; locked-off camera; hard cut at ~2.7s.",
+        "i2v_params": {
+          "clip_duration_sec": 2.7,
+          "camera_move": "locked_off",
+          "subject_motion_level": "moderate_ui_celebration",
+          "signature_effect": "confetti_burst",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen Korean UI and captions preserved; identity/logo generic"
+      }
+    },
+    {
+      "index": 8,
+      "duration": 5.973,
+      "framing": "MS",
+      "function": "payoff_reveal",
+      "subject_action": "top-down flat-lay; the app shows the score-reveal result card headed '김토오스님 점수가 올랐어요' with two large figures — KCB 945점 with a '54점 상승' rise indicator and NICE 950점 '변동없음' — a '금리 낮아졌는지 확인하기' row and a blue '확인' button; the lower-third caption pill cycles '신용점수가 올랐어요!' then '대출 조회할 때 잊지 말고' then '꼭 체크해보세요!'",
+      "layout_grid": "centered_device_on_field",
+      "subject_position": "center_dominant",
+      "typo_motion": "lower_third_caption_pill_swap",
+      "camera_angle": "top_down_flatlay",
+      "camera_facing": "perpendicular_to_screen",
+      "shot_scope": "product_detail",
+      "gaze": "none",
+      "props": [
+        "smartphone",
+        "orange_surface",
+        "sticky_note"
+      ],
+      "color_palette": [
+        "#E8731C",
+        "#FFFFFF",
+        "#2E6BF0",
+        "#3DAE6B",
+        "#1A1A1A"
+      ],
+      "color_intent": "saturated_orange_field; clean_white_result_card; blue_confirm_button; green_rise_indicator; dark_caption_pill",
+      "pose_description": "the phone lies flat and centered, screen up, showing the final score-result card with two numeric scores and a confirm button",
+      "subject_motion": "score_number_settle_then_static",
+      "camera_motion": "locked_off",
+      "camera_effect_local": "flat_even_screen_capture",
+      "intra_cut_rhythm": "number_reveal_settle_with_caption_swaps",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "mid_frame_path": "ADV-2026-017_frames/cut08_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "phone_screen_score_result_card",
+          "kcb_and_nice_score_numbers",
+          "blue_confirm_button",
+          "lower_third_caption_pill"
+        ],
+        "midground": [
+          "phone_chassis_on_surface"
+        ],
+        "background": [
+          "vivid_orange_flat_surface",
+          "edge_of_sticky_note"
+        ],
+        "lighting_env": [
+          "even_soft_overhead",
+          "screen_self_illumination"
+        ],
+        "atmosphere": [
+          "rewarding",
+          "conclusive",
+          "clean_product_demo"
+        ]
+      },
+      "texture": {
+        "primary_subject": "glossy_phone_screen_flat",
+        "secondary_objects": [
+          "matte_phone_chassis"
+        ],
+        "background_surface": "smooth_matte_orange_paper",
+        "atmospheric": [
+          "clean_flat_graphic_field"
+        ]
+      },
+      "lighting": {
+        "key_direction": "even_overhead_diffuse",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_5000K",
+        "fill_strength": "high",
+        "key_to_fill_ratio": "1:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "minimal_soft_under_phone",
+        "overall_contrast": "medium"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#E8731C",
+          "#FFFFFF",
+          "#2E6BF0",
+          "#3DAE6B",
+          "#1A1A1A"
+        ],
+        "palette_role": {
+          "#E8731C": "orange_background_field",
+          "#FFFFFF": "app_ui_background",
+          "#2E6BF0": "confirm_button_blue",
+          "#3DAE6B": "score_rise_indicator_green",
+          "#1A1A1A": "score_text_and_caption_pill"
+        },
+        "color_relationship": "complementary_orange_vs_blue_with_green_rise_cue",
+        "temperature_balance": "warm_field_cool_ui",
+        "saturation_strategy": "high_saturation_brand_field_functional_ui",
+        "contrast_type": "high_contrast_white_device_on_orange",
+        "accent_color": "#2E6BF0",
+        "accent_ratio": 0.12
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "Vertical 9:16 top-down flat-lay product photograph of a modern large-screen smartphone lying screen-up and centered on a smooth, saturated vivid-orange paper surface that fills the entire surround as bold negative space. The phone, shown straight-on with its slim black chassis, displays a generic Korean fintech app's final credit-score result card on a clean white background — the payoff of the walkthrough. Near the top a centered bold Korean headline reads '김토오스님 점수가 올랐어요'. Below it, two large score figures sit side by side in two columns: the left column is labelled 'KCB' in small grey caps above a very large bold numeral '945점', and beneath it a small pill-style rise indicator in green reads '54점 상승' with a small upward triangle; the right column is labelled 'NICE' in small grey caps above a very large bold numeral '950점', with a small grey '변동없음' (no change) beneath it. Below the two scores, a single row with a small leaf-style icon reads '금리 낮아졌는지 확인하기' in grey, inviting the user to check whether their loan interest rate has dropped. Anchored near the bottom of the screen is a wide rounded primary action button in vivid blue containing white Korean text reading '확인'. Superimposed across the lower third of the entire frame, sitting just below the phone, is a horizontally-centered dark charcoal rounded-rectangle caption pill with bold white Korean text; at this moment it reads '대출 조회할 때 잊지 말고' (across the shot the pill also shows '신용점수가 올랐어요!' and '꼭 체크해보세요!'). Lighting is even, soft, neutral overhead diffuse at roughly 5000K with high fill, producing only a minimal soft contact shadow beneath the phone and a clean flat look across the orange field; the screen self-illuminates clean white. Lens rendering: a flat low-distortion copy-stand-style top-down capture, the screen legible edge to edge with a slight glossy sheen. Composition centers the device on the orange field with the two big numbers as the focal point and the caption pill anchoring the lower third. Color palette and strategy: a high-saturation complementary scheme — vivid orange background field (#E8731C) against the cool white app UI, a vivid blue confirm button (#2E6BF0), a green score-rise indicator (#3DAE6B) as the meaningful 'it went up' cue, and near-black score text and caption pill (#1A1A1A); the orange-versus-blue tension frames the result while the small green rise indicator carries the emotional message that the score improved. Surfaces and texture: glossy flat phone glass, matte black chassis, smooth matte orange paper backdrop; a sliver of a pink sticky note peeks at the frame border. Atmosphere: rewarding and conclusive, the satisfying numeric reveal that proves the feature worked. Post and signature look: crisp clean digital, accurate UI colors, saturated even orange, no grain. Style anchor: contemporary Korean fintech social-video UI-walkthrough aesthetic — phone-on-colored-paper flat-lay with synced lower-third caption pills; preserve the on-screen Korean strings ('김토오스님 점수가 올랐어요', 'KCB', '945점', '54점 상승', 'NICE', '950점', '변동없음', '금리 낮아졌는지 확인하기', '확인') and the caption '대출 조회할 때 잊지 말고' exactly. Render the app generically with no real brand logos; no celebrity likeness.",
+        "t2i_negative": "english ui, perspective tilt, dark background, heavy shadow, cluttered props, real brand logos, blurry numbers",
+        "i2v_motion": "The two score numbers settle (the KCB figure ticking up to 945 with its green '54점 상승' indicator appearing) then hold static; the lower-third caption pill swaps in sync with the voiceover from '신용점수가 올랐어요!' to '대출 조회할 때 잊지 말고' to '꼭 체크해보세요!'; locked-off camera; hard cut at ~6.0s.",
+        "i2v_params": {
+          "clip_duration_sec": 6.0,
+          "camera_move": "locked_off",
+          "subject_motion_level": "low_number_settle",
+          "signature_effect": "none",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen Korean UI and captions preserved; identity/logo generic"
+      }
+    },
+    {
+      "index": 9,
+      "duration": 2.806,
+      "framing": "TITLE_CARD",
+      "function": "cta_endcard",
+      "subject_action": "series end card: a small light-grey rounded rectangle badge peels/slides into a textured off-white paper field and settles centered, bearing pixel/CRT-distorted blue text 'Curator T' over a thin underline with smaller Korean text '토스를 발견하다' beneath",
+      "layout_grid": "center_badge_on_paper_field",
+      "subject_position": "center",
+      "typo_motion": "sticker_peel_in_then_static_hold",
+      "camera_angle": "flat_frontal",
+      "camera_facing": "frontal_flat",
+      "shot_scope": "typography_endcard",
+      "gaze": "none",
+      "props": [],
+      "color_palette": [
+        "#EFEDE7",
+        "#D8D5CD",
+        "#2E4BD6",
+        "#5A8FE0",
+        "#9A9690"
+      ],
+      "color_intent": "textured_offwhite_paper_field; light_grey_badge; pixel_crt_blue_text_with_chromatic_fringe",
+      "pose_description": "no subjects; a single small badge graphic centered on a matte paper field, its text rendered with a retro pixel/CRT distortion and slight RGB color split",
+      "subject_motion": "badge_settle_micro",
+      "camera_motion": "locked_off",
+      "camera_effect_local": "pixel_crt_chromatic_aberration",
+      "intra_cut_rhythm": "peel_in_then_hold",
+      "transition_in": "cut",
+      "transition_out": "end",
+      "mid_frame_path": "ADV-2026-017_frames/cut09_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "pixel_crt_badge",
+          "curator_t_text",
+          "korean_tagline_text"
+        ],
+        "midground": [],
+        "background": [
+          "textured_offwhite_paper_field"
+        ],
+        "lighting_env": [
+          "flat_even"
+        ],
+        "atmosphere": [
+          "retro_digital",
+          "quiet_brand_signature",
+          "tactile_paper"
+        ]
+      },
+      "texture": {
+        "primary_subject": "pixel_crt_distorted_text",
+        "secondary_objects": [
+          "light_grey_badge_panel"
+        ],
+        "background_surface": "matte_textured_paper",
+        "atmospheric": [
+          "subtle_paper_grain"
+        ]
+      },
+      "lighting": {
+        "key_direction": "flat_even_frontal",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral",
+        "fill_strength": "high",
+        "key_to_fill_ratio": "1:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "minimal_soft_under_badge",
+        "overall_contrast": "low_with_high_contrast_text"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#EFEDE7",
+          "#D8D5CD",
+          "#2E4BD6",
+          "#5A8FE0",
+          "#9A9690"
+        ],
+        "palette_role": {
+          "#EFEDE7": "paper_background_offwhite",
+          "#D8D5CD": "badge_panel_light_grey",
+          "#2E4BD6": "primary_pixel_text_blue",
+          "#5A8FE0": "chromatic_fringe_cyan_blue",
+          "#9A9690": "paper_texture_shadow_grey"
+        },
+        "color_relationship": "near_monochrome_paper_with_blue_text_accent",
+        "temperature_balance": "neutral_cool_text_on_warm_neutral_paper",
+        "saturation_strategy": "low_saturation_ground_with_saturated_blue_text",
+        "contrast_type": "high_text_on_light_panel",
+        "accent_color": "#2E4BD6",
+        "accent_ratio": 0.15
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "Vertical 9:16 flat frontal graphic end card on a textured off-white matte paper field that fills the entire frame as warm-neutral negative space with a subtle visible paper grain and faint soft mottling, like a sheet of uncoated card stock. Centered in the frame sits a single small horizontal rounded-rectangle badge in a slightly darker light-grey tone than the paper, as if a printed label or sticker rests on the sheet, casting only the faintest soft contact shadow. On the badge, rendered in a deliberately retro pixel/CRT-distorted style, is the bold Latin wordmark 'Curator T' in a saturated cobalt blue; the lettering carries a visible bitmap/scanline texture and a slight RGB chromatic-aberration split so cyan-blue and faint red fringes edge the characters, evoking an old CRT monitor or low-resolution pixel display. Directly beneath the wordmark runs a thin horizontal underline rule, and below that, in much smaller pixel-styled characters, sits the Korean tagline '토스를 발견하다'. The badge is the only element on the otherwise empty paper field, giving the card a quiet, collectible, stamp-like feel. Lighting is flat and even and frontal with high fill, neutral temperature, no modelling shadows beyond a whisper of contact shadow under the badge, and an overall low scene contrast that throws the high-contrast saturated blue pixel text into relief against the pale ground. Lens rendering: a flat, straight-on graphic capture with no perspective and no depth of field, the paper texture crisp across the frame. Composition is centered and calm with wide margins of paper around the small badge. Color palette and strategy: a near-monochrome warm-neutral ground — off-white paper (#EFEDE7), light-grey badge panel (#D8D5CD), and paper-texture shadow grey (#9A9690) — punctuated by the single saturated cobalt-blue pixel wordmark (#2E4BD6) with a cyan-blue chromatic fringe (#5A8FE0); the strategy is restraint and tactility, a low-saturation paper world with one vivid retro-digital blue accent. Surfaces and texture: a matte fibrous paper background, a slightly smoother light-grey label panel, and the pixelated CRT text with scanline and chromatic-split artifacts as the signature texture. Atmosphere: a quiet, retro-digital brand signature with a tactile, almost analog-print sensibility — a deliberate contrast to the glossy app screens that preceded it. Post and signature look: intentional lo-fi pixel/CRT distortion and RGB split applied only to the badge text, over a clean textured-paper plate. Style anchor: contemporary Korean brand series end-card design that pairs tactile paper texture with retro pixel/CRT typography as a recurring signature device; preserve the on-screen text exactly — the Latin wordmark 'Curator T' and the Korean tagline '토스를 발견하다'. No real corporate logo marks beyond this stylized series wordmark; no photographic subjects, no celebrity likeness. The card should feel intentionally hand-made and tactile despite being digital: imagine a small printed label resting on a sheet of recycled card stock, photographed flat and even, the paper's fibrous grain just visible, the label's edges soft. The pixel/CRT treatment on the text is the whole personality of the frame — visible square pixels, faint horizontal scanline banding, and a small registration offset between the blue and cyan channels so the wordmark looks like it is glowing on an old low-resolution display. This retro-digital flourish reads as a knowing, playful brand signature and stands in deliberate contrast to the crisp glossy app screens that came before it, signalling that this is the recurring sign-off of an ongoing series rather than a one-off endcard. Wide calm margins of empty paper surround the small centered badge, giving the close a quiet, collectible, almost stamp-like restraint. Style anchor reinforced: contemporary Korean brand series end-card design that fuses tactile analog paper texture with lo-fi pixel/CRT typography as a memorable repeatable device, prioritising character and recognisability over polish.",
+        "t2i_negative": "photographic subjects, smooth vector text without pixelation, dark background, glossy 3d, busy decoration, english tagline, real corporate logo",
+        "i2v_motion": "The light-grey badge peels or slides in from a corner and settles centered on the paper field; the pixel/CRT 'Curator T' wordmark and '토스를 발견하다' tagline hold with a faint flickering chromatic-aberration shimmer; locked-off camera; clip ends at ~2.8s.",
+        "i2v_params": {
+          "clip_duration_sec": 2.8,
+          "camera_move": "locked_off",
+          "subject_motion_level": "low_graphic_settle",
+          "signature_effect": "pixel_crt_chromatic_aberration",
+          "pacing": "slow_deliberate",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen series wordmark and tagline preserved; no real corporate logo"
+      }
+    }
+  ],
+  "search_keywords": {
+    "industry": [
+      "finance",
+      "fintech"
+    ],
+    "product_category": [
+      "credit_score",
+      "credit_management",
+      "loan_eligibility",
+      "personal_finance_app"
+    ],
+    "target_demo": [
+      "korean_adults",
+      "20s_30s",
+      "mobile_users",
+      "loan_seekers"
+    ],
+    "media_format": [
+      "shortform_vertical_30s_plus",
+      "social_media",
+      "vertical_9x16"
+    ],
+    "tone": [
+      "helpful",
+      "reassuring",
+      "instructional",
+      "lightly_upbeat"
+    ],
+    "pacing": [
+      "steady",
+      "linear",
+      "narration_driven"
+    ],
+    "technique": [
+      "app_demo",
+      "ui_walkthrough",
+      "caption_led",
+      "flatlay_phone_on_color",
+      "crt_pixel_typo"
+    ],
+    "vfx_keywords": [
+      "ui_motion",
+      "screen_capture",
+      "confetti_celebration",
+      "pixel_crt_distortion"
+    ],
+    "copy_strategy_keywords": [
+      "voice_caption_sync",
+      "step_by_step_guide",
+      "number_emphasis",
+      "problem_then_solution"
+    ],
+    "concept_derivation_pattern": [
+      "app_feature_walkthrough",
+      "hidden_feature_reveal"
+    ]
+  },
+  "inferred_creative_thinking": {
+    "insight": "Many Korean adults only notice their credit score when they apply for a loan and discover it falls just short; few realize their finance app already has a one-tap feature that can raise it by auto-submitting supporting documents",
+    "persona": "A young Korean adult, mobile-first, financially aware enough to worry about loan rates but not aware this specific in-app feature exists",
+    "moment": "The quiet evening realization that your score is 'one point short', immediately answered by a guided, effortless in-app fix and a satisfying number bump",
+    "product_role": "The credit-score-raising feature is positioned as a hidden 'cheat key' inside the super-app: search it, tap raise, and it finds and submits score-boosting documents for you, then shows the improved score",
+    "punchline": "와! 신용점수가 올랐어요 — KCB +54점 — proof the one-tap feature really moves the number",
+    "differentiator": "Zero manual paperwork: the app automatically finds and submits the documents (pension, insurance, income, telecom records) that raise your score, and reports the result instantly",
+    "brand_fit_one_liner": "Toss frames itself as the app that quietly does the tedious financial work for you and hands back a better number",
+    "confidence": "inferred"
+  },
+  "inferred_brief": "Drive awareness of Toss's '신용점수 올리기' feature among loan-minded young adults by walking through, step by step, how a one-tap in-app action auto-submits score-raising documents and instantly lifts your credit score, closing on the reminder to check it before applying for a loan.",
+  "cross_pollination_tags": {
+    "adjacent": [
+      "banking_app_demo_ads",
+      "credit_card_benefit_ads",
+      "super_app_feature_walkthroughs"
+    ],
+    "distant": [
+      "cooking_recipe_step_videos",
+      "saas_onboarding_tutorials",
+      "beauty_routine_how_to"
+    ],
+    "contrast": [
+      "emotional_brand_film",
+      "celebrity_endorsement_spot",
+      "abstract_image_ad"
+    ]
+  },
+  "concept_derivation_pattern": "hidden_feature_walkthrough: surface a relatable money pain point (score one point short for a loan), then resolve it with a synced voice-and-caption step-by-step in-app demo shot as a phone-on-color flat-lay, paying off on an animated number reveal, and signing with a recurring retro pixel/CRT series end card",
+  "confidence": "inferred",
+  "analyst_notes": "This entry is a screen-recording-style UI demo of a Korean fintech app's credit-score-raising feature, intercut with two warm live-action interior shots that establish the pain point. capture_style classified 'mixed' because shots 4-8 are flat-lay phone-on-orange screen-demo footage (effectively screen captures of the app composited onto an orange flat-lay) distinct from the live-action hand/woman shots (1-3). Six scenedetect hard cuts (f48/102/199/321/500/989) were cross-checked visually; the f200-989 orange span is one constant orange background but contains genuinely distinct app screens, so it was split by screen-state into shots 4-8 (search -> explainer -> document-finding -> success/confetti -> score-reveal). Cuts at f321 and f500 fall mid-screen (caption/scroll changes) and were NOT treated as shot boundaries. wow cut is shot 8, the KCB 945 (+54점) / NICE 950 numeric reveal. wiggle is absent (mean_abs_shift_x 0.16): live-action shots are gentle handheld, flat-lay and end card locked off. Audio reconciled: faster_whisper tiny mis-heard '버튼 한 번' as '파티 한 번' (on-screen editorial bar separately reads '터치 한 번으로'), '올랐어요' as '올렸어요', and the final CTA ('대출 좋아요 때') corrected to the authoritative on-screen caption '대출 조회할 때 잊지 말고 꼭 체크해보세요'. Names on screen ('김창선님', '김토오스님') are in-app demo placeholders. Sibling files ADV-2026-021/022/023/024 in this and adjacent folders belong to another batch and were left untouched.",
+  "verification": {
+    "frames_reviewed": "~40/1071 visually read at native res, including all 6 hard-cut boundaries (f48/49, 102/103, 199/200, 321/322, 500/501, 989/990), interior frames per cut, a representative frame for every caption-change segment across the f501-989 orange span (f505/540/600/645/670/736/750/760/790/800/820/840/856/911/960/985) including the KCB/NICE score-reveal payoff, and the end card (f990/995/1030/1071); plus targeted crops for the CTA caption and score numbers; 100% per-frame metrics (diff/hist/shift/motion_zones/text_delta) and cut_hints reviewed",
+    "audio_analyzed": true,
+    "hitrate_na": true,
+    "abstraction_checked": true
+  }
+}

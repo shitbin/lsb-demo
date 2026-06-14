@@ -1,0 +1,2085 @@
+{
+  "id": "ADV-2026-038",
+  "source_ref": {
+    "platform": "digital_video",
+    "title_or_campaign": "현대카드 MX BOOST '악플에 강경대응'",
+    "brand": "현대카드",
+    "product": "MX BOOST (M BOOST / X BOOST 신용카드)",
+    "model": null,
+    "year": 2021,
+    "production_note": "혜택 안내 자막에 '~2021. 12. 31' 프로모션 기간 표기 — 2021년 캠페인으로 추정",
+    "url": "https://www.youtube.com/watch?v=UDJCGXv-1tw"
+  },
+  "category_primary": "finance.card",
+  "category_tags": [
+    "신용카드",
+    "카드상품",
+    "디자인카드",
+    "혜택·적립"
+  ],
+  "mood": [
+    "witty",
+    "confident",
+    "premium",
+    "playful_deadpan"
+  ],
+  "target_demo": "20대 후반~40대, 카드 디자인·라이프스타일 혜택에 민감한 트렌드 소비자",
+  "total_duration": 30.16,
+  "shot_count": 14,
+  "shot_count_corrected": 14,
+  "fps": 24.0,
+  "aspect_ratio": "16:9",
+  "hook_position": 0.0,
+  "cta_position": 25.042,
+  "narrative_arc": "추상 그래픽 카드 모티프 등장(인식) → 프리미엄 카드 플레이트 + 가짜 '악플(=극찬)' 댓글(공감·반전 셋업) → 펀치라인 '악플에 강경대응 하겠습니다'(반전) → BOOST 혜택 3종 선언(솔루션) → '열받은 거 아닙니다' + MX BOOST 라인업(해소) → 브랜드 마무리(신뢰)",
+  "narrative_structure": "twist_reveal",
+  "pacing_curve": "build_to_payoff",
+  "music_tempo_curve": "build_up",
+  "wow_cut_index": [
+    7,
+    8,
+    13
+  ],
+  "creative_device": "fake_praise_comments_as_hate + deadpan_brand_clapback + kinetic_card_graphic_system",
+  "production_signature": {
+    "capture_style": "cg_dominant",
+    "camera_signature": [
+      "locked_off",
+      "graphic_slide_pan"
+    ],
+    "signature_note": "전 구간 3D 카드 플레이트 렌더 + 모션그래픽 중심. 전역 wiggle 수치(mean_abs_shift_x=1.49, sign_flips_ratio=0.21)는 오프닝 그래픽(cut1~2)의 카드 형상 슬라이드/회전 모션과 BOOST 시퀀스의 카메라 이동에 기인; 순수 핸드헬드 wiggle은 부재로 판단. cut7·cut12는 정지 타이포 카드(locked_off). color grade는 화이트 스튜디오 하이키와 네온 로우키가 교차.",
+    "color_grade": "brand_accent_pop",
+    "texture_fx": "clean_digital"
+  },
+  "global_layout": {
+    "grid_system": "centered_with_split_caption",
+    "subject_placement_dominant": "center",
+    "subject_typo_relation": "typo_below_or_beside_subject",
+    "negative_space_use": "generous",
+    "layout_note": "오프닝·라인업: 중앙 집중 화이트 스튜디오. 댓글 구간: 카드 플레이트(중앙) + 가짜 SNS 댓글 카드(우측/하단) 오버레이. 펀치라인 cut7: 중앙 타이포 단독. BOOST 시퀀스 cut8~10: 좌측 카드 비주얼 + 우측 흰 카피 분할. cut13 라인업: 카드 6종 가로 정렬 + 하단 'MX BOOST' 워드마크."
+  },
+  "recurring_motifs": [
+    "블루 'M' 카드 형상 + 오렌지 'X' 그래픽 마크",
+    "프리미엄 카드 플레이트(레드 MX·골드 플레임·MORE OR LESS)",
+    "가짜 SNS 극찬 댓글 + 좋아요 수",
+    "'M/X 위에 BOOST' 모션 타이포",
+    "Hyundai Card 로고 워드마크"
+  ],
+  "copywriting": {
+    "tagline_text": "악플에 강경대응 하겠습니다",
+    "tagline_structure": "반전 선언 (자기풍자형 클랩백)",
+    "tagline_length_syllables": 16,
+    "tagline_position_sec": 12.833,
+    "cta_text": "MX BOOST",
+    "cta_text_structure": "제품명(캠페인명)",
+    "cta_position_sec": 25.042,
+    "copy_tone": [
+      "위트",
+      "당당함",
+      "반전"
+    ],
+    "copy_strategy": "fake_complaint_to_benefit_reveal",
+    "copy_lines_count": 11,
+    "lines": [
+      {
+        "position_sec": 3.5,
+        "text": "현대카드 디자인 찢었",
+        "function": "fake_praise_comment",
+        "tone": "playful",
+        "source": "caption"
+      },
+      {
+        "position_sec": 5.5,
+        "text": "디자인 만든 사람 상줘라",
+        "function": "fake_praise_comment",
+        "tone": "playful",
+        "source": "caption"
+      },
+      {
+        "position_sec": 7.0,
+        "text": "혜택은 벌줘라!!!",
+        "function": "fake_complaint_comment",
+        "tone": "playful",
+        "source": "caption"
+      },
+      {
+        "position_sec": 11.0,
+        "text": "잘 쓸게요, 카드 대신 책갈피로",
+        "function": "fake_praise_comment",
+        "tone": "playful",
+        "source": "caption"
+      },
+      {
+        "position_sec": 12.833,
+        "text": "현대카드 악플에 강경대응 하겠습니다",
+        "function": "twist_punchline",
+        "tone": "deadpan_confident",
+        "source": "caption"
+      },
+      {
+        "position_sec": 15.333,
+        "text": "온라인 페이 5% 적립 M 위에 BOOST",
+        "function": "product_benefit",
+        "tone": "confident",
+        "source": "caption"
+      },
+      {
+        "position_sec": 16.75,
+        "text": "보너스 10,000 M포인트 M 위에 BOOST",
+        "function": "product_benefit",
+        "tone": "confident",
+        "source": "caption"
+      },
+      {
+        "position_sec": 19.0,
+        "text": "할인율 2배로 X 위에 BOOST",
+        "function": "product_benefit",
+        "tone": "confident",
+        "source": "caption"
+      },
+      {
+        "position_sec": 21.667,
+        "text": "MX 위에 BOOST",
+        "function": "product_tagline",
+        "tone": "confident",
+        "source": "caption"
+      },
+      {
+        "position_sec": 24.25,
+        "text": "열받은 거 아닙니다",
+        "function": "twist_resolution",
+        "tone": "deadpan_playful",
+        "source": "caption"
+      },
+      {
+        "position_sec": 25.042,
+        "text": "MX BOOST",
+        "function": "brand_cta",
+        "tone": "confident",
+        "source": "caption"
+      }
+    ],
+    "captions": [
+      {
+        "position_sec": 3.0,
+        "text": "X BOOST ISSUED BY HYUNDAI CARD, SEOUL, REPUBLIC OF KOREA. (C) ALL RIGHTS RESERVED.",
+        "function": "legal_disclaimer"
+      },
+      {
+        "position_sec": 15.333,
+        "text": "당월실적 50만원 이상 이용 시 적립 (M BOOST, M2 BOOST 월 최대 1만 M포인트, M3 BOOST 월 최대 2만 M포인트)",
+        "function": "benefit_disclaimer"
+      },
+      {
+        "position_sec": 21.667,
+        "text": "M BOOST '게임', X BOOST '게임' 매달 플레이트 추가 시 발급수수료 10만원 (~2021. 12. 31)",
+        "function": "benefit_disclaimer"
+      }
+    ],
+    "narration_handling": "none"
+  },
+  "typography": {
+    "primary_font_class": "sans_serif_bold",
+    "secondary_font_class": "sans_serif_light",
+    "animation_style": [
+      "fade_in",
+      "slide",
+      "static"
+    ],
+    "subtitle_position_dominant": "center",
+    "tagline_position": "center",
+    "color_strategy": "dark_on_light_and_white_on_dark",
+    "appearance_count": 11,
+    "key_typography_moments_sec": [
+      3.5,
+      5.5,
+      7.0,
+      11.0,
+      12.833,
+      15.333,
+      16.75,
+      19.0,
+      21.667,
+      24.25,
+      25.042
+    ],
+    "typo_motion_dominant": "fade_in"
+  },
+  "vfx": {
+    "primary_effects": [
+      "3d_product_render",
+      "graphic_system",
+      "kinetic_typo"
+    ],
+    "effect_intensity": "high",
+    "transition_style_dominant": "cut",
+    "vfx_event_count": 6,
+    "vfx_timing_array_sec": [
+      0.0,
+      15.333,
+      16.75,
+      19.0,
+      24.25,
+      25.042
+    ],
+    "wow_vfx_index": [
+      8,
+      10,
+      13
+    ]
+  },
+  "audio": {
+    "has_audio": true,
+    "language": "ko",
+    "speech_coverage": null,
+    "bgm_likely": true,
+    "narration_lines": [
+      {
+        "start": 12.833,
+        "end": 15.333,
+        "text": "현대카드 악플에 강경대응 하겠습니다",
+        "text_raw": "현대카드 악플에 강경대응 하겠습니다",
+        "kind": "caption",
+        "source": "caption_inferred"
+      },
+      {
+        "start": 15.333,
+        "end": 16.75,
+        "text": "온라인 페이 5% 적립 M 위에 BOOST",
+        "text_raw": "온라인 페이 5% 적립 M 위에 BOOST",
+        "kind": "caption",
+        "source": "caption_inferred"
+      },
+      {
+        "start": 16.75,
+        "end": 19.0,
+        "text": "보너스 10,000 M포인트 M 위에 BOOST",
+        "text_raw": "보너스 10,000 M포인트 M 위에 BOOST",
+        "kind": "caption",
+        "source": "caption_inferred"
+      },
+      {
+        "start": 19.0,
+        "end": 21.667,
+        "text": "할인율 2배로 X 위에 BOOST",
+        "text_raw": "할인율 2배로 X 위에 BOOST",
+        "kind": "caption",
+        "source": "caption_inferred"
+      },
+      {
+        "start": 24.25,
+        "end": 25.042,
+        "text": "열받은 거 아닙니다",
+        "text_raw": "열받은 거 아닙니다",
+        "kind": "caption",
+        "source": "caption_inferred"
+      }
+    ],
+    "voice_vs_caption": "caption_only_inferred",
+    "narration_handling": "none",
+    "transcribed_by": "manual_from_captions",
+    "audio_note": "faster_whisper 샌드박스 디스크 공간 부족(No space left on device)으로 ASR 실패 — 화면 자막 기반 추정으로 대체. BGM 존재 가능성 높으나(스타일리시 모션그래픽 광고 특성) 음성 나레이션 유무는 확인 불가. 자막은 모두 화면 캡션 verbatim."
+  },
+  "frames_dir": "ADV-2026-038_frames",
+  "contact_sheet_path": "ADV-2026-038_frames/contact_sheet.png",
+  "shots": [
+    {
+      "index": 1,
+      "duration": 0.875,
+      "framing": "MS",
+      "function": "graphic_hook",
+      "subject_action": "abstract kinetic brand graphic — a rounded blue card-shape resembling a stylized letter 'M' and a bold orange 'X'-shaped mark tumble, rotate and morph against a clean white studio field, performing the campaign's MX design motif reveal",
+      "layout_grid": "center",
+      "subject_position": "center",
+      "subject_identity": "none_environment",
+      "subject_relationship_to_protagonist": null,
+      "mid_frame_path": "ADV-2026-038_frames/cut01_mid.png",
+      "subject_typo_layout": "typo_only_no_person",
+      "typo_motion": "텍스트 없음 단계 — 블루 카드형상(M)과 오렌지 X 마크가 화면 중앙에서 회전·이동하는 그래픽 모션만 진행 (f1~f21 연속 모핑)",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "environment",
+      "gaze": "none",
+      "eye_contact_effect": null,
+      "props": [
+        "blue rounded card-shape graphic",
+        "orange X-shaped mark graphic"
+      ],
+      "prop_semantics": "카드 디자인 모티프(M+X)를 추상 기하 그래픽으로 의인화 — 브랜드 디자인 시스템 선언",
+      "color_palette": [
+        "#f4f4f4",
+        "#2546c8",
+        "#ff4a17",
+        "#ffffff"
+      ],
+      "color_intent": "순백 스튜디오 배경에 브랜드 블루와 오렌지를 강하게 대비시켜 디자인 그래픽을 시선 앵커로",
+      "pose_description": "인물 없음; 블루 M형상이 좌측, 오렌지 X마크가 우측에서 서로 겹치고 회전하며 중앙으로 수렴",
+      "subject_motion": "graphic_morph_rotate",
+      "prop_motion": "shapes rotate, overlap and slide toward center",
+      "camera_motion": "locked_off",
+      "camera_motion_intensity": "none",
+      "camera_effect_local": "none",
+      "motion_blur": true,
+      "intra_cut_rhythm": "fast",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [
+        "graphic_system",
+        "kinetic_typo"
+      ],
+      "vfx_intensity_local": "strong",
+      "fact_check_flag": null,
+      "notes": "Cut 1 (f1-21, 0.00-0.875s): white background #f4f4f4. Blue rounded 'M'-like card shape + bold orange 'X' mark tumbling/morphing graphic. High mean_abs_shift_x(~7.8) = directional graphic slide, not handheld. No text yet.",
+      "visible_elements": {
+        "foreground": [
+          "blue rounded card-shape graphic resembling letter M",
+          "bold orange X-shaped mark"
+        ],
+        "midground": [],
+        "background": [
+          "flat bright white studio field #f4f4f4"
+        ],
+        "lighting_env": [
+          "flat even high-key ambient render light"
+        ],
+        "atmosphere": [
+          "clean minimal digital, no grain, soft contact shadow under shapes"
+        ]
+      },
+      "texture": {
+        "primary_subject": "flat_glossy_vector",
+        "secondary_objects": [
+          "flat_glossy_vector"
+        ],
+        "background_surface": "flat_digital",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "front",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "strong",
+        "key_to_fill_ratio": "1:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "soft",
+        "overall_contrast": "hi_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#f4f4f4",
+          "#2546c8",
+          "#ff4a17",
+          "#ffffff"
+        ],
+        "palette_role": {
+          "#f4f4f4": "background_white_dominant",
+          "#2546c8": "brand_blue_card_shape",
+          "#ff4a17": "brand_orange_x_mark",
+          "#ffffff": "highlight_white"
+        },
+        "color_relationship": "complementary",
+        "temperature_balance": "balanced",
+        "saturation_strategy": "muted_ground_with_vivid_pop",
+        "contrast_type": "hue_high",
+        "accent_color": "#ff4a17",
+        "accent_ratio": "15_percent"
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A clean high-key motion-graphic frame rendered at 1280x720 pixels, 16:9 landscape aspect ratio. The entire background is a flat bright near-white studio field (#f4f4f4) — uniform, gradient-free, with zero photographic grain and only the faintest soft contact shadow beneath the floating elements to suggest a shallow studio floor. Centered in the frame are two bold abstract three-dimensional graphic objects rendered in a clean glossy vector-CG style. The first object, positioned slightly left of center and occupying roughly the central third of the frame, is a rounded rectangular card-like slab in saturated brand blue (#2546c8) whose silhouette reads as a stylized capital letter 'M' — the slab has soft rounded corners, a smooth slightly glossy surface with a gentle specular sheen along one edge, and the proportions of a vertically held payment card. The second object, overlapping toward the right of the blue shape, is a bold thick orange 'X'-shaped mark (#ff4a17) — two crossing rounded bars forming an X, also rendered with a smooth matte-to-glossy plastic finish and softly rounded terminals. The two shapes are caught mid-motion: the blue M-card is tilted on a slight diagonal and the orange X is rotated a few degrees off-axis, both appearing to tumble and converge toward the optical center of the frame, with very subtle directional motion blur on their leading edges conveying fast graphic movement. The composition is centered and symmetrical-leaning, with generous empty white negative space above (about 30 percent of frame height), below (about 30 percent), and to the left and right margins, so the two colored objects pop sharply against the white void. There is no typography, no logo wordmark, no caption, and no human figure anywhere in the frame — this is a pure abstract design-motif reveal. Lighting is flat, even, high-key studio illumination from the front and slightly above, producing soft edges, gentle top highlights on the glossy surfaces, and only a faint diffuse contact shadow directly beneath each shape; there is no hard directional key, no dramatic rim light, and no colored gels — the whiteness of the scene is preserved as a bright clean stage. Color palette: white #f4f4f4 dominates approximately 70 percent of the total frame area, brand blue #2546c8 occupies about 18 percent (the M-card slab), brand orange #ff4a17 about 10 percent (the X mark), and pure white specular highlights #ffffff about 2 percent. Color relationship: vivid complementary blue-versus-orange pop set against a desaturated white ground, with high hue contrast and moderate luminance contrast. Texture: both objects are smooth glossy-to-satin CG plastic with subtle reflective sheen and clean anti-aliased edges; the background is a flat featureless digital sweep with no surface texture, no noise, no halation, and no atmospheric haze. The overall aesthetic is a premium Korean financial-brand kinetic design system — modern, confident, minimalist, hi-key, graphic, and playful in its geometry. Style anchor: clean Korean commercial motion-graphic brand reveal, 4K hi-key even brightness, glossy vector-CG abstract shapes, saturated brand-blue and brand-orange accents on pure white, zero grain, zero atmospheric effects, premium design-led credit-card brand identity, Korean production.",
+        "t2i_negative": "photorealistic environment, real human faces, real legible logos, watermark, grain, noise, heavy bokeh, dark background, gradient sky, text overlays, distorted shapes, extra objects, clutter",
+        "i2v_motion": "From the start frame, the blue M-card slab and orange X mark continue tumbling and rotating, sliding toward the optical center and briefly overlapping before settling, with light directional motion blur on fast edges. Studio white stays constant. Camera locked-off. Fast graphic rhythm, 0.875s total, no internal cut.",
+        "i2v_params": {
+          "clip_duration_sec": 0.875,
+          "camera_move": "locked_off",
+          "subject_motion_level": "high",
+          "signature_effect": "graphic_morph",
+          "pacing": "fast",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful kinetic graphic; shapes are generic geometric M/X motifs, no real logo reproduced; brand-color palette preserved"
+      }
+    },
+    {
+      "index": 2,
+      "duration": 1.875,
+      "framing": "MS",
+      "function": "product_reveal",
+      "subject_action": "premium credit-card plates slide and stand up on a white studio surface — a red textured 'MX' card, a champagne-gold flame-patterned card and other design plates arrange themselves in a hero lineup, showcasing the card design family",
+      "layout_grid": "center",
+      "subject_position": "center",
+      "subject_identity": "none_environment",
+      "subject_relationship_to_protagonist": null,
+      "mid_frame_path": "ADV-2026-038_frames/cut02_mid.png",
+      "subject_typo_layout": "typo_only_no_person",
+      "typo_motion": "카드 플레이트에 'MX' 등 카드면 그래픽만 노출; 별도 자막 모션 없음 (카드들이 슬라이드·기립하는 제품 모션)",
+      "camera_angle": "eye_level",
+      "camera_facing": "three_quarter",
+      "shot_scope": "environment",
+      "gaze": "none",
+      "eye_contact_effect": null,
+      "props": [
+        "red textured MX credit-card plate",
+        "champagne-gold flame-pattern card plate",
+        "additional design card plates"
+      ],
+      "prop_semantics": "프리미엄 카드 플레이트 자체가 주인공 — '디자인'이라는 브랜드 자산을 제품 히어로로 제시",
+      "color_palette": [
+        "#f0f0f0",
+        "#b02a24",
+        "#c9a24a",
+        "#e8d9b0",
+        "#3a3a3a"
+      ],
+      "color_intent": "화이트 스튜디오 위 레드·샴페인골드 카드로 프리미엄 질감과 디자인 다양성을 강조",
+      "pose_description": "인물 없음; 카드 플레이트들이 화이트 바닥에 세워지거나 기대어 3/4 앵글로 배열, 부드러운 그림자가 바닥에 드리움",
+      "subject_motion": "static",
+      "prop_motion": "card plates slide in and stand up / rotate slightly",
+      "camera_motion": "graphic_slide_pan",
+      "camera_motion_intensity": "low",
+      "camera_effect_local": "subtle_dolly",
+      "motion_blur": false,
+      "intra_cut_rhythm": "steady",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [
+        "3d_product_render"
+      ],
+      "vfx_intensity_local": "moderate",
+      "fact_check_flag": null,
+      "notes": "Cut 2 (f22-66, 0.875-2.75s): white studio. Premium card plates (red 'MX' textured, champagne-gold flame texture, design cards) slide in and arrange as hero. shift_x ~7.4 = card slide/camera ease, not handheld.",
+      "visible_elements": {
+        "foreground": [
+          "red textured 'MX' credit-card plate standing upright"
+        ],
+        "midground": [
+          "champagne-gold flame-pattern card plate",
+          "additional design card plates leaning/standing"
+        ],
+        "background": [
+          "flat bright white-grey studio field #f0f0f0 with soft floor shadow"
+        ],
+        "lighting_env": [
+          "soft diffused high-key studio light from above-front"
+        ],
+        "atmosphere": [
+          "clean minimal product-studio environment, no haze, no grain"
+        ]
+      },
+      "texture": {
+        "primary_subject": "matte_textured_card_plate",
+        "secondary_objects": [
+          "metallic_brushed_card",
+          "glossy_card_plastic"
+        ],
+        "background_surface": "flat_digital",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "45deg_above",
+        "key_hardness": "diffused",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "strong",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": true,
+        "practical_lights": [],
+        "shadow_presence": "soft",
+        "overall_contrast": "hi_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#f0f0f0",
+          "#b02a24",
+          "#c9a24a",
+          "#e8d9b0",
+          "#3a3a3a"
+        ],
+        "palette_role": {
+          "#f0f0f0": "background_white_dominant",
+          "#b02a24": "red_card_hero",
+          "#c9a24a": "champagne_gold_card",
+          "#e8d9b0": "light_gold_card",
+          "#3a3a3a": "card_text_dark"
+        },
+        "color_relationship": "warm_accent_on_neutral",
+        "temperature_balance": "warm_dominant",
+        "saturation_strategy": "muted_with_pop",
+        "contrast_type": "luminance_high",
+        "accent_color": "#b02a24",
+        "accent_ratio": "20_percent"
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A premium product-mockup motion-graphic frame rendered at 1280x720 pixels, 16:9 landscape, against a flat bright white-grey studio field (#f0f0f0) with a soft, clean floor shadow indicating a seamless studio sweep. Centered and filling roughly the middle 60 percent of the frame are several upscale credit-card plates arranged as a hero product lineup, presented in three-quarter perspective as if standing and leaning on an invisible white surface. The dominant foreground plate stands upright slightly left of center: a deep red card (#b02a24) with a subtle embossed or woven surface texture, carrying a small dark 'MX' graphic mark in the lower-left area of its face and tiny supporting text rendered too small to read as words. Behind and beside it, a champagne-gold card (#c9a24a) with a sophisticated flame-like or feathered metallic pattern catches a soft top highlight, and one or two additional design plates in lighter gold and neutral tones (#e8d9b0) lean at gentle angles, slightly out of focus to create depth. Each card has the proportions of a real payment card with rounded corners, a faint chip rectangle, and refined material finishes ranging from matte textured to brushed-metallic. The cards cast soft diffuse drop shadows onto the white floor below, the shadows fanning subtly toward the lower-right, indicating diffused studio key light coming from above and slightly to the front-left. The composition is centered with the red hero card as the clear focal anchor, framed by generous white negative space above (about 25 percent of frame height) and on both sides, giving the lineup a clean editorial breathing room. There is no human figure, no hand, no large caption text and no logo wordmark overlay in this frame — only the card plates themselves and their on-card micro-graphics. Lighting is soft high-key product-studio illumination: a diffused key from 45 degrees above-front, strong fill keeping shadows open and gentle, a faint rim catch along the top edges of the metallic cards giving them a premium sheen, neutral 5500K white balance throughout, and a key-to-fill ratio around 2:1. Color palette: white-grey #f0f0f0 dominates approximately 55 percent of the frame, the red hero card #b02a24 about 20 percent, champagne-gold #c9a24a about 14 percent, light-gold #e8d9b0 about 8 percent, and dark on-card text #3a3a3a about 3 percent. Color relationship: warm metallic accents on a cool-neutral white ground, with high luminance contrast and a muted-with-pop saturation strategy. Texture: matte woven-red plastic on the hero card, brushed-metallic flame pattern on the gold card, glossy edges and faint chip detail, all rendered crisply with clean anti-aliasing; the background is a featureless flat digital sweep with no grain, no noise and no atmosphere. The overall aesthetic is a premium Korean credit-card design showcase — luxurious, minimalist, hi-key, design-led. Style anchor: Korean commercial fintech product mockup, hi-key studio product photography look, three-quarter card plate hero arrangement, premium metallic and woven textures, neutral daylight white balance, 4K clean CG render, zero grain, design-forward credit-card branding, Korean production. Compositionally the lineup follows a loose rule-of-thirds depth stagger: the red hero card anchors the lower-left intersection, the champagne-gold plate sits at the upper-right behind it, and the supporting plates recede in a shallow diagonal that draws the eye from front-left to back-right, reinforcing depth without any literal grid lines. The framing reads as a tabletop-to-eye-level product hero, the implied camera at roughly card height so the plates feel monumental yet approachable. Every reflection is gentle and physically plausible: the gold plate shows a faint vertical streak highlight from a soft overhead source, the red plate a broader diffuse sheen, and each card edge a thin bright catch where it meets the white sweep. Negative space is used deliberately as a luxury signal — the emptiness around the cards communicates confidence and editorial restraint typical of premium financial design films. The mood is aspirational, tactile and quietly proud, inviting the viewer to register the cards as designed objects worth admiring rather than mere payment tools. There is deliberately no motion text, no price, no benefit copy and no human presence in this beat, keeping the focus purely on material and form. Additional style anchor: high-end Korean credit-card design film, seamless white cyclorama studio, soft-box diffused key, premium woven and brushed-metal card finishes, restrained negative-space composition, photoreal CG product rendering with clean reflections, 4K, zero grain, design-as-brand-value storytelling.",
+        "t2i_negative": "people, hands, dark background, dramatic shadows, grain, film grain, distorted card proportions, unreadable mush, watermark, real bank logos legible, clutter, outdoor scene",
+        "i2v_motion": "Card plates slide into place and stand up — the red MX hero card eases upright at center while the gold and neutral plates settle at gentle angles behind it. Soft studio shadows shift with them. Camera performs a subtle slow dolly/ease toward the lineup. Steady premium rhythm, 1.875s total.",
+        "i2v_params": {
+          "clip_duration_sec": 1.875,
+          "camera_move": "subtle_dolly",
+          "subject_motion_level": "moderate",
+          "signature_effect": "none",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful product render; card face graphics generic, no real logo reproduced; on-card 'MX' kept as generic design mark; palette preserved"
+      }
+    },
+    {
+      "index": 3,
+      "duration": 2.208,
+      "framing": "MS",
+      "function": "narrative_setup",
+      "subject_action": "a single red 'MX' card plate stands as hero on the white field while a faux social-media comment card fades in praising the design; an orange X graphic and small comment UI with username and like-count appear, establishing the fake comment-section conceit",
+      "layout_grid": "center_with_caption_overlay",
+      "subject_position": "center",
+      "subject_identity": "none_environment",
+      "subject_relationship_to_protagonist": null,
+      "mid_frame_path": "ADV-2026-038_frames/cut03_mid.png",
+      "subject_typo_layout": "typo_overlay_ui",
+      "typo_motion": "가짜 SNS 댓글 UI 페이드 인 — 유저명 'xxyyoung123' + 댓글 '현대카드 디자인 찢었' + 좋아요 '7.3만' + 답글 수가 화면에 등장. 상단 영문 법적고지 정적.",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "environment",
+      "gaze": "none",
+      "eye_contact_effect": null,
+      "props": [
+        "red MX card plate",
+        "orange X graphic mark",
+        "faux social-media comment UI card"
+      ],
+      "prop_semantics": "실제 카드(디자인)와 가짜 극찬 댓글을 한 화면에 병치 — '디자인이 화제'라는 셋업",
+      "color_palette": [
+        "#f2f2f2",
+        "#b02a24",
+        "#ff4a17",
+        "#222222",
+        "#9a9a9a"
+      ],
+      "color_intent": "화이트 위 레드 카드 + 오렌지 마크로 시선을 잡고 회색 댓글 UI로 SNS 맥락 전달",
+      "pose_description": "인물 없음; 레드 카드가 중앙, 오렌지 X 마크 보조, 우측/하단에 가짜 댓글 카드 오버레이",
+      "subject_motion": "static",
+      "prop_motion": "comment UI card fades/slides in",
+      "camera_motion": "locked_off",
+      "camera_motion_intensity": "none",
+      "camera_effect_local": "none",
+      "motion_blur": false,
+      "intra_cut_rhythm": "steady",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [
+        "ui_motion",
+        "graphic_system"
+      ],
+      "vfx_intensity_local": "moderate",
+      "fact_check_flag": null,
+      "notes": "Cut 3 (f67-119, 2.75-4.958s): white field, red 'MX' card hero + orange X graphic. Faux comment UI: 'xxyyoung123 / 현대카드 디자인 찢었 / 7.3만 likes / 3 답글'. Top legal: 'X BOOST ISSUED BY HYUNDAI CARD, SEOUL, REPUBLIC OF KOREA. (C) ALL RIGHTS RESERVED.'",
+      "visible_elements": {
+        "foreground": [
+          "red textured 'MX' card plate standing upright",
+          "bold orange X graphic mark"
+        ],
+        "midground": [
+          "faux social-media comment UI card with username, comment text and like count"
+        ],
+        "background": [
+          "flat bright white field #f2f2f2",
+          "tiny english legal disclaimer line near top"
+        ],
+        "lighting_env": [
+          "soft high-key studio light"
+        ],
+        "atmosphere": [
+          "clean minimal digital, no grain, soft contact shadow"
+        ]
+      },
+      "texture": {
+        "primary_subject": "matte_textured_card_plate",
+        "secondary_objects": [
+          "flat_glossy_vector",
+          "flat_ui_surface"
+        ],
+        "background_surface": "flat_digital",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "front",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "strong",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "soft",
+        "overall_contrast": "hi_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#f2f2f2",
+          "#b02a24",
+          "#ff4a17",
+          "#222222",
+          "#9a9a9a"
+        ],
+        "palette_role": {
+          "#f2f2f2": "background_white_dominant",
+          "#b02a24": "red_card_hero",
+          "#ff4a17": "brand_orange_x_mark",
+          "#222222": "comment_text_dark",
+          "#9a9a9a": "ui_meta_grey"
+        },
+        "color_relationship": "complementary",
+        "temperature_balance": "balanced",
+        "saturation_strategy": "muted_with_pop",
+        "contrast_type": "luminance_high",
+        "accent_color": "#ff4a17",
+        "accent_ratio": "12_percent"
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A clean high-key composition rendered at 1280x720 pixels, 16:9 landscape, on a flat bright white field (#f2f2f2) with a faint soft contact shadow. At the visual center stands a deep red credit-card plate (#b02a24) in three-quarter perspective, upright as the hero object, its surface carrying a subtle woven or embossed texture and a small dark 'MX' design mark in its lower-left corner with tiny unreadable supporting text. Adjacent to the card, a bold thick orange 'X'-shaped graphic mark (#ff4a17) sits as a secondary accent, rendered in the same glossy-satin CG style as the opening motif. Overlaid on the right and lower portion of the frame is a faux social-media comment user-interface card — a light rounded rectangle panel containing, from top: a small circular avatar placeholder and a username handle reading 'xxyyoung123' in a small grey sans-serif, then a comment line in dark near-black Korean Hangul (#222222) reading '현대카드 디자인 찢었' set in a clean bold sans-serif at readable size, and beneath it a row of small interface meta elements: a thumbs-up like icon followed by a like count '7.3만' and a reply count '3 답글' in light grey (#9a9a9a). The comment card mimics a YouTube or social feed comment block with subtle separators and generous internal padding. Near the very top of the frame, a single line of very small English legal disclaimer text runs in light grey, reading 'X BOOST ISSUED BY HYUNDAI CARD, SEOUL, REPUBLIC OF KOREA. (C) ALL RIGHTS RESERVED.' — intentionally tiny and subordinate. The composition keeps the red card and orange mark as the bright color focus at center-left while the grey comment UI floats to the right, with plenty of white negative space binding the layout together. There is no human figure and no hand. Lighting is soft, even, high-key studio illumination from the front and slightly above, producing gentle top highlights on the red card, a faint diffuse contact shadow beneath it, and flat clean rendering of the UI overlay; no hard directional key, no colored gels, no dramatic shadows. Color palette: white #f2f2f2 dominates about 60 percent of the frame, red card #b02a24 about 18 percent, orange X #ff4a17 about 12 percent, dark comment text #222222 about 6 percent, and grey UI meta #9a9a9a about 4 percent. Color relationship: vivid complementary red-orange warmth popping against a desaturated white ground, with high luminance contrast and muted-with-pop saturation. Texture: matte woven-red card surface, glossy orange mark, perfectly flat anti-aliased UI panel, and a featureless flat digital background with zero grain, zero noise and zero atmosphere. The overall aesthetic is a witty Korean credit-card design promo that frames the product alongside a staged fan comment. Style anchor: Korean commercial product-and-UI composite, hi-key white studio, glossy CG card and graphic mark, flat social-media comment overlay, verbatim Korean caption text, 4K clean render, zero grain, design-led credit-card branding, Korean production. Compositionally the frame is split by attention rather than a hard line: the warm red-and-orange cluster holds the left-of-center focal zone while the cool grey comment UI occupies the right, the two balanced across a generous white midground so the eye ping-pongs between the admired object and the admiring comment. The implied camera is at eye level, frontal, with no perspective distortion, giving the staged scene a flat, poster-like clarity. The comment card is rendered with believable interface fidelity — rounded avatar, slightly heavier comment weight, lighter meta row — but kept generic enough to read as 'a social platform' rather than any specific app. The like count '7.3만' is sized to be easily legible, signalling viral approval. The top legal disclaimer line is intentionally tiny and low-contrast so it satisfies regulatory presence without competing for attention. Mood is witty and confident: the brand is showing off its design while pretending the praise is just incoming chatter. Negative space again does heavy lifting, isolating both the card and the comment so neither feels cluttered. Additional style anchor: Korean commercial design-promo composite, seamless white studio, glossy CG card hero with complementary orange accent mark, flat believable-but-generic social comment overlay, tiny low-contrast legal line, verbatim Korean caption, photoreal-clean rendering, 4K, zero grain, self-aware design-brag tone, Korean production.",
+        "t2i_negative": "real people, hands, real account avatars of real persons, dark background, grain, noise, heavy shadows, distorted card, unreadable text mush, watermark, real bank logos legible, clutter",
+        "i2v_motion": "Red MX card holds steady at center. The faux comment UI card fades and gently slides in from the lower-right, settling into place; the like count subtly ticks. Top legal line stays static. Camera locked-off. Steady rhythm, 2.208s total.",
+        "i2v_params": {
+          "clip_duration_sec": 2.208,
+          "camera_move": "locked_off",
+          "subject_motion_level": "micro",
+          "signature_effect": "ui_motion",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; card and orange mark generic design motifs, no real logo reproduced; comment username fictional; Korean caption text verbatim"
+      }
+    },
+    {
+      "index": 4,
+      "duration": 3.042,
+      "framing": "MS",
+      "function": "narrative_build",
+      "subject_action": "a yellow design card plate stands on the white field while two stacked faux comments fade in — one praising the design and a sarcastic reply about the benefits — escalating the staged comment-section gag",
+      "layout_grid": "center_with_caption_overlay",
+      "subject_position": "left_third",
+      "subject_identity": "none_environment",
+      "subject_relationship_to_protagonist": null,
+      "mid_frame_path": "ADV-2026-038_frames/cut04_mid.png",
+      "subject_typo_layout": "typo_overlay_ui",
+      "typo_motion": "가짜 댓글 2단 페이드 인 — 'paulrimjjin / 디자인 만든 사람 상줘라 / 5.3만' 그리고 답글 'dnjswls119 / 혜택은 벌줘라!!! / 2.6만'. 우측 정렬 댓글 UI.",
+      "camera_angle": "eye_level",
+      "camera_facing": "three_quarter",
+      "shot_scope": "environment",
+      "gaze": "none",
+      "eye_contact_effect": null,
+      "props": [
+        "yellow design card plate",
+        "faux social-media comment UI (two stacked comments)"
+      ],
+      "prop_semantics": "디자인 극찬 댓글과 '혜택은 벌줘라'라는 반전 떡밥 댓글을 병치 — 펀치라인 셋업",
+      "color_palette": [
+        "#f3f3f3",
+        "#e8c21f",
+        "#2a2a2a",
+        "#7c4dff",
+        "#9a9a9a"
+      ],
+      "color_intent": "화이트 위 옐로 카드로 밝은 디자인 인상, 회색/보라 댓글 UI로 SNS 반응 누적",
+      "pose_description": "인물 없음; 옐로 카드가 좌측에 세워지고 우측에 2단 댓글 UI가 떠 있음",
+      "subject_motion": "static",
+      "prop_motion": "two comment cards fade/slide in sequentially",
+      "camera_motion": "locked_off",
+      "camera_motion_intensity": "none",
+      "camera_effect_local": "none",
+      "motion_blur": false,
+      "intra_cut_rhythm": "steady",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [
+        "ui_motion"
+      ],
+      "vfx_intensity_local": "moderate",
+      "fact_check_flag": null,
+      "notes": "Cut 4 (f120-192, 4.958-8.00s): white field, yellow card plate left. Two faux comments: 'paulrimjjin / 디자인 만든 사람 상줘라 / 5.3만' and reply 'dnjswls119 / 혜택은 벌줘라!!! / 2.6만'. Sets up the benefit-complaint twist.",
+      "visible_elements": {
+        "foreground": [
+          "yellow design credit-card plate standing on white surface"
+        ],
+        "midground": [
+          "faux social-media comment UI with two stacked comments and like counts"
+        ],
+        "background": [
+          "flat bright white field #f3f3f3 with soft floor shadow"
+        ],
+        "lighting_env": [
+          "soft high-key studio light from above-front"
+        ],
+        "atmosphere": [
+          "clean minimal product-studio digital, no grain"
+        ]
+      },
+      "texture": {
+        "primary_subject": "glossy_card_plastic",
+        "secondary_objects": [
+          "flat_ui_surface"
+        ],
+        "background_surface": "flat_digital",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "45deg_above",
+        "key_hardness": "diffused",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "strong",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": true,
+        "practical_lights": [],
+        "shadow_presence": "soft",
+        "overall_contrast": "hi_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#f3f3f3",
+          "#e8c21f",
+          "#2a2a2a",
+          "#7c4dff",
+          "#9a9a9a"
+        ],
+        "palette_role": {
+          "#f3f3f3": "background_white_dominant",
+          "#e8c21f": "yellow_card_hero",
+          "#2a2a2a": "comment_text_dark",
+          "#7c4dff": "reply_accent_violet",
+          "#9a9a9a": "ui_meta_grey"
+        },
+        "color_relationship": "warm_accent_on_neutral",
+        "temperature_balance": "warm_dominant",
+        "saturation_strategy": "muted_with_pop",
+        "contrast_type": "luminance_high",
+        "accent_color": "#e8c21f",
+        "accent_ratio": "18_percent"
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A clean high-key product-and-UI composition rendered at 1280x720 pixels, 16:9 landscape, on a flat bright white field (#f3f3f3) with a soft clean floor shadow. In the left third of the frame stands a vivid yellow credit-card plate (#e8c21f) in three-quarter perspective, upright as a bright design hero, its glossy surface catching a soft top highlight and a faint rim catch along one edge, with the proportions and rounded corners of a real payment card and a faint chip rectangle; tiny unreadable supporting text sits on its face. The yellow card casts a soft diffuse drop shadow onto the white floor toward the lower-right. Occupying the right two-thirds of the frame is a faux social-media comment user-interface block containing two stacked comments. The upper comment shows a small circular avatar placeholder, a username handle 'paulrimjjin' in small grey sans-serif, then a bold Korean Hangul comment line in dark near-black (#2a2a2a) reading '디자인 만든 사람 상줘라', followed by a thumbs-up like icon and like count '5.3만' with a reply count in light grey (#9a9a9a). Indented slightly beneath it as a reply is a second comment: a smaller avatar, username 'dnjswls119', a bold Hangul line reading '혜택은 벌줘라!!!' (optionally tinted with a subtle violet accent #7c4dff to read as an emphatic reply), and its own like count '2.6만'. The UI uses subtle separators, reply indentation and generous internal padding, mimicking a real comment feed. The composition balances the bright yellow card focal point on the left against the grey-and-dark comment stack on the right, unified by white negative space. There is no human figure and no hand anywhere. Lighting is soft high-key studio illumination from 45 degrees above-front, strong open fill, a gentle rim along the card's top edge, neutral 5500K balance, and a key-to-fill ratio about 2:1, producing soft shadows and a clean bright stage. Color palette: white #f3f3f3 dominates approximately 58 percent of the frame, yellow card #e8c21f about 18 percent, dark comment text #2a2a2a about 12 percent, grey UI meta #9a9a9a about 8 percent, and violet reply accent #7c4dff about 4 percent. Color relationship: a warm yellow accent on a cool-neutral white ground with high luminance contrast and a muted-with-pop saturation strategy. Texture: glossy yellow card plastic with crisp specular sheen, perfectly flat anti-aliased UI panels, and a featureless flat digital background with zero grain, zero noise and zero atmosphere. The overall aesthetic is a witty Korean credit-card design promo escalating a staged fan-comment gag. Style anchor: Korean commercial product-and-UI composite, hi-key white studio, glossy CG card plate, flat stacked social-media comment overlay, verbatim Korean caption text, 4K clean render, zero grain, design-led credit-card branding, Korean production. Compositionally the bright yellow card pins the left third while the comment stack cascades down the right two-thirds, the reply indented beneath the parent to read as a threaded conversation; this vertical comment rhythm gives the frame a feed-scroll energy even while static. The implied camera sits at eye level in three-quarter view of the card, lending the plate dimensional presence while the UI stays flat and frontal. The two comments are tonally paired for comedic setup: the first is sincere praise ('give the designer a prize'), the second a mock-indignant jab ('punish the benefits'), and the slight violet tint on the reply helps the eye separate the two voices. Like counts in the tens of thousands sell the idea of a genuinely viral thread. The yellow card is the only warm saturated object, so it commands the chromatic focus while the greys recede. Mood is playful and escalating, building toward the punchline two beats later. Generous white space keeps the busy comment stack from feeling crowded. Additional style anchor: Korean commercial design-promo composite, seamless white studio, glossy CG yellow card plate, flat threaded social-comment overlay with parent-and-reply, verbatim Korean caption text, photoreal-clean rendering, 4K, zero grain, escalating comedic-brag tone, design-led credit-card branding, Korean production.",
+        "t2i_negative": "real people, hands, real persons' avatars, dark background, grain, noise, dramatic shadows, distorted card, unreadable text mush, watermark, real bank logos legible, clutter, outdoor scene",
+        "i2v_motion": "Yellow card holds steady at left. The first comment fades/slides in, then the reply comment appears beneath it a beat later; like counts tick up subtly. Camera locked-off. Steady rhythm, 3.042s total.",
+        "i2v_params": {
+          "clip_duration_sec": 3.042,
+          "camera_move": "locked_off",
+          "subject_motion_level": "micro",
+          "signature_effect": "ui_motion",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; yellow card generic design plate, no real logo reproduced; comment usernames fictional; Korean caption text verbatim"
+      }
+    },
+    {
+      "index": 5,
+      "duration": 2.083,
+      "framing": "MS",
+      "function": "product_demo",
+      "subject_action": "blue 'M' card and red 'X' card plates stand side by side on the white field as the design-and-benefit pairing is shown; a faux comment continues the gag while a blue M BOOST card face becomes legible",
+      "layout_grid": "center",
+      "subject_position": "center",
+      "subject_identity": "none_environment",
+      "subject_relationship_to_protagonist": null,
+      "mid_frame_path": "ADV-2026-038_frames/cut05_mid.png",
+      "subject_typo_layout": "typo_overlay_ui",
+      "typo_motion": "블루 M카드 면에 'Boost Your Everyday / Use M BOOST', 'M BOOST / Issued by Hyundai Card. (C) All Rights Reserved.' 노출; 가짜 댓글 UI 추가 페이드.",
+      "camera_angle": "eye_level",
+      "camera_facing": "three_quarter",
+      "shot_scope": "environment",
+      "gaze": "none",
+      "eye_contact_effect": null,
+      "props": [
+        "blue M BOOST card plate",
+        "red X card plate",
+        "faux comment UI"
+      ],
+      "prop_semantics": "M카드(블루)와 X카드(레드)를 나란히 — 'MX' 제품 라인을 시각적으로 명시",
+      "color_palette": [
+        "#f1f1f1",
+        "#1f3fb0",
+        "#b02a24",
+        "#ffffff",
+        "#8a8a8a"
+      ],
+      "color_intent": "화이트 위 블루·레드 카드 대비로 M·X 두 라인을 선명히 구분",
+      "pose_description": "인물 없음; 블루 M카드와 레드 X카드가 중앙에 기립, 카드 면 카피가 읽힘",
+      "subject_motion": "static",
+      "prop_motion": "cards settle / comment UI fades",
+      "camera_motion": "graphic_slide_pan",
+      "camera_motion_intensity": "low",
+      "camera_effect_local": "subtle_dolly",
+      "motion_blur": false,
+      "intra_cut_rhythm": "steady",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [
+        "3d_product_render",
+        "ui_motion"
+      ],
+      "vfx_intensity_local": "moderate",
+      "fact_check_flag": null,
+      "notes": "Cut 5 (f193-242, 8.00-10.083s): white field, blue 'M BOOST' card + red 'X' card side by side. Blue card face: 'Boost Your Everyday / Use M BOOST', 'M BOOST / Issued by Hyundai Card. (C) All Rights Reserved.', chip+barcode+Hyundai Card logo. Faux comment continues.",
+      "visible_elements": {
+        "foreground": [
+          "blue 'M BOOST' card plate with on-card english copy, chip and barcode"
+        ],
+        "midground": [
+          "red 'X' card plate beside it",
+          "faux comment UI card"
+        ],
+        "background": [
+          "flat bright white field #f1f1f1 with soft floor shadow"
+        ],
+        "lighting_env": [
+          "soft high-key studio light"
+        ],
+        "atmosphere": [
+          "clean minimal product-studio digital, no grain"
+        ]
+      },
+      "texture": {
+        "primary_subject": "matte_textured_card_plate",
+        "secondary_objects": [
+          "matte_textured_card_plate",
+          "flat_ui_surface"
+        ],
+        "background_surface": "flat_digital",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "45deg_above",
+        "key_hardness": "diffused",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "strong",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": true,
+        "practical_lights": [],
+        "shadow_presence": "soft",
+        "overall_contrast": "hi_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#f1f1f1",
+          "#1f3fb0",
+          "#b02a24",
+          "#ffffff",
+          "#8a8a8a"
+        ],
+        "palette_role": {
+          "#f1f1f1": "background_white_dominant",
+          "#1f3fb0": "blue_m_card_hero",
+          "#b02a24": "red_x_card",
+          "#ffffff": "card_text_white",
+          "#8a8a8a": "ui_meta_grey"
+        },
+        "color_relationship": "complementary",
+        "temperature_balance": "balanced",
+        "saturation_strategy": "muted_with_pop",
+        "contrast_type": "luminance_high",
+        "accent_color": "#1f3fb0",
+        "accent_ratio": "22_percent"
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A premium product-mockup frame rendered at 1280x720 pixels, 16:9 landscape, on a flat bright white field (#f1f1f1) with a soft clean floor shadow. Centered in the frame stand two credit-card plates side by side in three-quarter perspective, presented as a paired product hero. On the left is a deep blue card (#1f3fb0) — the 'M BOOST' card — its matte surface carrying legible English on-card copy arranged in a clean sans-serif: an upper line reading 'Boost Your Everyday' with 'Use M BOOST' beneath it in white (#ffffff), a small block reading 'M BOOST / Issued by Hyundai Card. (C) All Rights Reserved.', a faint embossed chip rectangle at upper-left, a horizontal barcode strip across the lower portion, and a small 'Hyundai Card' style wordmark near the bottom edge rendered as a generic logotype. On the right stands a deep red card (#b02a24) — the 'X' card — with a subtle woven texture and a small dark 'X' design mark, leaning slightly toward the blue card so the pair reads as the M and X of the product line. Both cards have rounded corners, refined matte finishes and soft top highlights, and cast gentle diffuse drop shadows onto the white floor below. A small faux social-media comment UI card may float to one side, light grey with a username handle, a short bold Korean Hangul comment and a like count in grey (#8a8a8a), continuing the staged comment conceit. The composition centers the blue-and-red card pair as the dual focal point, balanced by generous white negative space above and on the sides. There is no human figure and no hand. Lighting is soft high-key product-studio illumination from 45 degrees above-front, strong open fill, faint rim catches along the card tops, neutral 5500K balance and a key-to-fill ratio about 2:1, producing clean soft shadows. Color palette: white #f1f1f1 dominates about 52 percent of the frame, blue M card #1f3fb0 about 22 percent, red X card #b02a24 about 16 percent, white on-card text #ffffff about 6 percent, and grey UI meta #8a8a8a about 4 percent. Color relationship: a vivid complementary blue-versus-red pairing on a cool-neutral white ground, with high luminance contrast and muted-with-pop saturation. Texture: matte blue and woven-red card plastics with crisp barcode and chip detail, flat anti-aliased UI panel, and a featureless flat digital background with zero grain, zero noise and zero atmosphere. The overall aesthetic is a clean Korean credit-card product showcase naming the M and X lines. Style anchor: Korean commercial fintech product mockup, hi-key white studio, glossy-matte CG card plates with on-card copy, three-quarter paired hero arrangement, verbatim on-card English and Korean caption text, 4K clean render, zero grain, design-led credit-card branding, Korean production. Compositionally the blue M card and red X card form a symmetric pair straddling the vertical center, their slight inward lean creating a subtle 'MX' bookend that visually names the product line; the implied camera is at eye level in three-quarter view, giving both plates equal dimensional weight. The blue card's on-card English copy is the legibility hero of the frame, arranged in a tidy left-aligned block so the viewer can actually read 'Boost Your Everyday / Use M BOOST', while the barcode strip and chip sell card realism. The red X card is slightly more recessed and textured, complementary in hue so the pair reads as two halves of one family. Any faux comment card is kept small and to the side so it does not steal focus from the product pairing. Mood is clean, confident and product-forward — this is the beat where the ad pivots from teasing comments toward the actual goods. Soft reflections and gentle rim catches keep both cards premium; negative space frames them as designed objects. Additional style anchor: Korean commercial fintech product mockup, seamless white studio, matte-and-glossy CG card plates with legible on-card copy, complementary blue-red paired hero, verbatim on-card English plus Korean caption, photoreal-clean rendering, 4K, zero grain, design-led credit-card branding, Korean production.",
+        "t2i_negative": "real people, hands, dark background, grain, noise, dramatic shadows, distorted card proportions, unreadable mush, watermark, real bank logos legible at high fidelity, clutter, outdoor scene",
+        "i2v_motion": "Blue M card and red X card settle and hold side by side; a subtle slow dolly eases toward the pair while a faux comment card fades in beside them. Soft studio shadows track the motion. Steady rhythm, 2.083s total.",
+        "i2v_params": {
+          "clip_duration_sec": 2.083,
+          "camera_move": "subtle_dolly",
+          "subject_motion_level": "micro",
+          "signature_effect": "none",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; card faces generic design plates, Hyundai Card wordmark rendered as generic logotype; on-card English and comment Korean text verbatim"
+      }
+    },
+    {
+      "index": 6,
+      "duration": 2.75,
+      "framing": "MCU",
+      "function": "narrative_build",
+      "subject_action": "a clean white machine/dispenser unit labeled 'HYUNDAI CARD' sits in close framing while a small blue gummy-bear-like figure or card emerges from a slot; another faux comment fades in joking that the card is too pretty to spend with",
+      "layout_grid": "center_with_caption_overlay",
+      "subject_position": "center",
+      "subject_identity": "none_environment",
+      "subject_relationship_to_protagonist": null,
+      "mid_frame_path": "ADV-2026-038_frames/cut06_mid.png",
+      "subject_typo_layout": "typo_overlay_ui",
+      "typo_motion": "가짜 댓글 페이드 인 — 'airim22 / 잘 쓸게요, 카드 대신 책갈피로 / 4.6만'. 기계면에 'HYUNDAI CARD' 각인.",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "tabletop",
+      "gaze": "none",
+      "eye_contact_effect": null,
+      "props": [
+        "white machine/dispenser with 'HYUNDAI CARD' label",
+        "small blue figure/card emerging from slot",
+        "faux comment UI"
+      ],
+      "prop_semantics": "카드 발급 기계 + 귀여운 블루 오브젝트로 '발급되는 카드'를 위트있게 연출; '책갈피로 쓰겠다'는 극찬 농담",
+      "color_palette": [
+        "#e9e9e9",
+        "#ffffff",
+        "#1f3fb0",
+        "#2a2a2a",
+        "#9a9a9a"
+      ],
+      "color_intent": "거의 흰색 톤의 미니멀 기계 위 블루 포인트로 시선 집중, 회색 댓글 UI로 SNS 맥락",
+      "pose_description": "인물 없음; 흰 기계가 중앙 클로즈, 슬롯에서 블루 오브젝트가 튀어나옴",
+      "subject_motion": "static",
+      "prop_motion": "small blue object pops/extrudes from machine slot",
+      "camera_motion": "locked_off",
+      "camera_motion_intensity": "none",
+      "camera_effect_local": "none",
+      "motion_blur": false,
+      "intra_cut_rhythm": "steady",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [
+        "3d_product_render",
+        "ui_motion"
+      ],
+      "vfx_intensity_local": "moderate",
+      "fact_check_flag": null,
+      "notes": "Cut 6 (f243-308, 10.083-12.833s): near-white minimal machine labeled 'HYUNDAI CARD', small blue gummy/card object emerging from slot. Faux comment: 'airim22 / 잘 쓸게요, 카드 대신 책갈피로 / 4.6만'. Low shift_x (~0.3) = locked.",
+      "visible_elements": {
+        "foreground": [
+          "white machine/dispenser unit with embossed 'HYUNDAI CARD' label",
+          "small glossy blue figure or mini-card emerging from a slot"
+        ],
+        "midground": [
+          "faux social-media comment UI card"
+        ],
+        "background": [
+          "near-white pale grey field #e9e9e9"
+        ],
+        "lighting_env": [
+          "soft high-key studio light, very low contrast"
+        ],
+        "atmosphere": [
+          "clean minimal digital, near-monochrome white, no grain"
+        ]
+      },
+      "texture": {
+        "primary_subject": "matte_white_plastic",
+        "secondary_objects": [
+          "glossy_jelly_plastic",
+          "flat_ui_surface"
+        ],
+        "background_surface": "flat_digital",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "front",
+        "key_hardness": "diffused",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "strong",
+        "key_to_fill_ratio": "1.5:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "subtle",
+        "overall_contrast": "hi_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#e9e9e9",
+          "#ffffff",
+          "#1f3fb0",
+          "#2a2a2a",
+          "#9a9a9a"
+        ],
+        "palette_role": {
+          "#e9e9e9": "background_pale_grey_dominant",
+          "#ffffff": "machine_white",
+          "#1f3fb0": "blue_object_accent",
+          "#2a2a2a": "comment_text_dark",
+          "#9a9a9a": "ui_meta_grey"
+        },
+        "color_relationship": "near_monochrome_with_accent",
+        "temperature_balance": "neutral",
+        "saturation_strategy": "desaturated_with_pop",
+        "contrast_type": "luminance_low",
+        "accent_color": "#1f3fb0",
+        "accent_ratio": "8_percent"
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A clean minimal close-up product frame rendered at 1280x720 pixels, 16:9 landscape, on a near-white pale grey field (#e9e9e9) that reads almost monochrome. Centered and filling much of the frame is a smooth white machine or card-dispenser unit (#ffffff) rendered in matte CG plastic — a simple rounded modern appliance form with a horizontal slot, carrying a subtly embossed 'HYUNDAI CARD' label across its face in a clean generic logotype. From the slot, a small glossy blue object — a cute jelly or gummy-bear-like figure, or a mini blue card (#1f3fb0) — is emerging or being extruded, providing the single saturated color accent in an otherwise white-on-white scene. The machine and emerging object sit at the center with shallow tabletop framing, casting only the faintest soft shadow into the pale field. Overlaid to one side is a faux social-media comment UI card: a small circular avatar placeholder, a username handle 'airim22' in small grey, a bold Korean Hangul comment line in dark near-black (#2a2a2a) reading '잘 쓸게요, 카드 대신 책갈피로', and a thumbs-up like icon with a like count '4.6만' in light grey (#9a9a9a). The composition is calm and centered, the white machine dominating with the tiny blue accent and the grey comment block providing contrast, all unified by the pale near-white ground. There is no human figure and no hand. Lighting is soft, diffused, high-key studio illumination from the front, very low contrast, strong open fill keeping the white-on-white forms legible through gentle gradient and the faintest contact shadow; neutral 5500K balance, key-to-fill ratio about 1.5:1. Color palette: pale grey-white #e9e9e9 and white #ffffff together dominate approximately 80 percent of the frame, blue accent object #1f3fb0 about 8 percent, dark comment text #2a2a2a about 7 percent, and grey UI meta #9a9a9a about 5 percent. Color relationship: a near-monochrome white composition with a single blue pop accent, neutral temperature, desaturated-with-pop saturation and low luminance contrast. Texture: matte white machine plastic with soft form-defining shading, glossy translucent blue jelly object, flat anti-aliased UI panel, and a featureless flat digital background with zero grain, zero noise and zero atmosphere. The overall aesthetic is a playful minimalist Korean credit-card promo beat showing a card 'being dispensed' with a witty fan comment. Style anchor: Korean commercial product render, hi-key near-white minimalism, matte white CG appliance with single blue accent, flat social-media comment overlay, verbatim Korean caption text, 4K clean render, zero grain, design-led credit-card branding, Korean production. Compositionally the white machine is centered and large, filling the middle of the frame with the emerging blue object as the single bright punctuation mark, while the grey comment card balances to one side; the near-monochrome palette makes the scene feel clinical, clean and a touch surreal, which sets up the comedic 'I'll use it as a bookmark' line. The implied camera is frontal at eye level with shallow tabletop depth, the machine's simple rounded geometry reading as a friendly appliance rather than an ATM. The blue object's glossy translucency gives it a toy-like charm that softens the otherwise sterile whiteness. The comment '잘 쓸게요, 카드 대신 책갈피로' is the witty heart of this beat — praise so extreme the commenter would rather frame the card than spend with it — and its like count sells the joke's popularity. Lighting stays flat and bright to preserve the white-on-white aesthetic, with only the faintest shadow grounding the forms. Mood is deadpan-cute, minimalist and design-obsessed. Additional style anchor: Korean commercial product render, hi-key near-white minimalism, matte white CG appliance dispensing a glossy blue accent object, flat believable-but-generic social comment overlay, verbatim Korean caption text, photoreal-clean rendering, 4K, zero grain, playful design-brag tone, Korean production.",
+        "t2i_negative": "real people, hands, dark background, grain, noise, dramatic shadows, harsh contrast, distorted machine, unreadable text mush, watermark, real bank logos legible, clutter, outdoor scene",
+        "i2v_motion": "The white machine holds still; the small glossy blue object pops/extrudes from the slot with a tiny bounce. The faux comment fades in to one side, like count ticking. Camera locked-off. Steady rhythm, 2.75s total.",
+        "i2v_params": {
+          "clip_duration_sec": 2.75,
+          "camera_move": "locked_off",
+          "subject_motion_level": "micro",
+          "signature_effect": "ui_motion",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; machine and object generic CG, Hyundai Card label rendered as generic logotype; comment username fictional; Korean caption text verbatim"
+      }
+    },
+    {
+      "index": 7,
+      "duration": 2.5,
+      "framing": "MS",
+      "function": "twist_punchline",
+      "subject_action": "clean white field with no product — a large two-line dark Korean caption is centered, delivering the deadpan twist that the brand will respond firmly to the (praise-disguised-as) hate comments",
+      "layout_grid": "center",
+      "subject_position": "center",
+      "subject_identity": "none_environment",
+      "subject_relationship_to_protagonist": null,
+      "mid_frame_path": "ADV-2026-038_frames/cut07_mid.png",
+      "subject_typo_layout": "typo_only_no_person",
+      "typo_motion": "대형 다크 타이포 2행 중앙 등장 — '현대카드' / '악플에 강경대응 하겠습니다' (페이드/슬라이드 인, 전체 컷 유지)",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "environment",
+      "gaze": "none",
+      "eye_contact_effect": null,
+      "props": [],
+      "prop_semantics": null,
+      "color_palette": [
+        "#efefef",
+        "#1c1c1c",
+        "#ffffff"
+      ],
+      "color_intent": "순백 배경에 짙은 타이포만으로 펀치라인을 단호하게 — 미니멀 강조",
+      "pose_description": "인물 없음; 검정 타이포만 중앙 정렬, 여백 극대화",
+      "subject_motion": "static",
+      "prop_motion": "none",
+      "camera_motion": "locked_off",
+      "camera_motion_intensity": "none",
+      "camera_effect_local": "none",
+      "motion_blur": false,
+      "intra_cut_rhythm": "static",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [
+        "kinetic_typo"
+      ],
+      "vfx_intensity_local": "subtle",
+      "fact_check_flag": null,
+      "notes": "Cut 7 (f309-368, 12.833-15.333s): pure white #efefef. Centered dark two-line caption '현대카드 / 악플에 강경대응 하겠습니다'. The twist punchline. diff jumps to 163 at f369 (exit to neon BOOST).",
+      "visible_elements": {
+        "foreground": [
+          "large dark Korean two-line caption centered"
+        ],
+        "midground": [],
+        "background": [
+          "flat bright white field #efefef"
+        ],
+        "lighting_env": [
+          "flat even high-key ambient"
+        ],
+        "atmosphere": [
+          "clean minimal digital, no grain, no texture"
+        ]
+      },
+      "texture": {
+        "primary_subject": "flat_2d_vector",
+        "secondary_objects": [],
+        "background_surface": "flat_digital",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "front",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "strong",
+        "key_to_fill_ratio": "1:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "none",
+        "overall_contrast": "hi_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#efefef",
+          "#1c1c1c",
+          "#ffffff"
+        ],
+        "palette_role": {
+          "#efefef": "background_white_dominant",
+          "#1c1c1c": "headline_text_dark",
+          "#ffffff": "highlight_white"
+        },
+        "color_relationship": "monochrome",
+        "temperature_balance": "neutral",
+        "saturation_strategy": "achromatic",
+        "contrast_type": "luminance_high",
+        "accent_color": "#1c1c1c",
+        "accent_ratio": "10_percent"
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A minimalist typographic punchline frame rendered at 1280x720 pixels, 16:9 landscape, with the entire background a flat bright off-white field (#efefef) — uniform, gradient-free, zero texture, zero grain, perfectly even across every pixel. There is no product, no card, no machine, no human figure and no graphic object anywhere in the frame — the composition is reduced to typography alone. Centered both horizontally and vertically is a bold two-line Korean Hangul caption set in a clean heavy sans-serif in dark near-black (#1c1c1c). The first line reads '현대카드' in a slightly smaller weight or size, functioning as the subject/brand label. The second line, larger and emphatic, reads '악플에 강경대응 하겠습니다' spanning a wider measure, delivering the deadpan twist statement. The two lines are center-aligned with comfortable leading between them, the whole text block occupying roughly the central 45 percent of the frame width and about 22 percent of its height, surrounded by generous empty white space above (about 38 percent of frame height), below (about 38 percent) and on both sides, so the dark text reads with stark clarity against the white void. The typeface is a contemporary Korean Gothic sans-serif with even strokes and confident, no-nonsense character forms appropriate to a brand statement. There is no drop shadow, no outline, no gradient and no glow on the text — pure flat dark letterforms on a flat light ground. Lighting is irrelevant in the photographic sense — the frame is a flat high-key graphic render with even ambient brightness, no directional key, no shadows and no highlights beyond the pure white ground. Color palette: off-white #efefef dominates approximately 88 percent of the frame, dark headline text #1c1c1c about 10 percent, and pure white #ffffff about 2 percent in the brightest ground areas. Color relationship: an achromatic monochrome composition of dark text on a light field, with high luminance contrast and zero chroma. Texture: zero texture of any kind — no grain, no noise, no haze, no surface detail; the text and ground are pure flat digital vector renders. The overall aesthetic is maximal minimalism used for comedic-deadpan emphasis: by stripping the frame to a single bold statement on white, the twist line lands with confident, almost corporate-serious weight that contrasts with the playful praise comments preceding it. Style anchor: ultra-minimal Korean commercial typographic punchline card, 4K clean flat render, bold Korean Gothic sans-serif, dark text on off-white field, generous negative space, high luminance contrast, achromatic, zero decorative elements, zero grain, zero atmosphere, Korean production. Compositionally the restraint is the point: where the surrounding beats are busy with cards and comments, this frame empties to a single dark statement on white, forcing a tonal gear-shift that reads as the brand 'clearing its throat' before the comeback. The center-aligned two-line lockup uses the smaller brand label above the larger declarative line to create a clear read order — who is speaking, then what they say. The vast white margins amplify the seriousness and let the deadpan humor breathe, since the literal meaning ('we will firmly crack down on the hate comments') is comically at odds with the fact that the comments were all compliments. There is zero ornament, zero color and zero motion clutter, so the line lands like a corporate press statement delivered with a straight face. The implied 'camera' is a flat graphic plane; there is no depth, no object and no lighting drama. Mood is confident, dry and pivotal — the hinge between the comment gag and the benefit payoff. Additional style anchor: ultra-minimal Korean commercial typographic statement card, flat high-key white graphic plane, bold Korean Gothic sans-serif lockup with brand label plus declarative line, generous negative space, achromatic high-luminance contrast, zero decoration, zero grain, zero atmosphere, deadpan brand-voice tone, Korean production.",
+        "t2i_negative": "photographic elements, product, cards, people, hands, gradient, texture, grain, noise, decorative graphics, colored text, glow, shadow, serif font, clutter, watermark",
+        "i2v_motion": "The two-line caption fades or slides gently into place and then holds perfectly static for the remainder. No product, no camera move. Camera locked-off. Static rhythm, 2.5s total, with a clean hard cut out at the end into the neon benefit sequence.",
+        "i2v_params": {
+          "clip_duration_sec": 2.5,
+          "camera_move": "locked_off",
+          "subject_motion_level": "still",
+          "signature_effect": "kinetic_typo",
+          "pacing": "static",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; pure typographic card; Korean punchline text verbatim; no logo mark reproduced"
+      }
+    },
+    {
+      "index": 8,
+      "duration": 1.417,
+      "framing": "MS",
+      "function": "product_benefit",
+      "subject_action": "a dramatic neon-lit dark stage where a glowing blue 'M' card and orange illuminated 'BOOST' lettering blaze; a white M BOOST card floats at center-right with a benefit headline declaring 5% online-pay rewards",
+      "layout_grid": "split_screen",
+      "subject_position": "left_third",
+      "subject_identity": "none_environment",
+      "subject_relationship_to_protagonist": null,
+      "mid_frame_path": "ADV-2026-038_frames/cut08_mid.png",
+      "subject_typo_layout": "typo_opposite_subject",
+      "typo_motion": "우측 흰 카피 등장 — '온라인 페이 5% 적립' (헤드) + 'M 위에 BOOST' (브랜드 모션라인). 하단 혜택 고지 자막 정적.",
+      "camera_angle": "eye_level",
+      "camera_facing": "three_quarter",
+      "shot_scope": "environment",
+      "gaze": "none",
+      "eye_contact_effect": null,
+      "props": [
+        "glowing blue 'M' neon card sculpture",
+        "illuminated orange 'BOOST' lettering",
+        "white M BOOST card"
+      ],
+      "prop_semantics": "네온 M + BOOST 조형으로 'M BOOST' 혜택을 임팩트있게 — 클럽/사이버 무드로 자신감 표현",
+      "color_palette": [
+        "#0a0a16",
+        "#2b4cff",
+        "#ff6a1a",
+        "#ffffff",
+        "#6a3df0"
+      ],
+      "color_intent": "딥 다크 배경 위 블루·오렌지 네온으로 강렬한 대비, 흰 카피로 혜택 가독성",
+      "pose_description": "인물 없음; 네온 M 조형 좌측, 우측에 흰 카드 + 카피, 오렌지 BOOST 글자 배경 발광",
+      "subject_motion": "static",
+      "prop_motion": "neon glow pulses, card floats slightly",
+      "camera_motion": "graphic_slide_pan",
+      "camera_motion_intensity": "low",
+      "camera_effect_local": "neon_flicker",
+      "motion_blur": false,
+      "intra_cut_rhythm": "punchy",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [
+        "neon_glow",
+        "3d_product_render",
+        "kinetic_typo"
+      ],
+      "vfx_intensity_local": "strong",
+      "fact_check_flag": null,
+      "notes": "Cut 8 (f369-402, 15.333-16.75s): dark neon stage, glowing blue 'M' + orange 'BOOST' lettering, white M BOOST card. Headline '온라인 페이 5% 적립 / M 위에 BOOST'. Bottom disclaimer '당월실적 50만원 이상 이용 시 적립 (M BOOST, M2 BOOST 월 최대 1만 M포인트, M3 BOOST 월 최대 2만 M포인트)'. Entry diff=163 (biggest cut).",
+      "visible_elements": {
+        "foreground": [
+          "white 'M BOOST' card plate floating center-right"
+        ],
+        "midground": [
+          "glowing blue 'M'-shaped neon card sculpture at left",
+          "illuminated orange 'BOOST' lettering"
+        ],
+        "background": [
+          "deep near-black stage #0a0a16 with neon glow pools",
+          "white benefit headline right side",
+          "tiny benefit disclaimer bottom"
+        ],
+        "lighting_env": [
+          "blue and orange neon practical glow",
+          "dark ambient stage"
+        ],
+        "atmosphere": [
+          "cyber-club neon mood, slight glow diffusion, high contrast"
+        ]
+      },
+      "texture": {
+        "primary_subject": "glossy_card_plastic",
+        "secondary_objects": [
+          "emissive_neon",
+          "glossy_card_plastic"
+        ],
+        "background_surface": "dark_reflective",
+        "atmospheric": [
+          "neon_glow_diffusion"
+        ]
+      },
+      "lighting": {
+        "key_direction": "side",
+        "key_hardness": "hard",
+        "key_color_temp": "mixed",
+        "fill_strength": "minimal",
+        "key_to_fill_ratio": "8:1",
+        "rim_light": true,
+        "practical_lights": [
+          "블루 네온 M 조형",
+          "오렌지 BOOST 발광 글자"
+        ],
+        "shadow_presence": "deep",
+        "overall_contrast": "high_contrast"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#0a0a16",
+          "#2b4cff",
+          "#ff6a1a",
+          "#ffffff",
+          "#6a3df0"
+        ],
+        "palette_role": {
+          "#0a0a16": "background_dark_dominant",
+          "#2b4cff": "blue_neon_m",
+          "#ff6a1a": "orange_neon_boost",
+          "#ffffff": "card_and_headline_white",
+          "#6a3df0": "violet_ambient_glow"
+        },
+        "color_relationship": "complementary",
+        "temperature_balance": "cool_dominant",
+        "saturation_strategy": "vivid",
+        "contrast_type": "luminance_high",
+        "accent_color": "#ff6a1a",
+        "accent_ratio": "20_percent"
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A dramatic high-contrast neon-stage frame rendered at 1280x720 pixels, 16:9 landscape, set against a deep near-black background (#0a0a16) that reads like a darkened cyber stage or club interior with pools of colored glow. In the left third of the frame stands a glowing blue 'M'-shaped sculpture (#2b4cff) — essentially the blue M card form rendered as an emissive neon object, casting cool blue light onto the dark surroundings. Behind and around it, bold illuminated orange lettering spelling 'BOOST' (#ff6a1a) blazes as a backlit sign, throwing warm orange glow that mixes with the blue to create violet ambient pools (#6a3df0) across the reflective dark floor. Floating at center-right is a clean white 'M BOOST' card plate (#ffffff) catching the neon rim light, presented in three-quarter perspective as the product hero. To the right of the card, a white benefit headline is set in bold Korean Hangul: an upper line reading '온라인 페이 5% 적립' and beneath it a brand motion line '_M 위에 BOOST_' (the phrase 'M 위에 BOOST' with 'BOOST' emphasized), legible against the dark stage. Near the bottom edge, a tiny low-contrast Korean disclaimer line reads '당월실적 50만원 이상 이용 시 적립 (M BOOST, M2 BOOST 월 최대 1만 M포인트, M3 BOOST 월 최대 2만 M포인트)'. Compositionally the frame splits into a left visual zone (glowing M and BOOST sign) and a right copy zone (white card plus headline), unified by the dark field and the wash of mixed neon. The implied camera is at eye level in three-quarter view, the dark depth giving the neon objects strong dimensional presence. Lighting is hard, directional and predominantly from the emissive neon practicals themselves — cool blue from the M sculpture, warm orange from the BOOST sign — with minimal fill so deep shadows dominate the negative space and a key-to-fill ratio around 8:1; rim light defines the white card's edges. Color palette: near-black #0a0a16 dominates approximately 50 percent of the frame, orange neon #ff6a1a about 20 percent, blue neon #2b4cff about 15 percent, white card and headline #ffffff about 10 percent, and violet ambient glow #6a3df0 about 5 percent. Color relationship: a vivid complementary blue-versus-orange neon scheme on a dark ground, cool-dominant overall, with high luminance contrast and a fully vivid saturation strategy. Texture: emissive neon surfaces with soft bloom and glow diffusion, glossy white card plastic with sharp specular rim catches, a dark semi-reflective floor returning colored reflections, and subtle atmospheric glow haze around the light sources — but no film grain and no heavy noise. The overall aesthetic is a confident, high-energy Korean credit-card benefit reveal staged like a neon nightclub, signalling that the brand's 'firm response' to the comments is an explosive boost of rewards. Style anchor: Korean commercial benefit-reveal beat, dark neon-club stage, emissive blue-and-orange neon signage, floating glossy product card, white Korean benefit headline plus tiny disclaimer, high-contrast vivid lighting, photoreal CG with neon bloom, 4K, low grain, energetic premium credit-card branding, Korean production. Compositionally the neon M sculpture and the BOOST sign anchor the left and back of the frame while the floating white card and the headline occupy the right, the dark negative space between them charged with mixed colored glow; the implied camera sits at eye level in three-quarter view so the emissive forms read with strong depth and the reflective floor doubles the neon as soft colored pools. The mood is bold, electric and proud — a deliberate tonal whiplash after the bright, minimalist comment beats, signalling that the brand's 'firm response' is in fact an explosive surge of rewards. The white card is the cleanest, brightest object in the frame, so it commands focus even amid the neon, and the headline's emphasized 'BOOST' rhymes with the glowing sign behind it. Glow bloom is soft and physically motivated, the orange and blue lights bleeding gently into the surrounding darkness without crushing the card's legibility. Negative darkness is used as a luxury and energy signal at once, framing the benefit copy in clean black space so it stays readable. Additional style anchor: Korean commercial benefit-reveal staged like a neon nightclub, emissive blue-M sculpture and orange BOOST signage, floating glossy product card as the bright focal anchor, white Korean benefit headline with emphasized brand line, deep colored-glow shadows, photoreal CG with controlled bloom, 4K, low grain, high-energy premium credit-card branding, Korean production.",
+        "t2i_negative": "bright white background, flat lighting, real people, hands, daylight, washed-out colors, grain, heavy noise, distorted card, unreadable text mush, watermark, real bank logos legible, clutter",
+        "i2v_motion": "Neon glow pulses gently as the blue M sculpture and orange BOOST sign breathe with light; the white M BOOST card floats with a subtle hover. The right-side headline '온라인 페이 5% 적립 / M 위에 BOOST' fades/slides in. A slow lateral graphic pan eases across the stage. Camera near-locked with slight drift. Punchy rhythm, 1.417s total.",
+        "i2v_params": {
+          "clip_duration_sec": 1.417,
+          "camera_move": "graphic_slide_pan",
+          "subject_motion_level": "micro",
+          "signature_effect": "neon_glow",
+          "pacing": "punchy",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful neon-stage benefit beat; M card and BOOST sign generic neon-graphic forms, no real logo reproduced; Korean headline and disclaimer text verbatim"
+      }
+    },
+    {
+      "index": 9,
+      "duration": 2.25,
+      "framing": "MS",
+      "function": "product_benefit",
+      "subject_action": "a bright field scattered with glossy blue card-bit shapes and a giant translucent blue 'BOOST' bottle/figure; a small phone or card unit sits at center while a benefit headline declares a 10,000 M-point bonus",
+      "layout_grid": "split_screen",
+      "subject_position": "left_third",
+      "subject_identity": "none_environment",
+      "subject_relationship_to_protagonist": null,
+      "mid_frame_path": "ADV-2026-038_frames/cut09_mid.png",
+      "subject_typo_layout": "typo_opposite_subject",
+      "typo_motion": "우측 흰 카피 등장 — '보너스 10,000 M포인트' (헤드) + 'M 위에 BOOST'. 하단 혜택 고지 자막 정적.",
+      "camera_angle": "high_angle",
+      "camera_facing": "three_quarter",
+      "shot_scope": "environment",
+      "gaze": "none",
+      "eye_contact_effect": null,
+      "props": [
+        "scattered glossy blue card-bit shapes",
+        "giant translucent blue 'BOOST' bottle/figure",
+        "small phone or HYUNDAI CARD unit"
+      ],
+      "prop_semantics": "쏟아지는 블루 카드 조각 + 거대한 BOOST 오브젝트로 '보너스 적립이 쏟아진다'를 시각화",
+      "color_palette": [
+        "#cfd6e6",
+        "#2b4cff",
+        "#1b2a6b",
+        "#ffffff",
+        "#9aa4c0"
+      ],
+      "color_intent": "밝은 콜드 그레이 위 강한 블루 톤으로 'M BOOST' 정체성 통일, 흰 카피 가독",
+      "pose_description": "인물 없음; 블루 카드 조각이 바닥에 흩뿌려지고 거대한 블루 BOOST 형상이 우측 배경, 중앙에 소형 유닛",
+      "subject_motion": "static",
+      "prop_motion": "blue card-bits scatter / tumble across surface",
+      "camera_motion": "graphic_slide_pan",
+      "camera_motion_intensity": "low",
+      "camera_effect_local": "subtle_dolly",
+      "motion_blur": false,
+      "intra_cut_rhythm": "steady",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [
+        "3d_product_render",
+        "kinetic_typo"
+      ],
+      "vfx_intensity_local": "strong",
+      "fact_check_flag": null,
+      "notes": "Cut 9 (f403-456, 16.75-19.0s): bright cool-grey field, scattered glossy blue card-bits, giant translucent blue 'BOOST' bottle/figure right, small phone/card unit center. Headline '보너스 10,000 M포인트 / M 위에 BOOST'. Bottom benefit disclaimer static.",
+      "visible_elements": {
+        "foreground": [
+          "scattered glossy blue card-bit shapes across the surface"
+        ],
+        "midground": [
+          "small phone or 'HYUNDAI CARD' unit at center",
+          "giant translucent blue 'BOOST' bottle/figure at right"
+        ],
+        "background": [
+          "bright cool light-grey field #cfd6e6",
+          "white benefit headline right side",
+          "tiny benefit disclaimer bottom"
+        ],
+        "lighting_env": [
+          "bright soft studio light with cool cast"
+        ],
+        "atmosphere": [
+          "clean energetic studio, abundant blue objects, low grain"
+        ]
+      },
+      "texture": {
+        "primary_subject": "glossy_jelly_plastic",
+        "secondary_objects": [
+          "translucent_resin",
+          "glossy_card_plastic"
+        ],
+        "background_surface": "flat_digital",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "top",
+        "key_hardness": "diffused",
+        "key_color_temp": "cool_6500K",
+        "fill_strength": "strong",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": true,
+        "practical_lights": [],
+        "shadow_presence": "soft",
+        "overall_contrast": "mid_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#cfd6e6",
+          "#2b4cff",
+          "#1b2a6b",
+          "#ffffff",
+          "#9aa4c0"
+        ],
+        "palette_role": {
+          "#cfd6e6": "background_cool_grey_dominant",
+          "#2b4cff": "blue_objects_hero",
+          "#1b2a6b": "deep_blue_shadow",
+          "#ffffff": "headline_and_unit_white",
+          "#9aa4c0": "neutral_midtone"
+        },
+        "color_relationship": "monochromatic_blue",
+        "temperature_balance": "cool_dominant",
+        "saturation_strategy": "vivid",
+        "contrast_type": "luminance_mid",
+        "accent_color": "#2b4cff",
+        "accent_ratio": "30_percent"
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A bright, energetic CG product frame rendered at 1280x720 pixels, 16:9 landscape, on a clean cool light-grey field (#cfd6e6) lit like a soft daylight studio. Scattered across the lower foreground are numerous glossy blue card-bit shapes (#2b4cff) — small rounded blue chips, mini-card fragments and jelly-like blobs tumbling and resting on the surface, as if a cascade of blue tokens has just been poured out, conveying abundance. At the right of the frame stands a giant translucent blue 'BOOST' bottle or figure (#2b4cff with deeper #1b2a6b shadow tones), an oversized glossy resin sculpture catching soft top highlights and refracting light, dominating the right background as a hero icon of the boost concept. At the center sits a small phone or compact 'HYUNDAI CARD' unit in white and blue, the human-scale anchor amid the scattered blue. To the right, a white benefit headline is set in bold Korean Hangul: an upper line reading '보너스 10,000 M포인트' and beneath it the brand motion line 'M 위에 BOOST' with 'BOOST' emphasized. A tiny low-contrast Korean disclaimer line runs near the bottom edge. Compositionally the frame stacks a busy blue foreground against the large BOOST figure on the right and the copy zone, with the small central unit providing focus; the implied camera is a slightly high three-quarter angle looking down onto the scattered field, giving a sense of plenty spilling toward the viewer. Lighting is bright, soft and diffused from above with a cool 6500K cast, strong open fill, gentle rim light defining the glossy blue forms, and a key-to-fill ratio about 2:1, producing soft grounded shadows under each blue piece. Color palette: cool light-grey #cfd6e6 dominates approximately 45 percent of the frame, vivid blue objects #2b4cff about 30 percent, deep blue shadow #1b2a6b about 10 percent, white headline and unit #ffffff about 10 percent, and neutral midtone #9aa4c0 about 5 percent. Color relationship: a near-monochromatic blue scheme on a cool-grey ground, cool-dominant overall, with vivid saturation and mid-key luminance contrast. Texture: glossy jelly-plastic and translucent resin on the blue objects with soft internal light scatter, glossy card-plastic on the central unit, and a clean flat digital background with low grain and no heavy noise. The overall aesthetic is a bright, abundant Korean credit-card benefit reveal communicating a generous point bonus through a literal overflow of blue 'boost' objects. Style anchor: Korean commercial benefit-reveal beat, bright cool studio, glossy translucent blue CG objects in abundance, oversized BOOST hero figure, white Korean benefit headline plus tiny disclaimer, soft daylight lighting, photoreal CG, 4K, low grain, energetic premium credit-card branding, Korean production. Compositionally the scattered blue pieces are arranged with a slight diagonal drift from upper-left toward lower-right so the eye flows into the headline, and the oversized BOOST figure is framed just inside the right edge to leave breathing room for the copy. The mood is upbeat, confident and slightly surreal, treating reward points as a tangible, pourable resource. Negative space in the upper-left keeps the busy foreground from overwhelming the layout, and the cool consistent blue palette ties this beat to the M BOOST identity established in the previous neon shot.",
+        "t2i_negative": "dark background, neon, real people, hands, warm color cast, grain, heavy noise, distorted objects, unreadable text mush, watermark, real bank logos legible, clutter, outdoor scene",
+        "i2v_motion": "Blue card-bits continue scattering and settling across the surface; the giant translucent BOOST figure holds with a subtle light shimmer. The right headline '보너스 10,000 M포인트 / M 위에 BOOST' fades/slides in. A subtle slow dolly eases over the field. Camera near-locked with slight drift. Steady rhythm, 2.25s total.",
+        "i2v_params": {
+          "clip_duration_sec": 2.25,
+          "camera_move": "subtle_dolly",
+          "subject_motion_level": "moderate",
+          "signature_effect": "none",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful benefit beat; blue objects and BOOST figure generic CG forms, no real logo reproduced; Korean headline and disclaimer text verbatim"
+      }
+    },
+    {
+      "index": 10,
+      "duration": 2.667,
+      "framing": "MS",
+      "function": "product_benefit",
+      "subject_action": "a cinematic monochrome scene of a rocket launching amid billowing smoke on a pale field; a red 'X' card stands at center with metallic cone forms around it, and a benefit headline declares the discount rate doubled",
+      "layout_grid": "split_screen",
+      "subject_position": "center",
+      "subject_identity": "none_environment",
+      "subject_relationship_to_protagonist": null,
+      "mid_frame_path": "ADV-2026-038_frames/cut10_mid.png",
+      "subject_typo_layout": "typo_opposite_subject",
+      "typo_motion": "우측 흰 카피 등장 — '할인율 2배로' (헤드) + 'X 위에 BOOST'. 하단 혜택 고지 자막 정적.",
+      "camera_angle": "eye_level",
+      "camera_facing": "three_quarter",
+      "shot_scope": "environment",
+      "gaze": "none",
+      "eye_contact_effect": null,
+      "props": [
+        "red 'X' card plate",
+        "launching rocket with smoke plume",
+        "metallic chrome cone forms"
+      ],
+      "prop_semantics": "로켓 발사 + 할인율 2배 = 'X BOOST'의 폭발적 혜택 상승을 은유",
+      "color_palette": [
+        "#cdcdcd",
+        "#9a9a9a",
+        "#b02a24",
+        "#1a1a1a",
+        "#ffffff"
+      ],
+      "color_intent": "거의 흑백의 시네마틱 스모크 톤에 레드 X카드만 강하게 튀게 하여 혜택 주목",
+      "pose_description": "인물 없음; 좌측 로켓·스모크, 중앙 레드 X카드, 주변 크롬 콘 오브젝트",
+      "subject_motion": "static",
+      "prop_motion": "rocket lifts, smoke billows upward",
+      "camera_motion": "graphic_slide_pan",
+      "camera_motion_intensity": "low",
+      "camera_effect_local": "subtle_dolly",
+      "motion_blur": true,
+      "intra_cut_rhythm": "punchy",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [
+        "3d_product_render",
+        "smoke_sim",
+        "kinetic_typo"
+      ],
+      "vfx_intensity_local": "strong",
+      "fact_check_flag": null,
+      "notes": "Cut 10 (f457-520, 19.0-21.667s): cinematic near-monochrome rocket-launch smoke scene, red 'X' card center, chrome cone forms. Headline '할인율 2배로 / X 위에 BOOST'. diff=125 at f520 (exit to dark MX card).",
+      "visible_elements": {
+        "foreground": [
+          "red textured 'X' card plate standing at center"
+        ],
+        "midground": [
+          "launching rocket emitting a billowing smoke plume",
+          "metallic chrome cone/teardrop forms"
+        ],
+        "background": [
+          "pale grey-white smoky field #cdcdcd",
+          "white benefit headline right side",
+          "tiny disclaimer bottom"
+        ],
+        "lighting_env": [
+          "diffuse overcast-like soft light through smoke"
+        ],
+        "atmosphere": [
+          "heavy billowing smoke, cinematic monochrome haze"
+        ]
+      },
+      "texture": {
+        "primary_subject": "matte_textured_card_plate",
+        "secondary_objects": [
+          "chrome_reflective",
+          "volumetric_smoke"
+        ],
+        "background_surface": "hazy_gradient",
+        "atmospheric": [
+          "heavy_smoke",
+          "soft_haze"
+        ]
+      },
+      "lighting": {
+        "key_direction": "top",
+        "key_hardness": "diffused",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "strong",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": true,
+        "practical_lights": [],
+        "shadow_presence": "soft",
+        "overall_contrast": "mid_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#cdcdcd",
+          "#9a9a9a",
+          "#b02a24",
+          "#1a1a1a",
+          "#ffffff"
+        ],
+        "palette_role": {
+          "#cdcdcd": "background_smoke_grey_dominant",
+          "#9a9a9a": "midtone_smoke",
+          "#b02a24": "red_x_card_accent",
+          "#1a1a1a": "chrome_dark_reflection",
+          "#ffffff": "headline_white_and_highlight"
+        },
+        "color_relationship": "achromatic_with_single_accent",
+        "temperature_balance": "neutral",
+        "saturation_strategy": "desaturated_with_pop",
+        "contrast_type": "luminance_mid",
+        "accent_color": "#b02a24",
+        "accent_ratio": "12_percent"
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A cinematic, nearly monochrome CG frame rendered at 1280x720 pixels, 16:9 landscape, dominated by billowing pale smoke against a grey-white field (#cdcdcd). In the left and center of the frame, a stylized rocket lifts off, trailing a thick volumetric smoke plume that rolls and mushrooms upward through the scene, the smoke catching soft diffuse light in tones of light grey and mid grey (#9a9a9a). Standing at the center of the frame as the focal anchor is a deep red textured 'X' card plate (#b02a24) — the only strongly saturated object in an otherwise desaturated, smoky world, drawing the eye instantly. Around the card, several polished metallic chrome cone or teardrop forms (#1a1a1a reflections) sit like sleek sculptural objects, their mirror surfaces returning dark and bright streaks. To the right, a white benefit headline is set in bold Korean Hangul: an upper line reading '할인율 2배로' and beneath it the brand motion line 'X 위에 BOOST' with 'BOOST' emphasized, legible against the pale smoke. A tiny low-contrast Korean disclaimer line runs near the bottom edge. Compositionally the frame splits into a smoky launch zone on the left and a copy zone on the right, with the red X card bridging them at center; the implied camera is at eye level in three-quarter view, the heavy atmosphere giving strong depth and a sense of dramatic ascent. Lighting is soft and diffused from above, filtered through the smoke like an overcast key, with strong fill keeping the scene readable, a faint rim catch along the red card and chrome forms, neutral 5500K balance and a key-to-fill ratio about 2:1; shadows are soft and atmospheric. Some directional motion blur appears on the rising rocket and fast smoke edges. Color palette: smoke-grey #cdcdcd dominates approximately 50 percent of the frame, mid grey smoke #9a9a9a about 22 percent, the red X card #b02a24 about 12 percent, dark chrome reflections #1a1a1a about 8 percent, and white headline and highlights #ffffff about 8 percent. Color relationship: an achromatic grey composition punctuated by a single red accent, neutral temperature, desaturated-with-pop saturation and mid-key luminance contrast. Texture: matte woven-red card surface, mirror-polished chrome cones, and thick volumetric smoke with soft self-shadowing and gentle haze — cinematic but with minimal film grain. The overall aesthetic is a dramatic Korean credit-card benefit reveal using a rocket-launch metaphor to dramatize a doubled discount rate, the smoke and chrome lending a sleek aspirational tone while the lone red card keeps the product unmistakable. Style anchor: Korean commercial benefit-reveal beat, cinematic monochrome smoke stage, rocket-launch metaphor, lone saturated red product card amid chrome sculptures, white Korean benefit headline plus tiny disclaimer, soft diffused atmospheric lighting, photoreal CG with volumetric smoke, 4K, low grain, dramatic premium credit-card branding, Korean production. Compositionally the smoke plume sweeps up the left and curls toward the center-top, framing the red card in a soft negative pocket of clearer air, while the chrome cones are arranged in a shallow arc that leads the eye from the launch toward the headline; the mood is bold, ascendant and confident, equating the boosted benefit with lift-off energy.",
+        "t2i_negative": "bright saturated background, neon, real people, hands, fire-heavy explosion, colored smoke, grain, heavy noise, distorted card, unreadable text mush, watermark, real bank logos legible, clutter",
+        "i2v_motion": "The rocket lifts and the smoke plume billows and rolls upward with soft turbulence; the red X card holds steady at center as chrome cones glint. The right headline '할인율 2배로 / X 위에 BOOST' fades/slides in. A subtle slow dolly eases through the haze. Camera near-locked with slight drift. Punchy rhythm, 2.667s total.",
+        "i2v_params": {
+          "clip_duration_sec": 2.667,
+          "camera_move": "subtle_dolly",
+          "subject_motion_level": "moderate",
+          "signature_effect": "smoke_sim",
+          "pacing": "punchy",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful benefit beat; X card and rocket generic CG forms, no real logo reproduced; Korean headline and disclaimer text verbatim"
+      }
+    },
+    {
+      "index": 11,
+      "duration": 2.583,
+      "framing": "MS",
+      "function": "product_hero",
+      "subject_action": "a moody dark studio where premium MX card plates stand and reflect on a glossy black surface; a benefit headline ties the M and X boosts together with the 'MX 위에 BOOST' line over a dense legal disclaimer",
+      "layout_grid": "split_screen",
+      "subject_position": "left_third",
+      "subject_identity": "none_environment",
+      "subject_relationship_to_protagonist": null,
+      "mid_frame_path": "ADV-2026-038_frames/cut11_mid.png",
+      "subject_typo_layout": "typo_opposite_subject",
+      "typo_motion": "우측 흰 카피 'MX 위에 BOOST' 등장. 하단 장문 법적/혜택 고지 자막 정적 ('M BOOST 게임, X BOOST 게임 매달 플레이트 추가 시 발급수수료 10만원 (~2021.12.31)' 등).",
+      "camera_angle": "eye_level",
+      "camera_facing": "three_quarter",
+      "shot_scope": "environment",
+      "gaze": "none",
+      "eye_contact_effect": null,
+      "props": [
+        "premium MX card plates (red/dark)",
+        "glossy black reflective surface"
+      ],
+      "prop_semantics": "다크 프리미엄 톤으로 MX 카드를 마지막으로 격상 — 혜택 통합 메시지",
+      "color_palette": [
+        "#141414",
+        "#b02a24",
+        "#2b2b2b",
+        "#ffffff",
+        "#6a6a6a"
+      ],
+      "color_intent": "딥 다크 무드에 레드 카드와 흰 카피로 프리미엄·집중, 반사로 고급감",
+      "pose_description": "인물 없음; 레드/다크 MX 카드가 좌측에 기립, 흑색 바닥에 반사",
+      "subject_motion": "static",
+      "prop_motion": "card holds, subtle reflection shimmer",
+      "camera_motion": "locked_off",
+      "camera_motion_intensity": "none",
+      "camera_effect_local": "none",
+      "motion_blur": false,
+      "intra_cut_rhythm": "steady",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [
+        "3d_product_render"
+      ],
+      "vfx_intensity_local": "moderate",
+      "fact_check_flag": null,
+      "notes": "Cut 11 (f521-582, 21.667-24.25s): moody dark studio, premium MX card plates on glossy black, reflections. Headline 'MX 위에 BOOST'. Dense legal disclaimer: 'M BOOST 게임, X BOOST 게임 매달 플레이트 추가 시 발급수수료 10만원 (~2021. 12. 31)' + fine print block.",
+      "visible_elements": {
+        "foreground": [
+          "premium red/dark 'MX' card plate standing on glossy black surface"
+        ],
+        "midground": [
+          "secondary dark card plate",
+          "soft reflection on black floor"
+        ],
+        "background": [
+          "deep dark studio field #141414",
+          "white 'MX 위에 BOOST' headline right side",
+          "dense legal disclaimer block bottom"
+        ],
+        "lighting_env": [
+          "soft directional studio key with dark falloff"
+        ],
+        "atmosphere": [
+          "moody premium dark, subtle reflection, low grain"
+        ]
+      },
+      "texture": {
+        "primary_subject": "matte_textured_card_plate",
+        "secondary_objects": [
+          "glossy_card_plastic"
+        ],
+        "background_surface": "dark_reflective",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "side",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "minimal",
+        "key_to_fill_ratio": "6:1",
+        "rim_light": true,
+        "practical_lights": [],
+        "shadow_presence": "deep",
+        "overall_contrast": "high_contrast"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#141414",
+          "#b02a24",
+          "#2b2b2b",
+          "#ffffff",
+          "#6a6a6a"
+        ],
+        "palette_role": {
+          "#141414": "background_dark_dominant",
+          "#b02a24": "red_card_hero",
+          "#2b2b2b": "dark_card_secondary",
+          "#ffffff": "headline_white",
+          "#6a6a6a": "reflection_grey"
+        },
+        "color_relationship": "dark_with_single_accent",
+        "temperature_balance": "neutral",
+        "saturation_strategy": "desaturated_with_pop",
+        "contrast_type": "luminance_high",
+        "accent_color": "#b02a24",
+        "accent_ratio": "15_percent"
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A moody premium dark-studio frame rendered at 1280x720 pixels, 16:9 landscape, against a deep dark field (#141414) that falls off into near-black at the edges. In the left third of the frame stands a premium 'MX' credit-card plate in deep red (#b02a24) with a subtle woven or embossed texture, presented upright in three-quarter perspective on a glossy black reflective surface so that a soft mirrored reflection of the card stretches beneath it in greys (#6a6a6a). A secondary darker card plate (#2b2b2b) sits slightly behind, almost merging with the shadows, adding depth. The cards catch a soft directional key light from the side that rakes across their surfaces, defining edges with a faint rim catch while the rest of the scene sinks into rich darkness. To the right of the cards, a white headline is set in bold Korean Hangul reading 'MX 위에 BOOST' with 'BOOST' emphasized, glowing cleanly against the dark ground. Across the bottom of the frame runs a dense block of small low-contrast Korean legal and benefit disclaimer text, including a line reading 'M BOOST 게임, X BOOST 게임 매달 플레이트 추가 시 발급수수료 10만원 (~2021. 12. 31)' followed by additional fine print, set in light grey and intentionally subordinate. Compositionally the frame splits into a dark product zone on the left and a copy zone on the right, unified by the moody black field and the single red accent; the implied camera is at eye level in three-quarter view, the deep shadows giving the card a luxurious, jewel-like presentation. Lighting is soft but strongly directional from the side with minimal fill, producing deep shadows, a high key-to-fill ratio around 6:1, a defining rim along the card edges, and neutral 5500K balance; the glossy floor returns a controlled reflection. Color palette: dark field #141414 dominates approximately 60 percent of the frame, the red hero card #b02a24 about 15 percent, dark secondary card #2b2b2b about 10 percent, white headline #ffffff about 8 percent, and reflection grey #6a6a6a about 7 percent. Color relationship: a dark, near-achromatic composition punctuated by a single saturated red accent, neutral temperature, desaturated-with-pop saturation and high luminance contrast. Texture: matte woven-red card surface, glossy secondary card, and a polished black floor with a soft controlled reflection — clean, low grain, no heavy noise. The overall aesthetic is a premium, confident Korean credit-card hero beat that elevates the MX line as the unified product behind both the M and X boosts, the darkness signalling luxury and finality before the lineup resolution. Style anchor: Korean commercial premium product hero, moody dark studio, glossy black reflective floor, deep-red MX card with rim-light, white Korean headline plus dense legal disclaimer, high-contrast soft-directional lighting, photoreal CG, 4K, low grain, luxury credit-card branding, Korean production. Compositionally the red card is placed on a left-third vertical so its reflection and the negative darkness give it room to breathe, while the right headline and the bottom disclaimer frame it without crowding; the mood is sophisticated, assured and a touch dramatic, the tonal opposite of the bright comment beats, marking the benefit climax of the film.",
+        "t2i_negative": "bright white background, flat even lighting, real people, hands, daylight, washed-out colors, grain, heavy noise, distorted card, unreadable text mush, watermark, real bank logos legible, clutter",
+        "i2v_motion": "The MX card holds steady on the glossy black floor as its reflection shimmers subtly and the rim light breathes. The right headline 'MX 위에 BOOST' fades/slides in over the static disclaimer block. Camera locked-off. Steady rhythm, 2.583s total.",
+        "i2v_params": {
+          "clip_duration_sec": 2.583,
+          "camera_move": "locked_off",
+          "subject_motion_level": "micro",
+          "signature_effect": "none",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful premium hero beat; MX card generic design plate, no real logo reproduced; Korean headline and dense disclaimer text verbatim"
+      }
+    },
+    {
+      "index": 12,
+      "duration": 0.792,
+      "framing": "MS",
+      "function": "twist_resolution",
+      "subject_action": "a neutral grey transition field where the blue 'M' card and red 'X' card separate to the sides as a centered caption deadpans that the brand is not actually angry; a small champagne mark accents above the text",
+      "layout_grid": "center",
+      "subject_position": "center",
+      "subject_identity": "none_environment",
+      "subject_relationship_to_protagonist": null,
+      "mid_frame_path": "ADV-2026-038_frames/cut12_mid.png",
+      "subject_typo_layout": "typo_between_subjects",
+      "typo_motion": "중앙 다크 타이포 '열받은 거 아닙니다' 등장 (블루 M카드 좌·레드 X카드 우 사이). 상단 작은 샴페인 마크 애니메이트.",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "environment",
+      "gaze": "none",
+      "eye_contact_effect": null,
+      "props": [
+        "blue 'M' card shape",
+        "red 'X' card shape",
+        "small champagne accent mark"
+      ],
+      "prop_semantics": "M·X 카드를 좌우로 벌려 펀치라인의 반전을 해소 — '사실 화 안 났다'는 위트",
+      "color_palette": [
+        "#3a3d44",
+        "#1f3fb0",
+        "#b02a24",
+        "#e8d9b0",
+        "#ffffff"
+      ],
+      "color_intent": "중성 그레이 전환 톤에 블루·레드 카드와 흰 타이포로 반전 해소를 차분히",
+      "pose_description": "인물 없음; 블루 M카드 좌측·레드 X카드 우측으로 분리, 중앙 흰/다크 타이포",
+      "subject_motion": "static",
+      "prop_motion": "M and X cards slide apart to the sides",
+      "camera_motion": "locked_off",
+      "camera_motion_intensity": "none",
+      "camera_effect_local": "none",
+      "motion_blur": false,
+      "intra_cut_rhythm": "static",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [
+        "kinetic_typo",
+        "graphic_system"
+      ],
+      "vfx_intensity_local": "moderate",
+      "fact_check_flag": null,
+      "notes": "Cut 12 (f583-601, 24.25-25.042s, 0.79s short transition): neutral grey field #3a3d44, blue 'M' card left + red 'X' card right separating, centered caption '열받은 거 아닙니다', small champagne mark above. Bridges to lineup.",
+      "visible_elements": {
+        "foreground": [
+          "centered dark/white Korean caption '열받은 거 아닙니다'"
+        ],
+        "midground": [
+          "blue 'M' card shape at left",
+          "red 'X' card shape at right",
+          "small champagne accent mark above text"
+        ],
+        "background": [
+          "neutral grey transition field #3a3d44"
+        ],
+        "lighting_env": [
+          "soft even ambient with slight gradient"
+        ],
+        "atmosphere": [
+          "calm neutral transition, clean digital, no grain"
+        ]
+      },
+      "texture": {
+        "primary_subject": "flat_2d_vector",
+        "secondary_objects": [
+          "glossy_card_plastic"
+        ],
+        "background_surface": "flat_digital",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "front",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "strong",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "subtle",
+        "overall_contrast": "mid_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#3a3d44",
+          "#1f3fb0",
+          "#b02a24",
+          "#e8d9b0",
+          "#ffffff"
+        ],
+        "palette_role": {
+          "#3a3d44": "background_grey_dominant",
+          "#1f3fb0": "blue_m_card",
+          "#b02a24": "red_x_card",
+          "#e8d9b0": "champagne_accent_mark",
+          "#ffffff": "caption_white"
+        },
+        "color_relationship": "complementary_on_neutral",
+        "temperature_balance": "neutral",
+        "saturation_strategy": "muted_with_pop",
+        "contrast_type": "luminance_mid",
+        "accent_color": "#e8d9b0",
+        "accent_ratio": "6_percent"
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A calm neutral transition frame rendered at 1280x720 pixels, 16:9 landscape, on a muted mid-grey field (#3a3d44) with a very subtle soft gradient, reading as a quiet interstitial moment. At the left of the frame sits the blue 'M' card shape (#1f3fb0) and at the right the red 'X' card shape (#b02a24), the two plates sliding apart toward opposite edges as if parting to reveal the message between them. Centered between the two cards is a bold Korean Hangul caption reading '열받은 거 아닙니다' in clean white-to-dark lettering (#ffffff against the grey), delivering the deadpan resolution that the brand is not actually angry after its mock-threat. Just above the caption, a small champagne-gold accent mark (#e8d9b0) — a tiny graphic flourish — animates as a light punctuation. Compositionally the frame is symmetric: blue on the left, red on the right, the white caption holding the calm center, with the small gold mark adding a delicate top accent; the implied camera is frontal at eye level with no perspective distortion, giving the beat a poster-like clarity. Lighting is soft, even and ambient from the front with a slight gradient and gentle fill, neutral 5500K balance, a key-to-fill ratio about 2:1, and only the faintest shadow under the floating cards. Color palette: mid-grey #3a3d44 dominates approximately 65 percent of the frame, blue M card #1f3fb0 about 12 percent, red X card #b02a24 about 12 percent, white caption #ffffff about 5 percent, and champagne accent #e8d9b0 about 6 percent. Color relationship: a complementary blue-and-red pair on a neutral grey ground, neutral temperature, muted-with-pop saturation and mid-key luminance contrast. Texture: flat glossy card-plastic on the two shapes, crisp flat vector lettering, a small glossy champagne mark, and a clean flat digital background with a soft gradient, zero grain and no noise. The overall aesthetic is a witty Korean credit-card resolution beat that defuses the earlier 'firm crackdown' threat with a dry one-liner, the parting M and X cards visually handing the moment to the product lineup that follows. Style anchor: Korean commercial transition card, neutral grey interstitial field, complementary blue-M and red-X card shapes parting to the sides, centered white Korean caption, small champagne accent mark, soft even lighting, flat clean CG, 4K, zero grain, deadpan-playful brand-voice tone, Korean production. Compositionally the symmetry and generous grey space around the cards keep the focus on the short caption, and the brief duration of the beat makes it read as a quick comedic exhale between the dark benefit climax and the bright final lineup; the mood is light, knowing and self-aware, completing the joke set up by the punchline card earlier. Compositionally the strict left-right symmetry — blue M parting left, red X parting right, white caption holding center — turns the frame into a visual 'opening of curtains' that hands the moment to the lineup beat that follows; the tiny champagne mark above the caption provides a single warm grace note against the cool grey. The implied camera is flat and frontal, the beat deliberately brief, so it functions as a comedic exhale rather than a dwell. The mood is light, knowing and self-aware: after the dark, dramatic benefit climax and the mock-serious 'firm crackdown' threat, this dry one-liner ('we're not actually mad') lands the joke and resets the tone to friendly confidence. The muted grey ground keeps the two card colors from clashing while still letting them pop, and the generous space around the short caption guarantees instant readability at speed. There is no product detail to study and no environment to read — the frame is pure messaging, a tonal bridge. Additional style anchor: Korean commercial transition card, neutral grey interstitial field, symmetric parting blue-M and red-X card shapes, centered white Korean caption with a single champagne accent mark, soft even flat lighting, clean CG, 4K, zero grain, deadpan-playful self-aware brand voice, Korean production, comedic-beat pacing.",
+        "t2i_negative": "busy background, neon, real people, hands, photographic environment, grain, noise, dramatic shadows, distorted shapes, unreadable text mush, watermark, real bank logos legible, clutter",
+        "i2v_motion": "The blue M card and red X card slide apart to the left and right edges as the centered caption '열받은 거 아닙니다' settles in; the small champagne mark gives a tiny pop above the text. Camera locked-off. Static-to-brief rhythm, 0.792s total.",
+        "i2v_params": {
+          "clip_duration_sec": 0.792,
+          "camera_move": "locked_off",
+          "subject_motion_level": "micro",
+          "signature_effect": "graphic_morph",
+          "pacing": "static",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful transition; M/X card shapes generic design motifs, no real logo reproduced; Korean caption text verbatim"
+      }
+    },
+    {
+      "index": 13,
+      "duration": 4.083,
+      "framing": "WS",
+      "function": "product_lineup_cta",
+      "subject_action": "the full MX BOOST card family is revealed in a horizontal row of design plates on a clean field, then the design motifs animate as the 'MX BOOST' wordmark resolves below them as the campaign signature",
+      "layout_grid": "horizontal_row",
+      "subject_position": "center",
+      "subject_identity": "none_environment",
+      "subject_relationship_to_protagonist": null,
+      "mid_frame_path": "ADV-2026-038_frames/cut13_mid.png",
+      "subject_typo_layout": "typo_below_subject",
+      "typo_motion": "카드 6종 가로 정렬 후 하단 'MX BOOST' 워드마크 정착; 하단 카드 디자인 모티프(M/X/블루/오렌지/M/샴페인) 아이콘 정렬. 장문 법적고지 하단 정적.",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "environment",
+      "gaze": "none",
+      "eye_contact_effect": null,
+      "props": [
+        "six MX BOOST design card plates (red MX, blue icon, MORE OR LESS, gold, yellow, bronze)",
+        "card-motif icon row",
+        "'MX BOOST' wordmark"
+      ],
+      "prop_semantics": "제품 패밀리 전체 노출 + 캠페인명 'MX BOOST' 각인 — CTA 겸 디자인 다양성 증명",
+      "color_palette": [
+        "#ededed",
+        "#b02a24",
+        "#1f3fb0",
+        "#c9a24a",
+        "#e8c21f"
+      ],
+      "color_intent": "밝은 화이트 위 다채로운 카드 라인업으로 '디자인 선택지'를 한눈에, 하단 워드마크로 정리",
+      "pose_description": "인물 없음; 카드 6종이 가로로 정렬 기립, 하단 중앙 'MX BOOST' 워드마크",
+      "subject_motion": "static",
+      "prop_motion": "cards align in a row, motif icons animate, wordmark resolves",
+      "camera_motion": "graphic_slide_pan",
+      "camera_motion_intensity": "low",
+      "camera_effect_local": "subtle_dolly",
+      "motion_blur": true,
+      "intra_cut_rhythm": "steady",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [
+        "3d_product_render",
+        "graphic_system",
+        "kinetic_typo"
+      ],
+      "vfx_intensity_local": "strong",
+      "fact_check_flag": null,
+      "notes": "Cut 13 (f602-699, 25.042-29.125s): bright field, 6 design card plates in a row (red 'MX', blue icon card, 'MORE OR LESS', champagne-gold, yellow, bronze), then 'MX BOOST' wordmark resolves below with motif icon row (M/X/blue/orange/M/champagne). Long disclaimer bottom. High internal diff (animation cluster f605-634).",
+      "visible_elements": {
+        "foreground": [
+          "horizontal row of six MX BOOST design card plates"
+        ],
+        "midground": [
+          "'MX BOOST' wordmark centered below the row",
+          "row of card-design motif icons"
+        ],
+        "background": [
+          "bright clean field #ededed",
+          "long legal disclaimer block bottom"
+        ],
+        "lighting_env": [
+          "soft high-key studio light"
+        ],
+        "atmosphere": [
+          "clean minimal product-studio, no grain"
+        ]
+      },
+      "texture": {
+        "primary_subject": "matte_textured_card_plate",
+        "secondary_objects": [
+          "metallic_brushed_card",
+          "glossy_card_plastic",
+          "flat_2d_vector"
+        ],
+        "background_surface": "flat_digital",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "45deg_above",
+        "key_hardness": "diffused",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "strong",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": true,
+        "practical_lights": [],
+        "shadow_presence": "soft",
+        "overall_contrast": "hi_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#ededed",
+          "#b02a24",
+          "#1f3fb0",
+          "#c9a24a",
+          "#e8c21f"
+        ],
+        "palette_role": {
+          "#ededed": "background_white_dominant",
+          "#b02a24": "red_mx_card",
+          "#1f3fb0": "blue_card",
+          "#c9a24a": "champagne_gold_card",
+          "#e8c21f": "yellow_card"
+        },
+        "color_relationship": "multi_accent_on_neutral",
+        "temperature_balance": "balanced",
+        "saturation_strategy": "vivid",
+        "contrast_type": "luminance_high",
+        "accent_color": "#b02a24",
+        "accent_ratio": "18_percent"
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A clean high-key product-lineup frame rendered at 1280x720 pixels, 16:9 landscape, on a bright neutral field (#ededed) with a soft floor shadow. Across the center of the frame, six premium credit-card plates stand upright in a tidy horizontal row, presented frontally as the full design family, each card a distinct finish: a deep red textured 'MX' card (#b02a24), a blue card carrying a small utensil-or-icon graphic (#1f3fb0), a white minimalist 'MORE OR LESS' card with clean lettering, a champagne-gold metallic card (#c9a24a), a vivid yellow card (#e8c21f), and a bronze textured card. The cards are evenly spaced with small gaps, all the same height, casting soft uniform drop shadows onto the floor, reading as a curated product collection. Below the row of cards, centered, a bold 'MX BOOST' wordmark resolves in dark lettering as the campaign signature, set in a clean confident sans-serif. Beneath or beside the wordmark, a secondary row of small card-design motif icons may appear — a blue 'M', a red 'X', a blue card glyph, an orange 'X', another 'M' and a champagne mark — echoing the design system. Across the bottom of the frame runs a long block of small low-contrast Korean legal disclaimer text in light grey, intentionally subordinate. Compositionally the frame is horizontally organized: the card row holds the upper-middle band, the wordmark anchors the center-lower zone, and the icon row and disclaimer fill the base, with generous white space above the cards giving the lineup editorial calm; the implied camera is frontal at eye level for a clean catalog-like read. Lighting is soft high-key product-studio illumination from 45 degrees above-front, strong open fill, faint rim catches along the metallic card tops, neutral 5500K balance and a key-to-fill ratio about 2:1, producing soft even shadows. Color palette: white #ededed dominates approximately 45 percent of the frame, with the multi-colored cards sharing the remainder — red #b02a24 about 18 percent, blue #1f3fb0 about 12 percent, champagne-gold #c9a24a about 13 percent, and yellow #e8c21f about 12 percent. Color relationship: a multi-accent palette of saturated card colors on a cool-neutral white ground, balanced temperature, vivid saturation and high luminance contrast. Texture: matte woven and bronze card surfaces, brushed-metallic champagne, glossy yellow and blue plastics, flat vector wordmark and icons, and a featureless flat digital background with zero grain and no noise. The overall aesthetic is a confident Korean credit-card family CTA showcasing breadth of design choice under one campaign name, the lineup and wordmark providing a clear, premium sign-off. Style anchor: Korean commercial product-lineup CTA, hi-key white studio, horizontal row of premium design card plates, centered campaign wordmark, card-motif icon row, long legal disclaimer, soft diffused lighting, photoreal CG, 4K, zero grain, design-led credit-card branding, Korean production. Compositionally the colored cards are arranged warm-to-cool across the row to create a pleasing chromatic rhythm, the red MX card placed near the left as the recurring hero, and the wordmark sized to balance the visual weight of the six plates above it; the mood is proud, organized and resolved, delivering on the film's design-and-benefit promise.",
+        "t2i_negative": "real people, hands, dark background, grain, noise, dramatic shadows, distorted card proportions, uneven row, unreadable text mush, watermark, real bank logos legible at high fidelity, clutter, outdoor scene",
+        "i2v_motion": "The six card plates slide and align into a clean even row; the design-motif icons animate into place and the 'MX BOOST' wordmark resolves below them with a crisp settle. Soft studio shadows track the motion; a subtle slow dolly eases toward the lineup. Steady rhythm, 4.083s total.",
+        "i2v_params": {
+          "clip_duration_sec": 4.083,
+          "camera_move": "subtle_dolly",
+          "subject_motion_level": "moderate",
+          "signature_effect": "graphic_morph",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful lineup CTA; card faces and 'MORE OR LESS'/'MX BOOST' marks generic design treatments, no real logo reproduced; on-card and disclaimer text verbatim"
+      }
+    },
+    {
+      "index": 14,
+      "duration": 0.917,
+      "framing": "MS",
+      "function": "brand_cta",
+      "subject_action": "pure black end card with the white 'Hyundai Card' wordmark enclosed in a rounded bracket device centered, holding as the brand sign-off",
+      "layout_grid": "center",
+      "subject_position": "center",
+      "subject_identity": "none_environment",
+      "subject_relationship_to_protagonist": null,
+      "mid_frame_path": "ADV-2026-038_frames/cut14_mid.png",
+      "subject_typo_layout": "typo_only_no_person",
+      "typo_motion": "'Hyundai Card' 워드마크(라운드 브래킷 안) 중앙 정적 — 전체 컷 유지, 미세 settle.",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "environment",
+      "gaze": "none",
+      "eye_contact_effect": null,
+      "props": [],
+      "prop_semantics": null,
+      "color_palette": [
+        "#000000",
+        "#ffffff"
+      ],
+      "color_intent": "순흑 배경에 흰 워드마크로 미니멀·프리미엄·신뢰의 브랜드 마무리",
+      "pose_description": "인물 없음; 라운드 브래킷 안의 'Hyundai Card' 워드마크만 중앙",
+      "subject_motion": "static",
+      "prop_motion": "none",
+      "camera_motion": "locked_off",
+      "camera_motion_intensity": "none",
+      "camera_effect_local": "none",
+      "motion_blur": false,
+      "intra_cut_rhythm": "static",
+      "transition_in": "cut",
+      "transition_out": "fade_out",
+      "vfx_in_shot": [],
+      "vfx_intensity_local": "none",
+      "fact_check_flag": null,
+      "notes": "Cut 14 (f700-721, 29.125-30.04s): pure black #000000. White 'Hyundai Card' wordmark inside a rounded bracket/frame device, centered. zero motion (shift_x=0, diff=0). diff=202 at f700 entry (hard cut from lineup).",
+      "visible_elements": {
+        "foreground": [
+          "white 'Hyundai Card' wordmark inside a rounded bracket device, centered"
+        ],
+        "midground": [],
+        "background": [
+          "pure flat black field #000000"
+        ],
+        "lighting_env": [
+          "flat even ambient — clean digital, no directional light"
+        ],
+        "atmosphere": [
+          "clean minimal digital, no grain, no texture"
+        ]
+      },
+      "texture": {
+        "primary_subject": "flat_2d_vector",
+        "secondary_objects": [],
+        "background_surface": "flat_digital",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "front",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "strong",
+        "key_to_fill_ratio": "1:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "none",
+        "overall_contrast": "high_contrast"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#000000",
+          "#ffffff"
+        ],
+        "palette_role": {
+          "#000000": "background_black_dominant",
+          "#ffffff": "wordmark_white"
+        },
+        "color_relationship": "monochrome",
+        "temperature_balance": "neutral",
+        "saturation_strategy": "achromatic",
+        "contrast_type": "luminance_high",
+        "accent_color": "#ffffff",
+        "accent_ratio": "5_percent"
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A minimalist typographic brand-closer frame rendered at 1280x720 pixels, 16:9 landscape, with the entire background filled by a pure flat black field (#000000) — uniform, gradient-free, zero texture, zero grain, perfectly even across every pixel, an absolute black stage. At the precise horizontal and vertical center of the frame is a brand wordmark in clean white (#ffffff) reading 'Hyundai Card' in a contemporary geometric humanist sans-serif with even, confident strokes. The wordmark is enclosed within a thin rounded rectangular bracket device — a slim white frame or pair of rounded corner brackets hugging the text on its left and right (and partially top and bottom), giving the lockup a distinctive 'screen' or 'card' containment that reads as a refined logo treatment. The wordmark plus bracket occupies roughly the central 30 percent of the frame width and about 10 percent of its height, surrounded by vast empty black space above (about 45 percent of frame height), below (about 45 percent) and on both sides (about 35 percent each), so the white lockup floats in a deep void. There is no drop shadow, no glow, no gradient and no color on the mark — pure white letterforms and bracket on pure black. There is no product, no card, no human figure and no other graphic element anywhere in the frame; the composition is reduced to the single centered brand lockup. Lighting is irrelevant in the photographic sense — this is a flat high-contrast graphic render with even brightness, no directional key, no shadows and no highlights beyond the pure white mark. Color palette: pure black #000000 dominates approximately 95 percent of the frame and pure white #ffffff occupies about 5 percent (the wordmark and bracket). Color relationship: a stark monochrome black-and-white composition with maximum luminance contrast and zero chroma. Texture: zero texture of any kind — no grain, no noise, no haze, no surface detail; the mark and ground are pure flat digital vector renders. The overall aesthetic is maximum minimalism used as a confident, premium brand sign-off: by reducing the final frame to a single white wordmark in its bracket device on absolute black, the closer communicates trust, refinement and design authority, the dark stage providing a calm, definitive end to the witty, high-energy film. Style anchor: ultra-minimal Korean commercial brand closer, flat pure-black field, white humanist sans-serif wordmark inside a rounded bracket containment device, centered with generous negative space, maximum luminance contrast, achromatic, zero decorative elements, zero grain, zero atmosphere, premium financial-brand identity, Korean production. Compositionally the absolute symmetry and the bracket device make the lockup feel deliberate and authoritative, and the deep black bookends the film's white-studio opening with a tonal inversion, giving the thirty-second piece a clean, premium full-stop. Compositionally the extreme reduction is the message: a single white lockup centered in a vast black void reads as authoritative and premium, the bracket device giving the wordmark a contained, screen-like identity that feels deliberate rather than incidental. The perfect symmetry and the surrounding emptiness create a calm, definitive full-stop after the film's high-energy benefit sequence and witty comment gag. The implied frame is a flat graphic plane with no depth, no object and no lighting drama, so nothing competes with the brand name. The mood is confident, refined and trustworthy — the tonal inverse of the bright white studio that opened the piece, so the black closer bookends the thirty-second film with a clean chromatic flip from white to black. The absolute black also lets the white mark appear to glow by pure contrast without any actual glow effect, maximizing legibility and presence. This is a textbook premium financial-brand sign-off that trades all decoration for restraint, letting the equity of the name carry the final beat. Additional style anchor: ultra-minimal Korean commercial brand closer, absolute flat-black field, white humanist sans-serif wordmark inside a rounded bracket containment, dead-centered with maximal negative space, maximum luminance contrast, achromatic, zero decoration, zero grain, zero atmosphere, premium trustworthy financial-brand identity, Korean production, tonal bookend to a white-studio opening.",
+        "t2i_negative": "gradient, texture, grain, noise, decorative elements, photographic elements, product, cards, people, hands, multiple colors, colored text, shadows, glow, serif font, clutter, watermark",
+        "i2v_motion": "Hold essentially static throughout. The 'Hyundai Card' wordmark in its rounded bracket is present from the first frame with only a micro-settle; camera locked-off, no motion of any kind, with a slight fade-out at the very end. Static rhythm, 0.917s total.",
+        "i2v_params": {
+          "clip_duration_sec": 0.917,
+          "camera_move": "locked_off",
+          "subject_motion_level": "still",
+          "signature_effect": "none",
+          "pacing": "static",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful brand closer; wordmark rendered as generic humanist sans-serif logotype with bracket device, not a pixel-exact logo reproduction; 'Hyundai Card' text preserved"
+      }
+    }
+  ],
+  "search_keywords": {
+    "industry": [
+      "finance"
+    ],
+    "product_category": [
+      "credit_card",
+      "design_card",
+      "rewards_card"
+    ],
+    "target_demo": [
+      "20s",
+      "30s",
+      "mz",
+      "trend_consumer",
+      "design_conscious"
+    ],
+    "media_format": [
+      "digital_30s",
+      "shortform_landscape_30s"
+    ],
+    "tone": [
+      "witty",
+      "confident",
+      "premium",
+      "deadpan"
+    ],
+    "pacing": [
+      "build_to_payoff",
+      "steady"
+    ],
+    "technique": [
+      "fake_comment_section",
+      "twist_reveal",
+      "kinetic_typo",
+      "product_hero_render",
+      "graphic_system",
+      "splitscreen_caption"
+    ],
+    "vfx_keywords": [
+      "3d_product_render",
+      "kinetic_typo",
+      "graphic_system",
+      "neon_glow",
+      "color_pop"
+    ],
+    "copy_strategy_keywords": [
+      "fake_complaint_to_benefit",
+      "self_aware_clapback",
+      "praise_as_hate_joke",
+      "benefit_stacking",
+      "caption_led"
+    ],
+    "concept_derivation_pattern": [
+      "invert_negative_format_into_positive_brag"
+    ]
+  },
+  "inferred_creative_thinking": {
+    "insight": "디자인이 너무 좋으면 '카드를 쓰기 아깝다'는 역설적 칭찬이 나온다 — 칭찬을 '악플(불만)'처럼 비틀면 더 강한 자랑이 된다",
+    "persona": "카드의 디자인과 혜택을 SNS에서 품평하고 비교하는, 브랜드 톤앤매너에 예민한 트렌드 소비자",
+    "moment": "신상 카드 디자인을 본 사람들이 댓글로 '디자인 찢었' '상줘라'를 쏟아내는 SNS 반응 순간",
+    "product_role": "디자인(MX 플레이트)과 혜택(M/X BOOST 적립·할인) 두 축을 모두 가진 카드 — '디자인도 혜택도 둘 다'를 증명",
+    "punchline": "현대카드 악플에 강경대응 하겠습니다 (→ 강경대응=혜택을 더 키움)",
+    "differentiator": "혜택 나열형 카드 광고를 '악플 클랩백'이라는 위트 포맷으로 비틀어 브랜드 자신감을 연출",
+    "brand_fit_one_liner": "디자인 자부심이 강한 현대카드답게, 칭찬조차 도발처럼 받아치는 톤",
+    "confidence": "inferred"
+  },
+  "inferred_brief": "디자인으로 유명한 현대카드가 MX BOOST 카드의 '디자인+혜택' 두 마리 토끼를 알린다. SNS 극찬 댓글을 '악플'처럼 비틀어 '강경대응 하겠다'며 혜택(온라인 5% 적립·보너스 1만 M포인트·할인율 2배)을 쏟아내는 위트 있는 자기풍자 포맷으로, 20~40대 트렌드 소비자에게 브랜드 자신감을 각인한다.",
+  "cross_pollination_tags": {
+    "adjacent": [
+      "banking",
+      "insurance",
+      "telecom_plan"
+    ],
+    "distant": [
+      "sneaker_drop",
+      "tech_gadget_launch",
+      "streetwear_brand"
+    ],
+    "contrast": [
+      "comfort_food",
+      "kids_education",
+      "home_appliance"
+    ]
+  },
+  "concept_derivation_pattern": "invert_negative_format_into_positive_brag",
+  "confidence": "inferred",
+  "analyst_notes": "1. faster_whisper 미동작(샌드박스 디스크 공간 부족) — 음성 전사 불가, 화면 자막 verbatim 기반 추정. 2. 캠페인은 현대카드 MX BOOST(공개링크 #3 MX BOOST). '악플=극찬'을 비틀어 혜택을 자랑하는 트위스트 포맷. 3. scenedetect 14씬 vs 정정컷 14컷 — 오프닝 추상 그래픽(f1~45)의 내부 과분할(f20/f45)은 병합하고, 댓글 구간 내 실제 컷(f192/193)을 추가하여 동일 개수이나 경계 정정. 4. 전역 wiggle(mean_abs_shift_x=1.49)은 그래픽 슬라이드/카메라 이동 기인; 순수 핸드헬드 wiggle 부재. 5. cut7 diff=163, cut14 diff=202로 최대 — 펀치라인·엔드카드 진입의 강한 하드컷. 6. 혜택 수치(5% 적립·1만 M포인트·할인율 2배)와 기간(~2021.12.31)은 화면 자막 그대로 보존.",
+  "verification": {
+    "frames_reviewed": "approx 70/721 native-res frames read via host-side montages/crops (all 14 cut boundaries + each cut midpoint + diff spikes f192/f369/f520/f699 + every on-screen caption verbatim: 가짜댓글·펀치라인·BOOST 혜택라인·엔드카드) + 100% per-frame metrics + scenedetect CSV cross-check",
+    "audio_analyzed": false,
+    "hitrate_na": true,
+    "abstraction_checked": true
+  }
+}

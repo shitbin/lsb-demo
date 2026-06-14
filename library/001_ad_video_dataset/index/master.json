@@ -1,0 +1,1060 @@
+{
+  "ADV-2026-001": {
+    "id": "ADV-2026-001",
+    "source_ref": {
+      "platform": "digital_video",
+      "title_or_campaign": "카카오뱅크 모임통장",
+      "brand": "카카오뱅크",
+      "product": "모임통장",
+      "model": null,
+      "year": 2018,
+      "production_note": "준법감시인 심의필 18-376 (2018.11.30 현재)",
+      "url": null
+    },
+    "category_primary": "finance.bank",
+    "industry": "finance",
+    "total_duration": 25.96,
+    "shot_count": 5
+  },
+  "ADV-2026-002": {
+    "id": "ADV-2026-002",
+    "source_ref": {
+      "brand": "카카오뱅크",
+      "product": "모임통장",
+      "title_or_campaign": "카카오뱅크 모임통장 — 세상 모든 모임",
+      "year": 2026,
+      "country": "KR",
+      "language": "ko",
+      "file": "카카오뱅크2.mp4",
+      "rights_note": "brand_owned; craft-reference only"
+    },
+    "category_primary": "01_금융·핀테크",
+    "industry": "finance",
+    "total_duration": 81.92,
+    "shot_count": 46
+  },
+  "ADV-2026-003": {
+    "id": "ADV-2026-003",
+    "source_ref": {
+      "platform": "TVC/digital",
+      "title_or_campaign": "카카오뱅크 모임통장 — 동호회 편",
+      "brand": "카카오뱅크 (KakaoBank)",
+      "product": "모임통장 (Group Account)",
+      "model": null,
+      "year": 2018,
+      "production_note": "준법감시인 심의필 18-378 (2018.11.30 현재)",
+      "url": null
+    },
+    "category_primary": "finance.bank",
+    "industry": "finance",
+    "total_duration": 31.44,
+    "shot_count": 6
+  },
+  "ADV-2026-004": {
+    "id": "ADV-2026-004",
+    "source_ref": {
+      "platform": "broadcast_and_digital",
+      "title_or_campaign": "이미 모두의 은행",
+      "brand": "카카오뱅크 (KakaoBank)",
+      "product": "KakaoBank mobile banking app — full service (transfer, group fund, savings, card, payment)",
+      "model": null,
+      "year": "2022",
+      "production_note": "74-second brand film; omnibus narrative across diverse Korean demographics; yellow brand-color dominant; app UI prominently featured; kinetic yellow caption overlay '보내고, 받고, 모으고, 쓰는'",
+      "url": null
+    },
+    "category_primary": "finance.bank",
+    "industry": "finance",
+    "total_duration": 74.032,
+    "shot_count": 47
+  },
+  "ADV-2026-005": {
+    "id": "ADV-2026-005",
+    "source_ref": {
+      "platform": "broadcast_online",
+      "title_or_campaign": "토스 브랜드 런칭 광고 — 돈의 이동에 자유를",
+      "brand": "토스 (Toss)",
+      "product": "토스 금융 앱 (Toss fintech app)",
+      "model": null,
+      "year": 2021,
+      "production_note": "Cinematic 30s brand film. Joseon-era historical figures in traditional Korean court costume riding a customized classic American convertible through a desert highway. Korean warrior hood ornament. Plate: 21-KOR-0802 Unlimited. On-screen copy builds: 돈의 이동에 / 돈의 이동에 자유를 / 이제, 자유롭게 / 토스가 시작합니다.",
+      "url": null
+    },
+    "category_primary": "finance.fintech",
+    "industry": "finance",
+    "total_duration": 30.094,
+    "shot_count": 17
+  },
+  "ADV-2026-006": {
+    "id": "ADV-2026-006",
+    "source_ref": {
+      "platform": "YouTube / broadcast",
+      "title_or_campaign": "토스 송금 자동인식 편",
+      "brand": "Toss (토스)",
+      "product": "토스 송금 기능 (계좌번호·금액 자동인식)",
+      "model": null,
+      "year": 2018,
+      "production_note": "2D flat illustration animation, monochrome cobalt-blue palette, halftone texture, Korean fintech anti-fraud / ease-of-use narrative",
+      "url": null
+    },
+    "category_primary": "finance.fintech",
+    "industry": "finance",
+    "total_duration": 15.07,
+    "shot_count": 3
+  },
+  "ADV-2026-007": {
+    "id": "ADV-2026-007",
+    "source_ref": {
+      "platform": "YouTube / broadcast",
+      "title_or_campaign": "사기꾼 여러분 — 사기 계좌 자동 조회 (토스 × 경찰청)",
+      "brand": "토스 (Toss)",
+      "product": "토스 송금 사기 계좌 자동 조회 기능 (Toss × 경찰청 fraud-account auto-check)",
+      "model": null,
+      "year": 2024,
+      "production_note": "토스 × 경찰청 협력 캠페인. 사기꾼을 유령(ghost) 코스튬으로 의인화하는 컨셉.",
+      "url": null
+    },
+    "category_primary": "finance.bank",
+    "industry": "finance",
+    "total_duration": 25.54,
+    "shot_count": 10
+  },
+  "ADV-2026-008": {
+    "id": "ADV-2026-008",
+    "source_ref": {
+      "platform": "YouTube / Korean broadcast",
+      "title_or_campaign": "토스뱅크 New Banking, New Bank 런칭 캠페인",
+      "brand": "토스 (Toss)",
+      "product": "토스뱅크 (Toss Bank)",
+      "model": null,
+      "year": 2021,
+      "production_note": "Launch campaign for Toss Bank digital-only bank; regulatory disclaimer: 토스뱅크 준법감시인 심의필 제2021060호 (2021.10.05.~2022.10.04.)",
+      "url": null
+    },
+    "category_primary": "finance.bank",
+    "industry": "finance",
+    "total_duration": 63.44,
+    "shot_count": 46
+  },
+  "ADV-2026-009": {
+    "id": "ADV-2026-009",
+    "source_ref": {
+      "platform": "YouTube",
+      "title_or_campaign": "THE MONEY BOOK — 금융생활 안내서",
+      "brand": "토스 (Toss / Viva Republica)",
+      "product": "THE MONEY BOOK (금융생활 안내서)",
+      "model": null,
+      "year": 2023,
+      "production_note": "No live human actors. Entirely product and typographic macro photography. Book published by 토스 엮음 (Viva Republica). 100 QUESTIONS, 354 WORDS.",
+      "url": null
+    },
+    "category_primary": "finance.bank",
+    "industry": "finance",
+    "total_duration": 56.982,
+    "shot_count": 47
+  },
+  "ADV-2026-010": {
+    "id": "ADV-2026-010",
+    "source_ref": {
+      "platform": "youtube_or_owned",
+      "title_or_campaign": "29CM ORIGINAL — Lifestyle Editorial (Hunter Boots x 29CM)",
+      "brand": "29CM",
+      "product": "Hunter Boots (Wellington boots, sandals) via 29CM editorial",
+      "model": "29CM ORIGINAL brand film",
+      "year": 2023,
+      "production_note": "29CM ORIGINAL in-house production; lifestyle fashion editorial, no spoken dialogue",
+      "url": null
+    },
+    "category_primary": "commerce.fashion",
+    "industry": "commerce",
+    "total_duration": 43.05,
+    "shot_count": 29
+  },
+  "ADV-2026-011": {
+    "id": "ADV-2026-011",
+    "source_ref": {
+      "platform": "broadcast_online",
+      "title_or_campaign": "토스 미니앱 - 편의점 택배 보내기",
+      "brand": "토스 (Toss)",
+      "product": "토스 미니앱 (Toss Mini App)",
+      "model": null,
+      "year": 2024,
+      "production_note": "live_action_narrative",
+      "url": null
+    },
+    "category_primary": "finance.bank",
+    "industry": "finance",
+    "total_duration": 45.93,
+    "shot_count": 27
+  },
+  "ADV-2026-012": {
+    "id": "ADV-2026-012",
+    "source_ref": {
+      "platform": "youtube",
+      "title_or_campaign": "토스 미니앱 - 기차 예매 로그인 없이",
+      "brand": "토스 (Toss)",
+      "product": "토스 미니앱 (기차 예약 KTX·SRT)",
+      "model": null,
+      "year": 2024,
+      "production_note": "Korean fintech super-app mini-app feature ad; live-action narrative comedy; 38s",
+      "url": null
+    },
+    "category_primary": "finance.fintech",
+    "industry": "finance",
+    "total_duration": 38.01,
+    "shot_count": 18
+  },
+  "ADV-2026-013": {
+    "id": "ADV-2026-013",
+    "source_ref": {
+      "platform": "YouTube / social media",
+      "title_or_campaign": "토스 미니앱 캠페인 - 아버지와 아들편 (Toss Mini-App Campaign - Father and Son)",
+      "brand": "토스 (Toss)",
+      "product": "토스 미니앱 (Toss Mini-App)",
+      "model": null,
+      "year": 2024,
+      "production_note": "live-action narrative spot; warm domestic setting; bilingual product name reveal at endcard",
+      "url": null
+    },
+    "category_primary": "finance.fintech",
+    "industry": "finance",
+    "total_duration": 52.36,
+    "shot_count": 19
+  },
+  "ADV-2026-014": {
+    "id": "ADV-2026-014",
+    "source_ref": {
+      "platform": "online_video_ad",
+      "title_or_campaign": "토스 미니앱 — 앱을 쓰는 새로운 방식 (Toss Mini-App super-app showcase)",
+      "brand": "Toss (Viva Republica)",
+      "product": "토스 미니앱 (Toss Mini-App: in-app third-party service marketplace inside the Toss super-app)",
+      "model": null,
+      "year": 2025,
+      "production_note": "Motion-graphics + app-UI montage; BGM-only, caption-led, no voiceover. Closing fineprint '*토스 미니앱 서비스는 만 19세 이상부터 이용할 수 있어요.' Year inferred as a recent (2024-2025) Toss mini-app launch campaign from UI style and product framing; not asserted from an on-screen date.",
+      "url": null
+    },
+    "category_primary": "finance.fintech_platform",
+    "industry": "finance",
+    "total_duration": 33.507,
+    "shot_count": 6
+  },
+  "ADV-2026-015": {
+    "id": "ADV-2026-015",
+    "source_ref": {
+      "platform": "online_video_ad",
+      "title_or_campaign": "토스 브랜드 필름 — 나에게 금융이 필요한 순간 (Toss brand film: the moment I need finance)",
+      "brand": "Toss (Viva Republica)",
+      "product": "Toss app / 종합 금융 서비스 (all-in-one financial life)",
+      "model": null,
+      "year": 2019,
+      "production_note": "Flat 2D motion-graphics brand film (illustrated lifestyle vignettes + app-UI demo); Korean voiceover credited on-screen as 나레이션 토스팀 안지영. Year approximate; 16 cuts, 66.78s, 1920x1080.",
+      "url": null
+    },
+    "category_primary": "finance.fintech_platform",
+    "industry": "finance",
+    "total_duration": 66.78,
+    "shot_count": 16
+  },
+  "ADV-2026-016": {
+    "id": "ADV-2026-016",
+    "source_ref": {
+      "platform": "online_video_ad",
+      "title_or_campaign": "토스 신용등급 무료조회 (Toss credit rating free check)",
+      "brand": "Toss (Viva Republica)",
+      "product": "Toss 신용관리 / 신용등급 무료조회 서비스",
+      "model": null,
+      "year": 2019,
+      "production_note": "Motion-graphics + app-UI demo; year inferred from on-screen data citation '2019년 5월 전국은행연합회 자료 기준'.",
+      "url": null
+    },
+    "category_primary": "finance.credit_score",
+    "industry": "finance",
+    "total_duration": 15.07,
+    "shot_count": 4
+  },
+  "ADV-2026-017": {
+    "id": "ADV-2026-017",
+    "source_ref": {
+      "platform": "social/online video",
+      "title_or_campaign": "토스 숨은 서비스 1 — 신용점수 올리기",
+      "brand": "Toss",
+      "product": "Toss 신용점수 올리기",
+      "model": null,
+      "year": 2026,
+      "production_note": "Curator T series end card",
+      "url": null
+    },
+    "category_primary": "finance.fintech",
+    "industry": "finance",
+    "total_duration": 35.806,
+    "shot_count": 7
+  },
+  "ADV-2026-018": {
+    "id": "ADV-2026-018",
+    "source_ref": {
+      "platform": "social/online video",
+      "title_or_campaign": "토스 숨은 서비스 2 — ATM 현금 출금",
+      "brand": "Toss",
+      "product": "Toss ATM 현금 출금 (cardless withdrawal)",
+      "model": null,
+      "year": 2026,
+      "production_note": "Curator T series end card",
+      "url": null
+    },
+    "category_primary": "finance.fintech",
+    "industry": "finance",
+    "total_duration": 42.632,
+    "shot_count": 10
+  },
+  "ADV-2026-019": {
+    "id": "ADV-2026-019",
+    "source_ref": {
+      "platform": "social/online video",
+      "title_or_campaign": "토스 숨은 서비스 3 — 정부지원금 찾기",
+      "brand": "Toss",
+      "product": "Toss 정부지원금 찾기",
+      "model": null,
+      "year": 2026,
+      "production_note": "Curator T series end card",
+      "url": null
+    },
+    "category_primary": "finance.fintech",
+    "industry": "finance",
+    "total_duration": 40.87,
+    "shot_count": 11
+  },
+  "ADV-2026-020": {
+    "id": "ADV-2026-020",
+    "source_ref": {
+      "platform": "social/online video",
+      "title_or_campaign": "토스 숨은 서비스 4 — 월세 자동이체",
+      "brand": "Toss",
+      "product": "Toss 자동이체 (recurring transfer)",
+      "model": null,
+      "year": 2026,
+      "production_note": "Curator T series end card",
+      "url": null
+    },
+    "category_primary": "finance.fintech",
+    "industry": "finance",
+    "total_duration": 44.98,
+    "shot_count": 11
+  },
+  "ADV-2026-021": {
+    "id": "ADV-2026-021",
+    "source_ref": {
+      "platform": "social_short_form",
+      "title_or_campaign": "토스 숨은 서비스 - 증명서 발급 (주민센터 안 가도 되는 이유)",
+      "brand": "토스 (Toss)",
+      "product": "토스 증명서 발급 (Toss Civil/Government Certificate Issuance)",
+      "model": null,
+      "year": 2024,
+      "production_note": "presenter_plus_screen_recording_tutorial",
+      "url": null
+    },
+    "category_primary": "finance.fintech",
+    "industry": "finance",
+    "total_duration": 52.22,
+    "shot_count": 12
+  },
+  "ADV-2026-022": {
+    "id": "ADV-2026-022",
+    "source_ref": {
+      "platform": "social_short_vertical",
+      "title_or_campaign": "토스 숨은 서비스 6 - 아파트 부동산 시세 알림",
+      "brand": "토스 (Toss)",
+      "product": "토스 부동산 시세 알림 (Toss real-estate price tracking & alerts)",
+      "model": null,
+      "year": 2024,
+      "production_note": "screen_recording_tutorial_with_live_action_presenter_bookends",
+      "url": null
+    },
+    "category_primary": "finance.fintech",
+    "industry": "finance",
+    "total_duration": 40.94,
+    "shot_count": 11
+  },
+  "ADV-2026-023": {
+    "id": "ADV-2026-023",
+    "source_ref": {
+      "platform": "social_short_form",
+      "title_or_campaign": "토스 숨은 서비스 7 - 토스로 쉽게 따릉이 타기",
+      "brand": "토스 (Toss)",
+      "product": "토스 앱 / 숨은 서비스 - 따릉이 타기 (Toss app hidden service - Seoul public bike rental)",
+      "model": null,
+      "year": 2024,
+      "production_note": "creator_screen_recording_walkthrough_plus_live_action",
+      "url": null
+    },
+    "category_primary": "finance.fintech",
+    "industry": "finance",
+    "total_duration": 31.7,
+    "shot_count": 5
+  },
+  "ADV-2026-024": {
+    "id": "ADV-2026-024",
+    "source_ref": {
+      "platform": "social_short_form",
+      "title_or_campaign": "토스 숨은 서비스 8 - 전세 보증보험 가입 (전세보증금 반환보증)",
+      "brand": "토스 (Toss)",
+      "product": "토스 전세보증금 반환보증 가입 (Toss jeonse deposit-guarantee insurance enrollment)",
+      "model": null,
+      "year": 2024,
+      "production_note": "creator_tutorial_screen_recording_plus_talking_head",
+      "url": null
+    },
+    "category_primary": "finance.fintech",
+    "industry": "finance",
+    "total_duration": 59.95,
+    "shot_count": 15
+  },
+  "ADV-2026-025": {
+    "id": "ADV-2026-025",
+    "source_ref": {
+      "platform": "social_shortform",
+      "title_or_campaign": "토스 숨은 서비스 9",
+      "brand": "토스 (Toss)",
+      "product": "소비 줄이기 (spending-reduction / monthly spending goal)",
+      "model": null,
+      "year": null,
+      "production_note": "Episode 9 of the '토스 숨은 서비스' (Toss hidden services) feature-tutorial series. Vertical 1080x1920, ~58.9s. Structure: live-action presenter intro (a Toss Data Analyst), a long single continuous physical-phone-in-hand screen demo of the in-app '소비 줄이기' flow with step-numbered torn-paper captions (steps 1-6), a push-cut emphasis on a lock-screen push notification, and a live-action presenter outro sign-off. Narration by the same female presenter throughout.",
+      "source_file": "토스 숨은 서비스 9.mp4",
+      "url": null
+    },
+    "category_primary": "finance.fintech",
+    "industry": "finance",
+    "total_duration": 58.9,
+    "shot_count": 7
+  },
+  "ADV-2026-026": {
+    "id": "ADV-2026-026",
+    "source_ref": {
+      "platform": "youtube_shorts_instagram_reels",
+      "title_or_campaign": "토스 숨은 서비스 10",
+      "brand": "토스 (Toss)",
+      "product": "fraud-account check before sending money (사기 계좌인지 확인하는 방법) inside the banking app",
+      "model": null,
+      "year": null,
+      "production_note": "Vertical 1080x1920 social shortform, series episode 10. Three-part structure: live-action presenter intro (employee carrying a parcel through a bright open-plan office) -> a single continuous handheld real-device in-app demo screen-captured by filming an iPhone in hand -> live-action presenter outro (unboxing). Numbered step badges (1-5) plus a torn-paper caption strip drive a step-by-step tutorial. Scene detector reported 8 segments but several are in-app screen transitions inside one continuous take (status-bar clock runs 10:46 -> 10:48 unbroken, same hand and background); true camera cuts are only intro->demo and demo->outro.",
+      "source_file": "토스 숨은 서비스 10.mp4",
+      "url": null
+    },
+    "category_primary": "finance.bank",
+    "industry": "finance",
+    "total_duration": 58.28,
+    "shot_count": 8
+  },
+  "ADV-2026-027": {
+    "id": "ADV-2026-027",
+    "source_ref": {
+      "platform": "youtube_shorts_or_instagram_reels",
+      "title_or_campaign": "토스 숨은 서비스 11",
+      "brand": "토스 (Toss)",
+      "product": "더치페이 (Dutch Pay / split-the-bill)",
+      "model": null,
+      "year": null,
+      "production_note": "Vertical 9:16 social tutorial. Live-action presenter intro/outro bookending a handheld real-device in-app screen demo. Recurring series format ('토스 숨은 서비스' episode 11). Presenter credited on-screen as 'Toss UX Writer 구슬'. Feature name verified from on-screen captions as 더치페이 (NOT 더페이/THE PAY); whisper text_raw garbled it as 덮이페이.",
+      "source_file": "토스 숨은 서비스 11.mp4",
+      "url": null
+    },
+    "category_primary": "finance.bank",
+    "industry": "finance",
+    "total_duration": 59.56,
+    "shot_count": 5
+  },
+  "ADV-2026-028": {
+    "id": "ADV-2026-028",
+    "source_ref": {
+      "platform": "social_shortform",
+      "title_or_campaign": "토스 숨은 서비스 12",
+      "brand": "토스 (Toss)",
+      "product": "연말정산 (year-end tax settlement preview)",
+      "model": null,
+      "year": null,
+      "production_note": "Episode 12 of the '토스 숨은 서비스' (Toss hidden services) feature-tutorial series. Vertical 1080x1920, ~59.28s, 29.97fps, 1775 frames. Structure: a short handheld live-action presenter intro (a young female 'Toss Onboarding Coordinator' walking through a wood-paneled office/cafe and picking up a phone), then a long single continuous physical-phone-in-hand screen demo of the in-app year-end-tax 'pre-check' (연말정산 사전점검) flow with step-numbered torn-paper captions (badges 1-6), and a live-action presenter outro sign-off. Same female presenter narrates throughout. The phone status-bar clock advances 3:55 -> 3:56 -> 3:57 across the demo, confirming one continuous real-device take; the operator does a gentle push-in to a closer phone framing around the results screen (~30.4s).",
+      "source_file": "토스 숨은 서비스 12.mp4",
+      "url": null
+    },
+    "category_primary": "finance.fintech",
+    "industry": "finance",
+    "total_duration": 59.28,
+    "shot_count": 6
+  },
+  "ADV-2026-029": {
+    "id": "ADV-2026-029",
+    "source_ref": {
+      "platform": "broadcast_online",
+      "title_or_campaign": "토스증권 — 주식 커뮤니티 기능 소개 광고",
+      "brand": "토스증권 (Toss Securities)",
+      "product": "토스증권 주식투자 앱의 주식 커뮤니티 기능 (Toss Securities stock-investing app — stock community feature)",
+      "model": null,
+      "year": null,
+      "production_note": "40s music-only kinetic-typography product film for Toss Securities' stock community feature. No live action, no narration. Pure motion-graphics on alternating white and black backgrounds with brand blue accent (~#3182F6). Opens with a stacked speech-bubble montage dramatizing the pain point of fragmented Korean stock communities (각 말풍선이 아래에서 위로 쌓임), pivots to a black kinetic-type question card, then enumerates four named features in white title cards — 인기글 알림, 투표 기능, 주주배지, MAU 120만 — each animating a simplified 3D phone mockup / UI vignette, and closes with two black brand-statement cards and a clean white toss securities logo endcard. On-screen copy builds: 주식 초보인데 정보 좀 주실 분? / 잘 산 건지 궁금한데 물어볼 곳이 없네.. / 다들 진짜 주주는 맞나? 마음 편히 소통하고 싶다... / 주식 커뮤니티, 종토방 말고는 없는 거야? // 우리에게 필요한 커뮤니티는? // 주식 초보도 쉽게 의견을 나눌 수 있고 신뢰할 만한 새로운 주식 커뮤니티 // 토스증권에 있습니다 // 인기글 알림 — 관심 있는 종목에 대한 그날의 정보를 알려드려요 // 투표 기능 — 많은 사람들의 의견을 한눈에 볼 수 있어요 // 주주배지 — 주주가 쓴 글이 75%! 믿고 볼 수 있어요 // MAU 120만 — 요즘 눈에 띄게 활발한 주식 커뮤니티 // 주식 커뮤니티를 보는 새로운 시선 / 주식 커뮤니티 누구나 누릴 수 있게. A persistent legal disclaimer ticker scrolls along the bottom edge through the feature section.",
+      "url": null
+    },
+    "category_primary": "finance.securities",
+    "industry": "finance",
+    "total_duration": 40.101,
+    "shot_count": 10
+  },
+  "ADV-2026-030": {
+    "id": "ADV-2026-030",
+    "source_ref": {
+      "platform": "broadcast_online",
+      "title_or_campaign": "토스증권 — 음악 듣듯 영화 고르듯 쇼핑하듯, 주식해",
+      "brand": "토스증권 (Toss Securities)",
+      "product": "토스증권 주식투자 앱 (Toss Securities stock-trading app)",
+      "model": null,
+      "year": 2021,
+      "production_note": "Fast-cut 41.8s securities spot built as a surreal world-hopping montage intercut with real app-UI inserts. Conceptual VO/kinetic-typo build equates investing with everyday consumer apps: 음악 듣듯 (like listening to music) / 영화 고르듯 (like choosing a movie) / 쇼핑하듯 (like shopping) → 난 주식해 (I do stocks). Distinct colour-coded dream worlds: cool-blue mirror-floor void with floating app cards and streetlamps; saturated red sofa void with floating company-logo discs; warm amber and orange portrait beats; violet search-bar world (라면 typed); bright white giant-app-card floor payoff. App-UI inserts show the Toss Securities home ranking tiles (영업이익률 TOP50 / 거래량 TOP100 / 시가총액 TOP100 / 관심 TOP100 / 구매 TOP100 / 수익률 TOP100; nav 홈·내 소비·혜택·주식·전체), a company-pick onboarding screen (관심있는 회사를 선택해주세요 / 맞춤 정보를 알려드려요), a stock chart (최저 152,955; 1일·1주일·1개월·3개월·1년·5년) and a one-share buy sheet (1주를 구매할게요 / 245,000 원). Persistent Korean investment disclaimer strip across the back half. Closing emotional CU of a denim-clad woman: 이 주식, 처음인데 익숙하다. End-card: 토스증권 speech-bubble logo on sky-blue.",
+      "url": null
+    },
+    "category_primary": "finance.securities",
+    "industry": "finance",
+    "total_duration": 41.843,
+    "shot_count": 27
+  },
+  "ADV-2026-031": {
+    "id": "ADV-2026-031",
+    "source_ref": {
+      "platform": "broadcast_online",
+      "title_or_campaign": "토스증권 브랜드 필름 — 달에 직접 가는 사람들 (대담하게, 집요하게)",
+      "brand": "토스증권 (Toss Securities)",
+      "product": "토스증권 주식·투자 서비스 (Toss Securities stock investing app)",
+      "model": null,
+      "year": 2024,
+      "production_note": "Cinematic ~32s anamorphic brand film with celebrity narration (내레이션 : 원빈 / Narration: Won Bin) credited on-screen. Pure VFX/CG long-take journey: opens on a crescent moon framed inside a telescope viewfinder HUD (corner brackets + crosshair reticle + readouts '1000mm / 20mm = X5', stepping to X10 then X20, and '0.0026 AU(astronomical unit, (1.58125 * 10-5))'), dissolves to a clean cinematic moon among drifting clouds, then a continuous accelerating dive THROUGH the clouds into space and down to the lunar surface, ending on a POV astronaut boot taking the first step into lunar dust. Hard-cuts to black kinetic typography that builds 토스, → 토스, 금융부터 바꾼다 → +모든 것을 바꿀 때까지, then hard-cut to a macro Apollo-style bootprint with kinetic copy 대담하게, → 대담하게, 집요하게, → toss logo lockup. Concept: while everyone fixates on the telescope (the tool), some aim to go to the moon directly.",
+      "url": null
+    },
+    "category_primary": "finance.securities",
+    "industry": "finance",
+    "total_duration": 32.23,
+    "shot_count": 6
+  },
+  "ADV-2026-032": {
+    "id": "ADV-2026-032",
+    "source_ref": {
+      "platform": "broadcast_online",
+      "title_or_campaign": "토스증권 — 주식 투자를 쉽게 보는 세상으로 (Make Stock Investing Easy To See)",
+      "brand": "토스증권 (Toss Securities)",
+      "product": "토스증권 주식 투자 앱·웹 (Toss Securities stock investing app and web)",
+      "model": null,
+      "year": 2024,
+      "production_note": "30s fast-cut fintech brand film. A wordplay campaign built on the Korean idiom 쉽게 보다 (to take lightly / to see easily). A recurring bespectacled young everyman protagonist appears across many everyday vignettes (diner with a friend, design studio, taxi back seat, rooftop cafe as a waiter, bookstore) where authority figures and a famous investing book titled 주식투자 쉽게 보지 마라 (Don't Take Stock Investing Lightly) insist that 주식 투자 쉽게 보면 안 된다 (you must not take stock investing lightly). The protagonist flips the idiom: 근데 쉽게 보면 왜 안 돼요? / 쉽게 봐도 괜찮아요 — at Toss Securities you CAN see it easily. A rapid product montage of laptop/desktop/phone/tablet Toss Securities UI with kinetic typography 쉽게 / 넓게 / 깊게 (easily / widely / deeply) builds to the tagline 누구나 주식 투자를 쉽게 보는 세상으로 (Into a world where everyone sees stock investing easily) and the 토스증권 logo endcard. Brand blue ~#3182F6. On-screen legal disclaimers run along the lower edge throughout.",
+      "url": null
+    },
+    "category_primary": "finance.securities",
+    "industry": "finance",
+    "total_duration": 30.094,
+    "shot_count": 24
+  },
+  "ADV-2026-033": {
+    "id": "ADV-2026-033",
+    "source_ref": {
+      "platform": "digital_video",
+      "title_or_campaign": "토스 페이스페이 (Toss Face Pay)",
+      "brand": "토스",
+      "product": "페이스페이",
+      "model": null,
+      "year": 2024,
+      "production_note": "토스(비바리퍼블리카) 페이스페이(FacePay) 얼굴 인식 결제 서비스 런칭 광고 #1",
+      "url": null
+    },
+    "category_primary": "finance.fintech",
+    "industry": "finance",
+    "total_duration": 36.131,
+    "shot_count": 16
+  },
+  "ADV-2026-034": {
+    "id": "ADV-2026-034",
+    "source_ref": {
+      "platform": "digital_video",
+      "title_or_campaign": "토스 페이스페이 (Toss Face Pay) #2 — 더치페이/얼굴값 편",
+      "brand": "토스",
+      "product": "페이스페이",
+      "model": null,
+      "year": 2024,
+      "production_note": "토스(비바리퍼블리카) 페이스페이(FacePay) 얼굴 인식 결제 서비스 런칭 광고 #2 — '서로 내겠다는 더치페이 다툼 → 얼굴로 결제' 코믹 편",
+      "url": null
+    },
+    "category_primary": "finance.fintech",
+    "industry": "finance",
+    "total_duration": 29.722,
+    "shot_count": 14
+  },
+  "ADV-2026-035": {
+    "id": "ADV-2026-035",
+    "source_ref": {
+      "platform": "digital_video",
+      "title_or_campaign": "토스 페이스페이 - 얼굴이 밥 먹여줬다",
+      "brand": "토스",
+      "product": "페이스페이 (FacePay)",
+      "model": null,
+      "year": 2024,
+      "production_note": "Toss FacePay (biometric face-recognition payment) promo, hand-drawn B&W illustration + 3D device render. Toss signature doodle/line-boil animation style.",
+      "url": null
+    },
+    "category_primary": "finance.fintech",
+    "industry": "finance",
+    "total_duration": 27.284,
+    "shot_count": 12
+  },
+  "ADV-2026-036": {
+    "id": "ADV-2026-036",
+    "source_ref": {
+      "platform": "digital_video",
+      "title_or_campaign": "토스 페이스페이 (Toss Face Pay) #4",
+      "brand": "토스",
+      "product": "페이스페이",
+      "model": null,
+      "year": 2024,
+      "production_note": "토스(비바리퍼블리카) 페이스페이(FacePay) 얼굴 인식 결제 서비스 캠페인 광고 #4. 손그림 두들 라인아트 모션그래픽 + 3D 단말기 렌더 혼합. 같은 캠페인 #1(ADV-2026-033)은 결제수단 진화사 메타포, 본편 #4는 '얼굴을 잡아달라'는 콩트형 후크.",
+      "url": null
+    },
+    "category_primary": "finance.fintech",
+    "industry": "finance",
+    "total_duration": 28.909,
+    "shot_count": 15
+  },
+  "ADV-2026-037": {
+    "id": "ADV-2026-037",
+    "source_ref": {
+      "platform": "digital_video",
+      "title_or_campaign": "토스 페이스페이 (Toss Face Pay) — THE POWER OF FACE 티저",
+      "brand": "토스",
+      "product": "페이스페이",
+      "model": null,
+      "year": 2025,
+      "production_note": "토스(비바리퍼블리카) 페이스페이(FacePay) 얼굴 인식 결제 서비스 런칭 티저 광고 #5. 'ORIGINAL FILM BY TOSS' 시그니처. 화면 말미에 공개 일시 '2025. 10. 14. 6 PM' 고지(=2025년 캠페인). 사전적 정의 나레이션은 음성 VO + 동기화된 화면 자막으로 동시 제시.",
+      "url": null
+    },
+    "category_primary": "finance.fintech",
+    "industry": "finance",
+    "total_duration": 46.115,
+    "shot_count": 16
+  },
+  "ADV-2026-038": {
+    "id": "ADV-2026-038",
+    "source_ref": {
+      "platform": "digital_video",
+      "title_or_campaign": "현대카드 MX BOOST '악플에 강경대응'",
+      "brand": "현대카드",
+      "product": "MX BOOST (M BOOST / X BOOST 신용카드)",
+      "model": null,
+      "year": 2021,
+      "production_note": "혜택 안내 자막에 '~2021. 12. 31' 프로모션 기간 표기 — 2021년 캠페인으로 추정",
+      "url": "https://www.youtube.com/watch?v=UDJCGXv-1tw"
+    },
+    "category_primary": "finance.card",
+    "industry": "finance",
+    "total_duration": 30.16,
+    "shot_count": 14
+  },
+  "ADV-2026-039": {
+    "id": "ADV-2026-039",
+    "source_ref": {
+      "platform": "digital_video",
+      "title_or_campaign": "현대카드 슈퍼콘서트 22 콜드플레이 (A Head Full of Dreams Tour) 발표 필름",
+      "brand": "현대카드",
+      "product": "현대카드 슈퍼콘서트 22 (콜드플레이 내한공연)",
+      "model": null,
+      "year": 2017,
+      "production_note": "콜드플레이 A Head Full of Dreams Tour 내한 — 2017.4.15(토) 잠실종합운동장 주경기장. 현대카드 컬처마케팅(슈퍼콘서트) 시리즈 22회. 영상 내 고지 기준.",
+      "url": null
+    },
+    "category_primary": "finance.card",
+    "industry": "finance",
+    "total_duration": 15.26,
+    "shot_count": 4
+  },
+  "ADV-2026-040": {
+    "id": "ADV-2026-040",
+    "source_ref": {
+      "platform": "digital_video",
+      "title_or_campaign": "현대카드 DIVE Grand Open — Let's DIVE",
+      "brand": "현대카드",
+      "product": "현대카드 DIVE (라이프스타일 콘텐츠 앱)",
+      "model": null,
+      "year": 2023,
+      "production_note": "DIGITAL Hyundai Card / DIVE 앱 그랜드 오픈 디지털 필름. 플랫 일러스트 2D 애니메이션. App Store·Google Play 다운로드 CTA.",
+      "url": null
+    },
+    "category_primary": "finance.card",
+    "industry": "finance",
+    "total_duration": 46.3,
+    "shot_count": 17
+  },
+  "ADV-2026-041": {
+    "id": "ADV-2026-041",
+    "source_ref": {
+      "platform": "digital_video",
+      "title_or_campaign": "현대카드 — 카드의 방향을 바꾸다 (화면 돌리기 / rotated-frame 캠페인)",
+      "brand": "현대카드",
+      "product": "현대카드 (신용카드 브랜드 필름)",
+      "model": null,
+      "year": null,
+      "production_note": "TVCF.net 아카이브 워터마크가 우상단에 상시 노출됨(영상 콘텐츠 아님, 아카이브 출처 표식). 화면 하단 약관 고지 1줄은 해상도 한계로 판독 불가.",
+      "url": null
+    },
+    "category_primary": "finance.card",
+    "industry": "finance",
+    "total_duration": 15.05,
+    "shot_count": 3
+  },
+  "ADV-2026-042": {
+    "id": "ADV-2026-042",
+    "source_ref": {
+      "platform": "digital_video",
+      "title_or_campaign": "당신2 9하던 삶 (브랜드 필름 60s)",
+      "brand": "29CM",
+      "product": "29CM 셀렉트숍 플랫폼 (큐레이션 라이프스타일 커머스)",
+      "model": null,
+      "year": 2023,
+      "production_note": "29CM 공식 유튜브 채널 브랜드 필름. 다수 큐레이션 브랜드 제품이 화면 태그로 노출(NEITHERS, STANLEY, lawn chair usa, LIFE ARCHIVE, Ma Journee, HermanMiller, artek, Hem, txture, MERGE, BLUE BRICK, Mardi Mercredi, new balance, GRAMICCI, BIG UNION, audio-technica 등).",
+      "url": "https://www.youtube.com/watch?v=coEJ3D32QX8"
+    },
+    "category_primary": "retail.commerce",
+    "industry": "retail",
+    "total_duration": 60.163,
+    "shot_count": 57
+  },
+  "ADV-2026-043": {
+    "id": "ADV-2026-043",
+    "source_ref": {
+      "platform": "digital_video",
+      "title_or_campaign": "29CM 브랜드 캠페인 '29를 찾습니다 / 29 IS EVERYWHERE'",
+      "brand": "29CM",
+      "product": "29CM (셀렉트숍·라이프스타일 커머스 플랫폼)",
+      "model": null,
+      "year": 2024,
+      "production_note": "분석 파일: '29cm 2.mp4'. 음성 나레이션 없음(음악/BGM 주도). 공개 채널: 유튜브 '29CM' 공식 채널. 정확한 공개연도 미확인(추정).",
+      "url": null
+    },
+    "category_primary": "retail.commerce",
+    "industry": "retail",
+    "total_duration": 20.039,
+    "shot_count": 22
+  },
+  "ADV-2026-045": {
+    "id": "ADV-2026-045",
+    "source_ref": {
+      "platform": "digital_video",
+      "title_or_campaign": "29edition 브랜드 필름 — '아름다운 실용' (머들 디퓨저 / Into the Cedarwood 미스트)",
+      "brand": "29CM",
+      "product": "29edition (29CM 라이프스타일 자체브랜드 — 홈 프래그런스: 머들 스톤 디퓨저, Into the Cedarwood 룸/패브릭 미스트, 캔들)",
+      "model": null,
+      "year": 2023,
+      "production_note": null,
+      "url": "https://www.youtube.com/watch?v=Ehjyrgj3Lqc"
+    },
+    "category_primary": "retail.commerce",
+    "industry": "retail",
+    "total_duration": 30.21,
+    "shot_count": 17
+  },
+  "ADV-2026-046": {
+    "id": "ADV-2026-046",
+    "source_ref": {
+      "platform": "broadcast_online",
+      "title_or_campaign": "배민오더 - 미리 주문 픽업 (런웨이편)",
+      "brand": "배달의민족 / 배민 (Baemin)",
+      "product": "배민오더 (Baemin Order) — 미리 주문 픽업 / pre-order pickup",
+      "model": null,
+      "year": 2024,
+      "production_note": "live_action_comedic_narrative_with_kinetic_typography",
+      "url": null
+    },
+    "category_primary": "commerce.delivery_platform",
+    "industry": "commerce",
+    "total_duration": 31.14,
+    "shot_count": 16
+  },
+  "ADV-2026-047": {
+    "id": "ADV-2026-047",
+    "source_ref": {
+      "platform": "broadcast_online",
+      "title_or_campaign": "배달의민족 - 가훈 (배민라이더스/맛집 통합 캠페인)",
+      "brand": "배달의민족 / 배민 (Baemin)",
+      "product": "배달의민족 앱 — 배민라이더스/배달 안되던 맛집 배달 통합 (Baemin Riders / restaurant-delivery integration)",
+      "model": null,
+      "year": 2017,
+      "production_note": "live_action_narrative_with_painted_tableaux_and_stopmotion_puppet_comedic_art_parody",
+      "url": null
+    },
+    "category_primary": "commerce.delivery_platform",
+    "industry": "commerce",
+    "total_duration": 65.04,
+    "shot_count": 29
+  },
+  "ADV-2026-048": {
+    "id": "ADV-2026-048",
+    "source_ref": {
+      "platform": "broadcast_online",
+      "title_or_campaign": "빙그레우스의 왕실커피 아카페라 스페셜티 - 대개봉 (영화 예고편 패러디, 풀버전)",
+      "brand": "빙그레 (Binggrae)",
+      "product": "아카페라 스페셜티 / 빙그레우스의 왕실커피 (aCafela Specialty RTD coffee)",
+      "model": null,
+      "year": 2024,
+      "production_note": "mixed_media_2d_cel_plus_3d_cg_animation_plus_live_action_film_trailer_parody_full_length",
+      "url": null
+    },
+    "category_primary": "fnb.coffee_rtd",
+    "industry": "fnb",
+    "total_duration": 96.78,
+    "shot_count": 62
+  },
+  "ADV-2026-049": {
+    "id": "ADV-2026-049",
+    "source_ref": {
+      "platform": "broadcast_online",
+      "title_or_campaign": "빙그레 왕실커피 스페셜티 - 빙그레우스의 왕실커피 (영화 예고편 패러디)",
+      "brand": "빙그레 (Binggrae)",
+      "product": "빙그레 왕실커피 스페셜티 (Royal Coffee Specialty) / a Café la 스페셜티",
+      "model": null,
+      "year": 2024,
+      "production_note": "mixed_media_3d_cg_animation_plus_live_action_film_trailer_parody",
+      "url": null
+    },
+    "category_primary": "fnb.coffee_rtd",
+    "industry": "fnb",
+    "total_duration": 19.087,
+    "shot_count": 15
+  },
+  "ADV-2026-050": {
+    "id": "ADV-2026-050",
+    "source_ref": {
+      "platform": "digital_video",
+      "title_or_campaign": "불타오르게 위대하게 (BULDAK WILL RETURN)",
+      "brand": "삼양식품 / 삼양 불닭 (Samyang Buldak)",
+      "product": "불닭볶음면 (Buldak spicy stir-fried instant noodle)",
+      "model": "호치 (Hochi) 캐릭터; 노래·전소연",
+      "year": 2024,
+      "production_note": "스튜디오좋(Studio Joh) 제작 추정 애니메이션 브랜드 필름. 음원 보컬 크레딧 '노래·전소연' 화면 표기. 제품 포장 표기 '제조원·삼양식품(주) 강원도 원주시 우산로 177' 확인.",
+      "url": "https://www.youtube.com/watch?v=rGC35Q_PJ0s"
+    },
+    "category_primary": "fnb.instant_noodle",
+    "industry": "fnb",
+    "total_duration": 128.546,
+    "shot_count": 37
+  },
+  "ADV-2026-051": {
+    "id": "ADV-2026-051",
+    "source_ref": {
+      "platform": "digital_video",
+      "title_or_campaign": "The Kia EV Multiverse — 류승룡 EV9편",
+      "brand": "기아 (Kia)",
+      "product": "기아 전기차 (Kia EV 라인업)",
+      "model": "EV9",
+      "year": 2024,
+      "production_note": "기아 EV9 제품/브랜드 필름, 배우 류승룡 출연 ('The Kia EV Multiverse' 캠페인). 공식 채널: Kia Korea/기아. 참고 링크 youtube watch?v=lEYhjUB64JM (링크_4선.md).",
+      "url": "https://www.youtube.com/watch?v=lEYhjUB64JM"
+    },
+    "category_primary": "auto.ev",
+    "industry": "automotive",
+    "total_duration": 102.795,
+    "shot_count": 18
+  },
+  "ADV-2026-052": {
+    "id": "ADV-2026-052",
+    "source_ref": {
+      "platform": "사용자 제공 mp4",
+      "title_or_campaign": "우월한 월급통장",
+      "brand": "우리은행",
+      "product": "우월한 월급 통장 (입출금 통장)",
+      "model": "장원영",
+      "year": 2025,
+      "production_note": "생성형 AI로 제작된 광고 (엔딩 '본 영상은 생성형 AI로 제작되었습니다' 고지 카드). 시각 시그니처는 Nishika식 4렌즈 위글 3D(좌우 미세 시점 떨림 패럴럭스)를 모사. 셀럽 패션필름 후크 + 3D 풍선타이포(금리 3.1%) + 필름스트립/분할화면 제품 몽타주 + 청유형 CTA.",
+      "url": "(미기입 — 사용자 다운로드 파일)"
+    },
+    "category_primary": "finance.bank",
+    "industry": "finance",
+    "total_duration": 23.72,
+    "shot_count": 13
+  },
+  "ADV-2026-053": {
+    "id": "ADV-2026-053",
+    "source_ref": {
+      "platform": "brand_film_uploaded",
+      "title_or_campaign": "프리윌루전-무쏘 (The Original)",
+      "brand": "KGM",
+      "product": "픽업트럭",
+      "model": "MUSSO",
+      "year": 2026,
+      "production_note": "생성형 AI 일부 활용 제작(화면 하단 고지). 정통 픽업 리런치 브랜드필름. Freewillusion 제작. (재분석: 현행 analyzer 스키마로 recreation_prompts·컷 중간프레임 보강)",
+      "url": null
+    },
+    "category_primary": "auto.pickup_truck",
+    "industry": "automotive",
+    "total_duration": 30.03,
+    "shot_count": 10
+  },
+  "ADV-2026-054": {
+    "id": "ADV-2026-054",
+    "source_ref": {
+      "platform": "사용자 제공 mp4 (YouTube 다운로드)",
+      "title_or_campaign": "디 올 뉴 팰리세이드 하이브리드 (The All-New Palisade Hybrid)",
+      "brand": "현대자동차 (Hyundai)",
+      "product": "팰리세이드 하이브리드 (대형 3열 SUV, Calligraphy AWD)",
+      "model": "(셀럽 미등장 — 제품 단독 히어로 + 익명 라이프스타일 탑승자)",
+      "year": 2026,
+      "production_note": "실사 시네마틱 촬영 + 일부 CG/리그 합성으로 추정(스튜디오 다크스테이지 리빌 + 실외 도심·자연 주행 + 인테리어). 미국 시장향(영문 법적고지·EPA·mile/MPG 표기). 'non-U.S. preproduction model with optional features shown' 고지. 'North American Utility Vehicle of the Year' 수상 그래픽 포함.",
+      "url": "(미기입 — 사용자 다운로드 파일, source id TcmmQmHGvzU)"
+    },
+    "category_primary": "auto.suv_hybrid",
+    "industry": "automotive",
+    "total_duration": 30.094,
+    "shot_count": 28
+  },
+  "ADV-2026-055": {
+    "id": "ADV-2026-055",
+    "source_ref": {
+      "platform": "YouTube_TVC",
+      "title_or_campaign": "청주 한양립스 더 벨루체 아파트 분양 TVC — 지북에서 만나는 더블 프리미엄",
+      "brand": "한양립스 (한양건설 아파트 브랜드)",
+      "product": "청주 한양립스 더 벨루체 아파트 분양",
+      "model": null,
+      "year": 2026,
+      "production_note": "CGI-heavy architectural presale ad; mixed live-action and CGI renders; letterbox 2.39:1 applied via black bars on 1920x1080 container; developer: 동남지역주택조합, constructor: (주)한양건설, trust: (주)무궁화신탁, sales: (주)케이비파트너스",
+      "url": "https://www.youtube.com/watch?v=6dScbGELGMM"
+    },
+    "category_primary": "realestate.apartment_presale",
+    "industry": "construction_realestate",
+    "total_duration": 30.03,
+    "shot_count": 17
+  },
+  "ADV-2026-056": {
+    "id": "ADV-2026-056",
+    "source_ref": {
+      "platform": "uploaded_mp4",
+      "title_or_campaign": "올리브영 오늘드림 (Olive Young Today Dream)",
+      "brand": "올리브영 (CJ 올리브영, H&B 리테일)",
+      "product": "오늘드림 (당일 즉시배송 서비스)",
+      "model": "(여성 1인 메인 + 라이프스타일 일반 출연자)",
+      "year": 2026,
+      "production_note": "1280x540 ultrawide ~2.37:1 (64:27) cinemascope letterbox, 29.05s, 30fps, has_audio. Live-action lifestyle footage composited over an infinite high-key white studio background, with cosmetic/supplement product cut-outs and app-screenshot UI cards floating in from frame edges, plus brand-green two-color kinetic Korean typography. Re-analyzed frame-by-frame: the long dissolve montage (4.5-15.9s) that auto-detect merges was split into real sub-cuts (paper-pile rest, yoga, cafe). Opening hook is on a DARK low-key background (not white).",
+      "url": null
+    },
+    "category_primary": "retail.beauty_platform",
+    "industry": "retail",
+    "total_duration": 29.05,
+    "shot_count": 9
+  },
+  "ADV-2026-057": {
+    "id": "ADV-2026-057",
+    "source_ref": {
+      "platform": "online_video_ad (reference copy, TVCBOOK watermark)",
+      "title_or_campaign": "ANTA running — 从这一秒开始 / athlete 陈妤颉",
+      "brand": "ANTA (安踏)",
+      "product": "ANTA running shoes & apparel",
+      "model": "陈妤颉 (athlete, generic-face in visuals)",
+      "year": 2024,
+      "production_note": "vertical 9:16 cinematic sport film, lime kinetic type, handheld",
+      "url": null
+    },
+    "category_primary": "apparel.sportswear",
+    "industry": "sportswear",
+    "total_duration": 34.007,
+    "shot_count": 16
+  },
+  "ADV-2026-058": {
+    "id": "ADV-2026-058",
+    "source_ref": {
+      "platform": "사용자 제공 mp4 (YouTube 다운로드)",
+      "title_or_campaign": "NEW SANTA — Epilogue 'Bye New Santa'",
+      "brand": "신세계 (SHINSEGAE)",
+      "product": "신세계 백화점 연말/크리스마스 브랜드 캠페인 (브랜드 이미지 필름, 특정 제품 비판매)",
+      "model": "카리나 KARINA (aespa) — 'New Santa' 주연 / 특별출연 최희서 MOON CHOI / 산타 役 외국인 배우",
+      "year": 2024,
+      "production_note": "엔딩 크레딧 기준: PRESENTED BY SHINSEGAE / PRODUCTION 돌고래유괴단 DOLPHINERS FILMS / WRITTEN & DIRECTED BY 신우석 SHIN WOOSEOK / CAST 카리나(aespa) 외. 신세계 크리스마스 'NEW SANTA' 캠페인의 에필로그 필름('Bye New Santa'). 연도(2024)는 크레딧/캠페인 정황 기반 inferred(웹검증 미완 — 검색 API 일시 오류).",
+      "url": "(미기입 — 사용자 다운로드 파일, YouTube ZpFAVJ4ND3g)"
+    },
+    "category_primary": "retail.department_store",
+    "industry": "retail",
+    "total_duration": 46.88,
+    "shot_count": 8
+  },
+  "ADV-2026-059": {
+    "id": "ADV-2026-059",
+    "source_ref": {
+      "platform": "사용자 제공 mp4 (YouTube 다운로드)",
+      "title_or_campaign": "전북대학교 브랜드 캠페인 '전북대반전' (JBNU Big Reversal)",
+      "brand": "전북대학교 (JEONBUK NATIONAL UNIVERSITY, JBNU)",
+      "product": "대학 브랜드 이미지 필름(입시·브랜드 PR)",
+      "model": "무명 학생·연구자·교수(셀럽 없음, 다수 일반 출연)",
+      "year": 2026,
+      "production_note": "엔딩 로고: 전북대학교 / JEONBUK NATIONAL UNIVERSITY (1947 KOREA 엠블럼). 캠페인 키워드 '전북대반전'(전북대+大반전, 반전/대박 펀). 클레임: 대학 전반 AI 도입, 글로컬대학30 선정, 6년 연속 학생 만족도 1위(*2019-2024 지방국립대부문, 한국표준협회), 글로컬대학·모집단위 광역화. 일부 컷은 AI/CG 합성으로 보임(홀로그램·로봇·지구 그래픽). 연도 2026 inferred. ★전 프레임 재검수 결과: 본 영상은 생성형 AI 제작물(오프닝 '본 영상은 생성형 AI로 제작되었습니다' 고지, 전역 AI 렌더 톤). 추가 클레임 '피지컬 AI / 국가 사업 주관 대학 / 향후 5년간 1조 투자'(shot8).",
+      "url": "(미기입 — 사용자 다운로드 파일, YouTube dH3B-Fy0mFQ)"
+    },
+    "category_primary": "education.university",
+    "industry": "education",
+    "total_duration": 40.04,
+    "shot_count": 23
+  },
+  "ADV-2026-060": {
+    "id": "ADV-2026-060",
+    "source_ref": {
+      "platform": "사용자 제공 mp4 (YouTube 다운로드)",
+      "title_or_campaign": "Tuneface 'NOTHING'S FOREVER' 브랜드 필름 (Alma Tuneface)",
+      "brand": "Alma (알마) — 코퍼레이트 / Tuneface (튠페이스) — 제품 브랜드",
+      "product": "미용 의료기기 'Tuneface'(튠페이스) — 피부 탄력·리프팅 시술 디바이스(광고심의상 '의료기기' 고지)",
+      "model": "무명 여성 모델 1인 (셀럽 식별 불가, generic 처리)",
+      "year": 2026,
+      "production_note": "엔드카드 코퍼레이트 로고 'Alma' + 슬로건 'For You. For Life.'. 캠페인/제품 워드마크 'Tuneface'(Tune 산세리프 + face 손글씨 이탤릭, 브랜드 컬러 보라 ~#7a4fb0). 캠페인 키워드 'NOTHING'S FOREVER' + 카피쌍 'stay the same'. 엔딩 워드플레이 'To 美 Continued → To Me Continued'(한자 美↔영어 Me 펀, 'To Be Continued' 변주). 하단 약관 원문: '이 제품은 \"의료기기\"이며, \"사용상의 주의사항\"과 \"사용방법\"을 잘 읽고 사용하십시오. 광고심의필 : 심의번호 32023-010-49-0130 (유효기간 27.01.02)'. 매거진 마스트헤드 'ALMA 01 2026'. 전역 비주얼: 빈티지 아날로그 필름 카메라 뷰파인더/필름스트립 그래픽 + 필름그레인 + 시네마스코프 레터박스 + 라벤더×머스타드 보색 키네틱 타이포. 연도 2026 inferred(심의 유효기간 27.01.02 근거).",
+      "url": "(미기입 — 사용자 다운로드 파일, YouTube YcV3d-YIJT0)"
+    },
+    "category_primary": "healthcare_pharma.aesthetic_device",
+    "industry": "healthcare_pharma",
+    "total_duration": 20.02,
+    "shot_count": 12
+  },
+  "ADV-2026-061": {
+    "id": "ADV-2026-061",
+    "source_ref": {
+      "platform": "digital_landscape",
+      "title_or_campaign": "29CM ORIGINAL — gardening lifestyle brand film",
+      "brand": "29CM",
+      "product": "29CM ORIGINAL (오리지널) — platform lifestyle editorial series",
+      "model": "young woman with natural curly hair (abstracted, not reproduced)",
+      "year": 2024,
+      "production_note": "16:9 landscape, 19.42s, 23.976fps; warm natural grade; real-location lifestyle gardening/outdoor; minimal narration (single word 이따가); 29CM watermark top-right throughout; ends on woman standing on vintage truck",
+      "url": null
+    },
+    "category_primary": "retail.commerce_platform",
+    "industry": "retail",
+    "total_duration": 19.42,
+    "shot_count": 19
+  },
+  "ADV-2026-062": {
+    "id": "ADV-2026-062",
+    "source_ref": {
+      "platform": "user-provided mp4 (YouTube: 'Dish with ChatGPT')",
+      "title_or_campaign": "Dish with ChatGPT",
+      "brand": "OpenAI — ChatGPT",
+      "product": "ChatGPT (consumer AI assistant)",
+      "model": "non-celebrity cast (anonymous couple)",
+      "year": 2025,
+      "production_note": "Live-action filmic brand spot, ~30s, 1920x1080 23.976fps. A24-style intimate domestic vignette montage joined by seamless morph/match transitions (no hard cuts — frame-diff flat), 2.39:1 letterboxed, shallow-DOF handheld push-ins, warm low-key grade. The wordless emotional montage is recontextualised by an on-screen typed ChatGPT prompt + the assistant's witty, emotionally-aware recipe response, then a continuous pull-back out through the apartment window to a brick exterior + ChatGPT logo end-card. Reference analysed for LSB craft dataset; on-screen copy preserved verbatim, cast abstracted, logo generic.",
+      "url": null
+    },
+    "category_primary": "IT.ai_product",
+    "industry": "it_saas",
+    "total_duration": 30.03,
+    "shot_count": 1
+  },
+  "ADV-2026-063": {
+    "id": "ADV-2026-063",
+    "source_ref": {
+      "platform": "user-provided mp4 (YouTube: 'Nike So Win 2025 Super Bowl Commercial')",
+      "title_or_campaign": "So Win",
+      "brand": "Nike",
+      "product": "Nike (brand / women's sport)",
+      "model": "ensemble of elite female athletes (abstracted, not reproduced)",
+      "year": 2025,
+      "production_note": "60.1s, 1920x1080 23.976fps. High-contrast BLACK & WHITE Super Bowl brand film for women's sport. Fast percussive montage alternating hard-lit studio portraits (athlete on dark seamless) with real broadcast/documentary competition footage (gymnastics, WNBA & college basketball, track, soccer, tennis), heavy slow-motion. Resolves to provocation text cards 'YOU CAN'T WIN.' then 'YOU CAN'T WIN. / SO WIN.', a final live-action gymnast hero, and a white Nike swoosh end-card. A spoken voiceover runs throughout (not transcribed here — see audio). Analysed for LSB craft dataset; athletes abstracted, broadcast text preserved verbatim, swoosh generic.",
+      "url": null
+    },
+    "category_primary": "apparel.sportswear",
+    "industry": "sportswear",
+    "total_duration": 60.1,
+    "shot_count": 27
+  }
+}

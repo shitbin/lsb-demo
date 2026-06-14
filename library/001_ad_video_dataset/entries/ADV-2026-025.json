@@ -1,0 +1,1896 @@
+{
+  "id": "ADV-2026-025",
+  "source_ref": {
+    "platform": "social_shortform",
+    "title_or_campaign": "토스 숨은 서비스 9",
+    "brand": "토스 (Toss)",
+    "product": "소비 줄이기 (spending-reduction / monthly spending goal)",
+    "model": null,
+    "year": null,
+    "production_note": "Episode 9 of the '토스 숨은 서비스' (Toss hidden services) feature-tutorial series. Vertical 1080x1920, ~58.9s. Structure: live-action presenter intro (a Toss Data Analyst), a long single continuous physical-phone-in-hand screen demo of the in-app '소비 줄이기' flow with step-numbered torn-paper captions (steps 1-6), a push-cut emphasis on a lock-screen push notification, and a live-action presenter outro sign-off. Narration by the same female presenter throughout.",
+    "source_file": "토스 숨은 서비스 9.mp4",
+    "url": null
+  },
+  "category_primary": "finance.fintech",
+  "category_tags": [
+    "핀테크 슈퍼앱",
+    "모바일뱅킹",
+    "가계부·소비관리",
+    "기능 튜토리얼",
+    "시리즈 콘텐츠"
+  ],
+  "mood": [
+    "친근",
+    "정보전달",
+    "실용",
+    "차분한 신뢰감",
+    "일상적"
+  ],
+  "target_demo": "20-30대 직장인·사회초년생, 토스 기존 사용자 중 소비/지출 관리에 관심 있는 층",
+  "total_duration": 58.9,
+  "shot_count": 7,
+  "shot_count_corrected": 10,
+  "fps": 29.97,
+  "aspect_ratio": "9:16",
+  "hook_position": 1.0,
+  "cta_position": 53.25,
+  "narrative_arc": "A friendly in-house data analyst poses the relatable problem (want to fix your spending habits?), then walks through the app's hidden spending-reduction feature step by step on a real phone: find this-month spend on home, open analysis, start the spending-reduction challenge, set a monthly goal below your average, track progress and daily allowance, log regretted spending, review a weekly report, and get a daily push reminder. Closes on the presenter signing off and promising to return with more hidden tips.",
+  "narrative_structure": "linear_continuous",
+  "pacing_curve": "steady",
+  "music_tempo_curve": "steady",
+  "wow_cut_index": [
+    9
+  ],
+  "creative_device": "presenter-led feature tutorial with step-numbered torn-paper kinetic captions tightly synced to voiceover over a continuous real-phone screen demo (employee-as-guide / hidden-tip series framing)",
+  "production_signature": {
+    "capture_style": "live_action",
+    "camera_signature": [
+      "handheld_shake",
+      "locked_off"
+    ],
+    "signature_note": "Two live-action framing modes: (1) handheld documentary-style live-action presenter bookends (intro walk-and-talk + seated outro) with gentle natural camera drift and shallow depth; (2) a long, near-locked handheld macro of a real iPhone held in hand against a softly blurred warm office background, the phone screen filmed directly (not a clean screen-recording capture) so glass glare, micro hand-drift and real finger taps are visible. Wiggle metric mean_abs_shift_x ~0.14 with sign_flips ~0.27 = ordinary handheld micro-motion, NOT a lenticular wiggle_3d effect. No global 3D/AI capture signature.",
+    "color_grade": "warm",
+    "texture_fx": "clean_digital"
+  },
+  "global_layout": {
+    "grid_system": "center",
+    "subject_placement_dominant": "center",
+    "subject_typo_relation": "typo_separate_zone",
+    "negative_space_use": "generous",
+    "layout_note": "Demo segments center the held phone vertically in frame with a soft warm bokeh surround; captions live in a fixed lower-center band as torn-paper (masking-tape look) lozenges with a circled step-number badge to the upper-left of the band. Intro/outro center the presenter slightly off-center with the title caption as a hand-drawn marker-highlighted blue box (top in intro, lower-center in outro). Korean text-heavy lower-third caption system is the dominant graphic layer."
+  },
+  "recurring_motifs": [
+    "torn-paper / masking-tape caption lozenge",
+    "circled blue step-number badge",
+    "marker-circle highlight on key keyword (소비 습관, 꿀기능)",
+    "Toss blue (#3182f6-ish) keyword emphasis inside captions",
+    "소비요정 3D fairy mascot inside the app",
+    "held iPhone against warm office bokeh"
+  ],
+  "copywriting": {
+    "tagline_text": "소비 습관 고치고 싶다면? 토스로 소비 줄이기",
+    "tagline_structure": "question hook + brand+feature answer (two-line)",
+    "tagline_length_syllables": 22,
+    "tagline_position_sec": 1.0,
+    "cta_text": "토스의 숨은 꿀기능 다시 찾아올게요!",
+    "cta_text_structure": "series sign-off promise with marker-highlighted keyword (꿀기능)",
+    "cta_position_sec": 53.25,
+    "copy_tone": [
+      "친근",
+      "구어체",
+      "정보전달",
+      "안내형"
+    ],
+    "copy_strategy": "step-by-step feature tutorial; voiceover and on-screen caption say the same thing in sync; step-numbered captions chunk the flow; relatable problem hook then direct how-to; series branding sign-off",
+    "copy_lines_count": 14,
+    "lines": [
+      {
+        "position_sec": 0.0,
+        "text": "이번 달 소비 줄이기로 계획 소비 하고 있어요.",
+        "function": "hook / premise",
+        "tone": "친근 구어체",
+        "source": "voice"
+      },
+      {
+        "position_sec": 4.84,
+        "text": "먼저 홈 화면 하단에 이번 달 쓴 금액을 선택해주세요",
+        "function": "step 1 instruction",
+        "tone": "안내형",
+        "source": "both"
+      },
+      {
+        "position_sec": 9.5,
+        "text": "분석 버튼을 누르고 하단에 소비 줄이기 기능을 선택합니다",
+        "function": "step 1 instruction (cont.)",
+        "tone": "안내형",
+        "source": "both"
+      },
+      {
+        "position_sec": 14.7,
+        "text": "소비 줄이기를 시작하면 내 월 평균 소비 금액을 알려주는데요",
+        "function": "step 2 explanation",
+        "tone": "안내형",
+        "source": "both"
+      },
+      {
+        "position_sec": 19.44,
+        "text": "나의 월 평균 소비 금액에 맞춰 이번 달 목표 금액을 설정하고",
+        "function": "step 2 instruction",
+        "tone": "안내형",
+        "source": "both"
+      },
+      {
+        "position_sec": 23.72,
+        "text": "확인을 누르면 소비를 줄이기 위한 도전이 시작됩니다",
+        "function": "step 2->3 transition",
+        "tone": "안내형",
+        "source": "both"
+      },
+      {
+        "position_sec": 29.74,
+        "text": "이번 달 목표 금액에 얼마나 도달했는지",
+        "function": "step 3 benefit",
+        "tone": "안내형",
+        "source": "both"
+      },
+      {
+        "position_sec": 32.6,
+        "text": "남은 기간, 하루 얼마나 써야 하는지 알 수 있어요",
+        "function": "step 3 benefit (cont.)",
+        "tone": "안내형",
+        "source": "both"
+      },
+      {
+        "position_sec": 37.44,
+        "text": "쓰고 후회한 소비 내역을 기록하면 내가 줄일 수 있었던 소비를 등록할 수 있죠",
+        "function": "step 4 benefit",
+        "tone": "안내형",
+        "source": "both"
+      },
+      {
+        "position_sec": 43.6,
+        "text": "소비 분석 리포트를 통해 한 주간 내 소비 상태를 확인해 볼 수 있고",
+        "function": "step 5 benefit",
+        "tone": "안내형",
+        "source": "both"
+      },
+      {
+        "position_sec": 48.72,
+        "text": "매일 알림을 통해 내 하루 소비를 점검할 수 있어요",
+        "function": "step 6 benefit",
+        "tone": "안내형",
+        "source": "both"
+      },
+      {
+        "position_sec": 53.68,
+        "text": "토스의 숨은 꿀팁, 다음엔 더 다양한 꿀팁으로 돌아올게요",
+        "function": "series sign-off (voice)",
+        "tone": "친근",
+        "source": "voice"
+      },
+      {
+        "position_sec": 1.0,
+        "text": "토스 Data Analyst 김나현",
+        "function": "presenter name/title lower-third",
+        "tone": "자막",
+        "source": "caption"
+      },
+      {
+        "position_sec": 53.25,
+        "text": "토스의 숨은 꿀기능 다시 찾아올게요!",
+        "function": "outro CTA caption",
+        "tone": "친근",
+        "source": "caption"
+      }
+    ],
+    "captions": [
+      {
+        "position_sec": 1.0,
+        "text": "소비 습관 고치고 싶다면? 토스로 소비 줄이기",
+        "function": "title hook (marker-highlighted, top)"
+      },
+      {
+        "position_sec": 1.0,
+        "text": "Toss Data Analyst 김나현",
+        "function": "presenter name/title lower-third"
+      },
+      {
+        "position_sec": 4.84,
+        "text": "먼저 홈 화면 하단에",
+        "function": "step 1 caption (badge 1)"
+      },
+      {
+        "position_sec": 6.8,
+        "text": "이번 달 쓴 금액을 선택해주세요",
+        "function": "step 1 caption (badge 1)"
+      },
+      {
+        "position_sec": 9.78,
+        "text": "분석 버튼을 누르고",
+        "function": "step 1 caption (badge 1)"
+      },
+      {
+        "position_sec": 11.5,
+        "text": "하단에 소비 줄이기 기능을 선택합니다",
+        "function": "step 1 caption (badge 1)"
+      },
+      {
+        "position_sec": 16.0,
+        "text": "소비 줄이기를 시작하면",
+        "function": "step 2 caption (badge 2)"
+      },
+      {
+        "position_sec": 17.5,
+        "text": "내 월 평균 소비 금액을 알려주는데요",
+        "function": "step 2 caption (badge 2)"
+      },
+      {
+        "position_sec": 20.5,
+        "text": "나의 월 평균 소비 금액에 맞춰",
+        "function": "step 2 caption (badge 2)"
+      },
+      {
+        "position_sec": 22.5,
+        "text": "이번 달 목표 금액을 설정하고",
+        "function": "step 2 caption (badge 2)"
+      },
+      {
+        "position_sec": 24.3,
+        "text": "확인을 누르면",
+        "function": "step 2 caption (badge 2)"
+      },
+      {
+        "position_sec": 29.74,
+        "text": "소비를 줄이기 위한 도전이 시작됩니다",
+        "function": "step 3 caption (badge 3)"
+      },
+      {
+        "position_sec": 31.0,
+        "text": "이번 달 목표 금액에 얼마나 도달했는지",
+        "function": "step 3 caption (badge 3)"
+      },
+      {
+        "position_sec": 34.0,
+        "text": "남은 기간, 하루 얼마나 써야 하는지",
+        "function": "step 3 caption (badge 3)"
+      },
+      {
+        "position_sec": 36.0,
+        "text": "알 수 있어요",
+        "function": "step 3 caption (badge 3)"
+      },
+      {
+        "position_sec": 37.24,
+        "text": "쓰고 후회한 소비 내역을 기록하면",
+        "function": "step 4 caption (badge 4)"
+      },
+      {
+        "position_sec": 41.0,
+        "text": "내가 줄일 수 있었던 소비를 등록할 수 있죠",
+        "function": "step 4 caption (badge 4)"
+      },
+      {
+        "position_sec": 43.64,
+        "text": "소비 분석 리포트를 통해",
+        "function": "step 5 caption (badge 5)"
+      },
+      {
+        "position_sec": 45.5,
+        "text": "한 주간 내 소비 상태를 확인해 볼 수 있고",
+        "function": "step 5 caption (badge 5)"
+      },
+      {
+        "position_sec": 48.55,
+        "text": "매일 알림을 통해 내 하루 소비를",
+        "function": "step 6 caption (badge 6)"
+      },
+      {
+        "position_sec": 51.5,
+        "text": "점검할 수 있어요",
+        "function": "step 6 caption (badge 6)"
+      },
+      {
+        "position_sec": 53.25,
+        "text": "토스의 숨은 꿀기능 다시 찾아올게요!",
+        "function": "outro CTA caption (marker-highlighted)"
+      }
+    ],
+    "narration_handling": "excerpt_only"
+  },
+  "typography": {
+    "primary_font_class": "rounded geometric sans (Korean, bold)",
+    "secondary_font_class": "humanist sans (UI body inside the Toss app)",
+    "animation_style": [
+      "pop",
+      "fade_in",
+      "slide"
+    ],
+    "subtitle_position_dominant": "lower_third",
+    "tagline_position": "top (intro) / lower_center (outro)",
+    "color_strategy": "white/near-black caption text with Toss-blue keyword emphasis on a torn-paper (masking-tape) lozenge; hand-drawn marker-circle highlight + blue marker box on hero title keywords",
+    "appearance_count": 22,
+    "key_typography_moments_sec": [
+      1.0,
+      4.84,
+      16.0,
+      29.74,
+      37.24,
+      43.64,
+      48.55,
+      53.25
+    ],
+    "typo_motion_dominant": "torn-paper caption lozenges pop/slide in from bottom in sync with each voiceover line; circled step-number badge appears with each new step; keyword marker-circle draws on"
+  },
+  "vfx": {
+    "primary_effects": [
+      "ui_motion",
+      "color_pop"
+    ],
+    "effect_intensity": "subtle",
+    "transition_style_dominant": "cut",
+    "vfx_event_count": 6,
+    "vfx_timing_array_sec": [
+      1.0,
+      4.84,
+      19.39,
+      37.24,
+      49.95,
+      53.25
+    ],
+    "wow_vfx_index": [
+      9
+    ]
+  },
+  "audio": {
+    "has_audio": true,
+    "language": "ko",
+    "speech_coverage": 0.975,
+    "bgm_likely": true,
+    "narration_lines": [
+      {
+        "start": 0.0,
+        "end": 3.42,
+        "text": "이번 달 소비 줄이기로 계획 소비 하고 있어요.",
+        "text_raw": "이번 달 소비주리기로 계획소비 하고 있어요.",
+        "kind": "narration",
+        "source": "voice"
+      },
+      {
+        "start": 3.42,
+        "end": 9.5,
+        "text": "먼저 홈 화면 하단에 이번 달 쓴 금액을 선택해주세요.",
+        "text_raw": "먼저 홈 화면 하단에 이번 달 쓴 금액을 선택해주세요.",
+        "kind": "narration",
+        "source": "both"
+      },
+      {
+        "start": 9.5,
+        "end": 14.7,
+        "text": "분석 버튼을 누르고 하단의 소비 줄이기 기능을 선택합니다.",
+        "text_raw": "눈썹 버튼을 누르고 하단의 소비주리기 기능을 선택합니다.",
+        "kind": "narration",
+        "source": "both"
+      },
+      {
+        "start": 14.7,
+        "end": 19.44,
+        "text": "소비 줄이기를 시작하면 내 월 평균 소비 금액을 알려주는데요.",
+        "text_raw": "소비주리기를 시작하면 내 월평균 소비 금액을 알려준 데요.",
+        "kind": "narration",
+        "source": "both"
+      },
+      {
+        "start": 19.44,
+        "end": 23.72,
+        "text": "나의 월 평균 소비 금액에 맞춰 이번 달 목표 금액을 설정하고",
+        "text_raw": "나의 월평균 소비 금액에 맞춰 이번 달 목표 금액을 설정하고",
+        "kind": "narration",
+        "source": "both"
+      },
+      {
+        "start": 23.72,
+        "end": 29.52,
+        "text": "확인을 누르면 소비를 줄이기 위한 도전이 시작됩니다.",
+        "text_raw": "확인을 누르면 소비를 줄이기 위한 도전이 시작됩니다.",
+        "kind": "narration",
+        "source": "both"
+      },
+      {
+        "start": 29.74,
+        "end": 32.6,
+        "text": "이번 달 목표 금액에 얼마나 도달했는지",
+        "text_raw": "이번 달 목표 금액에 얼마나 도달했는지",
+        "kind": "narration",
+        "source": "both"
+      },
+      {
+        "start": 32.6,
+        "end": 37.44,
+        "text": "남은 기간 하루 얼마나 써야 하는지 알 수 있어요.",
+        "text_raw": "남은 기간 하루 얼마나 써야 하는지 알 수 있어요.",
+        "kind": "narration",
+        "source": "both"
+      },
+      {
+        "start": 37.44,
+        "end": 43.6,
+        "text": "쓰고 후회한 소비 내역을 기록하면 내가 줄일 수 있었던 소비를 등록할 수 있죠.",
+        "text_raw": "쓰고 후회한 소비 내역을 기록하면 내가 줄일 수 있었던 소비를 등록할 수 있죠.",
+        "kind": "narration",
+        "source": "both"
+      },
+      {
+        "start": 43.6,
+        "end": 48.72,
+        "text": "소비 분석 리포트를 통해 한 주간 내 소비 상태를 확인해 볼 수 있고",
+        "text_raw": "소비 분석 리포트를 통해 한주간 내 소비 상태를 확인해 볼 수 있고",
+        "kind": "narration",
+        "source": "both"
+      },
+      {
+        "start": 48.72,
+        "end": 53.68,
+        "text": "매일 알림을 통해 내 하루 소비를 점검할 수 있어요.",
+        "text_raw": "내일 알림을 통해 내 하루 소비를 전검할 수 있어요.",
+        "kind": "narration",
+        "source": "both"
+      },
+      {
+        "start": 53.68,
+        "end": 57.68,
+        "text": "토스의 숨은 꿀팁, 다음엔 더 다양한 꿀팁으로 돌아올게요.",
+        "text_raw": "토스의 스무글 팁 다음엔 더 다양한 꿀팁으로 돌아올게요.",
+        "kind": "narration",
+        "source": "voice"
+      }
+    ],
+    "voice_vs_caption": "Voice and on-screen captions are tightly synchronized and say essentially the same step instructions; outro caption (꿀기능) and voice (꿀팁) differ slightly in word choice.",
+    "narration_handling": "excerpt_only",
+    "transcribed_by": "faster_whisper",
+    "audio_note": "faster-whisper base, speech_coverage 0.975. text_raw preserved; corrected whisper mistakes against on-screen captions: '소비주리기'->'소비 줄이기', '눈썹 버튼'->'분석 버튼', '내일 알림'->'매일 알림', '전검'->'점검', '스무글 팁'->'숨은 꿀팁'. bgm_likely set true (light bed under continuous VO typical of this series; not separately isolated)."
+  },
+  "frames_dir": "ADV-2026-025_frames",
+  "contact_sheet_path": "ADV-2026-025_frames/contact_sheet.png",
+  "shots": [
+    {
+      "index": 1,
+      "duration": 4.84,
+      "framing": "MS",
+      "function": "hook / presenter intro",
+      "color_mood": "warm neutral office, muted green-grey",
+      "subject_action": "A young Korean woman in a sage-green ribbed knit and light blue jeans walks slowly toward camera through an open-plan office holding a black smartphone, talking to camera, then settles seated at a dark desk with a laptop; the marker-highlighted title caption and her name/title lower-third pop in.",
+      "subject_identity": "presenter_main",
+      "subject_relationship_to_protagonist": "main_character",
+      "mid_frame_path": "ADV-2026-025_frames/cut01_mid.png",
+      "layout_grid": "center",
+      "subject_position": "center",
+      "subject_typo_layout": "title caption in top band, name lower-third in lower-center; subject centered between them",
+      "typo_motion": "Top title lozenge fades/slides in over ~1.5s starting ~1.0s with a hand-drawn yellow marker-circle drawing onto '소비 습관'; lower-third name tag pops in just after, '김나현' badge appearing a beat later than 'Toss Data Analyst'.",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "waist_up",
+      "gaze": "to_camera",
+      "eye_contact_effect": "direct, friendly, builds trust as an in-house expert guide",
+      "props": [
+        "black smartphone",
+        "laptop on desk",
+        "office chairs",
+        "tables"
+      ],
+      "prop_semantics": "Phone foreshadows the device demo to come; laptop + office set up the 'Toss employee / data analyst' authority framing.",
+      "color_palette": [
+        "#787860",
+        "#303030",
+        "#606048",
+        "#181818",
+        "#c0c0c0"
+      ],
+      "color_intent": "Warm, slightly desaturated corporate-documentary palette; sage-green knit ties to the soft office greens, keeping focus on the presenter and the blue/yellow caption graphics.",
+      "pose_description": "Open, approachable walking-then-seated posture; relaxed shoulders and a light smile read as a helpful colleague rather than a polished spokesmodel.",
+      "subject_motion": "walk",
+      "prop_motion": "none",
+      "camera_motion": "handheld_drift",
+      "camera_motion_intensity": "moderate",
+      "camera_effect_local": "none",
+      "motion_blur": "mild on subject during walk",
+      "intra_cut_rhythm": "steady",
+      "transition_in": "cut (from black / start)",
+      "transition_out": "hard cut to phone demo",
+      "vfx_in_shot": [
+        "caption pop-in",
+        "marker-circle draw-on"
+      ],
+      "vfx_intensity_local": "subtle",
+      "fact_check_flag": "none",
+      "notes": "Hook line VO: '이번 달 소비 줄이기로 계획 소비 하고 있어요.' Establishes presenter as Toss Data Analyst 김나현.",
+      "visible_elements": {
+        "foreground": [
+          "presenter (sage-green knit, jeans)",
+          "black smartphone in hand"
+        ],
+        "midground": [
+          "dark office desk with laptop",
+          "office chairs",
+          "tables"
+        ],
+        "background": [
+          "open-plan office ceiling with linear fluorescent strips",
+          "glass partitions",
+          "blurred workstations",
+          "a plant"
+        ],
+        "lighting_env": [
+          "overhead office fluorescents",
+          "soft window daylight"
+        ],
+        "atmosphere": [
+          "clean indoor air",
+          "shallow-depth bokeh background"
+        ]
+      },
+      "texture": {
+        "primary_subject": "fabric_cotton",
+        "secondary_objects": [
+          "plastic_glossy",
+          "metal"
+        ],
+        "background_surface": "concrete",
+        "atmospheric": [
+          "atmospheric_haze"
+        ]
+      },
+      "lighting": {
+        "key_direction": "top",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "moderate",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": false,
+        "practical_lights": [
+          "천장 형광등",
+          "창문 자연광"
+        ],
+        "shadow_presence": "soft",
+        "overall_contrast": "mid_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#787860",
+          "#303030",
+          "#606048",
+          "#181818",
+          "#c0c0c0"
+        ],
+        "palette_role": {
+          "#787860": "midtone_office_green",
+          "#303030": "subject_dark_anchor",
+          "#606048": "background_olive",
+          "#181818": "deep_shadow",
+          "#c0c0c0": "highlight_light_floor_ceiling"
+        },
+        "color_relationship": "analogous",
+        "temperature_balance": "warm_dominant",
+        "saturation_strategy": "muted",
+        "contrast_type": "luminance_low",
+        "accent_color": "#3182f6",
+        "accent_ratio": "5_percent",
+        "brand_color_match": [
+          "Toss blue #3182f6 approximated by caption box and name badge"
+        ]
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "Vertical 9:16 documentary-style commercial still of a friendly Korean woman in her mid-twenties shown from the waist up, walking slowly toward the camera through a bright open-plan tech office while talking to camera with a warm, approachable expression and a light smile; she has long dark brown hair worn down, natural light makeup, and wears a relaxed sage-green ribbed knit sweater with a mock neckline over light-wash blue jeans, no visible logos, holding a black slim smartphone in one hand at chest height. The location is a real modern startup office: an exposed industrial ceiling crossed by long linear fluorescent light strips, glass partition walls, rows of softly out-of-focus desks with dark office chairs, a whiteboard and a leafy plant deep in the background, all rendered in a shallow depth of field so the environment melts into a gentle bokeh while she stays sharp. Foreground and props: the held black phone (screen off), a dark wood-and-metal desk with a closed silver laptop entering the lower-left edge as she begins to sit. Lighting setup: soft, even, slightly warm top-down key from the office fluorescents at roughly neutral 5500K, moderate ambient fill (key-to-fill about 2:1), no hard rim, gentle short shadows, an overall mid-key contrast that feels natural and unstyled, like real workplace footage. Lens, framing and angle: eye-level, frontal medium shot at about a 35-50mm-equivalent look with mild handheld energy and a touch of motion blur on her moving body, vertical composition with her centered. Composition and grid: rule-of-center with generous negative space top and bottom reserved for graphics; an upper caption zone holds a two-line Korean hero title set in a bold rounded sans serif inside a hand-painted blue marker box, the recorded on-screen copy reading line one '소비 습관 고치고 싶다면?' with the words '소비 습관' encircled by a hand-drawn yellow marker loop, and line two '토스로 소비 줄이기'; a lower-center zone holds a torn-paper / masking-tape lozenge name tag with blue text 'Toss Data Analyst' above and a blue rounded badge reading '김나현' (these graphics are normally finalized in post but are preserved here for fidelity, placed over but not obscuring the subject). Color palette and strategy: a muted, slightly desaturated warm office palette built on olive-green midtones around #787860 and #606048, dark anchors near #303030 and deep shadow #181818, and light floor/ceiling highlights near #c0c0c0, with a small but important Toss-blue accent near #3182f6 confined to the caption box and name badge (about five percent of the frame) plus a yellow highlight loop, an analogous green scheme punctuated by the blue brand pop. Texture and surfaces: soft cotton/wool knit fabric with visible rib, matte glass phone, brushed metal laptop, smooth concrete floor and painted walls. Atmosphere: clean indoor air, calm professional energy, soft background glow from windows, no haze or grain beyond a faint natural softness. Post and signature look: clean digital 4K commercial grade, warm natural grade, handheld realism, no stylized filters, the graphic caption layer being the only non-photographic element. Style anchor: Korean fintech brand social-tutorial aesthetic, authentic in-house-employee documentary tone, vertical short-form. The woman is Korean, the setting is a Korean tech company office.",
+        "t2i_negative": "second person in frame, extra hands, distorted fingers, real corporate logos or trademark marks on clothing or phone, watermark, harsh deep shadows, low-key dramatic lighting, heavy film grain, strong motion blur on face, deformed facial features, oversaturated colors, studio seamless backdrop",
+        "i2v_motion": "The presenter walks slowly forward toward camera while speaking, natural arm sway and a light smile, then begins to settle into a seat at the desk; handheld camera drifts gently with her, keeping her centered with shallow depth; lighting and color steady; about 4.8s at a steady documentary rhythm; over the first ~1.5s the top hero title lozenge fades and slides up into place with a hand-drawn yellow marker loop animating around '소비 습관', and the lower-center name tag pops in just after; ends on a hard cut to the phone demo.",
+        "i2v_params": {
+          "clip_duration_sec": 4.84,
+          "camera_move": "handheld_drift",
+          "subject_motion_level": "walk",
+          "signature_effect": "none",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen copy preserved verbatim (per copywriting); presenter rendered as a generic Korean woman, no specific-person face-likeness or logo mark"
+      }
+    },
+    {
+      "index": 2,
+      "duration": 11.61,
+      "framing": "CU",
+      "function": "demo step 1 — find this-month spend, open analysis",
+      "color_mood": "bright neutral UI white over warm bokeh",
+      "subject_action": "A hand holds a real iPhone showing the Toss home screen (토스뱅크 / 자산 / 소비 sections, 이번 달 쓴 금액 1,200,000원); a finger taps into the spending detail (내 소비 list, 도전! 소비 줄이기 목표 금액이 80% 남았어요, 체크카드 970,000원 etc.) then taps the blue 분석 button; step-1 captions update line by line.",
+      "subject_identity": "none_environment",
+      "subject_relationship_to_protagonist": "extra_atmosphere",
+      "mid_frame_path": "ADV-2026-025_frames/cut02_mid.png",
+      "layout_grid": "center",
+      "subject_position": "center",
+      "subject_typo_layout": "phone centered, caption lozenge fixed lower-center with circled '1' badge",
+      "typo_motion": "Caption lozenge swaps text on each VO beat ('먼저 홈 화면 하단에' -> '이번 달 쓴 금액을 선택해주세요' -> '분석 버튼을 누르고'), popping/sliding from bottom; circled blue '1' badge persists.",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "environment",
+      "gaze": "none",
+      "eye_contact_effect": "none — attention is on the phone screen",
+      "props": [
+        "black iPhone (Toss app)",
+        "human hand"
+      ],
+      "prop_semantics": "Real-phone-in-hand demo signals authenticity and 'follow along on your own phone' usability.",
+      "color_palette": [
+        "#c0c0c0",
+        "#786048",
+        "#606048",
+        "#483018",
+        "#303018"
+      ],
+      "color_intent": "Clean light Toss UI (white/grey) reads as trustworthy and simple; warm skin and blurred wood/desk tones keep it human; Toss blue button is the call-to-action pop.",
+      "pose_description": "Steady two-relationship grip with index finger tapping precisely; calm, instructional pacing.",
+      "subject_motion": "micro (finger taps, slight hand drift)",
+      "prop_motion": "phone screen content changes / scrolls; finger taps 분석",
+      "camera_motion": "handheld_micro",
+      "camera_motion_intensity": "subtle",
+      "camera_effect_local": "none",
+      "motion_blur": "brief on screen during navigation transitions",
+      "intra_cut_rhythm": "steady",
+      "transition_in": "hard cut from presenter intro",
+      "transition_out": "continuous (screen changes to category breakdown; segment boundary, not a camera cut)",
+      "vfx_in_shot": [
+        "ui_motion (app navigation)",
+        "caption swap"
+      ],
+      "vfx_intensity_local": "subtle",
+      "fact_check_flag": "none",
+      "notes": "First demo segment of one continuous physical-phone take. Demo data: 이번 달 쓴 금액 1,200,000원, 체크카드 970,000원, 기타 230,000원.",
+      "visible_elements": {
+        "foreground": [
+          "held black iPhone displaying Toss home + 내 소비 screens",
+          "thumb/index finger"
+        ],
+        "midground": [
+          "palm and fingers gripping phone"
+        ],
+        "background": [
+          "warm blurred office / desk surface",
+          "dark blurred shapes"
+        ],
+        "lighting_env": [
+          "soft ambient office light",
+          "screen self-illumination"
+        ],
+        "atmosphere": [
+          "soft warm bokeh",
+          "subtle screen glare"
+        ]
+      },
+      "texture": {
+        "primary_subject": "glass_clear",
+        "secondary_objects": [
+          "skin_natural",
+          "plastic_matte"
+        ],
+        "background_surface": "wood_polished",
+        "atmospheric": [
+          "atmospheric_haze"
+        ]
+      },
+      "lighting": {
+        "key_direction": "front",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "moderate",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": false,
+        "practical_lights": [
+          "사무실 조명",
+          "스마트폰 화면 발광"
+        ],
+        "shadow_presence": "soft",
+        "overall_contrast": "mid_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#c0c0c0",
+          "#786048",
+          "#606048",
+          "#483018",
+          "#303018"
+        ],
+        "palette_role": {
+          "#c0c0c0": "screen_ui_light_dominant",
+          "#786048": "skin_warm",
+          "#606048": "background_warm_midtone",
+          "#483018": "desk_dark_warm",
+          "#303018": "shadow"
+        },
+        "color_relationship": "brand_dominant",
+        "temperature_balance": "warm_dominant",
+        "saturation_strategy": "desaturated_with_pop",
+        "contrast_type": "luminance_high",
+        "accent_color": "#3182f6",
+        "accent_ratio": "15_percent",
+        "brand_color_match": [
+          "Toss blue #3182f6 on 분석 button, icons and caption keywords"
+        ]
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "Vertical 9:16 commercial macro still of a human hand holding a real black flagship smartphone in front of a softly blurred warm office background, the phone filmed directly so the glass shows faint glare and the held grip looks natural and candid. The phone screen displays a clean, light-themed Korean fintech super-app home screen: a top status bar reading 3:57 with wifi and battery icons; a top card labeled '토스뱅크' with a chevron; an '자산' (assets) section listing '연금 · 2개 잔액 보기', '포인트·머니 · 1개 157원', and '기타 자산 잔액 보기' each with a small rounded app-style icon; below, a '소비' (spending) section showing a purple card icon beside '이번 달 쓴 금액 1,200,000원' with a small grey '내역' chip, and a blue card icon beside '내 모든 카드 연결하고 내역보기'; a faint row '납부 · 청구서 · 보험 · 통신비 보기'; and a bottom tab bar with 홈 / 혜택 / 토스페이 / 주식 / 전체. The interface is overwhelmingly white and light grey with crisp dark Korean body text and small Toss-blue and purple accent icons. Foreground and props: the held glass phone and the gripping fingers; one index finger may hover near the screen ready to tap. Location and background: a real modern office reduced to a warm out-of-focus wash of beige and olive-brown bokeh with a few dark blurred shapes, no readable detail. Lighting setup: soft frontal ambient office light at roughly neutral 5500K combined with the phone's own screen self-illumination, moderate fill (about 2:1), no rim, soft shadows on the hand, mid-key overall with the bright screen as the luminance peak. Lens, framing and angle: eye-level, frontal, a tight macro framing where the vertical phone fills most of the frame, shallow depth so only the screen and near hand are sharp. Composition and grid: phone centered vertically; a fixed lower-center caption zone holds a torn-paper / masking-tape lozenge with a small circled blue number badge '1' to its left and Korean caption text, the recorded on-screen copy reading '먼저 홈 화면 하단에' with '홈 화면 하단' emphasized in Toss blue (captions normally added in post, preserved here for fidelity). Color palette and strategy: light UI greys and white near #c0c0c0 dominating, warm skin tones near #786048, warm desk/office midtones #606048 and #483018, deep warm shadow #303018, with Toss-blue accents near #3182f6 on icons, the spending figure context and caption keywords (roughly fifteen percent of frame), a brand-dominant scheme over warm neutrals. Texture and surfaces: clear glossy phone glass, natural skin, matte phone body edges, softly blurred polished wood/desk behind. Atmosphere: calm, clean, instructional, soft warm bokeh and a hint of screen glare, no grain. Post and signature look: clean digital 4K, warm natural grade, authentic handheld real-device capture rather than a sterile screen recording, with faint moire-free sub-pixel sharpness on the rendered Korean glyphs, a hair of chromatic fringing at the bright screen edges, and a believable thumb-pad pressure where a fingertip meets glass. Hand anatomy reads naturally: a relaxed grip with the phone resting against the base of the fingers, a single index finger free to tap, no extra or warped digits. Style anchor: Korean fintech app feature-tutorial vertical short-form, real-phone demo aesthetic. The hand and UI are Korean-market; all UI text is Korean.",
+        "t2i_negative": "second phone, extra fingers, distorted hand, real bank brand logos as trademark marks, watermark, harsh glare washing out screen, low-key lighting, heavy grain, blurry unreadable UI in the sharp zone, oversaturated colors, English UI text",
+        "i2v_motion": "Hold the phone nearly still with breathing-level hand drift; an index finger taps the '이번 달 쓴 금액' spending row, the screen transitions to a '내 소비' detail list (도전! 소비 줄이기 목표 금액이 80% 남았어요; 체크카드 970,000원; 기타 230,000원), then the finger taps the blue '분석' button; brief UI motion-blur on each screen change; camera locked with subtle handheld micro-motion; about 11.6s, steady rhythm, no camera cut; lower-center caption lozenge swaps text in sync with the voiceover from '먼저 홈 화면 하단에' to '이번 달 쓴 금액을 선택해주세요' to '분석 버튼을 누르고', circled blue '1' badge persisting; ends continuing into the category-breakdown screen.",
+        "i2v_params": {
+          "clip_duration_sec": 11.61,
+          "camera_move": "locked_off",
+          "subject_motion_level": "micro",
+          "signature_effect": "none",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen UI copy and captions preserved verbatim; no logo mark reproduced (UI rendered as a generic light fintech interface), hand is generic"
+      }
+    },
+    {
+      "index": 3,
+      "duration": 2.94,
+      "framing": "CU",
+      "function": "demo step 1 (cont.) — spend category breakdown, open 소비 줄이기",
+      "color_mood": "bright neutral UI with colorful category bar",
+      "subject_action": "Phone shows the 소비·수입 analysis screen with a category breakdown (쇼핑 53.3% 650,000원, 주거·통신 20.5%, 이체 19.7%, 교통·자동차 6.5%) and a colored stacked bar; a finger taps '도전! 소비 줄이기' at the bottom, opening the fairy-mascot intro screen (소비요정, 김동현님이 돈을 덜 쓰도록, 제가 도와드릴게요).",
+      "subject_identity": "none_environment",
+      "subject_relationship_to_protagonist": "extra_atmosphere",
+      "mid_frame_path": "ADV-2026-025_frames/cut03_mid.png",
+      "layout_grid": "center",
+      "subject_position": "center",
+      "subject_typo_layout": "phone centered, caption lozenge lower-center with circled '1' badge",
+      "typo_motion": "Caption '하단에 소비 줄이기 기능을 선택합니다' holds with '소비 줄이기' in Toss blue; minor pop on entry.",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "environment",
+      "gaze": "none",
+      "eye_contact_effect": "none",
+      "props": [
+        "black iPhone (Toss app)",
+        "human hand"
+      ],
+      "prop_semantics": "Category breakdown demonstrates the analytic depth; mascot introduces the playful coaching tone.",
+      "color_palette": [
+        "#c0c0c0",
+        "#786048",
+        "#a8c0c0",
+        "#a8a8a8",
+        "#f0f0f0"
+      ],
+      "color_intent": "Multi-color category bar (red/purple/blue/teal) adds data-viz richness against the clean white UI; warm hand keeps it human.",
+      "pose_description": "Steady grip; deliberate single tap on the spending-reduction row.",
+      "subject_motion": "micro (finger tap, slight drift)",
+      "prop_motion": "screen changes from category list to fairy intro screen",
+      "camera_motion": "handheld_micro",
+      "camera_motion_intensity": "subtle",
+      "camera_effect_local": "none",
+      "motion_blur": "brief on screen transition",
+      "intra_cut_rhythm": "steady",
+      "transition_in": "continuous from segment 2 (screen change)",
+      "transition_out": "continuous into keyboard/goal-input screen",
+      "vfx_in_shot": [
+        "ui_motion",
+        "data_viz (category bar)"
+      ],
+      "vfx_intensity_local": "subtle",
+      "fact_check_flag": "none",
+      "notes": "3D 소비요정 (spending fairy) mascot appears: '김동현님이 돈을 덜 쓰도록, 제가 도와드릴게요'. Detected by scenedetect at 16.45s; same continuous take.",
+      "visible_elements": {
+        "foreground": [
+          "held iPhone showing 소비·수입 category breakdown then fairy intro",
+          "finger"
+        ],
+        "midground": [
+          "hand gripping phone"
+        ],
+        "background": [
+          "warm blurred office bokeh"
+        ],
+        "lighting_env": [
+          "soft ambient office light",
+          "screen glow"
+        ],
+        "atmosphere": [
+          "soft warm bokeh"
+        ]
+      },
+      "texture": {
+        "primary_subject": "glass_clear",
+        "secondary_objects": [
+          "skin_natural"
+        ],
+        "background_surface": "wood_polished",
+        "atmospheric": [
+          "atmospheric_haze"
+        ]
+      },
+      "lighting": {
+        "key_direction": "front",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "moderate",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": false,
+        "practical_lights": [
+          "사무실 조명",
+          "화면 발광"
+        ],
+        "shadow_presence": "soft",
+        "overall_contrast": "mid_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#c0c0c0",
+          "#786048",
+          "#a8c0c0",
+          "#a8a8a8",
+          "#f0f0f0"
+        ],
+        "palette_role": {
+          "#c0c0c0": "ui_light_grey",
+          "#786048": "skin_warm",
+          "#a8c0c0": "cool_ui_accent",
+          "#a8a8a8": "midtone_grey",
+          "#f0f0f0": "ui_white_highlight"
+        },
+        "color_relationship": "split_complementary",
+        "temperature_balance": "balanced",
+        "saturation_strategy": "desaturated_with_pop",
+        "contrast_type": "hue_complementary",
+        "accent_color": "#e23b3b",
+        "accent_ratio": "15_percent",
+        "brand_color_match": [
+          "Toss blue #3182f6 on UI; category bar uses red/purple/blue/teal data-viz colors"
+        ]
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "Vertical 9:16 commercial macro still of a human hand holding a real black smartphone against a warm blurred office background, the phone screen showing a clean light-themed Korean fintech spending-analysis page. At the top, tabs read '자산 / 소비·수입 / 연말정산' with '소비·수입' underlined as active; below, a month selector '1월 소비' with left/right chevrons and a large figure '1,200,000원' with a dropdown caret and a small note '계좌에서 쓴 금액 포함'. Beneath sits a horizontal stacked category bar segmented in red, purple, blue and teal, followed by a ranked category list each with a round colored icon: '쇼핑 53.3% — 650,000원' (red shopping-bag icon), '주거·통신 20.5% — 250,000원' (purple house icon), '이체 19.7% — 240,000원' (blue transfer icon), '교통·자동차 6.5% — 80,000원' (teal car icon), then lower rows including '도전! 소비 줄이기' with a small fairy icon and chevron, '소득이 비슷한 또래랑 소비 비교', and '내 소비 댓글'. The UI is bright white and light grey with crisp dark Korean text and saturated category accent colors. Foreground and props: the held glossy phone and gripping fingers, with an index finger reaching toward the lower '도전! 소비 줄이기' row to tap it. Background: warm out-of-focus office beige/olive bokeh, no readable detail. Lighting setup: soft frontal ambient light at neutral 5500K plus screen self-illumination, moderate fill (2:1), soft hand shadows, mid-key with the screen as the luminance peak. Lens, framing and angle: eye-level, frontal macro, vertical phone filling the frame, shallow depth. Composition and grid: phone centered; fixed lower-center torn-paper caption lozenge with a circled blue '1' badge to its left, the recorded on-screen copy reading '하단에 소비 줄이기 기능을 선택합니다' with '소비 줄이기' emphasized in Toss blue (captions added in post, preserved for fidelity). Color palette and strategy: light UI greys and whites near #c0c0c0, #a8a8a8 and #f0f0f0, a cool UI accent near #a8c0c0, warm skin near #786048, with a vivid data-viz accent set led by red near #e23b3b plus purple, blue and teal in the category bar (about fifteen percent of frame), a split-complementary mix of warm hand against cool/vivid UI. Texture and surfaces: clear glossy phone glass, natural skin, soft blurred wood/office behind. Atmosphere: clean, analytical, calm, soft warm bokeh, no grain. Additional craft detail: the horizontal stacked category bar should read as four crisp adjoining segments with rounded end caps, the red shopping segment widest at the left, then purple, then blue, then a slim teal tail, each segment matched to its labeled row icon below; the round category icons are flat filled circles with simple white pictograms (a shopping bag, a house, a transfer waveform, a car). The phone glass carries a soft elongated highlight from the office windows and a faint smudge near the lower bezel, and the depth of field keeps the screen text razor sharp while the gripping fingertips begin to soften and the background dissolves into warm beige-olive bokeh discs. The hand is anatomically natural — a steady cradle grip with the thumb along the left edge and the index finger extended to tap the lower row, no extra or distorted digits, skin tone warm near #786048 with gentle specular sheen on the knuckles. The lower-center torn-paper caption lozenge has slightly frayed paper edges and a subtle drop shadow so it sits above the footage, the circled blue number badge a solid filled disc with a white numeral. Post and signature look: clean digital 4K, warm natural grade, authentic real-device handheld capture, sub-pixel-crisp Korean glyph rendering with a trace of edge chromatic fringing on the brightest UI whites, no sterile screen-record flatness. Style anchor: Korean fintech feature-tutorial vertical short-form, data-rich app screen. Korean-market UI, all text Korean.",
+        "t2i_negative": "second phone, extra fingers, distorted hand, real brand trademark marks, watermark, blown-out screen, low-key lighting, heavy grain, unreadable UI in sharp zone, English UI text, oversaturated skin",
+        "i2v_motion": "Hold the phone nearly still with light hand drift; an index finger taps the '도전! 소비 줄이기' row at the bottom of the category list; the screen transitions to a spending-fairy intro page (a small 3D fairy mascot labeled '소비요정' with the line '김동현님이 돈을 덜 쓰도록, 제가 도와드릴게요' and a '다음' button); brief UI motion-blur on the transition; camera locked with subtle handheld micro-motion; about 2.9s, steady rhythm, no camera cut; lower-center caption '하단에 소비 줄이기 기능을 선택합니다' holds; ends continuing into the goal-input keyboard screen.",
+        "i2v_params": {
+          "clip_duration_sec": 2.94,
+          "camera_move": "locked_off",
+          "subject_motion_level": "micro",
+          "signature_effect": "none",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; UI copy and captions preserved verbatim; generic light fintech UI, no logo mark; mascot rendered as a generic small 3D fairy character, not a specific IP likeness"
+      }
+    },
+    {
+      "index": 4,
+      "duration": 6.8,
+      "framing": "CU",
+      "function": "demo step 2 — start feature, set monthly goal below average",
+      "color_mood": "bright neutral UI white over warm bokeh",
+      "subject_action": "Phone shows the spending-fairy onboarding ('카드값을 줄이려면 목표 금액을 정하는 게 중요해요') with a number keypad, then the 목표 금액 input screen ('이번달 목표 금액을 정해볼까요? 김동현님은 월 평균 190만원 정도 써요.', '이번 달에 120만원 썼어요.'); a finger types a target amount (1 -> 80 -> 150) into the 만원 field.",
+      "subject_identity": "none_environment",
+      "subject_relationship_to_protagonist": "extra_atmosphere",
+      "mid_frame_path": "ADV-2026-025_frames/cut04_mid.png",
+      "layout_grid": "center",
+      "subject_position": "center",
+      "subject_typo_layout": "phone centered, caption lozenge lower-center with circled '2' badge",
+      "typo_motion": "Caption swaps to '소비 줄이기를 시작하면' -> '내 월 평균 소비 금액을 알려주는데요' -> '나의 월 평균 소비 금액에 맞춰' with key phrases in Toss blue; circled '2' badge appears.",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "environment",
+      "gaze": "none",
+      "eye_contact_effect": "none",
+      "props": [
+        "black iPhone (Toss app, number keypad)",
+        "human hand"
+      ],
+      "prop_semantics": "Goal-setting input demonstrates the core behavior-change mechanic (set a target below your average).",
+      "color_palette": [
+        "#c0c0c0",
+        "#786048",
+        "#606048",
+        "#a8c0c0",
+        "#303018"
+      ],
+      "color_intent": "Calm white input screen with a single underlined blue input line focuses attention on the goal number; warm hand humanizes.",
+      "pose_description": "Steady grip with thumb/index typing on the keypad; instructional, unhurried.",
+      "subject_motion": "micro (typing taps)",
+      "prop_motion": "number field updates as digits are typed; keypad visible",
+      "camera_motion": "handheld_micro",
+      "camera_motion_intensity": "subtle",
+      "camera_effect_local": "none",
+      "motion_blur": "brief on screen change at segment start",
+      "intra_cut_rhythm": "steady",
+      "transition_in": "continuous from segment 3 (screen change, brief blur ~19.39s)",
+      "transition_out": "continuous into goal-complete screen",
+      "vfx_in_shot": [
+        "ui_motion (typing)",
+        "caption swap"
+      ],
+      "vfx_intensity_local": "subtle",
+      "fact_check_flag": "none",
+      "notes": "scenedetect flagged 19.39s here (screen change with motion blur), but it is the same continuous take. Demo numbers: 월 평균 190만원, 이번 달 120만원 썼음.",
+      "visible_elements": {
+        "foreground": [
+          "held iPhone showing fairy onboarding then 목표 금액 input + keypad",
+          "typing finger"
+        ],
+        "midground": [
+          "hand gripping phone"
+        ],
+        "background": [
+          "warm blurred office bokeh"
+        ],
+        "lighting_env": [
+          "soft ambient office light",
+          "screen glow"
+        ],
+        "atmosphere": [
+          "soft warm bokeh",
+          "faint screen glare"
+        ]
+      },
+      "texture": {
+        "primary_subject": "glass_clear",
+        "secondary_objects": [
+          "skin_natural",
+          "plastic_matte"
+        ],
+        "background_surface": "wood_polished",
+        "atmospheric": [
+          "atmospheric_haze"
+        ]
+      },
+      "lighting": {
+        "key_direction": "front",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "moderate",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": false,
+        "practical_lights": [
+          "사무실 조명",
+          "화면 발광"
+        ],
+        "shadow_presence": "soft",
+        "overall_contrast": "mid_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#c0c0c0",
+          "#786048",
+          "#606048",
+          "#a8c0c0",
+          "#303018"
+        ],
+        "palette_role": {
+          "#c0c0c0": "ui_light_dominant",
+          "#786048": "skin_warm",
+          "#606048": "background_warm_midtone",
+          "#a8c0c0": "cool_ui_accent",
+          "#303018": "shadow"
+        },
+        "color_relationship": "brand_dominant",
+        "temperature_balance": "warm_dominant",
+        "saturation_strategy": "desaturated_with_pop",
+        "contrast_type": "luminance_high",
+        "accent_color": "#3182f6",
+        "accent_ratio": "10_percent",
+        "brand_color_match": [
+          "Toss blue #3182f6 on the underlined input line and caption keywords"
+        ]
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "Vertical 9:16 commercial macro still of a human hand holding a real black smartphone against a warm blurred office background, the phone screen showing a clean light-themed Korean fintech goal-setting page. At the top sits a small 3D spending-fairy mascot avatar labeled '소비요정' inside a soft grey speech bubble; the active screen reads a header context line '이번달 목표 금액을 정해볼까요? 김동현님은 월 평균 190만원 정도 써요.' Below is a labeled input field '목표 금액' with a large editable number and a right-aligned unit '만원', the number underlined by a single Toss-blue active input line, and a helper line beneath reading '이번 달에 120만원 썼어요.' The lower half of the screen is occupied by an iOS-style numeric keyboard (rows 1-0, symbols, 한글 / 스페이스 / return keys, a globe key bottom-left). The interface is bright white and light grey with crisp dark Korean text and a single blue accent line. Foreground and props: the held glossy phone and gripping fingers, with a thumb or index finger pressed on a number key mid-typing. Background: warm out-of-focus office beige/olive bokeh, no readable detail. Lighting setup: soft frontal ambient light at neutral 5500K plus screen self-illumination, moderate fill (2:1), soft hand shadows, mid-key with the bright screen as the luminance peak. Lens, framing and angle: eye-level, frontal macro, vertical phone filling the frame, shallow depth. Composition and grid: phone centered; fixed lower-center torn-paper caption lozenge with a circled blue '2' badge to its left, the recorded on-screen copy reading '나의 월 평균 소비 금액에 맞춰' with '소비 금액' emphasized in Toss blue (captions added in post, preserved for fidelity). Color palette and strategy: light UI greys and white near #c0c0c0 dominating, warm skin near #786048, warm office midtone #606048, a cool UI accent near #a8c0c0, deep warm shadow #303018, with a focused Toss-blue accent near #3182f6 on the input underline and caption keywords (about ten percent of frame), a restrained brand-dominant scheme over warm neutrals. Texture and surfaces: clear glossy phone glass, natural skin, matte phone edges, soft blurred wood/office behind. Atmosphere: clean, focused, instructional, soft warm bokeh, faint screen glare, no grain. Additional craft detail: the numeric keyboard fills the lower third as light grey rounded keycaps in tidy rows (1 through 0 across the top, a symbols row with - / : ; ( ) and currency marks, then 한글 / 스페이스 / return and a globe key bottom-left), each keycap with a soft bevel and a faint pressed-state shading on the key currently under the fingertip. The large editable number sits left-aligned with a blinking text cursor implied at its right edge and the unit '만원' right-aligned, the single Toss-blue underline a clean 2px stroke; the helper line and the soft grey fairy speech bubble above carry the small rounded 3D mascot at reduced opacity. The phone glass shows an elongated soft window highlight across its upper third and a faint fingerprint smudge near the bottom bezel; depth of field keeps the input field and keyboard crisp while the gripping fingers soften and the background melts into warm beige-olive bokeh discs. Hand anatomy is natural — a relaxed cradle with the thumb pressing a number key mid-type, knuckles catching a gentle specular sheen, warm skin near #786048, no extra or warped digits. The lower-center torn-paper caption lozenge has frayed paper edges, a subtle drop shadow and the solid blue circled '2' badge with a white numeral. Post and signature look: clean digital 4K, warm natural grade, authentic real-device handheld capture, sub-pixel-crisp Korean glyph rendering with a trace of edge chromatic fringing on the brightest whites, no flat screen-record look. Style anchor: Korean fintech feature-tutorial vertical short-form, goal-input app screen. Korean-market UI, all text Korean.",
+        "t2i_negative": "second phone, extra fingers, distorted hand, real brand trademark marks, watermark, blown-out screen, low-key lighting, heavy grain, unreadable UI in sharp zone, English keyboard, oversaturated skin",
+        "i2v_motion": "Hold the phone nearly still with light hand drift; the screen begins on the fairy onboarding line '카드값을 줄이려면 목표 금액을 정하는 게 중요해요' with the keypad, then moves to the 목표 금액 input; a finger types digits into the field so the number changes from 1 to 80 to 150 in the 만원 field; subtle UI feedback on each keypress; camera locked with subtle handheld micro-motion; about 6.8s, steady rhythm, no camera cut; lower-center caption swaps in sync from '소비 줄이기를 시작하면' to '내 월 평균 소비 금액을 알려주는데요' to '나의 월 평균 소비 금액에 맞춰', circled blue '2' badge appearing; ends continuing into the goal-complete coins screen.",
+        "i2v_params": {
+          "clip_duration_sec": 6.8,
+          "camera_move": "locked_off",
+          "subject_motion_level": "micro",
+          "signature_effect": "none",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; UI copy and captions preserved verbatim; generic light fintech UI, no logo mark; mascot generic 3D fairy, hand generic"
+      }
+    },
+    {
+      "index": 5,
+      "duration": 6.28,
+      "framing": "CU",
+      "function": "demo step 2->3 — confirm goal, challenge begins (dashboard)",
+      "color_mood": "bright neutral UI with soft purple 3D coins",
+      "subject_action": "Phone shows the goal-set-complete screen ('목표 설정 완료! 김동현님은 분명 성공할 거예요' with a soft purple 3D coin stack), then transitions to the challenge dashboard ('1월 목표 중 남은 금액 300,000원 / 1,500,000원', fairy bubble '목표 금액의 80%를 썼어요. 앞으로 하루 15,000원만 쓰면 돼요.', tabs 소비 내역 / 분석 리포트, 이번 달 쓴 돈 1,200,000원 / 쓰고 후회한 돈 0원, '쓰고 후회한 돈' 기록하기 button).",
+      "subject_identity": "none_environment",
+      "subject_relationship_to_protagonist": "extra_atmosphere",
+      "mid_frame_path": "ADV-2026-025_frames/cut05_mid.png",
+      "layout_grid": "center",
+      "subject_position": "center",
+      "subject_typo_layout": "phone centered, caption lozenge lower-center with circled '2' then '3' badge",
+      "typo_motion": "Caption '확인을 누르면' (badge 2) -> '소비를 줄이기 위한 도전이 시작됩니다' (badge 3) -> '이번 달 목표 금액에 얼마나 도달했는지'; key phrases in Toss blue.",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "environment",
+      "gaze": "none",
+      "eye_contact_effect": "none",
+      "props": [
+        "black iPhone (Toss app)",
+        "human hand"
+      ],
+      "prop_semantics": "Coins reward visual + dashboard frame the challenge as a gamified goal; the daily-allowance line is the key payoff number.",
+      "color_palette": [
+        "#c0c0c0",
+        "#a8a8c0",
+        "#786048",
+        "#606048",
+        "#303018"
+      ],
+      "color_intent": "Soft lavender 3D coins add a gentle reward/celebration accent against white UI; Toss blue on the action button.",
+      "pose_description": "Steady grip; a confirm tap then settling to read the dashboard.",
+      "subject_motion": "micro (tap, slight drift)",
+      "prop_motion": "screen transitions confirm -> dashboard; brief white loading frame",
+      "camera_motion": "handheld_micro",
+      "camera_motion_intensity": "subtle",
+      "camera_effect_local": "none",
+      "motion_blur": "brief on transitions / blank loading frame ~24.3s",
+      "intra_cut_rhythm": "steady",
+      "transition_in": "continuous from segment 4",
+      "transition_out": "continuous into dashboard spending-list scroll",
+      "vfx_in_shot": [
+        "ui_motion",
+        "3d_render (coins/avatar)"
+      ],
+      "vfx_intensity_local": "subtle",
+      "fact_check_flag": "none",
+      "notes": "Brief white loading screen at ~24.3s during confirm. Dashboard: 남은 금액 300,000원 / 목표 1,500,000원, 하루 15,000원. metrics flagged 26.19s (coins screen).",
+      "visible_elements": {
+        "foreground": [
+          "held iPhone showing goal-complete coins then challenge dashboard",
+          "finger"
+        ],
+        "midground": [
+          "hand gripping phone"
+        ],
+        "background": [
+          "warm blurred office bokeh"
+        ],
+        "lighting_env": [
+          "soft ambient office light",
+          "screen glow"
+        ],
+        "atmosphere": [
+          "soft warm bokeh"
+        ]
+      },
+      "texture": {
+        "primary_subject": "glass_clear",
+        "secondary_objects": [
+          "skin_natural",
+          "plastic_glossy"
+        ],
+        "background_surface": "wood_polished",
+        "atmospheric": [
+          "atmospheric_haze"
+        ]
+      },
+      "lighting": {
+        "key_direction": "front",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "moderate",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": false,
+        "practical_lights": [
+          "사무실 조명",
+          "화면 발광"
+        ],
+        "shadow_presence": "soft",
+        "overall_contrast": "mid_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#c0c0c0",
+          "#a8a8c0",
+          "#786048",
+          "#606048",
+          "#303018"
+        ],
+        "palette_role": {
+          "#c0c0c0": "ui_light_dominant",
+          "#a8a8c0": "lavender_3d_coin_accent",
+          "#786048": "skin_warm",
+          "#606048": "background_warm_midtone",
+          "#303018": "shadow"
+        },
+        "color_relationship": "brand_dominant",
+        "temperature_balance": "balanced",
+        "saturation_strategy": "desaturated_with_pop",
+        "contrast_type": "luminance_high",
+        "accent_color": "#3182f6",
+        "accent_ratio": "15_percent",
+        "brand_color_match": [
+          "Toss blue #3182f6 on the action button; soft lavender on 3D coin reward art"
+        ]
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "Vertical 9:16 commercial macro still of a human hand holding a real black smartphone against a warm blurred office background, the phone screen showing a clean light-themed Korean fintech challenge dashboard. Near the top a label '1월 목표 중 남은 금액' sits above a large figure '300,000원' with a smaller '/ 1,500,000원' and a tiny edit pencil; centered below floats a small round 3D character avatar wearing a white cap inside a soft grey rounded bubble that reads '목표 금액의 80%를 썼어요. 앞으로 하루 15,000원만 쓰면 돼요.' (the 80% in red, the 15,000원 in blue). Beneath, a segmented control shows two tabs '소비 내역' (active) and '분석 리포트'; two stat blocks read '이번 달 쓴 돈 1,200,000원' (with a small money-bag icon) and '쓰고 후회한 돈 0원' (with a slightly sad face icon); a full-width solid Toss-blue button reads '‘쓰고 후회한 돈’ 기록하기'; below it the start of a dated transaction list (1월 9일 80,000원, blue circular icons with amounts and merchant labels). The interface is bright white and light grey with crisp dark Korean text. Foreground and props: the held glossy phone and gripping fingers. Background: warm out-of-focus office bokeh, no readable detail. Lighting setup: soft frontal ambient light at neutral 5500K plus screen self-illumination, moderate fill (2:1), soft hand shadows, mid-key with the screen as the luminance peak. Lens, framing and angle: eye-level, frontal macro, vertical phone filling the frame, shallow depth. Composition and grid: phone centered; fixed lower-center torn-paper caption lozenge with a circled blue '3' badge to its left, the recorded on-screen copy reading '소비를 줄이기 위한 도전이 시작됩니다' with '도전' emphasized in Toss blue (captions added in post, preserved for fidelity). Color palette and strategy: light UI greys and white near #c0c0c0 dominating, a soft lavender 3D-reward accent near #a8a8c0, warm skin near #786048, warm office midtone #606048, deep warm shadow #303018, with a Toss-blue accent near #3182f6 on the primary button and caption keyword plus small red/blue figure highlights (about fifteen percent of frame), a brand-dominant scheme. Texture and surfaces: clear glossy phone glass, glossy 3D-rendered coin/avatar art on screen, natural skin, soft blurred office behind. Atmosphere: clean, encouraging, gamified-but-calm, soft warm bokeh, no grain. Additional craft detail: the small 3D character avatar in the bubble is a rounded, glossy, friendly figure wearing a white cap with soft studio-style shading and a gentle floor shadow, rendered in the soft lavender-and-white family so it reads as a reward mascot rather than a loud cartoon; the remaining-amount figure is large and bold with the smaller goal figure and a tiny edit pencil beside it, and the two stat blocks sit side by side with a small money-bag icon and a faintly sad face icon. The full-width Toss-blue primary button has rounded corners and crisp white Korean label text. The phone glass carries a soft elongated window highlight and a faint lower-bezel smudge; depth of field holds the screen text sharp while the gripping fingertips soften and the background dissolves into warm beige-olive bokeh discs. Hand anatomy is natural — a steady cradle grip, thumb along the edge and index finger free, knuckles with a light specular sheen, warm skin near #786048, no extra or warped digits. The lower-center torn-paper caption lozenge has frayed paper edges, a subtle drop shadow and the solid blue circled '3' badge with a white numeral. Post and signature look: clean digital 4K, warm natural grade, authentic real-device handheld capture, sub-pixel-crisp Korean glyph rendering with a trace of edge chromatic fringing on the brightest whites, no sterile screen-record flatness. Style anchor: Korean fintech feature-tutorial vertical short-form, gamified savings dashboard. Korean-market UI, all text Korean.",
+        "t2i_negative": "second phone, extra fingers, distorted hand, real brand trademark marks, watermark, blown-out screen, low-key lighting, heavy grain, unreadable UI in sharp zone, English UI text, garish 3D coins",
+        "i2v_motion": "Hold the phone nearly still with light hand drift; the screen begins on a goal-complete reward screen (a soft purple 3D coin stack with '목표 설정 완료! 김동현님은 분명 성공할 거예요'), a finger taps confirm, a brief white loading frame flashes, then the challenge dashboard appears with the remaining-amount figure, the fairy/avatar bubble and the blue '쓰고 후회한 돈 기록하기' button; subtle UI motion on transitions; camera locked with subtle handheld micro-motion; about 6.3s, steady rhythm, no camera cut; lower-center caption swaps in sync from '확인을 누르면' to '소비를 줄이기 위한 도전이 시작됩니다' to '이번 달 목표 금액에 얼마나 도달했는지', circled badge changing 2 to 3; ends continuing into the dashboard transaction-list scroll.",
+        "i2v_params": {
+          "clip_duration_sec": 6.28,
+          "camera_move": "locked_off",
+          "subject_motion_level": "micro",
+          "signature_effect": "none",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; UI copy and captions preserved verbatim; generic light fintech UI, no logo mark; 3D coins/avatar rendered as generic art"
+      }
+    },
+    {
+      "index": 6,
+      "duration": 4.77,
+      "framing": "CU",
+      "function": "demo step 3 — track progress, daily allowance, scroll spending list",
+      "color_mood": "bright neutral UI white over warm bokeh",
+      "subject_action": "Phone shows the dashboard transaction list; a finger scrolls down through dated spending entries (1월 5일 토스 흑돼지 230,000원, 심플리시티 카페 20,000원; 1월 4일 토스 패션 200,000원; 1월 2일 토스 마트 20,000원; 1월 1일 토스 카센터 150,000원, 토스 가구 500,000원).",
+      "subject_identity": "none_environment",
+      "subject_relationship_to_protagonist": "extra_atmosphere",
+      "mid_frame_path": "ADV-2026-025_frames/cut06_mid.png",
+      "layout_grid": "center",
+      "subject_position": "center",
+      "subject_typo_layout": "phone centered, caption lozenge lower-center with circled '3' badge",
+      "typo_motion": "Caption '남은 기간, 하루 얼마나 써야 하는지' -> '알 수 있어요'; key phrase in Toss blue.",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "environment",
+      "gaze": "none",
+      "eye_contact_effect": "none",
+      "props": [
+        "black iPhone (Toss app)",
+        "human hand"
+      ],
+      "prop_semantics": "Scrolling the itemized list shows transparency of where money went, reinforcing the tracking benefit.",
+      "color_palette": [
+        "#c0c0c0",
+        "#786048",
+        "#606048",
+        "#483018",
+        "#303018"
+      ],
+      "color_intent": "Plain white list with blue circular icons keeps it legible; warm hand humanizes.",
+      "pose_description": "Steady grip with finger swiping/scrolling the list.",
+      "subject_motion": "micro (scroll swipe)",
+      "prop_motion": "transaction list scrolls vertically",
+      "camera_motion": "handheld_micro",
+      "camera_motion_intensity": "subtle",
+      "camera_effect_local": "none",
+      "motion_blur": "mild on scrolling content",
+      "intra_cut_rhythm": "steady",
+      "transition_in": "continuous from segment 5",
+      "transition_out": "continuous into 쓰고 후회한 돈 selection screen",
+      "vfx_in_shot": [
+        "ui_motion (scroll)"
+      ],
+      "vfx_intensity_local": "subtle",
+      "fact_check_flag": "none",
+      "notes": "Merchant names use generic 토스-prefixed dummy data (토스 흑돼지, 토스 패션, 토스 마트 etc.). Same continuous take.",
+      "visible_elements": {
+        "foreground": [
+          "held iPhone showing scrolling transaction list",
+          "scrolling finger"
+        ],
+        "midground": [
+          "hand gripping phone"
+        ],
+        "background": [
+          "warm blurred office bokeh"
+        ],
+        "lighting_env": [
+          "soft ambient office light",
+          "screen glow"
+        ],
+        "atmosphere": [
+          "soft warm bokeh"
+        ]
+      },
+      "texture": {
+        "primary_subject": "glass_clear",
+        "secondary_objects": [
+          "skin_natural"
+        ],
+        "background_surface": "wood_polished",
+        "atmospheric": [
+          "atmospheric_haze"
+        ]
+      },
+      "lighting": {
+        "key_direction": "front",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "moderate",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": false,
+        "practical_lights": [
+          "사무실 조명",
+          "화면 발광"
+        ],
+        "shadow_presence": "soft",
+        "overall_contrast": "mid_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#c0c0c0",
+          "#786048",
+          "#606048",
+          "#483018",
+          "#303018"
+        ],
+        "palette_role": {
+          "#c0c0c0": "ui_light_dominant",
+          "#786048": "skin_warm",
+          "#606048": "background_warm_midtone",
+          "#483018": "desk_dark_warm",
+          "#303018": "shadow"
+        },
+        "color_relationship": "brand_dominant",
+        "temperature_balance": "warm_dominant",
+        "saturation_strategy": "desaturated_with_pop",
+        "contrast_type": "luminance_high",
+        "accent_color": "#3182f6",
+        "accent_ratio": "10_percent",
+        "brand_color_match": [
+          "Toss blue #3182f6 on list icons and caption keywords"
+        ]
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "Vertical 9:16 commercial macro still of a human hand holding a real black smartphone against a warm blurred office background, the phone screen showing a clean light-themed Korean fintech transaction-history view inside a savings challenge. Near the top a segmented control shows '소비 내역' (active) and '분석 리포트', two stat blocks read '이번 달 쓴 돈 1,200,000원' and '쓰고 후회한 돈 0원', and a full-width solid Toss-blue button reads '‘쓰고 후회한 돈’ 기록하기'. Below sits a dated transaction list grouped by day, each entry a blue circular icon with an amount and a generic merchant label: under '1월 5일 250,000원' rows '230,000원 토스 흑돼지' and '20,000원 심플리시티 카페'; under '1월 4일 200,000원' a row '200,000원 토스 패션'; under '1월 2일 40,000원' a row '20,000원 토스 마트'; under '1월 1일 650,000원' rows '150,000원 토스 카센터' and '500,000원 토스 가구'. The interface is bright white and light grey with crisp dark Korean text and uniform blue circular icons; a thin scrollbar sits at the right edge. Foreground and props: the held glossy phone and gripping fingers, with a finger mid-swipe scrolling the list. Background: warm out-of-focus office bokeh, no readable detail. Lighting setup: soft frontal ambient light at neutral 5500K plus screen self-illumination, moderate fill (2:1), soft hand shadows, mid-key with the bright screen as the luminance peak. Lens, framing and angle: eye-level, frontal macro, vertical phone filling the frame, shallow depth. Composition and grid: phone centered; fixed lower-center torn-paper caption lozenge with a circled blue '3' badge to its left, the recorded on-screen copy reading '남은 기간, 하루 얼마나 써야 하는지' with key words in Toss blue (captions added in post, preserved for fidelity). Color palette and strategy: light UI greys and white near #c0c0c0 dominating, warm skin near #786048, warm office midtone #606048, darker warm desk #483018, deep shadow #303018, with a Toss-blue accent near #3182f6 on the icons, button and caption keywords (about ten percent of frame), a brand-dominant scheme over warm neutrals. Texture and surfaces: clear glossy phone glass, natural skin, soft blurred wood/office behind. Atmosphere: clean, transparent, instructional, soft warm bokeh, no grain. Additional craft detail: each transaction row is a uniform blue filled circular icon with a simple white pictogram at left, the amount in bold dark text and the generic merchant label in lighter grey beneath, with thin day-group headers showing the date at left and a day total at right, and a slim grey scrollbar pill riding the right edge to signal scroll position. As the list scrolls, the rows nearest the swipe carry a hint of vertical content motion-blur while the rest stay crisp. The phone glass shows a soft elongated window highlight and a faint fingerprint near the lower bezel; the depth of field keeps the screen text sharp while the gripping fingertips soften and the warm office behind melts into beige-olive bokeh discs with a couple of darker blurred shapes. Hand anatomy is natural — a relaxed cradle grip with the thumb steadying the left edge and the index or middle finger mid-swipe, knuckles catching a gentle specular sheen, warm skin near #786048, no extra or distorted digits. The lower-center torn-paper caption lozenge has frayed paper edges, a subtle drop shadow and the solid blue circled '3' badge with a white numeral, its keyword set in Toss blue. Post and signature look: clean digital 4K, warm natural grade, authentic real-device handheld capture, sub-pixel-crisp Korean glyph rendering with a trace of edge chromatic fringing on the brightest whites, no flat screen-record look. Style anchor: Korean fintech feature-tutorial vertical short-form, itemized spending list. Korean-market UI, all text Korean.",
+        "t2i_negative": "second phone, extra fingers, distorted hand, real brand trademark marks, watermark, blown-out screen, low-key lighting, heavy grain, unreadable UI in sharp zone, English UI text, oversaturated skin",
+        "i2v_motion": "Hold the phone nearly still with light hand drift; a finger swipes upward to scroll the dated transaction list, the rows sliding up with mild content motion-blur to reveal earlier days; camera locked with subtle handheld micro-motion; about 4.8s, steady rhythm, no camera cut; lower-center caption swaps in sync from '남은 기간, 하루 얼마나 써야 하는지' to '알 수 있어요', circled blue '3' badge persisting; ends continuing into the regretted-spending selection screen.",
+        "i2v_params": {
+          "clip_duration_sec": 4.77,
+          "camera_move": "locked_off",
+          "subject_motion_level": "micro",
+          "signature_effect": "none",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; UI copy and captions preserved verbatim; generic light fintech UI, no logo mark; hand generic"
+      }
+    },
+    {
+      "index": 7,
+      "duration": 6.4,
+      "framing": "CU",
+      "function": "demo step 4 — log regretted spending",
+      "color_mood": "bright neutral UI white over warm bokeh",
+      "subject_action": "Phone shows the regretted-spending picker ('이번 달에 쓰고 후회한 돈을 모두 골라주세요', 쓰고 후회한 돈 0원); a finger checks two items (230,000원 토스 흑돼지 and 20,000원 심플리시티 카페), the total updating to 250,000원 and the '저장하기' button activating to solid blue.",
+      "subject_identity": "none_environment",
+      "subject_relationship_to_protagonist": "extra_atmosphere",
+      "mid_frame_path": "ADV-2026-025_frames/cut07_mid.png",
+      "layout_grid": "center",
+      "subject_position": "center",
+      "subject_typo_layout": "phone centered, caption lozenge lower-center with circled '4' badge",
+      "typo_motion": "Caption '쓰고 후회한 소비 내역을 기록하면' -> '내가 줄일 수 있었던 소비를 등록할 수 있죠'; key phrases in Toss blue; circled '4' badge.",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "environment",
+      "gaze": "none",
+      "eye_contact_effect": "none",
+      "props": [
+        "black iPhone (Toss app, checkbox list)",
+        "human hand"
+      ],
+      "prop_semantics": "Selecting 'regretted' purchases turns reflection into an actionable, quantified savings target (the behavioral hook of the feature).",
+      "color_palette": [
+        "#c0c0c0",
+        "#786048",
+        "#606048",
+        "#303018",
+        "#483018"
+      ],
+      "color_intent": "Blue checkmarks and an activating blue Save button signal progress/commitment against the clean white list.",
+      "pose_description": "Steady grip; deliberate taps on two list rows then toward Save.",
+      "subject_motion": "micro (checkbox taps)",
+      "prop_motion": "checkmarks appear; running total updates; Save button changes state",
+      "camera_motion": "handheld_micro",
+      "camera_motion_intensity": "subtle",
+      "camera_effect_local": "none",
+      "motion_blur": "brief on screen change at start",
+      "intra_cut_rhythm": "steady",
+      "transition_in": "continuous from segment 6 (screen change ~37.24s)",
+      "transition_out": "continuous back to dashboard then to report",
+      "vfx_in_shot": [
+        "ui_motion (checkbox + total)"
+      ],
+      "vfx_intensity_local": "subtle",
+      "fact_check_flag": "none",
+      "notes": "metrics flagged 37.24s (screen change) — same continuous take. Selected total: 250,000원.",
+      "visible_elements": {
+        "foreground": [
+          "held iPhone showing checkbox spending picker",
+          "tapping finger"
+        ],
+        "midground": [
+          "hand gripping phone"
+        ],
+        "background": [
+          "warm blurred office bokeh"
+        ],
+        "lighting_env": [
+          "soft ambient office light",
+          "screen glow"
+        ],
+        "atmosphere": [
+          "soft warm bokeh"
+        ]
+      },
+      "texture": {
+        "primary_subject": "glass_clear",
+        "secondary_objects": [
+          "skin_natural"
+        ],
+        "background_surface": "wood_polished",
+        "atmospheric": [
+          "atmospheric_haze"
+        ]
+      },
+      "lighting": {
+        "key_direction": "front",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "moderate",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": false,
+        "practical_lights": [
+          "사무실 조명",
+          "화면 발광"
+        ],
+        "shadow_presence": "soft",
+        "overall_contrast": "mid_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#c0c0c0",
+          "#786048",
+          "#606048",
+          "#303018",
+          "#483018"
+        ],
+        "palette_role": {
+          "#c0c0c0": "ui_light_dominant",
+          "#786048": "skin_warm",
+          "#606048": "background_warm_midtone",
+          "#303018": "shadow",
+          "#483018": "desk_dark_warm"
+        },
+        "color_relationship": "brand_dominant",
+        "temperature_balance": "warm_dominant",
+        "saturation_strategy": "desaturated_with_pop",
+        "contrast_type": "luminance_high",
+        "accent_color": "#3182f6",
+        "accent_ratio": "10_percent",
+        "brand_color_match": [
+          "Toss blue #3182f6 on checkmarks, Save button and caption keywords"
+        ]
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "Vertical 9:16 commercial macro still of a human hand holding a real black smartphone against a warm blurred office background, the phone screen showing a clean light-themed Korean fintech selection screen for logging regretted spending. A two-line header reads '이번 달에 쓰고 후회한 돈을 모두 골라주세요' with a running subtotal line beneath in blue, '쓰고 후회한 돈 250,000원'. Below is a dated, checkable transaction list, each row a blue circular icon with an amount, a generic merchant label and a right-aligned checkbox/checkmark: under '1월 9일 80,000원' rows '30,000원 토스 모바일' and '50,000원 토스 서점' (unchecked); under '1월 5일 250,000원' rows '230,000원 토스 흑돼지' and '20,000원 심플리시티 카페' both showing a blue check; under '1월 4일 200,000원' a row '200,000원 토스 패션' (unchecked). A full-width solid Toss-blue button at the bottom reads '저장하기' (active/enabled). The interface is bright white and light grey with crisp dark Korean text and blue accents. Foreground and props: the held glossy phone and gripping fingers, with an index finger touching one of the list rows to toggle its checkmark. Background: warm out-of-focus office bokeh, no readable detail. Lighting setup: soft frontal ambient light at neutral 5500K plus screen self-illumination, moderate fill (2:1), soft hand shadows, mid-key with the bright screen as the luminance peak. Lens, framing and angle: eye-level, frontal macro, vertical phone filling the frame, shallow depth. Composition and grid: phone centered; fixed lower-center torn-paper caption lozenge with a circled blue '4' badge to its left, the recorded on-screen copy reading '쓰고 후회한 소비 내역을 기록하면' with key words in Toss blue (captions added in post, preserved for fidelity). Color palette and strategy: light UI greys and white near #c0c0c0 dominating, warm skin near #786048, warm office midtone #606048, deep shadow #303018, darker warm desk #483018, with a Toss-blue accent near #3182f6 on the checkmarks, Save button and caption keywords (about ten percent of frame), a brand-dominant scheme over warm neutrals. Texture and surfaces: clear glossy phone glass, natural skin, soft blurred wood/office behind. Atmosphere: clean, reflective, decisive, soft warm bokeh, no grain. Additional craft detail: each selectable row is a uniform blue filled circular icon at left with a bold amount and a lighter grey generic merchant label beneath, and a right-aligned selection control that reads as a faint hollow circle when unchecked and a crisp Toss-blue checkmark when selected; the two chosen rows (230,000원 토스 흑돼지 and 20,000원 심플리시티 카페) show solid blue checks while the rest stay empty, and the blue running subtotal in the header reflects their sum. The bottom '저장하기' button is full-width with rounded corners and crisp white Korean label text, rendered in its active solid-blue enabled state rather than disabled grey. The phone glass shows a soft elongated window highlight and a faint lower-bezel smudge; depth of field keeps the screen text sharp while the gripping fingertips soften and the warm office behind melts into beige-olive bokeh discs. Hand anatomy is natural — a steady cradle grip with the thumb along the edge and the index finger touching a row to toggle its check, knuckles with a light specular sheen, warm skin near #786048, no extra or warped digits. The lower-center torn-paper caption lozenge has frayed paper edges, a subtle drop shadow and the solid blue circled '4' badge with a white numeral, its keyword in Toss blue. Post and signature look: clean digital 4K, warm natural grade, authentic real-device handheld capture, sub-pixel-crisp Korean glyph rendering with a trace of edge chromatic fringing on the brightest whites, no sterile screen-record flatness. Style anchor: Korean fintech feature-tutorial vertical short-form, checkbox selection screen. Korean-market UI, all text Korean.",
+        "t2i_negative": "second phone, extra fingers, distorted hand, real brand trademark marks, watermark, blown-out screen, low-key lighting, heavy grain, unreadable UI in sharp zone, English UI text, oversaturated skin",
+        "i2v_motion": "Hold the phone nearly still with light hand drift; a finger taps two transaction rows so blue checkmarks appear, the blue subtotal climbs from 0원 to 250,000원 and the bottom '저장하기' button shifts from disabled grey to active solid blue; subtle UI feedback on each tap; camera locked with subtle handheld micro-motion; about 6.4s, steady rhythm, no camera cut; lower-center caption swaps in sync from '쓰고 후회한 소비 내역을 기록하면' to '내가 줄일 수 있었던 소비를 등록할 수 있죠', circled blue '4' badge persisting; ends continuing back to the dashboard then the weekly report.",
+        "i2v_params": {
+          "clip_duration_sec": 6.4,
+          "camera_move": "locked_off",
+          "subject_motion_level": "micro",
+          "signature_effect": "none",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; UI copy and captions preserved verbatim; generic light fintech UI, no logo mark; hand generic"
+      }
+    },
+    {
+      "index": 8,
+      "duration": 4.91,
+      "framing": "CU",
+      "function": "demo step 5 — weekly spending-analysis report",
+      "color_mood": "bright neutral UI white over warm bokeh",
+      "subject_action": "Phone returns to the dashboard (now 쓰고 후회한 돈 250,000원), a finger taps the '분석 리포트' tab, and the weekly report appears ('1월 1일 ~ 1월 7일 / 한 주 동안 530,000원 썼어요' with stat rows: 하루 평균 75,700원, 지난주보다 82,600원 덜 썼어요, 카드를 한 번도 안 쓴 날은 4일, 가장 많이 쓴 돈 230,000원, 쓰고 후회한 돈 250,000원, fairy quote '야식의 익숙함에 속아 지갑의 소중함을 잃지 말자 by 소비요정').",
+      "subject_identity": "none_environment",
+      "subject_relationship_to_protagonist": "extra_atmosphere",
+      "mid_frame_path": "ADV-2026-025_frames/cut08_mid.png",
+      "layout_grid": "center",
+      "subject_position": "center",
+      "subject_typo_layout": "phone centered, caption lozenge lower-center with circled '5' badge",
+      "typo_motion": "Caption '소비 분석 리포트를 통해' -> '한 주간 내 소비 상태를 확인해 볼 수 있고'; key phrases in Toss blue; circled '5' badge.",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "environment",
+      "gaze": "none",
+      "eye_contact_effect": "none",
+      "props": [
+        "black iPhone (Toss app, report)",
+        "human hand"
+      ],
+      "prop_semantics": "The weekly report + witty fairy quote frame insight as friendly coaching, closing the tracking loop.",
+      "color_palette": [
+        "#c0c0c0",
+        "#786048",
+        "#606048",
+        "#a8c0c0",
+        "#303018"
+      ],
+      "color_intent": "Clean report layout with small colored stat icons; the playful quote adds warmth; restrained palette signals clarity.",
+      "pose_description": "Steady grip; tab tap then settling to read the report.",
+      "subject_motion": "micro (tab tap, slight drift)",
+      "prop_motion": "screen switches from dashboard to weekly report tab",
+      "camera_motion": "handheld_micro",
+      "camera_motion_intensity": "subtle",
+      "camera_effect_local": "none",
+      "motion_blur": "brief on tab switch",
+      "intra_cut_rhythm": "steady",
+      "transition_in": "continuous from segment 7 (tab change ~43.64s)",
+      "transition_out": "hard cut to lock-screen notification shot",
+      "vfx_in_shot": [
+        "ui_motion (tab switch)",
+        "data_viz (stat rows)"
+      ],
+      "vfx_intensity_local": "subtle",
+      "fact_check_flag": "none",
+      "notes": "Status-bar clock ticks 3:58 -> 4:00 across the demo, confirming a continuous real-time take. Hard cut to lock screen at 48.55s.",
+      "visible_elements": {
+        "foreground": [
+          "held iPhone showing weekly analysis report",
+          "finger"
+        ],
+        "midground": [
+          "hand gripping phone"
+        ],
+        "background": [
+          "warm blurred office bokeh"
+        ],
+        "lighting_env": [
+          "soft ambient office light",
+          "screen glow"
+        ],
+        "atmosphere": [
+          "soft warm bokeh"
+        ]
+      },
+      "texture": {
+        "primary_subject": "glass_clear",
+        "secondary_objects": [
+          "skin_natural",
+          "plastic_glossy"
+        ],
+        "background_surface": "wood_polished",
+        "atmospheric": [
+          "atmospheric_haze"
+        ]
+      },
+      "lighting": {
+        "key_direction": "front",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "moderate",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": false,
+        "practical_lights": [
+          "사무실 조명",
+          "화면 발광"
+        ],
+        "shadow_presence": "soft",
+        "overall_contrast": "mid_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#c0c0c0",
+          "#786048",
+          "#606048",
+          "#a8c0c0",
+          "#303018"
+        ],
+        "palette_role": {
+          "#c0c0c0": "ui_light_dominant",
+          "#786048": "skin_warm",
+          "#606048": "background_warm_midtone",
+          "#a8c0c0": "cool_ui_accent",
+          "#303018": "shadow"
+        },
+        "color_relationship": "brand_dominant",
+        "temperature_balance": "balanced",
+        "saturation_strategy": "desaturated_with_pop",
+        "contrast_type": "luminance_high",
+        "accent_color": "#3182f6",
+        "accent_ratio": "10_percent",
+        "brand_color_match": [
+          "Toss blue #3182f6 on figures, active tab and caption keywords; small multicolor stat icons"
+        ]
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "Vertical 9:16 commercial macro still of a human hand holding a real black smartphone against a warm blurred office background, the phone screen showing a clean light-themed Korean fintech weekly spending-analysis report. A segmented control at the top shows '소비 내역' and '분석 리포트' with '분석 리포트' active; a week selector reads '1월 1일 ~ 1월 7일' with chevrons; a headline '한 주 동안' sits above a large figure '530,000원 썼어요'. Below is a vertical list of insight rows, each with a small colored icon and a sentence with the key number in blue: '하루 평균 75,700원 결제했어요', '지난주보다 82,600원 덜 썼어요', '카드를 한 번도 안 쓴 날은 4일이에요', '가장 많이 쓴 돈은 230,000원이에요' (with a small crown icon), '쓰고 후회한 돈은 250,000원이에요' (with a sad-face icon). At the bottom a small round 3D character avatar wearing a white cap sits above a soft grey quote card reading '야식의 익숙함에 속아 지갑의 소중함을 잃지 말자' with 'by 소비요정' beneath. The interface is bright white and light grey with crisp dark Korean text. Foreground and props: the held glossy phone and gripping fingers. Background: warm out-of-focus office bokeh, no readable detail. Lighting setup: soft frontal ambient light at neutral 5500K plus screen self-illumination, moderate fill (2:1), soft hand shadows, mid-key with the screen as the luminance peak. Lens, framing and angle: eye-level, frontal macro, vertical phone filling the frame, shallow depth. Composition and grid: phone centered; fixed lower-center torn-paper caption lozenge with a circled blue '5' badge to its left, the recorded on-screen copy reading '소비 분석 리포트를 통해' with key words in Toss blue (captions added in post, preserved for fidelity). Color palette and strategy: light UI greys and white near #c0c0c0 dominating, warm skin near #786048, warm office midtone #606048, a cool UI accent near #a8c0c0, deep shadow #303018, with a Toss-blue accent near #3182f6 on the figures, active tab and caption keywords plus small multicolor stat icons (about ten percent of frame), a brand-dominant scheme. Texture and surfaces: clear glossy phone glass, natural skin, glossy small 3D avatar art, soft blurred office behind. Atmosphere: clean, insightful, gently witty, soft warm bokeh, no grain. Additional craft detail: each insight row pairs a small flat colored icon at left (a coin/won mark, a price-tag, a card, a small yellow crown, a sad face) with a single Korean sentence whose key number is set in Toss blue, the rows evenly spaced down a clean white list; the headline figure '530,000원 썼어요' is large and bold beneath the smaller '한 주 동안'. At the bottom the small rounded glossy 3D avatar in a white cap sits above a soft grey quote card with two lines of italicized-feeling copy and a smaller 'by 소비요정' credit. The phone glass shows a soft elongated window highlight and a faint lower-bezel smudge; depth of field holds the screen text crisp while the gripping fingertips soften and the warm office behind dissolves into beige-olive bokeh discs. Hand anatomy is natural — a steady cradle grip, thumb along the edge and index finger free near the tab, knuckles with a light specular sheen, warm skin near #786048, no extra or distorted digits. The lower-center torn-paper caption lozenge has frayed paper edges, a subtle drop shadow and the solid blue circled '5' badge with a white numeral, its keyword in Toss blue. Post and signature look: clean digital 4K, warm natural grade, authentic real-device handheld capture, sub-pixel-crisp Korean glyph rendering with a trace of edge chromatic fringing on the brightest whites, no flat screen-record look. Style anchor: Korean fintech feature-tutorial vertical short-form, weekly insight report. Korean-market UI, all text Korean.",
+        "t2i_negative": "second phone, extra fingers, distorted hand, real brand trademark marks, watermark, blown-out screen, low-key lighting, heavy grain, unreadable UI in sharp zone, English UI text, oversaturated skin",
+        "i2v_motion": "Hold the phone nearly still with light hand drift; a finger taps the '분석 리포트' tab, the screen switching from the dashboard to the weekly report with its stacked insight rows and the fairy quote card; brief UI motion on the tab switch; camera locked with subtle handheld micro-motion; about 4.9s, steady rhythm, no camera cut; lower-center caption swaps in sync from '소비 분석 리포트를 통해' to '한 주간 내 소비 상태를 확인해 볼 수 있고', circled blue '5' badge persisting; ends on a hard cut to the phone lock-screen notification shot.",
+        "i2v_params": {
+          "clip_duration_sec": 4.91,
+          "camera_move": "locked_off",
+          "subject_motion_level": "micro",
+          "signature_effect": "none",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; UI copy and captions preserved verbatim; generic light fintech UI, no logo mark; avatar generic, hand generic"
+      }
+    },
+    {
+      "index": 9,
+      "duration": 4.7,
+      "framing": "MCU",
+      "function": "wow / demo step 6 — daily push notification (with emphasis push-in)",
+      "color_mood": "cool blue lock-screen over warm bokeh",
+      "subject_action": "The phone is held showing its lock screen (1월 12일 금요일 4:00, blue gradient wallpaper); a push notification slides in ('도전! 소비 줄이기 12일차 / 과연.. 김동현님이 오늘 쓴 돈은 총 얼마일까요? 지금'); a hard jump-cut pushes in tighter on the notification for emphasis ('위로 쓸어올려서 열기' visible).",
+      "subject_identity": "none_environment",
+      "subject_relationship_to_protagonist": "extra_atmosphere",
+      "mid_frame_path": "ADV-2026-025_frames/cut09_mid.png",
+      "layout_grid": "center",
+      "subject_position": "center",
+      "subject_typo_layout": "phone centered then enlarged; caption lozenge lower-center with circled '6' badge",
+      "typo_motion": "Caption '매일 알림을 통해 내 하루 소비를' -> '점검할 수 있어요'; in-app push notification animates in from top; key phrases in Toss blue; circled '6' badge.",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "environment",
+      "gaze": "none",
+      "eye_contact_effect": "none",
+      "props": [
+        "black iPhone (lock screen + push notification)",
+        "human hand"
+      ],
+      "prop_semantics": "A real push notification dramatizes the daily nudge — the habit-forming hook that keeps users returning.",
+      "color_palette": [
+        "#90a8c0",
+        "#78a8c0",
+        "#483030",
+        "#483018",
+        "#a8c0c0"
+      ],
+      "color_intent": "Cool blue lock-screen wallpaper shifts the palette to brand-adjacent blue, distinguishing this 'reminder' beat from the white in-app screens; warm hand keeps continuity.",
+      "pose_description": "Steady grip presenting the phone face-on; minimal movement to keep the notification readable.",
+      "subject_motion": "micro (slight hand drift)",
+      "prop_motion": "notification slides/fades in on lock screen",
+      "camera_motion": "locked_off then jump push-in",
+      "camera_motion_intensity": "subtle base + one hard zoom step",
+      "camera_effect_local": "jump-cut push-in (instant tighter framing at ~49.95s)",
+      "motion_blur": "minimal",
+      "intra_cut_rhythm": "steady",
+      "transition_in": "hard cut from weekly report (48.55s)",
+      "transition_out": "hard cut to live-action presenter outro (53.25s)",
+      "vfx_in_shot": [
+        "ui_motion (push notification)",
+        "jump-cut emphasis"
+      ],
+      "vfx_intensity_local": "moderate",
+      "fact_check_flag": "none",
+      "notes": "Two framings combined as one shot: wide lock screen (1456-1496) then an instant zoom-in (1498-1595) on the notification — a single-frame diff spike of 35.3 at frame 1497 confirms a hard jump-in, no dissolve. This is the wow/emphasis beat of the demo.",
+      "visible_elements": {
+        "foreground": [
+          "held iPhone showing blue lock screen with a push notification card",
+          "hand"
+        ],
+        "midground": [
+          "fingers gripping phone"
+        ],
+        "background": [
+          "warm blurred office bokeh"
+        ],
+        "lighting_env": [
+          "soft ambient office light",
+          "blue screen glow"
+        ],
+        "atmosphere": [
+          "soft warm bokeh",
+          "cool screen cast on hand"
+        ]
+      },
+      "texture": {
+        "primary_subject": "glass_clear",
+        "secondary_objects": [
+          "skin_natural"
+        ],
+        "background_surface": "wood_polished",
+        "atmospheric": [
+          "atmospheric_haze"
+        ]
+      },
+      "lighting": {
+        "key_direction": "front",
+        "key_hardness": "soft",
+        "key_color_temp": "cool_7000K",
+        "fill_strength": "moderate",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": false,
+        "practical_lights": [
+          "사무실 조명",
+          "블루 화면 발광"
+        ],
+        "shadow_presence": "soft",
+        "overall_contrast": "mid_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#90a8c0",
+          "#78a8c0",
+          "#483030",
+          "#483018",
+          "#a8c0c0"
+        ],
+        "palette_role": {
+          "#90a8c0": "lockscreen_blue_dominant",
+          "#78a8c0": "deeper_blue_gradient",
+          "#483030": "dark_warm_anchor",
+          "#483018": "desk_dark_warm",
+          "#a8c0c0": "cool_highlight"
+        },
+        "color_relationship": "analogous",
+        "temperature_balance": "cool_dominant",
+        "saturation_strategy": "muted",
+        "contrast_type": "temperature_split",
+        "accent_color": "#3182f6",
+        "accent_ratio": "5_percent",
+        "brand_color_match": [
+          "lock-screen blue wallpaper sits near Toss blue family; caption keywords #3182f6"
+        ]
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "Vertical 9:16 commercial macro still of a human hand holding a real black smartphone face-on against a warm blurred office background, the phone showing its lock screen with a cool blue gradient wallpaper. Centered near the top, the lock screen reads a date '1월 12일 금요일' above a large light clock '4:00'; below the center, a push-notification banner card has slid in: a small app icon at left, a bold title '도전! 소비 줄이기 12일차' with a timestamp '지금' at the right, and two lines of body text '과연.. 김동현님이 오늘 쓴 돈은 총 얼마일까요?'. Near the bottom edge sit the iOS flashlight and camera lock-screen buttons and a faint '위로 쓸어올려서 열기' hint with the home indicator. The screen palette is cool blue and white; the notification card is a soft translucent light grey. Foreground and props: the held glossy phone and gripping fingers, the cool screen light casting a slight blue tint on the skin. Background: warm out-of-focus office bokeh, no readable detail, creating a warm-cool split against the blue screen. Lighting setup: soft frontal ambient office light plus a cool ~7000K screen self-illumination, moderate fill (2:1), soft hand shadows, mid-key with the bright blue screen as the luminance and color peak. Lens, framing and angle: eye-level, frontal, a medium-close framing where the vertical phone dominates the frame, shallow depth. Composition and grid: phone centered; fixed lower-center torn-paper caption lozenge with a circled blue '6' badge to its left, the recorded on-screen copy reading '매일 알림을 통해 내 하루 소비를' with '매일 알림' emphasized in Toss blue (captions added in post, preserved for fidelity). Color palette and strategy: a cool lock-screen blue dominant near #90a8c0 and #78a8c0 with a cool highlight near #a8c0c0, set against warm dark anchors near #483030 and #483018 from the hand and out-of-focus desk, a muted analogous-blue scheme built on a deliberate warm-cool temperature split, with a small Toss-blue accent near #3182f6 in the caption keywords (about five percent of frame). Texture and surfaces: clear glossy phone glass with faint glare, natural skin with a cool cast, soft blurred warm office behind. Atmosphere: calm, anticipatory, a 'daily nudge' mood, soft warm bokeh, no grain. Additional craft detail: the lock-screen wallpaper is a smooth blue-to-pale gradient with a soft diagonal light sweep, the date and clock set in the thin/light system weight; the notification banner is a frosted translucent light-grey card with rounded corners and a subtle soft shadow, its small rounded app icon at the upper-left, the bold title and a right-aligned '지금' timestamp on the first line and the two-line body beneath, the whole card sitting just below center. The bottom edge carries the two circular lock-screen utility buttons (flashlight, camera) as semi-transparent discs and a faint home indicator. The glass shows a cool elongated highlight from the screen plus a faint window reflection, and a believable cool-blue bounce light on the fingertips where they meet the bezel, contrasting the warm office bokeh behind for a clear warm-cool split. Hand anatomy is natural — a steady two-relationship presenting grip holding the phone face-on, knuckles with a faint cool specular sheen, no extra or distorted digits. The lower-center torn-paper caption lozenge has frayed paper edges, a subtle drop shadow and the solid blue circled '6' badge with a white numeral, its keyword '매일 알림' in Toss blue. Post and signature look: clean digital 4K, natural grade with a cool screen cast and a touch of edge chromatic fringing on the bright blue UI, authentic real-device handheld capture, no sterile screen-record flatness. Style anchor: Korean fintech feature-tutorial vertical short-form, lock-screen push-notification beat. Korean-market UI, all text Korean.",
+        "t2i_negative": "second phone, extra fingers, distorted hand, real brand trademark marks, watermark, blown-out blue screen, heavy grain, unreadable notification text, English notification text, oversaturated colors",
+        "i2v_motion": "Hold the phone face-on nearly still with light hand drift; a push-notification banner slides and fades in from the top of the lock screen reading '도전! 소비 줄이기 12일차 / 과연.. 김동현님이 오늘 쓴 돈은 총 얼마일까요?'; then, for emphasis, an instant hard jump-in (a cut to a tighter framing, not a smooth zoom) enlarges the notification so its text and the '위로 쓸어올려서 열기' hint fill more of the frame; minimal subject motion; about 4.7s total, steady rhythm; lower-center caption swaps in sync from '매일 알림을 통해 내 하루 소비를' to '점검할 수 있어요', circled blue '6' badge persisting; ends on a hard cut to the live-action presenter outro.",
+        "i2v_params": {
+          "clip_duration_sec": 4.7,
+          "camera_move": "jump_push_in",
+          "subject_motion_level": "micro",
+          "signature_effect": "none",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; notification copy and captions preserved verbatim; generic lock-screen UI, no logo mark; hand generic"
+      }
+    },
+    {
+      "index": 10,
+      "duration": 5.61,
+      "framing": "MCU",
+      "function": "outro / series sign-off",
+      "color_mood": "bright warm office, airy daylight",
+      "subject_action": "The live-action presenter is seated at the dark desk, smiling and looking down at her phone in both hands, a laptop at left and bright window-lit office behind; she pulls back slightly. The marker-highlighted sign-off caption '토스의 숨은 꿀기능 다시 찾아올게요!' pops in.",
+      "subject_identity": "presenter_main",
+      "subject_relationship_to_protagonist": "main_character",
+      "mid_frame_path": "ADV-2026-025_frames/cut10_mid.png",
+      "layout_grid": "rule_of_thirds",
+      "subject_position": "right_third",
+      "subject_typo_layout": "presenter on right, marker-highlighted sign-off caption box overlapping center-left",
+      "typo_motion": "Two-line blue marker-box caption pops/slides in with a hand-drawn yellow marker loop drawing around '꿀기능'.",
+      "camera_angle": "eye_level",
+      "camera_facing": "three_quarter",
+      "shot_scope": "waist_up",
+      "gaze": "at_product",
+      "eye_contact_effect": "warm, satisfied — looking at her phone communicates genuine use/endorsement",
+      "props": [
+        "black smartphone",
+        "silver laptop",
+        "desk",
+        "office chair"
+      ],
+      "prop_semantics": "Phone in both hands closes the loop (she uses the feature herself); office continuity ties back to the intro.",
+      "color_palette": [
+        "#c0d8c0",
+        "#a8c0a8",
+        "#90a890",
+        "#181818",
+        "#789078"
+      ],
+      "color_intent": "Brighter, airier daylight grade than the intro signals a positive resolution; sage green continuity; blue/yellow caption pop for brand.",
+      "pose_description": "Relaxed seated lean toward her phone with a genuine smile; reads as a friendly colleague wrapping up a helpful tip.",
+      "subject_motion": "micro (slight lean-back, smiling, hands on phone)",
+      "prop_motion": "phone held/handled in both hands",
+      "camera_motion": "handheld_drift",
+      "camera_motion_intensity": "subtle",
+      "camera_effect_local": "none",
+      "motion_blur": "minimal",
+      "intra_cut_rhythm": "steady",
+      "transition_in": "hard cut from lock-screen shot (53.25s)",
+      "transition_out": "cut to end (~58.86s)",
+      "vfx_in_shot": [
+        "caption pop-in",
+        "marker-loop draw-on"
+      ],
+      "vfx_intensity_local": "subtle",
+      "fact_check_flag": "none",
+      "notes": "Outro VO: '토스의 숨은 꿀팁, 다음엔 더 다양한 꿀팁으로 돌아올게요.' Caption uses 꿀기능 vs VO 꿀팁. Brighter daylight outro vs handheld intro.",
+      "visible_elements": {
+        "foreground": [
+          "presenter (sage-green knit) holding a black phone in both hands",
+          "dark desk edge"
+        ],
+        "midground": [
+          "silver laptop at left",
+          "office chair",
+          "desk surface"
+        ],
+        "background": [
+          "bright window wall with daylight",
+          "blurred open office",
+          "a green plant"
+        ],
+        "lighting_env": [
+          "large window daylight",
+          "overhead office light"
+        ],
+        "atmosphere": [
+          "airy bright daylight",
+          "soft background bokeh",
+          "window glow"
+        ]
+      },
+      "texture": {
+        "primary_subject": "fabric_cotton",
+        "secondary_objects": [
+          "plastic_glossy",
+          "metal",
+          "wood_polished"
+        ],
+        "background_surface": "glass_clear",
+        "atmospheric": [
+          "backlight_glow",
+          "atmospheric_haze"
+        ]
+      },
+      "lighting": {
+        "key_direction": "side_left",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "moderate",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": true,
+        "practical_lights": [
+          "대형 창문 자연광",
+          "천장 조명"
+        ],
+        "shadow_presence": "soft",
+        "overall_contrast": "hi_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#c0d8c0",
+          "#a8c0a8",
+          "#90a890",
+          "#181818",
+          "#789078"
+        ],
+        "palette_role": {
+          "#c0d8c0": "bright_daylight_green_highlight",
+          "#a8c0a8": "soft_green_midtone",
+          "#90a890": "office_green",
+          "#181818": "subject_dark_anchor",
+          "#789078": "muted_green"
+        },
+        "color_relationship": "analogous",
+        "temperature_balance": "balanced",
+        "saturation_strategy": "muted",
+        "contrast_type": "luminance_low",
+        "accent_color": "#3182f6",
+        "accent_ratio": "15_percent",
+        "brand_color_match": [
+          "Toss blue #3182f6 in the marker caption box; yellow highlight loop"
+        ]
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "Vertical 9:16 documentary-style commercial still of the same friendly Korean woman in her mid-twenties, now seated at a dark desk in a bright modern office, shown from the waist up at a three-quarter angle, smiling warmly as she looks down at a black smartphone held in both hands. She has long dark brown hair worn down, natural light makeup, and wears the same relaxed sage-green ribbed knit sweater over dark jeans, no visible logos. The location is a real startup office bathed in soft daylight: a large bright window wall behind her blows out to airy white, a silver laptop sits open at the left edge of the dark desk, an office chair and a leafy green plant are softly out of focus in the background, all in a shallow depth of field so she stays sharp while the room melts into a bright bokeh. Foreground and props: the black phone cradled in both hands, the dark desk surface across the lower frame, the laptop edge at left. Lighting setup: soft daylight key from the left/side window at roughly neutral 5500K, moderate fill (about 2:1), a gentle rim from the bright background separating her hair, soft shadows, and an overall hi-key, airy, optimistic contrast that feels brighter than the opening shot. Lens, framing and angle: eye-level, three-quarter facing, medium close-up at about a 50mm-equivalent look with mild handheld energy, vertical composition. Composition and grid: rule-of-thirds with the subject on the right third and her gaze/phone leading toward center-left, generous bright negative space; a two-line Korean sign-off caption sits over the center-left as a hand-painted blue marker box, the recorded on-screen copy reading line one '토스의 숨은 꿀기능' with the word '꿀기능' encircled by a hand-drawn yellow marker loop, and line two '다시 찾아올게요!' (captions normally added in post, preserved here for fidelity, overlapping but not hiding her face). Color palette and strategy: a bright, slightly desaturated airy palette of daylight greens near #c0d8c0, #a8c0a8 and #90a890 with a muted green #789078 and a dark subject anchor near #181818, an analogous green scheme lifted by a Toss-blue accent near #3182f6 in the caption box plus a yellow highlight loop (about fifteen percent of frame). Texture and surfaces: soft cotton/wool knit with visible rib, glossy phone glass, brushed metal laptop, polished dark desk, clear bright window glass behind. Atmosphere: airy, warm, satisfied, soft background window glow and gentle haze, no grain beyond natural softness. Additional craft detail: the window backlight throws a gentle halation around her hair and the edge of her shoulder, the bright background gradient falling off smoothly into soft white with a couple of out-of-focus highlight discs from glass and a distant lamp; her sage-green knit shows fine rib texture and a soft sheen on the raised stitches, the held phone glass catches a small daylight highlight, and her skin carries a natural, lightly retouched finish with a believable warm flush from the daylight. The desk surface reflects a faint soft sheen of the window. The blue marker-box caption has slightly irregular hand-painted edges and a soft drop shadow so it floats above the footage, the yellow highlight loop around '꿀기능' drawn with a loose marker stroke. Post and signature look: clean digital 4K commercial grade, bright natural daylight grade, handheld realism, gentle highlight rolloff and a faint natural softness rather than added grain, the graphic caption layer the only non-photographic element. Style anchor: Korean fintech brand social-tutorial outro, authentic in-house-employee documentary tone, vertical short-form. The woman is Korean, the setting is a Korean tech company office.",
+        "t2i_negative": "second person in frame, extra hands, distorted fingers, real corporate logos or trademark marks, watermark, harsh deep shadows, low-key dramatic lighting, heavy film grain, deformed facial features, oversaturated colors, studio seamless backdrop, dark dim room",
+        "i2v_motion": "The seated presenter looks down at the phone in both hands with a warm satisfied smile, then leans back slightly and lifts her gaze a touch as she signs off; handheld camera drifts gently, keeping her on the right third with a bright shallow-depth background; lighting and color steady; about 5.6s at a steady documentary rhythm; the two-line blue marker-box sign-off caption pops and slides into the center-left with a hand-drawn yellow marker loop animating around '꿀기능'; ends on a cut to black at the end of the spot.",
+        "i2v_params": {
+          "clip_duration_sec": 5.61,
+          "camera_move": "handheld_drift",
+          "subject_motion_level": "micro",
+          "signature_effect": "none",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen copy preserved verbatim (per copywriting); presenter rendered as a generic Korean woman, no specific-person face-likeness or logo mark"
+      }
+    }
+  ],
+  "search_keywords": {
+    "industry": [
+      "finance",
+      "it_saas"
+    ],
+    "product_category": [
+      "mobile_banking",
+      "expense_management",
+      "personal_finance_app"
+    ],
+    "target_demo": [
+      "20s",
+      "late20s_early30s",
+      "office_worker",
+      "mz"
+    ],
+    "media_format": [
+      "shortform_vertical_30s_plus"
+    ],
+    "tone": [
+      "friendly",
+      "clean_minimal",
+      "calm_refined"
+    ],
+    "pacing": [
+      "steady"
+    ],
+    "technique": [
+      "screen_recording_demo",
+      "presenter_walk_intro",
+      "ui_motion",
+      "kinetic_typo",
+      "step_by_step_caption",
+      "real_device_handheld_demo",
+      "mascot_character",
+      "jump_cut_emphasis"
+    ],
+    "vfx_keywords": [
+      "ui_motion",
+      "kinetic_typo",
+      "color_pop",
+      "torn_paper_caption",
+      "step_number_badge"
+    ],
+    "copy_strategy_keywords": [
+      "feature_benefit_direct",
+      "step_by_step_tutorial",
+      "voice_caption_sync",
+      "question_hook",
+      "number_emphasis",
+      "series_signoff"
+    ],
+    "concept_derivation_pattern": [
+      "employee_guided_feature_tutorial",
+      "hidden_tip_series"
+    ]
+  },
+  "inferred_creative_thinking": {
+    "insight": "People want to curb overspending but find budgeting apps abstract; a trusted insider walking you through a concrete, gamified in-app flow lowers the barrier to actually starting.",
+    "persona": "A 20s-30s Toss user, early in their career, vaguely anxious about where their money goes each month and open to a low-effort tool that nudges them.",
+    "moment": "The everyday 'where did my money go this month?' moment, and the small daily push-notification check-in that builds a habit.",
+    "product_role": "Hero and guide — the 소비 줄이기 feature is the protagonist's coach (literally a 소비요정 mascot) that turns spending data into goals, daily allowances and gentle reminders.",
+    "punchline": "A hidden Toss feature can quietly fix your spending habit, set a goal, and nudge you daily — and the analyst who built it will show you exactly how.",
+    "differentiator": "Authority + intimacy: a real Toss Data Analyst demos it on a real phone, not a slick spokesmodel; step-numbered captions perfectly sync to her voice so it doubles as a follow-along guide.",
+    "brand_fit_one_liner": "Reinforces Toss as a friendly, transparent super-app full of genuinely useful 'hidden' features explained in plain language.",
+    "confidence": "inferred"
+  },
+  "inferred_brief": "Make episode 9 of the '토스 숨은 서비스' vertical series introducing the hidden '소비 줄이기' spending-goal feature, with an in-house data analyst guiding viewers step by step on a real phone so users feel they can start managing their spending today.",
+  "cross_pollination_tags": {
+    "adjacent": [
+      "insurance",
+      "card",
+      "subscription_membership",
+      "it_saas"
+    ],
+    "distant": [
+      "healthcare_pharma",
+      "education",
+      "automotive"
+    ],
+    "contrast": [
+      "luxury",
+      "beverage_alcohol",
+      "gaming_hardware"
+    ]
+  },
+  "concept_derivation_pattern": "employee_guided_feature_tutorial",
+  "confidence": "inferred",
+  "analyst_notes": "shot_count_corrected=10 vs detector shot_count=7. Reconciliation: the long middle (4.84-48.55s, ~43.7s) is ONE continuous physical-phone-in-hand take filmed live (the iPhone status-bar clock ticks 3:57->4:00 in real time and the hand/phone position is continuous across every 'boundary'); scenedetect's 16.45/19.39 and metrics' 37.24 are on-screen app-content changes (screen transitions, a white loading frame, a keyboard appearing), NOT camera cuts. For dataset usefulness I split this continuous take into 7 distinct screen/step segments (shots 2-8) aligned to the step-numbered captions; these are screen-state segments, not film cuts. Genuine hard cuts: 0->4.84 (intro->demo), 48.55 (demo->lock screen), 53.25 (lock screen->outro). The 49.95s spike (frame 1497, diff 35.3, neighbors both lock-screen) is an instant jump-in zoom on the notification within shot 9 (folded into shot 9). No wiggle_3d/lenticular effect (wiggle metric is ordinary handheld micro-motion). The app is a physical phone filmed directly, not a clean screen recording. Whisper errors corrected against on-screen captions (소비주리기->소비 줄이기, 눈썹 버튼->분석 버튼, 내일 알림->매일 알림, 전검->점검, 스무글 팁->숨은 꿀팁). On-screen UI uses generic 토스-prefixed dummy merchant data. People described generically; brand/feature names kept only in source_ref and verbatim captions/copy.",
+  "verification": {
+    "frames_reviewed": "sampled ~45/1764 native-res frames purposefully: all 7 scenedetect boundaries +/-2 and the 5 metrics cut_candidates +/-2, every distinct on-screen caption/step change and screen transition (diff>=3.5 / text_delta spikes), the presenter intro and outro, and a cadence across the continuous demo to confirm it is one take (status-bar clock ticking) and to read each app screen and verbatim Korean caption; cross-checked 100% per-frame metrics.json for diff/text_delta/shift to locate every UI/caption change and to verify the 49.95s jump-in and the absence of wiggle.",
+    "audio_analyzed": true,
+    "abstraction_checked": true
+  }
+}

@@ -1,0 +1,1516 @@
+{
+  "id": "ADV-2026-029",
+  "source_ref": {
+    "platform": "broadcast_online",
+    "title_or_campaign": "토스증권 — 주식 커뮤니티 기능 소개 광고",
+    "brand": "토스증권 (Toss Securities)",
+    "product": "토스증권 주식투자 앱의 주식 커뮤니티 기능 (Toss Securities stock-investing app — stock community feature)",
+    "model": null,
+    "year": null,
+    "production_note": "40s music-only kinetic-typography product film for Toss Securities' stock community feature. No live action, no narration. Pure motion-graphics on alternating white and black backgrounds with brand blue accent (~#3182F6). Opens with a stacked speech-bubble montage dramatizing the pain point of fragmented Korean stock communities (각 말풍선이 아래에서 위로 쌓임), pivots to a black kinetic-type question card, then enumerates four named features in white title cards — 인기글 알림, 투표 기능, 주주배지, MAU 120만 — each animating a simplified 3D phone mockup / UI vignette, and closes with two black brand-statement cards and a clean white toss securities logo endcard. On-screen copy builds: 주식 초보인데 정보 좀 주실 분? / 잘 산 건지 궁금한데 물어볼 곳이 없네.. / 다들 진짜 주주는 맞나? 마음 편히 소통하고 싶다... / 주식 커뮤니티, 종토방 말고는 없는 거야? // 우리에게 필요한 커뮤니티는? // 주식 초보도 쉽게 의견을 나눌 수 있고 신뢰할 만한 새로운 주식 커뮤니티 // 토스증권에 있습니다 // 인기글 알림 — 관심 있는 종목에 대한 그날의 정보를 알려드려요 // 투표 기능 — 많은 사람들의 의견을 한눈에 볼 수 있어요 // 주주배지 — 주주가 쓴 글이 75%! 믿고 볼 수 있어요 // MAU 120만 — 요즘 눈에 띄게 활발한 주식 커뮤니티 // 주식 커뮤니티를 보는 새로운 시선 / 주식 커뮤니티 누구나 누릴 수 있게. A persistent legal disclaimer ticker scrolls along the bottom edge through the feature section.",
+    "url": null
+  },
+  "category_primary": "finance.securities",
+  "category_tags": [
+    "securities",
+    "stock_trading_app",
+    "investing_community",
+    "fintech",
+    "feature_explainer"
+  ],
+  "mood": [
+    "clean",
+    "modern",
+    "trustworthy",
+    "energetic",
+    "friendly",
+    "confident"
+  ],
+  "target_demo": "Korean retail investors, especially beginner and casual stock investors in their 20s-40s seeking a trustworthy place to discuss stocks",
+  "total_duration": 40.101,
+  "shot_count": 10,
+  "shot_count_corrected": 10,
+  "fps": 30.0,
+  "aspect_ratio": "16:9",
+  "hook_position": 0.0,
+  "cta_position": 37.433,
+  "narrative_arc": "problem_montage → question_pivot → solution_thesis → feature_1 → feature_2 → feature_3 → feature_4 → brand_statement → logo_endcard",
+  "narrative_structure": "problem_solution_then_feature_list",
+  "pacing_curve": "steady_build_then_calm_resolve",
+  "music_tempo_curve": "light_upbeat_steady",
+  "wow_cut_index": 6,
+  "creative_device": [
+    "kinetic_typography",
+    "pain_point_chat_montage",
+    "feature_card_enumeration",
+    "ui_mockup_vignette",
+    "brand_color_keyword_highlight",
+    "black_white_card_alternation"
+  ],
+  "production_signature": {
+    "capture_style": "motion_graphics_2d_3d_hybrid",
+    "camera_signature": [
+      "locked_frame_no_camera",
+      "ui_element_scale_and_slide",
+      "type_fade_and_rise",
+      "simplified_3d_phone_render"
+    ],
+    "signature_note": "No physical camera; everything is composited motion graphics. Signature look is the Toss design language: ultra-clean white or pure-black canvas, generous negative space, bold rounded Korean sans-serif, a single brand-blue accent used to spotlight the operative keyword in each line, and friendly simplified 3D objects (phone, ballot box) rendered with soft studio shadows. Transitions between feature cards are soft text fades/slides rather than hard cuts, so the white-background feature section reads as one continuous canvas even as content swaps. Hard cuts occur only at the white↔black background changes.",
+    "color_grade": "flat_high_key_clean_with_blue_accent",
+    "texture_fx": "soft_drop_shadows, subtle_3d_specular, flat_vector_fills, emoji_glyph_iconography"
+  },
+  "global_layout": {
+    "grid_system": "centered_axis_with_title_top_subhead_bottom",
+    "subject_placement_dominant": "center",
+    "subject_typo_relation": "typography_is_the_subject",
+    "negative_space_use": "very_high_generous_white_or_black_field",
+    "layout_note": "Two recurring layouts: (1) full-screen centered kinetic type on black for thesis/question/brand cards; (2) white feature card with a blue feature-name title near the top, a simplified 3D phone/UI vignette in the center, and a two-line black subhead near the bottom. A small grey legal-disclaimer ticker runs along the very bottom edge through the feature section. Brand blue (#3182F6) consistently highlights the single key noun/verb of each copy line."
+  },
+  "recurring_motifs": [
+    "speech_bubble_cards",
+    "blue_keyword_highlight",
+    "simplified_3d_phone_mockup",
+    "stock_community_post_list",
+    "emoji_glyphs",
+    "bottom_disclaimer_ticker",
+    "toss_securities_logo"
+  ],
+  "copywriting": {
+    "tagline_text": "주식 커뮤니티 누구나 누릴 수 있게",
+    "tagline_structure": "topic_noun + universal_access_declaration",
+    "cta_text": "토스증권",
+    "copy_tone": [
+      "empathetic",
+      "reassuring",
+      "plain_spoken",
+      "confident",
+      "benefit_led"
+    ],
+    "copy_strategy": "open_with_relatable_pain_points_voiced_as_community_posts, pivot_to_a_question, answer_with_a_branded_solution_thesis, then_enumerate_named_features_each_with_a_one_line_benefit, close_with_an_inclusive_brand_promise. Brand blue spotlights the operative keyword in nearly every line for scannability.",
+    "lines": [
+      {
+        "text": "주식 초보인데 정보 좀 주실 분?",
+        "time_start": 0.5,
+        "time_end": 6.0,
+        "position": "center_stacked_bubble"
+      },
+      {
+        "text": "잘 산 건지 궁금한데 물어볼 곳이 없네..",
+        "time_start": 1.6,
+        "time_end": 6.0,
+        "position": "center_stacked_bubble"
+      },
+      {
+        "text": "다들 진짜 주주는 맞나? 마음 편히 소통하고 싶다...",
+        "time_start": 3.0,
+        "time_end": 6.0,
+        "position": "center_stacked_bubble"
+      },
+      {
+        "text": "주식 커뮤니티, 종토방 말고는 없는 거야?",
+        "time_start": 4.3,
+        "time_end": 8.0,
+        "position": "center_stacked_bubble"
+      },
+      {
+        "text": "우리에게 필요한 커뮤니티는?",
+        "time_start": 6.0,
+        "time_end": 8.0,
+        "position": "center"
+      },
+      {
+        "text": "주식 초보도 쉽게 의견을 나눌 수 있고 신뢰할 만한 새로운 주식 커뮤니티",
+        "time_start": 8.0,
+        "time_end": 12.533,
+        "position": "center"
+      },
+      {
+        "text": "토스증권에 있습니다",
+        "time_start": 12.533,
+        "time_end": 13.633,
+        "position": "center"
+      },
+      {
+        "text": "인기글 알림 — 관심 있는 종목에 대한 그날의 정보를 알려드려요",
+        "time_start": 13.633,
+        "time_end": 18.5,
+        "position": "title_top_subhead_bottom"
+      },
+      {
+        "text": "투표 기능 — 많은 사람들의 의견을 한눈에 볼 수 있어요",
+        "time_start": 18.5,
+        "time_end": 24.4,
+        "position": "title_top_subhead_bottom"
+      },
+      {
+        "text": "주주배지 — 주주가 쓴 글이 75%! 믿고 볼 수 있어요 (*2023년 기준)",
+        "time_start": 24.4,
+        "time_end": 30.133,
+        "position": "title_top_subhead_bottom"
+      },
+      {
+        "text": "MAU 120만 (*2023년 12월 말 기준) — 요즘 눈에 띄게 활발한 주식 커뮤니티",
+        "time_start": 30.133,
+        "time_end": 33.633,
+        "position": "title_top_subhead_bottom"
+      },
+      {
+        "text": "주식 커뮤니티를 보는 새로운 시선",
+        "time_start": 33.633,
+        "time_end": 36.0,
+        "position": "center"
+      },
+      {
+        "text": "주식 커뮤니티 누구나 누릴 수 있게",
+        "time_start": 36.0,
+        "time_end": 37.433,
+        "position": "center"
+      },
+      {
+        "text": "toss securities (logo)",
+        "time_start": 37.433,
+        "time_end": 40.101,
+        "position": "center"
+      }
+    ],
+    "captions": [
+      {
+        "text": "주식 초보인데 정보 좀 주실 분?",
+        "source": "on_screen"
+      },
+      {
+        "text": "잘 산 건지 궁금한데 물어볼 곳이 없네..",
+        "source": "on_screen"
+      },
+      {
+        "text": "다들 진짜 주주는 맞나? 마음 편히 소통하고 싶다...",
+        "source": "on_screen"
+      },
+      {
+        "text": "주식 커뮤니티, 종토방 말고는 없는 거야?",
+        "source": "on_screen"
+      },
+      {
+        "text": "우리에게 필요한 커뮤니티는?",
+        "source": "on_screen"
+      },
+      {
+        "text": "주식 초보도 쉽게 의견을 나눌 수 있고 신뢰할 만한 새로운 주식 커뮤니티",
+        "source": "on_screen"
+      },
+      {
+        "text": "토스증권에 있습니다",
+        "source": "on_screen"
+      },
+      {
+        "text": "인기글 알림",
+        "source": "on_screen"
+      },
+      {
+        "text": "관심 있는 종목에 대한 그날의 정보를 알려드려요",
+        "source": "on_screen"
+      },
+      {
+        "text": "투표 기능",
+        "source": "on_screen"
+      },
+      {
+        "text": "많은 사람들의 의견을 한눈에 볼 수 있어요",
+        "source": "on_screen"
+      },
+      {
+        "text": "주주배지",
+        "source": "on_screen"
+      },
+      {
+        "text": "주주가 쓴 글이 75%! 믿고 볼 수 있어요",
+        "source": "on_screen"
+      },
+      {
+        "text": "MAU 120만",
+        "source": "on_screen"
+      },
+      {
+        "text": "요즘 눈에 띄게 활발한 주식 커뮤니티",
+        "source": "on_screen"
+      },
+      {
+        "text": "주식 커뮤니티를 보는 새로운 시선",
+        "source": "on_screen"
+      },
+      {
+        "text": "주식 커뮤니티 누구나 누릴 수 있게",
+        "source": "on_screen"
+      }
+    ],
+    "narration_handling": "none"
+  },
+  "typography": {
+    "primary_font_class": "korean_sans_serif_bold_rounded",
+    "animation_style": [
+      "fade_in",
+      "rise_and_settle",
+      "keyword_color_pop",
+      "line_by_line_build"
+    ],
+    "subtitle_position_dominant": "center",
+    "color_strategy": "black_or_white_text_with_single_brand_blue_keyword_accent",
+    "typo_motion_dominant": "kinetic_typography_build"
+  },
+  "vfx": {
+    "primary_effects": [
+      "kinetic_typography",
+      "ui_mockup_animation",
+      "simplified_3d_render",
+      "soft_drop_shadow",
+      "scrolling_disclaimer_ticker"
+    ],
+    "effect_intensity": "moderate",
+    "transition_style_dominant": "hard_cut_on_bg_change_soft_fade_within_feature_section",
+    "vfx_event_count": 14
+  },
+  "audio": {
+    "has_audio": true,
+    "language": "none",
+    "speech_coverage": 0.0,
+    "bgm_likely": true,
+    "narration_lines": [],
+    "voice_vs_caption": "no_voice_caption_only",
+    "transcribed_by": "faster_whisper",
+    "audio_note": "Music-only spot. faster_whisper returned zero speech segments (speech_coverage 0.0) and visual inspection confirms there is no spoken narration — every message is delivered through on-screen kinetic typography only. Soundtrack is a light, upbeat brand BGM bed with likely subtle UI/whoosh SFX accenting the type and mockup animations. All copy lines are captions/on-screen text, not voice-over."
+  },
+  "frames_dir": "ADV-2026-029_frames",
+  "contact_sheet_path": "ADV-2026-029_frames/contact_sheet.png",
+  "shots": [
+    {
+      "index": 1,
+      "duration": 6.0,
+      "framing": "full_frame_graphic",
+      "function": "problem_setup_hook",
+      "subject_action": "four_stock_community_speech_bubbles_stack_in_one_by_one_from_bottom_on_white",
+      "layout_grid": "vertical_stack_center_axis",
+      "subject_position": "center",
+      "typo_motion": "bubbles_rise_and_stack",
+      "camera_angle": "flat_front_graphic",
+      "camera_facing": "screen_on",
+      "shot_scope": "full_screen_motion_graphic",
+      "gaze": "none",
+      "props": [
+        "rounded_speech_bubble_cards",
+        "username_labels",
+        "timestamp_labels",
+        "emoji_avatars"
+      ],
+      "color_palette": [
+        "#FFFFFF",
+        "#F4F5F6",
+        "#191F28",
+        "#F4A23C",
+        "#8B95A1"
+      ],
+      "color_intent": "clean_white_field_with_neutral_grey_bubbles_and_warm_emoji_accents",
+      "pose_description": "On a pure white canvas, light grey rounded speech-bubble cards build one at a time from the bottom of the frame upward into a vertical stack. Each bubble carries a small username (Forest, Stelil, Richman, Melooo), a relative timestamp (5시간 전, 3시간 전, 1시간 전, 35분 전), a colorful emoji avatar, and a two-line Korean message in bold dark sans-serif. By the end up to four bubbles are stacked center-frame.",
+      "subject_motion": "sequential_bubble_entrance_upward",
+      "camera_motion": "none",
+      "camera_effect_local": "soft_shadow_under_cards",
+      "intra_cut_rhythm": "medium_metronomic",
+      "transition_in": "fade_from_white",
+      "transition_out": "hard_cut",
+      "mid_frame_path": "ADV-2026-029_frames/cut01_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "speech_bubble_cards",
+          "korean_message_text",
+          "emoji_avatars"
+        ],
+        "midground": [
+          "stacking_bubble_column"
+        ],
+        "background": [
+          "pure_white_field"
+        ],
+        "lighting_env": [
+          "flat_high_key_graphic_light"
+        ],
+        "atmosphere": [
+          "relatable_frustration",
+          "everyday_investor_voice",
+          "clean_minimal"
+        ]
+      },
+      "texture": {
+        "primary_subject": "flat_rounded_card_surface",
+        "secondary_objects": [
+          "soft_shadow",
+          "emoji_glyph"
+        ],
+        "background_surface": "matte_white",
+        "atmospheric": [
+          "no_grain_clean_vector"
+        ]
+      },
+      "lighting": {
+        "key_direction": "flat_frontal_even",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_white",
+        "fill_strength": "high",
+        "key_to_fill_ratio": "1:1",
+        "rim_light": "none",
+        "practical_lights": [],
+        "shadow_presence": "subtle_card_drop_shadow",
+        "overall_contrast": "low"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#FFFFFF",
+          "#F4F5F6",
+          "#191F28",
+          "#F4A23C",
+          "#8B95A1"
+        ],
+        "palette_role": {
+          "#FFFFFF": "background_field",
+          "#F4F5F6": "bubble_card_fill",
+          "#191F28": "message_text",
+          "#F4A23C": "emoji_warm_accent",
+          "#8B95A1": "timestamp_grey"
+        },
+        "color_relationship": "neutral_monochrome_with_warm_emoji_pops",
+        "temperature_balance": "neutral",
+        "saturation_strategy": "low_saturation_with_isolated_emoji_color",
+        "contrast_type": "text_on_light_card",
+        "accent_color": "#F4A23C",
+        "accent_ratio": 0.05
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A clean minimalist motion-graphics still on a pure white seamless background, rendered in the friendly flat design language of a modern Korean fintech app. Centered in the lower-middle of the 16:9 frame is a vertical stack of two to four rounded-rectangle speech-bubble cards, each in a very pale neutral grey fill with soft rounded corners (approximately 24px radius) and a gentle diffuse drop shadow that lifts them slightly off the white field. Each card has a small downward speech-tail at its lower-left corner. Inside each card, the top row shows a small username in a medium-weight dark grey Korean sans-serif (for example Forest, Stelil, Richman, Melooo) followed by a lighter grey relative timestamp (for example 5시간 전, 3시간 전, 1시간 전, 35분 전). To the left of the message sits a colorful round emoji avatar — a person-raising-hand emoji, a leaf emoji, a pair of eyes emoji, a fairy emoji — adding small warm pops of orange, green and blue to the otherwise neutral palette. Below the header, each card carries a two-line message in bold near-black Korean sans-serif: the first card reads 주식 초보인데 / 정보 좀 주실 분?, the second reads 잘 산 건지 궁금한데 / 물어볼 곳이 없네.., the third reads 다들 진짜 주주는 맞나? / 마음 편히 소통하고 싶다..., the fourth reads 주식 커뮤니티, / 종토방 말고는 없는 거야?. The composition uses very generous white negative space above the stack, with the cards occupying roughly the bottom 55 percent of the frame, conveying that more messages keep arriving from below. The typography is crisp, high-legibility, and humanist with rounded terminals, characteristic of Toss-style Korean UI. Lighting is flat, even, high-key, with no gradients on the background and only the faintest soft shadow beneath each card to imply layering. The overall color grade is bright, clean, neutral, and unsaturated except for the small emoji glyphs. The mood is one of relatable everyday frustration — ordinary retail investors voicing that they have nowhere trustworthy to ask questions or discuss stocks. There are no real logos, no real photographs, and no real identifiable people; the avatars are generic system emoji and the usernames are invented handles. The aesthetic anchor is a clean 4K Korean commercial motion-graphic frame: vector-flat, app-native, friendly, premium-minimal, with perfect kerning and pixel-snapped alignment. The cards are horizontally centered on a single vertical axis and vertically distributed with consistent gaps, building a tidy column. This frame is the opening problem-statement hook of a Toss Securities stock-community feature ad, establishing the pain point that Korean stock investors lack a comfortable, credible community, expressed entirely through stacked chat-bubble copy in the brand's signature clean white-canvas style with bold Korean sans-serif and isolated emoji color accents. Korean culture context: 종토방 refers to the often-toxic legacy stock message boards, which the copy contrasts against the desire for a calmer place to talk. The render should feel like a single keyframe from a tasteful, restrained kinetic-typography sequence. To elaborate the construction for faithful reproduction: the white field should be a perfectly even paper-white with no vignette and no off-white tint, so the cards appear to float in clean studio space. Each speech-bubble card has a consistent internal padding of roughly twenty-eight pixels, a one-line header and a two-line body, and the body text uses a slightly larger weight than the header for hierarchy. The gap between stacked cards is uniform, around thirty-two pixels, and the entire column is optically centered rather than mathematically centered so it feels balanced to the eye. The emoji avatars are small, roughly forty-eight pixels in diameter, positioned to the left of the message body and vertically centered against the two text lines. The timestamps are deliberately muted grey so they recede and let the bold black messages dominate. The lowest card in the stack sits a comfortable margin above the bottom edge, leaving room for more bubbles to arrive, and the topmost card has begun to drift toward the upper-middle of the frame, implying scroll. The shadows beneath the cards are very soft, low-opacity, and offset only a few pixels downward, never harsh. There is a faint sense of depth as newer cards overlap slightly in front of older ones. The composition should read instantly as a stylized, idealized chat or community feed — warm, human, and a little anxious in content but impeccably calm in design — exactly the tension the brand wants to resolve. Every Korean character is rendered with consistent stroke contrast and the punctuation marks (the question marks and ellipses) are clearly legible, since they carry the emotional tone of each message. This is the establishing problem frame and must look effortless, premium, and unmistakably in the modern Korean fintech motion-graphics idiom.",
+        "t2i_negative": "photograph, real people, real brand logos, 3d realism, dark background, heavy gradients, clutter, neon, grunge texture, watermark",
+        "i2v_motion": "Speech-bubble cards enter one at a time, each rising up from below the bottom edge and settling into the stack with a gentle ease-out and a tiny overshoot, pushing earlier cards slightly upward to make room. Soft shadows update as cards layer. The whole column drifts upward very subtly as the fourth bubble lands. Light, friendly pacing synced to upbeat BGM; no camera move. Roughly 6 seconds, ending on a hard cut to a black kinetic-type card.",
+        "i2v_params": {
+          "clip_duration_sec": 6.0,
+          "camera_move": "locked_off",
+          "subject_motion_level": "sequential_ui_entrance",
+          "signature_effect": "card_rise_and_stack",
+          "pacing": "medium",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen Korean copy preserved verbatim; avatars generic emoji; no real identities or logos"
+      }
+    },
+    {
+      "index": 2,
+      "duration": 2.0,
+      "framing": "full_frame_graphic",
+      "function": "question_pivot",
+      "subject_action": "two_line_kinetic_question_appears_on_black_with_blue_keyword",
+      "layout_grid": "center_two_line_block",
+      "subject_position": "center",
+      "typo_motion": "fade_and_rise_keyword_color_pop",
+      "camera_angle": "flat_front_graphic",
+      "camera_facing": "screen_on",
+      "shot_scope": "full_screen_motion_graphic",
+      "gaze": "none",
+      "props": [
+        "centered_korean_headline",
+        "blue_highlight_word"
+      ],
+      "color_palette": [
+        "#000000",
+        "#FFFFFF",
+        "#3182F6",
+        "#1B1B1B",
+        "#E8EEFB"
+      ],
+      "color_intent": "dramatic_black_field_with_white_type_and_single_blue_keyword",
+      "pose_description": "Full black canvas. White bold Korean sans-serif appears in two centered lines — first 우리에게 필요한, then the second line 커뮤니티는? in which the word 커뮤니티 is colored brand blue while the question particle 는? stays white. The line reads as a rhetorical question: what kind of community do we actually need?",
+      "subject_motion": "text_fade_in_then_settle",
+      "camera_motion": "none",
+      "camera_effect_local": "none",
+      "intra_cut_rhythm": "slow",
+      "transition_in": "hard_cut",
+      "transition_out": "hard_cut",
+      "mid_frame_path": "ADV-2026-029_frames/cut02_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "white_headline_text",
+          "blue_keyword"
+        ],
+        "midground": [],
+        "background": [
+          "pure_black_field"
+        ],
+        "lighting_env": [
+          "graphic_no_light"
+        ],
+        "atmosphere": [
+          "rhetorical_question",
+          "focus",
+          "anticipation"
+        ]
+      },
+      "texture": {
+        "primary_subject": "flat_type",
+        "secondary_objects": [],
+        "background_surface": "matte_black",
+        "atmospheric": [
+          "clean_no_grain"
+        ]
+      },
+      "lighting": {
+        "key_direction": "n_a_flat_graphic",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral",
+        "fill_strength": "n_a",
+        "key_to_fill_ratio": "n_a",
+        "rim_light": "none",
+        "practical_lights": [],
+        "shadow_presence": "none",
+        "overall_contrast": "very_high"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#000000",
+          "#FFFFFF",
+          "#3182F6",
+          "#1B1B1B",
+          "#E8EEFB"
+        ],
+        "palette_role": {
+          "#000000": "background_field",
+          "#FFFFFF": "primary_text",
+          "#3182F6": "brand_blue_keyword",
+          "#1B1B1B": "near_black_variation",
+          "#E8EEFB": "blue_text_halo"
+        },
+        "color_relationship": "high_contrast_monochrome_with_blue_accent",
+        "temperature_balance": "neutral_cool_accent",
+        "saturation_strategy": "monochrome_base_one_saturated_accent",
+        "contrast_type": "white_and_blue_on_black",
+        "accent_color": "#3182F6",
+        "accent_ratio": 0.15
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A bold, minimalist kinetic-typography still on a pure solid black background filling the entire 16:9 frame, in the clean modern style of a premium Korean fintech brand film. Centered horizontally and vertically is a two-line Korean headline set in a heavy rounded sans-serif typeface with excellent legibility and generous letter spacing. The first line reads 우리에게 필요한 in pure white. The second line, directly beneath it and tightly leaded, reads 커뮤니티는? — and within this line the word 커뮤니티 is rendered in a vivid brand blue (approximately #3182F6, the Toss blue), while the trailing grammatical particle 는 and the question mark ? remain white. The blue keyword pops crisply against the black field, drawing the eye to the operative concept of community. There is nothing else in the frame: no images, no logos, no decoration, only the two lines of type surrounded by vast black negative space, which gives the message gravity and focus. The type is perfectly centered on a single vertical axis, with the two lines forming a compact rhetorical question that asks, in effect, what kind of community do we actually need. The contrast between the pure white text, the saturated blue keyword, and the deep black background is extremely high, making the frame feel deliberate, confident, and a little dramatic — a pause-and-reflect beat after the noisy stack of complaint bubbles that preceded it. The rendering is flat and vector-clean with no gradients, no grain, no glow other than the inherent crispness of the glyphs, and no texture; it should look like a single keyframe pulled from a restrained, high-end motion-graphics sequence. The Korean glyphs are humanist with rounded terminals and even stroke weight, pixel-snapped and beautifully kerned. The mood is anticipatory and clarifying: the ad has just dramatized the problem and now poses the central question it intends to answer. No real people, no photographs, no third-party brand marks appear. The aesthetic anchor is a clean 4K Korean commercial title card: black canvas, bold Korean sans-serif, one brand-blue accent word, total typographic minimalism. Korean culture context: the line uses the inclusive first-person plural 우리에게 (for us), a warm rhetorical framing common in Korean advertising that invites the viewer to feel addressed personally. The keyframe should sit at the moment both lines are fully visible and settled, the blue keyword at full saturation. For faithful reproduction, note the precise construction: the black background must be a true deep black, edge to edge, with no gradient, no vignette, and no texture, so the type appears to hover in pure void. The two lines are tightly leaded, with the second line sitting close beneath the first to read as a single connected thought rather than two separate statements. The white of the non-keyword text is a clean pure white, not cream, and the blue keyword is a saturated, slightly cool brand blue with crisp anti-aliased edges and no glow halo. Letter spacing is generous but not loose, optimized for on-screen legibility at broadcast scale, and the glyph weight is heavy enough to hold presence against the vast black field without becoming clumsy. The line block is optically centered both horizontally and vertically, occupying only a small fraction of the total frame so that the surrounding black negative space does most of the dramatic work. The question mark at the end of the second line is clearly formed and sits tight against the final syllable, carrying the rhetorical weight of the line. There is a deliberate, confident stillness to the frame — this is a breath, a pivot beat, the visual equivalent of a pause before an answer. Nothing competes with the type: no decorative lines, no underlines, no icons, no progress dots, no captions, no watermark. The overall impression is of restraint and intention, a single clean question floating in black, which is exactly how premium Korean fintech brand films stage their key turning-point copy. The keyframe must look like a deliberately art-directed title card rather than a default text overlay, with perfect kerning and pixel-snapped baselines.",
+        "t2i_negative": "photograph, real people, logos, white background, gradients, glow, grain, 3d, clutter, multiple colors, watermark",
+        "i2v_motion": "Line one 우리에게 필요한 fades up and rises a few pixels into place; a beat later line two 커뮤니티는? fades in beneath it, and the keyword 커뮤니티 shifts from white to brand blue with a quick, clean color pop. Text holds, perfectly still, on black. No camera movement. About 2 seconds, ending on a hard cut to a white card.",
+        "i2v_params": {
+          "clip_duration_sec": 2.0,
+          "camera_move": "locked_off",
+          "subject_motion_level": "type_fade_and_keyword_pop",
+          "signature_effect": "blue_keyword_color_pop",
+          "pacing": "slow",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen Korean copy preserved verbatim; no real identities or logos"
+      }
+    },
+    {
+      "index": 3,
+      "duration": 4.533,
+      "framing": "full_frame_graphic",
+      "function": "solution_thesis_transition",
+      "subject_action": "complaint_bubbles_shrink_away_and_thesis_copy_builds_on_white",
+      "layout_grid": "center_multi_line_block",
+      "subject_position": "center",
+      "typo_motion": "bubbles_scale_down_then_line_by_line_text_build",
+      "camera_angle": "flat_front_graphic",
+      "camera_facing": "screen_on",
+      "shot_scope": "full_screen_motion_graphic",
+      "gaze": "none",
+      "props": [
+        "shrinking_speech_bubbles",
+        "multi_line_korean_thesis_copy",
+        "blue_highlight_words",
+        "bottom_disclaimer_ticker"
+      ],
+      "color_palette": [
+        "#FFFFFF",
+        "#191F28",
+        "#3182F6",
+        "#F4F5F6",
+        "#8B95A1"
+      ],
+      "color_intent": "return_to_clean_white_with_blue_keyword_emphasis",
+      "pose_description": "The white canvas returns; the stacked complaint bubbles shrink and recede, then the brand thesis builds in centered black Korean type with blue keyword highlights: 주식 초보도 [쉽게] / [의견]을 나눌 수 있고 / [신뢰]할 만한 / 새로운 [주식 커뮤니티]. A faint grey legal disclaimer ticker begins along the bottom edge.",
+      "subject_motion": "scale_down_then_text_assembly",
+      "camera_motion": "none",
+      "camera_effect_local": "subtle_card_shadow",
+      "intra_cut_rhythm": "medium",
+      "transition_in": "hard_cut",
+      "transition_out": "hard_cut",
+      "mid_frame_path": "ADV-2026-029_frames/cut03_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "thesis_headline_lines",
+          "blue_keywords"
+        ],
+        "midground": [
+          "shrinking_bubble_cluster"
+        ],
+        "background": [
+          "white_field",
+          "bottom_disclaimer_ticker"
+        ],
+        "lighting_env": [
+          "flat_high_key_graphic_light"
+        ],
+        "atmosphere": [
+          "reassurance",
+          "promise",
+          "clarity"
+        ]
+      },
+      "texture": {
+        "primary_subject": "flat_type",
+        "secondary_objects": [
+          "rounded_cards",
+          "soft_shadow"
+        ],
+        "background_surface": "matte_white",
+        "atmospheric": [
+          "clean_no_grain"
+        ]
+      },
+      "lighting": {
+        "key_direction": "flat_frontal_even",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_white",
+        "fill_strength": "high",
+        "key_to_fill_ratio": "1:1",
+        "rim_light": "none",
+        "practical_lights": [],
+        "shadow_presence": "subtle",
+        "overall_contrast": "low"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#FFFFFF",
+          "#191F28",
+          "#3182F6",
+          "#F4F5F6",
+          "#8B95A1"
+        ],
+        "palette_role": {
+          "#FFFFFF": "background_field",
+          "#191F28": "primary_text",
+          "#3182F6": "brand_blue_keyword",
+          "#F4F5F6": "bubble_card_fill",
+          "#8B95A1": "disclaimer_grey"
+        },
+        "color_relationship": "neutral_base_with_blue_accent",
+        "temperature_balance": "neutral_cool_accent",
+        "saturation_strategy": "low_base_one_saturated_accent",
+        "contrast_type": "dark_text_on_white",
+        "accent_color": "#3182F6",
+        "accent_ratio": 0.18
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A clean high-key motion-graphics still on a pure white background in the friendly minimalist style of a Korean fintech brand film, capturing a transitional beat where the earlier cluster of grey complaint speech-bubbles has shrunk down and is receding toward the center-distance while the brand's solution thesis assembles as centered kinetic typography. The dominant element is a stack of centered Korean headline lines in bold near-black rounded sans-serif, with selected operative words highlighted in vivid brand blue (approximately #3182F6). The copy reads, across four short centered lines: 주식 초보도 쉽게 (with 쉽게 in blue), then 의견을 나눌 수 있고 (with 의견 in blue), then 신뢰할 만한 (with 신뢰 in blue), then a slightly separated final line 새로운 주식 커뮤니티 (with 주식 커뮤니티 in blue). The blue keywords spotlight the promise: easy, opinion-sharing, trustworthy, a new stock community. Around and behind the type there is generous white negative space. Along the very bottom edge of the frame runs a thin, small, light-grey legal disclaimer ticker in tiny Korean type (regulatory boilerplate such as 투자전 설명 청취 및 상품설명서/약관 필독 and 이 금융상품은 예금자보호법에 따라 보호되지 않습니다), partially visible and quietly scrolling, as is standard in Korean financial advertising. The lighting is flat, even, and bright with no gradients on the background and only the faintest soft shadow beneath any residual card shapes. The color grade is clean, neutral, and unsaturated except for the brand-blue keywords. The mood is reassuring and optimistic — having posed the problem and the question, the ad now answers with a calm, confident promise of a better stock community. The composition is strictly centered on a single vertical axis with consistent line spacing, conveying order and trustworthiness. The Korean glyphs are humanist, rounded, evenly weighted, pixel-snapped and beautifully kerned, exactly in the Toss UI typographic tradition. There are no real photographs, no real people, and no third-party brand logos; any residual bubble cards are generic neutral shapes. The aesthetic anchor is a clean 4K Korean commercial frame: white canvas, bold Korean sans-serif, isolated brand-blue accent words, and a discreet legal ticker. Korean culture context: the inclusive, gentle phrasing (초보도, 누구나-style accessibility) reflects the brand's positioning of finance as approachable for beginners, a recurring theme in Korean fintech marketing. The keyframe should depict the moment all four thesis lines are present with their blue keywords saturated and the bubble cluster reduced to a small receding accent. For faithful reproduction, observe the layout discipline: the four lines are vertically stacked with comfortable, even spacing, the final line 새로운 주식 커뮤니티 set slightly apart with a touch more space above it to mark it as the conclusion of the build. The blue keywords are placed at the start or within each line exactly where the eye lands first, so a quick scan of just the blue words communicates the whole promise — easy, opinion, trust, new stock community. The white background is pure and even with no tint, and the dark body text is a near-black charcoal rather than pure black, which reads as softer and friendlier on white, consistent with the brand's warm minimalism. The receding complaint bubbles, if shown, are small, slightly transparent, and clustered toward the center-distance, clearly subordinate to the type and on their way out of frame. The bottom legal ticker is genuinely tiny, single-line, light grey, and runs the full width of the frame, the kind of fast-scrolling regulatory text Korean viewers visually filter out but which must be present for compliance authenticity. The composition leaves generous breathing room on the left and right margins so the centered type feels uncrowded. Every glyph is crisp, evenly weighted, and pixel-snapped, and the blue is the same consistent brand blue used elsewhere in the film, tying the visual language together. The overall feeling is calm reassurance arriving after noise — the design itself models the very promise of a cleaner, more trustworthy community. The keyframe must look like a polished motion-graphics beat, not a slide, with intentional kerning, balanced color rhythm, and a clear reading order from top to bottom.",
+        "t2i_negative": "photograph, real people, real brand logos, dark background, heavy gradients, 3d realism, neon, clutter, watermark",
+        "i2v_motion": "The stacked grey complaint bubbles scale down and drift back/away, clearing the canvas; then the four thesis lines build in sequence, each fading and rising into place with its blue keyword popping color as it lands. The bottom legal ticker scrolls slowly left throughout. No camera move. About 4.5 seconds, ending on a hard cut to a black card.",
+        "i2v_params": {
+          "clip_duration_sec": 4.533,
+          "camera_move": "locked_off",
+          "subject_motion_level": "ui_scale_down_plus_text_build",
+          "signature_effect": "blue_keyword_color_pop_plus_disclaimer_ticker",
+          "pacing": "medium",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen Korean copy preserved verbatim; disclaimer is generic regulatory boilerplate; no real identities or logos"
+      }
+    },
+    {
+      "index": 4,
+      "duration": 1.1,
+      "framing": "full_frame_graphic",
+      "function": "brand_answer",
+      "subject_action": "answer_line_appears_on_black_with_brand_name_in_blue",
+      "layout_grid": "center_two_line_block",
+      "subject_position": "center_then_centered",
+      "typo_motion": "left_to_center_settle_keyword_pop",
+      "camera_angle": "flat_front_graphic",
+      "camera_facing": "screen_on",
+      "shot_scope": "full_screen_motion_graphic",
+      "gaze": "none",
+      "props": [
+        "centered_korean_answer_line",
+        "blue_brand_name",
+        "bottom_disclaimer_ticker"
+      ],
+      "color_palette": [
+        "#000000",
+        "#FFFFFF",
+        "#3182F6",
+        "#1B1B1B",
+        "#8B95A1"
+      ],
+      "color_intent": "black_card_payoff_with_brand_name_highlighted_blue",
+      "pose_description": "Black canvas. White and blue Korean type delivers the answer to the prior question: 토스증권에 / 있습니다, where 토스증권 (the brand name) is brand blue and 에 있습니다 is white. The line resolves the thesis — the needed community is in Toss Securities. Text animates from a left-set position to centered.",
+      "subject_motion": "text_reposition_left_to_center",
+      "camera_motion": "none",
+      "camera_effect_local": "none",
+      "intra_cut_rhythm": "medium",
+      "transition_in": "hard_cut",
+      "transition_out": "hard_cut",
+      "mid_frame_path": "ADV-2026-029_frames/cut04_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "white_answer_text",
+          "blue_brand_name"
+        ],
+        "midground": [],
+        "background": [
+          "pure_black_field",
+          "bottom_disclaimer_ticker"
+        ],
+        "lighting_env": [
+          "graphic_no_light"
+        ],
+        "atmosphere": [
+          "payoff",
+          "confidence",
+          "brand_reveal"
+        ]
+      },
+      "texture": {
+        "primary_subject": "flat_type",
+        "secondary_objects": [],
+        "background_surface": "matte_black",
+        "atmospheric": [
+          "clean_no_grain"
+        ]
+      },
+      "lighting": {
+        "key_direction": "n_a_flat_graphic",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral",
+        "fill_strength": "n_a",
+        "key_to_fill_ratio": "n_a",
+        "rim_light": "none",
+        "practical_lights": [],
+        "shadow_presence": "none",
+        "overall_contrast": "very_high"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#000000",
+          "#FFFFFF",
+          "#3182F6",
+          "#1B1B1B",
+          "#8B95A1"
+        ],
+        "palette_role": {
+          "#000000": "background_field",
+          "#FFFFFF": "primary_text",
+          "#3182F6": "brand_name_blue",
+          "#1B1B1B": "near_black_variation",
+          "#8B95A1": "disclaimer_grey"
+        },
+        "color_relationship": "high_contrast_monochrome_with_blue_accent",
+        "temperature_balance": "neutral_cool_accent",
+        "saturation_strategy": "monochrome_base_one_saturated_accent",
+        "contrast_type": "white_and_blue_on_black",
+        "accent_color": "#3182F6",
+        "accent_ratio": 0.2
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A bold minimalist kinetic-typography still on a pure solid black background filling the 16:9 frame, in the clean premium style of a Korean fintech brand film, presenting the answer payoff to the rhetorical question posed earlier. The headline is a two-line Korean phrase set in a heavy rounded sans-serif with generous spacing and excellent legibility. The first line reads 토스증권에 and the second line, beneath it, reads 있습니다. Within the phrase, the brand name 토스증권 (Toss Securities) is rendered in vivid brand blue (approximately #3182F6) while the grammatical tail 에 and the verb 있습니다 remain pure white. Together the line declares, in effect, that the needed community is right here in Toss Securities. The type is the only content in the frame, surrounded by vast black negative space; in this keyframe it sits centered on a single vertical axis (the motion brings it from a left-aligned entry to this centered resting position). Along the very bottom edge a thin small light-grey legal disclaimer ticker in tiny Korean type is partially visible, quietly scrolling, consistent with Korean financial-ad compliance. The contrast between white text, saturated blue brand name, and deep black ground is very high, giving the moment a confident, conclusive feel. The render is flat and vector-clean: no gradients, no grain, no glow beyond glyph crispness, no texture, like a single keyframe from a restrained motion-graphics sequence. The Korean glyphs are humanist with rounded terminals, even stroke weight, pixel-snapped and beautifully kerned in the Toss typographic tradition. The mood is the satisfying click of resolution — problem stated, question asked, brand named as the answer. No real people, no photographs, and no third-party logos are present; the brand name appears only as plain styled text, not as a graphic logomark. The aesthetic anchor is a clean 4K Korean commercial title card: black canvas, bold Korean sans-serif, a single brand-blue accent (here the brand name itself), total typographic minimalism, plus a discreet bottom legal ticker. Korean culture context: the polite formal verb ending 있습니다 gives the declaration a respectful, broadcast-appropriate register typical of Korean TV commercials. The keyframe should be captured at the instant both lines are centered and settled with the brand name at full blue saturation. For faithful reproduction, note the staging: the background is a true even deep black with no gradient or texture, and the type is the sole focus, occupying a modest central area surrounded by abundant black negative space that lends the declaration weight and confidence. The brand name 토스증권 is set in the same saturated cool brand blue used as the accent throughout the film, with clean anti-aliased edges and no glow, while the tail 에 and the verb line 있습니다 are pure white. The two lines are tightly leaded so they read as one continuous sentence broken across two rows, and the whole block is optically centered both horizontally and vertically. The glyph weight is heavy and assured, the kerning tight and deliberate, and the baselines pixel-snapped, giving the card a broadcast-grade finish. A discreet single-line grey legal ticker runs along the extreme bottom edge, tiny and fast, present for regulatory authenticity but visually recessive. There are no decorative elements: no underlines, no icons, no progress indicators, no captions, no watermark — only the resolving statement floating in black. The mood is the satisfying payoff of a setup-and-answer structure, the brand calmly claiming to be the solution just posed as a question. The frame should feel intentional and premium, exactly the kind of high-contrast brand-name reveal used in polished Korean fintech commercials, where a single blue word against black does all the heavy lifting. This card bridges the abstract thesis to the concrete feature tour that follows, so it must feel like a confident hinge in the narrative rather than a throwaway transition, with immaculate typographic craft and a clear, legible brand name at its center.",
+        "t2i_negative": "photograph, real people, graphic logomark, white background, gradients, glow, grain, 3d, clutter, watermark",
+        "i2v_motion": "The two-line phrase enters set slightly left, then slides and settles to perfect center as it finishes appearing; the brand name 토스증권 holds at full brand blue, the rest stays white. Bottom legal ticker scrolls slowly left. No camera move. About 1.1 seconds, ending on a hard cut to a white feature card.",
+        "i2v_params": {
+          "clip_duration_sec": 1.1,
+          "camera_move": "locked_off",
+          "subject_motion_level": "type_reposition_to_center",
+          "signature_effect": "brand_name_blue_hold",
+          "pacing": "medium",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; brand name preserved verbatim as caption text only, not as a logomark; no real identities"
+      }
+    },
+    {
+      "index": 5,
+      "duration": 4.867,
+      "framing": "full_frame_graphic",
+      "function": "feature_1_popular_post_alerts",
+      "subject_action": "feature_title_appears_then_3d_phone_fills_with_popular_post_notifications",
+      "layout_grid": "title_top_center_mockup_subhead_bottom",
+      "subject_position": "center",
+      "typo_motion": "title_in_then_ui_build_then_subhead",
+      "camera_angle": "flat_front_graphic",
+      "camera_facing": "screen_on",
+      "shot_scope": "full_screen_motion_graphic_with_phone_mockup",
+      "gaze": "none",
+      "props": [
+        "blue_feature_title",
+        "simplified_3d_phone_mockup",
+        "bell_emoji_notification",
+        "popular_post_notification_cards",
+        "two_line_black_subhead",
+        "bottom_disclaimer_ticker"
+      ],
+      "color_palette": [
+        "#FFFFFF",
+        "#3182F6",
+        "#191F28",
+        "#F5C518",
+        "#363C45"
+      ],
+      "color_intent": "white_feature_card_with_blue_title_warm_bell_accent_and_dark_phone_frame",
+      "pose_description": "White feature card. Near the top, the blue feature name 인기글 알림 (popular-post alerts). Center: a simplified dark-framed 3D phone mockup. A yellow bell 🔔 emoji bounces in at the top of the screen, then the phone fills with a short list of community popular-post notification cards (e.g. 지금 OO주 커뮤니티 인기글 — 내일 있을 발표에서 꼭 챙겨봐야 할 내용은?; 한 눈에 파악하는 경제 뉴스; 앞으로 5년뒤 반도체 산업을 이끌 종목은?). Bottom: two-line black subhead 관심 있는 종목에 대한 / 그날의 정보를 알려드려요. A grey disclaimer ticker runs along the bottom.",
+      "subject_motion": "ui_elements_scale_and_populate",
+      "camera_motion": "none",
+      "camera_effect_local": "soft_3d_phone_shadow",
+      "intra_cut_rhythm": "medium",
+      "transition_in": "hard_cut",
+      "transition_out": "soft_text_transition",
+      "mid_frame_path": "ADV-2026-029_frames/cut05_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "popular_post_notification_cards",
+          "bell_emoji",
+          "blue_feature_title",
+          "subhead_text"
+        ],
+        "midground": [
+          "3d_phone_mockup"
+        ],
+        "background": [
+          "white_field",
+          "bottom_disclaimer_ticker"
+        ],
+        "lighting_env": [
+          "flat_high_key_with_soft_3d_shading"
+        ],
+        "atmosphere": [
+          "informative",
+          "timely",
+          "helpful"
+        ]
+      },
+      "texture": {
+        "primary_subject": "matte_phone_shell_and_flat_cards",
+        "secondary_objects": [
+          "emoji_glyph",
+          "soft_shadow"
+        ],
+        "background_surface": "matte_white",
+        "atmospheric": [
+          "subtle_3d_specular"
+        ]
+      },
+      "lighting": {
+        "key_direction": "top_soft_for_3d_object",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_white",
+        "fill_strength": "high",
+        "key_to_fill_ratio": "1:1",
+        "rim_light": "subtle_edge_on_phone",
+        "practical_lights": [],
+        "shadow_presence": "soft_contact_shadow_under_phone",
+        "overall_contrast": "low_to_medium"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#FFFFFF",
+          "#3182F6",
+          "#191F28",
+          "#F5C518",
+          "#363C45"
+        ],
+        "palette_role": {
+          "#FFFFFF": "background_and_phone_screen",
+          "#3182F6": "feature_title_blue",
+          "#191F28": "subhead_and_card_text",
+          "#F5C518": "bell_emoji_yellow",
+          "#363C45": "phone_frame_dark"
+        },
+        "color_relationship": "neutral_base_with_blue_title_and_warm_icon_accent",
+        "temperature_balance": "neutral",
+        "saturation_strategy": "low_base_blue_and_yellow_accents",
+        "contrast_type": "dark_phone_and_text_on_white",
+        "accent_color": "#3182F6",
+        "accent_ratio": 0.12
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A clean high-key motion-graphics still on a pure white background in the friendly minimalist style of a Korean fintech brand film, presenting the first named feature of a stock-community product. Near the top center of the 16:9 frame is the feature title 인기글 알림 (popular-post alerts) in bold brand-blue rounded Korean sans-serif (approximately #3182F6). In the center of the frame stands a simplified, slightly stylized 3D smartphone mockup with a dark charcoal rounded frame (approximately #363C45), subtle side buttons, soft edge highlights, and a clean white screen, sitting upright and casting a soft contact shadow on the white floor. At the top of the phone screen a friendly yellow bell notification emoji is present, and the screen displays a short vertical list of community popular-post notification cards, each a pale rounded rectangle with a tiny source line in small grey Korean type such as 지금 OO주 커뮤니티 인기글 plus a date, and a one or two line bold dark headline such as 내일 있을 발표에서 꼭 챙겨봐야 할 내용은?, 한 눈에 파악하는 경제 뉴스, and 앞으로 5년뒤 반도체 산업을 이끌 종목은?. The cards stack neatly with consistent spacing, evoking real push-notification or feed UI without copying any actual app screenshot. Near the bottom center is a two-line black subhead in bold rounded Korean sans-serif reading 관심 있는 종목에 대한 / 그날의 정보를 알려드려요 (we tell you that day's information about the stocks you care about). Along the very bottom edge runs a thin small light-grey legal disclaimer ticker in tiny Korean regulatory type, partially visible and quietly scrolling, as standard in Korean financial advertising. The lighting is flat and bright on the white canvas, with soft directional shading only on the 3D phone to give it gentle dimensionality and a soft drop shadow. The color grade is clean and neutral, unsaturated except for the brand-blue title and the small warm-yellow bell. The composition follows the recurring feature-card grid: blue feature name at top, central device vignette, two-line benefit subhead at bottom, generous negative space. The Korean glyphs are humanist, rounded, evenly weighted, pixel-snapped and beautifully kerned in the Toss tradition. The mood is helpful and timely — the feature surfaces the day's most relevant community posts for stocks you follow. There are no real photographs, no real people, and no actual third-party app screenshots or brand logomarks; the UI is an original simplified illustration and the phone is a generic device. The aesthetic anchor is a clean 4K Korean commercial product-feature frame: white canvas, friendly simplified 3D phone, flat UI cards, bold Korean sans-serif, a single brand-blue title accent, and a discreet legal ticker. Korean culture context: the copy speaks to retail investors' desire to never miss the day's hot discussion about their holdings, a strong motivator in Korea's active retail-trading culture. The keyframe should show the title, the populated phone with bell and post cards, and the subhead all present. For faithful reproduction, observe the precise feature-card construction: the white background is a perfectly even paper-white, and the blue feature title sits near the top, optically centered, in a heavy rounded weight so it reads as a labeled chapter heading. The 3D phone is centered and upright, its proportions tall and slim like a modern flagship handset, the charcoal frame catching a soft top light with a faint specular edge and a gentle, low-opacity contact shadow pooling beneath it on the white floor. Inside the screen, the notification cards are pale rounded rectangles with consistent internal padding; each shows a small grey source/date line and a bold dark headline, and they are stacked with even gaps so the screen looks like a tidy feed rather than a cluttered one. The yellow bell emoji sits near the top of the screen as the unifying motif of the alerts feature, optionally with a tiny red unread badge. The two-line subhead near the bottom is set in friendly charcoal type, optically centered, with the benefit phrased warmly and directly to the viewer. The bottom legal ticker is genuinely tiny, single-line, light grey, scrolling, present for compliance. The margins left and right of the phone are generous, keeping the composition airy. The color story is restrained — white field, charcoal phone, dark text, one blue title, one warm yellow bell — so the eye moves cleanly from title to device to subhead. Every Korean glyph is crisp and pixel-snapped, and the simplified UI must clearly evoke a real notifications feed without copying any actual app screen. The overall impression is helpful, calm, and premium, the first confident proof point in a tidy feature tour, rendered as a single keyframe from a smooth motion-graphics sequence.",
+        "t2i_negative": "photograph, real people, real app screenshots, real brand logos, dark background, heavy gradients, hyperreal 3d, clutter, neon, watermark",
+        "i2v_motion": "The blue title 인기글 알림 fades in at top; the dark 3D phone scales up into center with a soft settle; a yellow bell emoji bounces in and a small red badge ticks up; popular-post notification cards slide into the phone screen one after another; the two-line subhead fades in at the bottom. Bottom legal ticker scrolls slowly left. No camera move. About 4.9 seconds, ending with a soft text transition into the next feature card on the same white canvas.",
+        "i2v_params": {
+          "clip_duration_sec": 4.867,
+          "camera_move": "locked_off",
+          "subject_motion_level": "ui_populate_and_emoji_bounce",
+          "signature_effect": "notification_cards_slide_in",
+          "pacing": "medium",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen Korean copy preserved verbatim; UI is original simplified illustration; no real screenshots, identities, or logomarks"
+      }
+    },
+    {
+      "index": 6,
+      "duration": 5.9,
+      "framing": "full_frame_graphic",
+      "function": "feature_2_voting_poll",
+      "subject_action": "feature_title_then_poll_and_3d_ballot_box_animation",
+      "layout_grid": "title_top_center_mockup_subhead_bottom",
+      "subject_position": "center",
+      "typo_motion": "title_in_then_ui_build_then_subhead",
+      "camera_angle": "flat_front_graphic",
+      "camera_facing": "screen_on",
+      "shot_scope": "full_screen_motion_graphic_with_ui_vignette",
+      "gaze": "none",
+      "props": [
+        "blue_feature_title",
+        "question_chat_bubble",
+        "poll_option_bars",
+        "vote_count_labels",
+        "blue_check_mark",
+        "simplified_3d_ballot_box",
+        "two_line_black_subhead",
+        "bottom_disclaimer_ticker"
+      ],
+      "color_palette": [
+        "#FFFFFF",
+        "#3182F6",
+        "#191F28",
+        "#D7E4FB",
+        "#8B95A1"
+      ],
+      "color_intent": "white_card_with_blue_title_and_blue_highlighted_winning_poll_option",
+      "pose_description": "White feature card. Top: blue feature name 투표 기능 (voting). Center vignette: a small avatar/question bubble 'XX 주식, 어떻게 될까?' appears, then two poll-option bars — 내린다 356 (grey) and 오른다 1195 (highlighted brand blue, the leading choice) — followed by a blue circular check mark and a simplified 3D blue ballot/voting box on a platform with a ballot dropping in. Bottom: two-line black subhead 많은 사람들의 의견을 / 한눈에 볼 수 있어요. Grey disclaimer ticker along the bottom.",
+      "subject_motion": "poll_bars_fill_and_ballot_drop",
+      "camera_motion": "none",
+      "camera_effect_local": "soft_3d_object_shadow",
+      "intra_cut_rhythm": "medium",
+      "transition_in": "soft_text_transition",
+      "transition_out": "soft_text_transition",
+      "mid_frame_path": "ADV-2026-029_frames/cut06_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "poll_option_bars",
+          "question_bubble",
+          "blue_check_mark",
+          "blue_feature_title",
+          "subhead_text"
+        ],
+        "midground": [
+          "3d_ballot_box_on_platform"
+        ],
+        "background": [
+          "white_field",
+          "bottom_disclaimer_ticker"
+        ],
+        "lighting_env": [
+          "flat_high_key_with_soft_3d_shading"
+        ],
+        "atmosphere": [
+          "participatory",
+          "consensus",
+          "playful_data"
+        ]
+      },
+      "texture": {
+        "primary_subject": "flat_ui_bars_and_matte_3d_box",
+        "secondary_objects": [
+          "soft_shadow",
+          "rounded_chips"
+        ],
+        "background_surface": "matte_white",
+        "atmospheric": [
+          "subtle_3d_specular"
+        ]
+      },
+      "lighting": {
+        "key_direction": "top_soft_for_3d_object",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_white",
+        "fill_strength": "high",
+        "key_to_fill_ratio": "1:1",
+        "rim_light": "subtle_on_ballot_box",
+        "practical_lights": [],
+        "shadow_presence": "soft_contact_shadow",
+        "overall_contrast": "low_to_medium"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#FFFFFF",
+          "#3182F6",
+          "#191F28",
+          "#D7E4FB",
+          "#8B95A1"
+        ],
+        "palette_role": {
+          "#FFFFFF": "background_field",
+          "#3182F6": "feature_title_and_winning_option",
+          "#191F28": "subhead_and_label_text",
+          "#D7E4FB": "light_blue_option_tint",
+          "#8B95A1": "disclaimer_and_secondary_grey"
+        },
+        "color_relationship": "neutral_base_with_blue_emphasis_family",
+        "temperature_balance": "neutral_cool_accent",
+        "saturation_strategy": "low_base_blue_emphasis",
+        "contrast_type": "blue_highlight_on_white",
+        "accent_color": "#3182F6",
+        "accent_ratio": 0.16
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A clean high-key motion-graphics still on a pure white background in the friendly minimalist style of a Korean fintech brand film, presenting the second named feature of a stock-community product: a community voting/poll feature. Near the top center of the 16:9 frame is the feature title 투표 기능 (voting feature) in bold brand-blue rounded Korean sans-serif (approximately #3182F6). The central vignette illustrates a poll in progress: at the top, a small round avatar accompanies a light rounded question bubble reading XX 주식, 어떻게 될까? (what will happen to stock XX?). Beneath it are two horizontal poll-option chips — the first a pale grey rounded bar labeled 내린다 with a small vote count 356 (will fall), and the second a vivid brand-blue rounded bar labeled 오른다 with a larger vote count 1195 (will rise), the blue bar visually winning. Below the options sits a blue circular check-mark badge indicating a cast vote, and beneath that a simplified, slightly stylized 3D ballot/voting box in brand blue resting on a clean platform, with a small ballot slip dropping into its top slot, casting a soft contact shadow. Near the bottom center is a two-line black subhead in bold rounded Korean sans-serif reading 많은 사람들의 의견을 / 한눈에 볼 수 있어요 (you can see many people's opinions at a glance). Along the very bottom edge runs a thin small light-grey legal disclaimer ticker in tiny Korean regulatory type, partially visible and quietly scrolling. The lighting is flat and bright on the white canvas, with soft directional shading only on the 3D ballot box and check badge to give gentle dimensionality plus soft shadows. The color grade is clean and neutral, unsaturated except for the brand-blue family used for the title, the winning option, the check mark, and the ballot box. The composition follows the recurring feature-card grid: blue feature name at top, central UI vignette, two-line benefit subhead at bottom, generous negative space, with a discreet legal ticker. The Korean glyphs are humanist, rounded, evenly weighted, pixel-snapped and beautifully kerned in the Toss tradition. The mood is participatory and a little playful — the feature lets the community vote on a stock's direction and instantly see aggregate sentiment. There are no real photographs, no real people, and no actual third-party app screenshots or brand logomarks; the UI and the ballot box are original simplified illustrations. The aesthetic anchor is a clean 4K Korean commercial product-feature frame: white canvas, friendly flat poll UI, a simplified 3D ballot box, bold Korean sans-serif, brand-blue emphasis, and a discreet legal ticker. Korean culture context: crowd-sentiment polls (오를까/내릴까) are a popular, engaging format among Korean retail investors, making this feature instantly legible. The keyframe should show the title, the question bubble, both poll bars with the blue one winning, the check mark, the ballot box, and the subhead. For faithful reproduction, observe the vignette construction: the white background is perfectly even, and the blue feature title sits near the top, optically centered, in a heavy rounded weight as a chapter heading. The question bubble at the top of the vignette is a small pale rounded chip paired with a tiny round avatar, set at a slight left offset to feel conversational. The two poll bars are full-width rounded pills of equal height, vertically stacked with a small gap; the losing 내린다 bar is a neutral pale grey with its count in muted type, while the winning 오른다 bar is filled with saturated brand blue and white label text, clearly dominant, its larger count reading as momentum. The blue circular check-mark badge sits centered below the bars as a satisfying confirmation glyph. The simplified 3D ballot box is a friendly rounded form in brand blue with a visible top slot, resting on a clean light platform, a small ballot slip caught mid-drop into the slot, all lit by a soft top key with a gentle contact shadow. The two-line subhead near the bottom is friendly charcoal type, optically centered. The bottom legal ticker is tiny, single-line, grey, scrolling, present for compliance. The color discipline keeps everything neutral except the brand-blue family — title, winning bar, check, ballot box — so the feature's meaning (aggregate community sentiment) is instantly legible through color alone. Margins are generous and the vertical rhythm from question to bars to check to box to subhead guides the eye top to bottom. Every Korean glyph and every numeral is crisp and pixel-snapped, and the poll UI must evoke a real in-app vote without copying any actual screenshot. The overall feeling is participatory, upbeat, and trustworthy, rendered as a single clean keyframe from a smooth motion-graphics sequence.",
+        "t2i_negative": "photograph, real people, real app screenshots, real brand logos, dark background, heavy gradients, hyperreal 3d, clutter, neon, watermark",
+        "i2v_motion": "The blue title 투표 기능 fades in; a question bubble pops in; the two poll-option bars slide in and their fills animate, the blue 오른다 bar growing to dominance with its count ticking up; a blue check mark stamps in; a simplified 3D ballot box rises and a ballot slip drops into its slot; the two-line subhead fades in at the bottom. Bottom legal ticker scrolls slowly left. No camera move. About 5.9 seconds, soft-transitioning between the previous and next feature cards on the same white canvas.",
+        "i2v_params": {
+          "clip_duration_sec": 5.9,
+          "camera_move": "locked_off",
+          "subject_motion_level": "poll_fill_and_ballot_drop",
+          "signature_effect": "winning_option_blue_fill",
+          "pacing": "medium",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen Korean copy preserved verbatim; UI and ballot box are original simplified illustrations; no real screenshots, identities, or logomarks"
+      }
+    },
+    {
+      "index": 7,
+      "duration": 5.733,
+      "framing": "full_frame_graphic",
+      "function": "feature_3_shareholder_badge",
+      "subject_action": "feature_title_then_3d_phone_with_shareholder_badged_community_posts",
+      "layout_grid": "title_top_center_mockup_subhead_bottom",
+      "subject_position": "center",
+      "typo_motion": "title_in_then_ui_build_then_subhead",
+      "camera_angle": "flat_front_graphic",
+      "camera_facing": "screen_on",
+      "shot_scope": "full_screen_motion_graphic_with_phone_mockup",
+      "gaze": "none",
+      "props": [
+        "blue_feature_title",
+        "simplified_3d_phone_mockup",
+        "community_post_list",
+        "shareholder_badge_labels",
+        "profit_loss_tags",
+        "two_line_black_subhead",
+        "small_footnote",
+        "bottom_disclaimer_ticker"
+      ],
+      "color_palette": [
+        "#FFFFFF",
+        "#3182F6",
+        "#191F28",
+        "#F03E3E",
+        "#363C45"
+      ],
+      "color_intent": "white_card_with_blue_title_and_phone_full_of_badged_credible_posts",
+      "pose_description": "White feature card. Top: blue feature name 주주배지 (shareholder badge). Center: a dark-framed 3D phone shows an 'ABC주 커뮤니티' screen filled with posts whose authors carry a 주주 (shareholder) badge — e.g. 냉철한분석가 (주주) 어제 기사보고 추매했습니다 / ABC주 16주 구매; 동그리 (주주) 저는 다른 곳으로 갑니다! / ABC주 16주 판매 +567,890원 (21%); 똑똑한감자 (주주) 외인 물량이 수상한데요? 어떻게 생각하세요??; 방구석투자자 (주주) 믿는다!!. Bottom: two-line black subhead 주주가 쓴 글이 75%! / 믿고 볼 수 있어요 with a tiny grey footnote *2023년 기준. Grey disclaimer ticker along the bottom.",
+      "subject_motion": "post_list_populates",
+      "camera_motion": "none",
+      "camera_effect_local": "soft_3d_phone_shadow",
+      "intra_cut_rhythm": "medium",
+      "transition_in": "soft_text_transition",
+      "transition_out": "soft_text_transition",
+      "mid_frame_path": "ADV-2026-029_frames/cut07_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "community_post_cards",
+          "shareholder_badges",
+          "profit_loss_tags",
+          "blue_feature_title",
+          "subhead_text"
+        ],
+        "midground": [
+          "3d_phone_mockup"
+        ],
+        "background": [
+          "white_field",
+          "bottom_disclaimer_ticker"
+        ],
+        "lighting_env": [
+          "flat_high_key_with_soft_3d_shading"
+        ],
+        "atmosphere": [
+          "credibility",
+          "trust",
+          "real_holders"
+        ]
+      },
+      "texture": {
+        "primary_subject": "matte_phone_shell_and_flat_post_cards",
+        "secondary_objects": [
+          "badge_chips",
+          "soft_shadow"
+        ],
+        "background_surface": "matte_white",
+        "atmospheric": [
+          "subtle_3d_specular"
+        ]
+      },
+      "lighting": {
+        "key_direction": "top_soft_for_3d_object",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_white",
+        "fill_strength": "high",
+        "key_to_fill_ratio": "1:1",
+        "rim_light": "subtle_edge_on_phone",
+        "practical_lights": [],
+        "shadow_presence": "soft_contact_shadow_under_phone",
+        "overall_contrast": "low_to_medium"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#FFFFFF",
+          "#3182F6",
+          "#191F28",
+          "#F03E3E",
+          "#363C45"
+        ],
+        "palette_role": {
+          "#FFFFFF": "background_and_phone_screen",
+          "#3182F6": "feature_title_and_badge_blue",
+          "#191F28": "post_and_subhead_text",
+          "#F03E3E": "profit_loss_red_accent",
+          "#363C45": "phone_frame_dark"
+        },
+        "color_relationship": "neutral_base_with_blue_title_and_red_data_accent",
+        "temperature_balance": "neutral",
+        "saturation_strategy": "low_base_blue_and_red_accents",
+        "contrast_type": "dark_phone_and_text_on_white",
+        "accent_color": "#3182F6",
+        "accent_ratio": 0.12
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A clean high-key motion-graphics still on a pure white background in the friendly minimalist style of a Korean fintech brand film, presenting the third named feature of a stock-community product: a shareholder verification badge. Near the top center of the 16:9 frame is the feature title 주주배지 (shareholder badge) in bold brand-blue rounded Korean sans-serif (approximately #3182F6). In the center stands a simplified, slightly stylized 3D smartphone mockup with a dark charcoal rounded frame and clean white screen, casting a soft contact shadow. The phone screen shows a community board headed ABC주 커뮤니티, populated with a vertical list of post cards; each post author has a small username, a tiny blue 주주 (shareholder) badge chip indicating verified ownership, and a short message. Example posts read: 냉철한분석가, 주주 badge, 어제 기사보고 추매했습니다, with a small tag ABC주 16주 구매; 동그리, 주주 badge, 저는 다른 곳으로 갑니다!, with a tag ABC주 16주 판매 and a red profit figure +567,890원 (21%); 똑똑한감자, 주주 badge, 외인 물량이 수상한데요? 어떻게 생각하세요??; and 방구석투자자, 주주 badge, 믿는다!!. The posts stack with consistent spacing, evoking a credible community feed without copying any real app screenshot. Near the bottom center is a two-line black subhead in bold rounded Korean sans-serif reading 주주가 쓴 글이 75%! / 믿고 볼 수 있어요 (75 percent of posts are written by actual shareholders, so you can read them with trust), followed by a tiny light-grey footnote *2023년 기준 (as of 2023). Along the very bottom edge runs a thin small light-grey legal disclaimer ticker in tiny Korean regulatory type, partially visible and quietly scrolling. The lighting is flat and bright on the white canvas with soft directional shading only on the 3D phone, plus a soft drop shadow. The color grade is clean and neutral, unsaturated except for the brand-blue title and badges and a single red profit accent. The composition follows the recurring feature-card grid: blue feature name at top, central device vignette, two-line benefit subhead at bottom, discreet footnote and legal ticker, generous negative space. The Korean glyphs are humanist, rounded, evenly weighted, pixel-snapped and beautifully kerned in the Toss tradition. The mood is trust and credibility — the badge proves posts come from real holders of the stock rather than anonymous noise, directly answering the earlier complaint 다들 진짜 주주는 맞나?. There are no real photographs, no real people, and no actual third-party app screenshots or brand logomarks; the UI, badges, and usernames are original simplified inventions. The aesthetic anchor is a clean 4K Korean commercial product-feature frame: white canvas, friendly simplified 3D phone, flat credible-feed UI with verification badges, bold Korean sans-serif, brand-blue accent, a discreet footnote and legal ticker. Korean culture context: distinguishing genuine shareholders from rumor-spreaders addresses a well-known trust problem on Korean stock boards, making this a resonant differentiator. The keyframe should show the title, the badged-post-filled phone, the subhead, and the footnote. For faithful reproduction, observe the construction: the white background is perfectly even, the blue feature title near the top is optically centered in a heavy rounded weight, and the 3D phone is centered, tall and slim, charcoal-framed with a soft top specular and a low contact shadow. The phone screen carries a small bold board header ABC주 커뮤니티, beneath which sits a vertical list of post cards. Each post card shows a small round author avatar, a username, a compact blue 주주 verification badge chip, a short relative timestamp, and one or two lines of message text; some posts also carry a small trade tag such as a buy or sell line, and one shows a red profit figure to convey realistic activity. The cards are stacked with even spacing so the feed looks credible and orderly rather than chaotic. The 주주 badges are the visual hero detail — small, blue, and repeated down the list — making the trust message legible at a glance. The two-line subhead near the bottom is friendly charcoal type, optically centered, with the percentage figure emphasized, and the tiny grey footnote sits just beneath it. The bottom legal ticker is tiny, single-line, grey, and scrolling for compliance. The color story stays neutral except the brand-blue title and badges plus a single red data accent, keeping the frame calm and readable. Margins around the phone are generous, and the reading order flows from title to phone feed to subhead to footnote. Every Korean glyph and numeral is crisp and pixel-snapped, and the community feed must clearly evoke a real in-app board with verification badges without copying any actual screenshot, usernames, or trademarks. The overall impression is credibility and reassurance — proof that posts come from real holders — rendered as a single clean keyframe from a smooth motion-graphics sequence.",
+        "t2i_negative": "photograph, real people, real app screenshots, real brand logos, dark background, heavy gradients, hyperreal 3d, clutter, neon, watermark",
+        "i2v_motion": "The blue title 주주배지 fades in; the dark 3D phone settles into center; the ABC주 커뮤니티 board populates with badged post cards sliding in one by one, the red profit tag and 주주 badges appearing crisply; the two-line subhead and the small *2023년 기준 footnote fade in at the bottom. Bottom legal ticker scrolls slowly left. No camera move. About 5.7 seconds, soft-transitioning between adjacent feature cards on the same white canvas.",
+        "i2v_params": {
+          "clip_duration_sec": 5.733,
+          "camera_move": "locked_off",
+          "subject_motion_level": "post_list_populate",
+          "signature_effect": "shareholder_badge_reveal",
+          "pacing": "medium",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen Korean copy preserved verbatim; UI, badges and usernames are original simplified inventions; no real screenshots, identities, or logomarks"
+      }
+    },
+    {
+      "index": 8,
+      "duration": 3.5,
+      "framing": "full_frame_graphic",
+      "function": "feature_4_scale_proof_mau",
+      "subject_action": "stat_title_then_3d_phone_fills_with_emoji_activity_grid",
+      "layout_grid": "title_top_center_mockup_subhead_bottom",
+      "subject_position": "center",
+      "typo_motion": "stat_title_in_then_ui_build_then_subhead",
+      "camera_angle": "flat_front_graphic",
+      "camera_facing": "screen_on",
+      "shot_scope": "full_screen_motion_graphic_with_phone_mockup",
+      "gaze": "none",
+      "props": [
+        "blue_stat_title",
+        "small_footnote",
+        "simplified_3d_phone_mockup",
+        "emoji_face_grid",
+        "chat_bubble_shapes",
+        "two_line_black_subhead",
+        "bottom_disclaimer_ticker"
+      ],
+      "color_palette": [
+        "#FFFFFF",
+        "#3182F6",
+        "#191F28",
+        "#F5C518",
+        "#363C45"
+      ],
+      "color_intent": "white_card_with_big_blue_stat_and_lively_emoji_filled_phone",
+      "pose_description": "White feature card. Top: a big blue stat headline MAU 120만 with a tiny grey footnote *2023년 12월 말 기준. Center: a dark-framed 3D phone whose screen fills with a lively grid of many colorful emoji faces (varied expressions) interspersed with small grey chat-bubble shapes, conveying a busy, active community. Bottom: two-line black subhead 요즘 눈에 띄게 활발한 / 주식 커뮤니티. Grey disclaimer ticker along the bottom.",
+      "subject_motion": "emoji_grid_populates",
+      "camera_motion": "none",
+      "camera_effect_local": "soft_3d_phone_shadow",
+      "intra_cut_rhythm": "medium",
+      "transition_in": "soft_text_transition",
+      "transition_out": "hard_cut",
+      "mid_frame_path": "ADV-2026-029_frames/cut08_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "blue_stat_title",
+          "emoji_face_grid",
+          "chat_bubble_shapes",
+          "subhead_text"
+        ],
+        "midground": [
+          "3d_phone_mockup"
+        ],
+        "background": [
+          "white_field",
+          "bottom_disclaimer_ticker"
+        ],
+        "lighting_env": [
+          "flat_high_key_with_soft_3d_shading"
+        ],
+        "atmosphere": [
+          "buzzing_activity",
+          "popularity",
+          "momentum"
+        ]
+      },
+      "texture": {
+        "primary_subject": "matte_phone_shell_and_emoji_glyphs",
+        "secondary_objects": [
+          "chat_bubble_shapes",
+          "soft_shadow"
+        ],
+        "background_surface": "matte_white",
+        "atmospheric": [
+          "subtle_3d_specular"
+        ]
+      },
+      "lighting": {
+        "key_direction": "top_soft_for_3d_object",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_white",
+        "fill_strength": "high",
+        "key_to_fill_ratio": "1:1",
+        "rim_light": "subtle_edge_on_phone",
+        "practical_lights": [],
+        "shadow_presence": "soft_contact_shadow_under_phone",
+        "overall_contrast": "low_to_medium"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#FFFFFF",
+          "#3182F6",
+          "#191F28",
+          "#F5C518",
+          "#363C45"
+        ],
+        "palette_role": {
+          "#FFFFFF": "background_and_phone_screen",
+          "#3182F6": "stat_title_blue",
+          "#191F28": "subhead_text",
+          "#F5C518": "emoji_warm_dominant",
+          "#363C45": "phone_frame_dark"
+        },
+        "color_relationship": "neutral_base_with_blue_stat_and_multicolor_emoji",
+        "temperature_balance": "neutral_warm_emoji_pops",
+        "saturation_strategy": "low_base_blue_accent_plus_playful_emoji_color",
+        "contrast_type": "dark_phone_and_text_on_white",
+        "accent_color": "#3182F6",
+        "accent_ratio": 0.1
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A clean high-key motion-graphics still on a pure white background in the friendly minimalist style of a Korean fintech brand film, presenting the fourth feature beat of a stock-community product: a scale/popularity proof point. Near the top center of the 16:9 frame is a bold blue stat headline reading MAU 120만 (1.2 million monthly active users) in heavy brand-blue rounded type mixing Latin letters and a Korean numeral unit (approximately #3182F6), with a tiny light-grey footnote directly beneath it reading *2023년 12월 말 기준 (as of end of December 2023). In the center stands a simplified, slightly stylized 3D smartphone mockup with a dark charcoal rounded frame and clean white screen, casting a soft contact shadow. The phone screen is filled edge to edge with a lively grid of many colorful round emoji faces showing a wide range of expressions — happy, worried, surprised, smirking, tongue-out, sweating, angelic — interspersed with small pale grey rounded chat-bubble shapes, the whole arrangement conveying a buzzing, highly active community full of chatter. Near the bottom center is a two-line black subhead in bold rounded Korean sans-serif reading 요즘 눈에 띄게 활발한 / 주식 커뮤니티 (a stock community that's noticeably lively these days). Along the very bottom edge runs a thin small light-grey legal disclaimer ticker in tiny Korean regulatory type, partially visible and quietly scrolling. The lighting is flat and bright on the white canvas, with soft directional shading only on the 3D phone plus a soft drop shadow. The color grade is clean and neutral overall, unsaturated except for the brand-blue stat and the playful multicolor emoji faces that energize the phone screen. The composition follows the recurring feature-card grid: blue stat headline at top, central device vignette, two-line subhead at bottom, discreet footnote and legal ticker, generous negative space. The Korean and Latin glyphs are humanist, rounded, evenly weighted, pixel-snapped and beautifully kerned in the Toss tradition. The mood is momentum and social proof — the community is large and demonstrably active, reinforcing trust through popularity. There are no real photographs, no real people, and no actual third-party app screenshots or brand logomarks; the emoji are generic system-style glyphs and the phone is a generic device. The aesthetic anchor is a clean 4K Korean commercial product-feature frame: white canvas, friendly simplified 3D phone packed with lively emoji, a bold brand-blue statistic, bold Korean sans-serif subhead, a discreet footnote and legal ticker. Korean culture context: headline MAU figures are a common, persuasive trust signal in Korean app marketing, and the playful emoji wall reads as the warmth and vibrancy of an active community. The keyframe should show the big blue stat, the footnote, the emoji-filled phone, and the subhead. For faithful reproduction, observe the construction: the white background is perfectly even, the bold blue statistic near the top is optically centered and noticeably larger than the feature titles used elsewhere, signaling that this is a headline number, with its tiny grey footnote tucked directly beneath. The 3D phone is centered, tall and slim, charcoal-framed with a soft top specular and a low contact shadow. Its screen is packed with a dense, lively grid of round emoji faces in many expressions — cheerful, anxious, surprised, smirking, playful, sweating, serene — arranged in loose rows and interspersed with small pale grey rounded chat-bubble shapes, so the screen reads as a buzzing crowd of conversations rather than a neat list. The variety of emoji colors energizes the otherwise restrained palette, but the arrangement stays balanced and intentional, not messy. The two-line subhead near the bottom is friendly charcoal type, optically centered, describing the community as conspicuously active. The bottom legal ticker is tiny, single-line, grey, and scrolling for compliance, here showing the longer regulatory string near its end. The color story is neutral white and charcoal with one bold blue stat and a confetti of emoji color, so the eye lands first on the number, then the lively phone, then the subhead. Margins around the phone are generous. Every glyph and numeral is crisp and pixel-snapped, the Latin MAU and the Korean numeral unit 만 sitting together cleanly. The emoji must be generic system-style glyphs, the phone a generic device, with no real screenshots or trademarks. The overall impression is momentum and social proof — a big, active, friendly community — rendered as a single clean keyframe from a smooth motion-graphics sequence.",
+        "t2i_negative": "photograph, real people, real app screenshots, real brand logos, dark background, heavy gradients, hyperreal 3d, clutter, neon, watermark",
+        "i2v_motion": "The big blue stat MAU 120만 pops in at top with its small footnote; the dark 3D phone settles into center; many colorful emoji faces and small chat-bubble shapes rapidly populate the phone screen in a lively cascade, filling it edge to edge; the two-line subhead fades in at the bottom. Bottom legal ticker scrolls slowly left. No camera move. About 3.5 seconds, ending on a hard cut to a black brand-statement card.",
+        "i2v_params": {
+          "clip_duration_sec": 3.5,
+          "camera_move": "locked_off",
+          "subject_motion_level": "emoji_grid_cascade",
+          "signature_effect": "stat_pop_and_emoji_fill",
+          "pacing": "medium",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen Korean copy preserved verbatim; emoji generic and phone generic; no real screenshots, identities, or logomarks"
+      }
+    },
+    {
+      "index": 9,
+      "duration": 3.8,
+      "framing": "full_frame_graphic",
+      "function": "brand_statement",
+      "subject_action": "two_sequential_brand_statement_lines_build_on_black_with_blue_keyword",
+      "layout_grid": "center_one_to_two_line_block",
+      "subject_position": "center",
+      "typo_motion": "line_cycle_and_settle_keyword_pop",
+      "camera_angle": "flat_front_graphic",
+      "camera_facing": "screen_on",
+      "shot_scope": "full_screen_motion_graphic",
+      "gaze": "none",
+      "props": [
+        "centered_korean_brand_lines",
+        "blue_keyword_phrase"
+      ],
+      "color_palette": [
+        "#000000",
+        "#FFFFFF",
+        "#3182F6",
+        "#1B1B1B",
+        "#E8EEFB"
+      ],
+      "color_intent": "black_brand_card_with_white_lines_and_blue_keyword_phrase",
+      "pose_description": "Black canvas closing statement built across two phases on the same card: first 주식 커뮤니티를 보는 / 새로운 시선 (a new perspective on the stock community), then resolving to 주식 커뮤니티 / 누구나 누릴 수 있게 (a stock community everyone can enjoy). In both, 주식 커뮤니티 is brand blue and the rest is white. A faint partial disclaimer fragment may linger at the very bottom early in the beat.",
+      "subject_motion": "text_cycle_between_two_statements",
+      "camera_motion": "none",
+      "camera_effect_local": "none",
+      "intra_cut_rhythm": "slow",
+      "transition_in": "hard_cut",
+      "transition_out": "hard_cut",
+      "mid_frame_path": "ADV-2026-029_frames/cut09_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "white_statement_text",
+          "blue_keyword_phrase"
+        ],
+        "midground": [],
+        "background": [
+          "pure_black_field"
+        ],
+        "lighting_env": [
+          "graphic_no_light"
+        ],
+        "atmosphere": [
+          "inclusive_promise",
+          "calm_confidence",
+          "resolution"
+        ]
+      },
+      "texture": {
+        "primary_subject": "flat_type",
+        "secondary_objects": [],
+        "background_surface": "matte_black",
+        "atmospheric": [
+          "clean_no_grain"
+        ]
+      },
+      "lighting": {
+        "key_direction": "n_a_flat_graphic",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral",
+        "fill_strength": "n_a",
+        "key_to_fill_ratio": "n_a",
+        "rim_light": "none",
+        "practical_lights": [],
+        "shadow_presence": "none",
+        "overall_contrast": "very_high"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#000000",
+          "#FFFFFF",
+          "#3182F6",
+          "#1B1B1B",
+          "#E8EEFB"
+        ],
+        "palette_role": {
+          "#000000": "background_field",
+          "#FFFFFF": "primary_text",
+          "#3182F6": "brand_blue_keyword_phrase",
+          "#1B1B1B": "near_black_variation",
+          "#E8EEFB": "blue_text_halo"
+        },
+        "color_relationship": "high_contrast_monochrome_with_blue_accent",
+        "temperature_balance": "neutral_cool_accent",
+        "saturation_strategy": "monochrome_base_one_saturated_accent",
+        "contrast_type": "white_and_blue_on_black",
+        "accent_color": "#3182F6",
+        "accent_ratio": 0.18
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A bold minimalist kinetic-typography still on a pure solid black background filling the 16:9 frame, in the clean premium style of a Korean fintech brand film, presenting the closing brand statement. Centered on a single vertical axis is a Korean phrase set in a heavy rounded sans-serif with generous spacing and excellent legibility. The captured line reads, across two tightly leaded rows, 주식 커뮤니티를 보는 / 새로운 시선 (a new way of seeing the stock community), and within it the phrase 주식 커뮤니티 is rendered in vivid brand blue (approximately #3182F6) while the rest, 를 보는 새로운 시선, remains pure white. (The same card then resolves to the alternate statement 주식 커뮤니티 / 누구나 누릴 수 있게, meaning a stock community everyone can enjoy, again with 주식 커뮤니티 in blue.) The type is the only content in the frame, surrounded by vast black negative space that gives the message weight and calm. The contrast between white text, the saturated blue keyword phrase, and the deep black ground is very high, lending the moment a confident, conclusive, slightly aspirational tone. Early in this beat a faint partial fragment of the grey legal disclaimer may still be barely visible at the extreme bottom edge before clearing. The render is flat and vector-clean: no gradients, no grain, no glow beyond glyph crispness, no texture, like a single keyframe from a restrained motion-graphics sequence. The Korean glyphs are humanist with rounded terminals, even stroke weight, pixel-snapped and beautifully kerned in the Toss typographic tradition. The mood is inclusive and reassuring — the brand frames its stock community as a fresh perspective that anyone can access and enjoy, landing the campaign's democratizing promise. No real people, no photographs, and no third-party logos are present; the text is plain styled typography, not a logomark. The aesthetic anchor is a clean 4K Korean commercial brand-statement card: black canvas, bold Korean sans-serif, a single brand-blue accent phrase, total typographic minimalism. Korean culture context: phrases like 누구나 누릴 수 있게 (so that anyone can enjoy it) echo a democratization-of-finance message that is central to Korean fintech brand positioning, presenting investing community as an inclusive right rather than an insider privilege. The keyframe should be captured with both rows of the statement fully visible and the blue keyword phrase at full saturation. For faithful reproduction, observe the staging: the background is a true even deep black, edge to edge, with no gradient, vignette, or texture, so the type floats in pure void. The statement occupies a modest central block surrounded by vast black negative space, which gives the closing line gravity and a calm, aspirational tone. The keyword phrase 주식 커뮤니티 is set in the same saturated cool brand blue used throughout the film, with crisp anti-aliased edges and no glow, while the remaining words are pure white. The two rows are tightly leaded so they read as one connected thought, and the whole block is optically centered both horizontally and vertically. The glyph weight is heavy and assured, kerning deliberate, baselines pixel-snapped, for a broadcast-grade finish. There are no decorative elements — no underlines, no icons, no progress dots, no captions — and any lingering grey legal fragment at the extreme bottom edge is tiny and quickly gone. The mood is inclusive and reassuring, the brand landing its democratizing promise that a better stock community is a fresh perspective anyone can enjoy. The frame should feel deliberately art-directed, the kind of high-contrast brand-statement card used in polished Korean fintech commercials where a single blue phrase against black carries the whole emotional close. Because this is the penultimate beat before the logo, it must feel like a confident summation rather than a transition, with immaculate typographic craft, a clear reading order, and the brand-blue phrase unmistakably anchoring the meaning of the line.",
+        "t2i_negative": "photograph, real people, logomark, white background, gradients, glow, grain, 3d, clutter, multiple accent colors, watermark",
+        "i2v_motion": "The first statement 주식 커뮤니티를 보는 새로운 시선 builds line by line, the keyword phrase 주식 커뮤니티 popping to brand blue; it holds, then the card resolves to the second statement 주식 커뮤니티 누구나 누릴 수 있게 with the same blue keyword treatment, the new second line fading and rising into place. Text stays perfectly still on black between changes. No camera move. About 3.8 seconds, ending on a hard cut to the white logo endcard.",
+        "i2v_params": {
+          "clip_duration_sec": 3.8,
+          "camera_move": "locked_off",
+          "subject_motion_level": "two_phase_type_build",
+          "signature_effect": "blue_keyword_phrase_pop",
+          "pacing": "slow",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen Korean copy preserved verbatim; no real identities or logomarks"
+      }
+    },
+    {
+      "index": 10,
+      "duration": 2.668,
+      "framing": "full_frame_graphic",
+      "function": "logo_endcard",
+      "subject_action": "brand_logo_animates_in_center_on_white_and_holds",
+      "layout_grid": "center_logo_lockup",
+      "subject_position": "center",
+      "typo_motion": "logo_fade_in_center_hold",
+      "camera_angle": "flat_front_graphic",
+      "camera_facing": "screen_on",
+      "shot_scope": "full_screen_motion_graphic",
+      "gaze": "none",
+      "props": [
+        "brand_logo_lockup",
+        "split_circle_icon",
+        "wordmark"
+      ],
+      "color_palette": [
+        "#FFFFFF",
+        "#3182F6",
+        "#191F28",
+        "#1E5FE0",
+        "#0F1115"
+      ],
+      "color_intent": "clean_white_endcard_with_blue_icon_and_dark_wordmark",
+      "pose_description": "Pure white endcard. Centered brand logo lockup: a blue split/overlapping-circle icon to the left of a dark near-black lowercase wordmark reading 'toss securities'. The lockup fades/settles in and holds clean to the end of the film.",
+      "subject_motion": "logo_settle_then_static_hold",
+      "camera_motion": "none",
+      "camera_effect_local": "none",
+      "intra_cut_rhythm": "slow",
+      "transition_in": "hard_cut",
+      "transition_out": "end",
+      "mid_frame_path": "ADV-2026-029_frames/cut10_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "brand_logo_lockup"
+        ],
+        "midground": [],
+        "background": [
+          "pure_white_field"
+        ],
+        "lighting_env": [
+          "flat_high_key_graphic_light"
+        ],
+        "atmosphere": [
+          "clean_brand_closure",
+          "trust",
+          "minimal"
+        ]
+      },
+      "texture": {
+        "primary_subject": "flat_vector_logo",
+        "secondary_objects": [],
+        "background_surface": "matte_white",
+        "atmospheric": [
+          "clean_no_grain"
+        ]
+      },
+      "lighting": {
+        "key_direction": "flat_frontal_even",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_white",
+        "fill_strength": "high",
+        "key_to_fill_ratio": "1:1",
+        "rim_light": "none",
+        "practical_lights": [],
+        "shadow_presence": "none",
+        "overall_contrast": "low"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#FFFFFF",
+          "#3182F6",
+          "#191F28",
+          "#1E5FE0",
+          "#0F1115"
+        ],
+        "palette_role": {
+          "#FFFFFF": "background_field",
+          "#3182F6": "logo_icon_blue",
+          "#191F28": "wordmark_dark",
+          "#1E5FE0": "logo_icon_deep_blue",
+          "#0F1115": "wordmark_near_black"
+        },
+        "color_relationship": "neutral_white_with_blue_icon_and_dark_wordmark",
+        "temperature_balance": "neutral_cool_accent",
+        "saturation_strategy": "minimal_white_with_blue_logo_accent",
+        "contrast_type": "logo_on_white",
+        "accent_color": "#3182F6",
+        "accent_ratio": 0.06
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A clean, minimal brand endcard still on a pure white seamless background filling the 16:9 frame, in the premium minimalist style of a Korean fintech brand film. Centered precisely at the horizontal and vertical midpoint is a single horizontal brand logo lockup: to the left, a compact rounded icon resembling two overlapping half-circle leaf-like shapes rendered in a blue gradient from a brighter brand blue to a slightly deeper blue (approximately #3182F6 to #1E5FE0), and immediately to its right, a lowercase wordmark reading toss securities in a bold, rounded, humanist sans-serif in a dark near-black tone (approximately #191F28). The lockup is modest in size, sitting in a sea of white negative space, conveying confidence through restraint. There is nothing else in the frame: no tagline, no URL, no decoration, no shadow other than the inherent crispness of the vector shapes — just the brand identity, clean and centered. The lighting is flat, even, and bright, with no gradients on the background. The color grade is pure and neutral, the only saturated element being the blue logo icon; the wordmark reads as a calm dark neutral. The composition is the textbook clean endcard: maximal whitespace, perfectly centered logo lockup, total minimalism, communicating trust, modernity, and clarity as the film resolves. The glyphs of the wordmark are rounded and evenly weighted, pixel-snapped and beautifully kerned. The mood is the quiet, assured close of a well-crafted product film — having demonstrated the community features, the brand simply signs its name and steps back. This endcard should be reproduced as a generic, original brand-style logo lockup rather than an exact replica of any real trademarked logomark: render a simple abstract blue twin-curve icon plus a clean lowercase wordmark, evoking the category without copying protected brand artwork. No real people, no photographs, and no other third-party logos appear. The aesthetic anchor is a clean 4K Korean commercial endcard: white canvas, centered minimal blue-and-dark logo lockup, vast negative space, premium restraint. Korean culture context: Korean fintech brands favor extremely clean, whitespace-heavy endcards that signal trustworthiness and modern simplicity, and an English-language wordmark on a Korean spot is common as a mark of global, contemporary positioning. The keyframe should be captured with the logo lockup fully settled and centered, holding cleanly on white. For faithful reproduction, observe the construction: the background is a perfectly even paper-white with no tint, vignette, or texture, so the lockup appears to float in clean studio space. The logo lockup is horizontal, with the abstract blue twin-curve icon on the left separated from the wordmark by a consistent, modest gap proportional to the icon's height. The icon itself is a compact, friendly mark built from two overlapping rounded half-forms with a smooth blue gradient that shifts subtly from a brighter to a slightly deeper blue, giving it gentle dimensionality while remaining flat and vector-clean. The wordmark is lowercase, set in a bold rounded humanist sans-serif in a dark near-black tone, with even stroke weight, tight deliberate kerning, and pixel-snapped baselines. The entire lockup is optically centered both horizontally and vertically and is modest in scale, deliberately small within a generous sea of white negative space to signal confidence through restraint. There is no tagline, no URL, no social handles, no decorative rule, and no drop shadow beyond the inherent crispness of the vector edges. The only saturated element in the frame is the blue icon; everything else is neutral. The mood is the quiet, assured close of a well-crafted product film, the brand simply signing its name and stepping back after the feature tour. Crucially, this must be rendered as a generic, original brand-style lockup that evokes the fintech-securities category — an abstract blue twin-curve icon plus a clean lowercase wordmark — rather than an exact replica of any protected trademark artwork. The frame should look like a textbook premium Korean commercial endcard: maximal whitespace, a single centered minimal logo lockup, and total typographic and compositional restraint, holding perfectly still as the final image of the film.",
+        "t2i_negative": "photograph, real people, exact real trademark replica, dark background, gradients on background, glow, grain, 3d, clutter, taglines, url, watermark",
+        "i2v_motion": "The logo lockup fades and gently settles into the exact center of the white frame, the blue icon and dark wordmark resolving crisply, then holds completely static and clean to the end of the film. No camera move, no further animation. About 2.7 seconds to the end.",
+        "i2v_params": {
+          "clip_duration_sec": 2.668,
+          "camera_move": "locked_off",
+          "subject_motion_level": "logo_settle_then_static",
+          "signature_effect": "logo_fade_in_center",
+          "pacing": "slow",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; logo reproduced generically in brand style, not as an exact trademark replica; no real identities"
+      }
+    }
+  ],
+  "search_keywords": {
+    "industry": [
+      "finance"
+    ],
+    "product_category": [
+      "securities",
+      "stock_trading_app",
+      "investing_community"
+    ],
+    "target_demo": [
+      "retail_investors",
+      "beginner_investors",
+      "adults_20s_40s"
+    ],
+    "media_format": [
+      "40s_product_film",
+      "motion_graphics",
+      "kinetic_typography"
+    ],
+    "tone": [
+      "clean",
+      "trustworthy",
+      "friendly",
+      "confident"
+    ],
+    "pacing": [
+      "steady_build",
+      "calm_resolve"
+    ],
+    "technique": [
+      "kinetic_typography",
+      "ui_mockup_animation",
+      "feature_card_enumeration",
+      "simplified_3d_render"
+    ],
+    "vfx_keywords": [
+      "keyword_color_highlight",
+      "card_stack_animation",
+      "disclaimer_ticker",
+      "emoji_iconography"
+    ],
+    "copy_strategy_keywords": [
+      "pain_point_to_solution",
+      "feature_benefit_list",
+      "social_proof_stat",
+      "inclusive_brand_promise"
+    ],
+    "concept_derivation_pattern": [
+      "problem_montage_then_feature_explainer"
+    ]
+  },
+  "inferred_creative_thinking": {
+    "insight": "Korean retail investors badly want a place to discuss stocks, but the existing options (종토방/legacy boards) feel toxic and untrustworthy — full of anonymous noise and people who don't actually own the stock.",
+    "persona": "A beginner-to-casual Korean investor in their 20s-40s who has questions, wants to gauge sentiment, and craves a calm, credible community but doesn't trust the rumor-filled legacy boards.",
+    "moment": "The moment of opening the app, seeing a popular-post alert about your holding, checking a quick community poll, and realizing most posters are verified shareholders — feeling, for once, that you can read and join the conversation with confidence.",
+    "product_role": "Toss Securities' stock community is positioned as the trustworthy, well-designed alternative — alerts, voting, shareholder badges, and a large active user base solve the credibility and noise problems of legacy boards.",
+    "punchline": "The community you actually need? It's already in Toss Securities — and anyone can enjoy it.",
+    "differentiator": "Verification (주주배지) and curated relevance (인기글 알림, 투표) reframe a stock community around trust and signal rather than anonymous hype, backed by a 1.2M MAU social-proof stat.",
+    "brand_fit_one_liner": "Toss Securities makes the stock community clean, credible, and open to everyone — the opposite of the old message boards.",
+    "confidence": "inferred"
+  },
+  "inferred_brief": "Create a clean, music-only motion-graphics film that converts skeptics of toxic legacy stock boards by first dramatizing their frustration as relatable community posts, then naming Toss Securities' stock community as the trustworthy answer and walking through four credibility-and-engagement features (popular-post alerts, voting, shareholder badges, 1.2M MAU), closing on an inclusive promise that anyone can enjoy a better stock community — all in the brand's signature white/black kinetic-typography style with a single blue accent.",
+  "cross_pollination_tags": {
+    "adjacent": [
+      "neobank_feature_explainer",
+      "social_app_community_launch",
+      "investing_education_app_ad"
+    ],
+    "distant": [
+      "messaging_app_kinetic_typography",
+      "saas_onboarding_motion_graphics",
+      "news_aggregator_trust_campaign"
+    ],
+    "contrast": [
+      "cinematic_celebrity_finance_tvc",
+      "live_action_lifestyle_brand_film"
+    ]
+  },
+  "concept_derivation_pattern": "problem_montage_then_feature_explainer — voice the audience's pain as authentic-looking community chatter, pose the unmet need as a question, answer with the brand, then enumerate named features each paired with a one-line benefit and a simplified UI vignette, resolving on an inclusive brand promise and a clean logo endcard",
+  "confidence": "inferred",
+  "analyst_notes": "Detector reported 7 scene starts (0, 6, 8, 12.533, 13.633, 33.633, 37.433), treating the entire 13.633–33.633 white-background span as one scene. Visual review shows that span actually contains four distinct feature cards (인기글 알림, 투표 기능, 주주배지, MAU 120만) that swap via soft text fades/slides on a continuous white canvas; I split them into shots 5–8 (boundaries ~18.5s, ~24.4s, ~30.13s), so shot_count_corrected = true (10 shots vs detector's 7 segments). Hard cuts are confirmed only at white↔black background changes (6.0, 8.0, 12.533, 13.633, 33.633, 37.433); the feature-to-feature transitions are soft and labeled accordingly. The high wiggle metric is from constant UI/type motion, not handheld or stereoscopic wiggle. Audio: faster_whisper found no speech (speech_coverage 0.0); confirmed visually as music-only with on-screen captions — narration_lines empty. Brand blue measured ~#3182F6 (Toss blue) used as the single keyword-highlight accent throughout. A grey legal-disclaimer ticker scrolls along the bottom edge through the feature section (regulatory boilerplate). All on-screen Korean copy transcribed verbatim from native-resolution frames; UI screens, usernames, posts, badges and emoji are original simplified motion-graphic illustrations, and the closing logo is described generically rather than as an exact trademark replica.",
+  "verification": {
+    "frames_reviewed": "1201 frames extracted + 100% per-frame metrics; ~50 frames visually read at native 1920x1080 spanning the whole 40.101s, covering all six hard-cut boundaries (6.0/8.0/12.533/13.633/33.633/37.433), all four soft feature-card transitions (~18.5/24.4/30.13), every caption_change_spike (all on-screen copy transcribed verbatim), and the boundaries of mid/high motion runs; near-static title/endcard holds sampled at start/mid/end",
+    "audio_analyzed": true,
+    "hitrate_na": null,
+    "abstraction_checked": true
+  }
+}

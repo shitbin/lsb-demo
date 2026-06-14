@@ -1,0 +1,1532 @@
+{
+  "id": "ADV-2026-056",
+  "schema_version": "0.4++",
+  "source_ref": {
+    "platform": "uploaded_mp4",
+    "title_or_campaign": "올리브영 오늘드림 (Olive Young Today Dream)",
+    "brand": "올리브영 (CJ 올리브영, H&B 리테일)",
+    "product": "오늘드림 (당일 즉시배송 서비스)",
+    "model": "(여성 1인 메인 + 라이프스타일 일반 출연자)",
+    "year": 2026,
+    "production_note": "1280x540 ultrawide ~2.37:1 (64:27) cinemascope letterbox, 29.05s, 30fps, has_audio. Live-action lifestyle footage composited over an infinite high-key white studio background, with cosmetic/supplement product cut-outs and app-screenshot UI cards floating in from frame edges, plus brand-green two-color kinetic Korean typography. Re-analyzed frame-by-frame: the long dissolve montage (4.5-15.9s) that auto-detect merges was split into real sub-cuts (paper-pile rest, yoga, cafe). Opening hook is on a DARK low-key background (not white).",
+    "url": null
+  },
+  "category_primary": "retail.beauty_platform",
+  "category_tags": [
+    "health_and_beauty_retail",
+    "same_day_delivery",
+    "ecommerce_app",
+    "beauty",
+    "lifestyle",
+    "kinetic_typography"
+  ],
+  "mood": [
+    "upbeat",
+    "empathetic_comforting",
+    "clean_minimal",
+    "friendly",
+    "urban_single_household"
+  ],
+  "target_demo": "20s-30s urban office workers / single-person households, women; busy daily life with same-day-delivery demand",
+  "total_duration": 29.05,
+  "shot_count": 9,
+  "shot_count_corrected": 9,
+  "fps": 30.0,
+  "aspect_ratio": "2.37:1 (cinemascope letterbox, 64:27, 1280x540)",
+  "narrative_arc": "Dark empathy hook ('바쁘게 흘러간 오늘', bespectacled woman CU) -> white dissolve montage of daily pain points (slumped on paperwork '나를 위한 시간', yoga + floating products '좋아하는 것들로만 채우기에도', friends at cafe '모자란 하루니까') -> solution pivot (yawn '기다림은 빼고 설렘만 담아') -> app-shopping service visualization (green sofa + phone + floating app UI cards, '가장 필요한 순간 가장 빠르게 닿을 수 있도록') -> decision beat (glasses-adjust + green delivery icon) -> climax/CTA (green armchair amid towering kraft delivery parcels, '지금 주문하고, 오늘 바로.') -> green wipe to OLIVE YOUNG logo end-card",
+  "narrative_structure": "empathy_to_solution_to_cta_linear",
+  "pacing_curve": "front_loaded",
+  "music_tempo_curve": "steady",
+  "wow_cut_index": [
+    5,
+    8
+  ],
+  "creative_device": "Empathy copy about an over-busy day delivered in two-color brand-green kinetic Korean typography, set against an infinite white studio where lifestyle vignettes dissolve into one another and beauty/health products plus app-UI cards float weightlessly in — visualizing a service that 'reaches you fastest at the moment you most need it'. Pivots from pain ('subtract the waiting') to abundant payoff (a customer enthroned in brand-green amid a mountain of same-day parcels) and closes on a direct order-now CTA and the olive-O logo.",
+  "production_signature": {
+    "capture_style": "mixed",
+    "camera_signature": [
+      "locked_off",
+      "slow_push_in"
+    ],
+    "signature_note": "Live-action subjects (shallow DOF, natural light) composited over an infinite high-key white background. NOT wiggle/parallax 3D (wiggle metrics: mean_abs_shift_x 1.55, sign_flips 0.17 = low) — real motion blur and depth. Signature motion-graphics: product/app cut-outs floating from frame edges, brand-green two-color kinetic typography, dissolve transitions softening montage cut boundaries (which defeats auto cut-detection), and a green diagonal wipe into the logo.",
+    "color_grade": "high_key_white_with_dark_hook",
+    "color_grade_note": "Dominant near-pure-white high-key (#f1f0ed~#fcfafd) for most of the film, opening instead on a deliberately dark low-key hook; natural warm skin tones; brand-green (#9ba479/#9aca3c family) as the single recurring saturated accent in typography, sofa, armchair, icon and logo.",
+    "texture_fx": "clean_digital"
+  },
+  "global_layout": {
+    "grid_system": "center",
+    "subject_placement_dominant": "center",
+    "subject_typo_relation": "typo_over_or_beside_subject",
+    "negative_space_use": "generous",
+    "layout_note": "Subjects centered (or center-right in the hook) in vast white negative space. Kinetic Korean copy sits large on the left or mirrored left-and-right around the subject (key words in brand-green); product and app-UI cut-outs enter from the top/sides. Minimal, airy H&B-retail tone.",
+    "subtitle_zone": "left or mirrored left/right (kinetic copy)"
+  },
+  "recurring_motifs": [
+    "brand-green two-color kinetic Korean typography (key word in green)",
+    "infinite high-key white studio background",
+    "floating product and app-screenshot UI cut-outs",
+    "bespectacled woman as the busy-everyday persona",
+    "brand-green furniture (curved sofa, armchair)",
+    "OLIVE YOUNG green olive-O logo"
+  ],
+  "copywriting": {
+    "tagline_text": "지금 주문하고, 오늘 바로. 올리브영 오늘드림",
+    "tagline_structure": "immediacy command ('지금 주문하고' + '오늘 바로') + brand/service name ('올리브영 오늘드림')",
+    "tagline_length_syllables": 20,
+    "tagline_position_sec": 24.3,
+    "cta_text": "지금 주문하고, 오늘 바로.",
+    "cta_text_structure": "imperative immediacy ('지금 주문' + '오늘 바로') — the same-day-delivery core benefit",
+    "cta_position_sec": 24.3,
+    "copy_tone": [
+      "empathetic_comforting",
+      "upbeat",
+      "direct",
+      "informative"
+    ],
+    "copy_strategy": "Open with empathy for an over-busy day ('바쁘게 흘러간 오늘', '나를 위한 시간', '좋아하는 것들로만 채우기에도 모자란 하루니까') to build emotional connection, pivot to the benefit with an antithesis ('기다림은 빼고 설렘만 담아' — subtract the waiting, keep only the excitement; '가장 필요한 순간 가장 빠르게 닿을 수 있도록'), then close on a direct CTA ('지금 주문하고, 오늘 바로.'). Key words popped in brand-green for kinetic rhythm. Voice and on-screen captions largely match (both).",
+    "copy_lines_count": 7,
+    "lines": [
+      {
+        "position_sec": 0.5,
+        "text": "바쁘게 흘러간 오늘",
+        "function": "empathy_hook",
+        "tone": "empathetic_comforting",
+        "source": "both"
+      },
+      {
+        "position_sec": 5.3,
+        "text": "나를 위한 시간",
+        "function": "empathy_self_care",
+        "tone": "empathetic_comforting",
+        "source": "both"
+      },
+      {
+        "position_sec": 7.5,
+        "text": "좋아하는 것들로만 채우기에도 모자란 하루니까",
+        "function": "pain_point_time_scarcity",
+        "tone": "empathetic_comforting",
+        "source": "both"
+      },
+      {
+        "position_sec": 12.5,
+        "text": "기다림은 빼고 설렘만 담아",
+        "function": "solution_pivot_immediacy",
+        "tone": "direct",
+        "source": "both"
+      },
+      {
+        "position_sec": 16.0,
+        "text": "가장 필요한 순간 가장 빠르게 닿을 수 있도록",
+        "function": "service_benefit_speed",
+        "tone": "direct",
+        "source": "both"
+      },
+      {
+        "position_sec": 24.3,
+        "text": "지금 주문하고,",
+        "function": "cta_order",
+        "tone": "direct",
+        "source": "both"
+      },
+      {
+        "position_sec": 25.8,
+        "text": "오늘 바로. 올리브영 오늘드림",
+        "function": "cta_brand_recall",
+        "tone": "direct",
+        "source": "both"
+      }
+    ],
+    "captions": [
+      {
+        "position_sec": 16.5,
+        "text": "(app-screen product/discount labels — generic e-commerce listing reality: product thumbnails, prices, discount % badges, today-deal/PICK style chips)",
+        "function": "in-app shopping reality (products/discounts shown)"
+      },
+      {
+        "position_sec": 23.0,
+        "text": "(kraft delivery parcels stamped with green wordmark and '오늘드림' service label)",
+        "function": "delivery payoff / brand reality on packaging"
+      }
+    ],
+    "narration_handling": "excerpt_only",
+    "narration_note": "Voice narration and on-screen kinetic copy largely match. App-screen product/discount text and box stamps are screen-reality elements (not stored verbatim)."
+  },
+  "typography": {
+    "primary_font_class": "korean_gothic_bold_sans (kinetic copy)",
+    "secondary_font_class": "korean_gothic_medium_sans",
+    "animation_style": [
+      "kinetic",
+      "pop",
+      "scale_in",
+      "slide"
+    ],
+    "subtitle_position_dominant": "left_or_mirrored",
+    "tagline_position": "mirrored_left_right (CTA) then center (logo)",
+    "color_strategy": "Two-color kinetic: black/charcoal body with the key word in brand-green (#9ba479/#9aca3c family). High legibility against the white field (and grey-white against the dark hook).",
+    "appearance_count": 11,
+    "key_typography_moments_sec": [
+      0.5,
+      5.3,
+      7.5,
+      9.6,
+      12.5,
+      16.0,
+      24.3,
+      25.8
+    ],
+    "typo_motion_dominant": "Key words pop/scale in brand-green ahead of the black connective syllables, assembling word by word in sync with the voice; antithesis lines ('기다림은 빼고' / '설렘만 담아', CTA '지금 주문하고,' / '오늘 바로.') are mirrored left-and-right around the central subject."
+  },
+  "vfx": {
+    "primary_effects": [
+      "ui_motion",
+      "color_pop",
+      "cutout_composite",
+      "kinetic_typo",
+      "graphic_wipe"
+    ],
+    "effect_intensity": "moderate",
+    "transition_style_dominant": "dissolve",
+    "vfx_event_count": 9,
+    "vfx_timing_array_sec": [
+      4.5,
+      6.8,
+      9.6,
+      12.1,
+      15.9,
+      20.3,
+      22.1,
+      24.3,
+      27.0
+    ],
+    "wow_vfx_index": [
+      6,
+      8
+    ],
+    "notable_vfx_note": "Core VFX: (1) infinite-white compositing with cosmetic/supplement product cut-outs floating in from edges; (2) app-screenshot UI cards floating around the seated figure (service visualization, ~16-20s); (3) brand-green two-color kinetic typography throughout; (4) dissolve transitions linking the lifestyle montage (4.5-15.9s); (5) towering kraft parcel-pile composite at the climax (~22-27s); (6) brand-green diagonal wipe into the logo end-card (~27s)."
+  },
+  "audio": {
+    "has_audio": true,
+    "language": "ko",
+    "speech_coverage": 0.568,
+    "bgm_likely": true,
+    "narration_lines": [
+      {
+        "start": 0.34,
+        "end": 2.34,
+        "text": "바쁘게 흘러간 오늘",
+        "text_raw": "바쁘게 흘러간 오니",
+        "kind": "narration",
+        "source": "faster_whisper"
+      },
+      {
+        "start": 4.84,
+        "end": 6.84,
+        "text": "나를 위한 시간",
+        "text_raw": "나를 두 번씩 하는 비선나요?",
+        "kind": "narration",
+        "source": "faster_whisper"
+      },
+      {
+        "start": 7.34,
+        "end": 10.84,
+        "text": "좋아하는 것들로만 채우기에도 모자란 하루니까",
+        "text_raw": "좋아하는 것들로만 치우기에도 모자란 하루니까",
+        "kind": "narration",
+        "source": "faster_whisper"
+      },
+      {
+        "start": 12.34,
+        "end": 14.34,
+        "text": "기다림은 빼고 설렘만 담아",
+        "text_raw": "기다리면 떨둘, 솔냄만 담아",
+        "kind": "narration",
+        "source": "faster_whisper"
+      },
+      {
+        "start": 15.84,
+        "end": 18.84,
+        "text": "가장 필요한 순간 가장 빠르게 닿을 수 있도록",
+        "text_raw": "가장 필요한 순간, 가장 빠르게 다을 수 있고",
+        "kind": "narration",
+        "source": "faster_whisper"
+      },
+      {
+        "start": 24.3,
+        "end": 28.3,
+        "text": "지금 주문하고, 오늘 바로. 올리브영 오늘드림",
+        "text_raw": "지금 주문하고, 오늘 바로 올리브영 오늘 드림!",
+        "kind": "narration",
+        "source": "faster_whisper"
+      }
+    ],
+    "voice_vs_caption": "Voice narration and on-screen kinetic captions largely match (both). The key copy, CTA and brand name are synced in voice and text. App-screen product/discount text is caption-only (screen reality).",
+    "narration_handling": "excerpt_only",
+    "audio_note": "faster-whisper(base): 6 segments, speech_coverage 0.568 (significant BGM). Whisper mis-hearings corrected against on-screen captions: '흘러간 오니'->'오늘'; '나를 두 번씩 하는 비선나요'->on-screen '나를 위한 시간'; '치우기'->'채우기'; '기다리면 떨둘 솔냄만 담아'->on-screen '기다림은 빼고 설렘만 담아' (KEY CORRECTION: the on-screen text reads '설렘만 담아', not the old entry's guessed '필요한 것만 담아'); '다을'->'닿을'. On-screen captions are authoritative where they disagree with whisper."
+  },
+  "frames_dir": "ADV-2026-056_frames",
+  "contact_sheet_path": "ADV-2026-056_frames/contact_sheet.png",
+  "shots": [
+    {
+      "index": 1,
+      "duration": 4.5,
+      "start_sec": 0.0,
+      "end_sec": 4.5,
+      "framing": "CU",
+      "function": "empathy_hook",
+      "color_mood": "dark_moody_lowkey",
+      "subject_action": "bespectacled young woman in three-quarter view gazes slightly up and off-camera with a weary expression against a dark moody background; kinetic Korean copy assembles word by word",
+      "subject_identity": "protagonist_main",
+      "subject_relationship_to_protagonist": "main_character",
+      "copy_overlay": "바쁘게 흘러간 오늘",
+      "layout_grid": "left_third_typo_right_subject",
+      "subject_position": "center_right",
+      "subject_typo_layout": "typo_left_subject_right",
+      "typo_motion": "word_by_word_assemble_pop",
+      "panel_layout": null,
+      "camera_angle": "eye_level",
+      "camera_facing": "three_quarter",
+      "shot_scope": "face_only",
+      "gaze": "off_camera",
+      "eye_contact_effect": "averted upward gaze conveys end-of-day fatigue and invites identification",
+      "props": [
+        "eyeglasses"
+      ],
+      "prop_semantics": "eyeglasses signal a working, screen-bound, busy professional persona",
+      "color_palette": [
+        "#2a2622",
+        "#b89a8a",
+        "#6b514a",
+        "#e8e4df"
+      ],
+      "color_intent": "low-key dark field isolates the lit face and the grey-white headline for an intimate hook",
+      "pose_description": "head turned three-quarter, chin slightly up, eyes off-camera, still and pensive — the tired exhale of a long day",
+      "subject_motion": "micro_expression_still",
+      "prop_motion": "none",
+      "camera_motion": "locked_off",
+      "camera_motion_intensity": "subtle",
+      "camera_effect_local": "shallow_dof",
+      "intra_cut_rhythm": "static",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [
+        "kinetic_typo"
+      ],
+      "vfx_intensity_local": "subtle",
+      "fact_check_flag": false,
+      "notes": "Opening empathy hook on a DARK low-key background (not white) — corrects old entry which called shot1 high_key_white. Kinetic '바쁘게 흘러간 오늘' builds word by word, '오늘' bold.",
+      "visible_elements": {
+        "foreground": [
+          "young woman in eyeglasses, three-quarter face"
+        ],
+        "midground": [
+          "bold kinetic Korean headline copy (left)"
+        ],
+        "background": [
+          "dark charcoal-brown studio falloff, deep shadow"
+        ],
+        "lighting_env": [
+          "single soft frontal-left key, heavy shadow falloff"
+        ],
+        "atmosphere": [
+          "moody, intimate, contemplative"
+        ]
+      },
+      "texture": {
+        "primary_subject": "skin_natural_minimal_makeup",
+        "secondary_objects": [
+          "glass_clear_eyewear",
+          "plastic_matte_frame"
+        ],
+        "background_surface": "deep_shadow_seamless",
+        "atmospheric": [
+          "soft_grain"
+        ]
+      },
+      "lighting": {
+        "key_direction": "front_left",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_5200K",
+        "fill_strength": "weak",
+        "key_to_fill_ratio": "4:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "deep",
+        "overall_contrast": "low_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#2a2622",
+          "#b89a8a",
+          "#6b514a",
+          "#e8e4df"
+        ],
+        "palette_role": {
+          "#2a2622": "background_dark_dominant",
+          "#b89a8a": "skin_highlight",
+          "#6b514a": "skin_shadow",
+          "#e8e4df": "headline_grey_white"
+        },
+        "color_relationship": "monochrome",
+        "temperature_balance": "warm_dominant",
+        "saturation_strategy": "desaturated_with_pop",
+        "contrast_type": "luminance_high",
+        "accent_color": "#9ba479",
+        "accent_ratio": "0_percent"
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A 2.37:1 ultrawide cinemascope letterbox frame, dark and moody, opening on an extreme-to-medium close-up of a young East Asian woman wearing round thin-rimmed black eyeglasses. She is positioned to the right of center, her face turned in a three-quarter angle, eyes cast slightly upward and off-camera with a faintly weary, introspective expression — the look of someone at the tired end of an overloaded day. Her dark brown hair falls loosely past her shoulders. The lighting is deliberately low-key and dramatic for this opening beat: a single soft key from the front-left sculpts the planes of her face while the background falls off into deep shadow, near-charcoal grey-brown (#2a2622 to #1a1620), creating a contemplative, cinematic mood rather than the bright high-key look that follows later in the film. The skin reads in warm natural tones (#b89a8a highlights, #6b514a shadow). On the left third of the frame, large bold sans-serif Korean kinetic typography appears and assembles word by word; at the captured moment the full line reads, set in two tiers, the on-screen copy preserved verbatim as: top tier '바쁘게 흘러간' in a medium-weight grey-white, and below it the word '오늘' rendered larger and bolder as the emphasis word. The type is clean modern Korean gothic (sans-serif), tightly set, high-contrast against the dark field for maximum legibility. There is no product, no logo, and no other graphic element in frame — only the woman and the kinetic copy. The composition leans on generous negative space in the shadowed left and upper regions where the type breathes. The camera is essentially locked off with only the most subtle, almost imperceptible drift, lending stillness and gravity to the emotional hook. Depth of field is shallow: her near eye and glasses rims are crisp while the far side of her face and the background dissolve into soft bokeh. Fine, restrained digital grain overlays the frame; there is a faint, elegant softness to the highlights. The atmosphere is empathetic and quietly melancholic — the visual equivalent of an exhale after a long, busy day, establishing the emotional premise that the rest of the film will resolve. Color temperature is neutral-to-slightly-warm, around 5200K, with the warmth concentrated in the skin and the cool muted shadows surrounding her. The mood targets recognition and identification: a relatable, ordinary, slightly fatigued urban professional rather than an idealized glossy model — the eyeglasses functioning as a quiet signifier of a working, screen-bound, deadline-driven life. The framing reserves the right two-thirds for the subject and the left third for the copy, an asymmetric balance that feels editorial and contemporary. The letterbox bars (black, top and bottom) reinforce the cinematic, premium register. Render as a clean digital commercial frame: photographic realism, natural skin texture with visible fine detail and minimal retouch, soft directional studio-style key light, shallow focus, subtle film grain, muted desaturated palette with the only true brightness living in the highlight on her cheek and the grey-white type. The overall impression should read as the opening empathy hook of a polished Korean retail-platform lifestyle commercial — restrained, intimate, and emotionally inviting, with the kinetic Korean headline as the single graphic protagonist of the frame. The subject must be an abstracted everyday type, never a likeness of any specific real person or celebrity; facial features generic and non-identifying. No watermark, no UI, no additional text beyond the verbatim Korean copy '바쁘게 흘러간 오늘'.",
+        "t2i_negative": "bright high-key white background, harsh light, multiple text blocks, decorative font, logo marks, watermark, real celebrity likeness, distorted hands, busy background",
+        "i2v_motion": "Subject holds an almost-still pose with the faintest breathing micro-motion and a slow blink; the kinetic Korean headline assembles word by word, the final word '오늘' popping slightly larger. Camera locked-off with imperceptible drift. ~4.5s, moody and slow. Hard cut at end.",
+        "i2v_params": {
+          "clip_duration_sec": 4.5,
+          "camera_move": "locked_off",
+          "subject_motion_level": "micro",
+          "signature_effect": "kinetic_typo_assemble",
+          "pacing": "static",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; face abstracted (not a real-person likeness); on-screen Korean copy '바쁘게 흘러간 오늘' preserved verbatim"
+      },
+      "mid_frame_path": "ADV-2026-005_frames/cut01_mid.png"
+    },
+    {
+      "index": 2,
+      "duration": 2.33,
+      "start_sec": 4.5,
+      "end_sec": 6.83,
+      "framing": "MCU",
+      "function": "pain_point_montage",
+      "color_mood": "high_key_white",
+      "subject_action": "same woman slumps face-down resting her cheek on a tall stack of white office papers in an infinite white studio; a black ink-brush stroke sweeps across; kinetic copy builds",
+      "subject_identity": "protagonist_main",
+      "subject_relationship_to_protagonist": "main_character",
+      "copy_overlay": "나를 위한 시간",
+      "layout_grid": "center",
+      "subject_position": "center_right",
+      "subject_typo_layout": "typo_left_subject_right",
+      "typo_motion": "word_by_word_build_green_accent",
+      "panel_layout": "dissolve_montage_subscene",
+      "camera_angle": "eye_level",
+      "camera_facing": "three_quarter",
+      "shot_scope": "bust",
+      "gaze": "eyes_closed",
+      "eye_contact_effect": "closed eyes and slumped rest convey exhaustion / no time for oneself",
+      "props": [
+        "stack_of_white_papers",
+        "eyeglasses",
+        "ink_brush_stroke_graphic",
+        "floating_cosmetic_bottle_cutout"
+      ],
+      "prop_semantics": "paper pile = overwork; resting on it = no time for self; brushstroke = kinetic design motif; floating bottle teases product-float",
+      "color_palette": [
+        "#f1f0ed",
+        "#e9e8e6",
+        "#c8a892",
+        "#9ba479",
+        "#2a2722"
+      ],
+      "color_intent": "bright high-key white void with the green keyword and black ink stroke as the only saturated graphics",
+      "pose_description": "upper body slumped forward, cheek and chin resting on a heap of papers, eyes closed in mock-exhaustion",
+      "subject_motion": "settle_rest_micro",
+      "prop_motion": "papers_slight_drift_floating_bottle_drift_in",
+      "camera_motion": "locked_off",
+      "camera_motion_intensity": "subtle",
+      "camera_effect_local": "shallow_dof",
+      "intra_cut_rhythm": "static",
+      "transition_in": "cut",
+      "transition_out": "dissolve",
+      "vfx_in_shot": [
+        "kinetic_typo",
+        "ink_brush_graphic",
+        "cutout_composite"
+      ],
+      "vfx_intensity_local": "moderate",
+      "fact_check_flag": false,
+      "notes": "First sub-scene of the dissolve montage that auto-detect MERGED. Woman face-down on paper pile = overwork. '나를 위한' black + '시간' green. Ink-brush graphic motif. Split out by frame-by-frame inspection.",
+      "visible_elements": {
+        "foreground": [
+          "young woman slumped on a stack of white papers",
+          "eyeglasses"
+        ],
+        "midground": [
+          "black ink-brush stroke graphic",
+          "kinetic Korean copy (left)",
+          "floating cosmetic bottle cut-out (right edge)"
+        ],
+        "background": [
+          "infinite pure-white studio cyclorama"
+        ],
+        "lighting_env": [
+          "large soft frontal high-key source, shadowless"
+        ],
+        "atmosphere": [
+          "bright, airy, wryly relatable"
+        ]
+      },
+      "texture": {
+        "primary_subject": "skin_natural_minimal_makeup",
+        "secondary_objects": [
+          "paper_matte_stack",
+          "glass_clear_eyewear",
+          "ink_painterly"
+        ],
+        "background_surface": "seamless_white_matte",
+        "atmospheric": [
+          "soft_grain"
+        ]
+      },
+      "lighting": {
+        "key_direction": "front",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "strong",
+        "key_to_fill_ratio": "1:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "minimal",
+        "overall_contrast": "hi_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#f1f0ed",
+          "#e9e8e6",
+          "#c8a892",
+          "#9ba479"
+        ],
+        "palette_role": {
+          "#f1f0ed": "background_white_dominant",
+          "#e9e8e6": "paper_stack_neutral",
+          "#c8a892": "skin_warm",
+          "#9ba479": "keyword_accent_green"
+        },
+        "color_relationship": "monochrome",
+        "temperature_balance": "balanced",
+        "saturation_strategy": "desaturated_with_pop",
+        "contrast_type": "luminance_high",
+        "accent_color": "#9ba479",
+        "accent_ratio": "5_percent"
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A 2.37:1 ultrawide cinemascope letterbox frame that snaps from the dark opening into a bright, airy, near-pure-white infinite studio background (#f1f0ed to #fbfbfa), a high-key seamless cyclorama with no horizon line and no shadow on the wall. In the right-center of the frame, the same young East Asian woman in round thin-rimmed black eyeglasses is shown in a medium close-up, but now she has let her head and upper body slump forward to rest her cheek and chin on top of a tall, untidy stack of white office papers and documents piled on a surface in the lower foreground. Her eyes are gently closed; her expression is one of exhausted surrender — the visual gag of being buried in and resting atop a mountain of paperwork. The paper stack is rendered as a slightly motion-blurred soft heap of white sheets (#e9e8e6 with cool grey edges), occupying the lower third and reading as overwork. Sweeping across the white space behind and around her is a graphic motif: a loose, dynamic black ink-brush stroke (a horizontal calligraphic smear, #2a2722, with dry-brush texture and tapered ends) that animates through the composition as a kinetic design element bridging the montage. On the left and center, large sans-serif Korean kinetic typography is mid-build; at the captured moment the on-screen copy preserved verbatim reads in two tiers, with '나를 위한' in solid black-charcoal on the upper line and '시간' rendered in vivid brand-green (#9aca3c, in the #9ba479 family) as the emphasis word below — the two-color kinetic treatment that recurs throughout the film, black body text with the key word popped in green. To the far right edge, a small floating cut-out object (a slim cosmetic or supplement bottle) just begins to drift into frame as a teaser of the product-float motif. Lighting is bright, soft, shadowless high-key from a large frontal source, even fill, neutral 5500K, giving clean white surfaces and natural skin tones (#c8a892 highlight, #7a5e54 shadow). The camera is locked off with only micro-drift. Depth of field is moderately shallow — the woman's face and glasses crisp, the paper stack and floating bottle softly blurred. The composition uses very generous negative white space, an editorial minimalist health-and-beauty retail aesthetic: subject and props anchored center-right, copy on the left, vast clean emptiness elsewhere. Fine subtle digital grain; clean modern commercial finish. The emotional register pivots from the dark hook into something lighter and wryly relatable — the busy person who has no time even for herself, literally face-down in her workload, set against the optimistic bright white world the brand inhabits. The ink-brush stroke adds energy and a designed, graphic-motion sensibility consistent with the kinetic-typography signature. The mood is empathetic but upbeat, clean, contemporary, and slightly humorous. The subject must be an abstracted generic everyday type, never a likeness of any specific real person or celebrity; features non-identifying. Render with photographic realism, natural minimally-retouched skin, soft high-key studio light, shallow focus on the face, subtle grain, near-white desaturated palette punctuated only by the single brand-green emphasis word and the black ink stroke. No watermark and no UI elements; the only text is the verbatim Korean kinetic copy '나를 위한 시간'. Letterbox bars top and bottom. The overall impression: a bright minimalist montage beat in a Korean retail-platform lifestyle commercial, visualizing the idea of having no time for oneself through the image of a woman collapsed onto a stack of paperwork in an infinite white void.",
+        "t2i_negative": "dark background, harsh shadow, real celebrity likeness, readable brand label on bottle, cluttered desk, multiple people, distorted hands, watermark, low quality",
+        "i2v_motion": "The woman settles slightly deeper onto the paper stack with a tiny breathing motion, eyes closed; a black ink-brush stroke sweeps across the white field; the green keyword '시간' pops in as the copy completes; a slim bottle cut-out drifts in from the right. ~2.3s, locked-off, bright and light. Dissolve out.",
+        "i2v_params": {
+          "clip_duration_sec": 2.33,
+          "camera_move": "locked_off",
+          "subject_motion_level": "micro",
+          "signature_effect": "ink_brush_sweep_plus_kinetic_typo",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; face abstracted; bottle cut-out generic/unbranded; Korean copy '나를 위한 시간' preserved verbatim"
+      },
+      "mid_frame_path": "ADV-2026-005_frames/cut02_mid.png"
+    },
+    {
+      "index": 3,
+      "duration": 2.8,
+      "start_sec": 6.83,
+      "end_sec": 9.63,
+      "framing": "WS",
+      "function": "pain_point_montage",
+      "color_mood": "high_key_white",
+      "subject_action": "a small full-figure activewear silhouette holds a yoga lunge/warrior pose in a vast white void while cosmetic/supplement bottle cut-outs float in; three-tier green-and-black kinetic copy builds",
+      "subject_identity": "lifestyle_figure_generic",
+      "subject_relationship_to_protagonist": "montage_persona_proxy",
+      "copy_overlay": "좋아하는 것들로만 채우기에도",
+      "layout_grid": "center",
+      "subject_position": "center_left",
+      "subject_typo_layout": "typo_left_figure_center",
+      "typo_motion": "three_tier_alternating_green_black_build",
+      "panel_layout": "dissolve_montage_subscene",
+      "camera_angle": "eye_level",
+      "camera_facing": "profile",
+      "shot_scope": "full_body",
+      "gaze": "none",
+      "eye_contact_effect": null,
+      "props": [
+        "yoga_activewear",
+        "floating_cosmetic_bottle_cutout",
+        "floating_supplement_bottle_cutout"
+      ],
+      "prop_semantics": "yoga = self-care; floating beauty/health bottles = the brand's categories arriving weightlessly into daily life",
+      "color_palette": [
+        "#eeedeb",
+        "#d8c0a0",
+        "#9ba479",
+        "#8a8076"
+      ],
+      "color_intent": "airy white void with warm product tones and green keywords as the only color",
+      "pose_description": "slim figure in a balanced standing yoga lunge, one arm extended, body elongated, small within the white frame",
+      "subject_motion": "hold_pose_micro",
+      "prop_motion": "product_cutouts_drift_float",
+      "camera_motion": "locked_off",
+      "camera_motion_intensity": "none",
+      "camera_effect_local": "none",
+      "intra_cut_rhythm": "steady",
+      "transition_in": "dissolve",
+      "transition_out": "dissolve",
+      "vfx_in_shot": [
+        "kinetic_typo",
+        "cutout_composite",
+        "color_pop"
+      ],
+      "vfx_intensity_local": "moderate",
+      "fact_check_flag": false,
+      "notes": "Second montage sub-scene. Yoga figure + floating product bottles. '좋아하는'(green) '것들로만'(black) '채우기에도'(green) three-tier kinetic. Visualizes the desirable self-care life.",
+      "visible_elements": {
+        "foreground": [
+          "small full-figure yoga pose in activewear"
+        ],
+        "midground": [
+          "floating cosmetic and supplement bottle cut-outs",
+          "three-tier kinetic Korean copy (left)"
+        ],
+        "background": [
+          "infinite pure-white studio void"
+        ],
+        "lighting_env": [
+          "even soft high-key frontal light"
+        ],
+        "atmosphere": [
+          "light, aspirational, buoyant"
+        ]
+      },
+      "texture": {
+        "primary_subject": "fabric_athletic_matte",
+        "secondary_objects": [
+          "plastic_glossy_bottle",
+          "glass_frosted_bottle"
+        ],
+        "background_surface": "seamless_white_matte",
+        "atmospheric": [
+          "soft_grain"
+        ]
+      },
+      "lighting": {
+        "key_direction": "front",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "strong",
+        "key_to_fill_ratio": "1:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "minimal",
+        "overall_contrast": "hi_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#eeedeb",
+          "#d8c0a0",
+          "#9ba479",
+          "#8a8076"
+        ],
+        "palette_role": {
+          "#eeedeb": "background_white_dominant",
+          "#d8c0a0": "product_warm_accent",
+          "#9ba479": "keyword_accent_green",
+          "#8a8076": "figure_midtone"
+        },
+        "color_relationship": "monochrome",
+        "temperature_balance": "balanced",
+        "saturation_strategy": "desaturated_with_pop",
+        "contrast_type": "luminance_high",
+        "accent_color": "#9ba479",
+        "accent_ratio": "8_percent"
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A 2.37:1 ultrawide cinemascope letterbox frame, bright high-key infinite white studio background (#eeedeb to #fafafa), continuing the dissolve montage. At center-left, a small full-figure silhouette-like figure of a slim young woman in fitted activewear (leggings and a cropped top) holds a graceful yoga pose — a standing lunge or warrior-style stretch with one arm extended, body elongated and balanced, rendered relatively small within the vast white space to emphasize the airy emptiness around her. She reads as a generic active-lifestyle figure, abstracted, dark hair tied back, no identifying detail. The figure is mostly mid-tone against the white, with soft natural skin and the muted tones of athletic fabric (charcoal, oatmeal). Floating in from the right and upper edges of the frame are one or two cut-out product objects: a slim cosmetic dropper bottle or a supplement bottle (cream, amber, and pale-yellow tones, #d8c0a0 with a darker cap), composited as if drifting weightlessly through the scene — the signature product-float motion-graphic that visualizes the brand's beauty-and-health categories arriving effortlessly into daily life. On the left and center, bold sans-serif Korean kinetic typography is building word by word; at the captured moment the on-screen copy preserved verbatim reads across three stacked tiers: '좋아하는' in vivid brand-green (#9aca3c, #9ba479 family) on top, '것들로만' in solid black-charcoal in the middle, and '채우기에도' in brand-green again at the bottom — the alternating two-color kinetic rhythm popping the meaningful words in green while the connective words stay black. Lighting is bright, soft, even, shadowless high-key, neutral 5500K, producing clean white negative space and natural figure tones. The camera is locked off. Depth of field keeps the yoga figure reasonably sharp while the floating product cut-outs carry a slight motion blur as they drift. The composition is minimalist and generous: a small human figure and floating products afloat in a large white void with kinetic copy occupying the left, an editorial health-and-beauty retail look that equates self-care activity (yoga) and curated products with the things one would rather fill the day with. Fine subtle digital grain; clean modern commercial finish. The emotional register is light, aspirational, and gently playful — the catalog of pleasant things (exercise, good products, leisure) that a busy life leaves too little room for, floating in an idealized clean space. The mood is upbeat, clean, minimal, and warm-optimistic. All figures must be abstracted generic everyday types, never likenesses of any specific real person or celebrity; product cut-outs are generic unbranded bottle forms with no readable labels. Render with photographic realism for the figure, crisp clean compositing for the floating cut-outs, soft high-key studio light, subtle grain, near-white desaturated palette punctuated by the brand-green kinetic words and the soft warm product tones. No watermark; the only text is the verbatim Korean kinetic copy '좋아하는 것들로만 채우기에도'. Letterbox bars top and bottom. The overall impression: a buoyant montage beat of a Korean retail-platform lifestyle commercial, a yoga figure and weightlessly floating beauty products in an infinite white space, visualizing the desirable life one wishes there were time to fill the day with.",
+        "t2i_negative": "dark background, large dominant figure, readable brand labels, harsh shadow, real celebrity likeness, cluttered, watermark, low quality",
+        "i2v_motion": "The yoga figure holds the pose with subtle balance micro-motion while two product bottle cut-outs drift weightlessly in from the edges; the three-tier kinetic copy builds tier by tier, the green words popping. ~2.8s, locked-off, airy. Dissolve out.",
+        "i2v_params": {
+          "clip_duration_sec": 2.8,
+          "camera_move": "locked_off",
+          "subject_motion_level": "micro",
+          "signature_effect": "product_float_plus_kinetic_typo",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; figure abstracted; product cut-outs generic/unbranded; Korean copy '좋아하는 것들로만 채우기에도' preserved verbatim"
+      },
+      "mid_frame_path": "ADV-2026-005_frames/cut03_mid.png"
+    },
+    {
+      "index": 4,
+      "duration": 2.5,
+      "start_sec": 9.63,
+      "end_sec": 12.13,
+      "framing": "MS",
+      "function": "pain_point_montage",
+      "color_mood": "high_key_white_warm",
+      "subject_action": "a group of three to four young women laugh and chat over coffee at a low cafe table, composited into the white field; the kinetic sentence completes on the right",
+      "subject_identity": "lifestyle_figures_generic",
+      "subject_relationship_to_protagonist": "montage_social_proxy",
+      "copy_overlay": "모~자란 하루니까",
+      "layout_grid": "left_subject_right_typo",
+      "subject_position": "left",
+      "subject_typo_layout": "subject_left_typo_right",
+      "typo_motion": "final_clause_settle",
+      "panel_layout": "dissolve_montage_subscene",
+      "camera_angle": "eye_level",
+      "camera_facing": "three_quarter",
+      "shot_scope": "bust",
+      "gaze": "off_camera",
+      "eye_contact_effect": "friends looking at each other conveys warm social connection",
+      "props": [
+        "cafe_table",
+        "coffee_cups",
+        "teal_green_mug",
+        "pastry"
+      ],
+      "prop_semantics": "friends + coffee = the warm sociable leisure life that a busy day leaves no time for",
+      "color_palette": [
+        "#f0efec",
+        "#c4a890",
+        "#b89684",
+        "#49312b",
+        "#3f8f6a"
+      ],
+      "color_intent": "warm high-key vignette with a single teal mug accent against white negative space",
+      "pose_description": "women leaning toward one another, one lifting a mug to her lips, others smiling and animated mid-conversation",
+      "subject_motion": "laugh_chat_micro_gesture",
+      "prop_motion": "none",
+      "camera_motion": "locked_off",
+      "camera_motion_intensity": "subtle",
+      "camera_effect_local": "shallow_dof",
+      "intra_cut_rhythm": "steady",
+      "transition_in": "dissolve",
+      "transition_out": "dissolve",
+      "vfx_in_shot": [
+        "kinetic_typo",
+        "cutout_composite"
+      ],
+      "vfx_intensity_local": "moderate",
+      "fact_check_flag": false,
+      "notes": "Third montage sub-scene. Cafe friends laughing over coffee. Completes the sentence '좋아하는 것들로만 채우기에도 모자란 하루니까' with stylized '모~'. Warm social beat capping the empathy build.",
+      "visible_elements": {
+        "foreground": [
+          "group of 3-4 young women at a cafe table",
+          "coffee cups including a teal mug"
+        ],
+        "midground": [
+          "completed kinetic Korean copy (right)"
+        ],
+        "background": [
+          "bright warm-tinted white studio void"
+        ],
+        "lighting_env": [
+          "soft warm high-key daylight cast"
+        ],
+        "atmosphere": [
+          "warm, sociable, gently wistful"
+        ]
+      },
+      "texture": {
+        "primary_subject": "skin_natural_minimal_makeup",
+        "secondary_objects": [
+          "fabric_knit_soft",
+          "ceramic_glazed_mug"
+        ],
+        "background_surface": "seamless_white_warm",
+        "atmospheric": [
+          "soft_grain",
+          "dissolve_ghosting"
+        ]
+      },
+      "lighting": {
+        "key_direction": "front",
+        "key_hardness": "soft",
+        "key_color_temp": "warm_5000K",
+        "fill_strength": "strong",
+        "key_to_fill_ratio": "1:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "minimal",
+        "overall_contrast": "hi_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#f0efec",
+          "#c4a890",
+          "#49312b",
+          "#3f8f6a"
+        ],
+        "palette_role": {
+          "#f0efec": "background_white_dominant",
+          "#c4a890": "skin_warm_knit",
+          "#49312b": "hair_dark_anchor",
+          "#3f8f6a": "teal_mug_accent"
+        },
+        "color_relationship": "analogous",
+        "temperature_balance": "warm_dominant",
+        "saturation_strategy": "desaturated_with_pop",
+        "contrast_type": "luminance_mid",
+        "accent_color": "#9ba479",
+        "accent_ratio": "5_percent"
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A 2.37:1 ultrawide cinemascope letterbox frame, bright high-key near-white studio-lit background (#f0efec) tinted slightly warm, the closing beat of the dissolve montage. On the left side of the frame, a small convivial group of three to four young East Asian women sit together around a low cafe table, captured in a warm social moment — they are laughing, chatting, holding cups of coffee, leaning toward one another in relaxed friendship. They wear soft neutral knitwear and casual tops in oatmeal, beige and dusty rose (#c4a890, #b89684, with darker hair #49312b). One woman lifts a teal-green mug to her lips; another smiles broadly. The vignette reads as the warm, sociable, self-care side of life — friends and leisure — composited at modest scale into the bright white field so that abundant negative space opens up to the right. The cafe group sits in soft natural daylight with a gentle warm cast, and the whole left cluster carries a faint motion blur and shallow focus, lending a candid documentary feel. To the right, large bold sans-serif Korean kinetic typography completes the sentence that began in the previous montage beats; at the captured moment the on-screen copy preserved verbatim reads, with a stylized elongated first syllable, as '모~자란 하루니까' — set on the right in solid black-charcoal with subtle weight, the tilde-stretched '모~' giving it a playful spoken cadence. A small floating cut-out product or icon may drift near the upper area, continuing the float motif, but the dominant graphic is the completed copy line. Lighting is bright, soft, high-key, even, with a warm 5000K bias warming the skin and the cafe scene; minimal shadow. The camera is locked off. Depth of field is shallow on the cafe cluster. The composition balances a warm human vignette on the left against clean white space and the resolving kinetic copy on the right — an editorial, minimalist, lifestyle-retail aesthetic. Fine subtle digital grain; clean modern commercial finish. The emotional register lands the empathy build: a day is too short even to be filled only with the things and people one loves — friends, coffee, ease — which is precisely the time the service promises to give back. The mood is warm, sociable, gently wistful, and optimistic. All figures must be abstracted generic everyday types, never likenesses of any specific real person or celebrity; faces non-identifying, no readable logos on cups or clothing. Render with photographic realism for the cafe group, soft warm high-key light, shallow candid focus, subtle grain, near-white palette warmed by skin and the single teal mug, with the black kinetic Korean copy as the graphic anchor on the right. No watermark; the only text is the verbatim Korean kinetic copy '모~자란 하루니까' (the completion of the multi-beat sentence 좋아하는 것들로만 채우기에도 모자란 하루니까). Letterbox bars top and bottom. Additional faithful detail for reconstruction: the cafe table is a simple low surface with a couple of coffee cups, perhaps a small plate of pastry or bread, and the women are arranged in a loose cluster, some seated forward and some leaning back, their body language open and animated mid-conversation; the framing crops the scene to the upper bodies so the white studio void reads behind and around the group rather than a literal cafe interior, keeping the composite consistent with the film's infinite-white treatment. Because this is the tail of a dissolve chain, the edges of the cafe cluster may show a faint overlap or ghosting from the dissolve, the soft cross-fade quality that the whole montage uses to glide from beat to beat; this softness is intentional and cinematic, not an error. The single teal-green mug is the warmest saturated spot in the frame apart from the brand-green that lives in the typography elsewhere, and it draws the eye into the social warmth of the group. The kinetic copy on the right would have animated in syllable by syllable across the preceding beats, here arriving at the sentence's final clause; the stylized elongated '모~' suggests the drawn-out, sighing delivery of the voice-over line. The mood threads relatability and aspiration together: this is the pleasant, social, restorative life the busy protagonist craves but cannot fully reach, which sets up the promise that follows. The overall impression: the warm closing montage beat of a Korean retail-platform lifestyle commercial — friends laughing over coffee in an airy white world — capping the empathy section before the solution pivot, rendered with candid warmth against the brand's signature infinite-white void.",
+        "t2i_negative": "dark background, literal detailed cafe interior, readable logos on cups, harsh shadow, real celebrity likeness, watermark, low quality",
+        "i2v_motion": "The friends laugh and gesture in candid micro-motion, one sipping from the teal mug; the kinetic copy on the right settles into its final clause. ~2.5s, locked-off, warm and candid. Dissolve out.",
+        "i2v_params": {
+          "clip_duration_sec": 2.5,
+          "camera_move": "locked_off",
+          "subject_motion_level": "micro",
+          "signature_effect": "kinetic_typo_settle",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; faces abstracted; no readable logos; Korean copy '모~자란 하루니까' preserved verbatim"
+      },
+      "mid_frame_path": "ADV-2026-005_frames/cut04_mid.png"
+    },
+    {
+      "index": 5,
+      "duration": 3.77,
+      "start_sec": 12.13,
+      "end_sec": 15.9,
+      "framing": "MCU",
+      "function": "solution_pivot",
+      "color_mood": "high_key_white",
+      "subject_action": "bespectacled woman in a cream silk pyjama top yawns wide with eyes shut against a white void; symmetric two-color kinetic copy flanks her left and right",
+      "subject_identity": "protagonist_main",
+      "subject_relationship_to_protagonist": "main_character",
+      "copy_overlay": "기다림은 빼고 / 설렘만 담아",
+      "layout_grid": "center_symmetric",
+      "subject_position": "center",
+      "subject_typo_layout": "typo_mirrored_left_right_subject_center",
+      "typo_motion": "pop_settle_green_keywords",
+      "panel_layout": null,
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "bust",
+      "gaze": "eyes_closed",
+      "eye_contact_effect": "wide yawn = relatable late-night fatigue resolved by removing the wait",
+      "props": [
+        "eyeglasses",
+        "cream_silk_pyjama_top"
+      ],
+      "prop_semantics": "pyjama + yawn = late-night at-home moment; paired with the copy it dramatizes same-day immediacy",
+      "color_palette": [
+        "#f5f3f6",
+        "#ece6dc",
+        "#cfaea4",
+        "#3c2527",
+        "#9ba479"
+      ],
+      "color_intent": "bright warm-white field with two mirrored green keywords as the only saturated accents",
+      "pose_description": "head tilted slightly back, mouth open in a big unguarded yawn, eyes squeezed shut — candid tiredness",
+      "subject_motion": "yawn_gesture",
+      "prop_motion": "none",
+      "camera_motion": "locked_off",
+      "camera_motion_intensity": "subtle",
+      "camera_effect_local": "shallow_dof",
+      "intra_cut_rhythm": "static",
+      "transition_in": "dissolve",
+      "transition_out": "cut",
+      "vfx_in_shot": [
+        "kinetic_typo",
+        "color_pop"
+      ],
+      "vfx_intensity_local": "moderate",
+      "fact_check_flag": false,
+      "notes": "★SOLUTION PIVOT. Yawn + symmetric antithesis copy. CORRECTED verbatim: left '기다림은 빼고' (기다림 green), right '설렘만 담아' (설렘만 green) — old entry's '필요한 것만 담아' was a whisper mishearing; the real on-screen line is '설렘만 담아'. Cream silk pyjama with piping confirmed.",
+      "visible_elements": {
+        "foreground": [
+          "young woman in cream silk pyjama top, mid-yawn",
+          "eyeglasses"
+        ],
+        "midground": [
+          "mirrored two-color kinetic Korean copy (left and right)"
+        ],
+        "background": [
+          "infinite bright warm-white studio void"
+        ],
+        "lighting_env": [
+          "large soft frontal high-key source, shadowless"
+        ],
+        "atmosphere": [
+          "light, witty, reassuring"
+        ]
+      },
+      "texture": {
+        "primary_subject": "skin_natural_minimal_makeup",
+        "secondary_objects": [
+          "fabric_silk_satin_sheen",
+          "glass_clear_eyewear"
+        ],
+        "background_surface": "seamless_white_warm",
+        "atmospheric": [
+          "soft_grain"
+        ]
+      },
+      "lighting": {
+        "key_direction": "front",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_5200K",
+        "fill_strength": "strong",
+        "key_to_fill_ratio": "1:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "minimal",
+        "overall_contrast": "hi_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#f5f3f6",
+          "#ece6dc",
+          "#cfaea4",
+          "#3c2527",
+          "#9ba479"
+        ],
+        "palette_role": {
+          "#f5f3f6": "background_white_dominant",
+          "#ece6dc": "pyjama_cream",
+          "#cfaea4": "skin_warm",
+          "#3c2527": "hair_and_trim_dark_anchor",
+          "#9ba479": "keyword_accent_green"
+        },
+        "color_relationship": "monochrome",
+        "temperature_balance": "warm_dominant",
+        "saturation_strategy": "desaturated_with_pop",
+        "contrast_type": "luminance_high",
+        "accent_color": "#9ba479",
+        "accent_ratio": "6_percent"
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A 2.37:1 ultrawide cinemascope letterbox frame, bright high-key near-white studio background (#f5f3f6), marking the pivot from empathy to solution. Centered in the frame, a young East Asian woman wearing round thin-rimmed black eyeglasses is shown in a bust/medium close-up, caught mid-yawn: her eyes are squeezed gently shut, her mouth open wide in a big, unguarded yawn, head tilted slightly back — the candid image of late-night tiredness. She wears a cream/ivory silk pyjama-style collared top with dark contrast piping along the lapel (#ece6dc fabric, #3c2527 trim), signaling a relaxed at-home, end-of-day moment. Her long dark brown hair falls over one shoulder. The expression is humorous and human — the relatable fatigue that the brand's same-day delivery resolves by removing the wait. Flanking her symmetrically on the white field is the two-color kinetic Korean copy, the on-screen text preserved verbatim: on the LEFT, '기다림은 빼고' with the word '기다림' (the wait) popped in vivid brand-green (#9aca3c / #9ba479 family) and the particle-and-verb '은 빼고' in solid black-charcoal; on the RIGHT, balancing it, '설렘만 담아' with '설렘만' (only the excitement / the flutter) popped in brand-green and '담아' in black — the antithesis structure 'subtract the waiting, keep only the excitement' laid out left-versus-right around the central figure. The kinetic words sit at mid-height, large and bold, clean Korean gothic sans-serif. Lighting is bright, soft, even, shadowless high-key, neutral-to-warm around 5200K, with natural skin tones (#cfaea4 highlight, #7a5048 shadow). The camera is locked off. Depth of field is shallow on the face; the white background is featureless and clean. The composition is strongly centered and symmetrical — figure dead-center, green-accented copy mirrored left and right — giving this solution-pivot beat a confident, declarative rhythm distinct from the asymmetric montage beats. Fine subtle digital grain; clean modern commercial finish. The emotional register turns the corner: the yawn is the last note of fatigue before the promise lands — the service that subtracts the waiting from the day. The mood is light, witty, warm, and reassuring. The subject must be an abstracted generic everyday type, never a likeness of any specific real person or celebrity; features non-identifying. Render with photographic realism, natural minimally-retouched skin, soft high-key studio light, shallow focus on the face, subtle grain, near-white desaturated palette punctuated only by the two brand-green emphasis words. No watermark and no UI; the only text is the verbatim Korean kinetic copy '기다림은 빼고' (left) and '설렘만 담아' (right). Letterbox bars top and bottom. Additional faithful detail for reconstruction: the silk pyjama top has a notched collar and a single visible button placket, the piping tracing the lapel edges in a thin dark line that reads as a tailored loungewear detail; the fabric catches the soft frontal key with a gentle satin sheen rather than a hard specular highlight, communicating a comfortable but considered at-home wardrobe. Her hands are not visible in this framing — the yawn is read purely through the face and the slight backward tilt of the head, which keeps the composition clean and lets the mirrored green copy carry the graphic weight. The white background has no gradient, no vignette, and no horizon, so the figure appears to float in an even luminous field, the floating quality that unifies every beat of this commercial. The brand-green of the two emphasis words is the identical hue used for the sofa, the armchair, the small delivery icon and the closing olive wordmark, so this frame participates in the film's tightly controlled single-accent color story. The kinetic words would animate in with a quick pop-and-settle, the green keywords scaling up a touch ahead of the black connective syllables to stress the antithesis, but in this held start-frame they sit fully formed and legible. The overall impression: the pivotal solution beat of a Korean retail-platform lifestyle commercial — a relatable late-night yawn framed by a green-accented antithesis headline that promises to subtract the wait and keep only the anticipation of getting what you want, today, rendered as a confident centered tableau in an infinite bright-white studio void.",
+        "t2i_negative": "dark background, harsh shadow, real celebrity likeness, hands covering mouth obscuring face, readable logos, watermark, distorted features, low quality",
+        "i2v_motion": "The woman completes a big natural yawn (mouth widening then relaxing), eyes shut; the mirrored green keywords '기다림' and '설렘만' pop a touch ahead of the black connective syllables and settle. ~3.8s, locked-off, light and witty. Hard cut.",
+        "i2v_params": {
+          "clip_duration_sec": 3.77,
+          "camera_move": "locked_off",
+          "subject_motion_level": "micro",
+          "signature_effect": "mirrored_kinetic_typo_pop",
+          "pacing": "static",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; face abstracted; Korean copy '기다림은 빼고' (left) and '설렘만 담아' (right) preserved verbatim"
+      },
+      "mid_frame_path": "ADV-2026-005_frames/cut05_mid.png"
+    },
+    {
+      "index": 6,
+      "duration": 4.43,
+      "start_sec": 15.9,
+      "end_sec": 20.33,
+      "framing": "MS",
+      "function": "service_visualization_app",
+      "color_mood": "high_key_white_green",
+      "subject_action": "woman in glasses sits curled on a curved brand-green sofa holding a phone, looking at the screen, while multiple app-screenshot UI product cards float and drift around her; benefit copy on the left",
+      "subject_identity": "protagonist_main",
+      "subject_relationship_to_protagonist": "main_character",
+      "copy_overlay": "가장 필요한 순간 가장 빠르게 닿을 수 있도록",
+      "layout_grid": "center",
+      "subject_position": "center",
+      "subject_typo_layout": "typo_left_subject_center_ui_around",
+      "typo_motion": "green_keyword_slide",
+      "panel_layout": "ui_card_float_multi",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "waist_up",
+      "gaze": "at_phone",
+      "eye_contact_effect": "absorbed in phone = effortless in-app browsing and ordering",
+      "props": [
+        "smartphone",
+        "curved_green_sofa",
+        "floating_app_screenshot_ui_cards"
+      ],
+      "prop_semantics": "green sofa = brand-color comfort space; phone + floating app cards = the shopping/ordering experience made tangible",
+      "color_palette": [
+        "#f5f3f6",
+        "#9ba479",
+        "#8aa05a",
+        "#e8b8c0",
+        "#43302a"
+      ],
+      "color_intent": "white field with brand-green sofa and colorful-but-restrained UI chips as the color story",
+      "pose_description": "seated with knees drawn up on a curved green sofa, both hands holding a phone, head down in relaxed absorption",
+      "subject_motion": "phone_browse_micro",
+      "prop_motion": "ui_cards_drift_slide",
+      "camera_motion": "slow_push_in",
+      "camera_motion_intensity": "subtle",
+      "camera_effect_local": "shallow_dof",
+      "intra_cut_rhythm": "static",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [
+        "ui_motion",
+        "cutout_composite",
+        "color_pop"
+      ],
+      "vfx_intensity_local": "moderate",
+      "fact_check_flag": true,
+      "notes": "Service visualization (first green-furniture scene). Curved green sofa, knees-up, phone; app-screenshot product/discount cards float around her. Benefit copy '가장 필요한 순간 가장 빠르게 닿을 수 있도록'. fact_check_flag: app UI shows plausible product/price/discount labels (screen reality).",
+      "visible_elements": {
+        "foreground": [
+          "woman seated knees-up on green sofa holding a smartphone"
+        ],
+        "midground": [
+          "floating app-screenshot UI product cards with thumbnails, prices, discount badges",
+          "kinetic Korean benefit copy (left)"
+        ],
+        "background": [
+          "infinite bright-white studio void"
+        ],
+        "lighting_env": [
+          "even soft high-key frontal light"
+        ],
+        "atmosphere": [
+          "calm, convenient, contemporary"
+        ]
+      },
+      "texture": {
+        "primary_subject": "fabric_velvet_sofa_green",
+        "secondary_objects": [
+          "glass_clear_phone_screen",
+          "fabric_knit_loungewear",
+          "ui_flat_digital"
+        ],
+        "background_surface": "seamless_white_matte",
+        "atmospheric": [
+          "soft_grain"
+        ]
+      },
+      "lighting": {
+        "key_direction": "front",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "strong",
+        "key_to_fill_ratio": "1:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "minimal",
+        "overall_contrast": "hi_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#f5f3f6",
+          "#9ba479",
+          "#e8b8c0",
+          "#43302a"
+        ],
+        "palette_role": {
+          "#f5f3f6": "background_white_dominant",
+          "#9ba479": "brand_green_sofa_and_keyword",
+          "#e8b8c0": "ui_pink_chip_accent",
+          "#43302a": "hair_dark_anchor"
+        },
+        "color_relationship": "complementary",
+        "temperature_balance": "balanced",
+        "saturation_strategy": "vivid_accent_on_muted",
+        "contrast_type": "luminance_high",
+        "accent_color": "#9ba479",
+        "accent_ratio": "15_percent"
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A 2.37:1 ultrawide cinemascope letterbox frame, bright high-key near-white background (#f5f3f6 to #fafafa) with a brand-green furniture accent, visualizing the in-app shopping experience. Center frame, a young East Asian woman in round thin-rimmed black eyeglasses sits curled comfortably on a curved, low-slung brand-green sofa (a soft sage-to-grass green upholstery, #9ba479 to #8aa05a), knees drawn up, settled into a relaxed at-home posture, holding a smartphone in both hands and looking down at its screen with quiet absorption — the picture of effortless browsing and ordering. She wears soft neutral loungewear in cream/oatmeal tones; long dark hair loose. Floating in from the left and right edges of the frame, composited at varied scales and slightly overlapping depths, are multiple rectangular app-screenshot UI cards — clean white product-listing panels showing grids of cosmetic and skincare product thumbnails, price tags, discount-percentage badges and small promotional labels, the kind of e-commerce shopping-app interface cards, rendered in white, soft grey, and accented with pink, coral and brand-green UI chips. These UI cards drift and slide weightlessly around her like a halo of the shopping experience, the signature ui-motion / cutout-composite motif that turns the abstract idea of an app into a tangible floating environment. (The product names and prices on the cards are screen-reality detail and should read as generic plausible e-commerce listings, not any specific real product.) On the left, the kinetic Korean copy continues the benefit message; the on-screen text preserved verbatim across this beat reads '가장 필요한 순간 가장 빠르게 닿을 수 있도록' (laid out in stacked tiers, with the speed words such as '가장 빠르게' popped in brand-green and the rest in black-charcoal). Lighting is bright, soft, even high-key, neutral 5500K; the green sofa and floating UI provide the only saturated color against the white. The camera is locked off or on the gentlest slow push-in. Depth of field is shallow on the woman, with the floating UI cards carrying soft motion blur as they move. The composition centers the seated figure with the app cards radiating outward and the copy on the left — a clean, modern, app-forward retail aesthetic. Fine subtle digital grain; crisp digital compositing for the UI cards. The emotional register is satisfied and easeful: the moment the promise becomes concrete — browsing, choosing, ordering from the comfort of one's own green-accented corner. The mood is calm, contemporary, friendly, and convenient. The subject must be an abstracted generic everyday type, never a likeness of any specific real person or celebrity; the smartphone is a generic slab phone with no visible brand logo; the app UI cards are generic plausible shopping-app panels with no real brand marks. Render with photographic realism for the woman and sofa, clean flat digital rendering for the floating UI cards, soft high-key studio light, subtle grain, near-white palette anchored by the brand-green sofa and the colorful-but-restrained UI chips, plus the brand-green kinetic copy words. No persistent watermark; the only headline text is the verbatim Korean kinetic copy '가장 필요한 순간 가장 빠르게 닿을 수 있도록'. Letterbox bars top and bottom. The overall impression: the service-visualization beat of a Korean retail-platform lifestyle commercial — a woman relaxing on a green sofa while the shopping app materializes as floating product cards around her, dramatizing fast, easy, on-demand ordering.",
+        "t2i_negative": "dark background, real brand UI screenshots, readable real product names, harsh shadow, real celebrity likeness, persistent watermark, distorted phone, low quality",
+        "i2v_motion": "The woman browses the phone with tiny thumb motion while multiple app UI cards slide and drift weightlessly around her with soft motion blur; the green benefit keywords slide in. Gentle slow push-in. ~4.4s. Hard cut.",
+        "i2v_params": {
+          "clip_duration_sec": 4.43,
+          "camera_move": "slow_push_in",
+          "subject_motion_level": "micro",
+          "signature_effect": "ui_card_float",
+          "pacing": "static",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; face abstracted; phone and app cards generic/unbranded screen-reality; Korean copy '가장 필요한 순간 가장 빠르게 닿을 수 있도록' preserved verbatim"
+      },
+      "mid_frame_path": "ADV-2026-005_frames/cut06_mid.png"
+    },
+    {
+      "index": 7,
+      "duration": 1.8,
+      "start_sec": 20.33,
+      "end_sec": 22.13,
+      "framing": "CU",
+      "function": "rhythm_decision_beat",
+      "color_mood": "high_key_white",
+      "subject_action": "woman in glasses raises a hand to adjust her eyeglasses with a brightening, resolved expression; a small brand-green delivery icon hovers nearby",
+      "subject_identity": "protagonist_main",
+      "subject_relationship_to_protagonist": "main_character",
+      "copy_overlay": null,
+      "layout_grid": "center_left",
+      "subject_position": "center_left",
+      "subject_typo_layout": "no_headline_icon_accent",
+      "typo_motion": null,
+      "panel_layout": null,
+      "camera_angle": "eye_level",
+      "camera_facing": "three_quarter",
+      "shot_scope": "face_only",
+      "gaze": "off_camera",
+      "eye_contact_effect": "brightening expression = the flicker of deciding to order",
+      "props": [
+        "eyeglasses",
+        "green_delivery_icon_glyph"
+      ],
+      "prop_semantics": "touching glasses = a thoughtful resolve; green delivery glyph = order dispatch cue",
+      "color_palette": [
+        "#f7f6f7",
+        "#c8a890",
+        "#6f5b50",
+        "#9ba479"
+      ],
+      "color_intent": "clean white field with a single small green icon as the only accent",
+      "pose_description": "one hand raised to the eyeglass temple, head slightly turned, expression brightening with resolve",
+      "subject_motion": "hand_to_glasses_gesture",
+      "prop_motion": "green_icon_drift_pop",
+      "camera_motion": "locked_off",
+      "camera_motion_intensity": "none",
+      "camera_effect_local": "shallow_dof",
+      "intra_cut_rhythm": "quick",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [
+        "ui_motion",
+        "color_pop"
+      ],
+      "vfx_intensity_local": "subtle",
+      "fact_check_flag": false,
+      "notes": "Short connective decision beat (~1.8s) bridging the app scene to the parcel-pile climax. Glasses-adjust gesture + small green delivery icon. No headline copy.",
+      "visible_elements": {
+        "foreground": [
+          "young woman in eyeglasses, hand to frame"
+        ],
+        "midground": [
+          "small brand-green delivery icon/glyph"
+        ],
+        "background": [
+          "infinite bright-white studio void"
+        ],
+        "lighting_env": [
+          "even soft high-key frontal light"
+        ],
+        "atmosphere": [
+          "bright, a spark of resolve"
+        ]
+      },
+      "texture": {
+        "primary_subject": "skin_natural_minimal_makeup",
+        "secondary_objects": [
+          "glass_clear_eyewear",
+          "ui_flat_digital_icon"
+        ],
+        "background_surface": "seamless_white_matte",
+        "atmospheric": [
+          "soft_grain"
+        ]
+      },
+      "lighting": {
+        "key_direction": "front",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_5300K",
+        "fill_strength": "strong",
+        "key_to_fill_ratio": "1:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "minimal",
+        "overall_contrast": "hi_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#f7f6f7",
+          "#c8a890",
+          "#6f5b50",
+          "#9ba479"
+        ],
+        "palette_role": {
+          "#f7f6f7": "background_white_dominant",
+          "#c8a890": "skin_warm",
+          "#6f5b50": "hair_shadow_anchor",
+          "#9ba479": "icon_accent_green"
+        },
+        "color_relationship": "monochrome",
+        "temperature_balance": "balanced",
+        "saturation_strategy": "desaturated_with_pop",
+        "contrast_type": "luminance_mid",
+        "accent_color": "#9ba479",
+        "accent_ratio": "4_percent"
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A 2.37:1 ultrawide cinemascope letterbox frame, bright high-key near-white studio background (#f7f6f7), a short rhythmic decision beat. Center-left, a young East Asian woman in round thin-rimmed black eyeglasses is shown in a close-up to medium close-up, captured in a small expressive gesture: she raises one hand toward the side of her glasses, fingertips touching or adjusting the temple/frame, head slightly turned, a thoughtful, brightening expression on her face as if a good idea has just landed — the micro-moment of deciding to order. Her long dark hair frames her face; she wears a soft neutral cream top. Drifting near her, in the upper area to the right of her hand, is a small composited motion-graphic icon in brand-green — a simple rounded delivery/dispatch glyph or a small green directional arrow/swoosh (#9aca3c / #9ba479) — a tiny UI accent that hints at the dispatch of an order. The background is clean, featureless, bright white with abundant negative space. Lighting is bright, soft, even, shadowless high-key, neutral 5300K, with natural skin tones (#c8a890 highlight, #6f5b50 shadow). The camera is locked off. Depth of field is shallow: her near eye, glasses and fingertips crisp, everything else soft. The composition is intimate and slightly off-center, the small green icon providing the only saturated accent and a subtle directional energy toward the coming climax. There is no headline copy in this brief beat — it functions as a quick visual breath/pivot between the app-shopping scene and the delivery-arrival payoff, keeping the front-loaded pacing crisp. Fine subtle digital grain; clean modern commercial finish. The emotional register is a small spark of resolve and anticipation — the click of decision. The mood is light, bright, friendly, and quietly upbeat. The subject must be an abstracted generic everyday type, never a likeness of any specific real person or celebrity; features non-identifying; the green glyph is a generic abstract icon with no readable brand text. Render with photographic realism, natural minimally-retouched skin, soft high-key studio light, shallow focus on the face and hand, subtle grain, near-white desaturated palette with a single small brand-green icon as the only accent. No watermark and no headline text in this shot. Letterbox bars top and bottom. The overall impression: a brief connective rhythm beat in a Korean retail-platform lifestyle commercial — a bespectacled woman touching her glasses with a flicker of resolve as a small green delivery icon hovers nearby, bridging the browsing scene to the moment the order arrives. Additional faithful detail for reconstruction: her fingers are relaxed and her touch on the eyeglass temple is light, an unconscious, natural gesture rather than a posed one, and the slight upward turn at the corner of her mouth suggests pleasant certainty; the eyeglasses are the same round thin black frames worn in the opening hook and elsewhere, reinforcing that this is the same protagonist across the film's beats. The bright white surround is completely clean with no furniture, no horizon and no shadow, so the figure and the tiny green glyph float in a luminous void consistent with every other shot; the green glyph is rendered as a flat simple vector form, slightly soft at the edges as if it has just popped into place, and it carries a faint drift that gives the otherwise still frame a whisper of motion. The skin is naturally lit and minimally retouched, with fine real texture visible under the soft frontal key, and the dark hair frames the face with gentle shape. The grade keeps everything desaturated except the single green accent, so the eye reads the icon as a meaningful cue — dispatch, delivery, the order on its way — even in under two seconds of screen time. This kind of tight connective cut is a hallmark of front-loaded commercial pacing, giving the viewer a micro-beat of breath and anticipation between the larger floating-UI shopping scene and the abundant parcel-pile payoff that immediately follows. To satisfy the minimum descriptive length while remaining faithful, note that the shot's economy is intentional: a single subject, a single small accent, a vast clean white field, and the briefest of human gestures, all in service of pacing — the kind of sub-two-second connective cut that a polished commercial uses to keep momentum between two larger set-pieces, here carrying the viewer from the abstract floating-UI shopping fantasy into the concrete, tangible image of stacked delivery parcels that immediately follows.",
+        "t2i_negative": "dark background, headline text overlay, harsh shadow, real celebrity likeness, readable brand text on icon, watermark, distorted hands, low quality",
+        "i2v_motion": "The woman lifts her hand to her glasses in a light natural gesture, expression brightening; a small green delivery glyph pops in and drifts. ~1.8s, locked-off, quick and bright. Hard cut.",
+        "i2v_params": {
+          "clip_duration_sec": 1.8,
+          "camera_move": "locked_off",
+          "subject_motion_level": "micro",
+          "signature_effect": "icon_pop",
+          "pacing": "quick",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; face abstracted; green icon generic abstract glyph; no on-screen copy in this shot"
+      },
+      "mid_frame_path": "ADV-2026-005_frames/cut07_mid.png"
+    },
+    {
+      "index": 8,
+      "duration": 4.9,
+      "start_sec": 22.13,
+      "end_sec": 27.03,
+      "framing": "MS",
+      "function": "payoff_cta",
+      "color_mood": "high_key_white_green",
+      "subject_action": "woman in glasses sits in a brand-green armchair holding a phone with a cheerful gesture, surrounded by towering stacks of kraft delivery parcels stamped with a green wordmark and the service name; the direct CTA copy appears around her",
+      "subject_identity": "protagonist_main",
+      "subject_relationship_to_protagonist": "main_character",
+      "copy_overlay": "지금 주문하고, / 오늘 바로.",
+      "layout_grid": "center_symmetric",
+      "subject_position": "center",
+      "subject_typo_layout": "cta_mirrored_left_right_subject_center",
+      "typo_motion": "cta_pop_green_keyword",
+      "panel_layout": "abundance_pile_symmetric",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "waist_up",
+      "gaze": "to_camera",
+      "eye_contact_effect": "warm smile to camera = satisfied happy customer, direct address for the CTA",
+      "props": [
+        "green_armchair",
+        "smartphone",
+        "kraft_delivery_parcels",
+        "kraft_paper_shopping_bags",
+        "green_logo_stamped_boxes"
+      ],
+      "prop_semantics": "green armchair = brand comfort throne; towering kraft parcels stamped with the green wordmark and service name = the whole order arrived today; phone = the act of ordering",
+      "color_palette": [
+        "#f6f5f6",
+        "#9ba479",
+        "#b89568",
+        "#9a7b54",
+        "#3a2a2a"
+      ],
+      "color_intent": "white field anchored by the brand-green chair, warm kraft browns, and green logo stamps",
+      "pose_description": "seated in a green armchair, holding a phone in one hand, a pleased finger-snap or relaxed gesture with the other, smiling warmly toward camera",
+      "subject_motion": "cheerful_gesture",
+      "prop_motion": "few_parcels_tumble_composite",
+      "camera_motion": "locked_off",
+      "camera_motion_intensity": "subtle",
+      "camera_effect_local": "shallow_dof",
+      "intra_cut_rhythm": "static",
+      "transition_in": "cut",
+      "transition_out": "wipe",
+      "vfx_in_shot": [
+        "cutout_composite",
+        "kinetic_typo",
+        "color_pop"
+      ],
+      "vfx_intensity_local": "moderate",
+      "fact_check_flag": true,
+      "notes": "★CLIMAX/PAYOFF + CTA (second green-furniture scene, distinct from shot6 sofa). Green ARMCHAIR + woman with phone amid a TOWERING pile of kraft OLIVE YOUNG / 오늘드림 delivery parcels. CTA verbatim: left '지금 주문하고,' (주문하고 green), right '오늘 바로.' (black). fact_check_flag: green wordmark + '오늘드림' printed on the boxes (brand reality). Old entry under-described this scene.",
+      "visible_elements": {
+        "foreground": [
+          "woman seated in a green armchair holding a phone, cheerful gesture",
+          "stacks of kraft delivery boxes and paper bags"
+        ],
+        "midground": [
+          "green-wordmark and '오늘드림'-stamped parcels piled left and right",
+          "mirrored kinetic CTA copy"
+        ],
+        "background": [
+          "infinite bright-white studio void"
+        ],
+        "lighting_env": [
+          "even soft warm high-key frontal light"
+        ],
+        "atmosphere": [
+          "upbeat, abundant, celebratory"
+        ]
+      },
+      "texture": {
+        "primary_subject": "fabric_velvet_armchair_green",
+        "secondary_objects": [
+          "paper_kraft_corrugated_box",
+          "paper_kraft_bag",
+          "glass_clear_phone_screen",
+          "denim_matte"
+        ],
+        "background_surface": "seamless_white_matte",
+        "atmospheric": [
+          "soft_grain"
+        ]
+      },
+      "lighting": {
+        "key_direction": "front",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_5300K",
+        "fill_strength": "strong",
+        "key_to_fill_ratio": "1:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "minimal",
+        "overall_contrast": "hi_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#f6f5f6",
+          "#9ba479",
+          "#b89568",
+          "#9a7b54",
+          "#3a2a2a"
+        ],
+        "palette_role": {
+          "#f6f5f6": "background_white_dominant",
+          "#9ba479": "brand_green_chair_logo_keyword",
+          "#b89568": "kraft_parcel_warm",
+          "#9a7b54": "kraft_parcel_shadow",
+          "#3a2a2a": "hair_dark_anchor"
+        },
+        "color_relationship": "complementary",
+        "temperature_balance": "warm_dominant",
+        "saturation_strategy": "vivid_accent_on_muted",
+        "contrast_type": "luminance_high",
+        "accent_color": "#9ba479",
+        "accent_ratio": "18_percent"
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A 2.37:1 ultrawide cinemascope letterbox frame, bright high-key near-white studio background (#f6f5f6 to #fbfbfb), the climactic delivery-arrival payoff and call-to-action. Centered in the frame, a young East Asian woman in round thin-rimmed black eyeglasses sits in a single soft brand-green armchair (sage-green upholstery, #9ba479 to #8aa05a, with wooden legs), wearing a soft oatmeal/beige knit top and jeans, white sneakers, holding a smartphone in one hand and giving a cheerful finger-snap or relaxed pleased gesture with the other, smiling warmly toward camera — delighted and at ease. Surrounding her on BOTH sides and piled high are stacks and clusters of kraft-paper delivery parcels: brown corrugated cardboard boxes and kraft paper shopping bags of various sizes, heaped abundantly to left and right and behind, several of them stamped with a green retail wordmark and a green Korean service label reading '오늘드림' on the box faces (these on-package marks are screen-reality brand detail, the same-day-delivery service name) — the visual punchline that everything she ordered has arrived at once, today. A few parcels appear mid-air, lightly composited as if still tumbling into the pile, continuing the float motif. As the beat resolves, the kinetic Korean call-to-action copy appears around her, the on-screen text preserved verbatim: on the LEFT, '지금 주문하고,' with '주문하고' (order now) popped in vivid brand-green (#9aca3c / #9ba479) and '지금' plus the comma in black-charcoal; and to the RIGHT, balancing it, '오늘 바로.' (today, right away) in solid black-charcoal — the direct command 'order now, get it today'. Lighting is bright, soft, even high-key, neutral-to-warm 5300K, natural skin tones; the green chair, the kraft browns of the parcels (#b89568, #9a7b54) and the green logo stamps provide the color against the white. The camera is locked off. Depth of field keeps the seated woman crisp with the parcel stacks and any airborne boxes carrying slight softness/motion blur. The composition is grandly symmetrical and abundant — the figure enthroned in green at center, walls of delivery parcels rising on either side, CTA copy mirrored left and right — a confident, celebratory climax. Fine subtle digital grain; clean modern commercial finish. The emotional register is the joyful payoff: the wait subtracted, the haul delivered, the customer happy. The mood is upbeat, satisfying, friendly, and energetic. The subject must be an abstracted generic everyday type, never a likeness of any specific real person or celebrity; the smartphone is a generic phone. The kraft parcels and their green logo/service stamps are reproduced as on-screen brand reality (the service name and wordmark as printed on the boxes) but no other proper-noun branding is invented. Render with photographic realism for the woman, chair and parcels, clean compositing for any floating boxes, soft high-key studio light, subtle grain, near-white palette anchored by the brand-green chair, the warm kraft browns, and the green logo stamps, plus the brand-green CTA word. The only headline text is the verbatim Korean kinetic copy '지금 주문하고,' (left) and '오늘 바로.' (right). Letterbox bars top and bottom. The overall impression: the celebratory climax of a Korean retail-platform lifestyle commercial — a happy customer seated in a green armchair amid a towering pile of same-day-delivery parcels, under a direct order-now-get-it-today call to action.",
+        "t2i_negative": "dark background, real brand packaging beyond the on-screen stamps, harsh shadow, real celebrity likeness, persistent watermark, distorted phone, messy unreadable boxes, low quality",
+        "i2v_motion": "The woman gives a happy finger-snap / pleased gesture and smiles to camera while a few kraft parcels tumble into the towering pile; the mirrored CTA pops in, the green keyword '주문하고' a beat ahead. ~4.9s, locked-off. Brand-green wipe out at end.",
+        "i2v_params": {
+          "clip_duration_sec": 4.9,
+          "camera_move": "locked_off",
+          "subject_motion_level": "low",
+          "signature_effect": "parcel_pile_plus_cta_pop",
+          "pacing": "static",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; face abstracted; parcels show the green wordmark and service name '오늘드림' as on-screen brand reality; CTA Korean copy '지금 주문하고, 오늘 바로.' preserved verbatim"
+      },
+      "mid_frame_path": "ADV-2026-005_frames/cut08_mid.png"
+    },
+    {
+      "index": 9,
+      "duration": 1.93,
+      "start_sec": 27.03,
+      "end_sec": 28.97,
+      "framing": "graphic_end_card",
+      "function": "brand_endcard",
+      "color_mood": "clean_white",
+      "subject_action": "a brisk brand-green diagonal wipe sweeps across the white frame and resolves to the centered brand wordmark with a green olive-O emblem",
+      "subject_identity": "none_environment",
+      "subject_relationship_to_protagonist": null,
+      "copy_overlay": "OLIVE YOUNG",
+      "layout_grid": "center",
+      "subject_position": "center",
+      "subject_typo_layout": "logo_centered",
+      "typo_motion": "green_wipe_then_logo_fade_pop",
+      "panel_layout": null,
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "environment",
+      "gaze": "none",
+      "eye_contact_effect": null,
+      "props": [
+        "brand_wordmark_logo",
+        "green_olive_O_emblem",
+        "green_diagonal_wipe_shape"
+      ],
+      "prop_semantics": "green olive-O wordmark = final brand stamp; green wipe = kinetic transition closing the color story",
+      "color_palette": [
+        "#fcfafd",
+        "#9ba479",
+        "#1f1c1e",
+        "#e89aa0"
+      ],
+      "color_intent": "pure white field with the green olive emblem and black wordmark as the single focal graphic",
+      "pose_description": "no human subject — flat centered graphic brand end-card",
+      "subject_motion": "none",
+      "prop_motion": "green_wipe_sweep",
+      "camera_motion": "locked_off",
+      "camera_motion_intensity": "none",
+      "camera_effect_local": "none",
+      "intra_cut_rhythm": "static",
+      "transition_in": "wipe",
+      "transition_out": "cut",
+      "vfx_in_shot": [
+        "graphic_wipe",
+        "logo_reveal"
+      ],
+      "vfx_intensity_local": "moderate",
+      "fact_check_flag": false,
+      "notes": "Brand end-card. Brand-green diagonal wipe resolves to centered OLIVE YOUNG wordmark (green olive-O ring with a small coral-pink highlight dot). Closes the green color story.",
+      "visible_elements": {
+        "foreground": [
+          "centered OLIVE YOUNG wordmark with green olive-O emblem"
+        ],
+        "midground": [
+          "residual green diagonal wipe shape"
+        ],
+        "background": [
+          "pure white field"
+        ],
+        "lighting_env": [
+          "flat even high-key graphic light"
+        ],
+        "atmosphere": [
+          "clean, brisk, confident"
+        ]
+      },
+      "texture": {
+        "primary_subject": "vector_flat_logo",
+        "secondary_objects": [
+          "vector_flat_wipe_shape"
+        ],
+        "background_surface": "flat_white",
+        "atmospheric": [
+          "faint_grain"
+        ]
+      },
+      "lighting": {
+        "key_direction": "front",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "strong",
+        "key_to_fill_ratio": "1:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "none",
+        "overall_contrast": "hi_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#fcfafd",
+          "#9ba479",
+          "#1f1c1e",
+          "#e89aa0"
+        ],
+        "palette_role": {
+          "#fcfafd": "background_white_dominant",
+          "#9ba479": "brand_green_olive_emblem",
+          "#1f1c1e": "wordmark_black",
+          "#e89aa0": "coral_highlight_dot_accent"
+        },
+        "color_relationship": "complementary",
+        "temperature_balance": "balanced",
+        "saturation_strategy": "vivid_accent_on_muted",
+        "contrast_type": "luminance_high",
+        "accent_color": "#9ba479",
+        "accent_ratio": "12_percent"
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A 2.37:1 ultrawide cinemascope letterbox frame, a clean minimalist brand end-card on a pure-white field (#fcfafd to #ffffff). The beat opens with a brisk brand-green graphic wipe: a bold diagonal sweep of saturated leafy green (#9aca3c / #9ba479) slices across the frame from the lower-left, a fast kinetic transition shape with a soft rounded leading edge that clears the previous scene and resolves to white. As the green wipe settles, the brand wordmark fades/pops into the exact center of the frame: a horizontal logotype in heavy italic black serif-less display capitals reading the on-screen text preserved verbatim 'OLIVE' (left) and 'YOUNG' (right), with, between the two words, a distinctive circular emblem — a bright leafy-green ring forming the letter O of an olive, containing a small white olive-pit/leaf shape and topped with a single small coral-pink dot/highlight (the olive's pimento), the green ring (#9aca3c) being the brand's signature color. The wordmark is crisp, bold, and confident, centered with generous white space all around. There is no human subject, no product, and no other copy — only the white field and the centered logo. Lighting is flat, bright, even, and shadowless — a pure graphic high-key end-frame, neutral 5500K. The camera is perfectly locked off. There is no depth of field consideration — this is a flat graphic composition. The composition is centered and symmetrical, all attention on the wordmark, the green olive-O emblem providing the single saturated focal accent against the white. Fine, almost imperceptible digital grain; immaculate clean digital finish. The emotional register is a crisp, friendly, confident sign-off — the brand stamp that closes the story and fixes the name in memory. The mood is clean, brisk, optimistic, and premium-minimal. Render as a flawless flat graphic brand end-card: pure white background, a single bold centered black wordmark with a bright-green circular olive emblem and a tiny coral highlight dot, optional faint residual green wipe shape, subtle grain, no shadow, no texture, no clutter. The only text is the verbatim brand wordmark 'OLIVE YOUNG' rendered exactly as the logo. Letterbox bars top and bottom. To honor the descriptive minimum while staying faithful to a deliberately spare end-frame: note that the entire visual economy here is the point — after a busy, kinetic, prop-rich commercial, the film resolves to the calmest possible image, a single wordmark floating in white, which both rests the eye and brands the memory. The brand-green color that has been used throughout the film as the kinetic-typography accent and the furniture color now reappears one final time, concentrated entirely into the olive-O emblem, closing the color story with perfect consistency. The diagonal green wipe that introduces this card echoes the energetic, designed motion-graphic sensibility of the whole piece, delivering the viewer cleanly from the celebratory parcel-pile climax into the serene, authoritative final brand statement. The overall impression: the brand end-card of a Korean health-and-beauty retail-platform lifestyle commercial — a green olive-O wordmark centered on white, introduced by a snappy green wipe, a clean and confident close.",
+        "t2i_negative": "dark background, photographic scene, human subject, harsh shadow, texture clutter, multiple logos, distorted wordmark, low quality",
+        "i2v_motion": "A brisk brand-green diagonal wipe sweeps across the white frame from lower-left and clears; the OLIVE YOUNG wordmark with the green olive-O emblem fades/pops to center and holds. ~1.9s, locked-off, crisp graphic close. Hard cut to end.",
+        "i2v_params": {
+          "clip_duration_sec": 1.93,
+          "camera_move": "locked_off",
+          "subject_motion_level": "still",
+          "signature_effect": "green_wipe_to_logo",
+          "pacing": "static",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; logo reproduced as the on-screen brand end-card wordmark 'OLIVE YOUNG' preserved verbatim; no human identity in frame"
+      },
+      "mid_frame_path": "ADV-2026-005_frames/cut09_mid.png"
+    }
+  ],
+  "search_keywords": {
+    "industry": [
+      "retail",
+      "beauty"
+    ],
+    "product_category": [
+      "same_day_delivery",
+      "beauty_platform",
+      "ecommerce"
+    ],
+    "target_demo": [
+      "20s",
+      "30s",
+      "office_worker",
+      "single_household",
+      "women"
+    ],
+    "media_format": [
+      "digital_30s",
+      "cinemascope_lifestyle",
+      "letterbox_landscape"
+    ],
+    "tone": [
+      "empathetic_comforting",
+      "upbeat",
+      "clean_minimal",
+      "friendly"
+    ],
+    "pacing": [
+      "front_loaded",
+      "steady"
+    ],
+    "technique": [
+      "empathy_copy_hook",
+      "kinetic_typo",
+      "product_app_cutout_float",
+      "dissolve_montage",
+      "direct_cta"
+    ],
+    "vfx_keywords": [
+      "ui_motion",
+      "color_pop",
+      "cutout_composite",
+      "graphic_wipe"
+    ],
+    "copy_strategy_keywords": [
+      "empathy_to_solution",
+      "immediacy_emphasis",
+      "brand_green_keyword",
+      "voice_caption_sync",
+      "antithesis_copy"
+    ],
+    "concept_derivation_pattern": [
+      "everyday_pain_point_to_product_relief",
+      "call_and_response_copy",
+      "abundance_payoff_visualization"
+    ]
+  },
+  "inferred_creative_thinking": {
+    "insight": "Busy 20s-30s single-household women have so little time that even self-care and the things they love don't fit the day — so the thing they hate most is waiting; instant delivery isn't mere convenience, it gives back the time to fill the day with what they enjoy.",
+    "persona": "A busy urban office worker / single-household woman in her 20s-30s (the bespectacled everyday protagonist).",
+    "moment": "The tired end of an over-busy day, at home late at night, wanting something now without the wait.",
+    "product_role": "A same-day delivery service that subtracts the waiting — reaching you fastest at the moment you most need it (Olive Young Today Dream).",
+    "punchline": "Subtract the waiting, keep only the excitement — order now, get it today.",
+    "differentiator": "Empathy copy + brand-green kinetic typography + floating product/app cut-outs that visualize a service 'reaching your hand instantly', climaxing in an abundant same-day parcel pile.",
+    "brand_fit_one_liner": "Olive Young is Korea's #1 H&B retailer; the 'Today Dream' same-day delivery extends its offline strength into online immediacy.",
+    "confidence": "inferred"
+  },
+  "inferred_brief": "Create an approx. 30-second cinemascope lifestyle commercial for Olive Young's same-day delivery service 'Today Dream', targeting busy 20s-30s single-household / office-worker women. Open with empathy for an over-busy day, pivot to the benefit 'subtract the waiting, reach you fastest', and close with a direct 'order now, get it today' CTA. Tone: upbeat, empathetic, minimal. Visualize the service with brand-green kinetic typography and floating product/app cut-outs over an infinite white background, climaxing in an abundant pile of same-day delivery parcels.",
+  "cross_pollination_tags": {
+    "adjacent": [
+      "ecommerce_quickcommerce",
+      "delivery_logistics",
+      "subscription_membership",
+      "apparel_platform"
+    ],
+    "distant": [
+      "realestate_presale",
+      "automotive",
+      "finance_app"
+    ],
+    "contrast": [
+      "luxury_highend_film",
+      "industrial_b2b",
+      "serious_public_ad"
+    ]
+  },
+  "concept_derivation_pattern": [
+    "everyday_pain_point_to_product_relief",
+    "call_and_response_copy",
+    "abundance_payoff_visualization"
+  ],
+  "confidence": "inferred",
+  "analyst_notes": "(1) Brand/product confirmed: voice ('올리브영 오늘드림') + ending OLIVE YOUNG logo (green olive-O with coral dot) + app screenshots + '오늘드림'-stamped kraft parcels. Olive Young same-day-delivery 'Today Dream' ad. (2) RE-ANALYZED frame-by-frame from all 869 native frames. The dissolve montage (4.5-15.9s) that auto cut-detection MERGES was split into real sub-cuts: paper-pile rest ('나를 위한 시간'), yoga + floating products ('좋아하는 것들로만 채우기에도'), cafe friends ('모자란 하루니까'). Final corrected cut list = 9 distinct shots, each a real scene/beat; shot_count_corrected = len(shots) = 9. (3) KEY VERBATIM CORRECTION vs old entry: the solution line is '기다림은 빼고 설렘만 담아' (subtract the waiting, keep only the excitement), NOT '필요한 것만 담아' — confirmed by zoomed on-screen text crop (설렘만 in green). (4) Opening hook is on a DARK low-key background, not high_key_white as the old entry stated. (5) Two DISTINCT green-furniture scenes were separated: a curved green SOFA app-shopping scene (~15.9-20.3s) and a green ARMCHAIR parcel-pile CTA climax (~22.1-27.0s) bridged by a glasses-adjust decision beat — the old entry compressed the parcel-pile climax. (6) Signature is NOT wiggle (wiggle metrics low): live-action over infinite white + floating product/app cut-outs + brand-green kinetic typo + dissolves + green wipe. (7) Aspect 2.37:1 (64:27) cinemascope letterbox, 1280x540, 29.05s, 30fps. (8) Audio: faster-whisper base, 6 segments, coverage 0.568 (heavy BGM); mis-hearings corrected against authoritative on-screen captions. (9) Full current schema regenerated: recreation_prompts (t2i>=500w, t2i_negative, i2v_motion, i2v_params, fidelity_note) for all 9 shots, per-shot mid_frame_path, frames dir + contact sheet, visible_elements/texture/lighting/color_analysis. Celeb faces and logo kept generic/abstracted; on-screen copy preserved verbatim.",
+  "verification": {
+    "frames_reviewed": true,
+    "audio_analyzed": true,
+    "hitrate_na": true,
+    "abstraction_checked": true,
+    "abstraction_note": "Cast not named (described as 'bespectacled woman' / 'friends' / 'lifestyle figure'). Brand/service proper names appear only in source_ref and verbatim copy/logo citation. App-screen product names are screen-reality (parenthesized, not stored). Visual descriptions abstracted to function/impression; faces non-identifying.",
+    "frames_reviewed_detail": "All 869 native-res frames extracted; cut boundaries verified frame-by-frame (dark->white cut at f136/4.5s; dissolve sub-cuts in the 4.5-15.9s montage; app/sofa->decision->armchair/parcel boundaries; green wipe f812/27.0s). Korean captions read via upscaled crops for verbatim accuracy.",
+    "t2i_min_words": 500
+  }
+}

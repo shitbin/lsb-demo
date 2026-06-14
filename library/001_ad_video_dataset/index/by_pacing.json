@@ -1,0 +1,204 @@
+{
+  "front_loaded": [
+    "ADV-2026-001",
+    "ADV-2026-026",
+    "ADV-2026-036",
+    "ADV-2026-040",
+    "ADV-2026-050",
+    "ADV-2026-052",
+    "ADV-2026-056"
+  ],
+  "steady": [
+    "ADV-2026-001",
+    "ADV-2026-003",
+    "ADV-2026-004",
+    "ADV-2026-013",
+    "ADV-2026-016",
+    "ADV-2026-017",
+    "ADV-2026-018",
+    "ADV-2026-019",
+    "ADV-2026-020",
+    "ADV-2026-022",
+    "ADV-2026-023",
+    "ADV-2026-025",
+    "ADV-2026-026",
+    "ADV-2026-027",
+    "ADV-2026-028",
+    "ADV-2026-030",
+    "ADV-2026-035",
+    "ADV-2026-038",
+    "ADV-2026-041",
+    "ADV-2026-042",
+    "ADV-2026-045",
+    "ADV-2026-051",
+    "ADV-2026-055",
+    "ADV-2026-056",
+    "ADV-2026-058",
+    "ADV-2026-060",
+    "ADV-2026-061",
+    "ADV-2026-062"
+  ],
+  "fast_cut_montage": [
+    "ADV-2026-002",
+    "ADV-2026-032"
+  ],
+  "vignette_episodic": [
+    "ADV-2026-002"
+  ],
+  "slow_build": [
+    "ADV-2026-003",
+    "ADV-2026-005",
+    "ADV-2026-007",
+    "ADV-2026-013",
+    "ADV-2026-031",
+    "ADV-2026-033",
+    "ADV-2026-037",
+    "ADV-2026-039",
+    "ADV-2026-045",
+    "ADV-2026-047",
+    "ADV-2026-053",
+    "ADV-2026-054",
+    "ADV-2026-058",
+    "ADV-2026-060",
+    "ADV-2026-062"
+  ],
+  "steady+accelerating_mid": [
+    "ADV-2026-006"
+  ],
+  "staccato_climax": [
+    "ADV-2026-007"
+  ],
+  "cinematic": [
+    "ADV-2026-007"
+  ],
+  "accelerating": [
+    "ADV-2026-008",
+    "ADV-2026-011",
+    "ADV-2026-012",
+    "ADV-2026-014",
+    "ADV-2026-031",
+    "ADV-2026-034",
+    "ADV-2026-043",
+    "ADV-2026-046",
+    "ADV-2026-048",
+    "ADV-2026-049",
+    "ADV-2026-050",
+    "ADV-2026-053",
+    "ADV-2026-057",
+    "ADV-2026-059",
+    "ADV-2026-063"
+  ],
+  "cross_cutting_montage": [
+    "ADV-2026-008",
+    "ADV-2026-055"
+  ],
+  "problem_agitation_solution": [
+    "ADV-2026-008"
+  ],
+  "front_loaded_staccato": [
+    "ADV-2026-009"
+  ],
+  "front_loaded_staccato_montage": [
+    "ADV-2026-010"
+  ],
+  "staccato_mid": [
+    "ADV-2026-011"
+  ],
+  "narrative_driven": [
+    "ADV-2026-013"
+  ],
+  "build_up": [
+    "ADV-2026-014"
+  ],
+  "rising_then_resolve": [
+    "ADV-2026-015"
+  ],
+  "linear": [
+    "ADV-2026-017",
+    "ADV-2026-018",
+    "ADV-2026-019",
+    "ADV-2026-020"
+  ],
+  "narration_driven": [
+    "ADV-2026-017",
+    "ADV-2026-018",
+    "ADV-2026-019",
+    "ADV-2026-020"
+  ],
+  "steady_informational": [
+    "ADV-2026-021"
+  ],
+  "even": [
+    "ADV-2026-021",
+    "ADV-2026-022",
+    "ADV-2026-023"
+  ],
+  "instructional": [
+    "ADV-2026-022",
+    "ADV-2026-023"
+  ],
+  "fast_hook": [
+    "ADV-2026-024"
+  ],
+  "steady_walkthrough": [
+    "ADV-2026-024"
+  ],
+  "promo_close": [
+    "ADV-2026-024"
+  ],
+  "steady_build": [
+    "ADV-2026-029"
+  ],
+  "calm_resolve": [
+    "ADV-2026-029"
+  ],
+  "fast_cut": [
+    "ADV-2026-030",
+    "ADV-2026-048",
+    "ADV-2026-052"
+  ],
+  "slow_emotional_tail": [
+    "ADV-2026-030"
+  ],
+  "climactic_payoff": [
+    "ADV-2026-031"
+  ],
+  "typographic_resolve": [
+    "ADV-2026-031"
+  ],
+  "ramp_up": [
+    "ADV-2026-033",
+    "ADV-2026-034",
+    "ADV-2026-037",
+    "ADV-2026-039",
+    "ADV-2026-042",
+    "ADV-2026-052",
+    "ADV-2026-054",
+    "ADV-2026-059"
+  ],
+  "staccato": [
+    "ADV-2026-036",
+    "ADV-2026-040",
+    "ADV-2026-043",
+    "ADV-2026-063"
+  ],
+  "build_to_payoff": [
+    "ADV-2026-038"
+  ],
+  "staccato_typo_finish": [
+    "ADV-2026-046"
+  ],
+  "staccato_rollcall_mid": [
+    "ADV-2026-047"
+  ],
+  "grand_payoff": [
+    "ADV-2026-047"
+  ],
+  "trailer_montage": [
+    "ADV-2026-048",
+    "ADV-2026-049"
+  ],
+  "front_loaded_hero": [
+    "ADV-2026-053"
+  ]
+}

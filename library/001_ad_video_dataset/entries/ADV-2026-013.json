@@ -1,0 +1,2398 @@
+{
+  "id": "ADV-2026-013",
+  "source_ref": {
+    "platform": "YouTube / social media",
+    "title_or_campaign": "토스 미니앱 캠페인 - 아버지와 아들편 (Toss Mini-App Campaign - Father and Son)",
+    "brand": "토스 (Toss)",
+    "product": "토스 미니앱 (Toss Mini-App)",
+    "model": null,
+    "year": 2024,
+    "production_note": "live-action narrative spot; warm domestic setting; bilingual product name reveal at endcard",
+    "url": null
+  },
+  "category_primary": "finance.fintech",
+  "category_tags": [
+    "fintech",
+    "super_app",
+    "mini_app",
+    "gaming",
+    "family",
+    "mobile"
+  ],
+  "mood": [
+    "warm",
+    "heartfelt",
+    "humorous",
+    "relatable",
+    "slice-of-life"
+  ],
+  "target_demo": "30-50 Korean adults; parents and adult children; mobile-first users",
+  "total_duration": 52.36,
+  "shot_count": 19,
+  "shot_count_corrected": 19,
+  "fps": 23.976,
+  "aspect_ratio": "16:9",
+  "hook_position": "0:3.337",
+  "cta_position": "39.748:52.302",
+  "narrative_arc": "A son visits his father at home, discovers his father is alone. Using the super-app's mini-app discovery feature, the son finds and installs a Go board game for the father; initial skepticism gives way to both father and son gaming together on their respective phones. Product tagline reveals: '다양한 게임, 설치 없이 토스에서 바로 / 앱을 쓰는 새로운 방식 / 토스 미니앱'.",
+  "narrative_structure": "linear_continuous",
+  "pacing_curve": "slow_build",
+  "music_tempo_curve": "steady",
+  "wow_cut_index": 15,
+  "creative_device": [
+    "slice_of_life_narrative",
+    "delayed_brand_reveal",
+    "product_demo_embedded_in_story",
+    "generational_bonding",
+    "phone_screen_insert_cuts"
+  ],
+  "production_signature": {
+    "capture_style": "handheld_and_locked_off_mixed",
+    "camera_signature": [
+      "macro_phone_screen_inserts",
+      "warm_tungsten_interior",
+      "shallow_dof_intimacy",
+      "handheld_slight_drift"
+    ],
+    "signature_note": "Alternates between shallow-DOF macro smartphone screen inserts (showing real UI flows) and warm locked-off living room two-shots; handheld on screen inserts adds tactile energy; metrics confirm mild oscillation consistent with handheld macro rather than stereoscopic wiggle",
+    "color_grade": "warm_natural_tungsten; desaturated near-neutral for phone screen inserts; clean white for brand endcard",
+    "texture_fx": "none; natural film-grain absent; clean digital"
+  },
+  "global_layout": {
+    "grid_system": "center-weighted for narrative shots; phone screen fills frame for UI inserts",
+    "subject_placement_dominant": "center-left_two-shot for domestic scenes; center-dominant for phone screen close-ups",
+    "subject_typo_relation": "supers appear center-screen over live action (cut 17); brand endcard is typography-only on white",
+    "negative_space_use": "brand endcard maximizes negative space for clean minimalist logo placement",
+    "layout_note": "Domestic scene framing is symmetric two-person sofa composition; phone inserts alternate between landscape and portrait orientation matches"
+  },
+  "recurring_motifs": [
+    "phone_screen_reveal",
+    "installing_spinner",
+    "coffee_table_as_shared_space",
+    "warm_ambient_lamp",
+    "family_sitting_together"
+  ],
+  "copywriting": {
+    "tagline_text": "앱을 쓰는 새로운 방식",
+    "tagline_structure": "benefit_statement_with_contrast",
+    "cta_text": "토스 미니앱",
+    "copy_tone": [
+      "warm",
+      "approachable",
+      "simple",
+      "benefit-driven"
+    ],
+    "copy_strategy": "narrative_demonstration_then_reveal",
+    "lines": [
+      "다양한 게임,",
+      "설치 없이 토스에서 바로",
+      "앱을 쓰는 새로운 방식",
+      "토스 미니앱"
+    ],
+    "captions": [
+      {
+        "frame_range": "1-80",
+        "text": "저녁으로 뭐 먹을까?",
+        "speaker": "caption_inferred"
+      },
+      {
+        "frame_range": "1-80",
+        "text": "집에서 먹자 엄마랑 장 좀 보고 올게",
+        "speaker": "caption_inferred"
+      },
+      {
+        "frame_range": "1-80",
+        "text": "그래? 집에 장인어른 계신가?",
+        "speaker": "caption_inferred"
+      },
+      {
+        "frame_range": "1-80",
+        "text": "엉 우리 아빠 집에 있지!",
+        "speaker": "caption_inferred"
+      },
+      {
+        "frame_range": "40-80",
+        "text": "둘이 좋은 시간 보내고 있어 ❤️🥰",
+        "speaker": "caption_inferred"
+      },
+      {
+        "frame_range": "954-1115",
+        "text": "다양한 게임,",
+        "type": "super_overlay"
+      },
+      {
+        "frame_range": "1115-1139",
+        "text": "설치 없이 토스에서 바로",
+        "type": "super_inferred"
+      },
+      {
+        "frame_range": "1140-1180",
+        "text": "앱을 쓰는 새로운 방식",
+        "type": "title_card"
+      },
+      {
+        "frame_range": "1180-1230",
+        "text": "토스 미니앱",
+        "type": "product_name_card"
+      },
+      {
+        "frame_range": "1230-1254",
+        "text": "*토스 미니앱 서비스는 만 19세 이상부터 이용할 수 있어요.",
+        "type": "disclaimer"
+      }
+    ],
+    "narration_handling": "voiceover_with_on_screen_titles"
+  },
+  "typography": {
+    "primary_font_class": "Korean_sans_serif_geometric_bold",
+    "animation_style": [
+      "fade_in",
+      "static_hold"
+    ],
+    "subtitle_position_dominant": "center_screen",
+    "color_strategy": "white_supers_over_live_action; dark_navy_and_multicolor_accent_for_endcard",
+    "typo_motion_dominant": "static_titles_with_fade"
+  },
+  "vfx": {
+    "primary_effects": [
+      "none_beyond_natural_camera_movement"
+    ],
+    "effect_intensity": "none",
+    "transition_style_dominant": "hard_cut",
+    "vfx_event_count": 0
+  },
+  "audio": {
+    "has_audio": true,
+    "language": "ko",
+    "speech_coverage": 0.817,
+    "bgm_likely": true,
+    "narration_lines": [
+      {
+        "start": 7.63,
+        "end": 10.31,
+        "text": "[아버지와 대화 내용]",
+        "source": "whisper_base_corrected"
+      },
+      {
+        "start": 39.63,
+        "end": 44.29,
+        "text": "다양한 게임,",
+        "source": "whisper_base_corrected"
+      },
+      {
+        "start": 44.29,
+        "end": 46.55,
+        "text": "설치 없이 토스에서 바로",
+        "source": "whisper_base_corrected"
+      },
+      {
+        "start": 46.55,
+        "end": 48.99,
+        "text": "앱을 쓴다는 새로운 방식",
+        "source": "whisper_base_corrected"
+      },
+      {
+        "start": 48.99,
+        "end": 50.39,
+        "text": "토스 미니 앱",
+        "source": "whisper_base_corrected"
+      }
+    ],
+    "voice_vs_caption": "voiceover_matches_onscreen_supers",
+    "transcribed_by": "faster_whisper",
+    "audio_note": "whisper base model; early segments (7-40s) contained dialogue audio from narrative scene; VO distinct in s17-s19; BGM present throughout (warm/light instrumental)"
+  },
+  "frames_dir": "ADV-2026-013_frames",
+  "contact_sheet_path": "ADV-2026-013_frames/contact_sheet.png",
+  "shots": [
+    {
+      "index": 1,
+      "duration": 3.337,
+      "framing": "ECU",
+      "function": "hook",
+      "subject_action": "smartphone screen displays an active messaging conversation; new text bubbles animate in sequentially revealing family chat messages",
+      "layout_grid": "diagonal_fill",
+      "subject_position": "center_dominant",
+      "typo_motion": "animated_text_bubble_entrance",
+      "camera_angle": "top_down_macro",
+      "camera_facing": "perpendicular_to_screen",
+      "shot_scope": "product_detail",
+      "gaze": "off_camera",
+      "props": [
+        "smartphone",
+        "hand"
+      ],
+      "color_palette": [
+        "#E8EFF6",
+        "#4EA8F0",
+        "#F5F5F5",
+        "#1A1A1A",
+        "#F0A050"
+      ],
+      "color_intent": "cool_blue_chat_bubbles_on_light_grey; warm_skin_tone_hand",
+      "pose_description": "hand holds smartphone at slight tilt; thumb visible at lower edge; fingers at upper right corner",
+      "subject_motion": "static_pose",
+      "camera_motion": "slow_pan_following_new_messages",
+      "camera_effect_local": "shallow_dof_background_blur",
+      "intra_cut_rhythm": "message_by_message_text_reveal",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "mid_frame_path": "ADV-2026-013_frames/cut01_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "smartphone_in_hand",
+          "chat_bubbles_with_korean_text"
+        ],
+        "midground": [],
+        "background": [
+          "blurred_warm_interior"
+        ],
+        "lighting_env": [
+          "diffused_ambient_interior"
+        ],
+        "atmosphere": [
+          "intimate",
+          "domestic_evening"
+        ]
+      },
+      "texture": {
+        "primary_subject": "glass_screen_reflective_matte",
+        "secondary_objects": [
+          "human_skin_hand"
+        ],
+        "background_surface": "blurred_undefined",
+        "atmospheric": [
+          "soft_focus_bokeh"
+        ]
+      },
+      "lighting": {
+        "key_direction": "overhead_ambient",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_cool",
+        "fill_strength": "medium",
+        "key_to_fill_ratio": "1:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "minimal",
+        "overall_contrast": "low"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#E8EFF6",
+          "#4EA8F0",
+          "#F5F5F5",
+          "#222222",
+          "#E8B090"
+        ],
+        "palette_role": {
+          "#E8EFF6": "background_screen",
+          "#4EA8F0": "sent_message_bubble",
+          "#F5F5F5": "received_message_bubble",
+          "#222222": "text",
+          "#E8B090": "skin_hand"
+        },
+        "color_relationship": "analogous_cool_dominant",
+        "temperature_balance": "slightly_cool",
+        "saturation_strategy": "low_saturation_realist",
+        "contrast_type": "text_on_background_functional",
+        "accent_color": "#4EA8F0",
+        "accent_ratio": 0.25
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "Extreme close-up macro photograph of a modern black-cased smartphone held gently in a Korean adult male's hand at a gentle diagonal tilt, the entire frame filled by the brightly glowing screen surface with virtually no phone chassis visible except thin black bezels at the edges. The screen displays a Korean-language instant messaging application with a clean very light grey background and a conversational chat bubble interface design. The layout follows a standard messaging app convention: sent messages from the user appear as vivid cornflower-blue rounded-rectangle speech bubbles aligned to the right half of the screen, containing white Korean hangul characters in a clean system sans-serif font. Received messages from the other party appear as very light grey rounded-rectangle bubbles aligned to the left side, containing dark charcoal Korean hangul text. The most recently arrived message, positioned at the lower-center area of the visible screen portion, reads the text '엉 우리 아빠 집에 있지!' in a grey received bubble. Just below it, a reply bubble in vivid blue reads '둘이 좋은 시간 보내고 있어' with small emoji heart icons following. Further up the visible conversation, an earlier exchange shows blue sent bubbles asking about dinner and location, and grey received bubbles responding naturally. At the very bottom left of the screen, a round animated typing-indicator bubble shows three grey dots of ascending size, suggesting the other party is composing a new message. The chat interface header at the top is partially cropped but shows a contact name '내편' (my partner/other half) with a small profile picture icon. The screen emits soft cool-white backlight illumination. The hand holding the device shows natural Korean adult male skin tone, the thumb resting just below the lower bezel, fingertips of the index and middle finger visible at the upper-right corner gripping the device. The entire background outside the phone is rendered as soft creamy bokeh — indistinct warm amber and golden tones that suggest practical room lamps in a domestic Korean living room interior, with complete depth-of-field separation. The composition creates a strong diagonal axis following the phone's tilt, with the screen plane occupying nearly the entire frame diagonally. Lighting on the phone surface itself is soft ambient overhead diffuse, with no harsh reflections, no glare, and very low contrast. The phone has no visible manufacturer logos or distinguishing features on its chassis. Lens rendering: macro cinema lens at approximately 100mm equivalent focal length with maximum aperture, yielding extremely shallow depth of field and very smooth background bokeh. Color palette: very light grey screen background (#E8EFF6), vivid cornflower blue sent bubbles (#4EA8F0), white receive bubble background (#F5F5F5), charcoal message text (#222222), warm skin tone (#E8B090), warm amber bokeh hints (#D4A870). Overall mood: intimate, immediate, connected — a family conversation unfolding in real time on a quiet evening. Style reference: Korean commercial photography, cinematic color grade, clean digital sensor with natural micro-texture, warm ambient domestic light. The production quality reflects a high-end Korean commercial advertising standard: the image is shot on a cinema-grade digital camera with a cinema-grade macro prime lens, precision focus pulling, and careful craft lighting design; the color grade adds a subtle warm lift to the midtones while keeping the screen's self-illuminated colors accurate and clean. The overall mood of the image bridges technology and emotion — the smartphone is not shown as a cold digital object but as a warm conduit for human connection, its screen content framed with the same care one might frame a painting. Korean nationality and family context are central to the visual register: the hand's skin tone, the type on screen, and the intimate framing all signal a specifically Korean domestic scene.",
+        "t2i_negative": "text in English, blurry screen content, dark background, high contrast, harsh shadows, visible logos on phone",
+        "i2v_motion": "Camera performs a slow upward pan following the appearance of new message bubbles; each bubble seems to push up gently into frame; slight organic handheld micro-drift; new grey typing-indicator dots animate in at lower left; cut to next scene at 3.3s",
+        "i2v_params": {
+          "clip_duration_sec": 3.3,
+          "camera_move": "slow_pan_up",
+          "subject_motion_level": "minimal",
+          "signature_effect": "shallow_dof_macro",
+          "pacing": "slow",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen copy preserved; identity/logo generic"
+      }
+    },
+    {
+      "index": 2,
+      "duration": 3.211,
+      "framing": "ECU",
+      "function": "context",
+      "subject_action": "continuation of messaging conversation; hand repositions slightly as new messages appear; conversation reveals family situation",
+      "layout_grid": "diagonal_fill",
+      "subject_position": "center_dominant",
+      "typo_motion": "animated_text_bubble_entrance",
+      "camera_angle": "top_down_macro",
+      "camera_facing": "perpendicular_to_screen",
+      "shot_scope": "product_detail",
+      "gaze": "off_camera",
+      "props": [
+        "smartphone",
+        "hand"
+      ],
+      "color_palette": [
+        "#E8EFF6",
+        "#4EA8F0",
+        "#F5F5F5",
+        "#1A1A1A"
+      ],
+      "color_intent": "same_as_cut1_conversation_continues",
+      "pose_description": "hand holds phone; slight repositioning; slightly different angle than cut 1",
+      "subject_motion": "micro_shift",
+      "camera_motion": "slow_pan_following_messages",
+      "camera_effect_local": "shallow_dof",
+      "intra_cut_rhythm": "sequential_message_reveal",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "mid_frame_path": "ADV-2026-013_frames/cut02_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "smartphone_screen_with_chat"
+        ],
+        "midground": [],
+        "background": [
+          "blurred_warm_interior"
+        ],
+        "lighting_env": [
+          "ambient_diffused"
+        ],
+        "atmosphere": [
+          "intimate",
+          "evening"
+        ]
+      },
+      "texture": {
+        "primary_subject": "glass_screen",
+        "secondary_objects": [
+          "hand_skin"
+        ],
+        "background_surface": "blurred_bokeh",
+        "atmospheric": [
+          "soft_focus"
+        ]
+      },
+      "lighting": {
+        "key_direction": "overhead_ambient",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral",
+        "fill_strength": "medium",
+        "key_to_fill_ratio": "1:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "minimal",
+        "overall_contrast": "low"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#E8EFF6",
+          "#4EA8F0",
+          "#F5F5F5",
+          "#222222"
+        ],
+        "palette_role": {
+          "#E8EFF6": "screen_bg",
+          "#4EA8F0": "sent_bubbles",
+          "#F5F5F5": "received_bubbles",
+          "#222222": "text"
+        },
+        "color_relationship": "monochromatic_cool",
+        "temperature_balance": "cool",
+        "saturation_strategy": "low",
+        "contrast_type": "functional",
+        "accent_color": "#4EA8F0",
+        "accent_ratio": 0.3
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "Extreme close-up macro photograph of a modern black-cased smartphone held in a Korean adult's hand at a slightly different tilt angle from the previous framing, the phone screen again filling nearly the entire frame edge to edge with only thin black bezel visible. The screen continues to display the Korean-language messaging application, the same clean light grey chat interface persisting as a new moment in the ongoing conversation. The sent-message blue bubbles on the right are now slightly more numerous, indicating the conversation has progressed; a new blue rounded-rectangle bubble appears in the lower-center portion of the visible screen, showing a continued dialogue about the family situation — specifically the reply '그래? 집에 장인어른 계신가?' in white hangul text. Below it, a grey received bubble shows a warm casual reply. An additional grey received bubble with heart emoji icons follows, conveying affectionate family closeness. The typing indicator dots that were visible before may have resolved into a completed message. The hand holding the phone is positioned slightly differently — the thumb now more visible at the lower-right bezel edge, the grip suggesting an adjusted hold as the person reads and responds. The screen surface catches a gentle diffused overhead highlight creating a very faint elongated specular along the upper-left edge of the glass, typical of indoors ambient lighting. Background outside the phone is rendered as lush warm bokeh at an equivalent depth to before — amber, golden-beige and warm white blobs of light and furniture surface suggesting a cozy evening Korean domestic interior of the highest visual comfort. Lens: macro cinema at approximately 100mm focal length, wide aperture, heavy background separation, extremely clean foreground-screen sharpness. Lighting: soft ambient overhead diffuse, neutral-to-cool color temperature on the screen, warm ambient temperature on the hand skin and background bokeh, overall low contrast, no shadows. Color palette: screen background light grey (#E8EFF6), sent bubble cornflower blue (#4EA8F0), received bubble white-grey (#F5F5F5), text charcoal (#1A1A1A), skin warm tone (#D4A880), background bokeh amber (#C8A060). Mood: the conversation continues revealing the family scenario; the viewer is drawn into a private family dialogue through the intimacy of the extreme close-up. Production style: Korean commercial cinema photography, precise depth of field control, natural grain-free digital sensor, cinematic color grade emphasizing warmth and authenticity. This frame continues a carefully considered compositional strategy native to contemporary Korean commercial advertising — using macro screen inserts not merely as product demonstrations but as emotional intimacy devices, drawing the viewer into a private family conversation. The production favors truthfulness over stylization: the messaging app interface mirrors real Korean consumer app design conventions, and the hand's natural imperfections make the scene feel genuinely observed rather than artificially staged. Korean commercial cinema of this type typically shoots at native ISO with minimal noise reduction, preserving a clean organic image that complements the warm domestic narrative. The grain is absent, the depth is precise, and the color temperature on the screen surface reflects the actual cool-white LED display technology in contrast with the warm tungsten ambient of the room.",
+        "t2i_negative": "English text, harsh lighting, dark moody background, shallow field where screen is unsharp",
+        "i2v_motion": "Camera continues slow upward pan tracking new message reveal; new blue bubble floats up into lower portion of screen; organic micro-vibration from handheld hold; duration ~3.2s then hard cut",
+        "i2v_params": {
+          "clip_duration_sec": 3.2,
+          "camera_move": "slow_pan_up",
+          "subject_motion_level": "minimal",
+          "signature_effect": "macro_dof",
+          "pacing": "slow",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen copy preserved; identity/logo generic"
+      }
+    },
+    {
+      "index": 3,
+      "duration": 2.169,
+      "framing": "WS",
+      "function": "establish",
+      "subject_action": "elderly man and adult son seated side by side on white sofa in warmly lit living room; son holds smartphone looking down at it; father sits upright looking forward",
+      "layout_grid": "thirds_two_person",
+      "subject_position": "center_weighted_two_shot",
+      "typo_motion": "none",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "wide_environmental",
+      "gaze": "son_at_phone_father_forward",
+      "props": [
+        "white_sofa",
+        "wooden_coffee_table",
+        "ceramic_mug",
+        "books",
+        "floor_lamp",
+        "globe_lamp",
+        "bookshelf",
+        "houseplants",
+        "abstract_wall_art"
+      ],
+      "color_palette": [
+        "#C8B89A",
+        "#4A6741",
+        "#5A7AB5",
+        "#F5F0E8",
+        "#D4956A"
+      ],
+      "color_intent": "warm_tungsten_domestic_evening; desaturated_naturalistic",
+      "pose_description": "older man in green cardigan and plaid shirt seated left; adult son in blue cable-knit sweater seated right holding phone with both hands in lap; both facing forward; slight distance between them suggesting quiet companionship",
+      "subject_motion": "minimal_natural_stillness",
+      "camera_motion": "locked_off",
+      "camera_effect_local": "natural_depth_room_visible",
+      "intra_cut_rhythm": "static_observational",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "mid_frame_path": "ADV-2026-013_frames/cut03_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "two_men_on_sofa",
+          "coffee_table"
+        ],
+        "midground": [
+          "bookshelf_with_objects",
+          "table_lamp",
+          "wall_art"
+        ],
+        "background": [
+          "curtained_window_blue_light",
+          "side_tables_with_lamps",
+          "houseplants"
+        ],
+        "lighting_env": [
+          "tungsten_table_lamps",
+          "ambient_cool_window_background"
+        ],
+        "atmosphere": [
+          "quiet_domestic_evening",
+          "warm_intimate",
+          "slightly_awkward_silence"
+        ]
+      },
+      "texture": {
+        "primary_subject": "knit_wool_sweaters_both_men",
+        "secondary_objects": [
+          "linen_sofa_upholstery",
+          "wood_grain_table",
+          "ceramic_mug_matte"
+        ],
+        "background_surface": "off_white_wall_plaster",
+        "atmospheric": [
+          "warm_lamp_glow_on_wall"
+        ]
+      },
+      "lighting": {
+        "key_direction": "practical_lamps_left_and_right",
+        "key_hardness": "soft",
+        "key_color_temp": "warm_tungsten_3000K",
+        "fill_strength": "low_ambient",
+        "key_to_fill_ratio": "3:1",
+        "rim_light": false,
+        "practical_lights": [
+          "globe_lamp_left",
+          "table_lamp_center_bg"
+        ],
+        "shadow_presence": "gentle_soft",
+        "overall_contrast": "medium_low"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#C8B89A",
+          "#4A6741",
+          "#5A7AB5",
+          "#F5F0E8",
+          "#A0855A"
+        ],
+        "palette_role": {
+          "#C8B89A": "sofa_wall_neutral",
+          "#4A6741": "elder_cardigan_olive_green",
+          "#5A7AB5": "son_sweater_slate_blue",
+          "#F5F0E8": "ambient_light_warm_white",
+          "#A0855A": "wood_table"
+        },
+        "color_relationship": "complementary_muted_warm_cool",
+        "temperature_balance": "warm_dominant",
+        "saturation_strategy": "desaturated_naturalistic",
+        "contrast_type": "soft_chiaroscuro",
+        "accent_color": "#4A6741",
+        "accent_ratio": 0.2
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "Wide establishing interior shot of a carefully styled Korean domestic living room at evening, the scene warm and intimate with practical lamp illumination. Two Korean men are seated side by side on a full-length cream-white textured linen sofa occupying the center of the frame. On the left side of the sofa sits an older Korean gentleman estimated to be approximately 55 to 65 years old. He is wearing a dark forest-olive-green button-front knit cardigan layered over a green and grey plaid flannel collared shirt underneath, dark charcoal grey slacks, and black house slippers. He has round gold wire-frame glasses, short hair that is dark with some grey at the temples, and a composed neutral expression with his hands resting flat on his thighs, looking forward with calm reserve. On the right side of the sofa sits a younger Korean man estimated to be approximately 28 to 35 years old. He is wearing a medium-blue cable-knit textured crew-neck sweater with visible raised diagonal knit patterning across the chest and arms, dark grey slim trousers, and casual shoes or socks. He holds a modern black smartphone with both hands positioned in his lap, looking downward at the screen with a focused yet slightly casual expression. Between the two men and in front of the sofa, a low oval wooden coffee table with a warm honey-oak wood grain finish is centered in the foreground. On the table: a single cylindrical ceramic mug in a light warm mocha glaze sits left of center, a small stack of two to three paperback books with colorful spines sits at the right edge. Directly behind the two men and centered in the background, a wooden mid-century modern style wall-mounted or freestanding open bookshelf holds a curated arrangement of small decorative objects, a green potted succulent plant, a small retro radio or alarm clock, and several books of varying colors. To the upper right quadrant of the frame, a rectangular black-framed abstract line drawing print hangs on the off-white plaster wall — the artwork features loose looping dark blue lines on white. On the far right edge of the frame, a tall floor lamp with a white fabric cylindrical shade emits warm amber light. To the far left of the frame, a low side table holds a white rounded globe-shaped table lamp also glowing warm amber, alongside a small potted plant with broad dark green leaves. The background reveals cool soft blue ambient light filtering through vertical fabric blinds on a window, suggesting early evening exterior light contrasting with the interior warmth. Lighting: key illumination from practical tungsten lamps at left and right of frame, color temperature approximately 3000K warm amber, soft diffuse quality with no hard shadows; secondary cool blue fill from window creates gentle dual-temperature atmosphere. Camera: eye-level, lens approximately 35-50mm equivalent, symmetrical wide framing, slight vignette. Color palette: cream linen sofa (#F5F0E8), olive-green cardigan (#4A6741), slate-blue cable sweater (#5A7AB5), warm neutral off-white wall (#C8B89A), warm honey-oak wood (#A0855A). Style: cinematic Korean commercial interior, natural production design, modest domestic warmth, emotional restraint, slight inter-generational distance communicated through the small physical gap between the two seated figures on the sofa.",
+        "t2i_negative": "daytime, outdoor, bright harsh light, western interior, modern minimalist",
+        "i2v_motion": "Camera fully static locked-off; son's hand makes small micro-gesture holding phone; father sits still; ~2.2s then hard cut to same scene angle with slight change",
+        "i2v_params": {
+          "clip_duration_sec": 2.2,
+          "camera_move": "locked_off",
+          "subject_motion_level": "minimal",
+          "signature_effect": "practical_lamp_flicker_subtle",
+          "pacing": "slow",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen copy preserved; identity/logo generic"
+      }
+    },
+    {
+      "index": 4,
+      "duration": 3.962,
+      "framing": "WS",
+      "function": "narrative",
+      "subject_action": "son turns slightly toward father and gestures with phone, initiating conversation; father turns head to look; interactive exchange begins",
+      "layout_grid": "thirds_two_person",
+      "subject_position": "center_weighted_two_shot",
+      "typo_motion": "none",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "wide_environmental",
+      "gaze": "son_to_father",
+      "props": [
+        "white_sofa",
+        "wooden_coffee_table",
+        "ceramic_mug",
+        "books",
+        "floor_lamp",
+        "globe_lamp"
+      ],
+      "color_palette": [
+        "#C8B89A",
+        "#4A6741",
+        "#5A7AB5",
+        "#F5F0E8",
+        "#A0855A"
+      ],
+      "color_intent": "same_warm_domestic",
+      "pose_description": "son pivots slightly toward father extending phone as conversation prop; father turns head, mild expression of curiosity/skepticism",
+      "subject_motion": "moderate_conversational_gesture",
+      "camera_motion": "locked_off",
+      "camera_effect_local": "natural",
+      "intra_cut_rhythm": "dialogue_scene_observational",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "mid_frame_path": "ADV-2026-013_frames/cut04_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "two_men_on_sofa",
+          "coffee_table",
+          "phone_extended"
+        ],
+        "midground": [
+          "bookshelf",
+          "lamp"
+        ],
+        "background": [
+          "curtained_window",
+          "houseplants",
+          "wall_art"
+        ],
+        "lighting_env": [
+          "tungsten_lamps_practical"
+        ],
+        "atmosphere": [
+          "warm",
+          "mild_humor",
+          "son_persuading_father"
+        ]
+      },
+      "texture": {
+        "primary_subject": "knit_wool_sweaters",
+        "secondary_objects": [
+          "linen_sofa",
+          "ceramic_mug"
+        ],
+        "background_surface": "off_white_wall",
+        "atmospheric": [
+          "warm_lamp_glow"
+        ]
+      },
+      "lighting": {
+        "key_direction": "practical_lamps",
+        "key_hardness": "soft",
+        "key_color_temp": "warm_3000K",
+        "fill_strength": "low",
+        "key_to_fill_ratio": "3:1",
+        "rim_light": false,
+        "practical_lights": [
+          "globe_lamp_left",
+          "table_lamp_center_bg"
+        ],
+        "shadow_presence": "gentle",
+        "overall_contrast": "medium_low"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#C8B89A",
+          "#4A6741",
+          "#5A7AB5",
+          "#F5F0E8",
+          "#A0855A"
+        ],
+        "palette_role": {
+          "#C8B89A": "wall_neutral",
+          "#4A6741": "cardigan_olive",
+          "#5A7AB5": "sweater_blue",
+          "#F5F0E8": "sofa_ambient",
+          "#A0855A": "wood_brown"
+        },
+        "color_relationship": "complementary_warm_cool_muted",
+        "temperature_balance": "warm",
+        "saturation_strategy": "low_naturalistic",
+        "contrast_type": "soft",
+        "accent_color": "#5A7AB5",
+        "accent_ratio": 0.18
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "Wide shot of the same carefully art-directed Korean domestic living room interior established in the previous framing, all production design elements identical: the cream-white linen sofa centered against the off-white plaster wall, the warm honey-oak wood coffee table in the foreground, the curated mid-century modern bookshelf backdrop with plants and decorative objects, the abstract dark-blue line-art print on the wall upper right, the floor lamp with white shade glowing warm amber at right, and the globe lamp glowing amber on the side table at left. The room is still lit exclusively by the warm tungsten practical lamps at color temperature 3000K, with cool blue ambient from the background window. Now in this moment the dynamic between the two seated Korean men has shifted into active interaction. The older man on the left in the dark olive-green cardigan and plaid shirt has turned his head and upper body slightly rightward toward his younger companion, his expression carrying a blend of mild skepticism and polite curiosity — eyebrows fractionally raised above gold-wire-frame glasses, lips slightly pursed in a measured expression that communicates 'I'm not immediately convinced, but I am listening.' The younger man on the right in the medium-blue cable-knit sweater has pivoted his entire upper torso toward the older man, his right hand extending outward toward the older man holding the black smartphone face-up or face-forward as if presenting something on the screen. His left hand is raised with an open-palm gesture suggesting enthusiastic explanation or encouragement — the body language of someone trying to get their parent interested in technology. The phone screen itself faces slightly away from the camera at this distance and is not clearly readable, appearing as a small glowing rectangle. The coffee table between them holds the same ceramic mug and stack of books. Camera remains at eye level, the same symmetrical wide frontal framing as before with the same lens focal length. A slight natural vignette darkens the frame corners. Color palette: cream sofa (#F5F0E8), olive cardigan (#4A6741), slate-blue sweater (#5A7AB5), warm wood (#A0855A), off-white wall (#C8B89A). The scene conveys a familiar generational negotiation: a younger person introducing digital technology to a receptive-but-cautious older parent. Style: cinematic Korean commercial production, naturalistic, warm, observational. This observational wide shot embodies a characteristic approach in Korean commercial storytelling: the camera watches rather than intrudes, giving the two figures enough space to behave naturally within the frame rather than performing directly for the lens. The frontal symmetrical wide framing is a deliberate compositional choice — it puts both subjects on equal visual footing, neither privileged over the other, reflecting the advertisement's thematic interest in intergenerational equality and mutual engagement. The art direction keeps every prop and wardrobe element restrained and authentic, avoiding anything that might read as staged or forced. The olive-green cardigan and the blue cable-knit sweater together form a carefully considered two-character color story: complementary but not matching, each distinctive yet harmonious in the warm domestic color environment. Korean nationality and the specific Korean-family-evening-visit scenario are core to reading this image correctly.",
+        "t2i_negative": "harsh lighting, bright backgrounds, western decor, exaggerated expressions",
+        "i2v_motion": "Son turns and extends phone toward father; father's head turns; natural conversational movement; camera fully locked off; ~4s then cut",
+        "i2v_params": {
+          "clip_duration_sec": 4.0,
+          "camera_move": "locked_off",
+          "subject_motion_level": "low_natural",
+          "signature_effect": "none",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen copy preserved; identity/logo generic"
+      }
+    },
+    {
+      "index": 5,
+      "duration": 2.294,
+      "framing": "CU",
+      "function": "product_demo",
+      "subject_action": "smartphone screen shows an app store listing for a Go board game application; green download button prominent; star rating, review count and chart rank visible",
+      "layout_grid": "center_fill",
+      "subject_position": "center_dominant",
+      "typo_motion": "static_ui_text",
+      "camera_angle": "slight_high_angle",
+      "camera_facing": "perpendicular_to_screen",
+      "shot_scope": "product_detail",
+      "gaze": "off_camera",
+      "props": [
+        "smartphone",
+        "hand"
+      ],
+      "color_palette": [
+        "#FFFFFF",
+        "#34A853",
+        "#1A1A1A",
+        "#888888",
+        "#D4A850"
+      ],
+      "color_intent": "clean_white_app_store_ui; green_cta_button_dominant",
+      "pose_description": "hand holds phone; app store listing fills screen showing game icon (Go board grid pattern with black and white stones), title, rating stars, get button",
+      "subject_motion": "static",
+      "camera_motion": "locked_off_slight",
+      "camera_effect_local": "shallow_dof_background",
+      "intra_cut_rhythm": "static_informational",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "mid_frame_path": "ADV-2026-013_frames/cut05_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "smartphone_screen_app_store_listing"
+        ],
+        "midground": [
+          "hand_fingers"
+        ],
+        "background": [
+          "blurred_warm_interior_bokeh"
+        ],
+        "lighting_env": [
+          "screen_self_lit",
+          "ambient_interior"
+        ],
+        "atmosphere": [
+          "digital_product_demo",
+          "purposeful_browsing"
+        ]
+      },
+      "texture": {
+        "primary_subject": "glossy_phone_screen_flat",
+        "secondary_objects": [
+          "hand_skin"
+        ],
+        "background_surface": "blurred_bokeh",
+        "atmospheric": [
+          "clean_digital_ui"
+        ]
+      },
+      "lighting": {
+        "key_direction": "screen_self_illumination",
+        "key_hardness": "soft_diffuse",
+        "key_color_temp": "neutral_white_6500K_screen",
+        "fill_strength": "low_ambient",
+        "key_to_fill_ratio": "4:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "minimal",
+        "overall_contrast": "medium"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#FFFFFF",
+          "#34A853",
+          "#1A1A1A",
+          "#888888",
+          "#C8A030"
+        ],
+        "palette_role": {
+          "#FFFFFF": "app_store_background",
+          "#34A853": "get_button_green",
+          "#1A1A1A": "app_title_text",
+          "#888888": "subtitle_text",
+          "#C8A030": "star_rating_yellow"
+        },
+        "color_relationship": "high_contrast_white_ground_with_green_accent",
+        "temperature_balance": "neutral_cool",
+        "saturation_strategy": "functional_ui_colors",
+        "contrast_type": "high_readability",
+        "accent_color": "#34A853",
+        "accent_ratio": 0.1
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "Close-up photograph of a modern large-screen smartphone held in a Korean adult's hand, the device slightly tilted so the front face with its screen is clearly visible and dominates nearly the entire frame. The screen displays a clean white iOS-style application store listing page for a mobile Go board game application. At the very top-right corner of the phone screen, a prominent rounded-rectangle button in a vivid medium-green color contains white Korean text reading '받기' (meaning Get, equivalent to a Download button). Positioned centrally and prominently on the screen, a square rounded-corner application icon rendered in a classic design shows a Go board (Baduk in Korean): a warm beige or tan grid surface with alternating circular black and white game stones arranged in a grid pattern, representing a traditional Go game position. To the right of this icon, in a large Korean sans-serif bold typeface, the application name reads '바둑명인의 길' (Way of the Go Master). Directly below the title, a smaller lighter grey subtitle text reads '무한한 대국, 한계 없는 전략' (Infinite matches, limitless strategy). Below the icon, a blue share icon (square with upward-pointing arrow) appears at center. Beneath the share icon, three horizontal metadata columns are evenly spaced: the leftmost column displays '1.5천개의 평가' (1,500 ratings) in small grey text above the bold large numeral '4.8' followed by five yellow filled star icons below; the center column shows '연령' (Age) in grey above '전체세' (All ages) in medium text; the rightmost column shows '차트' (Chart) in grey above '보드' (Board category) in small text and '#42' in bold large numerals. At the very bottom edge of the visible screen area, partial small screenshots of the game's actual gameplay interface are glimpsed, showing traditional-style game art. The hand holding the phone is a Korean adult male's hand with natural skin tone, fingers visible at the left bezel and right upper corner of the device. The phone frame is gold-anodized aluminum. The background behind the phone is a softly blurred warm amber and golden bokeh from a domestic interior, achieving heavy depth-of-field separation. The screen self-illuminates with clean neutral white light. Lighting: screen primary illumination, soft ambient warm interior fill. Color palette: white screen background (#FFFFFF), vivid green download button (#34A853), bold title text near-black (#1A1A1A), subtitle and metadata grey (#888888), yellow star ratings (#C8A030), warm bokeh background (#D4A860). Style: Korean commercial product photography, precise screen sharpness, natural hand interaction, cinematic shallow depth of field. The screen content is rendered with exact fidelity to actual Korean iOS app store conventions: the rating system, the category chart ranking, the age rating system, and the action button design all follow real Korean App Store visual specifications. This specificity is intentional in Korean commercial advertising — showing real, recognizable product interfaces grounds the demonstration in authentic consumer reality, lending the product claim immediate credibility with a Korean adult audience who regularly use the same App Store interface. The macro close-up framing creates an intimacy with the app store product page that mirrors the intimacy of the messaging screen shown earlier, visually linking the digital world of the app to the emotional world of the family relationship. Production style follows premium Korean digital commercial standards: sharp, clean, well-lit, naturally grounded.",
+        "t2i_negative": "western app store, English text, dark theme, hand fully obscuring screen",
+        "i2v_motion": "Screen content static; hand holds phone steadily; slight micro-vibration from handheld; ~2.3s then hard cut",
+        "i2v_params": {
+          "clip_duration_sec": 2.3,
+          "camera_move": "locked_off",
+          "subject_motion_level": "minimal",
+          "signature_effect": "shallow_dof",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen copy preserved; identity/logo generic"
+      }
+    },
+    {
+      "index": 6,
+      "duration": 2.169,
+      "framing": "WS",
+      "function": "reaction",
+      "subject_action": "same sofa scene; son looking at phone smiling; father watching son with mild attention",
+      "layout_grid": "thirds_two_person",
+      "subject_position": "center_two_shot",
+      "typo_motion": "none",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "wide_environmental",
+      "gaze": "son_at_phone_smiling",
+      "props": [
+        "white_sofa",
+        "coffee_table",
+        "mug",
+        "books"
+      ],
+      "color_palette": [
+        "#C8B89A",
+        "#4A6741",
+        "#5A7AB5",
+        "#F5F0E8"
+      ],
+      "color_intent": "warm_domestic_same_palette",
+      "pose_description": "son has slight smile looking down at phone; father turns head toward son with mild curiosity",
+      "subject_motion": "minimal",
+      "camera_motion": "locked_off",
+      "camera_effect_local": "natural",
+      "intra_cut_rhythm": "static_observational",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "mid_frame_path": "ADV-2026-013_frames/cut06_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "two_men_on_sofa"
+        ],
+        "midground": [
+          "bookshelf",
+          "lamp"
+        ],
+        "background": [
+          "curtains",
+          "plants"
+        ],
+        "lighting_env": [
+          "tungsten_practical"
+        ],
+        "atmosphere": [
+          "warm_cozy",
+          "anticipation"
+        ]
+      },
+      "texture": {
+        "primary_subject": "knit_sweaters",
+        "secondary_objects": [
+          "linen_sofa"
+        ],
+        "background_surface": "wall_plaster",
+        "atmospheric": [
+          "lamp_glow"
+        ]
+      },
+      "lighting": {
+        "key_direction": "practical_lamps",
+        "key_hardness": "soft",
+        "key_color_temp": "warm_3000K",
+        "fill_strength": "low",
+        "key_to_fill_ratio": "3:1",
+        "rim_light": false,
+        "practical_lights": [
+          "globe_lamp",
+          "table_lamp"
+        ],
+        "shadow_presence": "soft",
+        "overall_contrast": "low"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#C8B89A",
+          "#4A6741",
+          "#5A7AB5",
+          "#F5F0E8"
+        ],
+        "palette_role": {
+          "#C8B89A": "wall",
+          "#4A6741": "cardigan",
+          "#5A7AB5": "sweater",
+          "#F5F0E8": "sofa"
+        },
+        "color_relationship": "warm_cool_complementary",
+        "temperature_balance": "warm",
+        "saturation_strategy": "low",
+        "contrast_type": "soft",
+        "accent_color": "#4A6741",
+        "accent_ratio": 0.2
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "Wide shot of the Korean domestic living room interior established in the previous framing, everything identical in production design: the cream linen sofa, the warm-oak coffee table with ceramic mug and book stack, the mid-century wooden bookshelf with plants and decorative objects at center background, the abstract dark-blue line art print upper right of frame, the floor lamp warm amber glow far right, the globe lamp warm amber glow far left, the cool blue ambient light from the behind-curtain window, and the slightly vignetting frame. Two Korean men occupy the cream sofa: the older man approximately 60 years old in the dark olive-green cardigan and plaid shirt sits on the left side of the sofa, his head now turned slightly toward his right companion with a mild expression that has evolved from reserved neutrality toward something approaching cautious interest — his brow is relaxed, his posture remains composed with hands still resting on his thighs, but there is a fractional turn of his torso. The younger man approximately 30 years old in the medium-blue cable-knit sweater sits on the right of the sofa, both hands holding the black smartphone in his lap, his gaze directed downward at the screen, and on his face a small, natural, understated smile — the expression of someone who has just found something they believe their companion will enjoy, a quiet satisfaction with a hint of warmth. The phone screen is not clearly readable from this wide-shot distance. Camera position and lens remain identical to the establishing and action shots: eye-level, approximately 35-50mm equivalent, symmetrical frontal wide framing, natural depth. Warm tungsten practical lamp illumination at 3000K dominates from left and right practicals, with low ambient fill from the rest of the room. Slight natural vignette. Color palette: cream sofa (#F5F0E8), olive-green cardigan (#4A6741), slate-blue cable sweater (#5A7AB5), warm honey-oak coffee table (#A0855A), off-white wall (#C8B89A), warm amber lamp glow (#D4A050). The scene conveys the quiet transition moment before the son presents his discovery to his father — a beat of personal preparation before a small shared moment begins. Style: cinematic Korean commercial production, observational naturalism, domestic warmth, emotional understated storytelling. The continuation of this framing strategy — returning repeatedly to the wide sofa shot as a structural anchor — is characteristic of Korean commercial advertising that uses domestic slice-of-life settings. Each return to the wide shot marks a new emotional beat in the narrative arc, and the subtle shifts in body language and expression between each iteration function as a silent performance-based storytelling device. No dialogue or narration is needed for these beats — the Korean audience is invited to read the micro-performances in the way one reads a familiar family situation from real life. The warm tungsten palette across all wide-shot sofa cuts creates a consistent visual home base that anchors all the more dynamic phone-screen inserts, giving the advertisement a structural rhythm of warm-then-close, narrative-then-demo, emotion-then-information. This moment functions as a transitional beat in the narrative — between the app store discovery shot and the installation shots — grounding the product demonstration within the emotional domestic story before diving back into the phone-screen world. The slight smile on the son's face in this cut is one of the advertisement's most understated emotional notes, communicating genuine pleasure at the idea of giving something useful to someone you care about.",
+        "t2i_negative": "harsh light, bright scene, motion blur, wide aperture showing only close subject",
+        "i2v_motion": "Son's subtle smile; father leans head slightly; locked camera; ~2.2s then cut to phone screen insert",
+        "i2v_params": {
+          "clip_duration_sec": 2.2,
+          "camera_move": "locked_off",
+          "subject_motion_level": "minimal",
+          "signature_effect": "none",
+          "pacing": "slow",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen copy preserved; identity/logo generic"
+      }
+    },
+    {
+      "index": 7,
+      "duration": 2.127,
+      "framing": "CU",
+      "function": "product_demo",
+      "subject_action": "smartphone phone screen shows an app installing: circular progress spinner overlaying a game icon, text '설치 중...' below; phone resting on dark surface",
+      "layout_grid": "upper_third_center",
+      "subject_position": "upper_center",
+      "typo_motion": "animated_spinner_progress",
+      "camera_angle": "slight_high",
+      "camera_facing": "perpendicular_to_screen",
+      "shot_scope": "product_detail",
+      "gaze": "off_camera",
+      "props": [
+        "smartphone",
+        "hand"
+      ],
+      "color_palette": [
+        "#1A1A40",
+        "#2A2A60",
+        "#FFFFFF",
+        "#D4956A"
+      ],
+      "color_intent": "dark_phone_wallpaper_midnight_blue; white_spinner_progress; warm_background_bokeh",
+      "pose_description": "hand holds phone landscape; game app icon with circular download-progress ring overlay at upper half of screen; '설치 중...' text below icon in white",
+      "subject_motion": "spinner_animation",
+      "camera_motion": "locked_off",
+      "camera_effect_local": "shallow_dof_background",
+      "intra_cut_rhythm": "action_loading_in_progress",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "mid_frame_path": "ADV-2026-013_frames/cut07_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "phone_screen_installing",
+          "app_icon_with_spinner"
+        ],
+        "midground": [
+          "hand_fingers"
+        ],
+        "background": [
+          "blurred_warm_domestic_bokeh",
+          "background_items_indistinct"
+        ],
+        "lighting_env": [
+          "screen_self_illuminated",
+          "ambient_warm"
+        ],
+        "atmosphere": [
+          "anticipation",
+          "technology_in_action"
+        ]
+      },
+      "texture": {
+        "primary_subject": "glass_screen",
+        "secondary_objects": [
+          "hand_skin"
+        ],
+        "background_surface": "blurred_bokeh",
+        "atmospheric": [
+          "digital_ui_glow"
+        ]
+      },
+      "lighting": {
+        "key_direction": "screen_glow",
+        "key_hardness": "soft_diffuse",
+        "key_color_temp": "cool_blue_screen_tinted",
+        "fill_strength": "low",
+        "key_to_fill_ratio": "5:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "minimal",
+        "overall_contrast": "medium_high"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#12124A",
+          "#2C2C70",
+          "#FFFFFF",
+          "#D09060"
+        ],
+        "palette_role": {
+          "#12124A": "phone_dark_wallpaper",
+          "#2C2C70": "secondary_wallpaper_gradient",
+          "#FFFFFF": "spinner_text_white",
+          "#D09060": "background_bokeh_warm"
+        },
+        "color_relationship": "dark_cool_screen_vs_warm_bokeh",
+        "temperature_balance": "cool_dominant",
+        "saturation_strategy": "desaturated_screen_with_warm_bg_accent",
+        "contrast_type": "high_luminosity_contrast",
+        "accent_color": "#FFFFFF",
+        "accent_ratio": 0.15
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "Close-up photograph of a modern large-screen smartphone held in a Korean adult's hand, the device angled gently with the screen surface facing toward the camera and occupying the dominant portion of the frame. The phone is a large-format contemporary smartphone with a notch or pill camera cutout at the top center of the screen, and a visible status bar in the upper right showing signal strength bars, wifi icon, and battery indicator icon in white on the dark background. The phone's screen displays an iOS-style home screen in an active app-installation state: the wallpaper behind the installation is a dark midnight-blue to deep indigo gradient, rich and moody, covering the visible screen area below the status bar. Positioned at approximately the upper-center third of the screen, a single large square rounded-corner application icon is displayed — the Go board game icon with a dark grey or nearly black background surface on which a repeating pattern of alternating black and white circular stones (Go pieces) is arranged in a grid, the classic Baduk board aesthetic. Superimposed over this icon is a circular download-progress spinner: a white circular ring outline, with one arc portion filled in solid white indicating approximately 50-70% completion of the progress ring, the remaining unfilled arc shown as semi-transparent white, the whole ring spinning or frozen at this state. Centered directly below the icon, white Korean characters read '설치 중...' (Installing...) in a medium-weight sans-serif system typeface, three dots trailing in a standard ellipsis loading convention. The hand holding the device at its lower edge shows natural Korean adult skin tone, thumb at the lower bezel, the phone case if any is slim and dark, not adding visual prominence. The background surrounding the phone is completely blurred warm bokeh — amber, honey, and golden tones suggesting the practical room lamps of the domestic Korean living room, creating strong luminosity contrast between the cool dark phone screen and the warm background. Lighting: the screen is the primary light source, emitting a cool midnight-blue-tinted glow; surrounding warm ambient bokeh acts as accent. No hard shadows. Very shallow depth of field from macro cinema lens. Color palette: dark midnight navy screen (#12124A), deep indigo gradient wallpaper (#2C2C70), white spinner and text (#FFFFFF), warm amber background bokeh (#D09060), natural skin (#D4A880). Style: Korean commercial product cinema, intimate macro close-up, strong cool-warm contrast, natural hand texture. The dark phone wallpaper with its cool midnight-blue tones creates a deliberately striking contrast with the warm domestic bokeh visible in the background, functioning as a visual metaphor for the technology (cool, digital, immediate) within the warm family context. This contrast is intentional in the production design — the phone's screen world and the domestic living room world occupy different visual temperatures that merge in these phone-in-hand insert shots. The spinning progress indicator is one of the most universally relatable UI elements — everyone who has waited for an app to download understands the anticipation it represents — and showing it explicitly in a television or digital commercial is a strategic choice to validate the common consumer experience before presenting the product solution. Korean commercial production quality is evident in the precise focus, the natural hand, and the carefully managed bokeh.",
+        "t2i_negative": "android interface, light wallpaper, completed installation, blank screen",
+        "i2v_motion": "Spinner progress ring animates in circular motion; screen content otherwise static; hand micro-vibration; ~2.1s then cut",
+        "i2v_params": {
+          "clip_duration_sec": 2.1,
+          "camera_move": "locked_off",
+          "subject_motion_level": "spinner_animation_only",
+          "signature_effect": "shallow_dof",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen copy preserved; identity/logo generic"
+      }
+    },
+    {
+      "index": 8,
+      "duration": 2.211,
+      "framing": "WS",
+      "function": "narrative",
+      "subject_action": "wide sofa shot; son continues focused on phone; father watching with slightly impatient look; quiet waiting",
+      "layout_grid": "thirds_two_person",
+      "subject_position": "center_two_shot",
+      "typo_motion": "none",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "wide",
+      "gaze": "son_at_phone_father_waiting",
+      "props": [
+        "white_sofa",
+        "coffee_table",
+        "mug",
+        "books"
+      ],
+      "color_palette": [
+        "#C8B89A",
+        "#4A6741",
+        "#5A7AB5",
+        "#F5F0E8"
+      ],
+      "color_intent": "same_warm_domestic",
+      "pose_description": "son leans forward slightly over phone; father sits upright looking toward son with a faint expression of mild impatience or waiting",
+      "subject_motion": "minimal",
+      "camera_motion": "locked_off_slight_push",
+      "camera_effect_local": "natural",
+      "intra_cut_rhythm": "quiet_observational",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "mid_frame_path": "ADV-2026-013_frames/cut08_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "two_men_sofa"
+        ],
+        "midground": [
+          "bookshelf",
+          "lamp"
+        ],
+        "background": [
+          "curtains",
+          "plants"
+        ],
+        "lighting_env": [
+          "tungsten_practical"
+        ],
+        "atmosphere": [
+          "quiet",
+          "waiting",
+          "mild_tension"
+        ]
+      },
+      "texture": {
+        "primary_subject": "knit_sweaters",
+        "secondary_objects": [
+          "sofa_linen"
+        ],
+        "background_surface": "wall",
+        "atmospheric": [
+          "lamp_glow"
+        ]
+      },
+      "lighting": {
+        "key_direction": "practical_lamps",
+        "key_hardness": "soft",
+        "key_color_temp": "warm_3000K",
+        "fill_strength": "low",
+        "key_to_fill_ratio": "3:1",
+        "rim_light": false,
+        "practical_lights": [
+          "globe_lamp",
+          "table_lamp"
+        ],
+        "shadow_presence": "soft",
+        "overall_contrast": "low"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#C8B89A",
+          "#4A6741",
+          "#5A7AB5",
+          "#F5F0E8"
+        ],
+        "palette_role": {
+          "#C8B89A": "wall",
+          "#4A6741": "cardigan",
+          "#5A7AB5": "sweater",
+          "#F5F0E8": "sofa"
+        },
+        "color_relationship": "warm_cool_complementary",
+        "temperature_balance": "warm",
+        "saturation_strategy": "low",
+        "contrast_type": "soft",
+        "accent_color": "#5A7AB5",
+        "accent_ratio": 0.2
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "Wide shot of the established Korean domestic living room sofa scene in an identical framing to all previous wide-shot cuts: cream linen sofa centered, warm honey-oak coffee table in foreground with the ceramic mug and book stack, mid-century wooden bookshelf centered in background with plants and decorative objects, abstract dark-blue line art wall print upper right, floor lamp amber glow at right edge, globe lamp amber glow at left, vertical blind curtain in background with soft cool-blue ambient from outside window, natural vignette framing. In this moment, the dynamic between the two Korean men on the sofa has returned to a state of quiet waiting. The older man approximately 60 years old in the dark olive-green button-front cardigan over plaid shirt sits on the left side of the sofa, his posture now showing a slight lean toward the right, head turned with his eyes directed toward his younger companion. His expression reads as that of someone waiting with mild expectation or patience slightly tested — not impatient in an angry way but in the natural way of someone who has been promised something and is waiting for it to materialize. His gold-wire-frame glasses rest on his nose, both hands resting on his thighs, feet in black slippers flat on the floor. The younger man approximately 30 years old in the medium-blue cable-knit sweater sits on the right, his upper body leaning forward slightly at the waist toward the coffee table, holding the black smartphone in both hands in his lap or held slightly forward, his focus entirely directed downward at the phone screen with a concentrated expression suggesting he is navigating a menu or waiting for something to load. There is a comfortable but slightly awkward pause quality to the scene — the son absorbed in the phone, the father watching and waiting. Same camera position: eye-level, frontal wide, symmetric framing, approximately 35-50mm equivalent lens, slight vignette, natural depth of field. Warm tungsten practical lamps at 3000K as key light, soft room ambient fill. Color palette: cream sofa (#F5F0E8), olive cardigan (#4A6741), slate sweater (#5A7AB5), warm oak table (#A0855A), off-white wall (#C8B89A). Style: cinematic Korean commercial naturalism, warm domestic, observational pacing. The repeated return to this wide sofa shot format across multiple cuts is a deliberate cinematic strategy in this Korean commercial — using the consistency of the locked wide shot as a structural rhythm against which the closer dynamic phone inserts are counterpointed. Each wide shot return shows a slightly different emotional state in the father-son relationship, narrating the progression from initial awkwardness through engagement to connection entirely through body language, proximity, and micro-expression. The production design team has ensured every element of the scene — the books on the table, the ceramic mug, the bookshelf arrangement, the lampshade style — is period-authentically Korean contemporary middle-class domestic, reading as immediately familiar to the target demographic. The wide shot is also the most cinematically stable element: the camera never moves in these setups, creating a sense of observational truthfulness that complements the more kinetic phone insert shots.",
+        "t2i_negative": "bright daylight, outdoor, motion blur",
+        "i2v_motion": "Father's head turns slightly; son taps phone; locked camera; ~2.2s cut",
+        "i2v_params": {
+          "clip_duration_sec": 2.2,
+          "camera_move": "locked_off",
+          "subject_motion_level": "minimal",
+          "signature_effect": "none",
+          "pacing": "slow",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen copy preserved; identity/logo generic"
+      }
+    },
+    {
+      "index": 9,
+      "duration": 2.753,
+      "framing": "ECU",
+      "function": "product_demo",
+      "subject_action": "extreme close-up of phone screen; Go game icon with installing spinner fills frame; hand motion blur visible; almost abstract",
+      "layout_grid": "center_fill_dominant",
+      "subject_position": "center",
+      "typo_motion": "spinner_animation",
+      "camera_angle": "macro_close",
+      "camera_facing": "perpendicular",
+      "shot_scope": "extreme_close_detail",
+      "gaze": "off_camera",
+      "props": [
+        "smartphone",
+        "hand"
+      ],
+      "color_palette": [
+        "#0A0A30",
+        "#2A2A5A",
+        "#FFFFFF",
+        "#E0C090"
+      ],
+      "color_intent": "dark_screen_minimal; high_contrast_white_spinner",
+      "pose_description": "phone held in extreme close; game icon with circular spinner nearly fills entire screen; motion blur of hand passing in foreground suggests finger tap",
+      "subject_motion": "hand_motion_blur_foreground",
+      "camera_motion": "locked_off",
+      "camera_effect_local": "extreme_shallow_dof",
+      "intra_cut_rhythm": "anticipation_build",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "mid_frame_path": "ADV-2026-013_frames/cut09_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "phone_screen_installing_extreme_close",
+          "motion_blur_hand"
+        ],
+        "midground": [],
+        "background": [
+          "blurred_dark_bokeh"
+        ],
+        "lighting_env": [
+          "screen_glow"
+        ],
+        "atmosphere": [
+          "tense_wait",
+          "technology"
+        ]
+      },
+      "texture": {
+        "primary_subject": "glass_phone_screen_reflective",
+        "secondary_objects": [],
+        "background_surface": "blurred_undefined",
+        "atmospheric": [
+          "digital_glow"
+        ]
+      },
+      "lighting": {
+        "key_direction": "screen_self_illuminated",
+        "key_hardness": "soft",
+        "key_color_temp": "cool_blue_tinted",
+        "fill_strength": "very_low",
+        "key_to_fill_ratio": "8:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "none",
+        "overall_contrast": "high"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#0A0A30",
+          "#2A2A5A",
+          "#FFFFFF",
+          "#CCAA70"
+        ],
+        "palette_role": {
+          "#0A0A30": "dark_wallpaper_deepest",
+          "#2A2A5A": "wallpaper_mid",
+          "#FFFFFF": "spinner_white",
+          "#CCAA70": "bokeh_warmth"
+        },
+        "color_relationship": "high_contrast_dark_vs_white",
+        "temperature_balance": "cool",
+        "saturation_strategy": "near_monochrome_cool",
+        "contrast_type": "luminosity_high",
+        "accent_color": "#FFFFFF",
+        "accent_ratio": 0.2
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "Extreme macro close-up photograph of a smartphone screen at such close range that the phone itself becomes an abstract flat panel of glowing darkness, with only the application content visible as the entire image content. The framing is so tight that no phone chassis or bezel is clearly distinguishable — the screen essentially becomes the entire image. The phone's wallpaper is a very deep, rich midnight navy-blue to dark indigo gradient that fills the screen as the primary background. At the center of the frame, occupying approximately 40 to 50 percent of the total frame height, is the application icon for a Go board game: a large square rounded-corner tile with a very dark grey or near-black background surface, on which is rendered a classic Baduk/Go board grid with alternating rows of circular white and circular black game stones arranged in a repeating grid pattern. The icon's dark background allows the stone pattern to read clearly. Superimposed directly over the icon is a circular progress spinner: a full white circle ring outline with one arc sector filled in solid white indicating approximately 75 to 85 percent completion — the download is nearly finished. The remaining unfilled arc appears as a semi-transparent ring. The entire spinner-ring has a slightly luminous quality from the screen backlight. Directly below the icon, in white Korean sans-serif text of medium weight, reads '설치 중...' (Installing...) with three dots as a trailing ellipsis. At the extreme left edge of the frame, a Korean adult's hand intrudes with pronounced motion blur — a blurred vertical streak of warm skin tone and perhaps the dark blur of a finger pressing or gesturing, suggesting physical interaction with the phone, perhaps a tap or touch. This motion blur creates a sense of urgency and real-time action. In the uppermost corners of the frame, very faint residual elements of a status bar are barely visible in white — barely legible signal bars or battery icon. The background behind the phone's visible glowing screen area is near-black, extremely blurred bokeh creating an almost pitch-dark surrounding. The screen is the sole significant light source, emitting a cool midnight-blue to cold-white glow that gives the entire frame a cool, slightly electric quality. The composition is borderline abstract — the viewer must parse the image to identify what they are seeing, which creates a moment of visual intrigue. Color palette: near-black deep navy (#0A0A30), slightly lighter deep navy gradient (#2A2A5A), pure white spinner and text (#FFFFFF), very subtle warm amber bokeh residue from the background at extreme right (#CCAA70). Style: Korean commercial cinema, extreme macro close-up, cold high-contrast, abstract edge, shallow depth of field pushed to maximum, dramatic luminosity. The extreme close-up of the installing screen serves a specific narrative and emotional function: by reducing the smartphone to an abstract pattern of dark screen and white progress-ring, the shot shifts the viewer's attention from information to sensation — the pure feeling of waiting, of anticipation, of technology processing on one's behalf. This abstract quality is characteristic of some of the most distinctive Korean digital commercial cinematography, which sometimes deliberately pushes product close-ups beyond readability into the territory of graphic or sensory abstraction. The motion-blur hand entering from the left adds a kinetic energy that suggests impatience and desire, viscerally communicating what the viewer already knows — that the son is eager to complete this setup for his father. The resulting image balances on the edge between documentary screen-capture and abstract graphic art.",
+        "t2i_negative": "full phone visible, light background, no motion blur",
+        "i2v_motion": "Spinner arc animates; hand passes in motion blur; screen holds; ~2.7s then cut",
+        "i2v_params": {
+          "clip_duration_sec": 2.7,
+          "camera_move": "locked_off",
+          "subject_motion_level": "spinner_plus_hand_motion_blur",
+          "signature_effect": "extreme_shallow_dof",
+          "pacing": "anticipatory",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen copy preserved; identity/logo generic"
+      }
+    },
+    {
+      "index": 10,
+      "duration": 1.835,
+      "framing": "MCU",
+      "function": "reaction",
+      "subject_action": "medium close-up of father's face showing skeptical raised-eyebrow expression; son's hand extends phone into foreground out-of-focus",
+      "layout_grid": "center_face_dominant",
+      "subject_position": "center_left",
+      "typo_motion": "none",
+      "camera_angle": "eye_level_slight_low",
+      "camera_facing": "frontal",
+      "shot_scope": "medium_close_up",
+      "gaze": "toward_phone_skeptical",
+      "props": [
+        "smartphone_extended_foreground_blurred"
+      ],
+      "color_palette": [
+        "#3D6B40",
+        "#B8A898",
+        "#1A1A1A",
+        "#E0C090"
+      ],
+      "color_intent": "subject_isolation; warm_bg_separation; green_cardigan_dominant",
+      "pose_description": "older man face and upper torso; gold-rimmed glasses; slightly furrowed brow; lips pursed mildly skeptical; head at slight angle; hand (son's) enters foreground right holding phone blurred",
+      "subject_motion": "facial_expression_shift",
+      "camera_motion": "locked_off",
+      "camera_effect_local": "shallow_dof_background_and_foreground",
+      "intra_cut_rhythm": "character_reveal_pause",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "mid_frame_path": "ADV-2026-013_frames/cut10_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "blurred_phone_in_hand"
+        ],
+        "midground": [
+          "older_mans_face_and_torso"
+        ],
+        "background": [
+          "blurred_vertical_window_blinds_blue",
+          "plants"
+        ],
+        "lighting_env": [
+          "soft_ambient_warm_frontal"
+        ],
+        "atmosphere": [
+          "humor_skepticism",
+          "generational_gap"
+        ]
+      },
+      "texture": {
+        "primary_subject": "knit_cardigan_wool",
+        "secondary_objects": [
+          "skin_face",
+          "glasses_frame"
+        ],
+        "background_surface": "blurred_curtain",
+        "atmospheric": [
+          "soft_bokeh_bg"
+        ]
+      },
+      "lighting": {
+        "key_direction": "frontal_soft",
+        "key_hardness": "soft",
+        "key_color_temp": "warm_3200K",
+        "fill_strength": "medium",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": false,
+        "practical_lights": [
+          "globe_lamp_bg_left"
+        ],
+        "shadow_presence": "soft_subtle",
+        "overall_contrast": "medium"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#3D6B40",
+          "#C0B0A0",
+          "#E8D8B8",
+          "#1A1A1A"
+        ],
+        "palette_role": {
+          "#3D6B40": "cardigan_olive_green",
+          "#C0B0A0": "skin_wall_neutral",
+          "#E8D8B8": "ambient_warm_fill",
+          "#1A1A1A": "dark_areas"
+        },
+        "color_relationship": "warm_earthy_dominant",
+        "temperature_balance": "warm",
+        "saturation_strategy": "low_naturalistic",
+        "contrast_type": "soft_chiaroscuro",
+        "accent_color": "#3D6B40",
+        "accent_ratio": 0.35
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "Medium close-up portrait photograph of an older Korean man estimated at approximately 58 to 65 years old, framed from the mid-chest up to just above the top of the head, the subject positioned slightly left of center frame. His most prominent wardrobe element is a dark olive-green button-front knit cardigan — a classic Korean men's casual house sweater in a muted forest-olive hue — layered over a collared plaid flannel shirt in green, grey, and white tones with the collar visible at the neckline. He has round gold-wire-frame eyeglasses in an older classic style, sitting at mid-nose position. His hair is short, mostly dark but with visible natural greying at the temples, neatly maintained. His skin is warm with natural Korean complexion and the subtle character lines of a man in his late 50s to early 60s. His facial expression in this specific frame is one of calibrated mild skepticism tempered by polite openness: one eyebrow is fractionally but clearly raised, the other remains level; his lips are very slightly pursed as if considering something he has not yet decided about; his gaze is directed slightly leftward and downward toward something off-camera at the lower right, consistent with looking at a phone being extended toward him. The expression communicates the natural reaction of someone of an older generation encountering a technological suggestion from a younger family member — skeptical but not dismissive, curious but not excited, politely uncertain. In the far right foreground at the extreme edge of the frame, a fragment of blurred content is visible: a Korean adult hand and a dark rectangular smartphone shape, extremely soft and out-of-focus due to extreme shallow depth-of-field, representing the younger companion extending the phone toward the father. The background behind the subject is also heavily blurred: vertical streaks of cool blue-grey from a window blind or curtain fabric, a blurred mass of muted green from a houseplant on the left, all within the established domestic Korean living room. Lighting on the subject is soft, warm frontal fill from practical tungsten room lamps at approximately 3200K color temperature, creating a gentle highlight on the right side of the face with a soft shadow on the left cheek. A very subtle warm glow from the globe lamp in the background adds warmth to the left edge of the frame. Color palette: olive-green cardigan (#3D6B40 to #4A6741), neutral warm skin and wall (#C0B0A0), ambient warm fill (#E8D8B8), deep shadow areas (#1A1A1A), soft green plant bokeh (#6A9060). Style: Korean commercial character portrait, cinematic quality, shallow depth of field, warm naturalistic lighting, observational emotional register, Korean middle-aged family realism. The generation-gap micro-drama being performed in this close-up is one of the most universally recognized Korean family scenarios: the younger person showing the older person how to use technology, meeting polite but reflexive resistance, and having to find the right approach to bridge the familiarity gap. By giving this moment a full dedicated close-up shot, the advertisement validates and dignifies both perspectives — the father's caution is treated with respect, not mockery. The actor's performance is carefully calibrated to avoid making the older man look foolish or stubborn; instead the expression reads as the natural measured skepticism of a person who is genuinely thoughtful about new things. This is a specifically Korean commercial sensitivity — protecting the dignity of the elder while still finding gentle humor in the generational contrast.",
+        "t2i_negative": "young subject, bright harsh light, dramatic expression, close crop only face",
+        "i2v_motion": "Father's eyebrow subtly shifts; slight head tilt; foreground phone hand trembles slightly; ~1.8s then cut",
+        "i2v_params": {
+          "clip_duration_sec": 1.8,
+          "camera_move": "locked_off",
+          "subject_motion_level": "micro_facial",
+          "signature_effect": "shallow_dof_double",
+          "pacing": "slow",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen copy preserved; identity/logo generic"
+      }
+    },
+    {
+      "index": 11,
+      "duration": 1.877,
+      "framing": "CU",
+      "function": "reaction",
+      "subject_action": "younger man's close-up face showing eye-roll upward and exasperated expression while still holding phone; humorous beat",
+      "layout_grid": "center_face",
+      "subject_position": "center",
+      "typo_motion": "none",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal_slight",
+      "shot_scope": "close_up",
+      "gaze": "eyes_roll_upward",
+      "props": [
+        "smartphone_lower_frame"
+      ],
+      "color_palette": [
+        "#3A5A8A",
+        "#1A1A1A",
+        "#D4956A",
+        "#888888"
+      ],
+      "color_intent": "blue_sweater_dominant; dark_background_isolation",
+      "pose_description": "adult son face and upper torso; blue cable-knit sweater; eyes rolled upward left in exasperated or amused disbelief; mouth slightly open; phone visible at lower frame edge; background dark with warm floor lamp glow",
+      "subject_motion": "eye_roll_expression",
+      "camera_motion": "locked_off",
+      "camera_effect_local": "shallow_dof_dark_bg",
+      "intra_cut_rhythm": "comedic_pause_beat",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "mid_frame_path": "ADV-2026-013_frames/cut11_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "son_face_and_torso"
+        ],
+        "midground": [],
+        "background": [
+          "dark_room_bg",
+          "warm_floor_lamp_glow_left"
+        ],
+        "lighting_env": [
+          "soft_warm_side_practical"
+        ],
+        "atmosphere": [
+          "comedic_exasperation",
+          "humorous_family_moment"
+        ]
+      },
+      "texture": {
+        "primary_subject": "cable_knit_wool_sweater_blue",
+        "secondary_objects": [
+          "skin"
+        ],
+        "background_surface": "dark_undefined",
+        "atmospheric": [
+          "warm_lamp_edge_glow"
+        ]
+      },
+      "lighting": {
+        "key_direction": "frontal_left_soft",
+        "key_hardness": "soft",
+        "key_color_temp": "warm_3000K",
+        "fill_strength": "low",
+        "key_to_fill_ratio": "4:1",
+        "rim_light": false,
+        "practical_lights": [
+          "floor_lamp_left_bg"
+        ],
+        "shadow_presence": "moderate_soft_right_side",
+        "overall_contrast": "medium_high"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#3A5A8A",
+          "#1A1A1A",
+          "#D4956A",
+          "#E8D0B0"
+        ],
+        "palette_role": {
+          "#3A5A8A": "sweater_blue",
+          "#1A1A1A": "dark_background",
+          "#D4956A": "skin_tone_warm",
+          "#E8D0B0": "lamp_glow_ambient"
+        },
+        "color_relationship": "cool_subject_warm_background_contrast",
+        "temperature_balance": "mixed",
+        "saturation_strategy": "moderate_naturalistic",
+        "contrast_type": "figure_ground_separation",
+        "accent_color": "#3A5A8A",
+        "accent_ratio": 0.35
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "Close-up portrait photograph of a young Korean man estimated at approximately 27 to 35 years old, framed from the mid-chest up to just above the top of the head, the subject centered horizontally in the frame. He is wearing a medium-weight medium-blue cable-knit crew-neck sweater with a clearly visible, tactile raised cable-knit pattern running vertically down the chest and sleeves — the texture of the wool knit is one of the most prominent visual elements of this shot. The neckline is a simple round crew neck. His build is lean to medium. His hair is dark, medium length, naturally falling slightly forward over his forehead and temples in a Korean contemporary style with a slightly tousled quality. His skin has a natural Korean complexion with good luminosity in the warm-frontal lighting. His facial expression is a masterclass in understated comedic exasperation: his eyes are visibly rolled upward and to the left — both irises displaced dramatically toward the upper-left corners of his eyes creating that unmistakable eye-roll expression; his mouth is slightly parted in a soft exhalation as if releasing a quiet sigh; his eyebrows are fractionally raised; his head is tilted very slightly backward and to one side. The overall expression reads precisely as 'I can't believe this' or 'this is taking so long' — a relatable exasperation that is humorous rather than hostile, an adult-son expression recognizable across Korean family contexts. At the very lowest edge of the frame, a black rectangle partially enters frame — the edge of the smartphone being held below frame level. The background is very dark, nearly black, dramatically separating the subject from the background for strong figure-ground contrast. From the far left edge of the background, a warm amber glow bleeds in from out of frame — a distant floor lamp in the living room — creating the only warm-toned element in the otherwise dark background, adding a subtle depth and preventing the background from being completely flat. Lighting on the subject: a soft warm light source from the front-left illuminates the face and sweater texture, creating a gentle shadow on the right cheek and jaw line. The sweater texture catches the directional light beautifully, the cable-knit ridges showing subtle shadow-and-highlight relief. Color palette: slate-blue cable sweater (#3A5A8A), near-black background (#1A1A1A), natural warm skin (#D4956A), warm lamp ambient glow (#E8D0B0 at left edge). Style: Korean commercial character close-up, cinematic shallow depth of field, strong dark background separation, warm key light, comedic naturalist performance register. The comedic eye-roll expression in this close-up is the advertisement's most overtly humorous moment, and its placement at this point in the narrative arc serves a specific tonal function: it releases tension that has been building through the installation sequence, acknowledges the shared experience of technology frustration within families, and humanizes the son as someone who is also struggling with the process rather than being a smooth digital native who never encounters friction. The dark background isolating the subject against near-black creates a heightened dramatic atmosphere for what is fundamentally a comedic beat, which creates an interesting tonal dissonance that makes the humor more effective rather than less. This combination of dramatic lighting with comedic expression is a characteristic technique in high-quality Korean commercial character work.",
+        "t2i_negative": "smiling warmly, looking at camera, bright background, full body",
+        "i2v_motion": "Eyes roll upward; slight exasperated head-back tilt; mouth forms silent exhale; phone visible at lower frame; ~1.9s then cut",
+        "i2v_params": {
+          "clip_duration_sec": 1.9,
+          "camera_move": "locked_off",
+          "subject_motion_level": "facial_expression",
+          "signature_effect": "dark_background_separation",
+          "pacing": "comedic_beat",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen copy preserved; identity/logo generic"
+      }
+    },
+    {
+      "index": 12,
+      "duration": 6.506,
+      "framing": "WS",
+      "function": "payoff",
+      "subject_action": "father and son both lean together over coffee table, son showing father something on phone; heads close together; intimate shared discovery; key bonding moment of ad",
+      "layout_grid": "center_two_person_leaning",
+      "subject_position": "center",
+      "typo_motion": "none",
+      "camera_angle": "eye_level_slight_back",
+      "camera_facing": "frontal",
+      "shot_scope": "wide_intimate",
+      "gaze": "both_at_phone",
+      "props": [
+        "coffee_table",
+        "ceramic_mug",
+        "books_on_table",
+        "bookshelf_bg",
+        "globe_lamp"
+      ],
+      "color_palette": [
+        "#4A6741",
+        "#5A7AB5",
+        "#D4AA70",
+        "#F5F0E8"
+      ],
+      "color_intent": "warm_intimate_bonding; two_complementary_sweater_colors_together",
+      "pose_description": "both men lean forward toward coffee table; heads nearly touching; son's phone held between them; hands visible; father leaning from left, son from right, heads at center converged",
+      "subject_motion": "leaning_together_forward",
+      "camera_motion": "locked_off_slight_angle_change",
+      "camera_effect_local": "natural_wider_depth",
+      "intra_cut_rhythm": "sustained_warm_moment",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "mid_frame_path": "ADV-2026-013_frames/cut12_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "two_men_leaning_toward_table"
+        ],
+        "midground": [
+          "coffee_table_with_mug",
+          "phone_between_them"
+        ],
+        "background": [
+          "bookshelf",
+          "globe_lamp",
+          "plants",
+          "curtain"
+        ],
+        "lighting_env": [
+          "practical_lamps_warm",
+          "ambient_evening"
+        ],
+        "atmosphere": [
+          "warm_family_bonding",
+          "shared_discovery",
+          "emotional_payoff"
+        ]
+      },
+      "texture": {
+        "primary_subject": "knit_sweaters_both",
+        "secondary_objects": [
+          "wood_table",
+          "ceramic_mug"
+        ],
+        "background_surface": "wall_plaster",
+        "atmospheric": [
+          "warm_lamp_glow"
+        ]
+      },
+      "lighting": {
+        "key_direction": "practical_lamps_ambient",
+        "key_hardness": "soft",
+        "key_color_temp": "warm_3000K",
+        "fill_strength": "low_ambient",
+        "key_to_fill_ratio": "3:1",
+        "rim_light": false,
+        "practical_lights": [
+          "globe_lamp_left_bg"
+        ],
+        "shadow_presence": "soft",
+        "overall_contrast": "low_medium"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#4A6741",
+          "#5A7AB5",
+          "#D4AA70",
+          "#F5F0E8",
+          "#A0855A"
+        ],
+        "palette_role": {
+          "#4A6741": "father_cardigan",
+          "#5A7AB5": "son_sweater",
+          "#D4AA70": "warm_lamp_ambient",
+          "#F5F0E8": "sofa_wall",
+          "#A0855A": "wood_table"
+        },
+        "color_relationship": "warm_cool_complementary_unified",
+        "temperature_balance": "warm_dominant",
+        "saturation_strategy": "low_naturalistic",
+        "contrast_type": "soft",
+        "accent_color": "#4A6741",
+        "accent_ratio": 0.25
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "Wide shot of two Korean men sharing a quietly intimate bonding moment, both leaning forward simultaneously toward a low wooden coffee table at the center of the frame. The camera angle is from the front, the sofa occupying the mid-ground, the coffee table in the immediate foreground. The older man approximately 58 to 65 years old in the dark olive-green knit cardigan over plaid shirt is positioned on the left, his body bowed forward from the sofa in a posture of genuine interest and leaning in — his elbows perhaps on his knees or his hands together, his head angled forward and slightly downward toward the table's surface where the phone rests. The younger man approximately 28 to 35 years old in the medium-blue cable-knit sweater is on the right, his body similarly bowed forward from the sofa, leaning toward the same central convergence point on the table. His right hand holds the black smartphone or positions it on the table between them. Their heads are at their closest proximity in the entire film — nearly touching or just a few inches apart — as both direct their visual attention downward at the same phone screen. This physical closeness communicates the emotional payoff of the scene: the generational distance has closed, the shared object of interest has brought them together literally and figuratively. On the coffee table: the oval warm honey-oak wood surface with the mocha ceramic mug positioned slightly left, a small stack of colorful paperback books at the near edge closest to camera. In the background softly out of focus: the wooden mid-century bookshelf with its decorative arrangement of objects, the round white globe lamp glowing warm amber on its low side table to the left, lush blurred green houseplants at various positions, and the faint linen curtain texture of the background wall with the window behind it. The background is noticeably darker at the right side creating an enveloping quality. Lighting: warm tungsten practical from the globe lamp and room ambience at 3000K, soft and fully diffuse, wrapping the two figures in golden warmth. No hard edges or shadows. Color palette: olive-green cardigan (#4A6741), slate-blue sweater (#5A7AB5), warm honey-oak table (#A0855A), cream-warm white sofa and ambient (#F5F0E8), amber lamp glow (#D4AA70). The image radiates quiet Korean familial warmth, emotional payoff, and the particular intimacy of two people leaning over something small together. Cinematic Korean commercial style, natural film rendering, warm grade, very slight vignette. The sustained duration of this cut — 6.5 seconds, the second longest in the entire advertisement — is a deliberate editorial choice that communicates the emotional weight of the moment: the editors have decided that this image of father and son leaning together deserves extended screen time, allowing the warmth to fully register with the viewer before the product messaging begins. The physical composition of two heads bowing together over a shared object is a universally communicative human gesture, legible across cultures, but it carries specific resonance in Korean family culture where the act of sharing a physical space or object between generations is a form of emotional communication that often substitutes for verbal expression. The warm amber lamp glow creates a painterly quality that elevates the scene from mere commercial product demonstration to something with genuine emotional presence.",
+        "t2i_negative": "separated subjects, looking away from each other, bright harsh light, tables in background only",
+        "i2v_motion": "Both figures lean gradually closer together over phone; minimal head movements of shared viewing; camera locked off; slow warm sustained shot ~6.5s; cut to phone homescreen",
+        "i2v_params": {
+          "clip_duration_sec": 6.5,
+          "camera_move": "locked_off",
+          "subject_motion_level": "low_leaning",
+          "signature_effect": "practical_lamp_warmth",
+          "pacing": "slow_sustained",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen copy preserved; identity/logo generic"
+      }
+    },
+    {
+      "index": 13,
+      "duration": 0.626,
+      "framing": "ECU",
+      "function": "product_demo",
+      "subject_action": "extreme close-up of smartphone homescreen; finger about to tap; icons visible including payment app (토스) alongside system apps",
+      "layout_grid": "grid_icons_fill",
+      "subject_position": "center",
+      "typo_motion": "static_app_icons",
+      "camera_angle": "slight_high",
+      "camera_facing": "perpendicular_screen",
+      "shot_scope": "product_detail",
+      "gaze": "off_camera",
+      "props": [
+        "smartphone",
+        "finger"
+      ],
+      "color_palette": [
+        "#FFFFFF",
+        "#4285F4",
+        "#34A853",
+        "#D4B060",
+        "#1A6FD4"
+      ],
+      "color_intent": "clean_homescreen_colorful_icons",
+      "pose_description": "phone held showing homescreen grid; finger enters from upper-right about to tap the payment app icon labeled '토스'; calendar icon visible, camera icon, clock icon; gradient colorful wallpaper glimpse at bottom",
+      "subject_motion": "finger_tap_motion",
+      "camera_motion": "locked_off",
+      "camera_effect_local": "shallow_dof",
+      "intra_cut_rhythm": "quick_action_beat",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "mid_frame_path": "ADV-2026-013_frames/cut13_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "smartphone_homescreen",
+          "finger_tap"
+        ],
+        "midground": [
+          "app_icons_grid"
+        ],
+        "background": [
+          "blurred_warm_domestic"
+        ],
+        "lighting_env": [
+          "screen_self_lit"
+        ],
+        "atmosphere": [
+          "purposeful_navigation"
+        ]
+      },
+      "texture": {
+        "primary_subject": "glass_screen",
+        "secondary_objects": [
+          "finger_skin"
+        ],
+        "background_surface": "blurred",
+        "atmospheric": [
+          "digital_ui"
+        ]
+      },
+      "lighting": {
+        "key_direction": "screen_glow",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_white_screen",
+        "fill_strength": "low",
+        "key_to_fill_ratio": "5:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "none",
+        "overall_contrast": "medium"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#FFFFFF",
+          "#4285F4",
+          "#34A853",
+          "#D4B060",
+          "#1A6FD4"
+        ],
+        "palette_role": {
+          "#FFFFFF": "screen_bg",
+          "#4285F4": "app_icon_blue",
+          "#34A853": "app_icon_green",
+          "#D4B060": "warm_gradient_hint",
+          "#1A6FD4": "payment_app_blue"
+        },
+        "color_relationship": "multicolor_icon_grid_on_white",
+        "temperature_balance": "neutral",
+        "saturation_strategy": "saturated_icons_on_white",
+        "contrast_type": "colorful_icons",
+        "accent_color": "#1A6FD4",
+        "accent_ratio": 0.1
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "Extreme close-up photograph of a modern large-screen smartphone held in a Korean adult's hand at a slight angle, the device's screen filling most of the frame. The phone screen displays an iOS-style home screen with a clean white background and a grid of application icons arranged in a 3-column by 2-row layout in the visible area. Starting from the top-left and moving across: the top-left icon is a calendar application tile showing a teal-and-white design with the Korean text '월요일' (Monday) at the top and a bold numeral '3' in dark teal below it against a white calendar page background. The top-center icon shows a camera application with a very dark near-black background and a white camera body icon centered within it. The top-right icon is a rounded-square icon featuring a bold stylized shape in vivid blue — a stylized shield or abstract symbol in solid white cut out of a blue gradient background, suggesting a financial or authentication service. The bottom-left icon shows a clean clock application icon: a white clock face with thin hour and minute hands, one clock hand rendered in purple or lavender accent color, on a light grey or white background. The bottom-center icon is a rounded-square with a distinctive visual design in deep midnight navy-blue: two overlapping arcs or curved shapes creating a dynamic abstract symbol in lighter and darker blue gradient tones, representing a major Korean financial super-application; the app label below it reads the Korean text '토스' in clean dark sans-serif. The bottom-right icon is only partially visible at the frame edge — a green-toned icon suggesting another application. The phone's wallpaper at the very bottom visible strip shows a gradient of warm sunset colors — pink, coral, and orange — creating a warm accent against the otherwise white icon grid. At the upper-right edge of the frame, a Korean adult finger enters the frame and moves toward the bottom-center payment app icon in the act of tapping. The phone frame is a gold-anodized aluminum — a gold-case smartphone. Behind the phone, a softly blurred warm bokeh of the domestic Korean living room interior. Screen illuminated by neutral white self-light from the display. Color palette: icon-grid white background (#FFFFFF), calendar app teal (#20B8A0), camera app black (#111111), blue service icon vivid blue (#4285F4), clock app grey-white (#F0F0F0), payment app deep navy (#1A2540), warm wallpaper gradient pink-orange, background bokeh amber (#D4A860). Natural hand with Korean adult skin tone. Style: Korean commercial cinema screen macro, shallow dof, natural hand interaction. The phone homescreen as a commercial set piece functions differently from the app-store or installing screens in previous cuts: it places the viewer in a navigational moment, watching someone actively choose where to go next within their digital life. The presence of the payment/financial application icon labeled with its Korean name among the other everyday system apps (calendar, camera, clock) is a deliberate product integration strategy that normalizes the payment app as part of the essential daily-use home screen ecosystem — it belongs alongside these fundamental utilities. The warm-toned colorful wallpaper visible at the phone bottom adds a personalization touch that makes the homescreen feel lived-in and real rather than factory-reset minimal. The finger entering the frame creates a sense of immediacy and forward motion that accelerates the pacing after the long sustained bonding shot.",
+        "t2i_negative": "android grid, dark mode, screen off, cluttered icons",
+        "i2v_motion": "Finger moves toward and taps payment app icon; slight screen-tap haptic animation; ~0.6s then cut",
+        "i2v_params": {
+          "clip_duration_sec": 0.6,
+          "camera_move": "locked_off",
+          "subject_motion_level": "finger_tap",
+          "signature_effect": "screen_tap_ripple",
+          "pacing": "quick_beat",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen copy preserved; identity/logo generic"
+      }
+    },
+    {
+      "index": 14,
+      "duration": 0.751,
+      "framing": "CU",
+      "function": "product_demo",
+      "subject_action": "phone screen shows a mini-app game recommendation section within payment app; trending games listed by peer group; finger scrolling through list",
+      "layout_grid": "list_vertical_fill",
+      "subject_position": "center",
+      "typo_motion": "scroll_animation",
+      "camera_angle": "slight_high",
+      "camera_facing": "perpendicular",
+      "shot_scope": "product_detail",
+      "gaze": "off_camera",
+      "props": [
+        "smartphone",
+        "finger"
+      ],
+      "color_palette": [
+        "#FFFFFF",
+        "#F8F8F8",
+        "#1A6FD4",
+        "#E0E0E0",
+        "#FF6060"
+      ],
+      "color_intent": "clean_white_app_ui_list",
+      "pose_description": "phone held; screen shows app store or mini-app section with game recommendations; '최근 플레이...' header; '내 또래가 꽂힌 게임' (games trending with people my age) section title in blue; numbered list: #1 bubble puzzle game with colorful icon, #2 장기대전 (Korean chess), #3 수박 게임 (Watermelon Game with Chinese character tile icon); finger touching list at #1",
+      "subject_motion": "finger_scroll",
+      "camera_motion": "locked_off",
+      "camera_effect_local": "shallow_dof",
+      "intra_cut_rhythm": "feature_reveal",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "mid_frame_path": "ADV-2026-013_frames/cut14_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "smartphone_screen_mini_app_list",
+          "finger_tap"
+        ],
+        "midground": [],
+        "background": [
+          "blurred_warm_bokeh"
+        ],
+        "lighting_env": [
+          "screen_self_lit"
+        ],
+        "atmosphere": [
+          "discovery",
+          "personalized_recommendation"
+        ]
+      },
+      "texture": {
+        "primary_subject": "glass_screen",
+        "secondary_objects": [
+          "skin"
+        ],
+        "background_surface": "blurred",
+        "atmospheric": [
+          "digital_list_ui"
+        ]
+      },
+      "lighting": {
+        "key_direction": "screen_glow",
+        "key_hardness": "soft_diffuse",
+        "key_color_temp": "neutral_white",
+        "fill_strength": "low",
+        "key_to_fill_ratio": "4:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "none",
+        "overall_contrast": "medium"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#FFFFFF",
+          "#1A6FD4",
+          "#E0E0E0",
+          "#FF6B6B"
+        ],
+        "palette_role": {
+          "#FFFFFF": "app_background",
+          "#1A6FD4": "section_header_blue",
+          "#E0E0E0": "dividers",
+          "#FF6B6B": "game_icon_accent"
+        },
+        "color_relationship": "clean_white_with_blue_accent",
+        "temperature_balance": "neutral",
+        "saturation_strategy": "functional_ui",
+        "contrast_type": "list_readability",
+        "accent_color": "#1A6FD4",
+        "accent_ratio": 0.15
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "Close-up photograph of a large-screen smartphone held in a Korean adult's hand at a slight tilt, the screen dominating the frame and showing a clean white mobile application interface displaying a curated game recommendation section within a financial super-application's mini-app feature. At the very top edge of the visible screen area, the partial header text '최근 플레이...' (Recently played...) is visible with two small rectangular game thumbnail icons at the right side — colorful small game cover images. Below this header, a clear section divider leads to a prominent section title in vivid blue Korean text '내 또래가 꽂힌 게임' (literally: Games that my peers are hooked on / Games trending with people my age), in a clean medium-weight sans-serif Korean typeface. This social-proof recommendation header is one of the key product UI elements visible. Below the section title, a vertically stacked numbered list of three game recommendations occupies the remaining visible screen area. List item number 1 at the top: a rounded-square icon with a vivid rainbow-spectrum diamond and hexagonal bead pattern in bright colors (pink, green, purple, gold, blue) on a dark background — this is a bubble-match or bead-blast type mobile puzzle game. To the right of this icon, a Korean game title is partially obscured by an adult finger pressing on the screen at this position. The finger is a Korean adult's finger (index or middle) with natural skin tone, pressing with moderate pressure, slightly blurring the area around the tap point. List item number 2 below: a small colorful match-3 animal puzzle game icon showing cute illustrated animal faces in a grid of bright primary colors. To the right in large Korean bold text: '장기대전' (Korean Chess / Janggi Battle) with a smaller grey subtitle line reading '고수들의 승부, 장기 한판' (A master's match, one game of Korean chess). List item number 3: a white rounded-square tile icon with a large red Chinese kanji character centrally rendered on a cream or white square background — this is the '수박 게임' (Watermelon Game) icon. To the right, the game title and subtitle are visible. Each list row has a right-pointing chevron arrow at the far right edge indicating navigability. Light grey horizontal divider lines separate each list item. The entire interface is on a pure clean white background. The background behind the phone is softly blurred warm amber bokeh from the domestic interior. Screen self-lit with neutral white illumination. Color palette: white screen (#FFFFFF), section header blue (#1A6FD4), list item dividers light grey (#E0E0E0), game icon 1 vivid rainbow multi-color, game icon 2 bright match-3 colors, game icon 3 white-tile red kanji. Warm bokeh background (#D4A860). Style: Korean commercial app demo photography, screen-detail close-up, natural hand interaction, shallow dof. The peer-recommendation algorithm UI visible in this frame is one of the advertisement's most strategically important product demonstrations: showing '내 또래가 꽂힌 게임' (games trending with my peers) as a specific navigable section within the payment app reveals that the product has a social-graph-powered discovery engine — an algorithmically personalized feature that goes beyond simple category browsing. This is the precise feature that makes Toss Mini-Apps meaningfully different from simply searching the main app store: the social recommendation layer reduces the cognitive effort of discovery for users who are not digital-native game browsers. The clean white list UI is designed for maximum readability and trust, contrasting with the more visually busy game icon imagery to frame the service as approachable and organized.",
+        "t2i_negative": "english text, dark mode, list items only text no icons",
+        "i2v_motion": "Finger scrolls slightly down list; section content reveals; ~0.75s then cut",
+        "i2v_params": {
+          "clip_duration_sec": 0.75,
+          "camera_move": "locked_off",
+          "subject_motion_level": "finger_scroll",
+          "signature_effect": "scroll_animation",
+          "pacing": "quick",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen copy preserved; identity/logo generic"
+      }
+    },
+    {
+      "index": 15,
+      "duration": 1.418,
+      "framing": "CU",
+      "function": "product_demo",
+      "subject_action": "same Toss mini-app game list continues; finger presses on bubble game at #1 position; continuation of navigation from cut 14",
+      "layout_grid": "list_vertical_fill",
+      "subject_position": "center",
+      "typo_motion": "scroll_animation",
+      "camera_angle": "slight_high",
+      "camera_facing": "perpendicular",
+      "shot_scope": "product_detail",
+      "gaze": "off_camera",
+      "props": [
+        "smartphone",
+        "finger"
+      ],
+      "color_palette": [
+        "#FFFFFF",
+        "#1A6FD4",
+        "#E0E0E0"
+      ],
+      "color_intent": "clean_white_list_ui",
+      "pose_description": "same screen content as cut 14 but slightly different angle; finger pressing on game #1 with slightly different position; shows same 최근 플레이 header and 내 또래가 꽂힌 게임 section",
+      "subject_motion": "finger_interaction",
+      "camera_motion": "locked_off",
+      "camera_effect_local": "shallow_dof",
+      "intra_cut_rhythm": "continued_action",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "mid_frame_path": "ADV-2026-013_frames/cut15_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "phone_screen_game_list",
+          "finger"
+        ],
+        "midground": [],
+        "background": [
+          "warm_bokeh"
+        ],
+        "lighting_env": [
+          "screen_self_lit"
+        ],
+        "atmosphere": [
+          "discovery_continued"
+        ]
+      },
+      "texture": {
+        "primary_subject": "glass_screen",
+        "secondary_objects": [
+          "skin_finger"
+        ],
+        "background_surface": "blurred_bokeh",
+        "atmospheric": [
+          "digital_ui"
+        ]
+      },
+      "lighting": {
+        "key_direction": "screen_glow",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_white",
+        "fill_strength": "low",
+        "key_to_fill_ratio": "4:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "none",
+        "overall_contrast": "medium"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#FFFFFF",
+          "#1A6FD4",
+          "#E0E0E0",
+          "#FF6B6B"
+        ],
+        "palette_role": {
+          "#FFFFFF": "bg",
+          "#1A6FD4": "header_blue",
+          "#E0E0E0": "dividers",
+          "#FF6B6B": "icon_accent"
+        },
+        "color_relationship": "clean_white_blue_accent",
+        "temperature_balance": "neutral",
+        "saturation_strategy": "functional",
+        "contrast_type": "readability",
+        "accent_color": "#1A6FD4",
+        "accent_ratio": 0.15
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "Close-up photograph of a large-screen smartphone held in a Korean adult's hand showing the same mini-app game discovery interface within a financial super-application, as a continuation from the previous frame at a slightly different angle with slightly advanced finger interaction. The screen remains clean white with the same vertical ranked-game recommendation list. At the top edge, the partial header '최근 플레이...' (Recently played...) with two small game thumbnails is still visible. Below it, the blue section header '내 또래가 꽂힌 게임' (Games trending with my peers) remains prominent in its vivid blue Korean sans-serif. The numbered list continues: item number 1 is the same vivid rainbow-chevron bubble puzzle game icon — now a Korean adult finger is more centrally positioned pressing against the item, the fingertip creating a slight soft-focus press highlight in the surrounding UI area. The finger appears to be mid-press or pressing down with intent, suggesting a selection action. The surrounding list items are still visible: item 2 shows '장기대전' Korean chess game with its colorful animal-face match-3 icon and the subtitle '고수들의 승부, 장기 한판'. Item 3 shows the '수박 게임' Watermelon Game with its white tile and red Chinese character icon and subtitle text '타일을 합쳐 수박까지 도전' (Combine tiles up to watermelon). Right-pointing chevron arrows appear at the right edge of each row. Clean white background throughout the interface with light grey horizontal dividers between items. The phone is the gold-cased large-screen smartphone (father's device). Hand is Korean adult male with older natural skin tone (father's hand) — the same gold phone case and older hand visible in this and subsequent frames. Background is warm amber bokeh from domestic interior. Screen illuminated by neutral white self-light. Color palette: white interface (#FFFFFF), blue section header (#1A6FD4), grey dividers (#E0E0E0), vivid colorful game icons, warm bokeh (#D4A860). Style: Korean commercial screen demo photography, close-up product detail, natural shallow dof, continuous action sequence from previous cut. The continuation shot maintains visual momentum through the UI navigation sequence, ensuring that the viewer has enough time to absorb the game list content and the recommendation-by-age-group feature before the sequence moves to the product-outcome reveal of the two-phones tableau. The pressing finger on game item number one communicates selection and commitment — the viewer understands that someone is actively choosing this game for another person, reinforcing the recommendation-as-gift narrative thread running through the advertisement. The gold phone case in this cut (father's phone) confirms that this navigation is happening on the father's device, meaning the discovery and selection is happening directly on the recipient's phone — a detail that makes the product flow more concrete and believable. Korean commercial product demos at this level of detail reflect the target audience's digital literacy and comfort with UI demonstration content. This very short cut (under 1.5 seconds) is an editing decision that prevents the UI navigation sequence from overstaying its welcome: just enough screen time to register the interaction and convey the product's navigational ease before moving to the more cinematically engaging two-phones reveal shot. The brevity itself communicates an important product message — using the feature is fast and frictionless, not laborious. Korean commercial editing at this standard uses very precise shot durations chosen to maximize information delivery per second while maintaining viewer engagement and narrative momentum. The gold phone case confirms this is the father's device, reinforcing that the elder figure is independently navigating the app's mini-app recommendation section.",
+        "t2i_negative": "dark mode, no finger, english labels",
+        "i2v_motion": "Finger presses down on game icon; slight screen highlight on press; ~1.4s then cut to two-phone scene",
+        "i2v_params": {
+          "clip_duration_sec": 1.4,
+          "camera_move": "locked_off",
+          "subject_motion_level": "finger_press",
+          "signature_effect": "ui_press_highlight",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen copy preserved; identity/logo generic"
+      }
+    },
+    {
+      "index": 16,
+      "duration": 2.502,
+      "framing": "OTS",
+      "function": "payoff",
+      "subject_action": "over-table shot showing two smartphones side by side on or above coffee table; son's black iPhone still showing installing-spinner (Go game); father's gold iPhone already playing a match-3 colorful animal puzzle game at stage 93; Go strategy books visible on table; both held by their respective owners' hands",
+      "layout_grid": "symmetrical_two_phone_side_by_side",
+      "subject_position": "center_split",
+      "typo_motion": "game_ui_dynamic",
+      "camera_angle": "high_angle_overhead",
+      "camera_facing": "top_down",
+      "shot_scope": "tableau_reveal",
+      "gaze": "off_camera",
+      "props": [
+        "two_smartphones",
+        "go_strategy_books",
+        "coffee_table_wood",
+        "ceramic_mug_visible_right"
+      ],
+      "color_palette": [
+        "#1A1A40",
+        "#F5C842",
+        "#66CC66",
+        "#FF6B6B",
+        "#FFFFFF"
+      ],
+      "color_intent": "dark_installing_phone_vs_bright_colorful_game_phone; visual_contrast_representing_two_generations_meeting",
+      "pose_description": "overhead angle; left hand (son, blue sleeve visible) holds black iPhone with dark installing screen; right hand (father, green cardigan sleeve) holds gold-cased iPhone showing vivid match-3 game STAGE 93 with colorful animal characters; Go books at left edge; mug at right edge",
+      "subject_motion": "two_hands_holding_phones",
+      "camera_motion": "slight_push_in",
+      "camera_effect_local": "moderate_dof",
+      "intra_cut_rhythm": "reveal_hold",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "mid_frame_path": "ADV-2026-013_frames/cut16_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "two_phones_in_hands",
+          "go_books_left_edge"
+        ],
+        "midground": [
+          "coffee_table_surface"
+        ],
+        "background": [
+          "indistinct_rug_table_edge",
+          "mug_at_right_edge"
+        ],
+        "lighting_env": [
+          "overhead_ambient_warm"
+        ],
+        "atmosphere": [
+          "comedic_reversal",
+          "generational_swap",
+          "ironic_payoff"
+        ]
+      },
+      "texture": {
+        "primary_subject": "two_phones_glass_screens",
+        "secondary_objects": [
+          "book_covers_paper",
+          "ceramic_mug"
+        ],
+        "background_surface": "wood_grain_table",
+        "atmospheric": [
+          "warm_overhead_light"
+        ]
+      },
+      "lighting": {
+        "key_direction": "overhead_ambient",
+        "key_hardness": "soft",
+        "key_color_temp": "warm_3000K",
+        "fill_strength": "medium",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "soft_table_shadows",
+        "overall_contrast": "medium"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#1A1A3A",
+          "#F5C842",
+          "#66CC55",
+          "#FF6B6B",
+          "#D4A050"
+        ],
+        "palette_role": {
+          "#1A1A3A": "left_phone_dark_screen",
+          "#F5C842": "game_score_yellow",
+          "#66CC55": "stage_bar_green",
+          "#FF6B6B": "game_element_red_warm",
+          "#D4A050": "table_wood_warm"
+        },
+        "color_relationship": "dark_cool_vs_bright_warm_split",
+        "temperature_balance": "mixed_split",
+        "saturation_strategy": "game_ui_vivid_vs_installing_muted",
+        "contrast_type": "dramatic_luminance_split",
+        "accent_color": "#66CC55",
+        "accent_ratio": 0.2
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "High-angle overhead or slightly angled close-up photograph looking down at a warm honey-oak wood grain coffee table surface, with two smartphones held side by side above the table, each in a different Korean adult's hand. The camera angle is from above or slightly in front at a steep downward angle so that the table surface forms the background and both phone screens face upward toward the camera for clear readability. On the left of frame, a large modern black-cased smartphone is held by the hand of the younger Korean man — his hand shows natural younger adult skin tone, and a visible cuff of the medium-blue cable-knit sweater sleeve appears at the wrist. This phone has a black aluminum or matte-black glass back, a prominent square multi-camera cluster at the top-left corner of the back (though we see the front screen face-up). Its screen shows the dark midnight-navy wallpaper with the Go board game app icon at upper-center displaying the circular progress spinner at approximately 50% completion and the white Korean text '설치 중...' (Installing...) below it — this phone is still installing the Go game. On the right of frame, a large warm gold-anodized aluminum-cased smartphone is held by the hand of the older Korean man — his hand shows natural slightly older skin tone, and a cuff of the dark olive-green knit cardigan sleeve appears at his wrist. This phone's screen displays a vivid, highly saturated colorful mobile match-3 puzzle game in full active gameplay state: at the very top of the game screen, a dark green banner header shows game statistics including the numbers '82' (level or lives), '5,780,000' (score), and '5.7M' format in white. Centered below the header banner, a large rounded-rectangle shows 'STAGE 93' in bold yellow-green outlined lettering against a pink-and-green gradient background bar. Below the stage indicator, a full grid of colorful small circular animal-face game pieces fills the screen: rows and columns of small illustrated cartoon animal faces in vivid bright primary and secondary colors — magenta, yellow, bright green, blue, orange, purple — arranged in the match-3 grid with some pieces highlighted or animating. The game grid has decorative vine or leaf border elements at the edges in dark green. Four dark locked-icon tiles appear at the bottom row, suggesting a game mechanic. On the coffee table surface between and slightly in front of the phones: at the left edge of the table near the left phone, two printed books lie flat — they have visible covers showing Korean Baduk strategy imagery, one cover including Go board imagery with the text '정석 바둑' visible. At the far right edge of the table, the lower half of the warm mocha ceramic mug is visible. The table wood grain is clear, warm honey-oak with natural wood grain lines. Lighting is warm overhead ambient from the room's practical lamps, approximately 3000K, creating soft even illumination on the table surface and the screen faces. Color palette: dark navy left phone screen (#1A1A3A), vivid yellow-green stage text (#F5C842), bright game green (#66CC55), vibrant match-3 animal colors (#FF6B6B, #FFBB33, #44CC88), warm honey-oak table (#D4A050), natural hand skin tones. Style: Korean commercial product tableau reveal, overhead product photography, natural ambient, moderate depth of field.",
+        "t2i_negative": "single phone, vertical orientation, dark table, hands not visible",
+        "i2v_motion": "Both phones held steady; left phone spinner turns; right phone game appears animated (idle bounce); ~2.5s then cut to sofa scene with supers",
+        "i2v_params": {
+          "clip_duration_sec": 2.5,
+          "camera_move": "slight_push_in",
+          "subject_motion_level": "minimal_game_animation",
+          "signature_effect": "overhead_reveal",
+          "pacing": "reveal_beat",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen copy preserved; identity/logo generic"
+      }
+    },
+    {
+      "index": 17,
+      "duration": 6.757,
+      "framing": "WS",
+      "function": "product_message",
+      "subject_action": "wide sofa scene showing both men together looking at phone; white text super '다양한 게임,' appears over the warm domestic scene; VO delivers product benefits",
+      "layout_grid": "thirds_two_person_with_super",
+      "subject_position": "center_two_shot",
+      "typo_motion": "fade_in_super_text",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "wide_with_typography",
+      "gaze": "both_at_phone",
+      "props": [
+        "white_sofa",
+        "coffee_table",
+        "mug",
+        "floor_lamp"
+      ],
+      "color_palette": [
+        "#C8B89A",
+        "#4A6741",
+        "#5A7AB5",
+        "#F5F0E8",
+        "#FFFFFF"
+      ],
+      "color_intent": "warm_domestic_plus_white_super_text",
+      "pose_description": "same sofa setup; both men sitting close together looking at phone; son showing father; warm lamps; super text '다양한 게임,' in center of frame white weight semi-bold",
+      "subject_motion": "quiet_together_phone_viewing",
+      "camera_motion": "locked_off",
+      "camera_effect_local": "natural",
+      "intra_cut_rhythm": "sustained_message_delivery",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "mid_frame_path": "ADV-2026-013_frames/cut17_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "two_men_on_sofa_together"
+        ],
+        "midground": [
+          "coffee_table_mug"
+        ],
+        "background": [
+          "bookshelf",
+          "lamps",
+          "plants"
+        ],
+        "lighting_env": [
+          "tungsten_practical_warm"
+        ],
+        "atmosphere": [
+          "warm_family_moment_with_product_message"
+        ]
+      },
+      "texture": {
+        "primary_subject": "knit_wool_sweaters",
+        "secondary_objects": [
+          "sofa_linen"
+        ],
+        "background_surface": "wall",
+        "atmospheric": [
+          "warm_lamp_ambience"
+        ]
+      },
+      "lighting": {
+        "key_direction": "practical_lamps",
+        "key_hardness": "soft",
+        "key_color_temp": "warm_3000K",
+        "fill_strength": "low",
+        "key_to_fill_ratio": "3:1",
+        "rim_light": false,
+        "practical_lights": [
+          "globe_lamp",
+          "table_lamp"
+        ],
+        "shadow_presence": "soft",
+        "overall_contrast": "low"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#C8B89A",
+          "#4A6741",
+          "#5A7AB5",
+          "#F5F0E8",
+          "#FFFFFF"
+        ],
+        "palette_role": {
+          "#C8B89A": "wall_neutral",
+          "#4A6741": "cardigan_olive",
+          "#5A7AB5": "sweater_blue",
+          "#F5F0E8": "sofa_ambient",
+          "#FFFFFF": "super_text"
+        },
+        "color_relationship": "warm_domestic_with_white_typography",
+        "temperature_balance": "warm",
+        "saturation_strategy": "low_naturalistic",
+        "contrast_type": "soft_with_text_overlay",
+        "accent_color": "#FFFFFF",
+        "accent_ratio": 0.05
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "Wide shot of the fully established Korean domestic living room sofa scene as seen throughout the advertisement, now in its most emotionally resolved state: the two Korean men are seated close together on the cream-white linen sofa sharing genuine warmth and comfort. The older man approximately 58 to 65 years old in the dark olive-green button-front knit cardigan over the plaid flannel shirt is on the left side of the sofa, his posture now more relaxed and open than in earlier shots, leaning gently toward the center and toward his younger companion, his face directed downward toward a phone held between them with a subtle expression of engaged interest. The younger man approximately 28 to 35 years old in the medium-blue cable-knit crew-neck sweater is on the right, his body oriented toward the older man, holding a black smartphone between them, his expression warm and slightly smiling. Their body proximity is closer than in the earliest shots, communicating the emotional arc from initial distance to genuine familial connection. The same warm domestic production design fills the frame identically to all previous wide sofa shots: cream linen sofa, honey-oak oval coffee table in foreground with the mocha ceramic mug centered on it, mid-century wooden bookshelf centered in background with curated decorative arrangement and plants, abstract dark-blue line art print upper right of the wall, floor lamp with white shade glowing warm amber at the far right edge, globe lamp on side table glowing warm amber at the far left edge, off-white plaster wall surface, cool-blue ambient light bleeding through the background vertical blind curtain. Camera position: eye-level, frontal, symmetric wide framing, approximately 35-50mm equivalent focal length, slight natural vignette at corners. Warm tungsten 3000K practical lamp illumination as dominant light with soft low ambient fill. Superimposed over the live action scene, floating at approximately the lower-center third of the frame at the vertical position of the men's chests or below, a clean typographic super-text overlay appears in pure white: the Korean text '다양한 게임,' (Various games,) in a clean modern Korean sans-serif geometric typeface at approximately 48pt equivalent size, medium to bold weight, pure white (#FFFFFF), without drop shadow or outline, appearing to float naturally and legibly over the warm domestic scene below it. The comma after '게임' indicates this is the first line of a longer sentence that will continue. Color palette: cream sofa (#F5F0E8), olive cardigan (#4A6741), slate sweater (#5A7AB5), warm oak table (#A0855A), off-white wall (#C8B89A), amber lamp glow (#D4AA70), white super text (#FFFFFF). Style: cinematic Korean commercial production, warm naturalistic domestic cinematography, clean floating white typography overlay, emotionally resonant product message delivery shot combining family storytelling with direct product benefit communication. The design decision to overlay the product benefit copy as a white super text rather than cutting away to a pure graphic title card is characteristic of Korean commercial advertising that wants to maintain emotional continuity while delivering product messaging. The white text floating over the warm domestic scene creates a visual layering that allows the viewer to receive both the emotional story (the family moment) and the product message (game variety, zero-install convenience) simultaneously rather than sequentially, improving both efficiency and emotional resonance. This technique of embedding product language within the continuation of a narrative scene is a mature production strategy that treats the viewer as capable of processing two registers at once. The specific copy line '다양한 게임,' — ending with a comma — signals that this is the first of multiple continuing benefit statements, creating a structural promise to the viewer that more is coming.",
+        "t2i_negative": "text in Korean removed, no typography, dark scene, subjects not together",
+        "i2v_motion": "Scene holds warm; text '다양한 게임,' fades in over first 1s then holds; VO speaks over; ~6.8s then cut to abstract brand transition",
+        "i2v_params": {
+          "clip_duration_sec": 6.8,
+          "camera_move": "locked_off",
+          "subject_motion_level": "minimal_natural",
+          "signature_effect": "super_text_fade_in",
+          "pacing": "slow_sustained",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen copy preserved; identity/logo generic"
+      }
+    },
+    {
+      "index": 18,
+      "duration": 1.001,
+      "framing": "ABSTRACT",
+      "function": "brand_transition",
+      "subject_action": "abstract horizontal gradient stripe: pink-to-orange-to-yellow gradient bar spanning full width, centered vertically on light grey background; brand identity transition frame",
+      "layout_grid": "horizontal_bar_center",
+      "subject_position": "horizontal_center",
+      "typo_motion": "none",
+      "camera_angle": "flat_graphic",
+      "camera_facing": "frontal_flat",
+      "shot_scope": "abstract_graphic",
+      "gaze": "none",
+      "props": [],
+      "color_palette": [
+        "#F5F5F5",
+        "#F46EB3",
+        "#F08040",
+        "#F0C840"
+      ],
+      "color_intent": "brand_color_horizontal_wipe_transition; light_playful_energy",
+      "pose_description": "no subjects; pure graphic: horizontal gradient stripe occupying roughly middle third of frame vertically; light grey (#F5F5F5) above and below",
+      "subject_motion": "none",
+      "camera_motion": "none",
+      "camera_effect_local": "flat_graphic_2d",
+      "intra_cut_rhythm": "graphic_transition_beat",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "mid_frame_path": "ADV-2026-013_frames/cut18_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "gradient_horizontal_stripe"
+        ],
+        "midground": [],
+        "background": [
+          "light_grey_bg"
+        ],
+        "lighting_env": [
+          "graphic_no_lighting"
+        ],
+        "atmosphere": [
+          "playful_energetic_brand_moment"
+        ]
+      },
+      "texture": {
+        "primary_subject": "flat_gradient_digital",
+        "secondary_objects": [],
+        "background_surface": "flat_grey_digital",
+        "atmospheric": [
+          "clean_graphic"
+        ]
+      },
+      "lighting": {
+        "key_direction": "none_graphic",
+        "key_hardness": "none",
+        "key_color_temp": "none",
+        "fill_strength": "none",
+        "key_to_fill_ratio": "none",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "none",
+        "overall_contrast": "medium"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#F5F5F5",
+          "#F46EB3",
+          "#F08040",
+          "#F0C840"
+        ],
+        "palette_role": {
+          "#F5F5F5": "background_light_grey",
+          "#F46EB3": "gradient_left_pink",
+          "#F08040": "gradient_center_orange",
+          "#F0C840": "gradient_right_yellow"
+        },
+        "color_relationship": "analogous_warm_gradient",
+        "temperature_balance": "warm",
+        "saturation_strategy": "vivid_brand_accent",
+        "contrast_type": "stripe_on_neutral",
+        "accent_color": "#F08040",
+        "accent_ratio": 0.15
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "Pure graphic design frame with no photographic content: an entirely flat two-dimensional composition rendered as a digital graphic. The background fills the entire 16:9 frame as a uniform very light neutral grey color, approximately at a value of 96 out of 100 brightness, with a very slight warm tint to distinguish it from pure white — this is a near-white soft grey (#F5F5F5) acting as the dominant field. Horizontally centered at the exact vertical midpoint of the frame, a single wide rectangular horizontal stripe of flat color spans the complete left-to-right width of the frame, from the extreme left edge to the extreme right edge without any gap or margin. This stripe occupies approximately 25 to 30 percent of the total frame height, making it a substantial but not overwhelming band within the overall composition. The stripe is filled with a perfectly smooth, continuous linear horizontal gradient: beginning at the left extreme edge in a vivid but slightly soft warm pink color (#F46EB3), transitioning smoothly and continuously leftward to rightward through a coral-pink intermediate stage, then through a mid-coral-orange zone (#F08040) at the center-left third of the gradient, continuing to a pure coral-orange in the center, and finally transitioning to a warm bright golden-yellow (#F0C840) at the rightmost extreme edge. The gradient is mathematically smooth with absolutely zero banding, stepping, or discrete color breaks — a perfectly continuous analog transition from pink through orange to yellow in the warm spectrum. The stripe has no border, outline, shadow, glow, bevel, or any three-dimensional effect. Its edges meet the grey background with a clean hard straight horizontal edge at both the top and bottom of the stripe. The grey fields above and below the stripe are perfectly uniform with no texture, grain, gradient, or mark of any kind. The entire image is perfectly flat and two-dimensional with no perspective, no depth cue, no shadow or lighting of any kind. This frame functions as a brand identity motion graphic transition element — a dynamic colored stripe bisecting a neutral field — evoking energy, warmth, and the brand's colorful digital identity before the clean white brand endcard. No typography, no icon, no UI element, no photograph, no illustration other than this single gradient stripe. Style: Korean digital commercial brand graphic design, 2D motion graphic still frame, flat design system, minimal, warm-color brand accent. Image dimensions 16:9 aspect ratio, appropriate for 1920x1080 final output. This abstract gradient stripe frame is a recognizable brand design language device in Korean digital commercial production: a horizontal color-bar transition separating the narrative-story segment from the clean brand statement segment, functioning as a visual breath and palate cleanser between the warm domestic realism of the story and the pure typographic minimalism of the endcard. The specific color gradient from pink through orange to golden yellow is chosen to evoke warmth, energy, and playfulness — qualities that resonate with the mini-app gaming ecosystem while connecting to the broader brand's visual identity language. The width and centering of the stripe against the neutral grey creates a graphic tension that feels modern and confident. In motion, this element likely animates as a horizontal wipe or expansion, reinforcing its role as a clean between-worlds transition marker in the commercial's structural design.",
+        "t2i_negative": "photographic, subjects, 3d rendering, texture, gradient banding, dark background",
+        "i2v_motion": "Stripe may wipe or reveal from left to right; hold ~1s; then cut to typography endcard",
+        "i2v_params": {
+          "clip_duration_sec": 1.0,
+          "camera_move": "none",
+          "subject_motion_level": "none_graphic",
+          "signature_effect": "gradient_wipe_reveal",
+          "pacing": "quick_transition",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen copy preserved; identity/logo generic"
+      }
+    },
+    {
+      "index": 19,
+      "duration": 4.796,
+      "framing": "TITLE_CARD",
+      "function": "cta_endcard",
+      "subject_action": "sequential clean typography endcard on white background: first '앱을 쓰는 새로운 방식' in dark grey; then '토스 미니앱' in dark navy with individual character color accents (미=green, 니=green, 앱=tan/khaki); final frame shows brand logo mark with disclaimer text at bottom",
+      "layout_grid": "center_horizontal",
+      "subject_position": "center",
+      "typo_motion": "sequential_fade_in_titles",
+      "camera_angle": "flat_frontal",
+      "camera_facing": "frontal_flat",
+      "shot_scope": "typography_endcard",
+      "gaze": "none",
+      "props": [],
+      "color_palette": [
+        "#FFFFFF",
+        "#444444",
+        "#1A2540",
+        "#34A853",
+        "#B8A070"
+      ],
+      "color_intent": "clean_white_minimal_endcard; dark_serif_main_claim; multicolor_product_name_with_brand_accent",
+      "pose_description": "no subjects; pure typography: title claim in dark grey; product name '토스 미니앱' in bold dark navy with green and tan color accents on select characters; final frame with brand logotype centered",
+      "subject_motion": "none",
+      "camera_motion": "none",
+      "camera_effect_local": "flat_graphic",
+      "intra_cut_rhythm": "slow_sequential_title_fade",
+      "transition_in": "cut",
+      "transition_out": "end",
+      "mid_frame_path": "ADV-2026-013_frames/cut19_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "typography_title_claim",
+          "product_name_typography",
+          "brand_logotype"
+        ],
+        "midground": [],
+        "background": [
+          "pure_white"
+        ],
+        "lighting_env": [
+          "flat_even"
+        ],
+        "atmosphere": [
+          "clean_confident_brand_close"
+        ]
+      },
+      "texture": {
+        "primary_subject": "flat_typography_digital",
+        "secondary_objects": [
+          "brand_logo_mark"
+        ],
+        "background_surface": "pure_white",
+        "atmospheric": [
+          "clean_minimal"
+        ]
+      },
+      "lighting": {
+        "key_direction": "none_graphic",
+        "key_hardness": "none",
+        "key_color_temp": "none",
+        "fill_strength": "none",
+        "key_to_fill_ratio": "none",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "none",
+        "overall_contrast": "high_text_on_white"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#FFFFFF",
+          "#444444",
+          "#1A2540",
+          "#34A853",
+          "#B8A070"
+        ],
+        "palette_role": {
+          "#FFFFFF": "background_white",
+          "#444444": "tagline_dark_grey",
+          "#1A2540": "product_name_dark_navy",
+          "#34A853": "accent_green_characters",
+          "#B8A070": "accent_tan_character"
+        },
+        "color_relationship": "neutral_ground_with_multicolor_brand_accent",
+        "temperature_balance": "neutral",
+        "saturation_strategy": "selective_accent_saturation",
+        "contrast_type": "high_text_readability",
+        "accent_color": "#34A853",
+        "accent_ratio": 0.1
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "Ultra-clean Korean commercial advertising typography endcard, the final brand statement of the advertisement. The entire frame is a pure, completely unblemished white background (#FFFFFF) with zero texture, grain, or color variation. At the compositional center of this white field, a carefully spaced two-line typographic layout is arranged horizontally centered and vertically centered with generous negative space above and below. The first line of typography (the upper line) reads the complete Korean phrase '앱을 쓰는 새로운 방식' which translates to 'A new way to use apps' — this tagline is rendered in a clean modern Korean sans-serif geometric typeface at approximately 52 to 56pt equivalent size in bold weight. The character color of this first line is a dark medium grey (#444444), not black, chosen for its refined visual weight that reads as serious but not harsh against the white field. The letterforms are well-spaced with natural Korean character tracking, clean and modern. The second line of typography (the lower line), positioned below the first with a gap of approximately 1.2x line height, reads the product brand name '토스 미니앱' — rendered in the same clean geometric Korean sans-serif typeface but at a slightly larger size approximately 64 to 70pt equivalent, with bold weight, making it slightly more prominent than the tagline line. This product name has a deliberate and striking multi-color character treatment: the characters '토스' (Toss) are rendered in a rich dark navy color (#1A2540); a single space follows; then the character '미' (mi) is rendered in a vivid bright medium green (#34A853); immediately adjacent, the character '니' (ni) is also rendered in the same vivid bright medium green (#34A853); and finally the character '앱' (app) is rendered in a warm tan-khaki color (#B8A070). The result is the product name displayed as a multicolored typographic identity: dark navy brand name, then green-green-tan product name suffix, creating a vibrant playful color-coded brand word mark effect. At the very bottom center of the frame, at a distance approximately 8 to 10 percent of the frame height from the bottom edge, a single line of light grey small fine-print Korean text reads the disclaimer '*토스 미니앱 서비스는 만 19세 이상부터 이용할 수 있어요.' (meaning: Toss Mini-App service is available to those aged 19 and over.) in a grey light-weight small sans-serif. Additionally, in the final seconds of this shot, the brand's own visual identity mark appears centered: a rounded abstract symbol in gradient blue tones (resembling two overlapping curved arcs or a stylized speech bubble or wave form) positioned to the left, with the lowercase Latin wordmark 'toss' in dark near-black sans-serif positioned to its right — together forming a clean horizontal brand lock-up. The extreme negative white space above, below, and around the typography communicates confidence, minimalism, and premium brand positioning. Style: Korean brand advertising endcard, ultra-minimalist Bauhaus-adjacent typographic design, maximum white space exploitation, selective accent color identity typography, clean modern Korean commercial brand design system. The deliberate multi-color treatment of the product name '토스 미니앱' — using three different text colors within a single typographic unit — is a sophisticated brand design strategy that gives the product name its own distinct visual identity separate from the main brand name. The green characters (미니) and tan character (앱) together create a visual emphasis on the qualifier 'Mini-App' while keeping the parent brand name in its authoritative navy. This color system implies that the mini-app product line has its own sub-brand color palette within the parent brand's system. The disclaimer at the bottom (*토스 미니앱 서비스는 만 19세 이상부터 이용할 수 있어요.) is legally required in Korean advertising for financial services and its presence in the final frame confirms this is a regulated financial service product. The entire endcard embodies the Korean commercial design principle of maximum impact through maximum restraint.",
+        "t2i_negative": "cluttered, background imagery, decorative elements, dark background, animation",
+        "i2v_motion": "Title line 1 fades in first; then '토스 미니앱' fades in with its multi-color typography; brand logo fades in last; all held on white; ~4.8s then end",
+        "i2v_params": {
+          "clip_duration_sec": 4.8,
+          "camera_move": "none",
+          "subject_motion_level": "none_graphic",
+          "signature_effect": "sequential_text_fade",
+          "pacing": "slow_deliberate",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen copy preserved; identity/logo generic"
+      }
+    }
+  ],
+  "search_keywords": {
+    "industry": [
+      "finance",
+      "fintech"
+    ],
+    "product_category": [
+      "super_app",
+      "mini_app",
+      "mobile_platform",
+      "app_store"
+    ],
+    "target_demo": [
+      "korean_adults",
+      "30s_40s",
+      "parents_and_children",
+      "mobile_users"
+    ],
+    "media_format": [
+      "short_form_ad",
+      "digital_video",
+      "social_media"
+    ],
+    "tone": [
+      "warm",
+      "humorous",
+      "heartfelt",
+      "slice_of_life"
+    ],
+    "pacing": [
+      "slow_build",
+      "steady",
+      "narrative_driven"
+    ],
+    "technique": [
+      "phone_screen_insert",
+      "delayed_brand_reveal",
+      "narrative_demo",
+      "two_shot_domestic"
+    ],
+    "vfx_keywords": [
+      "no_vfx",
+      "practical_lighting",
+      "handheld_macro"
+    ],
+    "copy_strategy_keywords": [
+      "benefit_reveal",
+      "product_as_connector",
+      "generational_bonding"
+    ],
+    "concept_derivation_pattern": [
+      "everyday_problem_solved_by_tech",
+      "family_connection_through_app"
+    ]
+  },
+  "inferred_creative_thinking": {
+    "insight": "Korean adults often visit family but struggle to find shared activities across generational gaps; super apps that include games can bridge this divide effortlessly",
+    "persona": "Adult son in 30s visiting his father-in-law's household; wants to do something together but they don't share obvious hobbies",
+    "moment": "A quiet evening on the sofa where technology becomes a bridge rather than a barrier between generations",
+    "product_role": "Toss mini-apps removes the friction of discovering and installing games — your financial app already contains a whole world of entertainment you can share",
+    "punchline": "Father ends up playing the match-3 game while son is still installing the Go game he intended to show — a comedic reversal that proves the mini-app ecosystem's breadth",
+    "differentiator": "Zero-install experience: browse, tap, play without leaving Toss — no app store switching required",
+    "brand_fit_one_liner": "Toss positions itself as the one app you need not just for money but for moments",
+    "confidence": "inferred"
+  },
+  "inferred_brief": "Launch Toss mini-apps by showing how a finance super-app's embedded game discovery feature can turn an awkward father-son evening into shared entertainment — emphasizing zero-install convenience and peer-based recommendations.",
+  "cross_pollination_tags": {
+    "adjacent": [
+      "kakaotalk_mini_games",
+      "naver_series",
+      "super_app_ecosystem_ads"
+    ],
+    "distant": [
+      "apple_arcade_family",
+      "nintendo_family_ads",
+      "emotional_telecom_ads"
+    ],
+    "contrast": [
+      "utility_finance_ads",
+      "corporate_banking_ads",
+      "feature_spec_tech_ads"
+    ]
+  },
+  "concept_derivation_pattern": "narrative_trojan_horse: embed product demo inside family micro-drama; delayed brand reveal builds viewer investment before product message lands; comedic reversal (father plays casual game instead of Go) validates product breadth",
+  "confidence": "inferred",
+  "analyst_notes": "Video has 19 scenedetect scenes confirmed; metrics show 16 cut candidates (some short scenes merged by scenedetect). Cut 16 is the visual highlight showing the ironic reversal: father's phone plays a casual match-3 game while son's phone is still installing the intended Go game. Audio whisper transcription confirms VO: '다양한 게임, 설치 없이 토스에서 바로, 앱을 쓴다는 새로운 방식, 토스 미니 앱'. Wiggle metric is handheld camera motion in macro shots, not stereoscopic parallax. BGM present throughout (not transcribed).",
+  "verification": {
+    "frames_reviewed": "≈30/1254 native-res + 100% metrics",
+    "audio_analyzed": "faster_whisper base model; 7 segments; speech_coverage 0.817",
+    "hitrate_na": null,
+    "abstraction_checked": true
+  }
+}

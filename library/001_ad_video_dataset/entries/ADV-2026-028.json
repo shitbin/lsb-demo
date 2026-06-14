@@ -1,0 +1,1154 @@
+{
+  "id": "ADV-2026-028",
+  "source_ref": {
+    "platform": "social_shortform",
+    "title_or_campaign": "토스 숨은 서비스 12",
+    "brand": "토스 (Toss)",
+    "product": "연말정산 (year-end tax settlement preview)",
+    "model": null,
+    "year": null,
+    "production_note": "Episode 12 of the '토스 숨은 서비스' (Toss hidden services) feature-tutorial series. Vertical 1080x1920, ~59.28s, 29.97fps, 1775 frames. Structure: a short handheld live-action presenter intro (a young female 'Toss Onboarding Coordinator' walking through a wood-paneled office/cafe and picking up a phone), then a long single continuous physical-phone-in-hand screen demo of the in-app year-end-tax 'pre-check' (연말정산 사전점검) flow with step-numbered torn-paper captions (badges 1-6), and a live-action presenter outro sign-off. Same female presenter narrates throughout. The phone status-bar clock advances 3:55 -> 3:56 -> 3:57 across the demo, confirming one continuous real-device take; the operator does a gentle push-in to a closer phone framing around the results screen (~30.4s).",
+    "source_file": "토스 숨은 서비스 12.mp4",
+    "url": null
+  },
+  "category_primary": "finance.fintech",
+  "category_tags": [
+    "핀테크",
+    "모바일뱅킹",
+    "연말정산",
+    "세금 환급",
+    "기능 튜토리얼",
+    "시즌성 콘텐츠"
+  ],
+  "mood": [
+    "친근",
+    "정보전달",
+    "차분",
+    "깔끔",
+    "신뢰감"
+  ],
+  "target_demo": "연말정산을 하는 20대 후반~30대 직장인(급여소득자), MZ 세대",
+  "total_duration": 59.28,
+  "shot_count": 6,
+  "shot_count_corrected": 4,
+  "fps": 29.97,
+  "aspect_ratio": "9:16",
+  "hook_position": 0.0,
+  "cta_position": 53.15,
+  "narrative_arc": "A relatable seasonal premise opens (a presenter says she pre-checks how much she should spend before year-end tax), then the video resolves it as a step-by-step in-app demonstration: open the app, go to the All tab, search the year-end-tax pre-check feature, enter expected salary, consent and wait while the app calculates, then read the estimated card income-deduction and pension tax-credit results (how much more to spend / contribute to maximize the refund), close on a legal caveat and a warm series sign-off promising to return with more hidden tips.",
+  "narrative_structure": "linear_continuous",
+  "pacing_curve": "steady",
+  "music_tempo_curve": "steady",
+  "wow_cut_index": [
+    2
+  ],
+  "creative_device": "employee-guided 'hidden feature' walkthrough: a friendly Toss staffer demonstrates a lesser-known in-app tool on a real phone, with step-numbered torn-paper captions kept in lockstep with the voiceover; seasonal year-end-tax hook frames the utility.",
+  "production_signature": {
+    "capture_style": "live_action",
+    "camera_signature": [
+      "handheld_shake",
+      "locked_off"
+    ],
+    "signature_note": "Two live-action framing modes: (1) handheld documentary-style live-action presenter bookends (intro walk + lean, outro lean) with gentle natural camera drift, shallow depth and motion blur on movement; (2) a long near-locked handheld take of a real iPhone (Dynamic Island, status bar 3:55-3:57, LTE) held in hand against a softly blurred warm-amber office background, the phone screen filmed directly so glass glare, micro hand-drift and real finger taps are visible; around the results screen the operator gently pushes the phone closer to camera (larger framing) without a hard cut. Wiggle metric mean_abs_shift_x ~0.1447 with sign_flips ~0.244 = ordinary handheld micro-motion, NOT a lenticular wiggle_3d effect. No 3D/AI/parallax capture signature.",
+    "color_grade": "warm",
+    "texture_fx": "clean_digital"
+  },
+  "global_layout": {
+    "grid_system": "center",
+    "subject_placement_dominant": "center",
+    "subject_typo_relation": "typo_separate_zone",
+    "negative_space_use": "generous",
+    "layout_note": "Demo segments center the held phone vertically in frame inside a soft warm bokeh surround; instructional captions live in a fixed lower-center band rendered as torn-paper / masking-tape lozenges (white, slightly skewed) with key words in Toss-blue and a circled blue step-number badge to the upper-left of the band (badges 1-6). Intro/outro center the presenter slightly off-center with a two-line hand-drawn marker-highlighted blue title box at the top (intro) or lower-center (outro), and the intro adds a lower-third name tag (English role line + Korean name in a blue box). The Korean text-heavy lower caption system is the dominant graphic layer over otherwise clean live-action and clean UI."
+  },
+  "recurring_motifs": [
+    "torn-paper / masking-tape caption lozenge",
+    "circled blue step-number badge",
+    "Toss-blue highlight on key words",
+    "yellow hand-drawn circle around the topic keyword (연말정산 / 꿀기능)",
+    "real iPhone held in palm",
+    "warm-amber office bokeh background",
+    "lanyard ID badge with Toss mascot"
+  ],
+  "copywriting": {
+    "tagline_text": "연말정산 최대로 돌려 받으려면? 토스로 미리 점검하기",
+    "tagline_structure": "question hook + brand+action answer (two-line), topic keyword circled in yellow",
+    "tagline_length_syllables": 24,
+    "tagline_position_sec": 0.0,
+    "cta_text": "토스의 숨은 꿀기능 다시 찾아올게요!",
+    "cta_text_structure": "series sign-off promise with marker-highlighted keyword (꿀기능 circled in yellow)",
+    "cta_position_sec": 53.15,
+    "copy_tone": [
+      "친근",
+      "구어체",
+      "정보전달",
+      "안내형"
+    ],
+    "copy_strategy": "step-by-step feature tutorial; voiceover and on-screen caption say the same thing in sync; step-numbered torn-paper captions chunk the flow; seasonal relatable hook then direct how-to; legal caveat near the end; series branding sign-off. On-screen captions contain a typo ('사전전검' for 사전점검) preserved verbatim.",
+    "copy_lines_count": 16,
+    "lines": [
+      {
+        "position_sec": 0.08,
+        "text": "다가오는 연말정산, 얼마나 써야 하는지 저는 토스로 미리 점검해요.",
+        "function": "hook / premise",
+        "tone": "친근 구어체",
+        "source": "voice"
+      },
+      {
+        "position_sec": 5.88,
+        "text": "토스를 켜고",
+        "function": "step 1 instruction",
+        "tone": "안내형",
+        "source": "both"
+      },
+      {
+        "position_sec": 7.3,
+        "text": "우측 하단의 전체 탭을 선택주세요",
+        "function": "step 1 instruction (cont.)",
+        "tone": "안내형",
+        "source": "both"
+      },
+      {
+        "position_sec": 10.24,
+        "text": "검색 버튼을 눌러 연말정산을 검색하고",
+        "function": "step 1 instruction (cont.)",
+        "tone": "안내형",
+        "source": "both"
+      },
+      {
+        "position_sec": 14.88,
+        "text": "연말정산 사전전검을 선택해줍니다",
+        "function": "step 1 instruction (cont.)",
+        "tone": "안내형",
+        "source": "both"
+      },
+      {
+        "position_sec": 18.6,
+        "text": "올해 예상 연봉을 입력하고",
+        "function": "step 2 instruction",
+        "tone": "안내형",
+        "source": "both"
+      },
+      {
+        "position_sec": 23.73,
+        "text": "연말정산 준비하기를 터치한 뒤",
+        "function": "step 3 instruction",
+        "tone": "안내형",
+        "source": "both"
+      },
+      {
+        "position_sec": 26.29,
+        "text": "소비 내역을 확인하기 위해",
+        "function": "step 4 instruction",
+        "tone": "안내형",
+        "source": "both"
+      },
+      {
+        "position_sec": 27.5,
+        "text": "동의하기를 누르고 기다리면",
+        "function": "step 4 instruction (cont.)",
+        "tone": "안내형",
+        "source": "both"
+      },
+      {
+        "position_sec": 30.89,
+        "text": "내 소득과 소비를 계산해",
+        "function": "step 5 explanation",
+        "tone": "안내형",
+        "source": "both"
+      },
+      {
+        "position_sec": 33.0,
+        "text": "공제 예상 금액을 보여줍니다",
+        "function": "step 5 explanation (cont.)",
+        "tone": "안내형",
+        "source": "both"
+      },
+      {
+        "position_sec": 34.97,
+        "text": "앞으로 얼마나 더 써야",
+        "function": "card-deduction benefit",
+        "tone": "안내형",
+        "source": "both"
+      },
+      {
+        "position_sec": 37.5,
+        "text": "최대로 공제받을 수 있는지도",
+        "function": "card-deduction benefit (cont.)",
+        "tone": "안내형",
+        "source": "both"
+      },
+      {
+        "position_sec": 39.5,
+        "text": "확인하실 수 있어요",
+        "function": "card-deduction benefit (cont.)",
+        "tone": "안내형",
+        "source": "both"
+      },
+      {
+        "position_sec": 41.25,
+        "text": "연금 세액공제를 위해 연금저축과 퇴직연금을 각각 얼마나 더 채워야 하는지도",
+        "function": "step 6 pension benefit",
+        "tone": "안내형",
+        "source": "both"
+      },
+      {
+        "position_sec": 48.65,
+        "text": "물론 예상 금액이기 때문에 실제와 다소 차이가 있을 수 있습니다",
+        "function": "legal caveat",
+        "tone": "안내형",
+        "source": "both"
+      }
+    ],
+    "captions": [
+      {
+        "position_sec": 0.0,
+        "text": "연말정산 최대로 돌려 받으려면? 토스로 미리 점검하기",
+        "function": "title hook (top, two-line, 연말정산 circled yellow)"
+      },
+      {
+        "position_sec": 0.0,
+        "text": "Toss Onboarding Coodinator",
+        "function": "presenter role name-tag (lower-third, English, sic 'Coodinator')"
+      },
+      {
+        "position_sec": 2.5,
+        "text": "최유정",
+        "function": "presenter name (lower-third, blue box)"
+      },
+      {
+        "position_sec": 5.88,
+        "text": "1  토스를 켜고",
+        "function": "step 1 torn-paper caption"
+      },
+      {
+        "position_sec": 7.3,
+        "text": "1  우측 하단의 전체 탭을 선택주세요",
+        "function": "step 1 caption"
+      },
+      {
+        "position_sec": 10.24,
+        "text": "1  검색 버튼을 눌러 연말정산을 검색하고",
+        "function": "step 1 caption"
+      },
+      {
+        "position_sec": 14.88,
+        "text": "1  연말정산 사전전검을 선택해줍니다",
+        "function": "step 1 caption (typo 사전전검 preserved)"
+      },
+      {
+        "position_sec": 18.6,
+        "text": "2  올해 예상 연봉을 입력하고",
+        "function": "step 2 caption"
+      },
+      {
+        "position_sec": 23.73,
+        "text": "3  연말정산 준비하기를 터치한 뒤",
+        "function": "step 3 caption"
+      },
+      {
+        "position_sec": 26.29,
+        "text": "4  소비 내역을 확인하기 위해",
+        "function": "step 4 caption"
+      },
+      {
+        "position_sec": 27.5,
+        "text": "4  동의하기를 누르고 기다리면",
+        "function": "step 4 caption"
+      },
+      {
+        "position_sec": 30.89,
+        "text": "5  내 소득과 소비를 계산해",
+        "function": "step 5 caption"
+      },
+      {
+        "position_sec": 33.0,
+        "text": "5  공제 예상 금액을 보여줍니다",
+        "function": "step 5 caption"
+      },
+      {
+        "position_sec": 34.97,
+        "text": "앞으로 얼마나 더 써야",
+        "function": "benefit caption (no badge)"
+      },
+      {
+        "position_sec": 37.5,
+        "text": "최대로 공제받을 수 있는지도",
+        "function": "benefit caption (no badge)"
+      },
+      {
+        "position_sec": 39.5,
+        "text": "확인하실 수 있어요",
+        "function": "benefit caption (no badge)"
+      },
+      {
+        "position_sec": 41.25,
+        "text": "6  연금 세액공제를 위해",
+        "function": "step 6 caption"
+      },
+      {
+        "position_sec": 43.5,
+        "text": "6  연금저축과 퇴직연금을",
+        "function": "step 6 caption"
+      },
+      {
+        "position_sec": 46.5,
+        "text": "6  각각 얼마나 더 채워야 하는지도",
+        "function": "step 6 caption"
+      },
+      {
+        "position_sec": 48.65,
+        "text": "물론 예상 금액이기 때문에",
+        "function": "caveat caption (no badge)"
+      },
+      {
+        "position_sec": 51.5,
+        "text": "실제와 다소 차이가 있을 수 있습니다",
+        "function": "caveat caption (no badge)"
+      },
+      {
+        "position_sec": 53.15,
+        "text": "토스의 숨은 꿀기능 다시 찾아올게요!",
+        "function": "series sign-off (outro, 꿀기능 circled yellow)"
+      }
+    ],
+    "narration_handling": "excerpt_only"
+  },
+  "typography": {
+    "primary_font_class": "rounded_sans_bold_korean",
+    "secondary_font_class": "geometric_sans_latin",
+    "animation_style": [
+      "pop",
+      "static",
+      "fade_in"
+    ],
+    "subtitle_position_dominant": "lower_third",
+    "tagline_position": "top",
+    "color_strategy": "white torn-paper lozenge ground with Toss-blue (#3182F6 family) emphasis on key words; circled blue step-number badge; yellow hand-drawn circle accent on the single topic keyword; black/near-black secondary body text",
+    "appearance_count": 22,
+    "key_typography_moments_sec": [
+      0.0,
+      5.88,
+      18.6,
+      23.73,
+      26.29,
+      30.89,
+      41.25,
+      53.15
+    ],
+    "typo_motion_dominant": "pop"
+  },
+  "vfx": {
+    "primary_effects": [
+      "ui_motion",
+      "kinetic_typo"
+    ],
+    "effect_intensity": "subtle",
+    "transition_style_dominant": "cut",
+    "vfx_event_count": 22,
+    "vfx_timing_array_sec": [
+      0.0,
+      5.88,
+      10.24,
+      14.88,
+      18.6,
+      23.73,
+      26.29,
+      30.4,
+      34.87,
+      40.87,
+      41.25,
+      48.65,
+      53.15
+    ],
+    "wow_vfx_index": [
+      2
+    ]
+  },
+  "audio": {
+    "has_audio": true,
+    "language": "ko",
+    "speech_coverage": 0.994,
+    "bgm_likely": true,
+    "narration_lines": [
+      {
+        "start": 0.08,
+        "end": 5.88,
+        "text": "다가오는 연말정산, 얼마나 써야 하는지 저는 토스로 미리 점검해요.",
+        "text_raw": "다가오는 연말정산, 얼마나 써야 하는지 저는 토스로 미리 전검해요.",
+        "kind": "narration",
+        "source": "voice"
+      },
+      {
+        "start": 5.88,
+        "end": 10.24,
+        "text": "토스를 켜고 우측 하단의 전체 탭을 선택해 주세요.",
+        "text_raw": "토스를 켜고 우측하다는 전체 탭을 선택해 주세요.",
+        "kind": "narration",
+        "source": "both"
+      },
+      {
+        "start": 10.24,
+        "end": 14.88,
+        "text": "검색 버튼을 눌러 연말정산을 검색하고",
+        "text_raw": "검색 버튼을 눌러 연말정산을 검색하고",
+        "kind": "narration",
+        "source": "both"
+      },
+      {
+        "start": 14.88,
+        "end": 18.6,
+        "text": "연말정산 사전점검을 선택해 줍니다.",
+        "text_raw": "연말정산 사전 전검을 선택해 줍니다.",
+        "kind": "narration",
+        "source": "both"
+      },
+      {
+        "start": 18.6,
+        "end": 23.73,
+        "text": "올해 예상 연봉을 입력하고",
+        "text_raw": "올해 예상 연봉을 입력하고",
+        "kind": "narration",
+        "source": "both"
+      },
+      {
+        "start": 23.73,
+        "end": 26.29,
+        "text": "연말정산 준비하기를 터치한 뒤",
+        "text_raw": "연말정산 준비하기를 터치한 뒤",
+        "kind": "narration",
+        "source": "both"
+      },
+      {
+        "start": 26.29,
+        "end": 30.89,
+        "text": "소비 내역을 확인하기 위해 동의하기를 누르고 기다리면",
+        "text_raw": "소비 내역을 확인하기 위해 동의하기를 누르고 기다리면",
+        "kind": "narration",
+        "source": "both"
+      },
+      {
+        "start": 30.89,
+        "end": 34.97,
+        "text": "내 소득과 소비를 계산해 공제 예상 금액을 보여줍니다.",
+        "text_raw": "내 소득과 소비를 계산해 공제 예상드맥을 보여줍니다.",
+        "kind": "narration",
+        "source": "both"
+      },
+      {
+        "start": 34.97,
+        "end": 36.49,
+        "text": "앞으로 얼마나 더 써야",
+        "text_raw": "앞으로 얼마나 더 써야",
+        "kind": "narration",
+        "source": "both"
+      },
+      {
+        "start": 36.49,
+        "end": 41.25,
+        "text": "제대로 공제받을 수 있는지도 확인하실 수 있어요.",
+        "text_raw": "제대로 공제받을 수 있는지도 확인하실 수 있어요.",
+        "kind": "narration",
+        "source": "both"
+      },
+      {
+        "start": 41.25,
+        "end": 44.81,
+        "text": "연금 세액공제를 위해 연금저축과 퇴직연금을",
+        "text_raw": "연금세의 공제를 위해 연금조측과 퇴직 연금을",
+        "kind": "narration",
+        "source": "both"
+      },
+      {
+        "start": 44.81,
+        "end": 48.65,
+        "text": "각각 얼마나 더 채워야 하는지도 체크해 볼 수 있죠.",
+        "text_raw": "각각 얼마나 더 채워야 하는지도 체크해 볼 수 있죠.",
+        "kind": "narration",
+        "source": "both"
+      },
+      {
+        "start": 48.65,
+        "end": 50.73,
+        "text": "물론 예상 공제 금액이기 때문에",
+        "text_raw": "물론 예상 공제 금액이기 때문에",
+        "kind": "narration",
+        "source": "both"
+      },
+      {
+        "start": 50.73,
+        "end": 53.49,
+        "text": "실제와 다소 차이가 있을 수 있습니다.",
+        "text_raw": "실제와 다소 차이가 있을 수 있습니다.",
+        "kind": "narration",
+        "source": "both"
+      },
+      {
+        "start": 53.49,
+        "end": 56.13,
+        "text": "한 해를 마무리하는 연말정산 사전점검",
+        "text_raw": "하늘을 마무리하는 연말정산 사전 전검",
+        "kind": "narration",
+        "source": "voice"
+      },
+      {
+        "start": 56.13,
+        "end": 59.01,
+        "text": "토스로 똑똑하게 준비하세요.",
+        "text_raw": "토스로 똑똑하게 준비하세요.",
+        "kind": "narration",
+        "source": "voice"
+      }
+    ],
+    "voice_vs_caption": "Voiceover and on-screen captions are tightly synced through the demo (source 'both'); intro premise line and the closing two VO lines ('한 해를 마무리하는 연말정산 사전점검 / 토스로 똑똑하게 준비하세요') are voice-only and differ from the visible outro caption ('토스의 숨은 꿀기능 다시 찾아올게요!'). Whisper text_raw mis-recognized several finance terms (전검->점검, 공제 예상드맥->공제 예상 금액, 연금조측->연금저축, 하늘을->한 해를) which were corrected against on-screen text.",
+    "narration_handling": "excerpt_only",
+    "transcribed_by": "faster_whisper",
+    "audio_note": "faster-whisper ko base, speech_coverage 0.994; text corrected against on-screen captions. Likely soft background music bed under narration (bgm_likely true, not isolated)."
+  },
+  "frames_dir": "ADV-2026-028_frames",
+  "contact_sheet_path": "ADV-2026-028_frames/contact_sheet.png",
+  "shots": [
+    {
+      "index": 1,
+      "duration": 5.87,
+      "framing": "MS",
+      "function": "intro / hook — presenter premise",
+      "color_mood": "warm, cozy, natural office-cafe",
+      "subject_action": "A young woman walks through a wood-paneled office/lounge holding a notebook/laptop, then leans against a counter, takes out a phone and looks down at it; she narrates the seasonal premise.",
+      "subject_identity": "protagonist_main",
+      "subject_relationship_to_protagonist": "main_character",
+      "mid_frame_path": "ADV-2026-028_frames/cut01_mid.png",
+      "layout_grid": "center",
+      "subject_position": "center / right_third (varies as she walks)",
+      "subject_typo_layout": "two-line marker-highlighted title box pinned at top; lower-third name tag below the subject",
+      "typo_motion": "title and name-tag captions hold statically on screen from the first frame (pop-on, no kinetic travel); they persist through the whole intro",
+      "camera_angle": "eye_level",
+      "camera_facing": "back-to-three_quarter (starts behind/profile as she walks, settles to three_quarter front)",
+      "shot_scope": "waist_up",
+      "gaze": "down (at phone) / off_camera",
+      "eye_contact_effect": "no direct address; observational documentary feel",
+      "props": [
+        "smartphone",
+        "white notebook/laptop",
+        "lanyard ID badge with Toss mascot"
+      ],
+      "prop_semantics": "the phone is the hero tool the tutorial will use; the lanyard frames her as a real Toss staffer giving an insider tip (authority/relatability)",
+      "color_palette": [
+        "#9a6b3f",
+        "#4d5a3a",
+        "#d8cdbf",
+        "#2f3a44"
+      ],
+      "color_intent": "warm wood/amber environment with the presenter's olive-green sweater as a muted natural anchor; Toss-blue caption box provides the only saturated accent",
+      "pose_description": "relaxed, friendly, candid — walking then leaning casually; conveys an approachable colleague tone",
+      "subject_motion": "walk_forward then settle to a lean; natural arm motion taking out the phone",
+      "prop_motion": "phone is lifted into both hands",
+      "camera_motion": "handheld follow / gentle drift",
+      "camera_motion_intensity": "low_to_moderate",
+      "camera_effect_local": "none",
+      "motion_blur": "light on the walking frames",
+      "intra_cut_rhythm": "steady",
+      "transition_in": "cut (cold open on moving presenter)",
+      "transition_out": "hard cut to the in-hand phone demo",
+      "vfx_in_shot": [
+        "title caption box",
+        "name-tag caption",
+        "yellow circle on keyword 연말정산"
+      ],
+      "vfx_intensity_local": "subtle",
+      "fact_check_flag": "none",
+      "notes": "Title 연말정산 is circled in a hand-drawn yellow ellipse; name tag reads English role line 'Toss Onboarding Coodinator' (sic) over Korean name 최유정 in a blue box.",
+      "visible_elements": {
+        "foreground": [
+          "presenter in olive-green knit sweater and light-blue jeans",
+          "smartphone in hand",
+          "white notebook/laptop held under arm",
+          "lanyard ID badge"
+        ],
+        "midground": [
+          "light-wood counter / cabinetry",
+          "office desk clutter (colored stationery, boxes, tissue box)"
+        ],
+        "background": [
+          "wood-slat ceiling beams",
+          "pale upper cabinets",
+          "frosted-glass partition (later frames)",
+          "soft blurred office interior"
+        ],
+        "lighting_env": [
+          "overhead warm ceiling downlights",
+          "soft ambient daylight fill"
+        ],
+        "atmosphere": [
+          "shallow-depth bokeh",
+          "warm cozy interior glow"
+        ]
+      },
+      "texture": {
+        "primary_subject": "fabric_cotton",
+        "secondary_objects": [
+          "wood_polished",
+          "plastic_glossy"
+        ],
+        "background_surface": "wood_polished",
+        "atmospheric": [
+          "atmospheric_haze"
+        ]
+      },
+      "lighting": {
+        "key_direction": "top",
+        "key_hardness": "soft",
+        "key_color_temp": "warm_3000K",
+        "fill_strength": "moderate",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": false,
+        "practical_lights": [
+          "천장 다운라이트"
+        ],
+        "shadow_presence": "soft",
+        "overall_contrast": "mid_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#9a6b3f",
+          "#4d5a3a",
+          "#d8cdbf",
+          "#2f3a44",
+          "#3182f6"
+        ],
+        "palette_role": {
+          "#9a6b3f": "background_warm_wood",
+          "#4d5a3a": "subject_sweater_anchor",
+          "#d8cdbf": "wall_cabinet_neutral",
+          "#2f3a44": "shadow_dark_anchor",
+          "#3182f6": "caption_brand_accent"
+        },
+        "color_relationship": "analogous",
+        "temperature_balance": "warm_dominant",
+        "saturation_strategy": "muted_with_pop",
+        "contrast_type": "luminance_low",
+        "accent_color": "#3182f6",
+        "accent_ratio": "15_percent",
+        "brand_color_match": [
+          "Toss blue ~#3182F6 in caption boxes"
+        ]
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "Photorealistic vertical 9:16 commercial still of a Korean woman in her mid-to-late twenties, seen from the waist up, captured mid-stride as she walks through and then begins to lean against a counter inside a warm, modern wood-paneled office lounge. Subject and pose: she has a chin-length reddish-brown bob with soft side-swept bangs that catch the warm light, light natural 'no-makeup' makeup, smooth lightly-retouched skin, and a calm friendly half-smile; her head is tipped slightly down and to the side as she is glancing toward a smartphone she is lifting into both hands at chest height, body angled at roughly three-quarters to camera, weight shifting onto one leg as she settles. Wardrobe and material: a relaxed oversized olive-green ribbed-knit crewneck sweater with a slightly fuzzy soft matte cotton/wool surface and visible chunky rib texture at the cuffs and collar, paired with light-blue straight-leg jeans in a soft worn denim, and a thin white lanyard around her neck holding a clear plastic ID-badge holder that carries a small generic rounded mascot illustration (no real logo); a slim white notebook or laptop is tucked under one arm. Location and set: a cozy company kitchenette/lounge with light honey-wood slat ceiling beams running overhead, pale matte upper cabinets, a wood-topped counter behind her cluttered with colorful office stationery standing in holders, a few small boxes, a white tissue box and stacked papers, and a frosted translucent-glass partition at the left edge; the whole background falls into soft creamy warm bokeh, the depth compressing the clutter into pleasant amber blobs. Foreground and props: the smartphone (the hero tool of the coming tutorial) and the white notebook read as her work-life props, framing her as a real staffer. Lighting setup: soft and warm at roughly 3000K, a gentle broad top key from overhead practical downlights skims her hair and shoulders, moderate ambient bounce fills the shadow side at about a 2:1 key-to-fill ratio, there is no hard rim, and the result is soft short shadows under the chin and a mid-key, low-contrast, inviting exposure with no clipped highlights. Lens, framing and camera angle: a handheld documentary medium shot at roughly a 35mm-equivalent field of view, shot at eye level, the subject placed centered-to-right-third with generous warm negative space on the opposite side, a moderate-to-shallow depth of field keeping her sharp while the room melts behind. Composition and grid: a loose center grid with the figure offset for breathing room, the caption zone reserved at top and lower-third. Color palette and strategy: analogous and warm-dominant — amber wood #9a6b3f as the environmental ground, the muted olive sweater #4d5a3a as the subject anchor, neutral cabinet beige #d8cdbf as the mid-tone bridge, and a dark #2f3a44 as the shadow anchor, with a single saturated Toss-blue #3182f6 accent reserved exclusively for the on-screen caption box (about 15% of the frame). Texture and surfaces: soft fuzzy cotton/wool knit, polished honey wood, glossy plastic stationery, frosted glass at the edge, and natural skin. Atmosphere: a clean cozy interior with shallow-depth haze, a soft warm ambient glow, gentle motion blur on her moving arm and trailing hair, no smoke and no film grain. Post and signature look: clean digital, warm grade, mid-key, slightly lifted shadows, true-to-life skin — ordinary handheld micro-motion, no lenticular or 3D parallax effect. Overlay, preserved verbatim as on-screen graphics: a two-line marker-highlighted blue title box pinned across the top reading '연말정산 최대로 돌려 받으려면?' on the first line and '토스로 미리 점검하기' on the second, with the word '연말정산' encircled by a hand-drawn yellow ellipse; and a lower-third name tag with an English role line 'Toss Onboarding Coodinator' above a Korean name '최유정' set inside a small Toss-blue rounded box. These captions are normally finalized in post but are preserved here for fidelity. Style anchor: a clean 4K vertical Korean social-commercial documentary aesthetic, natural and approachable, hi-key-leaning warm grade, Korean fintech brand-film look.",
+        "t2i_negative": "real brand logos or wordmarks, watermark, text artifacts other than the specified captions, second person, extra fingers, deformed hands, distorted face, harsh shadows, low-key gloom, heavy film grain, oversaturation, cluttered foreground",
+        "i2v_motion": "Handheld documentary motion: the subject walks a step or two forward then settles into a relaxed lean against the counter, naturally lifting the smartphone into both hands and tilting her head down toward it with a soft smile; gentle natural camera drift and breathing-level sway follow her, shallow depth keeps the warm background in creamy bokeh; light motion blur on the walking frames; the top title caption and lower-third name tag hold statically on screen the whole time; ~5.9s, steady rhythm, ending on a hard cut to a close in-hand phone screen demo. Warm, candid, no large camera moves.",
+        "i2v_params": {
+          "clip_duration_sec": 5.87,
+          "camera_move": "handheld_follow_drift",
+          "subject_motion_level": "walk",
+          "signature_effect": "none",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen copy preserved verbatim (per copywriting); presenter face-likeness & any brand logo mark generic"
+      }
+    },
+    {
+      "index": 2,
+      "duration": 24.53,
+      "framing": "CU",
+      "function": "demo part 1 — open app, navigate, search feature, enter salary, consent (steps 1-4)",
+      "color_mood": "clean UI on warm bokeh; cool light-grey app screens",
+      "subject_action": "A hand holds a real iPhone in palm and performs the in-app flow: Toss home screen, taps into the All (전체) tab, opens search and types '연말', selects the year-end-tax pre-check, enters expected salary 3,000 (만원) on the numeric keypad, taps through to the card/pension intro and the consent bottom-sheet, then taps 동의하기.",
+      "subject_identity": "none_environment",
+      "subject_relationship_to_protagonist": "main_character",
+      "mid_frame_path": "ADV-2026-028_frames/cut02_mid.png",
+      "layout_grid": "center",
+      "subject_position": "center (phone centered, held in right hand)",
+      "subject_typo_layout": "fixed lower-center torn-paper caption band with circled step-number badge to its upper-left; phone occupies the central upper two-thirds",
+      "typo_motion": "each step caption pops on in the lower band and holds, swapping for the next instruction as the screen advances; the step-number badge increments 1 -> 2 -> 3 -> 4 across the segment",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal (screen square to camera)",
+      "shot_scope": "environment (device-and-hand, screen-dominant)",
+      "gaze": "none",
+      "eye_contact_effect": "none — attention is directed to the phone screen",
+      "props": [
+        "smartphone (real iPhone, Dynamic Island, status bar 3:55-3:56, LTE)",
+        "human hand"
+      ],
+      "prop_semantics": "the real device + visible finger taps signal an authentic, do-it-yourself walkthrough rather than a polished screen-capture mock",
+      "color_palette": [
+        "#c98a4a",
+        "#eef1f4",
+        "#3182f6",
+        "#1b1d1f"
+      ],
+      "color_intent": "warm-amber bokeh surround vs. cool light-grey Toss UI for separation; Toss-blue UI buttons and caption highlights carry the brand color",
+      "pose_description": "steady cradling grip with thumb/index taps; calm, unhurried demonstration",
+      "subject_motion": "micro hand-drift; discrete finger taps and a numeric-keypad entry",
+      "prop_motion": "on-screen UI scrolls, page-pushes left/right on navigation, keypad and bottom-sheet appear",
+      "camera_motion": "near-locked handheld",
+      "camera_motion_intensity": "low",
+      "camera_effect_local": "none",
+      "motion_blur": "slight on page transitions and finger taps",
+      "intra_cut_rhythm": "steady",
+      "transition_in": "hard cut from live-action intro",
+      "transition_out": "continuous (gentle push-in to closer framing at the results screen — no hard cut)",
+      "vfx_in_shot": [
+        "torn-paper step captions",
+        "circled step-number badges",
+        "native in-app page-slide and keypad/bottom-sheet UI motion"
+      ],
+      "vfx_intensity_local": "subtle",
+      "fact_check_flag": "none",
+      "notes": "Status-bar clock advances 3:55->3:56 within this segment (continuous take). On-screen demo data is illustrative (e.g. 우리우리/농협농협/기업기업 each 200,000원; salary 3,000만원). Caption step 1 spans four instructions before badge increments. Caption typo '사전전검' preserved.",
+      "visible_elements": {
+        "foreground": [
+          "smartphone held in right hand",
+          "thumb/index finger performing taps",
+          "Toss app UI screens (home, 전체 tab, search, salary input keypad, consent bottom-sheet)"
+        ],
+        "midground": [
+          "fingers and palm wrapping the phone"
+        ],
+        "background": [
+          "softly blurred warm-amber office surface (wood)",
+          "out-of-focus interior"
+        ],
+        "lighting_env": [
+          "soft warm ambient room light",
+          "screen self-illumination"
+        ],
+        "atmosphere": [
+          "warm bokeh",
+          "subtle screen glass glare"
+        ]
+      },
+      "texture": {
+        "primary_subject": "glass_clear",
+        "secondary_objects": [
+          "skin_natural",
+          "metallic"
+        ],
+        "background_surface": "wood_polished",
+        "atmospheric": [
+          "screen_glare"
+        ]
+      },
+      "lighting": {
+        "key_direction": "front",
+        "key_hardness": "soft",
+        "key_color_temp": "warm_3000K",
+        "fill_strength": "moderate",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": false,
+        "practical_lights": [
+          "실내 조명",
+          "휴대폰 화면 발광"
+        ],
+        "shadow_presence": "soft",
+        "overall_contrast": "mid_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#c98a4a",
+          "#eef1f4",
+          "#3182f6",
+          "#1b1d1f",
+          "#ffffff"
+        ],
+        "palette_role": {
+          "#c98a4a": "background_warm_bokeh",
+          "#eef1f4": "ui_light_ground",
+          "#3182f6": "brand_blue_ui_and_caption",
+          "#1b1d1f": "ui_text_dark",
+          "#ffffff": "caption_paper_ground"
+        },
+        "color_relationship": "complementary",
+        "temperature_balance": "split_warm_cool",
+        "saturation_strategy": "desaturated_with_pop",
+        "contrast_type": "temperature_split",
+        "accent_color": "#3182f6",
+        "accent_ratio": "15_percent",
+        "brand_color_match": [
+          "Toss blue ~#3182F6 on primary buttons and caption keywords"
+        ]
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "Photorealistic vertical 9:16 commercial still of a right hand cradling a modern black flagship smartphone held in the open palm, centered in frame against a softly blurred warm-amber wood office background rendered in creamy bokeh. Subject and pose: the hand grips the phone naturally with the thumb resting near the lower bezel and the other fingers curled around the back, the device tipped almost flat to camera; a fingertip is poised as if about to tap, conveying an unhurried do-it-yourself demonstration. Device and screen content: the phone has a rounded Dynamic Island pill cutout and an iOS-style status bar showing 3:55 with full signal bars and an LTE indicator; the screen displays a clean light-grey mobile-banking home dashboard — a small tree-leaf brand glyph and lowercase 'toss' wordmark at top-left with a smiley face and a bell (red dot) at top-right; a rounded card labeled '토스뱅크 >'; then an '자산' (assets) section header with a chevron, listing three generic bank-account rows, each showing a round colored bank glyph, a name and '200,000원' with a grey '송금' button at right, plus a '포인트·머니 · 1개 1원' row with a blue glyph; below, a '소비' (spending) section header beginning '이번 달 쓴 금액' with an '내역' button; and a bottom tab bar reading 홈 · 혜택 · 토스페이 · 주식 · 전체 with the home tab active. Foreground and props: only the hand and the phone, no second object, the visible finger taps reinforcing authenticity over a polished screen-capture mock. Lighting setup: soft, warm, frontal-ambient around 3000K filling the hand and bezel, while the screen self-illuminates a cool light-grey that contrasts the warm room; gentle fill at about a 2:1 ratio, soft shadows under the fingers, mid-key low contrast, no clipped highlights; faint glass glare slides across the cover glass and natural micro-skin texture and a fingernail highlight are visible on the fingertips. Lens, framing and camera angle: a near-locked handheld close shot at roughly a 50mm-equivalent, eye level, the screen kept square to camera, the device occupying the central upper two-thirds of the frame with generous warm negative space around it and the caption band fixed at lower-center. Composition and grid: a loose center grid, the phone vertical axis aligned to the frame center. Color palette and strategy: a split warm-cool complementary scheme — warm bokeh amber #c98a4a surrounding a cool light-grey UI #eef1f4, with dark UI text #1b1d1f, white #ffffff caption paper, and a saturated Toss-blue #3182f6 reserved for primary UI buttons and caption keywords (accent about 15% of the frame). Texture and surfaces: clear smooth cover glass with a faint anti-glare sheen, natural skin with fine pores and knuckle creases, a hint of polished metal on the phone frame, and the soft out-of-focus wood grain behind. Atmosphere: clean and calm with warm bokeh, a subtle screen reflection and a thin specular streak, no haze build-up and no film grain. Post and signature look: clean digital, warm grade, true device colors, ordinary handheld micro-motion only — no lenticular or 3D parallax effect. Overlay, preserved verbatim as on-screen graphics: across the lower-center a white torn-paper / masking-tape caption lozenge, slightly skewed, reading '토스를 켜고' with '토스' emphasized in Toss-blue, and to its upper-left a small circled blue badge with the numeral '1'. The on-screen Korean UI strings and the caption text are preserved verbatim as in the original (account numbers, names and amounts are illustrative demo data normally finalized in post). Style anchor: a clean 4K vertical real-device app-demo aesthetic, authentic in-hand documentary feel, Korean fintech UI walkthrough look.",
+        "t2i_negative": "real third-party brand logos, watermark, second hand, extra fingers, deformed fingers, screen moire artifacts beyond subtle glare, harsh specular blowout, low-key gloom, heavy grain, warped UI text",
+        "i2v_motion": "Near-locked handheld with only breathing-level drift; the thumb/index finger reaches in and performs a sequence of real taps that advance the app — opening the All (전체) tab, opening search and typing '연말' on the Korean keyboard, selecting the year-end-tax pre-check (a left page-slide), entering '3,000' on a numeric keypad, then a card/pension intro screen and a consent bottom-sheet sliding up, ending on a tap of the blue 동의하기 button; native UI page-slides, keypad pop and bottom-sheet motion play on screen; slight motion blur on taps and transitions; the lower-center torn-paper caption swaps through the step-1 instructions and the circled step badge increments toward 4; ~24.5s, steady rhythm, no hard cut, ending with a gentle push-in toward a closer phone framing. Calm, authentic, minimal camera movement.",
+        "i2v_params": {
+          "clip_duration_sec": 24.53,
+          "camera_move": "locked_off_to_slow_push_in",
+          "subject_motion_level": "micro",
+          "signature_effect": "none",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen UI copy and captions preserved verbatim (per copywriting); no real third-party logo marks; demo data illustrative"
+      }
+    },
+    {
+      "index": 3,
+      "duration": 22.76,
+      "framing": "CU",
+      "function": "demo part 2 (wow) — calculation result: card income-deduction & pension tax-credit (steps 5-6)",
+      "color_mood": "clean light-grey UI with blue/green data accents on warm bokeh; phone framed larger",
+      "subject_action": "On a closer-held phone, the app finishes calculating and reveals the results: a card income-deduction comparison (max vs. my deduction with a two-bar chart), a 'spend X more' recommendation, the spending breakdown, then a tab switch to the pension tax-credit screen showing estimated credit, amounts saved and 'contribute X more' guidance; the legal caveat caption appears.",
+      "subject_identity": "none_environment",
+      "subject_relationship_to_protagonist": "main_character",
+      "mid_frame_path": "ADV-2026-028_frames/cut03_mid.png",
+      "layout_grid": "center",
+      "subject_position": "center (phone fills more of the frame after the push-in)",
+      "subject_typo_layout": "fixed lower-center torn-paper caption band with circled step-number badge; phone enlarged and centered",
+      "typo_motion": "captions pop and swap in the lower band; step badge shows 5 then 6, with several no-badge benefit/caveat captions interleaved as the user scrolls and switches tabs",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "environment (device-and-hand, screen-dominant, tighter)",
+      "gaze": "none",
+      "eye_contact_effect": "none",
+      "props": [
+        "smartphone (status bar 3:56-3:57, LTE)",
+        "human hand"
+      ],
+      "prop_semantics": "the enlarged phone framing emphasizes the payoff numbers — the concrete refund/deduction estimates that justify the whole feature",
+      "color_palette": [
+        "#c98a4a",
+        "#eef1f4",
+        "#3182f6",
+        "#2ac1bc"
+      ],
+      "color_intent": "data-viz accents (blue 'my' bar, green/teal recommendation tags, blue progress bar) pop against the cool light-grey UI and warm bokeh surround",
+      "pose_description": "steady cradle with occasional scroll/tab taps; deliberate, reveal-paced",
+      "subject_motion": "micro hand-drift; scroll gestures and a tab switch tap",
+      "prop_motion": "on-screen content scrolls; bar-chart and progress-bar render; tab switches from 카드 소득공제 to 연금 세액공제",
+      "camera_motion": "near-locked handheld (already pushed-in)",
+      "camera_motion_intensity": "low",
+      "camera_effect_local": "none",
+      "motion_blur": "slight on scrolls",
+      "intra_cut_rhythm": "steady",
+      "transition_in": "continuous push-in from shot 2 (soft framing change, treated as a shot boundary)",
+      "transition_out": "hard cut to live-action outro",
+      "vfx_in_shot": [
+        "torn-paper captions",
+        "circled step-number badges",
+        "native in-app bar-chart and progress-bar UI motion",
+        "tab-switch UI motion"
+      ],
+      "vfx_intensity_local": "subtle",
+      "fact_check_flag": "none",
+      "notes": "Result data illustrative: card 최대 공제 300만원 vs 내 공제 2,250,000원; 체크카드·현금 2,500,000원 더 / 30% 공제; 신용카드 5,000,000원 더 / 15% 공제; 올해 쓴 금액 20,000,000원. Pension: 660,000원 세액공제 예상 / 최대 1,485,000원; 연금저축 200만원·퇴직연금(IRP) 300만원 더. App uses placeholder username '김토스'. The 34.87s and 40.87s scenedetect hits are in-app caption/tab changes, not camera cuts.",
+      "visible_elements": {
+        "foreground": [
+          "smartphone held closer in hand",
+          "fingertips for scroll/tab",
+          "Toss results UI (two-bar deduction chart, recommendation rows, spending breakdown, pension credit screen with progress bar)"
+        ],
+        "midground": [
+          "hand and palm cradling the phone"
+        ],
+        "background": [
+          "softly blurred warm-amber office surface",
+          "out-of-focus interior"
+        ],
+        "lighting_env": [
+          "soft warm ambient room light",
+          "screen self-illumination"
+        ],
+        "atmosphere": [
+          "warm bokeh",
+          "subtle screen glare"
+        ]
+      },
+      "texture": {
+        "primary_subject": "glass_clear",
+        "secondary_objects": [
+          "skin_natural",
+          "metallic"
+        ],
+        "background_surface": "wood_polished",
+        "atmospheric": [
+          "screen_glare"
+        ]
+      },
+      "lighting": {
+        "key_direction": "front",
+        "key_hardness": "soft",
+        "key_color_temp": "warm_3000K",
+        "fill_strength": "moderate",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": false,
+        "practical_lights": [
+          "실내 조명",
+          "휴대폰 화면 발광"
+        ],
+        "shadow_presence": "soft",
+        "overall_contrast": "mid_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#c98a4a",
+          "#eef1f4",
+          "#3182f6",
+          "#2ac1bc",
+          "#1b1d1f"
+        ],
+        "palette_role": {
+          "#c98a4a": "background_warm_bokeh",
+          "#eef1f4": "ui_light_ground",
+          "#3182f6": "data_blue_my_bar_and_brand",
+          "#2ac1bc": "recommendation_green_accent",
+          "#1b1d1f": "ui_text_dark"
+        },
+        "color_relationship": "complementary",
+        "temperature_balance": "split_warm_cool",
+        "saturation_strategy": "desaturated_with_pop",
+        "contrast_type": "temperature_split",
+        "accent_color": "#3182f6",
+        "accent_ratio": "15_percent",
+        "brand_color_match": [
+          "Toss blue ~#3182F6 on the 'my deduction' bar, progress bar and emphasized figures"
+        ]
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "Photorealistic vertical 9:16 commercial still of a right hand holding a modern black flagship smartphone cradled in the palm and held fairly close to camera so the device fills much of the frame, set against a softly blurred warm-amber wood office background in creamy bokeh. Subject and pose: the hand grips the phone steadily, thumb near the lower edge, the device tilted nearly flat to camera and brought closer than in earlier steps to emphasize the payoff figures; the framing is a deliberate reveal of result numbers. Device and screen content: the phone has a Dynamic Island pill and an iOS status bar reading 3:56 with full signal and LTE; the screen shows a clean light-grey results screen of a year-end-tax deduction tool — a two-tab segmented control at top reading '카드 소득공제' (selected, white pill) and '연금 세액공제' (with a small red dot); a bold dark headline over two lines '김토스님은 앞으로 / 체크카드·현금으로 써보세요' with grey sub-text '체크카드·현금(현금영수증)으로 쓰는 게 신용카드보다 세금 감면 혜택이 좋기 때문이에요.'; a centered rounded grey chip '소득 5,000만원 기준' with a small pencil edit icon; and a side-by-side comparison of two tall rounded vertical bars — a muted blue-grey bar labeled below '최대 공제 금액 300만원' and a taller bright Toss-blue bar labeled '내 공제 금액 2,250,000원' (the blue figure colored to match its bar); lower, a recommendation row reads '체크카드·현금 기준 2,500,000원 더 쓰면 돼요. 30% 공제' with a small green/teal '추천' tag and a tiny green receipt glyph. Foreground and props: only the hand and the phone, fingertips poised to scroll, signalling an authentic in-hand demo. Lighting setup: soft warm frontal-ambient around 3000K on the hand and bezel while the screen self-illuminates a cool light-grey; moderate fill at about a 2:1 ratio, soft shadows, mid-key low contrast, no blown highlights; faint glass glare and natural fingertip skin texture with a small nail highlight are visible. Lens, framing and camera angle: a near-locked handheld close shot at roughly a 50mm-equivalent, eye level, the screen square to camera, the device enlarged and centered with the caption band fixed at lower-center. Composition and grid: a loose center grid, the two result bars sitting in the visual middle as the focal payoff. Color palette and strategy: a split warm-cool complementary scheme — warm bokeh amber #c98a4a around a cool light-grey UI #eef1f4, with dark UI text #1b1d1f, a Toss-blue #3182f6 data/brand accent on the 'my deduction' bar and figures, and a teal-green #2ac1bc recommendation accent on the 추천 tag (accent about 15% of the frame). Texture and surfaces: clear smooth cover glass with a faint anti-glare sheen, natural skin with fine detail, a hint of polished metal frame, and soft out-of-focus wood grain behind. Atmosphere: clean and calm with warm bokeh, a subtle screen reflection and a thin specular streak, no haze and no film grain. Post and signature look: clean digital, warm grade, accurate device colors, ordinary handheld micro-motion only — no lenticular or 3D parallax effect. Overlay, preserved verbatim as on-screen graphics: across the lower-center a white torn-paper / masking-tape caption lozenge reading '내 소득과 소비를 계산해' with key words in Toss-blue, and a small circled blue badge with the numeral '5' at its upper-left. All on-screen Korean strings, figures and captions are preserved verbatim as in the original (the username '김토스' and all amounts are illustrative demo data normally finalized in post). Style anchor: a clean 4K vertical real-device data-result demo aesthetic, authentic in-hand feel, Korean fintech results-screen look.",
+        "t2i_negative": "real third-party brand logos, watermark, second hand, extra or deformed fingers, distorted chart bars, warped Korean text, harsh specular blowout, low-key gloom, heavy grain, oversaturation",
+        "i2v_motion": "Near-locked handheld (already pushed-in) with breathing-level drift; the content reveals as the app finishes calculating — the two-bar deduction chart settles, the user scrolls down through the recommendation rows and spending breakdown, then taps the '연금 세액공제' tab to switch to the pension screen where an estimated-credit figure and a blue progress bar render and the 'contribute X more' guidance appears; native scroll and tab-switch UI motion play on screen; slight motion blur on scrolls; the lower-center torn-paper caption swaps through the step-5, no-badge benefit, step-6 and caveat lines; ~22.8s, steady reveal rhythm, ending on a hard cut to a live-action presenter outro. Calm, deliberate, minimal camera movement.",
+        "i2v_params": {
+          "clip_duration_sec": 22.76,
+          "camera_move": "locked_off",
+          "subject_motion_level": "micro",
+          "signature_effect": "none",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen UI copy, figures and captions preserved verbatim (per copywriting); no real third-party logo marks; demo data and username illustrative"
+      }
+    },
+    {
+      "index": 4,
+      "duration": 6.13,
+      "framing": "MS",
+      "function": "outro / series sign-off — presenter close",
+      "color_mood": "warm, cozy office-cafe (matches intro)",
+      "subject_action": "The same presenter leans against the office counter holding the phone, looks down at it with a warm smile, and delivers the closing line; the camera slowly widens.",
+      "subject_identity": "protagonist_main",
+      "subject_relationship_to_protagonist": "main_character",
+      "mid_frame_path": "ADV-2026-028_frames/cut04_mid.png",
+      "layout_grid": "center",
+      "subject_position": "center / right_third",
+      "subject_typo_layout": "two-line marker-highlighted title box at lower-center over the scene",
+      "typo_motion": "outro caption pops on and holds statically through the close (no kinetic travel)",
+      "camera_angle": "eye_level",
+      "camera_facing": "three_quarter front",
+      "shot_scope": "waist_up to full_body (widens)",
+      "gaze": "down (at phone)",
+      "eye_contact_effect": "no direct address; warm, satisfied closing beat",
+      "props": [
+        "smartphone",
+        "lanyard ID badge with Toss mascot",
+        "laptop and stationery on counter (background)"
+      ],
+      "prop_semantics": "phone-in-hand bookends the demo; relaxed pose signals the task is easily done",
+      "color_palette": [
+        "#9a6b3f",
+        "#4d5a3a",
+        "#d8cdbf",
+        "#2f3a44"
+      ],
+      "color_intent": "warm wood/amber environment with olive-green sweater anchor; Toss-blue caption box and yellow circle accent are the only saturated graphics",
+      "pose_description": "casual lean with both hands on the phone, gentle smile; friendly, conclusive",
+      "subject_motion": "near-static lean with small natural head/hand motion",
+      "prop_motion": "phone held; minor adjustment",
+      "camera_motion": "handheld with slow widen / drift",
+      "camera_motion_intensity": "low",
+      "camera_effect_local": "none",
+      "motion_blur": "minimal",
+      "intra_cut_rhythm": "steady",
+      "transition_in": "hard cut from the phone demo",
+      "transition_out": "cut to black / end",
+      "vfx_in_shot": [
+        "outro title caption box",
+        "yellow circle on keyword 꿀기능"
+      ],
+      "vfx_intensity_local": "subtle",
+      "fact_check_flag": "none",
+      "notes": "Outro caption '토스의 숨은 꿀기능 다시 찾아올게요!' with 꿀기능 circled in yellow; VO differs ('한 해를 마무리하는 연말정산 사전점검 / 토스로 똑똑하게 준비하세요'). Lanyard badge shows a Toss mascot character. Camera widens to reveal frosted-glass partition at left.",
+      "visible_elements": {
+        "foreground": [
+          "presenter in olive-green knit sweater and light-blue jeans",
+          "smartphone in both hands",
+          "lanyard ID badge with mascot"
+        ],
+        "midground": [
+          "wood-topped counter with laptop, books, colorful stationery holders, scissors, tissue box"
+        ],
+        "background": [
+          "pale upper cabinets",
+          "wood-slat ceiling beams",
+          "frosted-glass partition at left edge"
+        ],
+        "lighting_env": [
+          "overhead warm ceiling downlights",
+          "soft ambient fill"
+        ],
+        "atmosphere": [
+          "shallow-depth bokeh",
+          "warm cozy interior glow"
+        ]
+      },
+      "texture": {
+        "primary_subject": "fabric_cotton",
+        "secondary_objects": [
+          "wood_polished",
+          "glass_frosted",
+          "plastic_glossy"
+        ],
+        "background_surface": "wood_polished",
+        "atmospheric": [
+          "atmospheric_haze"
+        ]
+      },
+      "lighting": {
+        "key_direction": "top",
+        "key_hardness": "soft",
+        "key_color_temp": "warm_3000K",
+        "fill_strength": "moderate",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": false,
+        "practical_lights": [
+          "천장 다운라이트"
+        ],
+        "shadow_presence": "soft",
+        "overall_contrast": "mid_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#9a6b3f",
+          "#4d5a3a",
+          "#d8cdbf",
+          "#2f3a44",
+          "#3182f6"
+        ],
+        "palette_role": {
+          "#9a6b3f": "background_warm_wood",
+          "#4d5a3a": "subject_sweater_anchor",
+          "#d8cdbf": "wall_cabinet_neutral",
+          "#2f3a44": "shadow_dark_anchor",
+          "#3182f6": "caption_brand_accent"
+        },
+        "color_relationship": "analogous",
+        "temperature_balance": "warm_dominant",
+        "saturation_strategy": "muted_with_pop",
+        "contrast_type": "luminance_low",
+        "accent_color": "#3182f6",
+        "accent_ratio": "15_percent",
+        "brand_color_match": [
+          "Toss blue ~#3182F6 in caption box"
+        ]
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "Photorealistic vertical 9:16 commercial still of a Korean woman in her mid-to-late twenties leaning casually against a wood-topped counter inside a warm modern office lounge, seen roughly waist-up to three-quarter body. Subject and pose: she holds a smartphone in both hands at chest height and glances down at it with a relaxed, satisfied closing smile, her shoulders loose and one hip resting against the counter edge, weight settled onto the counter — a conclusive, easy-going beat that says the task is simply done; body angled three-quarters to camera, head tipped gently down. Wardrobe and material: a relaxed oversized olive-green ribbed-knit crewneck sweater with a soft fuzzy matte cotton/wool surface and chunky rib at cuffs and collar, light-blue straight-leg jeans in soft worn denim, and a thin white lanyard holding a clear plastic ID-badge holder that carries a small generic rounded mascot illustration (no real logo). Location and set: the same space as the intro — pale matte upper cabinets and honey-wood slat ceiling beams behind her, a frosted translucent-glass partition at the left edge, and the wood counter cluttered with a laptop, a few stacked books, colorful office stationery standing in holders, scissors and a white tissue box; the whole background is softly out of focus in creamy warm bokeh. Foreground and props: the smartphone in her hands bookends the demo, the lanyard frames her as a real staffer. Lighting setup: soft and warm around 3000K with a gentle broad top key from overhead practical downlights grazing her hair and shoulders and moderate ambient bounce filling the shadow side at about a 2:1 key-to-fill ratio, no hard rim, soft short shadows under the chin, mid-key low contrast, inviting and clean with no clipped highlights. Lens, framing and camera angle: a handheld documentary medium shot at roughly a 35mm-equivalent field of view, eye level, the subject placed centered-to-right-third with generous warm negative space on the opposite side, moderate-to-shallow depth of field keeping her crisp while the room dissolves behind; the frame is in the act of slowly widening to reveal more of the lounge and the glass partition. Composition and grid: a loose center grid with the figure offset, the caption reserved at lower-center. Color palette and strategy: analogous and warm-dominant — amber wood #9a6b3f as the environmental ground, the muted olive sweater #4d5a3a as the subject anchor, neutral cabinet beige #d8cdbf as the mid-tone bridge, a dark #2f3a44 as the shadow anchor, and a single saturated Toss-blue #3182f6 accent reserved for the on-screen caption box (about 15% of the frame). Texture and surfaces: soft fuzzy cotton/wool knit, polished honey wood, frosted glass at the edge, glossy plastic stationery, and natural lightly-retouched skin. Atmosphere: a clean cozy interior with shallow-depth haze, a soft warm ambient glow, minimal motion blur, no smoke and no film grain. Post and signature look: clean digital, warm grade, mid-key, slightly lifted shadows, true-to-life skin, ordinary handheld micro-motion only — no lenticular or 3D parallax effect. Overlay, preserved verbatim as on-screen graphics: a two-line marker-highlighted blue title box at lower-center reading '토스의 숨은 꿀기능' on the first line and '다시 찾아올게요!' on the second, with the word '꿀기능' encircled by a hand-drawn yellow ellipse; this caption is normally finalized in post but is preserved here for fidelity. Style anchor: a clean 4K vertical Korean social-commercial documentary aesthetic, warm and friendly, conclusive sign-off mood, Korean fintech brand-film look.",
+        "t2i_negative": "real brand logos or wordmarks, watermark, text other than the specified caption, second person, extra fingers, deformed hands, distorted face, harsh shadows, low-key gloom, heavy film grain, oversaturation",
+        "i2v_motion": "Handheld documentary motion: the subject holds a relaxed lean against the counter with both hands on the phone, looking down with a warm smile and small natural head/hand motion (breathing-level), as the camera drifts gently and slowly widens to reveal more of the warm office and the frosted-glass partition at the left; shallow depth keeps the background in creamy bokeh; minimal motion blur; the lower-center marker-highlighted outro caption holds statically the whole time; ~6.1s, steady rhythm, ending on a clean cut to black. Warm, candid, conclusive, no large camera moves.",
+        "i2v_params": {
+          "clip_duration_sec": 6.13,
+          "camera_move": "handheld_slow_widen",
+          "subject_motion_level": "micro",
+          "signature_effect": "none",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen copy preserved verbatim (per copywriting); presenter face-likeness & any brand logo mark generic"
+      }
+    }
+  ],
+  "search_keywords": {
+    "industry": [
+      "finance",
+      "it_saas"
+    ],
+    "product_category": [
+      "mobile_banking",
+      "tax_settlement",
+      "personal_finance_app"
+    ],
+    "target_demo": [
+      "late20s_early30s",
+      "30s",
+      "office_worker",
+      "mz"
+    ],
+    "media_format": [
+      "shortform_vertical_30s_plus"
+    ],
+    "tone": [
+      "friendly",
+      "clean_minimal",
+      "calm_refined"
+    ],
+    "pacing": [
+      "steady"
+    ],
+    "technique": [
+      "screen_recording_demo",
+      "presenter_walk_intro",
+      "ui_motion",
+      "step_by_step_caption",
+      "real_device_handheld_demo",
+      "kinetic_typo",
+      "mascot_character"
+    ],
+    "vfx_keywords": [
+      "ui_motion",
+      "kinetic_typo",
+      "torn_paper_caption",
+      "step_number_badge",
+      "color_pop"
+    ],
+    "copy_strategy_keywords": [
+      "feature_benefit_direct",
+      "step_by_step_tutorial",
+      "voice_caption_sync",
+      "seasonal_hook",
+      "number_emphasis",
+      "series_signoff"
+    ],
+    "concept_derivation_pattern": [
+      "employee_guided_feature_tutorial",
+      "hidden_tip_series"
+    ]
+  },
+  "inferred_creative_thinking": {
+    "insight": "Year-end tax settlement feels opaque and last-minute; many salaried workers don't realize they can still change spending/contributions before the deadline to enlarge their refund, and don't know the tool to check it lives inside an app they already have.",
+    "persona": "A late-20s/30s Korean office worker (salaried, files 연말정산) who wants a bigger refund but finds tax rules confusing and procrastinates.",
+    "moment": "Late in the year, wondering 'how much more should I spend / contribute to maximize my tax refund?' before it's too late.",
+    "product_role": "Toss is the friendly, already-installed tool that pre-checks the year-end tax outcome and gives concrete 'spend/contribute X more' guidance, turning a vague worry into an actionable number.",
+    "punchline": "Don't guess your year-end tax — let Toss pre-check exactly how much more to spend or save to max out your refund.",
+    "differentiator": "An insider Toss staffer walks you through a lesser-known in-app feature on a real phone, step by step, with the voiceover and torn-paper captions perfectly in sync — practical and trustworthy rather than flashy.",
+    "brand_fit_one_liner": "Reinforces Toss as the simple, helpful super-app that quietly solves adult-life money chores.",
+    "confidence": "inferred"
+  },
+  "inferred_brief": "Make a short vertical social video for the '토스 숨은 서비스' series that teaches viewers how to use Toss's year-end-tax pre-check feature to estimate and maximize their refund, framed by a friendly Toss employee and kept easy to follow with step captions.",
+  "cross_pollination_tags": {
+    "adjacent": [
+      "insurance",
+      "card",
+      "subscription_membership",
+      "it_saas"
+    ],
+    "distant": [
+      "healthcare_pharma",
+      "education",
+      "automotive"
+    ],
+    "contrast": [
+      "luxury",
+      "beverage_alcohol",
+      "gaming_hardware"
+    ]
+  },
+  "concept_derivation_pattern": "employee_guided_feature_tutorial",
+  "confidence": "inferred",
+  "analyst_notes": "Format: live-action presenter intro (handheld) -> one continuous real-device handheld in-app demo with step-numbered torn-paper captions (badges 1-6) -> live-action outro sign-off; same female presenter ('Toss Onboarding Coordinator 최유정') narrates. shot_count_corrected=4: scenedetect returned 6 scenes but the boundaries at 30.397/34.868/40.874s are within one continuous demo take (status-bar clock advances continuously); I treated the gentle camera push-in at ~30.4s as the only internal shot boundary (medium-distance nav vs. closer results), giving intro / demo-nav / demo-results / outro. The 34.87 & 40.87 scenedetect hits and the 27.39 metrics cut_candidate are in-app caption/tab/page-transition changes, not camera cuts. Wiggle metric (mean_abs_shift_x 0.1447, sign_flips 0.244) is ordinary handheld micro-motion, NOT lenticular wiggle_3d. Captions contain a typo '사전전검' (for 사전점검) preserved verbatim; the app menu item itself reads correctly '연말정산 사전점검'. App uses placeholder username '김토스' and illustrative demo figures (preserved as on-screen text). Whisper (faster-whisper base, coverage 0.994) mis-recognized several finance terms, corrected against captions. No real third-party logo marks recreated; presenter rendered generic per copyright rules.",
+  "verification": {
+    "frames_reviewed": "~33 frames read at native 1080x1920 across all 6 scenedetect boundaries (+-1/2) and every distinct caption/app-screen state, plus dense sampling of intro, the full demo (home/전체/search/salary/consent/loading/card-result/pension-result), the disclaimer and outro; one caption crop (f000540) zoomed to confirm the '사전전검' typo; cross-checked against 100% per-frame metrics (diff/text_delta channels) to target every flagged caption swap and screen change; audio cross-checked line-by-line vs captions.",
+    "audio_analyzed": true,
+    "abstraction_checked": true
+  }
+}

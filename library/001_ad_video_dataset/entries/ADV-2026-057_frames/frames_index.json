@@ -1,0 +1,117 @@
+{
+  "id": "ADV-2026-057",
+  "cuts": [
+    {
+      "cut": 1,
+      "start": 0.0,
+      "end": 7.52,
+      "mid_time": 3.76,
+      "file": "cut01_mid.png"
+    },
+    {
+      "cut": 2,
+      "start": 7.52,
+      "end": 8.16,
+      "mid_time": 7.84,
+      "file": "cut02_mid.png"
+    },
+    {
+      "cut": 3,
+      "start": 8.16,
+      "end": 12.04,
+      "mid_time": 10.1,
+      "file": "cut03_mid.png"
+    },
+    {
+      "cut": 4,
+      "start": 12.04,
+      "end": 15.52,
+      "mid_time": 13.78,
+      "file": "cut04_mid.png"
+    },
+    {
+      "cut": 5,
+      "start": 15.52,
+      "end": 18.6,
+      "mid_time": 17.06,
+      "file": "cut05_mid.png"
+    },
+    {
+      "cut": 6,
+      "start": 18.6,
+      "end": 20.84,
+      "mid_time": 19.72,
+      "file": "cut06_mid.png"
+    },
+    {
+      "cut": 7,
+      "start": 20.84,
+      "end": 23.36,
+      "mid_time": 22.1,
+      "file": "cut07_mid.png"
+    },
+    {
+      "cut": 8,
+      "start": 23.36,
+      "end": 24.0,
+      "mid_time": 23.68,
+      "file": "cut08_mid.png"
+    },
+    {
+      "cut": 9,
+      "start": 24.0,
+      "end": 25.28,
+      "mid_time": 24.64,
+      "file": "cut09_mid.png"
+    },
+    {
+      "cut": 10,
+      "start": 25.28,
+      "end": 26.04,
+      "mid_time": 25.66,
+      "file": "cut10_mid.png"
+    },
+    {
+      "cut": 11,
+      "start": 26.04,
+      "end": 26.64,
+      "mid_time": 26.34,
+      "file": "cut11_mid.png"
+    },
+    {
+      "cut": 12,
+      "start": 26.64,
+      "end": 27.4,
+      "mid_time": 27.02,
+      "file": "cut12_mid.png"
+    },
+    {
+      "cut": 13,
+      "start": 27.4,
+      "end": 28.08,
+      "mid_time": 27.74,
+      "file": "cut13_mid.png"
+    },
+    {
+      "cut": 14,
+      "start": 28.08,
+      "end": 29.24,
+      "mid_time": 28.66,
+      "file": "cut14_mid.png"
+    },
+    {
+      "cut": 15,
+      "start": 29.24,
+      "end": 32.32,
+      "mid_time": 30.78,
+      "file": "cut15_mid.png"
+    },
+    {
+      "cut": 16,
+      "start": 32.32,
+      "end": 34.007,
+      "mid_time": 33.163,
+      "file": "cut16_mid.png"
+    }
+  ]
+}

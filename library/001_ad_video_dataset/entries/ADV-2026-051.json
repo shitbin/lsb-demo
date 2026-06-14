@@ -1,0 +1,2804 @@
+{
+  "id": "ADV-2026-051",
+  "source_ref": {
+    "platform": "digital_video",
+    "title_or_campaign": "The Kia EV Multiverse — 류승룡 EV9편",
+    "brand": "기아 (Kia)",
+    "product": "기아 전기차 (Kia EV 라인업)",
+    "model": "EV9",
+    "year": 2024,
+    "production_note": "기아 EV9 제품/브랜드 필름, 배우 류승룡 출연 ('The Kia EV Multiverse' 캠페인). 공식 채널: Kia Korea/기아. 참고 링크 youtube watch?v=lEYhjUB64JM (링크_4선.md).",
+    "url": "https://www.youtube.com/watch?v=lEYhjUB64JM"
+  },
+  "category_primary": "auto.ev",
+  "category_tags": [
+    "전기차",
+    "대형SUV",
+    "EV9",
+    "모빌리티",
+    "브랜드필름",
+    "셀럽광고",
+    "코미디"
+  ],
+  "mood": [
+    "aspirational",
+    "comedic",
+    "warm",
+    "premium",
+    "witty"
+  ],
+  "target_demo": "30대 후~50대 프리미엄 전기 SUV 구매층(패밀리/임원·전문직), 브랜드 호감 형성 대상 폭넓은 일반 시청자",
+  "total_duration": 102.795,
+  "shot_count": 18,
+  "shot_count_corrected": 18,
+  "fps": 23.976,
+  "aspect_ratio": "16:9",
+  "hook_position": 0.0,
+  "cta_position": 97.85,
+  "narrative_arc": "도시 스카이라인 타이틀(인식) → EV9 주행·디테일 히어로컷 위로 '성공이란 무엇인가' 프리미엄 내레이션(공감) → 중년 임원 주인공이 회사에서 존경받는 자기 이미지(설정) → 엄마(여봉봉) 영상통화·잔소리로 반복 디플레이션되는 코미디(반전) → '상무이사 류승룡' 명패 자랑·기울어진 백일몽(클라이맥스) → 현실 EV9 주행+커넥티드콜 기능 소구(해결) → 'EV9 타고 신났지?' 펀치라인 + 스카이라인 히어로 + 'For Every Life The Kia EV' / 'Movement that inspires' 라인업 브랜드 마무리(신뢰)",
+  "narrative_structure": "cross_cutting_montage",
+  "pacing_curve": "steady",
+  "music_tempo_curve": "steady",
+  "wow_cut_index": [
+    9,
+    14,
+    15
+  ],
+  "creative_device": "premium_voiceover_vs_mundane_comedy + celeb_self_parody + product_hero_intercut",
+  "production_signature": {
+    "capture_style": "live_action",
+    "camera_signature": [
+      "dolly_heavy",
+      "handheld_shake",
+      "locked_off"
+    ],
+    "signature_note": "고급 실사 시네마틱 촬영. 다수의 저각·트래킹 주행 히어로컷(dolly/car-mount)과 핸드헬드 드라마 컷, locked-off 인테리어/오피스 컷이 혼재. metrics wiggle mean_abs_shift_x=1.55·sign_flips=0.15는 다수의 빠른 주행/트래킹 컷에서 기인한 것으로 판단; 정적 컷(f289 vs f292) 육안 확인 결과 좌우 시점 진동(wiggle_3d/lenticular)은 없음 — 순수 wiggle_3d 시그니처 부재. cut15는 의도적 90도 회전 프레이밍(백일몽).",
+    "color_grade": "cool",
+    "texture_fx": "clean_digital"
+  },
+  "global_layout": {
+    "grid_system": "rule_of_thirds",
+    "subject_placement_dominant": "varies",
+    "subject_typo_relation": "typo_separate_zone",
+    "negative_space_use": "generous",
+    "layout_note": "하단 중앙 흰 자막(내레이션·대사 싱크)이 일관 레이아웃. 제품 히어로컷은 와이드 시네마스코프 느낌의 여백, 모델명/타이포는 화면 위 대형 그래픽(numeral 9). 인물 드라마 컷은 rule-of-thirds·로우키. 브랜드 마무리는 중앙 대칭(로고 라인업)."
+  },
+  "recurring_motifs": [
+    "sage-grey-green EV9",
+    "vertical stacked LED light signature",
+    "흰 하단 자막",
+    "엄마 '여봉봉' 전화",
+    "임원 명패/사무실",
+    "도시 스카이라인·골든아워 주행"
+  ],
+  "copywriting": {
+    "tagline_text": "For Every Life\nThe Kia EV",
+    "tagline_structure": "영문 브랜드 슬로건 + 제품 라인 명칭",
+    "tagline_length_syllables": 0,
+    "tagline_position_sec": 97.85,
+    "cta_text": "Movement that inspires",
+    "cta_text_structure": "영문 브랜드 슬로건",
+    "cta_position_sec": 100.0,
+    "copy_tone": [
+      "premium",
+      "witty",
+      "warm",
+      "aspirational"
+    ],
+    "copy_strategy": "premium_voiceover_undercut_by_comedy",
+    "copy_lines_count": 13,
+    "lines": [
+      {
+        "position_sec": 12.3,
+        "text": "성공이란 비단",
+        "function": "vo_theme",
+        "tone": "premium",
+        "source": "both"
+      },
+      {
+        "position_sec": 15.8,
+        "text": "물질적인 성취에만",
+        "function": "vo_theme",
+        "tone": "premium",
+        "source": "both"
+      },
+      {
+        "position_sec": 17.3,
+        "text": "국한되는 개념이 아닐 겁니다.",
+        "function": "vo_theme",
+        "tone": "premium",
+        "source": "both"
+      },
+      {
+        "position_sec": 20.9,
+        "text": "상무님 안녕하세요",
+        "function": "dialogue",
+        "tone": "friendly",
+        "source": "both"
+      },
+      {
+        "position_sec": 23.0,
+        "text": "어 김대리, 머리 했네?",
+        "function": "dialogue_comedy",
+        "tone": "witty",
+        "source": "both"
+      },
+      {
+        "position_sec": 25.7,
+        "text": "위에서 봐~",
+        "function": "dialogue",
+        "tone": "friendly",
+        "source": "both"
+      },
+      {
+        "position_sec": 27.3,
+        "text": "후배들의 존경과 여유로운 태도",
+        "function": "vo_theme",
+        "tone": "premium",
+        "source": "both"
+      },
+      {
+        "position_sec": 31.0,
+        "text": "그리고 빛나는 존재감으로 완성되죠.",
+        "function": "vo_theme",
+        "tone": "premium",
+        "source": "both"
+      },
+      {
+        "position_sec": 43.0,
+        "text": "자동이체 해놓으라니까!",
+        "function": "dialogue_comedy",
+        "tone": "exasperated",
+        "source": "both"
+      },
+      {
+        "position_sec": 44.5,
+        "text": "예은이 학원비",
+        "function": "dialogue_comedy",
+        "tone": "exasperated",
+        "source": "both"
+      },
+      {
+        "position_sec": 45.4,
+        "text": "아 이제 그건 말씀이시군요",
+        "function": "dialogue_comedy",
+        "tone": "witty",
+        "source": "both"
+      },
+      {
+        "position_sec": 49.9,
+        "text": "그거 주말에 고치라고 했어 안 했어?",
+        "function": "dialogue_comedy",
+        "tone": "exasperated",
+        "source": "both"
+      },
+      {
+        "position_sec": 51.7,
+        "text": "내가 이따 전화 다시 할게",
+        "function": "dialogue_comedy",
+        "tone": "witty",
+        "source": "both"
+      },
+      {
+        "position_sec": 61.6,
+        "text": "어 알았어~",
+        "function": "dialogue",
+        "tone": "casual",
+        "source": "both"
+      },
+      {
+        "position_sec": 69.2,
+        "text": "상무 류승룡...!",
+        "function": "dialogue_comedy",
+        "tone": "proud_comic",
+        "source": "both"
+      },
+      {
+        "position_sec": 74.9,
+        "text": "하...이거지...",
+        "function": "dialogue_comedy",
+        "tone": "blissful_comic",
+        "source": "both"
+      },
+      {
+        "position_sec": 82.0,
+        "text": "부드러워~",
+        "function": "dialogue_feature",
+        "tone": "satisfied",
+        "source": "both"
+      },
+      {
+        "position_sec": 89.2,
+        "text": "너 또 까먹었지?",
+        "function": "dialogue_comedy",
+        "tone": "teasing",
+        "source": "both"
+      },
+      {
+        "position_sec": 89.9,
+        "text": "아 맞다!",
+        "function": "dialogue_comedy",
+        "tone": "surprised",
+        "source": "both"
+      },
+      {
+        "position_sec": 91.8,
+        "text": "아주 상무 됐다고 EV9 타고 신났지?",
+        "function": "punchline",
+        "tone": "teasing",
+        "source": "both"
+      },
+      {
+        "position_sec": 97.85,
+        "text": "For Every Life The Kia EV",
+        "function": "brand_tagline",
+        "tone": "premium",
+        "source": "caption"
+      },
+      {
+        "position_sec": 100.0,
+        "text": "Movement that inspires",
+        "function": "brand_cta",
+        "tone": "premium",
+        "source": "caption"
+      }
+    ],
+    "captions": [
+      {
+        "position_sec": 2.0,
+        "text": "The Kia EV MULTIVERSE",
+        "function": "title"
+      },
+      {
+        "position_sec": 5.8,
+        "text": "The Kia EV 9",
+        "function": "model_reveal"
+      },
+      {
+        "position_sec": 37.0,
+        "text": "♥여봉봉♥",
+        "function": "phone_contact_name"
+      },
+      {
+        "position_sec": 69.2,
+        "text": "상무이사 류승룡",
+        "function": "nameplate_prop"
+      },
+      {
+        "position_sec": 85.0,
+        "text": "전화 수신 대기 중입니다. / ♥여봉봉♥ / 010-1234-5678 / 수신 / 종료 / 류상무 / EV Multiverse / Kia / 2:35 PM",
+        "function": "in_car_call_ui"
+      }
+    ],
+    "narration_handling": "excerpt_only"
+  },
+  "typography": {
+    "primary_font_class": "sans_serif_bold",
+    "secondary_font_class": "sans_serif_light",
+    "animation_style": [
+      "fade_in",
+      "slide",
+      "static",
+      "scale_in"
+    ],
+    "subtitle_position_dominant": "center",
+    "tagline_position": "upper_left",
+    "color_strategy": "white_on_image",
+    "appearance_count": 24,
+    "key_typography_moments_sec": [
+      2.0,
+      5.8,
+      12.3,
+      69.2,
+      82.0,
+      91.8,
+      97.85,
+      100.0
+    ],
+    "typo_motion_dominant": "fade_in"
+  },
+  "vfx": {
+    "primary_effects": [
+      "ui_motion",
+      "lens_flare",
+      "kinetic_typo"
+    ],
+    "effect_intensity": "moderate",
+    "transition_style_dominant": "cut",
+    "vfx_event_count": 6,
+    "vfx_timing_array_sec": [
+      5.8,
+      37.0,
+      69.2,
+      85.0,
+      97.85,
+      100.0
+    ],
+    "wow_vfx_index": [
+      2,
+      9,
+      16
+    ]
+  },
+  "audio": {
+    "has_audio": true,
+    "language": "ko",
+    "speech_coverage": 0.855,
+    "bgm_likely": true,
+    "narration_lines": [
+      {
+        "start": 12.3,
+        "end": 17.3,
+        "text": "성공이란 비단 물질적인 성취에만 국한되는 개념이 아닐 겁니다.",
+        "text_raw": "성공이라는 비단 물질적인 성체만 국한대는 개념이 아닐겁니다",
+        "kind": "narration",
+        "source": "both"
+      },
+      {
+        "start": 20.9,
+        "end": 25.7,
+        "text": "상무님 안녕하세요 / 어 김대리, 머리 했네? / 위에서 봐~",
+        "text_raw": "안녕하세요 / 어 흔들리! 머리였네? / 어 위에서 봐",
+        "kind": "dialogue",
+        "source": "both"
+      },
+      {
+        "start": 27.3,
+        "end": 33.84,
+        "text": "후배들의 존경과 여유로운 태도 그리고 빛나는 존재감으로 완성되죠.",
+        "text_raw": "두 배들의 존경과 열론 태도 그리고 빛나는 존재감으로 완성라죠",
+        "kind": "narration",
+        "source": "both"
+      },
+      {
+        "start": 41.1,
+        "end": 52.1,
+        "text": "아 예, 전화 받았습니다 / 자동이체 해놓으라니까! / 예은이 학원비 / 아 이제 그건 말씀이시군요 / 그거 주말에 고치라고 했어 안 했어? / 내가 이따 전화 다시 할게",
+        "text_raw": "아 예, 전화 받았습니다 / 자존이 제 해놀으니까 / 아, 이 책을 말씀이시군요 / 아, 내가 일단 전화 다시 할게요",
+        "kind": "dialogue",
+        "source": "both"
+      },
+      {
+        "start": 69.19,
+        "end": 78.7,
+        "text": "상무 류승룡...! / 하...이거지...",
+        "text_raw": "상모데돈이 어깨에",
+        "kind": "dialogue",
+        "source": "both"
+      },
+      {
+        "start": 82.0,
+        "end": 91.8,
+        "text": "부드러워~ / 너 또 까먹었지? / 아 맞다! / 아주 상무 됐다고 EV9 타고 신났지?",
+        "text_raw": "날씨도 부드럽고 / 아, 진짜? / 네",
+        "kind": "dialogue",
+        "source": "both"
+      },
+      {
+        "start": 92.98,
+        "end": 101.98,
+        "text": "모든 설명을 (담은) 이브이가 있다 / 파워풀 라이브 / 더 기아 이브이 / 기아 / 무비도 인스파이어",
+        "text_raw": "모든 설명을 낸 이브이가 있다 / 포웨블 라이브 / 더기하 이브이 / 게야 / 뮤비도 인스파이스",
+        "kind": "vo_outro",
+        "source": "voice"
+      }
+    ],
+    "voice_vs_caption": "voice_and_caption_synced",
+    "narration_handling": "excerpt_only",
+    "transcribed_by": "faster_whisper",
+    "audio_note": "faster-whisper base. speech_coverage 0.855 (대사·내레이션 밀집). text_raw는 미보정 Whisper(오인식 다수: '여봉봉'→인식불가, '어 김대리'→'어 흔들리', 'EV9'→'어깨에' 등) — 화면 자막과 대조해 text를 보정. BGM은 모던·미니멀 스타일로 존재 추정(bgm_likely true). 아웃트로 VO에 'The Kia EV / 기아 / Movement that inspires(뮤비도 인스파이어)' 브랜드 사인오프 포함."
+  },
+  "frames_dir": "ADV-2026-051_frames",
+  "contact_sheet_path": "ADV-2026-051_frames/contact_sheet.png",
+  "shots": [
+    {
+      "index": 1,
+      "duration": 4.96,
+      "framing": "EWS",
+      "function": "brand_hook_title",
+      "subject_action": "aerial drone glide down a canyon of mirror-glass skyscrapers in a metropolitan skyline with a sun-flare burst; centered white title animates: small 'The Kia' above bold 'EV MULTIVERSE'; cuts to a closer glass-facade reflecting the road below",
+      "layout_grid": "center",
+      "subject_position": "center",
+      "subject_identity": "none_environment",
+      "subject_relationship_to_protagonist": null,
+      "mid_frame_path": "ADV-2026-051_frames/cut01_mid.png",
+      "subject_typo_layout": "typo_only_no_person",
+      "typo_motion": "'The Kia / EV MULTIVERSE' title fades/holds centered over the skyline (f1-f80) then drops out as the camera pushes into a glass facade (~f80-f119)",
+      "camera_angle": "high_angle",
+      "camera_facing": "frontal",
+      "shot_scope": "environment",
+      "gaze": "none",
+      "eye_contact_effect": null,
+      "props": [
+        "glass skyscrapers",
+        "city road far below"
+      ],
+      "prop_semantics": "corporate-skyline backdrop establishes an aspirational urban world ('multiverse')",
+      "color_palette": [
+        "#2b3645",
+        "#44525f",
+        "#6f8190",
+        "#f3ead2",
+        "#ffffff"
+      ],
+      "color_intent": "cool steel-blue glass dominant with a single warm sun-flare pop and white title for premium aspirational tone",
+      "pose_description": "no person; architecture as subject, title as central anchor over the canyon of towers",
+      "subject_motion": "static_architecture",
+      "prop_motion": "none",
+      "camera_motion": "aerial_drift_descend",
+      "camera_motion_intensity": "moderate",
+      "camera_effect_local": "lens_flare",
+      "motion_blur": false,
+      "intra_cut_rhythm": "steady",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [
+        "lens_flare"
+      ],
+      "vfx_intensity_local": "subtle",
+      "fact_check_flag": null,
+      "notes": "Cut1 (sc1-4, f1-f119, 0.0-4.96s): aerial Seoul-like skyline, sun flare upper-right; white title 'The Kia / EV MULTIVERSE'; then glass facade reflecting road. Establishes the 'EV Multiverse' concept.",
+      "visible_elements": {
+        "foreground": [
+          "mirror-glass curtain-wall towers framing left and right"
+        ],
+        "midground": [
+          "angular glass tower crown catching sun flare"
+        ],
+        "background": [
+          "distant mountain ridge",
+          "hazy sky",
+          "sliver of multi-lane road far below"
+        ],
+        "lighting_env": [
+          "hard midday sun upper-right",
+          "specular flare off glass"
+        ],
+        "atmosphere": [
+          "clear bright urban air",
+          "thin distant haze",
+          "backlit flare glow"
+        ]
+      },
+      "texture": {
+        "primary_subject": "glass_clear",
+        "secondary_objects": [
+          "metal_brushed",
+          "glass_tinted"
+        ],
+        "background_surface": "atmospheric_haze",
+        "atmospheric": [
+          "lens_flare_bloom"
+        ]
+      },
+      "lighting": {
+        "key_direction": "45deg_above",
+        "key_hardness": "hard",
+        "key_color_temp": "cool_7000K",
+        "fill_strength": "minimal",
+        "key_to_fill_ratio": "8:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "deep",
+        "overall_contrast": "high_contrast"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#2b3645",
+          "#44525f",
+          "#6f8190",
+          "#f3ead2",
+          "#ffffff"
+        ],
+        "palette_role": {
+          "#2b3645": "glass_shadow_dominant",
+          "#44525f": "midtone_glass",
+          "#6f8190": "sky_glass_reflection",
+          "#f3ead2": "sun_flare_warm_accent",
+          "#ffffff": "title_white"
+        },
+        "color_relationship": "monochrome",
+        "temperature_balance": "cool_dominant",
+        "saturation_strategy": "desaturated_with_pop",
+        "contrast_type": "luminance_high",
+        "accent_color": "#f3ead2",
+        "accent_ratio": "5_percent"
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A cinematic aerial drone establishing frame rendered at 1920x1080 pixels, 16:9 landscape, looking down a tight canyon of mirror-glass corporate skyscrapers in a modern Asian metropolis at clear midday. The composition is a near-vertical downward-tilted aerial view: tall reflective curtain-wall office towers rise on both the left and right edges of the frame, their blue-tinted and bronze-tinted glass facades catching a bright sun-flare burst at the upper-right where direct sunlight ricochets off one tower's slanted glass crown; far below, between the towers, a sliver of a multi-lane city road with tiny moving vehicles is visible in deep shadow, and a faint distant mountain ridge sits on the hazy horizon. The towers are dark steel-and-glass with crisp vertical mullion lines and rectilinear window grids; one foreground tower has an angular sculpted glass top that throws a hard specular highlight. Foreground and props: none in the literal sense — the architecture itself is the subject; the only graphic element is centered overlaid white typography. On-screen copy, preserved verbatim: a small lighter-weight line reading \"The Kia\" sits directly above a very large bold all-caps headline \"EV MULTIVERSE\", both in clean white sans-serif, horizontally centered and vertically centered in the frame, the headline spanning roughly 70 percent of frame width with confident tracking. Lighting setup: hard natural midday sun from the upper-right creating a strong directional key with a blown specular flare, deep cool shadows in the glass canyon, minimal fill, high dynamic range between the lit tower crowns and the shadowed street far below, color temperature mixed cool daylight around 6500K with a warm flare core. Lens / framing / camera angle: ultra-wide aerial drone look, high overhead-to-oblique angle tilted downward roughly 50 degrees, environment/extreme-wide scope, slow forward-and-down drone drift implied; deep depth of field with everything sharp. Composition / grid: strong vertical leading lines converging toward the shadowed street, rule-of-thirds with towers framing left and right thirds and the title occupying the central zone; generous architectural negative space. Color palette and strategy: cool-dominant steel blue and gunmetal grey glass (#2b3645, #44525f, #6f8190) with a warm white sun-flare accent (#f3ead2) at roughly 10 percent of frame and pure white typography (#ffffff); luminance-high contrast, desaturated corporate cool tone with a single warm flare pop; brand-neutral premium palette. Texture and surfaces: smooth reflective architectural glass, polished metal mullions, hazy atmospheric air between towers, faint lens-flare bloom and subtle anamorphic streak. Atmosphere: clear bright urban air with thin haze in the distance, intense backlit glow at the flare, a sense of corporate altitude and aspiration. Post / signature look: clean high-end commercial digital capture, gentle filmic contrast curve, slightly cool color grade, crisp 4K resolution, restrained grain, controlled flare bloom; live-action drone cinematography (no wiggle, locked smooth aerial movement). Style anchor: premium Korean automotive brand film opening title, cinematic aerial city establishing shot, hi-fi commercial color grade, aspirational corporate-skyline mood, Seoul metropolitan setting, confident white minimalist title typography over reflective skyscrapers. Additional craft and depth specification for faithful reproduction: the towers should show layered specular reflections of neighbouring buildings and sky within their glass skins, with subtle parallax between near and far towers as the drone glides; the sun-flare should bloom with concentric ring artifacts and a faint horizontal anamorphic streak typical of cine glass. The street far below should read as a thin bright slot of asphalt with micro-scale vehicles to establish vertiginous height. Wardrobe and human element: none — this is pure architecture and sky. The title typography is set in a clean modern grotesque sans-serif, optically centered, the upper supporting line at roughly one-quarter the cap-height of the headline, generous letter-tracking on the headline for a premium editorial feel, pure white with crisp anti-aliased edges and a near-imperceptible soft drop to keep it legible over the bright glass. The overall mood telegraphs corporate ambition and the promise of an expansive brand universe. Render at full ultra-high-definition fidelity with controlled highlight roll-off so the flare does not clip harshly, deep but detailed shadows retaining glass texture, and a restrained cool cinematic grade. Copyright-safe note for reproduction: keep all building signage blank and brand-neutral, render any logos as generic non-trademarked forms, and use generic glass-tower geometry rather than any identifiable real landmark; only the on-screen title copy is preserved verbatim.",
+        "t2i_negative": "real brand logos/marks, identifiable real landmark buildings, watermark, people, cartoon, oversaturated, heavy grain, text errors, lens dirt, low resolution",
+        "i2v_motion": "Slow cinematic aerial descent-and-forward glide down the glass canyon, sun flare drifting across the upper-right tower crown with subtle anamorphic streak; the centered white title 'The Kia / EV MULTIVERSE' holds then gently dissolves as the camera pushes toward a single glass facade; smooth drone movement, no wiggle. ~4.96s, steady, ends on cut.",
+        "i2v_params": {
+          "clip_duration_sec": 4.96,
+          "camera_move": "aerial_drift_descend",
+          "subject_motion_level": "still",
+          "signature_effect": "none",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; buildings generic non-landmark; logos generic; on-screen title preserved verbatim"
+      }
+    },
+    {
+      "index": 2,
+      "duration": 3.97,
+      "framing": "LS",
+      "function": "product_reveal",
+      "subject_action": "low road-level fast tracking of a large electric SUV driving on an elevated expressway; a giant white numeral '9' wipes across center as a model-name reveal with 'The Kia EV' beside it; low-angle wheel/side tracking",
+      "layout_grid": "center",
+      "subject_position": "left_third",
+      "subject_identity": "product_vehicle",
+      "subject_relationship_to_protagonist": "none_environment",
+      "mid_frame_path": "ADV-2026-051_frames/cut02_mid.png",
+      "subject_typo_layout": "typo_over_subject",
+      "typo_motion": "oversized white numeral '9' sweeps in as a kinetic wipe at center (~f139), 'The Kia EV' to its lower-left, revealing the model name over the moving car",
+      "camera_angle": "low_angle",
+      "camera_facing": "three_quarter",
+      "shot_scope": "environment",
+      "gaze": "none",
+      "eye_contact_effect": null,
+      "props": [
+        "electric SUV",
+        "expressway",
+        "guardrail"
+      ],
+      "prop_semantics": "the SUV is the hero product; low tracking conveys power and speed",
+      "color_palette": [
+        "#5a5e63",
+        "#7c857f",
+        "#fafafa",
+        "#3a3f44"
+      ],
+      "color_intent": "cool desaturated asphalt and steel with white LED/typography pop for kinetic premium energy",
+      "pose_description": "no person; the SUV in dynamic motion as the subject, numeral '9' as graphic overlay",
+      "subject_motion": "vehicle_driving_fast",
+      "prop_motion": "wheels spinning, body tracking forward",
+      "camera_motion": "fast_lateral_tracking",
+      "camera_motion_intensity": "high",
+      "camera_effect_local": "motion_blur_ground",
+      "motion_blur": true,
+      "intra_cut_rhythm": "accelerating",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [
+        "kinetic_typo"
+      ],
+      "vfx_intensity_local": "moderate",
+      "fact_check_flag": null,
+      "notes": "Cut2 (sc5, f120-f214, 4.96-8.93s): low road-level driving + huge '9' numeral reveal ('The Kia EV 9' = EV9) + low wheel/side tracking. High motion blur on ground.",
+      "visible_elements": {
+        "foreground": [
+          "motion-blurred grey asphalt",
+          "yellow lane line streaking"
+        ],
+        "midground": [
+          "sage-grey-green electric SUV with glowing vertical LED headlight, gloss-black wheels"
+        ],
+        "background": [
+          "guardrail and tunnel-like expressway structure in streaked blur"
+        ],
+        "lighting_env": [
+          "flat cool tunnel/overcast daylight"
+        ],
+        "atmosphere": [
+          "rushing speed",
+          "kinetic energy",
+          "faint tire-spray sheen"
+        ]
+      },
+      "texture": {
+        "primary_subject": "metallic",
+        "secondary_objects": [
+          "plastic_matte",
+          "glass_clear"
+        ],
+        "background_surface": "concrete",
+        "atmospheric": [
+          "motion_blur"
+        ]
+      },
+      "lighting": {
+        "key_direction": "front",
+        "key_hardness": "soft",
+        "key_color_temp": "cool_7000K",
+        "fill_strength": "moderate",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": false,
+        "practical_lights": [
+          "vehicle LED daytime-running lights"
+        ],
+        "shadow_presence": "minimal",
+        "overall_contrast": "mid_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#5a5e63",
+          "#7c857f",
+          "#fafafa",
+          "#3a3f44"
+        ],
+        "palette_role": {
+          "#5a5e63": "asphalt_dominant",
+          "#7c857f": "car_body_sage_grey",
+          "#fafafa": "led_and_typo_white",
+          "#3a3f44": "tunnel_shadow"
+        },
+        "color_relationship": "monochrome",
+        "temperature_balance": "cool_dominant",
+        "saturation_strategy": "desaturated_with_pop",
+        "contrast_type": "luminance_high",
+        "accent_color": "#fafafa",
+        "accent_ratio": "15_percent"
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A dynamic low-angle road-level driving frame rendered at 1920x1080 pixels, 16:9 landscape, capturing a large premium electric SUV in motion on an elevated urban expressway, mid-reveal. The subject is a contemporary three-row electric SUV with a bold upright boxy silhouette, a flat clamshell hood, short overhangs, and large gloss-black aerodynamic alloy wheels; the body is a muted sage-grey-green metallic. In this frame the camera sits extremely low to the asphalt just ahead of and beside the SUV's front three-quarter, so the road surface fills the lower half of the frame in a sweep of motion-blurred grey tarmac with a yellow lane line streaking past, while the SUV looms large at the left, its distinctive vertical stacked LED daytime-running-light signature glowing as bright crisp white pixel-cluster strips flanking a slim closed grille. Foreground and props: motion-blurred asphalt, painted lane markings, a guardrail and tunnel-like overhead expressway structure rushing past on the left in streaked blur. On-screen copy, preserved verbatim: a giant white numeral \"9\" stands tall at frame center as a graphic wipe element, and a smaller lighter line reads \"The Kia EV\" to its lower-left, both pure white — the oversized \"9\" reads as a kinetic typographic reveal of the model name. Lighting setup: flat cool overcast-to-tunnel ambient daylight, soft directional key from the front-left, minimal hard shadow, neutral-cool color temperature about 6000K, gentle specular sheen along the car's shoulder line. Lens / framing / camera angle: very low worm-eye tracking angle, wide lens around 24mm equivalent, environment-to-medium scope, fast lateral tracking with heavy directional motion blur on the ground plane and background while the car stays relatively sharp. Composition / grid: strong diagonal of the road sweeping bottom-left to mid-right, the car anchored on the left third, the numeral \"9\" dominating the central vertical axis. Color palette and strategy: cool grey asphalt (#5a5e63), sage-grey-green car body (#7c857f), bright white LED and typography (#fafafa), muted steel surroundings; luminance-high, desaturated cool with white pop; brand-neutral. Texture and surfaces: motion-blurred matte asphalt, glossy painted car body with metallic flake, gloss-black wheels, crisp LED light texture, blurred concrete tunnel. Atmosphere: rushing speed, kinetic energy, cool urban transit air, slight tire spray sheen on tarmac. Post / signature look: clean commercial digital, filmic cool grade, pronounced motion blur conveying velocity, crisp 4K on the in-focus car; live-action high-speed tracking cinematography, no wiggle. Style anchor: premium Korean EV product film driving hero shot, low dramatic tracking angle, kinetic model-number typographic reveal, cool automotive color grade, dynamic motion-blur energy. Additional craft and depth specification for faithful reproduction: the velocity should be communicated through long directional streaks on the asphalt and the rushing guardrail/tunnel structure, while the SUV body holds crisp focus with only its spinning wheel showing rotational blur. The oversized numeral nine functions as a kinetic wipe element keyed cleanly over the live plate, pure white with hard crisp edges, optically centered on the vertical axis and tall enough to break the top and bottom safe margins. The supporting line is a slim modern sans-serif. Wardrobe and human element: none visible — the vehicle is the protagonist here. Surface and material notes: the body paint is a satin metallic sage-grey-green with visible flake under the soft light, the closed grille has a subtle textured pattern, the LED light columns read as discrete bright pixel-cluster segments rather than a continuous bar, and the gloss-black wheels carry aerodynamic turbine-style spoke covers. Atmosphere conveys cool urban transit momentum with a faint sheen of tire spray on the tarmac. Render at full ultra-high-definition fidelity with motion blur calibrated to suggest highway speed, crisp specular on the car shoulder line, and a cool cinematic grade. Copyright-safe note for reproduction: render the automaker emblem and badge as generic non-trademarked forms, keep the licence plate as a generic plausible plate, and reproduce only the on-screen model-number and supporting copy verbatim.",
+        "t2i_negative": "real automaker logo, identifiable trademarked grille, watermark, people, cartoon, static car, oversaturated, deformed wheels, low resolution",
+        "i2v_motion": "Fast low lateral tracking beside the SUV with heavy directional motion blur on the asphalt and rushing tunnel structure while the car body stays sharp and wheels blur in rotation; the oversized white numeral '9' sweeps in as a kinetic wipe at center with 'The Kia EV' beside it, revealing the model name; accelerating energy, no wiggle. ~3.97s, ends on cut.",
+        "i2v_params": {
+          "clip_duration_sec": 3.97,
+          "camera_move": "fast_lateral_tracking",
+          "subject_motion_level": "dynamic",
+          "signature_effect": "none",
+          "pacing": "accelerating",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; emblem/badge generic; plate generic; on-screen model-number and supporting copy preserved verbatim"
+      }
+    },
+    {
+      "index": 3,
+      "duration": 2.58,
+      "framing": "MCU",
+      "function": "narrative_setup",
+      "subject_action": "a distinguished Korean man in his early-fifties in a dark suit sits contemplatively in the rear of the EV, gazing out the window; paired with the EV arriving at a marble luxury lobby entrance",
+      "layout_grid": "rule_of_thirds",
+      "subject_position": "right_third",
+      "subject_identity": "protagonist_main",
+      "subject_relationship_to_protagonist": "main_character",
+      "mid_frame_path": "ADV-2026-051_frames/cut03_mid.png",
+      "subject_typo_layout": "typo_separate_zone",
+      "typo_motion": "no on-screen text in this beat; narration begins ('성공이라는...')",
+      "camera_angle": "eye_level",
+      "camera_facing": "three_quarter",
+      "shot_scope": "bust",
+      "gaze": "off_camera",
+      "eye_contact_effect": null,
+      "props": [
+        "dark leather rear seat",
+        "car window",
+        "sage-grey-green EV",
+        "marble wall"
+      ],
+      "prop_semantics": "chauffeured rear seat + marble lobby signal wealth/executive status (the protagonist's self-image)",
+      "color_palette": [
+        "#1e2228",
+        "#2a2f3a",
+        "#caa589",
+        "#9fb4c2",
+        "#d9d6cf"
+      ],
+      "color_intent": "low-key cool cabin with warm skin and warm marble accent for dignified premium calm",
+      "pose_description": "seated upright against headrest in three-quarter profile, faint contemplative half-smile, quiet executive poise",
+      "subject_motion": "micro_gestures",
+      "prop_motion": "vehicle gliding to a stop",
+      "camera_motion": "slow_drift",
+      "camera_motion_intensity": "low",
+      "camera_effect_local": "none",
+      "motion_blur": false,
+      "intra_cut_rhythm": "steady",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [],
+      "vfx_intensity_local": "none",
+      "fact_check_flag": null,
+      "notes": "Cut3 (sc6-7, f215-f276, 8.93-11.51s): protagonist contemplative in rear seat + EV at marble lobby with vertical light strips. VO 'success is not merely...' begins.",
+      "visible_elements": {
+        "foreground": [
+          "protagonist in dark suit, chest-up, against leather headrest"
+        ],
+        "midground": [
+          "quilted dark leather seat",
+          "car window"
+        ],
+        "background": [
+          "softly blurred bright window",
+          "(paired) pale veined marble wall with warm recessed lighting and vertical light strips",
+          "glossy dark floor"
+        ],
+        "lighting_env": [
+          "soft cool window key",
+          "warm recessed marble accent lighting"
+        ],
+        "atmosphere": [
+          "hushed premium calm",
+          "gentle window glow",
+          "sense of arrival"
+        ]
+      },
+      "texture": {
+        "primary_subject": "fabric_wool_suit",
+        "secondary_objects": [
+          "leather",
+          "glass_clear"
+        ],
+        "background_surface": "stone",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "side_left",
+        "key_hardness": "soft",
+        "key_color_temp": "cool_5500K",
+        "fill_strength": "minimal",
+        "key_to_fill_ratio": "4:1",
+        "rim_light": false,
+        "practical_lights": [
+          "marble wall recessed lights",
+          "vertical light strips"
+        ],
+        "shadow_presence": "soft",
+        "overall_contrast": "low_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#1e2228",
+          "#2a2f3a",
+          "#caa589",
+          "#9fb4c2",
+          "#d9d6cf"
+        ],
+        "palette_role": {
+          "#1e2228": "cabin_dark_dominant",
+          "#2a2f3a": "suit_navy_charcoal",
+          "#caa589": "skin_warm",
+          "#9fb4c2": "window_cool_light",
+          "#d9d6cf": "marble_pale_grey"
+        },
+        "color_relationship": "complementary",
+        "temperature_balance": "cool_dominant",
+        "saturation_strategy": "muted",
+        "contrast_type": "luminance_high",
+        "accent_color": "#caa589",
+        "accent_ratio": "15_percent"
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A quiet cinematic interior-to-exterior frame rendered at 1920x1080 pixels, 16:9 landscape, in two paired moods within one beat: a composed Korean man in his early-to-mid fifties seated in the rear of a luxury electric SUV, and the same SUV arriving at an upscale marble building entrance. The primary subject is the man — silver-flecked dark hair neatly groomed, distinguished calm face, wearing a sharply tailored dark navy-charcoal suit, white shirt, dark slim tie; he is framed from the chest up in three-quarter profile, seated against a dark leather headrest, gazing thoughtfully out of the side window where soft cool daylight wraps his face. He sits with quiet executive poise, faint contemplative half-smile. Behind/around: the dark quilted leather seat, dark cabin trim, a softly blurred bright window. The paired exterior (the surrounding context of this beat) is a large upright electric SUV in sage-grey-green, headlights with vertical stacked LED signature glowing, pulling up on a polished dark stone floor before a tall wall clad in pale white-grey veined marble with warm recessed accent lighting and vertical light strips, a premium lobby porte-cochere. Foreground and props: leather seat, window frame, suit lapel; (exterior) marble wall, ambient floor lighting, glossy floor reflection. On-screen copy: none in this beat. Lighting setup: soft directional window key from the side at roughly 45 degrees onto the man's face, cool daylight about 5600K, gentle fill, deep but soft shadows on the cabin side, low-key intimate contrast; the exterior uses warm 3000K recessed practical lighting against cool ambient, mixed temperature, soft shadows. Lens / framing / camera angle: eye-level on the man, medium close-up bust scope, shallow depth of field with bokeh window; the exterior is a wide static environment shot, eye-level, deep focus. Composition / grid: man placed on the right third facing into negative space at left (window light source), rule-of-thirds; exterior centered architectural symmetry. Color palette and strategy: dark charcoal cabin (#1e2228), navy-charcoal suit (#2a2f3a), warm skin tone (#caa589), cool window light (#9fb4c2); marble pale grey (#d9d6cf) with warm accent (#c79a5e); low-key cool interior with warm exterior accent, luminance contrast, brand-neutral premium. Texture and surfaces: quilted leather, fine wool suiting, natural skin, polished veined marble, glossy stone floor, soft glass bokeh. Atmosphere: hushed premium calm, gentle window glow, a sense of arrival and status; faint cabin air stillness. Post / signature look: clean cinematic digital, filmic low-key grade, soft natural skin rendering, restrained grain, premium commercial finish; live-action, locked-off to gentle handheld, no wiggle. Style anchor: premium Korean automotive lifestyle film, executive-in-the-back-seat cinematic portrait, marble luxury arrival, refined cool-warm color grade, dignified aspirational mood. Additional craft and depth specification for faithful reproduction: in the seated portrait, the window light should sculpt the man's cheekbone and brow with a soft falloff into shadow on the camera-near side of his face, the quilted leather headrest catching a dim specular sheen, and a soft window bokeh suggesting passing city forms; his micro-expression is one of measured contentment rather than overt emotion. In the arrival exterior, the marble wall's veining should be subtle and the warm accent lighting should graze the stone to reveal its matte polish, with the glossy dark floor mirroring the SUV's glowing LED signature. Wardrobe and material notes: the suit is finely tailored worsted wool with a crisp peaked or notch lapel, the shirt a clean white poplin, the tie a dark satin-finish; the man's hair is neatly groomed with silver at the temples. Surface notes: leather, glass, polished stone, painted metal. Atmosphere is hushed and premium, a sense of dignified arrival. Render at full ultra-high-definition fidelity with natural film-like skin texture, gentle low-key contrast, and a refined cool-with-warm-accent grade. Copyright-safe note for reproduction: render the man as a distinguished Korean man in his early fifties of generic likeness (no specific celebrity face-replication), keep any emblems generic, and preserve no burned copy in this beat.",
+        "t2i_negative": "specific celebrity face-replication, real brand logos, watermark, second person in cabin, harsh shadows, oversaturated, cartoon, deformed face",
+        "i2v_motion": "The seated man holds his contemplative pose with breathing-level micro-motion, gazing out the window as soft cool light plays across his face; camera drifts very slightly; (paired beat) the SUV glides to a smooth stop at the marble entrance, glossy floor reflecting its LED; locked-to-gentle handheld, no wiggle. ~2.58s, steady, ends on cut.",
+        "i2v_params": {
+          "clip_duration_sec": 2.58,
+          "camera_move": "slow_drift",
+          "subject_motion_level": "micro",
+          "signature_effect": "none",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; protagonist generic distinguished Korean man (no celebrity face-replication); emblem generic; no burned copy"
+      }
+    },
+    {
+      "index": 4,
+      "duration": 5.01,
+      "framing": "CU",
+      "function": "product_hero",
+      "subject_action": "hero close-up of the EV's sculpted front (automaker wordmark on hood, vertical stacked LED headlight, plate '26더 3100'); paired with the protagonist's hand gliding across the blue-ambient-lit dashboard; subtitle '성공이란 비단'",
+      "layout_grid": "rule_of_thirds",
+      "subject_position": "right_third",
+      "subject_identity": "product_vehicle",
+      "subject_relationship_to_protagonist": "none_environment",
+      "mid_frame_path": "ADV-2026-051_frames/cut04_mid.png",
+      "subject_typo_layout": "typo_separate_zone",
+      "typo_motion": "white subtitle '성공이란 비단' fades in low-center (~f325); narration-synced caption",
+      "camera_angle": "low_angle",
+      "camera_facing": "three_quarter",
+      "shot_scope": "face_only",
+      "gaze": "none",
+      "eye_contact_effect": null,
+      "props": [
+        "EV front fascia",
+        "vertical LED headlight",
+        "licence plate",
+        "dashboard trim",
+        "center touchscreen"
+      ],
+      "prop_semantics": "signature LED light-bar and crafted interior establish the EV9's premium design language",
+      "color_palette": [
+        "#7d867f",
+        "#f6f8f7",
+        "#23262b",
+        "#3f6ea0",
+        "#bcd2dd"
+      ],
+      "color_intent": "cool sage-grey body with bright white LED pop; interior blue ambient for tech-premium feel",
+      "pose_description": "no full person; a suited hand with watch glides across the dashboard, conveying tactile appreciation",
+      "subject_motion": "static_with_hand_glide",
+      "prop_motion": "hand slides along dashboard trim",
+      "camera_motion": "slow_drift",
+      "camera_motion_intensity": "low",
+      "camera_effect_local": "none",
+      "motion_blur": false,
+      "intra_cut_rhythm": "steady",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [],
+      "vfx_intensity_local": "none",
+      "fact_check_flag": null,
+      "notes": "Cut4 (sc8-11, f277-f396, 11.51-16.52s): EV front detail (KIA wordmark, star-map LED, plate 26더3100) + hand on blue-ambient dash. Subtitle '성공이란 비단'. VO continues.",
+      "visible_elements": {
+        "foreground": [
+          "EV sculpted front corner with glowing vertical LED headlight columns",
+          "gloss-black wheel"
+        ],
+        "midground": [
+          "clamshell hood with embossed wordmark",
+          "slim closed grille",
+          "pale-blue plate '26더 3100'",
+          "(paired) suited hand on dashboard"
+        ],
+        "background": [
+          "soft daytime surroundings",
+          "blue-ambient cabin trim, glowing touchscreen edge"
+        ],
+        "lighting_env": [
+          "soft diffused daylight raking the body",
+          "warm cabin + blue ambient LED"
+        ],
+        "atmosphere": [
+          "refined product-glamour stillness",
+          "reflective sheen"
+        ]
+      },
+      "texture": {
+        "primary_subject": "metallic",
+        "secondary_objects": [
+          "metal_brushed",
+          "plastic_matte",
+          "skin_natural"
+        ],
+        "background_surface": "flat_digital",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "45deg_above",
+        "key_hardness": "soft",
+        "key_color_temp": "cool_5500K",
+        "fill_strength": "moderate",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": true,
+        "practical_lights": [
+          "vehicle LED headlight",
+          "blue ambient cabin lighting",
+          "touchscreen glow"
+        ],
+        "shadow_presence": "soft",
+        "overall_contrast": "mid_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#7d867f",
+          "#f6f8f7",
+          "#23262b",
+          "#3f6ea0",
+          "#bcd2dd"
+        ],
+        "palette_role": {
+          "#7d867f": "car_body_sage_grey_dominant",
+          "#f6f8f7": "led_white",
+          "#23262b": "interior_dark",
+          "#3f6ea0": "blue_ambient_accent",
+          "#bcd2dd": "plate_pale_blue"
+        },
+        "color_relationship": "complementary",
+        "temperature_balance": "cool_dominant",
+        "saturation_strategy": "muted_with_pop",
+        "contrast_type": "luminance_high",
+        "accent_color": "#f6f8f7",
+        "accent_ratio": "15_percent"
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A premium automotive detail-and-portrait beat rendered at 1920x1080 pixels, 16:9 landscape, intercutting a hero close-up of the electric SUV's front and the seated executive touching the cabin. The dominant image is an extreme three-quarter close-up of the SUV's front corner: the sculpted sage-grey-green clamshell hood with a small embossed automaker wordmark on the leading edge, the slim full-width closed grille, and the signature vertical stacked LED daytime-running lights rendered as crisp glowing white pixel-cluster columns flanking the headlamp, the front bumper with geometric lower intakes, and a gloss-black aerodynamic alloy wheel partly in frame at the lower-left. A pale-blue Korean vehicle licence plate reads \"26더 3100\" on the front. The paired interior detail shows a man's hand with a wristwatch gliding across a softly back-lit dark dashboard trim panel with a thin blue ambient light line, the edge of a wide center touchscreen glowing at left. On-screen copy, preserved verbatim: a single line of small white subtitle text near lower-center reads \"성공이란 비단\". Lighting setup: soft diffused daylight raking across the car body from the upper-front creating gentle gradient highlights along the sculpted panels, cool 5800K, soft shadows, medium contrast; the interior detail uses low warm cabin light plus cool blue ambient LED, mixed temperature, soft. Lens / framing / camera angle: tight detail framing, slight low angle on the car emphasising the LED light bar, medium-macro scope; the hand shot is a clean close-up, eye-level. Composition / grid: the headlight LED column anchors the right of frame, hood sweeping diagonally; subtitle centered low. Color palette and strategy: sage-grey-green body (#7d867f), bright white LED (#f6f8f7), warm metal logo, pale-blue plate (#bcd2dd); interior dark grey (#23262b) with blue ambient (#3f6ea0); cool-dominant with white LED pop, luminance contrast, brand-neutral premium. Texture and surfaces: glossy metallic painted body, brushed metal emblem, crisp LED light texture, gloss-black wheel, soft-touch dashboard plastic, fine skin and watch metal. Atmosphere: refined product-glamour stillness, gentle reflective sheen, a sense of crafted detail. Post / signature look: clean commercial digital, filmic cool grade, high micro-detail, restrained grain, premium product finish; live-action, locked to slow drift, no wiggle. Style anchor: premium Korean EV product hero detail film, sculpted lighting on automotive surfaces, signature vertical LED light-bar showcase, refined cool color grade, tactile interior craftsmanship, subtitle copy preserved. Additional craft and depth specification for faithful reproduction: the automotive close-up should reveal the precise sculpting of the front fascia — the way the clamshell hood's character line flows into the slim closed grille, the geometric negative-space pattern within the LED light columns, and the soft graduated highlight rolling across the sage-grey-green panel as the diffused key rakes over it. The embossed automaker wordmark on the hood edge should be subtle and brand-neutral. In the interior detail, the hand glides slowly with the wristwatch catching a glint, the thin blue ambient light line tracing the dashboard's horizontal architecture and the edge of the wide curved touchscreen glowing softly at frame edge. Wardrobe and material notes: a suited wrist and cuff, metal watch; the dash trim is soft-touch with a fine matte grain. Surface notes: metallic paint, brushed emblem, crisp LED, gloss-black wheel, soft-touch plastic, skin and watch metal. Atmosphere is refined product glamour, tactile and still. Render at full ultra-high-definition fidelity with high micro-detail on automotive surfaces, controlled specular, and a cool premium grade. Copyright-safe note for reproduction: render the emblem and plate as generic non-trademarked forms, keep UI generic, and preserve only the subtitle copy verbatim.",
+        "t2i_negative": "real automaker logo mark, trademarked grille, watermark, oversaturated, cartoon, deformed hand, extra fingers, low resolution",
+        "i2v_motion": "Slow drift across the EV's sculpted front revealing the glowing vertical LED light columns and crisp panel highlights; (paired) the suited hand glides slowly along the blue-ambient dashboard trim, watch catching a glint; the subtitle '성공이란 비단' fades in low-center; locked-to-gentle drift, no wiggle. ~5.01s, steady, ends on cut.",
+        "i2v_params": {
+          "clip_duration_sec": 5.01,
+          "camera_move": "slow_drift",
+          "subject_motion_level": "micro",
+          "signature_effect": "none",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; emblem/plate generic; UI generic; subtitle preserved verbatim"
+      }
+    },
+    {
+      "index": 5,
+      "duration": 2.75,
+      "framing": "MCU",
+      "function": "narrative_setup",
+      "subject_action": "the protagonist's face reflected in the EV's rearview mirror, introspective; paired with a low shot of his black dress shoes stepping out onto a wet glossy floor; subtitles '물질적인 성취에만' / '국한되는 개념이 아닐 겁니다.'",
+      "layout_grid": "rule_of_thirds",
+      "subject_position": "right_third",
+      "subject_identity": "protagonist_main",
+      "subject_relationship_to_protagonist": "main_character",
+      "mid_frame_path": "ADV-2026-051_frames/cut05_mid.png",
+      "subject_typo_layout": "typo_separate_zone",
+      "typo_motion": "white subtitles fade in low-center: '물질적인 성취에만' (mirror shot) then '국한되는 개념이 아닐 겁니다.' (next part)",
+      "camera_angle": "eye_level",
+      "camera_facing": "three_quarter",
+      "shot_scope": "face_only",
+      "gaze": "off_camera",
+      "eye_contact_effect": null,
+      "props": [
+        "rearview mirror",
+        "windshield",
+        "black dress shoes",
+        "car sill"
+      ],
+      "prop_semantics": "mirror reflection = self-reflection on success; stepping out = transition to his stage",
+      "color_palette": [
+        "#1b1e24",
+        "#2a2f3a",
+        "#c6a184",
+        "#a7bac6"
+      ],
+      "color_intent": "low-key cool introspective tone with warm reflected skin, premium hush",
+      "pose_description": "face calmly reflected in mirror, thoughtful expression; then poised feet descending from the car",
+      "subject_motion": "micro_gestures",
+      "prop_motion": "shoes stepping down to floor",
+      "camera_motion": "slow_drift",
+      "camera_motion_intensity": "low",
+      "camera_effect_local": "none",
+      "motion_blur": false,
+      "intra_cut_rhythm": "steady",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [],
+      "vfx_intensity_local": "none",
+      "fact_check_flag": null,
+      "notes": "Cut5 (sc12-13, f397-f462, 16.52-19.27s): rearview-mirror reflection portrait + dress shoes stepping out on wet floor. Subtitles '물질적인 성취에만' / '국한되는 개념이 아닐 겁니다.'",
+      "visible_elements": {
+        "foreground": [
+          "back of head and suited shoulder in soft silhouette"
+        ],
+        "midground": [
+          "rearview mirror with crisp reflected face",
+          "(paired) black dress shoes, dark trouser cuffs"
+        ],
+        "background": [
+          "bright windshield glow",
+          "(paired) wet glossy dark floor, bright doorway glow at right"
+        ],
+        "lighting_env": [
+          "soft cool windshield key",
+          "warm doorway accent on shoe shot"
+        ],
+        "atmosphere": [
+          "introspective hush",
+          "premium transitional moment"
+        ]
+      },
+      "texture": {
+        "primary_subject": "skin_natural",
+        "secondary_objects": [
+          "glass_clear",
+          "leather",
+          "fabric_wool_suit"
+        ],
+        "background_surface": "wet_reflective",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "front",
+        "key_hardness": "soft",
+        "key_color_temp": "cool_5500K",
+        "fill_strength": "minimal",
+        "key_to_fill_ratio": "4:1",
+        "rim_light": false,
+        "practical_lights": [
+          "windshield daylight",
+          "doorway glow"
+        ],
+        "shadow_presence": "soft",
+        "overall_contrast": "low_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#1b1e24",
+          "#2a2f3a",
+          "#c6a184",
+          "#a7bac6"
+        ],
+        "palette_role": {
+          "#1b1e24": "cabin_near_black_dominant",
+          "#2a2f3a": "suit_navy_charcoal",
+          "#c6a184": "reflected_skin_warm",
+          "#a7bac6": "windshield_cool_light"
+        },
+        "color_relationship": "complementary",
+        "temperature_balance": "cool_dominant",
+        "saturation_strategy": "muted",
+        "contrast_type": "luminance_high",
+        "accent_color": "#c6a184",
+        "accent_ratio": "15_percent"
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A reflective cinematic interior beat rendered at 1920x1080 pixels, 16:9 landscape, built around a rearview-mirror portrait and a stepping-out detail. The dominant image frames the seated executive from behind the front headrest: the back of his head and dark-suited shoulder in soft foreground silhouette at left, and his calm distinguished face crisply reflected in the cabin's rectangular rearview mirror at upper-center, eyes thoughtful, a faint introspective expression, the bright windshield glow behind. The cabin is dark and minimal, the mirror housing slim and modern. The paired detail (closing this beat) is a low ground-level shot of polished black leather dress shoes and dark trouser cuffs stepping down from the SUV sill onto a wet, mirror-glossy dark floor that throws soft reflected highlights, a bright doorway glow at right. Foreground and props: headrest, suit shoulder, rearview mirror, windshield; (detail) dress shoes, car sill, reflective floor. On-screen copy, preserved verbatim: small white subtitle text near lower-center reads \"물질적인 성취에만\" in the mirror shot and \"국한되는 개념이 아닐 겁니다.\" in the following part of the beat. Lighting setup: soft cool window/windshield key from the front filling the mirror reflection, low ambient cabin, neutral-cool 5600K, low-key intimate contrast, soft shadows; the shoe detail uses a cool key with a warm doorway accent, glossy floor specular. Lens / framing / camera angle: eye-level over-the-shoulder for the mirror, the face reflection as the focal point, bust scope, shallow depth; the shoe shot is a very low worm-eye detail angle. Composition / grid: foreground silhouette on the left third, mirror reflection on the upper-right third, rule-of-thirds with strong framing; subtitle centered low. Color palette and strategy: near-black cabin (#1b1e24), navy-charcoal suit, warm reflected skin (#c6a184), cool windshield light (#a7bac6); glossy floor dark with warm accent; low-key cool with warm accent, luminance contrast, brand-neutral. Texture and surfaces: leather, wool suiting, glass mirror, polished shoe leather, wet reflective floor, soft glass bokeh. Atmosphere: introspective hush, premium calm, a transitional moment of arrival; subtle cabin stillness then a cool exterior breath. Post / signature look: clean cinematic digital, filmic low-key grade, natural skin, restrained grain, premium finish; live-action, gentle handheld, no wiggle. Style anchor: premium Korean automotive lifestyle film, rearview-mirror reflection portrait, dignified executive introspection, cool-warm low-key grade, subtitle copy preserved verbatim. Additional craft and depth specification for faithful reproduction: in the mirror portrait, the foreground headrest and suited shoulder should sit in soft dark silhouette, drawing the eye to the crisply focused face reflected in the rectangular mirror, with the bright windshield behind creating a luminous backdrop and a gentle catchlight in his reflected eyes. The reflection should feel naturalistic, slightly cooler than a direct view. In the stepping-out detail, the polished dress shoes should land with a faint reflection on the wet glossy floor, dark trouser cuffs breaking cleanly, and a warm doorway glow spilling from the right edge. Wardrobe and material notes: tailored wool trousers, glossy black leather oxford-style shoes, white shirt cuff; the suit retains a crisp drape. Surface notes: leather, glass mirror, wool, wet reflective stone, soft bokeh. Atmosphere is introspective and transitional, premium hush giving way to a cool exterior breath. Render at full ultra-high-definition fidelity with natural skin in the reflection, soft low-key contrast, and a cool-with-warm-accent grade. Copyright-safe note for reproduction: render the man as a distinguished Korean man of generic likeness, keep emblems generic, and preserve the subtitle copy verbatim exactly as written.",
+        "t2i_negative": "specific celebrity face-replication, real brand logos, watermark, harsh shadows, oversaturated, cartoon, deformed face, extra limbs",
+        "i2v_motion": "The protagonist's reflected face holds with breathing-level introspection in the rearview mirror against the bright windshield; (paired) his polished dress shoes step down onto the wet glossy floor with a faint reflection and a warm doorway glow; subtitles '물질적인 성취에만' then '국한되는 개념이 아닐 겁니다.' fade in; gentle handheld, no wiggle. ~2.75s, steady.",
+        "i2v_params": {
+          "clip_duration_sec": 2.75,
+          "camera_move": "slow_drift",
+          "subject_motion_level": "micro",
+          "signature_effect": "none",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; protagonist generic distinguished Korean man (no celebrity face-replication); subtitle preserved verbatim"
+      }
+    },
+    {
+      "index": 6,
+      "duration": 3.42,
+      "framing": "MLS",
+      "function": "narrative_dialogue",
+      "subject_action": "the protagonist steps out by his EV at a covered entrance and is greeted; a younger colleague approaches; subtitles '상무님 안녕하세요' then '어 김대리, 머리 했네?'",
+      "layout_grid": "rule_of_thirds",
+      "subject_position": "right_third",
+      "subject_identity": "protagonist_main",
+      "subject_relationship_to_protagonist": "main_character",
+      "mid_frame_path": "ADV-2026-051_frames/cut06_mid.png",
+      "subject_typo_layout": "typo_separate_zone",
+      "typo_motion": "white subtitles fade in low-center: '상무님 안녕하세요' then '어 김대리, 머리 했네?'",
+      "camera_angle": "eye_level",
+      "camera_facing": "three_quarter",
+      "shot_scope": "environment",
+      "gaze": "off_camera",
+      "eye_contact_effect": null,
+      "props": [
+        "sage-grey-green EV",
+        "glowing LED headlight",
+        "colleague's overcoat and bag",
+        "dark floor"
+      ],
+      "prop_semantics": "the greeting '상무님' (Director) reinforces his elevated status; comedy begins",
+      "color_palette": [
+        "#1c1f24",
+        "#79827c",
+        "#f4f6f5",
+        "#c89556"
+      ],
+      "color_intent": "low-key dusk with cool key and warm overhead accent; the car LED as a bright practical",
+      "pose_description": "protagonist stands poised and faintly amused beside the EV as the colleague approaches from the foreground",
+      "subject_motion": "walk",
+      "prop_motion": "colleague walking toward protagonist",
+      "camera_motion": "handheld_drift",
+      "camera_motion_intensity": "low",
+      "camera_effect_local": "handheld_slight_wobble",
+      "motion_blur": false,
+      "intra_cut_rhythm": "steady",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [],
+      "vfx_intensity_local": "none",
+      "fact_check_flag": null,
+      "notes": "Cut6 (sc14-15, f463-f544, 19.27-22.69s): protagonist greeted at venue by colleague ('상무님 안녕하세요'); he replies '어 김대리, 머리 했네?'. KIA wordmark on EV. Dialogue/comedy starts.",
+      "visible_elements": {
+        "foreground": [
+          "approaching colleague's blurred shoulder and bag at left",
+          "EV front quarter with glowing LED"
+        ],
+        "midground": [
+          "protagonist in dark suit standing by the EV"
+        ],
+        "background": [
+          "dim covered entrance, glowing horizontal light strip",
+          "glossy dark floor"
+        ],
+        "lighting_env": [
+          "low-key dusk ambient cool key",
+          "warm overhead light-strip accent",
+          "car LED practical"
+        ],
+        "atmosphere": [
+          "arrival/greeting energy",
+          "premium dusk hush with comic undertone"
+        ]
+      },
+      "texture": {
+        "primary_subject": "fabric_wool_suit",
+        "secondary_objects": [
+          "metallic",
+          "fabric_wool_coat"
+        ],
+        "background_surface": "concrete",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "side_left",
+        "key_hardness": "soft",
+        "key_color_temp": "mixed",
+        "fill_strength": "minimal",
+        "key_to_fill_ratio": "4:1",
+        "rim_light": true,
+        "practical_lights": [
+          "overhead light strip",
+          "vehicle LED headlight"
+        ],
+        "shadow_presence": "deep",
+        "overall_contrast": "low_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#1c1f24",
+          "#79827c",
+          "#f4f6f5",
+          "#c89556"
+        ],
+        "palette_role": {
+          "#1c1f24": "environment_dark_dominant",
+          "#79827c": "car_body_sage_grey",
+          "#f4f6f5": "led_white",
+          "#c89556": "warm_overhead_accent"
+        },
+        "color_relationship": "complementary",
+        "temperature_balance": "cool_dominant",
+        "saturation_strategy": "muted_with_pop",
+        "contrast_type": "luminance_high",
+        "accent_color": "#c89556",
+        "accent_ratio": "15_percent"
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A cinematic arrival-and-greeting frame rendered at 1920x1080 pixels, 16:9 landscape, set at a covered premium entrance at dusk. The distinguished Korean man in his early-fifties, in a sharp dark suit and tie, has just stepped out and stands confidently beside his large sage-grey-green electric SUV at the right of frame, the SUV's vertical LED headlight glowing crisp white at left; a second figure — a younger person in a brown overcoat carrying a bag, partly silhouetted and soft-focus — approaches from the foreground left toward him as if greeting. The setting is a dim covered drop-off with dark architectural surfaces, a glowing horizontal light strip overhead in the background, and a glossy dark floor. The man's posture is poised and faintly amused, ready to respond to the greeting. Foreground and props: the approaching figure's blurred shoulder and bag at left, the SUV's front quarter with glowing LED, the dark floor; an automaker wordmark visible on the SUV door. On-screen copy, preserved verbatim: small white subtitle text near lower-center reads \"상무님 안녕하세요\" then in the next part of the beat \"어 김대리, 머리 했네?\". Lighting setup: low-key dusk ambient with a cool key, a warm overhead light-strip accent in the background, the car's white LED as a practical accent, mixed temperature, soft deep shadows, low-key contrast. Lens / framing / camera angle: eye-level medium-wide two-shot, environment scope, moderate depth of field with the foreground greeter softly blurred and the man sharp. Composition / grid: the man on the right third, the SUV filling the left, the approaching figure entering bottom-left, rule-of-thirds with diagonal lead-in; subtitle centered low. Color palette and strategy: dark charcoal environment (#1c1f24), sage-grey-green SUV (#79827c), white LED (#f4f6f5), warm overhead accent (#c89556), navy suit; low-key cool with warm accent, luminance contrast, brand-neutral. Texture and surfaces: tailored wool, glossy car body, crisp LED, dark matte architecture, glossy floor, soft fabric of overcoat. Atmosphere: arrival energy, social greeting, premium dusk hush with a hint of comedy; faint air stillness. Post / signature look: clean cinematic digital, filmic low-key grade, natural skin, restrained grain, premium finish; live-action handheld, no wiggle. Style anchor: premium Korean automotive narrative film, executive arrival greeting beat, cool-warm low-key dusk grade, dignified-with-comic-undertone mood, subtitle copy preserved. Additional craft and depth specification for faithful reproduction: the two-shot should layer a softly blurred foreground greeter (brown overcoat, shoulder and bag) entering from the lower-left against the sharply rendered protagonist standing poised by his SUV, the car's vertical LED signature glowing crisp white at left as a key practical accent and the warm overhead light-strip glowing in the background depth. The protagonist's posture reads as relaxed authority with a faintly amused micro-expression as he registers the greeting. Wardrobe and material notes: the protagonist in a sharply tailored dark suit and tie; the greeter in a textured wool overcoat carrying a soft-sided bag; the SUV door carries a generic embossed wordmark. Surface notes: tailored wool, glossy metallic car body, crisp LED, dark matte architecture, glossy floor. Atmosphere is a premium dusk drop-off charged with social-greeting energy and a hint of comedy. Render at full ultra-high-definition fidelity with natural skin, low-key cool-with-warm-accent contrast, controlled practical glows, and a refined cinematic grade. Copyright-safe note for reproduction: render both figures as generic Korean adults (no specific celebrity face-replication), keep the emblem and any signage generic and brand-neutral, and preserve the subtitle copy verbatim exactly as written.",
+        "t2i_negative": "specific celebrity face-replication, real brand logos, watermark, oversaturated, cartoon, deformed faces, extra limbs",
+        "i2v_motion": "The protagonist stands poised by his EV with a faintly amused micro-expression as the soft-focus colleague walks in from the lower-left to greet him; subtitles '상무님 안녕하세요' then '어 김대리, 머리 했네?' fade in; slight handheld drift, no wiggle. ~3.42s, steady, ends on cut.",
+        "i2v_params": {
+          "clip_duration_sec": 3.42,
+          "camera_move": "handheld_drift",
+          "subject_motion_level": "micro",
+          "signature_effect": "none",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; figures generic Korean adults (no celebrity face-replication); emblem generic; subtitle preserved verbatim"
+      }
+    },
+    {
+      "index": 7,
+      "duration": 4.63,
+      "framing": "MCU",
+      "function": "narrative_dialogue",
+      "subject_action": "warm character close-ups of the protagonist greeting and chatting genially, pointing casually, with a self-assured smile; subtitles '어 김대리, 머리 했네?' then '위에서 봐~'",
+      "layout_grid": "rule_of_thirds",
+      "subject_position": "right_third",
+      "subject_identity": "protagonist_main",
+      "subject_relationship_to_protagonist": "main_character",
+      "mid_frame_path": "ADV-2026-051_frames/cut07_mid.png",
+      "subject_typo_layout": "typo_separate_zone",
+      "typo_motion": "white subtitles fade in low-center: '어 김대리, 머리 했네?' then '위에서 봐~'",
+      "camera_angle": "eye_level",
+      "camera_facing": "three_quarter",
+      "shot_scope": "bust",
+      "gaze": "off_camera",
+      "eye_contact_effect": null,
+      "props": [
+        "suit lapel",
+        "pointing hand"
+      ],
+      "prop_semantics": "relaxed pointing gesture conveys easy authority and charm",
+      "color_palette": [
+        "#1d2025",
+        "#2a2f3a",
+        "#c8a487",
+        "#8a7a5c"
+      ],
+      "color_intent": "low-key cool key with warm rim for charismatic, intimate character beat",
+      "pose_description": "genial half-smile, one hand raised in casual pointing gesture, eyes crinkled with charisma",
+      "subject_motion": "micro_gestures",
+      "prop_motion": "none",
+      "camera_motion": "handheld_drift",
+      "camera_motion_intensity": "low",
+      "camera_effect_local": "handheld_slight_wobble",
+      "motion_blur": false,
+      "intra_cut_rhythm": "steady",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [],
+      "vfx_intensity_local": "none",
+      "fact_check_flag": null,
+      "notes": "Cut7 (sc16-18, f545-f655, 22.69-27.32s): warm protagonist close-ups during greeting; '어 김대리, 머리 했네?' / '위에서 봐~'. Charismatic dignified-comic tone.",
+      "visible_elements": {
+        "foreground": [
+          "protagonist's genial face and pointing hand"
+        ],
+        "midground": [
+          "suit lapel"
+        ],
+        "background": [
+          "dim entrance glow",
+          "blurred EV LED and architecture at left"
+        ],
+        "lighting_env": [
+          "soft cool frontal key",
+          "warm rim from background light strip"
+        ],
+        "atmosphere": [
+          "warm convivial greeting",
+          "premium dusk hush",
+          "comfortable charisma"
+        ]
+      },
+      "texture": {
+        "primary_subject": "skin_natural",
+        "secondary_objects": [
+          "fabric_wool_suit"
+        ],
+        "background_surface": "bokeh_abstract",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "side_left",
+        "key_hardness": "soft",
+        "key_color_temp": "mixed",
+        "fill_strength": "minimal",
+        "key_to_fill_ratio": "4:1",
+        "rim_light": true,
+        "practical_lights": [
+          "background light strip"
+        ],
+        "shadow_presence": "soft",
+        "overall_contrast": "low_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#1d2025",
+          "#2a2f3a",
+          "#c8a487",
+          "#8a7a5c"
+        ],
+        "palette_role": {
+          "#1d2025": "background_dark_dominant",
+          "#2a2f3a": "suit_navy_charcoal",
+          "#c8a487": "skin_warm",
+          "#8a7a5c": "warm_bokeh_accent"
+        },
+        "color_relationship": "analogous",
+        "temperature_balance": "warm_dominant",
+        "saturation_strategy": "muted",
+        "contrast_type": "luminance_low",
+        "accent_color": "#c8a487",
+        "accent_ratio": "30_percent"
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A warm character close-up beat rendered at 1920x1080 pixels, 16:9 landscape, capturing the distinguished executive in friendly conversation at the entrance. The Korean man in his early-fifties, dark suit and tie, silver-flecked groomed hair, fills the right-to-center of the frame in a medium close-up; he wears a relaxed genial half-smile, one hand raised in a casual pointing gesture, eyes crinkled with easy charisma as he greets a colleague off-frame. The background is the dim covered entrance with a soft glow and the dark SUV's silhouette and glowing white LED headlight blurred behind him at left. His expression carries paternal warmth and a touch of self-satisfied humor. Foreground and props: his pointing hand, suit lapel; background blurred SUV LED and architecture. On-screen copy, preserved verbatim: small white subtitle text near lower-center reads \"어 김대리, 머리 했네?\" then in the next part \"위에서 봐~\". Lighting setup: soft cool key on the face from the front-left, warm rim/accent from background light strip, low-key intimate contrast, mixed temperature about 4500K blended, soft shadows. Lens / framing / camera angle: eye-level, medium close-up bust scope, shallow depth of field isolating the face against creamy bokeh. Composition / grid: face on the right third, gesture leading toward center, soft negative space at left; subtitle centered low. Color palette and strategy: dark surroundings (#1d2025), navy-charcoal suit, warm skin (#c8a487), cool-to-warm bokeh highlights; low-key cool with warm accent, luminance contrast, brand-neutral. Texture and surfaces: fine wool suiting, natural mature skin with subtle texture, soft fabric, glassy background bokeh. Atmosphere: warm convivial greeting, premium dusk hush, comfortable charisma; gentle air. Post / signature look: clean cinematic digital, filmic low-key grade, flattering natural skin rendering, restrained grain, premium finish; live-action gentle handheld, no wiggle. Style anchor: premium Korean automotive narrative film, warm executive character close-up, friendly greeting beat, cool-warm low-key grade, charismatic dignified-comic mood, subtitle copy preserved verbatim. Additional craft and depth specification for faithful reproduction: the close-up should isolate the protagonist's genial face against a creamy low-key bokeh, his raised pointing hand entering from the lower frame in soft focus, the background SUV LED and architecture reduced to gentle glows; his eyes crinkle with easy paternal charisma and a flicker of self-satisfaction. The skin rendering should be flattering yet natural, retaining mature texture at the eyes and forehead. Wardrobe and material notes: dark worsted-wool suit, white shirt, dark tie; neatly groomed silver-flecked hair. Surface notes: fine wool, natural mature skin, soft fabric, glassy background bokeh. Atmosphere is warm and convivial, a premium dusk hush wrapped around comfortable charisma. Lighting nuance: the cool frontal key models the face while a subtle warm rim from the background light-strip separates him from the dark surroundings, keeping the contrast low-key and intimate. Render at full ultra-high-definition fidelity with shallow depth of field, gentle filmic low-key contrast, and a balanced cool-with-warm-accent grade. Copyright-safe note for reproduction: render the man as a distinguished Korean man in his early fifties of generic likeness (no specific celebrity face-replication), keep any emblems generic, and preserve the subtitle copy verbatim exactly as written. Final reproduction guidance: keep the background SUV LED and architecture as soft unfocused glows so the warm genial face remains the sole sharp focal point, let the raised pointing hand sit in gentle foreground blur, and hold the cool-key warm-rim balance at an intimate low-key contrast that flatters the mature skin while preserving its natural texture, conveying easy paternal charisma and a flicker of self-satisfied humor.",
+        "t2i_negative": "specific celebrity face-replication, real brand logos, watermark, oversaturated, cartoon, deformed face",
+        "i2v_motion": "The protagonist greets warmly with a genial half-smile and a casual pointing gesture, eyes crinkling with charisma, against a creamy low-key bokeh; subtitles '어 김대리, 머리 했네?' then '위에서 봐~' fade in; gentle handheld, no wiggle. ~4.63s, steady.",
+        "i2v_params": {
+          "clip_duration_sec": 4.63,
+          "camera_move": "handheld_drift",
+          "subject_motion_level": "micro",
+          "signature_effect": "none",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; protagonist generic distinguished Korean man (no celebrity face-replication); subtitle preserved verbatim"
+      }
+    },
+    {
+      "index": 8,
+      "duration": 6.92,
+      "framing": "WS",
+      "function": "narrative_montage",
+      "subject_action": "warm nostalgic office: colleagues admire/applaud the protagonist; a young man in a sage-green sweater and glasses smiles; VO subtitles '후배들의 존경과 여유로운 태도' then '그리고 빛나는 존재감으로 완성되죠.'",
+      "layout_grid": "rule_of_thirds",
+      "subject_position": "center",
+      "subject_identity": "ensemble_office",
+      "subject_relationship_to_protagonist": "supporting_character",
+      "mid_frame_path": "ADV-2026-051_frames/cut08_mid.png",
+      "subject_typo_layout": "typo_separate_zone",
+      "typo_motion": "white VO subtitles fade in low-center: '후배들의 존경과 여유로운 태도' then '그리고 빛나는 존재감으로 완성되죠.'",
+      "camera_angle": "eye_level",
+      "camera_facing": "three_quarter",
+      "shot_scope": "environment",
+      "gaze": "off_camera",
+      "eye_contact_effect": null,
+      "props": [
+        "cubicles",
+        "monitors",
+        "tablet",
+        "backpack",
+        "plant",
+        "vertical blinds"
+      ],
+      "prop_semantics": "retro office + admiring juniors visualize the VO's idea of 'success completed by others' respect'",
+      "color_palette": [
+        "#b9a88a",
+        "#c79a3e",
+        "#8a9b7d",
+        "#6f8fae"
+      ],
+      "color_intent": "warm nostalgic office light with mustard and sage accents and cool monitor glow",
+      "pose_description": "protagonist (back-three-quarter) among applauding colleagues; young man smiling warmly with tablet and backpack",
+      "subject_motion": "micro_gestures_and_reactions",
+      "prop_motion": "colleagues clapping",
+      "camera_motion": "handheld_drift",
+      "camera_motion_intensity": "low",
+      "camera_effect_local": "handheld_slight_wobble",
+      "motion_blur": false,
+      "intra_cut_rhythm": "steady",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [],
+      "vfx_intensity_local": "none",
+      "fact_check_flag": null,
+      "notes": "Cut8 (sc19-22, f656-f821, 27.32-34.24s): nostalgic office, colleagues admire protagonist; young man green sweater. VO '후배들의 존경과 여유로운 태도 / 그리고 빛나는 존재감으로 완성되죠.'",
+      "visible_elements": {
+        "foreground": [
+          "young man in glasses and sage-green sweater with backpack, holding tablet (close view)"
+        ],
+        "midground": [
+          "protagonist back-three-quarter among cubicles",
+          "applauding colleagues incl. woman in mustard cardigan"
+        ],
+        "background": [
+          "fluorescent ceiling strips",
+          "tall vertical-blind windows glowing warm",
+          "potted plant, bulletin board"
+        ],
+        "lighting_env": [
+          "warm late-day sun through blinds",
+          "cool fluorescent fill"
+        ],
+        "atmosphere": [
+          "nostalgic warm office camaraderie",
+          "admiration",
+          "sunlit haze"
+        ]
+      },
+      "texture": {
+        "primary_subject": "fabric_knit",
+        "secondary_objects": [
+          "fabric_cotton",
+          "plastic_glossy",
+          "paper"
+        ],
+        "background_surface": "fabric",
+        "atmospheric": [
+          "sunlit_haze"
+        ]
+      },
+      "lighting": {
+        "key_direction": "back",
+        "key_hardness": "soft",
+        "key_color_temp": "warm_3500K",
+        "fill_strength": "moderate",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": true,
+        "practical_lights": [
+          "window sunlight through blinds",
+          "fluorescent ceiling"
+        ],
+        "shadow_presence": "soft",
+        "overall_contrast": "mid_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#b9a88a",
+          "#c79a3e",
+          "#8a9b7d",
+          "#6f8fae"
+        ],
+        "palette_role": {
+          "#b9a88a": "office_warm_beige_dominant",
+          "#c79a3e": "mustard_cardigan_accent",
+          "#8a9b7d": "sage_sweater",
+          "#6f8fae": "monitor_cool_glow"
+        },
+        "color_relationship": "analogous",
+        "temperature_balance": "warm_dominant",
+        "saturation_strategy": "muted",
+        "contrast_type": "luminance_low",
+        "accent_color": "#c79a3e",
+        "accent_ratio": "15_percent"
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A nostalgic office-life beat rendered at 1920x1080 pixels, 16:9 landscape, in a slightly retro Korean corporate open office bathed in warm late-afternoon window light. Two paired views: in the wider view, the executive (dark suit, seen from the back-three-quarter) stands among cubicles while several younger colleagues — a smiling young man clapping, a woman in a mustard-yellow cardigan, others — react with admiration and applause around him under fluorescent ceiling strips and tall vertical-blind windows glowing warm at the back. In the paired close view, a friendly young man in his late twenties wears round glasses, a sage-green knit sweater, and a black backpack strap across his chest, holding a tablet, smiling warmly toward the executive in a sunlit office with a potted plant and bulletin board behind. Foreground and props: cubicle dividers, desktop monitors, tablet, backpack, plant, papers, vertical blinds. On-screen copy, preserved verbatim: small white subtitle text near lower-center reads \"후배들의 존경과 여유로운 태도\" then later in the beat \"그리고 빛나는 존재감으로 완성되죠.\". Lighting setup: warm directional late-day sun through the blinds from the rear, soft cool fluorescent fill, mixed temperature blending warm 3500K window and neutral office light, soft shadows, mid-key contrast, gentle rim from the window. Lens / framing / camera angle: eye-level wide office establishing shot for one view, eye-level medium for the young man, environment-to-bust scope, moderate depth with warm bokeh. Composition / grid: symmetrical aisle perspective in the wide view, the young man on the center-left third in the close view, rule-of-thirds; subtitle centered low. Color palette and strategy: warm beige office (#b9a88a), mustard cardigan accent (#c79a3e), sage-green sweater (#8a9b7d), cool monitor glow (#6f8fae), warm window glow; warm-dominant with cool fill, mid-key, brand-neutral nostalgic. Texture and surfaces: knit sweater, fabric cardigan, matte cubicle laminate, glossy monitors, paper, foliage, dusty warm air. Atmosphere: nostalgic warm office camaraderie, admiration, a glowing sense of belonging; soft sunlit haze. Post / signature look: clean cinematic digital, warm filmic grade, natural skin, light grain for nostalgic warmth, premium finish; live-action gentle handheld, no wiggle. Style anchor: premium Korean automotive narrative film, warm nostalgic office-life montage, colleagues' admiration beat, warm mid-key color grade, heartfelt belonging mood, subtitle copy preserved verbatim. Additional craft and depth specification for faithful reproduction: the wide office view should establish a slightly retro Korean corporate floor with low cubicle partitions, boxy desktop monitors and tall vertical-blind windows glowing warm at the rear, the colleagues arranged in a natural semicircle of applause around the back-three-quarter protagonist; the close view should render the bespectacled young man's warm admiring smile with the sage-green knit texture and backpack strap clearly visible, a potted plant and bulletin board softening the background. Wardrobe and material notes: the protagonist in a dark suit (seen from behind), the young man in round glasses and a chunky sage-green sweater with a black backpack strap, a colleague in a mustard-yellow cardigan as a warm accent. Surface notes: knit wool, fabric cardigan, matte laminate, glossy monitors, paper, foliage. Atmosphere is nostalgic warm office camaraderie with a glowing sense of belonging, soft sunlit haze drifting through the blinds. Render at full ultra-high-definition fidelity with warm filmic skin, mid-key contrast, light nostalgic grain, and a warm-with-cool-fill grade. Copyright-safe note for reproduction: render all figures as generic Korean office workers, keep any on-screen monitor content and signage generic, and preserve the subtitle copy verbatim exactly as written.",
+        "t2i_negative": "specific celebrity face-replication, real brand logos, watermark, oversaturated, cartoon, deformed faces, readable real screen content",
+        "i2v_motion": "Colleagues clap and react with admiration around the back-three-quarter protagonist while warm sun streams through the blinds; (close view) the bespectacled young man in the sage-green sweater smiles warmly with his tablet; VO subtitles '후배들의 존경과 여유로운 태도' then '그리고 빛나는 존재감으로 완성되죠.' fade in; gentle handheld, no wiggle. ~6.92s, steady.",
+        "i2v_params": {
+          "clip_duration_sec": 6.92,
+          "camera_move": "handheld_drift",
+          "subject_motion_level": "micro",
+          "signature_effect": "none",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; figures generic Korean office workers; screen content generic; subtitle preserved verbatim"
+      }
+    },
+    {
+      "index": 9,
+      "duration": 5.88,
+      "framing": "WS",
+      "function": "wow_comedy_reveal",
+      "subject_action": "triumphal hero walk down the central office aisle as colleagues applaud, backlit by windows; then a smartphone shows an incoming video call from a cheerful older woman named '♥여봉봉♥' — the comic deflation",
+      "layout_grid": "center",
+      "subject_position": "center",
+      "subject_identity": "protagonist_main",
+      "subject_relationship_to_protagonist": "main_character",
+      "mid_frame_path": "ADV-2026-051_frames/cut09_mid.png",
+      "subject_typo_layout": "typo_over_subject",
+      "typo_motion": "phone contact name '♥여봉봉♥' displayed on the call UI (~f928); no burned subtitle in the walk",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "environment",
+      "gaze": "off_camera",
+      "eye_contact_effect": null,
+      "props": [
+        "briefcase",
+        "cubicles",
+        "smartphone with video-call UI",
+        "applauding hands"
+      ],
+      "prop_semantics": "the heroic procession is punctured by a mundane mom video-call — the core comic device",
+      "color_palette": [
+        "#b6a585",
+        "#6b88a8",
+        "#d8b271",
+        "#e0648f"
+      ],
+      "color_intent": "warm backlit office with cool monitor blue and a pink heart-UI accent; ironic contrast",
+      "pose_description": "protagonist walks confidently with briefcase down a backlit aisle; phone held showing the call",
+      "subject_motion": "walking_forward",
+      "prop_motion": "phone held up; colleagues clapping",
+      "camera_motion": "slow_track",
+      "camera_motion_intensity": "low",
+      "camera_effect_local": "lens_flare",
+      "motion_blur": false,
+      "intra_cut_rhythm": "steady",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [
+        "ui_motion",
+        "lens_flare"
+      ],
+      "vfx_intensity_local": "moderate",
+      "fact_check_flag": null,
+      "notes": "Cut9 (sc23-26, f822-f962, 34.24-40.12s): hero aisle-walk + applause + smartphone incoming video call '♥여봉봉♥' (mom). Comic deflation of the grandiose self-image.",
+      "visible_elements": {
+        "foreground": [
+          "protagonist walking with briefcase (wide)",
+          "held black smartphone showing video-call UI (close)"
+        ],
+        "midground": [
+          "rows of applauding colleagues lining the aisle"
+        ],
+        "background": [
+          "tall windows with warm backlight and lens flare",
+          "cubicles, monitors"
+        ],
+        "lighting_env": [
+          "strong warm rear window backlight",
+          "cool office fill",
+          "self-lit phone screen"
+        ],
+        "atmosphere": [
+          "comedic triumphal procession",
+          "warm office glow",
+          "sunlit haze"
+        ]
+      },
+      "texture": {
+        "primary_subject": "fabric_wool_suit",
+        "secondary_objects": [
+          "glass_clear",
+          "plastic_glossy",
+          "paper"
+        ],
+        "background_surface": "fabric",
+        "atmospheric": [
+          "sunlit_haze",
+          "lens_flare_bloom"
+        ]
+      },
+      "lighting": {
+        "key_direction": "back",
+        "key_hardness": "soft",
+        "key_color_temp": "warm_3500K",
+        "fill_strength": "moderate",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": true,
+        "practical_lights": [
+          "window sunlight",
+          "phone screen"
+        ],
+        "shadow_presence": "soft",
+        "overall_contrast": "mid_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#b6a585",
+          "#6b88a8",
+          "#d8b271",
+          "#e0648f"
+        ],
+        "palette_role": {
+          "#b6a585": "office_warm_beige_dominant",
+          "#6b88a8": "monitor_cool_blue",
+          "#d8b271": "window_warm_glow",
+          "#e0648f": "phone_ui_pink_accent"
+        },
+        "color_relationship": "complementary",
+        "temperature_balance": "warm_dominant",
+        "saturation_strategy": "muted_with_pop",
+        "contrast_type": "luminance_high",
+        "accent_color": "#e0648f",
+        "accent_ratio": "5_percent"
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A comedic-triumph office beat rendered at 1920x1080 pixels, 16:9 landscape, combining a hero aisle-walk and a smartphone video-call reveal. The wider view is a symmetrical wide shot down the central aisle of a slightly retro open-plan office: the executive in a dark suit walks confidently toward camera carrying a briefcase, flanked on both sides by rows of standing colleagues applauding him, warm sunlight streaming from tall windows behind him creating a backlit glow and long aisle shadows. The paired close view is an over-the-hand smartphone screen showing an incoming video call: the live camera image of a cheerful older Korean woman with permed hair in a patterned cardigan, the contact name displayed with heart symbols as \"♥여봉봉♥\", a phone number row, and round green-answer and red-decline call buttons. Foreground and props: briefcase, cubicles, monitors, the held black smartphone with call UI, applauding hands. On-screen copy, preserved verbatim: contact name on phone reads \"♥여봉봉♥\"; no burned subtitle in the walk, then a faint reaction. Lighting setup: strong warm backlight from the rear windows in the walk creating silhuetted rim and lens flare, cool fill, mixed warm 3400K, mid-key contrast, long shadows; the phone screen is self-lit bright neutral against a dim cabin. Lens / framing / camera angle: eye-level symmetrical wide for the walk, environment scope; tight top-down close-up on the phone, eye-level. Composition / grid: dead-center one-point perspective aisle for the walk, the phone screen filling the frame for the close; subtitle/UI centered. Color palette and strategy: warm office beige (#b6a585), cool monitor blue (#6b88a8), warm window glow (#d8b271), phone UI dark with pink heart accent (#e0648f); warm-dominant with cool and pink accents, mid-key luminance contrast, brand-neutral. Texture and surfaces: wool suit, laminate desks, glossy phone glass, fabric cardigan on screen, paper, warm dusty air. Atmosphere: comedic triumphal procession undercut by an everyday mom video-call, warm office glow, gentle humor; sunlit haze. Post / signature look: clean cinematic digital, warm filmic grade, natural skin, controlled flare, light grain, premium finish; live-action, smooth track and locked close-up, no wiggle. Style anchor: premium Korean automotive narrative film, comedic hero-walk-meets-mom-call beat, warm backlit office grade, ironic humor mood, on-screen contact text preserved verbatim. Additional craft and depth specification for faithful reproduction: the hero aisle-walk should use strong one-point perspective with the protagonist centered and backlit by the rear windows so a rim of warm light traces his silhouette and a gentle lens flare blooms, the applauding colleagues lining both sides in slight silhouette; the smartphone insert should fill the frame with a crisp self-lit call interface, the older woman's contact photo warm and cheerful, the heart-bracketed name and round answer/decline buttons clearly legible. Wardrobe and material notes: dark suit and briefcase for the protagonist; varied office attire for the colleagues; the phone is a current-model black-glass smartphone. Surface notes: wool suit, laminate desks, glossy phone glass, fabric on screen, paper. Atmosphere is a comedic triumphal procession deflated by an everyday mom video-call, warm office glow with sunlit haze. Lighting nuance: warm rear key, cool ambient fill, controlled flare; the phone screen reads cool-neutral against the dim cabin in the insert. Render at full ultra-high-definition fidelity with warm filmic skin, mid-key contrast, light grain, and a warm-backlit grade. Copyright-safe note for reproduction: render all figures as generic Korean people (no specific celebrity face-replication), keep the contact photo and UI generic, and preserve the on-screen contact text verbatim exactly as written.",
+        "t2i_negative": "specific celebrity face-replication, real brand logos, watermark, oversaturated, cartoon, deformed faces, readable real phone brand UI",
+        "i2v_motion": "The protagonist strides confidently toward camera down the backlit office aisle as colleagues applaud on both sides and a lens flare blooms; cut to the smartphone screen showing an incoming video call from a cheerful older woman, contact name '♥여봉봉♥' with green-answer and red-decline buttons; smooth track and locked insert, no wiggle. ~5.88s, steady.",
+        "i2v_params": {
+          "clip_duration_sec": 5.88,
+          "camera_move": "slow_track",
+          "subject_motion_level": "walk",
+          "signature_effect": "none",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; figures generic Korean people (no celebrity face-replication); phone UI generic; on-screen contact text preserved verbatim"
+      }
+    },
+    {
+      "index": 10,
+      "duration": 6.26,
+      "framing": "MCU",
+      "function": "narrative_comedy",
+      "subject_action": "the protagonist on the phone with a strained polite grimace-smile enduring a nagging call, colleagues laughing behind; subtitles '자동이체 해놓으라니까!' / '예은이 학원비' / '아 이제 그건 말씀이시군요'",
+      "layout_grid": "rule_of_thirds",
+      "subject_position": "center",
+      "subject_identity": "protagonist_main",
+      "subject_relationship_to_protagonist": "main_character",
+      "mid_frame_path": "ADV-2026-051_frames/cut10_mid.png",
+      "subject_typo_layout": "typo_separate_zone",
+      "typo_motion": "white subtitles fade in low-center across the beat: '자동이체 해놓으라니까!', '예은이 학원비', '아 이제 그건 말씀이시군요'",
+      "camera_angle": "eye_level",
+      "camera_facing": "three_quarter",
+      "shot_scope": "bust",
+      "gaze": "off_camera",
+      "eye_contact_effect": null,
+      "props": [
+        "smartphone at ear",
+        "cubicle dividers",
+        "monitors"
+      ],
+      "prop_semantics": "the mundane call about auto-pay and tuition deflates the dignified VO — comic engine",
+      "color_palette": [
+        "#566678",
+        "#c4a07f",
+        "#2a2f3a",
+        "#6f8fae"
+      ],
+      "color_intent": "neutral-cool office with warm skin; deadpan comedic tone",
+      "pose_description": "phone to ear, strained polite grimace-smile, slight brow furrow of exasperation",
+      "subject_motion": "micro_gestures",
+      "prop_motion": "colleagues clapping/laughing behind",
+      "camera_motion": "handheld_drift",
+      "camera_motion_intensity": "low",
+      "camera_effect_local": "handheld_slight_wobble",
+      "motion_blur": false,
+      "intra_cut_rhythm": "steady",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [],
+      "vfx_intensity_local": "none",
+      "fact_check_flag": null,
+      "notes": "Cut10 (sc27-28, f963-f1112, 40.12-46.38s): phone-call comedy; subtitles about 자동이체/예은이 학원비/'아 이제 그건 말씀이시군요'. Colleagues laugh behind.",
+      "visible_elements": {
+        "foreground": [
+          "protagonist with smartphone at ear, strained smile"
+        ],
+        "midground": [
+          "soft-focus colleagues clapping/laughing",
+          "cubicle dividers"
+        ],
+        "background": [
+          "glowing cool monitors",
+          "office depth"
+        ],
+        "lighting_env": [
+          "cool office key",
+          "warm practical accents behind"
+        ],
+        "atmosphere": [
+          "comedic exasperation",
+          "lively office hum"
+        ]
+      },
+      "texture": {
+        "primary_subject": "skin_natural",
+        "secondary_objects": [
+          "glass_clear",
+          "fabric_wool_suit",
+          "plastic_glossy"
+        ],
+        "background_surface": "bokeh_abstract",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "front",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "moderate",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": true,
+        "practical_lights": [
+          "office fluorescents",
+          "monitor glow"
+        ],
+        "shadow_presence": "soft",
+        "overall_contrast": "mid_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#566678",
+          "#c4a07f",
+          "#2a2f3a",
+          "#6f8fae"
+        ],
+        "palette_role": {
+          "#566678": "office_cool_grey_dominant",
+          "#c4a07f": "skin_warm",
+          "#2a2f3a": "suit_navy_charcoal",
+          "#6f8fae": "monitor_cool_glow"
+        },
+        "color_relationship": "complementary",
+        "temperature_balance": "balanced",
+        "saturation_strategy": "muted",
+        "contrast_type": "luminance_high",
+        "accent_color": "#c4a07f",
+        "accent_ratio": "30_percent"
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A comedic phone-call close-up beat rendered at 1920x1080 pixels, 16:9 landscape, in the warm-cool open office. The executive in a dark suit fills the center of frame in a medium close-up, holding a black smartphone to his ear, his expression a strained polite grimace-smile as he endures a nagging call, brow slightly furrowed; behind him, soft-focus colleagues clap and laugh, a man in a grey jacket and a woman among the cubicles, monitors glowing cool. He looks mildly flustered, caught between his dignified image and the mundane call. Foreground and props: smartphone at ear, suit shoulder, cubicle dividers, background colleagues, monitors. On-screen copy, preserved verbatim: small white subtitle text near lower-center reads \"자동이체 해놓으라니까!\" then across the beat \"예은이 학원비\" and \"아 이제 그건 말씀이시군요\". Lighting setup: cool office key from the front-left, warm practical accents behind, mixed neutral-cool about 5000K, mid-key contrast, soft shadows, slight rim from background. Lens / framing / camera angle: eye-level, medium close-up bust scope, shallow depth isolating the face against soft office bokeh. Composition / grid: face slightly left-of-center, background activity filling right, rule-of-thirds; subtitle centered low. Color palette and strategy: cool office grey-blue (#566678), warm wood/skin accents (#c4a07f), navy suit (#2a2f3a), cool monitor glow; balanced cool with warm skin, luminance contrast, brand-neutral. Texture and surfaces: wool suit, glossy phone glass, natural skin, laminate desks, glossy monitors, fabric. Atmosphere: comedic exasperation, lively office hum, the contrast of poise and domestic nagging; gentle air. Post / signature look: clean cinematic digital, neutral filmic grade, natural skin, light grain, premium finish; live-action handheld, no wiggle. Style anchor: premium Korean automotive narrative film, comedic phone-call reaction close-up, neutral office grade, deadpan humor mood, subtitle copy preserved verbatim. Additional craft and depth specification for faithful reproduction: the medium close-up should hold the protagonist's strained-polite grimace-smile in crisp focus while the open office behind dissolves into soft bokeh — a man in a grey jacket and a woman among glowing cool monitors, clapping and laughing at his predicament. His brow carries a faint furrow of domestic exasperation, the comic gap between his composed executive image and the nagging call. Wardrobe and material notes: dark worsted-wool suit, white shirt, dark tie; a current-model black smartphone pressed to his ear. Surface notes: fine wool, glossy phone glass, natural mature skin, laminate desks, glossy monitors, fabric. Atmosphere is lively comedic exasperation amid an office hum, the contrast of poise and parental scolding. Lighting nuance: a cool frontal key models the face, warm practical accents glow behind, a subtle rim separates him from the busy background, contrast held mid-key. Render at full ultra-high-definition fidelity with natural skin texture, neutral filmic contrast, light grain, and a balanced cool grade. Copyright-safe note for reproduction: render all figures as generic Korean office workers (no specific celebrity face-replication), keep monitor content and signage generic, and preserve the subtitle copy verbatim exactly as written. Final reproduction guidance: keep the depth-of-field shallow so the protagonist's face and the phone at his ear stay sharp while the celebrating colleagues melt into warm-cool office bokeh, and let his expression read as the comic collision of corporate composure and a mother's relentless phone reminder, with the contrast held at a gentle mid-key and the skin rendered with natural mature texture under the cool key and warm rim.",
+        "t2i_negative": "specific celebrity face-replication, real brand logos, watermark, oversaturated, cartoon, deformed face, readable real screen content",
+        "i2v_motion": "The protagonist endures the phone call with a strained polite grimace-smile and a faint brow furrow while soft-focus colleagues clap and laugh behind him; subtitles '자동이체 해놓으라니까!', '예은이 학원비', '아 이제 그건 말씀이시군요' fade in across the beat; gentle handheld, no wiggle. ~6.26s, steady.",
+        "i2v_params": {
+          "clip_duration_sec": 6.26,
+          "camera_move": "handheld_drift",
+          "subject_motion_level": "micro",
+          "signature_effect": "none",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; figures generic Korean people (no celebrity face-replication); subtitle preserved verbatim"
+      }
+    },
+    {
+      "index": 11,
+      "duration": 6.96,
+      "framing": "WS",
+      "function": "narrative_comedy",
+      "subject_action": "the protagonist walks through a luxurious glass-walled high-rise lounge on the phone, briefcase in hand, amid designer furniture and skyline windows; subtitles '그거 주말에 고치라고 했어 안 했어?' / '내가 이따 전화 다시 할게'",
+      "layout_grid": "center",
+      "subject_position": "center",
+      "subject_identity": "protagonist_main",
+      "subject_relationship_to_protagonist": "main_character",
+      "mid_frame_path": "ADV-2026-051_frames/cut11_mid.png",
+      "subject_typo_layout": "typo_separate_zone",
+      "typo_motion": "white subtitles fade in low-center: '그거 주말에 고치라고 했어 안 했어?' then '내가 이따 전화 다시 할게'",
+      "camera_angle": "eye_level",
+      "camera_facing": "three_quarter",
+      "shot_scope": "environment",
+      "gaze": "off_camera",
+      "eye_contact_effect": null,
+      "props": [
+        "briefcase",
+        "phone",
+        "tan leather chair",
+        "floral arrangement",
+        "plants",
+        "chrome shelving",
+        "classic desk phone"
+      ],
+      "prop_semantics": "opulent office interior visualizes wealth/status (his self-image) while the call keeps deflating it",
+      "color_palette": [
+        "#a9824f",
+        "#7f9bb5",
+        "#2d3138",
+        "#5d7a55"
+      ],
+      "color_intent": "warm-cool balanced split: warm leather/pendants vs cool skyline windows; aspirational",
+      "pose_description": "strides through the glass doorway threshold mid-call, poised yet slightly harried",
+      "subject_motion": "walking_forward",
+      "prop_motion": "none",
+      "camera_motion": "locked_off",
+      "camera_motion_intensity": "none",
+      "camera_effect_local": "none",
+      "motion_blur": false,
+      "intra_cut_rhythm": "steady",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [],
+      "vfx_intensity_local": "none",
+      "fact_check_flag": null,
+      "notes": "Cut11 (sc29-31, f1113-f1279, 46.38-53.34s): luxe exec lounge walk on phone; subtitles '그거 주말에 고치라고 했어 안 했어?' / '내가 이따 전화 다시 할게'.",
+      "visible_elements": {
+        "foreground": [
+          "classic desk phone and table",
+          "briefcase"
+        ],
+        "midground": [
+          "protagonist in dark suit walking through glass doorway",
+          "tan leather chair, dark sofas, floral arrangement, plants, chrome shelving"
+        ],
+        "background": [
+          "floor-to-ceiling windows with daytime skyline of skyscrapers"
+        ],
+        "lighting_env": [
+          "cool daylight from windows",
+          "warm pendant and lamp fill"
+        ],
+        "atmosphere": [
+          "affluent corporate calm",
+          "aspirational interior",
+          "airy daylight"
+        ]
+      },
+      "texture": {
+        "primary_subject": "fabric_wool_suit",
+        "secondary_objects": [
+          "leather",
+          "metal_chrome",
+          "glass_clear",
+          "foliage"
+        ],
+        "background_surface": "glass_clear",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "side_right",
+        "key_hardness": "soft",
+        "key_color_temp": "mixed",
+        "fill_strength": "moderate",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": false,
+        "practical_lights": [
+          "pendant lights",
+          "table lamps",
+          "window daylight"
+        ],
+        "shadow_presence": "soft",
+        "overall_contrast": "mid_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#a9824f",
+          "#7f9bb5",
+          "#2d3138",
+          "#5d7a55"
+        ],
+        "palette_role": {
+          "#a9824f": "tan_leather_warm",
+          "#7f9bb5": "window_skyline_cool",
+          "#2d3138": "sofa_charcoal_dominant",
+          "#5d7a55": "foliage_green"
+        },
+        "color_relationship": "complementary",
+        "temperature_balance": "split_warm_cool",
+        "saturation_strategy": "muted",
+        "contrast_type": "temperature_split",
+        "accent_color": "#a9824f",
+        "accent_ratio": "15_percent"
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A luxurious executive-lounge beat rendered at 1920x1080 pixels, 16:9 landscape, in a sleek high-rise office suite with floor-to-ceiling city-view windows. A wide shot frames the executive in a dark suit walking through an opulent glass-walled lounge while holding his phone, carrying a briefcase; the space is appointed with designer furniture — a tan leather lounge chair, dark sofas, chrome shelving, large floral arrangements, lush potted plants — and tall windows revealing a daytime skyline of distant skyscrapers. Warm pendant and lamp lighting mixes with cool daylight from the windows. He strides mid-conversation, poised but slightly harried by the call. Foreground and props: briefcase, phone, leather chair, floral arrangement, plants, chrome shelving, classic desk phone on a table. On-screen copy, preserved verbatim: small white subtitle text near lower-center reads \"그거 주말에 고치라고 했어 안 했어?\" then \"내가 이따 전화 다시 할게\". Lighting setup: cool daylight key from the large windows, warm interior practical fill from pendants and lamps, mixed temperature blending 3000K warm and 5800K cool, soft shadows, mid-key contrast. Lens / framing / camera angle: eye-level wide environment shot, deep-to-moderate depth of field, the room's depth emphasized. Composition / grid: the man centered in the glass doorway threshold, symmetrical framing with plants flanking, rule-of-thirds horizon at the window line; subtitle centered low. Color palette and strategy: warm tan leather (#a9824f), cool blue window skyline (#7f9bb5), dark sofa charcoal (#2d3138), green foliage (#5d7a55), navy suit; warm-cool balanced split, luminance contrast, brand-neutral upscale. Texture and surfaces: tan leather, polished chrome, glass walls, glossy stone floor, foliage, fabric upholstery, fine wool. Atmosphere: affluent corporate calm, aspirational success interior, gentle humor undertone; airy daylight. Post / signature look: clean cinematic digital, balanced filmic grade, natural skin, restrained grain, premium finish; live-action locked-off, no wiggle. Style anchor: premium Korean automotive narrative film, luxury executive lounge establishing shot, warm-cool balanced grade, aspirational-with-comic mood, subtitle copy preserved verbatim. Additional craft and depth specification for faithful reproduction: the wide lounge shot should layer depth from the foreground desk-and-phone, through the protagonist framed in the glass doorway threshold, to the city skyline beyond the floor-to-ceiling windows, with designer furniture and lush plants flanking to convey affluence; warm pendant pools mix with cool window daylight for a balanced split. The protagonist strides mid-call, briefcase in hand, poised yet faintly harried. Wardrobe and material notes: dark tailored suit and tie; a current-model smartphone; a leather briefcase. Surface notes: tan leather, polished chrome shelving, glass walls, glossy stone floor, foliage, fabric upholstery, fine wool. Atmosphere is aspirational corporate calm with a gentle comic undertone, airy daylight filling the suite. Lighting nuance: cool window key, warm interior fill from pendants and lamps, soft shadows, mid-key. Render at full ultra-high-definition fidelity with natural skin, balanced filmic contrast, restrained grain, and a warm-cool split grade. Copyright-safe note for reproduction: render the protagonist as a distinguished Korean man of generic likeness, keep all furnishings, artwork and signage generic and brand-neutral, and preserve the subtitle copy verbatim exactly as written. Final reproduction guidance: emphasise the one-point depth of the glass-walled suite so the eye travels from the foreground desk through the framed protagonist in the doorway out to the hazy skyline, keep the furniture, artwork, plants and skyline strictly generic and brand-neutral, hold the warm-cool split balanced and the skin natural, and let the body language read as a poised executive quietly harried by a domestic phone call.",
+        "t2i_negative": "specific celebrity face-replication, real brand logos, watermark, oversaturated, cartoon, deformed face, identifiable real artwork",
+        "i2v_motion": "The protagonist strides through the glass-walled lounge on the phone, briefcase in hand, past designer furniture and plants with the skyline glowing beyond the windows; subtitles '그거 주말에 고치라고 했어 안 했어?' then '내가 이따 전화 다시 할게' fade in; locked-off camera, no wiggle. ~6.96s, steady.",
+        "i2v_params": {
+          "clip_duration_sec": 6.96,
+          "camera_move": "locked_off",
+          "subject_motion_level": "walk",
+          "signature_effect": "none",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; protagonist generic distinguished Korean man (no celebrity face-replication); furnishings/artwork generic; subtitle preserved verbatim"
+      }
+    },
+    {
+      "index": 12,
+      "duration": 8.31,
+      "framing": "WS",
+      "function": "narrative_comedy",
+      "subject_action": "the protagonist in his opulent private office talks with a second suited man through a glass partition; vintage golf clubs and floral arrangements in the inner room; subtitle '어 알았어~'",
+      "layout_grid": "center",
+      "subject_position": "center",
+      "subject_identity": "protagonist_main",
+      "subject_relationship_to_protagonist": "main_character",
+      "mid_frame_path": "ADV-2026-051_frames/cut12_mid.png",
+      "subject_typo_layout": "typo_separate_zone",
+      "typo_motion": "white subtitle '어 알았어~' fades in low-center",
+      "camera_angle": "eye_level",
+      "camera_facing": "three_quarter",
+      "shot_scope": "environment",
+      "gaze": "off_camera",
+      "eye_contact_effect": null,
+      "props": [
+        "classic desk phone",
+        "papers",
+        "desk lamp",
+        "briefcase",
+        "glass partition",
+        "golf clubs",
+        "floral arrangement",
+        "plants"
+      ],
+      "prop_semantics": "affluent office with leisure props (golf) signals success; comic distraction continues",
+      "color_palette": [
+        "#9c7846",
+        "#6c829a",
+        "#2b2e34",
+        "#5d7a55"
+      ],
+      "color_intent": "warm low-key affluent interior with cool glass reflections",
+      "pose_description": "protagonist stands facing a second suited man, briefcase in hand, measured corporate conversation",
+      "subject_motion": "micro_gestures",
+      "prop_motion": "second man enters through glass door",
+      "camera_motion": "locked_off",
+      "camera_motion_intensity": "none",
+      "camera_effect_local": "none",
+      "motion_blur": false,
+      "intra_cut_rhythm": "steady",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [],
+      "vfx_intensity_local": "none",
+      "fact_check_flag": null,
+      "notes": "Cut12 (sc32-34, f1280-f1478, 53.34-61.65s): exec office wide + meeting another exec; golf clubs/florals; subtitle '어 알았어~'.",
+      "visible_elements": {
+        "foreground": [
+          "classic black desk phone, papers, desk lamp on polished desk",
+          "briefcase"
+        ],
+        "midground": [
+          "protagonist and a second suited man in conversation",
+          "glass partition"
+        ],
+        "background": [
+          "inner room with shelving, floral arrangements, vintage golf clubs, warm lamp light"
+        ],
+        "lighting_env": [
+          "warm pendant and lamp key",
+          "cool window spill"
+        ],
+        "atmosphere": [
+          "hushed affluent office",
+          "measured corporate exchange",
+          "warm still air"
+        ]
+      },
+      "texture": {
+        "primary_subject": "fabric_wool_suit",
+        "secondary_objects": [
+          "wood_polished",
+          "glass_clear",
+          "metal_chrome",
+          "leather",
+          "foliage"
+        ],
+        "background_surface": "glass_clear",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "top",
+        "key_hardness": "soft",
+        "key_color_temp": "warm_3000K",
+        "fill_strength": "moderate",
+        "key_to_fill_ratio": "4:1",
+        "rim_light": false,
+        "practical_lights": [
+          "pendant lights",
+          "desk lamp"
+        ],
+        "shadow_presence": "soft",
+        "overall_contrast": "low_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#9c7846",
+          "#6c829a",
+          "#2b2e34",
+          "#5d7a55"
+        ],
+        "palette_role": {
+          "#9c7846": "warm_amber_interior",
+          "#6c829a": "cool_glass_reflection",
+          "#2b2e34": "dark_wood_charcoal_dominant",
+          "#5d7a55": "plant_green"
+        },
+        "color_relationship": "complementary",
+        "temperature_balance": "warm_dominant",
+        "saturation_strategy": "muted",
+        "contrast_type": "temperature_split",
+        "accent_color": "#9c7846",
+        "accent_ratio": "30_percent"
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "An executive-office meeting beat rendered at 1920x1080 pixels, 16:9 landscape, in the same opulent glass-walled high-rise suite. A wide-to-medium composition frames the executive in a dark suit standing in his private office, conversing with a second man (also suited) who enters through a glass door; behind them, a glass partition reveals an inner room with shelving, floral arrangements, a vintage-styled set of golf clubs in the corner, and warm lamp lighting, while a classic black desk phone and papers sit on the polished desk in the foreground. The two men face each other in measured corporate conversation, the protagonist holding his briefcase, still half-distracted by the earlier call. Foreground and props: desk phone, papers, desk lamp, briefcase, glass partition, golf clubs, floral arrangement, plants. On-screen copy, preserved verbatim: small white subtitle text near lower-center reads \"어 알았어~\". Lighting setup: warm interior practical key from pendants and lamps, cool spill from windows, mixed 3200K warm and cool, soft shadows, mid-low-key contrast, gentle pools of light. Lens / framing / camera angle: eye-level wide environment shot, deep depth of field, layered foreground-midground-background through the glass. Composition / grid: the two men in the mid-ground center-left, desk foreground anchoring the lower frame, glass layering depth, rule-of-thirds; subtitle centered low. Color palette and strategy: warm amber interior (#9c7846), cool glass reflections (#6c829a), dark wood and charcoal (#2b2e34), green plants, navy suits; warm-dominant with cool accents, luminance contrast, brand-neutral affluent. Texture and surfaces: polished wood desk, glass partitions, chrome, leather, fabric suiting, foliage, metal golf clubs. Atmosphere: hushed affluent office, measured corporate exchange, subtle comic distraction; warm still air. Post / signature look: clean cinematic digital, warm filmic grade, natural skin, restrained grain, premium finish; live-action locked-off, no wiggle. Style anchor: premium Korean automotive narrative film, executive office meeting beat, warm low-key affluent grade, dignified-comic mood, subtitle copy preserved verbatim. Additional craft and depth specification for faithful reproduction: the office meeting shot should use the glass partition to layer a sharp foreground desk (classic black desk phone, papers, lamp), the two suited men in measured conversation in the mid-ground, and a warmly lit inner room with shelving, floral arrangements and a corner set of vintage-styled golf clubs in the background depth, communicating affluent leisure and status; the protagonist still half-distracted by the call. Wardrobe and material notes: both men in dark tailored suits and ties; the protagonist holding a leather briefcase. Surface notes: polished wood desk, glass partitions, chrome, leather, fabric suiting, foliage, metal golf clubs. Atmosphere is a hushed affluent office, a measured corporate exchange with subtle comic distraction, warm still air. Lighting nuance: warm practical key from pendants and lamps, cool spill from windows, soft shadows, mid-low-key pools of light. Render at full ultra-high-definition fidelity with natural skin, warm filmic contrast, restrained grain, and a warm low-key affluent grade. Copyright-safe note for reproduction: render both men as generic Korean adults (no specific celebrity face-replication), keep all furnishings and signage generic and brand-neutral, and preserve the subtitle copy verbatim exactly as written. Final reproduction guidance: let the glass partition create true layered depth so the foreground desk-phone, the mid-ground pair of suited men, and the warmly lit inner room with its golf clubs and floral arrangements all read distinctly, keep all furnishings, signage and emblems strictly generic and brand-neutral, hold the warm low-key affluent grade with soft practical pools, and render both faces with natural mature skin texture in measured corporate conversation tinged with comic distraction.",
+        "t2i_negative": "specific celebrity face-replication, real brand logos, watermark, oversaturated, cartoon, deformed faces",
+        "i2v_motion": "A second suited man enters through the glass door as the protagonist turns to converse, briefcase in hand, the layered office depth visible through the partition; subtitle '어 알았어~' fades in; locked-off camera, no wiggle. ~8.31s, steady.",
+        "i2v_params": {
+          "clip_duration_sec": 8.31,
+          "camera_move": "locked_off",
+          "subject_motion_level": "micro",
+          "signature_effect": "none",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; figures generic Korean adults (no celebrity face-replication); furnishings generic; subtitle preserved verbatim"
+      }
+    },
+    {
+      "index": 13,
+      "duration": 5.38,
+      "framing": "MS",
+      "function": "narrative_comedy",
+      "subject_action": "the protagonist savors his success — standing proudly in his three-piece suit, then flinging himself playfully onto a leather lounge sofa in a modern den with blue abstract art",
+      "layout_grid": "rule_of_thirds",
+      "subject_position": "center",
+      "subject_identity": "protagonist_main",
+      "subject_relationship_to_protagonist": "main_character",
+      "mid_frame_path": "ADV-2026-051_frames/cut13_mid.png",
+      "subject_typo_layout": "typo_only_no_person",
+      "typo_motion": "no burned subtitle in this beat",
+      "camera_angle": "eye_level",
+      "camera_facing": "three_quarter",
+      "shot_scope": "full_body",
+      "gaze": "off_camera",
+      "eye_contact_effect": null,
+      "props": [
+        "three-piece suit",
+        "leather sofa",
+        "blue abstract painting",
+        "pendant lamp",
+        "plants"
+      ],
+      "prop_semantics": "private vanity + playful release reveal the gap between his composed mask and his real self",
+      "color_palette": [
+        "#9d7a48",
+        "#3f6a93",
+        "#2c2f35",
+        "#5d7a55"
+      ],
+      "color_intent": "warm affluent interior with a cool blue art accent; playful comic mood",
+      "pose_description": "standing with chin raised in private satisfaction; then mid-fling onto the sofa, jacket in motion",
+      "subject_motion": "dynamic_playful",
+      "prop_motion": "jacket flung",
+      "camera_motion": "handheld_drift",
+      "camera_motion_intensity": "moderate",
+      "camera_effect_local": "handheld_slight_wobble",
+      "motion_blur": true,
+      "intra_cut_rhythm": "steady",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [],
+      "vfx_intensity_local": "none",
+      "fact_check_flag": null,
+      "notes": "Cut13 (sc35-37, f1479-f1607, 61.65-67.03s): standing self-satisfaction + playful sofa-fling in modern den with blue abstract art.",
+      "visible_elements": {
+        "foreground": [
+          "protagonist standing (one view) / flinging onto leather sofa (other view)"
+        ],
+        "midground": [
+          "glass partition / leather sofa, side table"
+        ],
+        "background": [
+          "plants, warm interior / blue abstract painting, pendant light"
+        ],
+        "lighting_env": [
+          "warm lamp and pendant key",
+          "soft cool fill"
+        ],
+        "atmosphere": [
+          "private self-congratulation",
+          "playful release",
+          "affluent comfort"
+        ]
+      },
+      "texture": {
+        "primary_subject": "fabric_wool_suit",
+        "secondary_objects": [
+          "leather",
+          "paper_canvas",
+          "foliage",
+          "metal_brushed"
+        ],
+        "background_surface": "wall_painted",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "top",
+        "key_hardness": "soft",
+        "key_color_temp": "warm_3000K",
+        "fill_strength": "moderate",
+        "key_to_fill_ratio": "4:1",
+        "rim_light": false,
+        "practical_lights": [
+          "pendant light",
+          "table lamp"
+        ],
+        "shadow_presence": "soft",
+        "overall_contrast": "low_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#9d7a48",
+          "#3f6a93",
+          "#2c2f35",
+          "#5d7a55"
+        ],
+        "palette_role": {
+          "#9d7a48": "warm_amber_interior_dominant",
+          "#3f6a93": "blue_artwork_accent",
+          "#2c2f35": "suit_charcoal",
+          "#5d7a55": "foliage_green"
+        },
+        "color_relationship": "complementary",
+        "temperature_balance": "warm_dominant",
+        "saturation_strategy": "muted_with_pop",
+        "contrast_type": "temperature_split",
+        "accent_color": "#3f6a93",
+        "accent_ratio": "15_percent"
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A self-satisfied character beat rendered at 1920x1080 pixels, 16:9 landscape, in the affluent executive suite, mixing a standing portrait and a playful lounge moment. In the first view, the executive stands in a charcoal three-piece suit in his office near a glass partition, chin slightly raised, savoring his own success with a small private smile, plants and warm interior behind. In the paired playful view, the same man flings himself energetically onto a leather lounge sofa in a modern den (abstract blue artwork on the wall, a pendant light, plants), mid-motion as he removes or adjusts his jacket with exuberant body language, momentarily dropping his dignified mask. Foreground and props: suit, glass partition, leather sofa, blue abstract painting, pendant lamp, plants, side table. On-screen copy: none burned in this beat. Lighting setup: warm interior practical key from lamps and pendants, soft cool fill, mixed 3200K warm, soft shadows, mid-low-key contrast, cozy pools of light. Lens / framing / camera angle: eye-level medium for the standing portrait (bust-to-waist scope), eye-level medium-wide for the sofa motion (full-body scope), moderate depth of field. Composition / grid: man center-left standing with negative space, dynamic diagonal body line on the sofa, rule-of-thirds. Color palette and strategy: warm amber interior (#9d7a48), cool blue artwork accent (#3f6a93), charcoal suit (#2c2f35), green foliage, leather brown; warm-dominant with cool art accent, luminance contrast, brand-neutral affluent. Texture and surfaces: fine wool three-piece suiting, leather upholstery, painted canvas, matte wall, foliage, metal lamp. Atmosphere: private self-congratulation, playful release, affluent comfort, gentle comedy; warm still air. Post / signature look: clean cinematic digital, warm filmic grade, natural skin, restrained grain, premium finish; live-action handheld with a touch of energy on the sofa motion, no wiggle. Style anchor: premium Korean automotive narrative film, executive private-vanity and playful-lounge beat, warm low-key affluent grade, charismatic-comic mood. Additional craft and depth specification for faithful reproduction: the standing portrait should catch the protagonist's small private smile and slightly raised chin as he savors his success, plants and warm interior softening behind him; the paired lounge moment should render his exuberant body language mid-fling onto the leather sofa as a dynamic diagonal, jacket in motion, the abstract blue artwork and pendant light grounding the modern den. The two views together expose the gap between his composed public mask and his playful private self. Wardrobe and material notes: a dark charcoal three-piece suit with waistcoat; white shirt and tie. Surface notes: fine wool three-piece suiting, leather upholstery, painted canvas, matte wall, foliage, metal lamp. Atmosphere is private self-congratulation tipping into playful release, affluent comfort with gentle comedy, warm still air. Lighting nuance: warm practical key from lamps and pendants, soft cool fill, cozy pools of light, mid-low-key. Render at full ultra-high-definition fidelity with natural skin, warm filmic contrast, restrained grain, and a warm low-key grade; allow a touch of motion energy on the sofa fling. Copyright-safe note for reproduction: render the man as a distinguished Korean man of generic likeness (no specific celebrity face-replication), keep artwork and furnishings generic and brand-neutral; no burned copy in this beat. Final reproduction guidance: pair the composed standing portrait and the playful sofa-fling so the contrast between the protagonist's public dignity and his private exuberance is clear, keep the abstract blue artwork and furnishings generic and brand-neutral, hold the warm low-key affluent grade with cozy lamp pools, allow a touch of motion energy on the fling, and render the mature skin naturally.",
+        "t2i_negative": "specific celebrity face-replication, real brand logos, watermark, oversaturated, cartoon, deformed face, identifiable real artwork",
+        "i2v_motion": "The protagonist stands savoring his success with a small private smile and raised chin, then in the paired view flings himself energetically onto the leather sofa, jacket in motion, dropping his dignified mask; a touch of motion energy and light blur on the fling; gentle handheld, no wiggle. ~5.38s, steady.",
+        "i2v_params": {
+          "clip_duration_sec": 5.38,
+          "camera_move": "handheld_drift",
+          "subject_motion_level": "dynamic",
+          "signature_effect": "none",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; protagonist generic distinguished Korean man (no celebrity face-replication); artwork/furnishings generic; no burned copy"
+      }
+    },
+    {
+      "index": 14,
+      "duration": 4.08,
+      "framing": "MCU",
+      "function": "wow_name_reveal",
+      "subject_action": "at his desk the protagonist proudly holds up a desktop nameplate reading '상무이사 류승룡' (Executive Director Ryu Seung-ryong) like a trophy; subtitle '상무 류승룡...!'",
+      "layout_grid": "center",
+      "subject_position": "center",
+      "subject_identity": "protagonist_main",
+      "subject_relationship_to_protagonist": "main_character",
+      "mid_frame_path": "ADV-2026-051_frames/cut14_mid.png",
+      "subject_typo_layout": "typo_over_subject",
+      "typo_motion": "nameplate text '상무이사 류승룡' held in frame; white subtitle '상무 류승룡...!' fades in low-center (~f1657)",
+      "camera_angle": "eye_level",
+      "camera_facing": "back",
+      "shot_scope": "bust",
+      "gaze": "at_product",
+      "eye_contact_effect": null,
+      "props": [
+        "desktop nameplate '상무이사 류승룡'",
+        "polished desk",
+        "classic desk phone",
+        "pen holder",
+        "executive chair"
+      ],
+      "prop_semantics": "the nameplate is the hero prop and the meta self-aware joke — the actor's own name as 'Executive Director'",
+      "color_palette": [
+        "#a07a44",
+        "#1a1c20",
+        "#e8eaec",
+        "#caa589"
+      ],
+      "color_intent": "intimate warm low-key with cool metallic nameplate pop for a comic-pride climax",
+      "pose_description": "seen from behind/side, holding the nameplate up at eye level in both hands, admiring it",
+      "subject_motion": "micro_gestures",
+      "prop_motion": "nameplate held up and tilted",
+      "camera_motion": "slow_drift",
+      "camera_motion_intensity": "low",
+      "camera_effect_local": "none",
+      "motion_blur": false,
+      "intra_cut_rhythm": "steady",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [],
+      "vfx_intensity_local": "none",
+      "fact_check_flag": null,
+      "notes": "Cut14 (sc38-41, f1608-f1705, 67.03-71.11s): protagonist admires desk nameplate '상무이사 류승룡' — reveals the celebrity actor's name; subtitle '상무 류승룡...!'. Comic-pride climax.",
+      "visible_elements": {
+        "foreground": [
+          "black desktop nameplate held in both hands, etched/lit lettering '상무이사 류승룡'"
+        ],
+        "midground": [
+          "protagonist's dark shoulder (from behind)",
+          "polished dark desk"
+        ],
+        "background": [
+          "dim warm office, classic black desk phone at right, leather chair"
+        ],
+        "lighting_env": [
+          "low warm desk-lamp key pooling on the nameplate"
+        ],
+        "atmosphere": [
+          "intimate self-admiring pride",
+          "warm hush"
+        ]
+      },
+      "texture": {
+        "primary_subject": "metal_brushed",
+        "secondary_objects": [
+          "wood_polished",
+          "plastic_matte",
+          "leather",
+          "fabric_wool_suit"
+        ],
+        "background_surface": "wood_polished",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "front",
+        "key_hardness": "soft",
+        "key_color_temp": "warm_3000K",
+        "fill_strength": "minimal",
+        "key_to_fill_ratio": "8:1",
+        "rim_light": false,
+        "practical_lights": [
+          "desk lamp"
+        ],
+        "shadow_presence": "deep",
+        "overall_contrast": "low_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#a07a44",
+          "#1a1c20",
+          "#e8eaec",
+          "#caa589"
+        ],
+        "palette_role": {
+          "#a07a44": "warm_lamp_light",
+          "#1a1c20": "office_near_black_dominant",
+          "#e8eaec": "nameplate_metallic_white",
+          "#caa589": "hand_skin_warm"
+        },
+        "color_relationship": "complementary",
+        "temperature_balance": "warm_dominant",
+        "saturation_strategy": "muted_with_pop",
+        "contrast_type": "luminance_high",
+        "accent_color": "#e8eaec",
+        "accent_ratio": "15_percent"
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A pivotal name-reveal beat rendered at 1920x1080 pixels, 16:9 landscape, at the executive's dark wooden desk in a dim warm office. The composition is an over-the-shoulder view: the dark-suited man, seen from behind and slightly to the side, holds up a sleek black desktop nameplate in both hands at eye level, admiring it; the nameplate's etched/illuminated lettering faces the camera. Foreground and props: the black nameplate held in his hands as the focal object, the polished dark desk, a black classic desk phone at right, a pen holder, an executive leather chair, soft warm lamp glow. The nameplate is the hero prop, presented like a trophy. On-screen copy, preserved verbatim: the nameplate reads \"상무이사 류승룡\" (title \"상무이사\" at left in small caps and the personal name \"류승룡\" in larger spaced characters); a small white subtitle near lower-center reads \"상무 류승룡...!\". Lighting setup: low warm desk-lamp key from the front creating a pool of light on the nameplate and hands, dim ambient surroundings, warm 3000K, soft shadows, low-key contrast, intimate glow. Lens / framing / camera angle: over-the-shoulder eye-level, medium close-up centered on the held nameplate, shallow depth of field with the dim office bokeh behind. Composition / grid: nameplate dead-center as the subject, the man's dark shoulder framing left, desk phone anchoring right, rule-of-thirds; subtitle centered low. Color palette and strategy: warm amber lamp light (#a07a44), dark near-black surroundings (#1a1c20), the nameplate's cool metallic sheen with white lettering (#e8eaec), warm skin on hands; low-key warm with cool metallic pop, luminance contrast, brand-neutral. Texture and surfaces: brushed-metal/gloss nameplate, polished dark wood desk, matte phone, leather chair, fine wool suiting, skin. Atmosphere: intimate self-admiring pride, warm hush, a quietly comic vanity climax; still warm air. Post / signature look: clean cinematic digital, warm low-key filmic grade, natural skin, restrained grain, premium finish; live-action gentle handheld, no wiggle. Style anchor: premium Korean automotive narrative film, executive nameplate self-admiration reveal, warm intimate low-key grade, comic-pride mood, on-screen nameplate and subtitle text preserved verbatim. Additional craft and depth specification for faithful reproduction: the over-the-shoulder framing should keep the protagonist's dark shoulder in soft foreground while the held nameplate sits in a pool of warm desk-lamp light as the crisp focal object, presented like a trophy he admires; the dim office recedes into warm bokeh, a classic black desk phone anchoring the right. The micro-expression is quiet self-admiring pride. Wardrobe and material notes: dark tailored suit and tie; hands with a wristwatch. Surface notes: brushed-metal or gloss nameplate, polished dark wood desk, matte phone, leather chair, fine wool suiting, skin. Atmosphere is intimate self-satisfied pride, a warm hush, the quietly comic vanity climax of the narrative. Lighting nuance: a low warm desk-lamp key creates a tight pool on the nameplate and hands, the surroundings dim, soft shadows, low-key intimate contrast. Render at full ultra-high-definition fidelity with natural skin, warm low-key filmic contrast, restrained grain, and a refined warm grade. Copyright-safe note for reproduction: render the man as a distinguished Korean man of generic likeness (no specific celebrity face-replication); the nameplate and subtitle text are on-screen copy and are preserved verbatim, while any emblem is kept generic and brand-neutral.",
+        "t2i_negative": "specific celebrity face-replication, real brand logos, watermark, oversaturated, cartoon, deformed hands, unreadable text",
+        "i2v_motion": "Over the shoulder, the protagonist holds up the black desktop nameplate '상무이사 류승룡' in a pool of warm desk-lamp light, tilting it slightly to admire it like a trophy, the dim office behind in warm bokeh; subtitle '상무 류승룡...!' fades in; gentle drift, no wiggle. ~4.08s, steady.",
+        "i2v_params": {
+          "clip_duration_sec": 4.08,
+          "camera_move": "slow_drift",
+          "subject_motion_level": "micro",
+          "signature_effect": "none",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; protagonist generic distinguished Korean man (no celebrity face-replication); nameplate and subtitle are on-screen copy preserved verbatim; emblem generic"
+      }
+    },
+    {
+      "index": 15,
+      "duration": 7.59,
+      "framing": "MCU",
+      "function": "wow_daydream",
+      "subject_action": "a surreal rotated-framing daydream: the protagonist reclines with eyes closed and a blissful smile, composed sideways (90-degree tilt) as if drifting in fantasy; subtitle '하...이거지...'",
+      "layout_grid": "dynamic_symmetry",
+      "subject_position": "center",
+      "subject_identity": "protagonist_main",
+      "subject_relationship_to_protagonist": "main_character",
+      "mid_frame_path": "ADV-2026-051_frames/cut15_mid.png",
+      "subject_typo_layout": "typo_separate_zone",
+      "typo_motion": "white subtitle '하...이거지...' fades in within the rotated composition (~f1785)",
+      "camera_angle": "dutch",
+      "camera_facing": "frontal",
+      "shot_scope": "face_only",
+      "gaze": "down",
+      "eye_contact_effect": null,
+      "props": [
+        "suit lapel",
+        "white shirt collar",
+        "seat headrest"
+      ],
+      "prop_semantics": "the 90-degree tilt visualizes a floating fantasy — the apex of his self-importance",
+      "color_palette": [
+        "#5b6776",
+        "#2a2f3a",
+        "#c7a585",
+        "#ffffff"
+      ],
+      "color_intent": "cool dreamy low-key with warm skin; surreal blissful reverie",
+      "pose_description": "reclining with eyes gently closed and a serene contented smile, head oriented sideways in frame",
+      "subject_motion": "static_pose",
+      "prop_motion": "none",
+      "camera_motion": "locked_off_rotated",
+      "camera_motion_intensity": "none",
+      "camera_effect_local": "rotated_framing",
+      "motion_blur": false,
+      "intra_cut_rhythm": "static",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [],
+      "vfx_intensity_local": "none",
+      "fact_check_flag": null,
+      "notes": "Cut15 (sc42-45, f1706-f1887, 71.11-78.70s): surreal 90-degree rotated daydream of protagonist blissfully reclining; subtitle '하...이거지...'. Deliberate sideways framing.",
+      "visible_elements": {
+        "foreground": [
+          "protagonist's face and shoulders composed sideways, eyes closed, serene smile"
+        ],
+        "midground": [
+          "suit lapel, white shirt collar"
+        ],
+        "background": [
+          "dark seat headrest, soft blurred surroundings"
+        ],
+        "lighting_env": [
+          "soft low cool side key"
+        ],
+        "atmosphere": [
+          "floating daydream serenity",
+          "surreal tilt",
+          "blissful self-satisfaction"
+        ]
+      },
+      "texture": {
+        "primary_subject": "skin_natural",
+        "secondary_objects": [
+          "fabric_wool_suit",
+          "fabric_cotton"
+        ],
+        "background_surface": "bokeh_abstract",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "side_left",
+        "key_hardness": "soft",
+        "key_color_temp": "cool_5500K",
+        "fill_strength": "minimal",
+        "key_to_fill_ratio": "4:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "soft",
+        "overall_contrast": "low_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#5b6776",
+          "#2a2f3a",
+          "#c7a585",
+          "#ffffff"
+        ],
+        "palette_role": {
+          "#5b6776": "cool_grey_blue_dominant",
+          "#2a2f3a": "suit_navy_charcoal",
+          "#c7a585": "skin_warm",
+          "#ffffff": "shirt_collar_white"
+        },
+        "color_relationship": "complementary",
+        "temperature_balance": "cool_dominant",
+        "saturation_strategy": "muted",
+        "contrast_type": "luminance_low",
+        "accent_color": "#c7a585",
+        "accent_ratio": "30_percent"
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A dreamlike rotated-framing beat rendered at 1920x1080 pixels, 16:9 landscape, depicting the executive in blissful reverie, presented with a deliberate 90-degree sideways composition. The dark-suited man reclines, eyes gently closed, a serene contented smile on his face, his head and shoulders composed so that he reads as lying down — within the widescreen frame the figure is oriented vertically/sideways (head toward one side), creating a disorienting daydream effect as if the viewer's perspective has tipped; soft cool light models his relaxed features. He is wrapped in the satisfaction of his imagined success, drifting in fantasy. Foreground and props: suit lapel, white shirt collar, dark seat headrest; minimal surroundings, softly blurred. On-screen copy, preserved verbatim: small white subtitle text reads \"하...이거지...\". Lighting setup: soft cool key from one side at low intensity, gentle fill, neutral-cool 5600K, soft shadows, low-key dreamy contrast, a slight glow. Lens / framing / camera angle: the camera is rotated so the man appears horizontal — an intentional sideways/dutch-90 framing; medium close-up bust scope, shallow depth of field with creamy bokeh. Composition / grid: the reclining figure spans the frame diagonally/sideways, face as the focal point, soft negative space; subtitle placed within the rotated composition. Color palette and strategy: cool grey-blue tones (#5b6776), navy-charcoal suit (#2a2f3a), warm relaxed skin (#c7a585), white collar; low-key cool with warm skin, luminance contrast, brand-neutral. Texture and surfaces: fine wool suiting, crisp shirt cotton, smooth skin, soft seat fabric, glassy bokeh. Atmosphere: floating daydream serenity, surreal tilt, blissful self-satisfaction; hushed dreamy air. Post / signature look: clean cinematic digital, cool filmic grade, soft natural skin, restrained grain, premium finish; live-action with deliberate rotated framing, no wiggle. Style anchor: premium Korean automotive narrative film, surreal rotated daydream portrait, cool dreamy low-key grade, blissful-comic reverie mood, subtitle copy preserved verbatim. Additional craft and depth specification for faithful reproduction: the deliberately rotated framing must read as a dreamlike tilt — the reclining figure spanning the frame sideways with eyes gently closed and a serene contented smile, soft cool light wrapping his relaxed features, the surroundings reduced to creamy bokeh so the surreal orientation reads as fantasy rather than error. The mood is floating bliss, the apex of his imagined self-importance. Wardrobe and material notes: dark navy-charcoal suit, crisp white shirt collar. Surface notes: fine wool suiting, crisp shirt cotton, smooth mature skin, soft seat fabric, glassy bokeh. Atmosphere is a floating daydream serenity with a surreal tilt and blissful self-satisfaction, hushed dreamy air. Lighting nuance: a soft low-intensity cool side key, gentle fill, soft shadows, low-key dreamy contrast with a faint glow. Render at full ultra-high-definition fidelity with soft natural skin, cool filmic contrast, restrained grain, and a dreamy cool grade; preserve the intentional ninety-degree rotated composition. Copyright-safe note for reproduction: render the man as a distinguished Korean man of generic likeness (no specific celebrity face-replication), keep surroundings generic, and preserve the subtitle copy verbatim exactly as written. Final reproduction guidance: commit fully to the surreal sideways orientation so the viewer registers a tipped dream-perspective rather than a mistake, keep the bokeh creamy and the cool side key soft and low, render the serene closed-eye smile with natural mature skin texture, and let the entire frame breathe with a floating, blissful, gently comic reverie that caps the protagonist's fantasy of his own importance.",
+        "t2i_negative": "specific celebrity face-replication, real brand logos, watermark, oversaturated, cartoon, deformed face",
+        "i2v_motion": "Hold the surreal sideways composition with breathing-level stillness — the protagonist reclines with eyes gently closed and a serene blissful smile, soft cool light playing across his relaxed features in a dreamlike tilt; subtitle '하...이거지...' fades in; locked-off rotated framing, no wiggle. ~7.59s, static-to-steady.",
+        "i2v_params": {
+          "clip_duration_sec": 7.59,
+          "camera_move": "locked_off",
+          "subject_motion_level": "still",
+          "signature_effect": "none",
+          "pacing": "static",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; protagonist generic distinguished Korean man (no celebrity face-replication); preserve intentional 90-degree rotated framing; subtitle preserved verbatim"
+      }
+    },
+    {
+      "index": 16,
+      "duration": 6.72,
+      "framing": "LS",
+      "function": "product_hero_feature",
+      "subject_action": "return to reality: hero golden-hour driving of the EV + its dashboard infotainment screen showing the incoming connected-car call '♥여봉봉♥'; subtitle '부드러워~'",
+      "layout_grid": "rule_of_thirds",
+      "subject_position": "left_third",
+      "subject_identity": "product_vehicle",
+      "subject_relationship_to_protagonist": "none_environment",
+      "mid_frame_path": "ADV-2026-051_frames/cut16_mid.png",
+      "subject_typo_layout": "typo_over_subject",
+      "typo_motion": "in-dash call UI text ('♥여봉봉♥', '전화 수신 대기 중입니다.', 수신/종료, '류상무', 'EV Multiverse / Kia', 2:35 PM); white subtitle '부드러워~' fades in low-center",
+      "camera_angle": "eye_level",
+      "camera_facing": "three_quarter",
+      "shot_scope": "environment",
+      "gaze": "none",
+      "eye_contact_effect": null,
+      "props": [
+        "sage-grey-green EV",
+        "city street",
+        "in-dash infotainment touchscreen",
+        "steering wheel"
+      ],
+      "prop_semantics": "the connected-car screen ties the mom-call comedy to the EV9's tech feature (hands-free call)",
+      "color_palette": [
+        "#7e877f",
+        "#d8b06a",
+        "#9fb6c6",
+        "#df6890"
+      ],
+      "color_intent": "golden-hour warm body highlights vs cool sky; pink UI accent for the call",
+      "pose_description": "no full person; the EV in motion and the glowing in-dash call screen as foci",
+      "subject_motion": "vehicle_driving",
+      "prop_motion": "car tracking; UI call displayed",
+      "camera_motion": "smooth_tracking",
+      "camera_motion_intensity": "moderate",
+      "camera_effect_local": "none",
+      "motion_blur": true,
+      "intra_cut_rhythm": "steady",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [
+        "ui_motion"
+      ],
+      "vfx_intensity_local": "moderate",
+      "fact_check_flag": null,
+      "notes": "Cut16 (sc46-49, f1888-f2048, 78.70-85.42s): blurred building transition + EV golden-hour driving (front + rear) + in-dash call screen '♥여봉봉♥' with owner '류상무' & 'EV Multiverse/Kia'. Subtitle '부드러워~'.",
+      "visible_elements": {
+        "foreground": [
+          "EV driving front three-quarter (one view)",
+          "in-dash curved touchscreen with call UI (other view)"
+        ],
+        "midground": [
+          "city street",
+          "cabin dash, steering wheel rim"
+        ],
+        "background": [
+          "mid-rise buildings, warm low sun",
+          "blue ambient cabin"
+        ],
+        "lighting_env": [
+          "warm low-sun key on body",
+          "self-lit screen with blue cabin ambient"
+        ],
+        "atmosphere": [
+          "refined golden-hour driving glamour",
+          "everyday connectivity",
+          "gentle humor"
+        ]
+      },
+      "texture": {
+        "primary_subject": "metallic",
+        "secondary_objects": [
+          "plastic_matte",
+          "glass_clear"
+        ],
+        "background_surface": "concrete",
+        "atmospheric": [
+          "motion_blur"
+        ]
+      },
+      "lighting": {
+        "key_direction": "side_right",
+        "key_hardness": "soft",
+        "key_color_temp": "warm_3500K",
+        "fill_strength": "moderate",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": true,
+        "practical_lights": [
+          "vehicle LED",
+          "infotainment screen",
+          "blue ambient cabin"
+        ],
+        "shadow_presence": "soft",
+        "overall_contrast": "mid_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#7e877f",
+          "#d8b06a",
+          "#9fb6c6",
+          "#df6890"
+        ],
+        "palette_role": {
+          "#7e877f": "car_body_sage_grey_dominant",
+          "#d8b06a": "golden_sunlight",
+          "#9fb6c6": "sky_cool",
+          "#df6890": "screen_ui_pink_accent"
+        },
+        "color_relationship": "complementary",
+        "temperature_balance": "split_warm_cool",
+        "saturation_strategy": "muted_with_pop",
+        "contrast_type": "luminance_high",
+        "accent_color": "#df6890",
+        "accent_ratio": "5_percent"
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A polished product-hero driving beat rendered at 1920x1080 pixels, 16:9 landscape, returning from reverie to the real world with the electric SUV in motion and its connected-car screen. The dominant image is a clean side-front three-quarter tracking shot of the large sage-grey-green electric SUV driving along a sunlit city street, its boxy upright silhouette and signature vertical stacked LED daytime-running lights glowing, gloss-black alloy wheels turning, a pale-blue plate \"26더 3100\", with mid-rise buildings and warm low sun behind. The paired feature insert shows the SUV's wide dashboard infotainment touchscreen displaying an incoming hands-free call: a contact photo of a smiling older woman, the heart-bracketed name \"♥여봉봉♥\", a number \"010-1234-5678\", a status line \"전화 수신 대기 중입니다.\", green \"수신\" (answer) and red \"종료\" (end) buttons, a small phone-owner label \"류상무\" and an \"EV Multiverse / Kia\" tag at lower-right, clock \"2:35 PM\", set against the cabin's blue ambient lighting. Foreground and props: the moving SUV, street, the in-dash touchscreen with call UI, steering wheel rim. On-screen copy, preserved verbatim: a small white subtitle near lower-center reads \"부드러워~\"; the screen text exactly as listed above. Lighting setup: warm low-sun key raking the car body creating golden highlights, cool sky fill, mixed warm 4000K, soft shadows, mid-key contrast; the screen is self-lit cool-neutral with blue cabin ambient. Lens / framing / camera angle: eye-level tracking medium-wide on the car (environment scope), tight close-up on the screen (detail scope), moderate depth with gentle motion on the driving plate. Composition / grid: car on the center-left third moving right, street receding, rule-of-thirds; screen UI centered in the insert; subtitle centered low. Color palette and strategy: sage-grey-green body (#7e877f), warm golden sunlight (#d8b06a), cool sky (#9fb6c6), screen dark with pink heart accent (#df6890) and blue ambient (#3d6ca0); warm-cool balanced with pink UI pop, luminance contrast, brand-neutral premium. Texture and surfaces: glossy metallic paint, gloss-black wheels, crisp LED, glass touchscreen, soft-touch dash, street asphalt. Atmosphere: refined driving glamour meeting everyday connectivity, golden-hour warmth, gentle humor; clear city air. Post / signature look: clean commercial digital, warm filmic grade, high product detail, restrained grain, premium finish; live-action smooth tracking and locked screen insert, no wiggle. Style anchor: premium Korean EV product hero driving film with connected-car feature insert, golden-hour automotive grade, aspirational-with-comic mood, on-screen UI and subtitle text preserved verbatim. Additional craft and depth specification for faithful reproduction: the product-hero drive should rake warm low-sun light across the sage-grey-green body to reveal the sculpted shoulder line and the discrete pixel-cluster LED columns, gloss-black wheels turning, a pale-blue plate, mid-rise city buildings warm behind; the feature insert should fill the frame with the wide curved infotainment screen showing the incoming hands-free call interface in crisp self-lit detail, the heart-bracketed contact name, status line, green-answer and red-decline buttons, owner label and brand tag all legible against blue cabin ambient. The beat ties everyday connectivity to the polished product. Wardrobe and human element: none in the exterior drive; a hint of steering wheel and cabin in the insert. Surface notes: glossy metallic paint, gloss-black wheels, crisp LED, glass touchscreen, soft-touch dash, street asphalt. Atmosphere is refined golden-hour driving glamour meeting domestic connectivity. Lighting nuance: warm low-sun key, cool sky fill, soft shadows, mid-key; screen self-lit cool-neutral with blue ambient. Render at full ultra-high-definition fidelity with high product detail, controlled specular, restrained grain, and a golden-hour automotive grade. Copyright-safe note for reproduction: render the automaker emblem, badge and the connected-car UI as generic non-trademarked forms, keep the plate generic, and preserve the on-screen call-UI text and the subtitle copy verbatim exactly as written.",
+        "t2i_negative": "real automaker logo mark, trademarked grille, watermark, oversaturated, cartoon, deformed wheels, readable real phone-brand UI",
+        "i2v_motion": "Smooth golden-hour tracking beside the EV as it drives through the sunlit city with warm highlights raking its body; cut to the wide in-dash touchscreen displaying the incoming hands-free call '♥여봉봉♥' with status '전화 수신 대기 중입니다.', 수신/종료 buttons, owner '류상무' and 'EV Multiverse / Kia' tag; subtitle '부드러워~' fades in; smooth tracking and locked insert, no wiggle. ~6.72s, steady.",
+        "i2v_params": {
+          "clip_duration_sec": 6.72,
+          "camera_move": "smooth_tracking",
+          "subject_motion_level": "dynamic",
+          "signature_effect": "none",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; emblem/badge and connected-car UI generic; plate generic; on-screen call-UI text and subtitle preserved verbatim"
+      }
+    },
+    {
+      "index": 17,
+      "duration": 6.38,
+      "framing": "MCU",
+      "function": "product_feature_comedy",
+      "subject_action": "the protagonist now drives the EV himself, reacting to the call exasperated-amused; paired with a rear taillight detail with 'EV9' badge; subtitles '너 또 까먹었지?' / '아 맞다!'",
+      "layout_grid": "rule_of_thirds",
+      "subject_position": "center",
+      "subject_identity": "protagonist_main",
+      "subject_relationship_to_protagonist": "main_character",
+      "mid_frame_path": "ADV-2026-051_frames/cut17_mid.png",
+      "subject_typo_layout": "typo_separate_zone",
+      "typo_motion": "white subtitles fade in low-center: '너 또 까먹었지?' then '아 맞다!'; rear badge 'EV9' visible in detail",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "bust",
+      "gaze": "off_camera",
+      "eye_contact_effect": null,
+      "props": [
+        "steering wheel",
+        "windshield",
+        "cabin trim",
+        "EV rear taillight",
+        "EV9 badge"
+      ],
+      "prop_semantics": "protagonist driving himself + EV9 badge ties the human comedy to the named product",
+      "color_palette": [
+        "#5a6470",
+        "#2a2f3a",
+        "#c8a486",
+        "#c5343a"
+      ],
+      "color_intent": "cool cabin for the driver vs warm golden taillight detail; comic-with-glamour",
+      "pose_description": "both hands on the wheel, exasperated-amused expression mid-conversation",
+      "subject_motion": "driving",
+      "prop_motion": "car in motion",
+      "camera_motion": "locked_off",
+      "camera_motion_intensity": "low",
+      "camera_effect_local": "none",
+      "motion_blur": true,
+      "intra_cut_rhythm": "steady",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [],
+      "vfx_intensity_local": "none",
+      "fact_check_flag": null,
+      "notes": "Cut17 (sc50-55, f2049-f2201, 85.42-91.80s): protagonist drives EV himself reacting to call ('너 또 까먹었지?'/'아 맞다!') + vertical L-shaped taillight detail with EV9 badge.",
+      "visible_elements": {
+        "foreground": [
+          "protagonist driving, hands on wheel (one view)",
+          "EV rear corner taillight (other view)"
+        ],
+        "midground": [
+          "cabin trim, windshield",
+          "gloss-grey-green tailgate, EV9 badge"
+        ],
+        "background": [
+          "bright daylit city blurred beyond windshield",
+          "golden-hour light on taillight"
+        ],
+        "lighting_env": [
+          "soft cool daylight through windshield",
+          "warm golden key + glowing red LED on taillight"
+        ],
+        "atmosphere": [
+          "comedic driving exasperation",
+          "sleek product glamour",
+          "golden-hour warmth"
+        ]
+      },
+      "texture": {
+        "primary_subject": "skin_natural",
+        "secondary_objects": [
+          "plastic_matte",
+          "glass_clear",
+          "metallic",
+          "metal_brushed"
+        ],
+        "background_surface": "bokeh_abstract",
+        "atmospheric": [
+          "motion_blur"
+        ]
+      },
+      "lighting": {
+        "key_direction": "front",
+        "key_hardness": "soft",
+        "key_color_temp": "mixed",
+        "fill_strength": "moderate",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": true,
+        "practical_lights": [
+          "vehicle LED taillight"
+        ],
+        "shadow_presence": "soft",
+        "overall_contrast": "mid_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#5a6470",
+          "#2a2f3a",
+          "#c8a486",
+          "#c5343a"
+        ],
+        "palette_role": {
+          "#5a6470": "cabin_cool_grey_dominant",
+          "#2a2f3a": "suit_navy_charcoal",
+          "#c8a486": "skin_warm",
+          "#c5343a": "taillight_red_accent"
+        },
+        "color_relationship": "complementary",
+        "temperature_balance": "balanced",
+        "saturation_strategy": "muted_with_pop",
+        "contrast_type": "luminance_high",
+        "accent_color": "#c5343a",
+        "accent_ratio": "5_percent"
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A driving-and-reaction comedy beat rendered at 1920x1080 pixels, 16:9 landscape, with the executive now behind the wheel of the electric SUV and a taillight detail. The dominant view is a frontal-through-the-windshield medium shot of the dark-suited man driving, both hands on the steering wheel, mid-conversation reacting to the ongoing call with an exasperated yet amused expression, the bright daylit city blurred outside the windshield, the cabin's clean modern interior framing him. The paired detail is a tight close-up of the SUV's rear corner: the distinctive vertical L-shaped LED taillight glowing red, the sculpted gloss-grey-green tailgate, an automaker wordmark and a small \"EV9\" badge, in warm golden-hour light. Foreground and props: steering wheel, windshield, cabin trim; (detail) rear bodywork, taillight, EV9 badge. On-screen copy, preserved verbatim: small white subtitle near lower-center reads \"너 또 까먹었지?\" then in the beat \"아 맞다!\"; badge text \"EV9\". Lighting setup: soft cool daylight key through the windshield on the driver, gentle fill, neutral-cool 5600K, soft shadows, mid-key; the taillight detail uses warm golden-hour key with glowing red practical, soft shadows. Lens / framing / camera angle: eye-level frontal medium close-up of the driver (bust scope), tight detail macro on the taillight, shallow-to-moderate depth. Composition / grid: driver centered behind the wheel, windshield framing, rule-of-thirds; taillight filling the detail frame; subtitle centered low. Color palette and strategy: cool cabin grey (#5a6470), navy suit (#2a2f3a), warm skin (#c8a486); (detail) sage-grey-green body (#7c857e), glowing red taillight (#c5343a), warm gold light (#d6ad66); balanced cool driver with warm taillight detail, luminance contrast, brand-neutral. Texture and surfaces: modern cabin trim, glass windshield, wool suit, natural skin; glossy painted tailgate, crisp red LED, metal badge. Atmosphere: comedic driving exasperation paired with sleek product glamour, golden-hour warmth on the detail; clear air. Post / signature look: clean commercial digital, filmic balanced-to-warm grade, natural skin and crisp product detail, restrained grain, premium finish; live-action locked/handheld, no wiggle. Style anchor: premium Korean EV narrative-product film, driver-reaction-and-taillight beat, balanced-to-golden grade, comic-with-glamour mood, on-screen badge and subtitle text preserved verbatim. Additional craft and depth specification for faithful reproduction: the through-the-windshield driver shot should hold the protagonist's exasperated-amused reaction in crisp focus with both hands on the wheel, the daylit city blurred beyond the glass and the clean modern cabin framing him; the paired taillight detail should render the distinctive vertical L-shaped red LED signature glowing against the sculpted gloss-grey-green tailgate with a small generic model badge, bathed in warm golden-hour light. The two views pair comic human reaction with sleek product craft. Wardrobe and material notes: dark tailored suit and tie on the driver. Surface notes: modern cabin trim, glass windshield, fine wool, natural skin; glossy painted tailgate, crisp red LED, metal badge. Atmosphere is comedic driving exasperation paired with product glamour, golden-hour warmth on the detail, clear air. Lighting nuance: soft cool daylight key through the windshield on the driver, warm golden key with glowing red practical on the taillight, soft shadows, mid-key. Render at full ultra-high-definition fidelity with natural skin and crisp product detail, balanced-to-warm filmic contrast, restrained grain, and a refined grade. Copyright-safe note for reproduction: render the driver as a generic Korean man (no specific celebrity face-replication), render the model badge and emblem as generic non-trademarked forms, and preserve the on-screen badge and subtitle copy verbatim exactly as written.",
+        "t2i_negative": "specific celebrity face-replication, real automaker logo mark, watermark, oversaturated, cartoon, deformed face, deformed hands",
+        "i2v_motion": "Through the windshield the protagonist drives with both hands on the wheel, reacting to the ongoing call with an exasperated-amused expression, the city blurred beyond; cut to the EV's rear corner with its vertical L-shaped red LED taillight glowing in golden light and an 'EV9' badge; subtitles '너 또 까먹었지?' then '아 맞다!' fade in; locked/handheld, no wiggle. ~6.38s, steady.",
+        "i2v_params": {
+          "clip_duration_sec": 6.38,
+          "camera_move": "locked_off",
+          "subject_motion_level": "micro",
+          "signature_effect": "none",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; driver generic Korean man (no celebrity face-replication); badge/emblem generic; on-screen badge and subtitle preserved verbatim"
+      }
+    },
+    {
+      "index": 18,
+      "duration": 10.93,
+      "framing": "WS",
+      "function": "brand_cta",
+      "subject_action": "punchline + brand close: EV driving along a riverside bridge with full skyline at golden hour; brand card 'For Every Life / The Kia EV'; EV lineup lockup with logo + 'Movement that inspires'; subtitle '아주 상무 됐다고 EV9 타고 신났지?'",
+      "layout_grid": "center",
+      "subject_position": "center",
+      "subject_identity": "product_vehicle",
+      "subject_relationship_to_protagonist": "none_environment",
+      "mid_frame_path": "ADV-2026-051_frames/cut18_mid.png",
+      "subject_typo_layout": "typo_over_subject",
+      "typo_motion": "subtitle '아주 상무 됐다고 EV9 타고 신났지?' (~f2200); brand card 'For Every Life / The Kia EV' (~f2347); lockup logo + 'Movement that inspires' (~f2400-f2463)",
+      "camera_angle": "eye_level",
+      "camera_facing": "three_quarter",
+      "shot_scope": "environment",
+      "gaze": "none",
+      "eye_contact_effect": null,
+      "props": [
+        "sage-grey-green EV",
+        "riverside bridge",
+        "city skyline",
+        "EV lineup vehicles",
+        "brand logo"
+      ],
+      "prop_semantics": "skyline hero drive + EV lineup + tagline unify the comedy and product into aspirational brand",
+      "color_palette": [
+        "#d9af67",
+        "#8aa6bd",
+        "#7e877f",
+        "#9a9a98",
+        "#ffffff"
+      ],
+      "color_intent": "warm golden-hour grandeur with cool sky and white brand pop; aspirational close",
+      "pose_description": "no person; the EV on the bridge, then the brand cards and the radial EV lineup around the logo",
+      "subject_motion": "vehicle_driving",
+      "prop_motion": "car driving; static brand cards",
+      "camera_motion": "smooth_tracking",
+      "camera_motion_intensity": "moderate",
+      "camera_effect_local": "lens_flare",
+      "motion_blur": true,
+      "intra_cut_rhythm": "steady",
+      "transition_in": "cut",
+      "transition_out": "fade",
+      "vfx_in_shot": [
+        "lens_flare",
+        "ui_motion"
+      ],
+      "vfx_intensity_local": "moderate",
+      "fact_check_flag": null,
+      "notes": "Cut18 (sc56-58, f2202-f2463, 91.80-102.73s): punchline '아주 상무 됐다고 EV9 타고 신났지?' + riverside skyline hero drive + brand card 'For Every Life / The Kia EV' + EV lineup lockup 'Movement that inspires'.",
+      "visible_elements": {
+        "foreground": [
+          "EV driving on the bridge (one view)",
+          "brand title text (card)",
+          "radial EV lineup (lockup)"
+        ],
+        "midground": [
+          "bridge railing",
+          "plaza with EV lineup"
+        ],
+        "background": [
+          "full metropolitan skyline + distant mountains, golden sunset",
+          "dusk sky, concrete plaza, centered white brand logo"
+        ],
+        "lighting_env": [
+          "warm golden-hour sun with rim and flare",
+          "cool even dusk ambient on lockup"
+        ],
+        "atmosphere": [
+          "aspirational brand grandeur",
+          "golden-hour optimism",
+          "unifying lineup reveal"
+        ]
+      },
+      "texture": {
+        "primary_subject": "metallic",
+        "secondary_objects": [
+          "concrete",
+          "glass_clear"
+        ],
+        "background_surface": "atmospheric_haze",
+        "atmospheric": [
+          "lens_flare_bloom",
+          "atmospheric_haze"
+        ]
+      },
+      "lighting": {
+        "key_direction": "back",
+        "key_hardness": "soft",
+        "key_color_temp": "warm_3500K",
+        "fill_strength": "moderate",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": true,
+        "practical_lights": [],
+        "shadow_presence": "soft",
+        "overall_contrast": "mid_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#d9af67",
+          "#8aa6bd",
+          "#7e877f",
+          "#9a9a98",
+          "#ffffff"
+        ],
+        "palette_role": {
+          "#d9af67": "golden_sunset_warm",
+          "#8aa6bd": "skyline_sky_cool",
+          "#7e877f": "car_body_sage_grey",
+          "#9a9a98": "plaza_concrete_neutral",
+          "#ffffff": "brand_logo_typo_white"
+        },
+        "color_relationship": "complementary",
+        "temperature_balance": "split_warm_cool",
+        "saturation_strategy": "muted_with_pop",
+        "contrast_type": "luminance_high",
+        "accent_color": "#ffffff",
+        "accent_ratio": "15_percent"
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A brand-payoff finale beat rendered at 1920x1080 pixels, 16:9 landscape, combining a golden-hour skyline hero drive and two brand-lockup cards. The first image is a wide cinematic shot of the sage-grey-green electric SUV driving along an elevated riverside bridge expressway with a full metropolitan skyline of skyscrapers and distant mountains glowing in warm low-angle sunset light behind it, the car small-to-medium in frame moving right, a lens flare gracing the scene. The second image is a clean brand title card: white text upper-left reading a lighter line \"For Every Life\" above a bold line \"The Kia EV\", over a softly tilted dusk sky-and-ground horizon. The final image is the brand lockup: a fan/circle arrangement of five-to-six modern electric vehicles (varied SUV and crossover and sedan silhouettes) parked on a vast concrete plaza at dusk, viewed from a slightly elevated angle, with a large centered white automaker logo wordmark and the tagline \"Movement that inspires\" beneath it. Foreground and props: the moving SUV, bridge railing, skyline; (cards) the EV lineup vehicles, plaza, brand logo and taglines. On-screen copy, preserved verbatim: \"For Every Life\", \"The Kia EV\", and \"Movement that inspires\", plus a faint earlier line in the beat \"아주 상무 됐다고 EV9 타고 신났지?\". Lighting setup: warm golden-hour sun from the rear-left creating glowing rim and long shadows on the bridge, cool sky fill, mixed warm 3500K, soft shadows, mid-key; the lockup plaza uses cool even dusk ambient with soft shadows. Lens / framing / camera angle: eye-level wide tracking on the bridge (environment scope), graphic-flat title card, slightly elevated wide on the lineup; deep depth of field. Composition / grid: car center-left on the bridge with skyline behind, title text upper-left, lineup radially arranged around the centered logo, rule-of-thirds and central symmetry. Color palette and strategy: warm golden sunset (#d9af67), cool blue skyline and sky (#8aa6bd), sage-grey-green car (#7e877f), neutral concrete plaza (#9a9a98), pure white typography and logo (#ffffff); warm-cool balanced with white brand pop, luminance contrast, brand-neutral premium. Texture and surfaces: glossy metallic car paint, concrete plaza, atmospheric sky haze, crisp vector typography, varied vehicle bodies. Atmosphere: aspirational brand grandeur, golden-hour optimism, a unifying lineup reveal; expansive air with flare. Post / signature look: clean commercial digital, warm cinematic grade with controlled flare, crisp 4K, restrained grain, premium brand finish; live-action drive plus flat motion-graphic cards, no wiggle. Style anchor: premium Korean automotive brand finale, golden-hour skyline hero drive and EV-lineup logo lockup, warm aspirational grade, confident brand-tagline mood, on-screen brand copy preserved verbatim. Additional craft and depth specification for faithful reproduction: the riverside skyline drive should place the sage-grey-green SUV small-to-medium in frame on an elevated bridge with a full metropolitan skyline and distant mountains glowing in warm sunset light, a graceful lens flare and long shadows conveying golden-hour grandeur; the title card should set the white copy clean and editorial over a softly tilted dusk horizon; the final lockup should arrange a radial fan of five-to-six modern electric vehicles of varied silhouettes on a vast concrete plaza at dusk around a large centered white brand logo with the tagline beneath. The beat unifies narrative and product into aspirational brand grandeur. Wardrobe and human element: none — vehicles, skyline and typography carry the finale. Surface notes: glossy metallic car paint, concrete plaza, atmospheric sky haze, crisp vector typography, varied vehicle bodies. Atmosphere is golden-hour optimism and a unifying lineup reveal, expansive air with controlled flare. Lighting nuance: warm rear-left sun key with glowing rim on the bridge, cool sky fill, soft shadows, mid-key; the lockup plaza uses cool even dusk ambient with soft shadows. Render at full ultra-high-definition fidelity with controlled flare, crisp typography, restrained grain, and a warm aspirational brand grade. Copyright-safe note for reproduction: render the brand logo and all vehicle emblems as generic non-trademarked forms and the EV-lineup vehicles as generic modern EV silhouettes, while preserving the on-screen brand copy and the subtitle line verbatim exactly as written.",
+        "t2i_negative": "real automaker logo mark, identifiable real landmark, watermark, oversaturated, cartoon, deformed vehicles, text errors",
+        "i2v_motion": "Smooth golden-hour tracking of the EV along the riverside bridge with the full skyline glowing and a lens flare; the subtitle '아주 상무 됐다고 EV9 타고 신났지?' fades in; cut to the brand card 'For Every Life / The Kia EV', then to the radial EV-lineup lockup with the centered white brand logo and 'Movement that inspires'; smooth drive plus flat motion-graphic cards, no wiggle. ~10.93s, steady, ends on gentle fade.",
+        "i2v_params": {
+          "clip_duration_sec": 10.93,
+          "camera_move": "smooth_tracking",
+          "subject_motion_level": "dynamic",
+          "signature_effect": "none",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; brand logo and all vehicle emblems generic; EV-lineup vehicles generic modern EV silhouettes; on-screen brand copy and subtitle preserved verbatim"
+      }
+    }
+  ],
+  "search_keywords": {
+    "industry": [
+      "automotive"
+    ],
+    "product_category": [
+      "ev",
+      "large_suv"
+    ],
+    "target_demo": [
+      "late30s_40s",
+      "premium_buyers",
+      "family",
+      "men",
+      "active_senior"
+    ],
+    "media_format": [
+      "product_hero_film",
+      "youtube_60s_plus",
+      "feature_demo_film"
+    ],
+    "tone": [
+      "premium",
+      "punchy_humor",
+      "cinematic",
+      "confident",
+      "warm_emotional"
+    ],
+    "pacing": [
+      "steady"
+    ],
+    "technique": [
+      "celeb_hook",
+      "product_hero",
+      "driving_shot",
+      "spec_typo",
+      "lifestyle_cg_intercut",
+      "kinetic_typo"
+    ],
+    "vfx_keywords": [
+      "ui_motion",
+      "lens_flare",
+      "clean_digital",
+      "color_grade_cool",
+      "kinetic_typo"
+    ],
+    "copy_strategy_keywords": [
+      "model_name_drop",
+      "voice_caption_sync",
+      "superiority_declaration",
+      "double_wordplay",
+      "new_model_naming"
+    ],
+    "concept_derivation_pattern": [
+      "celeb_self_parody_premium_vs_mundane"
+    ]
+  },
+  "inferred_creative_thinking": {
+    "insight": "프리미엄 대형 전기 SUV의 '성공·품격' 메시지는 자칫 거창하고 거리감 있게 들린다 — 시청자는 완벽한 성공 서사보다 그 이면의 인간적·일상적 허술함에서 더 공감하고 호감을 느낀다.",
+    "persona": "성공한 중년 임원으로 보이고 싶지만 실은 엄마의 잔소리 전화(자동이체·학원비)에서 자유롭지 못한, 누구에게나 있는 '폼나고 싶은 마음'을 가진 평범한 가장/직장인",
+    "moment": "EV9를 타고 회사에 도착해 존경받는 임원으로서의 자기 이미지에 도취되는 순간, 그리고 그 환상이 엄마 영상통화 한 통에 와르르 무너지는 순간",
+    "product_role": "EV9는 주인공의 '성공한 자아' 판타지를 실어 나르는 무대이자, 커넥티드콜(차내 핸즈프리 전화)로 그 일상 코미디까지 끌어안는 스마트한 동반자 — 품격과 실생활을 모두 담는 차",
+    "punchline": "아주 상무 됐다고 EV9 타고 신났지?",
+    "differentiator": "거창한 성공 내레이션을 셀럽(류승룡)의 자기 패러디 코미디로 뒤집어, 프리미엄 EV를 ‘잘난 척’이 아니라 ‘사랑스러운 일상’의 차로 포지셔닝",
+    "brand_fit_one_liner": "'For Every Life' — 모든 삶(폼나는 순간도, 엄마 잔소리도)에 함께하는 기아 EV",
+    "confidence": "inferred"
+  },
+  "inferred_brief": "프리미엄 대형 전기 SUV EV9의 품격과 커넥티드 기능을 셀럽(류승룡)의 위트 있는 자기 패러디로 친근하게 전달해, 'The Kia EV — For Every Life' 브랜드 호감과 EV 라인업 인지를 높인다.",
+  "cross_pollination_tags": {
+    "adjacent": [
+      "home_appliance",
+      "it_saas",
+      "telecom"
+    ],
+    "distant": [
+      "finance",
+      "fnb",
+      "content_ott"
+    ],
+    "contrast": [
+      "luxury",
+      "beauty",
+      "insurance"
+    ]
+  },
+  "concept_derivation_pattern": "celeb_self_parody_premium_vs_mundane",
+  "confidence": "inferred",
+  "analyst_notes": "1) 58개 scenedetect 컷을 18개 내러티브 샷으로 통합(빠른 교차편집 제품/드라마 필름; 각 샷=일관 셋업/비트). 2) 'The Kia EV Multiverse' EV9 캠페인(배우 류승룡). 주인공=극중 '상무이사 류승룡'(명패 f1645, 메타 자기패러디). 3) 핵심 코미디 디바이스: 거창한 '성공' 프리미엄 내레이션 ↔ 엄마(여봉봉) 영상통화 잔소리(자동이체·학원비)의 디플레이션, 그리고 EV9 차내 커넥티드콜로 연결. 4) 자막=음성 싱크(both); Whisper text_raw 오인식 다수를 화면 자막으로 보정(예 'EV9'→Whisper '어깨에'). 5) wiggle 수치는 주행/트래킹 컷 기인, 순수 wiggle_3d 부재(f289 vs f292 육안 확인). 6) cut15는 의도적 90도 회전 프레이밍(백일몽). 7) 차량=EV9(sage-grey-green), 시그니처 수직 스택 LED, 플레이트 26더3100; 마무리 EV 라인업 로고 락업 + 'For Every Life The Kia EV' / 'Movement that inspires'. 8) ffmpeg 1차 추출이 2441프레임에서 잘려 tail 22프레임(f2442-f2463) 재추출·해시검증 후 보완(전 2463프레임 확보).",
+  "verification": {
+    "frames_reviewed": "~95/2463 native-res frames read (all 58 scenedetect cut boundaries + each consolidated-shot midpoint + diff/text_delta spikes + tiny-Korean-caption and car-screen crops + wiggle adjacency check f289/f292) + 100% per-frame metrics coverage (2463 frames, 51 cut candidates) + scenedetect 58 scenes",
+    "audio_analyzed": true,
+    "hitrate_na": true,
+    "abstraction_checked": true
+  }
+}

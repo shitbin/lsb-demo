@@ -1,0 +1,1526 @@
+{
+  "id": "ADV-2026-053",
+  "source_ref": {
+    "platform": "brand_film_uploaded",
+    "title_or_campaign": "프리윌루전-무쏘 (The Original)",
+    "brand": "KGM",
+    "product": "픽업트럭",
+    "model": "MUSSO",
+    "year": 2026,
+    "production_note": "생성형 AI 일부 활용 제작(화면 하단 고지). 정통 픽업 리런치 브랜드필름. Freewillusion 제작. (재분석: 현행 analyzer 스키마로 recreation_prompts·컷 중간프레임 보강)",
+    "url": null
+  },
+  "category_primary": "auto.pickup_truck",
+  "category_tags": [
+    "pickup_truck",
+    "automotive",
+    "product_hero",
+    "cinematic_cg",
+    "ai_generated_film",
+    "offroad_lifestyle",
+    "vehicle_launch"
+  ],
+  "mood": [
+    "cinematic",
+    "powerful",
+    "premium",
+    "rugged",
+    "epic",
+    "confident"
+  ],
+  "target_demo": "Korean adults ~30s-40s, predominantly men, outdoor/leisure and active-lifestyle buyers drawn to a rugged-yet-premium dual-cab pickup; also brand-revival watchers of the KGM (ex-SsangYong) Musso nameplate",
+  "total_duration": 30.03,
+  "shot_count": 10,
+  "shot_count_corrected": 10,
+  "fps": 29.97,
+  "aspect_ratio": "16:9",
+  "hook_position": "0:3.27",
+  "cta_position": "29.029:30.03",
+  "narrative_arc": "A dark cinematic fade-in resolves into the front of a graphite pickup whose segmented LED grille bar and vertical headlight signatures ignite out of black. A slow forward push-in reveals the full truck parked in a dramatic white rocky CG canyon, its 'MUSSO' grille plate legible — a hushed, reverent hero reveal. The camera then rushes into the lit grille and bursts into a sweeping warm-toned cliff-and-mountain flythrough under stormy golden clouds, where a small bottom-left caption discloses that the film was partly made with generative AI. Energy spikes into a golden-hour desert off-road montage: a white Musso drifts and kicks up huge plumes of dust across an arid plain framed by mountains, intercut with moody dark-studio beauty inserts (side profile, wheel and sill macros) and a tactile reveal of the tailgate's embossed 'KGM' badge in the white canyon — a lower-right caption asserts 'powerful diesel & gasoline' powertrains. The film resolves to a calm studio lineup of two Musso trucks in different body colors against a stylized sky-and-mountain backdrop with a 'The Original MUSSO' title, then closes on a black end card bearing the 'KGM' logotype and the brand tagline 'Enjoy with Confidence'.",
+  "narrative_structure": "montage",
+  "pacing_curve": "slow_build_then_accelerating_then_resolve",
+  "music_tempo_curve": "ambient_swell_to_driving_peak_to_calm_resolve",
+  "wow_cut_index": 2,
+  "creative_device": [
+    "slow_dark_hero_reveal",
+    "lit_grille_signature_ignition",
+    "cg_environment_flythrough",
+    "desert_offroad_dust_montage",
+    "studio_beauty_macro_inserts",
+    "badge_emboss_reveal",
+    "color_variant_lineup",
+    "brand_tagline_endcard",
+    "disclosed_generative_ai"
+  ],
+  "recurring_motifs": [
+    "segmented_led_grille_bar",
+    "vertical_c_signature_headlights",
+    "musso_grille_wordmark",
+    "kicked_up_dust_plume",
+    "sport_bar_over_bed",
+    "red_vertical_tail_lights",
+    "white_rocky_canyon",
+    "warm_to_cool_grade_contrast"
+  ],
+  "production_signature": {
+    "capture_style": "mixed",
+    "camera_signature": [
+      "cinematic_forward_push_in",
+      "macro_detail_whip_into_grille",
+      "aerial_canyon_flythrough",
+      "low_tracking_offroad_chase",
+      "slow_orbit_studio_beauty",
+      "slow_dolly_lineup_reveal",
+      "static_logo_endcard"
+    ],
+    "signature_note": "Two production techniques are fused: photoreal 3D-CG vehicle renders (the truck hero shots, studio beauty macros, tailgate and lineup) and generative-AI environment plates (the warm stormy canyon/mountain flythrough and the dusty desert off-road backgrounds). The ad EXPLICITLY discloses generative-AI use via a small bottom-left Korean caption '*이 영상은 생성형 AI를 활용하여 일부 제작되었습니다' during the flythrough. Camera language is high-end automotive cinematic: a slow reverent forward push-in for the dark hero reveal, a rush/whip into the lit grille that bursts into an aerial canyon flythrough, fast low tracking chases for the desert drift, slow orbits for the dark-studio beauty inserts, and a slow dolly across the two-truck color lineup. Wiggle metric mean_abs_shift_x 0.68 is ordinary cinematic camera movement (push-in/orbit/aerial/tracking), NOT lenticular or stereoscopic wiggle — confirmed on native-res frames; signature_effect is none. Audio is music-dominant; the faster-whisper tiny transcript is garbled/low-confidence (coverage 0.665) so on-screen text is authoritative.",
+    "color_grade": "bimodal cinematic grade — cool desaturated graphite-and-white for the rocky canyon hero and tailgate, versus warm amber/golden-hour for the stormy CG flythrough and the dusty desert montage; moody warm low-key for the dark-studio beauty inserts; clean cool sky-blue for the lineup; pure black for the endcard",
+    "texture_fx": "photoreal_pbr_vehicle_surfaces; volumetric_dust_and_haze; god_rays_and_atmosphere; lens_halation_and_flare; subtle_film_grain; generative_ai_environment_plates; clean_logotype_endcard"
+  },
+  "global_layout": {
+    "grid_system": "cinemascope 16:9 landscape; product-centered for hero/lineup; rule-of-thirds offset for the drifting truck in wide desert plates; lower-band reserved for small captions",
+    "subject_placement_dominant": "centered or center-right vehicle for hero and beauty shots; left-of-center driving subject trailing a rightward dust plume in wide action plates; symmetric paired vehicles for the lineup",
+    "subject_typo_relation": "captions kept to the extreme lower corners so the vehicle and environment dominate — generative-AI disclaimer bottom-left, feature/spec caption bottom-right; the 'The Original MUSSO' title floats centered-top over the lineup; the end-card logotype is centered on black",
+    "negative_space_use": "generous sky, canyon walls and dust haze act as negative space framing the vehicle; the black hero open and black end card use pure darkness as negative space around the lit grille / logotype",
+    "layout_note": "A repeatable cinematic automotive template: hero vehicle composed centrally within a vast CG landscape, tiny corner captions for legal/spec text, a centered model-name title for the lineup, and a minimal centered brand logotype close — all in widescreen with a deliberate cool-vs-warm grade swing"
+  },
+  "copywriting": {
+    "tagline_text": "Enjoy with Confidence",
+    "tagline_structure": "brand_logotype_endcard",
+    "cta_text": "Enjoy with Confidence",
+    "copy_tone": [
+      "cinematic",
+      "confident",
+      "premium",
+      "spec_assertive",
+      "heritage_proud"
+    ],
+    "copy_strategy": "image_led_hero_film_with_minimal_spec_caption_and_brand_tagline_close",
+    "lines": [
+      {
+        "position_sec": 5.34,
+        "text": "MUSSO",
+        "function": "product_name_on_grille",
+        "tone": "branded",
+        "source": "caption"
+      },
+      {
+        "position_sec": 11.5,
+        "text": "*이 영상은 생성형 AI를 활용하여 일부 제작되었습니다",
+        "function": "legal_disclaimer",
+        "tone": "informational",
+        "source": "caption"
+      },
+      {
+        "position_sec": 14.5,
+        "text": "|파워풀한 디젤 & 가솔린|",
+        "function": "feature_benefit_spec_caption",
+        "tone": "spec_assertive",
+        "source": "caption"
+      },
+      {
+        "position_sec": 22.3,
+        "text": "KGM",
+        "function": "brand_emboss_on_tailgate",
+        "tone": "branded",
+        "source": "caption"
+      },
+      {
+        "position_sec": 22.3,
+        "text": "MUSSO",
+        "function": "product_name_on_tailgate",
+        "tone": "branded",
+        "source": "caption"
+      },
+      {
+        "position_sec": 25.5,
+        "text": "The Original",
+        "function": "heritage_modifier_title",
+        "tone": "heritage_proud",
+        "source": "caption"
+      },
+      {
+        "position_sec": 25.5,
+        "text": "MUSSO",
+        "function": "model_name_title",
+        "tone": "branded",
+        "source": "caption"
+      },
+      {
+        "position_sec": 29.5,
+        "text": "KGM",
+        "function": "brand_logotype_endcard",
+        "tone": "branded",
+        "source": "caption"
+      },
+      {
+        "position_sec": 29.5,
+        "text": "Enjoy with Confidence",
+        "function": "brand_tagline",
+        "tone": "confident",
+        "source": "caption"
+      }
+    ],
+    "on_screen_ui_text_observed": [
+      "MUSSO (front grille plate, hero shots and lineup)",
+      "MUSSO (embossed on hood, hero shots)",
+      "*이 영상은 생성형 AI를 활용하여 일부 제작되었습니다 (bottom-left disclaimer, flythrough)",
+      "|파워풀한 디젤 & 가솔린| (bottom-right feature caption, desert montage)",
+      "KGM (embossed on tailgate panel)",
+      "MUSSO (badge on tailgate corner and on rear bumper)",
+      "The Original / MUSSO (centered title over two-truck lineup)",
+      "KGM / Enjoy with Confidence (black end card)"
+    ],
+    "narration_handling": "music_dominant_with_no_clear_spoken_copy; faster_whisper_tiny_output_is_garbled_low_confidence; on_screen_captions_are_authoritative"
+  },
+  "typography": {
+    "primary_font_class": "korean_and_latin_sans_serif_clean",
+    "endcard_font_class": "wide_techno_geometric_sans_logotype_latin",
+    "animation_style": [
+      "fade_in_hold",
+      "static_caption_hold",
+      "title_fade_up",
+      "logotype_static_reveal"
+    ],
+    "subtitle_position_dominant": "lower_corner_small_caption",
+    "color_strategy": "small_white_captions_in_lower_corners_over_imagery; large_white_bold_italic_model_wordmark_title_over_lineup; white_techno_logotype_plus_tagline_on_pure_black_endcard",
+    "typo_motion_dominant": "static_hold_with_soft_fades"
+  },
+  "vfx": {
+    "primary_effects": [
+      "photoreal_3d_render",
+      "generative_ai_environment_plates",
+      "volumetric_dust_plumes",
+      "god_rays_and_atmospheric_haze",
+      "lit_led_grille_glow",
+      "lens_flare_and_halation",
+      "film_grain"
+    ],
+    "effect_intensity": "high",
+    "transition_style_dominant": "hard_cut_with_one_macro_whip",
+    "vfx_event_count": 7
+  },
+  "audio": {
+    "has_audio": true,
+    "language": "ko",
+    "speech_coverage": 0.665,
+    "bgm_likely": true,
+    "narration_lines": [
+      {
+        "start": 7.95,
+        "end": 26.97,
+        "text": "(low-confidence, garbled) ...절대적 존재감... 무쏘",
+        "source": "faster_whisper_tiny_uncorrected_low_confidence"
+      }
+    ],
+    "voice_vs_caption": "on_screen_captions_authoritative; audio_is_music_dominant_with_at_most_a_short_tagline_phrase",
+    "transcribed_by": "faster_whisper",
+    "model": "tiny",
+    "audio_note": "audio.json reports has_audio true, language ko (prob 1.0), speech_coverage 0.665, bgm_likely null. The tiny-model raw transcript is garbled ('앞도 적 존재감 절대 적 그 요리지 날' / '못 써') and treated as BGM-dominant with at most a faint tagline-like phrase ('절대적 존재감'/'무쏘'); recorded at low confidence. Music is the dominant audio bed; on-screen Korean/English text is authoritative for all copy."
+  },
+  "frames_dir": "ADV-2026-053_frames",
+  "contact_sheet_path": "ADV-2026-053_frames/contact_sheet.png",
+  "shots": [
+    {
+      "index": 1,
+      "duration": 3.27,
+      "framing": "ECU",
+      "function": "hook",
+      "subject_action": "from a near-black frame the front of a dark pickup truck emerges as its segmented horizontal LED grille bar and the vertical C-shaped LED headlight signatures ignite and glow; lower fog/DRL lamps light up; a faint white rocky canyon begins to read behind it as the exposure lifts",
+      "layout_grid": "centered_emerging_from_black",
+      "subject_position": "center_dominant",
+      "typo_motion": "none",
+      "camera_angle": "low_frontal_hero",
+      "camera_facing": "head_on_to_grille",
+      "shot_scope": "product_detail",
+      "gaze": "none",
+      "props": [
+        "lit_led_grille_bar",
+        "vertical_led_headlights",
+        "fog_lamps",
+        "white_rocks"
+      ],
+      "color_palette": [
+        "#0A0A0B",
+        "#1A1B1D",
+        "#E8E6E2",
+        "#C9CCCF",
+        "#8A8D90"
+      ],
+      "color_intent": "near_black_field_with_a_single_cool_white_glowing_grille_signature_and_a_dim_cool_rock_backdrop",
+      "pose_description": "the truck sits square and still, head-on, only its illuminated grille graphic and headlight signatures defining its mass against the dark; a wide muscular hood and upright fascia are implied in silhouette",
+      "subject_motion": "headlights_and_grille_illuminate_static_vehicle",
+      "camera_motion": "very_slow_forward_push_in",
+      "camera_effect_local": "none",
+      "intra_cut_rhythm": "slow_reveal_from_black",
+      "transition_in": "fade_from_black",
+      "transition_out": "cut",
+      "mid_frame_path": "ADV-2026-002_frames/cut01_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "illuminated_segmented_led_grille_bar",
+          "vertical_led_headlight_signatures",
+          "lit_lower_fog_lamps"
+        ],
+        "midground": [
+          "dark_silhouette_of_truck_hood_and_fascia"
+        ],
+        "background": [
+          "dim_white_rocky_canyon_walls",
+          "scattered_pale_boulders"
+        ],
+        "lighting_env": [
+          "self_illuminated_vehicle_lighting",
+          "very_low_ambient_skylight"
+        ],
+        "atmosphere": [
+          "mysterious",
+          "reverent",
+          "anticipatory_darkness"
+        ]
+      },
+      "texture": {
+        "primary_subject": "glowing_textured_led_lightguide",
+        "secondary_objects": [
+          "matte_dark_painted_bodywork",
+          "glossy_black_grille_surround"
+        ],
+        "background_surface": "chalky_matte_white_rock",
+        "atmospheric": [
+          "deep_shadow",
+          "soft_low_light_falloff"
+        ]
+      },
+      "lighting": {
+        "key_direction": "self_emissive_from_vehicle_lamps",
+        "key_hardness": "soft_glow",
+        "key_color_temp": "cool_white_6000K",
+        "fill_strength": "very_low",
+        "key_to_fill_ratio": "8:1",
+        "rim_light": false,
+        "practical_lights": [
+          "led_grille_bar",
+          "vertical_headlights",
+          "fog_lamps"
+        ],
+        "shadow_presence": "deep_crushed_blacks",
+        "overall_contrast": "very_high"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#0A0A0B",
+          "#1A1B1D",
+          "#E8E6E2",
+          "#C9CCCF",
+          "#8A8D90"
+        ],
+        "palette_role": {
+          "#0A0A0B": "black_negative_space_field",
+          "#1A1B1D": "dark_vehicle_bodywork_silhouette",
+          "#E8E6E2": "glowing_white_led_signature",
+          "#C9CCCF": "dim_white_rock_highlight",
+          "#8A8D90": "cool_grey_shadow_rock"
+        },
+        "color_relationship": "monochrome_dark_with_a_single_cool_white_emissive_accent",
+        "temperature_balance": "cool_neutral",
+        "saturation_strategy": "near_monochrome_minimal_saturation",
+        "contrast_type": "extreme_low_key_chiaroscuro",
+        "accent_color": "#E8E6E2",
+        "accent_ratio": 0.08
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "Widescreen 16:9 landscape cinematic still, extreme close-up of the front end of a large modern double-cab pickup truck emerging from near-total darkness. The frame begins almost pure black; the only fully lit elements are the vehicle's distinctive lighting signature: a horizontal LED light bar running across the upper grille, broken into a row of seven or eight rectangular segmented blocks that glow a clean cool white, and on each outer corner a tall vertical C-shaped LED headlight signature that traces down the fascia, plus two small lower fog/daytime-running lamps that punch bright white near the bumper. The truck is shot head-on from a slightly low, heroic angle so its broad muscular hood and upright squared-off front fascia loom as a dark silhouette around the glowing graphics; the bodywork is a dark graphite/near-black painted metal that only barely catches light along its top edges. Behind and around the vehicle, as the exposure begins to lift, a dim white rocky canyon faintly resolves — chalky pale boulders and quarried stone walls in deep shadow, reading as cool grey ghosts rather than fully lit forms. There is no on-screen text in this frame. Lighting is almost entirely self-emissive: the cool white LED lamps at roughly 6000K act as the only key, throwing a soft glow onto the immediate grille surfaces while everything else falls into crushed black; ambient skylight is minimal, so the contrast is extreme low-key chiaroscuro with deep crushed blacks and a single bright emissive accent. Lens rendering: a longer focal length around 85 to 135mm full-frame equivalent compressing the grille, a shallow plane of focus on the lit grille blocks, a faint cinematic halation blooming off the brightest LEDs, and a whisper of film grain in the shadows. Composition centers the glowing grille graphic in the frame as a luminous emblem floating in darkness, the vehicle's mass implied symmetrically around it. Color palette and strategy: a near-monochrome dark scheme — pure black negative-space field (#0A0A0B), dark graphite bodywork silhouette (#1A1B1D), glowing cool-white LED signature (#E8E6E2), dim white rock highlight (#C9CCCF) and cool grey shadow rock (#8A8D90); saturation is minimal and the emissive white is the lone accent occupying only a small fraction of the frame. Texture and surfaces: a finely textured glowing LED light-guide, matte dark automotive paint catching faint edge light, a glossy black grille surround, and chalky matte white rock dissolving into shadow behind. Atmosphere: mysterious, reverent, anticipatory — the hushed instant before a hero product is fully revealed, the lit face of the machine staring out of the dark. Post and signature look: high-end automotive cinematic CG render with photoreal physically-based materials, a cool desaturated grade, gentle lens halation on the lights, subtle grain, and pristine black levels; this is the opening beat of a premium pickup-truck commercial. Style anchor: high-end automotive CG commercial, Korean, blending photoreal 3D product rendering with a moody cinematic reveal of a hero machine. Render any badge or wordmark generically as an unbranded automaker grille graphic; no real logos, no people, no celebrity likeness, and no added caption text.",
+        "i2v_motion": "Over about three seconds the frame lifts from near-black as the segmented LED grille bar and the vertical headlight signatures glow up to full brightness and the lower fog lamps ignite; a very slow forward push-in eases the camera toward the grille; the faint white canyon walls behind gradually resolve out of shadow; hard cut at the end.",
+        "i2v_params": {
+          "clip_duration_sec": 3.27,
+          "camera_move": "very_slow_push_in",
+          "subject_motion_level": "minimal",
+          "signature_effect": "none",
+          "pacing": "slow_build",
+          "loopable": false
+        },
+        "t2i_negative": "daylight, fully exposed background, flat lighting, visible real brand logo, people, text captions, cluttered scene, washed-out blacks, low resolution",
+        "fidelity_note": "craft-faithful; vehicle lighting signature preserved abstractly; no real logo marks, identity generic"
+      }
+    },
+    {
+      "index": 2,
+      "duration": 7.174,
+      "framing": "WS",
+      "function": "hero_reveal",
+      "subject_action": "a graphite double-cab pickup is fully revealed parked in a dramatic white rocky CG canyon; the camera makes a slow forward push-in as the scene brightens from moody dusk to clear daylight, the lit segmented grille bar, vertical headlights and 'MUSSO' grille wordmark all legible, a sport bar over the bed and roof rails visible",
+      "layout_grid": "centered_hero_in_canyon",
+      "subject_position": "center",
+      "typo_motion": "none",
+      "camera_angle": "slightly_low_three_quarter_front",
+      "camera_facing": "front_three_quarter",
+      "shot_scope": "full_vehicle_in_environment",
+      "gaze": "at_product",
+      "props": [
+        "white_canyon_walls",
+        "pale_boulders",
+        "sport_bar",
+        "roof_rails",
+        "alloy_wheels",
+        "musso_grille_plate"
+      ],
+      "color_palette": [
+        "#C7C9CC",
+        "#E9E9E7",
+        "#3A3C38",
+        "#9FA2A4",
+        "#5B5E5C"
+      ],
+      "color_intent": "cool_desaturated_white_rock_environment_framing_a_dark_graphite_hero_vehicle_with_cool_white_led_accents",
+      "pose_description": "the truck stands planted and powerful on a rock-strewn canyon floor at a front three-quarter stance, wheels squared, tall fascia facing camera, the dark olive-graphite body contrasting against the bright pale stone walls",
+      "subject_motion": "static_vehicle_with_scene_brightening",
+      "camera_motion": "slow_forward_dolly_push_in",
+      "camera_effect_local": "none",
+      "intra_cut_rhythm": "steady_reverent_push_in",
+      "transition_in": "cut",
+      "transition_out": "macro_whip_into_grille",
+      "mid_frame_path": "ADV-2026-002_frames/cut02_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "graphite_pickup_truck_front_three_quarter",
+          "lit_segmented_led_grille_bar",
+          "musso_grille_wordmark",
+          "dark_alloy_wheels",
+          "rocks_on_canyon_floor"
+        ],
+        "midground": [
+          "towering_white_canyon_walls",
+          "fractured_pale_boulders"
+        ],
+        "background": [
+          "bright_overcast_canyon_sky_gap",
+          "distant_rock_faces"
+        ],
+        "lighting_env": [
+          "soft_cool_overhead_skylight",
+          "vehicle_led_self_illumination"
+        ],
+        "atmosphere": [
+          "epic",
+          "monumental",
+          "premium_calm"
+        ]
+      },
+      "texture": {
+        "primary_subject": "glossy_painted_metal_bodywork",
+        "secondary_objects": [
+          "matte_black_grille_and_cladding",
+          "machined_alloy_wheels",
+          "glowing_led_lightguide"
+        ],
+        "background_surface": "chalky_fractured_white_rock",
+        "atmospheric": [
+          "faint_cool_haze",
+          "soft_diffuse_light"
+        ]
+      },
+      "lighting": {
+        "key_direction": "high_soft_overhead_skylight",
+        "key_hardness": "soft",
+        "key_color_temp": "cool_daylight_6500K",
+        "fill_strength": "medium_high",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": true,
+        "practical_lights": [
+          "led_grille_bar",
+          "vertical_headlights",
+          "fog_lamps"
+        ],
+        "shadow_presence": "soft_grounding_contact_shadow",
+        "overall_contrast": "medium"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#C7C9CC",
+          "#E9E9E7",
+          "#3A3C38",
+          "#9FA2A4",
+          "#5B5E5C"
+        ],
+        "palette_role": {
+          "#C7C9CC": "cool_white_canyon_rock",
+          "#E9E9E7": "bright_sky_gap_and_rock_highlight",
+          "#3A3C38": "dark_graphite_vehicle_body",
+          "#9FA2A4": "mid_grey_rock_and_road_floor",
+          "#5B5E5C": "shadowed_rock_and_lower_body"
+        },
+        "color_relationship": "low_saturation_value_contrast_dark_subject_on_light_ground",
+        "temperature_balance": "cool",
+        "saturation_strategy": "heavily_desaturated_naturalistic",
+        "contrast_type": "tonal_value_contrast",
+        "accent_color": "#E9E9E7",
+        "accent_ratio": 0.3
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "Widescreen 16:9 landscape cinematic still of a large modern double-cab pickup truck parked and fully revealed in a dramatic narrow canyon of bright, chalky white rock. The truck is shown front three-quarter from a slightly low heroic angle, planted powerfully on a rock-strewn floor; its body is a dark olive-graphite painted metal that contrasts strongly against the pale stone walls. The front end carries a tall, squared-off, upright fascia with a horizontal LED light bar of seven to eight glowing rectangular segments across the upper grille, tall vertical C-shaped LED headlight signatures wrapping the corners, lit lower fog lamps, a broad blacked-out lower grille, and a small rectangular badge plate centered low on the grille bearing a generic uppercase automaker wordmark; the muscular hood shows faint embossed lettering. Over the rear bed sits a black tubular sport/roll bar, the roof carries low rails, and the truck rides on large machined two-tone alloy wheels with chunky tires. The vehicle sits in the lower center of the frame while towering fractured white canyon walls rise on both sides and a bright overcast sky gap glows in the distance between them, with scattered pale boulders around the wheels. There is no on-screen text in this frame. Lighting is soft cool daylight skylight from high overhead at roughly 6500K, with medium-high fill from the bright surrounding rock acting as a giant natural bounce, a gentle rim of light along the truck's top edges, soft grounding contact shadows beneath the tires, and an overall medium contrast; the vehicle's own LED lamps add cool white self-illumination. Lens rendering: a wide-to-normal cinematic lens around 28 to 40mm full-frame equivalent that takes in the canyon walls while keeping the truck dominant, with deep enough focus to render the rock texture crisply and only the faintest cool atmospheric haze in the distance. Composition is a centered hero portrait of the vehicle framed symmetrically by the converging canyon walls, the bright sky gap drawing the eye to the truck. Color palette and strategy: a heavily desaturated naturalistic scheme built on cool whites and greys — cool white canyon rock (#C7C9CC), bright sky-gap and rock highlight (#E9E9E7), dark graphite vehicle body (#3A3C38), mid-grey rock and floor (#9FA2A4) and shadowed rock and lower body (#5B5E5C); the drama comes from tonal value contrast of a dark subject on a light ground rather than from color, with the bright sky as the brightest accent. Texture and surfaces: glossy painted automotive metal with crisp reflections, matte black grille and wheel-arch cladding, machined alloy wheels, a glowing textured LED light-guide, and chalky fractured white rock walls with visible fault lines and rubble. Atmosphere: epic, monumental and premium-calm — a hero machine standing alone in a vast carved-stone amphitheater. Post and signature look: high-end automotive CG render with photoreal physically-based materials and reflections, a cool cinematic grade, faint film grain and a restrained naturalistic sky; this is the reverent hero-reveal beat of a premium pickup commercial. Style anchor: high-end automotive CG commercial, Korean, with cinematic virtual-production staging. Render the grille badge and any wordmark as a generic unbranded automaker mark; no real logos, no people, no celebrity likeness.",
+        "i2v_motion": "A slow, steady forward dolly push-in eases the camera toward the parked truck while the whole scene brightens from a moody cool dusk to clear daylight, reflections crawling across the glossy paint and the lit grille reading more clearly; the truck itself stays still; the shot ends on a fast macro whip rushing into the glowing grille.",
+        "i2v_params": {
+          "clip_duration_sec": 7.17,
+          "camera_move": "slow_push_in",
+          "subject_motion_level": "minimal",
+          "signature_effect": "none",
+          "pacing": "steady_reverent",
+          "loopable": false
+        },
+        "t2i_negative": "warm sunset light, green vegetation, busy background, motion blur, visible real brand logo, people, text captions, oversaturated colors, low resolution",
+        "fidelity_note": "craft-faithful; vehicle form and lit grille preserved; grille wordmark rendered generically; environment is CG canyon"
+      }
+    },
+    {
+      "index": 3,
+      "duration": 2.236,
+      "framing": "WS",
+      "function": "transition_flythrough",
+      "subject_action": "the camera rushes into the glowing grille (a brief macro light-streak whip) and bursts out into a sweeping aerial flythrough between towering warm-toned rock cliffs, threading toward distant snow-tipped peaks under a stormy golden cloudscape; a small bottom-left caption discloses generative-AI use",
+      "layout_grid": "diagonal_cliffs_framing_central_valley",
+      "subject_position": "environment_no_vehicle",
+      "typo_motion": "static_caption_hold",
+      "camera_angle": "aerial_eye_level_flythrough",
+      "camera_facing": "forward_through_canyon",
+      "shot_scope": "establishing_landscape",
+      "gaze": "none",
+      "props": [
+        "warm_rock_cliffs",
+        "distant_mountain_peaks",
+        "storm_clouds",
+        "drifting_mist"
+      ],
+      "color_palette": [
+        "#9A6A45",
+        "#C98F5E",
+        "#7A5238",
+        "#D9C2A0",
+        "#4A3526"
+      ],
+      "color_intent": "warm_amber_golden_storm_light_on_rugged_cliffs_a_dramatic_tonal_swing_from_the_cool_canyon",
+      "pose_description": "no vehicle; the landscape itself is the subject — jagged warm cliff faces flanking a hazy valley that opens toward backlit peaks, conveying scale and adventure",
+      "subject_motion": "none_static_terrain",
+      "camera_motion": "fast_aerial_flythrough_forward",
+      "camera_effect_local": "none",
+      "intra_cut_rhythm": "rushing_forward_motion",
+      "transition_in": "macro_whip_light_streak",
+      "transition_out": "cut",
+      "mid_frame_path": "ADV-2026-002_frames/cut03_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "warm_rock_cliff_edges_left_and_right",
+          "drifting_mist"
+        ],
+        "midground": [
+          "hazy_valley_floor",
+          "ridge_lines"
+        ],
+        "background": [
+          "distant_snow_tipped_peaks",
+          "towering_storm_clouds",
+          "breaking_god_rays"
+        ],
+        "lighting_env": [
+          "warm_backlit_golden_storm_light",
+          "diffuse_overcast_glow"
+        ],
+        "atmosphere": [
+          "epic",
+          "stormy",
+          "adventurous_grandeur"
+        ]
+      },
+      "texture": {
+        "primary_subject": "rugged_striated_warm_rock",
+        "secondary_objects": [
+          "billowing_cloud_masses"
+        ],
+        "background_surface": "hazy_atmospheric_mountains",
+        "atmospheric": [
+          "volumetric_mist",
+          "god_rays",
+          "soft_haze"
+        ]
+      },
+      "lighting": {
+        "key_direction": "high_backlight_through_clouds",
+        "key_hardness": "soft_diffused",
+        "key_color_temp": "warm_golden_4000K",
+        "fill_strength": "medium",
+        "key_to_fill_ratio": "3:1",
+        "rim_light": true,
+        "practical_lights": [],
+        "shadow_presence": "soft_atmospheric",
+        "overall_contrast": "medium_high"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#9A6A45",
+          "#C98F5E",
+          "#7A5238",
+          "#D9C2A0",
+          "#4A3526"
+        ],
+        "palette_role": {
+          "#9A6A45": "warm_rock_midtone",
+          "#C98F5E": "sunlit_cliff_and_cloud_edge",
+          "#7A5238": "shadowed_rock",
+          "#D9C2A0": "hazy_warm_sky_and_mist",
+          "#4A3526": "deep_rock_shadow"
+        },
+        "color_relationship": "warm_analogous_amber_to_brown",
+        "temperature_balance": "warm",
+        "saturation_strategy": "rich_warm_golden_grade",
+        "contrast_type": "atmospheric_backlit_contrast",
+        "accent_color": "#C98F5E",
+        "accent_ratio": 0.35
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "Widescreen 16:9 landscape cinematic still of a sweeping aerial flythrough between towering rugged rock cliffs in a vast mountain wilderness lit by a dramatic warm golden storm. In the foreground, jagged striated cliff faces of warm amber-brown rock crowd the left and right edges of the frame as if the camera is threading between them at speed; their ridges are sharp and tactile. Beyond them a hazy valley opens up, its floor lost in drifting mist, leading the eye toward distant snow-tipped mountain peaks that catch a shaft of warm backlight. Above, enormous towering storm clouds fill the sky, their edges rimmed with golden light where the low sun breaks through in soft god-rays, the whole atmosphere thick with warm haze. Superimposed small in the lower-left corner is a single line of fine light-grey Korean caption text reading exactly '*이 영상은 생성형 AI를 활용하여 일부 제작되었습니다'. There is no vehicle in this frame; the landscape itself is the subject, conveying immense scale and adventurous grandeur. Lighting is a high warm backlight at roughly 4000K filtering through the cloud deck, soft and diffused, with medium fill bouncing off the haze, bright rims on the cloud and ridge edges, soft atmospheric shadows and a medium-high contrast that keeps the cliff foregrounds richer and the misty valley luminous. Lens rendering: a wide cinematic lens around 24 to 35mm full-frame equivalent for an immersive flythrough feel, deep focus on the cliff faces softening into atmospheric blur toward the peaks, a faint anamorphic-style flare where light catches the lens, and a whisper of grain. Composition uses the two cliff masses as strong diagonal framing wedges that funnel toward the bright misty valley and backlit peaks at the center, a classic adventure-vista funnel. Color palette and strategy: a rich warm analogous grade from amber to brown — warm rock midtone (#9A6A45), sunlit cliff and cloud edge (#C98F5E), shadowed rock (#7A5238), hazy warm sky and mist (#D9C2A0) and deep rock shadow (#4A3526); saturation is warm and golden, a deliberate dramatic tonal swing away from the cool white canyon that preceded it. Texture and surfaces: rugged striated warm rock with crisp fault lines, billowing soft cloud masses, and hazy atmospheric mountains dissolving into mist. Atmosphere: epic, stormy and adventurous — a soaring rush through monumental terrain. Post and signature look: this environment plate is rendered with a photoreal-yet-painterly generative quality, a warm cinematic grade, volumetric mist and god-rays, lens flare and subtle film grain, consistent with a film that openly uses generative AI for its landscape plates. Style anchor: high-end automotive CG commercial, Korean, with generative-AI environment plates. Preserve the on-screen Korean caption '*이 영상은 생성형 AI를 활용하여 일부 제작되었습니다' exactly; no real logos, no people, no celebrity likeness. Additional craft and composition notes: the sense of speed should come from the foreground cliff masses streaking past close to the lens while the distant peaks and clouds drift more slowly, creating strong parallax that reads as a fast, soaring flight through the terrain; the leading edges of the nearest rock should be slightly motion-softened while the midground stays legible. The warm light should be unmistakably golden-hour-through-storm: shafts of light spearing down between cloud banks, catching the tops of ridges and the upper surfaces of the mist so the valley glows from within, while the undersides of clouds and the canyon shadows stay rich and warm-brown. Keep the rock detail painterly but believable, with stratified layers and weathered faces, and let the mist pool realistically in the low folds of the land. The small grey disclaimer caption must remain quietly legible in the lower-left without drawing focus from the spectacle. The overall feeling is awe and momentum — a cinematic establishing flythrough that sells scale and adventure before the vehicle returns to the screen.",
+        "i2v_motion": "The shot opens on a fast macro light-streak whip rushing through the glowing grille of the previous shot, then bursts into a fast forward aerial flythrough threading between the warm cliff faces, mist drifting past and the backlit peaks and storm clouds slowly parting ahead; the small bottom-left disclaimer caption holds static; hard cut at the end.",
+        "i2v_params": {
+          "clip_duration_sec": 2.24,
+          "camera_move": "fast_aerial_flythrough",
+          "subject_motion_level": "environment_motion_only",
+          "signature_effect": "none",
+          "pacing": "accelerating",
+          "loopable": false
+        },
+        "t2i_negative": "cool blue grade, clear calm sky, green forest, a vehicle in frame, english caption, motion blur smear, real brand logo, low resolution",
+        "fidelity_note": "craft-faithful; generative-AI landscape plate; on-screen Korean disclaimer preserved exactly"
+      }
+    },
+    {
+      "index": 4,
+      "duration": 4.104,
+      "framing": "WS",
+      "function": "feature_demo",
+      "subject_action": "after a brief high aerial vista over warm mountains, the film cuts to a low rear-three-quarter tracking shot of a white pickup driving hard across an arid desert plain, throwing up a huge billowing dust plume; mountains line the horizon; a bottom-left generative-AI disclaimer and a bottom-right 'powerful diesel & gasoline' caption are present",
+      "layout_grid": "subject_right_with_trailing_dust_left",
+      "subject_position": "center_right",
+      "typo_motion": "static_caption_hold",
+      "camera_angle": "low_rear_three_quarter_tracking",
+      "camera_facing": "chasing_from_behind",
+      "shot_scope": "vehicle_in_action_landscape",
+      "gaze": "none",
+      "props": [
+        "white_pickup_truck",
+        "dust_plume",
+        "tire_tracks",
+        "distant_mountains",
+        "sport_bar"
+      ],
+      "color_palette": [
+        "#B98A5A",
+        "#D8B488",
+        "#8A7A6A",
+        "#E9E6E1",
+        "#5A4636"
+      ],
+      "color_intent": "warm_dusty_golden_hour_desert_with_a_clean_white_vehicle_punching_through_amber_dust",
+      "pose_description": "the white truck powers away at a dynamic rear three-quarter angle, slightly nose-up under acceleration, body clean and bright against the dust, wheels biting the dirt and flinging a wide curtain of dust behind",
+      "subject_motion": "fast_driving_with_dust_spray",
+      "camera_motion": "low_fast_tracking_chase",
+      "camera_effect_local": "none",
+      "intra_cut_rhythm": "high_speed_chase_energy",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "mid_frame_path": "ADV-2026-002_frames/cut04_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "billowing_dust_plume",
+          "rutted_desert_floor",
+          "tire_tracks"
+        ],
+        "midground": [
+          "white_pickup_truck_rear_three_quarter"
+        ],
+        "background": [
+          "low_desert_mountain_range",
+          "hazy_warm_sky"
+        ],
+        "lighting_env": [
+          "low_warm_sun",
+          "dust_diffused_light"
+        ],
+        "atmosphere": [
+          "kinetic",
+          "rugged",
+          "wild_freedom"
+        ]
+      },
+      "texture": {
+        "primary_subject": "clean_glossy_white_bodywork",
+        "secondary_objects": [
+          "matte_black_cladding_and_wheels",
+          "cracked_dry_earth"
+        ],
+        "background_surface": "hazy_desert_mountains",
+        "atmospheric": [
+          "thick_dust_cloud",
+          "warm_haze"
+        ]
+      },
+      "lighting": {
+        "key_direction": "low_warm_sun_behind_and_side",
+        "key_hardness": "soft_diffused_by_dust",
+        "key_color_temp": "warm_golden_3800K",
+        "fill_strength": "medium",
+        "key_to_fill_ratio": "3:1",
+        "rim_light": true,
+        "practical_lights": [],
+        "shadow_presence": "long_soft_shadows",
+        "overall_contrast": "medium_high"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#B98A5A",
+          "#D8B488",
+          "#8A7A6A",
+          "#E9E6E1",
+          "#5A4636"
+        ],
+        "palette_role": {
+          "#B98A5A": "warm_desert_floor_and_dust",
+          "#D8B488": "sunlit_dust_highlight",
+          "#8A7A6A": "hazy_distant_mountains",
+          "#E9E6E1": "clean_white_vehicle_body",
+          "#5A4636": "dark_cladding_and_shadow"
+        },
+        "color_relationship": "warm_dominant_with_bright_neutral_vehicle",
+        "temperature_balance": "warm",
+        "saturation_strategy": "warm_golden_grade_with_neutral_subject_pop",
+        "contrast_type": "subject_value_pop_against_dust",
+        "accent_color": "#E9E6E1",
+        "accent_ratio": 0.12
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "Widescreen 16:9 landscape cinematic still of a white modern double-cab pickup truck driving hard across a vast arid desert plain at golden hour, shot from a low rear three-quarter tracking angle as if chasing close behind. The truck is positioned center-right, slightly nose-up under hard acceleration, its clean glossy white body and black wheel-arch cladding crisp and bright against the dust; over the rear bed a black tubular sport bar is visible and the truck rides on chunky all-terrain tires. Behind and to the left it throws up an enormous billowing curtain of warm amber dust that fills much of the left of the frame, with rutted tire tracks carving the cracked dry earth in the foreground. Along the horizon a low range of hazy desert mountains sits under a warm, slightly hazy sky. Superimposed small in the lower-left corner is a fine light-grey Korean caption reading exactly '*이 영상은 생성형 AI를 활용하여 일부 제작되었습니다'; superimposed in the lower-right corner is a Korean caption flanked by thin vertical bars reading exactly '|파워풀한 디젤 & 가솔린|', with '파워풀한' in a regular weight and '디젤 & 가솔린' in bold, in clean white text. Lighting is a low warm sun at roughly 3800K raking from behind and the side, softened and scattered by the dust, with medium fill, a bright rim along the truck's upper edges, long soft shadows and a medium-high contrast. Lens rendering: a wide-to-normal cinematic lens around 35mm full-frame equivalent, the truck reasonably sharp while the dust and distance dissolve into warm haze, with a faint flare and subtle grain. Composition places the bright vehicle on the right third trailing a diagonal sweep of dust to the lower left, conveying speed and direction. Color palette and strategy: a warm-dominant golden grade — warm desert floor and dust (#B98A5A), sunlit dust highlight (#D8B488), hazy distant mountains (#8A7A6A), the clean neutral white vehicle body (#E9E6E1) and dark cladding and shadow (#5A4636); the strategy is to keep the environment warm and dusty so the neutral white truck pops by value. Texture and surfaces: clean glossy white automotive paint, matte black cladding and wheels, thick churning dust, and cracked dry desert earth. Atmosphere: kinetic, rugged and wild — the sensation of a powerful truck tearing across open country. Post and signature look: photoreal automotive action with a warm cinematic grade, heavy volumetric dust, lens flare and film grain; the desert backdrop is a generative-AI-assisted plate composited with a CG vehicle. Style anchor: high-end automotive CG commercial, Korean, mixing CG vehicle with generative-AI desert plates. Preserve the on-screen Korean captions '*이 영상은 생성형 AI를 활용하여 일부 제작되었습니다' and '|파워풀한 디젤 & 가솔린|' exactly; render any badge generically; no real logos, no people, no celebrity likeness. Additional craft and composition notes: the chase framing should feel close and energetic, as if the camera rig is mounted low on a pursuit vehicle just behind and to the side, so the truck sits slightly above the lens and the cracked desert floor rushes underneath toward the viewer; the tire tracks should converge into the distance as strong leading lines. The dust plume must read as voluminous and warmly backlit, brightest where the low sun rakes through it and falling into cooler shadow on its underside, with individual billows and tendrils rather than a flat smear, and a scattering of grit kicked up near the rear wheels. The clean white body should hold a crisp specular highlight along the shoulder line and roof, a cool sky tint on top and a warm ground-bounce on its flanks, with the lower panels just beginning to film over with dust. Keep the distant mountains hazy and low-contrast so the eye stays on the bright vehicle and its plume; let a gentle horizontal flare and fine grain unify the plate, the intended feeling a confident, free, high-velocity statement of off-road capability across wide open country.",
+        "i2v_motion": "The truck powers away from camera across the plain, the low tracking camera chasing and slightly closing the gap, the dust plume billowing and curling behind it and the tire tracks streaming past in the foreground; the two corner captions hold static; hard cut at the end.",
+        "i2v_params": {
+          "clip_duration_sec": 4.1,
+          "camera_move": "low_tracking_chase",
+          "subject_motion_level": "high",
+          "signature_effect": "none",
+          "pacing": "accelerating",
+          "loopable": false
+        },
+        "t2i_negative": "cool blue grade, wet road, city background, static parked vehicle, english caption, no dust, real brand logo, low resolution",
+        "fidelity_note": "craft-faithful; CG vehicle on generative-AI desert plate; both on-screen captions preserved exactly"
+      }
+    },
+    {
+      "index": 5,
+      "duration": 1.401,
+      "framing": "MS",
+      "function": "feature_demo",
+      "subject_action": "a tight golden-hour side profile of the white pickup drifting/power-sliding across the desert, kicking a dense fan of dust and grit off the rear wheels; mountains glow behind; the bottom-right 'powerful diesel & gasoline' caption is present",
+      "layout_grid": "profile_subject_center_with_dust_fan",
+      "subject_position": "center",
+      "typo_motion": "static_caption_hold",
+      "camera_angle": "side_profile_low",
+      "camera_facing": "lateral_to_vehicle",
+      "shot_scope": "full_vehicle_action",
+      "gaze": "none",
+      "props": [
+        "white_pickup_truck",
+        "dust_and_grit_spray",
+        "sport_bar_cargo_basket",
+        "glowing_mountains"
+      ],
+      "color_palette": [
+        "#C28B54",
+        "#E6C290",
+        "#9A7250",
+        "#EDEAE5",
+        "#5C4631"
+      ],
+      "color_intent": "backlit_golden_hour_dust_glow_silhouetting_a_bright_white_drifting_truck",
+      "pose_description": "the truck is caught mid-drift in pure side profile, body angled into the slide, rear wheels spinning and flinging a wide arc of dust and debris, the whole machine dynamic and planted",
+      "subject_motion": "drift_power_slide_with_spray",
+      "camera_motion": "lateral_tracking_with_slide",
+      "camera_effect_local": "none",
+      "intra_cut_rhythm": "peak_action_burst",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "mid_frame_path": "ADV-2026-002_frames/cut05_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "rear_wheel_dust_and_grit_arc",
+          "churned_desert_surface"
+        ],
+        "midground": [
+          "white_pickup_truck_side_profile"
+        ],
+        "background": [
+          "glowing_backlit_mountains",
+          "warm_dust_haze"
+        ],
+        "lighting_env": [
+          "low_backlit_golden_sun",
+          "dust_scattered_glow"
+        ],
+        "atmosphere": [
+          "explosive_energy",
+          "heroic_action",
+          "golden_warmth"
+        ]
+      },
+      "texture": {
+        "primary_subject": "glossy_white_bodywork_with_dust_film",
+        "secondary_objects": [
+          "matte_black_sport_bar_and_wheels",
+          "flying_grit_and_pebbles"
+        ],
+        "background_surface": "soft_glowing_mountains",
+        "atmospheric": [
+          "dense_warm_dust",
+          "backlit_haze"
+        ]
+      },
+      "lighting": {
+        "key_direction": "low_backlight_from_behind_vehicle",
+        "key_hardness": "soft_through_dust",
+        "key_color_temp": "warm_golden_3600K",
+        "fill_strength": "medium",
+        "key_to_fill_ratio": "3:1",
+        "rim_light": true,
+        "practical_lights": [
+          "red_led_tail_light"
+        ],
+        "shadow_presence": "soft_dust_diffused",
+        "overall_contrast": "medium_high"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#C28B54",
+          "#E6C290",
+          "#9A7250",
+          "#EDEAE5",
+          "#5C4631"
+        ],
+        "palette_role": {
+          "#C28B54": "warm_dust_midtone",
+          "#E6C290": "backlit_golden_haze",
+          "#9A7250": "shadowed_dust_and_mountains",
+          "#EDEAE5": "bright_white_vehicle_body",
+          "#5C4631": "dark_undercarriage_and_wheels"
+        },
+        "color_relationship": "warm_analogous_with_neutral_subject",
+        "temperature_balance": "warm",
+        "saturation_strategy": "rich_golden_backlit_grade",
+        "contrast_type": "backlit_rim_and_value_pop",
+        "accent_color": "#EDEAE5",
+        "accent_ratio": 0.16
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "Widescreen 16:9 landscape cinematic still, a tight side-profile action shot of a white modern double-cab pickup truck caught mid-drift power-sliding across a desert at golden hour. The truck fills the center of the frame in pure lateral profile, its body angled into the slide, the front wheels turned and the rear wheels spinning to fling a wide dense arc of warm amber dust, grit and small pebbles up and back off the rear tires. Over the bed sits a black tubular sport bar fitted with a flat cargo basket, the truck rides on chunky all-terrain tires, and a slim vertical red LED tail light glows at the rear corner; the glossy white bodywork wears a faint film of dust. Behind the truck, soft glowing backlit desert mountains rise through warm dust haze, lit by a low sun directly behind the vehicle. Superimposed in the lower-right corner is a Korean caption flanked by thin vertical bars reading exactly '|파워풀한 디젤 & 가솔린|', with '파워풀한' in regular weight and '디젤 & 가솔린' in bold, in clean white. Lighting is a low warm backlight at roughly 3600K coming from behind the vehicle, scattering through the dust into a glowing haze, with medium fill, a bright rim outlining the truck's roofline and sport bar, soft dust-diffused shadows and a medium-high contrast. Lens rendering: a normal cinematic lens around 50mm full-frame equivalent, the truck crisp while the dust arc and mountains soften, with a backlit lens flare and subtle grain. Composition centers the drifting truck with the dust arc sweeping out behind it, the low camera emphasizing power and planting. Color palette and strategy: a rich golden backlit grade — warm dust midtone (#C28B54), backlit golden haze (#E6C290), shadowed dust and mountains (#9A7250), bright neutral white vehicle body (#EDEAE5) and dark undercarriage and wheels (#5C4631); the neutral white truck and its red tail light pop against the warm haze. Texture and surfaces: glossy white automotive paint dusted with fine grit, matte black sport bar and wheels, flying pebbles and grit, and soft glowing mountains behind. Atmosphere: explosive energy and heroic action bathed in golden warmth. Post and signature look: photoreal automotive action with a warm cinematic grade, dense volumetric dust, backlit flare and film grain; CG vehicle on a generative-AI-assisted desert plate. Style anchor: high-end automotive CG commercial, Korean. Preserve the on-screen Korean caption '|파워풀한 디젤 & 가솔린|' exactly; render any badge generically; no real logos, no people, no celebrity likeness. Additional craft and composition notes: the drift should be captured at the most dynamic instant of the slide, with the chassis loaded onto its outer suspension and the body subtly leaning, the front wheels visibly steered into the turn and the rear axle breaking traction; the dust arc should not be a uniform cloud but a layered, turbulent curtain — denser and warmer where it leaves the spinning tire, thinning into luminous backlit haze as it rises, with a few sharp pebbles and clods frozen mid-flight at the leading edge. The low camera height should put the horizon near the truck's beltline so the vehicle feels powerful and grounded, and a thin bright rim should separate the roofline, sport bar and cargo basket from the glowing background. The pale paint should pick up warm bounce on its shadow side and a cool sky tint on top, with a faint film of clinging dust dulling the lower panels. Let a gentle anamorphic-style horizontal flare streak from the backlight and a touch of fine grain sit over the whole frame; the intended feeling is a single heroic, golden, kinetic hero-frame of capability — the truck unmistakably in command of difficult terrain.",
+        "i2v_motion": "The truck slides laterally across the frame in a sustained drift, rear wheels spinning to throw a continuous fan of dust and grit, the lateral camera tracking with it to keep it centered while the backlit mountains and haze drift behind; the bottom-right caption holds static; hard cut at the end.",
+        "i2v_params": {
+          "clip_duration_sec": 1.4,
+          "camera_move": "lateral_tracking",
+          "subject_motion_level": "high",
+          "signature_effect": "none",
+          "pacing": "peak",
+          "loopable": false
+        },
+        "t2i_negative": "front three-quarter angle, cool grade, paved road, clean no-dust, english caption, parked vehicle, real brand logo, low resolution",
+        "fidelity_note": "craft-faithful; CG vehicle on generative-AI desert plate; on-screen Korean caption preserved exactly"
+      }
+    },
+    {
+      "index": 6,
+      "duration": 1.502,
+      "framing": "MS",
+      "function": "beauty_insert",
+      "subject_action": "a moody dark-studio side-profile beauty shot of the white pickup parked on a sandy rock-strewn floor, lit by a single warm overhead spotlight that pools light on the roof and shoulder line; the rear red LED tail light glows; the truck reads sculptural and premium",
+      "layout_grid": "centered_profile_in_pool_of_light",
+      "subject_position": "center",
+      "typo_motion": "none",
+      "camera_angle": "eye_level_side_profile",
+      "camera_facing": "lateral_to_vehicle",
+      "shot_scope": "full_vehicle_beauty",
+      "gaze": "at_product",
+      "props": [
+        "white_pickup_truck",
+        "scattered_rocks",
+        "sandy_floor",
+        "sport_bar",
+        "red_led_tail_light"
+      ],
+      "color_palette": [
+        "#2A2018",
+        "#B9986F",
+        "#D9CBB6",
+        "#C0392B",
+        "#1A1410"
+      ],
+      "color_intent": "warm_low_key_studio_spotlight_sculpting_a_pale_vehicle_out_of_darkness",
+      "pose_description": "the truck stands in calm side profile, planted on rocky sand, its pale body catching a soft warm key from above that rolls down the shoulder line into shadow, the dark sport bar and glowing red tail light adding accents",
+      "subject_motion": "static_vehicle",
+      "camera_motion": "slow_lateral_orbit",
+      "camera_effect_local": "none",
+      "intra_cut_rhythm": "calm_beauty_hold",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "mid_frame_path": "ADV-2026-002_frames/cut06_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "scattered_rocks_on_sand",
+          "lower_body_and_wheels"
+        ],
+        "midground": [
+          "white_pickup_truck_side_profile"
+        ],
+        "background": [
+          "dark_falloff_void",
+          "faint_warm_spotlight_pool"
+        ],
+        "lighting_env": [
+          "single_warm_overhead_spotlight",
+          "deep_ambient_shadow"
+        ],
+        "atmosphere": [
+          "premium_moody",
+          "sculptural",
+          "intimate_showcase"
+        ]
+      },
+      "texture": {
+        "primary_subject": "satin_pale_bodywork_with_soft_falloff",
+        "secondary_objects": [
+          "matte_black_sport_bar_and_cladding",
+          "machined_alloy_wheels",
+          "glowing_red_tail_light"
+        ],
+        "background_surface": "dark_sandy_rock_floor",
+        "atmospheric": [
+          "warm_light_haze",
+          "deep_shadow"
+        ]
+      },
+      "lighting": {
+        "key_direction": "single_high_overhead_spot",
+        "key_hardness": "soft_focused_pool",
+        "key_color_temp": "warm_tungsten_3200K",
+        "fill_strength": "very_low",
+        "key_to_fill_ratio": "6:1",
+        "rim_light": true,
+        "practical_lights": [
+          "red_led_tail_light"
+        ],
+        "shadow_presence": "deep_enveloping_shadow",
+        "overall_contrast": "high"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#2A2018",
+          "#B9986F",
+          "#D9CBB6",
+          "#C0392B",
+          "#1A1410"
+        ],
+        "palette_role": {
+          "#2A2018": "warm_dark_background",
+          "#B9986F": "warm_spotlight_on_floor_and_body",
+          "#D9CBB6": "lit_pale_bodywork_highlight",
+          "#C0392B": "red_tail_light_accent",
+          "#1A1410": "deep_shadow_void"
+        },
+        "color_relationship": "warm_low_key_with_red_accent",
+        "temperature_balance": "warm",
+        "saturation_strategy": "low_key_desaturated_with_one_red_accent",
+        "contrast_type": "high_key_to_shadow_chiaroscuro",
+        "accent_color": "#C0392B",
+        "accent_ratio": 0.05
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "Widescreen 16:9 landscape cinematic still, a moody dark-studio beauty shot of a white modern double-cab pickup truck parked in pure side profile on a sandy, rock-strewn floor inside a dark space, lit by a single warm overhead spotlight. The spotlight pools a soft warm light onto the roof and shoulder line of the pale body, rolling down the doors into deep shadow at the lower body, so the truck appears sculpted out of darkness; over the bed a black tubular sport bar is silhouetted, the machined alloy wheels catch faint highlights, and a slim vertical red LED tail light glows warm at the rear corner. The background falls off into a warm near-black void with only a faint haze where the spotlight scatters; scattered rocks and a soft pile of pale rubble sit around the tires. There is no on-screen text in this frame. Lighting is a single high overhead tungsten spotlight at roughly 3200K acting as a focused soft key with very low fill, giving a high key-to-shadow ratio, a bright rim on the roofline, deep enveloping shadows and high overall contrast — a premium showroom-meets-cinema look. Lens rendering: a normal cinematic lens around 50mm full-frame equivalent, the truck crisp in the pool of light, the background dissolving into soft darkness, with a faint warm flare around the spotlight and subtle grain. Composition centers the truck in profile within the cone of light, the surrounding darkness acting as generous negative space. Color palette and strategy: a warm low-key scheme — warm dark background (#2A2018), warm spotlight on floor and body (#B9986F), lit pale bodywork highlight (#D9CBB6), a small red tail-light accent (#C0392B) and a deep shadow void (#1A1410); saturation is restrained except for the single glowing red accent. Texture and surfaces: satin pale automotive paint with soft tonal falloff, matte black sport bar and cladding, machined alloy wheels, a glowing red light-guide tail light, and a dark sandy rock floor. Atmosphere: premium, moody and sculptural — an intimate showcase of the vehicle's form. Post and signature look: photoreal automotive CG beauty render with physically-based satin paint, a warm low-key cinematic grade, gentle haze and film grain. Style anchor: high-end automotive CG commercial, Korean, studio beauty register. Render any badge generically; no real logos, no people, no celebrity likeness. Additional craft and composition notes: the single overhead spotlight should read as a soft circular pool whose hottest point lands near the cab roof and front shoulder, then falls off smoothly toward the bed and the lower body so a large portion of the truck sits in graceful shadow — the lighting sculpts the silhouette rather than describing every detail. The pale paint should hold a long, soft, gradient reflection of the warm light along the upper door line, with the side glass reading as dark mirror-like rectangles and the A- and B-pillars catching thin bright edges. The black tubular sport bar over the bed should be rendered as a near-silhouette with only a few specular kisses along its top tubes, reinforcing the rugged accessory profile, while the slim vertical red LED tail light at the rear glows as the one warm chromatic note in the frame. The rocky sand floor should be loosely lit, a few foreground stones catching rim light and most of the ground dropping into shadow, so the truck appears to float in a warm pocket of darkness. Keep reflections physically plausible and the grade warm and filmic, with a gentle haze in the air and a whisper of grain; the intended feeling is a premium, almost reverent showroom-in-a-cave portrait that flatters the vehicle's stance and proportions, the kind of moody beauty insert used to punctuate a cinematic automotive film between bursts of action.",
+        "i2v_motion": "A slow lateral orbit drifts the camera gently along the parked truck so the warm spotlight highlight crawls along the shoulder line and the reflections shift across the pale paint; the truck stays still, the red tail light glowing steadily; hard cut at the end.",
+        "i2v_params": {
+          "clip_duration_sec": 1.5,
+          "camera_move": "slow_orbit",
+          "subject_motion_level": "minimal",
+          "signature_effect": "none",
+          "pacing": "calm",
+          "loopable": false
+        },
+        "t2i_negative": "daylight, bright even lighting, outdoor sky, motion blur, dust action, english caption, real brand logo, low resolution",
+        "fidelity_note": "craft-faithful; CG studio beauty render; no real logo marks, identity generic"
+      }
+    },
+    {
+      "index": 7,
+      "duration": 1.568,
+      "framing": "ECU",
+      "function": "beauty_insert",
+      "subject_action": "an extreme close-up macro detail of the white truck's lower bodywork — the sculpted door panel, black side cladding, polished side step and a two-tone machined alloy wheel — in the same warm dark-studio light, emphasizing surface, reflections and craftsmanship",
+      "layout_grid": "diagonal_panel_and_wheel_macro",
+      "subject_position": "left_body_right_wheel",
+      "typo_motion": "none",
+      "camera_angle": "low_close_detail",
+      "camera_facing": "oblique_to_body_side",
+      "shot_scope": "product_detail",
+      "gaze": "at_product",
+      "props": [
+        "machined_alloy_wheel",
+        "black_side_cladding",
+        "polished_side_step",
+        "painted_door_panel"
+      ],
+      "color_palette": [
+        "#2A211A",
+        "#C9B392",
+        "#E4DAC9",
+        "#7A7066",
+        "#15110D"
+      ],
+      "color_intent": "warm_dark_studio_macro_emphasizing_satin_paint_and_machined_metal_textures",
+      "pose_description": "static detail framing of the lower flank; the pale door panel sweeps in from upper-left, the black lower cladding and polished running board cross the lower frame, and a two-tone machined alloy wheel anchors the right with crisp spoke highlights",
+      "subject_motion": "static_detail",
+      "camera_motion": "slow_creep_along_body",
+      "camera_effect_local": "none",
+      "intra_cut_rhythm": "lingering_detail_hold",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "mid_frame_path": "ADV-2026-002_frames/cut07_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "machined_two_tone_alloy_wheel",
+          "polished_side_step",
+          "black_lower_cladding"
+        ],
+        "midground": [
+          "satin_painted_door_panel"
+        ],
+        "background": [
+          "dark_warm_falloff",
+          "hint_of_floor"
+        ],
+        "lighting_env": [
+          "warm_overhead_spot",
+          "deep_shadow"
+        ],
+        "atmosphere": [
+          "tactile_craft",
+          "premium_detail",
+          "moody"
+        ]
+      },
+      "texture": {
+        "primary_subject": "satin_pale_paint_and_machined_alloy",
+        "secondary_objects": [
+          "matte_black_cladding",
+          "polished_metal_step"
+        ],
+        "background_surface": "dark_sandy_floor",
+        "atmospheric": [
+          "warm_haze",
+          "deep_shadow"
+        ]
+      },
+      "lighting": {
+        "key_direction": "high_warm_overhead_raking",
+        "key_hardness": "soft_directional",
+        "key_color_temp": "warm_tungsten_3200K",
+        "fill_strength": "very_low",
+        "key_to_fill_ratio": "6:1",
+        "rim_light": true,
+        "practical_lights": [],
+        "shadow_presence": "deep_shadow",
+        "overall_contrast": "high"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#2A211A",
+          "#C9B392",
+          "#E4DAC9",
+          "#7A7066",
+          "#15110D"
+        ],
+        "palette_role": {
+          "#2A211A": "warm_dark_background",
+          "#C9B392": "warm_lit_paint_midtone",
+          "#E4DAC9": "bright_paint_and_step_highlight",
+          "#7A7066": "machined_alloy_grey",
+          "#15110D": "deep_shadow"
+        },
+        "color_relationship": "warm_monochromatic_low_key",
+        "temperature_balance": "warm",
+        "saturation_strategy": "low_saturation_texture_focused",
+        "contrast_type": "raking_highlight_to_shadow",
+        "accent_color": "#E4DAC9",
+        "accent_ratio": 0.18
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "Widescreen 16:9 landscape cinematic still, an extreme close-up macro detail of the lower flank of a white modern pickup truck inside a warm dark studio. The frame is filled with surface and craftsmanship: a pale satin-painted lower door panel sweeps in from the upper left catching a soft warm highlight, a sculpted matte-black lower body cladding panel and a polished silver running board cross the lower middle of the frame, and on the right a large two-tone machined alloy wheel anchors the composition, its diamond-cut spokes catching crisp highlights against black-painted recesses and a chunky all-terrain tire. The background falls off into warm near-black with only a hint of the sandy floor and a faint reflected glow on the bodywork. There is no on-screen text in this frame. Lighting is a high warm tungsten overhead key at roughly 3200K raking across the surfaces with very low fill, producing a high key-to-shadow ratio, bright specular rims on the polished step and wheel, deep shadows in the cladding recesses and high overall contrast that maximizes the sense of sculpted form. Lens rendering: a macro or short telephoto around 85 to 100mm full-frame equivalent with a shallow plane of focus on the wheel and panel, the background blurring into warm darkness, plus a faint flare and subtle grain. Composition runs a diagonal from the lit upper-left paint down to the wheel at lower-right, leading the eye across the materials. Color palette and strategy: a warm monochromatic low-key scheme — warm dark background (#2A211A), warm lit paint midtone (#C9B392), bright paint and step highlight (#E4DAC9), machined alloy grey (#7A7066) and deep shadow (#15110D); saturation is low and the image lives on texture and specular highlight rather than color. Texture and surfaces: satin pale automotive paint, machined diamond-cut alloy, matte black cladding, polished metal step and rubbery tire, all rendered with photoreal physically-based detail. Atmosphere: tactile, premium and moody — a loving look at the vehicle's materials and build. Post and signature look: photoreal automotive CG macro render, warm low-key cinematic grade, gentle haze and film grain. Style anchor: high-end automotive CG commercial, Korean, detail-macro register. Render any badge generically; no real logos, no people, no celebrity likeness. Additional craft and composition notes: the framing should feel deliberately abstract and tactile, cropping the vehicle so tightly that the viewer reads materials and form rather than the whole truck — a confident close-up that trusts the surfaces to convey quality. The pale door panel should show a long, smooth, unbroken highlight where the overhead key grazes the clear-coat, with the reflection softening gradually into the shadowed lower body so the eye follows the curvature of the sheet metal; a crisp character line or pressing in the door should catch a thin bright edge. The matte-black lower cladding should read as a textured, slightly grained composite that absorbs light and contrasts against the glossy paint above it, while the polished running board returns a hard, narrow specular streak. On the alloy wheel, the diamond-cut faces of the spokes should glint with sharp metallic highlights against the black-painted pockets between them, the wheel's center cap and the chunky tire's tread blocks just catching the warm light at their edges. Keep the depth of field shallow enough that the wheel hub and the nearest panel are razor sharp while the far edges melt into warm shadow, and let a faint warm haze and a touch of fine film grain sit in the darkness to bind the elements; the result should feel like a luxury product macro, the automotive equivalent of a watch or jewelry beauty insert, where light, reflection and machined precision do all the storytelling.",
+        "i2v_motion": "The camera creeps slowly along the lower body so the warm raking highlight slides across the satin paint and glints travel around the machined alloy spokes and the polished step; everything else holds still; hard cut at the end.",
+        "i2v_params": {
+          "clip_duration_sec": 1.57,
+          "camera_move": "slow_creep",
+          "subject_motion_level": "minimal",
+          "signature_effect": "none",
+          "pacing": "calm",
+          "loopable": false
+        },
+        "t2i_negative": "wide shot, daylight, flat lighting, full vehicle, dust action, english caption, real brand logo, low resolution",
+        "fidelity_note": "craft-faithful; CG studio detail macro; no real logo marks, identity generic"
+      }
+    },
+    {
+      "index": 8,
+      "duration": 2.002,
+      "framing": "CU",
+      "function": "brand_reveal",
+      "subject_action": "after a brief desert drift beat, a low close-up reveals the white truck's rear tailgate in the bright white canyon: a large embossed 'KGM' badge dominates a black tailgate inset, a small 'MUSSO' badge sits at the tailgate corner and another 'MUSSO' is embossed on the rear bumper, with a tall red LED tail light glowing at the corner",
+      "layout_grid": "centered_tailgate_with_corner_taillight",
+      "subject_position": "center",
+      "typo_motion": "none",
+      "camera_angle": "low_rear_close",
+      "camera_facing": "toward_tailgate",
+      "shot_scope": "product_detail",
+      "gaze": "at_product",
+      "props": [
+        "tailgate_kgm_emboss",
+        "musso_badges",
+        "red_led_tail_light",
+        "rear_bumper",
+        "white_canyon_walls"
+      ],
+      "color_palette": [
+        "#DDDED9",
+        "#1E1F1D",
+        "#C0392B",
+        "#9FA0A0",
+        "#2B2C2A"
+      ],
+      "color_intent": "cool_bright_white_bodywork_and_rock_with_a_dark_badge_inset_and_a_glowing_red_tail_light",
+      "pose_description": "the rear of the parked truck fills the frame at a slight low angle, the broad pale tailgate squared and upright, the recessed black panel carrying the large embossed brand letters, the corner tail light blazing red",
+      "subject_motion": "static_vehicle",
+      "camera_motion": "slow_push_in_on_tailgate",
+      "camera_effect_local": "none",
+      "intra_cut_rhythm": "reveal_hold",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "mid_frame_path": "ADV-2026-002_frames/cut08_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "embossed_kgm_tailgate_badge",
+          "musso_corner_badge",
+          "musso_bumper_emboss",
+          "red_vertical_tail_light"
+        ],
+        "midground": [
+          "pale_tailgate_and_rear_bumper"
+        ],
+        "background": [
+          "bright_white_canyon_walls",
+          "pale_rubble"
+        ],
+        "lighting_env": [
+          "cool_overcast_skylight",
+          "led_tail_light_glow"
+        ],
+        "atmosphere": [
+          "monumental",
+          "brand_assertive",
+          "premium_calm"
+        ]
+      },
+      "texture": {
+        "primary_subject": "glossy_pale_painted_tailgate",
+        "secondary_objects": [
+          "matte_black_badge_inset",
+          "glowing_red_led_lightguide",
+          "textured_bumper"
+        ],
+        "background_surface": "chalky_white_rock",
+        "atmospheric": [
+          "soft_cool_light"
+        ]
+      },
+      "lighting": {
+        "key_direction": "soft_overhead_cool_skylight",
+        "key_hardness": "soft",
+        "key_color_temp": "cool_daylight_6500K",
+        "fill_strength": "high",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": false,
+        "practical_lights": [
+          "red_led_tail_light"
+        ],
+        "shadow_presence": "soft",
+        "overall_contrast": "medium"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#DDDED9",
+          "#1E1F1D",
+          "#C0392B",
+          "#9FA0A0",
+          "#2B2C2A"
+        ],
+        "palette_role": {
+          "#DDDED9": "pale_tailgate_and_rock",
+          "#1E1F1D": "dark_badge_inset_panel",
+          "#C0392B": "red_tail_light_accent",
+          "#9FA0A0": "mid_grey_rock_and_shadow",
+          "#2B2C2A": "deep_recess_shadow"
+        },
+        "color_relationship": "neutral_with_strong_red_accent",
+        "temperature_balance": "cool",
+        "saturation_strategy": "desaturated_neutral_with_red_accent",
+        "contrast_type": "light_panel_vs_dark_inset",
+        "accent_color": "#C0392B",
+        "accent_ratio": 0.1
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "Widescreen 16:9 landscape cinematic still, a low close-up of the rear tailgate of a white modern double-cab pickup truck parked in a bright, chalky white rocky canyon. The broad pale tailgate fills most of the frame at a slightly low angle, squared and upright; recessed into its upper half is a large matte-black inset panel bearing big embossed uppercase letters reading 'KGM' in a wide techno geometric sans, the letters tonal and sculptural rather than colored. Near the lower-left corner of the tailgate a small badge reads 'MUSSO', and on the dark rear bumper below the tailgate another 'MUSSO' is embossed in small letters; a small rear-view camera nub sits above the badge panel. At the right edge a tall vertical red LED tail light glows warm against the cool scene, and the bright fractured white canyon walls rise behind. Preserve the on-vehicle text 'KGM' and 'MUSSO' exactly as embossed badges. Lighting is soft cool daylight skylight from overhead at roughly 6500K with high fill from the bright surrounding rock, soft shadows in the badge recesses and a medium contrast; the red tail light self-illuminates. Lens rendering: a normal-to-short-telephoto cinematic lens around 50 to 70mm full-frame equivalent with the tailgate crisp and the canyon softly behind, a faint glow off the tail light and subtle grain. Composition centers the embossed badge panel as the hero element with the glowing red tail light anchoring the right and the pale rock framing behind. Color palette and strategy: a desaturated neutral scheme with a strong red accent — pale tailgate and rock (#DDDED9), dark badge inset panel (#1E1F1D), red tail-light accent (#C0392B), mid-grey rock and shadow (#9FA0A0) and deep recess shadow (#2B2C2A); the drama is light panel versus dark inset plus the single red glow. Texture and surfaces: glossy pale automotive paint, a matte black sculpted badge inset, a glowing red LED light-guide, a textured composite bumper and chalky white rock. Atmosphere: monumental, brand-assertive and premium-calm — a confident close-up of the truck's identity. Post and signature look: photoreal automotive CG render with physically-based paint and a cool cinematic grade, faint grain. Style anchor: high-end automotive CG commercial, Korean. The embossed badges should read as generic sculpted lettering on the bodywork; render them as plausible automaker badging without reproducing any trademarked logo styling, and include no people and no celebrity likeness. Additional craft and composition notes: the tailgate should dominate as a broad, clean planar surface so the eye is drawn first to the recessed dark badge panel and its big tonal embossed letters, which catch a soft top light along their upper bevels and shade slightly underneath, giving them a tactile three-dimensional relief rather than a flat printed look. The pale paint of the gate should hold a gentle, even sheen with a soft gradient from a cooler top to a marginally warmer lower edge, and a faint reflection of the surrounding white rock should wash across it. The tall vertical red LED tail light at the right should be the single saturated accent, its internal light-guide segments glowing evenly and throwing a subtle red spill onto the adjacent bodywork and ground. Below the gate, the dark composite rear bumper with its small embossed wordmark, the license-plate recess and the reversing lamps should sit in slightly deeper shadow to anchor the frame. Keep the white canyon walls soft and slightly out of focus behind so they read as a luminous bright environment without competing with the tailgate; maintain a cool, clean cinematic grade with faint grain, the overall effect a confident, monumental brand-identity close-up that lets the truck's rear design and badging speak for the marque.",
+        "i2v_motion": "Following a brief desert drift beat, the shot settles as the camera slowly pushes in on the tailgate, the soft skylight shifting subtly across the pale paint and the embossed badge while the red tail light glows steadily; the truck is parked and still; hard cut at the end.",
+        "i2v_params": {
+          "clip_duration_sec": 2.0,
+          "camera_move": "slow_push_in",
+          "subject_motion_level": "minimal",
+          "signature_effect": "none",
+          "pacing": "calm",
+          "loopable": false
+        },
+        "t2i_negative": "warm sunset grade, front of vehicle, dust action, motion blur, english caption added as overlay, oversaturated, low resolution",
+        "fidelity_note": "craft-faithful; CG tailgate in CG canyon; on-vehicle KGM/MUSSO badges preserved as sculpted embossing, no trademarked logo styling reproduced"
+      }
+    },
+    {
+      "index": 9,
+      "duration": 5.772,
+      "framing": "WS",
+      "function": "lineup_title",
+      "subject_action": "a calm studio lineup reveals two Musso trucks in different body colors — a silver-grey one and a brown/bronze one — parked side by side and angled toward camera against a stylized cool sky-blue backdrop with a dark mountain silhouette; a centered title 'The Original' over a large 'MUSSO' wordmark fades up; the camera slowly dollies/rotates from a tight pairing to a wider front three-quarter lineup",
+      "layout_grid": "symmetric_two_vehicle_lineup_with_centered_title",
+      "subject_position": "paired_left_and_right",
+      "typo_motion": "title_fade_up",
+      "camera_angle": "eye_level_front_three_quarter",
+      "camera_facing": "front_three_quarter_both",
+      "shot_scope": "two_vehicle_lineup",
+      "gaze": "at_product",
+      "props": [
+        "silver_grey_pickup",
+        "brown_bronze_pickup",
+        "stylized_sky_backdrop",
+        "dark_mountain_silhouette",
+        "musso_grille_plates",
+        "sport_bars"
+      ],
+      "color_palette": [
+        "#7FB0C4",
+        "#B8B2A6",
+        "#5A3A28",
+        "#10161A",
+        "#E6E4DF"
+      ],
+      "color_intent": "clean_cool_sky_blue_gradient_backdrop_setting_off_a_pale_and_a_warm_bronze_vehicle_in_a_calm_lineup",
+      "pose_description": "two trucks stand angled toward the lens, the silver-grey one front-left and the bronze one set back at the right, both planted and gleaming with lit grilles, presenting the model in two trims/colors",
+      "subject_motion": "static_vehicles_with_slow_camera_move",
+      "camera_motion": "slow_dolly_and_rotate_reveal",
+      "camera_effect_local": "none",
+      "intra_cut_rhythm": "calm_resolve_with_title",
+      "transition_in": "cut",
+      "transition_out": "cut_to_black",
+      "mid_frame_path": "ADV-2026-002_frames/cut09_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "silver_grey_pickup_front_three_quarter",
+          "brown_bronze_pickup_front_three_quarter",
+          "lit_grille_bars",
+          "musso_grille_plates"
+        ],
+        "midground": [
+          "pale_sandy_studio_floor"
+        ],
+        "background": [
+          "cool_sky_blue_gradient",
+          "dark_mountain_silhouette",
+          "centered_the_original_musso_title"
+        ],
+        "lighting_env": [
+          "soft_even_studio_skylight",
+          "vehicle_led_self_illumination"
+        ],
+        "atmosphere": [
+          "calm_confident",
+          "premium_showcase",
+          "resolved"
+        ]
+      },
+      "texture": {
+        "primary_subject": "glossy_painted_bodywork_two_colors",
+        "secondary_objects": [
+          "matte_black_grilles_and_sport_bars",
+          "machined_alloy_wheels",
+          "glowing_led_lightguides"
+        ],
+        "background_surface": "smooth_graded_sky_backdrop",
+        "atmospheric": [
+          "clean_air",
+          "soft_studio_light"
+        ]
+      },
+      "lighting": {
+        "key_direction": "soft_high_even_studio",
+        "key_hardness": "soft",
+        "key_color_temp": "cool_neutral_5600K",
+        "fill_strength": "high",
+        "key_to_fill_ratio": "1.5:1",
+        "rim_light": true,
+        "practical_lights": [
+          "led_grille_bars",
+          "headlights",
+          "fog_lamps"
+        ],
+        "shadow_presence": "soft_grounding_shadow",
+        "overall_contrast": "medium_low"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#7FB0C4",
+          "#B8B2A6",
+          "#5A3A28",
+          "#10161A",
+          "#E6E4DF"
+        ],
+        "palette_role": {
+          "#7FB0C4": "cool_sky_blue_backdrop",
+          "#B8B2A6": "silver_grey_vehicle_body",
+          "#5A3A28": "brown_bronze_vehicle_body",
+          "#10161A": "dark_mountain_silhouette",
+          "#E6E4DF": "white_title_text_and_highlights"
+        },
+        "color_relationship": "cool_backdrop_vs_warm_and_neutral_subjects",
+        "temperature_balance": "cool_backdrop_neutral_subjects",
+        "saturation_strategy": "clean_low_saturation_with_one_cool_field",
+        "contrast_type": "subject_vs_graded_backdrop",
+        "accent_color": "#7FB0C4",
+        "accent_ratio": 0.4
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "Widescreen 16:9 landscape cinematic still of a calm studio lineup of two modern double-cab pickup trucks of the same model in two different body colors, parked side by side and angled toward the camera in a clean front three-quarter view. The truck on the front-left is a pale silver-grey, the truck set slightly back on the right is a warm brown/bronze; both have tall squared-off fascias with a segmented horizontal LED grille light bar, vertical C-shaped LED headlight signatures, lit fog lamps, a small centered grille badge plate bearing a generic uppercase automaker wordmark, black tubular sport bars over their beds, and large machined alloy wheels. They stand on a smooth pale sandy studio floor against a stylized backdrop: a clean cool sky-blue gradient sky with a stylized dark mountain silhouette running across the lower background. Floating centered in the upper third of the frame is a title: a smaller white line reading 'The Original' above a large bold italic white wordmark reading 'MUSSO'. Preserve the on-screen text 'The Original' and 'MUSSO' exactly. Lighting is soft, high, even studio skylight at roughly 5600K with high fill so both vehicles are cleanly and evenly lit, gentle rim light along their roofs, soft grounding shadows beneath the tires and a medium-low contrast; the LED grilles self-illuminate. Lens rendering: a normal cinematic lens around 50mm full-frame equivalent with both trucks sharp and the graded backdrop clean and slightly soft, minimal flare and subtle grain. Composition is a near-symmetric paired lineup with the centered title binding the two vehicles, the cool sky field giving generous calm negative space above. Color palette and strategy: a clean low-saturation scheme with one cool field — cool sky-blue backdrop (#7FB0C4), silver-grey vehicle body (#B8B2A6), brown-bronze vehicle body (#5A3A28), dark mountain silhouette (#10161A) and white title text and highlights (#E6E4DF); the cool blue field sets off the neutral and warm vehicles. Texture and surfaces: glossy painted automotive bodywork in two colors, matte black grilles and sport bars, machined alloy wheels, glowing LED light-guides and a smooth graded sky backdrop. Atmosphere: calm, confident and premium — the resolved product-showcase beat presenting the model in its color range. Post and signature look: photoreal automotive CG render with clean physically-based paint, a crisp graphic title overlay, and a calm cool cinematic grade with faint grain. Style anchor: high-end automotive CG commercial, Korean, studio lineup register. Render the grille badges generically; reproduce no trademarked logo styling beyond the plain on-screen title words; include no people and no celebrity likeness. Additional craft and composition notes: the two trucks should be staggered in depth rather than placed flatly side by side, the silver-grey unit closer and larger at the front-left and the bronze unit set back and smaller at the right, their front three-quarter angles mirrored slightly inward so the lineup feels like a considered hero arrangement; both lit grille bars and headlight signatures should glow at equal, confident intensity. The pale silver-grey body should read as a cool, slightly metallic satin that picks up the blue of the backdrop in its highlights, while the bronze body should glow with a warmer, deeper metallic sheen, the two finishes deliberately contrasting to demonstrate the color range. The graded sky backdrop should move from a brighter, almost luminous band near the horizon up to a deeper cool blue at the top, with the stylized dark mountain silhouette giving a clean, graphic separation line behind the vehicles; the floor should be a soft, neutral, slightly textured surface that grounds the tires with gentle shadows. The centered title should sit crisply over the open sky, the small 'The Original' line and the large bold italic 'MUSSO' wordmark in clean white, well-kerned and perfectly legible; keep the whole frame calm, balanced and aspirational, the resolved showroom-grade beat that lets the model and its variants stand as the confident conclusion of the film.",
+        "i2v_motion": "The camera makes a slow dolly-and-rotate move that opens from a tighter pairing of the two trucks to a wider, more frontal three-quarter lineup, reflections sliding across both painted bodies, while the centered 'The Original MUSSO' title gently fades up and holds; the vehicles stay parked; the shot resolves with a cut to black.",
+        "i2v_params": {
+          "clip_duration_sec": 5.77,
+          "camera_move": "slow_dolly_rotate",
+          "subject_motion_level": "minimal",
+          "signature_effect": "none",
+          "pacing": "calm_resolve",
+          "loopable": false
+        },
+        "t2i_negative": "outdoor desert, single vehicle, dust action, warm sunset grade, busy real-world background, korean body caption, real brand logo, low resolution",
+        "fidelity_note": "craft-faithful; CG two-truck studio lineup; on-screen title text preserved; grille badges generic"
+      }
+    },
+    {
+      "index": 10,
+      "duration": 1.001,
+      "framing": "FS",
+      "function": "endcard",
+      "subject_action": "a black end card holds the brand logotype 'KGM' large and centered in white, with the brand tagline 'Enjoy with Confidence' beneath it; static hold to the end of the film",
+      "layout_grid": "centered_logotype_on_black",
+      "subject_position": "center",
+      "typo_motion": "static_hold",
+      "camera_angle": "flat_graphic",
+      "camera_facing": "flat_on",
+      "shot_scope": "graphic_endcard",
+      "gaze": "none",
+      "props": [
+        "kgm_logotype",
+        "tagline_text"
+      ],
+      "color_palette": [
+        "#000000",
+        "#FFFFFF",
+        "#0A0A0A",
+        "#E8E8E8",
+        "#1A1A1A"
+      ],
+      "color_intent": "pure_black_field_with_a_crisp_white_brand_logotype_and_tagline",
+      "pose_description": "no vehicle; a flat centered brand logotype and tagline sit on solid black, calm and authoritative",
+      "subject_motion": "none",
+      "camera_motion": "locked_off",
+      "camera_effect_local": "none",
+      "intra_cut_rhythm": "static_hold",
+      "transition_in": "cut_from_black",
+      "transition_out": "end",
+      "mid_frame_path": "ADV-2026-002_frames/cut10_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "white_kgm_logotype",
+          "white_tagline_text"
+        ],
+        "midground": [],
+        "background": [
+          "solid_black_field"
+        ],
+        "lighting_env": [
+          "flat_graphic_no_lighting"
+        ],
+        "atmosphere": [
+          "minimal",
+          "authoritative",
+          "clean_close"
+        ]
+      },
+      "texture": {
+        "primary_subject": "crisp_flat_white_logotype",
+        "secondary_objects": [
+          "flat_tagline_text"
+        ],
+        "background_surface": "pure_black_flat_field",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "none_flat_graphic",
+        "key_hardness": "none",
+        "key_color_temp": "neutral",
+        "fill_strength": "none",
+        "key_to_fill_ratio": "n/a",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "none",
+        "overall_contrast": "maximum_black_and_white"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#000000",
+          "#FFFFFF",
+          "#0A0A0A",
+          "#E8E8E8",
+          "#1A1A1A"
+        ],
+        "palette_role": {
+          "#000000": "black_field",
+          "#FFFFFF": "white_logotype",
+          "#0A0A0A": "near_black_subtle_variation",
+          "#E8E8E8": "tagline_text_white",
+          "#1A1A1A": "faint_dark_edge"
+        },
+        "color_relationship": "pure_monochrome_black_and_white",
+        "temperature_balance": "neutral",
+        "saturation_strategy": "zero_saturation",
+        "contrast_type": "maximum_graphic_contrast",
+        "accent_color": "#FFFFFF",
+        "accent_ratio": 0.12
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "Widescreen 16:9 landscape graphic end card on a solid pure-black field, the classic close of a premium commercial. Centered in the frame is a large clean white brand logotype reading 'KGM' in a wide, techno, geometric sans-serif with subtly angled cuts to the letterforms, the strokes bold and confident. Directly beneath the logotype, in a smaller, lighter white sans-serif, sits the brand tagline reading exactly 'Enjoy with Confidence'. Preserve the on-screen text 'KGM' and 'Enjoy with Confidence' exactly. There is nothing else in the frame — no vehicle, no imagery, no other graphics — just the centered lockup floating in black with generous negative space all around. Because this is a flat graphic card, there is no photographic lighting: it is rendered as crisp anti-aliased vector-clean white type on black, with maximum graphic contrast between the bright white marks and the deep black field; the black is pure and even with at most an imperceptible variation. Lens and composition: a flat, head-on, perfectly centered graphic layout, the logotype occupying the optical center and the tagline tucked just below it, balanced and authoritative. Color palette and strategy: a pure monochrome scheme — black field (#000000), white logotype (#FFFFFF), a near-black subtle variation (#0A0A0A), tagline white (#E8E8E8) and a faint dark edge (#1A1A1A); zero saturation, the entire impact coming from the stark white-on-black contrast. Texture and surfaces: crisp flat white type with clean edges on a smooth pure-black field, no grain or texture. Atmosphere: minimal, authoritative and clean — a confident sign-off. Post and signature look: pristine flat broadcast end-card rendering with perfectly even black and razor-sharp white type, the kind that closes a high-end automotive commercial. Style anchor: high-end automotive CG commercial, Korean, brand-logotype end card. Render the wordmark as a generic plausible automaker logotype lockup rather than reproducing any specific trademarked logo geometry; include no people and no celebrity likeness. Additional craft notes for faithful reconstruction: the logotype should sit at roughly the optical center of the widescreen frame and span a moderate width — neither tiny nor edge-to-edge — leaving wide black margins on the left and right so the mark reads as a calm, premium sign-off rather than a busy title; the three uppercase letters should be evenly tracked with confident, slightly condensed proportions and a subtle futuristic bevel or chamfer to the corners that suggests engineering precision without ornament. The tagline beneath should be set noticeably smaller, in a lighter weight of a clean humanist or geometric sans, with generous letter-spacing and centered alignment directly under the logotype, separated by a small but clear vertical gap so the two elements read as a single balanced lockup. Keep every edge crisp and fully anti-aliased with no glow, no drop shadow, no gradient and no texture; the black field must be a flat, even, true black with no vignetting or banding. The overall impression is restraint and authority: a single white lockup breathing in a field of pure black, the visual equivalent of a quiet, confident closing statement at the end of an epic film, exactly the kind of minimal brand card used to close premium automotive television and online commercials.",
+        "i2v_motion": "The end card holds essentially static for about one second: the white 'KGM' logotype and the 'Enjoy with Confidence' tagline sit still and crisp on the black field, perhaps with the faintest settle or hold of opacity, closing the film.",
+        "i2v_params": {
+          "clip_duration_sec": 1.0,
+          "camera_move": "locked_off",
+          "subject_motion_level": "none",
+          "signature_effect": "none",
+          "pacing": "static_hold",
+          "loopable": true
+        },
+        "t2i_negative": "photographic background, vehicle in frame, color gradient, busy graphics, drop shadows, real brand logo geometry, lens flare, grain",
+        "fidelity_note": "craft-faithful; flat brand end card; on-screen KGM logotype and tagline preserved as plain text, no trademarked logo geometry reproduced"
+      }
+    }
+  ],
+  "search_keywords": {
+    "industry": [
+      "automotive"
+    ],
+    "product_category": [
+      "pickup_truck"
+    ],
+    "target_demo": [
+      "men",
+      "30s",
+      "40s",
+      "leisure_outdoor",
+      "active_consumers"
+    ],
+    "media_format": [
+      "tvc_30s",
+      "digital_30s"
+    ],
+    "tone": [
+      "cinematic",
+      "dynamic_powerful",
+      "premium",
+      "rugged"
+    ],
+    "pacing": [
+      "slow_build",
+      "accelerating",
+      "front_loaded_hero"
+    ],
+    "technique": [
+      "product_solo_hero",
+      "cg_virtual_production",
+      "ai_generated_film",
+      "desert_offroad",
+      "slow_reveal",
+      "studio_beauty_macro",
+      "color_variant_lineup"
+    ],
+    "vfx_keywords": [
+      "3d_render",
+      "genai",
+      "dust",
+      "god_rays",
+      "lens_flare",
+      "film_grain",
+      "led_grille_glow"
+    ],
+    "copy_strategy_keywords": [
+      "feature_benefit_direct",
+      "brand_tagline_close",
+      "spec_caption",
+      "heritage_the_original",
+      "legal_disclaimer"
+    ],
+    "concept_derivation_pattern": [
+      "product_solo_hero",
+      "highend_fantasy_fusion"
+    ]
+  },
+  "inferred_creative_thinking": {
+    "insight": "A rugged work-and-leisure pickup must feel both adventurous enough for the wild and premium enough for the driveway; a revived heritage nameplate ('The Original') also needs to assert legitimacy and confidence in a crowded segment.",
+    "persona": "An active Korean man in his 30s-40s who wants a tough dual-cab pickup for weekend off-road and outdoor leisure but still expects refined design, a strong powertrain choice, and a trustworthy brand.",
+    "moment": "The cinematic instant of a hero machine emerging from darkness in a monumental landscape, then unleashed across the desert — fantasy-grade spectacle that flatters the buyer's sense of adventure.",
+    "product_role": "The sole hero throughout — the truck is the protagonist; its lit grille signature, stance, dust-throwing power, sculpted surfaces and embossed badges carry the entire story.",
+    "punchline": "'The Original MUSSO' resolved into 'KGM — Enjoy with Confidence': the spectacle lands on heritage pride plus a calm brand promise.",
+    "differentiator": "A fully CG-plus-generative-AI fantasy film (openly disclosed) instead of a conventional location shoot, swinging from a cool white-rock canyon hero to a warm stormy flythrough to a golden desert chase, with a single spec caption ('powerful diesel & gasoline') doing the rational work.",
+    "brand_fit_one_liner": "Positions the revived KGM Musso as a confident, premium-yet-rugged original pickup through cinematic CG spectacle.",
+    "confidence": "inferred"
+  },
+  "inferred_brief": "Relaunch the KGM Musso as a confident, premium-yet-rugged 'original' pickup via a 30-second cinematic CG/generative-AI hero film that reveals the truck in epic landscapes, showcases its powerful diesel and gasoline powertrains and design, and closes on the KGM brand and 'Enjoy with Confidence' tagline.",
+  "cross_pollination_tags": {
+    "adjacent": [
+      "suv_adventure_film",
+      "offroad_tire_commercial",
+      "outdoor_gear_brand_film"
+    ],
+    "distant": [
+      "fragrance_cinematic_film",
+      "luxury_watch_macro_ad",
+      "videogame_vehicle_reveal_trailer"
+    ],
+    "contrast": [
+      "minimal_ui_app_walkthrough",
+      "handheld_documentary_testimonial"
+    ]
+  },
+  "concept_derivation_pattern": [
+    "product_solo_hero",
+    "highend_fantasy_fusion"
+  ],
+  "confidence": "inferred",
+  "analyst_notes": "Cinematic CG + disclosed generative-AI automotive hero film for the KGM (KG Mobility, ex-SsangYong) Musso pickup, produced by Freewillusion. Rebuilt richly from a sparse prior entry. 10 shots, gapless from scenedetect boundaries + the f98 hard-cut; the metrics 332-338 spike cluster is a fast macro grille light-streak whip transition inside shot 3 (push-in into the lit grille that bursts into the canyon flythrough), not a separate location, so it was folded into shot 3 rather than treated as extra cuts. capture_style mixed: photoreal 3D-CG vehicle (hero, studio beauty macros, tailgate, lineup) composited over generative-AI environment plates (stormy warm canyon/mountain flythrough; dusty desert). Wiggle mean_abs_shift_x 0.68 is ordinary cinematic camera movement (push-in/aerial/tracking/orbit), NOT lenticular/stereoscopic — confirmed on native-res frames; signature_effect none on every shot. Audio is music-dominant; faster_whisper tiny output is garbled/low-confidence (coverage 0.665, e.g. fragments resembling '절대적 존재감'/'무쏘'), so on-screen text is authoritative. All on-screen text captured verbatim: grille+hood 'MUSSO'; bottom-left genAI disclaimer '*이 영상은 생성형 AI를 활용하여 일부 제작되었습니다' (flythrough); bottom-right feature caption '|파워풀한 디젤 & 가솔린|' (desert montage); tailgate embossed 'KGM' + 'MUSSO' badges; centered 'The Original' / 'MUSSO' title (lineup); end card 'KGM' + 'Enjoy with Confidence'. Brand/product/model names confined to source_ref and copywriting; t2i prompts describe the truck and badges abstractly and reproduce no trademarked logo geometry. No celebrity faces.",
+  "verification": {
+    "frames_reviewed": "~40 native-res frames read across all 10 cut boundaries (f1/50/90/98, 120/160/210/260/300/310, 330/345/380, 390/420/440/470/500/504/520/545/546/570/591/595/615/630/637/660/680/698/700/760/840, 875/895) plus the dark open, every montage beat, all caption frames (disclaimer, feature caption, tailgate, 'The Original MUSSO' title, end card) and crop-zoom reads of the grille 'MUSSO', the feature caption and the title; 100% per-frame metrics (cut_hints, scenes.csv, metrics.json) used as the objective motion/cut channel.",
+    "audio_analyzed": true,
+    "hitrate_na": true,
+    "abstraction_checked": true
+  },
+  "schema_version": "lsb-ad-analyzer_2606041200"
+}

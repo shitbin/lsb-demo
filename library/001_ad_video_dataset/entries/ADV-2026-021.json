@@ -1,0 +1,1977 @@
+{
+  "id": "ADV-2026-021",
+  "source_ref": {
+    "platform": "social_short_form",
+    "title_or_campaign": "토스 숨은 서비스 - 증명서 발급 (주민센터 안 가도 되는 이유)",
+    "brand": "토스 (Toss)",
+    "product": "토스 증명서 발급 (Toss Civil/Government Certificate Issuance)",
+    "model": null,
+    "year": 2024,
+    "production_note": "presenter_plus_screen_recording_tutorial",
+    "url": null
+  },
+  "category_primary": "finance.fintech",
+  "category_tags": [
+    "fintech",
+    "super_app",
+    "civic_service",
+    "govtech",
+    "document_issuance",
+    "electronic_certificate"
+  ],
+  "mood": [
+    "informative",
+    "friendly",
+    "relatable",
+    "reassuring",
+    "brisk"
+  ],
+  "target_demo": "20s-30s mobile-native Korean adults handling lease-loan and administrative paperwork",
+  "total_duration": 52.22,
+  "shot_count": 12,
+  "shot_count_corrected": 12,
+  "fps": 29.97,
+  "aspect_ratio": "9:16",
+  "hook_position": 0.0,
+  "cta_position": 50.05,
+  "narrative_arc": "hook_then_step_by_step_demonstration_then_brand_signoff",
+  "narrative_structure": "presenter_framed_screen_walkthrough",
+  "pacing_curve": "steady_informational",
+  "music_tempo_curve": "steady_light_underscore",
+  "wow_cut_index": 10,
+  "creative_device": [
+    "did_you_know_hook",
+    "magnifying_glass_reveal",
+    "talking_head_presenter",
+    "annotated_screen_recording_walkthrough",
+    "caption_synced_voiceover",
+    "brand_sticker_endcard"
+  ],
+  "production_signature": {
+    "capture_style": "hybrid_presenter_and_phone_screen_capture",
+    "camera_signature": [
+      "handheld_intimate_ECU_intro",
+      "locked_medium_presenter_at_desk",
+      "top_down_phone_on_desk_screencap",
+      "fullbleed_screen_recording"
+    ],
+    "signature_note": "Two-register production: warm cinematic live-action presenter beats (ECU intro with magnifying-glass gag, then medium talking-head at a cozy props-filled desk) intercut with brightly lit top-down iPhone screen-recording of the Toss app UI on a tan leather surface; on-screen rounded pill captions mirror the Korean voiceover line-by-line; clean paper-textured brand sticker endcard. Wiggle metric low (mean_abs_shift_x 0.153) - presenter shots are gently handheld, screen shots are locked.",
+    "color_grade": "warm_naturalistic_live_action_with_neutral_bright_screen_inserts",
+    "texture_fx": "subtle_grain_on_live_action"
+  },
+  "global_layout": {
+    "grid_system": "vertical_9x16_center_weighted",
+    "subject_placement_dominant": "centered_phone_or_centered_presenter",
+    "subject_typo_relation": "caption_pill_lower_third_over_footage",
+    "negative_space_use": "generous_around_centered_phone_and_endcard",
+    "layout_note": "Live-action beats use rule-of-thirds presenter framing; screen-recording beats center the phone in the vertical frame with tan surface negative space around it; lower-third grey rounded-rectangle caption pills carry the narration text; endcard is a single centered brand sticker on white paper."
+  },
+  "recurring_motifs": [
+    "rounded_pill_caption_lower_third",
+    "iphone_held_or_on_desk",
+    "toss_app_blue_accent_buttons",
+    "yellow_duck_toy_on_shelf",
+    "magnifying_glass_prop",
+    "government_electronic_certificate_documents",
+    "blue_primary_action_buttons"
+  ],
+  "copywriting": {
+    "tagline_text": "토스를 발견하다",
+    "tagline_structure": "verb_phrase_brand_discovery",
+    "cta_text": "Curator T",
+    "copy_tone": [
+      "friendly",
+      "informative",
+      "conversational",
+      "helpful"
+    ],
+    "copy_strategy": "did_you_know_question_then_guided_how_to_walkthrough",
+    "lines": [
+      {
+        "text": "토스 안에 주민센터 있는 거 알고 계셨어요?",
+        "text_raw": "토스 안에 주민센터 있는 거 알고 계셨어요.",
+        "type": "narration_vo",
+        "time_sec": 0.05
+      },
+      {
+        "text": "등본, 초본, 소득금액증명서까지",
+        "text_raw": "등분, 초반, 소득금액 증명서까지",
+        "type": "narration_vo",
+        "time_sec": 3.07
+      },
+      {
+        "text": "이거 모두 다 토스에서 발급받을 수 있다는 사실 알고 계셨나요?",
+        "text_raw": "이거 모두 다 토스에서 발급받을 수 있다는 사실 알고 계셨나요?",
+        "type": "narration_vo",
+        "time_sec": 6.05
+      },
+      {
+        "text": "전체 탭에서 증명서 발급하기를 선택하면",
+        "text_raw": "전체 탭에서 증명서 발급하기를 선택하면",
+        "type": "narration_vo",
+        "time_sec": 10.69
+      },
+      {
+        "text": "이렇게 토스에서 발급받을 수 있는 각종 증명서들을 한눈에 볼 수 있는데요.",
+        "text_raw": "이렇게 토스에서 발급받을 수 있는 각종 증명서대를 한 눈에 볼 수 있는데요.",
+        "type": "narration_vo",
+        "time_sec": 13.79
+      },
+      {
+        "text": "필요한 서류들을 한 번에 묶어서 발급받을 수도 있어요.",
+        "text_raw": "필요한 소류들을 한 번에 묶어서 발급받을 수도 있어요.",
+        "type": "narration_vo",
+        "time_sec": 18.51
+      },
+      {
+        "text": "이렇게 전세자금대출용 서류를 선택하면",
+        "text_raw": "이렇게 전세 작은 대출용 소류를 선택하면",
+        "type": "narration_vo",
+        "time_sec": 22.41
+      },
+      {
+        "text": "세 가지 서류를 한 번에 받을 수 있는데요.",
+        "text_raw": "세 가지 소류를 한 번에 받을 수 있는데요.",
+        "type": "narration_vo",
+        "time_sec": 25.33
+      },
+      {
+        "text": "신청하기를 누르고",
+        "text_raw": "신청하기를 누르고",
+        "type": "narration_vo",
+        "time_sec": 27.85
+      },
+      {
+        "text": "증명서 발급에 필요한 정보를 하나씩 입력해 주세요.",
+        "text_raw": "증명서 발급에 필요한 정보를 하나씩 입력해주세요.",
+        "type": "narration_vo",
+        "time_sec": 29.69
+      },
+      {
+        "text": "이제 발급하기를 누르면",
+        "text_raw": "이제 발급하기를 누르면",
+        "type": "narration_vo",
+        "time_sec": 34.84
+      },
+      {
+        "text": "세 가지 증명서 발급이 한 번에 이뤄집니다.",
+        "text_raw": "세 가지 증명서 발급이 한 번에 이뤄집니다.",
+        "type": "narration_vo",
+        "time_sec": 36.68
+      },
+      {
+        "text": "발급이 끝나면 각 증명서 내역을 직접 확인할 수 있고",
+        "text_raw": "발급이 끝나면 각 증명서 내역을 직접 확인할 수 있고",
+        "type": "narration_vo",
+        "time_sec": 41.21
+      },
+      {
+        "text": "열람을 위한 PDF 파일로 저장할 수도 있어요.",
+        "text_raw": "연람을 위한 PDF 파일로 저장할 수도 있어요.",
+        "type": "narration_vo",
+        "time_sec": 45.97
+      }
+    ],
+    "captions": [
+      {
+        "text": "토스 안에",
+        "source": "on_screen_caption",
+        "time_sec": 1.3
+      },
+      {
+        "text": "주민센터",
+        "source": "on_screen_caption",
+        "time_sec": 1.6
+      },
+      {
+        "text": "있는 거 알고 계셨어요?",
+        "source": "on_screen_caption",
+        "time_sec": 2.6
+      },
+      {
+        "text": "등본, 초본\n소득 금액 증명서까지",
+        "source": "on_screen_caption",
+        "time_sec": 3.6
+      },
+      {
+        "text": "토스 있으면 주민센터 안 가도 되는 이유",
+        "source": "on_screen_title_card",
+        "time_sec": 8.0
+      },
+      {
+        "text": "SERVICE 토스주민센터 / YEAR 2024 / CATEGORY 부동산 공공서비스 송금 / PRODUCTION TEAM #team_공공프로덕트",
+        "source": "on_screen_title_card_meta",
+        "time_sec": 8.0
+      },
+      {
+        "text": "'전체 탭'에서",
+        "source": "on_screen_caption",
+        "time_sec": 14.0
+      },
+      {
+        "text": "'증명서 발급하기'를\n선택하면",
+        "source": "on_screen_caption",
+        "time_sec": 14.5
+      },
+      {
+        "text": "이렇게 토스에서\n발급받을 수 있는",
+        "source": "on_screen_caption",
+        "time_sec": 15.5
+      },
+      {
+        "text": "각종 증명서들을\n한눈에 볼 수 있는데요",
+        "source": "on_screen_caption",
+        "time_sec": 16.0
+      },
+      {
+        "text": "필요한 서류들을\n한 번에 묶어서",
+        "source": "on_screen_caption",
+        "time_sec": 19.0
+      },
+      {
+        "text": "발급받을 수도 있어요",
+        "source": "on_screen_caption",
+        "time_sec": 21.3
+      },
+      {
+        "text": "이렇게 '전세자금대출용 서류'를\n선택하면",
+        "source": "on_screen_caption",
+        "time_sec": 22.5
+      },
+      {
+        "text": "세 가지 서류를\n한 번에 받을 수 있는데요",
+        "source": "on_screen_caption",
+        "time_sec": 27.5
+      },
+      {
+        "text": "신청하기를 누르고",
+        "source": "on_screen_caption",
+        "time_sec": 28.0
+      },
+      {
+        "text": "증명서 발급에 필요한 정보를",
+        "source": "on_screen_caption",
+        "time_sec": 30.0
+      },
+      {
+        "text": "하나씩 입력해주세요",
+        "source": "on_screen_caption",
+        "time_sec": 31.5
+      },
+      {
+        "text": "이제 발급하기를 누르면",
+        "source": "on_screen_caption",
+        "time_sec": 35.0
+      },
+      {
+        "text": "한 번에 이루어집니다",
+        "source": "on_screen_caption",
+        "time_sec": 38.0
+      },
+      {
+        "text": "발급이 끝나면\n각 증명서 내역을",
+        "source": "on_screen_caption",
+        "time_sec": 41.5
+      },
+      {
+        "text": "직접 확인할 수 있고",
+        "source": "on_screen_caption",
+        "time_sec": 44.0
+      },
+      {
+        "text": "열람을 위한 PDF 파일로",
+        "source": "on_screen_caption",
+        "time_sec": 46.0
+      },
+      {
+        "text": "저장할 수도 있어요",
+        "source": "on_screen_caption",
+        "time_sec": 48.0
+      },
+      {
+        "text": "주민센터",
+        "source": "on_screen_app_ui_section",
+        "time_sec": 3.3
+      },
+      {
+        "text": "증명서 발급하기",
+        "source": "on_screen_app_ui_item",
+        "time_sec": 3.3
+      },
+      {
+        "text": "정부 전자증명서",
+        "source": "on_screen_app_ui_badge",
+        "time_sec": 14.0
+      },
+      {
+        "text": "많이 찾는 증명서: 주민등록등본, 주민등록초본, 건강보험자격득실확인서, 코로나 예방접종증명서, 소득금액증명",
+        "source": "on_screen_app_ui_list",
+        "time_sec": 14.0
+      },
+      {
+        "text": "증명서 모아서 받기: 취업·이직 서류 2종, 신용대출 서류 3종, 전세자금대출 서류 3종, 주택담보대출 서류 3종, 학자금 대출 서류 2종, 코로나 생활지원비 서류 2종",
+        "source": "on_screen_app_ui_list",
+        "time_sec": 22.0
+      },
+      {
+        "text": "전세자금대출에 필요한 서류 한 번에 발급하기: 1 주민등록등본, 2 건강보험자격득실확인서, 3 소득금액증명",
+        "source": "on_screen_app_ui_list",
+        "time_sec": 25.3
+      },
+      {
+        "text": "신청하기",
+        "source": "on_screen_app_ui_button",
+        "time_sec": 26.0
+      },
+      {
+        "text": "3개 증명서를 발급받았어요 / 3개 증명서 한 번에 내보내기",
+        "source": "on_screen_app_ui",
+        "time_sec": 40.0
+      },
+      {
+        "text": "어떤 증명서를 내보낼까요? 은행·기관 제출용 / 열람용",
+        "source": "on_screen_app_ui_sheet",
+        "time_sec": 47.0
+      },
+      {
+        "text": "증명서 파일 내보내기",
+        "source": "on_screen_app_ui_button",
+        "time_sec": 44.0
+      },
+      {
+        "text": "Curator T\n토스를 발견하다",
+        "source": "endcard_brand_sticker",
+        "time_sec": 50.05
+      }
+    ],
+    "narration_handling": "single_female_voiceover_synced_to_caption_pills"
+  },
+  "typography": {
+    "primary_font_class": "geometric_sans_korean_rounded",
+    "animation_style": [
+      "fade_in_hold",
+      "pop_in_caption_pill",
+      "title_card_slide_settle",
+      "brand_sticker_peel_in"
+    ],
+    "subtitle_position_dominant": "lower_third_center",
+    "color_strategy": "white_text_on_translucent_grey_pill_plus_blue_brand_accent",
+    "typo_motion_dominant": "pop_in_static_hold"
+  },
+  "vfx": {
+    "primary_effects": [
+      "caption_pill_overlay",
+      "magnifying_glass_optical_distortion",
+      "title_card_graphic_overlay",
+      "screen_recording_composite",
+      "brand_sticker_endcard_animation"
+    ],
+    "effect_intensity": "low_medium",
+    "transition_style_dominant": "hard_cut",
+    "vfx_event_count": 5
+  },
+  "audio": {
+    "has_audio": true,
+    "language": "ko",
+    "speech_coverage": 0.805,
+    "bgm_likely": true,
+    "narration_lines": [
+      {
+        "start": 0.05,
+        "end": 3.07,
+        "text": "토스 안에 주민센터 있는 거 알고 계셨어요?",
+        "source": "whisper_corrected"
+      },
+      {
+        "start": 3.07,
+        "end": 6.05,
+        "text": "등본, 초본, 소득금액증명서까지",
+        "source": "whisper_corrected"
+      },
+      {
+        "start": 6.05,
+        "end": 9.81,
+        "text": "이거 모두 다 토스에서 발급받을 수 있다는 사실 알고 계셨나요?",
+        "source": "whisper_corrected"
+      },
+      {
+        "start": 10.69,
+        "end": 13.79,
+        "text": "전체 탭에서 증명서 발급하기를 선택하면",
+        "source": "whisper_corrected"
+      },
+      {
+        "start": 13.79,
+        "end": 18.51,
+        "text": "이렇게 토스에서 발급받을 수 있는 각종 증명서들을 한눈에 볼 수 있는데요.",
+        "source": "whisper_corrected"
+      },
+      {
+        "start": 18.51,
+        "end": 22.01,
+        "text": "필요한 서류들을 한 번에 묶어서 발급받을 수도 있어요.",
+        "source": "whisper_corrected"
+      },
+      {
+        "start": 22.41,
+        "end": 25.33,
+        "text": "이렇게 전세자금대출용 서류를 선택하면",
+        "source": "whisper_corrected"
+      },
+      {
+        "start": 25.33,
+        "end": 27.85,
+        "text": "세 가지 서류를 한 번에 받을 수 있는데요.",
+        "source": "whisper_corrected"
+      },
+      {
+        "start": 27.85,
+        "end": 29.53,
+        "text": "신청하기를 누르고",
+        "source": "whisper_corrected"
+      },
+      {
+        "start": 29.69,
+        "end": 32.69,
+        "text": "증명서 발급에 필요한 정보를 하나씩 입력해 주세요.",
+        "source": "whisper_corrected"
+      },
+      {
+        "start": 34.84,
+        "end": 36.68,
+        "text": "이제 발급하기를 누르면",
+        "source": "whisper_corrected"
+      },
+      {
+        "start": 36.68,
+        "end": 39.32,
+        "text": "세 가지 증명서 발급이 한 번에 이뤄집니다.",
+        "source": "whisper_corrected"
+      },
+      {
+        "start": 41.21,
+        "end": 44.69,
+        "text": "발급이 끝나면 각 증명서 내역을 직접 확인할 수 있고",
+        "source": "whisper_corrected"
+      },
+      {
+        "start": 45.97,
+        "end": 48.85,
+        "text": "열람을 위한 PDF 파일로 저장할 수도 있어요.",
+        "source": "whisper_corrected"
+      }
+    ],
+    "voice_vs_caption": "voiceover_matches_on_screen_caption_pills_verbatim",
+    "transcribed_by": "faster_whisper_base",
+    "audio_note": "Single Korean female voiceover narrates a how-to; on-screen caption pills mirror the VO line-by-line. text_raw kept per line in copywriting.lines; corrected against on-screen captions and Toss UI labels. Light background underscore assumed; whisper speech_coverage 0.805."
+  },
+  "frames_dir": "ADV-2026-021_frames",
+  "contact_sheet_path": "ADV-2026-021_frames/contact_sheet.png",
+  "search_keywords": {
+    "industry": [
+      "finance",
+      "fintech"
+    ],
+    "product_category": [
+      "super_app",
+      "civic_service",
+      "document_issuance",
+      "govtech",
+      "electronic_certificate"
+    ],
+    "target_demo": [
+      "20s",
+      "30s",
+      "mobile_native",
+      "urban_korean",
+      "renters"
+    ],
+    "media_format": [
+      "vertical_short_form_52s",
+      "tutorial_demo",
+      "presenter_plus_screencap"
+    ],
+    "tone": [
+      "informative",
+      "friendly",
+      "relatable",
+      "reassuring"
+    ],
+    "pacing": [
+      "steady_informational",
+      "even"
+    ],
+    "technique": [
+      "screen_ui_walkthrough",
+      "tutorial_demo",
+      "talking_head_presenter",
+      "caption_synced_vo",
+      "magnifying_glass_reveal"
+    ],
+    "vfx_keywords": [
+      "caption_pill",
+      "title_card",
+      "screen_composite",
+      "optical_distortion",
+      "sticker_endcard"
+    ],
+    "copy_strategy_keywords": [
+      "did_you_know",
+      "step_by_step_howto",
+      "feature_education",
+      "bundle_value"
+    ],
+    "concept_derivation_pattern": [
+      "hidden_feature_education",
+      "errand_eliminated_by_app",
+      "guided_screen_demo"
+    ]
+  },
+  "inferred_creative_thinking": {
+    "insight": "Getting government certificates (resident registration, income proof) usually means a trip to the community service center or a clunky government website with certificates and login hurdles - most people do not know a fintech app can issue them, let alone bundle several at once",
+    "persona": "A 20s-30s mobile-native Korean adult assembling paperwork for a jeonse (lease) loan, who would rather not visit a 주민센터 or wrestle with a government portal",
+    "moment": "The realization that the financial super-app already trusted for money can also issue official civil documents - and bundle the exact set a lease loan requires in one tap",
+    "product_role": "The super-app absorbs a government-administrative errand: it surfaces a '증명서 발급하기' service, offers ready-made document bundles per use-case, issues several certificates at once, and lets the user view or export each as a PDF",
+    "punchline": "With Toss you do not have to go to the community center - the documents come to you, bundled and ready",
+    "differentiator": "Pre-packaged certificate bundles per real-life need (lease loan, credit loan, employment) plus simultaneous multi-document issuance and instant PDF export, all inside the app you already use for finance",
+    "brand_fit_one_liner": "A fintech that earns trust by quietly swallowing the most tedious bureaucratic errands of adult life",
+    "confidence": "inferred"
+  },
+  "inferred_brief": "Create a ~52-second vertical short-form how-to that hooks with a 'did you know Toss has a community service center inside it?' question over a playful live-action presenter, then walks through the Toss 증명서 발급하기 feature via annotated top-down phone screen-recording - showing the certificate list, a lease-loan document bundle, simultaneous issuance of three certificates, and PDF export - closing on a clean Curator T brand sticker.",
+  "cross_pollination_tags": {
+    "adjacent": [
+      "govtech_service_demo",
+      "app_feature_tutorial",
+      "document_management_app",
+      "how_to_explainer"
+    ],
+    "distant": [
+      "cooking_recipe_step_video",
+      "unboxing_walkthrough",
+      "software_onboarding_tour"
+    ],
+    "contrast": [
+      "cinematic_brand_film",
+      "celebrity_endorsement_spot",
+      "abstract_motion_graphics_ad"
+    ]
+  },
+  "concept_derivation_pattern": "hidden_feature_education_via_presenter_hook_then_annotated_screen_walkthrough_then_brand_sticker_signoff",
+  "confidence": "inferred",
+  "analyst_notes": "12 shots after cross-checking scenedetect macro-scenes against per-frame diff spikes and reading 129 native-res staged frames. Real hard cuts confirmed at f42(1.37, diff73), f108(3.57, diff65), f186(6.17, diff47), f302(10.04, diff75), f422(14.05, diff62), f569(18.95, diff89), f660(21.99, diff82), f757(25.23, diff65), f830(27.66, diff67), f1287/f1303(42.91, diff41/37 = in-app PDF-viewer modal opening within the same flat-phone screen recording, kept as the scene-11/12 structural boundary), f1501(50.05, diff113 = cut to Curator T endcard). The scenedetect 8.81 boundary (f265, diff44) is a sub-gesture spike inside the continuous presenter+title-card shot and was NOT treated as a cut (merged into shot 4). Structure: live-action ECU hook with magnifying glass (cuts 1-2) -> talking-head presenter at desk with title card (cuts 3-4) -> top-down phone screen-recording walkthrough of search, certificate list, bundle pick, info entry, issuance, results and PDF export (cuts 5-6,8-11, with two live-action presenter inserts at cuts 7) -> brand sticker endcard (cut 12). Service identified as Toss 증명서 발급 (civil/government electronic certificate issuance: 주민등록등본/초본, 소득금액증명, 건강보험자격득실확인서, etc., bundleable e.g. 전세자금대출 서류 3종, exportable as PDF). On-screen captions mirror the VO verbatim and were used to correct whisper text_raw (등분->등본, 초반->초본, 소류->서류, 전세 작은 대출->전세자금대출, 연람->열람). Long-form source: 1565 frames / 52.22s at 29.97fps. Logo marks abstracted in image prompts; brand name 토스 and UI label text preserved verbatim as caption text only.",
+  "verification": {
+    "frames_reviewed": "129 native-res staged frames read in order + 100% per-frame metrics; long-form 1565f source",
+    "audio_analyzed": true,
+    "hitrate_na": null,
+    "abstraction_checked": true
+  },
+  "shots": [
+    {
+      "index": 1,
+      "duration": 1.37,
+      "framing": "ECU",
+      "function": "hook_establishing",
+      "subject_action": "young Korean woman in a lavender shirt seen in extreme close-up from a low angle, eyes softly closed then opening, faint smile, gently moving in a warm cafe-like interior",
+      "layout_grid": "rule_of_thirds_face_upper_center",
+      "subject_position": "center_upper",
+      "typo_motion": "caption_pop_in_late",
+      "camera_angle": "low_angle_upward",
+      "camera_facing": "3/4_front",
+      "shot_scope": "extreme_close_up_face",
+      "gaze": "down_then_soft_off_camera",
+      "props": [
+        "lavender_button_shirt",
+        "round_pendant_lamp_bg"
+      ],
+      "color_palette": [
+        "#C9B8D6",
+        "#3A2A20",
+        "#E8E2DA",
+        "#C8703C",
+        "#F0E8DC"
+      ],
+      "color_intent": "warm_intimate_soft",
+      "pose_description": "head tilted slightly back, chin lifted under a low camera, eyes lowered with a gentle closed-mouth smile, shoulders relaxed in an oversized lilac shirt",
+      "subject_motion": "subtle_head_drift_and_blink",
+      "camera_motion": "handheld_slow_drift_up",
+      "camera_effect_local": "shallow_dof_bokeh_bg",
+      "intra_cut_rhythm": "slow_build",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "mid_frame_path": "ADV-2026-021_frames/cut01_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "young_woman_face_lower_three_quarter",
+          "lilac_shirt_collar"
+        ],
+        "midground": [],
+        "background": [
+          "white_beamed_ceiling_blurred",
+          "round_pendant_lamp_glow",
+          "warm_interior_shelving_blurred"
+        ],
+        "lighting_env": [
+          "soft_warm_interior_ambient",
+          "practical_pendant_lamp"
+        ],
+        "atmosphere": [
+          "cozy_cafe_warmth",
+          "intimate_close_up"
+        ]
+      },
+      "texture": {
+        "primary_subject": "smooth_skin_natural_soft",
+        "secondary_objects": [
+          "cotton_shirt_weave"
+        ],
+        "background_surface": "blurred_warm_interior",
+        "atmospheric": [
+          "soft_round_bokeh_highlights"
+        ]
+      },
+      "lighting": {
+        "key_direction": "front_high_soft",
+        "key_hardness": "soft",
+        "key_color_temp": "warm_3400K",
+        "fill_strength": "medium",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": "subtle_hair_rim",
+        "practical_lights": [
+          "round_pendant_lamp",
+          "interior_ceiling_ambient"
+        ],
+        "shadow_presence": "soft_minimal",
+        "overall_contrast": "medium_low"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#C9B8D6",
+          "#3A2A20",
+          "#E8E2DA",
+          "#C8703C",
+          "#F0E8DC"
+        ],
+        "palette_role": {
+          "#C9B8D6": "garment_lavender_dominant",
+          "#3A2A20": "hair_dark_warm",
+          "#E8E2DA": "skin_highlight_cream",
+          "#C8703C": "hair_warm_copper_accent",
+          "#F0E8DC": "ceiling_bg_offwhite"
+        },
+        "color_relationship": "warm_with_lilac_offset",
+        "temperature_balance": "warm_dominant",
+        "saturation_strategy": "low_medium_naturalistic",
+        "contrast_type": "soft_low",
+        "accent_color": "#C9B8D6",
+        "accent_ratio": 0.3
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "An extreme close-up portrait of a Korean woman in her mid-twenties, framed from just below the chin up to the top of the head and biased toward the upper-center of a vertical 9:16 cinematic frame, photographed from a low angle that tilts gently upward so the white beamed ceiling reads behind her. She has soft chin-length copper-brown hair with wispy curtain bangs, lightly applied natural makeup, dewy skin, and a faint closed-mouth smile with her eyes lowered, almost shut, as if mid-thought. She wears an oversized lavender-lilac cotton button-up shirt with the collar open, the fabric soft and slightly wrinkled. The wardrobe material is matte breathable cotton catching a soft sheen at the shoulder. The location is a warm cozy cafe-or-studio interior, rendered in heavy shallow depth-of-field blur: a white slatted beamed ceiling, a round glowing pendant lamp lower-left, and indistinct warm shelving behind. Foreground is only her face and shirt collar; there are no hard props in focus. The lighting setup is a soft high-front key at roughly 3400K warm tungsten-adjacent with a gentle two-to-one key-to-fill ratio and a subtle warm hair rim, motivated by the practical pendant lamp and ambient ceiling light. Lens and framing: an 85mm-equivalent portrait lens at a wide aperture for creamy circular bokeh, very tight ECU, low upward angle. Composition follows Korean commercial norms with the face placed high in the vertical frame, breathing room below, never centered symmetrically. The color palette is warm-dominant: lavender shirt (#C9B8D6), dark warm hair (#3A2A20), cream skin highlight (#E8E2DA), copper hair accent (#C8703C), off-white ceiling (#F0E8DC), with lilac as the soft accent against the warm field. Surfaces: smooth natural skin with real texture rather than over-smoothed, soft cotton weave, blurred warm interior, and soft round out-of-focus highlight blobs. The atmosphere is intimate, cozy, late-morning cafe warmth, the start of a friendly confiding monologue to the viewer. Post and signature look: warm naturalistic colour grade in the warm-to-neutral range, very fine analogue-adjacent grain applied subtly, smooth circular bokeh, no heavy vignette, no HDR tone-mapping, no graphic overlays or UI chrome in this start frame. The image should read like a film still extracted from a high-production-value Korean vertical social commercial rather than an advertisement graphic. Toward the end of this beat a small white rounded caption begins to appear lower in the frame reading the Korean words '토스 안에' in clean rounded sans-serif, but the start frame itself is clean of text. Additional production context for fidelity: the colour grade should sit in the desaturated warm-to-neutral range that contemporary Korean directors favour for relatable everyday social content, with muted mid-tones rather than punchy American-broadcast saturation, so the lavender shirt reads soft rather than electric and the skin keeps a natural creamy warmth instead of an orange cast. The lighting is entirely motivated by practical sources in the room - the round pendant lamp and ambient ceiling fill - rather than any visible studio rig, which gives the frame the slightly imperfect, lived-in quality of docu-narrative shooting; tiny falloff toward the edges and a gentle bloom around the pendant are welcome but heavy artificial vignetting is not. The depth of field is shallow enough that only the plane of her eyes and cheek is critically sharp while the ceiling beams and shelving dissolve into smooth circular bokeh, the kind produced by a fast full-frame portrait lens wide open, never the clinical edge-to-edge sharpness of a phone or a medium-format studio camera. Grain is analogue-adjacent, fine, and even, sitting under the image rather than crawling over it. The overall impression must be of a single quiet, confiding human moment captured candidly at the very start of a friendly explainer, the viewer drawn in close before any product or interface is shown. Style anchor: contemporary Korean short-form commercial realism, full-frame cinema-camera look, relatable everyday tone; the identity of the individual is entirely generic with no likeness of any real person or celebrity intended or implied, and any logo marks or brand identifiers are generic.",
+        "t2i_negative": "text overlay baked in, watermark, logo mark, harsh studio lighting, wide-angle distortion, oversharpened skin, HDR, busy background",
+        "i2v_motion": "very subtle handheld drift upward 2-3px; subject's eyes open softly and a faint smile forms; hair micro-sways; camera holds tight ECU; a small '토스 안에' caption pops in near the end; hard cut at ~1.37s",
+        "i2v_params": {
+          "clip_duration_sec": 1.37,
+          "camera_move": "handheld_micro_drift_up",
+          "subject_motion_level": "low_face_only",
+          "signature_effect": "shallow_dof_bokeh",
+          "pacing": "slow",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen caption preserved verbatim; identity/logo generic"
+      }
+    },
+    {
+      "index": 2,
+      "duration": 2.2,
+      "framing": "ECU",
+      "function": "hook_reveal_gag",
+      "subject_action": "the same woman holds a round magnifying glass up over the lower half of her face, smiling; the lens optically warps and enlarges her nose and lips; captions '토스 안에' then '주민센터' read over the glass",
+      "layout_grid": "rule_of_thirds_face_center_with_lens_overlay",
+      "subject_position": "center",
+      "typo_motion": "caption_swap_in_lens",
+      "camera_angle": "eye_level_slight_low",
+      "camera_facing": "front",
+      "shot_scope": "extreme_close_up_face_with_prop",
+      "gaze": "off_camera_left_playful",
+      "props": [
+        "round_magnifying_glass",
+        "lavender_button_shirt"
+      ],
+      "color_palette": [
+        "#D8A57A",
+        "#3A2A20",
+        "#E9DECF",
+        "#B07A50",
+        "#C9B8D6"
+      ],
+      "color_intent": "warm_playful_intimate",
+      "pose_description": "holding a round magnifier by its black handle in front of her mouth and nose, head slightly tilted, eyes crinkled in a smile looking off to the left",
+      "subject_motion": "slight_lens_lift_and_smile",
+      "camera_motion": "handheld_slight_drift",
+      "camera_effect_local": "magnifier_optical_distortion",
+      "intra_cut_rhythm": "playful_beat",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "mid_frame_path": "ADV-2026-021_frames/cut02_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "round_magnifying_glass",
+          "hand_on_black_handle"
+        ],
+        "midground": [
+          "woman_face"
+        ],
+        "background": [
+          "warm_interior_blurred",
+          "round_pendant_lamp_glow"
+        ],
+        "lighting_env": [
+          "soft_warm_interior_ambient",
+          "practical_lamp_glow"
+        ],
+        "atmosphere": [
+          "playful_curiosity",
+          "intimate_close_up"
+        ]
+      },
+      "texture": {
+        "primary_subject": "smooth_skin_warm",
+        "secondary_objects": [
+          "polished_glass_lens",
+          "black_plastic_handle"
+        ],
+        "background_surface": "blurred_warm_interior",
+        "atmospheric": [
+          "lens_refraction_warp",
+          "soft_bokeh"
+        ]
+      },
+      "lighting": {
+        "key_direction": "front_soft",
+        "key_hardness": "soft",
+        "key_color_temp": "warm_3400K",
+        "fill_strength": "medium",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": "subtle",
+        "practical_lights": [
+          "round_pendant_lamp",
+          "interior_ambient"
+        ],
+        "shadow_presence": "soft_minimal",
+        "overall_contrast": "medium_low"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#D8A57A",
+          "#3A2A20",
+          "#E9DECF",
+          "#B07A50",
+          "#C9B8D6"
+        ],
+        "palette_role": {
+          "#D8A57A": "skin_warm_dominant",
+          "#3A2A20": "hair_dark_warm",
+          "#E9DECF": "skin_highlight_cream",
+          "#B07A50": "hair_copper_midtone",
+          "#C9B8D6": "garment_lavender_accent"
+        },
+        "color_relationship": "analogous_warm_with_lilac_accent",
+        "temperature_balance": "warm_dominant",
+        "saturation_strategy": "low_medium_naturalistic",
+        "contrast_type": "soft_low",
+        "accent_color": "#C9B8D6",
+        "accent_ratio": 0.12
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "An extreme close-up of the same Korean woman in her mid-twenties, holding a round handheld magnifying glass up in front of the lower half of her face inside a warm cozy interior, framed vertically 9:16 with her face centered and the circular lens overlapping her nose and mouth. Through the glass, her nose and lips are optically enlarged and gently warped with the convex-lens refraction characteristic of a real magnifier, the rim of the lens catching a soft highlight; outside the lens her face is at normal scale. She has chin-length copper-brown hair with curtain bangs, dewy natural skin, and her eyes are crinkled in a warm playful smile directed off-camera to the left. She wears the same oversized lavender-lilac cotton button shirt. She grips the magnifier by a slim black plastic handle, fingers visible at the bottom of the frame. Wardrobe and material: soft matte cotton lilac shirt; the magnifier is polished glass in a thin dark rim. Location and background: warm cafe-or-studio interior in heavy shallow depth-of-field, with a round glowing pendant lamp lower-left and indistinct warm shelving behind. Foreground is the magnifying glass and the hand on its handle; midground is her face; background is fully blurred. Lighting: a soft front key at roughly 3400K warm tungsten-adjacent, gentle two-to-one key-to-fill, subtle rim, motivated by the practical pendant lamp and ambient interior light. Lens, framing and angle: 85mm-equivalent portrait lens at a wide aperture, very tight ECU, eye-level to slightly low, with the additional in-scene optic of the magnifier producing local barrel-distortion and magnification only within its circle. Composition: face centered behind the lens, the circular glass acting as a secondary frame, warm round bokeh in the background. Color palette and strategy: warm-dominant skin (#D8A57A), dark warm hair (#3A2A20), cream highlight (#E9DECF), copper midtone (#B07A50), lavender shirt as the small cool accent (#C9B8D6); saturation low-medium and naturalistic. Surfaces and texture: smooth warm skin with real pores rather than smoothed, polished refractive glass, black plastic handle, blurred warm interior, soft refraction warp inside the lens. Atmosphere: playful curiosity, an intimate confiding gag where the presenter literally magnifies her point. Post and signature look: warm naturalistic grade, fine subtle grain, smooth bokeh, no heavy vignette, no HDR, no graphic design elements in the start frame except that this beat carries small white rounded captions reading the Korean words '토스 안에' then '주민센터' positioned over the lens area in clean rounded sans-serif; render the start frame with the caption '주민센터' as crisp white text overlay low-center. Additional production context for fidelity: the convex magnifier should behave like a real optical element, so the area of her face seen through the glass is enlarged and very slightly barrel-warped with a faint chromatic fringe at the lens rim, while everything outside the circular glass stays at true scale and true focus; the rim of the lens catches a thin specular highlight from the pendant lamp. The colour grade stays in the desaturated warm-to-neutral register typical of Korean everyday content, muted mid-tones, natural creamy skin, lavender reading soft. Lighting remains motivated only by the room's practicals, giving an authentic slightly imperfect docu look rather than a polished studio key; a little falloff toward the corners is fine but no heavy artificial vignette. Depth of field is shallow so the warm interior behind her melts into smooth circular bokeh from a fast full-frame portrait lens wide open, never clinical phone-like sharpness. Grain is fine and analogue-adjacent, sitting under the image. The gesture should feel playful and confiding - the presenter literally magnifying the word she is about to reveal - the second half of a two-beat visual gag that hooks the viewer before any app interface appears. The composition keeps her face high-centre behind the circular glass with breathing room below for the caption, following Korean commercial framing norms rather than dead-centre symmetry. Style anchor: contemporary Korean short-form commercial realism, full-frame cinema-camera look, relatable warm tone; the identity of the individual is entirely generic with no likeness of any real person or celebrity intended or implied, and any logo marks or brand identifiers are kept generic.",
+        "t2i_negative": "logo mark, brand watermark, harsh light, wide distortion outside the lens, plastic-smooth skin, HDR, cluttered sharp background",
+        "i2v_motion": "she lifts the magnifier slightly and tilts her head; the lens refraction shifts as it moves; her smile widens; captions swap from '토스 안에' to '주민센터' over the glass; gentle handheld drift; hard cut at ~2.2s into the beat",
+        "i2v_params": {
+          "clip_duration_sec": 2.2,
+          "camera_move": "handheld_micro_drift",
+          "subject_motion_level": "low_prop_and_smile",
+          "signature_effect": "magnifier_optical_distortion",
+          "pacing": "slow_playful",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen captions preserved verbatim; identity/logo generic"
+      }
+    },
+    {
+      "index": 3,
+      "duration": 2.6,
+      "framing": "MS",
+      "function": "presenter_explainer",
+      "subject_action": "the woman, now seated at a warm wooden desk in a cozy props-filled study, talks to camera and counts on her fingers (one, then more) listing certificate types; caption pill reads '등본, 초본 / 소득 금액 증명서까지'",
+      "layout_grid": "rule_of_thirds_center_subject",
+      "subject_position": "center",
+      "typo_motion": "caption_pill_hold",
+      "camera_angle": "eye_level",
+      "camera_facing": "front",
+      "shot_scope": "medium_shot_seated",
+      "gaze": "to_camera",
+      "props": [
+        "wooden_bookshelf",
+        "yellow_duck_toy",
+        "bear_figurine",
+        "desk_lamp",
+        "pen_holder",
+        "papers_on_desk",
+        "smartphone_on_desk"
+      ],
+      "color_palette": [
+        "#C9B8D6",
+        "#8A5A34",
+        "#E3C24A",
+        "#E8DCC8",
+        "#4A3526"
+      ],
+      "color_intent": "warm_cozy_editorial",
+      "pose_description": "seated upright at a desk, leaning slightly forward, one index finger raised mid-count, mouth open mid-speech, shoulders square to camera in the lavender shirt",
+      "subject_motion": "hand_counting_gesture_and_speech",
+      "camera_motion": "locked_slight_handheld",
+      "camera_effect_local": "shallow_dof_warm_bg",
+      "intra_cut_rhythm": "conversational",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "mid_frame_path": "ADV-2026-021_frames/cut03_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "woman_seated_lavender_shirt",
+          "raised_counting_hand",
+          "desk_edge_with_papers"
+        ],
+        "midground": [
+          "wooden_desk",
+          "pen_holder",
+          "smartphone_on_desk"
+        ],
+        "background": [
+          "wooden_cubby_bookshelf",
+          "yellow_duck_toy",
+          "bear_figurine",
+          "small_desk_lamp"
+        ],
+        "lighting_env": [
+          "warm_interior_key",
+          "practical_desk_lamp"
+        ],
+        "atmosphere": [
+          "cozy_study_warmth",
+          "friendly_explainer"
+        ]
+      },
+      "texture": {
+        "primary_subject": "smooth_skin_natural",
+        "secondary_objects": [
+          "cotton_shirt",
+          "lacquered_wood_shelf",
+          "glossy_toy_plastic"
+        ],
+        "background_surface": "warm_wood_cubbies",
+        "atmospheric": [
+          "soft_warm_bokeh"
+        ]
+      },
+      "lighting": {
+        "key_direction": "front_left_soft",
+        "key_hardness": "soft",
+        "key_color_temp": "warm_3300K",
+        "fill_strength": "medium",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": "soft_hair_rim",
+        "practical_lights": [
+          "small_desk_lamp",
+          "interior_ambient"
+        ],
+        "shadow_presence": "soft",
+        "overall_contrast": "medium_low"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#C9B8D6",
+          "#8A5A34",
+          "#E3C24A",
+          "#E8DCC8",
+          "#4A3526"
+        ],
+        "palette_role": {
+          "#C9B8D6": "garment_lavender_subject",
+          "#8A5A34": "wood_shelf_dominant_bg",
+          "#E3C24A": "yellow_duck_accent",
+          "#E8DCC8": "wall_skin_warm_light",
+          "#4A3526": "shadow_wood_dark"
+        },
+        "color_relationship": "warm_wood_with_lilac_and_yellow_accents",
+        "temperature_balance": "warm_dominant",
+        "saturation_strategy": "medium_cozy",
+        "contrast_type": "soft_medium",
+        "accent_color": "#E3C24A",
+        "accent_ratio": 0.08
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A medium shot of a Korean woman in her mid-twenties seated at a warm wooden desk in a cozy props-filled study, framed vertically 9:16 with her centered from roughly the waist up, leaning slightly toward the camera and speaking directly to it while raising one index finger as if beginning to count items on a list. She has chin-length copper-brown hair with curtain bangs, natural dewy makeup, soft coral lips parted mid-sentence, and an open friendly expression. She wears the same oversized lavender-lilac cotton button shirt with sleeves loosely pushed up. Wardrobe material: soft matte cotton. Location and background: a warm study with a lacquered wooden cubby bookshelf filling the rear wall, decorated with a bright yellow cartoon duck toy upper-right, a small grey bear figurine and a red object upper-left, a tiny mushroom-shaped desk lamp, and books slotted into the cubbies; in front of her the wooden desk holds a cup of pens, loose papers, sticky notes and a black smartphone lying face down. Foreground: the woman and the near desk edge with papers; midground: the desk surface and objects; background: the warm wooden shelving with toys in soft focus. Lighting: a soft front-left key around 3300K warm tungsten-adjacent with a gentle two-to-one key-to-fill, a soft hair rim, motivated by the small practical desk lamp and warm interior ambient light. Lens, framing and angle: a 50mm-to-85mm-equivalent lens at a moderately wide aperture for a soft but legible background, eye-level, a steady nearly-locked frame with only faint handheld life. Composition: rule-of-thirds with the subject central and the colourful shelf props providing balanced visual interest behind, warm and editorial. Color palette and strategy: lavender shirt (#C9B8D6) as the subject note against a warm-wood-dominant field (#8A5A34) with a pop of duck-yellow accent (#E3C24A), warm wall-and-skin light (#E8DCC8) and dark wood shadow (#4A3526); saturation medium and cozy. Surfaces and texture: natural skin, soft cotton, lacquered wood grain, glossy toy plastic, soft warm bokeh on the background. Atmosphere: cozy creator-studio warmth, a friendly knowledgeable presenter walking the viewer through a useful tip. Post and signature look: warm naturalistic grade, subtle grain, smooth background bokeh, no heavy vignette, no HDR. This beat carries a lower-third white rounded caption pill on a translucent grey background reading the two Korean lines '등본, 초본' over '소득 금액 증명서까지' in clean rounded sans-serif; render that caption pill crisply in the lower third of the start frame. Additional production context for fidelity: the colour grade should sit in the desaturated warm-to-neutral range Korean creators favour, with muted cozy mid-tones, so the wooden cubbies read as honeyed brown rather than glowing orange, the duck toy as a controlled cheerful yellow accent and the lavender shirt as a soft cool note; skin keeps a natural warmth, never an orange cast. Lighting is motivated by the little practical desk lamp and ambient room light rather than any visible studio rig, producing the warm slightly imperfect docu-narrative quality of a creator's home study; a touch of edge falloff is welcome but no heavy artificial vignette. Depth of field is moderate - shallow enough that the duck, bear and books behind her soften pleasantly while she stays crisp, the look of a fast standard or short-tele lens, never the flat edge-to-edge sharpness of a phone camera. Grain is fine, even and analogue-adjacent. The performance should read as a friendly, slightly animated presenter beginning to enumerate items for the viewer, hands joining the speech, the cozy props giving the frame personality without distracting from her face. The composition keeps her on the rule-of-thirds with the colourful shelf balancing the negative space behind, breathing room left in the direction she leans, faithful to Korean commercial framing rather than rigid symmetry. Style anchor: contemporary Korean short-form commercial realism, full-frame cinema-camera look, relatable explainer tone; the identity of the individual is entirely generic with no likeness of any real person or celebrity intended or implied, and any logo marks or brand identifiers are kept generic.",
+        "t2i_negative": "logo mark, brand watermark, harsh key, sterile studio, wide-angle distortion, plastic skin, HDR, blown highlights",
+        "i2v_motion": "she counts on her fingers and gestures while speaking to camera; head and hands move naturally; the '등본, 초본 / 소득 금액 증명서까지' caption pill holds in the lower third; faint handheld life; hard cut at ~2.6s",
+        "i2v_params": {
+          "clip_duration_sec": 2.6,
+          "camera_move": "locked_with_faint_handheld",
+          "subject_motion_level": "medium_hand_gestures_speech",
+          "signature_effect": "shallow_dof_warm_bg",
+          "pacing": "conversational",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen caption preserved verbatim; identity/logo generic"
+      }
+    },
+    {
+      "index": 4,
+      "duration": 3.87,
+      "framing": "MS",
+      "function": "presenter_explainer_with_title_card",
+      "subject_action": "the same presenter sits back at the desk, gesturing with both hands while speaking; a hand-drawn paper title card 토스 있으면 / 주민센터 안 가도 되는 이유 slides in and settles above her head with CONTENT/SERVICE/YEAR/CATEGORY/PRODUCTION TEAM meta",
+      "layout_grid": "title_card_top_subject_lower_center",
+      "subject_position": "center_lower",
+      "typo_motion": "title_card_slide_in_settle",
+      "camera_angle": "eye_level",
+      "camera_facing": "front",
+      "shot_scope": "medium_shot_seated_wider",
+      "gaze": "to_camera",
+      "props": [
+        "wooden_bookshelf",
+        "yellow_duck_toy",
+        "bear_figurine",
+        "desk_lamp",
+        "pen_holder",
+        "papers_on_desk",
+        "paper_title_card_graphic"
+      ],
+      "color_palette": [
+        "#C9B8D6",
+        "#8A5A34",
+        "#2D6CC4",
+        "#E8DCC8",
+        "#E3C24A"
+      ],
+      "color_intent": "warm_cozy_with_blue_graphic_accent",
+      "pose_description": "seated, both hands raised and open in an explanatory gesture, mouth open mid-speech, body square to camera under a paper title-card graphic",
+      "subject_motion": "two_hand_open_gesture_speech",
+      "camera_motion": "locked_slight_handheld",
+      "camera_effect_local": "graphic_overlay_composite",
+      "intra_cut_rhythm": "conversational",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "mid_frame_path": "ADV-2026-021_frames/cut04_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "woman_seated_lavender_shirt",
+          "open_gesturing_hands"
+        ],
+        "midground": [
+          "wooden_desk",
+          "pen_holder",
+          "papers"
+        ],
+        "background": [
+          "wooden_cubby_bookshelf",
+          "yellow_duck_toy",
+          "paper_title_card_overlay_top"
+        ],
+        "lighting_env": [
+          "warm_interior_key",
+          "practical_desk_lamp"
+        ],
+        "atmosphere": [
+          "cozy_study_warmth",
+          "branded_explainer_segment"
+        ]
+      },
+      "texture": {
+        "primary_subject": "smooth_skin_natural",
+        "secondary_objects": [
+          "cotton_shirt",
+          "torn_paper_card_edge",
+          "lacquered_wood"
+        ],
+        "background_surface": "warm_wood_cubbies",
+        "atmospheric": [
+          "soft_warm_bokeh",
+          "flat_paper_graphic"
+        ]
+      },
+      "lighting": {
+        "key_direction": "front_left_soft",
+        "key_hardness": "soft",
+        "key_color_temp": "warm_3300K",
+        "fill_strength": "medium",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": "soft_hair_rim",
+        "practical_lights": [
+          "small_desk_lamp",
+          "interior_ambient"
+        ],
+        "shadow_presence": "soft",
+        "overall_contrast": "medium_low"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#C9B8D6",
+          "#8A5A34",
+          "#2D6CC4",
+          "#E8DCC8",
+          "#E3C24A"
+        ],
+        "palette_role": {
+          "#C9B8D6": "garment_lavender_subject",
+          "#8A5A34": "wood_shelf_dominant_bg",
+          "#2D6CC4": "title_card_blue_ink_accent",
+          "#E8DCC8": "warm_wall_skin_light",
+          "#E3C24A": "yellow_duck_accent"
+        },
+        "color_relationship": "warm_wood_with_blue_graphic_accent",
+        "temperature_balance": "warm_with_cool_graphic",
+        "saturation_strategy": "medium_cozy_plus_saturated_blue_ink",
+        "contrast_type": "medium",
+        "accent_color": "#2D6CC4",
+        "accent_ratio": 0.16
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A medium shot of the same Korean woman in her mid-twenties seated at the cozy wooden study desk, framed vertically 9:16 and placed lower-center to leave room above her head, leaning back a little and gesturing with both open hands as she speaks directly to camera. Above her head sits a flat hand-drawn paper title-card graphic composited over the scene: a torn-edge off-white paper label with a blue hand-drawn rounded border, headed in small blue handwriting 'CONTENT', carrying two bold dark Korean lines '토스 있으면' over '주민센터 안 가도 되는 이유', and a footer row of small blue handwritten meta fields reading 'SERVICE 토스주민센터', 'YEAR 2024', 'CATEGORY 부동산 / 공공서비스 / 송금' with 공공서비스 circled, and 'PRODUCTION TEAM #team_공공프로덕트'. She has chin-length copper-brown hair with curtain bangs, natural makeup, soft coral lips parted mid-speech, wearing the oversized lavender-lilac cotton button shirt. Background: the warm lacquered wooden cubby bookshelf with the bright yellow cartoon duck toy upper-right, a grey bear figurine and small mushroom lamp, books in cubbies; the desk in front holds a pen cup, papers and sticky notes. Foreground: the woman and her open hands; midground: the desk and props; background: warm shelving in soft focus with the flat paper card graphic floating in the upper frame. Lighting: soft front-left key around 3300K warm tungsten-adjacent, gentle two-to-one key-to-fill, soft hair rim, motivated by the practical desk lamp and warm ambient light; the title card is a flat overlay unaffected by scene lighting. Lens, framing and angle: 50mm-to-85mm-equivalent at a moderate aperture, eye-level, nearly locked with faint handheld life. Composition: the paper card anchors the top third, the presenter the lower two-thirds, balanced and editorial. Color palette and strategy: lavender shirt (#C9B8D6) on a warm-wood-dominant field (#8A5A34) with a saturated blue graphic-ink accent (#2D6CC4) from the title card, warm wall-and-skin light (#E8DCC8) and a duck-yellow pop (#E3C24A); the blue ink is the deliberate accent against the warm room. Surfaces and texture: natural skin, soft cotton, torn paper edge and ink of the card, lacquered wood, soft warm bokeh. Atmosphere: cozy creator-studio warmth turning into a branded how-to segment. Post and signature look: warm naturalistic grade on the live action with subtle grain and smooth bokeh, the title card rendered as a clean flat paper graphic; no heavy vignette, no HDR. Preserve all Korean title-card text verbatim and crisp. Additional production context for fidelity: there are two visual registers in this frame that must not blend - the live-action half is a warm, slightly imperfect docu-narrative capture (desaturated warm-to-neutral grade, muted cozy mid-tones, honeyed wood, soft creamy skin, lavender as a cool note, practical-lamp-motivated lighting, fine analogue grain, shallow-to-moderate depth of field from a fast standard or short-tele lens), while the paper title card is a crisp flat graphic overlay with even edges, true blue ink and no scene lighting or bokeh applied to it. The card should sit convincingly in the upper third as if pinned in space above her, its torn paper edge and hand-drawn border legible, the bold Korean headline dominant and the small handwritten meta row beneath readable. Her performance is an open two-handed explanatory gesture mid-sentence, friendly and confident, the moment the segment formally announces its topic. Keep skin natural rather than orange, keep the duck-yellow a controlled accent, avoid heavy vignette and HDR, and let the background shelving soften behind her while she and the card stay sharp. The composition balances the graphic mass of the card against the presenter below, breathing room maintained, faithful to Korean commercial framing rather than dead-centre symmetry. Style anchor: contemporary Korean short-form commercial realism, full-frame cinema-camera look, relatable branded-explainer tone; the identity of the individual is entirely generic with no likeness of any real person or celebrity intended or implied, and any logo marks or brand identifiers beyond the described in-scene title-card text are kept generic.",
+        "t2i_negative": "extra logos, brand watermark beyond described card, harsh key, sterile studio, wide distortion, plastic skin, HDR",
+        "i2v_motion": "the paper title card slides in from above and settles with a small bounce while she gestures and talks to camera; gentle handheld life; card holds; hard cut at ~3.9s",
+        "i2v_params": {
+          "clip_duration_sec": 3.87,
+          "camera_move": "locked_with_faint_handheld",
+          "subject_motion_level": "medium_two_hand_gesture",
+          "signature_effect": "title_card_overlay",
+          "pacing": "conversational",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen title-card copy preserved verbatim; identity/logo generic"
+      }
+    },
+    {
+      "index": 5,
+      "duration": 4.01,
+      "framing": "screen_recording_top_down",
+      "function": "product_ui_walkthrough_search",
+      "subject_action": "top-down screen-recording of an iPhone lying on a tan leather surface; in the Toss app a search field shows 증 then 증며 then 증명ㅅ typed, suggestion chips and service results update, a finger taps the Hangul keyboard; captions '전체 탭'에서 / '증명서 발급하기'를 선택하면",
+      "layout_grid": "centered_phone_vertical",
+      "subject_position": "center",
+      "typo_motion": "caption_pill_swap",
+      "camera_angle": "top_down_overhead",
+      "camera_facing": "screen_up",
+      "shot_scope": "phone_in_frame_with_hand",
+      "gaze": "none",
+      "props": [
+        "iphone_on_tan_leather",
+        "finger_typing",
+        "toss_search_ui"
+      ],
+      "color_palette": [
+        "#9B6A45",
+        "#F4F5F7",
+        "#1B1B1F",
+        "#3B82F6",
+        "#E6D8C8"
+      ],
+      "color_intent": "neutral_bright_screen_on_warm_tan",
+      "pose_description": "a hand enters from lower-right, index finger extended, tapping letters on the on-screen Korean keyboard of the centered phone",
+      "subject_motion": "finger_typing_taps",
+      "camera_motion": "locked_off_overhead",
+      "camera_effect_local": "screen_self_glow",
+      "intra_cut_rhythm": "steady_demo",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "mid_frame_path": "ADV-2026-021_frames/cut05_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "iphone_with_search_ui",
+          "typing_hand_lower_right"
+        ],
+        "midground": [
+          "tan_leather_surface"
+        ],
+        "background": [
+          "tan_leather_surface_edges"
+        ],
+        "lighting_env": [
+          "soft_even_overhead",
+          "screen_self_lit"
+        ],
+        "atmosphere": [
+          "clean_product_demo"
+        ]
+      },
+      "texture": {
+        "primary_subject": "glass_touchscreen",
+        "secondary_objects": [
+          "matte_phone_bezel",
+          "human_finger"
+        ],
+        "background_surface": "tan_grain_leather",
+        "atmospheric": [
+          "soft_screen_glow"
+        ]
+      },
+      "lighting": {
+        "key_direction": "overhead_even",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_5000K",
+        "fill_strength": "high",
+        "key_to_fill_ratio": "1.5:1",
+        "rim_light": "none",
+        "practical_lights": [
+          "phone_screen",
+          "soft_room_light"
+        ],
+        "shadow_presence": "soft_under_phone",
+        "overall_contrast": "medium"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#9B6A45",
+          "#F4F5F7",
+          "#1B1B1F",
+          "#3B82F6",
+          "#E6D8C8"
+        ],
+        "palette_role": {
+          "#9B6A45": "tan_leather_dominant_bg",
+          "#F4F5F7": "app_screen_light_bg",
+          "#1B1B1F": "ui_text_dark",
+          "#3B82F6": "toss_blue_accent",
+          "#E6D8C8": "leather_highlight"
+        },
+        "color_relationship": "warm_tan_field_with_cool_blue_screen_accent",
+        "temperature_balance": "warm_surface_neutral_screen",
+        "saturation_strategy": "muted_surface_clean_ui",
+        "contrast_type": "medium",
+        "accent_color": "#3B82F6",
+        "accent_ratio": 0.1
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A clean top-down overhead screen-recording-style frame of a modern dark-bezel smartphone lying flat and centered on a warm tan leather surface, shot vertically 9:16 with the device filling the central third and tan leather negative space around it. On the phone screen is a fintech app search view with a clean white-and-blue design: a status bar reading 12:05 with signal and 5G; a rounded search field at top containing a partially typed Korean query such as '증명ㅅ' with a clear-X and a '취소' (cancel) link; a '추천 키워드' suggested-keyword row of grey pill chips including '증명서', '전세보증', '증명서 발급하기'; and a '서비스' results list with line items and small colourful service icons such as '해외 유심 구매하기', '해외 eSIM 구매하기', '내 멤버십 모아보기', '설정'. The lower half of the screen shows an on-screen Korean Hangul keyboard with white rounded keys on light grey and a '스페이스' spacebar. A right hand enters from the lower-right of the frame, index finger extended and slightly motion-blurred, tapping a key on the keyboard. Wardrobe/material is not applicable beyond the bare hand and the matte dark phone bezel with polished glass screen. Location and background: a warm tan leather desk surface with fine grain, evenly lit, nothing else in frame. Foreground: the phone and the typing hand; midground and background: the surrounding tan leather. Lighting: soft even overhead room light at roughly neutral 5000K with high fill so the leather and screen are both clearly legible, plus the self-emission of the phone screen; a soft contact shadow sits under the device. Lens, framing and angle: a 35mm-to-50mm-equivalent lens viewed straight down from directly above, locked-off, with the screen text crisp and readable. Composition: the phone centered in the vertical frame, generous warm negative space, a product-demo overhead aesthetic. Color palette and strategy: tan leather dominant (#9B6A45) with leather highlight (#E6D8C8), the bright app screen (#F4F5F7), dark UI text (#1B1B1F) and a Toss-style blue accent (#3B82F6) on chips and highlights as the single cool accent against the warm surface; saturation muted on the surface and clean on the UI. Surfaces and texture: polished touchscreen glass, matte phone bezel, real human finger, fine tan leather grain, soft screen glow. Atmosphere: a calm, well-lit product walkthrough. Post and signature look: neutral clean grade on the screen, gentle warmth on the leather, minimal grain, no vignette, no HDR. This beat carries a lower-third white rounded caption pill reading the Korean text, first '전체 탭'에서 and then '증명서 발급하기'를 / 선택하면 in clean rounded sans-serif; render the caption pill '증명서 발급하기'를 / 선택하면 crisply in the lower third. Additional production context for fidelity: this is an overhead product-demo register, so the two elements must each read true - the tan leather surface is a warm matte material with fine natural grain and a soft even sheen, photographed under diffuse room light with no hard specular hotspots and only a gentle contact shadow hugging the phone, while the phone screen is a clean self-lit UI capture that stays bright and perfectly legible without glare washing out the text. The device sits squarely centred and parallel to the frame edges as if filmed straight down on a tripod arm; the hand entering from the lower-right is a real human hand with natural skin, the index finger softly motion-blurred only at the fingertip where it taps, the rest of the hand sharp. Keep the colour relationship clear: warm muted leather field against the neutral-to-cool bright screen, with the single Toss-style blue accent on chips and highlights doing the work, never an oversaturated rainbow of UI colour. Avoid any tilt, any second device, any desk clutter, any HDR glow, and any logo glyph baked onto the phone back or screen chrome. The mood is calm, instructional and trustworthy, the first hands-on step of a friendly how-to where the viewer is shown exactly where to search inside the app. The lower-third caption pill is a flat translucent-grey rounded rectangle with crisp white Korean type, sitting above the home indicator, unaffected by the screen glow. Style anchor: contemporary Korean short-form app-tutorial realism, clean overhead product capture; any logo marks or brand identifiers are kept generic while described UI label text is preserved as text.",
+        "t2i_negative": "brand logo glyph, busy desk clutter, dramatic side lighting, tilted angle, motion smear over whole frame, HDR, glare washing out screen text",
+        "i2v_motion": "the finger taps successive keys on the Korean keyboard; the search query and suggestion chips update; results list shifts; phone stays locked flat overhead; caption pill swaps from '전체 탭'에서 to '증명서 발급하기'를 선택하면; hard cut at ~4.0s",
+        "i2v_params": {
+          "clip_duration_sec": 4.01,
+          "camera_move": "locked_off_overhead",
+          "subject_motion_level": "finger_typing",
+          "signature_effect": "screen_self_glow",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen UI and captions preserved verbatim; identity/logo generic"
+      }
+    },
+    {
+      "index": 6,
+      "duration": 4.9,
+      "framing": "screen_recording_fullbleed",
+      "function": "product_ui_walkthrough_certificate_list",
+      "subject_action": "full-bleed phone screen recording of the 증명서 발급하기 page (정부 전자증명서) showing 발급하기 / 내 증명서 tabs, 많이 찾는 증명서, then a long A-Z scroll through dozens of certificate names; captions '이렇게 토스에서 발급받을 수 있는' / '각종 증명서들을 한눈에 볼 수 있는데요'",
+      "layout_grid": "fullbleed_screen",
+      "subject_position": "fill",
+      "typo_motion": "caption_pill_hold",
+      "camera_angle": "screen_capture",
+      "camera_facing": "screen",
+      "shot_scope": "fullscreen_ui",
+      "gaze": "none",
+      "props": [
+        "toss_certificate_issue_ui",
+        "government_certificate_badge"
+      ],
+      "color_palette": [
+        "#FFFFFF",
+        "#1B1B1F",
+        "#3B82F6",
+        "#C0392B",
+        "#8AA0B8"
+      ],
+      "color_intent": "clean_white_ui_blue_accent",
+      "pose_description": "no person; the app screen fills the frame and the certificate list scrolls",
+      "subject_motion": "vertical_list_scroll",
+      "camera_motion": "screen_capture_static",
+      "camera_effect_local": "screen_glow",
+      "intra_cut_rhythm": "steady_scroll",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "mid_frame_path": "ADV-2026-021_frames/cut06_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "certificate_list_items",
+          "발급하기_내증명서_tabs"
+        ],
+        "midground": [
+          "정부_전자증명서_badge",
+          "search_field"
+        ],
+        "background": [
+          "white_app_canvas"
+        ],
+        "lighting_env": [
+          "screen_self_lit"
+        ],
+        "atmosphere": [
+          "clean_digital_directory"
+        ]
+      },
+      "texture": {
+        "primary_subject": "flat_ui_surface",
+        "secondary_objects": [
+          "list_separators",
+          "small_category_icons"
+        ],
+        "background_surface": "white_app_canvas",
+        "atmospheric": [
+          "screen_glow"
+        ]
+      },
+      "lighting": {
+        "key_direction": "screen_self_emit",
+        "key_hardness": "flat",
+        "key_color_temp": "neutral_6500K",
+        "fill_strength": "high",
+        "key_to_fill_ratio": "1:1",
+        "rim_light": "none",
+        "practical_lights": [
+          "phone_screen"
+        ],
+        "shadow_presence": "none",
+        "overall_contrast": "medium_high_screen"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#FFFFFF",
+          "#1B1B1F",
+          "#3B82F6",
+          "#C0392B",
+          "#8AA0B8"
+        ],
+        "palette_role": {
+          "#FFFFFF": "app_canvas_dominant",
+          "#1B1B1F": "ui_text_dark",
+          "#3B82F6": "active_tab_blue_accent",
+          "#C0392B": "korean_flag_red_badge",
+          "#8AA0B8": "secondary_text_grey"
+        },
+        "color_relationship": "white_with_blue_and_red_accents",
+        "temperature_balance": "neutral_cool",
+        "saturation_strategy": "low_clean_ui",
+        "contrast_type": "high_screen",
+        "accent_color": "#3B82F6",
+        "accent_ratio": 0.12
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A full-bleed vertical 9:16 smartphone screen-recording frame of a government-certificate issuance page inside a fintech app, the UI filling the entire frame with a clean white-and-blue design. At top a status bar reads 12:05 with 5G; a screen title '증명서 발급하기' sits beside a small Korean-flag taegeuk badge and grey label '정부 전자증명서' (government electronic certificate). Below is a rounded search field '증명서 찾기' (search certificates), then a two-tab row '발급하기' (issue) active and underlined in blue next to '내 증명서' (my certificates) with a small blue count badge '8'. A promo row reads '30대 초반과 내 연봉 비교하기' with subtext '소득금액증명으로 확인해보세요' and a small red bar-chart icon. Under a section heading '많이 찾는 증명서' (frequently requested certificates) is a numbered list: 1 주민등록등본, 2 주민등록초본, 3 건강보험자격득실확인서, 4 코로나 예방접종증명서, 5 소득금액증명, each with a small pale-blue index chip; at the very bottom a heading '증명서 모아서 받기' begins to appear. There is no person and no hand in this start frame; the surface is the screen itself. Foreground: the list items and tabs; midground: the title, badge and search field; background: the flat white app canvas. Lighting: the image is self-illuminated by the phone screen at a neutral cool 6500K, flat and even with no external shadow, high legibility. Lens, framing and angle: this is a direct screen capture filling the frame, no lens perspective, perfectly upright, text crisp. Composition: a clean vertical scrolling list, generous white space, a digital-directory aesthetic. Color palette and strategy: white canvas dominant (#FFFFFF), dark UI text (#1B1B1F), an active-tab blue accent (#3B82F6) and a Korean-flag red badge accent (#C0392B) with secondary grey text (#8AA0B8); saturation low and clean, blue as the primary accent. Surfaces and texture: flat UI surfaces, thin list separators, small category icons, subtle screen glow. Atmosphere: a trustworthy official document directory inside a consumer app. Post and signature look: neutral clean screen grade, no grain, no vignette, no HDR. This beat carries a lower-third white rounded caption pill reading the two Korean lines, first '이렇게 토스에서 / 발급받을 수 있는' then '각종 증명서들을 / 한눈에 볼 수 있는데요' in rounded sans-serif; render the caption pill '각종 증명서들을 / 한눈에 볼 수 있는데요' crisply in the lower third. Additional production context for fidelity: this is a pure full-bleed UI capture with no photographic surface at all, so the entire frame is the app screen filling edge to edge, perfectly upright with no device bezel, no leather, no perspective and no lens artifacts; the image is self-illuminated and flat with high legibility. The directory should feel authoritative and clean - a generous white canvas, dark crisp Korean type, thin neutral list separators, small flat category icons, the active tab marked by a single blue underline, the frequently-requested certificates numbered with pale-blue index chips, and the Korean-flag taegeuk badge reading as the only spot of red beside the government-certificate label. The list is mid-scroll, implying many more entries above and below than fit on one screen, which is the whole point of the line being narrated. Keep the colour discipline strict: white dominant, blue as the primary accent, a small red badge accent, grey secondary text, nothing oversaturated or rainbow. No grain, no vignette, no HDR, no drop shadows beyond the UI's own subtle ones, and no logo glyph in the status bar or chrome. The lower-third caption pill is a flat translucent-grey rounded rectangle with crisp white Korean type, overlaid on the UI and unaffected by its glow. The mood is reassuring and official - a trustworthy government-document directory living inside a consumer finance app, exactly the surprise the narration is selling. Style anchor: contemporary Korean app-tutorial screen capture; any logo marks are kept generic while described UI label text including the brand context is preserved as on-screen text.",
+        "t2i_negative": "brand wordmark glyph, photographic lighting, perspective tilt, device bezel in frame, grain, vignette, HDR, blurred UI text",
+        "i2v_motion": "the certificate list scrolls smoothly downward through many alphabetized entries; the active blue tab underline stays; screen is a flat capture; caption pill holds then updates to '각종 증명서들을 / 한눈에 볼 수 있는데요'; hard cut at ~4.9s",
+        "i2v_params": {
+          "clip_duration_sec": 4.9,
+          "camera_move": "screen_capture_static",
+          "subject_motion_level": "list_scroll",
+          "signature_effect": "screen_glow",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen UI and captions preserved verbatim; identity/logo generic"
+      }
+    },
+    {
+      "index": 7,
+      "duration": 3.04,
+      "framing": "MS",
+      "function": "presenter_explainer_with_phone",
+      "subject_action": "back to the live-action presenter at the desk, now holding a black smartphone in one hand and gesturing with the other while speaking to camera; captions '필요한 서류들을 / 한 번에 묶어서' then '발급받을 수도 있어요'",
+      "layout_grid": "rule_of_thirds_center_subject",
+      "subject_position": "center",
+      "typo_motion": "caption_pill_swap",
+      "camera_angle": "eye_level",
+      "camera_facing": "front",
+      "shot_scope": "medium_shot_seated",
+      "gaze": "to_camera",
+      "props": [
+        "black_smartphone_in_hand",
+        "wooden_bookshelf",
+        "yellow_duck_toy",
+        "desk_with_papers"
+      ],
+      "color_palette": [
+        "#C9B8D6",
+        "#8A5A34",
+        "#1C1C1E",
+        "#E8DCC8",
+        "#E3C24A"
+      ],
+      "color_intent": "warm_cozy_editorial",
+      "pose_description": "seated, holding a black phone in the left hand near chest height, right hand gesturing open, speaking to camera with an explanatory expression",
+      "subject_motion": "hold_phone_and_gesture_speech",
+      "camera_motion": "locked_slight_handheld",
+      "camera_effect_local": "shallow_dof_warm_bg",
+      "intra_cut_rhythm": "conversational",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "mid_frame_path": "ADV-2026-021_frames/cut07_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "woman_seated_lavender_shirt",
+          "black_smartphone_in_hand",
+          "gesturing_hand"
+        ],
+        "midground": [
+          "wooden_desk",
+          "papers",
+          "pen_holder"
+        ],
+        "background": [
+          "wooden_cubby_bookshelf",
+          "yellow_duck_toy",
+          "small_desk_lamp"
+        ],
+        "lighting_env": [
+          "warm_interior_key",
+          "practical_desk_lamp"
+        ],
+        "atmosphere": [
+          "cozy_study_warmth",
+          "friendly_explainer"
+        ]
+      },
+      "texture": {
+        "primary_subject": "smooth_skin_natural",
+        "secondary_objects": [
+          "cotton_shirt",
+          "matte_black_phone",
+          "lacquered_wood"
+        ],
+        "background_surface": "warm_wood_cubbies",
+        "atmospheric": [
+          "soft_warm_bokeh"
+        ]
+      },
+      "lighting": {
+        "key_direction": "front_left_soft",
+        "key_hardness": "soft",
+        "key_color_temp": "warm_3300K",
+        "fill_strength": "medium",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": "soft_hair_rim",
+        "practical_lights": [
+          "small_desk_lamp",
+          "interior_ambient"
+        ],
+        "shadow_presence": "soft",
+        "overall_contrast": "medium_low"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#C9B8D6",
+          "#8A5A34",
+          "#1C1C1E",
+          "#E8DCC8",
+          "#E3C24A"
+        ],
+        "palette_role": {
+          "#C9B8D6": "garment_lavender_subject",
+          "#8A5A34": "wood_shelf_dominant_bg",
+          "#1C1C1E": "black_phone_prop",
+          "#E8DCC8": "warm_wall_skin_light",
+          "#E3C24A": "yellow_duck_accent"
+        },
+        "color_relationship": "warm_wood_with_lilac_and_yellow_accents",
+        "temperature_balance": "warm_dominant",
+        "saturation_strategy": "medium_cozy",
+        "contrast_type": "soft_medium",
+        "accent_color": "#E3C24A",
+        "accent_ratio": 0.07
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A medium shot of the same Korean woman in her mid-twenties seated at the cozy wooden study desk, framed vertically 9:16 and centered from roughly the waist up, now holding a black smartphone in one hand near chest height while gesturing with the other open hand as she speaks directly to camera with a friendly explanatory expression. She has chin-length copper-brown hair with curtain bangs, natural dewy makeup, soft coral lips mid-speech, wearing the oversized lavender-lilac cotton button shirt with sleeves pushed up. Wardrobe material: soft matte cotton; the phone is a matte black slab with a triple-lens camera bump. Location and background: the warm lacquered wooden cubby bookshelf fills the rear wall with the bright yellow cartoon duck toy upper-right, a grey bear figurine, a small mushroom desk lamp and books in the cubbies; the desk in front holds a pen cup, loose papers and sticky notes. Foreground: the woman, the held black phone and her gesturing hand; midground: the desk and props; background: warm shelving in soft focus. Lighting: soft front-left key around 3300K warm tungsten-adjacent with a gentle two-to-one key-to-fill and a soft hair rim, motivated by the practical desk lamp and warm ambient light. Lens, framing and angle: 50mm-to-85mm-equivalent at a moderate aperture, eye-level, nearly locked with faint handheld life. Composition: rule-of-thirds with the subject central, the held phone reading as a clear prop, colourful shelf props behind for balance, warm and editorial. Color palette and strategy: lavender shirt (#C9B8D6) on a warm-wood-dominant field (#8A5A34), the black phone (#1C1C1E), warm wall-and-skin light (#E8DCC8) and a duck-yellow accent (#E3C24A); saturation medium and cozy. Surfaces and texture: natural skin, soft cotton, matte black phone, lacquered wood grain, soft warm bokeh. Atmosphere: cozy creator-studio warmth, a knowledgeable presenter mid-tip, gesturing toward the phone she holds. Post and signature look: warm naturalistic grade, subtle grain, smooth background bokeh, no heavy vignette, no HDR. This beat carries a lower-third white rounded caption pill reading the two Korean lines, first '필요한 서류들을 / 한 번에 묶어서' then '발급받을 수도 있어요' in clean rounded sans-serif; render the caption pill '필요한 서류들을 / 한 번에 묶어서' crisply in the lower third of the start frame. Additional production context for fidelity: this beat returns to the warm live-action register and must match the earlier presenter shots exactly - the same desaturated warm-to-neutral grade with muted cozy mid-tones, honeyed wood, soft creamy skin and lavender reading as a cool note, the same practical-desk-lamp-motivated lighting with its slightly imperfect docu quality, the same fine analogue grain, and the same shallow-to-moderate depth of field from a fast standard or short-tele lens so the duck, bear and books soften while she stays crisp. The black phone she holds is a matte slab catching a soft sheen, held naturally near chest height as a prop she is about to demonstrate with, not a hero product shot; her free hand gestures openly mid-sentence. Keep skin natural rather than orange, keep the duck-yellow a controlled accent, avoid heavy vignette and HDR, and ensure no logo glyph is visible on the phone back. The composition keeps her on the rule-of-thirds, the held phone reading clearly within the frame, the colourful shelf balancing the negative space behind, breathing room maintained, faithful to Korean commercial framing rather than dead-centre symmetry. The mood is friendly and knowledgeable, a presenter pausing the screen demo to add a useful point about bundling documents together. Style anchor: contemporary Korean short-form commercial realism, full-frame cinema-camera look, relatable explainer tone; the identity of the individual is entirely generic with no likeness of any real person or celebrity intended or implied, and any logo marks or brand identifiers including any mark on the held phone are kept generic.",
+        "t2i_negative": "logo mark, brand watermark, phone-back logo glyph, harsh key, sterile studio, wide distortion, plastic skin, HDR",
+        "i2v_motion": "she holds the black phone steady and gestures with her free hand while speaking to camera; natural head and hand movement; the '필요한 서류들을 / 한 번에 묶어서' caption pill swaps to '발급받을 수도 있어요'; faint handheld life; hard cut at ~3.0s",
+        "i2v_params": {
+          "clip_duration_sec": 3.04,
+          "camera_move": "locked_with_faint_handheld",
+          "subject_motion_level": "medium_hold_and_gesture",
+          "signature_effect": "shallow_dof_warm_bg",
+          "pacing": "conversational",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen caption preserved verbatim; identity/logo generic"
+      }
+    },
+    {
+      "index": 8,
+      "duration": 3.24,
+      "framing": "screen_recording_top_down",
+      "function": "product_ui_walkthrough_bundle_pick",
+      "subject_action": "top-down screen-recording of the phone on tan leather; the 증명서 모아서 받기 bundle list is shown (취업·이직, 신용대출, 전세자금대출, 주택담보대출, 학자금, 코로나 생활지원비) and a finger taps 전세자금대출 서류 3종; caption '이렇게 '전세자금대출용 서류'를 / 선택하면'",
+      "layout_grid": "centered_phone_vertical",
+      "subject_position": "center",
+      "typo_motion": "caption_pill_hold",
+      "camera_angle": "top_down_overhead",
+      "camera_facing": "screen_up",
+      "shot_scope": "phone_in_frame_with_hand",
+      "gaze": "none",
+      "props": [
+        "iphone_on_tan_leather",
+        "finger_tapping",
+        "toss_bundle_list_ui"
+      ],
+      "color_palette": [
+        "#9B6A45",
+        "#F4F5F7",
+        "#1B1B1F",
+        "#3B82F6",
+        "#E6D8C8"
+      ],
+      "color_intent": "neutral_bright_screen_on_warm_tan",
+      "pose_description": "a hand enters from lower-right, index finger extended toward the 전세자금대출 서류 3종 row of the centered phone",
+      "subject_motion": "finger_tap_select",
+      "camera_motion": "locked_off_overhead",
+      "camera_effect_local": "screen_self_glow",
+      "intra_cut_rhythm": "steady_demo",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "mid_frame_path": "ADV-2026-021_frames/cut08_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "iphone_with_bundle_list",
+          "tapping_hand_lower_right"
+        ],
+        "midground": [
+          "tan_leather_surface"
+        ],
+        "background": [
+          "tan_leather_surface_edges"
+        ],
+        "lighting_env": [
+          "soft_even_overhead",
+          "screen_self_lit"
+        ],
+        "atmosphere": [
+          "clean_product_demo"
+        ]
+      },
+      "texture": {
+        "primary_subject": "glass_touchscreen",
+        "secondary_objects": [
+          "matte_phone_bezel",
+          "human_finger"
+        ],
+        "background_surface": "tan_grain_leather",
+        "atmospheric": [
+          "soft_screen_glow"
+        ]
+      },
+      "lighting": {
+        "key_direction": "overhead_even",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_5000K",
+        "fill_strength": "high",
+        "key_to_fill_ratio": "1.5:1",
+        "rim_light": "none",
+        "practical_lights": [
+          "phone_screen",
+          "soft_room_light"
+        ],
+        "shadow_presence": "soft_under_phone",
+        "overall_contrast": "medium"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#9B6A45",
+          "#F4F5F7",
+          "#1B1B1F",
+          "#3B82F6",
+          "#E6D8C8"
+        ],
+        "palette_role": {
+          "#9B6A45": "tan_leather_dominant_bg",
+          "#F4F5F7": "app_screen_light_bg",
+          "#1B1B1F": "ui_text_dark",
+          "#3B82F6": "toss_blue_accent",
+          "#E6D8C8": "leather_highlight"
+        },
+        "color_relationship": "warm_tan_field_with_cool_blue_screen_accent",
+        "temperature_balance": "warm_surface_neutral_screen",
+        "saturation_strategy": "muted_surface_clean_ui",
+        "contrast_type": "medium",
+        "accent_color": "#3B82F6",
+        "accent_ratio": 0.09
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A clean top-down overhead screen-recording-style frame of a dark-bezel smartphone lying flat and centered on a warm tan leather surface, shot vertically 9:16 with the device in the central third and tan leather around it. On the phone screen is the certificate-issuance page scrolled to a section heading '증명서 모아서 받기' (receive certificates bundled), under the active '발급하기' tab next to '내 증명서 8'. The bundle list shows rows each with a small icon and a Korean label and quantity: '취업·이직 서류 2종' (employment/transfer 2 docs), '신용대출 서류 3종' (credit loan 3 docs), '전세자금대출 서류 3종' (jeonse lease loan 3 docs) with a small green house icon, '주택담보대출 서류 3종' (mortgage 3 docs), '학자금 대출 서류 2종' (student loan 2 docs), and '코로나 생활지원비 서류 2종' (covid living support 2 docs); below, an alphabetized section begins with '가' and '건강·장기요양 보험료 납부확인서'. A right hand enters from the lower-right, index finger extended and slightly motion-blurred, reaching toward the '전세자금대출 서류 3종' row to select it. Material/wardrobe is just the bare hand and the matte dark phone with polished glass. Location and background: a warm tan leather desk surface, evenly lit, nothing else in frame. Foreground: the phone and the tapping hand; midground and background: tan leather. Lighting: soft even overhead room light at roughly neutral 5000K with high fill so leather and screen are both legible, plus screen self-emission and a soft contact shadow under the device. Lens, framing and angle: 35mm-to-50mm-equivalent viewed straight down from directly above, locked-off, screen text crisp. Composition: phone centered in the vertical frame, warm negative space, overhead product-demo aesthetic. Color palette and strategy: tan leather dominant (#9B6A45) with highlight (#E6D8C8), the bright app screen (#F4F5F7), dark UI text (#1B1B1F) and a Toss-style blue accent (#3B82F6) as the single cool accent; saturation muted on the surface, clean on the UI. Surfaces and texture: polished touchscreen glass, matte phone bezel, real finger, fine tan leather grain, soft screen glow. Atmosphere: a calm, well-lit product walkthrough demonstrating ready-made document bundles. Post and signature look: neutral clean grade on the screen, gentle warmth on the leather, minimal grain, no vignette, no HDR. This beat carries a lower-third white rounded caption pill reading the two Korean lines '이렇게 '전세자금대출용 서류'를' over '선택하면' in clean rounded sans-serif; render it crisply in the lower third. Additional production context for fidelity: this overhead product-demo frame must keep its two materials honest - the warm matte tan leather with fine grain photographed under soft diffuse light with only a gentle contact shadow under the device and no hard specular hotspots, and the clean self-lit app screen that stays bright and fully legible with no glare. The phone sits squarely centred and parallel to the frame edges as if filmed straight down on a tripod arm; the hand reaching in from the lower-right is a real human hand with natural skin, the index fingertip softly motion-blurred only where it taps. Keep the bundle list readable with its small icons and 서류 N종 quantity labels, the green house icon on the jeonse row distinct, and the colour discipline strict: warm muted leather field against the neutral bright screen with a single Toss-style blue accent doing the highlighting, never an oversaturated UI. Avoid any tilt, any second device, any desk clutter, any HDR glow, and any logo glyph on the phone. The mood is calm and instructional, the moment the viewer is shown that ready-made document bundles exist and that one is being selected for a lease loan. The lower-third caption pill is a flat translucent-grey rounded rectangle with crisp white Korean type, above the home indicator, unaffected by the screen glow. Style anchor: contemporary Korean short-form app-tutorial realism, clean overhead capture; any logo marks are kept generic while described UI label text is preserved as on-screen text.",
+        "t2i_negative": "brand logo glyph, desk clutter, dramatic side light, tilted angle, whole-frame blur, HDR, screen glare",
+        "i2v_motion": "the finger taps the '전세자금대출 서류 3종' row; the bundle list highlights and begins to transition to the detail page; phone stays locked flat overhead; caption pill holds '이렇게 '전세자금대출용 서류'를 / 선택하면'; hard cut at ~3.2s",
+        "i2v_params": {
+          "clip_duration_sec": 3.24,
+          "camera_move": "locked_off_overhead",
+          "subject_motion_level": "finger_tap",
+          "signature_effect": "screen_self_glow",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen UI and captions preserved verbatim; identity/logo generic"
+      }
+    },
+    {
+      "index": 9,
+      "duration": 2.43,
+      "framing": "screen_recording_fullbleed",
+      "function": "product_ui_bundle_detail",
+      "subject_action": "full-bleed phone screen of the 전세자금대출에 필요한 서류 한 번에 발급하기 detail page listing 1 주민등록등본, 2 건강보험자격득실확인서, 3 소득금액증명 with a blue 신청하기 button; caption '세 가지 서류를 / 한 번에 받을 수 있는데요'",
+      "layout_grid": "fullbleed_screen",
+      "subject_position": "fill",
+      "typo_motion": "caption_pill_hold",
+      "camera_angle": "screen_capture",
+      "camera_facing": "screen",
+      "shot_scope": "fullscreen_ui",
+      "gaze": "none",
+      "props": [
+        "toss_bundle_detail_ui",
+        "blue_apply_button"
+      ],
+      "color_palette": [
+        "#FFFFFF",
+        "#1B1B1F",
+        "#56B0E8",
+        "#8AA0B8",
+        "#EAF4FB"
+      ],
+      "color_intent": "clean_white_ui_blue_cta",
+      "pose_description": "no person; static detail page with three listed documents and a blue primary button",
+      "subject_motion": "static_then_subtle_load",
+      "camera_motion": "screen_capture_static",
+      "camera_effect_local": "screen_glow",
+      "intra_cut_rhythm": "hold_beat",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "mid_frame_path": "ADV-2026-021_frames/cut09_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "three_document_list_items",
+          "blue_신청하기_button"
+        ],
+        "midground": [
+          "page_title_전세자금대출"
+        ],
+        "background": [
+          "white_app_canvas"
+        ],
+        "lighting_env": [
+          "screen_self_lit"
+        ],
+        "atmosphere": [
+          "clean_summary_screen"
+        ]
+      },
+      "texture": {
+        "primary_subject": "flat_ui_surface",
+        "secondary_objects": [
+          "rounded_button",
+          "numbered_list"
+        ],
+        "background_surface": "white_app_canvas",
+        "atmospheric": [
+          "screen_glow"
+        ]
+      },
+      "lighting": {
+        "key_direction": "screen_self_emit",
+        "key_hardness": "flat",
+        "key_color_temp": "neutral_6500K",
+        "fill_strength": "high",
+        "key_to_fill_ratio": "1:1",
+        "rim_light": "none",
+        "practical_lights": [
+          "phone_screen"
+        ],
+        "shadow_presence": "none",
+        "overall_contrast": "medium_high_screen"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#FFFFFF",
+          "#1B1B1F",
+          "#56B0E8",
+          "#8AA0B8",
+          "#EAF4FB"
+        ],
+        "palette_role": {
+          "#FFFFFF": "app_canvas_dominant",
+          "#1B1B1F": "title_text_dark",
+          "#56B0E8": "primary_button_blue_cta",
+          "#8AA0B8": "list_text_grey",
+          "#EAF4FB": "light_blue_tint"
+        },
+        "color_relationship": "white_with_light_blue_cta",
+        "temperature_balance": "neutral_cool",
+        "saturation_strategy": "low_clean_ui",
+        "contrast_type": "medium_high_screen",
+        "accent_color": "#56B0E8",
+        "accent_ratio": 0.14
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A full-bleed vertical 9:16 smartphone screen-recording frame of a bundle-detail summary page inside a fintech app, the UI filling the frame with a clean white design. At top a status bar reads 12:06 with 5G and a back chevron. A two-line bold dark Korean title reads '전세자금대출에 필요한 서류' over '한 번에 발급하기' (issue at once the documents needed for a jeonse lease loan). Below is a simple numbered list with pale index numerals and grey Korean labels: '1  주민등록등본' (resident registration copy), '2  건강보험자격득실확인서' (health insurance qualification confirmation), '3  소득금액증명' (income amount certificate), generously spaced on white. At the bottom of the screen is a wide rounded primary button filled light blue reading '신청하기' (apply) in white. There is no person and no hand in this start frame; the surface is the screen itself. Foreground: the three list items and the blue button; midground: the page title; background: the flat white app canvas. Lighting: self-illuminated by the phone screen at a neutral cool 6500K, flat and even, no external shadow, high legibility. Lens, framing and angle: a direct screen capture filling the frame, no lens perspective, perfectly upright, text crisp. Composition: a clean minimal summary with a clear single primary action at the bottom, generous white space. Color palette and strategy: white canvas dominant (#FFFFFF), dark title text (#1B1B1F), a light-blue primary CTA (#56B0E8), grey list text (#8AA0B8) and a faint blue tint (#EAF4FB); saturation low and clean, the blue CTA the single accent. Surfaces and texture: flat UI surfaces, a rounded filled button, a numbered list, subtle screen glow. Atmosphere: a reassuring confirmation that exactly three documents will be issued together. Post and signature look: neutral clean screen grade, no grain, no vignette, no HDR. This beat carries a lower-third white rounded caption pill reading the two Korean lines '세 가지 서류를' over '한 번에 받을 수 있는데요' in clean rounded sans-serif; render it crisply in the lower third. Additional production context for fidelity: this is a pure full-bleed UI capture filling the frame edge to edge with no photographic surface, perfectly upright, no device bezel, no leather, no perspective and no lens artifacts; the image is self-illuminated and flat with high legibility. The page should feel calm and confidence-building - a generous white canvas, a bold two-line dark Korean title, three plainly spaced numbered documents with pale index numerals and neutral grey labels, and a single wide rounded light-blue primary button anchored at the bottom inviting the one clear next action. The visual point of this beat is reduction: out of the dozens of certificates shown scrolling earlier, exactly three are now confirmed as the lease-loan set, and the layout must communicate that simplicity with lots of breathing room rather than density. Keep the colour discipline strict: white dominant, the light-blue CTA as the single accent, dark title text, grey body text, nothing oversaturated. No grain, no vignette, no HDR, no drop shadows beyond the UI's own subtle ones, and no logo glyph in the status bar or chrome. The lower-third caption pill is a flat translucent-grey rounded rectangle with crisp white Korean type, overlaid on the UI and unaffected by its glow. The mood is reassuring and tidy, the satisfying summary screen just before the user commits to issuing all three documents at once. Render the numerals, the Korean document names and the button label crisply and legibly so each element of the bundle is clearly readable. Style anchor: contemporary Korean app-tutorial screen capture; any logo marks are kept generic while described UI label text is preserved as on-screen text.",
+        "t2i_negative": "brand logo glyph, photographic lighting, perspective tilt, device bezel in frame, grain, vignette, HDR, blurred UI text",
+        "i2v_motion": "the summary page holds steady with only a subtle settle; the blue 신청하기 button sits ready; caption pill holds '세 가지 서류를 / 한 번에 받을 수 있는데요'; hard cut at ~2.4s",
+        "i2v_params": {
+          "clip_duration_sec": 2.43,
+          "camera_move": "screen_capture_static",
+          "subject_motion_level": "minimal",
+          "signature_effect": "screen_glow",
+          "pacing": "hold",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen UI and captions preserved verbatim; identity/logo generic"
+      }
+    },
+    {
+      "index": 10,
+      "duration": 15.25,
+      "framing": "screen_recording_top_down",
+      "function": "product_ui_walkthrough_apply_input_issue",
+      "subject_action": "long continuous top-down screen recording on tan leather walking through 신청하기, then per-document info entry (주민등록상 주소 dropdown, 발급 이유 대출, 기간 설정 2012~2022, display checkboxes), the 동의하고 발급하기 consent sheet, the 증명서를 발급받고 있어요 progress screen, and the 3개 증명서를 발급받았어요 result with a blue 3개 증명서 한 번에 내보내기 button; captions cycle '신청하기를 누르고' / '증명서 발급에 필요한 정보를' / '하나씩 입력해주세요' / '이제 발급하기를 누르면' / '한 번에 이루어집니다' / '발급이 끝나면 / 각 증명서 내역을'",
+      "layout_grid": "centered_phone_vertical",
+      "subject_position": "center",
+      "typo_motion": "caption_pill_multi_swap",
+      "camera_angle": "top_down_overhead",
+      "camera_facing": "screen_up",
+      "shot_scope": "phone_in_frame_with_hand",
+      "gaze": "none",
+      "props": [
+        "iphone_on_tan_leather",
+        "finger_tapping_scrolling",
+        "toss_issuance_flow_ui",
+        "consent_bottom_sheet",
+        "progress_screen"
+      ],
+      "color_palette": [
+        "#9B6A45",
+        "#F4F5F7",
+        "#1B1B1F",
+        "#3B82F6",
+        "#56B0E8"
+      ],
+      "color_intent": "neutral_bright_screen_on_warm_tan",
+      "pose_description": "a hand repeatedly enters from below to tap dropdowns, scroll option lists, toggle checkboxes and press blue buttons on the centered phone",
+      "subject_motion": "finger_taps_scrolls_toggles",
+      "camera_motion": "locked_off_overhead",
+      "camera_effect_local": "screen_self_glow",
+      "intra_cut_rhythm": "steady_multi_step",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "mid_frame_path": "ADV-2026-021_frames/cut10_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "iphone_with_issuance_ui",
+          "interacting_hand"
+        ],
+        "midground": [
+          "tan_leather_surface"
+        ],
+        "background": [
+          "tan_leather_surface_edges"
+        ],
+        "lighting_env": [
+          "soft_even_overhead",
+          "screen_self_lit"
+        ],
+        "atmosphere": [
+          "clean_product_demo",
+          "multi_step_flow"
+        ]
+      },
+      "texture": {
+        "primary_subject": "glass_touchscreen",
+        "secondary_objects": [
+          "matte_phone_bezel",
+          "human_finger"
+        ],
+        "background_surface": "tan_grain_leather",
+        "atmospheric": [
+          "soft_screen_glow"
+        ]
+      },
+      "lighting": {
+        "key_direction": "overhead_even",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_5000K",
+        "fill_strength": "high",
+        "key_to_fill_ratio": "1.5:1",
+        "rim_light": "none",
+        "practical_lights": [
+          "phone_screen",
+          "soft_room_light"
+        ],
+        "shadow_presence": "soft_under_phone",
+        "overall_contrast": "medium"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#9B6A45",
+          "#F4F5F7",
+          "#1B1B1F",
+          "#3B82F6",
+          "#56B0E8"
+        ],
+        "palette_role": {
+          "#9B6A45": "tan_leather_dominant_bg",
+          "#F4F5F7": "app_screen_light_bg",
+          "#1B1B1F": "ui_text_dark",
+          "#3B82F6": "checkbox_and_accent_blue",
+          "#56B0E8": "primary_button_blue_cta"
+        },
+        "color_relationship": "warm_tan_field_with_cool_blue_screen_accents",
+        "temperature_balance": "warm_surface_neutral_screen",
+        "saturation_strategy": "muted_surface_clean_ui",
+        "contrast_type": "medium",
+        "accent_color": "#3B82F6",
+        "accent_ratio": 0.12
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A clean top-down overhead screen-recording-style frame of a dark-bezel smartphone lying flat and centered on a warm tan leather surface, shot vertically 9:16 with the device in the central third and tan leather around it. This long continuous beat shows a multi-step certificate-issuance flow; for the start frame, depict the income-certificate input screen: a status bar reading 12:07 with 5G and a back chevron; a bold dark Korean title '소득금액증명 발급' (issue income amount certificate); a selected '발급 이유' (reason) field reading '대출' (loan); a '기간 설정' (period) field reading '2012년 ~ 2022년'; and a list of toggle rows each with a blue circular check at right: '주민등록번호 표시' (show resident registration number), '주소 표시' (show address), '소득 발생 표시' (show income occurrence), and '일용근로소득원천징수의무자 표시' (show daily-wage income withholding agent); at the bottom a wide rounded light-blue '신청하기' (apply) button. A right hand enters from the lower area of the frame, index finger extended and slightly motion-blurred, interacting with a row. Material/wardrobe is just the bare hand and the matte dark phone with polished glass. Location and background: a warm tan leather desk surface, evenly lit, nothing else in frame. Foreground: the phone and the interacting hand; midground and background: tan leather. Lighting: soft even overhead room light at roughly neutral 5000K with high fill so leather and screen are both legible, plus screen self-emission and a soft contact shadow under the device. Lens, framing and angle: 35mm-to-50mm-equivalent viewed straight down from directly above, locked-off, screen text crisp. Composition: phone centered in the vertical frame, warm negative space, overhead product-demo aesthetic. Color palette and strategy: tan leather dominant (#9B6A45) with the bright app screen (#F4F5F7), dark UI text (#1B1B1F), blue checkmarks and accents (#3B82F6) and a light-blue primary CTA (#56B0E8); saturation muted on the surface, clean on the UI, blue the single cool accent. Surfaces and texture: polished touchscreen glass, matte phone bezel, real finger, fine tan leather grain, soft screen glow. Atmosphere: a calm methodical multi-step product walkthrough of filling in details and issuing several certificates at once. Post and signature look: neutral clean grade on the screen, gentle warmth on the leather, minimal grain, no vignette, no HDR. Because this is a long continuous shot, the screen passes through additional states - a '주민등록상 주소' address dropdown listing 서울특별시 / 부산광역시 / 대구광역시 / 인천광역시, a '발급 이유' reason dropdown (기타 / 대출 / 수금 / 신용카드 발급 / 여권 또는 비자신청 / 입찰, 계약), a '발급하려면 동의가 필요해요' consent bottom-sheet with '[필수] 개인정보 제3자 제공 동의 (전자증명서 발급)' and a blue '동의하고 발급하기' button, a '증명서를 발급받고 있어요' progress screen listing 주민등록등본 / 건강보험자격득실확인서 / 소득금액증명, and finally a '3개 증명서를 발급받았어요' result with all three checked and a blue '3개 증명서 한 번에 내보내기' button - all preserved verbatim where shown. This beat carries successive lower-third white rounded caption pills reading the Korean lines '신청하기를 누르고', '증명서 발급에 필요한 정보를', '하나씩 입력해주세요', '이제 발급하기를 누르면', '한 번에 이루어집니다', and '발급이 끝나면 / 각 증명서 내역을' in clean rounded sans-serif; render the start frame with the caption pill '하나씩 입력해주세요' crisply in the lower third. Preserve all on-screen Korean UI text verbatim. Style anchor: contemporary Korean short-form app-tutorial realism, clean overhead capture; any logo marks are kept generic while described UI label text is preserved as on-screen text.",
+        "t2i_negative": "brand logo glyph, desk clutter, dramatic side light, tilted angle, whole-frame blur, HDR, screen glare, unreadable text",
+        "i2v_motion": "over ~15s the finger taps dropdowns and scrolls option lists, toggles the blue checkboxes, presses 신청하기 then 동의하고 발급하기; a progress screen fills in then resolves to a '3개 증명서를 발급받았어요' result with a blue 내보내기 button; phone stays locked flat overhead; caption pills swap through '신청하기를 누르고' to '발급이 끝나면 / 각 증명서 내역을'; hard cut at the end of the beat",
+        "i2v_params": {
+          "clip_duration_sec": 15.25,
+          "camera_move": "locked_off_overhead",
+          "subject_motion_level": "taps_scrolls_toggles",
+          "signature_effect": "screen_self_glow",
+          "pacing": "steady_multi_step",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; long continuous screen recording; on-screen UI and captions preserved verbatim; identity/logo generic"
+      }
+    },
+    {
+      "index": 11,
+      "duration": 7.14,
+      "framing": "screen_recording_top_down",
+      "function": "product_ui_view_and_export_pdf",
+      "subject_action": "top-down screen recording continuing on tan leather: an in-app document viewer opens (white load, then the 주민등록등본 government document with stamp and page nav 1/2), the 어떤 증명서를 내보낼까요? sheet appears (은행·기관 제출용 / 열람용), and an iOS mail compose 새로운 메시지 shows a PDF attachment 주민등록등본_김창선_...51.pdf 182KB; captions '직접 확인할 수 있고' / '열람을 위한 PDF 파일로' / '저장할 수도 있어요'",
+      "layout_grid": "centered_phone_vertical",
+      "subject_position": "center",
+      "typo_motion": "caption_pill_swap",
+      "camera_angle": "top_down_overhead",
+      "camera_facing": "screen_up",
+      "shot_scope": "phone_in_frame_with_hand",
+      "gaze": "none",
+      "props": [
+        "iphone_on_tan_leather",
+        "in_app_document_viewer",
+        "government_certificate_image",
+        "export_bottom_sheet",
+        "ios_mail_compose_pdf"
+      ],
+      "color_palette": [
+        "#9B6A45",
+        "#F4F5F7",
+        "#1B1B1F",
+        "#56B0E8",
+        "#C0392B"
+      ],
+      "color_intent": "neutral_bright_screen_on_warm_tan",
+      "pose_description": "a hand enters from below to page the document, tap export options and reveal the share sheet on the centered phone",
+      "subject_motion": "finger_tap_page_and_share",
+      "camera_motion": "locked_off_overhead",
+      "camera_effect_local": "screen_self_glow",
+      "intra_cut_rhythm": "steady_demo",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "mid_frame_path": "ADV-2026-021_frames/cut11_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "iphone_with_document_viewer",
+          "interacting_hand"
+        ],
+        "midground": [
+          "tan_leather_surface"
+        ],
+        "background": [
+          "tan_leather_surface_edges"
+        ],
+        "lighting_env": [
+          "soft_even_overhead",
+          "screen_self_lit"
+        ],
+        "atmosphere": [
+          "clean_product_demo",
+          "document_export"
+        ]
+      },
+      "texture": {
+        "primary_subject": "glass_touchscreen",
+        "secondary_objects": [
+          "matte_phone_bezel",
+          "human_finger",
+          "document_paper_render"
+        ],
+        "background_surface": "tan_grain_leather",
+        "atmospheric": [
+          "soft_screen_glow"
+        ]
+      },
+      "lighting": {
+        "key_direction": "overhead_even",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_5000K",
+        "fill_strength": "high",
+        "key_to_fill_ratio": "1.5:1",
+        "rim_light": "none",
+        "practical_lights": [
+          "phone_screen",
+          "soft_room_light"
+        ],
+        "shadow_presence": "soft_under_phone",
+        "overall_contrast": "medium"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#9B6A45",
+          "#F4F5F7",
+          "#1B1B1F",
+          "#56B0E8",
+          "#C0392B"
+        ],
+        "palette_role": {
+          "#9B6A45": "tan_leather_dominant_bg",
+          "#F4F5F7": "app_screen_light_bg",
+          "#1B1B1F": "ui_text_dark",
+          "#56B0E8": "primary_button_blue_cta",
+          "#C0392B": "document_official_stamp_red"
+        },
+        "color_relationship": "warm_tan_field_with_blue_cta_and_red_stamp",
+        "temperature_balance": "warm_surface_neutral_screen",
+        "saturation_strategy": "muted_surface_clean_ui_with_red_stamp",
+        "contrast_type": "medium",
+        "accent_color": "#56B0E8",
+        "accent_ratio": 0.12
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A clean top-down overhead screen-recording-style frame of a dark-bezel smartphone lying flat and centered on a warm tan leather surface, shot vertically 9:16 with the device in the central third and tan leather around it. For the start frame, depict the in-app document viewer: a top bar with an X close button left, a centered Korean title '주민등록등본' (resident registration copy) and a '...' menu right; a rendered official Korean government document fills most of the screen, a pale blue-and-white form headed '주민등록표 (등본)' with a circular government emblem top-left, tabular rows of personal-record fields, and a red square official seal lower-right; a dark page-navigation bar near the bottom shows '< 1 / 2 >'; and at the very bottom a wide rounded light-blue button reads '증명서 파일 내보내기' (export certificate file) in white. A right hand enters from the lower area, index finger extended and slightly motion-blurred, reaching toward the export button. Material/wardrobe is just the bare hand and the matte dark phone with polished glass. Location and background: a warm tan leather desk surface, evenly lit, nothing else in frame. Foreground: the phone and the interacting hand; midground and background: tan leather. Lighting: soft even overhead room light at roughly neutral 5000K with high fill so leather and screen are both legible, plus screen self-emission and a soft contact shadow under the device. Lens, framing and angle: 35mm-to-50mm-equivalent viewed straight down from directly above, locked-off, screen text crisp. Composition: phone centered in the vertical frame, warm negative space, overhead product-demo aesthetic. Color palette and strategy: tan leather dominant (#9B6A45) with the bright app screen (#F4F5F7), dark UI text (#1B1B1F), a light-blue primary CTA (#56B0E8) and an official red document seal (#C0392B); saturation muted on the surface, clean on the UI, blue the main accent with a red stamp pop. Surfaces and texture: polished touchscreen glass, matte phone bezel, real finger, a flat rendered document with fine print and a stamp, fine tan leather grain, soft screen glow. Atmosphere: a reassuring close to the flow - viewing the issued certificate and preparing to export it. Post and signature look: neutral clean grade on the screen, gentle warmth on the leather, minimal grain, no vignette, no HDR. Because this is a continuous shot, the screen also passes through a '어떤 증명서를 내보낼까요?' (which certificate to export) bottom-sheet offering '은행·기관 제출용' (for bank/institution submission) and '열람용' (for viewing), and an iOS mail compose '새로운 메시지' (new message) screen with a '받는 사람' (to) field and a PDF attachment chip labeled '주민등록등본_김창선_...51.pdf' marked 'PDF 문서 · 182KB' - preserve such text verbatim where shown, but treat any personal name as a generic placeholder. This beat carries successive lower-third white rounded caption pills reading the Korean lines '직접 확인할 수 있고', '열람을 위한 PDF 파일로', and '저장할 수도 있어요' in clean rounded sans-serif; render the start frame with the caption pill '직접 확인할 수 있고' crisply in the lower third. Preserve all on-screen Korean UI text verbatim. Style anchor: contemporary Korean short-form app-tutorial realism, clean overhead capture; any logo marks are kept generic while described UI label text is preserved as on-screen text.",
+        "t2i_negative": "brand logo glyph, real personal data, desk clutter, dramatic side light, tilted angle, whole-frame blur, HDR, screen glare",
+        "i2v_motion": "the finger pages the document 1/2 then taps export; a '어떤 증명서를 내보낼까요?' sheet rises offering 은행·기관 제출용 / 열람용; an iOS mail compose appears with a PDF attachment chip; phone stays locked flat overhead; caption pills swap '직접 확인할 수 있고' to '열람을 위한 PDF 파일로' to '저장할 수도 있어요'; hard cut to the endcard at the beat's end",
+        "i2v_params": {
+          "clip_duration_sec": 7.14,
+          "camera_move": "locked_off_overhead",
+          "subject_motion_level": "tap_page_and_share",
+          "signature_effect": "screen_self_glow",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen UI and captions preserved verbatim; personal name treated as generic placeholder; identity/logo generic"
+      }
+    },
+    {
+      "index": 12,
+      "duration": 2.17,
+      "framing": "endcard_graphic",
+      "function": "brand_signoff_endcard",
+      "subject_action": "hard cut to a brand endcard: on a bright off-white paper-textured background, a hand-drawn sticker-style label animates in and settles center, reading 'Curator T' in blue brush-script with the subtitle '토스를 발견하다' and an underline",
+      "layout_grid": "centered_sticker",
+      "subject_position": "center",
+      "typo_motion": "brand_sticker_peel_settle",
+      "camera_angle": "flat_graphic",
+      "camera_facing": "graphic",
+      "shot_scope": "graphic_endcard",
+      "gaze": "none",
+      "props": [
+        "paper_sticker_label",
+        "brush_script_wordmark"
+      ],
+      "color_palette": [
+        "#F4F4F2",
+        "#2C4FE0",
+        "#1B1B1F",
+        "#E8E8E6",
+        "#C9D2F5"
+      ],
+      "color_intent": "clean_white_with_blue_handdrawn_brand",
+      "pose_description": "no person; a paper sticker label with blue hand-drawn lettering settles flat at center of a white paper field",
+      "subject_motion": "sticker_settle_hold",
+      "camera_motion": "static",
+      "camera_effect_local": "paper_peel_animation",
+      "intra_cut_rhythm": "settle_hold",
+      "transition_in": "cut",
+      "transition_out": "end",
+      "mid_frame_path": "ADV-2026-021_frames/cut12_mid.png",
+      "visible_elements": {
+        "foreground": [
+          "curator_t_paper_sticker"
+        ],
+        "midground": [],
+        "background": [
+          "off_white_paper_texture"
+        ],
+        "lighting_env": [
+          "flat_bright_even"
+        ],
+        "atmosphere": [
+          "clean_brand_signoff"
+        ]
+      },
+      "texture": {
+        "primary_subject": "matte_paper_sticker",
+        "secondary_objects": [
+          "brush_ink_lettering"
+        ],
+        "background_surface": "off_white_paper_grain",
+        "atmospheric": [
+          "subtle_paper_fiber"
+        ]
+      },
+      "lighting": {
+        "key_direction": "flat_frontal",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "high",
+        "key_to_fill_ratio": "1:1",
+        "rim_light": "none",
+        "practical_lights": [
+          "even_diffuse"
+        ],
+        "shadow_presence": "faint_sticker_edge",
+        "overall_contrast": "low_clean"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#F4F4F2",
+          "#2C4FE0",
+          "#1B1B1F",
+          "#E8E8E6",
+          "#C9D2F5"
+        ],
+        "palette_role": {
+          "#F4F4F2": "paper_background_dominant",
+          "#2C4FE0": "brand_blue_lettering_accent",
+          "#1B1B1F": "subtitle_dark_text",
+          "#E8E8E6": "sticker_paper_grey",
+          "#C9D2F5": "light_blue_tint"
+        },
+        "color_relationship": "white_paper_with_single_blue_accent",
+        "temperature_balance": "neutral",
+        "saturation_strategy": "minimal_with_saturated_blue_mark",
+        "contrast_type": "low_clean",
+        "accent_color": "#2C4FE0",
+        "accent_ratio": 0.2
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A clean brand endcard frame, vertical 9:16, on a bright off-white paper-textured background with subtle visible paper fiber and very even soft frontal lighting. Centered slightly below the middle is a small rectangular sticker-style paper label, its corner faintly peeling as if just pressed down, carrying hand-drawn blue brush-script lettering reading 'Curator T' with a thin blue underline beneath it and, under the underline, a smaller dark Korean subtitle '토스를 발견하다' (discover Toss). The lettering has the slightly rough, sketched quality of a marker or brush on paper. There is no person and no device in the frame; the entire image is a flat graphic composition. Foreground: the Curator T paper sticker; midground: empty; background: the off-white paper field. Lighting: flat, bright, even and diffuse at a neutral 5500K, with only a faint soft shadow at the peeling sticker edge to give it dimension; low clean contrast. Lens, framing and angle: a flat straight-on graphic view, no perspective, the sticker centered with generous white space above and below. Composition: minimal and centered, a single small branded sticker as the hero on a large clean paper field, restful after a busy tutorial. Color palette and strategy: off-white paper dominant (#F4F4F2) with a single saturated brand-blue accent (#2C4FE0) in the lettering, a dark subtitle (#1B1B1F), a light grey sticker paper (#E8E8E6) and a faint blue tint (#C9D2F5); minimal saturation overall with the blue mark as the sole accent. Surfaces and texture: matte paper sticker, brush-ink lettering, off-white paper grain, subtle fibers. Atmosphere: a calm clean brand sign-off. Post and signature look: clean neutral grade, a hint of paper grain, no vignette, no HDR, no photographic depth of field. Preserve the exact lettering 'Curator T' and the Korean subtitle '토스를 발견하다' verbatim and crisp. Additional production context for fidelity: this endcard is deliberately the visual opposite of the busy screen-recording that precedes it - where those frames were dense, bright UI on warm leather, this is almost empty, a large quiet paper field with a single small hand-made mark at its centre, giving the eye a place to rest as the video resolves. The paper background should have a genuine off-white stationery feel with faint visible fibres and the slightly uneven warmth of real cardstock under soft even light, never a flat digital gradient or a pure clinical white. The sticker itself reads as a physical peel-and-stick label: a subtly rougher rectangular patch with a faint die-cut edge and one corner lifting just enough to throw a hairline soft shadow, the lettering applied in a confident but human blue brush or marker stroke that varies slightly in weight, with the thin underline drawn by the same hand and the small Korean subtitle set neatly beneath it. Keep the colour discipline minimal and intentional: the off-white paper dominates, a single saturated brand-blue carries the lettering and underline, the subtitle sits in near-black, and only a whisper of light-blue tint appears anywhere else; there should be no competing colours, no photographic depth of field, no glossy reflections, no three-dimensional bevel and no drop-shadow drama. The overall impression is craft, calm and trust - a tidy hand-stamped sign-off that leaves the brand name and its tagline as the last clean thing the viewer sees, the friendly button on the end of a helpful how-to. Center the sticker slightly below the midline with generous paper above and below, and render every glyph sharp. Style anchor: contemporary Korean short-form brand-endcard design, hand-crafted paper-sticker aesthetic; the wordmark here is the intended in-scene brand text rendered as hand-drawn lettering, while any other logo marks or symbols are kept generic.",
+        "t2i_negative": "extra logos, photographic background, device in frame, heavy shadow, gradient background, HDR, 3D bevel, glossy reflections",
+        "i2v_motion": "the Curator T paper sticker animates in with a quick peel-and-settle, the corner lifting then pressing flat; it holds centered to the end; subtle paper texture only; the clip ends at ~2.2s (end of video)",
+        "i2v_params": {
+          "clip_duration_sec": 2.17,
+          "camera_move": "static",
+          "subject_motion_level": "sticker_settle",
+          "signature_effect": "paper_peel_animation",
+          "pacing": "settle_hold",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; brand wordmark and subtitle preserved verbatim as hand-drawn lettering; other logo marks generic"
+      }
+    }
+  ]
+}

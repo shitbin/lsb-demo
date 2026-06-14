@@ -1,0 +1,2555 @@
+{
+  "id": "ADV-2026-037",
+  "source_ref": {
+    "platform": "digital_video",
+    "title_or_campaign": "토스 페이스페이 (Toss Face Pay) — THE POWER OF FACE 티저",
+    "brand": "토스",
+    "product": "페이스페이",
+    "model": null,
+    "year": 2025,
+    "production_note": "토스(비바리퍼블리카) 페이스페이(FacePay) 얼굴 인식 결제 서비스 런칭 티저 광고 #5. 'ORIGINAL FILM BY TOSS' 시그니처. 화면 말미에 공개 일시 '2025. 10. 14. 6 PM' 고지(=2025년 캠페인). 사전적 정의 나레이션은 음성 VO + 동기화된 화면 자막으로 동시 제시.",
+    "url": null
+  },
+  "category_primary": "finance.fintech",
+  "category_tags": [
+    "핀테크",
+    "얼굴인식결제",
+    "biometric_payment",
+    "티저",
+    "런칭예고"
+  ],
+  "mood": [
+    "cinematic",
+    "contemplative",
+    "premium",
+    "mysterious",
+    "elevated"
+  ],
+  "target_demo": "20~30대 토스 사용자 및 핀테크 얼리어답터, 신규 결제수단 런칭에 반응하는 MZ 액티브 소비자",
+  "total_duration": 46.115,
+  "shot_count": 16,
+  "shot_count_corrected": 17,
+  "fps": 23.976,
+  "aspect_ratio": "16:9",
+  "hook_position": 0.0,
+  "cta_position": 41.333,
+  "narrative_arc": "검정 화면 'ORIGINAL FILM BY TOSS' 시그니처로 시작(인식) → 노인의 눈 익스트림 클로즈업이 디졸브로 떠오르고 화가의 아틀리에로 넘어가며 사전의 '얼굴' 정의 1을 낭독(눈·코·입이 있는 머리의 앞면) → 학자의 책상·미술관장 서재·치과/법의학 진료실·임원 집무실·영화 스튜디오 빈 의자로 정의가 확장(생김새 → 평판·명예 → 체면 → 심리상태가 나타난 형색 → 어떤 분야에 활동하는 사람) → 유인원 피규어·추상 인물·CT 두개골·인물 클로즈업의 가속 몽타주로 '진면목을 단적으로 보여주는 대표적 표상' 정의를 시각화(공감·고조) → 암전 후 한 여성의 얼굴이 어둠에서 빛으로 떠오르며 '사람을 비유적으로 이르는 말'로 정의가 귀결(전환) → 거대 타이포 'THE POWER OF FACE' 선언(메시지) → '2025. 10. 14. 6 PM' 공개 일시 → 토스 로고 마무리(신뢰·예고)",
+  "narrative_structure": "cross_cutting_montage",
+  "pacing_curve": "slow_build",
+  "music_tempo_curve": "ramp_up",
+  "wow_cut_index": [
+    15,
+    16
+  ],
+  "creative_device": "dictionary_definition_film + dark_to_light_face_reveal (단어 '얼굴'의 국어사전 다의(多義) 정의를 시네마틱 보케 비네트들로 차례로 시각화하고, 마지막에 '사람=얼굴'로 귀결시켜 얼굴 자체가 결제수단이 되는 제품을 'THE POWER OF FACE'로 예고)",
+  "production_signature": {
+    "capture_style": "live_action",
+    "camera_signature": [
+      "locked_off",
+      "slow_push_in"
+    ],
+    "signature_note": "전 컷 시네마틱 실사 촬영. 정적 컷은 삼각대 락오프 + 매우 느린 푸시인(예: 학자 책상·임원 집무실·영화 스튜디오). 몽타주 구간(컷9~14)은 얕은 심도 핸드헬드 매크로로 미세 드리프트. metrics wiggle mean_abs_shift_x=5.659는 몽타주의 얕은심도 피사체/카메라 움직임에 기인하며 sign_flips_ratio=0.112로 낮아 렌티큘러 wiggle_3d 효과는 아님(전역 wiggle 부재). 타이틀/일시/로고 컷은 검정 위 평면 타이포.",
+    "color_grade": "cinematic_teal_warm_filmic",
+    "texture_fx": "film_grain"
+  },
+  "global_layout": {
+    "grid_system": "center",
+    "subject_placement_dominant": "center",
+    "subject_typo_relation": "typo_separate_zone",
+    "negative_space_use": "generous",
+    "layout_note": "자막은 전 컷 하단 중앙(lower-center) 고정으로 사전 정의 낭독을 표시. 실사 비네트 컷은 환경/오브제를 중앙~황금분할로 배치하고 인물·사물은 얕은 심도로 분리. 시작·중간·끝의 타이포 카드는 검정 배경 중앙 정렬(시작 'ORIGINAL FILM BY TOSS', 중간 거대 'FACE', 끝 일시·로고)로 구조적 북엔드를 형성. 실사 컷 다수는 시네마스코프 느낌의 상하 레터박스를 동반.",
+    "layout_note_extra": "letterboxed_cinematic_on_liveaction"
+  },
+  "recurring_motifs": [
+    "얼굴/머리를 다룬 오브제(초상 데생, 두개골 모형, CT 두개골, 유인원 피규어)",
+    "하단 중앙 사전 정의 자막",
+    "검정 배경 타이포 카드(ORIGINAL FILM BY TOSS / FACE)",
+    "비어 있는 자리(빈 의자·빈 책상)로 '부재의 인물' 암시",
+    "어둠에서 빛으로의 인물 리빌"
+  ],
+  "copywriting": {
+    "tagline_text": "THE POWER OF FACE",
+    "tagline_structure": "영문 선언 슬로건",
+    "tagline_length_syllables": 0,
+    "tagline_position_sec": 38.956,
+    "cta_text": "2025. 10. 14. 6 PM",
+    "cta_text_structure": "공개 일시 고지",
+    "cta_position_sec": 41.333,
+    "copy_tone": [
+      "사전적",
+      "정제",
+      "시네마틱",
+      "선언적"
+    ],
+    "copy_strategy": "dictionary_definition_buildup_to_redefinition",
+    "copy_lines_count": 11,
+    "lines": [
+      {
+        "position_sec": 0.0,
+        "text": "ORIGINAL FILM BY TOSS",
+        "function": "brand_signature_title",
+        "tone": "neutral",
+        "source": "caption"
+      },
+      {
+        "position_sec": 2.45,
+        "text": "얼굴",
+        "function": "concept_keyword",
+        "tone": "neutral",
+        "source": "voice"
+      },
+      {
+        "position_sec": 5.17,
+        "text": "눈, 코, 입이 있는 머리의 앞면",
+        "function": "definition_1_literal",
+        "tone": "informational",
+        "source": "both"
+      },
+      {
+        "position_sec": 8.85,
+        "text": "머리 앞면의 전체적 윤곽이나 생김새",
+        "function": "definition_2_appearance",
+        "tone": "informational",
+        "source": "both"
+      },
+      {
+        "position_sec": 13.6,
+        "text": "주위에 잘 알려져서 얻은 평판이나 명예",
+        "function": "definition_3_reputation",
+        "tone": "informational",
+        "source": "both"
+      },
+      {
+        "position_sec": 18.65,
+        "text": "또는 체면",
+        "function": "definition_3b_dignity",
+        "tone": "informational",
+        "source": "both"
+      },
+      {
+        "position_sec": 20.5,
+        "text": "어떤 심리 상태가 나타난 형색",
+        "function": "definition_4_countenance",
+        "tone": "informational",
+        "source": "both"
+      },
+      {
+        "position_sec": 25.0,
+        "text": "어떤 분야에 활동하는 사람",
+        "function": "definition_5_representative_person",
+        "tone": "informational",
+        "source": "both"
+      },
+      {
+        "position_sec": 27.11,
+        "text": "어떤 사물의 진면목을 단적으로 보여주는 대표적 표상",
+        "function": "definition_6_emblem",
+        "tone": "informational",
+        "source": "both"
+      },
+      {
+        "position_sec": 35.5,
+        "text": "'사람'을 비유적으로 이르는 말",
+        "function": "definition_7_person_metaphor_punchline",
+        "tone": "confident",
+        "source": "both"
+      },
+      {
+        "position_sec": 38.956,
+        "text": "THE POWER OF FACE",
+        "function": "campaign_slogan",
+        "tone": "declarative",
+        "source": "caption"
+      }
+    ],
+    "captions": [
+      {
+        "position_sec": 41.333,
+        "text": "2025. 10. 14. 6 PM",
+        "function": "reveal_datetime_cta"
+      },
+      {
+        "position_sec": 44.9,
+        "text": "toss",
+        "function": "brand_wordmark"
+      }
+    ],
+    "narration_handling": "excerpt_only"
+  },
+  "typography": {
+    "primary_font_class": "sans_serif_condensed_bold",
+    "secondary_font_class": "sans_serif_regular",
+    "animation_style": [
+      "fade_in",
+      "static"
+    ],
+    "subtitle_position_dominant": "lower_third",
+    "tagline_position": "center",
+    "color_strategy": "white_on_black",
+    "appearance_count": 11,
+    "key_typography_moments_sec": [
+      0.0,
+      5.17,
+      8.85,
+      13.6,
+      18.65,
+      20.5,
+      25.0,
+      27.11,
+      35.5,
+      38.956,
+      41.333
+    ],
+    "typo_motion_dominant": "fade_in"
+  },
+  "vfx": {
+    "primary_effects": [
+      "film_grain",
+      "dissolve",
+      "color_grade"
+    ],
+    "effect_intensity": "subtle",
+    "transition_style_dominant": "cut",
+    "vfx_event_count": 4,
+    "vfx_timing_array_sec": [
+      4.38,
+      33.784,
+      38.956,
+      44.9
+    ],
+    "wow_vfx_index": [
+      15
+    ]
+  },
+  "audio": {
+    "has_audio": true,
+    "language": "ko",
+    "speech_coverage": 0.784,
+    "bgm_likely": true,
+    "narration_lines": [
+      {
+        "start": 2.45,
+        "end": 4.45,
+        "text": "얼굴",
+        "text_raw": "얼굴",
+        "kind": "voiceover",
+        "source": "voice"
+      },
+      {
+        "start": 5.17,
+        "end": 8.85,
+        "text": "눈, 코, 입이 있는 머리의 앞면",
+        "text_raw": "눈 코 입이 있는 머리에 앞면",
+        "kind": "voiceover",
+        "source": "both"
+      },
+      {
+        "start": 8.85,
+        "end": 12.85,
+        "text": "머리 앞면의 전체적 윤곽이나 생김새",
+        "text_raw": "머리 앞면에 전체적 윤곽이나 생김새",
+        "kind": "voiceover",
+        "source": "both"
+      },
+      {
+        "start": 13.6,
+        "end": 19.0,
+        "text": "주위에 잘 알려져서 얻은 평판이나 명예 또는 체면",
+        "text_raw": "주위에 잘 알려져서 얻은 평판이나 명의 또는 채면",
+        "kind": "voiceover",
+        "source": "both"
+      },
+      {
+        "start": 20.5,
+        "end": 23.25,
+        "text": "어떤 심리 상태가 나타난 형색",
+        "text_raw": "어떤 힘이 상태가 나타난 형새",
+        "kind": "voiceover",
+        "source": "both"
+      },
+      {
+        "start": 25.0,
+        "end": 26.85,
+        "text": "어떤 분야에 활동하는 사람",
+        "text_raw": "어떤 분야에 활동하는 사람",
+        "kind": "voiceover",
+        "source": "both"
+      },
+      {
+        "start": 27.11,
+        "end": 31.45,
+        "text": "어떤 사물의 진면목을 단적으로 보여주는 대표적 표상",
+        "text_raw": "어떤 사물에 진 면목을 단적으로 보여주는",
+        "kind": "voiceover",
+        "source": "both"
+      },
+      {
+        "start": 31.45,
+        "end": 39.34,
+        "text": "대표적 표상, '사람'을 비유적으로 이르는 말",
+        "text_raw": "대표적 표상 사람을 비우적으로 이르는 말",
+        "kind": "voiceover",
+        "source": "both"
+      }
+    ],
+    "voice_vs_caption": "voice_and_caption_synced",
+    "narration_handling": "excerpt_only",
+    "transcribed_by": "faster_whisper",
+    "audio_note": "faster_whisper(base) 전사 성공(speech_coverage 0.784, language ko prob 1.0). 원문은 국어사전 '얼굴' 표제어의 다의(多義) 정의를 차례로 낭독하는 성우 VO이며, 화면 하단 자막이 동일 문구로 동기화됨. Whisper 오인식 보정: '머리에 앞면'→'머리의 앞면', '명의'→'명예', '채면'→'체면', '힘이 상태'→'심리 상태', '형새'→'형색', '비우적으로'→'비유적으로'. BGM은 저음 앰비언트로 깔린 것으로 추정(true)."
+  },
+  "frames_dir": "ADV-2026-037_frames",
+  "contact_sheet_path": "ADV-2026-037_frames/contact_sheet.png",
+  "shots": [
+    {
+      "index": 1,
+      "duration": 1.919,
+      "framing": "graphic",
+      "function": "brand_signature_title",
+      "subject_action": "pure black screen with centered white condensed-bold caps text 'ORIGINAL FILM BY TOSS'; static hold establishing the film as a Toss-produced original",
+      "layout_grid": "center",
+      "subject_position": "center",
+      "subject_identity": "none_environment",
+      "subject_relationship_to_protagonist": null,
+      "mid_frame_path": "ADV-2026-037_frames/cut01_mid.png",
+      "subject_typo_layout": "typo_only_no_person",
+      "typo_motion": "'ORIGINAL FILM BY TOSS' 흰 텍스트가 검정 위 중앙에 정적으로 표시되어 유지(컷 끝에서 다음 컷의 눈 클로즈업이 뒤에서 디졸브로 떠오름).",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "environment",
+      "gaze": "none",
+      "eye_contact_effect": null,
+      "props": [],
+      "prop_semantics": null,
+      "color_palette": [
+        "#000000",
+        "#ffffff"
+      ],
+      "color_intent": "순수 검정 위 흰 타이포로 시네마틱 오프닝의 절제·고급감 확립; 영화 타이틀 카드 관습 차용",
+      "pose_description": "인물 없음; 타이포 카드만. 검정 여백이 압도적으로 화면을 지배해 미니멀 시네마 톤.",
+      "subject_motion": "static",
+      "prop_motion": "none",
+      "camera_motion": "locked_off",
+      "camera_motion_intensity": "none",
+      "camera_effect_local": "none",
+      "motion_blur": false,
+      "intra_cut_rhythm": "static",
+      "transition_in": "cut",
+      "transition_out": "dissolve",
+      "vfx_in_shot": [],
+      "vfx_intensity_local": "none",
+      "fact_check_flag": null,
+      "notes": "Cut 1 (0.00-1.92s): 검정 배경 'ORIGINAL FILM BY TOSS' 중앙 흰 컨덴스드 볼드 캡스. 영화 오프닝 시그니처. 끝부분에서 눈 CU가 디졸브로 등장 시작.",
+      "visible_elements": {
+        "foreground": [
+          "white condensed-bold caps text 'ORIGINAL FILM BY TOSS'"
+        ],
+        "midground": [],
+        "background": [
+          "pure black field #000000"
+        ],
+        "lighting_env": [
+          "none — flat black, text is the only luminous element"
+        ],
+        "atmosphere": [
+          "void black, cinematic title-card vacuum"
+        ]
+      },
+      "texture": {
+        "primary_subject": "flat_digital_text",
+        "secondary_objects": [],
+        "background_surface": "flat_black",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "front",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "none",
+        "key_to_fill_ratio": "silhouette",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "none",
+        "overall_contrast": "high_contrast"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#000000",
+          "#ffffff"
+        ],
+        "palette_role": {
+          "#000000": "background_black_dominant",
+          "#ffffff": "title_text_white"
+        },
+        "color_relationship": "monochrome",
+        "temperature_balance": "balanced",
+        "saturation_strategy": "monochrome",
+        "contrast_type": "luminance_high",
+        "accent_color": "#ffffff",
+        "accent_ratio": "5_percent",
+        "brand_color_match": [
+          "no brand color in this card; reserved black-and-white title treatment"
+        ]
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A minimalist cinematic title card rendered at full 1920x1080 pixels, 16:9 landscape aspect ratio. The entire frame is filled with a single pure black field (#000000) — perfectly uniform, zero gradient, zero texture, zero grain, an absolute void of darkness from edge to edge. Positioned at the exact horizontal and vertical center of the frame is a single line of white (#ffffff) text reading the words ORIGINAL FILM BY TOSS, set in a bold heavy condensed sans-serif typeface with tall narrow capital letter forms, tight letter-spacing, and strong uniform stroke weight, evocative of a modern feature-film main-title card. The text occupies roughly 30 percent of the frame width and only about 5 percent of the frame height, sitting as a compact horizontal band of luminous white centered in an enormous surrounding emptiness of black: approximately 47 percent of the frame height is empty black above the text and approximately 48 percent empty black below it, with wide black margins left and right as well. The capital letters are crisp, clean, and sharply rendered with no drop shadow, no outline, no glow, no bevel, no gradient — pure flat white glyphs on pure flat black. The visual aesthetic is deliberate, austere, and confident: the extreme reduction to a single line of typography on a total-black field communicates a premium, cinematic, authored sensibility, the visual grammar of an art-house or high-end commercial opening title. There are no other elements in the frame whatsoever — no logo mark, no icon, no imagery, no people, no border, no decoration of any kind, only the white wordline floating in black. The condensed grotesque letterforms have a slightly industrial, editorial character with even bar widths and squared terminals. Color palette: black #000000 dominates approximately 95 percent of the total frame area while white #ffffff occupies the remaining roughly 5 percent as the text. Color relationship: strict monochrome, maximum luminance contrast between the pure white text and the pure black ground. Temperature reads as neutral. Saturation is nil — a pure achromatic composition. Contrast type is luminance-extreme. There is zero atmospheric haze, zero film grain visible in this still, zero photographic noise, zero scanline, zero artifact; all elements are flat digital renders. Lighting is irrelevant in the photographic sense — the text appears self-luminous against the void, with no directional key, no shadow, no highlight. The composition uses symmetrical centering on both axes, with the typography weighted as a single horizontal anchor in a sea of negative space, the negative space amplifying the gravity and intentionality of the few words shown. Style anchor: ultra-minimal cinematic main-title card, modern Korean fintech brand film opening, 4K clean flat digital render, bold condensed all-caps grotesque sans-serif in white, pure black background, generous negative space, high luminance contrast, editorial film-title typographic treatment, no decorative elements, no atmospheric effects. Korean premium commercial film title aesthetic. Additional craft detail for faithful reproduction: the typeface is a single weight throughout the line, all five words on one baseline with even word-spacing, no kerning anomalies, the letters optically aligned so the tall caps form a clean rectangular text block; the white is a pure neutral white with no warm or cool tint and no anti-alias halo bleeding into the black. The frame should read as if printed on a cinema screen — confident, quiet, authored — the kind of single-line auteur credit that precedes an art film or a flagship brand film. No vignette, no letterbox bars on this card (the title cards are full-frame 1920x1080 unlike the letterboxed live-action vignettes elsewhere in the film), no border, no rule lines, no underline, no period at the end of the line. The negative space is mathematically generous and symmetrical, the single white line acting as the sole focal mass in an otherwise pure void; the deliberate restraint signals premium intentionality and sets the contemplative, literary tone for the dictionary-definition film that follows. Render at full sharpness with crisp glyph edges, true black background, no JPEG-style compression artifacts, no scanlines, no grain, no glow bloom around the letters, a clean broadcast-grade master frame.",
+        "t2i_negative": "gradient, texture, grain, noise, colored text, serif font, lowercase, logo mark, icon, imagery, people, decorative elements, shadows, glow, border, watermark",
+        "i2v_motion": "Hold the black title card with the white 'ORIGINAL FILM BY TOSS' text perfectly static for the duration. Camera fully locked-off, zero movement. In the final portion of the clip, an extreme-close-up of a weathered older man's eyes very slowly begins to dissolve into existence behind the text, emerging faintly from the black as a soft cross-dissolve transition into the next shot. No other motion. ~1.9s, static then a gentle emergent dissolve at the end.",
+        "i2v_params": {
+          "clip_duration_sec": 1.919,
+          "camera_move": "locked_off",
+          "subject_motion_level": "still",
+          "signature_effect": "none",
+          "pacing": "static",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen title text 'ORIGINAL FILM BY TOSS' preserved verbatim; pure typographic card, no logo mark"
+      }
+    },
+    {
+      "index": 2,
+      "duration": 2.461,
+      "framing": "ECU",
+      "function": "concept_hook",
+      "subject_action": "extreme close-up of an older man's eyes and brow on a near-black frame; the 'ORIGINAL FILM BY TOSS' title still floats over the face at first, then fades as the eyes brighten into a richly textured weathered gaze looking slightly toward camera; VO begins the word '얼굴'",
+      "layout_grid": "center",
+      "subject_position": "center",
+      "subject_identity": "elder_face_anonymous",
+      "subject_relationship_to_protagonist": "extra_atmosphere",
+      "mid_frame_path": "ADV-2026-037_frames/cut02_mid.png",
+      "subject_typo_layout": "typo_over_subject",
+      "typo_motion": "'ORIGINAL FILM BY TOSS' 타이틀이 얼굴 위에 잠시 잔존하다 페이드아웃(약 2.5s); 이후 하단 자막은 아직 없음. 얼굴은 어둡게 시작해 점점 밝아짐.",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "face_only",
+      "gaze": "to_camera",
+      "eye_contact_effect": "intense_intimate_confrontation",
+      "props": [],
+      "prop_semantics": null,
+      "color_palette": [
+        "#0a0806",
+        "#3a2a20",
+        "#6a4a38",
+        "#9a7258"
+      ],
+      "color_intent": "거의 검정에서 따뜻한 살색으로 떠오르는 저조도 그레이딩으로 '얼굴'의 첫 정의(앞면)를 친밀하고 무게감 있게 제시",
+      "pose_description": "노년 남성의 눈썹·눈·콧등만 프레임에 가득. 미세하게 찡그린 듯한 깊은 주름, 정면 응시로 관객과 강한 눈맞춤.",
+      "subject_motion": "micro_only",
+      "prop_motion": "none",
+      "camera_motion": "locked_off",
+      "camera_motion_intensity": "none",
+      "camera_effect_local": "none",
+      "motion_blur": false,
+      "intra_cut_rhythm": "steady",
+      "transition_in": "dissolve",
+      "transition_out": "dissolve",
+      "vfx_in_shot": [
+        "film_grain"
+      ],
+      "vfx_intensity_local": "subtle",
+      "fact_check_flag": null,
+      "notes": "Cut 2 (1.92-4.38s): 노인 눈 ECU. 타이틀이 위에 잠시 겹쳐 보이다 페이드, 얼굴은 어둠→밝음. VO '얼굴' 시작. 끝에서 화가 아틀리에로 디졸브.",
+      "visible_elements": {
+        "foreground": [
+          "extreme close-up of an elderly man's eyes, eyebrows and bridge of nose, deeply textured weathered skin"
+        ],
+        "midground": [],
+        "background": [
+          "near-black falloff around the face, no environment visible"
+        ],
+        "lighting_env": [
+          "single soft frontal source slowly rising on the face, deep shadow falloff at edges"
+        ],
+        "atmosphere": [
+          "intimate dark, fine film grain, low-key cinematic"
+        ]
+      },
+      "texture": {
+        "primary_subject": "skin_natural_weathered",
+        "secondary_objects": [],
+        "background_surface": "black_falloff",
+        "atmospheric": [
+          "film_grain"
+        ]
+      },
+      "lighting": {
+        "key_direction": "front",
+        "key_hardness": "soft",
+        "key_color_temp": "warm_3000K",
+        "fill_strength": "minimal",
+        "key_to_fill_ratio": "8:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "deep",
+        "overall_contrast": "low_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#0a0806",
+          "#3a2a20",
+          "#6a4a38",
+          "#9a7258"
+        ],
+        "palette_role": {
+          "#0a0806": "background_black_dominant",
+          "#3a2a20": "shadowed_skin_midtone",
+          "#6a4a38": "lit_skin_warm",
+          "#9a7258": "highlight_skin_warm"
+        },
+        "color_relationship": "monochrome",
+        "temperature_balance": "warm_dominant",
+        "saturation_strategy": "desaturated_with_pop",
+        "contrast_type": "luminance_low",
+        "accent_color": "#9a7258",
+        "accent_ratio": "15_percent",
+        "brand_color_match": [
+          "no brand color; warm filmic skin grade"
+        ]
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "An extreme close-up cinematic frame, 1920x1080 pixels, 16:9 landscape, filling the entire frame with the eyes, eyebrows, and bridge of the nose of an elderly Korean man in his late 60s to 70s. The crop is so tight that the upper face spans edge to edge: the two eyes sit roughly on the horizontal centerline, the heavy dark eyebrows arch above them, a vertical furrow creases the brow between the eyes, and the top of the nose bridge descends into the lower-center of the frame. The skin is profoundly textured and weathered — fine wrinkles fan out from the outer corners of the eyes, the under-eye area carries soft pouches and creases, and the pores and surface detail of aged skin are rendered with crisp photographic clarity. The man gazes slightly toward the camera with a calm, weighty, almost confrontational stillness; his dark brown irises catch a tiny soft specular highlight. The overall image is very low-key: the face emerges from near-total blackness, with the illuminated central area of the eyes and brow falling off rapidly into deep shadow at all four edges of the frame, so the corners are nearly pure black (#0a0806). A single soft warm frontal key light at approximately 3000K gently models the eyes and brow, with minimal fill, producing a key-to-fill ratio around 8:1 and deep shadow presence; there is no rim light. The grade is warm and filmic, the skin reading in muted warm browns: shadowed skin midtone (#3a2a20), lit warm skin (#6a4a38), warm skin highlight on the brow and nose bridge (#9a7258), all set against the dominant black surround. A fine layer of cinematic film grain overlays the whole image. The composition centers the eyes symmetrically with the gaze directed at the viewer, creating an intimate, intense, human connection — the very first literal meaning of the word face, the front of the head bearing eyes, nose and mouth. There are no text overlays in this clean plate description, no graphics, no environment, only the isolated upper face in darkness. Depth is shallow, the eyes critically sharp, the surrounding skin softening into shadow. Color palette: black #0a0806 dominant surround (~55%), shadowed skin #3a2a20 (~20%), lit warm skin #6a4a38 (~15%), highlight skin #9a7258 (~10%). Color relationship: warm near-monochrome on black. Temperature: warm dominant. Saturation: desaturated with a warm skin pop. Contrast: low-key luminance. Texture reads as natural aged human skin with fine grain. Style anchor: cinematic extreme close-up portrait, A24 art-house dark intimate grade, warm low-key key light, deep shadow falloff, fine 35mm film grain, shallow depth of field, Korean documentary-fashion-film aesthetic, weathered elder face, no graphics, 4K filmic capture. Additional craft detail for faithful reproduction: the lens reads as a macro or long focal length (roughly 100mm-equivalent) wide open, giving razor-thin focus on the irises with the brow and lower face softening; the catchlights in both eyes are small, soft and identical, indicating a single broad soft source low and in front. The skin rendering must preserve every authentic sign of age — crow's-feet creasing outward from the eye corners, the soft slack of the under-eye, the deep vertical glabellar furrow between the brows, scattered age spots and fine capillaries, the slightly oily sheen on the bridge of the nose — all in crisp photographic micro-detail, never smoothed or beautified. The frame carries subtle cinematic top-and-bottom letterbox cropping consistent with the film's live-action vignettes. The grade is filmic and warm-leaning, blacks crushed but not clipped, a gentle film-stock roll-off in the highlights on the brow, a faint halation glow possible around the brightest skin highlight. There are no graphics, no caption on this beat, no logo; in the live edit the residual white title text overlays the face only at the very start and dissolves away. The mood is grave, intimate and human — a confrontational stillness that makes the viewer hold the gaze of a stranger's eyes, establishing the word 'face' at its most literal and most arresting. Render at full sharpness on the eyes with natural film grain across the frame, true deep blacks, warm skin midtones, no digital sharpening halos, broadcast-grade filmic master.",
+        "t2i_negative": "bright even lighting, hi-key, studio backdrop, smooth retouched skin, young face, text overlays, graphics, color cast unnatural, watermark, cartoon, extra eyes, distortion",
+        "i2v_motion": "The elderly man's eyes hold an intense to-camera gaze with only breathing-level micro-motion — perhaps the faintest blink or settling of the eyes, nothing more. The face slowly brightens over the duration as the key light rises, lifting the features out of the black. Camera fully locked-off. At the start the residual 'ORIGINAL FILM BY TOSS' title fades away over the face; at the end the entire image cross-dissolves toward a dim painter's atelier interior. Fine film grain shimmers. ~2.5s, steady, contemplative, no cut. A male voiceover speaks the single word meaning 'face'.",
+        "i2v_params": {
+          "clip_duration_sec": 2.461,
+          "camera_move": "locked_off",
+          "subject_motion_level": "micro",
+          "signature_effect": "none",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; elder face is a generic anonymous Korean man type (no celebrity likeness); title text verbatim; warm filmic low-key grade preserved"
+      }
+    },
+    {
+      "index": 3,
+      "duration": 4.462,
+      "framing": "WS",
+      "function": "definition_vignette_literal",
+      "subject_action": "a dim artist's atelier: a charcoal portrait drawing of a bearded older man clipped to a large board on an easel, several pencil portrait studies leaning against a paint cart, a black stool, brushes and jars; on the rear wall a large dark shadow of a human head looms; lower-center caption reads the literal definition of 'face'",
+      "layout_grid": "rule_of_thirds",
+      "subject_position": "right_third",
+      "subject_identity": "none_environment",
+      "subject_relationship_to_protagonist": null,
+      "mid_frame_path": "ADV-2026-037_frames/cut03_mid.png",
+      "subject_typo_layout": "typo_separate_zone",
+      "typo_motion": "하단 중앙 자막 '눈, 코, 입이 있는 머리의 앞면' 페이드인 후 유지(이전 컷의 눈 CU가 이 장면 위로 디졸브되며 시작).",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "environment",
+      "gaze": "none",
+      "eye_contact_effect": null,
+      "props": [
+        "easel with charcoal portrait drawing",
+        "pencil portrait studies",
+        "artist stool",
+        "paint cart with brushes and jars",
+        "framed face artworks on wall"
+      ],
+      "prop_semantics": "초상화 데생·습작들이 '얼굴=머리의 앞면'이라는 1차 정의를 손으로 그려낸 오브제로 시각화; 벽의 거대한 머리 그림자는 보이지 않는 인물의 존재 암시",
+      "color_palette": [
+        "#0e0c0a",
+        "#caa46a",
+        "#5a5048",
+        "#e8e2d6"
+      ],
+      "color_intent": "텅스텐 전구의 따뜻한 포인트광과 차가운 그림자로 무드 있는 작업실 톤; 흰 캔버스와 데생이 시선 앵커",
+      "pose_description": "인물 없음; 이젤의 초상 데생이 우측 1/3에 주피사체. 빈 스툴이 화면 중앙, 좌측 어둠 속 머리 그림자가 분위기.",
+      "subject_motion": "static",
+      "prop_motion": "none",
+      "camera_motion": "locked_off",
+      "camera_motion_intensity": "minimal",
+      "camera_effect_local": "none",
+      "motion_blur": false,
+      "intra_cut_rhythm": "steady",
+      "transition_in": "dissolve",
+      "transition_out": "cut",
+      "vfx_in_shot": [
+        "film_grain"
+      ],
+      "vfx_intensity_local": "subtle",
+      "fact_check_flag": null,
+      "notes": "Cut 3 (4.38-8.84s): 화가 아틀리에. 이젤 위 노인 수염 초상 데생, 연필 습작들, 빈 스툴, 페인트 카트, 벽 액자 초상. 좌측 벽에 큰 머리 그림자. 자막 '눈, 코, 입이 있는 머리의 앞면'. 정적 락오프.",
+      "visible_elements": {
+        "foreground": [
+          "easel holding a clipped charcoal portrait drawing of a bearded older man",
+          "pencil portrait studies leaning against a cart",
+          "black metal artist stool"
+        ],
+        "midground": [
+          "rolling paint cart with brushes upright in a jar, paint cans and supplies on lower shelves",
+          "second wooden stool at right with a paint palette tray"
+        ],
+        "background": [
+          "dim grey-green studio wall",
+          "framed portrait artworks hung on the wall",
+          "a large dark looming shadow of a human head/profile on the left wall",
+          "a glowing bare tungsten bulb on a stand at left"
+        ],
+        "lighting_env": [
+          "warm bare tungsten practical bulb at left",
+          "cool ambient shadow fill across the room"
+        ],
+        "atmosphere": [
+          "dim moody atelier, fine film grain, warm-cool contrast"
+        ]
+      },
+      "texture": {
+        "primary_subject": "paper_charcoal_drawing",
+        "secondary_objects": [
+          "metal_matte_stool",
+          "wood_raw",
+          "glass_jar"
+        ],
+        "background_surface": "concrete_painted_wall",
+        "atmospheric": [
+          "film_grain",
+          "warm_bulb_glow"
+        ]
+      },
+      "lighting": {
+        "key_direction": "side_left",
+        "key_hardness": "soft",
+        "key_color_temp": "warm_3000K",
+        "fill_strength": "minimal",
+        "key_to_fill_ratio": "4:1",
+        "rim_light": false,
+        "practical_lights": [
+          "좌측 노출 텅스텐 전구"
+        ],
+        "shadow_presence": "deep",
+        "overall_contrast": "low_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#0e0c0a",
+          "#caa46a",
+          "#5a5048",
+          "#e8e2d6"
+        ],
+        "palette_role": {
+          "#0e0c0a": "background_shadow_dominant",
+          "#caa46a": "warm_bulb_glow_accent",
+          "#5a5048": "midtone_wall_props",
+          "#e8e2d6": "white_canvas_drawing_paper"
+        },
+        "color_relationship": "complementary",
+        "temperature_balance": "split_warm_cool",
+        "saturation_strategy": "muted",
+        "contrast_type": "temperature_split",
+        "accent_color": "#caa46a",
+        "accent_ratio": "15_percent",
+        "brand_color_match": [
+          "no brand color; warm-cool filmic atelier grade"
+        ]
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A dim, moody artist's atelier interior, cinematic still at 1920x1080 pixels, 16:9 landscape, low-key warm-cool lighting. The room is a working portrait studio shrouded in shadow. On the right third of the frame stands a large easel holding a white drawing board, to which is clipped a finished charcoal portrait drawing of a bearded older man's face, rendered in soft graphite greys with expressive shading; smaller torn-edge sketch studies and reference scraps are taped around it on the board. Leaning against a low rolling cart in the mid-foreground are several more pencil and charcoal portrait studies of different faces — a young man, a balding man, a figure in a tie — propped casually on the floor and cart. A black metal artist stool with a round seat stands at center frame just left of the easel, and a second wooden stool at far right holds a paint palette tray with smears of color. A rolling metal supply cart on the left holds an upright jar bristling with paintbrushes, tins, jars and bottles of medium on its shelves, with plastic storage bins below. The rear wall is a dim, desaturated grey-green plaster surface on which hang two or three framed portrait artworks, their faces barely catching the light. At the far left, a single bare tungsten light bulb glows warmly on a stand, casting a pool of amber (#caa46a) light and throwing a large, soft, dark shadow of a human head and shoulders across the upper-left wall — an unseen presence looming over the room. The floor is a polished concrete that faintly reflects the warm bulb. The overall illumination is low-key: a warm 3000K practical key from the left bulb, minimal cool ambient fill, a key-to-fill ratio around 4:1, deep shadows pooling in the corners and under the furniture, no rim light. A fine cinematic film grain sits over the whole image, and the frame carries subtle cinematic top-and-bottom letterbox cropping. The lower-center of the frame bears a single line of white Korean caption text reading the literal dictionary definition of the word face — meaning 'the front of the head, which has eyes, a nose and a mouth' — the Korean reads 눈, 코, 입이 있는 머리의 앞면, set in a clean modest sans-serif white subtitle (preserved verbatim; finalized in post). Composition uses a rule-of-thirds layout with the portrait easel anchored on the right third, the empty stool at center, and the shadowed depth receding to the left, generous moody negative space throughout. Color palette: near-black shadow #0e0c0a dominant (~45%), warm bulb glow #caa46a accent (~15%), desaturated midtone walls and props #5a5048 (~25%), white drawing paper and canvas #e8e2d6 (~15%). Color relationship: warm-cool complementary temperature split. Temperature: split warm-cool. Saturation: muted. Contrast: temperature-split low-key. Texture: charcoal drawing paper, raw wood stools, glass jars, painted concrete wall, fine grain. Style anchor: cinematic dim artist's studio, A24 filmic warm-cool grade, single tungsten practical, deep shadow, fine 35mm grain, Korean documentary-fashion-film aesthetic, portrait-drawing motif, subtle letterbox, 4K capture. The whole image visualizes 'face' as the literal front of the head through hand-drawn portraiture.",
+        "t2i_negative": "bright hi-key lighting, flat even illumination, modern clean office, saturated colors, people in frame, distorted drawings, watermark, cartoon, text errors, daylight",
+        "i2v_motion": "The atelier holds nearly static — only the warm tungsten bulb light flickers faintly and fine film grain shimmers across the frame; the portrait drawings, stools and cart do not move. An extremely slow, almost imperceptible push-in may creep toward the easel. Camera essentially locked-off. The lower-center caption '눈, 코, 입이 있는 머리의 앞면' holds steadily (finalized in post). A male voiceover reads the same literal definition of 'face'. ~4.5s, steady contemplative pacing, no internal cut, ending on a clean cut.",
+        "i2v_params": {
+          "clip_duration_sec": 4.462,
+          "camera_move": "locked_off",
+          "subject_motion_level": "still",
+          "signature_effect": "none",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; portrait drawings are generic anonymous face studies (no celebrity/real-artwork reproduction); Korean caption preserved verbatim; warm-cool atelier grade preserved"
+      }
+    },
+    {
+      "index": 4,
+      "duration": 4.171,
+      "framing": "MS",
+      "function": "definition_vignette_appearance",
+      "subject_action": "a scholar's desk lit by a tulip-shade glass desk lamp; stacks of aged manuscripts and old hand-written books spread open across the desk, a bookshelf of colorful and Chinese-character book spines, framed photos and a glass cabinet behind, an empty office chair; the caption transitions to the second definition (overall outline/appearance)",
+      "layout_grid": "center",
+      "subject_position": "center",
+      "subject_identity": "none_environment",
+      "subject_relationship_to_protagonist": null,
+      "mid_frame_path": "ADV-2026-037_frames/cut04_mid.png",
+      "subject_typo_layout": "typo_separate_zone",
+      "typo_motion": "하단 자막이 '눈, 코, 입이 있는 머리의 앞면'에서 '머리 앞면의 전체적 윤곽이나 생김새'로 전환(컷 초반 잔존 후 교체).",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "environment",
+      "gaze": "none",
+      "eye_contact_effect": null,
+      "props": [
+        "tulip-shade glass desk lamp",
+        "stacks of aged manuscripts and hand-written books",
+        "open old books on desk",
+        "bookshelf with colorful and hanja spines",
+        "framed photos",
+        "glass display cabinet",
+        "empty office chair"
+      ],
+      "prop_semantics": "낡은 필사본·고서가 가득한 학자의 책상은 '생김새·윤곽'을 탐구하고 기록하는 학문적 응시를 은유; 빈 의자는 부재한 인물(학자) 암시",
+      "color_palette": [
+        "#10100c",
+        "#2a4a4a",
+        "#b89860",
+        "#7a3a8a"
+      ],
+      "color_intent": "청록 그림자와 따뜻한 책상 램프광의 대비로 고서 가득한 깊이 있는 서재 무드; 보라 책등이 포인트",
+      "pose_description": "인물 없음; 책상·필사본·램프가 중앙. 빈 사무용 의자가 가운데. 깊은 심도의 책장 디테일.",
+      "subject_motion": "static",
+      "prop_motion": "none",
+      "camera_motion": "slow_push_in",
+      "camera_motion_intensity": "low",
+      "camera_effect_local": "none",
+      "motion_blur": false,
+      "intra_cut_rhythm": "steady",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [
+        "film_grain"
+      ],
+      "vfx_intensity_local": "subtle",
+      "fact_check_flag": null,
+      "notes": "Cut 4 (8.84-13.01s): 학자 책상. 글라스 튤립 셰이드 램프, 낡은 필사본·고서 더미, 컬러풀+한자 책등 책장, 액자·유리장, 빈 의자. 자막 '머리 앞면의 전체적 윤곽이나 생김새'. 아주 느린 푸시인.",
+      "visible_elements": {
+        "foreground": [
+          "wooden desk surface covered with open aged manuscripts and hand-written notebooks",
+          "an antique glass tulip-shade desk lamp at left",
+          "a small white bowl/dish on a saucer"
+        ],
+        "midground": [
+          "an empty dark office chair behind the desk",
+          "a desk fan",
+          "stacks of old books, spiral notebooks and papers at right"
+        ],
+        "background": [
+          "a tall bookshelf crammed with colorful and Chinese-character book spines and a purple-jacketed volume",
+          "a glass-front display cabinet at left",
+          "framed photographs and a brass object on a shelf top"
+        ],
+        "lighting_env": [
+          "warm desk-lamp practical glow on the manuscripts",
+          "cool teal ambient shadow in the room"
+        ],
+        "atmosphere": [
+          "dim scholarly study, fine film grain, warm-cool split, lived-in clutter"
+        ]
+      },
+      "texture": {
+        "primary_subject": "paper_aged_manuscript",
+        "secondary_objects": [
+          "glass_lamp_shade",
+          "wood_polished_desk",
+          "paper_book_stacks"
+        ],
+        "background_surface": "wood_bookshelf",
+        "atmospheric": [
+          "film_grain",
+          "warm_lamp_glow"
+        ]
+      },
+      "lighting": {
+        "key_direction": "side_left",
+        "key_hardness": "soft",
+        "key_color_temp": "mixed",
+        "fill_strength": "minimal",
+        "key_to_fill_ratio": "4:1",
+        "rim_light": false,
+        "practical_lights": [
+          "유리 튤립 셰이드 책상 램프"
+        ],
+        "shadow_presence": "deep",
+        "overall_contrast": "low_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#10100c",
+          "#2a4a4a",
+          "#b89860",
+          "#7a3a8a"
+        ],
+        "palette_role": {
+          "#10100c": "background_shadow_dominant",
+          "#2a4a4a": "cool_teal_ambient",
+          "#b89860": "warm_lamp_glow_accent",
+          "#7a3a8a": "purple_book_spine_accent"
+        },
+        "color_relationship": "split_complementary",
+        "temperature_balance": "split_warm_cool",
+        "saturation_strategy": "muted",
+        "contrast_type": "temperature_split",
+        "accent_color": "#b89860",
+        "accent_ratio": "15_percent",
+        "brand_color_match": [
+          "no brand color; warm-cool scholarly grade"
+        ]
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A dim, atmospheric scholar's study interior, cinematic still at 1920x1080 pixels, 16:9 landscape, low-key warm-cool grade. The frame is dominated by a wooden writing desk that fills the lower-center foreground, its surface buried under spread-open aged manuscripts, yellowed hand-written notebooks and loose papers covered in faded ink script, with a small white ceramic bowl on a saucer at left. On the left edge of the desk sits an antique brass desk lamp with a fluted glass tulip-shaped shade that glows with a soft warm amber (#b89860) practical light, spilling across the open pages. Directly behind the desk stands an empty dark mesh-backed office chair, its headrest catching a faint rim of light, suggesting an absent occupant. To the right, more stacks of old hardcover books, spiral-bound notebooks and a vintage green-covered booklet pile up beside a small desk fan. The background is a tall, deep bookshelf crammed full of books — colorful spines in pink, blue and teal, several Chinese-character (hanja) titled volumes, and a prominent purple-jacketed hardcover (#7a3a8a) on the upper shelf — every cubby packed with the clutter of a lifelong reader. At the far left edge a glass-front wooden display cabinet reflects dim light, and on a shelf top above sit framed photographs and a brass ornament. The lighting is low-key and split-temperature: the warm tulip lamp keys the manuscripts from the left while a cool teal (#2a4a4a) ambient fills the surrounding shadow, with a key-to-fill ratio around 4:1, deep shadows in the corners, no rim light, mixed color temperature. A fine cinematic film grain overlays the image and subtle top-and-bottom letterbox cropping frames it. The lower-center carries a single line of white Korean caption text reading the second dictionary definition of face — meaning 'the overall outline or appearance of the front of the head' — the Korean reads 머리 앞면의 전체적 윤곽이나 생김새, set in a clean modest white sans-serif subtitle (preserved verbatim; finalized in post). Composition is centered on the desk and lamp with the empty chair as a quiet focal absence, the packed bookshelf adding deep-focus texture at right, the whole scene reading as a contemplative scholarly space. Color palette: near-black shadow #10100c dominant (~40%), cool teal ambient #2a4a4a (~25%), warm lamp glow #b89860 accent (~20%), purple book spine #7a3a8a accent (~5%), with warm paper midtones. Color relationship: warm-cool split-complementary. Temperature: split warm-cool. Saturation: muted. Contrast: temperature-split low-key. Texture: aged manuscript paper, fluted glass lamp shade, polished wood desk, stacked book paper, fine grain. Style anchor: cinematic dim scholar's study, filmic warm-cool grade, single warm practical lamp, deep shadow, fine 35mm grain, Korean documentary-fashion-film aesthetic, antiquarian books-and-manuscripts motif, subtle letterbox, 4K capture. The image visualizes 'face' as appearance and outline through a life of scholarly study of features. Additional craft detail for faithful reproduction: the lens reads as a normal-to-slightly-wide focal length (roughly 35mm-equivalent) at a moderate aperture, the desk and lamp critically sharp while the bookshelf behind falls into soft deep-focus texture; the camera height is at desk level, eye-level and frontal to the chair. The manuscripts on the desk are genuinely aged — soft-edged yellowed paper, hand-brushed ink columns of indeterminate illegible script, dog-eared corners, a few sheets fanned and overlapping — and the open old book at center has a visibly soft, foxed page block. The brass lamp's fluted glass shade scatters warm highlights and the bulb's filament glow pools amber on the nearest pages while the room's depth stays cool teal. Small lived-in details matter for re-creation: the white ceramic bowl on its saucer, the upright jar, the desk fan's dark blade cage at right, the spiral binding of notebooks, the purple hardcover spine catching a sliver of light on the upper shelf, the framed photographs and brass ornament silhouetted atop the cabinet at left. The whole frame carries fine cinematic film grain and subtle top-and-bottom letterbox bars. The grade splits warm practical against cool ambient with crushed but detailed shadows. No people, no legible private text, no logo, only the contemplative clutter of a scholar's desk lit by one warm lamp. Render at full sharpness on the desk with natural grain, deep teal shadows, warm amber lamp glow, broadcast-grade filmic master.",
+        "t2i_negative": "bright hi-key office, flat lighting, modern minimal desk, saturated vivid colors, people, legible private text, watermark, cartoon, daylight flood, clutter-free",
+        "i2v_motion": "The study holds almost perfectly still, with only fine film grain shimmering and the warm lamp glow steady; manuscripts, chair, books and fan do not move. A very slow, gentle push-in creeps toward the desk and empty chair over the duration, tightening the framing slightly. Camera on a slow dolly/zoom, low intensity. The lower-center caption shifts to '머리 앞면의 전체적 윤곽이나 생김새' (finalized in post). A male voiceover reads the matching second definition. ~4.2s, steady contemplative pacing, no internal cut.",
+        "i2v_params": {
+          "clip_duration_sec": 4.171,
+          "camera_move": "push_in",
+          "subject_motion_level": "still",
+          "signature_effect": "none",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; manuscript/book text illegible and generic (no real document reproduction); Korean caption preserved verbatim; warm-cool scholarly grade preserved"
+      }
+    },
+    {
+      "index": 5,
+      "duration": 4.004,
+      "framing": "WS",
+      "function": "definition_vignette_reputation",
+      "subject_action": "a bright sunlit study/office of a museum director: tall wooden bookshelves with books and small figurines, a mesh office chair, a large desk with a black nameplate reading '관장 이정모', a monitor, big leafy plants, blue-curtained windows, a wall map and a teal pendant lamp; the caption advances to the third definition (reputation/honor)",
+      "layout_grid": "center",
+      "subject_position": "center",
+      "subject_identity": "none_environment",
+      "subject_relationship_to_protagonist": null,
+      "mid_frame_path": "ADV-2026-037_frames/cut05_mid.png",
+      "subject_typo_layout": "typo_separate_zone",
+      "typo_motion": "자막이 '머리 앞면의 전체적 윤곽이나 생김새'에서 '주위에 잘 알려져서 얻은 평판이나 명예'로 전환.",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "environment",
+      "gaze": "none",
+      "eye_contact_effect": null,
+      "props": [
+        "black desk nameplate '관장 이정모'",
+        "tall wooden bookshelves with books and figurines",
+        "mesh office chair",
+        "desk monitor",
+        "large leafy plants",
+        "teal pendant lamp",
+        "wall map"
+      ],
+      "prop_semantics": "'관장(館長)' 명패는 '평판·명예'로서의 얼굴을 직접 환유; 책과 피규어 가득한 밝은 서재는 한 분야에서 이름을 얻은 사람의 공간",
+      "color_palette": [
+        "#1a2a30",
+        "#c9b27a",
+        "#3a7a5a",
+        "#cfe0e8"
+      ],
+      "color_intent": "창문 자연광이 가득한 밝은 톤으로 앞선 어두운 컷들과 대비; 따뜻한 목재와 청록 펜던트의 색대비",
+      "pose_description": "인물 없음; 책상·명패·의자가 중앙. 빈 의자가 부재한 관장을 암시. 좌우 책장과 식물이 프레임을 채움.",
+      "subject_motion": "static",
+      "prop_motion": "none",
+      "camera_motion": "slow_push_in",
+      "camera_motion_intensity": "low",
+      "camera_effect_local": "none",
+      "motion_blur": false,
+      "intra_cut_rhythm": "steady",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [
+        "film_grain"
+      ],
+      "vfx_intensity_local": "subtle",
+      "fact_check_flag": "데스크 명패 '관장 이정모' — 실존 과학관장 이름으로 보이는 고유명사가 소품에 노출됨(원본 그대로 기록).",
+      "notes": "Cut 5 (13.01-17.02s): 밝은 관장 서재. 목재 책장+피규어, 메쉬 의자, 모니터, 큰 식물, 청록 펜던트 램프, 벽지도, 데스크 명패 '관장 이정모'. 자막 '주위에 잘 알려져서 얻은 평판이나 명예'. 시네마스코프 레터박스. 느린 푸시인.",
+      "visible_elements": {
+        "foreground": [
+          "large wooden desk with a black nameplate reading '관장 이정모'",
+          "a mesh-backed office chair facing away",
+          "desk clutter — fruit bowl, pen holder, small objects"
+        ],
+        "midground": [
+          "a flat monitor at right",
+          "a large leafy money-tree plant at right and a potted plant at left",
+          "a teal pendant lamp hanging center-right"
+        ],
+        "background": [
+          "tall wooden bookshelves filled with books and small figurines (left wall)",
+          "windows with blue curtains and bright daylight",
+          "a wall map and shelf with a small penguin figure and speaker",
+          "a wall-mounted air conditioner"
+        ],
+        "lighting_env": [
+          "bright natural daylight from the windows",
+          "soft ambient bounce filling the room"
+        ],
+        "atmosphere": [
+          "bright airy lived-in study, fine film grain, warm-cool daylight balance"
+        ]
+      },
+      "texture": {
+        "primary_subject": "wood_polished_desk",
+        "secondary_objects": [
+          "fabric_mesh_chair",
+          "foliage",
+          "plastic_matte_nameplate"
+        ],
+        "background_surface": "wood_bookshelf",
+        "atmospheric": [
+          "film_grain",
+          "window_daylight_glow"
+        ]
+      },
+      "lighting": {
+        "key_direction": "back",
+        "key_hardness": "soft",
+        "key_color_temp": "cool_7000K",
+        "fill_strength": "strong",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": false,
+        "practical_lights": [
+          "창문 자연광",
+          "청록 펜던트 램프"
+        ],
+        "shadow_presence": "soft",
+        "overall_contrast": "mid_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#1a2a30",
+          "#c9b27a",
+          "#3a7a5a",
+          "#cfe0e8"
+        ],
+        "palette_role": {
+          "#1a2a30": "shadow_anchor",
+          "#c9b27a": "warm_wood_dominant",
+          "#3a7a5a": "foliage_teal_accent",
+          "#cfe0e8": "window_daylight_highlight"
+        },
+        "color_relationship": "complementary",
+        "temperature_balance": "split_warm_cool",
+        "saturation_strategy": "muted",
+        "contrast_type": "temperature_split",
+        "accent_color": "#3a7a5a",
+        "accent_ratio": "15_percent",
+        "brand_color_match": [
+          "no brand color; naturalistic daylight grade"
+        ]
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A bright, airy, lived-in scholar/director's study interior, cinematic still at 1920x1080 pixels, 16:9 landscape with subtle cinematic top-and-bottom letterbox cropping, mid-key naturalistic daylight grade. The space is a real working office filled with the accumulations of a museum director. Tall warm-wood bookshelves line the left wall from floor to ceiling, every shelf crammed with books and dotted with small figurines and curios. In the center-foreground sits a large wooden desk; on the front edge of the desk rests a small black rectangular desk nameplate bearing white Korean characters that read 관장 이정모, meaning 'Director Lee Jung-mo' (preserved verbatim as an on-set prop). A black mesh-backed ergonomic office chair sits behind the desk facing away from the camera, implying an absent occupant. On the desk surface are everyday objects — a clear bowl of oranges, a pen holder, small framed items and clutter. To the right stands a flat computer monitor and a large leafy money-tree houseplant; another potted plant sits at the lower left. A teal-green dome pendant lamp hangs at center-right. The back wall has tall windows draped with sky-blue curtains through which bright daylight floods the room, plus a wall map, a small penguin figurine on a shelf, a speaker, and a wall-mounted air conditioner near the ceiling. The lighting is soft and bright: cool daylight at roughly 7000K backlights and fills from the windows, with strong soft ambient fill bouncing through the room, a key-to-fill ratio around 2:1, soft shadows, mid-key overall contrast — a deliberate brightness contrast against the preceding dark vignettes. A fine cinematic film grain sits over the image. The lower-center carries a single line of white Korean caption text reading the third dictionary definition of face — meaning 'reputation or honor gained by being well known among others' — the Korean reads 주위에 잘 알려져서 얻은 평판이나 명예, set in a clean modest white sans-serif subtitle (preserved verbatim; finalized in post). Composition centers the desk, nameplate and empty chair, framed symmetrically by bookshelves and plants, with the bright windows behind, generous bright negative space. Color palette: warm wood tones #c9b27a dominant (~40%), cool shadow anchor #1a2a30 (~20%), foliage teal-green #3a7a5a accent (~15%), window daylight highlight #cfe0e8 (~25%). Color relationship: warm-cool complementary. Temperature: split warm-cool daylight. Saturation: muted naturalistic. Contrast: mid-key temperature split. Texture: polished wood desk and shelves, mesh chair fabric, green foliage, matte plastic nameplate, fine grain. Style anchor: cinematic bright lived-in study, naturalistic daylight grade, window key, soft fill, fine 35mm grain, Korean documentary-film aesthetic, museum-director office with nameplate, books-and-figurines clutter, subtle letterbox, 4K capture. The image visualizes 'face' as reputation and honor through the named office of a respected figure. Additional craft detail for faithful reproduction: the lens reads as a normal focal length (roughly 35mm-equivalent) at a moderate aperture with broad depth of field so the bookshelves, desk and window all hold reasonable detail; the camera is at seated eye-level, frontal to the empty chair, centered. The deliberate brightness of this vignette is a tonal pivot from the dark preceding cuts — the daylight from the blue-curtained windows is the dominant key, wrapping the room in soft cool light, while warm wood shelving and desk warm the midtones. Re-creation must include the dense, authentic clutter: shelves packed floor-to-ceiling with mixed books and scattered small figurines and curios, a leafy money-tree plant at right, a potted plant lower-left, the teal dome pendant lamp hanging center-right, a small penguin figure and a speaker on a shelf, a wall map, the wall air conditioner near the ceiling, and on the desk a clear bowl of oranges, a pen holder and assorted objects. The single most important prop is the small black desk nameplate on the front desk edge bearing the white Korean characters 관장 이정모 (kept verbatim as filmed). The empty mesh office chair faces away, implying the absent, respected occupant. Fine cinematic film grain overlays the image with subtle top-and-bottom letterbox bars. The grade is naturalistic and mid-key, gentle soft shadows, no crushed blacks. No people in frame. Render at full sharpness with natural grain, balanced warm-cool daylight, broadcast-grade filmic master.",
+        "t2i_negative": "dark low-key, dramatic shadows, empty bare room, saturated vivid colors, people, distorted nameplate, watermark, cartoon, night, sterile minimalism",
+        "i2v_motion": "The study holds nearly still; only fine film grain shimmers and daylight stays steady. A very slow, gentle push-in advances toward the desk, nameplate and empty chair over the duration. Camera on a slow dolly/zoom, low intensity. The lower-center caption shifts to '주위에 잘 알려져서 얻은 평판이나 명예' (finalized in post). A male voiceover reads the matching third definition. ~4.0s, steady, no internal cut.",
+        "i2v_params": {
+          "clip_duration_sec": 4.004,
+          "camera_move": "push_in",
+          "subject_motion_level": "still",
+          "signature_effect": "none",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-set nameplate text '관장 이정모' preserved verbatim as filmed (fact_check_flag set); generic office contents; Korean caption preserved verbatim; naturalistic daylight grade preserved"
+      }
+    },
+    {
+      "index": 6,
+      "duration": 3.212,
+      "framing": "WS",
+      "function": "definition_vignette_dignity",
+      "subject_action": "a clinical office (dental/forensic/anthropology), viewed through a doorway: a wooden desk with a monitor on an arm, a camera, two anatomical human skull models, a laptop, books and ear models on a credenza, a blue exam chair and overhead exam lamp by a frosted window; the caption continues reputation then advances to '또는 체면' (or dignity)",
+      "layout_grid": "center",
+      "subject_position": "center",
+      "subject_identity": "none_environment",
+      "subject_relationship_to_protagonist": null,
+      "mid_frame_path": "ADV-2026-037_frames/cut06_mid.png",
+      "subject_typo_layout": "typo_separate_zone",
+      "typo_motion": "자막이 '주위에 잘 알려져서 얻은 평판이나 명예' 잔존 후 '또는 체면'으로 전환.",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "environment",
+      "gaze": "none",
+      "eye_contact_effect": null,
+      "props": [
+        "two anatomical human skull models",
+        "monitor on arm",
+        "DSLR camera",
+        "laptop",
+        "blue medical exam chair",
+        "overhead exam lamp",
+        "ear/anatomy models",
+        "books on credenza"
+      ],
+      "prop_semantics": "두개골 모형·진료 의자·검사 조명은 얼굴/머리를 물리적으로 다루는 임상 공간으로 '체면(體面)'의 의미층을 시각화; 문틈 너머 구도는 관찰자적 시선",
+      "color_palette": [
+        "#3a3530",
+        "#c8b89a",
+        "#9aa6b0",
+        "#e6e2da"
+      ],
+      "color_intent": "밝은 베이지·블루의 깨끗한 임상 톤; 문틀 실루엣으로 좌우를 어둡게 비네팅해 안쪽을 들여다보는 프레임 인 프레임",
+      "pose_description": "인물 없음; 문틀 너머 임상실 내부. 책상·두개골 모형이 중앙, 블루 진료 의자가 우측.",
+      "subject_motion": "static",
+      "prop_motion": "none",
+      "camera_motion": "slow_push_in",
+      "camera_motion_intensity": "low",
+      "camera_effect_local": "none",
+      "motion_blur": false,
+      "intra_cut_rhythm": "steady",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [
+        "film_grain"
+      ],
+      "vfx_intensity_local": "subtle",
+      "fact_check_flag": null,
+      "notes": "Cut 6 (17.02-20.23s): 임상실(치과/법의학) 문틈 너머. 모니터 암, 카메라, 두개골 모형 2개, 노트북, 블루 진료 의자, 검사 조명, 이(耳) 모형·책. 자막 '주위에...평판이나 명예' → '또는 체면'. 느린 푸시인.",
+      "visible_elements": {
+        "foreground": [
+          "dark doorframe edges forming a frame-in-frame at left and right",
+          "a wooden desk with a monitor on an articulated arm and a DSLR camera on it",
+          "two anatomical human skull models on the desk"
+        ],
+        "midground": [
+          "an open laptop on the desk",
+          "a low credenza with books, an ear/anatomy model, tissues and supplies",
+          "a black round stool"
+        ],
+        "background": [
+          "a blue upholstered medical exam chair at right",
+          "an articulated overhead exam lamp",
+          "a tall frosted/clear window with bright daylight",
+          "a light wood-veneer door and pale walls"
+        ],
+        "lighting_env": [
+          "bright cool daylight from the large window",
+          "even clinical ambient fill"
+        ],
+        "atmosphere": [
+          "clean bright clinical room, fine film grain, neutral-cool balance"
+        ]
+      },
+      "texture": {
+        "primary_subject": "bone_model_matte",
+        "secondary_objects": [
+          "wood_veneer_desk",
+          "leather_vinyl_chair",
+          "glass_window"
+        ],
+        "background_surface": "painted_wall_white",
+        "atmospheric": [
+          "film_grain"
+        ]
+      },
+      "lighting": {
+        "key_direction": "side_right",
+        "key_hardness": "soft",
+        "key_color_temp": "cool_7000K",
+        "fill_strength": "strong",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": false,
+        "practical_lights": [
+          "대형 창문 자연광",
+          "오버헤드 검사 조명(미점등)"
+        ],
+        "shadow_presence": "soft",
+        "overall_contrast": "mid_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#3a3530",
+          "#c8b89a",
+          "#9aa6b0",
+          "#e6e2da"
+        ],
+        "palette_role": {
+          "#3a3530": "doorframe_shadow_vignette",
+          "#c8b89a": "warm_wood_furniture_dominant",
+          "#9aa6b0": "cool_blue_chair_window",
+          "#e6e2da": "white_wall_daylight_highlight"
+        },
+        "color_relationship": "complementary",
+        "temperature_balance": "balanced",
+        "saturation_strategy": "muted",
+        "contrast_type": "luminance_high",
+        "accent_color": "#9aa6b0",
+        "accent_ratio": "15_percent",
+        "brand_color_match": [
+          "no brand color; clean clinical daylight grade"
+        ]
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A bright, clean clinical office interior viewed through a doorway, cinematic still at 1920x1080 pixels, 16:9 landscape. The shot is composed as a frame-in-frame: dark vertical edges of a doorframe occupy the far left and far right of the image, vignetting the bright room seen through the opening between them. Inside, a light wood-veneer desk sits at center-left, holding a flat monitor mounted on an articulated arm, a black DSLR camera lying on its side, and — most strikingly — two anatomical human skull models placed together on the desktop, one bone-white and one aged-ivory, their hollow eye sockets facing the room. An open dark laptop stands behind them. A black round adjustable stool is tucked under the desk. Along the back wall a low credenza holds neat rows of books, an anatomical ear model, boxes of tissues, a small framed item and clinical supplies. At the right of the frame is a blue upholstered medical/dental examination chair with an articulated overhead examination lamp arm reaching over it. A tall window with bright frosted-and-clear glazing fills the back-right with cool daylight, and the walls are pale and clean, the door a pale wood veneer. The lighting is bright, even and clinical: cool daylight near 7000K enters from the large window at right, strong soft ambient fill keeps shadows gentle, key-to-fill around 2:1, soft shadow presence, mid-key contrast. A fine cinematic film grain overlays the image and subtle letterbox cropping frames it. The lower-center carries a single line of white Korean caption text; across this shot the caption transitions from the third definition to its continuation reading 또는 체면, meaning 'or one's dignity / social face' (preserved verbatim; finalized in post). Composition centers the desk and the pair of skull models through the doorway, the blue exam chair balancing the right, the dark doorframe edges concentrating the eye inward. Color palette: warm wood furniture #c8b89a dominant (~35%), doorframe shadow vignette #3a3530 (~25%), cool blue chair and window light #9aa6b0 (~15%), white wall and daylight highlight #e6e2da (~25%). Color relationship: warm-cool complementary. Temperature: balanced. Saturation: muted naturalistic. Contrast: high-luminance mid-key. Texture: matte bone skull models, wood-veneer desk, vinyl exam chair, glass window, painted walls, fine grain. Style anchor: cinematic bright clinical office, frame-in-frame through a doorway, naturalistic cool daylight, fine 35mm grain, Korean documentary-film aesthetic, anatomical-skull and exam-chair motif, subtle letterbox, 4K capture. The image visualizes 'face' as dignity through a clinical space that physically studies the head and face. Additional craft detail for faithful reproduction: the lens reads as a normal focal length (roughly 35-40mm-equivalent) at a moderate aperture, the interior in clean focus while the dark doorframe edges at extreme left and right are close and soft, framing the bright room as a picture within the picture; the camera sits at standing eye-level peering through the open doorway, frontal and centered. The room's brightness and cleanliness contrast with the moody vignettes — pale walls, light wood-veneer furniture, a tall window of mixed frosted and clear glass flooding cool daylight. The defining props for re-creation: the wooden desk holding a monitor on an articulated arm, a black DSLR camera on its side, and two anatomical human skull models placed together (one bone-white, one aged-ivory) with hollow sockets facing the room; an open dark laptop behind them; a black round adjustable stool tucked under the desk; a low credenza along the back wall with books, an anatomical ear model, tissue boxes and supplies; and at the right a blue upholstered medical/dental examination chair with an articulated overhead exam lamp arm. Fine cinematic film grain overlays the image with subtle top-and-bottom letterbox bars. The grade is clean, naturalistic and mid-key with soft shadows and no crushed blacks. No people, no gore, no real remains — only clinical anatomical models. Render at full sharpness on the room interior with natural grain, cool daylight balance, broadcast-grade filmic master.",
+        "t2i_negative": "dark low-key, dramatic shadows, no doorframe, saturated colors, people, gore, realistic decomposed remains, watermark, cartoon, night, cluttered mess",
+        "i2v_motion": "The clinical room holds nearly still; only fine film grain shimmers and daylight stays steady, the skull models and chair motionless. A very slow, gentle push-in advances through the doorway toward the desk and skull models. Camera slow dolly/zoom, low intensity. The lower-center caption progresses from the reputation line to '또는 체면' (finalized in post). A male voiceover reads the matching continuation. ~3.2s, steady, no internal cut.",
+        "i2v_params": {
+          "clip_duration_sec": 3.212,
+          "camera_move": "push_in",
+          "subject_motion_level": "still",
+          "signature_effect": "none",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; skull models are generic anatomical props; Korean caption preserved verbatim; clean clinical daylight grade preserved"
+      }
+    },
+    {
+      "index": 7,
+      "duration": 3.336,
+      "framing": "WS",
+      "function": "definition_vignette_countenance",
+      "subject_action": "a bright executive office with floor-to-ceiling windows overlooking green trees and mountains; a wide desk holds a telephone, papers and a desk lamp; a high-backed executive chair, a credenza with books and a framed portrait photo, plants; the caption shows the fourth definition (countenance revealing a psychological state)",
+      "layout_grid": "center",
+      "subject_position": "center",
+      "subject_identity": "none_environment",
+      "subject_relationship_to_protagonist": null,
+      "mid_frame_path": "ADV-2026-037_frames/cut07_mid.png",
+      "subject_typo_layout": "typo_separate_zone",
+      "typo_motion": "하단 자막 '어떤 심리 상태가 나타난 형색' 표시·유지.",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "environment",
+      "gaze": "none",
+      "eye_contact_effect": null,
+      "props": [
+        "wide executive desk",
+        "desk telephone",
+        "papers",
+        "desk lamp",
+        "high-backed executive chair",
+        "credenza with books",
+        "framed portrait photo",
+        "plants"
+      ],
+      "prop_semantics": "전망 좋은 임원 집무실과 액자 인물 사진은 '심리 상태가 드러나는 형색'을 지위·내면이 비치는 공간으로 은유; 빈 의자는 부재한 결정권자",
+      "color_palette": [
+        "#2a4030",
+        "#b8a678",
+        "#88a0a8",
+        "#dfe6e0"
+      ],
+      "color_intent": "통창 너머 녹음과 하늘의 밝은 자연광으로 개방감·내면의 평온; 따뜻한 목재 책상과 차가운 유리의 대비",
+      "pose_description": "인물 없음; 넓은 책상과 하이백 의자가 중앙. 통창 풍경이 배경. 빈 의자가 부재한 인물을 암시.",
+      "subject_motion": "static",
+      "prop_motion": "none",
+      "camera_motion": "slow_push_in",
+      "camera_motion_intensity": "low",
+      "camera_effect_local": "none",
+      "motion_blur": false,
+      "intra_cut_rhythm": "steady",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [
+        "film_grain"
+      ],
+      "vfx_intensity_local": "subtle",
+      "fact_check_flag": null,
+      "notes": "Cut 7 (20.23-23.57s): 밝은 임원 집무실. 통창 녹음/산, 넓은 책상+전화기+서류+램프, 하이백 의자, 책 크레덴자, 액자 인물 사진, 식물. 자막 '어떤 심리 상태가 나타난 형색'. 느린 푸시인.",
+      "visible_elements": {
+        "foreground": [
+          "a wide dark-wood executive desk spanning the lower frame",
+          "a black desk telephone at left",
+          "loose white papers and a notepad on the desk",
+          "a pen holder with scissors and pens"
+        ],
+        "midground": [
+          "a black high-backed executive chair behind the desk facing away",
+          "a small framed portrait photograph of a person on the desk right",
+          "a black desk lamp arm at right"
+        ],
+        "background": [
+          "floor-to-ceiling windows revealing green trees, distant mountains and bright cloudy sky",
+          "a credenza/shelf with books and stacked papers",
+          "small potted plants at left and right",
+          "a framed item on the right wall"
+        ],
+        "lighting_env": [
+          "bright natural daylight flooding through the floor-to-ceiling windows",
+          "soft ambient bounce in the room"
+        ],
+        "atmosphere": [
+          "bright open executive suite, fine film grain, fresh daylight"
+        ]
+      },
+      "texture": {
+        "primary_subject": "wood_polished_desk",
+        "secondary_objects": [
+          "leather_executive_chair",
+          "glass_window",
+          "paper_documents"
+        ],
+        "background_surface": "glass_curtain_wall",
+        "atmospheric": [
+          "film_grain",
+          "window_daylight_glow"
+        ]
+      },
+      "lighting": {
+        "key_direction": "back",
+        "key_hardness": "soft",
+        "key_color_temp": "cool_7000K",
+        "fill_strength": "strong",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": true,
+        "practical_lights": [
+          "통창 자연광"
+        ],
+        "shadow_presence": "soft",
+        "overall_contrast": "mid_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#2a4030",
+          "#b8a678",
+          "#88a0a8",
+          "#dfe6e0"
+        ],
+        "palette_role": {
+          "#2a4030": "window_greenery_dominant",
+          "#b8a678": "warm_wood_desk",
+          "#88a0a8": "cool_glass_shadow",
+          "#dfe6e0": "sky_daylight_highlight"
+        },
+        "color_relationship": "complementary",
+        "temperature_balance": "split_warm_cool",
+        "saturation_strategy": "muted",
+        "contrast_type": "temperature_split",
+        "accent_color": "#2a4030",
+        "accent_ratio": "30_percent",
+        "brand_color_match": [
+          "no brand color; naturalistic daylight grade"
+        ]
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A bright, open executive office interior, cinematic still at 1920x1080 pixels, 16:9 landscape with subtle letterbox cropping, mid-key naturalistic daylight grade. The dominant feature is a wall of floor-to-ceiling glass windows across the back of the room, revealing a lush view of green deciduous trees, a distant tree-covered mountain ridge, low institutional buildings, and a bright sky scattered with clouds — the greenery and sky flooding the room with cool daylight. In the foreground a wide dark-wood executive desk spans the lower frame; on it sit a black multi-line desk telephone with a coiled cord at left, loose white papers and a notepad spread across the surface, and a pen holder with scissors and pens at right. Behind the desk stands a black high-backed leather executive chair facing away toward the windows, implying an absent decision-maker. To the right of the desk is a small framed portrait photograph of a person and a black articulated desk lamp. Along the right wall a credenza/shelf holds rows of books and stacked papers, with a framed item above; small potted plants sit at the lower left and right. The lighting is bright and soft: cool daylight near 7000K backlights the room through the windows, throwing a gentle rim around the chair and desk edge, with strong soft ambient fill, a key-to-fill ratio around 2:1, soft shadows, mid-key contrast. A fine cinematic film grain overlays the image. The lower-center carries a single line of white Korean caption text reading the fourth dictionary definition of face — meaning 'a countenance in which a certain psychological state appears' — the Korean reads 어떤 심리 상태가 나타난 형색, set in a clean modest white sans-serif subtitle (preserved verbatim; finalized in post). Composition centers the wide desk and empty executive chair against the panoramic window, framed by plants and shelving, with bright airy negative space and the green view as a calming backdrop. Color palette: window greenery #2a4030 dominant (~30%), warm wood desk #b8a678 (~25%), cool glass shadow #88a0a8 (~20%), sky daylight highlight #dfe6e0 (~25%). Color relationship: warm-cool complementary. Temperature: split warm-cool daylight. Saturation: muted naturalistic. Contrast: mid-key temperature split. Texture: polished wood desk, leather chair, glass curtain wall, paper documents, fine grain. Style anchor: cinematic bright executive office, naturalistic daylight, window backlight with rim, soft fill, fine 35mm grain, Korean documentary-film aesthetic, panoramic green-view office with empty chair, subtle letterbox, 4K capture. The image visualizes 'face' as countenance and inner state through a place of standing and reflection. Additional craft detail for faithful reproduction: the lens reads as a normal focal length (roughly 35mm-equivalent) at a moderate aperture, the desk and chair sharp while the green view beyond the glass softens gently; the camera is at seated eye-level, frontal to the high-backed chair, centered, the panoramic window filling the back wall. The lighting is window-backlit: cool daylight pours in from behind, throwing a soft luminous rim along the top edge of the executive chair and the desk's far edge, while strong soft ambient bounce fills the foreground so nothing goes muddy — a bright, airy, optimistic mid-key. The greenery and sky outside (trees, a distant ridge, low buildings, scattered clouds) form a calming natural backdrop that colors the room. Defining props for re-creation: a wide dark-wood executive desk spanning the lower frame; a black multi-line desk telephone with a coiled cord at left; loose white papers and a notepad spread on the surface; a pen holder with scissors and pens at right; a black high-backed leather executive chair facing away toward the windows; a small framed portrait photograph and a black articulated desk lamp at desk right; a credenza/shelf of books and stacked papers along the right wall with a framed item above; small potted plants lower-left and lower-right. Fine cinematic film grain overlays the image with subtle top-and-bottom letterbox bars. The grade is naturalistic mid-key, soft shadows, gentle highlight roll-off in the window. No people, no neon, no night — a serene daylit suite. Render at full sharpness with natural grain, fresh warm-cool daylight, broadcast-grade filmic master.",
+        "t2i_negative": "dark low-key, night, dramatic shadows, saturated vivid colors, people, cluttered mess, cityscape neon, watermark, cartoon, sterile empty box",
+        "i2v_motion": "The office holds nearly still; only fine film grain shimmers, daylight steady, leaves outside the window barely stirring. A very slow, gentle push-in advances toward the desk and empty executive chair against the windows. Camera slow dolly/zoom, low intensity. The lower-center caption shows '어떤 심리 상태가 나타난 형색' (finalized in post). A male voiceover reads the matching fourth definition. ~3.3s, steady, no internal cut.",
+        "i2v_params": {
+          "clip_duration_sec": 3.336,
+          "camera_move": "push_in",
+          "subject_motion_level": "still",
+          "signature_effect": "none",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; framed portrait photo generic; Korean caption preserved verbatim; naturalistic daylight grade preserved"
+      }
+    },
+    {
+      "index": 8,
+      "duration": 3.545,
+      "framing": "WS",
+      "function": "definition_vignette_representative_person",
+      "subject_action": "a dark film/TV studio: a single empty director's chair lit by a hard spotlight at center, surrounded by professional film gear — a camera crane/dolly with a cinema camera at left, an overhead boom microphone, a light panel and monitor on stands at right, flight cases; caption advances to the fifth definition (a person active in a field)",
+      "layout_grid": "center",
+      "subject_position": "center",
+      "subject_identity": "none_environment",
+      "subject_relationship_to_protagonist": null,
+      "mid_frame_path": "ADV-2026-037_frames/cut08_mid.png",
+      "subject_typo_layout": "typo_separate_zone",
+      "typo_motion": "자막이 '어떤 심리 상태가 나타난 형색' 잔존 후 '어떤 분야에 활동하는 사람'으로 전환.",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "environment",
+      "gaze": "none",
+      "eye_contact_effect": null,
+      "props": [
+        "empty director's chair",
+        "cinema camera on crane/dolly",
+        "overhead boom microphone",
+        "LED light panel on stand",
+        "monitor on stand",
+        "flight cases"
+      ],
+      "prop_semantics": "스포트라이트 받은 빈 감독 의자와 영화 장비는 '어떤 분야에 활동하는 사람(그 분야의 얼굴)'을 부재로 강조; 비어 있음이 곧 주인공의 자리",
+      "color_palette": [
+        "#0a0c0e",
+        "#3a4048",
+        "#cfd2d6",
+        "#6a7078"
+      ],
+      "color_intent": "검정 무한대 배경에 바닥 스포트라이트로 빈 의자만 도려내듯 강조하는 극적 저조도 연출",
+      "pose_description": "인물 없음; 중앙 빈 감독 의자가 스포트라이트 풀 안에 도드라짐. 좌우로 카메라·조명·모니터 장비가 어둠 속 실루엣.",
+      "subject_motion": "static",
+      "prop_motion": "none",
+      "camera_motion": "slow_push_in",
+      "camera_motion_intensity": "low",
+      "camera_effect_local": "none",
+      "motion_blur": false,
+      "intra_cut_rhythm": "steady",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [
+        "film_grain"
+      ],
+      "vfx_intensity_local": "subtle",
+      "fact_check_flag": null,
+      "notes": "Cut 8 (23.57-27.11s): 어두운 영화 스튜디오. 중앙 스포트라이트 받은 빈 감독 의자, 좌측 시네마 카메라+크레인/달리, 오버헤드 붐 마이크, 우측 조명패널·모니터, 플라이트 케이스. 자막 '어떤 심리...형색' → '어떤 분야에 활동하는 사람'. 느린 푸시인.",
+      "visible_elements": {
+        "foreground": [
+          "an empty tall black director's chair at center, lit by a hard spotlight pool on the floor"
+        ],
+        "midground": [
+          "a cinema camera mounted on a crane/dolly base at left",
+          "an overhead boom microphone reaching in from upper-left",
+          "an LED light panel on a tripod stand at right",
+          "a monitor/playback unit on a stand at right"
+        ],
+        "background": [
+          "near-infinite black studio void",
+          "stacked black flight cases at left-mid",
+          "more rigging and stands dissolving into darkness"
+        ],
+        "lighting_env": [
+          "a single hard top spotlight pooling on the chair and floor",
+          "deep black surround with faint edge spill on equipment"
+        ],
+        "atmosphere": [
+          "dramatic dark studio, fine film grain, theatrical single-source pool of light"
+        ]
+      },
+      "texture": {
+        "primary_subject": "fabric_canvas_chair",
+        "secondary_objects": [
+          "metal_matte_rigging",
+          "plastic_matte_cases"
+        ],
+        "background_surface": "studio_floor_seamless",
+        "atmospheric": [
+          "film_grain"
+        ]
+      },
+      "lighting": {
+        "key_direction": "top",
+        "key_hardness": "hard",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "none",
+        "key_to_fill_ratio": "silhouette",
+        "rim_light": false,
+        "practical_lights": [
+          "단일 하드 톱 스포트라이트"
+        ],
+        "shadow_presence": "deep",
+        "overall_contrast": "high_contrast"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#0a0c0e",
+          "#3a4048",
+          "#cfd2d6",
+          "#6a7078"
+        ],
+        "palette_role": {
+          "#0a0c0e": "background_black_dominant",
+          "#3a4048": "equipment_shadow_midtone",
+          "#cfd2d6": "spotlight_floor_highlight",
+          "#6a7078": "chair_lit_grey"
+        },
+        "color_relationship": "monochrome",
+        "temperature_balance": "cool_dominant",
+        "saturation_strategy": "desaturated_with_pop",
+        "contrast_type": "luminance_high",
+        "accent_color": "#cfd2d6",
+        "accent_ratio": "15_percent",
+        "brand_color_match": [
+          "no brand color; achromatic dramatic studio grade"
+        ]
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A dramatic, dark film and television studio interior, cinematic still at 1920x1080 pixels, 16:9 landscape, very high-contrast low-key grade. The scene is a near-infinite black studio void; at the precise center stands a single empty tall black canvas director's chair (the folding wood-and-fabric kind with arms), isolated and dramatized by a hard top spotlight that pools a bright circle of light onto the pale seamless studio floor around and beneath it, the chair casting a long crisp shadow across the lit floor. Surrounding the chair, dissolving into the surrounding darkness, is professional film production equipment: at the left, a cinema camera mounted on a wheeled crane/dolly base with a long jib arm; an overhead boom microphone on a long pole reaches in from the upper-left toward the chair; at the right, an LED light panel on a tripod stand and a monitor/playback unit on its own stand glow faintly; stacks of black flight cases sit at the left-mid ground, and more grip stands and rigging fade into black at the edges. The lighting is theatrical and singular: one hard top spotlight near 5500K carves the chair and a pool of floor out of the blackness, with essentially no fill, a silhouette-level key-to-fill ratio, deep black shadows swallowing everything beyond the pool, no rim light. A fine cinematic film grain overlays the image. The lower-center carries a single line of white Korean caption text; across this shot the caption advances to read 어떤 분야에 활동하는 사람, meaning 'a person who is active in a certain field' (the representative figure of a field), set in a clean modest white sans-serif subtitle (preserved verbatim; finalized in post). Composition centers the empty director's chair in its spotlight pool, the surrounding gear arranged symmetrically as dark silhouettes, the emptiness of the chair making the absent person the subject. Color palette: black void #0a0c0e dominant (~60%), equipment shadow midtone #3a4048 (~15%), spotlight floor highlight #cfd2d6 (~15%), lit chair grey #6a7078 (~10%). Color relationship: achromatic near-monochrome. Temperature: cool-neutral dominant. Saturation: desaturated with a luminous pop. Contrast: extreme luminance high-contrast. Texture: canvas chair fabric, matte metal rigging, matte plastic flight cases, seamless studio floor, fine grain. Style anchor: cinematic dark film studio, theatrical single hard spotlight, deep black void, fine 35mm grain, Korean fashion-film aesthetic, empty director's chair motif, film-gear silhouettes, 4K capture. The image visualizes 'face' as the representative person of a field through the spotlit but empty seat of authorship. Additional craft detail for faithful reproduction: the lens reads as a normal focal length (roughly 40-50mm-equivalent) at a moderate aperture, the director's chair sharp in its pool of light while the surrounding equipment reads as soft dark silhouettes; the camera is at standing eye-level, frontal, the empty chair dead-centered in the spotlight pool. The single hard top spotlight is the entire lighting design — a crisp circular pool on the pale seamless studio floor with the chair inside it, throwing a long hard-edged shadow, while everything beyond the pool plunges to near-pure black. Defining gear for re-creation, all reading as silhouettes at the edges of the dark: at the left a cinema camera mounted on a wheeled crane/dolly base with a long jib arm; an overhead boom microphone on a long pole reaching in from the upper-left toward the chair; at the right an LED light panel on a tripod stand and a separate monitor/playback unit on its own stand, each glowing faintly; stacks of black flight cases at the left-mid ground; more grip stands and rigging dissolving into black at the frame edges. Fine cinematic film grain overlays the image. The grade is achromatic and extreme high-contrast, deep crushed blacks, a clean bright pool of neutral light. No people seated — the chair is conspicuously empty, the absent author the true subject; no colored gels, no haze beams. Render at full sharpness on the chair and pool with natural grain, true deep blacks, broadcast-grade filmic master.",
+        "t2i_negative": "bright even lighting, hi-key, daylight, colored gels, people seated, saturated colors, watermark, cartoon, cluttered bright set, flat illumination",
+        "i2v_motion": "The studio holds nearly still; only fine film grain shimmers and the hard spotlight stays steady on the empty chair; the gear is motionless in shadow. A very slow, gentle push-in advances toward the spotlit director's chair. Camera slow dolly/zoom, low intensity. The lower-center caption advances to '어떤 분야에 활동하는 사람' (finalized in post). A male voiceover reads the matching fifth definition. ~3.5s, steady, no internal cut.",
+        "i2v_params": {
+          "clip_duration_sec": 3.545,
+          "camera_move": "push_in",
+          "subject_motion_level": "still",
+          "signature_effect": "none",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; generic film-studio gear and director's chair; Korean caption preserved verbatim; achromatic dramatic studio grade preserved"
+      }
+    },
+    {
+      "index": 9,
+      "duration": 1.252,
+      "framing": "ECU",
+      "function": "montage_emblem_beat",
+      "subject_action": "shallow-DOF macro of small primate/ape figurines (toy chimpanzee models) in the foreground with a blurred standing man in a blue shirt behind (a museum/exhibit context); rapid montage beat under the sixth-definition caption",
+      "layout_grid": "right_third",
+      "subject_position": "right_third",
+      "subject_identity": "none_environment",
+      "subject_relationship_to_protagonist": null,
+      "mid_frame_path": "ADV-2026-037_frames/cut09_mid.png",
+      "subject_typo_layout": "typo_separate_zone",
+      "typo_motion": "하단 자막 '어떤 사물의 진면목을 단적으로 보여주는 대표적 표상' 표시(이 문구가 컷9~14 몽타주 전체에 걸쳐 유지).",
+      "camera_angle": "eye_level",
+      "camera_facing": "profile",
+      "shot_scope": "environment",
+      "gaze": "none",
+      "eye_contact_effect": null,
+      "props": [
+        "primate/ape figurines (chimpanzee models)",
+        "a clear acrylic specimen block",
+        "blurred human figure in blue"
+      ],
+      "prop_semantics": "유인원 피규어(인류 진화 전시 맥락)는 '진면목을 보여주는 대표적 표상'으로서 얼굴/종(種)의 표상을 은유; 뒤의 흐릿한 인물은 관람객/전시 큐레이터 암시",
+      "color_palette": [
+        "#1a2a3a",
+        "#2a5a8a",
+        "#c8a878",
+        "#e6eef4"
+      ],
+      "color_intent": "강한 역광 보케로 피규어 실루엣을 도려내고 푸른 배경광과 따뜻한 피규어 톤을 대비",
+      "pose_description": "인물 없음(전경); 유인원 피규어가 우측에서 좌측을 향해 늘어섬. 배경 인물은 푸른 셔츠의 흐릿한 형상.",
+      "subject_motion": "micro_only",
+      "prop_motion": "none",
+      "camera_motion": "handheld_drift",
+      "camera_motion_intensity": "low",
+      "camera_effect_local": "shallow_dof_rack",
+      "motion_blur": false,
+      "intra_cut_rhythm": "accelerating",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [
+        "film_grain"
+      ],
+      "vfx_intensity_local": "subtle",
+      "fact_check_flag": null,
+      "notes": "Cut 9 (27.11-28.36s): 얕은 심도 매크로. 유인원 피규어 전경, 푸른 셔츠 인물 배경 보케. 진화/전시 맥락. 자막 '어떤 사물의 진면목을 단적으로 보여주는 대표적 표상' 시작. 몽타주 가속 시작.",
+      "visible_elements": {
+        "foreground": [
+          "two small primate/ape figurines (chimpanzee-like) in sharp silhouette at right",
+          "a clear acrylic specimen block at lower-left edge"
+        ],
+        "midground": [
+          "a blurred standing man in a dark-blue shirt behind the figurines"
+        ],
+        "background": [
+          "bright blown-out window/wall light, hazy bokeh"
+        ],
+        "lighting_env": [
+          "strong cool backlight blowing out the background",
+          "warm spill on the figurines"
+        ],
+        "atmosphere": [
+          "shallow-DOF macro, fine film grain, bright backlit haze"
+        ]
+      },
+      "texture": {
+        "primary_subject": "plastic_matte_figurine",
+        "secondary_objects": [
+          "acrylic_clear_block",
+          "fabric_shirt"
+        ],
+        "background_surface": "bokeh_abstract",
+        "atmospheric": [
+          "film_grain",
+          "backlight_haze"
+        ]
+      },
+      "lighting": {
+        "key_direction": "back",
+        "key_hardness": "soft",
+        "key_color_temp": "cool_7000K",
+        "fill_strength": "minimal",
+        "key_to_fill_ratio": "4:1",
+        "rim_light": true,
+        "practical_lights": [
+          "창문/전시 배경광"
+        ],
+        "shadow_presence": "soft",
+        "overall_contrast": "high_contrast"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#1a2a3a",
+          "#2a5a8a",
+          "#c8a878",
+          "#e6eef4"
+        ],
+        "palette_role": {
+          "#1a2a3a": "figurine_shadow_dark",
+          "#2a5a8a": "background_blue_blur",
+          "#c8a878": "warm_figurine_highlight",
+          "#e6eef4": "blown_backlight_highlight"
+        },
+        "color_relationship": "complementary",
+        "temperature_balance": "split_warm_cool",
+        "saturation_strategy": "muted",
+        "contrast_type": "luminance_high",
+        "accent_color": "#2a5a8a",
+        "accent_ratio": "15_percent",
+        "brand_color_match": [
+          "no brand color; backlit filmic grade"
+        ]
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A shallow depth-of-field macro close-up, cinematic still at 1920x1080 pixels, 16:9 landscape, high-contrast backlit grade, the opening beat of an accelerating montage. In the right portion of the frame, two small primate figurines — chimpanzee-like apes molded in dark plastic, one larger in front and a second behind — stand in crisp sharp silhouette, their faces and hunched postures detailed, mounted as if part of a natural-history exhibit about human evolution. At the lower-left edge a clear acrylic specimen block (the kind enclosing a fossil or bone) catches light. Behind the figurines, thrown completely out of focus, is the soft blurred shape of a standing man wearing a dark-blue shirt, his body a wash of navy bokeh. The background beyond him is a bright, blown-out haze of cool window or gallery light (#e6eef4), creating a strong backlight that rims the figurines and separates them from the soft field. The lighting is high-contrast and backlit: a strong cool source near 7000K blows out the background and rims the figurine edges, with warm spill (#c8a878) catching their fronts, minimal fill, a key-to-fill ratio around 4:1, soft shadows, rim light present. A fine cinematic film grain overlays the image. The lower-center carries a single line of white Korean caption text reading the sixth dictionary definition of face — meaning 'a representative symbol that plainly shows the true nature of something' — the Korean reads 어떤 사물의 진면목을 단적으로 보여주는 대표적 표상, set in a clean modest white sans-serif subtitle (preserved verbatim; finalized in post). Composition places the sharp ape figurines on the right third in shallow focus, the blurred human and blown background filling the rest, a tactile museum-macro feel. Color palette: dark figurine shadow #1a2a3a (~25%), background blue blur #2a5a8a (~20%), warm figurine highlight #c8a878 (~15%), blown backlight highlight #e6eef4 (~40%). Color relationship: warm-cool complementary. Temperature: split warm-cool. Saturation: muted. Contrast: high-luminance backlit. Texture: matte plastic figurines, clear acrylic block, soft fabric shirt, fine grain. Style anchor: cinematic shallow-DOF museum macro, strong backlight bokeh, fine 35mm grain, Korean fashion-film aesthetic, human-evolution ape-figurine motif, 4K capture. Part of a rapid montage visualizing 'face' as the emblem of a thing's true nature. Additional craft detail for faithful reproduction: the lens reads as a macro or long telephoto (roughly 90-100mm-equivalent) wide open, giving extremely shallow focus that holds only the front ape figurine crisp while the second figurine, the man and the background melt into progressively softer blur; the camera is near table-height, looking across the figurines so they read as a small procession in profile facing screen-left, echoing classic evolution-of-man imagery. The defining elements: two dark-plastic chimpanzee-like primate figurines posed mid-stride, their molded faces, brows and hunched shoulders catching a warm rim of light along the top edges; a clear acrylic specimen block (the kind enclosing a fossil or bone) at the lower-left edge; and behind them the soft navy bokeh wash of a standing man's blue-shirted torso. The background is a bright, blown-out haze of cool gallery/window light that floods most of the frame and provides the strong separating backlight. This is the first beat of an accelerating montage, so the framing is tactile and immediate, the shallow plane and bright halation giving a precious, exhibit-case intimacy. Fine cinematic film grain overlays the image. The grade is warm-cool with a bright blown highlight and a warm figurine pop against navy. No live animals, no logo, no caption other than the held subtitle. Render at full sharpness on the front figurine with creamy bokeh elsewhere, natural grain, bright backlit haze, broadcast-grade filmic master.",
+        "t2i_negative": "deep focus everything sharp, flat lighting, dark background, no bokeh, live monkeys, saturated colors, watermark, cartoon, daylight flat",
+        "i2v_motion": "A brief, fast montage beat (~1.3s): the ape figurines hold with only the faintest micro-shift while the camera drifts slightly handheld and the shallow focus breathes a touch; the blurred man behind may sway minimally. Strong backlight steady, fine grain shimmering. The lower-center caption '어떤 사물의 진면목을 단적으로 보여주는 대표적 표상' holds (finalized in post). The pace is quick, part of an accelerating montage, ending on a hard cut to the next beat. A male voiceover continues the sixth definition.",
+        "i2v_params": {
+          "clip_duration_sec": 1.252,
+          "camera_move": "handheld_drift",
+          "subject_motion_level": "micro",
+          "signature_effect": "none",
+          "pacing": "accelerating",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; ape figurines are generic exhibit props; blurred person anonymous; Korean caption preserved verbatim; backlit filmic grade preserved"
+      }
+    },
+    {
+      "index": 10,
+      "duration": 1.167,
+      "framing": "ECU",
+      "function": "montage_emblem_beat",
+      "subject_action": "very dark, heavily out-of-focus abstract close-up of a person (a face/figure in profile) amid warm bokeh dots; an atmospheric moody montage beat under the same sixth-definition caption",
+      "layout_grid": "right_third",
+      "subject_position": "right_third",
+      "subject_identity": "obscured_figure_anonymous",
+      "subject_relationship_to_protagonist": "extra_atmosphere",
+      "mid_frame_path": "ADV-2026-037_frames/cut10_mid.png",
+      "subject_typo_layout": "typo_separate_zone",
+      "typo_motion": "하단 자막 '어떤 사물의 진면목을 단적으로 보여주는 대표적 표상' 유지.",
+      "camera_angle": "eye_level",
+      "camera_facing": "profile",
+      "shot_scope": "face_only",
+      "gaze": "off_camera",
+      "eye_contact_effect": null,
+      "props": [
+        "warm practical bokeh lights"
+      ],
+      "prop_semantics": "따뜻한 보케 점광들 속 흐릿한 인물은 '표상'으로서의 얼굴을 추상적·정서적으로 암시",
+      "color_palette": [
+        "#0c0e0a",
+        "#2a3028",
+        "#8a7050",
+        "#d8b070"
+      ],
+      "color_intent": "거의 검정에 가까운 저조도와 따뜻한 보케로 신비롭고 내밀한 톤; 형체를 흐려 보편적 '사람'을 암시",
+      "pose_description": "흐릿한 인물 형상이 우측에 어렴풋이; 얼굴/어깨 윤곽만 보케 속에 잡힘. 구체적 신원 식별 불가.",
+      "subject_motion": "micro_only",
+      "prop_motion": "none",
+      "camera_motion": "handheld_drift",
+      "camera_motion_intensity": "low",
+      "camera_effect_local": "shallow_dof_rack",
+      "motion_blur": false,
+      "intra_cut_rhythm": "accelerating",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [
+        "film_grain"
+      ],
+      "vfx_intensity_local": "subtle",
+      "fact_check_flag": null,
+      "notes": "Cut 10 (28.36-29.53s): 매우 어두운 추상 보케 클로즈업. 흐릿한 인물 측면 형상, 따뜻한 보케 점광. 자막 유지. 몽타주 가속 비트.",
+      "visible_elements": {
+        "foreground": [
+          "an extremely out-of-focus dark human figure/face at right, barely legible"
+        ],
+        "midground": [
+          "scattered warm bokeh light dots (white and amber) across the lower-right"
+        ],
+        "background": [
+          "near-black field with faint greenish-grey falloff"
+        ],
+        "lighting_env": [
+          "warm practical point lights rendered as bokeh",
+          "deep ambient darkness"
+        ],
+        "atmosphere": [
+          "very dark moody abstraction, fine film grain, intimate bokeh"
+        ]
+      },
+      "texture": {
+        "primary_subject": "skin_blurred_soft",
+        "secondary_objects": [
+          "bokeh_light_orbs"
+        ],
+        "background_surface": "black_falloff",
+        "atmospheric": [
+          "film_grain",
+          "bokeh"
+        ]
+      },
+      "lighting": {
+        "key_direction": "side_right",
+        "key_hardness": "soft",
+        "key_color_temp": "warm_3000K",
+        "fill_strength": "none",
+        "key_to_fill_ratio": "silhouette",
+        "rim_light": false,
+        "practical_lights": [
+          "따뜻한 점광(보케)"
+        ],
+        "shadow_presence": "deep",
+        "overall_contrast": "low_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#0c0e0a",
+          "#2a3028",
+          "#8a7050",
+          "#d8b070"
+        ],
+        "palette_role": {
+          "#0c0e0a": "background_black_dominant",
+          "#2a3028": "shadow_greenish_midtone",
+          "#8a7050": "warm_figure_lowlight",
+          "#d8b070": "warm_bokeh_highlight"
+        },
+        "color_relationship": "monochrome",
+        "temperature_balance": "warm_dominant",
+        "saturation_strategy": "desaturated_with_pop",
+        "contrast_type": "luminance_low",
+        "accent_color": "#d8b070",
+        "accent_ratio": "5_percent",
+        "brand_color_match": [
+          "no brand color; warm low-key bokeh grade"
+        ]
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "An extremely dark, heavily out-of-focus abstract close-up, cinematic still at 1920x1080 pixels, 16:9 landscape, low-key warm grade, a fleeting montage beat. The frame is dominated by near-total darkness (#0c0e0a) out of which a human figure — likely a face and shoulder seen in soft profile — emerges only as a barely legible blurred mass at the right side, with no sharp detail, just the suggestion of a head and a hint of skin in warm lowlight (#8a7050). Scattered across the lower-right are warm bokeh light orbs, soft circles of white and amber (#d8b070) thrown completely out of focus, the only crisp-edged shapes in an otherwise melted image. The background falls off into a faint greenish-grey shadow (#2a3028) and then to black. The lighting is intimate and low-key: a warm practical source near 3000K renders as bokeh and gives the figure a faint warm edge, with no fill, a silhouette-level key-to-fill ratio, deep shadows, no rim light. A fine cinematic film grain sits over the whole frame. The lower-center carries the same single line of white Korean caption continuing the sixth dictionary definition of face — 어떤 사물의 진면목을 단적으로 보여주는 대표적 표상 — set in a clean white sans-serif subtitle (preserved verbatim; finalized in post). Composition places the blurred figure on the right third with bokeh in the lower-right, the vast dark negative space evoking mystery and the universality of an unidentifiable person. Color palette: black field #0c0e0a dominant (~65%), greenish shadow midtone #2a3028 (~20%), warm figure lowlight #8a7050 (~10%), warm bokeh highlight #d8b070 (~5%). Color relationship: warm near-monochrome on black. Temperature: warm dominant. Saturation: desaturated with a warm bokeh pop. Contrast: low-key luminance. Texture: softly blurred skin, bokeh light orbs, fine grain. Style anchor: cinematic ultra-dark abstract bokeh close-up, A24 intimate low-key grade, warm practical bokeh, fine 35mm grain, Korean fashion-film aesthetic, anonymous blurred human, 4K capture. Part of a rapid montage visualizing 'face' as a representative emblem. Additional craft detail for faithful reproduction: the lens reads as a long telephoto wide open (roughly 85-135mm-equivalent at a wide aperture), focus pulled almost entirely off the subject so the human form is reduced to a soft tonal suggestion of head and shoulder with no recoverable identifying detail — deliberately, poetically out of focus. The only crisp shapes are the bokeh orbs: soft circular discs of out-of-focus warm practical lights scattered across the lower-right, a few white and several amber, their edges clean and rounded, floating like embers in the dark. The dominant field is near-pure black, with a faint greenish-grey shadow gradient where the room falls off, and a barely-there warm edge on the figure where a 3000K practical kisses it. The mood is the most abstract and interior of the montage — a held breath, a mystery, the universal anonymous person rather than any individual. The camera drifts very slightly, handheld, and the focus breathes, so across the brief beat the orbs swell and contract. Fine cinematic film grain sits heavily over the dark frame, the grain most visible in the shadow areas. The grade is warm low-key, blacks crushed but textured, a single warm bokeh pop the only saturation. No identifiable face, no logo, only the held white subtitle at lower-center. Render with soft melted subject, crisp warm bokeh discs, natural grain, true deep blacks, broadcast-grade filmic master, evoking an intimate cinematic nocturne.",
+        "t2i_negative": "sharp focus, bright lighting, hi-key, identifiable face, daylight, saturated colors, watermark, cartoon, clean studio, flat illumination",
+        "i2v_motion": "A brief, fast montage beat (~1.2s): the blurred figure barely shifts as the camera drifts slightly handheld and the bokeh orbs bloom and breathe; the warm practical lights stay steady, fine grain shimmering. The lower-center caption holds (finalized in post). Quick accelerating montage pace, ending on a hard cut. A male voiceover continues the definition.",
+        "i2v_params": {
+          "clip_duration_sec": 1.167,
+          "camera_move": "handheld_drift",
+          "subject_motion_level": "micro",
+          "signature_effect": "none",
+          "pacing": "accelerating",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; figure deliberately abstracted and anonymous; Korean caption preserved verbatim; warm low-key bokeh grade preserved"
+      }
+    },
+    {
+      "index": 11,
+      "duration": 1.085,
+      "framing": "MCU",
+      "function": "montage_emblem_beat",
+      "subject_action": "a monitor displaying a medical/forensic 3D CT reconstruction of a human skull (two views — profile and frontal, labeled 'Layout / Study / (5) VRT', '10 cm' scale), with a person's out-of-focus profile in the right foreground looking at it; montage beat under the same caption",
+      "layout_grid": "left_third",
+      "subject_position": "left_third",
+      "subject_identity": "obscured_figure_anonymous",
+      "subject_relationship_to_protagonist": "extra_atmosphere",
+      "mid_frame_path": "ADV-2026-037_frames/cut11_mid.png",
+      "subject_typo_layout": "typo_separate_zone",
+      "typo_motion": "하단 자막 '어떤 사물의 진면목을 단적으로 보여주는 대표적 표상' 유지. 모니터 UI 텍스트(Layout/Study/VRT/10 cm)는 소품.",
+      "camera_angle": "eye_level",
+      "camera_facing": "profile",
+      "shot_scope": "environment",
+      "gaze": "at_product",
+      "eye_contact_effect": null,
+      "props": [
+        "monitor with 3D CT skull reconstruction",
+        "medical imaging UI",
+        "blurred person's profile"
+      ],
+      "prop_semantics": "CT 3D 두개골 재구성 화면은 얼굴의 '진면목(뼈대=구조)'을 단적으로 보여주는 표상으로 정의를 직역; 보는 인물은 진단/연구자",
+      "color_palette": [
+        "#15181c",
+        "#c8b8a0",
+        "#d8c0a0",
+        "#e8e4dc"
+      ],
+      "color_intent": "어두운 모니터 베젤과 밝은 두개골 렌더의 대비; 따뜻한 살색 톤의 인물 측면 보케로 임상-인간의 대조",
+      "pose_description": "인물 없음(주); 우측에 흐릿한 인물 측면(코·입 윤곽). 좌측 모니터의 두개골 2뷰가 선명.",
+      "subject_motion": "micro_only",
+      "prop_motion": "none",
+      "camera_motion": "handheld_drift",
+      "camera_motion_intensity": "low",
+      "camera_effect_local": "shallow_dof_rack",
+      "motion_blur": false,
+      "intra_cut_rhythm": "accelerating",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [
+        "film_grain"
+      ],
+      "vfx_intensity_local": "subtle",
+      "fact_check_flag": null,
+      "notes": "Cut 11 (29.53-30.61s): 모니터의 3D CT 두개골 재구성(측면·정면 2뷰, 'Layout/Study/(5) VRT', '10 cm'). 우측 흐릿한 인물 측면. 자막 유지. 몽타주 비트.",
+      "visible_elements": {
+        "foreground": [
+          "a computer monitor (left half) showing two 3D-reconstructed CT views of a human skull — an angled profile above and a side profile below — rendered in bone-white/ivory on black"
+        ],
+        "midground": [
+          "the monitor bezel and a pale wall edge at center",
+          "medical imaging UI text along the top ('Layout', 'Study', '(5) VRT') and '10 cm' scale bars"
+        ],
+        "background": [
+          "an out-of-focus person's profile (nose, lips, cheek) at right, softly lit",
+          "pale clinic wall"
+        ],
+        "lighting_env": [
+          "the monitor glow on the foreground",
+          "soft daylight on the blurred profile at right"
+        ],
+        "atmosphere": [
+          "clinical macro, fine film grain, monitor-lit"
+        ]
+      },
+      "texture": {
+        "primary_subject": "screen_glass_render",
+        "secondary_objects": [
+          "skin_blurred_soft",
+          "plastic_matte_bezel"
+        ],
+        "background_surface": "painted_wall_pale",
+        "atmospheric": [
+          "film_grain"
+        ]
+      },
+      "lighting": {
+        "key_direction": "side_right",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "minimal",
+        "key_to_fill_ratio": "4:1",
+        "rim_light": false,
+        "practical_lights": [
+          "모니터 화면광",
+          "창측 자연광"
+        ],
+        "shadow_presence": "soft",
+        "overall_contrast": "mid_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#15181c",
+          "#c8b8a0",
+          "#d8c0a0",
+          "#e8e4dc"
+        ],
+        "palette_role": {
+          "#15181c": "monitor_black_dominant",
+          "#c8b8a0": "skull_render_bone",
+          "#d8c0a0": "warm_skin_blur",
+          "#e8e4dc": "wall_daylight_highlight"
+        },
+        "color_relationship": "analogous",
+        "temperature_balance": "warm_dominant",
+        "saturation_strategy": "muted",
+        "contrast_type": "luminance_high",
+        "accent_color": "#c8b8a0",
+        "accent_ratio": "30_percent",
+        "brand_color_match": [
+          "no brand color; clinical warm-neutral grade"
+        ]
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A clinical macro close-up, cinematic still at 1920x1080 pixels, 16:9 landscape, mid-key warm-neutral grade, a fast montage beat. The left half of the frame is filled by a computer monitor displaying a medical/forensic 3D CT reconstruction of a human skull: two volume-rendered views stacked vertically — an angled three-quarter profile of the skull above and a lateral side profile below — rendered in bone-white and ivory tones (#c8b8a0) against the monitor's black background, with faint reddish tissue speckling near the jaw. Across the top of the screen runs medical imaging interface text reading labels such as 'Layout', 'Study', and '(5) VRT', and small '10 cm' scale bars sit beside each view (UI text as on-screen prop). The monitor bezel and a pale wall edge occupy the center. At the right of the frame, thrown softly out of focus, is the profile of a person — the curve of a nose, lips and cheek in warm skin tone (#d8c0a0) — gazing toward the screen, lit by soft daylight, suggesting a clinician or researcher studying the scan. The pale clinic wall (#e8e4dc) glows behind. The lighting is mid-key: the monitor glow keys the left foreground while soft daylight near 5500K models the blurred profile at right, minimal fill, key-to-fill around 4:1, soft shadows, no rim light. A fine cinematic film grain overlays the image. The lower-center carries the same white Korean caption continuing the sixth dictionary definition — 어떤 사물의 진면목을 단적으로 보여주는 대표적 표상 — in a clean white sans-serif subtitle (preserved verbatim; finalized in post). Composition places the sharp CT skull monitor on the left third, the blurred human profile on the right, juxtaposing the clinical bone-truth of a face with a living one. Color palette: monitor black #15181c dominant (~35%), skull render bone #c8b8a0 (~30%), warm skin blur #d8c0a0 (~20%), wall daylight highlight #e8e4dc (~15%). Color relationship: warm analogous. Temperature: warm dominant. Saturation: muted. Contrast: high-luminance mid-key. Texture: glass screen render, softly blurred skin, matte monitor bezel, fine grain. Style anchor: cinematic clinical macro, monitor-lit, soft daylight on subject, fine 35mm grain, Korean fashion-film aesthetic, CT-skull-reconstruction motif, 4K capture. Part of a rapid montage visualizing 'face' as the emblem of true nature — here, the literal bone structure beneath a face. Additional craft detail for faithful reproduction: the lens reads as a normal-to-short-telephoto focal length (roughly 50mm-equivalent) at a moderate-to-wide aperture, with focus on the monitor's CT imagery while the foreground person's profile at right sits softly out of focus; the camera is at seated eye-level, angled so the screen fills the left half and the over-the-shoulder profile frames the right. The CT reconstruction must read convincingly: two volume-rendered (VRT) views of a human skull stacked vertically — an angled three-quarter view above and a lateral profile below — in bone-white and ivory against the monitor's black UI, with faint reddish residual tissue near the jawline and teeth; clinical interface text along the top ('Layout', 'Study', '(5) VRT') and small '10 cm' scale bars beside each view, all as on-screen UI props. The blurred foreground profile is just the soft curve of a nose, lips and cheek in warm skin tone, a clinician studying the scan. The monitor glow is the foreground key; soft daylight models the profile. Fine cinematic film grain overlays the image. The grade is warm-neutral clinical mid-key with soft shadows. No gore, no real cadaver, the skull strictly a CT render; no logo; the held white subtitle sits at lower-center. Render at full sharpness on the screen with soft blurred profile, natural grain, monitor-and-daylight balance, broadcast-grade filmic master.",
+        "t2i_negative": "deep focus, flat lighting, dark room, no UI text, gore, real cadaver, saturated colors, watermark, cartoon, daylight flat, identifiable sharp face",
+        "i2v_motion": "A brief, fast montage beat (~1.1s): the CT skull views hold static on the monitor while the camera drifts slightly handheld and the blurred profile breathes; monitor glow steady, fine grain shimmering. The lower-center caption holds (finalized in post). Quick accelerating montage pace, ending on a hard cut. A male voiceover continues the definition.",
+        "i2v_params": {
+          "clip_duration_sec": 1.085,
+          "camera_move": "handheld_drift",
+          "subject_motion_level": "micro",
+          "signature_effect": "none",
+          "pacing": "accelerating",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; CT skull render and UI text generic clinical props; blurred profile anonymous; Korean caption preserved verbatim; clinical warm-neutral grade preserved"
+      }
+    },
+    {
+      "index": 12,
+      "duration": 0.959,
+      "framing": "ECU",
+      "function": "montage_emblem_beat",
+      "subject_action": "close-up of a young woman resting her chin and cheek on her hand in a contemplative pose, wearing a thin gold necklace and a ring, three-quarter/profile against a cool blurred interior; montage beat under the same caption",
+      "layout_grid": "center",
+      "subject_position": "center",
+      "subject_identity": "contemplative_woman_anonymous",
+      "subject_relationship_to_protagonist": "extra_atmosphere",
+      "mid_frame_path": "ADV-2026-037_frames/cut12_mid.png",
+      "subject_typo_layout": "typo_separate_zone",
+      "typo_motion": "하단 자막 '어떤 사물의 진면목을 단적으로 보여주는 대표적 표상' 유지.",
+      "camera_angle": "eye_level",
+      "camera_facing": "three_quarter",
+      "shot_scope": "face_only",
+      "gaze": "off_camera",
+      "eye_contact_effect": null,
+      "props": [
+        "thin gold necklace",
+        "ring"
+      ],
+      "prop_semantics": "턱을 괸 사색의 포즈와 섬세한 장신구는 '표상'으로서의 얼굴을 인간적·내면적으로 제시",
+      "color_palette": [
+        "#3a4a52",
+        "#c8a88e",
+        "#8a7268",
+        "#e0ded8"
+      ],
+      "color_intent": "차가운 회청 배경과 따뜻한 살색의 대비로 사색적·정서적 인물 톤",
+      "pose_description": "젊은 여성이 손등/손가락을 턱·뺨에 대고 사색하는 포즈. 측면~3/4 각도, 시선은 화면 밖.",
+      "subject_motion": "micro_only",
+      "prop_motion": "none",
+      "camera_motion": "handheld_drift",
+      "camera_motion_intensity": "low",
+      "camera_effect_local": "shallow_dof_rack",
+      "motion_blur": false,
+      "intra_cut_rhythm": "accelerating",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [
+        "film_grain"
+      ],
+      "vfx_intensity_local": "subtle",
+      "fact_check_flag": null,
+      "notes": "Cut 12 (30.61-31.57s): 젊은 여성 턱 괸 사색 포즈, 가는 금목걸이·반지, 3/4 측면, 차가운 보케 배경. 자막 유지. 몽타주 비트.",
+      "visible_elements": {
+        "foreground": [
+          "a young woman's lower face (chin, lips, jaw) and her hand resting fingers against her cheek/chin",
+          "a thin gold necklace and a ring on her finger"
+        ],
+        "midground": [
+          "her dark hair tied back at right",
+          "her cream/white top shoulder"
+        ],
+        "background": [
+          "a cool grey-blue blurred interior (office/clinic) out of focus"
+        ],
+        "lighting_env": [
+          "soft cool daylight from the left",
+          "gentle ambient fill"
+        ],
+        "atmosphere": [
+          "intimate contemplative macro, fine film grain, cool-warm balance"
+        ]
+      },
+      "texture": {
+        "primary_subject": "skin_natural",
+        "secondary_objects": [
+          "metal_gold_jewelry",
+          "fabric_cotton_top"
+        ],
+        "background_surface": "bokeh_abstract",
+        "atmospheric": [
+          "film_grain"
+        ]
+      },
+      "lighting": {
+        "key_direction": "side_left",
+        "key_hardness": "soft",
+        "key_color_temp": "cool_7000K",
+        "fill_strength": "minimal",
+        "key_to_fill_ratio": "4:1",
+        "rim_light": false,
+        "practical_lights": [
+          "창측 자연광"
+        ],
+        "shadow_presence": "soft",
+        "overall_contrast": "mid_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#3a4a52",
+          "#c8a88e",
+          "#8a7268",
+          "#e0ded8"
+        ],
+        "palette_role": {
+          "#3a4a52": "cool_background_blur",
+          "#c8a88e": "warm_skin_lit",
+          "#8a7268": "skin_shadow_midtone",
+          "#e0ded8": "top_highlight_cream"
+        },
+        "color_relationship": "complementary",
+        "temperature_balance": "split_warm_cool",
+        "saturation_strategy": "muted",
+        "contrast_type": "temperature_split",
+        "accent_color": "#c8a88e",
+        "accent_ratio": "30_percent",
+        "brand_color_match": [
+          "no brand color; warm-cool intimate grade"
+        ]
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "An intimate macro close-up of a young Korean woman in a contemplative pose, cinematic still at 1920x1080 pixels, 16:9 landscape, mid-key warm-cool grade, a fast montage beat. The frame captures the lower portion of her face — chin, lips and jawline — and her hand raised so that her fingers and the back of her hand rest gently against her cheek and chin in a thoughtful, pensive gesture; the focus sits on the skin and hand. She wears a delicate thin gold necklace at her throat and a slim gold ring on a finger. Her dark hair is tied back and falls at the right of the frame; she wears a soft cream/white cotton top, its shoulder visible at lower right. Behind her, a cool grey-blue interior (an office or clinic) is thrown completely out of focus into soft bokeh (#3a4a52). She gazes off-camera, downward and to the side, lost in thought. The lighting is mid-key warm-cool: a soft cool daylight near 7000K keys from the left modeling her skin in warm tones (#c8a88e) with shadowed midtones (#8a7268), minimal fill, key-to-fill around 4:1, soft shadows, no rim light. A fine cinematic film grain overlays the image. The lower-center carries the same white Korean caption continuing the sixth dictionary definition — 어떤 사물의 진면목을 단적으로 보여주는 대표적 표상 — in a clean white sans-serif subtitle (preserved verbatim; finalized in post). Composition centers her chin and resting hand with her hair and top framing the right, the soft cool background isolating her, an emotional human pause within the montage. Color palette: cool background blur #3a4a52 (~30%), warm lit skin #c8a88e (~30%), skin shadow midtone #8a7268 (~20%), cream top highlight #e0ded8 (~20%). Color relationship: warm-cool complementary. Temperature: split warm-cool. Saturation: muted. Contrast: temperature-split mid-key. Texture: natural skin, gold metal jewelry, cotton top, fine grain. Style anchor: cinematic intimate contemplative macro, soft cool daylight key, fine 35mm grain, Korean fashion-film aesthetic, thoughtful chin-on-hand pose, delicate jewelry, 4K capture. Part of a rapid montage visualizing 'face' as a representative emblem — here, the human, emotional face. Additional craft detail for faithful reproduction: the lens reads as a short telephoto (roughly 85mm-equivalent) at a wide aperture, focus on her skin and resting hand while the background interior dissolves into soft cool bokeh; the camera is at eye-level in a three-quarter view, framing the lower face and the hand so the pensive gesture reads clearly without showing the full face. The defining details: her fingers and the back of her hand pressed gently to her cheek and chin in a thoughtful pose; a delicate thin gold necklace at her throat; a slim gold ring on a finger; dark hair tied back falling at the right; a soft cream/white cotton top with its shoulder visible at lower right. Her gaze is off-camera, downward and aside, absorbed in thought, lips relaxed — an emotional, human pause amid the montage of objects and abstractions. The lighting is a soft cool daylight keying from the left, warming her skin to gentle peach midtones with soft shadow on the far side, no harsh contrast. Fine cinematic film grain overlays the image. The grade is warm-cool mid-key, soft and tender, no crushed blacks. No full identifiable face, no glamour makeup, no logo; the held white subtitle sits at lower-center. Render at full sharpness on the skin and hand with creamy cool bokeh behind, natural grain, soft warm-cool daylight, broadcast-grade filmic master.",
+        "t2i_negative": "deep focus, flat lighting, dark room, full face sharp identifiable, heavy makeup glamour, saturated colors, watermark, cartoon, studio backdrop",
+        "i2v_motion": "A brief, fast montage beat (~1.0s): the woman holds her pensive chin-on-hand pose with breathing-level micro-motion — perhaps the faintest finger shift or breath; the camera drifts slightly handheld and focus breathes. Soft daylight steady, fine grain shimmering. The lower-center caption holds (finalized in post). Quick accelerating montage pace, ending on a hard cut. A male voiceover continues the definition.",
+        "i2v_params": {
+          "clip_duration_sec": 0.959,
+          "camera_move": "handheld_drift",
+          "subject_motion_level": "micro",
+          "signature_effect": "none",
+          "pacing": "accelerating",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; woman is a generic anonymous Korean young adult (no celebrity likeness); Korean caption preserved verbatim; warm-cool intimate grade preserved"
+      }
+    },
+    {
+      "index": 13,
+      "duration": 0.834,
+      "framing": "ECU",
+      "function": "montage_emblem_beat",
+      "subject_action": "cool-toned macro of a hand near white paper on a desk with a black stylus/pen resting on the page (someone drawing/signing), very shallow DOF; rapid montage beat under the same caption",
+      "layout_grid": "center",
+      "subject_position": "center",
+      "subject_identity": "none_environment",
+      "subject_relationship_to_protagonist": null,
+      "mid_frame_path": "ADV-2026-037_frames/cut13_mid.png",
+      "subject_typo_layout": "typo_separate_zone",
+      "typo_motion": "하단 자막 '어떤 사물의 진면목을 단적으로 보여주는 대표적 표상' 유지.",
+      "camera_angle": "high_angle",
+      "camera_facing": "frontal",
+      "shot_scope": "environment",
+      "gaze": "none",
+      "eye_contact_effect": null,
+      "props": [
+        "white paper sheets",
+        "black stylus/pen",
+        "desk surface"
+      ],
+      "prop_semantics": "백지 위 스타일러스/펜은 무언가를 그리거나 서명하는 창작·기록 행위를 암시해 '표상'을 만드는 손을 은유",
+      "color_palette": [
+        "#5a6a70",
+        "#aeb8bc",
+        "#2a3236",
+        "#dfe4e6"
+      ],
+      "color_intent": "차가운 회청 톤과 흰 종이의 깔끔한 대비로 작업/기록의 절제된 무드",
+      "pose_description": "인물 없음(주); 상단에 손/주먹 일부가 흐릿하게, 백지와 검은 스타일러스가 전경. 부감 시점.",
+      "subject_motion": "micro_only",
+      "prop_motion": "none",
+      "camera_motion": "handheld_drift",
+      "camera_motion_intensity": "low",
+      "camera_effect_local": "shallow_dof_rack",
+      "motion_blur": false,
+      "intra_cut_rhythm": "accelerating",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [
+        "film_grain"
+      ],
+      "vfx_intensity_local": "subtle",
+      "fact_check_flag": null,
+      "notes": "Cut 13 (31.57-32.41s): 차가운 톤 매크로. 손/주먹 일부 흐릿, 백지 위 검은 스타일러스, 부감. 자막 유지. 몽타주 가속 비트.",
+      "visible_elements": {
+        "foreground": [
+          "a black stylus/pen lying on a white sheet of paper in the lower foreground",
+          "white paper sheets on a desk"
+        ],
+        "midground": [
+          "an out-of-focus hand/fist at upper-left near the page edge",
+          "a dark tablet or board edge behind the paper"
+        ],
+        "background": [
+          "cool grey-blue blurred surroundings"
+        ],
+        "lighting_env": [
+          "soft cool overhead daylight on the paper",
+          "gentle ambient fill"
+        ],
+        "atmosphere": [
+          "cool clean macro, fine film grain, desk-work intimacy"
+        ]
+      },
+      "texture": {
+        "primary_subject": "paper_matte_white",
+        "secondary_objects": [
+          "plastic_matte_stylus",
+          "skin_blurred_soft"
+        ],
+        "background_surface": "bokeh_abstract",
+        "atmospheric": [
+          "film_grain"
+        ]
+      },
+      "lighting": {
+        "key_direction": "top",
+        "key_hardness": "soft",
+        "key_color_temp": "cool_7000K",
+        "fill_strength": "minimal",
+        "key_to_fill_ratio": "4:1",
+        "rim_light": false,
+        "practical_lights": [
+          "상부 자연광"
+        ],
+        "shadow_presence": "soft",
+        "overall_contrast": "mid_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#5a6a70",
+          "#aeb8bc",
+          "#2a3236",
+          "#dfe4e6"
+        ],
+        "palette_role": {
+          "#5a6a70": "cool_desk_midtone",
+          "#aeb8bc": "cool_paper_shadow",
+          "#2a3236": "stylus_dark_anchor",
+          "#dfe4e6": "lit_paper_highlight"
+        },
+        "color_relationship": "monochrome",
+        "temperature_balance": "cool_dominant",
+        "saturation_strategy": "desaturated_with_pop",
+        "contrast_type": "luminance_high",
+        "accent_color": "#2a3236",
+        "accent_ratio": "5_percent",
+        "brand_color_match": [
+          "no brand color; cool desaturated grade"
+        ]
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A cool-toned macro close-up over a desk, cinematic still at 1920x1080 pixels, 16:9 landscape, mid-key cool grade, a fast montage beat shot from a slightly high angle looking down. The foreground is a white sheet of paper on a desk surface, and resting on the page is a slim black stylus or pen lying diagonally, its dark form (#2a3236) the sharpest anchor in the frame. More white paper sheets spread beneath. At the upper-left, an out-of-focus hand or loosely closed fist hovers near the edge of the page, suggesting someone about to draw, write or sign; a dark tablet or drawing-board edge runs behind the paper. The surroundings dissolve into cool grey-blue bokeh (#5a6a70). The lighting is mid-key and cool: soft overhead daylight near 7000K rakes across the paper, lifting it to a near-white highlight (#dfe4e6) while the paper's shadowed areas stay cool grey (#aeb8bc), minimal fill, key-to-fill around 4:1, soft shadows, no rim light. A fine cinematic film grain overlays the image. The lower-center carries the same white Korean caption continuing the sixth dictionary definition — 어떤 사물의 진면목을 단적으로 보여주는 대표적 표상 — in a clean white sans-serif subtitle (preserved verbatim; finalized in post). Composition centers the white page and the dark stylus with the blurred hand at upper-left, the high angle and cool palette giving a quiet, clinical-creative mood — the hand that makes a representation. Color palette: cool desk midtone #5a6a70 (~30%), cool paper shadow #aeb8bc (~30%), stylus dark anchor #2a3236 (~10%), lit paper highlight #dfe4e6 (~30%). Color relationship: cool near-monochrome. Temperature: cool dominant. Saturation: desaturated with a dark pop. Contrast: high-luminance mid-key. Texture: matte white paper, matte plastic stylus, softly blurred skin, fine grain. Style anchor: cinematic cool desk macro, high-angle, soft overhead daylight, fine 35mm grain, Korean fashion-film aesthetic, stylus-on-paper creative-act motif, 4K capture. Part of a rapid montage visualizing 'face' as the emblem of true nature — here, the act of representing. Additional craft detail for faithful reproduction: the lens reads as a normal-to-macro focal length (roughly 50mm-equivalent) at a wide aperture, focus on the white page and the dark stylus while the hand and surroundings fall soft; the camera looks down from a slightly high angle, so the desk surface fills the frame and the page reads flat. The defining elements: a slim black stylus or pen lying diagonally on a white sheet of paper, the sharpest, darkest anchor in the frame; additional white paper sheets spread beneath; an out-of-focus loosely closed hand or fist hovering at the upper-left near the page edge, suggesting someone about to draw, write or sign; a dark tablet or drawing-board edge behind the paper. The surroundings dissolve into cool grey-blue bokeh. The lighting is a soft cool overhead daylight raking across the page, lifting the paper to a near-white highlight while shadowed paper stays cool grey — a quiet, clinical-creative mood. Fine cinematic film grain overlays the image. The grade is cool and desaturated mid-key, the only dark pop the stylus. No legible writing, no logo, no sharp full hand; the held white subtitle sits at lower-center. This is a brief, quick montage beat. Render at full sharpness on the page and stylus with soft cool bokeh around, natural grain, cool overhead daylight, broadcast-grade filmic master.",
+        "t2i_negative": "deep focus, warm lighting, dark room, sharp full hand, legible writing, saturated colors, watermark, cartoon, low angle, flat illumination",
+        "i2v_motion": "A brief, fast montage beat (~0.8s): the stylus and paper hold while the blurred hand at upper-left shifts subtly as if reaching for the pen; the camera drifts slightly handheld and focus breathes. Cool daylight steady, fine grain shimmering. The lower-center caption holds (finalized in post). Quick accelerating montage pace, ending on a hard cut. A male voiceover continues the definition.",
+        "i2v_params": {
+          "clip_duration_sec": 0.834,
+          "camera_move": "handheld_drift",
+          "subject_motion_level": "micro",
+          "signature_effect": "none",
+          "pacing": "accelerating",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; generic stylus, paper and anonymous hand; Korean caption preserved verbatim; cool desaturated grade preserved"
+      }
+    },
+    {
+      "index": 14,
+      "duration": 1.377,
+      "framing": "ECU",
+      "function": "montage_emblem_beat",
+      "subject_action": "an extreme close-up profile of a man's face (eye, nose, cheek with light stubble) looking down intently, cool desaturated grade against a soft pale wall; the final montage beat before the blackout, under the same caption",
+      "layout_grid": "left_third",
+      "subject_position": "left_third",
+      "subject_identity": "man_profile_anonymous",
+      "subject_relationship_to_protagonist": "extra_atmosphere",
+      "mid_frame_path": "ADV-2026-037_frames/cut14_mid.png",
+      "subject_typo_layout": "typo_separate_zone",
+      "typo_motion": "하단 자막 '어떤 사물의 진면목을 단적으로 보여주는 대표적 표상' 유지(컷 끝에서 암전으로 전환).",
+      "camera_angle": "eye_level",
+      "camera_facing": "profile",
+      "shot_scope": "face_only",
+      "gaze": "down",
+      "eye_contact_effect": null,
+      "props": [],
+      "prop_semantics": null,
+      "color_palette": [
+        "#4a5258",
+        "#b89878",
+        "#6a5848",
+        "#cfd4d6"
+      ],
+      "color_intent": "차가운 회색 배경과 따뜻한 살색의 대비로 집중·진지함; 인물의 측면 디테일(수염·속눈썹)을 부각",
+      "pose_description": "남성의 측면 얼굴 익스트림 클로즈업; 눈·코·뺨, 가벼운 수염. 아래를 응시하며 골똘한 표정.",
+      "subject_motion": "micro_only",
+      "prop_motion": "none",
+      "camera_motion": "handheld_drift",
+      "camera_motion_intensity": "low",
+      "camera_effect_local": "shallow_dof_rack",
+      "motion_blur": false,
+      "intra_cut_rhythm": "accelerating",
+      "transition_in": "cut",
+      "transition_out": "fade_to_black",
+      "vfx_in_shot": [
+        "film_grain"
+      ],
+      "vfx_intensity_local": "subtle",
+      "fact_check_flag": null,
+      "notes": "Cut 14 (32.41-33.78s): 남성 측면 얼굴 ECU, 가벼운 수염, 아래 응시. 차가운 톤. 자막 유지. 컷 끝 암전으로 전환(다음 컷 블랙). 몽타주 마지막 비트.",
+      "visible_elements": {
+        "foreground": [
+          "an extreme close-up of a man's face in profile — eye, nose, cheek with light stubble — at left"
+        ],
+        "midground": [
+          "his dark hair at top"
+        ],
+        "background": [
+          "a soft pale grey out-of-focus wall at right"
+        ],
+        "lighting_env": [
+          "soft cool daylight from the right grazing the profile",
+          "gentle ambient fill"
+        ],
+        "atmosphere": [
+          "intense intimate profile, fine film grain, cool-warm balance"
+        ]
+      },
+      "texture": {
+        "primary_subject": "skin_natural_stubble",
+        "secondary_objects": [],
+        "background_surface": "painted_wall_pale",
+        "atmospheric": [
+          "film_grain"
+        ]
+      },
+      "lighting": {
+        "key_direction": "side_right",
+        "key_hardness": "soft",
+        "key_color_temp": "cool_7000K",
+        "fill_strength": "minimal",
+        "key_to_fill_ratio": "4:1",
+        "rim_light": true,
+        "practical_lights": [
+          "창측 자연광"
+        ],
+        "shadow_presence": "soft",
+        "overall_contrast": "mid_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#4a5258",
+          "#b89878",
+          "#6a5848",
+          "#cfd4d6"
+        ],
+        "palette_role": {
+          "#4a5258": "cool_background_midtone",
+          "#b89878": "warm_skin_lit",
+          "#6a5848": "skin_shadow",
+          "#cfd4d6": "wall_highlight"
+        },
+        "color_relationship": "complementary",
+        "temperature_balance": "split_warm_cool",
+        "saturation_strategy": "muted",
+        "contrast_type": "temperature_split",
+        "accent_color": "#b89878",
+        "accent_ratio": "30_percent",
+        "brand_color_match": [
+          "no brand color; warm-cool filmic grade"
+        ]
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "An extreme close-up of a Korean man's face in profile, cinematic still at 1920x1080 pixels, 16:9 landscape, mid-key warm-cool grade, the final beat of a montage. The left portion of the frame is filled by the man's profile — the curve of his brow, his eye in side view with lashes, the bridge and tip of his nose, his cheek bearing light stubble, and the corner of his mouth — all in crisp focus, his dark hair at the top of the frame. He looks downward intently, a focused, serious, absorbed expression. To the right is a soft pale grey out-of-focus wall (#cfd4d6). The lighting is mid-key warm-cool: soft cool daylight near 7000K grazes the profile from the right, modeling his skin in warm lit tones (#b89878) with shadowed areas (#6a5848) and giving a faint rim along the nose and brow, minimal fill, key-to-fill around 4:1, soft shadows, subtle rim light. A fine cinematic film grain overlays the image. The lower-center carries the same white Korean caption continuing the sixth dictionary definition — 어떤 사물의 진면목을 단적으로 보여주는 대표적 표상 — in a clean white sans-serif subtitle (preserved verbatim; finalized in post). Composition places his profile on the left two-thirds with the soft pale wall as negative space at right, an intimate, intense human study to cap the montage. Color palette: cool background midtone #4a5258 (~25%), warm lit skin #b89878 (~30%), skin shadow #6a5848 (~20%), wall highlight #cfd4d6 (~25%). Color relationship: warm-cool complementary. Temperature: split warm-cool. Saturation: muted. Contrast: temperature-split mid-key. Texture: natural stubbled skin, painted pale wall, fine grain. Style anchor: cinematic intimate profile close-up, soft cool daylight key with rim, fine 35mm grain, Korean fashion-film aesthetic, focused downward gaze, 4K capture. The final montage beat visualizing 'face' as a representative emblem, just before the screen falls to black. Additional craft detail for faithful reproduction: the lens reads as a short telephoto (roughly 85mm-equivalent) at a wide aperture, the profile critically sharp on the eye and nose while the pale wall behind softens to clean negative space; the camera is at eye-level in a true side view, the man's face occupying the left two-thirds and reading screen-right in profile. The defining details: the curve of his brow, his eye seen from the side with visible lashes, the bridge and tip of his nose, his cheek bearing light short stubble, the corner of his mouth, his dark hair at the top of the frame; his gaze cast downward, the expression focused, serious and absorbed. The lighting is a soft cool daylight grazing from the right, modeling the skin in warm lit tones with shadowed areas on the near side and leaving a faint luminous rim along the nose and brow, minimal fill, soft shadows. To the right is a soft pale grey out-of-focus wall as breathing room. The mood is intimate and intense, capping the accelerating montage on a human note. Fine cinematic film grain overlays the image. The grade is warm-cool mid-key, the blacks soft, the highlights gently rolled off. No frontal full face, no glamour retouch, no logo; the held white subtitle sits at lower-center. At the very end of the beat the entire image fades to pure black, the threshold of the film's climax. Render at full sharpness on the profile with soft pale negative space, natural grain, soft warm-cool daylight, broadcast-grade filmic master.",
+        "t2i_negative": "deep focus, flat lighting, dark room, frontal full face, glamour retouch, saturated colors, watermark, cartoon, studio backdrop",
+        "i2v_motion": "A brief, fast montage beat (~1.4s): the man's profile holds with breathing-level micro-motion, his downward gaze steady or shifting a hair; the camera drifts slightly handheld and focus breathes. Cool daylight steady, fine grain shimmering. The lower-center caption holds (finalized in post). At the very end the entire image fades to pure black, ending the montage. A male voiceover continues then completes the definition.",
+        "i2v_params": {
+          "clip_duration_sec": 1.377,
+          "camera_move": "handheld_drift",
+          "subject_motion_level": "micro",
+          "signature_effect": "none",
+          "pacing": "accelerating",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; man is a generic anonymous Korean adult (no celebrity likeness); Korean caption preserved verbatim; warm-cool filmic grade preserved; ends on fade to black"
+      }
+    },
+    {
+      "index": 15,
+      "duration": 5.172,
+      "framing": "MS",
+      "function": "climax_face_reveal",
+      "subject_action": "after a held black, a woman appears against a light/grey seamless studio background; she begins as a near-silhouette in shadow then is gradually lifted into full soft light, eyes closed, calm, in a brown top — a dark-to-light face reveal that resolves the definitions on the punchline caption '사람을 비유적으로 이르는 말'",
+      "layout_grid": "center",
+      "subject_position": "center",
+      "subject_identity": "reveal_woman_protagonist",
+      "subject_relationship_to_protagonist": "main_character",
+      "mid_frame_path": "ADV-2026-037_frames/cut15_mid.png",
+      "subject_typo_layout": "typo_separate_zone",
+      "typo_motion": "초반 약 1.5s 암전 유지 → 하단 자막 '사람을 비유적으로 이르는 말' 표시되며 인물이 어둠→빛으로 점차 밝아짐(라이팅 리빌).",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "waist_up",
+      "gaze": "down",
+      "eye_contact_effect": "serene_inward",
+      "props": [],
+      "prop_semantics": null,
+      "color_palette": [
+        "#0a0a0a",
+        "#d8d4cc",
+        "#5a4a3a",
+        "#8a7058"
+      ],
+      "color_intent": "검정에서 밝은 무지 배경으로의 명도 상승으로 '사람=얼굴'의 귀결을 빛의 등장으로 시각화; 따뜻한 살색이 차분히 떠오름",
+      "pose_description": "여성이 정면을 향해 차분히 서 있고 눈을 감은 채 미세한 미소. 어둠 속 실루엣에서 점차 또렷한 얼굴로 밝아짐.",
+      "subject_motion": "micro_only",
+      "prop_motion": "none",
+      "camera_motion": "locked_off",
+      "camera_motion_intensity": "none",
+      "camera_effect_local": "lighting_reveal_dark_to_light",
+      "motion_blur": false,
+      "intra_cut_rhythm": "steady",
+      "transition_in": "fade_from_black",
+      "transition_out": "cut",
+      "vfx_in_shot": [
+        "film_grain"
+      ],
+      "vfx_intensity_local": "subtle",
+      "fact_check_flag": null,
+      "notes": "Cut 15 (33.78-38.96s): 암전(약 1.5s) 후 무지 밝은 배경에 여성 등장. 실루엣→풀 라이트로 점진 밝아짐(라이팅 리빌), 눈 감음, 브라운 상의. 자막 '사람을 비유적으로 이르는 말'. 와우컷(정의의 귀결).",
+      "visible_elements": {
+        "foreground": [
+          "a woman from the waist up, centered, facing camera, in a brown V-neck top, eyes closed with a faint calm expression"
+        ],
+        "midground": [],
+        "background": [
+          "a seamless light/grey studio background that brightens from near-black to pale grey-cream over the shot"
+        ],
+        "lighting_env": [
+          "a soft frontal/ambient light that rises from darkness to full soft illumination on her face"
+        ],
+        "atmosphere": [
+          "clean studio reveal, fine film grain, dark-to-light transition"
+        ]
+      },
+      "texture": {
+        "primary_subject": "skin_natural",
+        "secondary_objects": [
+          "fabric_matte_top"
+        ],
+        "background_surface": "seamless_studio_paper",
+        "atmospheric": [
+          "film_grain"
+        ]
+      },
+      "lighting": {
+        "key_direction": "front",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "moderate",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "soft",
+        "overall_contrast": "mid_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#0a0a0a",
+          "#d8d4cc",
+          "#5a4a3a",
+          "#8a7058"
+        ],
+        "palette_role": {
+          "#0a0a0a": "opening_black",
+          "#d8d4cc": "studio_background_light",
+          "#5a4a3a": "brown_top_dark",
+          "#8a7058": "warm_skin_midtone"
+        },
+        "color_relationship": "monochrome",
+        "temperature_balance": "warm_dominant",
+        "saturation_strategy": "desaturated_with_pop",
+        "contrast_type": "luminance_high",
+        "accent_color": "#8a7058",
+        "accent_ratio": "30_percent",
+        "brand_color_match": [
+          "no brand color; neutral studio grade"
+        ]
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A clean studio portrait of a Korean woman in her 30s-40s revealed by a dark-to-light lighting transition, cinematic still at 1920x1080 pixels, 16:9 landscape, mid-key neutral grade — captured at the mid point of the reveal. She stands centered in the frame, shown from the waist up, facing the camera squarely, wearing a brown V-neck top; her dark hair is straight and parted, falling past her shoulders, and her eyes are gently closed with a faint, serene, almost-smiling expression of calm. She is set against a seamless studio background (the kind used for portrait photography) that, at this mid-reveal moment, has brightened from the preceding pure black into a soft pale grey-cream (#d8d4cc), her figure no longer a silhouette but emerging into clear soft light, her warm skin (#8a7058) and brown top (#5a4a3a) lifting out of shadow. The lighting is soft and frontal, rising from darkness to a gentle even illumination near 5500K, moderate fill, key-to-fill around 2:1, soft shadows, no rim light, mid-key contrast that grows brighter through the shot. A fine cinematic film grain overlays the image. The lower-center carries a single line of white Korean caption text reading the final, punchline dictionary definition of face — meaning 'a figurative way of referring to a person' — the Korean reads '사람'을 비유적으로 이르는 말, set in a clean white sans-serif subtitle (preserved verbatim; finalized in post). Composition centers her symmetrically with generous bright negative space around her, a calm, resolved, almost reverent portrait that lands the film's thesis: the face is the person. Color palette: opening black #0a0a0a (receding, ~20%), studio background light #d8d4cc (~40%), brown top dark #5a4a3a (~20%), warm skin midtone #8a7058 (~20%). Color relationship: warm near-monochrome. Temperature: warm dominant. Saturation: desaturated with a warm skin pop. Contrast: high-luminance, rising mid-key. Texture: natural skin, matte fabric top, seamless studio paper, fine grain. Style anchor: cinematic clean studio portrait, dark-to-light lighting reveal, soft frontal key, fine 35mm grain, Korean fashion-film aesthetic, serene eyes-closed woman, neutral seamless background, 4K capture. The climactic reveal visualizing 'face' as, ultimately, a person. Additional craft detail for faithful reproduction: the lens reads as a normal-to-short-telephoto focal length (roughly 50-85mm-equivalent) at a moderate aperture, the woman sharp while the seamless background sits softly even; the camera is at chest/eye-level, frontal and centered, a calm symmetrical portrait framing. The defining quality is the dark-to-light lighting reveal: the shot opens after a held pure black, then a soft light rises and the woman emerges from near-silhouette into full, gentle, even illumination over several seconds, her warm skin and brown V-neck top lifting out of shadow as the seamless studio background brightens from black to a pale grey-cream. Her dark hair is straight, parted, falling past the shoulders; her eyes are gently closed with a faint, serene, almost-smiling calm; she stands still and composed. The lighting is soft and frontal, near 5500K, moderate fill (key-to-fill about 2:1), soft shadows, no rim — a clean beauty-portrait softness that grows brighter through the shot. Fine cinematic film grain overlays the image. The grade is neutral, warm-leaning on the skin, the background desaturated grey-cream, contrast rising from low-key toward mid-key as the reveal completes. Generous bright negative space surrounds her on the seamless. This frame lands the film's thesis — after defining 'face' as appearance, reputation, dignity, countenance, representative figure and emblem, it resolves to a calm human being: the face is, finally, a person. No harsh shadows, no busy background, no logo; the punchline white subtitle sits at lower-center. Render at full sharpness on the woman with soft seamless behind, natural grain, neutral rising key, broadcast-grade filmic master.",
+        "t2i_negative": "harsh lighting, dramatic shadows, dark cluttered background, heavy glamour makeup, saturated colors, watermark, cartoon, multiple people, busy set, eyes wide open staring",
+        "i2v_motion": "Open on roughly 1.5s of held pure black, then the woman fades up from the darkness as a soft light rises: she begins as a near-silhouette and is gradually, smoothly lifted into full soft illumination over several seconds, her face becoming clearly lit while the seamless background brightens from black to pale grey. She holds a calm, eyes-closed pose with only breathing-level micro-motion — perhaps her face lifts a few degrees or her eyes begin to open at the very end. Camera fully locked-off. Fine film grain shimmers. The lower-center caption '사람을 비유적으로 이르는 말' appears as she emerges (finalized in post). A male voiceover delivers the final definition. ~5.2s, steady, reverent, no internal cut, ending on a clean cut to a title card.",
+        "i2v_params": {
+          "clip_duration_sec": 5.172,
+          "camera_move": "locked_off",
+          "subject_motion_level": "micro",
+          "signature_effect": "none",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; woman is a generic anonymous Korean adult (no celebrity likeness); Korean caption preserved verbatim; dark-to-light studio reveal grade preserved"
+      }
+    },
+    {
+      "index": 16,
+      "duration": 2.377,
+      "framing": "graphic",
+      "function": "campaign_slogan_title",
+      "subject_action": "bold typographic title card on black: small 'THE POWER OF' top-left, then a giant white condensed-bold 'FACE' filling the frame, with 'ORIGINAL FILM BY TOSS' small at bottom-right; static hold declaring the campaign line",
+      "layout_grid": "dynamic_symmetry",
+      "subject_position": "center",
+      "subject_identity": "none_environment",
+      "subject_relationship_to_protagonist": null,
+      "mid_frame_path": "ADV-2026-037_frames/cut16_mid.png",
+      "subject_typo_layout": "typo_only_no_person",
+      "typo_motion": "'THE POWER OF' + 거대 'FACE' + 'ORIGINAL FILM BY TOSS'가 검정 위 정적으로 표시·유지(페이드인).",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "environment",
+      "gaze": "none",
+      "eye_contact_effect": null,
+      "props": [],
+      "prop_semantics": null,
+      "color_palette": [
+        "#000000",
+        "#ffffff"
+      ],
+      "color_intent": "검정 위 거대 흰 타이포로 'FACE'를 캠페인의 핵심어로 각인; 오프닝 카드와 시각적 북엔드",
+      "pose_description": "인물 없음; 거대 'FACE' 워드가 화면 대부분을 채워 압도적 타이포 임팩트.",
+      "subject_motion": "static",
+      "prop_motion": "none",
+      "camera_motion": "locked_off",
+      "camera_motion_intensity": "none",
+      "camera_effect_local": "none",
+      "motion_blur": false,
+      "intra_cut_rhythm": "static",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [],
+      "vfx_intensity_local": "none",
+      "fact_check_flag": null,
+      "notes": "Cut 16 (38.96-41.33s): 검정 배경 거대 타이포 'THE POWER OF FACE'. 좌상단 작게 'THE POWER OF', 거대 'FACE', 우하단 'ORIGINAL FILM BY TOSS'. 오프닝과 북엔드. 정적.",
+      "visible_elements": {
+        "foreground": [
+          "a giant white condensed-bold word 'FACE' filling most of the frame",
+          "small white text 'THE POWER OF' at the top-left, set above and tight to the F",
+          "small white text 'ORIGINAL FILM BY TOSS' at the bottom-right"
+        ],
+        "midground": [],
+        "background": [
+          "pure black field #000000"
+        ],
+        "lighting_env": [
+          "none — flat black, text self-luminous"
+        ],
+        "atmosphere": [
+          "void black, bold typographic title impact"
+        ]
+      },
+      "texture": {
+        "primary_subject": "flat_digital_text",
+        "secondary_objects": [],
+        "background_surface": "flat_black",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "front",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "none",
+        "key_to_fill_ratio": "silhouette",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "none",
+        "overall_contrast": "high_contrast"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#000000",
+          "#ffffff"
+        ],
+        "palette_role": {
+          "#000000": "background_black_dominant",
+          "#ffffff": "title_text_white"
+        },
+        "color_relationship": "monochrome",
+        "temperature_balance": "balanced",
+        "saturation_strategy": "monochrome",
+        "contrast_type": "luminance_high",
+        "accent_color": "#ffffff",
+        "accent_ratio": "30_percent",
+        "brand_color_match": [
+          "no brand color in this card; black-and-white slogan treatment"
+        ]
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A bold typographic campaign title card rendered at full 1920x1080 pixels, 16:9 landscape, on a pure black field (#000000) that is perfectly uniform with zero gradient, texture or grain. The dominant element is the single English word FACE set enormous in a heavy condensed bold sans-serif, in pure white (#ffffff), the four capital letters stretched tall and wide to fill roughly 80 percent of the frame width and the central 60 percent of the frame height — a massive, commanding typographic statement that nearly bursts the edges of the frame, the letterforms with strong even strokes and squared terminals, the A peaked and the C and E condensed. Tucked at the top-left, set small and tight just above and to the left of the F, is the white phrase THE POWER OF in a much smaller condensed sans-serif caps, reading as a lead-in line so the whole reads 'THE POWER OF FACE'. At the bottom-right corner, in small white condensed caps, is the signature line ORIGINAL FILM BY TOSS, echoing the opening card. There are no other elements — no logo mark, no imagery, no people, no decoration — only white type on black. The composition uses dynamic asymmetry: the huge FACE anchors the center-bottom mass, the small 'THE POWER OF' kicker sits high-left, and the 'ORIGINAL FILM BY TOSS' credit sits low-right, the three text blocks balancing across the black field. Color palette: black #000000 dominant (~70%), white type #ffffff (~30%). Color relationship: strict monochrome, maximum luminance contrast. Temperature: neutral. Saturation: nil, achromatic. Contrast: extreme luminance. Texture: flat digital type, zero grain, zero atmosphere. Lighting: text self-luminous against the void, no directional light, no shadow. Style anchor: ultra-bold cinematic campaign title card, modern Korean fintech brand film, 4K clean flat digital render, giant condensed all-caps grotesque sans-serif in white, pure black background, dynamic typographic layout, high luminance contrast, editorial poster-scale type, no decorative elements — the words 'THE POWER OF FACE' as the campaign's declarative slogan, forming a visual bookend with the opening 'ORIGINAL FILM BY TOSS' card. Additional craft detail for faithful reproduction: the typeface across all three text blocks is the same heavy condensed grotesque used on the opening card, ensuring family consistency; the giant FACE is set so large that its cap-height nearly spans the vertical center of the frame and its width nearly touches both side margins, the four letters tightly tracked with strong even strokes, squared terminals, a peaked A, and condensed round C and E — a poster-scale typographic event. The small lead-in line THE POWER OF sits at the top-left, set in the same condensed caps but at a fraction of the size, aligned just above the left shoulder of the F so the eye reads the full phrase 'THE POWER OF FACE' top-to-bottom and left-to-right. The signature credit ORIGINAL FILM BY TOSS sits small in the bottom-right corner, echoing the film's opening. All type is pure neutral white on a perfectly uniform pure-black field; no logo mark, no imagery, no rule lines, no underline, no glow, no drop shadow, no gradient, no texture, no grain. The layout is dynamically asymmetric yet balanced — the massive FACE as the central mass, the small kicker high-left, the credit low-right — three weights distributed across the void. This card is full-frame 1920x1080 (no letterbox bars, unlike the film's live-action vignettes). It is the declarative payoff of the dictionary-definition film, asserting the campaign idea in a single bold word. Render at full sharpness with crisp glyph edges, true black background, no compression artifacts, no scanlines, clean broadcast-grade master frame.",
+        "t2i_negative": "gradient, texture, grain, noise, colored text, serif font, lowercase, logo mark, icon, imagery, people, decorative elements, shadows, glow, watermark, thin light type",
+        "i2v_motion": "Hold the black title card static; the giant white 'FACE', the small 'THE POWER OF' kicker and the 'ORIGINAL FILM BY TOSS' credit may fade in crisply at the start and then remain perfectly still for the duration. Camera fully locked-off, zero movement, no other motion. ~2.4s, static, ending on a clean cut to the date card.",
+        "i2v_params": {
+          "clip_duration_sec": 2.377,
+          "camera_move": "locked_off",
+          "subject_motion_level": "still",
+          "signature_effect": "none",
+          "pacing": "static",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen slogan 'THE POWER OF FACE' and signature 'ORIGINAL FILM BY TOSS' preserved verbatim; purely typographic card, no logo mark"
+      }
+    },
+    {
+      "index": 17,
+      "duration": 4.713,
+      "framing": "graphic",
+      "function": "reveal_datetime_and_brand_cta",
+      "subject_action": "black card showing centered white text '2025. 10. 14. 6 PM' (the reveal date/time), held, then cross-fading to the Toss brand logo — a blue 3D-ish swoosh mark beside the lowercase white 'toss' wordmark — centered on black to close",
+      "layout_grid": "center",
+      "subject_position": "center",
+      "subject_identity": "none_environment",
+      "subject_relationship_to_protagonist": null,
+      "mid_frame_path": "ADV-2026-037_frames/cut17_mid.png",
+      "subject_typo_layout": "typo_only_no_person",
+      "typo_motion": "'2025. 10. 14. 6 PM' 흰 텍스트가 검정 위 중앙에 정적으로 유지(약 41.3~44s) → 토스 로고(블루 마크+흰 'toss' 워드마크)로 디졸브되어 끝까지 유지.",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "environment",
+      "gaze": "none",
+      "eye_contact_effect": null,
+      "props": [
+        "Toss brand logo mark and wordmark"
+      ],
+      "prop_semantics": "공개 일시 고지 후 토스 로고로 마무리 — 티저의 정보(언제)와 발신자(누가)를 차례로 각인",
+      "color_palette": [
+        "#000000",
+        "#ffffff",
+        "#2f7ef0",
+        "#1a4fd0"
+      ],
+      "color_intent": "검정 위 흰 일시 텍스트로 정보 전달 후, 토스 브랜드 블루 로고로 브랜드 각인·신뢰 마무리",
+      "pose_description": "인물 없음; 일시 텍스트 → 브랜드 로고로 전환되는 마무리 타이포/로고 카드.",
+      "subject_motion": "static",
+      "prop_motion": "none",
+      "camera_motion": "locked_off",
+      "camera_motion_intensity": "none",
+      "camera_effect_local": "none",
+      "motion_blur": false,
+      "intra_cut_rhythm": "static",
+      "transition_in": "cut",
+      "transition_out": "fade_to_black",
+      "vfx_in_shot": [
+        "dissolve"
+      ],
+      "vfx_intensity_local": "subtle",
+      "fact_check_flag": null,
+      "notes": "Cut 17 (41.33-46.05s): 검정 배경 '2025. 10. 14. 6 PM' 중앙 흰 텍스트 유지(~44s) → 토스 로고(블루 3D 스월 마크 + 흰 'toss' 워드마크)로 디졸브 마무리. 공개 일시 + 브랜드 CTA.",
+      "visible_elements": {
+        "foreground": [
+          "centered white condensed text '2025. 10. 14. 6 PM' (first ~2.5s)",
+          "Toss logo: a blue gradient overlapping-teardrop swoosh mark beside lowercase white 'toss' wordmark (final ~2s)"
+        ],
+        "midground": [],
+        "background": [
+          "pure black field #000000"
+        ],
+        "lighting_env": [
+          "none — flat black, text/logo self-luminous"
+        ],
+        "atmosphere": [
+          "void black, clean closing card"
+        ]
+      },
+      "texture": {
+        "primary_subject": "flat_digital_text",
+        "secondary_objects": [
+          "glossy_3d_logo_mark"
+        ],
+        "background_surface": "flat_black",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "front",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "none",
+        "key_to_fill_ratio": "silhouette",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "none",
+        "overall_contrast": "high_contrast"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#000000",
+          "#ffffff",
+          "#2f7ef0",
+          "#1a4fd0"
+        ],
+        "palette_role": {
+          "#000000": "background_black_dominant",
+          "#ffffff": "text_and_wordmark_white",
+          "#2f7ef0": "toss_brand_blue_mark",
+          "#1a4fd0": "toss_brand_blue_deep"
+        },
+        "color_relationship": "brand_dominant",
+        "temperature_balance": "cool_dominant",
+        "saturation_strategy": "desaturated_with_pop",
+        "contrast_type": "luminance_high",
+        "accent_color": "#2f7ef0",
+        "accent_ratio": "5_percent",
+        "brand_color_match": [
+          "Toss brand blue approx #2f7ef0 / deep #1a4fd0 on the logo mark"
+        ]
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A minimalist closing card rendered at full 1920x1080 pixels, 16:9 landscape, on a pure black field (#000000), perfectly uniform with zero gradient, texture or grain. At the exact center of the frame is a single line of white (#ffffff) text reading the reveal date and time: 2025. 10. 14. 6 PM, set in a clean bold condensed sans-serif with periods separating the date components, the same condensed type family as the film's title cards (preserved verbatim). The text occupies roughly 22 percent of the frame width and about 5 percent of its height, a compact luminous line floating in an enormous black surround — roughly 47 percent empty black above and below, wide black margins left and right. There are no other elements visible at this moment — no logo, no imagery, no people, no decoration — only the white date line in black, announcing a launch event date and time. The composition is symmetrical centering on both axes, the date line as a single horizontal anchor in vast negative space. (In the latter portion of this shot the card cross-dissolves to the Toss brand logo: a small blue gradient mark made of two overlapping teardrop/comma shapes in brand blue ranging from #2f7ef0 to a deeper #1a4fd0, sitting to the left of a lowercase white 'toss' wordmark in a soft rounded sans-serif — but the start frame shows only the date text.) Color palette: black #000000 dominant (~94%), white date text #ffffff (~6%). Color relationship: monochrome at this moment (brand-dominant once the blue logo appears). Temperature: neutral/cool. Saturation: achromatic (with a brand-blue pop when the logo appears). Contrast: extreme luminance high. Texture: flat digital type, zero grain, zero atmosphere. Lighting: text self-luminous against the void, no directional light, no shadow. Style anchor: ultra-minimal cinematic closing/announcement card, modern Korean fintech brand film, 4K clean flat digital render, bold condensed sans-serif white date text, pure black background, generous negative space, high luminance contrast, no decorative elements; resolving to a clean brand logo lockup (blue mark plus lowercase white wordmark) to close. Additional craft detail for faithful reproduction: the date line uses the same heavy condensed sans-serif family as the film's title cards, the components separated by spaced periods reading 2025. 10. 14. 6 PM, set in pure neutral white on a perfectly uniform pure-black field, centered on both axes with vast symmetrical negative space all around. There is no logo, no imagery, no decoration during the date beat — only the single luminous date line announcing a launch event date and time, a classic teaser-card grammar that withholds the product and promises a reveal. In the latter portion of the shot the card cross-dissolves to the Toss brand logo lockup: a compact mark of two overlapping teardrop/comma shapes rendered in a glossy blue gradient (brand blue ranging roughly from #2f7ef0 to a deeper #1a4fd0, with a soft three-dimensional sheen) positioned to the left of a lowercase white 'toss' wordmark in a soft rounded sans-serif, the whole lockup centered on the black field. The blue mark is the only saturated color in the entire closing card, a deliberate brand pop against the monochrome. No grain, no texture, no glow, no rule lines, no extra graphics; the card is full-frame 1920x1080 (no letterbox bars). It closes the dictionary-definition film by delivering the two pieces of teaser information in sequence — when (the date) and who (the Toss brand) — before a slight final fade toward black. Render at full sharpness with crisp white date glyphs, a clean glossy blue logo mark, true black background, no compression artifacts, broadcast-grade master frame.",
+        "t2i_negative": "gradient background, texture, grain, noise, colored date text, serif font, imagery, people, decorative elements, shadows, glow, watermark, busy layout",
+        "i2v_motion": "Hold the black card with the centered white '2025. 10. 14. 6 PM' text static for roughly the first 2.5 seconds. Then cross-dissolve smoothly to the Toss brand logo — the small blue gradient swoosh mark beside the lowercase white 'toss' wordmark, centered on black — which holds static to the end, with a slight fade toward black in the final fraction. Camera fully locked-off, zero movement, no other motion. ~4.7s, static with one mid-card dissolve from date text to logo.",
+        "i2v_params": {
+          "clip_duration_sec": 4.713,
+          "camera_move": "locked_off",
+          "subject_motion_level": "still",
+          "signature_effect": "none",
+          "pacing": "static",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen date text '2025. 10. 14. 6 PM' preserved verbatim; Toss logo mark rendered generic per copyright-safe policy (brand blue color cited, exact mark not reproduced); wordmark 'toss' as text"
+      }
+    }
+  ],
+  "search_keywords": {
+    "industry": [
+      "finance"
+    ],
+    "product_category": [
+      "biometric_payment",
+      "payment",
+      "mobile_banking"
+    ],
+    "target_demo": [
+      "20s",
+      "30s",
+      "mz",
+      "active_consumers"
+    ],
+    "media_format": [
+      "shortform_landscape_30s",
+      "digital_30s",
+      "youtube_60s_plus",
+      "product_hero_film"
+    ],
+    "tone": [
+      "cinematic",
+      "premium",
+      "mystery_teaser",
+      "calm_refined"
+    ],
+    "pacing": [
+      "slow_build",
+      "ramp_up"
+    ],
+    "technique": [
+      "dictionary_definition_film",
+      "dark_to_light_reveal",
+      "kinetic_typo",
+      "dissolve_montage",
+      "teaser_mystery",
+      "detail_closeup"
+    ],
+    "vfx_keywords": [
+      "film_grain",
+      "color_grade",
+      "morph"
+    ],
+    "copy_strategy_keywords": [
+      "building_climax",
+      "voice_caption_sync",
+      "redefinition",
+      "bilingual_subtitle"
+    ],
+    "concept_derivation_pattern": [
+      "dark_to_light_reveal_structure",
+      "detail_to_whole_reveal",
+      "everyday_problem_metaphor_product_release"
+    ]
+  },
+  "inferred_creative_thinking": {
+    "insight": "얼굴은 단순한 신체 부위가 아니라 평판·체면·심리·대표성·결국 '사람 그 자체'를 뜻하는 다층적 단어다 — 그만큼 한 사람을 가장 압축적으로 증명하는 것이 얼굴이다",
+    "persona": "새 결제수단의 등장에 호기심을 갖는 20~30대 토스 사용자; '내 얼굴이 곧 인증/결제'라는 발상에 신선함과 약간의 경외를 느끼는 사람",
+    "moment": "제품을 아직 보여주지 않고, 사전을 펼쳐 '얼굴'이라는 단어의 무게를 차곡차곡 쌓아 올리는 티저 모먼트 — 마지막에 '사람=얼굴'로 귀결시켜 '얼굴이 결제수단이 된다'는 다음 장을 예고",
+    "product_role": "얼굴 인식 결제(페이스페이) — 사람을 가장 사람답게 증명하는 '얼굴'을 결제·인증의 핵심 수단으로 끌어올리는 서비스(이 영상에서는 직접 노출 없이 'THE POWER OF FACE'로 암시)",
+    "punchline": "'사람'을 비유적으로 이르는 말 — THE POWER OF FACE",
+    "differentiator": "제품 데모·UI·셀럽 후크 없이, 국어사전의 다의어 정의를 시네마틱 비네트로 시각화하는 지적·정제된 티저 화법(토스 브랜드 필름 시리즈의 일관된 톤)",
+    "brand_fit_one_liner": "얼굴이 곧 사람이라면, 얼굴이 곧 결제가 된다 — 토스 페이스페이의 본질을 단어 하나로 증명",
+    "confidence": "inferred"
+  },
+  "inferred_brief": "토스 페이스페이(얼굴 인식 결제) 런칭에 앞서, 제품을 직접 보여주지 않고 '얼굴'이라는 단어의 다층적 의미(앞면→생김새→평판·명예→체면→형색→대표 표상→사람)를 시네마틱하게 쌓아 '얼굴=사람'으로 귀결시키고, 'THE POWER OF FACE'와 공개 일시(2025.10.14 6PM)로 기대감을 증폭하는 지적·프리미엄 티저 필름을 제작한다.",
+  "cross_pollination_tags": {
+    "adjacent": [
+      "insurance",
+      "it_saas",
+      "telecom"
+    ],
+    "distant": [
+      "film_culture",
+      "luxury",
+      "healthcare_pharma"
+    ],
+    "contrast": [
+      "fnb",
+      "sportswear",
+      "beauty"
+    ]
+  },
+  "concept_derivation_pattern": "dark_to_light_reveal_structure",
+  "confidence": "inferred",
+  "analyst_notes": "1. 컷 수: scenedetect 16 scenes 검출. 단 scene 2(47~212f)는 '타이틀 위 노인 눈 ECU'와 '화가 아틀리에'가 디졸브(약 4.3~4.9s, t4.6s 프레임에서 두 장면 겹침 확인)로 이어진 2개 컷이라 분할 → shot_count_corrected=17. metrics cut_candidates(312,408,485,565,650,680,708,734,757,777,810,(847),934,991)는 scenedetect 경계와 일치(847은 컷15 내부 인물 등장 모션 밴드로, 별도 컷 아님). 2. 컷17은 한 scene 내부에서 '2025.10.14 6PM' 텍스트 → 토스 로고로 디졸브되는 2비트(f1048까지 텍스트, f1076부터 로고)지만 단일 컷으로 유지하고 typo_motion/notes에 기록. 3. 오디오: faster_whisper(base) 전사 성공(speech_coverage 0.784). 원문은 국어사전 '얼굴' 다의(多義) 정의를 낭독하는 성우 VO이며 화면 자막과 동기화(voice+caption). Whisper 오인식('명의'→'명예','채면'→'체면','힘이 상태'→'심리 상태','형새'→'형색','비우적'→'비유적')은 자막 대조로 보정. 4. 전역 wiggle metrics(mean_abs_shift_x=5.659)는 몽타주(컷9~14) 얕은심도 핸드헬드/피사체 움직임 + 컷15 인물 등장에 기인하며 sign_flips_ratio=0.112로 낮아 렌티큘러 wiggle_3d 효과는 아님(전역 wiggle 부재로 판단). 5. 컷5 데스크 명패 '관장 이정모'는 실존 과학관장 추정 고유명사가 소품에 노출됨 — 원본대로 기록(fact_check_flag). 6. 다수 실사 컷이 시네마스코프(상하 레터박스) 처리; 타이포 카드는 풀프레임. 7. 제작연도: 화면 고지 '2025.10.14'로 2025년 캠페인 판단(sibling 033은 2024 표기였으나 본 #5는 2025 일시 명시). 8. 셀럽 얼굴/실로고는 generic 처리, 자막·슬로건·일시 원문은 보존.",
+  "verification": {
+    "frames_reviewed": "~30/1104 native-res frames read in time order (all 16 scenedetect boundaries ±1 + each cut midpoint + the scene-2 eyes-CU→atelier dissolve verified via lossless re-extract at 3.0-4.6s + montage beats 27-34s + the 33.8-39s black→portrait lighting-reveal band f847-f904 + closing date→logo transition f1020-f1104) + 100% per-frame metrics coverage on all 1104 frames (diff/hist_corr/shift/text_delta/cut_candidates)",
+    "audio_analyzed": true,
+    "hitrate_na": true,
+    "abstraction_checked": true
+  }
+}

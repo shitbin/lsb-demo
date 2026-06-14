@@ -1,0 +1,3053 @@
+{
+  "id": "ADV-2026-043",
+  "source_ref": {
+    "platform": "digital_video",
+    "title_or_campaign": "29CM 브랜드 캠페인 '29를 찾습니다 / 29 IS EVERYWHERE'",
+    "brand": "29CM",
+    "product": "29CM (셀렉트숍·라이프스타일 커머스 플랫폼)",
+    "model": null,
+    "year": 2024,
+    "production_note": "분석 파일: '29cm 2.mp4'. 음성 나레이션 없음(음악/BGM 주도). 공개 채널: 유튜브 '29CM' 공식 채널. 정확한 공개연도 미확인(추정).",
+    "url": null
+  },
+  "category_primary": "retail.commerce",
+  "category_tags": [
+    "셀렉트숍",
+    "라이프스타일 커머스",
+    "패션·잡화 플랫폼",
+    "브랜드 필름",
+    "무신사 계열"
+  ],
+  "mood": [
+    "refined",
+    "curated",
+    "calm_to_uplifting",
+    "playful",
+    "emotional"
+  ],
+  "target_demo": "20대 중반~30대 초반, 취향·라이프스타일 소비에 민감한 MZ 도시 소비자(특히 생일·자기서사에 반응하는 여성 중심)",
+  "total_duration": 20.039,
+  "shot_count": 22,
+  "shot_count_corrected": 22,
+  "fps": 23.976,
+  "aspect_ratio": "16:9",
+  "hook_position": 0.0,
+  "cta_position": 13.764,
+  "narrative_arc": "생일 알림 후크(인식) → 주인공이 '29'를 찾기 시작(질문 'WHERE IS 29') → 일상 곳곳의 사물에서 '29'를 연쇄 발견하는 빠른 오브제 몽타주(전개) → 발견의 기쁨을 춤으로 표출(감정 전환) → 더 넓은 도시·사람들의 '29'로 확장(절정) → 모든 '29'가 모자이크로 집결한 뒤 주인공의 29번째 생일 케이크로 수렴('29 IS EVERYWHERE / 29를 찾습니다') → 브랜드 워드마크 마무리(브랜드 각인)",
+  "narrative_structure": "cross_cutting_montage",
+  "pacing_curve": "accelerating",
+  "music_tempo_curve": "ramp_up",
+  "wow_cut_index": [
+    5,
+    6,
+    11,
+    19,
+    21
+  ],
+  "creative_device": "recurring_numeral_motif_hunt (everyday '29' sightings) + birthday_payoff + kinetic_editorial_typo",
+  "production_signature": {
+    "capture_style": "live_action",
+    "camera_signature": [
+      "locked_off",
+      "handheld_drift",
+      "tracking_pan"
+    ],
+    "signature_note": "전역 wiggle_3d 효과는 육안 확인 결과 부재. 정물 오브제 컷은 대부분 locked-off 매크로; 댄스 컷(11)·오토바이 컷(14)에서만 핸드헬드/트래킹 모션블러. metrics wiggle(mean_abs_shift_x=1.4697, sign_flips_ratio=0.23)은 빠른 컷 전환·모션블러·트래킹에 기인한 것으로 판단됨(순수 lenticular wiggle 아님). 시그니처는 'wiggle'이 아니라 '동일 모티프(숫자 29)의 고속 오브제 몽타주'.",
+    "color_grade": "warm",
+    "texture_fx": "clean_digital"
+  },
+  "global_layout": {
+    "grid_system": "center",
+    "subject_placement_dominant": "center",
+    "subject_typo_relation": "typo_opposite_subject",
+    "negative_space_use": "generous",
+    "layout_note": "오브제 컷은 사물을 중앙에 둔 매크로 센터 구도; 인물 컷(2,11,21)은 좌측에 대형 키네틱 카피, 우측/중앙에 인물 배치(typo_opposite_subject). 우상단 '29CM' 워드마크가 전 컷 고정 오버레이. 정제된 여백과 에디토리얼 타이포가 일관."
+  },
+  "recurring_motifs": [
+    "숫자 '29' (모든 컷의 핵심 모티프)",
+    "우상단 '29CM' 워드마크",
+    "따뜻한 자연광 라이프스타일 공간",
+    "에디토리얼 키네틱 타이포",
+    "생일(케이크·캔들·알림)"
+  ],
+  "copywriting": {
+    "tagline_text": "29를 찾습니다",
+    "tagline_structure": "브랜드 슬로건(명령/선언형)",
+    "tagline_length_syllables": 6,
+    "tagline_position_sec": 17.9,
+    "cta_text": "29CM",
+    "cta_text_structure": "브랜드 워드마크",
+    "cta_position_sec": 19.394,
+    "copy_tone": [
+      "refined",
+      "curated",
+      "playful",
+      "emotional"
+    ],
+    "copy_strategy": "brand_name_pun",
+    "copy_lines_count": 4,
+    "lines": [
+      {
+        "position_sec": 0.9,
+        "text": "29 KYOKA님의 29번째 생일을 축하해요",
+        "function": "hook_notification",
+        "tone": "friendly",
+        "source": "caption"
+      },
+      {
+        "position_sec": 3.7,
+        "text": "WHERE IS 29",
+        "function": "question_hook",
+        "tone": "curious",
+        "source": "caption"
+      },
+      {
+        "position_sec": 14.8,
+        "text": "29 IS EVERYWHERE",
+        "function": "theme_statement",
+        "tone": "confident",
+        "source": "caption"
+      },
+      {
+        "position_sec": 17.9,
+        "text": "29를 찾습니다",
+        "function": "brand_tagline",
+        "tone": "refined",
+        "source": "caption"
+      }
+    ],
+    "captions": [
+      {
+        "position_sec": 0.0,
+        "text": "29CM",
+        "function": "persistent_brand_wordmark"
+      },
+      {
+        "position_sec": 3.8,
+        "text": "29 (script numeral, found-object motif)",
+        "function": "motif_marker"
+      },
+      {
+        "position_sec": 19.394,
+        "text": "29CM",
+        "function": "brand_cta_card"
+      }
+    ],
+    "narration_handling": "none"
+  },
+  "typography": {
+    "primary_font_class": "sans_serif_geometric",
+    "secondary_font_class": "script_elegant",
+    "animation_style": [
+      "fade_in",
+      "kinetic",
+      "slide",
+      "static"
+    ],
+    "subtitle_position_dominant": "floating",
+    "tagline_position": "left_half",
+    "color_strategy": "white_on_image",
+    "appearance_count": 6,
+    "key_typography_moments_sec": [
+      0.0,
+      0.9,
+      3.7,
+      14.8,
+      17.9,
+      19.394
+    ],
+    "typo_motion_dominant": "kinetic"
+  },
+  "vfx": {
+    "primary_effects": [
+      "kinetic_typo",
+      "split_screen",
+      "ui_motion",
+      "particle"
+    ],
+    "effect_intensity": "moderate",
+    "transition_style_dominant": "cut",
+    "vfx_event_count": 6,
+    "vfx_timing_array_sec": [
+      0.9,
+      3.7,
+      13.764,
+      14.8,
+      17.9,
+      19.394
+    ],
+    "wow_vfx_index": [
+      21
+    ]
+  },
+  "audio": {
+    "has_audio": true,
+    "language": "ko",
+    "speech_coverage": 0.0,
+    "bgm_likely": true,
+    "narration_lines": [],
+    "voice_vs_caption": "caption_only_no_voice",
+    "narration_handling": "none",
+    "transcribed_by": "faster_whisper",
+    "audio_note": "faster_whisper(base) ran successfully and returned 0 speech segments — the ad has NO spoken narration; it is music/BGM-driven (stereo AAC 44.1kHz, mean_volume -11.2dB confirms an active music track). On-screen copy is caption-driven. All copy captured verbatim from native-res frames."
+  },
+  "frames_dir": "ADV-2026-043_frames",
+  "contact_sheet_path": "ADV-2026-043_frames/contact_sheet.png",
+  "shots": [
+    {
+      "index": 1,
+      "duration": 1.543,
+      "framing": "CU",
+      "function": "hook",
+      "subject_action": "a black smartphone lies face-up on a warm wooden table showing a dark lock screen with the time '2:09'; a push notification banner with a '29' app icon slides in reading a birthday-congratulations message; a hand with dark nails reaches in toward the phone",
+      "layout_grid": "center",
+      "subject_position": "center",
+      "subject_identity": "hand_prop",
+      "subject_relationship_to_protagonist": "main_character",
+      "mid_frame_path": "ADV-2026-043_frames/cut01_mid.png",
+      "subject_typo_layout": "typo_separate_zone",
+      "typo_motion": "화면 우상단 '29CM' 워드마크 정적 유지(전 영상 공통). 폰 화면 내 알림 배너가 하단에서 슬라이드 인하며 '29 KYOKA님의 29번째 생일을 축하해요'·'NOW' 표시 (f22~f37 등장). 락스크린 시계 '2:09' 정적.",
+      "camera_angle": "high_angle",
+      "camera_facing": "frontal",
+      "shot_scope": "environment",
+      "gaze": "none",
+      "eye_contact_effect": null,
+      "props": [
+        "smartphone",
+        "wooden table",
+        "push notification banner"
+      ],
+      "prop_semantics": "생일 알림이 '29번째 생일'을 알리며 광고의 '29' 모티프와 서사를 동시에 개시; 폰=일상 디바이스 진입점",
+      "color_palette": [
+        "#a47b52",
+        "#0d0d0f",
+        "#3a3c40",
+        "#f4f4f2"
+      ],
+      "color_intent": "따뜻한 우드 톤 위 어두운 폰과 밝은 알림 텍스트로 친밀한 일상 도입; 흰 텍스트가 읽힘성 앵커",
+      "pose_description": "인물 신체 없음(손만); 폰이 화면 중앙 정적 앵커, 손이 우측에서 진입해 상호작용 예고",
+      "subject_motion": "micro_hand_enters",
+      "prop_motion": "notification banner slides in from screen top-area",
+      "camera_motion": "locked_off",
+      "camera_motion_intensity": "none",
+      "camera_effect_local": "none",
+      "motion_blur": false,
+      "intra_cut_rhythm": "steady",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [
+        "ui_motion"
+      ],
+      "vfx_intensity_local": "subtle",
+      "fact_check_flag": null,
+      "notes": "Cut 1 (f1-37, 0.00-1.543s): black smartphone on warm wood table, lock screen '2:09', 5G/battery status bar. Push notification banner with rounded-square '29' app icon: 'KYOKA님의 29번째 생일을 축하해요' + 'NOW'. Hand with dark nails enters from right. '29CM' wordmark top-right (persists whole film).",
+      "visible_elements": {
+        "foreground": [
+          "black glossy smartphone face-up",
+          "push notification banner with '29' app icon",
+          "right hand with dark-painted nails entering"
+        ],
+        "midground": [
+          "warm honey wooden table surface"
+        ],
+        "background": [
+          "out-of-focus wood grain"
+        ],
+        "lighting_env": [
+          "soft warm directional interior light from upper-left"
+        ],
+        "atmosphere": [
+          "calm intimate morning domestic light, no haze, no grain"
+        ]
+      },
+      "texture": {
+        "primary_subject": "glass_clear",
+        "secondary_objects": [
+          "wood_polished",
+          "skin_natural"
+        ],
+        "background_surface": "wood_polished",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "45deg_above",
+        "key_hardness": "soft",
+        "key_color_temp": "warm_3000K",
+        "fill_strength": "moderate",
+        "key_to_fill_ratio": "3:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "soft",
+        "overall_contrast": "mid_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#a47b52",
+          "#0d0d0f",
+          "#3a3c40",
+          "#f4f4f2"
+        ],
+        "palette_role": {
+          "#a47b52": "background_warm_wood_dominant",
+          "#0d0d0f": "phone_dark_anchor",
+          "#3a3c40": "notification_banner_grey",
+          "#f4f4f2": "text_white_accent"
+        },
+        "color_relationship": "brand_dominant",
+        "temperature_balance": "warm_dominant",
+        "saturation_strategy": "muted",
+        "contrast_type": "luminance_high",
+        "accent_color": "#f4f4f2",
+        "accent_ratio": "5_percent",
+        "brand_color_match": [
+          "29CM mono white-on-dark"
+        ]
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A photorealistic close-up product shot of a modern black-glass smartphone lying face-up on a warm honey-toned wooden table surface, rendered at 1920x1080 pixels in 16:9 landscape. The phone fills the central two-thirds of the frame, tilted at a gentle three-quarter angle so the top edge recedes toward the upper-left and the bottom edge sits near the lower frame; the device is a current-model bezel-less smartphone with a pill-shaped dynamic-island cutout at the top and rounded corners, its glossy near-black OLED screen showing a minimal dark lock screen. At the top center of the screen, the status bar shows a small carrier label, lock glyph, signal and 5G indicators, and a battery icon; below it, large clean white lock-screen clock numerals read \"2:09\" in a thin elegant sans-serif. Sliding in over the lower-middle of the screen is a single iOS-style push-notification banner — a translucent dark-grey rounded rectangle with a soft frosted-glass blur; at its left edge sits a small rounded-square app icon containing the white numeral \"29\" on a neutral ground; the banner body carries one line of small grey-white Korean text reading \"KYOKA님의 29번째 생일을 축하해요\" (preserved verbatim), and a tiny \"NOW\" timestamp at the far right. The banner is the brightest focal element on the dark screen. Entering from the right side of the frame at mid-frame is a human right hand with dark-painted nails, fingers relaxed and reaching toward the phone, naturally lit. In the upper-right corner of the overall video frame sits the small white wordmark \"29CM\" in a thin geometric sans-serif (preserved verbatim, brand sign-off, treated as flat overlay). The wooden table fills the surrounding negative space with visible long warm woodgrain striations running diagonally, lit by soft directional light. Lighting setup: a soft diffused key from the upper-left at roughly 45 degrees creating a gentle gradient highlight along the top half of the phone glass and a soft falloff toward the lower-right; warm color temperature around 3200-3800K; moderate fill, key-to-fill ratio about 3:1; subtle specular sheen on the glossy screen and a faint reflection of ambient light; soft short shadows under the phone edge; overall mid-key contrast, intimate and tactile. Lens and framing: tight macro-leaning medium close-up, eye-level-to-slightly-overhead camera angle looking down at the table, frontal-to-three-quarter facing of the device, approximately 50mm-equivalent with shallow-to-moderate depth of field so the phone screen is crisp while the far woodgrain softens. Composition and grid: the phone occupies center with rule-of-thirds emphasis on the notification banner, generous warm-wood negative space upper-left and lower-right, the entering hand balancing the right third. Color palette and strategy: dominated by warm honey-brown wood tones (#a47b52, #c69a6d) across roughly half the frame, deep near-black phone body and screen (#0d0d0f) as the dark anchor, cool grey notification banner (#3a3c40) and crisp white type (#f4f4f2) for legibility; warm-dominant temperature balance, muted naturalistic saturation with the white text and \"29\" icon as bright accents at about 8 percent of frame. Texture and surfaces: glossy tempered-glass phone screen and body, raw-to-satin polished wood grain, smooth natural skin on the reaching hand, frosted translucent banner material. Atmosphere: clean intimate domestic interior light, no haze, no grain, a calm everyday morning mood. Post and signature look: clean digital cinematic capture, gentle warm color grade, naturalistic contrast, no film grain, subtle realistic lens character; this is a live-action lifestyle commercial still. Style anchor: refined Korean lifestyle e-commerce commercial, 4K cinematic product macro, warm domestic daylight, premium minimal mobile-first aesthetic; Korean cultural context, contemporary urban.",
+        "t2i_negative": "real brand logos or logo marks, watermark, extra fingers, distorted hands, deformed text, garbled lettering, oversharpening, low resolution, jpeg artifacts, harsh flat on-camera flash, plastic CGI look, second phone, glare hiding screen text",
+        "i2v_motion": "Hold on the phone resting on the wood table; the lock-screen clock '2:09' stays static; a single notification banner '29 KYOKA님의 29번째 생일을 축하해요' slides in from the upper screen area and settles; a hand with dark nails drifts in from the right toward the phone. Camera locked-off. ~1.5s, steady, ending on a clean cut.",
+        "i2v_params": {
+          "clip_duration_sec": 1.543,
+          "camera_move": "locked_off",
+          "subject_motion_level": "micro",
+          "signature_effect": "none",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen notification copy preserved verbatim; app '29' icon generic rounded-square type; hand identity generic"
+      }
+    },
+    {
+      "index": 2,
+      "duration": 2.294,
+      "framing": "MS",
+      "function": "narrative_setup",
+      "subject_action": "a young Korean woman with platinum-blonde ponytail in a navy blazer sits on a terracotta sofa by a sunlit grid window, leaning forward looking at her phone; the camera slowly pushes in as kinetic typography 'WHERE IS' (left) and a script '29' (right) animate over the frame",
+      "layout_grid": "rule_of_thirds",
+      "subject_position": "center",
+      "subject_identity": "protagonist_main",
+      "subject_relationship_to_protagonist": "main_character",
+      "mid_frame_path": "ADV-2026-043_frames/cut02_mid.png",
+      "subject_typo_layout": "typo_opposite_subject",
+      "typo_motion": "좌측 대형 흰 산세리프 'WHERE'/'IS' 스택 등장(f41~), 우측 흰 스크립트 '29' 페이드/슬라이드 인(f88~f92). 카메라 푸시인 동안 타이포 정착. 'WHERE IS 29' 질문형 카피 형성.",
+      "camera_angle": "eye_level",
+      "camera_facing": "three_quarter",
+      "shot_scope": "waist_up",
+      "gaze": "at_product",
+      "eye_contact_effect": null,
+      "props": [
+        "smartphone",
+        "terracotta sofa",
+        "grid window",
+        "grey throw pillow"
+      ],
+      "prop_semantics": "폰=탐색의 매개; 따뜻한 인테리어=라이프스타일 큐레이션 톤; 창=빛/개방감",
+      "color_palette": [
+        "#c4733f",
+        "#23262e",
+        "#8a9b6e",
+        "#f4f4f2"
+      ],
+      "color_intent": "따뜻한 테라코타·역광 데이라이트로 감성 에디토리얼 무드; 네이비 블레이저가 다크 앵커, 흰 타이포 대비",
+      "pose_description": "앞으로 살짝 숙여 폰을 양손으로 잡고 차분히 응시; 정제된 패션 에디토리얼 포즈, 골똘한 인상",
+      "subject_motion": "near_static_micro",
+      "prop_motion": "none",
+      "camera_motion": "slow_push_in",
+      "camera_motion_intensity": "low",
+      "camera_effect_local": "none",
+      "motion_blur": false,
+      "intra_cut_rhythm": "steady",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [
+        "kinetic_typo"
+      ],
+      "vfx_intensity_local": "moderate",
+      "fact_check_flag": null,
+      "notes": "Cut 2 (f38-92, 1.543-3.837s): continuous push-in (hist_corr stays ~0.98 across, no internal hard cut). Woman on terracotta sofa, blonde ponytail, navy blazer, large grid window backlit with garden green. Typo 'WHERE IS' left + script '29' right animate in. Establishes the protagonist and the 'where is 29' question.",
+      "visible_elements": {
+        "foreground": [
+          "protagonist seated leaning forward holding smartphone"
+        ],
+        "midground": [
+          "terracotta-orange fabric sofa",
+          "grey throw pillow",
+          "coffee-table edge"
+        ],
+        "background": [
+          "large multi-pane grid window",
+          "blurred green garden foliage",
+          "sheer curtains"
+        ],
+        "lighting_env": [
+          "large warm window backlight",
+          "soft bounced frontal fill"
+        ],
+        "atmosphere": [
+          "warm backlit haze, dreamy editorial glow, no grain"
+        ]
+      },
+      "texture": {
+        "primary_subject": "fabric_wool",
+        "secondary_objects": [
+          "fabric_cotton",
+          "glass_clear",
+          "fabric_woven"
+        ],
+        "background_surface": "glass_clear",
+        "atmospheric": [
+          "backlit_glow",
+          "atmospheric_haze"
+        ]
+      },
+      "lighting": {
+        "key_direction": "back",
+        "key_hardness": "soft",
+        "key_color_temp": "warm_3000K",
+        "fill_strength": "moderate",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": true,
+        "practical_lights": [
+          "대형 그리드 창 자연광"
+        ],
+        "shadow_presence": "soft",
+        "overall_contrast": "mid_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#c4733f",
+          "#23262e",
+          "#8a9b6e",
+          "#f4f4f2"
+        ],
+        "palette_role": {
+          "#c4733f": "sofa_terracotta_accent",
+          "#23262e": "blazer_dark_anchor",
+          "#8a9b6e": "foliage_midtone",
+          "#f4f4f2": "typo_white"
+        },
+        "color_relationship": "complementary",
+        "temperature_balance": "warm_dominant",
+        "saturation_strategy": "muted",
+        "contrast_type": "temperature_split",
+        "accent_color": "#c4733f",
+        "accent_ratio": "20_percent",
+        "brand_color_match": [
+          "29CM editorial warm palette"
+        ]
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A cinematic medium-wide lifestyle interior shot of a young Korean woman in her late twenties seated on a warm terracotta-orange fabric sofa inside a sunlit living room, rendered at 1920x1080 in 16:9 landscape; she is positioned center-frame, body angled three-quarters toward the right, leaning forward with elbows toward her knees as she looks down at a black smartphone held in both hands, her expression calm and quietly absorbed. She has platinum-blonde hair pulled back into a low ponytail with face-framing strands, and wears a structured dark navy-black tailored blazer over a white top, with dark trousers; minimal jewelry, refined editorial styling, no visible logos. Behind her is a large multi-pane grid window with thin warm-wood mullions, through which softly blurred green garden foliage and bright daylight pour in, washing the scene in a warm hazy backlight; sheer curtains and a glimpse of a cushioned sofa back, a grey throw pillow at the right, and a terracotta seat surface frame her. Foreground and props: the smartphone in her hands is the key object; the sofa upholstery and a coffee-table edge with a cup may intrude at the lower frame. Kinetic typography overlays the frame: at the left third, large bold white sans-serif capitals stack as \"WHERE\" over \"IS\" (preserved verbatim), partially translucent and overlapping her and the window; at the right third, an elegant white script numeral \"29\" animates in (preserved verbatim), set in a flowing calligraphic style that contrasts the blocky left type. The \"29CM\" white wordmark sits small in the upper-right corner (verbatim overlay). Lighting setup: strong warm window backlight from behind the subject creating a soft rim glow on her hair and shoulders, a gentle bounced fill on her face from the front-left keeping it readable, key-to-fill roughly 2:1 with the window as a giant soft source; warm color temperature around 4000-4500K with a honeyed cast; soft diffused shadows, atmospheric backlit glow, mid-key-to-hi-key contrast, dreamy and editorial. Lens and framing: medium-wide shot, eye-level camera, frontal-to-three-quarter facing, subject shown waist-up to near-full as she sits, approximately 35mm-equivalent with moderate depth of field — subject sharp, garden background softly bokeh'd, a slow push-in feel. Composition and grid: rule-of-thirds with the subject centered slightly right, \"WHERE/IS\" type anchoring the left third and the script \"29\" the right third, generous luminous negative space from the bright window, typography occupying the opposing zones to the subject. Color palette and strategy: warm terracotta-orange sofa (#c4733f) and honey daylight dominate, deep navy-black blazer (#23262e) as the dark anchor, soft sage-green foliage (#8a9b6e) midtones, crisp white type and skin highlights; warm-dominant temperature, muted-but-rich naturalistic saturation with the orange sofa as a 20-percent accent. Texture and surfaces: woven matte cotton-linen sofa fabric, smooth wool-blend blazer, glossy phone glass, sheer gauzy curtain, soft skin, blurred organic leaves. Atmosphere: warm backlit haze, gentle dust-light glow, serene domestic afternoon, no film grain. Post and signature look: clean digital cinematic capture, warm filmic color grade with lifted soft highlights, naturalistic contrast, refined commercial polish, no grain. Style anchor: premium Korean lifestyle e-commerce brand film, editorial fashion-meets-interior cinematography, warm natural daylight, 4K cinematic; contemporary Korean cultural context.",
+        "t2i_negative": "second extra person, distorted face, deformed fingers, extra limbs, real celebrity face likeness, real brand logo marks, watermark, text errors, harsh shadows, cartoonish, low resolution, jpeg artifacts, blown-out window, missing typography",
+        "i2v_motion": "Slow continuous push-in toward the seated protagonist; she holds near-static with breathing-level micro-motion, gaze down at her phone; warm window backlight steady; 'WHERE'/'IS' kinetic type holds at the left third while a script '29' fades/slides in at the right third. Camera slow push-in, no cut. ~2.3s, steady.",
+        "i2v_params": {
+          "clip_duration_sec": 2.294,
+          "camera_move": "push_in",
+          "subject_motion_level": "micro",
+          "signature_effect": "none",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen copy 'WHERE IS' / '29' preserved verbatim; subject identity generic Korean woman (no celebrity likeness)"
+      }
+    },
+    {
+      "index": 3,
+      "duration": 0.376,
+      "framing": "ECU",
+      "function": "wow_motif",
+      "subject_action": "an extreme macro of a vintage split-flap flip-clock that has just settled on the numeral '29' in large ivory split-flap digits, with a 'QUARTZ' label at the right",
+      "layout_grid": "center",
+      "subject_position": "center",
+      "subject_identity": "none_environment",
+      "subject_relationship_to_protagonist": null,
+      "mid_frame_path": "ADV-2026-043_frames/cut03_mid.png",
+      "subject_typo_layout": "typo_only_no_person",
+      "typo_motion": "우상단 '29CM' 워드마크 정적. 컷 시작 직전 28→29로 플랩이 넘어가 정착(스플릿 플랩 모션). 'QUARTZ' 라벨 정적.",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "environment",
+      "gaze": "at_product",
+      "eye_contact_effect": null,
+      "props": [
+        "flip clock"
+      ],
+      "prop_semantics": null,
+      "color_palette": [
+        "#1c1f24",
+        "#e8e4d8",
+        "#9a9a9a"
+      ],
+      "color_intent": null,
+      "pose_description": null,
+      "subject_motion": "static",
+      "prop_motion": "none",
+      "camera_motion": "locked_off",
+      "camera_motion_intensity": "none",
+      "camera_effect_local": "none",
+      "motion_blur": false,
+      "intra_cut_rhythm": "static",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [],
+      "vfx_intensity_local": "subtle",
+      "fact_check_flag": null,
+      "notes": "Cut 3 (f93-100, 3.837-4.213s): vintage split-flap flip clock, large ivory '29' digits with central seam, 'QUARTZ' label right. Mechanism just flipped 28->29. First of the rapid '29-everywhere' object montage.",
+      "visible_elements": {
+        "foreground": [
+          "vintage split-flap flip clock with large '29' digits"
+        ],
+        "midground": [
+          "dark clock mechanism with hinge tabs"
+        ],
+        "background": [
+          "dark clock housing"
+        ],
+        "lighting_env": [
+          "soft directional key from upper-left grazing numeral faces"
+        ],
+        "atmosphere": [
+          "clean product macro, faint vignette, no haze, no grain"
+        ]
+      },
+      "texture": {
+        "primary_subject": "metallic",
+        "secondary_objects": [
+          "plastic_matte"
+        ],
+        "background_surface": "metallic",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "45deg_side",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "minimal",
+        "key_to_fill_ratio": "4:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "soft",
+        "overall_contrast": "low_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#1c1f24",
+          "#e8e4d8",
+          "#9a9a9a"
+        ],
+        "palette_role": {
+          "#1c1f24": "clock_body_dark_dominant",
+          "#e8e4d8": "numeral_ivory_hero",
+          "#9a9a9a": "label_grey"
+        },
+        "color_relationship": "monochrome",
+        "temperature_balance": "cool_dominant",
+        "saturation_strategy": "desaturated_with_pop",
+        "contrast_type": "luminance_high",
+        "accent_color": "#e8e4d8",
+        "accent_ratio": "30_percent",
+        "brand_color_match": [
+          "29CM mono"
+        ]
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A tight cinematic macro close-up of a vintage flip-clock (split-flap mechanical clock) mechanism filling the frame at 1920x1080, 16:9 landscape; the clock body is matte dark charcoal-black metal with a horizontal seam running across the middle where the split-flap leaves meet. Dominating the center of the frame are two enormous off-white split-flap digits reading \"29\" in a heavy condensed sans-serif numeral face, each digit hinged so the upper and lower halves are divided by the central black gutter line; the numerals are creamy ivory against the dark mechanism, with the subtle three-dimensional thickness of stacked flap cards visible at their edges. At the right edge, small uppercase lettering reads \"QUARTZ\" (verbatim, a generic clock-face label) in thin light-grey type. The mechanism shows subtle mechanical detail — small hinge tabs, pivot pins and a faint metal support rail flanking the flap stack at the left and right margins, with a slim slot where the next card would drop. The white \"29CM\" wordmark sits in the upper-right corner (verbatim overlay). This frame captures the instant the flaps have just settled on \"29\" (the immediately prior frames showed \"28\" mid-flip), so there is an implied freshly-landed crispness to the card faces. Foreground and props: only the clock — a single hero object symbolizing the recurring numeral motif; no hands, no people, no background scene beyond the dark clock housing. Lighting setup: a soft directional key from the upper-left grazing across the raised numeral faces, creating gentle top-edge highlights on the ivory flaps and a soft pooling shadow in the central seam; cool-neutral color temperature around 5000-5500K with a faint cool cast in the shadow areas; minimal fill from the lower-right, key-to-fill ratio about 4:1, soft contained shadows in the gutter line, low-key-to-mid-key contrast overall, crisp and graphic. Lens and framing: extreme-to-medium close-up macro, eye-level frontal camera squared straight-on to the clock face, the \"29\" filling roughly 60 percent of frame width and centered both horizontally and vertically, approximately 80mm-equivalent macro look with shallow depth of field so the numeral plane is razor-sharp while the side mechanism and right-edge label fall slightly soft. Composition and grid: centered symmetrical composition built around the numeral, the horizontal flap seam bisecting the frame into upper and lower halves, \"QUARTZ\" anchoring the lower-right corner, broad dark negative space at top and bottom edges. Color palette and strategy: near-black charcoal mechanism (#1c1f24) dominant across most of the frame, creamy off-white numeral faces (#e8e4d8) as the high-luminance hero element, faint cool grey for the label; cool-neutral temperature balance, near-monochrome desaturated palette where luminance contrast alone carries the image, the white numerals reading as the 30-percent bright accent. Texture and surfaces: matte powder-coated metal clock body, smooth semi-gloss flap cards with a subtle printed paper-card texture, fine machined hinge metal with tiny specular glints. Atmosphere: clean studio-grade product macro, no haze, a faint cinematic edge vignette, calm graphic stillness. Post and signature look: clean digital capture with a slightly desaturated cool grade and crisp micro-contrast on the numeral edges, naturalistic rendering, no film grain, no halation. Style anchor: design-led Korean lifestyle e-commerce brand film, premium product macro of an everyday object foregrounding the number twenty-nine, 4K crisp commercial finish; contemporary minimalist Korean context.",
+        "t2i_negative": "real brand logos or logo marks, watermark, extra fingers, distorted hands, deformed text, garbled lettering, oversharpening, low resolution, jpeg artifacts, harsh flat on-camera flash, plastic CGI look",
+        "i2v_motion": "The split-flap leaves finish flipping and lock on '29' with a tiny mechanical settle; otherwise static. Camera locked-off. ~0.4s, fast cut handoff to the next object.",
+        "i2v_params": {
+          "clip_duration_sec": 0.376,
+          "camera_move": "locked_off",
+          "subject_motion_level": "still",
+          "signature_effect": "none",
+          "pacing": "static",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen numerals/labels preserved verbatim; everyday object generic type; any hand identity generic"
+      }
+    },
+    {
+      "index": 4,
+      "duration": 0.333,
+      "framing": "ECU",
+      "function": "wow_motif",
+      "subject_action": "a macro of a paper tear-off day calendar with a giant patterned red numeral, a hand peeling the page to reveal the next day; lunar-almanac header and 'MEMO' at the bottom",
+      "layout_grid": "center",
+      "subject_position": "center",
+      "subject_identity": "none_environment",
+      "subject_relationship_to_protagonist": null,
+      "mid_frame_path": "ADV-2026-043_frames/cut04_mid.png",
+      "subject_typo_layout": "typo_only_no_person",
+      "typo_motion": "우상단 '29CM' 정적. 손이 하단에서 페이지를 위로 넘기며 빨간 날짜 숫자가 들리고 다음 장이 드러남(페이지 플립 모션). 'MEMO'·음력 헤더 정적.",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "environment",
+      "gaze": "at_product",
+      "eye_contact_effect": null,
+      "props": [
+        "paper day calendar with giant red numeral"
+      ],
+      "prop_semantics": null,
+      "color_palette": [
+        "#f1efe9",
+        "#a83b2e",
+        "#1b1b1b"
+      ],
+      "color_intent": null,
+      "pose_description": null,
+      "subject_motion": "prop_handled",
+      "prop_motion": "hand peels and flips page upward",
+      "camera_motion": "locked_off",
+      "camera_motion_intensity": "none",
+      "camera_effect_local": "none",
+      "motion_blur": false,
+      "intra_cut_rhythm": "static",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [],
+      "vfx_intensity_local": "subtle",
+      "fact_check_flag": null,
+      "notes": "Cut 4 (f101-108, 4.213-4.546s): paper tear-off 일력 calendar, giant brick-red patterned numeral (day 29 motif), hand peeling page to reveal next, lunar header '陰小 8月 7日 庚子', 'MEMO' bottom. Object montage.",
+      "visible_elements": {
+        "foreground": [
+          "paper day calendar with giant red numeral",
+          "hand peeling page"
+        ],
+        "midground": [
+          "plaster wall edge"
+        ],
+        "background": [
+          "textured off-white plaster wall"
+        ],
+        "lighting_env": [
+          "soft frontal-upper-left key flooding white paper"
+        ],
+        "atmosphere": [
+          "clean bright domestic interior, no haze, no grain"
+        ]
+      },
+      "texture": {
+        "primary_subject": "paper",
+        "secondary_objects": [
+          "skin_natural"
+        ],
+        "background_surface": "concrete",
+        "atmospheric": ""
+      },
+      "lighting": {
+        "key_direction": "45deg_above",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "strong",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "minimal",
+        "overall_contrast": "hi_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#f1efe9",
+          "#a83b2e",
+          "#1b1b1b"
+        ],
+        "palette_role": {
+          "#f1efe9": "paper_white_dominant",
+          "#a83b2e": "numeral_red_hero",
+          "#1b1b1b": "fine_print_black"
+        },
+        "color_relationship": "brand_dominant",
+        "temperature_balance": "warm_dominant",
+        "saturation_strategy": "muted_with_pop",
+        "contrast_type": "luminance_high",
+        "accent_color": "#a83b2e",
+        "accent_ratio": "25_percent",
+        "brand_color_match": [
+          "29CM"
+        ]
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A cinematic macro close-up of a paper wall tear-off day calendar (Korean 일력) mounted on a textured off-white plaster wall, rendered at 1920x1080 in 16:9 landscape; the calendar page fills most of the frame, tilted very slightly, its white paper bearing a single giant numeral printed in deep brick-red. The dominant element is the large red day number rendered in an ornate patterned typeface whose strokes are filled with a fine traditional damask/lattice texture; in this frame a human hand is caught mid-action at the lower portion, peeling and flipping a page upward so that the current red numeral is partly lifting away to reveal the next day's page beneath. Across the top of the page, smaller printed details appear: a row of tiny black weekday header letters and a lunar-calendar line of small Korean and Chinese characters reading approximately \"陰小 8月 7日 庚子\" with a miniature month grid of dates at the upper-right (verbatim small print, generic almanac layout); near the bottom edge the word \"MEMO\" is printed in small black capitals (verbatim). The white \"29CM\" wordmark sits in the upper-right corner of the video frame (verbatim overlay). Foreground and props: the peeling calendar page and the acting hand are the hero; the recurring numeral motif (day twenty-nine) is the subject. Lighting setup: soft even frontal-to-upper-left key light washing the white paper brightly, gentle falloff toward the page edges, a soft cast shadow where the lifting page curls; neutral-to-warm color temperature around 4800-5200K; strong fill keeping the white paper clean and hi-key, key-to-fill about 2:1, minimal soft shadow, hi-key bright contrast, clean and tactile. Lens and framing: medium macro close-up, eye-level frontal camera nearly square to the wall, the numeral filling roughly half the frame and centered, approximately 60mm-equivalent with shallow-to-moderate depth so the page face is sharp and the lifting corner blurs with motion. Composition and grid: centered on the numeral with the almanac header occupying the top strip, \"MEMO\" anchoring the lower-left, the peeling hand entering from lower-right, bright paper negative space surrounding. Color palette and strategy: bright off-white paper (#f1efe9) dominant, deep brick-red numeral (#a83b2e) as the saturated hero accent, black fine print, faint warm plaster wall at the edges; warm-neutral temperature, restrained palette with the red numeral as a vivid 25-percent accent against white. Texture and surfaces: smooth matte calendar paper with a subtle fiber tooth, the patterned ink fill of the numeral, lightly textured plaster wall, natural skin on the hand. Atmosphere: clean bright domestic interior, no haze, no grain, quiet everyday ritual mood. Post and signature look: clean digital capture, neutral-bright grade, crisp paper detail, naturalistic contrast, no film grain. Additional fidelity notes: the giant red numeral is the day '29' (the recurring motif), and the damask lattice pattern inside its strokes is fine and regular, catching the light as a subtle relief; the page beneath that is being revealed shows a faint hint of the next day's lighter layout; the curling lifted corner shows slight paper translucency with light passing through it; the calendar is fixed to the wall by a small metal binding clip at the top edge with a visible pivot, and tiny perforation dots run along the tear line where pages separate; the overall feeling is of a single quiet morning gesture of turning the day, the hand relaxed and unhurried, fingertips lightly pinching the page corner. Style anchor: design-led Korean lifestyle e-commerce brand film, everyday-object macro foregrounding the number twenty-nine, hi-key clean commercial, 4K; traditional-meets-modern Korean cultural context.",
+        "t2i_negative": "real brand logos or logo marks, watermark, extra fingers, distorted hands, deformed text, garbled lettering, oversharpening, low resolution, jpeg artifacts, harsh flat on-camera flash, plastic CGI look",
+        "i2v_motion": "A hand peels and flips the calendar page upward, the red numeral lifting away to reveal the next day's page; light passes faintly through the curling paper. Camera locked-off. ~0.3s, fast cut.",
+        "i2v_params": {
+          "clip_duration_sec": 0.333,
+          "camera_move": "locked_off",
+          "subject_motion_level": "micro",
+          "signature_effect": "none",
+          "pacing": "static",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen numerals/labels preserved verbatim; everyday object generic type; any hand identity generic"
+      }
+    },
+    {
+      "index": 5,
+      "duration": 0.334,
+      "framing": "ECU",
+      "function": "wow_motif",
+      "subject_action": "an extreme macro of a wet black rubber clog-style shoe being washed, with white varsity charms forming '29' among colorful jibbitz charms and splashing water",
+      "layout_grid": "center",
+      "subject_position": "center",
+      "subject_identity": "none_environment",
+      "subject_relationship_to_protagonist": null,
+      "mid_frame_path": "ADV-2026-043_frames/cut05_mid.png",
+      "subject_typo_layout": "typo_only_no_person",
+      "typo_motion": "우상단 '29CM' 정적. 물이 우측에서 튀며 표면을 적심(스플래시 모션). '29' 참 정적.",
+      "camera_angle": "high_angle",
+      "camera_facing": "frontal",
+      "shot_scope": "environment",
+      "gaze": "at_product",
+      "eye_contact_effect": null,
+      "props": [
+        "black clog shoe with charms"
+      ],
+      "prop_semantics": null,
+      "color_palette": [
+        "#23262d",
+        "#f3f4f2",
+        "#e0568f",
+        "#22a6a0"
+      ],
+      "color_intent": null,
+      "pose_description": null,
+      "subject_motion": "prop_washed",
+      "prop_motion": "water splashes across surface",
+      "camera_motion": "locked_off",
+      "camera_motion_intensity": "none",
+      "camera_effect_local": "none",
+      "motion_blur": true,
+      "intra_cut_rhythm": "static",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [],
+      "vfx_intensity_local": "subtle",
+      "fact_check_flag": null,
+      "notes": "Cut 5 (f109-116, 4.546-4.880s): wet black Crocs-style clog being washed, white varsity '29' jibbitz charms among pink/turquoise/lilac charms, water splash from right. Object montage; '29' on footwear.",
+      "visible_elements": {
+        "foreground": [
+          "wet black perforated rubber clog",
+          "white '29' varsity charms",
+          "colorful jibbitz charms",
+          "splashing water and suds"
+        ],
+        "midground": [
+          "wet rubber surface"
+        ],
+        "background": [
+          "dark wet rubber field"
+        ],
+        "lighting_env": [
+          "bright hard-ish key from upper-left on wet surface, crisp speculars"
+        ],
+        "atmosphere": [
+          "dynamic splashing freshness, fine water mist, no grain"
+        ]
+      },
+      "texture": {
+        "primary_subject": "plastic_glossy",
+        "secondary_objects": [
+          "plastic_matte",
+          "glass_clear"
+        ],
+        "background_surface": "plastic_glossy",
+        "atmospheric": [
+          "water_spray"
+        ]
+      },
+      "lighting": {
+        "key_direction": "45deg_above",
+        "key_hardness": "hard",
+        "key_color_temp": "cool_7000K",
+        "fill_strength": "moderate",
+        "key_to_fill_ratio": "3:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "deep",
+        "overall_contrast": "high_contrast"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#23262d",
+          "#f3f4f2",
+          "#e0568f",
+          "#22a6a0"
+        ],
+        "palette_role": {
+          "#23262d": "rubber_dark_dominant",
+          "#f3f4f2": "charm_white_29_hero",
+          "#e0568f": "pink_charm_accent",
+          "#22a6a0": "turquoise_charm_accent"
+        },
+        "color_relationship": "complementary",
+        "temperature_balance": "cool_dominant",
+        "saturation_strategy": "vivid",
+        "contrast_type": "luminance_high",
+        "accent_color": "#f3f4f2",
+        "accent_ratio": "20_percent",
+        "brand_color_match": [
+          "29CM"
+        ]
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A high-energy macro close-up of a black rubber clog-style shoe (Crocs-type) being washed under splashing water, rendered at 1920x1080 in 16:9 landscape; the dark navy-black perforated rubber surface fills the frame, glossy and wet, dotted with its characteristic round ventilation holes and studded with several colorful decorative charms pushed into the holes. The hero element, center-frame, is a pair of white varsity-style jibbitz charms forming the numeral \"29\" — each digit a rounded white shield-shaped badge with a bold black collegiate \"2\" and \"9\" and a fine black pinstripe border, seated proudly among the holes. Surrounding charms add pops of color: a glossy hot-pink charm at the left, a small turquoise gem-jewel charm at the lower-right, and a soft lilac-purple charm at the right being struck by a cascade of white splashing water and suds at the right edge. Water droplets and a soap-foam splash burst across the right third, frozen in motion with bright specular sparkle. The white \"29CM\" wordmark sits in the upper-right corner (verbatim overlay). Foreground and props: the wet shoe and the \"29\" charms are the hero, conveying the recurring numeral motif on a fashion/footwear object. Lighting setup: a bright hard-ish key from the upper-left catching the wet rubber and igniting crisp specular highlights along the glossy ridges and on every water droplet; cool-neutral color temperature around 5500K with cool highlights in the water; moderate fill, key-to-fill about 3:1, hard small shadows in the perforations, high-contrast punchy lighting that makes the wet surface pop. Lens and framing: extreme macro close-up, slightly high frontal camera angle looking down onto the shoe surface, the \"29\" charms centered and filling roughly a third of the frame, approximately 90mm-equivalent macro with very shallow depth so the charms are tack-sharp and the splash softens into motion-blurred spray. Composition and grid: the \"29\" charms anchored center, color charms arranged around them like satellites, the water splash energizing the right third, dark wet rubber as the field. Color palette and strategy: deep navy-black wet rubber (#23262d) dominant, bright white \"29\" charms (#f3f4f2) as the high-luminance hero, vivid hot-pink (#e0568f), turquoise (#22a6a0) and lilac (#b89fd6) charm accents as playful complementary pops, white water sparkle; cool-dominant temperature, vivid saturation strategy with multi-color accents at roughly 20 percent. Texture and surfaces: glossy wet molded EVA rubber, smooth enamel charm surfaces, sparkling clear water droplets and frothy white suds, faceted gem charm. Atmosphere: dynamic splashing freshness, fine water mist in the air at the right, energetic and clean, no grain. Post and signature look: clean digital high-speed capture, crisp cool grade, punchy micro-contrast on wet specular, frozen-droplet realism, no film grain. Additional fidelity notes: the two charm digits sit in adjacent ventilation holes so the '2' and '9' read clearly left-to-right as a unit; the rubber shows the subtle matte-to-gloss transition where water sheets across it, and there are tiny rivulets running down between the holes; embedded reflections of the key light streak across the wet upper surface; the splashing water at the right is mid-air, broken into individual beads and a soft veil of mist, with a few suds clinging to the lilac charm; the entire surface reads as freshly rinsed and dripping, conveying lively motion even in a still frame, and the colorful charms give the dark shoe a personalized, collectible streetwear character. Style anchor: design-led Korean lifestyle e-commerce brand film, playful product macro foregrounding the number twenty-nine on streetwear footwear, vivid 4K commercial; contemporary youthful Korean fashion context.",
+        "t2i_negative": "real brand logos or logo marks, watermark, extra fingers, distorted hands, deformed text, garbled lettering, oversharpening, low resolution, jpeg artifacts, harsh flat on-camera flash, plastic CGI look",
+        "i2v_motion": "Water splashes and suds cascade across the wet shoe from the right, droplets bursting mid-air; the '29' charms stay fixed; high-energy micro-motion. Camera locked-off. ~0.3s, fast cut.",
+        "i2v_params": {
+          "clip_duration_sec": 0.334,
+          "camera_move": "locked_off",
+          "subject_motion_level": "micro",
+          "signature_effect": "none",
+          "pacing": "static",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen numerals/labels preserved verbatim; everyday object generic type; any hand identity generic"
+      }
+    },
+    {
+      "index": 6,
+      "duration": 0.375,
+      "framing": "ECU",
+      "function": "wow_motif",
+      "subject_action": "an extreme macro of a steel tape measure / metal ruler with the centimeter numerals '28' and '29' centered and sharp against creamy bokeh, nodding to the brand's measurement identity",
+      "layout_grid": "center",
+      "subject_position": "center",
+      "subject_identity": "none_environment",
+      "subject_relationship_to_protagonist": null,
+      "mid_frame_path": "ADV-2026-043_frames/cut06_mid.png",
+      "subject_typo_layout": "typo_only_no_person",
+      "typo_motion": "우상단 '29CM' 정적. 줄자가 미세하게 흐르며 '29' cm 눈금이 초점면에 위치(얕은 심도). 눈금/숫자 정적.",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "environment",
+      "gaze": "at_product",
+      "eye_contact_effect": null,
+      "props": [
+        "steel tape measure"
+      ],
+      "prop_semantics": null,
+      "color_palette": [
+        "#eeece6",
+        "#cfd0cc",
+        "#1a1a1a"
+      ],
+      "color_intent": null,
+      "pose_description": null,
+      "subject_motion": "static",
+      "prop_motion": "none",
+      "camera_motion": "locked_off",
+      "camera_motion_intensity": "none",
+      "camera_effect_local": "none",
+      "motion_blur": false,
+      "intra_cut_rhythm": "static",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [],
+      "vfx_intensity_local": "subtle",
+      "fact_check_flag": null,
+      "notes": "Cut 6 (f117-125, 4.880-5.255s): steel tape measure / ruler, '28' '29' cm numerals centered with shallow-DOF bokeh both ends, focus on '29' — witty literalization of 29cm brand name. Object montage.",
+      "visible_elements": {
+        "foreground": [
+          "steel tape-measure blade with '28 29' cm scale"
+        ],
+        "midground": [
+          "measuring scale receding into bokeh"
+        ],
+        "background": [
+          "soft defocused off-white background"
+        ],
+        "lighting_env": [
+          "soft broad key from upper-left skimming the metallic blade"
+        ],
+        "atmosphere": [
+          "clean bright minimalist studio, no haze, no grain"
+        ]
+      },
+      "texture": {
+        "primary_subject": "metallic",
+        "secondary_objects": [],
+        "background_surface": "flat_digital",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "45deg_side",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "strong",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "minimal",
+        "overall_contrast": "hi_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#eeece6",
+          "#cfd0cc",
+          "#1a1a1a"
+        ],
+        "palette_role": {
+          "#eeece6": "background_white_dominant",
+          "#cfd0cc": "tape_silver",
+          "#1a1a1a": "scale_numerals_black"
+        },
+        "color_relationship": "monochrome",
+        "temperature_balance": "balanced",
+        "saturation_strategy": "desaturated_with_pop",
+        "contrast_type": "luminance_high",
+        "accent_color": "#1a1a1a",
+        "accent_ratio": "10_percent",
+        "brand_color_match": [
+          "29CM literal 29cm"
+        ]
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A cinematic macro close-up of a flexible steel tape measure (or a metal ruler) photographed against a soft off-white out-of-focus background, rendered at 1920x1080 in 16:9 landscape; the slightly convex metallic measuring blade sweeps horizontally across the frame, its pale silver-white surface printed with a fine black graduated scale — closely spaced tick marks of varying heights along the top edge and printed centimeter numerals beneath. The hero detail, centered, is the printed sequence of numerals where \"28\" and \"29\" sit side by side in a clean black sans-serif (verbatim measurement markings), with the tape's edge catching light; a partial \"2...\" of the next number begins to appear at the right as the tape extends out of focus. The graduations and numbers are crisp at the center plane and dissolve into creamy bokeh toward both ends, emphasizing the twenty-nine-centimeter mark as the focal point — a clever nod to the brand's measurement-based identity. The white \"29CM\" wordmark sits in the upper-right corner (verbatim overlay). Foreground and props: the tape measure/ruler is the lone hero object; the recurring numeral motif appears as the literal \"29\" on a measuring scale. Lighting setup: a soft broad key from the upper-left skimming along the metallic blade to create a gentle gradient sheen and a faint specular band along its curved surface; neutral color temperature around 5200-5500K; strong soft fill keeping the scene bright and clean, key-to-fill about 2:1, almost no hard shadow, hi-key low-contrast clean lighting. Lens and framing: extreme macro close-up, eye-level frontal camera nearly parallel to the blade, the \"28 29\" numerals centered and occupying the middle third, approximately 100mm-equivalent macro with very shallow depth of field producing pronounced foreground and background bokeh and a thin plane of focus on the center numerals. Composition and grid: strongly horizontal composition following the tape line through the center, \"28\" and \"29\" balanced left-of-center and center, soft empty bright space above and below, the scale leading the eye left-to-right. Color palette and strategy: bright off-white background (#eeece6) and pale silver tape (#cfd0cc) dominant, crisp black numerals and ticks (#1a1a1a) as the high-contrast hero detail, a faint warm-grey shadow beneath; neutral temperature balance, near-monochrome desaturated palette relying on luminance and the black-on-silver scale, with the numerals as a fine 10-percent dark accent. Texture and surfaces: smooth brushed-metal measuring blade with subtle lengthwise grain, crisp printed scale, soft defocused matte background. Atmosphere: clean bright minimalist studio, no haze, no grain, precise and quiet. Post and signature look: clean digital macro capture, neutral bright grade, crisp center micro-contrast against creamy bokeh, naturalistic, no film grain. Additional fidelity notes: the tape blade is the pale yellow-silver typical of steel measuring tapes, very slightly curved across its width so the top edge catches a thin bright highlight while the lower edge falls into soft shade; the tick marks alternate tall (centimeter), medium (half), and short (millimeter) heights in a regular rhythm, and the printed numerals are upright and evenly spaced; the focal plane is set precisely on the '29' so it is the sharpest element in the entire frame while '28' to its left is just beginning to soften and the partial digit to the right is fully melted into bokeh; there are faint reflections of the soft key sliding along the metal as if the tape were gently shifting, and the background is a featureless luminous gradient that isolates the scale completely. Style anchor: design-led Korean lifestyle e-commerce brand film, witty product macro literalizing the number twenty-nine and centimeters, hi-key clean 4K commercial; contemporary minimalist Korean context.",
+        "t2i_negative": "real brand logos or logo marks, watermark, extra fingers, distorted hands, deformed text, garbled lettering, oversharpening, low resolution, jpeg artifacts, harsh flat on-camera flash, plastic CGI look",
+        "i2v_motion": "The tape blade drifts a hair so the '29' cm mark holds the focal plane while '28' and the next digit melt into bokeh; subtle highlight slides along the metal. Camera locked-off. ~0.4s, fast cut.",
+        "i2v_params": {
+          "clip_duration_sec": 0.375,
+          "camera_move": "locked_off",
+          "subject_motion_level": "still",
+          "signature_effect": "none",
+          "pacing": "static",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen numerals/labels preserved verbatim; everyday object generic type; any hand identity generic"
+      }
+    },
+    {
+      "index": 7,
+      "duration": 0.334,
+      "framing": "ECU",
+      "function": "wow_motif",
+      "subject_action": "an extreme macro of a printed exam/textbook page where problem '29.' is circled in red pen, with Korean problem text and a math expression",
+      "layout_grid": "center",
+      "subject_position": "center",
+      "subject_identity": "none_environment",
+      "subject_relationship_to_protagonist": null,
+      "mid_frame_path": "ADV-2026-043_frames/cut07_mid.png",
+      "subject_typo_layout": "typo_only_no_person",
+      "typo_motion": "우상단 '29CM' 정적. 빨간 펜 원이 '29.' 문항을 감싼 상태(정적). 미세 카메라 안정.",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "environment",
+      "gaze": "at_product",
+      "eye_contact_effect": null,
+      "props": [
+        "exam paper"
+      ],
+      "prop_semantics": null,
+      "color_palette": [
+        "#f4f3ef",
+        "#1b1b1b",
+        "#cf3a33"
+      ],
+      "color_intent": null,
+      "pose_description": null,
+      "subject_motion": "static",
+      "prop_motion": "none",
+      "camera_motion": "locked_off",
+      "camera_motion_intensity": "none",
+      "camera_effect_local": "none",
+      "motion_blur": false,
+      "intra_cut_rhythm": "static",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [],
+      "vfx_intensity_local": "subtle",
+      "fact_check_flag": null,
+      "notes": "Cut 7 (f126-133, 5.255-5.589s): printed exam page, problem '29. 실수 t에...' with f(n+...) circled in red pen ellipse. Object montage; '29' as a test problem number.",
+      "visible_elements": {
+        "foreground": [
+          "printed exam page",
+          "hand-drawn red pen circle around '29.'"
+        ],
+        "midground": [
+          "printed problem text and equation"
+        ],
+        "background": [
+          "bright white paper field"
+        ],
+        "lighting_env": [
+          "soft even key from upper-left flooding white paper"
+        ],
+        "atmosphere": [
+          "clean bright study-desk, no haze, no grain"
+        ]
+      },
+      "texture": {
+        "primary_subject": "paper",
+        "secondary_objects": [],
+        "background_surface": "paper",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "45deg_above",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "strong",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "minimal",
+        "overall_contrast": "hi_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#f4f3ef",
+          "#1b1b1b",
+          "#cf3a33"
+        ],
+        "palette_role": {
+          "#f4f3ef": "paper_white_dominant",
+          "#1b1b1b": "print_black",
+          "#cf3a33": "red_circle_hero"
+        },
+        "color_relationship": "complementary",
+        "temperature_balance": "warm_dominant",
+        "saturation_strategy": "muted_with_pop",
+        "contrast_type": "luminance_high",
+        "accent_color": "#cf3a33",
+        "accent_ratio": "8_percent",
+        "brand_color_match": [
+          "29CM"
+        ]
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A cinematic macro close-up of a printed exam paper or textbook page lying at an angle, rendered at 1920x1080 in 16:9 landscape; the paper is bright white with crisp black printed text, and a hand-drawn red pen circle loops around a specific item. The hero element, center-frame, is the printed line beginning with the numeral \"29.\" followed by Korean problem text reading approximately \"29. 실수 t에\" with a fragment of further text and a mathematical expression \"f(n+...\" trailing to the right (verbatim printed text, generic test-question layout). A bold hand-drawn red ballpoint ellipse encircles the \"29.\" number and the start of the question, the red ink slightly uneven and energetic, conveying that the twenty-ninth problem has been marked — another sighting of the recurring numeral. A faint vertical black rule line and the edge of a left margin are visible. The white \"29CM\" wordmark sits in the upper-right corner (verbatim overlay). Foreground and props: the marked exam page is the lone hero; the red circle is the only color accent. Lighting setup: soft even key from the upper-left flooding the white paper, gentle falloff at the page edges, almost shadowless; neutral-warm color temperature around 5000K; strong fill, key-to-fill about 2:1, hi-key bright clean contrast with a faint soft shadow under the curling page edge. Lens and framing: extreme macro close-up, slightly high frontal angle looking down at the tilted page, the \"29.\" and red circle centered and dominating, approximately 80mm-equivalent macro with shallow depth so the circled text is razor-sharp and the surrounding text softens at the corners. Composition and grid: the circled \"29.\" anchored slightly above center, the red ellipse drawing the eye, printed lines receding diagonally, bright white negative space filling the rest, a thin black rule giving structure. Color palette and strategy: bright white paper (#f4f3ef) dominant, crisp black print (#1b1b1b) for text, vivid red pen circle (#cf3a33) as the single saturated hero accent; warm-neutral temperature, minimal palette with red as a punchy 8-percent accent on white-and-black. Texture and surfaces: smooth matte printer paper with subtle fiber tooth, crisp toner-printed type, glossy-edged wet-look red ballpoint ink with slight ridging. Atmosphere: clean bright study-desk environment, no haze, no grain, focused studious mood. Post and signature look: clean digital macro capture, neutral-bright grade, crisp paper micro-detail, naturalistic contrast, no film grain. Additional fidelity notes: the red circle is clearly hand-drawn, not perfectly round, with a small overlap where the pen stroke closed the loop; the printed numerals use a standard serif-or-sans exam font; the focal plane is exactly on the circled '29.' so the trailing equation is just slightly soft; the page has a faint natural curl at one corner casting a hair-thin shadow; the overall read is unmistakably 'problem number 29 on a test,' reinforcing how the number 29 appears in mundane everyday contexts. The lighting keeps the white of the paper pristine without blowing out, so the toner text retains full edge definition and the red ink reads as a saturated wet stroke. Style anchor: design-led Korean lifestyle e-commerce brand film, everyday-object macro foregrounding the number twenty-nine in a study context, hi-key clean 4K commercial; contemporary Korean student-life context.",
+        "t2i_negative": "real brand logos or logo marks, watermark, extra fingers, distorted hands, deformed text, garbled lettering, oversharpening, low resolution, jpeg artifacts, harsh flat on-camera flash, plastic CGI look",
+        "i2v_motion": "Near-static page; the red ink circle around '29.' holds; the faintest settle of the paper. Camera locked-off. ~0.3s, fast cut.",
+        "i2v_params": {
+          "clip_duration_sec": 0.334,
+          "camera_move": "locked_off",
+          "subject_motion_level": "still",
+          "signature_effect": "none",
+          "pacing": "static",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen numerals/labels preserved verbatim; everyday object generic type; any hand identity generic"
+      }
+    },
+    {
+      "index": 8,
+      "duration": 0.376,
+      "framing": "ECU",
+      "function": "wow_motif",
+      "subject_action": "a vivid macro of a metal spoon lifted from a bowl of colorful cereal, holding red letter-cereal pieces forming '29' in milk over a rainbow-bokeh bowl",
+      "layout_grid": "center",
+      "subject_position": "center",
+      "subject_identity": "none_environment",
+      "subject_relationship_to_protagonist": null,
+      "mid_frame_path": "ADV-2026-043_frames/cut08_mid.png",
+      "subject_typo_layout": "typo_only_no_person",
+      "typo_motion": "우상단 '29CM' 정적. 숟가락이 우하단에서 들려 올라옴(리프트 모션). '29' 시리얼 글자 정적.",
+      "camera_angle": "high_angle",
+      "camera_facing": "frontal",
+      "shot_scope": "environment",
+      "gaze": "at_product",
+      "eye_contact_effect": null,
+      "props": [
+        "metal spoon with red '29' letter-cereal"
+      ],
+      "prop_semantics": null,
+      "color_palette": [
+        "#f2efe6",
+        "#d8463a",
+        "#e98bb0",
+        "#6fa8d6"
+      ],
+      "color_intent": null,
+      "pose_description": null,
+      "subject_motion": "prop_lifted",
+      "prop_motion": "spoon lifts up from bowl",
+      "camera_motion": "locked_off",
+      "camera_motion_intensity": "none",
+      "camera_effect_local": "none",
+      "motion_blur": false,
+      "intra_cut_rhythm": "static",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [],
+      "vfx_intensity_local": "subtle",
+      "fact_check_flag": null,
+      "notes": "Cut 8 (f134-142, 5.589-5.965s): metal spoon lifted from colorful cereal bowl, red '2' '9' letter-cereal in milk, rainbow cereal bokeh. Object montage; '29' as breakfast cereal.",
+      "visible_elements": {
+        "foreground": [
+          "metal spoon with red '29' letter-cereal in milk"
+        ],
+        "midground": [
+          "pale ring cereals beside them"
+        ],
+        "background": [
+          "bowl of multicolor cereal in creamy bokeh"
+        ],
+        "lighting_env": [
+          "bright soft key from upper-left, milk specular"
+        ],
+        "atmosphere": [
+          "bright cheerful breakfast mood, no grain"
+        ]
+      },
+      "texture": {
+        "primary_subject": "metallic",
+        "secondary_objects": [
+          "liquid"
+        ],
+        "background_surface": "bokeh_abstract",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "45deg_above",
+        "key_hardness": "soft",
+        "key_color_temp": "warm_3000K",
+        "fill_strength": "strong",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "soft",
+        "overall_contrast": "hi_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#f2efe6",
+          "#d8463a",
+          "#e98bb0",
+          "#6fa8d6"
+        ],
+        "palette_role": {
+          "#f2efe6": "milk_cream_dominant",
+          "#d8463a": "cereal_29_red_hero",
+          "#e98bb0": "cereal_pink_accent",
+          "#6fa8d6": "cereal_blue_accent"
+        },
+        "color_relationship": "complementary",
+        "temperature_balance": "warm_dominant",
+        "saturation_strategy": "vivid",
+        "contrast_type": "luminance_high",
+        "accent_color": "#d8463a",
+        "accent_ratio": "15_percent",
+        "brand_color_match": [
+          "29CM"
+        ]
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A vibrant macro close-up of a metal spoon held above a bowl of colorful breakfast cereal, rendered at 1920x1080 in 16:9 landscape; the polished stainless spoon enters from the lower-right and is lifted toward the upper-center, cradling a small pool of milk and a few cereal pieces. The hero element, center-frame on the spoon, is two red letter-shaped cereal pieces forming the numeral \"29\" — a red \"2\" and red \"9\" made of crunchy cereal sitting in the milky spoon among a couple of pale ring-and-hoop cereal bits, clearly legible as twenty-nine. Below and around, softly out of focus, is a generous bowl brimming with multicolored cereal — pink, yellow, blue, green, and red shapes (stars, rings, letters) in creamy milk, filling the background with a joyful blur of confetti color. The white \"29CM\" wordmark sits in the upper-right corner (verbatim overlay). Foreground and props: the spoon with the \"29\" cereal letters is the hero; the colorful cereal bowl is the bokeh field; the recurring numeral motif appears as breakfast cereal. Lighting setup: a bright soft key from the upper-left catching the wet milk sheen on the spoon and the glossy cereal pieces, gentle warm fill bouncing off the milk; warm-neutral color temperature around 4800-5200K; soft shadows, key-to-fill about 2:1, hi-key cheerful contrast with crisp specular on the spoon metal. Lens and framing: extreme macro close-up, slightly high frontal angle following the lifted spoon, the \"29\" cereal letters centered and sharp at roughly a third of frame, approximately 90mm-equivalent macro with very shallow depth so the spoon contents are tack-sharp and the bowl dissolves into rich creamy bokeh. Composition and grid: the spoon and its \"29\" anchored center, lifted diagonally from lower-right, the colorful bowl filling the soft background, milky highlights sparkling. Color palette and strategy: creamy off-white milk (#f2efe6) and warm tones, vivid red cereal numerals (#d8463a) as the hero accent, multicolor pastel cereal confetti (pink #e98bb0, yellow #e7c35a, blue #6fa8d6, green #7fb486) in the bokeh; warm-dominant temperature, vivid playful saturation with the red \"29\" as the focal 15-percent accent amid rainbow bokeh. Texture and surfaces: glossy polished stainless spoon, glistening milk, porous crunchy cereal pieces, soft defocused multicolor cereal. Atmosphere: bright cheerful breakfast-table mood, faint milk steam feel, appetizing and playful, no grain. Post and signature look: clean digital macro capture, warm appetizing grade, crisp center micro-contrast against colorful bokeh, naturalistic, no film grain. Additional fidelity notes: the milk in the spoon has a slight meniscus catching a bright highlight; the red letter cereals are slightly irregular, clearly food objects rather than plastic; a couple of pale ring cereals float beside them; the bowl rim is just visible as a soft arc at the frame edges; the overall feeling is of someone scooping a spoonful and discovering '29' in their breakfast, a delightfully mundane sighting of the number. The shallow plane of focus is set precisely on the front faces of the red '2' and '9' so their crunchy edges are crisp while everything a centimeter behind melts into soft pastel color, maximizing the pop of the discovered numeral. Style anchor: design-led Korean lifestyle e-commerce brand film, playful food macro foregrounding the number twenty-nine, warm appetizing 4K commercial; contemporary Korean everyday-life context.",
+        "t2i_negative": "real brand logos or logo marks, watermark, extra fingers, distorted hands, deformed text, garbled lettering, oversharpening, low resolution, jpeg artifacts, harsh flat on-camera flash, plastic CGI look",
+        "i2v_motion": "The spoon lifts up from the bowl carrying the red '29' cereal in milk; the bowl behind stays a soft colorful bokeh; milk highlight glints. Camera locked-off. ~0.4s, fast cut.",
+        "i2v_params": {
+          "clip_duration_sec": 0.376,
+          "camera_move": "locked_off",
+          "subject_motion_level": "micro",
+          "signature_effect": "none",
+          "pacing": "static",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen numerals/labels preserved verbatim; everyday object generic type; any hand identity generic"
+      }
+    },
+    {
+      "index": 9,
+      "duration": 0.5,
+      "framing": "ECU",
+      "function": "wow_motif",
+      "subject_action": "a bright high-angle flat-lay of mustard-yellow '2' and teal-green '9' wooden number toys on a white table with a child's finger nudging the '9', surrounded by toy animals and pastel shapes",
+      "layout_grid": "center",
+      "subject_position": "center",
+      "subject_identity": "hand_prop",
+      "subject_relationship_to_protagonist": "extra_atmosphere",
+      "mid_frame_path": "ADV-2026-043_frames/cut09_mid.png",
+      "subject_typo_layout": "typo_separate_zone",
+      "typo_motion": "우상단 '29CM' 정적. 아이 손가락이 우하단에서 들어와 teal '9'를 살짝 미는 제스처(미세 모션). 숫자 토이 정적.",
+      "camera_angle": "high_angle",
+      "camera_facing": "frontal",
+      "shot_scope": "environment",
+      "gaze": "at_product",
+      "eye_contact_effect": null,
+      "props": [
+        "yellow '2' and teal '9' wooden number toys"
+      ],
+      "prop_semantics": null,
+      "color_palette": [
+        "#f3f3f1",
+        "#e0a93f",
+        "#2f8f86",
+        "#d8a0a0"
+      ],
+      "color_intent": null,
+      "pose_description": null,
+      "subject_motion": "prop_handled",
+      "prop_motion": "finger nudges the teal '9'",
+      "camera_motion": "locked_off",
+      "camera_motion_intensity": "none",
+      "camera_effect_local": "none",
+      "motion_blur": false,
+      "intra_cut_rhythm": "static",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [],
+      "vfx_intensity_local": "subtle",
+      "fact_check_flag": null,
+      "notes": "Cut 9 (f143-154, 5.965-6.465s): flat-lay of wooden number toys — mustard '2', teal '9' forming 29 — child finger nudging, tortoise/giraffe toys, pastel pebbles, faint '...ean?' card. Object montage; '29' as kids toy.",
+      "visible_elements": {
+        "foreground": [
+          "yellow '2' and teal '9' wooden number toys",
+          "child's index finger nudging the '9'"
+        ],
+        "midground": [
+          "wooden animal toys, pastel pebble shapes, puzzle edge"
+        ],
+        "background": [
+          "clean white tabletop"
+        ],
+        "lighting_env": [
+          "soft bright key from upper-left, gentle toy shadows"
+        ],
+        "atmosphere": [
+          "bright wholesome playroom, no haze, no grain"
+        ]
+      },
+      "texture": {
+        "primary_subject": "wood_polished",
+        "secondary_objects": [
+          "wood_raw",
+          "skin_natural"
+        ],
+        "background_surface": "flat_digital",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "45deg_above",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "strong",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "soft",
+        "overall_contrast": "hi_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#f3f3f1",
+          "#e0a93f",
+          "#2f8f86",
+          "#d8a0a0"
+        ],
+        "palette_role": {
+          "#f3f3f1": "table_white_dominant",
+          "#e0a93f": "toy_2_yellow_hero",
+          "#2f8f86": "toy_9_teal_hero",
+          "#d8a0a0": "pebble_pastel_accent"
+        },
+        "color_relationship": "complementary",
+        "temperature_balance": "balanced",
+        "saturation_strategy": "vivid",
+        "contrast_type": "luminance_high",
+        "accent_color": "#2f8f86",
+        "accent_ratio": "25_percent",
+        "brand_color_match": [
+          "29CM"
+        ]
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A bright overhead-leaning macro shot of colorful wooden number toys arranged on a clean white table, rendered at 1920x1080 in 16:9 landscape; the scene is shot from a high angle looking down onto a matte white surface scattered with playful children's learning objects. The hero element, center-frame, is two chunky wooden numeral toys forming \"29\" — a mustard-yellow wooden \"2\" on the left and a teal-green wooden \"9\" on the right, thick and rounded with a smooth painted finish, casting soft shadows on the white tabletop. A child's index finger enters from the lower-right, gently touching or nudging the teal \"9\" into place, conveying playful interaction with the recurring numeral. Surrounding the numbers are assorted toy objects: a small brown wooden tortoise/animal toy and a giraffe toy at the right, smooth pastel pebble-shapes (peach, pink, brown) scattered around, a corner of a chalkboard or card with faint text \"...ean?\" at the upper-left, and a puzzle-piece edge at the lower-left. The white \"29CM\" wordmark sits in the upper-right corner (verbatim overlay). Foreground and props: the wooden \"2\" and \"9\" toys are the hero, with the finger and surrounding toys as context; the recurring numeral appears as a kids' learning toy. Lighting setup: soft bright key from the upper-left flooding the white surface, gentle directional shadows from the raised wooden numerals stretching to the lower-right; neutral-warm color temperature around 5000-5300K; strong soft fill keeping it hi-key and clean, key-to-fill about 2:1, soft defined shadows, hi-key cheerful contrast. Lens and framing: medium macro from a high/overhead-leaning angle, the \"29\" centered and filling roughly 40 percent of frame, approximately 50mm-equivalent with moderate-to-shallow depth so the numerals and finger are sharp and the table edges soften slightly. Composition and grid: the \"29\" anchored center on a clean field, toy objects arranged loosely around like a flat-lay, the finger entering from lower-right creating directional energy, white negative space dominant. Color palette and strategy: bright clean white tabletop (#f3f3f1) dominant, warm mustard-yellow \"2\" (#e0a93f) and cool teal-green \"9\" (#2f8f86) as the complementary hero pair, scattered peach/pink/brown pastel accents; balanced warm-cool temperature, cheerful moderate saturation with the yellow-and-teal numerals as the 25-percent focal accent. Texture and surfaces: smooth matte painted wood numerals with subtle grain, soft matte pebble toys, matte white table, natural skin on the small finger. Atmosphere: bright wholesome playroom mood, no haze, no grain, gentle and warm. Post and signature look: clean digital capture, neutral-bright cheerful grade, crisp toy detail, naturalistic soft shadows, no film grain. Additional fidelity notes: the wooden numerals have rounded edges and a slightly satin paint sheen catching the key softly; the teal '9' sits just touching the yellow '2' so they read clearly as a pair; the child's fingertip is soft and small, mid-gesture; the surrounding objects are arranged with intentional negative space like an editorial flat-lay rather than clutter; the overall read is of a toddler's number-learning play where 29 happens to be assembled, another gentle everyday sighting. Style anchor: design-led Korean lifestyle e-commerce brand film, warm flat-lay macro foregrounding the number twenty-nine in a family context, hi-key clean 4K commercial; contemporary Korean home-life context.",
+        "t2i_negative": "real brand logos or logo marks, watermark, extra fingers, distorted hands, deformed text, garbled lettering, oversharpening, low resolution, jpeg artifacts, harsh flat on-camera flash, plastic CGI look",
+        "i2v_motion": "A small child's fingertip enters from lower-right and gently nudges the teal '9' into alignment beside the yellow '2'; otherwise the flat-lay is still. Camera locked-off, slight overhead. ~0.5s, fast cut.",
+        "i2v_params": {
+          "clip_duration_sec": 0.5,
+          "camera_move": "locked_off",
+          "subject_motion_level": "micro",
+          "signature_effect": "none",
+          "pacing": "static",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen numerals/labels preserved verbatim; everyday object generic type; any hand identity generic"
+      }
+    },
+    {
+      "index": 10,
+      "duration": 0.626,
+      "framing": "ECU",
+      "function": "wow_motif",
+      "subject_action": "an extreme macro of a brushed-metal amplifier panel where a knurled knob is set to engraved '29' with a 'LEFT' label, a hand turning the knob",
+      "layout_grid": "center",
+      "subject_position": "center",
+      "subject_identity": "hand_prop",
+      "subject_relationship_to_protagonist": "extra_atmosphere",
+      "mid_frame_path": "ADV-2026-043_frames/cut10_mid.png",
+      "subject_typo_layout": "typo_separate_zone",
+      "typo_motion": "우상단 '29CM' 정적. 손이 우측에서 노브를 돌림(로테이트 모션); 인디케이터 도트가 '29' 눈금에 위치. 'LEFT'·각인 정적.",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "environment",
+      "gaze": "at_product",
+      "eye_contact_effect": null,
+      "props": [
+        "brushed-metal amp panel with knurled knob set to 29"
+      ],
+      "prop_semantics": null,
+      "color_palette": [
+        "#c4c5c2",
+        "#3a3c3e",
+        "#1a1a1a"
+      ],
+      "color_intent": null,
+      "pose_description": null,
+      "subject_motion": "prop_handled",
+      "prop_motion": "hand rotates the knob to 29",
+      "camera_motion": "locked_off",
+      "camera_motion_intensity": "none",
+      "camera_effect_local": "none",
+      "motion_blur": false,
+      "intra_cut_rhythm": "static",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [],
+      "vfx_intensity_local": "subtle",
+      "fact_check_flag": null,
+      "notes": "Cut 10 (f155-169, 6.465-7.090s): brushed-metal amp/hi-fi panel, knurled rotary knob set to engraved '29' with 'LEFT' label, hand with dark nails turning it. Object montage; '29' as a gear setting.",
+      "visible_elements": {
+        "foreground": [
+          "brushed-metal amp panel with knurled knob",
+          "engraved '29' scale and 'LEFT' label",
+          "hand turning knob"
+        ],
+        "midground": [
+          "second blurred control at right"
+        ],
+        "background": [
+          "brushed metal faceplate field"
+        ],
+        "lighting_env": [
+          "soft directional key from upper-left grazing brushed metal"
+        ],
+        "atmosphere": [
+          "clean premium hi-fi studio, no haze, no grain"
+        ]
+      },
+      "texture": {
+        "primary_subject": "metallic",
+        "secondary_objects": [
+          "skin_natural"
+        ],
+        "background_surface": "metallic",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "45deg_side",
+        "key_hardness": "soft",
+        "key_color_temp": "cool_7000K",
+        "fill_strength": "moderate",
+        "key_to_fill_ratio": "3:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "soft",
+        "overall_contrast": "mid_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#c4c5c2",
+          "#3a3c3e",
+          "#1a1a1a"
+        ],
+        "palette_role": {
+          "#c4c5c2": "metal_silver_dominant",
+          "#3a3c3e": "engraving_shadow",
+          "#1a1a1a": "numerals_dark_hero"
+        },
+        "color_relationship": "monochrome",
+        "temperature_balance": "cool_dominant",
+        "saturation_strategy": "desaturated_with_pop",
+        "contrast_type": "luminance_high",
+        "accent_color": "#1a1a1a",
+        "accent_ratio": "10_percent",
+        "brand_color_match": [
+          "29CM"
+        ]
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A cinematic macro close-up of a brushed-metal audio amplifier or hi-fi control panel, rendered at 1920x1080 in 16:9 landscape; the pale silver-grey metal faceplate fills the frame, its surface showing fine horizontal brushing, and a large knurled rotary control knob dominates the center-right. The hero detail, center-left, is an engraved scale around the knob with the printed numeral \"29\" prominently marked next to a small indicator dot, and the word \"LEFT\" engraved below the knob (verbatim panel markings) — a balance or volume dial turned to twenty-nine. A human hand with dark-painted nails enters from the right, fingertips gripping and rotating the cylindrical knob, conveying the act of dialing to twenty-nine. At the left edge, a faint vertical row of small tick marks and a second control suggest a fuller panel; a partial second dial blurs at the right. The white \"29CM\" wordmark sits in the upper-right corner (verbatim overlay). Foreground and props: the amplifier dial set to \"29\" and the turning hand are the hero; the recurring numeral appears as an audio-gear setting. Lighting setup: soft directional key from the upper-left grazing across the brushed metal to create a gentle metallic gradient sheen and pick out the engraved numerals; cool-neutral color temperature around 5200-5500K with cool metallic highlights; moderate soft fill, key-to-fill about 3:1, soft shadow under the protruding knob, mid-key refined contrast. Lens and framing: extreme-to-medium macro close-up, eye-level frontal camera square to the panel, the \"29\" engraving and knob centered, approximately 80mm-equivalent macro with shallow depth so the dial face and numerals are sharp and the hand and side controls soften. Composition and grid: the engraved \"29\" anchored center-left, the knob center, \"LEFT\" label beneath, the gripping hand entering from the right, brushed-metal field filling the frame. Color palette and strategy: pale silver-grey brushed metal (#c4c5c2) dominant, darker engraved markings and shadows (#3a3c3e), the printed \"29\" reading as crisp dark detail; cool-neutral temperature, near-monochrome desaturated metallic palette with luminance and the engraved numerals carrying the image, dark engraving as a fine 10-percent accent. Texture and surfaces: brushed anodized aluminium faceplate with fine directional grain, knurled metal knob with milled ridges, engraved filled lettering, natural skin on the hand. Atmosphere: clean premium hi-fi studio mood, no haze, no grain, precise tactile feel. Post and signature look: clean digital macro capture, neutral-cool grade, crisp metallic micro-contrast, naturalistic, no film grain. Additional fidelity notes: the knob shows fine vertical knurling that catches the key as a series of tiny highlights, and a small machined pointer line on its top indicates the setting against the engraved scale; the numeral '29' sits exactly where the dot indicator points, so it reads as the chosen value; the hand turns it with a deliberate two-finger grip; the brushed grain runs perfectly horizontal, lending an audiophile precision; the overall read is of someone setting a control to twenty-nine, another sleek everyday appearance of the number. Style anchor: design-led Korean lifestyle e-commerce brand film, premium gear macro foregrounding the number twenty-nine, refined 4K commercial; contemporary design-conscious Korean context.",
+        "t2i_negative": "real brand logos or logo marks, watermark, extra fingers, distorted hands, deformed text, garbled lettering, oversharpening, low resolution, jpeg artifacts, harsh flat on-camera flash, plastic CGI look",
+        "i2v_motion": "A hand grips and rotates the knurled knob; the pointer aligns to the engraved '29' beside the indicator dot; metallic highlights travel across the brushed face. Camera locked-off. ~0.6s, fast cut.",
+        "i2v_params": {
+          "clip_duration_sec": 0.626,
+          "camera_move": "locked_off",
+          "subject_motion_level": "micro",
+          "signature_effect": "none",
+          "pacing": "static",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen numerals/labels preserved verbatim; everyday object generic type; any hand identity generic"
+      }
+    },
+    {
+      "index": 11,
+      "duration": 2.295,
+      "framing": "LS",
+      "function": "emotional_turn",
+      "subject_action": "the blonde protagonist stands and dances energetically in a warm furnished living room — arms thrown out, hair and jacket flying — shown as a rapid intercut of several dance angles within the same room",
+      "layout_grid": "center",
+      "subject_position": "center",
+      "subject_identity": "protagonist_main",
+      "subject_relationship_to_protagonist": "main_character",
+      "mid_frame_path": "ADV-2026-043_frames/cut11_mid.png",
+      "subject_typo_layout": "typo_only_no_person",
+      "typo_motion": "우상단 '29CM' 정적. 화면 자막 없음 — 인물의 역동적 댄스가 감정 전환(탐색→해방·기쁨)을 전달. 다중 앵글 컷 몽타주.",
+      "camera_angle": "eye_level",
+      "camera_facing": "three_quarter",
+      "shot_scope": "full_body",
+      "gaze": "off_camera",
+      "eye_contact_effect": null,
+      "props": [
+        "terracotta sofa",
+        "grid window",
+        "bookshelf",
+        "floor lamp",
+        "potted plant",
+        "patterned rug"
+      ],
+      "prop_semantics": "큐레이션된 라이프스타일 공간이 무대; 댄스=취향과 자아의 자유로운 표현",
+      "color_palette": [
+        "#c0703c",
+        "#23262e",
+        "#3f5a78",
+        "#a98a5e"
+      ],
+      "color_intent": "따뜻한 데이라이트·테라코타로 아늑함, 네이비/데님 쿨 앵커로 인물 분리; 역동성 강조",
+      "pose_description": "서서 팔을 크게 뻗고 몸을 비틀며 춤추는 자유로운 포즈; 머리·재킷이 흔들려 모션감, 기쁨·해방의 인상",
+      "subject_motion": "dynamic_dance",
+      "prop_motion": "jacket and hair swing with motion",
+      "camera_motion": "handheld_drift",
+      "camera_motion_intensity": "moderate",
+      "camera_effect_local": "none",
+      "motion_blur": true,
+      "intra_cut_rhythm": "accelerating",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [],
+      "vfx_intensity_local": "none",
+      "fact_check_flag": null,
+      "notes": "Cut 11 (f170-224, 7.090-9.385s): protagonist dances in warm living room (orange sofa, grid window, bookshelf, floor lamp, plant, rug). Edited as ~4 rapid intercut dance angles (metrics cuts at f184/197/209/224, hist 0.71/0.86/0.28/0.80 — same location, varying framing) + motion blur on swinging limbs/jacket throw. Consolidated as one dance montage shot; intra_cut_rhythm accelerating. Marks the emotional turn from contemplative search to joyful self-expression.",
+      "visible_elements": {
+        "foreground": [
+          "protagonist mid-dance, arms out, hair flying (protagonist_main)"
+        ],
+        "midground": [
+          "low terracotta-orange and cream sofa",
+          "patterned ornamental rug"
+        ],
+        "background": [
+          "large grid window with warm backlight",
+          "wooden bookshelf with books and audio console",
+          "floor lamp",
+          "leafy potted plant",
+          "sheer curtains"
+        ],
+        "lighting_env": [
+          "strong warm window backlight",
+          "soft bounced room fill"
+        ],
+        "atmosphere": [
+          "warm backlit haze, joyful kinetic energy, gentle dust-light, no grain"
+        ]
+      },
+      "texture": {
+        "primary_subject": "fabric_wool",
+        "secondary_objects": [
+          "fabric_denim",
+          "fabric_cotton",
+          "fabric_woven",
+          "wood_polished"
+        ],
+        "background_surface": "fabric_woven",
+        "atmospheric": [
+          "backlit_glow",
+          "atmospheric_haze"
+        ]
+      },
+      "lighting": {
+        "key_direction": "back",
+        "key_hardness": "soft",
+        "key_color_temp": "warm_3000K",
+        "fill_strength": "moderate",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": true,
+        "practical_lights": [
+          "대형 그리드 창 자연광",
+          "플로어 램프"
+        ],
+        "shadow_presence": "soft",
+        "overall_contrast": "mid_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#c0703c",
+          "#23262e",
+          "#3f5a78",
+          "#a98a5e"
+        ],
+        "palette_role": {
+          "#c0703c": "sofa_terracotta_accent",
+          "#23262e": "jacket_dark_anchor",
+          "#3f5a78": "denim_cool",
+          "#a98a5e": "wood_warm_midtone"
+        },
+        "color_relationship": "complementary",
+        "temperature_balance": "warm_dominant",
+        "saturation_strategy": "muted",
+        "contrast_type": "temperature_split",
+        "accent_color": "#c0703c",
+        "accent_ratio": "20_percent",
+        "brand_color_match": [
+          "29CM warm editorial"
+        ]
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A dynamic cinematic full-body shot of the same young Korean woman now standing and dancing energetically in the center of a warm, characterful living room, rendered at 1920x1080 in 16:9 landscape; this single shot is the kinetic centerpiece, edited as a rapid montage of three to four dance angles within the same room, so the start frame shows her mid-movement with arms thrown out and hair swinging. She has platinum-blonde hair (loosened from the earlier ponytail) flying with motion, and wears a cropped dark navy-black jacket over a fitted white top with high-waisted loose blue denim jeans, fashion-editorial styling, no visible logos. She stands center-frame in front of a low terracotta-orange and cream sofa, beneath a large multi-pane grid window glowing with warm backlight and sheer curtains; to the left a wooden bookshelf packed with books and a vintage audio console with a floor lamp, to the right a leafy potted plant, and underfoot a patterned ornamental rug — a cozy curated interior. Her pose is expressive and joyful: one arm extended high, torso twisting, weight shifting, captured with slight motion blur on the swinging limbs and hair. The white \"29CM\" wordmark sits in the upper-right corner (verbatim overlay). Foreground and props: the dancing woman is the hero (the protagonist, character ID protagonist_main), the furnished room is the stage; this conveys liberation and delight in the recurring-29 journey. Lighting setup: strong warm window backlight creating a luminous rim around her hair and silhouette, soft bounced frontal fill from the room keeping her face and white top readable, key-to-fill about 2:1 with the window as a giant soft source; warm color temperature around 4000-4500K; soft long shadows across the rug, atmospheric backlit glow, mid-key warm cinematic contrast. Lens and framing: full-body shot, eye-level camera (intercut with slightly lower and tighter angles), frontal-to-three-quarter facing, subject shown head-to-toe with room context, approximately 28-35mm-equivalent with moderate depth so she is sharp against a gently soft interior, handheld energy. Composition and grid: rule-of-thirds-to-centered with the dancing figure as the vertical anchor in the middle, the bright window behind framing her, bookshelf balancing left and plant balancing right, the rug grounding the lower third. Color palette and strategy: warm honey daylight and terracotta-orange sofa (#c0703c) with cream and wood browns dominant, deep navy-black jacket (#23262e) and blue denim (#3f5a78) as cool anchors, warm wood and rug tones; warm-dominant temperature, rich muted naturalistic saturation with the orange sofa and warm light as the ambience. Texture and surfaces: smooth wool-blend jacket, soft cotton top, sturdy denim weave, woven sofa fabric, patterned wool rug, polished wood shelving, sheer curtain, soft skin and flowing hair. Atmosphere: warm backlit haze, joyful kinetic energy, gentle dust-light, no grain. Post and signature look: clean digital cinematic capture with motion blur on fast limbs, warm filmic color grade, naturalistic lifted contrast, refined commercial polish, no film grain. Additional fidelity notes: across the intercut angles the room stays consistent (orange sofa, grid window, bookshelf, plant, rug) while framing varies from full-body wide to a tighter waist-up spin; her movement is free and celebratory rather than choreographed-precise; hair and jacket hems show directional blur indicating speed; the backlight occasionally flares softly through the window; the overall read is a euphoric solo dance of self-expression in a stylish home. Style anchor: premium Korean lifestyle e-commerce brand film, editorial fashion-meets-interior cinematography with energetic handheld dance, warm natural daylight, 4K cinematic; contemporary Korean cultural context.",
+        "t2i_negative": "second extra person, distorted face, deformed fingers, extra limbs, real celebrity face likeness, real brand logo marks, watermark, text errors, harsh shadows, cartoonish, low resolution, jpeg artifacts, blurry face throughout, blown-out window, motion smear destroying subject",
+        "i2v_motion": "The protagonist dances freely — arms thrown wide, torso twisting, a spin that throws her jacket and hair outward with directional motion blur; warm window backlight steady with occasional soft flare; the edit intercuts several angles of the same dance within the same room, accelerating in rhythm; handheld camera drifts and reframes. ~2.3s, accelerating, no single locked frame.",
+        "i2v_params": {
+          "clip_duration_sec": 2.295,
+          "camera_move": "handheld_drift",
+          "subject_motion_level": "dynamic",
+          "signature_effect": "none",
+          "pacing": "accelerating",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; subject identity generic Korean woman (no celebrity likeness); represents a multi-angle dance montage as one shot"
+      }
+    },
+    {
+      "index": 12,
+      "duration": 0.75,
+      "framing": "ECU",
+      "function": "wow_motif",
+      "subject_action": "an extreme macro of a vinyl record spinning on a turntable, its label printed with a large '29', 'SIDE A', 'TRACK 1', 'MUSINSA' and a teal-blue radial sunburst, white tonearm crossing",
+      "layout_grid": "center",
+      "subject_position": "center",
+      "subject_identity": "none_environment",
+      "subject_relationship_to_protagonist": null,
+      "mid_frame_path": "ADV-2026-043_frames/cut12_mid.png",
+      "subject_typo_layout": "typo_only_no_person",
+      "typo_motion": "우상단 '29CM' 정적. 레코드가 회전(로테이션 모션, 외곽 그루브 블러). 라벨 '29'/'SIDE A'/'TRACK 1'/'MUSINSA' 정적.",
+      "camera_angle": "high_angle",
+      "camera_facing": "frontal",
+      "shot_scope": "environment",
+      "gaze": "at_product",
+      "eye_contact_effect": null,
+      "props": [
+        "vinyl record with '29' label",
+        "turntable tonearm"
+      ],
+      "prop_semantics": "'29' 라벨 레코드=음악/취향 큐레이션 모티프; 회전=재생감",
+      "color_palette": [
+        "#101012",
+        "#efe9dd",
+        "#1fa39a",
+        "#3a6fd0"
+      ],
+      "color_intent": "광택 블랙 비닐 위 크림 라벨과 teal-blue 선버스트로 세련된 음악 오브제 강조",
+      "pose_description": "인물 없음; 원형 '29' 라벨이 화면 중앙 불스아이, 대각선 흰 톤암이 비대칭 구성",
+      "subject_motion": "static",
+      "prop_motion": "record spins (rotational)",
+      "camera_motion": "locked_off",
+      "camera_motion_intensity": "none",
+      "camera_effect_local": "none",
+      "motion_blur": true,
+      "intra_cut_rhythm": "steady",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [],
+      "vfx_intensity_local": "subtle",
+      "fact_check_flag": null,
+      "notes": "Cut 12 (f225-242, 9.385-10.135s): vinyl record spinning on turntable, label '29' top center, '+ +', 'SIDE A', 'TRACK 1', 'MUSINSA', teal-blue radial sunburst, white tonearm diagonal. Object montage resumes; '29' as a record track.",
+      "visible_elements": {
+        "foreground": [
+          "spinning vinyl record with '29' label",
+          "white tonearm and stylus"
+        ],
+        "midground": [
+          "concentric record grooves"
+        ],
+        "background": [
+          "dark turntable platter"
+        ],
+        "lighting_env": [
+          "soft directional key from upper-left, broad reflection arc on vinyl"
+        ],
+        "atmosphere": [
+          "clean stylish audiophile mood, no haze, no grain"
+        ]
+      },
+      "texture": {
+        "primary_subject": "plastic_glossy",
+        "secondary_objects": [
+          "paper",
+          "plastic_glossy",
+          "metallic"
+        ],
+        "background_surface": "plastic_glossy",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "45deg_above",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "moderate",
+        "key_to_fill_ratio": "3:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "soft",
+        "overall_contrast": "mid_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#101012",
+          "#efe9dd",
+          "#1fa39a",
+          "#3a6fd0"
+        ],
+        "palette_role": {
+          "#101012": "vinyl_black_dominant",
+          "#efe9dd": "label_cream_hero",
+          "#1fa39a": "sunburst_teal_accent",
+          "#3a6fd0": "sunburst_blue_accent"
+        },
+        "color_relationship": "analogous",
+        "temperature_balance": "cool_dominant",
+        "saturation_strategy": "desaturated_with_pop",
+        "contrast_type": "luminance_high",
+        "accent_color": "#1fa39a",
+        "accent_ratio": "15_percent",
+        "brand_color_match": [
+          "29CM"
+        ]
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A cinematic macro close-up of a vinyl record spinning on a turntable platter, rendered at 1920x1080 in 16:9 landscape; the glossy black grooved record fills most of the frame, its concentric grooves catching a soft sheen, with a white tonearm and headshell crossing diagonally from the lower-right toward the center where the stylus rests in the groove. The hero element, center-frame, is the record's circular paper label printed in clean editorial style: a large numeral \"29\" at the top center, flanked by small \"+\" marks, with \"SIDE A\" at the left, \"TRACK 1\" at the right, a small brand line reading \"MUSINSA\" and a faint catalog code beneath (verbatim label text), and a lower half of the label filled with a two-tone teal-and-blue radial sunburst pattern of thin tapering rays around the center spindle hole. The white \"29CM\" wordmark sits in the upper-right corner (verbatim overlay). Foreground and props: the spinning record with its \"29\" label is the hero; the white tonearm is the secondary element; the recurring numeral appears as a record-label track. Lighting setup: soft directional key from the upper-left grazing across the glossy vinyl to create a broad soft reflection arc and pick out the matte label; neutral color temperature around 5200-5500K; moderate fill, key-to-fill about 3:1, soft shadow under the tonearm, mid-key contrast with elegant specular sheen on the black vinyl. Lens and framing: extreme-to-medium macro close-up, high frontal angle looking down onto the platter, the circular \"29\" label centered, approximately 70mm-equivalent macro with shallow depth so the label is sharp and the outer grooves and tonearm tip soften slightly with rotational motion blur. Composition and grid: the round \"29\" label anchored center as a bullseye, concentric grooves radiating outward, the diagonal white tonearm cutting across the lower-right creating asymmetry, dark vinyl field surrounding. Color palette and strategy: glossy near-black vinyl (#101012) dominant, cream-white label (#efe9dd) with crisp black text as the hero, vivid teal-and-blue radial sunburst (#1fa39a, #3a6fd0) as the playful accent, white tonearm; cool-dominant temperature, mostly desaturated with a vivid teal-blue accent at roughly 15 percent on the label. Texture and surfaces: glossy grooved vinyl with fine concentric ridges, matte printed paper label, smooth glossy plastic tonearm, metallic stylus. Atmosphere: clean stylish audiophile mood, faint warm room ambience, no haze, no grain. Post and signature look: clean digital macro capture with subtle rotational motion blur on the spinning record, neutral grade, crisp label micro-contrast, naturalistic, no film grain. Additional fidelity notes: the record is clearly in motion, with the outermost grooves slightly blurred while the centered label stays readable; the teal sunburst rays taper toward the spindle in a fine radial rhythm; the tonearm headshell and cartridge are detailed in white with a thin cueing wire; the '29' on the label is the largest type, unmistakably the focus; the overall read is of a curated record playing 'track 1, side A, number 29,' another tasteful sighting of the number tied to music culture. Style anchor: design-led Korean lifestyle e-commerce brand film, stylish music-object macro foregrounding the number twenty-nine, refined 4K commercial; contemporary Korean youth-culture context.",
+        "t2i_negative": "real brand logos or logo marks, watermark, extra fingers, distorted hands, deformed text, garbled lettering, oversharpening, low resolution, jpeg artifacts, harsh flat on-camera flash, plastic CGI look",
+        "i2v_motion": "The record spins steadily, outer grooves blurring with rotation while the centered '29' label stays readable; the white tonearm rests in the groove with a faint reflection travel. Camera locked-off. ~0.75s, steady, fast cut.",
+        "i2v_params": {
+          "clip_duration_sec": 0.75,
+          "camera_move": "locked_off",
+          "subject_motion_level": "micro",
+          "signature_effect": "none",
+          "pacing": "steady",
+          "loopable": true
+        },
+        "fidelity_note": "craft-faithful; label text '29 / SIDE A / TRACK 1 / MUSINSA' preserved verbatim; generic record-label type"
+      }
+    },
+    {
+      "index": 13,
+      "duration": 0.334,
+      "framing": "MS",
+      "function": "wow_motif",
+      "subject_action": "a telephoto shot of a green pedestrian crossing signal showing a green walking-man icon over a glowing green LED countdown '29' against a soft-focus city street",
+      "layout_grid": "rule_of_thirds",
+      "subject_position": "center",
+      "subject_identity": "none_environment",
+      "subject_relationship_to_protagonist": null,
+      "mid_frame_path": "ADV-2026-043_frames/cut13_mid.png",
+      "subject_typo_layout": "typo_only_no_person",
+      "typo_motion": "우상단 '29CM' 정적. 신호등 LED '29' 자체발광(카운트다운 표시). 보행자 픽토그램 정적.",
+      "camera_angle": "low_angle",
+      "camera_facing": "frontal",
+      "shot_scope": "environment",
+      "gaze": "at_product",
+      "eye_contact_effect": null,
+      "props": [
+        "pedestrian traffic signal with '29' countdown"
+      ],
+      "prop_semantics": "보행 신호 카운트다운=일상 도시 속 '29' 발견; 청량한 거리 무드",
+      "color_palette": [
+        "#5a6e60",
+        "#3ad17a",
+        "#2f5fa8",
+        "#a0784a"
+      ],
+      "color_intent": "디포커스된 거리 위 자체발광 그린 '29'가 시선 앵커; 도시 일상감",
+      "pose_description": "인물 없음; 신호등이 화면 중앙우측, 발광 '29'가 초점",
+      "subject_motion": "static",
+      "prop_motion": "LED countdown glows",
+      "camera_motion": "locked_off",
+      "camera_motion_intensity": "none",
+      "camera_effect_local": "none",
+      "motion_blur": false,
+      "intra_cut_rhythm": "static",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [],
+      "vfx_intensity_local": "subtle",
+      "fact_check_flag": null,
+      "notes": "Cut 13 (f243-250, 10.135-10.469s): green pedestrian signal, walking-man icon + glowing green LED '29' countdown, soft-focus city street (teal parasol, blue arrow signs, bokeh cars). Object montage; '29' as crossing countdown.",
+      "visible_elements": {
+        "foreground": [
+          "pedestrian signal with glowing green '29' countdown"
+        ],
+        "midground": [
+          "signal pole"
+        ],
+        "background": [
+          "soft-focus city street",
+          "teal cafe parasol",
+          "blue directional signs",
+          "bokeh cars and trees"
+        ],
+        "lighting_env": [
+          "soft daylight",
+          "self-illuminating green LEDs"
+        ],
+        "atmosphere": [
+          "everyday city-street air, soft daytime bokeh haze, no grain"
+        ]
+      },
+      "texture": {
+        "primary_subject": "plastic_matte",
+        "secondary_objects": [
+          "glass_clear"
+        ],
+        "background_surface": "bokeh_abstract",
+        "atmospheric": [
+          "atmospheric_haze"
+        ]
+      },
+      "lighting": {
+        "key_direction": "front",
+        "key_hardness": "soft",
+        "key_color_temp": "cool_7000K",
+        "fill_strength": "moderate",
+        "key_to_fill_ratio": "3:1",
+        "rim_light": false,
+        "practical_lights": [
+          "신호등 그린 LED"
+        ],
+        "shadow_presence": "soft",
+        "overall_contrast": "mid_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#5a6e60",
+          "#3ad17a",
+          "#2f5fa8",
+          "#a0784a"
+        ],
+        "palette_role": {
+          "#5a6e60": "street_muted_dominant",
+          "#3ad17a": "signal_green_29_hero",
+          "#2f5fa8": "blue_sign_accent",
+          "#a0784a": "warm_shopfront_bokeh"
+        },
+        "color_relationship": "complementary",
+        "temperature_balance": "cool_dominant",
+        "saturation_strategy": "desaturated_with_pop",
+        "contrast_type": "luminance_high",
+        "accent_color": "#3ad17a",
+        "accent_ratio": "12_percent",
+        "brand_color_match": [
+          "29CM"
+        ]
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A cinematic medium shot of a green pedestrian crossing traffic signal mounted on a pole against a soft-focus urban street backdrop, rendered at 1920x1080 in 16:9 landscape; the dark signal housing is center-right, with a glowing green walking-man pictogram in the upper window and an illuminated green countdown numeral below it. The hero element, center-frame, is the bright green LED countdown reading \"29\" in a dot-matrix digit style beneath the green walking figure (verbatim signal readout) — the seconds remaining to cross, another sighting of the recurring numeral. The background is a softly blurred daytime city street: out-of-focus green street trees, a teal café parasol at the lower-left, blue directional traffic signs with white arrows, a lamppost, and bokeh of cars and shopfronts in warm and cool tones. The white \"29CM\" wordmark sits in the upper-right corner (verbatim overlay). Foreground and props: the pedestrian signal with its glowing \"29\" is the hero; the street is the bokeh context; the recurring numeral appears as a crossing-countdown. Lighting setup: natural overcast-to-soft daylight on the scene with the signal's own green LEDs self-illuminating as bright emissive accents; cool-neutral ambient color temperature around 5500-6000K with vivid green signal glow; soft shadows, ambient fill, mid-key urban contrast, the emissive green popping against the muted street. Lens and framing: medium shot with telephoto compression, eye-level-to-slightly-low camera looking up at the signal, frontal facing, the signal occupying the center-right third, approximately 85-135mm-equivalent with shallow depth so the signal face and \"29\" are sharp and the street melts into creamy bokeh. Composition and grid: the signal anchored center-right with the glowing \"29\" as the focal point, the blurred street filling the left and background, the café parasol balancing the lower-left, strong subject isolation via depth. Color palette and strategy: muted cool-grey-green urban tones dominant, vivid emissive green signal (#3ad17a) walking-man and \"29\" as the high-saturation hero, teal parasol (#2f8f86), blue signs (#2f5fa8) and warm shopfront bokeh accents; cool-dominant temperature, desaturated street with a vivid green pop, the glowing \"29\" as the focal 12-percent accent. Texture and surfaces: matte dark metal signal housing, emissive LED dot-matrix, soft defocused foliage and street surfaces, glossy car bokeh. Atmosphere: everyday city-street air, soft daytime haze in the bokeh, calm urban rhythm, no grain. Post and signature look: clean digital capture, neutral cool grade with the green LED kept vivid, crisp signal micro-contrast against soft bokeh, naturalistic, no film grain. Additional fidelity notes: the LED digits are made of small round dots typical of pedestrian countdowns, slightly blooming with brightness; the green walking-man stands above the '29' in his own window; the background bokeh hints at a leafy commercial street without any legible signage; the focal plane sits exactly on the signal face; the overall read is a pedestrian waiting to cross with twenty-nine seconds left, a quintessential everyday urban sighting of the number. The compression of the long lens stacks the blurred street layers behind the signal, making the emissive green digits the single point of clarity and saturation in the frame, which strongly draws the eye to the twenty-nine. Style anchor: design-led Korean lifestyle e-commerce brand film, urban-life macro-telephoto foregrounding the number twenty-nine, 4K cinematic commercial; contemporary Korean city context.",
+        "t2i_negative": "real brand logos or logo marks, watermark, extra fingers, distorted hands, deformed text, garbled lettering, oversharpening, low resolution, jpeg artifacts, harsh flat on-camera flash, plastic CGI look, legible background shop logos",
+        "i2v_motion": "The green LED '29' glows steadily (single countdown second held); the soft city bokeh shimmers faintly; near-static. Camera locked-off telephoto. ~0.3s, fast cut.",
+        "i2v_params": {
+          "clip_duration_sec": 0.334,
+          "camera_move": "locked_off",
+          "subject_motion_level": "still",
+          "signature_effect": "none",
+          "pacing": "static",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; signal '29' readout preserved verbatim; generic signal type"
+      }
+    },
+    {
+      "index": 14,
+      "duration": 0.417,
+      "framing": "MS",
+      "function": "wow_motif",
+      "subject_action": "a side-tracking motion-blur shot of a man riding a matte-black motorcycle with a white '29' number plate on the tail through a city street",
+      "layout_grid": "rule_of_thirds",
+      "subject_position": "center",
+      "subject_identity": "supporting_rider",
+      "subject_relationship_to_protagonist": "extra_atmosphere",
+      "mid_frame_path": "ADV-2026-043_frames/cut14_mid.png",
+      "subject_typo_layout": "typo_separate_zone",
+      "typo_motion": "우상단 '29CM' 정적. 화면 자막 없음. 오토바이 테일의 '29' 번호판이 라이딩 중 노출.",
+      "camera_angle": "eye_level",
+      "camera_facing": "profile",
+      "shot_scope": "environment",
+      "gaze": "off_camera",
+      "eye_contact_effect": null,
+      "props": [
+        "black motorcycle with '29' number plate"
+      ],
+      "prop_semantics": "'29' 레이스 번호판 모터사이클=쿨한 도시 모빌리티 속 '29' 발견; 동경 톤",
+      "color_palette": [
+        "#1c1d20",
+        "#eef0ee",
+        "#b89a4e",
+        "#3f5a78"
+      ],
+      "color_intent": "매트 블랙 바이크 위 흰 '29' 번호판 대비; 배경 스피드 블러로 역동성",
+      "pose_description": "라이더가 측면으로 바이크를 타고 질주; 편안하고 자신감 있는 자세, 모션 블러로 속도감",
+      "subject_motion": "riding_motion",
+      "prop_motion": "motorcycle moves laterally at speed",
+      "camera_motion": "tracking_pan",
+      "camera_motion_intensity": "high",
+      "camera_effect_local": "none",
+      "motion_blur": true,
+      "intra_cut_rhythm": "steady",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [],
+      "vfx_intensity_local": "none",
+      "fact_check_flag": null,
+      "notes": "Cut 14 (f251-260, 10.469-10.886s): side-tracking motion-blur of man on matte-black scrambler motorcycle (gold forks) with white oval '29' tail number plate, navy helmet, riding city street. Object montage; '29' on a motorcycle.",
+      "visible_elements": {
+        "foreground": [
+          "man riding black motorcycle (supporting_rider)",
+          "white '29' tail number plate"
+        ],
+        "midground": [
+          "crosswalk hint"
+        ],
+        "background": [
+          "horizontally streaked blurred city buildings and a faint pedestrian"
+        ],
+        "lighting_env": [
+          "natural daytime soft light"
+        ],
+        "atmosphere": [
+          "kinetic urban motion, rushing air, blur veil, no grain"
+        ]
+      },
+      "texture": {
+        "primary_subject": "metallic",
+        "secondary_objects": [
+          "plastic_glossy",
+          "fabric_denim",
+          "leather"
+        ],
+        "background_surface": "bokeh_abstract",
+        "atmospheric": [
+          "motion_streak"
+        ]
+      },
+      "lighting": {
+        "key_direction": "front",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "moderate",
+        "key_to_fill_ratio": "3:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "soft",
+        "overall_contrast": "mid_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#1c1d20",
+          "#eef0ee",
+          "#b89a4e",
+          "#3f5a78"
+        ],
+        "palette_role": {
+          "#1c1d20": "motorcycle_black_dominant",
+          "#eef0ee": "plate_white_29_hero",
+          "#b89a4e": "gold_fork_accent",
+          "#3f5a78": "denim_blue_accent"
+        },
+        "color_relationship": "monochrome",
+        "temperature_balance": "cool_dominant",
+        "saturation_strategy": "muted_with_pop",
+        "contrast_type": "luminance_high",
+        "accent_color": "#eef0ee",
+        "accent_ratio": "10_percent",
+        "brand_color_match": [
+          "29CM"
+        ]
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A dynamic cinematic side-tracking shot of a man riding a black retro-modern motorcycle through a city street, captured with strong horizontal motion blur, rendered at 1920x1080 in 16:9 landscape; the rider and bike are center-frame in sharp relative focus while the entire background streaks into speed-blur, conveying fast lateral movement. The motorcycle is a matte-black scrambler/roadster style with gold upside-down front forks, a round headlight, and a prominent white oval number plate on its tail; the hero element on that plate is the bold black numeral \"29\" (verbatim race-style number) — another sighting of the recurring numeral, here on a motorbike. The rider (a different person — a city motorcyclist, NOT the protagonist) wears a dark grey long-sleeve top, blue jeans, tan work boots, and a navy full-face helmet, leaning into the ride. The background is a horizontally smeared blur of grey buildings, a faint pedestrian, and warm-cool street tones with a hint of a crosswalk. The white \"29CM\" wordmark sits in the upper-right corner (verbatim overlay). Foreground and props: the motorcycle with its \"29\" tail plate and the rider are the hero; the streaked city is the motion context. Lighting setup: natural daytime soft light on the rider and bike, even and slightly cool; color temperature around 5500K; soft shadows under the bike, ambient fill, mid-key contrast, the matte black bike grounded against the bright blurred street. Lens and framing: medium tracking shot following the bike at speed, eye-level camera panning parallel to the motion, profile/side facing of the rider, bike-and-rider shown nearly full within the frame, approximately 50-70mm-equivalent with the pan producing heavy directional background blur and relatively sharp subject. Composition and grid: the bike anchored center moving left-to-right (or right-to-left), the \"29\" tail plate clearly readable at the right of the bike, horizontal speed-streaks filling the background, dynamic asymmetry. Color palette and strategy: matte black motorcycle (#1c1d20) and dark rider tones dominant, white number plate (#eef0ee) with black \"29\" as the high-contrast hero, gold fork accents (#b89a4e), blue jeans (#3f5a78) and smeared grey-warm street; cool-neutral temperature, muted with the white plate and gold as accents, the \"29\" plate as the focal 10-percent accent. Texture and surfaces: matte painted metal and rubber motorcycle, glossy helmet, denim, leather boots, smeared indistinct background. Atmosphere: kinetic urban motion, rushing air, slight grain-free blur veil, energetic, no film grain. Post and signature look: clean digital capture with motion-pan blur, neutral cool grade, crisp subject micro-contrast against streaked bokeh, naturalistic, no film grain. Additional fidelity notes: the number plate is a round-cornered white oval bolted to the rear subframe, race-paddock style, with the black '29' centered and bold; the gold forks and round headlight read as a premium modern-classic motorcycle; the rider's posture is relaxed-confident; the background streaks indicate the camera is tracking alongside at matched speed; the overall read is a stylish urban rider whose bike wears the number twenty-nine, an aspirational everyday sighting. Style anchor: design-led Korean lifestyle e-commerce brand film, kinetic urban motion shot foregrounding the number twenty-nine on a motorcycle, 4K cinematic commercial; contemporary Korean city-mobility context.",
+        "t2i_negative": "second extra person, distorted face, deformed fingers, extra limbs, real celebrity face likeness, real brand logo marks, watermark, text errors, harsh shadows, cartoonish, low resolution, jpeg artifacts, static background, frozen sharp city, legible building logos",
+        "i2v_motion": "The motorcycle rides laterally across frame at speed while the camera pans to match, smearing the background into horizontal streaks; the rider holds a relaxed riding posture; the white '29' tail plate stays relatively readable. ~0.4s, steady fast pan, hard cut.",
+        "i2v_params": {
+          "clip_duration_sec": 0.417,
+          "camera_move": "tracking_pan",
+          "subject_motion_level": "dynamic",
+          "signature_effect": "none",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; '29' number plate preserved verbatim; rider identity generic (NOT the protagonist); generic motorcycle"
+      }
+    },
+    {
+      "index": 15,
+      "duration": 0.25,
+      "framing": "MCU",
+      "function": "wow_motif",
+      "subject_action": "a clean shot of a blue Korean street-name plaque on a pale concrete pillar reading '무신사로 / musinsaro-29gil / 29'",
+      "layout_grid": "center",
+      "subject_position": "center",
+      "subject_identity": "none_environment",
+      "subject_relationship_to_protagonist": null,
+      "mid_frame_path": "ADV-2026-043_frames/cut15_mid.png",
+      "subject_typo_layout": "typo_only_no_person",
+      "typo_motion": "우상단 '29CM' 정적. 표지판 텍스트 '무신사로 / musinsaro-29gil / 29' 정적 노출(미세 카메라 이동).",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "environment",
+      "gaze": "at_product",
+      "eye_contact_effect": null,
+      "props": [
+        "blue street-name plaque '무신사로 29'"
+      ],
+      "prop_semantics": "'무신사로 29길' 주소판=브랜드 모회사(무신사) 헤리티지를 위트있게 연결한 '29' 발견",
+      "color_palette": [
+        "#1c3a8f",
+        "#f3f4f2",
+        "#dcd8d0",
+        "#2a2a2a"
+      ],
+      "color_intent": "코발트 블루 표지판+흰 텍스트가 밝은 콘크리트 기둥 위에서 강한 대비 앵커",
+      "pose_description": "인물 없음; 오각형 블루 플라크가 밝은 기둥 중앙, 흰 '29'가 초점 매스",
+      "subject_motion": "static",
+      "prop_motion": "none",
+      "camera_motion": "micro_drift",
+      "camera_motion_intensity": "low",
+      "camera_effect_local": "none",
+      "motion_blur": false,
+      "intra_cut_rhythm": "static",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [],
+      "vfx_intensity_local": "none",
+      "fact_check_flag": null,
+      "notes": "Cut 15 (f261-266, 10.886-11.136s): blue rounded-pentagon Korean street plaque on pale concrete pillar, '무신사로 / musinsaro-29gil' over big white '29', dark interior flanks. Object montage; '29' as Musinsaro address (parent-brand wink).",
+      "visible_elements": {
+        "foreground": [
+          "blue street-name plaque with white '29'"
+        ],
+        "midground": [
+          "pale concrete pillar"
+        ],
+        "background": [
+          "dark out-of-focus covered-structure interior"
+        ],
+        "lighting_env": [
+          "soft diffused architectural daylight"
+        ],
+        "atmosphere": [
+          "clean modern architectural mood, no haze, no grain"
+        ]
+      },
+      "texture": {
+        "primary_subject": "metallic",
+        "secondary_objects": [
+          "concrete"
+        ],
+        "background_surface": "flat_digital",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "front",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "moderate",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "minimal",
+        "overall_contrast": "mid_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#1c3a8f",
+          "#f3f4f2",
+          "#dcd8d0",
+          "#2a2a2a"
+        ],
+        "palette_role": {
+          "#1c3a8f": "plaque_blue_hero",
+          "#f3f4f2": "text_white",
+          "#dcd8d0": "pillar_concrete_dominant",
+          "#2a2a2a": "interior_shadow"
+        },
+        "color_relationship": "complementary",
+        "temperature_balance": "cool_dominant",
+        "saturation_strategy": "muted_with_pop",
+        "contrast_type": "luminance_high",
+        "accent_color": "#1c3a8f",
+        "accent_ratio": "30_percent",
+        "brand_color_match": [
+          "29CM / Musinsa heritage"
+        ]
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A cinematic medium close-up of a blue Korean street-name plaque mounted flat on a pale concrete pillar, rendered at 1920x1080 in 16:9 landscape; the rounded-pentagon signboard is center-frame, deep cobalt blue with a thin white border and crisp white text, set against the smooth off-white column with dark out-of-focus interior space (a parking structure or building entrance) flanking it on both sides. The hero element, center, is the white street-name text: an upper band reading the Korean street name \"무신사로\" with romanization \"musinsaro-29gil\" beneath a dividing line, and a large white numeral \"29\" filling the lower half of the plaque (verbatim signage text) — another sighting of the recurring numeral, here as an address. The plaque is slightly angled, lit cleanly. The white \"29CM\" wordmark sits in the upper-right corner (verbatim overlay). Foreground and props: the blue \"29\" street plaque is the lone hero; the recurring numeral appears as a road-name address number, playfully referencing the brand's parent retailer. Lighting setup: soft even daylight or diffused architectural light washing the pale pillar and the glossy blue sign, gentle reflection on the enamel surface; neutral color temperature around 5300-5600K; soft fill, key-to-fill about 2:1, minimal soft shadow beside the pillar, mid-key clean contrast with the white text bright against deep blue. Lens and framing: medium close-up, eye-level frontal camera nearly square to the plaque, the sign and its \"29\" centered and occupying the middle of the frame, approximately 50-70mm-equivalent with moderate depth so the plaque text is sharp and the dark flanking interior softens into shadow. Composition and grid: the blue plaque anchored center on the bright vertical pillar, the white \"29\" as the dominant focal mass in the lower plaque, dark negative space left and right framing the bright column, symmetrical and graphic. Color palette and strategy: deep cobalt blue plaque (#1c3a8f) and crisp white text (#f3f4f2) as the hero contrast, pale warm-grey concrete pillar (#dcd8d0) as the bright field, dark charcoal shadow surrounds; cool-dominant temperature, restrained palette with the blue-and-white sign as the focal 30-percent accent against neutral concrete. Texture and surfaces: glossy enamel-coated metal sign, smooth painted concrete pillar, dark matte interior shadow. Atmosphere: clean modern architectural mood, no haze, no grain, calm and orderly. Post and signature look: clean digital capture, neutral grade with the blue kept rich, crisp signage micro-contrast, naturalistic, no film grain. Additional fidelity notes: the plaque has the standard Korean street-sign rounded-pentagon shape with a thin white keyline; the romanization 'musinsaro-29gil' sits in smaller type under the Korean name, and the big '29' is the visual anchor; the concrete pillar shows subtle form-tie marks and a faint vertical seam; the dark flanking areas read as the interior of a covered structure, isolating the bright sign; the overall read is an address sign on Musinsa Road number 29, a witty real-world placement of the number tied to the brand's heritage. Style anchor: design-led Korean lifestyle e-commerce brand film, urban-signage macro foregrounding the number twenty-nine as an address, 4K clean cinematic commercial; contemporary Korean cityscape context.",
+        "t2i_negative": "real brand logos or logo marks, watermark, extra fingers, distorted hands, deformed text, garbled lettering, oversharpening, low resolution, jpeg artifacts, harsh flat on-camera flash, plastic CGI look",
+        "i2v_motion": "Near-static plaque with a faint camera micro-drift; the blue sign and white '29' hold sharp. ~0.25s, static, very fast cut.",
+        "i2v_params": {
+          "clip_duration_sec": 0.25,
+          "camera_move": "locked_off",
+          "subject_motion_level": "still",
+          "signature_effect": "none",
+          "pacing": "static",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; signage '무신사로 / musinsaro-29gil / 29' preserved verbatim; generic street-sign type"
+      }
+    },
+    {
+      "index": 16,
+      "duration": 0.376,
+      "framing": "ECU",
+      "function": "wow_motif",
+      "subject_action": "a macro of an elevator floor-indicator LED panel in a warm gold-beige wall showing a red up-arrow and '29'",
+      "layout_grid": "center",
+      "subject_position": "center",
+      "subject_identity": "none_environment",
+      "subject_relationship_to_protagonist": null,
+      "mid_frame_path": "ADV-2026-043_frames/cut16_mid.png",
+      "subject_typo_layout": "typo_only_no_person",
+      "typo_motion": "우상단 '29CM' 정적. 엘리베이터 LED '↑29' 자체발광(상승 표시). 정적.",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "environment",
+      "gaze": "at_product",
+      "eye_contact_effect": null,
+      "props": [
+        "elevator LED floor indicator '↑29'"
+      ],
+      "prop_semantics": "엘리베이터 층수 표시=프리미엄 도시 인테리어 속 '29' 발견",
+      "color_palette": [
+        "#b89a6a",
+        "#141414",
+        "#e83a2f"
+      ],
+      "color_intent": "따뜻한 골드-베이지 벽 위 발광 레드 '↑29'가 유일한 채도 포인트",
+      "pose_description": "인물 없음; 블랙 디스플레이 스트립 중앙 레드 '↑29' 발광, 골드 메탈 벽 필드",
+      "subject_motion": "static",
+      "prop_motion": "red LED glows",
+      "camera_motion": "locked_off",
+      "camera_motion_intensity": "none",
+      "camera_effect_local": "none",
+      "motion_blur": false,
+      "intra_cut_rhythm": "static",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [],
+      "vfx_intensity_local": "subtle",
+      "fact_check_flag": null,
+      "notes": "Cut 16 (f267-275, 11.136-11.512s): elevator floor-indicator LED in warm gold-beige metal wall, red dot-matrix up-arrow + '29'. Object montage; '29' as a floor number.",
+      "visible_elements": {
+        "foreground": [
+          "black LED display strip with red '↑29'"
+        ],
+        "midground": [
+          "brushed gold-beige metal wall"
+        ],
+        "background": [
+          "warm metallic wall field"
+        ],
+        "lighting_env": [
+          "warm ambient interior light",
+          "self-illuminating red LEDs"
+        ],
+        "atmosphere": [
+          "clean premium lobby mood, faint warm glow, no grain"
+        ]
+      },
+      "texture": {
+        "primary_subject": "plastic_glossy",
+        "secondary_objects": [
+          "metallic"
+        ],
+        "background_surface": "metallic",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "front",
+        "key_hardness": "soft",
+        "key_color_temp": "warm_3000K",
+        "fill_strength": "moderate",
+        "key_to_fill_ratio": "3:1",
+        "rim_light": false,
+        "practical_lights": [
+          "엘리베이터 레드 LED"
+        ],
+        "shadow_presence": "soft",
+        "overall_contrast": "mid_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#b89a6a",
+          "#141414",
+          "#e83a2f"
+        ],
+        "palette_role": {
+          "#b89a6a": "wall_gold_beige_dominant",
+          "#141414": "display_black",
+          "#e83a2f": "led_red_29_hero"
+        },
+        "color_relationship": "complementary",
+        "temperature_balance": "warm_dominant",
+        "saturation_strategy": "muted_with_pop",
+        "contrast_type": "luminance_high",
+        "accent_color": "#e83a2f",
+        "accent_ratio": "12_percent",
+        "brand_color_match": [
+          "29CM"
+        ]
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A cinematic macro close-up of an elevator or building floor-indicator LED display panel set into a warm beige wall, rendered at 1920x1080 in 16:9 landscape; the black glossy display strip is center-frame, a horizontal panel showing a red dot-matrix readout against a brushed gold-beige metal surround. The hero element, center, is a bright red LED up-arrow followed by the numeral \"29\" rendered in glowing red dot-matrix segments (verbatim floor readout) — the elevator ascending to floor twenty-nine, another sighting of the recurring numeral. The black panel reflects faint ambient light, and the warm metallic wall fills the surrounding frame. The white \"29CM\" wordmark sits in the upper-right corner (verbatim overlay). Foreground and props: the elevator LED display with its red \"↑29\" is the lone hero; the recurring numeral appears as a floor indicator. Lighting setup: warm ambient interior lighting on the gold-beige wall with the red LEDs self-illuminating as emissive accents; warm color temperature around 3000-3500K on the wall with vivid red glow from the display; soft reflections on the glossy black panel, soft shadow, mid-key warm contrast, the red readout popping against the dark strip. Lens and framing: extreme-to-medium macro close-up, eye-level frontal camera square to the panel, the \"↑29\" readout centered and occupying the middle, approximately 80mm-equivalent macro with shallow depth so the LED digits are sharp and the panel ends soften. Composition and grid: the red \"↑29\" anchored center on the black horizontal strip, the warm metallic wall as the field above and below, the up-arrow leading into the number, clean symmetrical graphic layout. Color palette and strategy: warm gold-beige metallic wall (#b89a6a) dominant, glossy black display strip (#141414), vivid emissive red LED (#e83a2f) \"↑29\" as the high-saturation hero; warm-dominant temperature, muted warm metal with a vivid red pop, the red readout as the focal 12-percent accent. Texture and surfaces: brushed warm metal wall surround, glossy black acrylic display face, emissive red dot-matrix segments. Atmosphere: clean premium lobby mood, faint warm ambient glow, no haze, no grain. Post and signature look: clean digital macro capture, warm grade with the red LED kept vivid, crisp display micro-contrast, naturalistic, no film grain. Additional fidelity notes: the LED digits are built from small round red dots typical of elevator indicators, slightly blooming; the up-arrow is a clear triangular glyph to the left of the '29'; the black panel has a subtle horizontal reflection of room light; the gold-beige surround reads as a refined hotel or office lobby finish; the focal plane is on the LED face; the overall read is an elevator rising toward floor twenty-nine, a sleek everyday urban sighting of the number. The emissive red of the dot-matrix is the only saturated color in an otherwise warm-neutral metallic frame, so it commands attention immediately; the glossy black acrylic strip sits flush within a recessed channel in the brushed metal, and a hairline highlight runs along the top edge of the panel where the room light catches it, while the warm wall shows a faint vertical brushing texture that grounds the premium finish. Style anchor: design-led Korean lifestyle e-commerce brand film, premium interior signage macro foregrounding the number twenty-nine, 4K clean cinematic commercial; contemporary Korean architectural context.",
+        "t2i_negative": "real brand logos or logo marks, watermark, extra fingers, distorted hands, deformed text, garbled lettering, oversharpening, low resolution, jpeg artifacts, harsh flat on-camera flash, plastic CGI look",
+        "i2v_motion": "The red dot-matrix '↑29' glows steadily on the black strip (a held floor reading); a faint reflection of room light on the glossy panel. Camera locked-off. ~0.4s, static, fast cut.",
+        "i2v_params": {
+          "clip_duration_sec": 0.376,
+          "camera_move": "locked_off",
+          "subject_motion_level": "still",
+          "signature_effect": "none",
+          "pacing": "static",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; '↑29' floor readout preserved verbatim; generic indicator type"
+      }
+    },
+    {
+      "index": 17,
+      "duration": 0.208,
+      "framing": "MS",
+      "function": "wow_motif",
+      "subject_action": "a shot of a blue arrow street-name sign cantilevered from a grey pole reading '무신사로 ... 29길' against modern glass towers",
+      "layout_grid": "rule_of_thirds",
+      "subject_position": "center",
+      "subject_identity": "none_environment",
+      "subject_relationship_to_protagonist": null,
+      "mid_frame_path": "ADV-2026-043_frames/cut17_mid.png",
+      "subject_typo_layout": "typo_only_no_person",
+      "typo_motion": "우상단 '29CM' 정적. 화살표 표지판 '무신사로 ... 29길' 텍스트 노출(정적).",
+      "camera_angle": "low_angle",
+      "camera_facing": "three_quarter",
+      "shot_scope": "environment",
+      "gaze": "at_product",
+      "eye_contact_effect": null,
+      "props": [
+        "blue arrow street sign '29길'"
+      ],
+      "prop_semantics": "'29길' 방향 표지=세련된 비즈니스 디스트릭트 속 '29' 발견(브랜드 주소 반향)",
+      "color_palette": [
+        "#1f3f96",
+        "#f4f4f2",
+        "#aeb8c4",
+        "#7f9a7a"
+      ],
+      "color_intent": "코발트 블루 화살표 사인이 페일 글래스 타워 위에서 채도 앵커",
+      "pose_description": "인물 없음; 우향 화살표 블루 사인이 중앙, '29길'이 초점 텍스트, 그레이 폴 좌측",
+      "subject_motion": "static",
+      "prop_motion": "none",
+      "camera_motion": "locked_off",
+      "camera_motion_intensity": "none",
+      "camera_effect_local": "none",
+      "motion_blur": false,
+      "intra_cut_rhythm": "static",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [],
+      "vfx_intensity_local": "none",
+      "fact_check_flag": null,
+      "notes": "Cut 17 (f276-280, 11.512-11.720s): blue arrow-end street sign on grey pole '무신사로' + '29길', modern glass office towers behind, overhead cables. Object montage; '29' as district road number.",
+      "visible_elements": {
+        "foreground": [
+          "blue arrow street sign with '29길'"
+        ],
+        "midground": [
+          "grey signpost and bracket"
+        ],
+        "background": [
+          "pale grey-blue glass office towers",
+          "tree crowns",
+          "overhead cables",
+          "bright sky"
+        ],
+        "lighting_env": [
+          "bright natural daylight",
+          "bright sky bounce"
+        ],
+        "atmosphere": [
+          "clear modern business-district air, faint depth haze, no grain"
+        ]
+      },
+      "texture": {
+        "primary_subject": "metallic",
+        "secondary_objects": [
+          "glass_clear",
+          "metallic",
+          "foliage"
+        ],
+        "background_surface": "glass_clear",
+        "atmospheric": [
+          "atmospheric_haze"
+        ]
+      },
+      "lighting": {
+        "key_direction": "front",
+        "key_hardness": "soft",
+        "key_color_temp": "cool_7000K",
+        "fill_strength": "strong",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "soft",
+        "overall_contrast": "mid_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#1f3f96",
+          "#f4f4f2",
+          "#aeb8c4",
+          "#7f9a7a"
+        ],
+        "palette_role": {
+          "#1f3f96": "sign_blue_hero",
+          "#f4f4f2": "text_white",
+          "#aeb8c4": "glass_tower_dominant",
+          "#7f9a7a": "foliage_accent"
+        },
+        "color_relationship": "complementary",
+        "temperature_balance": "cool_dominant",
+        "saturation_strategy": "muted_with_pop",
+        "contrast_type": "luminance_high",
+        "accent_color": "#1f3f96",
+        "accent_ratio": "18_percent",
+        "brand_color_match": [
+          "29CM / Musinsa heritage"
+        ]
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A cinematic medium shot of a blue arrow-shaped Korean street-name sign cantilevered from a grey metal pole against a backdrop of modern glass office towers, rendered at 1920x1080 in 16:9 landscape; the horizontal blue directional sign points to the right, center-frame, with white Korean text and a numeral, mounted on a robust grey signpost with a bracket clamp. The hero element, center, is the white text on the blue sign reading the street name \"무신사로\" with romanization beneath and a large \"29길\" (verbatim signage, \"29-gil\" / road 29) at the right pointing end — another sighting of the recurring numeral, the street-address motif. Behind, slightly soft, rise tall reflective curtain-wall buildings in pale grey-blue glass with regular window grids, a few green tree crowns at the lower edge, and overhead utility cables crossing the upper frame; bright daytime sky tones. The white \"29CM\" wordmark sits in the upper-right corner (verbatim overlay). Foreground and props: the blue arrow street sign with \"29길\" and its pole are the hero; the city towers are the soft context. Lighting setup: bright natural daylight on the sign and buildings, slightly cool and clear; color temperature around 5500-6000K; soft shadows, ambient fill from the bright sky, mid-key clean urban contrast, the saturated blue sign standing out against pale architecture. Lens and framing: medium shot with mild telephoto compression, eye-level-to-slightly-low camera looking up at the cantilevered sign, three-quarter facing of the arrow sign, the sign occupying the center, approximately 70-100mm-equivalent with moderate-to-shallow depth so the sign is sharp and the towers soften. Composition and grid: the blue arrow sign anchored center pointing right, the \"29길\" at its tip as the focal text, the grey pole rising at the left, glass towers filling the background grid, cables adding linear texture across the top. Color palette and strategy: saturated cobalt-blue sign (#1f3f96) and white text as the hero contrast, pale grey-blue glass towers (#aeb8c4) and grey pole dominant in the field, green tree accents and bright sky; cool-dominant temperature, muted urban palette with the blue-and-white sign as the focal 18-percent accent. Texture and surfaces: glossy enamel metal sign, matte galvanized steel pole and bracket, reflective glass curtain walls, soft foliage, thin cable lines. Atmosphere: clear modern business-district air, faint atmospheric depth on the towers, orderly and aspirational, no grain. Post and signature look: clean digital capture, neutral-cool grade with the blue kept rich, crisp sign micro-contrast against softened architecture, naturalistic, no film grain. Additional fidelity notes: the sign is the standard Korean arrow-end directional type, blue with a thin white border, the Korean street name above the romanization and the big '29길' at the pointing tip; the pole bracket clamps the sign with visible bolts; the background towers are a contemporary commercial cluster, deliberately soft to isolate the sign; the focal plane sits on the signboard; the overall read is a wayfinding sign for road 29 in a sleek business district, an aspirational everyday sighting of the number echoing the brand's address. Style anchor: design-led Korean lifestyle e-commerce brand film, urban-wayfinding shot foregrounding the number twenty-nine, 4K cinematic commercial; contemporary Korean cityscape context.",
+        "t2i_negative": "real brand logos or logo marks, watermark, extra fingers, distorted hands, deformed text, garbled lettering, oversharpening, low resolution, jpeg artifacts, harsh flat on-camera flash, plastic CGI look, legible real building logos",
+        "i2v_motion": "Near-static directional sign; the towers sit soft behind; the briefest hold. Camera locked-off low-angle. ~0.2s, static, very fast cut.",
+        "i2v_params": {
+          "clip_duration_sec": 0.208,
+          "camera_move": "locked_off",
+          "subject_motion_level": "still",
+          "signature_effect": "none",
+          "pacing": "static",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; signage '무신사로 / 29길' preserved verbatim; generic wayfinding type"
+      }
+    },
+    {
+      "index": 18,
+      "duration": 0.167,
+      "framing": "ECU",
+      "function": "wow_motif",
+      "subject_action": "a high-angle close-up of weathered dark asphalt with a large worn white painted '29' and a white car edge intruding",
+      "layout_grid": "center",
+      "subject_position": "center",
+      "subject_identity": "none_environment",
+      "subject_relationship_to_protagonist": null,
+      "mid_frame_path": "ADV-2026-043_frames/cut18_mid.png",
+      "subject_typo_layout": "typo_only_no_person",
+      "typo_motion": "우상단 '29CM' 정적. 노면 페인트 '29' 노출(정적). 매우 짧은 컷.",
+      "camera_angle": "high_angle",
+      "camera_facing": "frontal",
+      "shot_scope": "environment",
+      "gaze": "at_product",
+      "eye_contact_effect": null,
+      "props": [
+        "road-painted '29' parking number"
+      ],
+      "prop_semantics": "주차 구획 번호 '29'=그리티한 일상 노면 속 '29' 발견",
+      "color_palette": [
+        "#3a3e44",
+        "#dfe1de",
+        "#9a9a9a"
+      ],
+      "color_intent": "다크 아스팔트 위 마모된 흰 페인트 '29'의 강한 명도 대비, 거친 질감",
+      "pose_description": "인물 없음; 노면 페인트 '29' 중앙, 흰 차체 엣지 좌상단",
+      "subject_motion": "static",
+      "prop_motion": "none",
+      "camera_motion": "locked_off",
+      "camera_motion_intensity": "none",
+      "camera_effect_local": "none",
+      "motion_blur": false,
+      "intra_cut_rhythm": "static",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [],
+      "vfx_intensity_local": "none",
+      "fact_check_flag": null,
+      "notes": "Cut 18 (f281-284, 11.720-11.887s): high-angle weathered asphalt with worn white stenciled '29' (parking number), white car body edge + painted line upper-left. Object montage; '29' as ground paint. Very short (~4 frames).",
+      "visible_elements": {
+        "foreground": [
+          "white road-painted '29' on asphalt"
+        ],
+        "midground": [
+          "white car body edge and tire",
+          "white painted line"
+        ],
+        "background": [
+          "coarse dark asphalt field"
+        ],
+        "lighting_env": [
+          "soft overcast daylight raking low across asphalt"
+        ],
+        "atmosphere": [
+          "gritty urban ground-level mood, no haze, no grain"
+        ]
+      },
+      "texture": {
+        "primary_subject": "concrete",
+        "secondary_objects": [
+          "plastic_glossy"
+        ],
+        "background_surface": "concrete",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "side_left",
+        "key_hardness": "soft",
+        "key_color_temp": "cool_7000K",
+        "fill_strength": "moderate",
+        "key_to_fill_ratio": "3:1",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "soft",
+        "overall_contrast": "mid_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#3a3e44",
+          "#dfe1de",
+          "#9a9a9a"
+        ],
+        "palette_role": {
+          "#3a3e44": "asphalt_dark_dominant",
+          "#dfe1de": "paint_white_29_hero",
+          "#9a9a9a": "car_edge_grey"
+        },
+        "color_relationship": "monochrome",
+        "temperature_balance": "cool_dominant",
+        "saturation_strategy": "desaturated_with_pop",
+        "contrast_type": "luminance_high",
+        "accent_color": "#dfe1de",
+        "accent_ratio": "30_percent",
+        "brand_color_match": [
+          "29CM"
+        ]
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A cinematic high-angle close-up of weathered dark asphalt with a large white painted numeral, rendered at 1920x1080 in 16:9 landscape; the rough grey-black road surface fills the frame, its coarse aggregate texture and faint tire marks visible, and a big stenciled white number is painted across it. The hero element, center-frame, is the white road-paint numeral \"29\" (verbatim painted marking) — partly worn and textured by traffic, the paint flaking at the edges where it meets the asphalt grain — another sighting of the recurring numeral, here as a parking-space or lane number. At the upper-left, the lower edge of a white car body and tire intrude, suggesting a parking lot; a faint white painted line runs along the lower-left. The white \"29CM\" wordmark sits in the upper-right corner (verbatim overlay). Foreground and props: the painted road \"29\" is the lone hero; the recurring numeral appears as ground paint in a parking context. Lighting setup: soft overcast-to-shaded daylight raking low across the textured asphalt to reveal its gritty relief and the brush texture of the worn paint; cool-neutral color temperature around 5500-6000K with a cool cast on the grey road; soft diffuse shadow, ambient fill, mid-key contrast, the white paint bright against the dark aggregate. Lens and framing: medium-to-extreme close-up from a high downward angle looking onto the road, the \"29\" filling roughly half the frame and centered-to-lower, approximately 35-50mm-equivalent with moderate depth so the painted numerals are sharp and the far asphalt and car edge soften. Composition and grid: the painted \"29\" anchored center on the textured field, the white car edge balancing the upper-left, a painted line guiding the lower-left, dark asphalt negative space surrounding, gritty graphic contrast. Color palette and strategy: dark cool grey-black asphalt (#3a3e44) dominant, worn white paint (#dfe1de) numerals as the high-luminance hero, faint cool shadow tones; cool-dominant temperature, near-monochrome desaturated palette where the white-on-dark numerals carry the image, the painted \"29\" as the focal 30-percent accent. Texture and surfaces: coarse weathered asphalt aggregate, flaking matte road paint, glossy car body edge and rubber tire. Atmosphere: gritty urban ground-level mood, faint cool daylight, no haze, no grain. Post and signature look: clean digital capture, neutral-cool grade, crisp gritty micro-contrast on the textured surfaces, naturalistic, no film grain. Additional fidelity notes: the white paint is clearly applied by stencil with slightly soft edges and visible wear where the asphalt texture shows through, giving an authentic well-trodden look; the '2' and '9' are large and blocky in a standard road-marking face; the intruding car edge at the upper-left and the painted boundary line confirm a parking-bay context; the low raking light emphasizes the three-dimensional roughness of both the road and the paint; the overall read is a parking space marked twenty-nine, a gritty everyday sighting of the number. The contrast between the smooth glossy car-body edge and the matte gritty road further sells the parking-lot realism, and a few small pebbles and a hairline crack in the asphalt sit near the numerals to reinforce the lived-in surface detail. Style anchor: design-led Korean lifestyle e-commerce brand film, ground-level urban-texture macro foregrounding the number twenty-nine, 4K cinematic commercial; contemporary Korean city context.",
+        "t2i_negative": "real brand logos or logo marks, watermark, extra fingers, distorted hands, deformed text, garbled lettering, oversharpening, low resolution, jpeg artifacts, harsh flat on-camera flash, plastic CGI look",
+        "i2v_motion": "Static ground shot; the worn '29' road paint holds; the briefest beat. Camera locked-off high-angle. ~0.17s, static, very fast cut (montage tail).",
+        "i2v_params": {
+          "clip_duration_sec": 0.167,
+          "camera_move": "locked_off",
+          "subject_motion_level": "still",
+          "signature_effect": "none",
+          "pacing": "static",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; road paint '29' preserved verbatim; generic parking-marking type"
+      }
+    },
+    {
+      "index": 19,
+      "duration": 0.834,
+      "framing": "MCU",
+      "function": "wow_motif",
+      "subject_action": "a back view of a man with a top-knot against a bright sky, wearing a navy sports jersey printed '29CM' on the collar and a large '29' across the back",
+      "layout_grid": "center",
+      "subject_position": "center",
+      "subject_identity": "supporting_model",
+      "subject_relationship_to_protagonist": "extra_atmosphere",
+      "mid_frame_path": "ADV-2026-043_frames/cut19_mid.png",
+      "subject_typo_layout": "typo_separate_zone",
+      "typo_motion": "우상단 '29CM' 워드마크 정적(오버레이). 인물 저지 등판의 '29CM'(칼라)·대형 '29'(등) 인쇄 텍스트 노출. 화면 자막 별도 없음.",
+      "camera_angle": "low_angle",
+      "camera_facing": "back",
+      "shot_scope": "waist_up",
+      "gaze": "none",
+      "eye_contact_effect": null,
+      "props": [
+        "navy '29CM' sports jersey with back number 29"
+      ],
+      "prop_semantics": "'29' 등번호 저지=브랜드와 직결된 '착용된 정체성'으로 모티프 승격",
+      "color_palette": [
+        "#1f2329",
+        "#f3f4f2",
+        "#bcd0e0"
+      ],
+      "color_intent": "네이비 저지 위 흰 '29'와 페일 블루 하늘로 동경·개방감; 브랜드 명시적 결합",
+      "pose_description": "뒤돌아선 상반신, 단정한 탑넛, 하늘 배경 실루엣; 대형 등번호 '29'가 중앙 매스",
+      "subject_motion": "near_static_micro",
+      "prop_motion": "none",
+      "camera_motion": "locked_off",
+      "camera_motion_intensity": "low",
+      "camera_effect_local": "none",
+      "motion_blur": false,
+      "intra_cut_rhythm": "steady",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [],
+      "vfx_intensity_local": "none",
+      "fact_check_flag": null,
+      "notes": "Cut 19 (f285-304, 11.887-12.721s): back view of man with top-knot vs bright sky, navy jersey '29CM' across collar + large '29' back number. Object montage climax; '29' as worn team identity tied to brand.",
+      "visible_elements": {
+        "foreground": [
+          "man's back in navy '29' jersey (supporting_model)",
+          "top-knot head"
+        ],
+        "midground": [
+          "shoulders and jersey collar '29CM'"
+        ],
+        "background": [
+          "bright pale-blue sky with soft clouds"
+        ],
+        "lighting_env": [
+          "bright skylight backlight",
+          "soft frontal-bounce fill on jersey"
+        ],
+        "atmosphere": [
+          "bright open-air aspirational mood, soft sky haze, no grain"
+        ]
+      },
+      "texture": {
+        "primary_subject": "fabric_cotton",
+        "secondary_objects": [
+          "hair"
+        ],
+        "background_surface": "flat_digital",
+        "atmospheric": [
+          "backlit_glow"
+        ]
+      },
+      "lighting": {
+        "key_direction": "back",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "moderate",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": true,
+        "practical_lights": [],
+        "shadow_presence": "soft",
+        "overall_contrast": "hi_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#1f2329",
+          "#f3f4f2",
+          "#bcd0e0"
+        ],
+        "palette_role": {
+          "#1f2329": "jersey_navy_dark_anchor",
+          "#f3f4f2": "number_white_29_hero",
+          "#bcd0e0": "sky_pale_blue_dominant"
+        },
+        "color_relationship": "monochrome",
+        "temperature_balance": "cool_dominant",
+        "saturation_strategy": "desaturated_with_pop",
+        "contrast_type": "luminance_high",
+        "accent_color": "#f3f4f2",
+        "accent_ratio": "25_percent",
+        "brand_color_match": [
+          "29CM jersey print"
+        ]
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A cinematic medium close-up of a person seen from behind against a bright sky, wearing a black sports jersey with a large back number, rendered at 1920x1080 in 16:9 landscape; the figure is center-frame, shoulders and upper back filling the lower two-thirds, head with a neat dark top-knot bun silhouetted against soft pale-blue sky and faint clouds. The hero element, center, is the back of the jersey: a small white \"29CM\" wordmark printed across the upper-back collar area and a very large white numeral \"29\" across the mid-back in a bold collegiate/sports face (verbatim jersey text) — the clearest brand-tied sighting of the recurring numeral, worn as a team number. The jersey is navy-black with a contrasting collar trim. The bright sky behind is slightly overexposed and dreamy with soft cloud forms. The white \"29CM\" wordmark also sits in the upper-right corner of the video frame (verbatim overlay, separate from the jersey print). Foreground and props: the back-facing figure (a different person — a male model, NOT the protagonist) in the \"29\" jersey is the hero; the open sky is the backdrop. Lighting setup: bright natural backlight/skylight wrapping the figure, creating a soft rim around the head and shoulders and a gentle silhouetting, with soft frontal-bounce fill on the jersey keeping the white \"29\" readable; warm-cool mixed daylight around 5500K; soft shadows, key-to-fill about 2:1 with the sky as a giant source, hi-key dreamy contrast. Lens and framing: medium close-up from behind, eye-level-to-slightly-low camera, back facing, subject shown shoulders-and-head with the \"29\" centered on the back, approximately 50-85mm-equivalent with shallow depth so the jersey and number are sharp and the sky is a smooth soft wash. Composition and grid: the top-knot head anchored upper-center against sky, the large \"29\" dominating the central back, the small \"29CM\" collar print above it, bright sky negative space framing, vertical centered composition. Color palette and strategy: navy-black jersey (#1f2329) as the dark anchor, crisp white \"29\" and \"29CM\" (#f3f4f2) as the high-luminance hero, soft pale-blue and white sky (#bcd0e0) as the bright field; cool-dominant temperature, restrained palette with white-on-navy against pale sky, the \"29\" as the focal 25-percent accent. Texture and surfaces: matte athletic mesh/jersey fabric with subtle weave, printed flock-or-twill numerals, neat hair, soft cloud-diffused sky. Atmosphere: bright open-air aspirational mood, soft skylight glow, faint haze in the overexposed sky, no grain. Post and signature look: clean digital capture, warm-cool dreamy grade with lifted highlights, crisp jersey micro-contrast against soft sky, naturalistic, no film grain. Additional fidelity notes: the large back '29' is the visual anchor in a bold sports-team face, and the small '29CM' across the upper back ties it explicitly to the brand; the top-knot and bare neck read as a stylish individual; the sky is intentionally bright and minimal to isolate the figure and number; the focal plane is on the jersey back; the overall read is a confident person wearing number twenty-nine like a team identity, elevating the motif from found-object to worn-pride. Style anchor: design-led Korean lifestyle e-commerce brand film, aspirational sky-backlit portrait-from-behind foregrounding the number twenty-nine as worn identity, 4K cinematic commercial; contemporary Korean street-sport context.",
+        "t2i_negative": "second extra person, distorted face, deformed fingers, extra limbs, real celebrity face likeness, real brand logo marks, watermark, text errors, harsh shadows, cartoonish, low resolution, jpeg artifacts, front face visible, blown sky losing form",
+        "i2v_motion": "The back-facing figure holds with breathing-level micro-motion against the bright sky; the large '29' and collar '29CM' stay readable; soft rim light shimmers. Camera locked-off. ~0.8s, steady, cut.",
+        "i2v_params": {
+          "clip_duration_sec": 0.834,
+          "camera_move": "locked_off",
+          "subject_motion_level": "micro",
+          "signature_effect": "none",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; jersey '29CM' and back '29' preserved verbatim as on-garment text; person identity generic (NOT the protagonist); generic jersey type"
+      }
+    },
+    {
+      "index": 20,
+      "duration": 1.043,
+      "framing": "MCU",
+      "function": "wow_motif",
+      "subject_action": "the same man turns to face camera, smiling and pointing his thumb back at his '29' jersey, against a bright sky",
+      "layout_grid": "rule_of_thirds",
+      "subject_position": "center",
+      "subject_identity": "supporting_model",
+      "subject_relationship_to_protagonist": "extra_atmosphere",
+      "mid_frame_path": "ADV-2026-043_frames/cut20_mid.png",
+      "subject_typo_layout": "typo_separate_zone",
+      "typo_motion": "우상단 '29CM' 정적. 화면 자막 없음 — 인물의 미소+엄지 제스처가 '29=나'를 위트있게 회수.",
+      "camera_angle": "low_angle",
+      "camera_facing": "three_quarter",
+      "shot_scope": "bust",
+      "gaze": "to_camera",
+      "eye_contact_effect": "direct_playful",
+      "props": [
+        "navy '29CM' jersey"
+      ],
+      "prop_semantics": "엄지로 등번호를 가리키는 제스처=오브제 모티프의 인간적 느낌표(자부심)",
+      "color_palette": [
+        "#1f2329",
+        "#c8a088",
+        "#bcd0e0",
+        "#f3f4f2"
+      ],
+      "color_intent": "밝은 하늘 배경에 따뜻한 피부톤 인물; 친근·자신감 무드로 인간 파트 클로즈",
+      "pose_description": "3/4 정면으로 돌아 환하게 미소; 엄지를 어깨 너머 등번호로 향하는 장난기 있는 제스처",
+      "subject_motion": "turn_and_gesture",
+      "prop_motion": "thumb points back over shoulder",
+      "camera_motion": "locked_off",
+      "camera_motion_intensity": "low",
+      "camera_effect_local": "none",
+      "motion_blur": false,
+      "intra_cut_rhythm": "steady",
+      "transition_in": "cut",
+      "transition_out": "cut",
+      "vfx_in_shot": [],
+      "vfx_intensity_local": "none",
+      "fact_check_flag": null,
+      "notes": "Cut 20 (f305-329, 12.721-13.764s): man with mohawk/top-knot turns 3/4-frontal, smiles, thumb-points back at his '29' jersey, bright sky. Human payoff of the montage before the finale mosaic.",
+      "visible_elements": {
+        "foreground": [
+          "smiling man, three-quarter, thumb-pointing back (supporting_model)"
+        ],
+        "midground": [
+          "navy jersey collar and shoulder"
+        ],
+        "background": [
+          "bright pale-blue cloud-softened sky"
+        ],
+        "lighting_env": [
+          "bright skylight backlight",
+          "soft frontal bounce fill on face"
+        ],
+        "atmosphere": [
+          "bright open-air upbeat mood, soft sky haze, no grain"
+        ]
+      },
+      "texture": {
+        "primary_subject": "skin_natural",
+        "secondary_objects": [
+          "fabric_cotton",
+          "hair"
+        ],
+        "background_surface": "flat_digital",
+        "atmospheric": [
+          "backlit_glow"
+        ]
+      },
+      "lighting": {
+        "key_direction": "back",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "moderate",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": true,
+        "practical_lights": [],
+        "shadow_presence": "soft",
+        "overall_contrast": "hi_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#1f2329",
+          "#c8a088",
+          "#bcd0e0",
+          "#f3f4f2"
+        ],
+        "palette_role": {
+          "#1f2329": "jersey_navy_dark_anchor",
+          "#c8a088": "skin_warm",
+          "#bcd0e0": "sky_pale_blue_dominant",
+          "#f3f4f2": "trim_white_accent"
+        },
+        "color_relationship": "complementary",
+        "temperature_balance": "split_warm_cool",
+        "saturation_strategy": "muted",
+        "contrast_type": "temperature_split",
+        "accent_color": "#f3f4f2",
+        "accent_ratio": "5_percent",
+        "brand_color_match": [
+          "29CM"
+        ]
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A cinematic medium close-up of a man with a distinctive mohawk-meets-topknot hairstyle turning to face the camera against a bright sky, rendered at 1920x1080 in 16:9 landscape; the same back-facing figure from the previous shot has rotated, now seen three-quarters-to-frontal, smiling warmly and pointing his thumb back over his shoulder toward his own jersey number, a confident playful gesture. He has a striking hairstyle — shaved sides with a long dark center ridge pulled into a high knot — light facial hair, and an easy grin; he wears the navy-black \"29CM\" sports jersey (the collar trim and a hint of the number visible). The hero of the frame is the man's expressive face and the thumb-point gesture, conveying pride and personality, capping the human side of the recurring-29 journey. The bright pale-blue cloud-softened sky fills the background. The white \"29CM\" wordmark sits in the upper-right corner (verbatim overlay). Foreground and props: the smiling man (a different person — a male model, NOT the protagonist) and his thumb gesture are the hero; the sky is the backdrop. Lighting setup: bright natural skylight/backlight wrapping the figure with a soft rim on the hair and shoulder, soft frontal bounce fill lighting the face evenly and warmly; mixed daylight around 5500K; soft shadows, key-to-fill about 2:1 with the sky as a soft source, hi-key bright contrast, cheerful and open. Lens and framing: medium close-up, eye-level-to-slightly-low camera, three-quarter-to-frontal facing, subject shown chest-and-head, approximately 50-85mm-equivalent with shallow depth so the face and gesture are sharp and the sky is a smooth wash. Composition and grid: the man's face anchored center-right, his thumb pointing back over his shoulder toward the left where the jersey number sits, bright sky negative space framing, dynamic diagonal from face to gesture. Color palette and strategy: navy-black jersey (#1f2329) as the dark anchor, warm natural skin tones, crisp white jersey trim, soft pale-blue and white sky (#bcd0e0) as the bright field; cool-dominant sky with warm skin, restrained palette, the face and gesture as the focal subject, white trim as a small accent. Texture and surfaces: matte athletic jersey fabric, natural skin with light stubble, styled hair with defined sides and knot, soft cloud-diffused sky. Atmosphere: bright open-air upbeat mood, soft skylight glow, faint sky haze, no grain. Post and signature look: clean digital capture, warm-cool dreamy grade with lifted highlights, crisp facial micro-contrast against soft sky, naturalistic, no film grain. Additional fidelity notes: the man's expression is genuinely warm and a little cheeky, lips parted in a smile, eyes toward the camera; the thumb gesture clearly references the '29' on his back from the prior shot, creating a witty payoff; the hairstyle is bold and memorable, a deliberate character beat; the sky is bright and minimal to keep all attention on his face and gesture; the focal plane is on his eyes; the overall read is a confident, friendly individual proudly claiming the number twenty-nine, the human exclamation point of the montage. Style anchor: design-led Korean lifestyle e-commerce brand film, aspirational sky-backlit character portrait foregrounding pride in the number twenty-nine, 4K cinematic commercial; contemporary Korean street-culture context.",
+        "t2i_negative": "second extra person, distorted face, deformed fingers, extra limbs, real celebrity face likeness, real brand logo marks, watermark, text errors, harsh shadows, cartoonish, low resolution, jpeg artifacts, blown sky losing form, double face",
+        "i2v_motion": "The man completes a turn toward camera, breaks into a warm smile and points his thumb back over his shoulder toward the '29' jersey number; soft rim light on hair; otherwise contained motion. Camera locked-off. ~1.0s, steady, cut.",
+        "i2v_params": {
+          "clip_duration_sec": 1.043,
+          "camera_move": "locked_off",
+          "subject_motion_level": "micro",
+          "signature_effect": "none",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; person identity generic (NOT the protagonist, no celebrity likeness); no on-screen copy"
+      }
+    },
+    {
+      "index": 21,
+      "duration": 5.63,
+      "framing": "MS",
+      "function": "cta_payoff",
+      "subject_action": "a finale that opens as a multi-panel mosaic tiling all prior '29' sightings, then resolves into the protagonist blowing out '2'+'9' numeral candles on a birthday cake amid confetti, with kinetic headline '29 IS EVERYWHERE' then '29를 찾습니다'",
+      "layout_grid": "split_screen",
+      "subject_position": "center",
+      "subject_identity": "protagonist_main",
+      "subject_relationship_to_protagonist": "main_character",
+      "mid_frame_path": "ADV-2026-043_frames/cut21_mid.png",
+      "subject_typo_layout": "typo_opposite_subject",
+      "typo_motion": "우상단 '29CM' 정적. 컷 시작 모자이크 그리드(모든 '29' 오브제 타일) → 케이크 장면으로 푸시. 좌측 키네틱 헤드라인: 스크립트 '29' + 'IS'/'EVERYWHERE'(영문) 등장(f354~) → 한글 '29를'/'찾습니다'로 전환(f430~). 컨페티 낙하. 케이크 위 '2'·'9' 숫자 캔들.",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "waist_up",
+      "gaze": "down_at_cake",
+      "eye_contact_effect": null,
+      "props": [
+        "white birthday cake",
+        "'2' and '9' numeral candles",
+        "confetti",
+        "letter cookies"
+      ],
+      "prop_semantics": "'29' 숫자 캔들 생일 케이크=후크(생일 알림)의 회수; 광고 전체의 '29 찾기'가 '그녀의 29번째 생일'로 수렴",
+      "color_palette": [
+        "#caa06a",
+        "#f3efe6",
+        "#23262e",
+        "#e08a3c"
+      ],
+      "color_intent": "따뜻한 실내 톤에 흰 케이크·은색 캔들 하이라이트, 컬러 컨페티로 축하·감정 절정",
+      "pose_description": "양손으로 케이크를 받쳐 카메라 쪽으로 내밀며 캔들을 부는 다정한 클라이맥스 포즈",
+      "subject_motion": "blows_candles_micro",
+      "prop_motion": "candle flames flicker, confetti falls",
+      "camera_motion": "slow_push_in",
+      "camera_motion_intensity": "low",
+      "camera_effect_local": "none",
+      "motion_blur": false,
+      "intra_cut_rhythm": "steady",
+      "transition_in": "montage_mosaic",
+      "transition_out": "cut",
+      "vfx_in_shot": [
+        "split_screen",
+        "kinetic_typo",
+        "particle"
+      ],
+      "vfx_intensity_local": "moderate",
+      "fact_check_flag": null,
+      "notes": "Cut 21 (f330-464, 13.764-19.394s): opens as a multi-panel mosaic grid tiling all prior '29' object shots (f330-340), then resolves (push-in) to protagonist blowing out '2'+'9' numeral candles on a cream birthday cake with falling confetti. Kinetic headline 'WHERE IS'→ '29 IS EVERYWHERE' (script '29' + sans 'IS EVERYWHERE') then transitions to Korean '29를 찾습니다'. CTA/emotional payoff resolving the birthday-notification hook.",
+      "panel_layout": {
+        "is_multi_panel": true,
+        "type": "grid",
+        "panel_count": 20,
+        "divider": "thin white gutter",
+        "orientation": "grid_5x4",
+        "panels": [
+          {
+            "id": 1,
+            "rect": "x 0-25%, y 0-25%",
+            "size_ratio": "~1/20",
+            "content": "crocs '29' charm shot tile",
+            "text_in_panel": "29"
+          },
+          {
+            "id": 2,
+            "rect": "x 25-50%, y 0-25%",
+            "size_ratio": "~1/20",
+            "content": "flip clock '29' tile",
+            "text_in_panel": "29"
+          },
+          {
+            "id": 3,
+            "rect": "x 50-75%, y 0-25%",
+            "size_ratio": "~1/20",
+            "content": "cereal spoon '29' tile",
+            "text_in_panel": "29"
+          },
+          {
+            "id": 4,
+            "rect": "x 75-100%, y 0-25%",
+            "size_ratio": "~1/20",
+            "content": "phone notification tile",
+            "text_in_panel": "29"
+          },
+          {
+            "id": 5,
+            "rect": "x 0-25%, y 25-50%",
+            "size_ratio": "~1/20",
+            "content": "ruler '28 29' tile",
+            "text_in_panel": "28 29"
+          },
+          {
+            "id": 6,
+            "rect": "x 25-50%, y 25-50%",
+            "size_ratio": "~1/20",
+            "content": "wooden number toys '29' tile",
+            "text_in_panel": "29"
+          },
+          {
+            "id": 7,
+            "rect": "x 50-75%, y 25-50%",
+            "size_ratio": "~1/20",
+            "content": "birthday cake candles tile (center, enlarges)",
+            "text_in_panel": "29"
+          },
+          {
+            "id": 8,
+            "rect": "x 75-100%, y 25-50%",
+            "size_ratio": "~1/20",
+            "content": "elevator LED '29번' tile",
+            "text_in_panel": "29번"
+          },
+          {
+            "id": 9,
+            "rect": "x 0-25%, y 50-75%",
+            "size_ratio": "~1/20",
+            "content": "blue street plaque '29' tile",
+            "text_in_panel": "무신사로 29"
+          },
+          {
+            "id": 10,
+            "rect": "x 25-50%, y 50-75%",
+            "size_ratio": "~1/20",
+            "content": "road-paint '29' tile",
+            "text_in_panel": "29"
+          },
+          {
+            "id": 11,
+            "rect": "x 50-75%, y 50-75%",
+            "size_ratio": "~1/20",
+            "content": "jersey back '29' tile",
+            "text_in_panel": "29"
+          },
+          {
+            "id": 12,
+            "rect": "x 75-100%, y 50-75%",
+            "size_ratio": "~1/20",
+            "content": "vinyl record '29' tile",
+            "text_in_panel": "29"
+          },
+          {
+            "id": 13,
+            "rect": "x 0-25%, y 75-100%",
+            "size_ratio": "~1/20",
+            "content": "amp dial '29' tile",
+            "text_in_panel": "29"
+          },
+          {
+            "id": 14,
+            "rect": "x 25-50%, y 75-100%",
+            "size_ratio": "~1/20",
+            "content": "pedestrian signal '29' tile",
+            "text_in_panel": "29"
+          },
+          {
+            "id": 15,
+            "rect": "x 50-75%, y 75-100%",
+            "size_ratio": "~1/20",
+            "content": "pedestrian-signal variant tile",
+            "text_in_panel": "29"
+          },
+          {
+            "id": 16,
+            "rect": "x 75-100%, y 75-100%",
+            "size_ratio": "~1/20",
+            "content": "flip-clock variant tile",
+            "text_in_panel": "29"
+          }
+        ],
+        "layout_note": "Opening ~10 frames tile roughly a 5x4 grid of all prior '29' object shots with thin white gutters; the central tile (the birthday cake) scales up and the grid dissolves via push-in into the single live cake-blowing moment. Panel list abbreviated to the representative tiles."
+      },
+      "visible_elements": {
+        "foreground": [
+          "protagonist holding cream birthday cake with '2'+'9' numeral candles (protagonist_main)",
+          "kinetic headline type left third"
+        ],
+        "midground": [
+          "falling multicolor confetti",
+          "cake with rosette piping and sprinkles"
+        ],
+        "background": [
+          "warm dim interior with coat-rack and sofa hints"
+        ],
+        "lighting_env": [
+          "warm interior key from front",
+          "candle-flame point glows"
+        ],
+        "atmosphere": [
+          "warm celebratory birthday glow, falling confetti, candle warmth, no grain"
+        ]
+      },
+      "texture": {
+        "primary_subject": "skin_natural",
+        "secondary_objects": [
+          "cream_whipped",
+          "metallic_foil",
+          "fabric_wool",
+          "paper"
+        ],
+        "background_surface": "bokeh_abstract",
+        "atmospheric": [
+          "confetti"
+        ]
+      },
+      "lighting": {
+        "key_direction": "front",
+        "key_hardness": "soft",
+        "key_color_temp": "warm_3000K",
+        "fill_strength": "moderate",
+        "key_to_fill_ratio": "2:1",
+        "rim_light": false,
+        "practical_lights": [
+          "케이크 캔들 불꽃"
+        ],
+        "shadow_presence": "soft",
+        "overall_contrast": "mid_key"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#caa06a",
+          "#f3efe6",
+          "#23262e",
+          "#e08a3c"
+        ],
+        "palette_role": {
+          "#caa06a": "interior_warm_dominant",
+          "#f3efe6": "cake_cream_hero",
+          "#23262e": "blazer_dark_anchor",
+          "#e08a3c": "sprinkle_confetti_accent"
+        },
+        "color_relationship": "analogous",
+        "temperature_balance": "warm_dominant",
+        "saturation_strategy": "muted_with_pop",
+        "contrast_type": "luminance_high",
+        "accent_color": "#e08a3c",
+        "accent_ratio": "15_percent",
+        "brand_color_match": [
+          "29CM warm editorial"
+        ]
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A cinematic medium shot of the blonde protagonist holding a small white birthday cake up toward the camera and blowing out two numeral candles, rendered at 1920x1080 in 16:9 landscape; this is the emotional payoff shot, beginning as a rapid multi-panel mosaic that assembles all the previous \"29\" sightings into a grid and resolving into the live cake moment with kinetic headline typography. In the resolved frame she is center, leaning in to blow out the candles, eyes softly closed or lowered, lips pursed, warm interior behind her with a hint of a coat rack and sofa, and colorful confetti falling around her. The hero element is the white cream cake she cradles in both hands, topped with two silver-and-white numeral birthday candles shaped \"2\" and \"9\" forming \"29\" (verbatim numeral candles) with small flames, the cake decorated with white piped cream rosettes and orange-and-green sprinkles, and letter-shaped cookies around the base. Kinetic headline typography overlays the left third: an elegant white script numeral \"29\" followed by bold sans-serif \"IS\" over \"EVERYWHERE\" (verbatim English headline), which then transitions to the Korean headline \"29를\" over \"찾습니다\" (verbatim Korean tagline). The white \"29CM\" wordmark sits in the upper-right corner (verbatim overlay). Foreground and props: the protagonist (character ID protagonist_main) and her \"29\"-candle cake are the hero; confetti and headline type complete the celebratory payoff; this is the hook-resolution where the recurring numeral becomes her birthday. Lighting setup: warm intimate interior light, a soft key from the front catching her face and the white cake, the candle flames adding small warm point-glows, gentle warm fill; warm color temperature around 3000-3500K; soft shadows, key-to-fill about 2:1, mid-key warm cozy contrast, the white cake bright and the confetti catching light. Lens and framing: medium shot, eye-level-to-slightly-low camera as if she presents the cake toward the viewer, frontal facing, subject shown chest-up with the cake foreground, approximately 35-50mm-equivalent with shallow depth so her face and the \"29\" candles are sharp and the room softly bokeh'd. Composition and grid: the protagonist centered-right behind the cradled cake, the \"29\" candles at the cake top as a focal point, kinetic headline anchoring the left third, confetti dispersed across the frame, warm room negative space. Color palette and strategy: warm amber interior tones dominant, white cream cake (#f3efe6) and silver \"29\" candles as the bright hero, deep navy-black blazer (#23262e) anchor, orange-green sprinkle and multicolor confetti accents (#e08a3c, #7fb486, plus pinks/blues); warm-dominant temperature, cozy moderate saturation with the white cake and confetti pops as accents. Texture and surfaces: soft piped whipped cream, metallic-foil numeral candles, baked letter cookies, smooth wool blazer, soft skin, drifting paper confetti. Atmosphere: warm celebratory birthday glow, falling confetti, candle-flame warmth, joyful and tender, no grain. Post and signature look: clean digital cinematic capture, warm filmic grade with cozy lifted shadows, crisp subject micro-contrast against soft warm bokeh, naturalistic, no film grain. Additional fidelity notes: the two foil candles unmistakably read '2' and '9'; the cake is small and homemade-chic with rosette piping and scattered sprinkles, letter cookies spelling a celebratory word around the lower edge; confetti pieces in assorted colors fall and rest on her shoulders and the cake; her gesture of blowing the candles is the tender climax that reframes the whole '29-everywhere' chase as a personal birthday; the opening mosaic-grid version of this shot tiles roughly a four-by-five arrangement of every prior 29 object before pushing into this single cake moment. Style anchor: premium Korean lifestyle e-commerce brand film, warm emotional birthday payoff with kinetic editorial typography, 4K cinematic commercial; contemporary Korean cultural context.",
+        "t2i_negative": "second extra person, distorted face, deformed fingers, extra limbs, real celebrity face likeness, real brand logo marks, watermark, text errors, harsh shadows, cartoonish, low resolution, jpeg artifacts, missing candles, missing headline, blown highlights on cake",
+        "i2v_motion": "Open on a 5x4 mosaic grid tiling every prior '29' object with thin white gutters; the central cake tile scales up and the grid dissolves via a push-in into the live moment: the protagonist holds the cake toward camera and blows out the '2' and '9' numeral candles, flames extinguishing with a wisp of smoke as confetti falls; the left-third headline animates from script '29' + 'IS EVERYWHERE' into Korean '29를 / 찾습니다'. Camera slow push-in. ~5.6s, steady, resolving.",
+        "i2v_params": {
+          "clip_duration_sec": 5.63,
+          "camera_move": "push_in",
+          "subject_motion_level": "micro",
+          "signature_effect": "none",
+          "pacing": "steady",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; on-screen copy '29 IS EVERYWHERE' and '29를 찾습니다' preserved verbatim; numeral candles '2'/'9' preserved; subject identity generic Korean woman (no celebrity likeness); opening mosaic decomposed in panel_layout + Part 13"
+      }
+    },
+    {
+      "index": 22,
+      "duration": 0.584,
+      "framing": "grid",
+      "function": "brand_cta",
+      "subject_action": "a black end card with the white '29CM' wordmark centered",
+      "layout_grid": "center",
+      "subject_position": "center",
+      "subject_identity": "none_environment",
+      "subject_relationship_to_protagonist": null,
+      "mid_frame_path": "ADV-2026-043_frames/cut22_mid.png",
+      "subject_typo_layout": "typo_only_no_person",
+      "typo_motion": "순수 블랙 배경에 흰 '29CM' 워드마크 중앙 정적. 모션 없음(브랜드 사인오프).",
+      "camera_angle": "eye_level",
+      "camera_facing": "frontal",
+      "shot_scope": "environment",
+      "gaze": "none",
+      "eye_contact_effect": null,
+      "props": [],
+      "prop_semantics": null,
+      "color_palette": [
+        "#000000",
+        "#ffffff"
+      ],
+      "color_intent": "순수 블랙에 흰 워드마크로 미니멀·프리미엄 브랜드 마무리",
+      "pose_description": "인물 없음; '29CM' 로고타입만 정중앙, 광대한 블랙 여백",
+      "subject_motion": "static",
+      "prop_motion": "none",
+      "camera_motion": "locked_off",
+      "camera_motion_intensity": "none",
+      "camera_effect_local": "none",
+      "motion_blur": false,
+      "intra_cut_rhythm": "static",
+      "transition_in": "cut",
+      "transition_out": "fade",
+      "vfx_in_shot": [],
+      "vfx_intensity_local": "none",
+      "fact_check_flag": null,
+      "notes": "Cut 22 (f465-479, 19.394-19.978s): pure black field, white '29CM' wordmark centered, geometric sans-serif, vast negative space. Brand sign-off closer.",
+      "visible_elements": {
+        "foreground": [
+          "white '29CM' wordmark centered"
+        ],
+        "midground": [],
+        "background": [
+          "pure flat black field"
+        ],
+        "lighting_env": [
+          "flat even — pure digital, no directional light"
+        ],
+        "atmosphere": [
+          "absolute clean void, no haze, no grain"
+        ]
+      },
+      "texture": {
+        "primary_subject": "flat_2d_vector",
+        "secondary_objects": [],
+        "background_surface": "flat_digital",
+        "atmospheric": []
+      },
+      "lighting": {
+        "key_direction": "front",
+        "key_hardness": "soft",
+        "key_color_temp": "neutral_5500K",
+        "fill_strength": "none",
+        "key_to_fill_ratio": "silhouette",
+        "rim_light": false,
+        "practical_lights": [],
+        "shadow_presence": "none",
+        "overall_contrast": "high_contrast"
+      },
+      "color_analysis": {
+        "palette_hex": [
+          "#000000",
+          "#ffffff"
+        ],
+        "palette_role": {
+          "#000000": "background_black_dominant",
+          "#ffffff": "wordmark_white"
+        },
+        "color_relationship": "monochrome",
+        "temperature_balance": "balanced",
+        "saturation_strategy": "monochrome",
+        "contrast_type": "luminance_high",
+        "accent_color": "#ffffff",
+        "accent_ratio": "5_percent",
+        "brand_color_match": [
+          "29CM mono wordmark"
+        ]
+      },
+      "recreation_prompts": {
+        "t2i_start_frame": "A minimalist typographic brand-closer frame rendered at full 1920x1080 pixels, 16:9 landscape aspect ratio; the entire frame is a pure flat solid black field (#000000) with zero gradient, zero texture, zero grain, perfectly uniform across every pixel. At the precise horizontal and vertical center of the frame sits the brand wordmark in clean white: the logotype \"29CM\" (verbatim) rendered in a refined geometric sans-serif with elegant thin-to-medium strokes, generous letter-spacing, and a distinctive open-curved \"C\" and a circular \"9\"; the characters are pure white (#ffffff) with no drop shadow, no outline, no glow, no gradient. The wordmark occupies roughly 18-20 percent of the frame width and about 6 percent of the frame height, centered with vast black negative space on all sides — approximately 47 percent of frame height empty above and below, and broad black margins left and right. This is the final brand sign-off card after the celebratory payoff. Foreground and props: the \"29CM\" wordmark is the only element; no people, no product, no icon. Lighting setup: not applicable in a literal sense — the frame is a flat digital render; the white type reads as if emissive on black, even and shadowless; effective neutral color temperature; no fill, no shadow, maximum luminance contrast (pure white on pure black), the highest-key element on the darkest field. Lens and framing: flat full-frame graphic, no camera perspective, centered composition, the wordmark crisp and vector-clean. Composition and grid: dead-center symmetrical placement of the wordmark, immense black negative space framing it on every side, the restraint signaling brand confidence and premium minimalism. Color palette and strategy: pure black (#000000) dominant across roughly 96 percent of the frame, pure white wordmark (#ffffff) at about 4 percent; monochrome black-and-white relationship, neutral temperature, fully desaturated, maximum luminance contrast. Texture and surfaces: none — pure flat digital vector render, zero film grain, zero halation, zero noise, zero scanlines. Atmosphere: absolute clean void, no haze, no particles, total stillness and silence. Post and signature look: pristine flat digital, no grade artifacts, no grain, no glow; an ultra-minimal logotype end card. Additional fidelity notes: the \"29CM\" logotype is the brand's signature lockup with refined geometric letterforms and airy tracking, treated as a generic clean wordmark type-treatment rather than a stylized logo mark; the pure-black field with a single centered white wordmark creates a calm, premium full-stop to the film; the negative space is intentional and dominant; there are no other graphics, captions, or motion in this frame; the overall read is the quiet, confident brand signature that closes the twenty-nine-everywhere story. The wordmark sits at exact optical center so the eye lands on it immediately against the void; the spacing between the numerals '2' and '9' and the letters 'C' and 'M' is even and wide, giving the lockup a calm horizontal rhythm; because the black is absolute and the white is clean, the card reads equally well at any scale and on any display, functioning as a definitive closing slate; no animation occurs — the wordmark simply holds, then the film ends, sometimes with the faintest fade as the very last beat. Style anchor: ultra-minimal Korean lifestyle e-commerce brand closer, 4K pristine flat digital render, single centered white wordmark on pure black, refined geometric sans-serif, maximum negative space, zero decorative elements, zero grain, monochrome high-contrast; contemporary premium Korean brand identity context.",
+        "t2i_negative": "gradient, texture, grain, noise, decorative elements, photographic content, colored text, shadows, glow, serif font, multiple words",
+        "i2v_motion": "Hold perfectly static; the centered white '29CM' wordmark does not animate; pure black field. Camera locked-off. ~0.6s, static, with the faintest fade-out at the very end.",
+        "i2v_params": {
+          "clip_duration_sec": 0.584,
+          "camera_move": "locked_off",
+          "subject_motion_level": "still",
+          "signature_effect": "none",
+          "pacing": "static",
+          "loopable": false
+        },
+        "fidelity_note": "craft-faithful; '29CM' wordmark preserved verbatim as generic geometric-sans type-treatment (no stylized logo mark)"
+      }
+    }
+  ],
+  "search_keywords": {
+    "industry": [
+      "retail"
+    ],
+    "product_category": [
+      "fashion_lifestyle_platform",
+      "apparel"
+    ],
+    "target_demo": [
+      "late20s_early30s",
+      "mz",
+      "women",
+      "active_consumers"
+    ],
+    "media_format": [
+      "digital_30s",
+      "sns_viral",
+      "product_hero_film"
+    ],
+    "tone": [
+      "calm_refined",
+      "curated",
+      "upbeat",
+      "warm_emotional"
+    ],
+    "pacing": [
+      "accelerating",
+      "staccato"
+    ],
+    "technique": [
+      "detail_closeup",
+      "kinetic_typo",
+      "dissolve_montage",
+      "object_closeup",
+      "splitscreen"
+    ],
+    "vfx_keywords": [
+      "kinetic_typo",
+      "split_screen",
+      "color_pop",
+      "ui_motion"
+    ],
+    "copy_strategy_keywords": [
+      "brand_name_pun",
+      "question_hook",
+      "building_climax",
+      "caption_led"
+    ],
+    "concept_derivation_pattern": [
+      "metaphor_visual_sequence"
+    ]
+  },
+  "inferred_creative_thinking": {
+    "insight": "브랜드명 '29CM'의 '29'를 일상 곳곳에서 무한히 마주치게 만들면, 추상적 셀렉트숍 정체성이 '내 삶 어디에나 있는 친근한 존재'로 각인된다 — 숫자 하나가 브랜드 회상의 훅이 된다.",
+    "persona": "취향 소비에 민감하고 자기 서사(생일·기념일)를 소중히 여기는 20대 후반~30대 초 도시 소비자",
+    "moment": "생일을 맞은 날, 우연히 '29'라는 숫자가 시계·달력·신호등·번호판 등 일상 곳곳에서 눈에 들어오기 시작하는 순간",
+    "product_role": "29CM = '당신 곁의 라이프스타일'을 큐레이션하는 셀렉트숍; '29'는 브랜드가 일상에 스며 있음을 상징",
+    "punchline": "29 IS EVERYWHERE / 29를 찾습니다",
+    "differentiator": "제품 나열이 아니라 브랜드명 숫자(29)를 시각적 보물찾기로 만들어, 표현·감성 중심의 셀렉트숍 톤을 차별화",
+    "brand_fit_one_liner": "브랜드명 자체(29CM)를 크리에이티브 엔진으로 쓴 네이밍 기반 모티프 캠페인",
+    "confidence": "inferred"
+  },
+  "inferred_brief": "셀렉트숍 29CM의 브랜드 인지를 높이기 위해, 브랜드명의 '29'를 일상 사물 곳곳에서 발견하는 위트있는 비주얼 시퀀스로 '29CM은 당신 삶 어디에나 있다'는 메시지를 감각적·감성적으로 전달한다.",
+  "cross_pollination_tags": {
+    "adjacent": [
+      "beauty_platform",
+      "apparel",
+      "subscription_membership"
+    ],
+    "distant": [
+      "finance",
+      "telecom",
+      "content_ott"
+    ],
+    "contrast": [
+      "automotive",
+      "industrial_b2b",
+      "luxury_sedan"
+    ]
+  },
+  "concept_derivation_pattern": "metaphor_visual_sequence",
+  "confidence": "inferred",
+  "analyst_notes": "1. 음성 전사: faster_whisper(base) 정상 실행, 0 세그먼트 → 나레이션 없음(음악 주도 광고)로 확정. 화면 자막만 verbatim 캡처. 2. 컷 확정: scenedetect(16 scenes) × metrics(17 cut_candidates) 교차 + 경계 프레임 native-res 직접 확인. 댄스 구간(f170-224)은 동일 공간 4앵글 고속 인터컷이라 1개 'dance montage' 컷으로 통합(intra_cut_rhythm=accelerating, notes에 명시). 그 외 모든 '29-오브제' 컷은 개별 보존(핵심 디바이스). 최종 shot_count_corrected=22. 3. 핵심 디바이스는 '숫자 29의 일상 오브제 보물찾기'(flip clock/calendar/crocs charm/ruler 28-29(=29cm 네이밍 위트)/textbook/cereal/wood toys/amp dial/vinyl/pedestrian signal/motorcycle plate/musinsaro-29gil plaque/elevator/street sign/road paint/jersey) → 모자이크 집결 → 생일 케이크로 수렴. 4. 전역 wiggle_3d 부재; metrics wiggle 수치는 고속 컷·트래킹·모션블러 기인. 5. 카피 verbatim: 'WHERE IS 29' → '29 IS EVERYWHERE' → '29를 찾습니다'; 후크 알림 '29번째 생일을 축하해요'. 6. '무신사로 29길' 플라크 등은 모회사 무신사 헤리티지를 위트있게 활용. 7. 인물: 메인 주인공(블론드 여성) + 서포팅(저지 등번호 남성). 셀럽 얼굴 복제·로고 마크 생성 금지 준수, 자막·온스크린 카피는 보존.",
+  "verification": {
+    "frames_reviewed": "약 95/479 프레임을 native-res로 판독(전 컷 경계 f(n-1)/f(n)/f(n+1) + 각 컷 중간프레임 + diff·text_delta 스파이크 + 미세 캡션/플라크/저지 크롭 확대) + 100% 전 프레임 metrics(479/479) + scenedetect 교차검증",
+    "audio_analyzed": true,
+    "hitrate_na": true,
+    "abstraction_checked": true
+  }
+}
