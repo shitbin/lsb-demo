@@ -50,6 +50,8 @@ resolve that folder's absolute path and use `<LIBRARY>/001_ad_video_dataset` as 
 
 ```
 <LIBRARY> = the folder directly containing 001_ad_video_dataset/ (connected folder, or its library/ subfolder)
+            API (console Managed Agent): connected shitbin/lsb-demo repo -> its library/
+            Local (Mac Cowork): /Users/soobin/Desktop/LSB_AD_ENGINE/library
 <DATASET> = <LIBRARY>/001_ad_video_dataset   (entries/, index/, dataset_view.md live inside it)
  mac example: /Users/<id>/Desktop/LSB_AD_ENGINE/library
  win example: C:\Users\<id>\Desktop\LSB_AD_ENGINE\library
@@ -395,7 +397,7 @@ Right after saving a new entry to `<DATASET>/entries/`, update the index (if you
 find the new entry).
 
 You do not need a separate `index_helper.py` file — update with the **inline snippet** below (self-contained).
-`<DATASET>` is the connected LSB_Ad_Datas absolute path, `<ENTRY>` is the path of the entry you just saved. The
+`<DATASET>` is the connected `<LIBRARY>/001_ad_video_dataset` absolute path (`<LIBRARY>` — API: the `shitbin/lsb-demo` repo's `library/`; Local: `/Users/soobin/Desktop/LSB_AD_ENGINE/library`), `<ENTRY>` is the path of the entry you just saved. The
 output (by_*.json, master.json) is **all strict JSON**. (If heredoc doesn't work on Windows, save the body
 below as `idx_update.py` in a **working scratch folder** and run `python idx_update.py "<DATASET>" "<ENTRY>"` —
 but keep that `.py` in scratch only, not in `<DATASET>`.)
@@ -493,7 +495,7 @@ Example index file `index/by_industry.json`:
 - Don't analyze only the image (missing the direction). Don't settle a dynamic label from a thumbnail alone.
 - Don't omit a global effect (e.g. wiggle). Don't ignore rotation.
 - Don't guess without watching the video, and don't store Level 0–1 visual *descriptions*.
-- **Don't save the dataset outside `<DATASET>` (the connected LSB_Ad_Datas).** (Only an exception if the user
+- **Don't save the dataset outside `<DATASET>` (inside the connected `<LIBRARY>`).** (Only an exception if the user
  specifies a different path.)
 - **Don't save `.py`, scripts, or Python dict literals in `<DATASET>`.** Entries and indexes are all strict JSON
  (`.json`). Run assembly Python in scratch only and leave only `.json` in the dataset.

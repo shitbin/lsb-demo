@@ -24,7 +24,7 @@ on judging, not on producing.
 
 ## Inputs
 1. **Client brief**: brand, product, category, target, length (seconds), budget, requested tone, must-include elements.
-2. **Dataset**: inside the connected **`LSB_Ad_Datas`** folder (= `<LIBRARY>`), the `entries/` + `index/` folders under **`001_ad_video_dataset/`** (= `<DATASET>`). These are the entries built by lsb-ad-analyzer.
+2. **Dataset**: inside the connected folder (= `<LIBRARY>` — **API:** the `shitbin/lsb-demo` repo's `library/`; **Local (Mac Cowork):** `/Users/soobin/Desktop/LSB_AD_ENGINE/library`), the `entries/` + `index/` folders under **`001_ad_video_dataset/`** (= `<DATASET>`). These are the entries built by lsb-ad-analyzer.
  - The dataset is an asset that grows over time (it accumulates "layered muscle"). When there are many entries, **do NOT read them all in** — use STEP 2's index search + ranking to pick only the top N that fit (this stays constant no matter the dataset size).
 
 ## Schema / contract reference
@@ -114,7 +114,7 @@ Where it applies: STEP 4 (B) cut-list writing checks every adjacent pair + STEP 
 
 When the planner triggers, **first of all** resolve the dataset folder at runtime. Never hardcode the path (mac `/Users/...`, win `C:\Users\...` — both).
 
-1. `<LIBRARY>` = the folder that **directly contains `001_ad_video_dataset/`** (resolve by structure, not by name): check the connected folder; if `001_ad_video_dataset/` isn't there, drop into a `library/` subfolder and use that. (Works for `LSB_AD_ENGINE/library`, a repo with `001…` at root, or a repo with a `library/` wrapper.) **`<DATASET>` = `<LIBRARY>/001_ad_video_dataset`** (containing `entries/` · `index/` · `dataset_view.md`). Other library resources: copy bank `<LIBRARY>/002_ad_copy_bank/`, reference decks `<LIBRARY>/003_reference_decks/`, moodboard `<LIBRARY>/004_moodboard_library/`.
+1. `<LIBRARY>` = the folder that **directly contains `001_ad_video_dataset/`** (resolve by structure, not by name): take the connected folder; if it directly contains `001_ad_video_dataset/` that IS `<LIBRARY>`, else drop into its `library/` subfolder. Both deploy environments resolve the same way: **API (console Managed Agent)** = the connected `shitbin/lsb-demo` repo → its **`library/`**; **Local (Mac Cowork)** = the connected `LSB_AD_ENGINE` folder → **`/Users/soobin/Desktop/LSB_AD_ENGINE/library`** (or that `library/` connected directly). **`<DATASET>` = `<LIBRARY>/001_ad_video_dataset`** (containing `entries/` · `index/` · `dataset_view.md`). Other library resources: copy bank `<LIBRARY>/002_ad_copy_bank/`, reference decks `<LIBRARY>/003_reference_decks/`, moodboard `<LIBRARY>/004_moodboard_library/`.
 2. If absent, request the folder with `mcp__cowork__request_cowork_directory`. If the folder is empty, seed it by copying the analyzer's `dataset_template/`.
 3. Thereafter, `entries/` · `index/` are relative paths based on `<DATASET>`. Detailed contract: `schema.md` §0.
 

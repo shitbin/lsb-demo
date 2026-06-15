@@ -235,28 +235,29 @@ forever, and do not retry it zero times either — bound it:
 - Never strip the creative intent or bypass a genuine policy block to get through. If at any point the
   status becomes `ip_detected`, switch to STEP 6 (stop + user-allow) — that is a different thing.
 
-### Render-wait protocol (★ no tool-call loop — fixes the 2606041430 critical defect)
+### Render-wait protocol (★ no tool-call loop — long initial wait, then a decreasing backoff)
 
-Do **not** poll a long render (1080p 15s ≈ 15–20 min) by chopping it into short sleeps. Repeating a 30–60s
-sleep dozens of times makes the polling explode to 40–60 calls, and you fall into a self-reinforcing loop
-that only repeats announce-text like "now I'll check" (this actually happened). Follow the below **exactly**.
+A 1080p 15s clip ≈ 15–20 min. Do **not** idle-spin with many identical short sleeps, and do **not**
+announce every poll (announcing-without-calling is the seed of the loop that once happened). Follow this
+**exactly**:
 
-1. **Sleep long once.** 1080p 15s = `sleep 900` (15 minutes) **once**. No repeated polling at 30/60-second
-   intervals. (Do not finely separate the wait task from the next task — an unavoidable wait is one long
-   sleep.)
-2. After waking, **check status once**. If still `in_progress`, sleep **once more** for the remaining
-   estimated time (e.g. `sleep 300`) and re-check. **If you've checked the same status twice and it's still
-   in progress, do not re-check more frequently — wait with one longer sleep.** Never repeat short re-checks.
-3. **No announce-text.** If you're going to call a tool, **just call it** without announcing "now I'll do
-   ~ / calling now / one moment". Keep any pre-call explanation to one sentence or less. The pattern of
-   announcing but not actually calling is the seed of the loop.
-4. Tell the user once at the start, just "the render takes ~N minutes, I'm waiting" (do not relay on every
-   poll).
-5. `job_display` has intermittent errors and status-transition delays, so recover by re-querying by job id.
-   For multiple clips, **queue them all and wait once with a long sleep**, then collect them in a batch (do
-   not poll per clip).
+1. **Queue ALL clips first, then wait on the batch.** Submit every generation, collect the job ids, and
+   wait once — never poll one clip at a time, never a tight `sleep; echo` idle loop.
+2. **First wait is long: `sleep 550` once** (~9 min — most of the render passes with zero checks). One
+   unavoidable wait = one long sleep, not many short ones.
+3. **Then poll on a DECREASING backoff with a 15s floor.** After the 550s wait, check status once; if still
+   `in_progress`, sleep the next interval and re-check. Start at **40s** and shrink each round down to a
+   **15s minimum**: `next = max(15, prev − 5)` → **40 → 35 → 30 → 25 → 20 → 15 → 15 → 15 …**. Because the
+   550s head start already covers the bulk of the render, only a handful of these run before completion —
+   this is a controlled tail-catch, not the old 30s×30 tight loop.
+4. **No announce-text.** If you're going to call a tool, **just call it** — no "now I'll check / calling /
+   one moment." Keep any pre-call note to one sentence or less.
+5. Tell the user once at the start ("the render takes ~N minutes, I'm waiting"); do not relay on every poll.
+6. `job_display` has intermittent errors / status-transition delays — recover by re-querying by job id, and
+   collect the finished clips in a batch (do not poll per clip).
 
-> Bottom line: **"Sleep long once, and call tools without announcing." sleep 900 > sleep 30 × 30.**
+> Bottom line: **one long 550s wait, then a short decreasing-to-15s backoff (40→35→…→15) — batched, no
+> announce-text.** The 550 carries the load; the backoff just catches the tail.
 
 ## STEP 7 — Joining (concat · force the pixel format)
 **Do not make a separate "compressed master video" or "summary version".** Take the chunks split in STEP 2
@@ -347,7 +348,7 @@ production.
 - Typography handling: `lsb-treatment-builder/REFERENCE/typography-in-image.md`.
 
 ---
-*Version: lsb-video-crafter_260614_v11 · 2026-06-14 KST. (version scheme = YYMMDD_vN; earlier inline _2606xxxx codes are legacy timestamps. v11 = **problem-summary doc gaps closed (CP-1/2/3)**: STEP 5 declined_preset attached by DEFAULT every call (not reactive, LSB-001); STEP 5.5 #5 aspect-ratio hard-lock + ffprobe post-generation verify gate (LSB-012); STEP 6.5 content-filter false-positive bounded retry (1 rephrase → drop refs → max 3 → stop, LSB-008, distinct from ip_detected); STEP 7.5 required VO + editorial-subtitle post step (LSB-013/016); status-label taxonomy [draft]/[verified]/[delivery] + resend=reuse-not-regenerate (LSB-E01/E04/011); STEP 8 aspect gate. Source: lsb production 문제점 정리/solutions.) Previous _2606101200 = STEP 8 **codifies the 32MB payload
+*Version: lsb-video-crafter_260615_v12 · 2026-06-15 KST. (version scheme = YYMMDD_vN; earlier inline _2606xxxx codes are legacy timestamps. v12 = **render-wait reschedule** — replaced "sleep 900 once" with: queue all clips → `sleep 550` once → then a DECREASING backoff poll (start 40s, `next = max(15, prev−5)`, 15s floor: 40→35→30→25→20→15→15…). Keeps the no-announce-text + batch-wait principle; the long 550 head start keeps total polls low (the backoff only catches the tail). v11 = **problem-summary doc gaps closed (CP-1/2/3)**: STEP 5 declined_preset attached by DEFAULT every call (not reactive, LSB-001); STEP 5.5 #5 aspect-ratio hard-lock + ffprobe post-generation verify gate (LSB-012); STEP 6.5 content-filter false-positive bounded retry (1 rephrase → drop refs → max 3 → stop, LSB-008, distinct from ip_detected); STEP 7.5 required VO + editorial-subtitle post step (LSB-013/016); status-label taxonomy [draft]/[verified]/[delivery] + resend=reuse-not-regenerate (LSB-E01/E04/011); STEP 8 aspect gate. Source: lsb production 문제점 정리/solutions.) Previous _2606101200 = STEP 8 **codifies the 32MB payload
 cap** — inlining video/frame bytes is forbidden; reference only by file path, job id, URL.) Previous
 _2606101000 = **STEP 5.5 output authenticity verification** — forbids using a preset/sample/demo/template/
 gallery/example/preview video as the final deliverable, requires the real file/URL of a user-approved

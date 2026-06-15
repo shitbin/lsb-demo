@@ -7,7 +7,7 @@
 
 ## Where it lives (path contract)
 - `<LIBRARY>` = the connected folder that contains `001_ad_video_dataset/` (same root the ad dataset and
-  copy bank resolve from; locally `LSB_AD_ENGINE/library`, on API the repo root). Resolve by structure, not name.
+  copy bank resolve from). **API:** the connected `shitbin/lsb-demo` repo → its **`library/`**; **Local (Mac Cowork):** **`/Users/soobin/Desktop/LSB_AD_ENGINE/library`**. Resolve by structure, not name.
 - Moodboard library = **`<LIBRARY>/004_moodboard_library/`** (`<MOODBOARD>`). Do not hardcode an absolute path;
   resolve `<LIBRARY>` at runtime (mac `/Users/...`, win `C:\Users\...`).
 - If the folder is absent, skip moodboard grounding and say so in the output (do not invent a taste).

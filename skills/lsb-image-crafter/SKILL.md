@@ -130,6 +130,21 @@ negative — they trip moderation and block generation. Source: `REFERENCE/photo
 - **No code-drawn substitutes.** Never replace a generative image with PIL rectangles/icons. If
   generation or download fails, **stop and tell the user** — do not patch with vectors.
 
+## 4-a. Render-wait — batch-wait, don't idle-spin (★)
+
+`generate_image` is async (submit → job → poll → download). **Submit every image job first** (master
+sheet · KV · all cut grids) as one batch, then wait on the batch — never one image at a time, and **never a
+tight `sleep; echo` idle loop** doing nothing.
+- **Wait once, long.** After submitting, `sleep` once for the render estimate, then poll `job_display` for
+  the **whole batch** and download the finished results to `assets/`; recover flaky status by re-querying
+  the job id. Don't separate the wait into dozens of short idle echoes.
+- **The wait is overlapped, not wasted.** The manager runs the deck *skeleton* build (lsb-treatment-builder
+  Phase 4.0 Pass A — layout · typeset copy · ratio-sized image slots) **while** these images render, so the
+  wall-clock isn't burned on idle sleeps.
+- **Hand off only a COMPLETE `stills.json`.** It's complete only when every cut / KV / master-sheet image
+  is downloaded **and** verified (§7). **Never let the pipeline report the deck "done" while any image is
+  still generating** — the deck is finalized only after all stills land (the builder's Pass B).
+
 ## 5. Download, slice, verify (local files only)
 
 - Higgsfield returns a remote URL/job. PIL cannot open a URL. **Download every result to `assets/`**
@@ -173,8 +188,11 @@ is consistent across cuts. Then hand `stills.json` + `assets/` to treatment-buil
   master-sheet talent type and a generic mark (copy text in the plan is preserved as written).
 
 ---
-*Version: lsb-image-crafter_260614_v1 · 2026-06-14 10:55 KST. (version scheme = YYMMDD_vN.) v1 = NEW
-SKILL split out of lsb-treatment-builder Phase 3 to be the single owner of all `generate_image`, with the
+*Version: lsb-image-crafter_260615_v2 · 2026-06-15 KST. (version scheme = YYMMDD_vN.) v2 = **§4-a render-wait**
+— submit all image jobs as ONE batch, then a single longer `sleep` + batched `job_display` poll instead of an
+idle `sleep; echo` loop; the wait is overlapped with the treatment deck-skeleton build (builder Phase 4.0
+Pass A); hand off only a COMPLETE verified `stills.json` and never report the deck "done" mid-generation.
+v1 = NEW SKILL split out of lsb-treatment-builder Phase 3 to be the single owner of all `generate_image`, with the
 seven hard gates (declined_preset · full-field cells · composition · fg/mg/bg · baked-copy/no-"no text" ·
 moodboard refs · model/preset lock) and the cut_plan.json → stills.json data contract. Resolves the seven
 image-generation defects in _meta/IMAGE_PIPELINE_DIAGNOSIS_260614.md. User decisions _260614: per-cell

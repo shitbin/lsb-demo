@@ -6,7 +6,8 @@ LSB 데이터셋 카테고리 인덱스 헬퍼. (lsb-ad-analyzer_2606021505 — 
 - 모든 축의 인덱스 언어를 'en'으로 통일. (한국어/영어 혼용 분리룰 폐지)
  값 vocabulary는 lsb-treatment-builder/REFERENCE/keyword-vocabulary.md(영문 토큰 + KO 별칭) 참조.
 - 경로 결합을 os.path.join으로 (Windows \\ / macOS / 양쪽 호환).
-- dataset-dir는 '연결된 LSB_Ad_Datas 폴더의 절대경로'를 넘긴다. 하드코딩 금지.
+- dataset-dir는 '연결된 <LIBRARY>/001_ad_video_dataset 절대경로'를 넘긴다. 하드코딩 금지.
+  (<LIBRARY> = API: shitbin/lsb-demo 레포의 library/ · Local: /Users/soobin/Desktop/LSB_AD_ENGINE/library)
 
 사용법:
  # entry 하나 인덱스에 추가(또는 갱신)
@@ -18,8 +19,9 @@ LSB 데이터셋 카테고리 인덱스 헬퍼. (lsb-ad-analyzer_2606021505 — 
  # 삭제 시 인덱스에서 제거
  python3 index_helper.py remove --entry-id ADV-2026-001 --dataset-dir "<DATASET>"
 
- <DATASET> = 사용자가 연결한 LSB_Ad_Datas 폴더의 절대경로
- (mac 예: /Users/<id>/Desktop/LSB_Ad_Datas, Win 예: C:\\Users\\<id>\\Desktop\\LSB_Ad_Datas)
+ <DATASET> = 연결한 <LIBRARY>/001_ad_video_dataset 절대경로
+ (<LIBRARY> = API: shitbin/lsb-demo 레포의 library/ · Local: /Users/soobin/Desktop/LSB_AD_ENGINE/library)
+ (mac 예: /Users/<id>/Desktop/LSB_AD_ENGINE/library, Win 예: C:\\Users\\<id>\\Desktop\\LSB_AD_ENGINE\\library)
 
 각 인덱스 파일 구조:
  {
