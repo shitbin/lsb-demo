@@ -57,7 +57,7 @@ the user a **t2v option** and the user **chooses t2v**, switch to the following:
 - Call `generate_video` in **t2v mode** (no start_image; the text prompt drives it). The prompt is the
   same as STEP 4: **full 4000-character spec** (since there is no still, describe space, action, people,
   and layout even more densely).
-- Everything else (15-second chunks, **seamless transition always**, **brand motion-typography
+- Everything else (8-second chunks, **seamless transition always**, **brand motion-typography
   required**, Korean VO, concat, QA) is identical to i2v.
 - t2v has lower fidelity to the cut still, so in STEP 8 QA scrutinize product-label and character-identity
   matching especially hard (if it drifts, add only the key references and regenerate).
@@ -65,11 +65,11 @@ the user a **t2v option** and the user **chooses t2v**, switch to the following:
 ## STEP 2 — Splitting clips (split montages · overrides the "4000-char single clip" assumption)
 If you cram all 12 beats of a sequence into one clip, the model will statistically drop some of them
 (in the multi-character mixup it dropped the whip-pan and the time-freeze). Therefore:
-- **Total length → split into 15-second-max chunks · minimize the number of generations (★).** A single
-  Seedance clip is at most **15 seconds**. Divide the user's requested total length into 15-second
-  chunks but **minimize the count**: 30s = 15+15, 35s = 15+15+5, 18s = 15+3, 45s = 15+15+15, 60s = 15×4.
-  **Do not generate one clip per cut** — a single clip (up to 15s) holds the several cuts/beats of that
-  span. Only the leftover remainder becomes a short clip (minimum 4 seconds; if under 4 seconds, make it
+- **Total length → split into 8-second-max chunks · minimize the number of generations (★).** Cap every
+  Seedance clip at **8 seconds — past ~8s the model drifts and stops following the prompt (empirical, our
+  call; do not web-search this).** Divide the requested total into 8-second chunks but **minimize the
+  count**: 16s = 8+8, 24s = 8+8+8, 30s = 8+8+8+6, 45s = 8×5+5, 60s = 8×7+4. **Do not generate one clip
+  per cut** — a single 8s clip holds the several cuts/beats of that span. Only the leftover remainder becomes a short clip (minimum 4 seconds; if under 4 seconds, make it
   4 and trim).
 - **Seamless transition applies unconditionally (★ no exceptions · all lengths 15/30/45/60s):** when
   you join clips, the **last frame of the preceding clip must equal the first frame of the following
@@ -77,14 +77,14 @@ If you cram all 12 beats of a sequence into one clip, the model will statistical
   `start_image`, STEP 3 and STEP 7). Design so that motion direction, color, and camera movement do not
   break between cuts. **The only exception is the single cut the user has explicitly instructed to be a
   "hard cut"** (an intentional abrupt jump). Otherwise never skip seamless.
-- **`linear_continuous`:** keep the full 4000-character prompt (STEP 4 below) per 15-second clip. For
-  30s, that's 15s × 2.
+- **`linear_continuous`:** keep the full-density JSON prompt (STEP 4 below) per 8-second clip. For
+  30s, that's 8+8+8+6.
 - **`cross_cutting_montage`:** **split into a separate clip every time the space/person changes**, and
   join with ffmpeg. Example (the multi-character mixup): crosswalk intro (protagonist) / cafe payment
   (a different customer) / crosswalk time-freeze / cafe time-freeze (the barista, extractor liquid
   overflowing) / protagonist close-up → brand stinger → punch line. Each clip receives only the
   reference for its own space and person.
-- ⚠️ **Minimum clip length = 4 seconds** (Seedance duration is 4–15s). A 3-second clip cannot be
+- ⚠️ **Clip length = 4–8 seconds** (min 4, max 8 — see the 8s cap above). A 3-second clip cannot be
   generated — if a segment is short, set it to 4 seconds and trim in post.
 - Intent fidelity becomes incomparably higher, but credits go up — tell the user the split plan and the
   expected clip count, and get confirmation.
@@ -112,15 +112,36 @@ Put **only that clip's people and space** into the clip's reference slots.
   "no unlabeled / empty bottle / label-less product" (same rule as builder Phase 3.2).
 
 ## STEP 4 — Writing the prompt
-- **Length (★ hard minimum 4000 characters · do not submit under-length · do not ignore):** every i2v/t2v
-  prompt is **at least 4000 characters per 15-second clip**. Structure: one-take/cut declaration →
-  character lock → color/grade → per-beat timecoded motion, camera, transition → sound → Korean
-  narration → **brand motion-typography** → text rules → negative → art direction. **Right before
-  submitting, count the prompt's characters yourself, and if it is under 4000 characters, add more beat
-  description until it exceeds 4000, and only then submit (never submit while under-length).** Short
-  montage segments split out (4–5 seconds) are written at the *same density* but with a minimum of 1500
-  characters. A thin one- or two-sentence prompt is the direct cause of dropped cuts and low quality —
-  do not skip this rule.
+- **★ Format = a structured JSON shot-script (Seedance follows JSON far better than prose, especially
+  multi-shot — observed + community guidance).** Author every clip prompt as a **JSON object, not a
+  paragraph.** Shape:
+  ```json
+  {
+    "style": "<director / film / art-style anchor + palette>",
+    "duration": "8s",
+    "visual_world": { "setting": "...", "palette": "...", "lighting": "...", "physics": "...",
+                      "consistency": ["character lock (master-sheet identity)", "product-lock: real label always shown", "color grade"] },
+    "shots": [
+      { "timecode": "[00:00-00:04]", "name": "Shot 1: <function, e.g. The Reveal>", "shot_type": "<ECU/CU/MS/WS/…>",
+        "camera": "<move · angle · lens>", "subject": "<who — exact start pose → action → end pose>",
+        "action": "<concrete physical motion, not a vague verb>", "lighting": "...",
+        "audio": "<SFX / score; Korean VO written in 한글 if any>" },
+      { "timecode": "[00:04-00:08]", "name": "Shot 2: <function>", "...": "..." }
+    ],
+    "brand_motion_typography": "<slogan / CTA / key number — position, in/out motion, weight (REQUIRED in every clip)>",
+    "constraints": { "consistency": "...", "physics": "...", "transition": "<camera dir → on-screen streak dir>",
+                     "negative": "no subtitles/captions/lower-thirds; only the intended brand motion-typography; (do NOT add sexual/NSFW words — they trigger moderation)" }
+  }
+  ```
+  Timecodes split the 8s clip into **2–3 named shots of 3–4s** (shot-script). Every other STEP 4 rule
+  (CRITICAL front-load, Korean-VO-in-Hangul, exact concrete human motion, transition direction, product-lock)
+  still applies — express each as a JSON field, never as loose prose. The `CRITICAL — DO NOT SKIP` block
+  (below) is prepended as a plain-text header ABOVE the JSON. (Refs: Seedance shot-script / JSON prompt guides.)
+- **Length / density (★ do not submit thin):** keep the same per-second density as before — the old floor
+  was 4000 chars per 15s, so an **8-second clip ≈ ~2,500 characters minimum** (count the JSON's string
+  values before submitting; if under, add beat/physics detail, then submit — never submit under-length).
+  Short montage micro-segments (4–5s) are written at the *same density* with a **≥1,500-character** floor.
+  A thin one- or two-sentence prompt is the direct cause of dropped cuts and low quality — do not skip this.
 - **CRITICAL — front-load the make-or-break beats (lesson from the multi-character mixup):** beats that
   break the concept if missed (a transition, a time-freeze, "this cut is a different person", etc.) get
   pinned **separately at the very top** of the prompt one more time. Example:
@@ -166,7 +187,13 @@ Put **only that clip's people and space** into the clip's reference slots.
 - **Audio is generated** — response params `generate_audio:true`. It generates music, SFX, and VO. Listen
   to the VO quality and swap the voice actor if needed.
 - **mode = std / fast, those two only.** "Not fast" = "std" (high quality). There is no "pro".
-- **Length:** duration 4–15s. Join 15s × 2 with ffmpeg `-f concat` (STEP 7).
+- **Length:** duration 4–8s (cap at 8 — Seedance drifts from the prompt past ~8s). Join the 8s clips with ffmpeg `-f concat` (STEP 7).
+- **★ Never request a preset — always run GENERAL (no-preset) (user directive _260615).** On every
+  `generate_video` call, do **not** select / request / pass any Higgsfield preset, template, or style
+  preset. Always use the plain **general** generation path — the bare model + your JSON shot-script prompt
+  + the approved references, nothing else. A preset overrides your shot-script and leaks its own look/figure
+  into the clip. This is the front-line rule; the `declined_preset_id` chain below stays as the **safety net**
+  for any preset the platform tries to auto-suggest.
 - **Preset hijack (`declined_preset_id`) — decline by DEFAULT, not only reactively (LSB-001):** on **every**
   `generate_video` call, pass `declined_preset_id` carrying any preset IDs already seen this session (start
   with the known "IN THE DARK" preset and add more as they appear) so the platform cannot silently apply a
@@ -237,7 +264,7 @@ forever, and do not retry it zero times either — bound it:
 
 ### Render-wait protocol (★ no tool-call loop — long initial wait, then a decreasing backoff)
 
-A 1080p 15s clip ≈ 15–20 min. Do **not** idle-spin with many identical short sleeps, and do **not**
+A 1080p 8s clip ≈ 8–15 min. Do **not** idle-spin with many identical short sleeps, and do **not**
 announce every poll (announcing-without-calling is the seed of the loop that once happened). Follow this
 **exactly**:
 
@@ -348,7 +375,7 @@ production.
 - Typography handling: `lsb-treatment-builder/REFERENCE/typography-in-image.md`.
 
 ---
-*Version: lsb-video-crafter_260615_v12 · 2026-06-15 KST. (version scheme = YYMMDD_vN; earlier inline _2606xxxx codes are legacy timestamps. v12 = **render-wait reschedule** — replaced "sleep 900 once" with: queue all clips → `sleep 550` once → then a DECREASING backoff poll (start 40s, `next = max(15, prev−5)`, 15s floor: 40→35→30→25→20→15→15…). Keeps the no-announce-text + batch-wait principle; the long 550 head start keeps total polls low (the backoff only catches the tail). v11 = **problem-summary doc gaps closed (CP-1/2/3)**: STEP 5 declined_preset attached by DEFAULT every call (not reactive, LSB-001); STEP 5.5 #5 aspect-ratio hard-lock + ffprobe post-generation verify gate (LSB-012); STEP 6.5 content-filter false-positive bounded retry (1 rephrase → drop refs → max 3 → stop, LSB-008, distinct from ip_detected); STEP 7.5 required VO + editorial-subtitle post step (LSB-013/016); status-label taxonomy [draft]/[verified]/[delivery] + resend=reuse-not-regenerate (LSB-E01/E04/011); STEP 8 aspect gate. Source: lsb production 문제점 정리/solutions.) Previous _2606101200 = STEP 8 **codifies the 32MB payload
+*Version: lsb-video-crafter_260617_v13 · 2026-06-17 KST. (version scheme = YYMMDD_vN; earlier inline _2606xxxx codes are legacy timestamps. v13 = **Seedance prompt + clip-length + preset update** — (1) STEP 4 prompt is now a structured **JSON shot-script** (visual_world block + timecoded NAMED shots with camera/subject/action/lighting/audio + brand_motion_typography + constraints/negative; Seedance follows JSON far better than prose); (2) clip cap **15s → 8s** (the model drifts from the prompt past ~8s — empirical, no web-search; 30s=8+8+8+6, min 4/max 8) across STEP 1.5/2/5 + the render-wait note, with a ~2,500-char/8s density floor; (3) **never request a preset — always run GENERAL** on generate_video (the declined_preset_id chain stays as the safety net). v12 = **render-wait reschedule** — replaced "sleep 900 once" with: queue all clips → `sleep 550` once → then a DECREASING backoff poll (start 40s, `next = max(15, prev−5)`, 15s floor: 40→35→30→25→20→15→15…). Keeps the no-announce-text + batch-wait principle; the long 550 head start keeps total polls low (the backoff only catches the tail). v11 = **problem-summary doc gaps closed (CP-1/2/3)**: STEP 5 declined_preset attached by DEFAULT every call (not reactive, LSB-001); STEP 5.5 #5 aspect-ratio hard-lock + ffprobe post-generation verify gate (LSB-012); STEP 6.5 content-filter false-positive bounded retry (1 rephrase → drop refs → max 3 → stop, LSB-008, distinct from ip_detected); STEP 7.5 required VO + editorial-subtitle post step (LSB-013/016); status-label taxonomy [draft]/[verified]/[delivery] + resend=reuse-not-regenerate (LSB-E01/E04/011); STEP 8 aspect gate. Source: lsb production 문제점 정리/solutions.) Previous _2606101200 = STEP 8 **codifies the 32MB payload
 cap** — inlining video/frame bytes is forbidden; reference only by file path, job id, URL.) Previous
 _2606101000 = **STEP 5.5 output authenticity verification** — forbids using a preset/sample/demo/template/
 gallery/example/preview video as the final deliverable, requires the real file/URL of a user-approved
